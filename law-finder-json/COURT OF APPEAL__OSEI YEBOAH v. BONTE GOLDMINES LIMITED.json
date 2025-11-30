@@ -1,0 +1,79 @@
+{
+  "caseTitle": "YEBOAH v. BONTE GOLDMINES LIMITED",
+  "summary": "This Court of Appeal decision in Osei Yeboah v. Bonte Goldmines Limited (CA No. 82/99, 10 February 2000) centered on a land dispute involving a farmer's claim for trespass and compensation after the mining company destroyed 4,000 teak trees on his land. The trial court dismissed the trespass claim, recognizing the company's legal mining rights under PNDCL 153, but awarded GHS 2.6 million in compensation. On appeal, the key issue was whether the Land Valuation Board had exclusive authority to determine compensation under Section 71 of PNDCL 153. The appellate court held that the statute does not oust judicial jurisdiction, especially where the Board compromised its impartiality by advising the company against paying compensation, thereby rendering it unable to mediate fairly. The court affirmed the trial court's award, emphasizing that natural justice required judicial intervention when statutory mechanisms fail due to bias or procedural breakdown.",
+  "legalKeywords": [
+    "compensation",
+    "trespass",
+    "mining rights",
+    "Land Valuation Board",
+    "PNDCL 153",
+    "natural justice",
+    "ouster clause",
+    "jurisdiction",
+    "statutory interpretation",
+    "judicial review",
+    "agricultural land",
+    "mineral operations",
+    "property rights",
+    "court authority",
+    "procedural fairness",
+    "remedies",
+    "evidence of loss",
+    "government lease",
+    "legal standing",
+    "equitable relief"
+  ],
+  "topics": [
+    "Land Law",
+    "Mining Law",
+    "Administrative Law",
+    "Property Rights",
+    "Judicial Review"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Wood J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Benin J.A.",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Twumasi J.A.",
+      "role": "Panel Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "PNDCL 153 s.50",
+    "PNDCL 153 s.71",
+    "Yanusah v. Habena 1991 GLR 559",
+    "Majolagbe v. Larbi 1959 GLR 211",
+    "Bakuma v. Ekor 1972 1 GRL 133 CA",
+    "Republic v. Military Tribunal Ex Parte Ofosu-Amaah 1973 GLR 227",
+    "Republic v. Special Tribunal Ex-Parte Forson 1980-2 GLR 529"
+  ],
+  "rationaleHighlights": [
+    "Section 71 of PNDCL 153 does not contain clear ouster language and thus does not exclude court jurisdiction.",
+    "The Land Valuation Board lost impartiality by advising the mining company against compensation, breaching natural justice.",
+    "Courts may intervene when statutory compensation mechanisms fail due to bias or procedural unfairness.",
+    "The trial court properly exercised jurisdiction in awarding compensation where agreement was impossible.",
+    "Evidence of teak tree ownership was sufficiently established despite lack of receipts, per Yanusah v. Habena."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from judgment text. Some legal principles are reinforced by cited precedents. Truncation at end does not affect core holdings.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/OSEI YEBOAH v. BONTE GOLDMINES LIMITED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:09:55.762Z",
+    "plainTextLength": 26515
+  },
+  "trialDate": "10TH FEBRUARY, 2000"
+}

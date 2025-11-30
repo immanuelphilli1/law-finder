@@ -1,0 +1,68 @@
+{
+  "caseTitle": "DANIEL A. COBBINA AND YAW DERKYI",
+  "summary": "In this West Africa Court of Appeal decision from 1936, the appellant, Kweku Edusei, successfully appealed the lower court's order rescinding a mortgage executed by plaintiffs Daniel A. Cobbina and Yaw Derkyi. The plaintiffs had sought rectification or rescission of the mortgage on grounds of mistake or fraud, primarily due to the non-disclosure of a $50 sum paid by co-sureties to secure a stay of execution. The lower court found the $50 to be part-payment, justifying rescission. However, the appellate court held that the $50 was a deposit, not payment, based on witness credibility, prior native tribunal findings, and the implausibility of the lower court's interpretation. Consequently, the rescission order was set aside. The court recalculated the balance due from $58 5s. 6d. to $131 8s. 6d., including the deposit and correcting other accounting errors. The plaintiffs were granted six months to redeem the mortgaged cocoa farms by paying the full amount and costs, with the appellant awarded costs in both courts.",
+  "legalKeywords": [
+    "mortgage rescission",
+    "debt recovery",
+    "surety payment",
+    "deposit vs payment",
+    "fraud in mortgage",
+    "rectification of deed",
+    "execution of judgment",
+    "reduction of debt",
+    "native tribunal decision",
+    "appellate review",
+    "stay of execution",
+    "promissory notes",
+    "redemption of property",
+    "accounting of debt",
+    "costs allocation"
+  ],
+  "topics": [
+    "Mortgage Law",
+    "Debt and Suretyship",
+    "Appellate Review",
+    "Fraud and Misrepresentation",
+    "Property Redemption"
+  ],
+  "verdict": "Appeal allowed; mortgage rescission set aside; redemption permitted upon payment of $131 8s. 6d. and costs within six months.",
+  "winningSide": "Defendant-Appellant (Kweku Edusei)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "WACA/3 WACA/DANIEL A. COBBINA AND YAW DERKYI"
+  ],
+  "rationaleHighlights": [
+    "The appellate court rejected the lower court's finding that a £50 payment was part-payment, holding instead it was a deposit to secure a stay of execution.",
+    "The mortgage was not rescinded because the non-disclosure of the deposit did not constitute fraud or mistake justifying rescission.",
+    "The appellate court relied on a native tribunal's prior ruling and credibility assessment to determine the nature of the £50 transaction.",
+    "The balance due was recalculated from £58 5s. 6d. to £131 8s. 6d. by including the deposit and correcting payment discrepancies.",
+    "Redemption of mortgaged cocoa farms was permitted upon full payment within six months."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment and order. Discrepancies in findings between lower court and appellate court are clearly articulated.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/DANIEL A. COBBINA AND YAW DERKYI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:25:51.220Z",
+    "plainTextLength": 11364
+  },
+  "trialDate": "1936-12-16"
+}

@@ -1,0 +1,89 @@
+{
+  "caseTitle": "BOGOSO GOLD LIMITED ]",
+  "summary": "The Supreme Court of Ghana upheld the lower courts' finding that Bogoso Gold Limited was liable for damage to the cocoa farms of the plaintiffs, the Estate of Joseph Ntrakwa, through the emission of noxious fumes from its plant. The Court determined the cause of action was rooted in nuisance rather than negligence, as the emissions constituted an unlawful interference with the plaintiffs' enjoyment of their land. It rejected the defendant's late-raised limitation defense under section 3(1) of the Limitation Act, NRCD 54, ruling it should have been pleaded earlier and that the tort was of a continuing nature. The Court found the plaintiffs had discharged their evidential burden by showing a decline in cocoa harvest following the plant's installation and credible inspection findings, while the defendant failed to provide convincing evidence to rebut causation. The award of damages for past and future loss of farm income was affirmed as reasonable and appropriate, given the nature of the losses, which could not be precisely calculated. The appeal was accordingly dismissed.",
+  "legalKeywords": [
+    "nuisance",
+    "negligence",
+    "causation",
+    "evidence",
+    "limitation act",
+    "damages",
+    "preponderance of probabilities",
+    "cocoa farms",
+    "noxious fumes",
+    "emissions",
+    "statute of limitations",
+    "continuing tort",
+    "general damages",
+    "special damages",
+    "burden of proof",
+    "inspection report",
+    "property damage",
+    "right to enjoyment of land",
+    "wrongful act",
+    "liability"
+  ],
+  "topics": [
+    "Tort Law",
+    "Environmental Damage",
+    "Property Rights",
+    "Civil Procedure",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed; liability for nuisance upheld; damages award confirmed.",
+  "winningSide": "Plaintiffs/Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "GBADEGBE, JSC",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "BROBBEY, JSC",
+      "role": "Presiding"
+    },
+    {
+      "name": "ANSAH, JSC",
+      "role": "Member of Bench"
+    },
+    {
+      "name": "YEBOAH, JSC",
+      "role": "Member of Bench"
+    },
+    {
+      "name": "ARYEETEY, JSC",
+      "role": "Member of Bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WILBY v HENMAN (1834) 2 Cr & M 658",
+    "RICHES v DIRECTOR OF PUBLIC PROSECUTIONS [1973] 2 All ER 935",
+    "DUKE OF BRUNSWICK AND LUNEBERG v HARMER (1849) 14 QB 185",
+    "SARKODIE v F. K.A Co Ltd [2009] SCGLR 65",
+    "CUNRAD v ANTIFYRE, LTD [1932] All E.R. Rep. 558 at 560; [1933] 1 K.B. 551 at 557",
+    "Halsbury’s Laws of England, Volume 12 (Fourth Edition), paragraph 1114 at page 417"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court upheld liability based on nuisance, not negligence, due to unlawful interference with plaintiffs' enjoyment of land.",
+    "Defendant's voluntary removal of the plant after farmer protests supported inference of causation.",
+    "Limitation Act did not apply because the tort was of a continuing nature.",
+    "Scientific evidence and crop failure post-emissions supported plaintiffs' claims.",
+    "Damages for loss of farm income were properly awarded as they were at large and not strictly nominal.",
+    "Defendant failed to provide credible counterevidence to disprove causation.",
+    "Pleading requirement for limitation defense was not met, so it was not considered.",
+    "Court emphasized preponderance of probabilities standard in civil cases."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy due to direct extraction from official Supreme Court judgment text. All key elements (parties, court, legal reasoning, verdict) are explicitly stated in the source.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/BOGOSO GOLD LIMITED ].htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:51:38.277Z",
+    "plainTextLength": 21463
+  },
+  "trialDate": "2010-02-04"
+}

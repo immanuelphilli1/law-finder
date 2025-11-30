@@ -1,0 +1,64 @@
+{
+  "caseTitle": "REX v OBI BEKUM AND THREE OTHERS",
+  "summary": "The West Africa Court of Appeal allowed the appeal of Obi Bekum, quashing his conviction for the murder of an unknown Munchi man. The trial was found fundamentally flawed due to the improper joinder of three murder charges, including two identical counts for murdering 'an unknown Munchi man,' which violated Nigeria's Criminal Procedure Ordinance that prohibits joining any other charge with a murder charge. This joinder created confusion and prejudiced the defense, as it was unclear which victim the appellant was convicted of murdering. Additionally, the court found no sufficient corroboration of the accomplice witness's testimony regarding the deaths of the two Munchi men. The trial judge incorrectly relied on vague statements and misattributed evidence of one body to confirm the death of another, unsupported by direct or circumstantial proof of the Munchi men's deaths. Both grounds independently warranted overturning the conviction.",
+  "legalKeywords": [
+    "murder charge joinder",
+    "corroboration of accomplice",
+    "corpus delicti",
+    "statutory prohibition",
+    "trial irregularity",
+    "prejudice to defense",
+    "evidence of death",
+    "identical charges",
+    "appellate review",
+    "criminal procedure"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Procedural Fairness"
+  ],
+  "verdict": "Appeal allowed, conviction quashed",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Baker",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Nigeria"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "R. v. Jones, 13 C.A.R. 86; 1918 2 K.B. 416",
+    "R. v. Davis, 26 C.A.R. 95",
+    "Halsbury 2nd Edition Volume 9 paragraph 768"
+  ],
+  "rationaleHighlights": [
+    "The joinder of multiple murder charges, especially two identical ones for killing 'an unknown Munchi man,' violated statutory procedure and prejudiced the defense.",
+    "Nigerian law strictly prohibits joining any charge with a murder charge, making the trial irregular and conviction invalid.",
+    "No reliable corroboration existed for the accomplice’s testimony regarding the deaths of the Munchi men.",
+    "The trial judge mistakenly treated evidence of one body (Agbora Atam) as proof of another’s death (Munchi men), showing confusion caused by joinder.",
+    "The unsworn statement of a child witness was properly disregarded, leaving no sworn evidence of the victims’ deaths."
+  ],
+  "confidenceNotes": "High confidence; details are clearly drawn from the judgment text, including statutory references, procedural errors, and evidentiary deficiencies. Jurisdiction is correctly identified as Nigeria under the West Africa Court of Appeal, despite the source's Ghana Law Finder context.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/REX v  OBI BEKUM AND THREE OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:28:55.746Z",
+    "plainTextLength": 12884
+  },
+  "trialDate": "1941-01-25"
+}

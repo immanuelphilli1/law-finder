@@ -1,0 +1,66 @@
+{
+  "caseTitle": "2 COMPTROLLER OF CUSTOMS v MICHAEL NTIERO EFFIOM",
+  "summary": "This 1941 West Africa Court of Appeal decision involved Michael Ntiero Effiom, who was convicted by the High Court at Buea on three charges: smuggling twelve tierces of tobacco, possession of a prohibited import (an automatic pistol), and possession of twenty rounds of pistol ammunition. The Appellant's convictions were appealed to the West Africa Court of Appeal, where the Crown's counsel conceded inability to support any of the convictions. The appellate court found no evidence of actual or attempted smuggling for the first charge, and ruled that the second and third charges—related to prohibited imports—should have been struck out due to legal deficiencies previously highlighted in a stated case. Consequently, the court allowed the appeal, quashed all convictions, annulled sentences and forfeiture orders, and directed that judgments of acquittal be entered on all charges.",
+  "legalKeywords": [
+    "smuggling",
+    "prohibited imports",
+    "Customs Ordinance",
+    "evidence sufficiency",
+    "conviction quashed",
+    "forfeiture",
+    "appeal allowed",
+    "acquittal",
+    "lack of evidence",
+    "sentence annulled",
+    "West Africa Court of Appeal",
+    "judicial review"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Customs Law",
+    "Appellate Procedure",
+    "Evidence Law"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Customs Ordinance, Cap. 130, sec. 221(1)(a)",
+    "Customs Ordinance, Cap. 130, sec. 223(1)(a)",
+    "Customs Ordinance, Cap. 130, sec. 231"
+  ],
+  "rationaleHighlights": [
+    "No evidence was presented of actual or attempted smuggling.",
+    "Charges for possession of prohibited imports should have been struck out due to legal defects.",
+    "The Crown did not oppose the appeal, acknowledging weaknesses in the case.",
+    "Appellate court upheld prior reasoning in a stated case regarding similar charges.",
+    "All penalties, sentences, and forfeiture orders were annulled."
+  ],
+  "confidenceNotes": "High confidence; details are clearly stated in the judgment, including charges, legal provisions, and appellate reasoning. Jurisdictional context is historical (colonial West Africa Court of Appeal with jurisdiction over Gold Coast, now Ghana).",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/2 COMPTROLLER OF CUSTOMS  v  MICHAEL NTIERO EFFIOM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:38:17.601Z",
+    "plainTextLength": 4440
+  },
+  "trialDate": "1941-05-01"
+}

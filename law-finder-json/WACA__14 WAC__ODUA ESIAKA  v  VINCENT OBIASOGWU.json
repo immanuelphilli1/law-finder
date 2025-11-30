@@ -1,0 +1,73 @@
+{
+  "caseTitle": "ODUA ESIAKA v VINCENT OBIASOGWU",
+  "summary": "The appellants, representing the people of Ogwu-Aniocha, claimed title to land known as ENUIGBO, including areas EYINGA and OGBUM, based on historical use, rental receipts, and a 1928 pledge to Chief Onyeama. The respondents, representing Amamputu-Uli, asserted ancestral ownership and argued that a 1939 inquiry under the Inter-Tribal Boundaries Settlement Ordinance had conclusively settled the boundary. That inquiry, conducted by Assistant District Officer Mr. Beaumont, arose after both parties withdrew Native Court actions. The trial judge found Chief Onyeama was representing the Ogwu-Aniocha people, whose chief, Okereke, testified and delineated the claimed boundaries. The appellants contended the settlement was between an individual (the pledgee) and a tribe, not inter-tribal. The Court of Appeal rejected this, holding that by supporting Onyeama’s claim and participating in the inquiry, the Ogwu-Aniocha people were bound by the outcome, either as parties or by estoppel through acquiescence. The appeal was dismissed.",
+  "legalKeywords": [
+    "inter-tribal boundaries",
+    "boundary settlement",
+    "estoppel",
+    "native court",
+    "pledgee",
+    "title to land",
+    "acquiescence",
+    "tribal representation",
+    "administrative inquiry",
+    "conclusive settlement",
+    "abandonment of action",
+    "presumed authorization",
+    "ancestral property",
+    "farming licence",
+    "rent payment"
+  ],
+  "topics": [
+    "land law",
+    "tribal boundaries",
+    "estoppel",
+    "administrative law",
+    "property rights"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondents (Amamputu-Uli)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey, J.A.",
+      "role": "deciding judge"
+    },
+    {
+      "name": "Foster-Sutton, P.",
+      "role": "presiding officer"
+    },
+    {
+      "name": "Verity, C.J.",
+      "role": "chief justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "Roden v. London Small Arms Co., 46 L.J., Q.E.D., 213",
+    "Re Lart, Wilkinson v. Blades, 1896, 2 Ch. 788",
+    "Farquharson v. Seton, 5 Russ., 45"
+  ],
+  "rationaleHighlights": [
+    "Settlement under Inter-Tribal Boundaries Settlement Ordinance binding on tribe even if represented by pledgee",
+    "Tribe's participation through representative constitutes party status",
+    "Acquiescence in proceedings estops later challenge",
+    "Title of pledgee identical to plaintiffs' title",
+    "Tribe benefited if claim succeeded, thus bound if it failed",
+    "Native Court actions withdrawn to allow administrative inquiry",
+    "Chief's testimony confirmed tribal involvement",
+    "Boundary decision confirmed by Senior Resident"
+  ],
+  "confidenceNotes": "High confidence in factual extraction; all key details (parties, jurisdiction, legal reasoning) are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/ODUA ESIAKA  v  VINCENT OBIASOGWU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:33:38.409Z",
+    "plainTextLength": 13327
+  },
+  "trialDate": "1952-10-07"
+}

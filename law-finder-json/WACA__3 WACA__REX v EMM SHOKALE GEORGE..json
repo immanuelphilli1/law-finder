@@ -1,0 +1,66 @@
+{
+  "caseTitle": "REX v EMM SHOKALE GEORGE.",
+  "summary": "The appellant, Emanuel Shokale George, was convicted for attempting to procure the forgery of currency notes under Section 8A of the West African Currency Notes Ordinance. The prosecution relied on a letter (Exhibit A) posted from Shagamu, Nigeria, addressed to a U.S. firm, requesting the purchase of a fraction of currency notes with a British postal order, and a copy of the letter (Exhibit B) found at the appellant's house, with expert testimony confirming both were identical. The defense argued there was no case to answer, claiming the letter was merely an enquiry and that proof of receipt was required to establish attempt. The trial court and the West African Court of Appeal rejected these arguments, holding that posting alone suffices for an attempt and that 'currency notes' in the Nigerian context refers to West African currency notes. The appeal was dismissed.",
+  "legalKeywords": [
+    "attempt to procure",
+    "forgery",
+    "currency notes",
+    "section 8A",
+    "West African Currency Notes Ordinance",
+    "proof of posting",
+    "criminal attempt",
+    "solicitation of crime",
+    "handwriting evidence",
+    "appellate review",
+    "statutory interpretation"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Forgery",
+    "Appellate Procedure",
+    "Statutory Interpretation",
+    "Evidence Law"
+  ],
+  "verdict": "Appeal dismissed; conviction upheld.",
+  "winningSide": "State (Rex)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "KINGDON",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "PETRIDES",
+      "role": "Justice"
+    },
+    {
+      "name": "WEBBER",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Banks, 12 Cox. 393",
+    "R. v. Ransford, 13 Cox. 9",
+    "R. v. Cope, 16 Cr. App. R. 77"
+  ],
+  "rationaleHighlights": [
+    "Mere posting of a letter soliciting forgery constitutes criminal attempt, regardless of receipt.",
+    "The term 'currency notes' is interpreted contextually to mean West African currency notes in Nigeria.",
+    "A letter requesting purchase of currency notes with a postal order supports inference of intent to forge.",
+    "Expert handwriting evidence linked the accused to the incriminating letter.",
+    "An enquiry framed as a transactional request can constitute an attempt under the law."
+  ],
+  "confidenceNotes": "The judgment relies on clear precedent regarding attempt via mailed solicitation and statutory interpretation of 'currency notes' in context. High confidence in accuracy.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/REX v EMM SHOKALE GEORGE..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:12:37.055Z",
+    "plainTextLength": 3990
+  },
+  "trialDate": "1936-04-16"
+}

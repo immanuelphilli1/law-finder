@@ -1,0 +1,82 @@
+{
+  "caseTitle": "MISCELLANY-AT-LAW THE LATE MRS. JUSTICE CECILIA KORANTENG-AD",
+  "summary": "The 1982 abduction and murder of three Ghanaian High Court judges—Mrs. Cecilia Koranteng-Addow, Mr. Justice Fred Poku Sarkodie, and Mr. Justice Kwadwo Agyei Agyepong—and retired army officer Major Sam Acquah shocked the nation and halted judicial operations temporarily. The Provisional National Defence Council (P.N.D.C.), led by Flt.-Lt. J. J. Rawlings, condemned the acts and established the Special Investigations Board (S.I.B.) under Justice Azu Crabbe to investigate. The S.I.B. report implicated ten individuals, including Captain Kojo Tsikata (Rtd.), Sgt. Alolga Akata-Pore, and Joachim Amartey Kwei in the conspiracy. However, the Attorney-General only prosecuted five, citing insufficient evidence against the other five. Five individuals were tried before a public tribunal: Joachim Amartey Kwei, L./Cpl. Michael Senya, Johnny Dzandu, Tonny Tekpor, and S.K. Amedeka. All were convicted and sentenced to death by firing squad; some were executed in August 1983. The case triggered national and international condemnation and raised serious concerns about judicial independence, rule of law, and state accountability during Ghana’s revolutionary period.",
+  "legalKeywords": [
+    "judicial independence",
+    "rule of law",
+    "extrajudicial killing",
+    "state accountability",
+    "public tribunal",
+    "coroner's inquest",
+    "criminal conspiracy",
+    "judicial martyrdom",
+    "due process",
+    "military regime",
+    "legal profession ethics",
+    "tribunal jurisdiction",
+    "criminal prosecution",
+    "state security",
+    "judicial integrity"
+  ],
+  "topics": [
+    "Judicial Assassination",
+    "Rule of Law Under Military Rule",
+    "Public Inquiry and Accountability",
+    "Legal Profession in Crisis"
+  ],
+  "verdict": "Five individuals were found guilty of conspiracy to commit murder and murder by a public tribunal under P.N.D.C. Law 24; all were sentenced to death by firing squad. Three were executed in August 1983. The Attorney-General declined to prosecute five others named in the S.I.B. report due to insufficient evidence.",
+  "winningSide": "The state, through the P.N.D.C. public tribunal, secured convictions and carried out executions, representing a state-led resolution despite limited accountability for higher-level suspects.",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Azu Crabbe",
+      "role": "Chairman, Special Investigations Board"
+    },
+    {
+      "name": "F. K. Apaloo",
+      "role": "Chief Justice of Ghana"
+    },
+    {
+      "name": "Cecilia Koranteng-Addow",
+      "role": "High Court Judge, victim"
+    },
+    {
+      "name": "Fred Poku Sarkodie",
+      "role": "High Court Judge, victim"
+    },
+    {
+      "name": "Kwadwo Agyei Agyepong",
+      "role": "High Court Judge, victim"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Public Tribunal under P.N.D.C. Law 24",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Special Investigations Board (Kidnapping and Killing of Specified Persons) Law, 1982 (P.N.D.C.L. 15)",
+    "Public Tribunals Law, 1982 (P.N.D.C.L. 24)",
+    "Ghana Bar Association Statement, 5 July 1982",
+    "S.I.B. Final Report, Paragraphs 120 and 340",
+    "Radio/TV Address by Flt.-Lt. J. J. Rawlings, 4 July 1982"
+  ],
+  "rationaleHighlights": [
+    "The S.I.B. found no evidence implicating Flt.-Lt. J. J. Rawlings in foreknowledge of the murders.",
+    "Adverse findings were made against ten individuals, including high-ranking military and P.N.D.C. figures.",
+    "The Attorney-General declined prosecution of five due to insufficient evidence, highlighting evidentiary and political challenges.",
+    "Public tribunals were used instead of regular courts, raising due process concerns.",
+    "The Ghana Bar Association declared a two-week mourning period and boycotted courts, underscoring institutional crisis.",
+    "The murders were seen as an attack on judicial independence and the rule of law.",
+    "National and international condemnation emphasized the gravity of the crimes.",
+    "The victims were praised for integrity, dedication, and service to justice."
+  ],
+  "confidenceNotes": "High confidence in factual content derived from primary source documentation including official statements, tribunal outcomes, and the S.I.B. report. Some details about unprosecuted suspects remain contested due to political context of the P.N.D.C. era.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2013/MISCELLANY-AT-LAW THE LATE MRS. JUSTICE CECILIA KORANTENG-AD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:29:27.145Z",
+    "plainTextLength": 96896
+  },
+  "trialDate": "1982-07-04"
+}

@@ -1,0 +1,107 @@
+{
+  "caseTitle": "TSATSU TSIKATA v. ATTORNEY-GENERA",
+  "summary": "The Supreme Court of Ghana, in a 5:4 decision on 28 February 2002, ruled in favor of Tsatsu Tsikata by declaring that the Fast Track Court, as used for criminal trials, lacked constitutional foundation under the 1992 Constitution. The Court issued declarations that the oral demand to appear before such a court, and the criminal summons issued by a Justice of Appeal, were unconstitutional and void, violating Articles 1(i), 125, and 126. An injunction was granted to restrain the Attorney-General from proceeding with the trial. The Attorney-General applied for a review on grounds of exceptional circumstances and alleged miscarriage of justice, citing inconsistency with a prior decision in Republic v. Selormey. The Court dismissed the review application, holding that no exceptional circumstances existed justifying a departure from its prior judgment, and emphasized that constitutional interpretation must prevail over administrative convenience.",
+  "legalKeywords": [
+    "Fast Track Court",
+    "constitutional jurisdiction",
+    "judicial review",
+    "separation of powers",
+    "Article 139(3) of the 1992 Constitution",
+    "Rule 54 of Supreme Court Rules 1996",
+    "miscarriage of justice",
+    "per incuriam",
+    "injunction",
+    "unconstitutionality",
+    "declaratory relief",
+    "review jurisdiction",
+    "Criminal procedure",
+    "judicial authority",
+    "constitutional interpretation"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Judicial Review",
+    "Separation of Powers"
+  ],
+  "verdict": "The Supreme Court dismissed the Attorney-General's application for review and upheld its prior 5:4 decision in favor of Tsatsu Tsikata, affirming that the Fast Track High Court lacked constitutional authority to try criminal cases.",
+  "winningSide": "Tsatsu Tsikata (Respondent)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Edward Wiredu",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "J.A. Bamford-Addo",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "A.K.B. Ampiah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "F.Y. Kpegah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "E.D.K. Adjahbeng",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "G.K. Acquah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "W.A. Atuguba",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "S.A.B. Akuffo",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "G.L. Lamptey",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "T.K. Adzoe",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "D.K. Afreh",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Review / Judicial Review",
+  "citations": [
+    "Republic v. Selormey",
+    "Republic v. High Court, Accra, ex parte Attorney-General (1998-99) SC GLR 595",
+    "Fosuhene v. Pomaa (1987-88) 2 GLR 105 SC",
+    "Nasali v. Addy (1987-88) 2 GLR 286",
+    "Mechanical Lloyd Assembly Plant v. Nartey (1987-88) 2 GLR 598",
+    "Royal Dutch Airlines (KLM) v. Farmex Ltd (1989-90) 2 GLR 682",
+    "Pianim v. Ekwam (1996-97) SC GLR 431"
+  ],
+  "rationaleHighlights": [
+    "The Fast Track Court was not established by an Act of Parliament or constitutional instrument, thus lacking constitutional legitimacy under Article 139(3).",
+    "The criminal summons issued in the President’s name by a Justice of Appeal violated Articles 1(i) and 125(i) of the Constitution.",
+    "A narrow majority does not constitute exceptional circumstances warranting review.",
+    "The Supreme Court’s role is to uphold the Constitution, not administrative efficiency.",
+    "The decision in Republic v. Selormey did not address the constitutionality of the Fast Track Court and thus created no inconsistency.",
+    "Review under Rule 54(a) requires exceptional circumstances leading to miscarriage of justice, which were not demonstrated.",
+    "A decision given per incuriam applies only when a court overlooks binding legal authority, which was not the case here.",
+    "The judiciary must maintain certainty in constitutional interpretation."
+  ],
+  "confidenceNotes": "High confidence based on direct textual evidence from the ruling, consistent citation of constitutional provisions and case law, and clear identification of parties, judges, and legal reasoning. The case is a reported Supreme Court decision with well-documented procedural history.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2001A/TSATSU TSIKATA v. ATTORNEY-GENERA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:41:11.504Z",
+    "plainTextLength": 283896
+  },
+  "trialDate": "26TH JUNE, 2002"
+}

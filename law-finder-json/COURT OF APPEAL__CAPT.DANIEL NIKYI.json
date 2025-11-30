@@ -1,0 +1,77 @@
+{
+  "caseTitle": "CAPT.DANIEL NIKYI",
+  "summary": "This is a criminal appeal before the Ghana Court of Appeal concerning Capt. Daniel Nikyi, who sought an extension of time to apply for leave to appeal an interlocutory ruling that a prima facie case had been established against him, requiring him to enter his defence. The Republic opposed the application, arguing that the right of appeal had not accrued under the Armed Forces Act and related regulations, which prescribe a 90-day window to petition the commanding officer after conviction. The court held that interlocutory rulings, such as the finding of a prima facie case, are not independently appealable; instead, any challenge must be raised as a ground in an appeal against the final conviction. Citing legal authority, the court emphasized that a prima facie case is not equivalent to proof of guilt and that wrongful rejection of a 'no case to answer' submission may constitute an error of law, particularly where no evidence exists to support the case at that stage. The court dismissed the application, ruling that the proper course is to appeal the final conviction and include the alleged error as a ground of appeal.",
+  "legalKeywords": [
+    "prima facie case",
+    "no case to answer",
+    "interlocutory ruling",
+    "right of appeal",
+    "Court Martial",
+    "extension of time",
+    "leave to appeal",
+    "criminal procedure",
+    "appellate jurisdiction",
+    "Armed Forces Act",
+    "Rules of Court",
+    "petition for appeal",
+    "evidence",
+    "conviction",
+    "judicial reasoning"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appeal Procedure",
+    "Military Law",
+    "Evidence",
+    "Interlocutory Orders"
+  ],
+  "verdict": "The preliminary objection was upheld and the application for extension of time to apply for leave to appeal was dismissed.",
+  "winningSide": "The Republic",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Abodakpi, JA",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Quaye, JA",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Aryene (Mrs), JA",
+      "role": "member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal appeal",
+  "citations": [
+    "SHER SINGH VRS JITENDRAHATH SEN [1931] 1 LR calc. 275",
+    "R.V. OSABUE MAASEYO [1957] 3 WALR 180",
+    "section 90 of the Armed Forces Act",
+    "Regulation 4 of the Armed Forces [Court Martial Appeal Court] Regulations",
+    "Regulation 4(1) of the Rules of Court (Court Martial Appeal Court)",
+    "section 173 of the Criminal Procedure Code, Act 30/60 (as amended)",
+    "Courts Act, Act 459/93 as amended"
+  ],
+  "rationaleHighlights": [
+    "An interlocutory ruling on a prima facie case does not trigger an immediate right of appeal; leave is required.",
+    "Prima facie case is not equivalent to proof of guilt but a threshold for requiring a defence.",
+    "Where no evidence exists at the no-case-to-answer stage, rejecting the submission constitutes an error of law.",
+    "Subsequent evidence should not cure a fundamental legal error in overruling a no-case submission.",
+    "Appeal should be against final conviction, with the erroneous ruling raised as a ground.",
+    "No automatic right of appeal from interlocutory orders under Courts Act, Act 459/93.",
+    "Extension of time and leave to appeal dismissed as futile for interlocutory matters.",
+    "Proper procedure is to file a petition challenging the final conviction."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from the judgment text. All citations, parties, and legal reasoning are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/CAPT.DANIEL NIKYI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:40:51.710Z",
+    "plainTextLength": 7107
+  },
+  "trialDate": "2010-01-28"
+}

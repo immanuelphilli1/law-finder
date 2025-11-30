@@ -1,0 +1,58 @@
+{
+  "caseTitle": "COMMISSIONER OF POLICE VERSUS OWUSU",
+  "summary": "The High Court of Ghana, Eastern Judicial Division, heard an appeal from fifteen individuals convicted by a Magistrate of assault and unlawful detention. The appellants raised several grounds, including the improper use of a statement by one accused against all, denial of cross-examination on the circumstances of that statement, refusal to disclose prosecution documents used to refresh memory, wrongful treatment of witnesses as hostile, improper character questioning, and defective charges. Ollennu J. held that a statement by an accused to police is not evidence against co-accused, and the trial magistrate erred in relying on it. The denial of the right to cross-examine on how the statement was obtained deprived the accused of a fair opportunity to challenge its weight, necessitating the quashing of the fourteenth accused's conviction. While the defence has broad rights, there is no absolute entitlement to all documents used to refresh a witness's memory, especially when the content was read in court and not challenged. The court affirmed that conviction is permissible if the offence is proven against any of the named complainants, even if not all. The appeal of the twelfth accused succeeded because improper character evidence may have influenced the magistrate, despite the strong case. Finally, treating a prosecution witness as hostile effectively nullifies their testimony.",
+  "legalKeywords": [
+    "accomplice evidence",
+    "corroboration",
+    "confession",
+    "cross-examination",
+    "evidence admissibility",
+    "hostile witness",
+    "memory refreshment",
+    "character evidence",
+    "joint trial",
+    "conviction on partial evidence"
+  ],
+  "topics": [
+    "Evidence Law",
+    "Criminal Procedure",
+    "Appellate Review",
+    "Witness Credibility",
+    "Confession Admissibility"
+  ],
+  "verdict": "Appeal allowed in part: conviction of the fourteenth and twelfth accused quashed; convictions of others upheld.",
+  "winningSide": "Appellants (in part)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Adebowale and Others (1941) 7 W.A.C.A. 142",
+    "R. v. Murray [1951] 1 K.B. 391",
+    "R. v. Harris (1927) 20 Cr.App.R. 144",
+    "Stirland v. D.P.P. [1944] A.C. 315"
+  ],
+  "rationaleHighlights": [
+    "Statement by one accused not admissible against co-accused",
+    "Right to cross-examine on circumstances of confession even if admissible",
+    "No absolute right to inspect documents used to refresh memory",
+    "Conviction can stand if offence proven against some named complainants",
+    "Treating a witness as hostile renders their evidence nugatory",
+    "Wrongful character cross-examination may vitiate conviction if prejudicial"
+  ],
+  "confidenceNotes": "High confidence in extraction; all key elements (jurisdiction, judges, legal principles) are explicitly stated in the document. Some peripheral details (e.g., full list of appellants) are truncated but not required for core analysis.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/COMMISSIONER OF POLICE v. OWUSU AND OTHERS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:06:35.931Z",
+    "plainTextLength": 22779
+  }
+}

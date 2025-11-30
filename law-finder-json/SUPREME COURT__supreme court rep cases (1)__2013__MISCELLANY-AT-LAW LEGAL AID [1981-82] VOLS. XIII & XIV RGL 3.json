@@ -1,0 +1,57 @@
+{
+  "caseTitle": "MISCELLANY-AT-LAW LEGAL AID [1981-82] VOLS. XIII & XIV RGL 3",
+  "summary": "The document discusses the importance of legal aid for indigent and illiterate persons in Ghana, emphasizing the underutilization of Section 110(2) of the Courts Act, 1971 (Act 372), which allows Circuit and District Courts to assign legal representation with the Chief Justice's approval when it serves the interests of justice. The author commends Taylor J. (as he then was) for invoking this provision in Kpekobo v. The Republic (unreported, 14 August 1979, High Court, Bolgatanga), highlighting the judiciary's role in preventing injustice. The second part honors Mr. E. Kofi Tetteh’s retirement as Editor of the Ghana Law Reports, recognizing his pivotal role in establishing the independent Council for Law Reporting under Act 366 (1971) and N.R.C.D. 64 (1972), improving law reporting standards, staff training, and publication regularity.",
+  "legalKeywords": [
+    "legal aid",
+    "indigent litigants",
+    "Courts Act 1971",
+    "Section 110(2)",
+    "right to fair trial",
+    "access to justice",
+    "law reporting",
+    "independent judiciary",
+    "procedural fairness",
+    "constitutional rights"
+  ],
+  "topics": [
+    "Legal Aid",
+    "Judicial Reform",
+    "Law Reporting",
+    "Judicial Administration",
+    "Retirement of Legal Officer"
+  ],
+  "verdict": "N/A",
+  "winningSide": "N/A",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Taylor J.",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Legal Commentary / Miscellany-at-Law",
+  "citations": [
+    "Courts Act, 1971 (Act 372), s. 110(2)",
+    "Kpekobo v. The Republic (unreported, High Court, Bolgatanga, 14 August 1979)",
+    "Council for Law Reporting Act, 1971 (Act 366)",
+    "Council for Law Reporting Decree, 1972 (N.R.C.D. 64)"
+  ],
+  "rationaleHighlights": [
+    "Legal aid is essential to safeguard citizens' liberty, especially for indigent and illiterate accused persons facing serious charges.",
+    "Section 110(2) of Act 372 provides a statutory basis for assigning legal aid in lower courts.",
+    "Judges should proactively invoke legal aid provisions to prevent injustice.",
+    "Mr. E. Kofi Tetteh was instrumental in establishing an independent Council for Law Reporting.",
+    "The independence of the Council improved law reporting quality, training, and operational efficiency."
+  ],
+  "confidenceNotes": "The document is a legal commentary rather than a judicial decision; thus, verdict and winning side are not applicable. Information on Kpekobo v. The Republic is limited to an unreported case citation. All other details are drawn directly from the text with high confidence.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2013/MISCELLANY-AT-LAW LEGAL AID [1981-82] VOLS. XIII & XIV RGL 3.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:31:03.937Z",
+    "plainTextLength": 6333
+  }
+}

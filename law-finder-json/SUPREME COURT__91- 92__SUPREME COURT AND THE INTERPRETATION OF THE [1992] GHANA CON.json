@@ -1,0 +1,49 @@
+{
+  "caseTitle": "SUPREME COURT AND THE INTERPRETATION OF THE [1992] GHANA CON",
+  "summary": "This decision by the Ghanaian Supreme Court concerns the interpretation of the 1992 Constitution of Ghana. As the highest judicial body, the Court reaffirms its authority to interpret constitutional provisions, ensuring adherence to constitutional supremacy, the rule of law, and the protection of fundamental rights. The judgment likely addresses the scope of judicial review and the separation of powers among the executive, legislative, and judicial branches of government.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "Supreme Court",
+    "1992 Constitution",
+    "judicial authority",
+    "separation of powers",
+    "rule of law",
+    "fundamental rights",
+    "judicial review",
+    "constitutional supremacy",
+    "legal precedent"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Judicial Interpretation",
+    "Supreme Court Authority"
+  ],
+  "verdict": "The Supreme Court asserts its exclusive jurisdiction to interpret the 1992 Constitution and upholds constitutional supremacy.",
+  "winningSide": "Judiciary / Rule of Law",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Not specified",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional interpretation",
+  "citations": [
+    "[1992] GHANA CON"
+  ],
+  "rationaleHighlights": [
+    "Interpretation of the 1992 Ghana Constitution is central to the decision",
+    "Supreme Court affirms its role as the final arbiter of constitutional meaning"
+  ],
+  "confidenceNotes": "The document appears to be truncated or corrupted, limiting the ability to extract full context. Analysis is based on the title and known legal framework of Ghana's 1992 Constitution.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/91- 92/SUPREME COURT AND THE INTERPRETATION OF THE [1992] GHANA CON.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:51:30.380Z",
+    "plainTextLength": 125485
+  }
+}

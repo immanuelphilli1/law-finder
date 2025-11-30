@@ -1,0 +1,80 @@
+{
+  "caseTitle": "GLADYS MENSAH VRS STEPHEN MENSAH",
+  "summary": "In this 2012 Supreme Court of Ghana decision in Gladys Mensah v. Stephen Mensah, the court upheld the lower courts' rulings that marital property acquired during the subsistence of a customary and statutory marriage should be equitably distributed upon divorce. The petitioner, Gladys Mensah, had contributed significantly to the couple's business ventures, including trading in palm oil, rice, and other goods, while the respondent, Stephen Mensah, worked as an accounts officer. Despite the respondent's claim that the petitioner was a housewife who embezzled funds, the trial court found her testimony more credible, especially given contradictions in the respondent's evidence and that of his witnesses. The Supreme Court affirmed that under Article 22(3)(b) of the 1992 Constitution, jointly acquired assets must be distributed equitably, reinforcing the constitutional principle of gender equality in property rights. The court dismissed the appeal, finding no error in the evaluation of evidence or in the distribution of assets, including those tied to a limited liability company, as the business was funded by joint efforts. The judgment highlighted Parliament's unfulfilled obligation under Article 22(2) to enact specific legislation on spousal property rights.",
+  "legalKeywords": [
+    "marital property",
+    "divorce",
+    "equitable distribution",
+    "customary marriage",
+    "constitutional rights",
+    "property rights",
+    "spousal contribution",
+    "evidence evaluation",
+    "limited liability company",
+    "susu group",
+    "joint acquisition",
+    "gender equality",
+    "fundamental human rights",
+    "Court of Appeal",
+    "trial court findings"
+  ],
+  "topics": [
+    "Family Law",
+    "Constitutional Law",
+    "Property Rights",
+    "Gender Equality",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed; decision of the Court of Appeal and High Court affirmed.",
+  "winningSide": "Petitioner (Gladys Mensah)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Jones Dotse JSC",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Akuffo (Ms) JSC",
+      "role": "Presiding"
+    },
+    {
+      "name": "Date-Bah JSC",
+      "role": "Member"
+    },
+    {
+      "name": "Adinyira (Mrs) JSC",
+      "role": "Member"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs) JSC",
+      "role": "Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Article 22(2), Constitution of Ghana, 1992",
+    "Article 22(3)(a) & (b), Constitution of Ghana, 1992",
+    "Article 33(5), Constitution of Ghana, 1992",
+    "Article 11(1), Constitution of Ghana, 1992",
+    "Evidence Act, 1975 (NRCD 323)"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court upheld the principle of equitable distribution of marital property under Article 22(3)(b) of the 1992 Constitution.",
+    "The trial court's factual findings were affirmed due to credibility assessments favoring the petitioner.",
+    "The Court emphasized that spouses have equal access to jointly acquired property during marriage.",
+    "The appeal was dismissed because the respondent failed to prove that assets were acquired solely through his efforts.",
+    "The Court noted Parliament's failure to pass legislation under Article 22(2) despite constitutional mandate."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment with clear citations and factual consistency.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/GLADYS MENSAH   VRS STEPHEN MENSAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:32:35.709Z",
+    "plainTextLength": 50958
+  },
+  "trialDate": "2011-04-20"
+}

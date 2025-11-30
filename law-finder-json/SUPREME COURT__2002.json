@@ -1,0 +1,47 @@
+{
+  "caseTitle": "FIJAI STOOL v. EFFIA STOOL",
+  "summary": "The document lists unreported cases of the Supreme Court of Ghana from 2002, including civil appeals, constitutional motions, and ex-parte applications. These cases involve various legal issues such as chieftaincy disputes, pension rights, commercial disputes, and judicial review applications. The cases were heard by the Supreme Court and include both appellate and original jurisdiction matters, reflecting the diverse jurisdiction of the court during that period.",
+  "legalKeywords": [
+    "Supreme Court",
+    "unreported cases",
+    "civil appeal",
+    "constitutional motion",
+    "ex-parte application",
+    "judicial review",
+    "chancery matters",
+    "commercial dispute",
+    "chieftaincy dispute",
+    "jurisdiction",
+    "Ghana",
+    "Court of Appeal",
+    "High Court",
+    "pension rights",
+    "original jurisdiction"
+  ],
+  "topics": [
+    "Judicial Proceedings",
+    "Case Law",
+    "Appellate Review",
+    "Constitutional Law",
+    "Commercial Law"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "civil",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "List of Cases",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The document is a table of contents or index of unreported Supreme Court cases from 2002, not a full judgment. Therefore, detailed case outcomes, judges, and legal rationales are not available in this source file.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2002.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T09:55:56.877Z",
+    "plainTextLength": 1221
+  },
+  "trialDate": "2002-07-03"
+}

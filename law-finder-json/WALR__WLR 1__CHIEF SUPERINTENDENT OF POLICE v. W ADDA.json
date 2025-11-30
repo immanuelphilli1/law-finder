@@ -1,0 +1,66 @@
+{
+  "caseTitle": "CHIEF SUPERINTENDENT OF POLICE VERSUS W ADDA",
+  "summary": "The appellant, Francis Omar Wadda, was convicted by a magistrate of theft by a clerk or servant for allegedly stealing 27 bags of groundnuts from his employer, the Gambia Oilseeds Marketing Board. His defence was an alibi, supported by two prosecution witnesses—Edward Mendy and Badou N'Yassi—who testified that he was on a work trek with them on January 18, 1956, the alleged date of the theft. However, the magistrate’s trial notes, the sole record, failed to include this crucial evidence. On appeal, both prosecution and defence counsel agreed the record was incomplete. The High Court held that appellate courts may depart from the trial record in exceptional circumstances, particularly when material evidence is omitted. Citing English authorities, it accepted counsel's statements about the trial proceedings. The court found the conviction unsafe due to the failure to consider the alibi evidence and the lack of clarity on dates and times, which must benefit the accused. The appeal was allowed, the conviction quashed, and the sentence set aside.",
+  "legalKeywords": [
+    "criminal appeal",
+    "trial record inadequacy",
+    "material evidence omission",
+    "alibi defence",
+    "prosecution witnesses",
+    "appellate court powers",
+    "shorthand notes",
+    "record supplementation",
+    "miscarriage of justice",
+    "reasonable doubt",
+    "conviction quashed",
+    "sentence set aside",
+    "Criminal Procedure Code",
+    "conclusive record",
+    "counsel statement"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appeal",
+    "Evidence",
+    "Alibi",
+    "Judicial Review"
+  ],
+  "verdict": "Conviction quashed on appeal due to inadequate trial record and failure to consider material alibi evidence.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Miles J",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court of the Protectorate of the Gambia",
+    "country": "The Gambia"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Rimes (1912) 7 Cr.App.R. 240",
+    "R. v. Elliott (1909) 2 Cr.App.R. 172",
+    "R. v. Moran (1910) 5 Cr.App.R. 219",
+    "R. v. Strickson (1936) 25 Cr.App.R. 206",
+    "R. v. Martin (1927) 20 Cr.App.R. 103"
+  ],
+  "rationaleHighlights": [
+    "Appellate court may go beyond trial record in exceptional circumstances, especially when material evidence is omitted.",
+    "Agreement between both counsel that the record is incomplete allows supplementation from recollections of trial participants.",
+    "Failure to record prosecution witnesses supporting the appellant's alibi constituted a grave deficiency.",
+    "Dates and times were critical due to alibi; prosecution case was unclear and inconsistent.",
+    "Conviction unsafe due to magistrate's failure to consider key conflicting evidence.",
+    "Any ambiguity in timing must benefit the accused in criminal cases.",
+    "Omission of record of amended charge, no-case submission, and rejected evidence further undermined trial fairness.",
+    "Evidence did not establish guilt beyond reasonable doubt."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details are explicitly stated in the judgment. The case originates from The Gambia, not Ghana, despite the source file name.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/CHIEF SUPERINTENDENT OF POLICE v. W ADDA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:12:04.902Z",
+    "plainTextLength": 15095
+  }
+}

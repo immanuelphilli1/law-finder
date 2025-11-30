@@ -1,0 +1,65 @@
+{
+  "caseTitle": "IN THE MATTER OF THE ESTATE OF JAMES TAYLOR, DECEASED",
+  "summary": "The appellant, William Mbole Muambo, was charged summarily on three counts: manslaughter under section 325 of the Criminal Code, committing a reckless and negligent act under section 343(e) of the Criminal Code, and possession of a poisonous or dangerous drug for illegal purposes under section 29 of the Poisons and Pharmacy Ordinance, No. 15/1927. A plea of guilty was recorded on all counts, and sentences were imposed. However, upon review, the West African Court of Appeal found that the appellant did not intend to admit facts constituting guilt, and thus, pleas of 'Not Guilty' should have been entered. As a result, the proceedings following the guilty plea were deemed a nullity. The appeal was allowed, the convictions and sentences were quashed, and acquittals were entered on all counts.",
+  "legalKeywords": [
+    "manslaughter",
+    "reckless and negligent act",
+    "possession of dangerous drugs",
+    "guilty plea",
+    "not guilty plea",
+    "proceedings nullity",
+    "appellate review",
+    "West African Court of Appeal",
+    "Criminal Code",
+    "Poisons and Pharmacy Ordinance"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Plea of Guilty"
+  ],
+  "verdict": "Convictions and sentences quashed; judgment and verdict of acquittal directed for all counts.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "R. v. Baker 7 C.A.R. 217",
+    "R. v. Ingleson 11 C.A.R. 21",
+    "R. v. Hussey 18 C.A.R. 121",
+    "West African Court of Appeal Ordinance, 1933 (No. 47 of 1933), section 11(5)",
+    "West African Court of Appeal Ordinance, 1933, section 10(2)"
+  ],
+  "rationaleHighlights": [
+    "The appellant did not intend to admit facts constituting guilt on any count.",
+    "A plea of 'Not Guilty' should have been entered for each charge.",
+    "Proceedings following an invalid guilty plea are a nullity.",
+    "Court has power to order retrial but declined in light of circumstances.",
+    "Section 10(2) requires entry of acquittal when retrial is not ordered."
+  ],
+  "confidenceNotes": "High confidence; source document is an official court judgment with clear procedural and legal reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/REX v    WILLIAM MBOLE MUAMBO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:29:31.830Z",
+    "plainTextLength": 3434
+  },
+  "trialDate": "1941-04-23"
+}

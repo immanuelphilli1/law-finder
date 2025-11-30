@@ -1,0 +1,85 @@
+{
+  "caseTitle": "REX V ANYANWU NWANJOKU OF UMUHU",
+  "summary": "The appellant, Anyanwu Nwanjoku of Umuhu, was convicted of murder for killing Arungwa Nwokoma, the head of their compound, after a fight with another man was interrupted. The deceased used a switch to separate the combatants, after which the appellant retrieved a matchet and fatally attacked him. The West Africa Court of Appeal upheld the conviction, ruling that the provocation was insufficient to reduce the crime to manslaughter under section 318 of the Criminal Code. The court held that the deceased's actions were lawful and reasonable as compound head, and the use of a deadly weapon in response to minimal force did not meet the threshold for mitigation. The appeal was dismissed based on established common law principles requiring proportionality and reasonableness in assessing provocation.",
+  "legalKeywords": [
+    "murder",
+    "manslaughter",
+    "sudden provocation",
+    "heat of passion",
+    "reasonable man test",
+    "proportionality of response",
+    "switch as weapon",
+    "compound head authority",
+    "Criminal Code section 318",
+    "judicial precedent",
+    "appellate review",
+    "trial judge discretion",
+    "self-defense",
+    "lawful correction",
+    "assault",
+    "criminal intent",
+    "mitigating factors",
+    "sentencing",
+    "appeal dismissal",
+    "common law principles"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Homicide",
+    "Provocation",
+    "Appellate Review",
+    "Common Law Application"
+  ],
+  "verdict": "Conviction for murder upheld; appeal dismissed",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides",
+      "role": "Judge"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v. Simpson, 11 Cr. App. Rep. 218",
+    "Reg. v. Welsh, 11 Cox's Criminal Cases 336",
+    "R. v. Alexander, 9 Criminal Appeal Reports 139",
+    "R. v. Losbini, 11 Criminal Appeal Reports 7",
+    "R. v. Stedman, Fost 292",
+    "R. v. Bourne (5 C. & P. 120, 172 English Reports, p. 903)",
+    "Reg. v. Sherwood (1 C. & K. 556 ; 174 English Reports, 936)",
+    "R. v. Lynch (5 C. & P. 324; 172 English Reports 995)",
+    "Rex v. George Hayward (6 C. & P. 157; 172 English Reports 1188)",
+    "Rex v. William Richard Hall (21 Cr. Appl. Rep. 48)"
+  ],
+  "rationaleHighlights": [
+    "Provocation must come from the deceased to reduce murder to manslaughter",
+    "Degree of provocation judged by its effect on a reasonable person, not subjective reaction",
+    "Use of deadly weapon (matchet) disproportionate to minor provocation (switch)",
+    "Deceased was justified in stopping unlawful fight as compound head",
+    "No evidence of excessive force by deceased",
+    "Primary rage stemmed from fight interruption, not personal attack",
+    "English common law principles apply to interpretation of Nigerian Criminal Code",
+    "Precedent from Rex v. George Hayward controls decision"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and clear citation of legal precedents. Jurisdictional application of English common law principles to Nigerian Criminal Code confirmed by court.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/REX V ANYANWU NWANJOKU OF UMUHU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:15:20.508Z",
+    "plainTextLength": 10552
+  },
+  "trialDate": "1937-10-28"
+}

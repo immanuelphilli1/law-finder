@@ -1,0 +1,72 @@
+{
+  "caseTitle": "EMMANUEL NELSON TAMAKLOE",
+  "summary": "In this civil appeal before the West Africa Court of Appeal, Emmanuel Nelson Tamakloe, as plaintiff-appellant, claimed arrears of rent totaling £355 from the Basel Trading Company Limited, asserting ownership of land under a Certificate of Validity from 30th June 1934. The defendants held a concession under the Concessions Ordinance, originally granted to Hans Schumann in 1931 and later assigned to them in 1935, with a Certificate of Validity issued accordingly. A 1935 agreement reduced the annual rent from £150 to £65, with a sliding scale based on copra prices, and this variation was formally approved by the Court on 19th December 1935 under Section 31. The plaintiff, despite obtaining a 1938 court order recognizing his ownership of the land via indorsement on the Certificate of Validity, did not seek to vary the rent terms. The Court held that under Section 29 of the Concessions Ordinance, the Certificate of Validity—including its rent provisions—is binding against all adverse claimants, making the plaintiff bound by the reduced rent terms. Additionally, the Court rejected a late allegation of fraud not included in the pleadings, citing the Privy Council’s ruling in V.A.C. Ltd. v. James Eggay Taylor. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "concession",
+    "rent arrears",
+    "certificate of validity",
+    "Concessions Ordinance",
+    "fraud allegation",
+    "Section 29",
+    "Section 31",
+    "Section 32",
+    "sliding scale rent",
+    "assignment of lease",
+    "land ownership",
+    "judicial indorsement",
+    "pleadings",
+    "rent variation",
+    "appellate dismissal"
+  ],
+  "topics": [
+    "Land Law",
+    "Concessions",
+    "Rent Dispute",
+    "Procedural Law",
+    "Appellate Decision"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Defendants-Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, CJ., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Graham Paul, C.J., Sierra Leone",
+      "role": "Judge"
+    },
+    {
+      "name": "Strother-Stewart, J., Gold Coast",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "V.A.C. Ltd. v. James Eggay Taylor II IV.A.C.A. 71",
+    "Concessions Ordinance (Cap. 27)"
+  ],
+  "rationaleHighlights": [
+    "Section 29 of the Concessions Ordinance renders Certificate of Validity binding against adverse claimants.",
+    "Plaintiff cannot ignore rent terms in a validly certified concession.",
+    "Fraud allegations not in pleadings cannot be raised at trial or on appeal.",
+    "Indorsement of ownership does not alter existing concession terms.",
+    "Defendants paid rent in accordance with certified variation.",
+    "Court upheld procedural integrity in pleading requirements.",
+    "Appellant succeeded in ownership litigation but not in rent claim.",
+    "Rent governed by court-ordered variation under Section 31."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/EMMANUEL NELSON TAMAKLOE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:08:11.019Z",
+    "plainTextLength": 9435
+  },
+  "trialDate": "1940-11-13"
+}

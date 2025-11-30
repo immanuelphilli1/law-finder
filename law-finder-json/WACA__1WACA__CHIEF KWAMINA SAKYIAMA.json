@@ -1,0 +1,70 @@
+{
+  "caseTitle": "CHIEF KWAMINA SAKYIAMA",
+  "summary": "In this civil appeal before the West African Court of Appeal, the defendant-appellant sought a review of the court's earlier dismissal of his appeal from a decision by the District Commissioner, who had refused conditional leave to appeal from a judgment of the Native Tribunal of Cape Coast. The tribunal had awarded the plaintiff £4 1s in damages and £74 18s in costs for slander. The refusal was based on section 74(1) of the Native Administration Ordinance, which at the time limited appeals in non-land civil cases to those involving £5 or more, exclusive of costs. After the lower courts upheld this refusal, Ordinance No. 23 of 1931 amended section 74(1) to allow appeals where costs exceeded £5. The appellant argued the new law should apply retrospectively. The Court rejected this, holding the amendment lacked retrospective effect and created a new substantive right, not merely a procedural change. Citing the Interpretation Ordinance and authorities like Colonial Sugar Refining Co. v. Irving, the Court emphasized that vested rights under prior law cannot be altered without clear legislative intent. The motion for review was therefore refused with costs.",
+  "legalKeywords": [
+    "appeal",
+    "costs",
+    "retrospective effect",
+    "amending ordinance",
+    "section 74",
+    "Native Administration Ordinance",
+    "right of appeal",
+    "procedure vs. substantive right",
+    "slander",
+    "motion to review",
+    "vested rights",
+    "Interpretation Ordinance",
+    "conditional leave to appeal",
+    "Paramount Chief's Tribunal",
+    "District Commissioner"
+  ],
+  "topics": [
+    "Appeal Law",
+    "Statutory Interpretation",
+    "Retrospectivity",
+    "Costs in Civil Actions",
+    "Native Tribunals"
+  ],
+  "verdict": "Motion for review refused with costs.",
+  "winningSide": "Plaintiff-Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Deane",
+      "role": "Chief Justice, Gold Coast Colony"
+    },
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Macquarrie",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Quilter v. Mapleson 9 Q.B.D. 672",
+    "Acka v. Kutuah 2 Renner's Reports 617",
+    "Colonial Sugar Refining Company Ltd. v. Irving (1905) A.C. 369"
+  ],
+  "rationaleHighlights": [
+    "Amending Ordinance No. 23 of 1931 did not have retrospective effect.",
+    "Right to appeal on costs exceeding £5 was a new substantive right, not merely procedural.",
+    "Judgment of lower court was correct under law in force at the time.",
+    "Court cannot confer new rights that affect vested interests under prior law.",
+    "Interpretation Ordinance Cap. 74, s. 6(2)(b) and (c) protects accrued rights and liabilities."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details (parties, jurisdiction, legal reasoning) are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/CHIEF KWAMINA SAKYIAMA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:51:18.934Z",
+    "plainTextLength": 12013
+  },
+  "trialDate": "1932-05-17"
+}

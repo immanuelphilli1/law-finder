@@ -1,0 +1,69 @@
+{
+  "caseTitle": "REX V RAIMI ABUDU (AMODU)",
+  "summary": "In this 1934 West African Court of Appeal decision, Raimi Abudu (Amodu), a clerk for Compagnie Francaise de L'Afrique Occidentale, was convicted by the Supreme Court for omitting entries in a monthly summary contrary to s. 438(c) of Cap. 21 of the Laws of Nigeria, while being acquitted of destroying delivery notes under s. 438(a). The appeal challenged the conviction, arguing it relied on the same unproven conduct. The appellate court allowed the appeal and quashed the conviction, holding that the trial judge improperly used the possibility of document destruction—despite acquittal—as evidence of fraudulent intent. The court emphasized that a 'not guilty' verdict fully exonerates and cannot be qualified with a 'not proven' rider, which has no place in English-derived law. It further found insufficient evidence linking the accused to the destruction or suppression of documents, noting multiple individuals had access to the records and no proof showed the accused possessed or disposed of them. The decision reinforced the presumption of innocence and strict standards for circumstantial evidence in criminal cases.",
+  "legalKeywords": [
+    "criminal appeal",
+    "fraud",
+    "document destruction",
+    "intent to defraud",
+    "evidentiary standard",
+    "acquittal",
+    "verdict interpretation",
+    "burden of proof",
+    "corporate fraud",
+    "delivery notes",
+    "monthly summary",
+    "employee misconduct",
+    "requisition process",
+    "chain of custody",
+    "presumption of innocence"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Evidence",
+    "Fraud",
+    "Document Destruction"
+  ],
+  "verdict": "Appeal allowed; conviction quashed",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Deane",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Raimi Abudu (Amodu), WACA/2, 22 August 1934",
+    "Cap. 21, s. 438(a) and (c) of the Laws of Nigeria"
+  ],
+  "rationaleHighlights": [
+    "The appeal was allowed because the conviction for omitting entries relied on the discredited inference that the accused destroyed documents, despite acquittal on that charge.",
+    "The court rejected the trial judge's 'not proven' rider as incompatible with English legal principles, which recognize only 'guilty' or 'not guilty' verdicts.",
+    "There was no direct evidence linking the accused to the destruction or suppression of the delivery notes.",
+    "The prosecution failed to produce key documents such as requisition books or files, undermining the reliability of the evidence.",
+    "The appellate court emphasized that an acquittal must fully exonerate the accused and cannot be used to support guilt on related charges."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed appellate judgment and clear procedural history.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/REX V RAIMI ABUDU (AMODU).htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:20:01.681Z",
+    "plainTextLength": 12828
+  },
+  "trialDate": "1934-08-22"
+}

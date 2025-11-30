@@ -1,0 +1,70 @@
+{
+  "caseTitle": "CHIEF JOSEPH WOBO AND NINE ORS v THE ATTORNEY- GENERAL",
+  "summary": "In this West African Court of Appeal case, Chief Joseph Wobo and nine others appealed a trial court decision dismissing their claim for a declaration of ownership over land in Port Harcourt and cancellation of two agreements (1913 and 1928) with the colonial government. The appellants argued the agreements were not valid sales, the parties were not ad idem, and the government had abandoned the 1913 agreement due to non-payment of the £2,000 consideration. The court held that the parties were ad idem, evidenced by oaths of proof, interpretation, and receipt of the revised 1928 payment. The 1913 agreement was not abandoned, as the government had taken possession of part of the land, and the 1928 agreement explicitly incorporated and varied the first. The 1928 agreement, providing £7,500 upfront and £500 annually in perpetuity, was not void for uncertainty regarding price or land area (which was defined by a plan and confirmed by a surveyor). The court rejected the argument that this constituted payment by installments leaving the government as tenants at will. The appellants' later petition acknowledging the 1928 agreement and requesting a higher annual payment further confirmed its validity. The appeal was dismissed.",
+  "legalKeywords": [
+    "agreement to sell",
+    "part performance",
+    "abandonment of contract",
+    "ad idem",
+    "uncertainty in contract",
+    "payment in perpetuity",
+    "tenancy at will",
+    "declaration of ownership",
+    "cancellation of document",
+    "native law and custom",
+    "possession of land",
+    "plan as evidence",
+    "oath of proof",
+    "petition as acknowledgment",
+    "supplemental agreement"
+  ],
+  "topics": [
+    "Property Law",
+    "Contract Law",
+    "Land Tenure",
+    "Colonial Law",
+    "Appellate Procedure"
+  ],
+  "verdict": "Appeal dismissed.",
+  "winningSide": "The Attorney-General (Respondent)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Foster-Sutton",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "De Comarmond",
+      "role": "Acting Chief Justice (Nigeria)"
+    },
+    {
+      "name": "Coussey",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "property dispute",
+  "citations": [
+    "Fisher v. Eastwoods (1936) 1 All E.R. 421",
+    "Tomes v. Chamberlaine, 5 Meeson & Welsby 15",
+    "Howard v. Shaw, 8 Meeson & Welsby 118"
+  ],
+  "rationaleHighlights": [
+    "Parties were ad idem: Oath of proof and understanding confirmed by witnesses and contemporaneous actions.",
+    "No abandonment: Government entered possession under first agreement; second agreement incorporated the first.",
+    "No uncertainty: Price clearly specified as lump sum plus annual payment in perpetuity; land area defined by plan and survey.",
+    "Annual payment not installment: Payment of £500 per annum forever constitutes full purchase price, not installment.",
+    "Subsequent conduct confirms agreement: Grant of land back to chiefs and petition for increased payment acknowledge validity of agreement."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details (parties, documents, holdings) are explicitly stated in the judgment. Jurisdictional context confirmed via court name and parties.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/CHIEF JOSEPH WOBO AND NINE ORS v    THE ATTORNEY- GENERAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:41:57.368Z",
+    "plainTextLength": 16471
+  },
+  "trialDate": "1952-06-09"
+}

@@ -1,0 +1,77 @@
+{
+  "caseTitle": "KWEKU DANSO",
+  "summary": "This 1930 West African Court of Appeal decision involved an interpleader application by Chief Kweku Danso, who opposed a writ of possession granted to Chief Kuturka Yardom following a prior land boundary judgment. Chief Danso claimed occupation of land included in the writ and sought protection under Order XLV Rule 5 of the Rules of the Supreme Court. The lower court registered his application as a suit and stayed execution. The appellate court reversed, holding that Danso had not been dispossessed and thus his application was premature under Rule 5, which requires actual dispossession. The appeal was allowed, costs were reduced, and the lower court was directed to proceed accordingly.",
+  "legalKeywords": [
+    "writ of possession",
+    "interpleader",
+    "dispossession",
+    "land dispute",
+    "jurisdiction",
+    "Order XLV Rule 5",
+    "Rules of Supreme Court",
+    "boundary determination",
+    "fraud in survey",
+    "representative capacity",
+    "ex parte application",
+    "stay of execution",
+    "cause of action",
+    "probable cause",
+    "judgment debtor",
+    "decree-holder",
+    "immovable property",
+    "premature application",
+    "Gold Coast Colony",
+    "appellate review"
+  ],
+  "topics": [
+    "Land Law",
+    "Civil Procedure",
+    "Appellate Jurisdiction",
+    "Property Rights",
+    "Judicial Remedies"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Hall",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Deane",
+      "role": "Concurred"
+    },
+    {
+      "name": "Gardiner-Smith",
+      "role": "Lower court judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Order XLV Rule 5, Rules of Supreme Court, Schedule II",
+    "Hayes Redwar, Comments on Gold Coast Ordinances"
+  ],
+  "rationaleHighlights": [
+    "Applicant must be dispossessed to invoke Order XLV Rule 5",
+    "Application was premature as no dispossession occurred",
+    "Court below lacked jurisdiction to register suit",
+    "Interpleader procedure requires strict compliance",
+    "Stay of execution improperly granted",
+    "No cause of action disclosed in ex parte papers",
+    "Marginal note 'Interpleader' informs interpretation of Rule 5",
+    "Appeal should have been taken earlier from March 28 order"
+  ],
+  "confidenceNotes": "High confidence; details are clearly drawn from the original judgment text, with precise procedural and jurisdictional context from the Gold Coast era. Citation of rules and commentary supports accuracy.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/KWEKU DANSO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:44:04.997Z",
+    "plainTextLength": 10882
+  },
+  "trialDate": "1930-11-24"
+}

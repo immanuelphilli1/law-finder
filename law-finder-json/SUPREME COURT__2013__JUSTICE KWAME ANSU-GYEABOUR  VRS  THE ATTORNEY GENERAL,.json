@@ -1,0 +1,72 @@
+{
+  "caseTitle": "JUSTICE KWAME ANSU-GYEABOUR VRS THE ATTORNEY GENERAL,",
+  "summary": "This is a constitutional reference brought by Justice Kwame Ansu-Gyeabour to the Supreme Court of Ghana under Article 130(2) of the 1992 Constitution, seeking clarification on the procedures for judicial impeachment. The plaintiff challenged the legality of investigative committees (Ansah, Akuffo, and Adinyira) formed in response to corruption allegations, arguing that the Chief Justice failed to personally determine a prima facie case as required under Article 146(3), rendering subsequent actions unconstitutional. He also contended that the Judicial Council lacked authority to petition the President for his removal and that he was denied procedural fairness. The Supreme Court was tasked with interpreting key constitutional provisions regarding the non-delegable nature of the Chief Justice's duty, the proper impeachment process, and the limits of the Judicial Council's powers to ensure the security of judicial tenure.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "judicial impeachment",
+    "prima facie determination",
+    "non-delegable duty",
+    "judicial misconduct",
+    "security of tenure",
+    "Judicial Council powers",
+    "Article 146",
+    "Article 130",
+    "procedural fairness"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Judicial Independence",
+    "Impeachment Process"
+  ],
+  "verdict": "The document is a ruling on a reference for constitutional interpretation; no final verdict on the impeachment was issued in this stage. The Supreme Court reserved judgment to determine the constitutional questions raised.",
+  "winningSide": "Undetermined at this stage",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Owusu [Ms.], JSC",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Dotse, JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Yeboah, JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebe, JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Akoto-Bamfo [Mrs.], JSC",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional reference",
+  "citations": [
+    "Article 130(1)(a), 1992 Constitution of Ghana",
+    "Article 146(3)-(5), 1992 Constitution of Ghana",
+    "Article 153-154, 1992 Constitution of Ghana",
+    "Agyei-Twum v. Attorney-General & Another [2005-6] SCGLR 732",
+    "Tuffuor v. Attorney-General [1980] GLR 137"
+  ],
+  "rationaleHighlights": [
+    "The Chief Justice's duty under Article 146(3) to determine a prima facie case is non-delegable and must be performed personally.",
+    "Committees prior to the Article 146 process (Ansah and Akuffo) are administrative and cannot form the basis of impeachment.",
+    "Only the President, upon referral from the Chief Justice after a prima facie finding, may initiate formal impeachment under Article 146.",
+    "The Judicial Council lacks constitutional authority to directly petition the President for a judge's removal."
+  ],
+  "confidenceNotes": "High confidence; all information derived directly from the court document with clear constitutional and case law references.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/JUSTICE KWAME ANSU-GYEABOUR  VRS  THE ATTORNEY GENERAL,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:12:10.520Z",
+    "plainTextLength": 23923
+  },
+  "trialDate": "2012-01-06"
+}

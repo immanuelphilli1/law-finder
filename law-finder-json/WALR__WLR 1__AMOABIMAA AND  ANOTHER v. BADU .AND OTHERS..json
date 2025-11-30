@@ -1,0 +1,74 @@
+{
+  "caseTitle": "AMOABIMAA AND ANOTHER v. BADU .AND OTHERS",
+  "summary": "The case involved a dispute between families of the Yego clan in Nyakrom, Ghana, over ownership of land following the severance of family ties through the customary rite of 'cutting ekar'. The plaintiffs, representing the Ampiakoko house, claimed exclusive title to certain lands acquired by their ancestor, asserting that the severance allowed reversion of property to the original contributing family. The Native Court initially upheld this, citing Exhibit 'A'—a consent order confirming the severance. However, the Land Court reversed the decision, ruling no agreement to sever existed and that stool lands could not be split. The West African Court of Appeal restored the Native Court’s judgment, holding that 'cutting ekar' under native custom allows reversion of originally contributed property upon severance, that superior courts must respect Native Courts' understanding of local custom, and that documentary evidence admissible in Native Courts may be considered even if inadmissible in superior courts.",
+  "legalKeywords": [
+    "native law and custom",
+    "severance of family ties",
+    "cutting ekar",
+    "customary land tenure",
+    "reversion of property",
+    "judicial notice of custom",
+    "admissibility of documentary evidence",
+    "family land rights",
+    "stool land",
+    "clan property",
+    "evidence in customary disputes",
+    "consent order",
+    "superior courts and native courts",
+    "proof of custom",
+    "land title declaration"
+  ],
+  "topics": [
+    "Customary Law",
+    "Land Dispute",
+    "Family Law",
+    "Appellate Review",
+    "Evidence Law"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Korsah J.A.",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Ames Ag.J.A",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Nsemfoo v. Ababio (1947) W.A.C.A. Cyclostyled Reports, Jan.-Feb. 1947, p. 42",
+    "Kobina Angu v. Cudjoe Attah (1916) Judgments of the Privy Council on Appeal from the Gold Coast, 1874-1928, p. 43",
+    "Sarbah, Fanti Customary Law, 1st ed., p. 31",
+    "Okaikor v. Opare and Mensah (1956) 1 W.A.L.R. 275",
+    "Asenso v. Nkyidwuo (1956) 1 W.A.L.R. 243"
+  ],
+  "rationaleHighlights": [
+    "The customary rite of 'cutting ekar' legally severs family ties and allows reversion of property originally brought into the family group by a constituent house.",
+    "Superior courts must accept findings of Native Courts on local customs unless judicial notice has been taken, as Native Court members are presumed knowledgeable in local custom.",
+    "Documentary evidence, though inadmissible under strict rules in superior courts, is admissible in Native Courts if it materially sheds light on the dispute.",
+    "The Land Court erred in overturning the Native Court’s factual and customary law findings without sufficient basis.",
+    "The conduct of the defendants in evicting the plaintiffs’ family supports the existence of a severance.",
+    "The principle that stool land cannot be divided does not override the specific custom of reversion upon severance by 'cutting ekar'.",
+    "The consent order (Exhibit A) constituted formal recognition of the severance by the parties and the Native Court.",
+    "The Privy Council’s stance on proving custom applies to superior courts, not Native Courts, where customs are presumed known."
+  ],
+  "confidenceNotes": "High confidence; information is directly extracted from the judgment text, including explicit citations, judicial reasoning, and procedural history. Minor uncertainty in parsing judge names due to formatting, but standard titles used.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/AMOABIMAA AND  ANOTHER v. BADU .AND OTHERS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:18:15.212Z",
+    "plainTextLength": 17390
+  }
+}

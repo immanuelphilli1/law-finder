@@ -1,0 +1,68 @@
+{
+  "caseTitle": "WILLIAM OLEDIMA",
+  "summary": "In Rex v. William Oledima, the West Africa Court of Appeal heard an appeal against a manslaughter conviction. The prosecution alleged that the appellant caused the death of Joseph Anyanwu by injecting him in the buttock, leading to a fatal infection. The medical evidence from the post-mortem indicated advanced gas gangrene and suggested that an unsterile injection could have caused the infection. However, the court held that to secure a conviction, it must be proven that the act actually caused death, not merely that it could have. Since the possibility of other causes of the gangrenous condition was not excluded, the evidence was deemed insufficient. The appeal was allowed, the conviction and sentence were quashed, and an acquittal was entered.",
+  "legalKeywords": [
+    "manslaughter",
+    "cause of death",
+    "medical evidence",
+    "post-mortem",
+    "gas gangrene",
+    "burden of proof",
+    "criminal conviction",
+    "injection",
+    "infection",
+    "appellate review",
+    "acquittal",
+    "standard of proof",
+    "reasonable doubt",
+    "forensic medicine",
+    "criminal liability"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Medical Evidence",
+    "Appellate Procedure",
+    "Burden of Proof",
+    "Causation in Law"
+  ],
+  "verdict": "Appeal allowed; conviction quashed; acquittal entered.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Cor. Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v. William Oledima, WACA/6, 26th October 1940"
+  ],
+  "rationaleHighlights": [
+    "The prosecution must prove the accused's act actually caused death, not merely that it could have.",
+    "Medical evidence must exclude other possible causes of death to sustain a conviction.",
+    "The doctor's testimony only established possibility, not certainty, of causation.",
+    "Where alternative causes of death are not ruled out, the conviction cannot stand.",
+    "Appeal allowed due to insufficient evidence linking the act to the death."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment, including medical evidence and legal reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/WILLIAM OLEDIMA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:52:24.365Z",
+    "plainTextLength": 3324
+  },
+  "trialDate": "1940-10-26"
+}

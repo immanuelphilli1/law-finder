@@ -1,0 +1,81 @@
+{
+  "caseTitle": "DR. SMUEL PENNY SMSITH,MADAM AKUA ESSUMANBA v MADAM ELIZA",
+  "summary": "In this Ghanaian Supreme Court case, the appellants (Dr. Samuel Penny Smith and Madam Akua Essumanba) appealed a Court of Appeal decision that upheld the termination of an oral contract for the sale of property at Lartebiokorshie, Accra. The central issue was the interpretation of a fax message (Exhibit 1) in which the first plaintiff requested the refund of purchase monies and permission for his mother to occupy the property until the refund was completed. The Supreme Court affirmed that the clear and unambiguous language of Exhibit 1 demonstrated an intention to rescind the contract and return to the status quo, thereby nullifying any enforceable agreement. Despite payments totaling GH\u0001,900.00 constituting substantial part performance, the Court held that the plaintiff's unilateral withdrawal extinguished the contract. Consequently, the claim for specific performance, declaration of title, and other reliefs failed. The appeal was dismissed, affirming the lower courts' rulings.",
+  "legalKeywords": [
+    "specific performance",
+    "part performance",
+    "contract of sale",
+    "refund of purchase price",
+    "equity",
+    "oral agreement",
+    "interpretation of documents",
+    "status quo ante",
+    "declaration of title",
+    "mesne profits",
+    "breach of contract",
+    "unconscionability",
+    "fraud",
+    "duress",
+    "promissory note",
+    "vacant possession",
+    "time of the essence",
+    "construction of fax message",
+    "rescission of contract",
+    "substantial performance"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Equity",
+    "Appellate Review",
+    "Interpretation of Documents"
+  ],
+  "verdict": "Appeal dismissed.",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Miss Akuffo",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Mrs. Adinyuira",
+      "role": "Justice"
+    },
+    {
+      "name": "Asiamah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Conveyancing Decree, 1973 (NRCD 175), section 3(2)"
+  ],
+  "rationaleHighlights": [
+    "The Court held that Exhibit 1 (a fax message) clearly indicated the plaintiff's intention to rescind the contract and request a refund, thereby ending the contractual relationship.",
+    "The Court found the language of Exhibit 1 unambiguous and indicative of a return to status quo ante.",
+    "Despite substantial payments amounting to GH\u0001,900.00, the doctrine of part performance could not revive a contract terminated by the plaintiff's own act.",
+    "The Court emphasized that courts cannot resuscitate a transaction abandoned by a principal party.",
+    "The appeal was dismissed because the plaintiff had effectively withdrawn from the agreement, leaving no enforceable contract."
+  ],
+  "confidenceNotes": "The document is a full judgment from the Supreme Court of Ghana with clear judicial reasoning; however, the last paragraph is truncated, potentially omitting minor concluding remarks.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2008/DR. SMUEL PENNY SMSITH,MADAM AKUA ESSUMANBA  v   MADAM ELIZA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:16:04.416Z",
+    "plainTextLength": 19492
+  },
+  "trialDate": "2007-10-04"
+}

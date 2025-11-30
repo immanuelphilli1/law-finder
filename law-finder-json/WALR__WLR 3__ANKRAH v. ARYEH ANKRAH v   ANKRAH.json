@@ -1,0 +1,69 @@
+{
+  "caseTitle": "ANKRAH AND ANOTHER VERSUS ARYEH AND OTHERS",
+  "summary": "This Privy Council appeal from the Gold Coast (now Ghana) concerned the devolution of self-acquired property upon the extinction of the matrilineal line under Ga customary law. Manche Ankrah died intestate, leaving property that initially passed to his surviving brothers as family property. Upon the death of the last brother, the matrilineal line failed. The plaintiffs, representing descendants of all three brothers, claimed succession, while the defendants argued only Manche Ankrah's direct descendants were entitled. The courts below held that the property passed to the collective descendants of the three brothers, a finding upheld by the Privy Council due to binding expert testimony on customary law. The Council affirmed that upon failure of the matrilineal line, succession extends to the patrilineal descendants of the entire sibling group. Additionally, the Council upheld an award of damages for trespass against a defendant who had no title but purported to alienate the land, as no native custom negated liability for such trespass.",
+  "legalKeywords": [
+    "intestate succession",
+    "matrilineal line",
+    "patrilineal succession",
+    "self-acquired property",
+    "family property",
+    "customary law",
+    "land trespass",
+    "alienation of land",
+    "damages for trespass",
+    "Ga customary law",
+    "native law and custom",
+    "succession under customary law",
+    "extinction of matrilineal line",
+    "representation in inheritance",
+    "judicial notice of custom"
+  ],
+  "topics": [
+    "Customary Law",
+    "Succession",
+    "Land Law",
+    "Trespass",
+    "Privy Council Appeals"
+  ],
+  "verdict": "Appeal dismissed. The decision of the West African Court of Appeal was upheld.",
+  "winningSide": "Plaintiffs (respondents in the appeal)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lord Tucker"
+    },
+    {
+      "name": "Lord Somervell of Harrow"
+    },
+    {
+      "name": "Mr. L. D. de Silva",
+      "role": "delivering judgment"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Judicial Committee of the Privy Council",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Srimati Bibhabati Devi v. Kumar Narayan Roy [1946] A.C. 508",
+    "Angu v. Attah (1916) Judgments of Privy Council on Appeal from Gold Coast, 1874-1928, 43",
+    "Sackey v. Okantah (1916) Divisional and Full Court Judgments, 1919, 88",
+    "Sarah L. Ribiero and Others v. Elizabeth Mingle and Others (unreported, 1944)",
+    "Arthur v. Ayensu (1957) 2 W.A.L.R. 357",
+    "Sarbah's Fanti Customary Laws, 2nd ed., p. 100"
+  ],
+  "rationaleHighlights": [
+    "Concurrent findings of native law or custom by lower courts are binding on the Privy Council unless shown to be erroneous.",
+    "Upon failure of the matrilineal line, self-acquired property devolves to the patrilineal descendants of all brothers in the lineage, not solely to the descendants of the deceased.",
+    "The doctrine of representation applies: descendants of predeceased brothers participate in succession alongside descendants of the surviving brother.",
+    "Trespass liability arises from unauthorized alienation of land, even under native law, where no custom negates such liability."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy due to direct quotation from judicial decision and citation of authoritative sources including Privy Council precedent and expert customary law references.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/ANKRAH v. ARYEH ANKRAH v   ANKRAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:16:17.982Z",
+    "plainTextLength": 20651
+  }
+}

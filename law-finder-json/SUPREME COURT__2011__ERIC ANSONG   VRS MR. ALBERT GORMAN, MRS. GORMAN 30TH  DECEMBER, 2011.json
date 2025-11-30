@@ -1,0 +1,75 @@
+{
+  "caseTitle": "ERIC ANSONG VRS MR. ALBERT GORMAN, MRS. GORMAN 30TH DECEMBER, 2011",
+  "summary": "This is a civil appeal before the Supreme Court of Ghana concerning the enforceability of a contract for the sale of property. The appellants, Mr. and Mrs. Gorman, challenged the Court of Appeal's affirmation of the High Court's decision ordering specific performance of a sale agreement allegedly entered into solely by Mr. Gorman, despite the property being jointly owned. The Supreme Court considered whether the contract was inchoate and unenforceable due to lack of consent from both co-owners, and whether the agreement was validly rescinded by the appellants prior to enforcement. The core issue centered on principles of contract law, co-ownership, and specific performance under Ghanaian property law.",
+  "legalKeywords": [
+    "specific performance",
+    "contract of sale",
+    "joint ownership",
+    "rescission of contract",
+    "enforceability",
+    "co-owners consent",
+    "property law",
+    "Ghanaian land law",
+    "contract validity",
+    "inchoate contract",
+    "equitable remedy",
+    "real property",
+    "mutual agreement",
+    "legal capacity",
+    "property transfer"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Appeal Judgment",
+    "Specific Performance",
+    "Co-Ownership Dispute"
+  ],
+  "verdict": "The Supreme Court dismissed the appeal.",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Wood (Mrs.)",
+      "role": "Chief Justice (Presiding)"
+    },
+    {
+      "name": "Brobbey",
+      "role": "JSC"
+    },
+    {
+      "name": "Ansa",
+      "role": "JSC"
+    },
+    {
+      "name": "Dotse",
+      "role": "JSC"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs.)",
+      "role": "JSC"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "CIVIL APPEAL J4/37/2011"
+  ],
+  "rationaleHighlights": [
+    "The contract was unenforceable because it involved jointly owned property but only one co-owner was party to it.",
+    "A contract for sale of jointly owned property requires consent of all co-owners to be valid.",
+    "The appellants validly rescinded the agreement before completion, negating any subsisting obligation.",
+    "No circumstances existed that would make rescission fraudulent.",
+    "Specific performance cannot be granted on a non-binding or rescinded agreement."
+  ],
+  "confidenceNotes": "The summary is based on the available portion of the judgment; full context may provide additional nuances regarding evidence or procedural history.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/ERIC ANSONG   VRS MR. ALBERT GORMAN, MRS. GORMAN 30TH  DECEMBER, 2011.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:06:32.510Z",
+    "plainTextLength": 44324
+  }
+}

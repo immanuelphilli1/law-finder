@@ -1,0 +1,70 @@
+{
+  "caseTitle": "SALAMI ADEBESIN",
+  "summary": "This 1940 West Africa Court of Appeal decision involved two appellants, Salami Adeb esin and Titani Ker ede, who were convicted in the Ibadan High Court on two counts: burglary and stealing under section 411(1) of the Criminal Code, and robbery under section 402 of the same code. Both were sentenced to concurrent terms, but the Crown appealed the leniency of the sentences. The appellate court, citing the appellants' involvement in an armed gang and the first appellant's prior convictions for violent offenses, exercised its authority to enhance the sentences. The original sentences were quashed and replaced with longer terms to better protect the public.",
+  "legalKeywords": [
+    "burglary",
+    "stealing",
+    "robbery",
+    "sentence enhancement",
+    "armed gang",
+    "concurrent sentences",
+    "prior convictions",
+    "public protection",
+    "Criminal Code",
+    "West Africa Court of Appeal",
+    "appellate sentencing",
+    "I.H.L. sentence",
+    "trial court",
+    "appeal against sentence",
+    "judicial discretion"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Sentencing",
+    "Appellate Procedure",
+    "Burglary",
+    "Robbery"
+  ],
+  "verdict": "Sentences enhanced on appeal",
+  "winningSide": "Respondent (Crown)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "411(1) C.C.",
+    "390(4)(b) C.C.",
+    "402 C.C."
+  ],
+  "rationaleHighlights": [
+    "Appellants were part of an armed gang committing burglary and robbery",
+    "First appellant had prior convictions for wounding and attempted shooting",
+    "Sentences were deemed too lenient for public protection",
+    "Appellate court has power to enhance sentences",
+    "Enhanced sentences reflect seriousness of repeat and violent offending"
+  ],
+  "confidenceNotes": "High confidence; details are drawn directly from the judgment text, though formatting issues in the source (e.g., broken names) were corrected contextually.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/SALAMI ADEBESIN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:56:31.809Z",
+    "plainTextLength": 2952
+  },
+  "trialDate": "1940-10-16"
+}

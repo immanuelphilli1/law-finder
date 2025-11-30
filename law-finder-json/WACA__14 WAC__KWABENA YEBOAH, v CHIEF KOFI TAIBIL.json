@@ -1,0 +1,64 @@
+{
+  "caseTitle": "KWABENA YEBOAH, v CHIEF KOFI TAIBIL",
+  "summary": "This case involved an appeal from the Land Court concerning whether it had jurisdiction to grant conditional leave to appeal beyond the one-month time limit prescribed by Regulation 115(1) of the Native Courts (Colony) Procedure Regulations, 1945. The appellants, who were plaintiffs in the Native Court, challenged the Land Court's decision to allow the respondents to file a late notice of appeal based on the discretion conferred by the proviso to section 52(1) of the Native Courts (Colony) Ordinance, 1944. The West Africa Court of Appeal held that the proviso only permits a court to exercise discretion where a valid appeal has been brought, which requires compliance with the time limit for filing a notice of appeal. Since the notice was filed well after the one-month period and no valid appeal existed, the Land Court lacked jurisdiction to exercise discretion. The Court also rejected the argument that the respondents could not appeal until the judgment was restored after review, ruling that choosing an incorrect procedural route did not excuse non-compliance. The appeal was allowed, the Land Court's order was set aside, and costs were awarded.",
+  "legalKeywords": [
+    "appeal out of time",
+    "notice of appeal",
+    "jurisdiction",
+    "conditional leave to appeal",
+    "substantial justice",
+    "review of judgment",
+    "procedural compliance",
+    "discretion",
+    "Native Courts",
+    "Land Court"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Time Limits for Appeal",
+    "Judicial Discretion",
+    "Procedural Compliance",
+    "Native Courts",
+    "Land Court Jurisdiction"
+  ],
+  "verdict": "Appeal allowed; order of the Land Court set aside.",
+  "winningSide": "Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Foster-Sutton",
+      "role": "President"
+    },
+    {
+      "name": "Coussey",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Korsah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Native Courts (Colony) Ordinance, 1944, s 52(1)",
+    "Native Courts (Colony) Procedure Regulations, 1945, Reg 115(1)"
+  ],
+  "rationaleHighlights": [
+    "The proviso to s 52(1) only allows discretion to hear and determine an appeal that has been properly brought before the court.",
+    "Filing notice within one month under Reg 115(1) is a condition precedent to the existence of an appeal.",
+    "A court cannot exercise discretion under the proviso if no valid appeal exists due to non-compliance with time limits.",
+    "Appellant cannot rely on review proceedings to justify late appeal; wrong procedural choice does not excuse non-compliance."
+  ],
+  "confidenceNotes": "High confidence; all key details are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/KWABENA YEBOAH, v CHIEF KOFI TAIBIL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:36:09.411Z",
+    "plainTextLength": 6747
+  },
+  "trialDate": "1952-03-17"
+}

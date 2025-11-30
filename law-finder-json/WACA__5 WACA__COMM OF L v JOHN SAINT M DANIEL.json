@@ -1,0 +1,66 @@
+{
+  "caseTitle": "COMM OF L v JOHN SAINT M DANIEL",
+  "summary": "This West African Court of Appeal decision from 1939 concerned the assessment of compensation for property acquired by the Ghanaian government under the Public Lands Acquisition Ordinance. The trial judge had awarded £866 5s, less than the government's final offer of £1,148. The appeal court held that courts are entitled to set compensation below the government’s offer, but found error in disregarding contemporary expert valuation evidence. It further ruled that a 10% uplift for compulsory purchase has no statutory basis and is gratuitous. The appeal was allowed, and compensation was reassessed at £1,148, aligning with the government's offer based on credible expert testimony.",
+  "legalKeywords": [
+    "compensation assessment",
+    "compulsory purchase",
+    "Public Lands Acquisition Ordinance",
+    "expert witness evidence",
+    "property valuation",
+    "government acquisition",
+    "trial judge error",
+    "section 10",
+    "section 15",
+    "section 19",
+    "costs award",
+    "land and building valuation"
+  ],
+  "topics": [
+    "Property Law",
+    "Administrative Law",
+    "Appellate Procedure"
+  ],
+  "verdict": "Appeal allowed; compensation reassessed at £1,148; trial judge's award set aside.",
+  "winningSide": "Defendant-Appellant (John Saint Mathew Daniel)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Butler Lloyd",
+      "role": "AG. C.J., Nigeria"
+    },
+    {
+      "name": "Strother-Stewart",
+      "role": "Acting C.J., Gold Coast"
+    },
+    {
+      "name": "Brooke",
+      "role": "J"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appellate",
+  "citations": [
+    "Commissioner of Lands v. E. F. A. Adeleye"
+  ],
+  "rationaleHighlights": [
+    "Courts may award compensation below the government's offer under Section 15 of the Ordinance.",
+    "Section 19 relates only to costs, not compensation amounts.",
+    "No statutory basis exists for a 10% uplift in compensation due to compulsory acquisition.",
+    "Expert valuation evidence from the time of acquisition should prevail over outdated assessments.",
+    "The trial judge erred in preferring obsolete evidence (from 1924) over current expert testimony.",
+    "The government’s offer of £1,148 was supported by credible evidence and thus reasonable.",
+    "Costs were awarded to the respondent under Section 19, assessed at fifteen guineas.",
+    "Judicial discretion must be exercised within evidentiary and statutory bounds."
+  ],
+  "confidenceNotes": "High confidence in key holdings regarding statutory interpretation of the Public Lands Acquisition Ordinance and evidentiary standards. Citation to 'Commissioner of Lands v. E. F. A. Adeleye' is referenced but not fully detailed in text.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/COMM OF L v JOHN SAINT M DANIEL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:49:16.873Z",
+    "plainTextLength": 7299
+  },
+  "trialDate": "1939-05-13"
+}

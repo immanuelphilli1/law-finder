@@ -1,0 +1,71 @@
+{
+  "caseTitle": "CHIEF OKPARAEKE",
+  "summary": "This consolidated appeal before the West African Court of Appeal on 31st October 1939 involved three land-related suits from the Nigerian judicial system, centering on the doctrine of res judicata. The trial judge had admitted evidence taken before a Referee 'for what it is worth' but later rejected it entirely without affording the parties an opportunity to present alternative evidence on the issue of res judicata. The appellate court held that this procedural misstep vitiated the judgment, as the parties had relied on the initial admission of the Referee's evidence and tailored their subsequent submissions accordingly. Consequently, the appeal was allowed, and the matter remitted to the lower court for further evidence on the res judicata issue. The costs of the appeal were awarded at 60 guineas, with costs in the court below to abide the final result.",
+  "legalKeywords": [
+    "res judicata",
+    "evidence admissibility",
+    "procedural fairness",
+    "Referee's report",
+    "appellate review",
+    "estoppel",
+    "land dispute",
+    "judicial remittal",
+    "party privies",
+    "trespass",
+    "native court jurisdiction",
+    "provincial court",
+    "consolidated suits",
+    "costs award",
+    "procedural error"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Land Law",
+    "Evidence Law",
+    "Judicial Review",
+    "Colonial Nigerian Jurisprudence"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Butler Lloyd",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    },
+    {
+      "name": "Brooke",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana (as part of British West Africa legal system)"
+  },
+  "caseType": "Civil Appeal (Land and Procedural Law)",
+  "citations": [
+    "WACA/5",
+    "Suits Nos. E.14/37, E.15/37, E.16/37",
+    "Provincial Court, Okigwi, Nos. 4/20 and 11/20",
+    "Native Court, Uruala, Suits Nos. 66/33 and 67/33"
+  ],
+  "rationaleHighlights": [
+    "Evidence admitted 'for what it is worth' must still be considered unless parties are given chance to re-litigate the issue",
+    "Rejection of Referee's report in toto without allowing substitute evidence violates fair hearing",
+    "Parties entitled to know evidentiary status of submissions to shape their case",
+    "Procedural fairness outweighs technical admission when parties act in reliance",
+    "Res judicata requires identity of parties, cause of action, and subject matter"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on original court document; jurisdictional context reflects colonial-era British West African legal structure, with cases originating in Nigeria but reported in a Ghanaian legal repository.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/CHIEF OKPARAEKE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:49:40.137Z",
+    "plainTextLength": 5197
+  },
+  "trialDate": "1939-10-31"
+}

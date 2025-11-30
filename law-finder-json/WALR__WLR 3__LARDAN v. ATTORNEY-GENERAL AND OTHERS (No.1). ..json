@@ -1,0 +1,65 @@
+{
+  "caseTitle": "LARDAN VERSUS ATTORNEY-GENERAL",
+  "summary": "In Lardan v. Attorney-General and Others (No.1), the High Court of Ghana considered the validity of an interlocutory injunction halting the deportation of Alhaji Alufa Osmanu Lardan Lalemie under the Deportation Act, 1957. The applicant, subject to a deportation order dated July 30, 1957, filed a writ on July 31 seeking a declaration of Ghanaian citizenship and moved ex parte for an interim injunction, supported only by a bare affidavit stating his and his mother's birthplaces. The court initially granted a temporary injunction until August 8. However, on August 12, the court discharged the injunction, holding that the applicant failed to establish a fair prima facie case for citizenship required for such relief. The court emphasized that while it has the power to intervene where a deportation order is made without jurisdiction (i.e., against a citizen), the proper legal avenue for challenging deportation is habeas corpus, not ordinary civil proceedings. The court expressed concern that allowing standard civil procedure to delay deportation would undermine the effectiveness of the Deportation Act, which requires swift executive action for public safety. The burden of proving citizenship was placed on the applicant, and the government's motives for deportation were deemed non-justiciable.",
+  "legalKeywords": [
+    "deportation",
+    "aliens",
+    "citizenship",
+    "interlocutory injunction",
+    "habeas corpus",
+    "prima facie case",
+    "public good",
+    "government power",
+    "declaratory order",
+    "Civil Procedure Rules",
+    "Deportation Act 1957",
+    "section 3(1)",
+    "section 4(1)(c)",
+    "section 5(1)",
+    "jurisdiction",
+    "liberty of the subject"
+  ],
+  "topics": [
+    "Deportation",
+    "Citizenship",
+    "Injunction",
+    "Habeas Corpus",
+    "Administrative Law"
+  ],
+  "verdict": "The interlocutory injunction was discharged due to the applicant's failure to establish a fair prima facie case of citizenship.",
+  "winningSide": "Respondents (Attorney-General and others)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Smrth J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Central Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional/administrative",
+  "citations": [
+    "R. v. Home Secretary, ex parte Ohateau Thierry (Duke) [1917] 1 K.B. 922 (C.A.)",
+    "Preston v. Luck (1884) 27 Ch.D. 506",
+    "Dyson v. Attorney-General [1911] 1 K.B. 410 (C.A.)",
+    "Tamaki v. Baker [1901] A.C. 561 (P.C.)"
+  ],
+  "rationaleHighlights": [
+    "The court emphasized that the government has broad discretion under the Deportation Act, 1957 to act swiftly for public safety.",
+    "An interlocutory injunction requires a fair prima facie case, which the applicant failed to establish with a bare affidavit.",
+    "The appropriate legal remedy to challenge a deportation order is habeas corpus, not ordinary civil procedure.",
+    "Allowing standard civil procedure to delay deportation would render the Deportation Act ineffective.",
+    "The court can issue an injunction or quash an order if it is made without jurisdiction (e.g., against a citizen).",
+    "The burden of proving Ghanaian citizenship lies entirely on the applicant.",
+    "The motives behind a deportation order are not subject to judicial review."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and cited authorities.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/LARDAN v. ATTORNEY-GENERAL AND OTHERS (No.1). ..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:03:20.017Z",
+    "plainTextLength": 11521
+  }
+}

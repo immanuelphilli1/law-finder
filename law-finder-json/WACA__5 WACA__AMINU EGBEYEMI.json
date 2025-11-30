@@ -1,0 +1,78 @@
+{
+  "caseTitle": "AMINU EGBEYEMI",
+  "summary": "In this West African Court of Appeal case from 1939, Aminu Egbeyemi (respondent) sued G.B. Ollivant & Co. Ltd (appellants) to recover £101 13s. spent on purchasing land attached and sold under a writ of fi-fa in execution of a judgment against one Oseni. The sale was later set aside by the High Court due to an invalid attachment. The trial judge ruled in favor of the respondent, placing the burden on the appellants to prove the attachment's validity. The appellate court reversed this decision, holding that the principle of caveat emptor applied, there was no covenant for title, and no fraud or misrepresentation by the appellants. It emphasized that a purchaser must verify title before buying, especially in execution sales, and that the mere invalidity of an attachment does not create a cause of action. The appeal was allowed, judgment entered for the defendants, and costs awarded accordingly.",
+  "legalKeywords": [
+    "caveat emptor",
+    "invalid attachment",
+    "writ of fi-fa",
+    "execution sale",
+    "mutual mistake",
+    "fraud",
+    "misrepresentation",
+    "covenant for title",
+    "onus of proof",
+    "judicial process regularity",
+    "potior est conditio possidentis",
+    "third-party purchaser",
+    "title defect",
+    "execution creditor liability",
+    "contractual liability",
+    "tortious liability",
+    "judgment creditor",
+    "property conveyance",
+    "burden of proof",
+    "rescission of sale"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Civil Procedure",
+    "Appellate Law",
+    "Equity"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendants-Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Brooke",
+      "role": "Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    },
+    {
+      "name": "Butler-Lloyd",
+      "role": "Acting Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Sabitiyu AjiKe v. Tamakloo and Adamu Tairu (12 N.L.R. 62)",
+    "Clare v. Lamb (1875 L.R. 10 C.P. 54)",
+    "Owo v. Kasumu (11 N.L.R. 116)"
+  ],
+  "rationaleHighlights": [
+    "Caveat emptor applies to execution sales; purchaser must verify title.",
+    "No cause of action in contract or tort absent fraud or covenant for title.",
+    "Presumption of regularity in judicial process favors the appellants.",
+    "Onus of proving invalid attachment lies on the respondent, not the appellants.",
+    "Money paid under void sale not automatically refundable without fraud.",
+    "Potior est conditio possidentis: possessor's position is stronger.",
+    "Judgment creditor not guarantor of debtor's title.",
+    "Distinction from mutual mistake cases where contract is void ab initio."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and cited authorities. Case predates modern Ghanaian independence but remains relevant to property and contract law principles.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/AMINU EGBEYEMI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:50:48.842Z",
+    "plainTextLength": 9428
+  },
+  "trialDate": "1939-11-04"
+}

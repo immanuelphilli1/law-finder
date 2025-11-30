@@ -1,0 +1,63 @@
+{
+  "caseTitle": "DECEASED. KANJARGA VERSUS DETER.",
+  "summary": "This 1957 High Court case in the Ashanti Judicial Division of Ghana involved a dispute over the grant of letters of administration to the estate of Appieba Kanjarga alias Yaw Brenyah. The plaintiff, claiming to be the deceased's eldest surviving full brother, sought administration under customary law. The defendant countered that the deceased had been purchased as a slave by his family and had become integrated into it. The court referred questions of native custom to a Native Court under section 89 of the Courts Ordinance. The Native Court found that the deceased had succeeded the defendant's grandfather and inherited family property, forming the basis for the defendant's superior claim. The High Court held that findings by a Native Court on customary law are to be treated as findings of fact and should not be overturned unless unreasonable or unsupported by evidence. It further ruled that although claims based on slavery are generally repugnant to justice, equity, and good conscience, this principle does not apply where the deceased had himself succeeded to a position and inherited property within the enslaving family. The court granted letters of administration to the defendant, noting inconsistencies in the plaintiff's evidence regarding his relationship to the deceased.",
+  "legalKeywords": [
+    "letters of administration",
+    "native customary law",
+    "slavery",
+    "succession",
+    "repugnancy doctrine",
+    "Courts Ordinance",
+    "Native Court",
+    "intestate succession",
+    "adoption under custom",
+    "inheritance",
+    "family property",
+    "appellate review of findings",
+    "customary law evidence",
+    "judicial reference",
+    "equity and good conscience"
+  ],
+  "topics": [
+    "Probate Law",
+    "Customary Law",
+    "Succession Dispute",
+    "Slavery and Inheritance",
+    "Judicial Procedure"
+  ],
+  "verdict": "The court granted letters of administration to the defendant.",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Murphy J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Ashanti Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "Probate and Succession",
+  "citations": [
+    "In re Kweku Demptey, Kodieh v. Affram (1930) 1 W.A.C.A. 12",
+    "Yeboah v. Bonko (1956) 2 W.A.L.R. 107"
+  ],
+  "rationaleHighlights": [
+    "Findings by a Native Court under s. 89 Courts Ordinance are treated as findings of fact and are binding unless unreasonable or unsupported by evidence.",
+    "Claims based on slavery are repugnant to justice, equity and good conscience and generally not recognized.",
+    "The repugnancy rule does not apply where the deceased had succeeded to a member of the enslaving family and inherited property.",
+    "Inconsistencies in the plaintiff's evidence weakened his claim.",
+    "The deceased's integration into the defendant's family through succession displaced the taint of slavery.",
+    "The court distinguished In re Kweku Demptey on the grounds that the claim here was based on inheritance, not mere status as a slave.",
+    "Adoption under native custom was inferred from acceptance of 'aseda' during succession.",
+    "The defendant's claim was rooted in customary recognition of succession, not ownership through purchase."
+  ],
+  "confidenceNotes": "The summary and analysis are based on a clear reading of the reported judgment. All key legal principles, holdings, and procedural details are directly extractable from the text. Confidence is high in the accuracy of the extracted information.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/In re KANJARGA, DECEASED. KANJARGA v. DETER..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:04:19.546Z",
+    "plainTextLength": 8432
+  }
+}

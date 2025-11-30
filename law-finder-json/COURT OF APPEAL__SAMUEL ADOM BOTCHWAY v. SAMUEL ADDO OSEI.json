@@ -1,0 +1,70 @@
+{
+  "caseTitle": "SAMUEL ADOM BOTCHWAY v. SAMUEL ADDO OSEI",
+  "summary": "In Samuel Adom Botchway v. Samuel Addo Osei (CA No. 261/87, 6 February 2003), the Court of Appeal of Ghana upheld the High Court’s decision nullifying a conveyance of land from the plaintiff to the defendant. The plaintiff claimed he never sold the land and that the conveyance (Exhibit 'B') was forged. The defendant claimed he purchased the land from one Kwesi Tetteh, who appeared only as a witness on the document, and relied on a police report affirming the plaintiff’s signature. The Court found the document inherently fraudulent due to internal inconsistencies, including the improper role of Kwesi Tetteh, and held that the defendant failed to conduct due diligence by not searching the land title. The principle of nemo dat quod non habet applied, as Kwesi Tetteh had no title to convey. The defendant’s counterclaim for refund of ₵50,000 was rejected; the court found the payment unrelated to a land sale, noting the lack of a receipt and contradictory conduct. The appeal was dismissed, affirming the plaintiff’s ownership and possession of the land.",
+  "legalKeywords": [
+    "forgery",
+    "burden of proof",
+    "conveyance",
+    "land title",
+    "police report",
+    "bona fide purchaser",
+    "nemo dat quod non habet",
+    "counterclaim",
+    "specific performance",
+    "civil litigation",
+    "document authenticity",
+    "signature verification",
+    "land transaction",
+    "undisputed possession",
+    "deeds registry"
+  ],
+  "topics": [
+    "Land Law",
+    "Contract Law",
+    "Civil Procedure",
+    "Evidence Law",
+    "Fraud and Forgery"
+  ],
+  "verdict": "Appeal dismissed; High Court judgment upheld nullifying the conveyance and rejecting the defendant's counterclaim.",
+  "winningSide": "Plaintiff/Respondent (Samuel Adom Botchway)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lartey, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Owusu Ansah, (Ms.) J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Anim, J.A.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "SAMUEL ADOM BOTCHWAY v. SAMUEL ADDO OSEI [6/2/2003] CA NO. 261/87",
+    "Evidence Decree, 1975 (NRCD 323)",
+    "C.I.19 (The Court of Appeal Rules, 1997 as amended)"
+  ],
+  "rationaleHighlights": [
+    "The entire conveyance document (Exhibit 'B') was deemed spurious despite a police report suggesting the signature was genuine, due to inconsistencies in names and roles.",
+    "The defendant failed to conduct a land search or verify title, disqualifying him from protection as a bona fide purchaser for value without notice.",
+    "The principle of nemo dat quod non habet applied because Kwesi Tetteh, as mere witness, had no title to transfer.",
+    "The payment of ₵50,000 was not for land purchase, as no receipt was issued and the defendant’s counterclaim for refund contradicted a purchase agreement.",
+    "The trial court’s judgment was upheld as reasonable based on documentary and testimonial inconsistencies."
+  ],
+  "confidenceNotes": "The document is a full judgment from the Court of Appeal of Ghana, with clear judicial reasoning and citation of legal rules. All key elements are present, though the end of the verdict section is truncated; however, the outcome is clearly implied by the court's reasoning.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/SAMUEL ADOM BOTCHWAY v. SAMUEL ADDO OSEI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:05:24.391Z",
+    "plainTextLength": 18118
+  },
+  "trialDate": "2003-02-06"
+}

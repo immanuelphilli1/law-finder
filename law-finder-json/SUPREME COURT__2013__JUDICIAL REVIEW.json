@@ -1,0 +1,95 @@
+{
+  "caseTitle": "IN THE MATTER OF AN APPLICATION FOR JUDICIAL REVIEW AND IN THE MATTER OF OBAAPANIN AMMA - PLAINTIFFS MANSA AND OTHERS VRS NANA YAA ADUTWUMWAA & OTHERS",
+  "summary": "This 2013 Supreme Court of Ghana judgment concerns a chieftaincy dispute over the succession to the Omanhene stool of Kenyasi No. 1 following the death of the previous chief. The Queenmother, Nana Yaa Adutwumwaa, nominated Osei Kofi Abiri as successor, but Nana Antwi Bosiako, a royal claimant, invoked the Great Oath of Otumfuo (Ntamkese) challenging both the nominee's lineage and the Queenmother's authority. The dispute was referred to Otumfuo Osei Tutu II and the Asanteman Council, which upheld the Queenmother's customary right to nominate, affirmed the nominee's royal status, and ruled that invoking the Great Oath in such circumstances was reckless. Both parties were found guilty of reckless oath-taking and required to perform atonement rites. The Supreme Court dismissed the appeal, affirming the decisions of the lower courts and reinforcing the constitutional recognition of customary law in chieftaincy matters.",
+  "legalKeywords": [
+    "judicial review",
+    "certiorari",
+    "customary law",
+    "chieftaincy dispute",
+    "Great Oath of Otumfuo",
+    "Queenmother",
+    "Omanhene",
+    "Asanteman Council",
+    "stool nomination",
+    "reconvened sitting",
+    "constitutional jurisdiction",
+    "traditional authority",
+    "Ntamkese",
+    "royal lineage",
+    "elders' approval",
+    "oath invocation",
+    "stool elders",
+    "Gyasehene",
+    "Abusuapanin",
+    "Otumfuo Osei Tutu II",
+    "customary procedure",
+    "reconciliation rites",
+    "dispute resolution",
+    "traditional governance",
+    "succession rights",
+    "tribal custom",
+    "judicial deference",
+    "indigenous law",
+    "chieftaincy institution",
+    "ancestral authority"
+  ],
+  "topics": [
+    "Chieftaincy Succession",
+    "Customary Law",
+    "Judicial Review",
+    "Traditional Governance",
+    "Oath and Ritual in Dispute Resolution"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dotse JSC",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "Atuguba JSC",
+      "role": "Presiding"
+    },
+    {
+      "name": "Adinyira (Mrs) JSC",
+      "role": "Member"
+    },
+    {
+      "name": "Owusu (Ms) JSC",
+      "role": "Member"
+    },
+    {
+      "name": "Baffoe-Bonnie JSC",
+      "role": "Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Civil Appeal No. J4/25/2012",
+    "Unreported Case of the Supreme Court of Ghana 2013"
+  ],
+  "rationaleHighlights": [
+    "The Queenmother holds the exclusive customary right to nominate a successor to a vacant chieftaincy stool.",
+    "Invoking the Great Oath of Otumfuo to challenge a nomination without valid grounds constitutes a reckless oath.",
+    "The Asanteman Council, under Otumfuo, has authority to adjudicate such chieftaincy disputes according to custom.",
+    "Elders and family heads may scrutinize the nominee's character and lineage but cannot override the Queenmother's nomination if the nominee is qualified.",
+    "Both parties were found to have committed misconduct by invoking oaths recklessly and were required to perform atonement.",
+    "The Supreme Court upheld the lower courts' decisions, affirming deference to traditional dispute resolution mechanisms.",
+    "Customary procedures, when properly followed, are constitutionally protected and binding.",
+    "The judgment reinforces the separation between traditional authority and judicial intervention in chieftaincy matters."
+  ],
+  "confidenceNotes": "High confidence; information is directly extracted from the judgment text, including names, roles, procedural history, and legal reasoning. Some document truncation occurs at the end, but key holdings and outcomes are preserved.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/JUDICIAL REVIEW.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:12:35.378Z",
+    "plainTextLength": 53146
+  },
+  "trialDate": "2012-04-25"
+}

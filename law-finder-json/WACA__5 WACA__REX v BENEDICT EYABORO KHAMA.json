@@ -1,0 +1,76 @@
+{
+  "caseTitle": "REX v BENEDICT EYABORO KHAMA",
+  "summary": "In Rex v Benedict Eyaboro Khama, the West African Court of Appeal reviewed convictions of four appellants charged with cheating under s 421, stealing under s 390, and possession of stolen goods under s 430 of the Criminal Code. The court found that the evidence supported a false pretence under s 418 and conviction under s 419, but not a fraudulent trick under s 421. It held that the trial judge erred in convicting under s 421 but could have, and should have, convicted under s 419 as an alternative to the stealing charge, which was wrongly dismissed for duplicity. Under s 11(2) of the West African Court of Appeal Ordinance, the court substituted the verdicts for the first and third accused to guilty under s 419 and sentenced them to 18 months and 2 years' imprisonment with hard labour, respectively. Their convictions under s 430 were quashed, as one cannot be separately convicted for possessing money obtained by the same fraudulent act. The appeals of the second and fourth accused against their s 430 convictions were dismissed due to sufficient supporting evidence. The appellants' request to adduce further evidence on appeal was denied.",
+  "legalKeywords": [
+    "false pretence",
+    "fraudulent trick or device",
+    "duplicity",
+    "alternative charge",
+    "substitution of verdict",
+    "section 419",
+    "section 421",
+    "section 430",
+    "section 390",
+    "Criminal Code",
+    "Criminal Procedure Ordinance",
+    "West African Court of Appeal Ordinance",
+    "conviction quashed",
+    "sentence",
+    "hard labour",
+    "possession of stolen goods",
+    "intent to defraud",
+    "inducing delivery of money",
+    "appellate review",
+    "additional evidence on appeal"
+  ],
+  "topics": [
+    "criminal law",
+    "appellate procedure",
+    "fraud",
+    "theft",
+    "evidence"
+  ],
+  "verdict": "Convictions under s 421 and s 430 for 1st and 3rd accused set aside; substituted with conviction under s 419. Convictions under s 430 quashed. Appeals of 2nd and 4th accused dismissed.",
+  "winningSide": "Crown (partial; convictions upheld for 2nd and 4th accused, modified for 1st and 3rd)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Butler Lloyd",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    },
+    {
+      "name": "Brooke",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Benedict Eyaboro Khama",
+    "West African Court of Appeal Ordinance, s 11(2)",
+    "Criminal Procedure Ordinance, s 59(2)",
+    "Criminal Code, ss 390, 418, 419, 421, 430"
+  ],
+  "rationaleHighlights": [
+    "Evidence showed false pretence under s 418, not fraudulent trick under s 421, warranting conviction under s 419.",
+    "Charge of stealing under s 390 should have been treated as alternative, not duplicitous.",
+    "Conviction under s 430 improper when principal offence of obtaining by false pretence already established.",
+    "Court exercised power under s 11(2) WA CA Ordinance to substitute verdict under s 419.",
+    "Convictions under s 430 for 1st and 3rd accused quashed; appeals of 2nd and 4th dismissed."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear legal reasoning and statutory references.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/REX v BENEDICT EYABORO KHAMA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:39:55.139Z",
+    "plainTextLength": 6104
+  },
+  "trialDate": "1939-05-02"
+}

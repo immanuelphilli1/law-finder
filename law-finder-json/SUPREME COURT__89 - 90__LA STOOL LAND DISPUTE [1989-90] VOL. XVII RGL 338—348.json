@@ -1,0 +1,82 @@
+{
+  "caseTitle": "Nartey v Mechanical Lloyd Assembly",
+  "summary": "In Nartey v Mechanical Lloyd Assembly Plant Ltd, the Supreme Court of Ghana addressed a dispute over La rural land in Frafraha, focusing on whether a sub-stool (Agbawe family) could validly grant land or if such authority rested solely with the La stool. The plaintiff claimed title via a 1976 grant from the Mantse of Frafraha (OK), while the defendant relied on a 1979 grant from the same source and an earlier 1976 lease to a private individual. The Court split: Taylor and Wuaku JJSC held that sub-stool grants are ineffective unless the La stool is estopped by acquiescence; Adade JSC believed sub-stools generally have granting power; the dissenters viewed all such grants as invalid. The majority found for the plaintiff based on his prior possession and the defendant's failure to prove superior title. The case clarified that trespass actions depend on possession, not title, and affirmed the relevance of estoppel by acquiescence where customary practice contradicts formal legal rules.",
+  "legalKeywords": [
+    "allodial title",
+    "customary law",
+    "estoppel by acquiescence",
+    "family land",
+    "grants of land",
+    "La stool",
+    "land dispute",
+    "possession",
+    "rural land",
+    "sub-stool",
+    "title",
+    "trespass",
+    "burden of proof",
+    "compensation",
+    "local practice"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Trespass",
+    "Estoppel",
+    "Judicial Precedent"
+  ],
+  "verdict": "Plaintiff's appeal was upheld by the Supreme Court majority.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Taylor JSC",
+      "role": "majority"
+    },
+    {
+      "name": "Wuaku JSC",
+      "role": "majority"
+    },
+    {
+      "name": "Adade JSC",
+      "role": "majority"
+    },
+    {
+      "name": "Francois JSC",
+      "role": "dissent"
+    },
+    {
+      "name": "Amua-Sekyi JSC",
+      "role": "dissent"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "Nartey v Mechanical Lloyd Assembly Plant Ltd",
+    "Owusu v Manche of Labadi",
+    "Akwei v Awuletey",
+    "Adoaku v Nyamalor",
+    "Nii Adjei Onano v Okoi Noi",
+    "Kodilinye v Odu",
+    "Ricketts v Addo"
+  ],
+  "rationaleHighlights": [
+    "Grant by sub-stool may be valid if La stool acquiesced",
+    "Possession, not title, is key in trespass actions",
+    "Estoppel by acquiescence applied to land grants",
+    "Customary practice can inform legal rights despite prior judicial rulings",
+    "Plaintiff must prove possession, not title, initially",
+    "Defendant's weaker title does not automatically benefit plaintiff"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and multiple authoritative citations. Some ambiguity in majority rationale due to split decision on customary authority.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/89 - 90/LA STOOL LAND DISPUTE [1989-90] VOL. XVII RGL 338—348.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:56:32.812Z",
+    "plainTextLength": 26882
+  }
+}

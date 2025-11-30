@@ -1,0 +1,72 @@
+{
+  "caseTitle": "KWAKU VERSUS ADDO.",
+  "summary": "In Kwaku v. Addo, the plaintiff sued for damages over defamatory statements made by the defendant at a public political rally in Nungua, alleging he was portrayed as a malicious land grabber. The case raised the issue of whether the claim was grounded in English defamation law or native customary law. Under English law, the words were not actionable per se, and no special damages were proven. Under native law, the plaintiff relied on Sarbah's Fanti Customary Law to argue that defamation is actionable without proof of special damage. However, the court held that no general native custom recognizing a civil claim for pecuniary compensation in defamation had been judicially noticed or specially pleaded as required by Supreme Court rules. The court observed obiter that under native custom, the primary remedy for defamation is public recantation, with compensation being secondary, discretionary, and minimal. The action was dismissed due to lack of a recognized cause of action under either legal framework.",
+  "legalKeywords": [
+    "defamation",
+    "slander",
+    "native law and custom",
+    "actionable per se",
+    "special damage",
+    "judicial notice",
+    "pleading custom",
+    "compensation",
+    "public recantation",
+    "Courts Ordinance",
+    "Sarbah",
+    "Fanti Customary Law",
+    "Order 19 Rule 31",
+    "repugnancy doctrine",
+    "civil remedy",
+    "criminal sanction",
+    "land dispute",
+    "political speech",
+    "reputation",
+    "Gold Coast jurisprudence"
+  ],
+  "topics": [
+    "Defamation Law",
+    "Customary Law",
+    "Legal Procedure",
+    "Judicial Reasoning",
+    "Remedies in Torts"
+  ],
+  "verdict": "Action dismissed",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana, Central Judicial Division, Land Court, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Defamation under Native Law and Custom",
+  "citations": [
+    "Angu v. Attah (1916)",
+    "Amoah v. Djabi (1926)",
+    "Adjei v. Ripley (1956)",
+    "Yerenchi v. Akuffo (1905)",
+    "Sarbah, Fanti Customary Law, 2nd ed., pp. 113-114",
+    "Sarah Cheetham v. Robert Bannerman (1881)",
+    "Mensah v. Quamina Attopi (1845)"
+  ],
+  "rationaleHighlights": [
+    "Words not actionable per se under English law; no special damage proven.",
+    "No general native custom for pecuniary defamation claims judicially noticed.",
+    "Customary remedy emphasizes public recantation over compensation.",
+    "Failure to specially plead alleged custom under Order 19, Rule 31.",
+    "Compensation under native law, if any, is discretionary and minimal.",
+    "Sarbah's text cited but found inconclusive on civil liability.",
+    "Action dismissed for lack of recognized cause of action."
+  ],
+  "confidenceNotes": "The summary is based on a detailed judicial opinion with clear holdings and citations. The ruling is consistent with established principles of customary law proof in Ghana (then Gold Coast). The obiter on the nature of native defamation remedies is well-reasoned and supported by authority.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/KWAKU v. ADDO..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:27:55.586Z",
+    "plainTextLength": 16515
+  }
+}

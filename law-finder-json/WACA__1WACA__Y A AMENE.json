@@ -1,0 +1,69 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The West African Court of Appeal, in a 1931 decision involving Y. A. Amene (Plaintiff-Respondent) and Amanor (Defendant-Appellant), addressed the jurisdictional relationship between the Supreme Court and Native Tribunals under the Native Administration Ordinance concerning applications for Letters of Administration. The court held that the Supreme Court retains jurisdiction to grant Letters of Administration and is not ousted by sections 43 and 44 of the Native Administration Ordinance. It ruled that an applicant need not first litigate succession rights in a Native Tribunal, and that even when succession disputes arise during administration applications, the Supreme Court may proceed, though it may refer the issue of succession to a Native Tribunal under section 59 for determination and report. The final opinion affirmed the Supreme Court's authority to decide who should receive Letters of Administration based on the Tribunal's findings.",
+  "legalKeywords": [
+    "Letters of Administration",
+    "jurisdiction",
+    "Native Tribunal",
+    "Native Customary Law",
+    "succession",
+    "Supreme Court",
+    "ouster of jurisdiction",
+    "case stated",
+    "amicus curiae",
+    "probate",
+    "administration of estate",
+    "paramount chief's tribunal",
+    "section 43",
+    "section 59",
+    "Native Administration Ordinance"
+  ],
+  "topics": [
+    "Probate and Administration",
+    "Jurisdictional Conflict",
+    "Customary Law"
+  ],
+  "verdict": "The Supreme Court has jurisdiction to grant Letters of Administration and is not required to refer parties to a Native Tribunal first; however, it may refer questions of succession to a Native Tribunal for determination under section 59.",
+  "winningSide": "Plaintiff-Respondent (Y. A. Amene)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Michelin, J.",
+      "role": "Judging"
+    },
+    {
+      "name": "Hall, Acting C.J.",
+      "role": "Judging"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "Native Administration Ordinance, sections 43, 44, 58, 59, 124",
+    "Supreme Court Ordinance, sections 11, 16",
+    "Order L of the Rules of the Supreme Court, rule 17(d)",
+    "Pappoe v. Kweku, F.e. 1923-25, 158",
+    "Villars v. Baffoe, Renner's Reports 549"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court retains exclusive jurisdiction over granting Letters of Administration.",
+    "Sections 43 and 44 of the Native Administration Ordinance do not oust the Supreme Court’s jurisdiction.",
+    "An applicant need not first establish succession rights in a Native Tribunal.",
+    "When a dispute arises over succession, the court may refer the issue to a Native Tribunal under section 59.",
+    "Native Tribunals lack power to grant Letters of Administration.",
+    "The proviso to section 43 preserves Supreme Court jurisdiction when non-customary law governs.",
+    "Section 124 does not automatically prioritize other ordinances over the Native Administration Ordinance.",
+    "Uniformity in judicial practice was a key concern in referring the case."
+  ],
+  "confidenceNotes": "The decision is clearly stated with full judicial reasoning; however, the original text is truncated near the end, potentially omitting part of Acting C.J. Hall’s remarks. Core holdings are intact.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/Y A AMENE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:37:30.116Z",
+    "plainTextLength": 21873
+  },
+  "trialDate": "1931-06-29"
+}

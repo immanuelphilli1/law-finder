@@ -1,0 +1,80 @@
+{
+  "caseTitle": "YAW OPPONG VRS CHARLES ANARFI",
+  "summary": "This Supreme Court of Ghana case arose from a dispute over whether a transaction involving GH¢40,000 and a property at Plot 35, Block AB, Patase, West Kumasi, was a sale or a loan secured by the property. The plaintiff (Yaw Oppong) claimed he purchased the house, relying on Exhibit A, labeled a sale agreement. The defendant (Charles Anarfi) argued it was a loan and he used the house as security, signing the document under false assurances. The High Court found it was a loan and ordered repayment with interest. The Court of Appeal reversed, finding a valid sale. The Supreme Court restored the High Court’s decision, holding that Exhibit A was effectively a receipt, not a registrable instrument affecting land. It emphasized that the appellant failed to timely challenge the admissibility of Exhibit A and that the principles of contract law, including the inadmissibility of extrinsic evidence to vary written terms (Wilson v. Brobbey), bound the defendant to the document he signed. The Court also found no substantial miscarriage of justice from the admission of Exhibit A and concluded the transaction was a loan, not a sale.",
+  "legalKeywords": [
+    "sale agreement",
+    "loan transaction",
+    "burden of proof",
+    "exhibit admissibility",
+    "unjust enrichment",
+    "extrinsic evidence",
+    "non est factum",
+    "receipt",
+    "land transaction",
+    "registration of documents",
+    "appellate review",
+    "weight of evidence",
+    "miscarriage of justice",
+    "oral evidence",
+    "contract interpretation"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Evidence Law",
+    "Appellate Procedure",
+    "Land Transactions"
+  ],
+  "verdict": "The appeal was dismissed. The Supreme Court upheld the High Court's finding that the transaction was a loan, not a sale, and that Exhibit A was a receipt, not a registrable sale agreement.",
+  "winningSide": "Defendant (Charles Anarfi)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Akoto-Bamfo (Mrs)",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Presiding"
+    },
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Owusu",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Aryeetey",
+      "role": "Member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Agyei Osae V Adjeifio 2007/2008 SCGLR 499",
+    "Wilson v. Brobbey (1974) 1 GLR 250",
+    "Gallie v. Lee (1969) 2 Ch. 17",
+    "Donkor v. Alhassan 1987-88 2GLR 253",
+    "Tuakwa v Boson 2001/2002 SCGLR 61",
+    "Charity v EMS 2007/2008 SCGLR 985"
+  ],
+  "rationaleHighlights": [
+    "Exhibit A, though labeled a sale agreement, was treated as a receipt and did not require registration under the Land Registry Act",
+    "Principle in Wilson v. Brobbey applied: extrinsic evidence inadmissible to contradict written contract terms",
+    "Appellant failed to appeal interlocutory ruling on admissibility within 21 days, barring later challenge",
+    "Supreme Court upheld lower courts' finding that transaction was a loan, not a sale",
+    "Defendant's signature bound him despite claim of misunderstanding, per Gallie v. Lee"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from court judgment text and consistent citation of legal principles and procedural rules.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/YAW OPPONG VRS  CHARLES  ANARFI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:54:19.486Z",
+    "plainTextLength": 18342
+  }
+}

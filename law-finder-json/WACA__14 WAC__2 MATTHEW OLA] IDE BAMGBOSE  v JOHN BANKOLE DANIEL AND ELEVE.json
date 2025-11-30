@@ -1,0 +1,83 @@
+{
+  "caseTitle": "IN THE MATTER OF THE ESTATE OF JOHN ST",
+  "summary": "This 1954 Privy Council decision concerns the distribution of the intestate estate of John St. Matthew Daniel, a Nigerian domiciliary whose parents were married under the Lagos Marriage Ordinance of 1884. The appellant, Matthew Olajide Bamgbose, claimed as the deceased's nephew through a line legitimated by the 1929 Legitimacy Ordinance. The respondents, children of the deceased's polygamous customary marriages, claimed inheritance rights. The central issue was the interpretation of Section 41 of the 1884 Marriage Ordinance, which mandates that estates of persons issue to marriages under the Ordinance be distributed according to English intestacy law, displacing native law. The Privy Council held that legitimacy is determined by the law of the domicile of origin, and that children of polygamous customary marriages, if legitimate under native law, are entitled to succeed under the English Statute of Distribution, 1670, as applied by the Ordinance. The appeal was dismissed, affirming the West African Court of Appeal's remittal for proof of the respondents' legitimacy and parentage.",
+  "legalKeywords": [
+    "intestate succession",
+    "customary marriage",
+    "legitimacy",
+    "domicile of origin",
+    "polygamous marriage",
+    "Marriage Ordinance 1884",
+    "Statute of Distribution 1670",
+    "native law and custom",
+    "English law application",
+    "Privy Council",
+    "West African Court of Appeal",
+    "illegitimate child",
+    "succession rights",
+    "posthumous birth",
+    "remittal for evidence"
+  ],
+  "topics": [
+    "Inheritance Law",
+    "Family Law",
+    "Conflict of Laws",
+    "Legal Pluralism",
+    "Colonial Legal Systems"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lord Keith of Avonholm"
+    },
+    {
+      "name": "Lord Morton of Henryton"
+    },
+    {
+      "name": "Lord Cohen"
+    },
+    {
+      "name": "Foster-Sutton"
+    },
+    {
+      "name": "De Comarmond"
+    },
+    {
+      "name": "Coussey"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Privy Council",
+    "country": "Ghana (via West African Court of Appeal)"
+  },
+  "caseType": "Civil - Probate and Inheritance",
+  "citations": [
+    "Marriage Ordinance of the Colony of Lagos, 1884, s 41",
+    "Statute of Distribution, 1670 (22 & 23 Car. II c. 20)",
+    "Act of 1685, 1 Jac. II c. 17",
+    "Legitimacy Ordinance, Nigeria, 1929",
+    "Estate of Herbert Samuel Heelas Macaulay (1951)",
+    "Estate of Frederick Akidele Somefun, 1941, 7 W.A.C.A. 156",
+    "Cole v. Cole, 1898, 1 N.L.R. 15"
+  ],
+  "rationaleHighlights": [
+    "Section 41 applies English intestacy law to those born of marriages under the Ordinance, but legitimacy of claimants is determined by the law of their domicile of origin.",
+    "Children of polygamous customary marriages are not automatically excluded from succession under English law if they are legitimate under native law.",
+    "The Statute of Distribution must be applied as it stands, without limiting its scope to monogamous unions.",
+    "The status of children is independent of the recognition of their mothers' marital status under English law.",
+    "Courts must determine who qualifies as 'issue' under the succession table using personal law principles.",
+    "The West African Court of Appeal correctly remitted the case for proof of legitimacy and parentage under native law.",
+    "No material difference exists between the 1884 and 1914 Marriage Ordinances for this case.",
+    "The Privy Council declined to rule on the appellant’s own legitimacy, deeming it unnecessary."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from the judgment text. Some procedural details may be truncated in the source, but core legal reasoning and outcome are clearly stated.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/2 MATTHEW OLA] IDE BAMGBOSE  v JOHN BANKOLE DANIEL AND ELEVE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:46:34.840Z",
+    "plainTextLength": 25027
+  },
+  "trialDate": "1952-06-02"
+}

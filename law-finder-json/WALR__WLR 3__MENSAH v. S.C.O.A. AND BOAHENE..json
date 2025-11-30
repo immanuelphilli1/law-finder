@@ -1,0 +1,65 @@
+{
+  "caseTitle": "MENSAH VERSUS S.C.O.A.",
+  "summary": "In Mensah v. S.C.O.A. and Boahene, the plaintiff, as head of a family, sought a declaration of title to land in Aburi, Ghana, purchased by his two uncles and conveyed via an English-style deed. After one uncle's death, the survivor mortgaged the land to the first defendant (S.C.O.A.), who later sold it to the second defendant. The plaintiff argued the land was family property under customary law, with the uncles holding only life interests. The court held that despite the English form of conveyance, evidence of family involvement in developing the land displaced the presumption of English joint tenancy, establishing the property as family land governed by native customary law. Consequently, the mortgagor held only a life interest, which terminated at death, rendering the mortgage and subsequent sale invalid. The court granted the plaintiff a declaration of title and an injunction, emphasizing that purchasers must conduct public local inquiries to protect against undisclosed family interests.",
+  "legalKeywords": [
+    "family property",
+    "life interest",
+    "mortgage",
+    "customary law",
+    "English law",
+    "conveyance",
+    "presumption",
+    "alienation",
+    "title declaration",
+    "bona fide purchaser",
+    "notice",
+    "equitable estoppel",
+    "native law",
+    "survivorship",
+    "joint tenancy"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Mortgage",
+    "Conveyancing",
+    "Family Property"
+  ],
+  "verdict": "Judgment for the plaintiff declaring family title and granting an injunction against interference.",
+  "winningSide": "Plaintiff (Mensah as head of family)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WALR 3",
+    "Courts Ordinance, c. 4, s. 87 (1)",
+    "Vendor and Purchaser Act, 1875",
+    "Law of Property Act, 1925, ss. 51 and 52"
+  ],
+  "rationaleHighlights": [
+    "Use of English-style conveyance raises presumption of English law application, but displaced by evidence of family involvement.",
+    "Family development of land indicates intention to be governed by customary law.",
+    "Life interest holder cannot alienate interest beyond death.",
+    "Mortgagee's interest determines upon death of life tenant.",
+    "Purchaser takes at peril without local inquiry into title.",
+    "Courts may protect bona fide purchasers if no notice and proper inquiry made.",
+    "Growing use of English-form conveyances may indicate intent to adopt English law.",
+    "Failure to investigate title undermines mortgagee's claim."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and clear evidence presented in the judgment.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/MENSAH v. S.C.O.A. AND BOAHENE..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:00:10.296Z",
+    "plainTextLength": 11508
+  }
+}

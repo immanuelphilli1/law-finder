@@ -1,0 +1,98 @@
+{
+  "caseTitle": "SAMUEL OKUDZETO ABLAKWA,DR.",
+  "summary": "This Supreme Court of Ghana case involved a constitutional challenge by Dr. Samuel Okudzeto Ablakwa and Dr. Edward Kofi Omane Boamah against the Attorney-General and Hon. Jake Otanka Obetsebi-Lamptey concerning the alleged unlawful sale of a government bungalow at St. Mungo Street, Ridge, Accra. The plaintiffs sought declarations that the Minister of Water Resources, Works and Housing in the Kufuor government lacked constitutional authority to direct the sale of public land, that such a sale violated Articles 20(5), 23, 257, 258, 265, 284, and 296 of the 1992 Constitution, and that the registration process initiated by the Lands Commission was unconstitutional. They also sought a perpetual injunction to halt registration. The court held that while issues of conflict of interest fall under CHRAJ’s jurisdiction under Article 287, the exercise of discretionary power in public land management is justiciable by the Supreme Court under its original jurisdiction. The court found that the sale lacked Cabinet approval, violated constitutional principles of fairness and due process under Article 296, and amounted to an abuse of power. The publication of the land registration notice was declared unconstitutional and void. The plaintiffs were found to have sufficient standing based on public interest. The claims of corruption and discrimination were dismissed for lack of evidence.",
+  "legalKeywords": [
+    "constitutional challenge",
+    "abuse of discretionary power",
+    "public land management",
+    "administrative justice",
+    "conflict of interest",
+    "land allocation",
+    "government property",
+    "judicial review",
+    "original jurisdiction",
+    "unlawful alienation",
+    "public interest",
+    "due process",
+    "cronyism",
+    "transparency",
+    "rule of law"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Land Law",
+    "Public Interest Litigation",
+    "Separation of Powers"
+  ],
+  "verdict": "The Supreme Court declared the purported sale and registration of the government bungalow unconstitutional and void, affirming that the exercise of discretionary power in public land transactions must comply with constitutional principles of fairness, transparency, and due process.",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Atuguba, Ag. C.J.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Akuffo (Ms), JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Brobbey, JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa, JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Adinyira (Mrs), JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Owusu (Ms), JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Dotse, JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Bonnie, JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs), JSC",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Articles 20(5), 20(6), 23, 257, 258, 265, 284, 296 of the 1992 Constitution of Ghana",
+    "Ghana Bar Association v. Attorney-General & Justice Abban [2003-2004] SCGLR 250",
+    "Yeboah v. J.H. Mensah (1998-99) SCGLR 492",
+    "New Patriotic Party v. Attorney-General (1993-94) 1 GLR 35",
+    "Ghana Lotto Operators Association v. National Lottery Authority [2007-2008] 2 SCGLR 1088"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court has jurisdiction to review constitutional challenges to public land management under Articles 2 and 130 of the 1992 Constitution.",
+    "Allegations of conflict of interest fall under the exclusive purview of the Commission on Human Rights and Administrative Justice (CHRAJ) per Article 287.",
+    "No evidence was presented to support claims of corruption or discrimination; thus, those claims were dismissed.",
+    "The sale of government property without Cabinet approval violates constitutional and statutory requirements.",
+    "The court emphasized that discretionary powers must be exercised fairly, reasonably, and in accordance with due process under Article 296.",
+    "The purported sale of State land to a high-ranking official during the Kufuor administration was found unconstitutional for lack of due process and transparency.",
+    "The plaintiffs had sufficient standing to bring the action based on public interest and community interest in lawful governance.",
+    "The Lands Commission’s publication of a notice for land registration in favor of the 2nd Defendant was declared unconstitutional and void."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official Supreme Court judgment text and citation of constitutional provisions and precedents.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/SAMUEL OKUDZETO ABLAKWA,DR..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:21:56.358Z",
+    "plainTextLength": 158346
+  }
+}

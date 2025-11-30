@@ -1,0 +1,54 @@
+{
+  "caseTitle": "PRACTICE NOTE",
+  "summary": "In this 1956 practice note from the Supreme Court of the Gold Coast, Ashanti Division, Land Court in Kumasi, Manyo-Plange J. held that applications for extension of time to appeal from Native Courts to the Supreme Court must be made on notice rather than ex parte. Relying on the principles in Evennett v. Lawrence (1876) and Absi v. Mends (1935), the judge emphasized that the respondent must be given the opportunity to be heard and to object, ensuring procedural fairness. This procedural requirement underscores the importance of due process even in administrative aspects of appellate practice.",
+  "legalKeywords": [
+    "practice note",
+    "extension of time",
+    "appeal",
+    "native court",
+    "ex parte",
+    "on notice",
+    "right to be heard",
+    "procedural fairness",
+    "Supreme Court",
+    "Gold Coast"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Procedural Fairness",
+    "Native Courts",
+    "Extension of Time",
+    "Legal Practice"
+  ],
+  "verdict": "Application for extension of time must be made on notice to allow respondent the right to be heard.",
+  "winningSide": "Procedural rule established in favor of due process",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Manyo-Plange J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Ashanti Division, Land Court, Kumasi",
+    "country": "Ghana"
+  },
+  "caseType": "procedural",
+  "citations": [
+    "Evennett v. Lawrence (1876) 4 Ch.D. 139",
+    "Absi v. Mends (1935) 2 W.A.C.A. 238"
+  ],
+  "rationaleHighlights": [
+    "Application for extension of time to appeal must not be ex parte",
+    "Respondent must be given opportunity to be heard",
+    "Follows precedent from Evennett v. Lawrence and Absi v. Mends",
+    "Ensures procedural fairness in appellate process"
+  ],
+  "confidenceNotes": "The document is a practice note rather than a full judgment, so some fields are inferred based on standard legal practice.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/PRACTICE NOTE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:25:23.827Z",
+    "plainTextLength": 1281
+  }
+}

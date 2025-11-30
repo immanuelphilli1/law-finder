@@ -1,0 +1,70 @@
+{
+  "caseTitle": "IN THE MATTER OF LAND AT NKWANTAMANG REQUIRED FOR THE SERVICE OF THE GOLD COAST COLONY AND IN THE MATTER OF THE PUBLIC LANDS ORDINANCE",
+  "summary": "This 1933 West African Court of Appeal case involved a dispute over compensation for land acquired by the Gold Coast government near Nkwantanang. The appellants, C. Boi Owusu and A. A. Dsane, claimed ownership based on four generations of uninterrupted possession by their ancestor Kotei Amli, asserting the land was unoccupied when first settled. The respondent, the Manche of Labadi Stool, argued the land was originally acquired by conquest and formed part of the Labadi Stool lands, with the appellants merely enjoying customary use as subjects. The Court upheld the lower court's decision in favor of the Stool, holding that long user alone does not extinguish Stool title under native custom. Constructive occupation through shifting cultivation was acknowledged, but deemed not adverse to the Stool. Alleged acts of ownership—toll collection and a land grant to the Basel Mission—were rejected as insufficient proof of title. The judgment affirmed that compensation should be received by the Stool, with appellants entitled to a share under customary distribution.",
+  "legalKeywords": [
+    "land title",
+    "stool land",
+    "native custom",
+    "long user",
+    "constructive occupation",
+    "adverse possession",
+    "compensation",
+    "Public Lands Ordinance",
+    "conquest",
+    "tolls",
+    "Basel Mission",
+    "Nkwantanang",
+    "Labadi Stool",
+    "shifting cultivation",
+    "equitable principles"
+  ],
+  "topics": [
+    "land law",
+    "customary law",
+    "compensation",
+    "native title",
+    "stool land"
+  ],
+  "verdict": "The appeal was dismissed. The claim for compensation was awarded to the Manche of Labadi as representative of the Stool. The appellants' claim based on private ownership was rejected.",
+  "winningSide": "Manche of Labadi (respondent)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Henley Coussey",
+      "role": "Counsel for appellants"
+    },
+    {
+      "name": "A. Sawyerr",
+      "role": "Counsel for respondent"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "land compensation dispute",
+  "citations": [
+    "Manche Anege Akue v. Manche Kojo Ababio IV, P.e. 1874-1928, 71",
+    "Public Lands Ordinance, s 6(4)",
+    "Bura and Amonoo v. Ampina, Sarbah's Fanti Customary Law, p. 214"
+  ],
+  "rationaleHighlights": [
+    "Long and uninterrupted user by subjects does not in itself oust the Stool's title to land.",
+    "Occupation under native farming customs (shifting cultivation) constitutes constructive occupation but not adverse possession.",
+    "Land acquired by conquest becomes Stool land, and subsequent settlement by subjects does not alter title.",
+    "Acts such as toll collection and land grants to missionaries do not prove ownership where inconsistent with native custom.",
+    "Courts must distinguish between legal title and entitlement to share in compensation under customary law."
+  ],
+  "confidenceNotes": "High confidence; the judgment is clear and well-reasoned with explicit findings on key issues of fact and law.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/BOI  OWUSU   AND A. A. DSANE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:52:30.272Z",
+    "plainTextLength": 15701
+  },
+  "trialDate": "1933-05-15"
+}

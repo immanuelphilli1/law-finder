@@ -1,0 +1,63 @@
+{
+  "caseTitle": "COMMISSIONER OF POLICE VERSUS DWAMINA.",
+  "summary": "The Supreme Court of the Gold Coast upheld the conviction of the appellant, Dwamina, for obtaining money by false pretences under section 293 of the Criminal Code. The appellant falsely represented himself as a building contractor needing funds to buy diamonds for resale, thereby inducing Amegbe to lend him £300. The court held that the intent to defraud was established by the false statements made knowingly, regardless of any intention to repay. The court also ruled that Amegbe was not an accomplice (particeps criminis) as he did not participate in the offence, and thus his uncorroborated testimony could be relied upon. The appeal was dismissed.",
+  "legalKeywords": [
+    "false pretences",
+    "intent to defraud",
+    "criminal deception",
+    "accomplice",
+    "particeps criminis",
+    "corroboration",
+    "misrepresentation",
+    "loan fraud",
+    "evidence of witness",
+    "dishonest representation",
+    "Criminal Code",
+    "judicial discretion",
+    "dangerous to convict on uncorroborated evidence",
+    "inducement to lend",
+    "fraudulent conduct"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence Law",
+    "Fraud",
+    "Appellate Decision"
+  ],
+  "verdict": "Appeal dismissed; conviction upheld",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Smith",
+      "role": "Acting Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "R. v. Carpenter (22 Cox 618)",
+    "Davies v. Director of Public Prosecutions [1954] 1 All E.R. 507",
+    "Criminal Code, c. 9, ss. 39, 40, 293"
+  ],
+  "rationaleHighlights": [
+    "False statements made knowingly to induce a loan constitute fraud, irrespective of intent to repay.",
+    "The mode of obtaining money through deception satisfies the 'intent to defraud' under the law.",
+    "Amegbe was not a participant in the crime and thus not an accomplice.",
+    "No requirement for corroboration where the witness is not an accomplice.",
+    "The magistrate properly considered the reliability of the witness's testimony.",
+    "The appellant’s conduct after receiving the money was deemed fraudulent.",
+    "Legal principle from R. v. Carpenter applied: loan does not negate fraud.",
+    "Definition of 'accomplice' strictly interpreted based on participation in the offence."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct judicial reasoning and cited authorities. Case predates modern Ghanaian republic but applies extant Gold Coast laws foundational to current Ghanaian criminal law.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/COMMISSIONER OF POLICE v. DWAMINA..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:11:04.604Z",
+    "plainTextLength": 10930
+  }
+}

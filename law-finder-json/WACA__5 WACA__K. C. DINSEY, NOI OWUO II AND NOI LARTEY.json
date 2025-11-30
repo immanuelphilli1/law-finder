@@ -1,0 +1,76 @@
+{
+  "caseTitle": "K. C. DINSEY, NOI OWUO II AND NOI LARTEY",
+  "summary": "This is an appeal from a decision by the Acting Deputy Provincial Commissioner of the Eastern Province, who set aside a Native Tribunal's judgment awarding damages for trespass in a creek known as Lubu. The Native Tribunal had found in favor of the plaintiffs-appellants, K. C. Dinsey, Noi Owuo II, and Noi Lartey, holding that the defendants' village was built too close to the creek and would be fully covered during overflow. The Acting Deputy Provincial Commissioner nullified the ruling on the grounds that no land was specifically mentioned in connection with the creek in relevant documents. On appeal, the West Africa Court of Appeal held that the Commissioner took too narrow a view of the term 'creek,' which should include the area between the lowest ebb and highest flow under normal conditions. The Court emphasized that Native Tribunals, having local knowledge and direct witness testimony, are better positioned to make factual determinations. It reaffirmed the principle that appellate courts should not be overly strict regarding procedural technicalities in Native Tribunal cases, citing Archie Kwow v. Ohene Essien Eku II (2 W.A.C.A. 180). Although the original claim was for trespass, the case effectively became one of title between the plaintiffs and co-defendant Tei Wayoe, which was properly adjudicated. The Court upheld the Tribunal’s decision, restored the award of damages, and allowed the appeal with costs.",
+  "legalKeywords": [
+    "creek",
+    "land ownership",
+    "trespass",
+    "title dispute",
+    "native tribunal",
+    "finding of fact",
+    "appeal",
+    "ebb and flow",
+    "procedural irregularity",
+    "damages",
+    "jurisdictional boundary",
+    "customary law",
+    "flood level",
+    "property rights",
+    "common sense interpretation",
+    "tidal flow",
+    "overriding facts",
+    "deputy provincial commissioner",
+    "practical determination",
+    "local knowledge"
+  ],
+  "topics": [
+    "Property Law",
+    "Appellate Procedure",
+    "Customary Land Tenure",
+    "Trespass",
+    "Judicial Review"
+  ],
+  "verdict": "Appeal allowed; judgment of the Native Tribunal restored with damages upheld.",
+  "winningSide": "Plaintiffs-Appellants (K. C. Dinsey, Noi Owuo II, and Noi Lartey)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Strother-Stewart",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Doorly",
+      "role": "Justice"
+    },
+    {
+      "name": "M'Carthy",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "2 W.A.C.A. 180"
+  ],
+  "rationaleHighlights": [
+    "The term 'creek' includes land between lowest ebb and highest flow under normal conditions.",
+    "Native Tribunal's factual findings are entitled to deference due to local knowledge and witness credibility.",
+    "Courts should not be overly strict on procedural matters in appeals from Native Tribunals.",
+    "The real issue between parties—title—was adjudicated, despite form of trespass claim.",
+    "Damages for unlawful occupation upheld where title is established.",
+    "Acting Deputy Provincial Commissioner erred in narrowly interpreting 'creek' without defining it.",
+    "Principle from Archie Kwow v. Ohene Essien Eku II (2 W.A.C.A. 180) applied: substance over form in Native Tribunal appeals.",
+    "Irregularity in pleading did not cause injustice and does not justify setting aside judgment."
+  ],
+  "confidenceNotes": "High confidence; source is a published appellate decision with clear judicial reasoning and citation to precedent.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/K. C. DINSEY, NOI OWUO II AND NOI LARTEY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:46:35.103Z",
+    "plainTextLength": 7950
+  },
+  "trialDate": "1939-12-04"
+}

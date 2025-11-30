@@ -1,0 +1,38 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The provided document does not contain a legal decision or case details but appears to be a homepage or introductory page for an online legal resource called 'Ghana Law Finder.' It includes a title, a brief description of self-help legal services, and contact information. There is no judicial content, ruling, or case analysis present in the text.",
+  "legalKeywords": [
+    "Ghana Law Finder",
+    "legal resource",
+    "self-help guide",
+    "case index",
+    "legal library",
+    "online legal service",
+    "Tony Kaddy",
+    "copyright notice",
+    "review of Ghana law",
+    "legal information portal"
+  ],
+  "topics": [
+    "Legal Research",
+    "Online Legal Resources"
+  ],
+  "verdict": "not applicable",
+  "winningSide": "not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "not applicable",
+    "country": "Ghana"
+  },
+  "caseType": "not applicable",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "Low confidence in deriving legal case insights due to absence of actual case content; the document is administrative or informational in nature.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/90b/TEMP.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:58:14.026Z",
+    "plainTextLength": 295
+  }
+}

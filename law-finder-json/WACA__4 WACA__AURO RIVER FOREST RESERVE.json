@@ -1,0 +1,74 @@
+{
+  "caseTitle": "IN THE MATTER OF THE AURO RIVER FOREST RESERVE AND THE CLAIMS OF",
+  "summary": "This 1938 West Africa Court of Appeal decision addressed appeals concerning lump sum assessments for rights commuted in the Auro River Forest Reserve, Ghana. The original Reserve Settlement Commissioner, William Hugh Beeton, had rejected claims under section 11(1) of the Forests Ordinance. The appellants successfully appealed, leading the Court to remit the claims for assessment. However, before completion, Beeton was replaced by Henry Christopher Ellershaw, who conducted hearings and issued assessments without submitting them to the Governor for approval as required. The Court held that the 1936 appellate judgment had set aside Beeton’s original decision entirely, necessitating a new final judgment under section 13. Since Ellershaw’s assessments were not finalized via gubernatorial approval and no complete judgment was issued, the subsequent appeals were premature and invalid. The Court struck out the appeals, ordered refunds of fees, and in obiter dictum emphasized that either the original commissioner should complete the assessment or a new one must rehear the entire matter to ensure procedural integrity.",
+  "legalKeywords": [
+    "Forest Ordinance",
+    "Reserve Settlement Commissioner",
+    "lump sum assessment",
+    "commutation of rights",
+    "Governor's approval",
+    "section 11(1)",
+    "section 13",
+    "section 14",
+    "final judgment",
+    "appeal jurisdiction",
+    "procedural validity",
+    "obiter dictum",
+    "successor commissioner",
+    "judicial continuity",
+    "condition precedent"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Forest Law",
+    "Appellate Procedure",
+    "Judicial Review",
+    "Land Rights"
+  ],
+  "verdict": "Appeals struck out",
+  "winningSide": "Conservator of Forests (procedurally)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webb",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Administrative Appeal",
+  "citations": [
+    "Forests Ordinance (Cap. 63)",
+    "Gazette Notice No. 826 (1935)",
+    "Gazette Notice No. 983 (1937)",
+    "Section 5(2)",
+    "Section 11(1)",
+    "Section 13",
+    "Section 14"
+  ],
+  "rationaleHighlights": [
+    "The appellate judgment of 1936 set aside the original Commissioner's decision in toto, requiring a new complete final judgment under section 13.",
+    "Finality of judgment under the Ordinance requires the Governor’s approval of lump sum assessments as a condition precedent.",
+    "Ellershaw’s so-called judgment was not a valid final judgment because it lacked gubernatorial approval and could not support an appeal.",
+    "Appeals were premature and invalid due to absence of a final, operative judgment.",
+    "Obiter dictum advised that either the original commissioner should reassess or a new commissioner must rehear the entire case to maintain judicial integrity."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and procedural details from the primary source document. All legal references and procedural steps are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/AURO RIVER FOREST RESERVE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:06:53.569Z",
+    "plainTextLength": 8757
+  },
+  "trialDate": "1938-12-07"
+}

@@ -1,0 +1,68 @@
+{
+  "caseTitle": "ROD AMUDZI v. JOHN KWABLATSE AMLI",
+  "summary": "This is a civil appeal before the Ghana Court of Appeal concerning a dispute over repayment of a group loan obtained in 1977 by the Atiavi Multi Purpose Co-operative Society from the Agricultural Development Bank (ADB). The appellant, a member of the Society, received 13 million cedis of the 30 million cedis loan but failed to repay the balance of 13,622,489 cedis. The respondent, as president of the Society, sued to recover the debt and damages. The Denu High Court entered judgment for 14,312,391 cedis plus 3.5 million cedis in damages. On appeal, the appellant challenged the respondent's capacity to sue and claimed the judgment was against the weight of evidence. The Court of Appeal dismissed the appeal, holding that the respondent had standing to sue in a representative capacity under the principle in Ghana Muslim Representative Council v. Salifu, especially given the appellant's admissions in pleadings. The court found the appellant's challenge to capacity frivolous and affirmed that the Society had a direct creditor-debtor relationship with the appellant. The appeal was dismissed.",
+  "legalKeywords": [
+    "capacity to sue",
+    "representative action",
+    "group loan",
+    "joint and several liability",
+    "fiduciary relationship",
+    "debt recovery",
+    "creditor-debtor relationship",
+    "loan disbursement",
+    "interest on agricultural loan",
+    "admissions in pleadings"
+  ],
+  "topics": [
+    "Debt Recovery",
+    "Civil Procedure",
+    "Cooperative Societies",
+    "Standing to Sue",
+    "Appellate Law"
+  ],
+  "verdict": "Appeal dismissed.",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "J.B. Akamba",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "R. C. Owusu",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Anin-Yeboah",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Ghana Muslim Representative Council vs. Salifu (1975) 2 GLR 246 C.A",
+    "Dzanku vs Afalenu (1968) GLR 792",
+    "Akufo Addo vs. Catheline (1992) 1 GLR 377",
+    "Quagraine v. Adams (1981) GLR 599, CA",
+    "Joseph Kolog-Awad Mumuni vs. Accra Brewery Ltd, C/A No. 95/2001, 27th February 2003 (unreported)",
+    "Practice & Procedure In The Trial Courts & Tribunals of Ghana by S.A Brobbey"
+  ],
+  "rationaleHighlights": [
+    "The plaintiff had capacity to sue as president of the Society in a representative capacity to recover debts owed by a member.",
+    "Admissions in the defendant's statement of defence estopped him from later challenging the plaintiff's capacity.",
+    "The Society had a creditor-debtor relationship with the appellant, independent of the Bank's claim.",
+    "Failure to cross-examine on the existence of loan regulations amounted to tacit admission of their existence.",
+    "The appeal was dismissed as frivolous and vexatious due to lack of merit in the grounds pursued."
+  ],
+  "confidenceNotes": "All information is derived directly from the provided judgment text. Citations are explicitly referenced in the decision. Key facts, legal reasoning, and procedural history are clearly stated in the record.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/DAN ROD AMUDZI v. JOHN KWABLATSE AMLI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:38:31.875Z",
+    "plainTextLength": 16401
+  },
+  "trialDate": "2004-02-20"
+}

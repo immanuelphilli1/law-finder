@@ -1,0 +1,95 @@
+{
+  "caseTitle": "BAFFOUR OSEI-AKOTO VRS. THE ATTORNEY-GENERAL",
+  "summary": "The Supreme Court of Ghana, in Baffour Osei-Akoto v. The Attorney-General (2012), unanimously held that executive instruments used by the President to create districts under the Local Government Act, 1993 (Act 462) are not subject to the requirements of Article 11(7) of the 1992 Constitution. The plaintiff argued that such instruments—specifically E.I. 80, 81, and 82 of 2011—must be laid before Parliament, published in the Gazette, and remain for 21 sitting days before taking effect, as per constitutional provisions on Orders, Rules, or Regulations. The Court rejected this, distinguishing executive instruments from legislative subsidiary instruments, emphasizing that executive instruments are administrative or executive in nature and not legislative. Relying on the Interpretation Act, 2009 and the principle of *noscitur a sociis*, the Court concluded that Article 11(7) applies only to instruments of a legislative character. The decision reaffirmed the precedent in Amegatcher v. Attorney-General, confirming that district creation via executive instrument is a valid exercise of executive power, not subsidiary legislation.",
+  "legalKeywords": [
+    "executive instrument",
+    "Article 11(7) Constitution",
+    "subsidiary legislation",
+    "Local Government Act 1993",
+    "statutory instrument",
+    "judicial review",
+    "separation of powers",
+    "noscitur a sociis",
+    "constitutional interpretation",
+    "executive power",
+    "legislative power",
+    "Ghana Supreme Court",
+    "district creation",
+    "Attorney-General",
+    "Amegatcher v Attorney-General",
+    "Interpretation Act 2009",
+    "Rule of Interpretation",
+    "constitutional validity",
+    "administrative character",
+    "judicial character"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Separation of Powers",
+    "Judicial Review",
+    "Local Government"
+  ],
+  "verdict": "The executive instruments (E.I. 80, 81, 82) were upheld as valid; the plaintiff's claim was dismissed.",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Adinyira (Mrs.)",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin-Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebe",
+      "role": "Justice"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs.)",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Challenge",
+  "citations": [
+    "Amegatcher v Attorney-General (Suit No J1/8/2012, 26th July 2012)",
+    "Republic v Minister for the Interior; Ex parte Bombelli [1984-86] 1 GLR 204",
+    "Interpretation Act, 2009 (Act 792)",
+    "Local Government Act, 1993 (Act 462)",
+    "Statutory Instruments Act, 1959 (No 52 of 1959)"
+  ],
+  "rationaleHighlights": [
+    "Executive instruments are not of a legislative character and thus fall outside Article 11(7) of the 1992 Constitution.",
+    "The phrase 'Order, Rule or Regulation' in Article 11(7) must be interpreted contextually using *noscitur a sociis*, limiting it to legislative instruments.",
+    "Executive instruments, though statutory, are administrative and do not constitute subsidiary legislation.",
+    "The Memorandum to the Interpretation Bill, 2009 is interpretive aid but not binding on the Court.",
+    "The decision in Amegatcher v Attorney-General confirms that district creation by executive instrument is constitutional.",
+    "Laying executive instruments before Parliament would undermine executive efficiency, especially in emergencies.",
+    "The plaintiff's argument mischaracterized executive action as subsidiary legislation, contrary to established precedent.",
+    "The Court affirmed the separation of powers by respecting Parliament's delegation of executive authority."
+  ],
+  "confidenceNotes": "The judgment is unanimous and grounded in clear statutory and constitutional interpretation. The Court explicitly rejects the plaintiff's reliance on the Interpretation Act's Memorandum as binding, reinforcing judicial independence in constitutional interpretation. The precedent from Amegatcher is authoritatively reaffirmed.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/BAFFOUR OSEI-AKOTO  VRS. THE ATTORNEY-GENERAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:37:34.195Z",
+    "plainTextLength": 19441
+  }
+}

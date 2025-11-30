@@ -1,0 +1,89 @@
+{
+  "caseTitle": "EFFASCO LIMITED v. SCANSHIP (GH)",
+  "summary": "In this Ghanaian Supreme Court case, Effasco Limited sued Scanship (Gh) Limited over the loss of cargo—two road rollers, grease, and brake fluid—during sea transit from Tilbury, UK, to Tema, Ghana. The cargo, properly packed and secured by the plaintiff's agents, was lost at sea despite the container arriving empty. The plaintiff won at both the High Court and Court of Appeal, with liability placed on the carrier’s agents for improper stowage and failure to secure the container on the ship's upper deck. The Supreme Court upheld the finding of negligence, rejecting the argument that insufficient packing caused the loss. Although the trial court wrongly excluded Exhibit M (a ship’s log), its exclusion did not cause a miscarriage of justice as it did not exonerate the carrier. The Court emphasized carriers' duty under the contract of carriage to properly and carefully stow and secure cargo, especially when aware of its nature and risks.",
+  "legalKeywords": [
+    "negligence",
+    "contract of carriage",
+    "bill of lading",
+    "Hague Rules",
+    "inherent vice",
+    "carrier liability",
+    "stowage",
+    "evidence admissibility",
+    "hearsay exception",
+    "business records",
+    "burden of proof",
+    "customary practice",
+    "logbook entry",
+    "maritime law",
+    "cargo damage",
+    "fundamental breach",
+    "duty of care",
+    "exculpatory clause",
+    "proof of loss",
+    "sound system of stowage"
+  ],
+  "topics": [
+    "Maritime Law",
+    "Contract Law",
+    "Evidence Law",
+    "Tort Law",
+    "Commercial Law"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Ampiah, J.S.C.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Kpegah, J.S.C.",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Adjabeng, J.S.C.",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Acquah, J.S.C.",
+      "role": "Member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Albacora S.R.L. v. Westcott & Laurance Line, Ltd. (1966) 2 Lloyd's Law Reports 53",
+    "G.H. Renton & Co. Ltd. v. Palmyra Trading Corporation [1957] A.C. 149",
+    "The Continental Shipper (1976) 2 Lloyd's Law Reports 234",
+    "Svenska Traktor Aktiebolaget v. Maritime Agencies (Southampton) Ltd. (1953) 3 WLR 426",
+    "The Washington (1976) 2 Lloyd's Law Reports 453",
+    "Evidence Decree, 1975 (N.R.C.D. 323), Sections 117 and 125"
+  ],
+  "rationaleHighlights": [
+    "Carriers have a duty to properly and carefully stow cargo according to its nature and voyage conditions.",
+    "The term 'properly' in carriage contracts means a sound system considering all known circumstances, not just general practice.",
+    "Exclusion of a ship's log (Exhibit M) was error but did not cause substantial miscarriage of justice.",
+    "Negligence was established due to failure to monitor and secure cargo during rough weather.",
+    "Plaintiff's goods were sufficiently packed; loss was due to carrier's fault, not inherent vice.",
+    "Carrier's delayed response to storm conditions constituted breach of duty.",
+    "Customary stowage on upper deck does not excuse negligent securing of cargo.",
+    "Business records like logbooks may be admissible under hearsay exceptions if trustworthy."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and citation of legal provisions and precedents. All key elements of the case are clearly documented in the judgment text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2001A/EFFASCO LIMITED v. SCANSHIP (GH).htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:44:21.255Z",
+    "plainTextLength": 18800
+  },
+  "trialDate": "21ST FEBRUARY, 2001"
+}

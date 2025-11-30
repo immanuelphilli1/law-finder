@@ -1,0 +1,68 @@
+{
+  "caseTitle": "REX v KOFI MARFO",
+  "summary": "This is an appeal from a murder conviction in Ashanti, Ghana, where Kofi Marfo was tried alongside Yaw Frimpong before a judge and assessors. The assessors were divided in their opinion: one found guilt, one found the case not proved, and one found the accused not guilty. The trial judge convicted under section 260 of the Criminal Procedure Code. On appeal, the West African Court of Appeal allowed the appeal and quashed the conviction, holding that the evidence did not meet the required standard of proof for murder. A key factor was the 14-day delay by eyewitnesses in reporting the crime, which introduced a reasonable doubt, consistent with the views of two assessors. The court also noted that the appellants should have had separate trials due to inimical defences.",
+  "legalKeywords": [
+    "murder",
+    "assessors",
+    "weight of evidence",
+    "standard of proof",
+    "delay in reporting",
+    "separate trials",
+    "inimical defences",
+    "conviction quashed",
+    "appeal allowed",
+    "criminal procedure"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Review",
+    "Evidence",
+    "Right to Fair Trial",
+    "Murder"
+  ],
+  "verdict": "Conviction quashed on appeal due to insufficient evidence and reasonable doubt arising from delayed eyewitness testimony.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Yates",
+      "role": "Justice"
+    },
+    {
+      "name": "Barton",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Knowles v. The King (1930) A.C. 366",
+    "West African Court of Appeal Ordinance, 1935, s 10(1)",
+    "Criminal Procedure Code, s 260"
+  ],
+  "rationaleHighlights": [
+    "Assessors were divided: one for guilt, one for not proved, one for not guilty.",
+    "Judge convicted under s 260 CPC despite split assessors.",
+    "14-day delay by eyewitnesses to report raises doubt.",
+    "Court applied standard of proof required for murder not met.",
+    "Appeal allowed due to insufficient evidence.",
+    "Suggestion that separate trials were necessary due to inimical defences.",
+    "Reliance on Knowles v. The King regarding appellate review standard.",
+    "Conviction quashed based on reasonable doubt."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on primary source text and clear judicial reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/REX v KOFI MARFO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:12:00.892Z",
+    "plainTextLength": 3381
+  },
+  "trialDate": "1986-09-26"
+}

@@ -1,0 +1,71 @@
+{
+  "caseTitle": "IN THE MATTER OF THE ESTATE OF KODJO OYEMAN BROWN (DECEASED) AND IN THE MATTER OF AN APPLICATION FOR L/A",
+  "summary": "The Court of Appeal of Ghana dismissed an appeal concerning the distribution of the intestate estate of Kodjo Oyeman Brown, who died on 22nd February 1986, survived by three wives and twenty-one children. The appellant, Mercy Sagoe (a widow), challenged the trial judge's distribution of Plot No. 30 Korle Gonno, where she was allocated the 'outhouse' and Diana Appiah (another widow) the 'main house'. The appellant argued that the trial judge erred in using alphabetical order to determine selection priority, failed to follow customary law favoring larger family groups, disregarded prior agreements, and allowed unjust enrichment from pre-distribution expenditures. The appellate court found no legal or factual error, noting both structures were of equal value, the distribution respected existing occupation, and the trial judge considered family agreements, prior possession, and statutory distribution ratios under PNDCL 111. The appeal was dismissed, upholding the trial court's equitable and fair distribution.",
+  "legalKeywords": [
+    "intestate succession",
+    "letters of administration",
+    "customary law",
+    "equitable distribution",
+    "appellate review",
+    "property division",
+    "surviving spouses",
+    "children's inheritance",
+    "PNDCL 111",
+    "judicial discretion",
+    "family property dispute",
+    "occupational status",
+    "distribution ratios",
+    "appellate jurisdiction",
+    "status quo"
+  ],
+  "topics": [
+    "Inheritance Law",
+    "Probate Dispute",
+    "Family Law",
+    "Property Rights",
+    "Appellate Decision"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Mrs. G.T. Wood",
+      "role": "Presiding Justice of Appeal"
+    },
+    {
+      "name": "A. Essilfie-Bondzie",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "N.S. Gbadegbe",
+      "role": "Justice of the High Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "PNDCL 111"
+  ],
+  "rationaleHighlights": [
+    "The trial judge did not err in using alphabetical order for administrative clarity, not decision-making.",
+    "Both buildings on Plot 30 Korle Gonno were of equal value despite descriptive labels.",
+    "Distribution respected prior occupation and mutual agreements among beneficiaries.",
+    "The trial judge considered statutory ratios under PNDCL 111 and family group sizes in overall distribution.",
+    "Appellate court will not interfere absent legal error, factual misjudgment, or abuse of discretion.",
+    "The appellant received more flats overall (9 vs. rival's 6), indicating consideration of her larger family.",
+    "No evidence that other similarly situated parties were treated differently.",
+    "Maintaining the status quo was consistent with fairness and equity."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text with clear factual and legal references.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/IN THE MATTER OF THE ESTATE OF KODJO OYEMAN BROWN (DECEASED) AND IN THE MATTER OF AN APPLICATION FOR LA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:29:08.935Z",
+    "plainTextLength": 13575
+  },
+  "trialDate": "1998-01-22"
+}

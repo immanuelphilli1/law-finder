@@ -1,0 +1,73 @@
+{
+  "caseTitle": "KWEIKAILEY KOTEY & 3 ORS. v. SAMMY WILLIAMS & ANOR.",
+  "summary": "This interlocutory appeal before the Ghana Court of Appeal arose from a High Court order granting an interim injunction that restrained both parties from interfering with a disputed parcel of land (House No. D930/3, Thorpe and Club Roads, Accra). The defendants/appellants challenged the injunction, arguing that prior court decisions—including judgments from the Accra Central Local Court (1960), High Court (Ollenu, J., 1961), Court of Appeal (1969), and a Circuit Court ruling in their favor (2000)—had already established their lawful lease and possession, rendering the plaintiffs' suit an abuse of process. The plaintiffs/respondents claimed ownership through inheritance and argued that the 1977 lease to the defendants was invalid due to the lessor's lack of authority. They also contended that a compromise had nullified earlier judgments. The Court of Appeal scrutinized exhibits and prior rulings, noting that the compromise was not proven to predate the lease and thus could not bind the defendants. While expressing grave doubts about the plaintiffs' claim, the Court did not definitively rule on title but focused on the propriety of the injunction. It emphasized the principle from Venderpuye v. Nartey that interlocutory injunctions should preserve the status quo to prevent irreparable harm, provided the claim is not frivolous. The document appears to be truncated before the final disposition.",
+  "legalKeywords": [
+    "interlocutory appeal",
+    "injunction",
+    "land title",
+    "lease validity",
+    "frivolous suit",
+    "status quo",
+    "family property",
+    "customary law",
+    "res judicata",
+    "abuse of process",
+    "tenancy",
+    "compromise agreement",
+    "letters of administration",
+    "trespass",
+    "recovery of possession"
+  ],
+  "topics": [
+    "Land Law",
+    "Injunctions",
+    "Property Disputes",
+    "Succession and Family Property",
+    "Judicial Precedent"
+  ],
+  "verdict": "The judgment appears to be truncated before the final determination; however, the Court expressed grave legal objections to the plaintiffs' claim and strongly suggested the injunction may have been improperly granted given prior binding judgments.",
+  "winningSide": "Likely the Defendants/Appellants, based on the Court's strong criticism of the plaintiffs' claim and recognition of prior judgments in favor of the defendants, though the final order is not fully stated due to truncation.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "ANIM, J.A.",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "MISS OWUSU J. A.",
+      "role": "Presiding"
+    },
+    {
+      "name": "AKAMBA, J. A.",
+      "role": "Member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "KWEIKAILEY KOTEY & 3 ORS. v. SAMMY WILLIAMS & ANOR. [13/02/04] CA. NO. H1/2/2004",
+    "VENDERPUYE VRS. NARTEY (1977) 1 GLR 428",
+    "AMERICAN CYANAMID CO VRS ETHICON LTD (1975) 1 ALL ER 504",
+    "POUTNEY V. DOEGAH (1987-88) 1 GLR 111 C.A",
+    "MUSICIANS UNION OF GHANA VRS. ABRAHAM (1982-83) GLR 337",
+    "FOOD SPECIALITIES GHANA LTD V. TECHNICALS de MULTICONSTRUCTION SA (1887-88) 2 GLR 179 CA"
+  ],
+  "rationaleHighlights": [
+    "The Court found grave legal objections to the plaintiffs' claim, particularly regarding prior judicial determinations on title.",
+    "The trial court's injunction was challenged on grounds of abuse of process and failure to consider binding prior judgments.",
+    "The Court emphasized that the compromise of the Ollenu judgment was not proven to have occurred prior to the 1977 lease, thus not binding the defendant lessee.",
+    "The appeal turned on whether the injunction maintaining status quo was justified despite prior litigation on the same land.",
+    "The Court referenced Venderpuye v. Nartey to affirm that preserving the status quo is key in interlocutory injunctions, provided the claim is not frivolous."
+  ],
+  "confidenceNotes": "The source document is truncated near the end, potentially omitting final portions of the court's reasoning and the ultimate disposition. However, sufficient content is present to extract core legal elements, parties, and reasoning with high confidence.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/KWEIKAILEY KOTEY & 3 ORS. v. SAMMY WILLIAMS & ANOR..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:21:50.218Z",
+    "plainTextLength": 16904
+  },
+  "trialDate": "13TH FEBRUARY 2004"
+}

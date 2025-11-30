@@ -1,0 +1,87 @@
+{
+  "caseTitle": "ADU KOFI DJIN v SEIDU MUSA BAAKO",
+  "summary": "In Adu Kofi Djin v Seidu Musa Baako, a land dispute in Ghana, the Supreme Court reviewed whether the defendant's counterclaim was statute-barred under the Limitation Decree 1972 (NRCD 54). The trial court had recognized the defendant's family's title but erroneously granted the plaintiff relief based on adverse possession, declaring the counterclaim statute-barred. The Court of Appeal reversed, favoring the defendant. The Supreme Court held that the trial judge erred in applying the Limitation Decree retroactively and in miscalculating the adverse possession period. It affirmed that the defendant, as administrator of his father's estate, had capacity to sue. The court found that the plaintiff's claim derived from a void grant due to lack of proprietary right by the grantors, rendering the plaintiff's title invalid. The defendant’s counterclaim was not statute-barred, as the limitation period did not run from 1966, and the plaintiff failed to prove uninterrupted adverse possession. The appeal was dismissed, upholding the defendant's title and counterclaim.",
+  "legalKeywords": [
+    "Limitation Decree 1972 NRCD 54",
+    "adverse possession",
+    "statute barred",
+    "Letters of Administration",
+    "capacity to sue",
+    "title to land",
+    "void grant",
+    "estoppel",
+    "Islamic Custom",
+    "Land Adjudicating Committee",
+    "jurisdictional error",
+    "appellate review",
+    "reversal of judgment",
+    "proprietary right",
+    "counterclaim"
+  ],
+  "topics": [
+    "Land Law",
+    "Limitation of Actions",
+    "Succession and Administration",
+    "Judicial Precedent",
+    "Appellate Procedure"
+  ],
+  "verdict": "Dismissed",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Aninakwah",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Mrs. Wood",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Prof. Ocran",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Ansah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Aninakwa",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Limitation Decree 1972 NRCD 54",
+    "Manu v Yeboah (1982-83) GLR 34",
+    "Marfo v Adusei (1964) GLR 365 SC",
+    "Mosi v Bagyina (1963) 1 GLR 337 SC",
+    "Chan Kit San vs Ho Fung Hang (1902) AC 257"
+  ],
+  "rationaleHighlights": [
+    "The trial court erred in applying the Limitation Decree retroactively to 1966, before its enactment in 1973.",
+    "The grant to the plaintiff's father was void ab initio due to lack of proprietary right by the grantors.",
+    "The defendant had legal capacity to bring the counterclaim as administrator of his father's estate.",
+    "The plaintiff failed to prove uninterrupted adverse possession for the statutory period.",
+    "The Court of Appeal correctly reversed the trial court's judgment.",
+    "The Supreme Court affirmed that a void sale does not transfer title, regardless of possession.",
+    "Estoppel was raised but not determinative due to the void nature of the plaintiff's title.",
+    "The Limitation period runs from the grant of Letters of Administration for intestate estates."
+  ],
+  "confidenceNotes": "High confidence; information extracted directly from judicial reasoning, pleadings, and statutory references in the judgment. Some formatting issues in source text but key legal holdings and facts are clearly stated.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2006A/ADU KOFI DJIN  v SEIDU MUSA BAAKO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:27:51.879Z",
+    "plainTextLength": 17698
+  },
+  "trialDate": "2006-11-15"
+}

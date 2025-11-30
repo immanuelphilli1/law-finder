@@ -1,0 +1,73 @@
+{
+  "caseTitle": "JOSEPH DONKOR v. THE REPUBLIC",
+  "summary": "Joseph Donkor appealed his conviction for careless driving under Section 18(1) of R.T.O. 55/52 and negligently causing harm under Section 72 of the Criminal Code, following a collision on the Cape Coast-Takoradi Road. The Court of Appeal upheld the lower tribunals' rulings, finding that Donkor drove without due care when his articulated tanker entered the lane of an oncoming Mercedes Benz, causing it to catch fire. Key evidence included a signed accident sketch placing the point of impact in the victim’s lane, the appellant’s initial police statement corroborating this, and mechanical inspection confirming vehicle operability. Despite claiming emergency evasive action due to a third vehicle, the court held that the peril was self-created through inadequate caution. The appeal was dismissed, affirming both conviction and sentence.",
+  "legalKeywords": [
+    "careless driving",
+    "negligently causing harm",
+    "point of impact",
+    "duty of care",
+    "emergency defense",
+    "burden of proof",
+    "appellate review",
+    "vehicle operation standards",
+    "road traffic accident",
+    "evidence evaluation",
+    "police sketch",
+    "confession statement",
+    "mechanical fault",
+    "speed and control",
+    "prudent driver standard"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Traffic Offenses",
+    "Appellate Procedure"
+  ],
+  "verdict": "Appeal dismissed; conviction for careless driving and negligently causing harm upheld.",
+  "winningSide": "The Republic (State)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "R. C. Owusu",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "G. T. Wood",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadegbe",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal (Criminal Division)",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "ASIBI (HAUSA) VRS FRANCIS EFFAH, Court of Appeal, Civil Appeal NO. 33/69 of 26th February 1970 (unreported)",
+    "LONDON PASSENGER TRANSPORT BOARD VRS. UPSON [1949] A.C. 155",
+    "ASARE alias FANTI VRS THE STATE [1964] GLR 70",
+    "HAUSA VS. THE REPUBLIC [1981] GLR 840",
+    "OWUSU VRS. COMMISSIONER OF POLICE [1963] 1 GLR p.113"
+  ],
+  "rationaleHighlights": [
+    "Appellant failed to maintain proper lookout and admitted not seeing the oncoming vehicle.",
+    "Point of impact in victim's lane supported by signed sketch and initial police statement.",
+    "Appellant's vehicle was in good mechanical condition; accident not due to brake or steering failure.",
+    "Defendant’s claim of emergency not exculpatory, as situation arose from own lack of due care.",
+    "Speed and vehicle size required higher standard of caution, especially at night on curved road.",
+    "Trial and appellate tribunals properly evaluated evidence; no basis to overturn factual findings.",
+    "Negligent driving conviction sustains secondary charge of negligently causing harm.",
+    "Appellant’s inconsistent statements undermined credibility but did not affect admissibility."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct judicial reasoning and procedural consistency across tribunals. Judgment hinges on physical evidence and documented statements.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/JOSEPH DONKOR v. THE REPUBLIC.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:25:06.627Z",
+    "plainTextLength": 15192
+  },
+  "trialDate": "2002-03-13"
+}

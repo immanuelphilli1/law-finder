@@ -1,0 +1,82 @@
+{
+  "caseTitle": "ASAFOATSE LAWER KORNOR DJABAKOR VRS. TETTEHYUM AMARTEY",
+  "summary": "This Supreme Court of Ghana decision resolved a civil land dispute concerning ancestral family land at Old Kadjanya in the Osudoku Traditional Area. The plaintiff, Asafoatse Lawer Kornor Djabakor, claimed ownership on behalf of the Djabakor-Akporsuer-Kornor family and sought declarations of title, forfeiture of a customary license, recovery of possession, refund of compensation paid to a defendant, damages for trespass, mesne profits, and a permanent injunction. The High Court granted all reliefs, but the Court of Appeal reversed on the ground that the plaintiff lacked capacity to sue, citing confusion between 'functional' and 'ceremonial' heads of family. The Supreme Court overturned the Court of Appeal, holding that the plaintiff had sufficiently proven his status as the functional head of the family through witness testimony and documentary evidence, including a 1985 Right of Entry he signed. The defendants failed to rebut this evidence, despite the burden shifting to them. The Court accepted the distinction between functional and ceremonial heads under customary law, affirming that only the functional head has legal capacity to sue. The judgment reinstated the High Court's decision, affirming the plaintiff's title and the defendants' forfeiture of their license due to adverse possession claims.",
+  "legalKeywords": [
+    "customary law",
+    "family land",
+    "head of family",
+    "functional head",
+    "ceremonial head",
+    "licensee",
+    "title declaration",
+    "recovery of possession",
+    "capacity to sue",
+    "injunction",
+    "mesne profits",
+    "trespass damages",
+    "ancestral land",
+    "traditional leadership",
+    "burden of proof"
+  ],
+  "topics": [
+    "land tenure",
+    "customary leadership",
+    "family property",
+    "legal capacity",
+    "injunction"
+  ],
+  "verdict": "The Supreme Court allowed the appeal, set aside the Court of Appeal's decision, and reinstated the High Court's judgment in favor of the plaintiff.",
+  "winningSide": "Plaintiff/Respondent/ Appellant (Asafoatse Lawer Kornor Djabakor)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Aryeetey, JSC",
+      "role": "author of judgment"
+    },
+    {
+      "name": "Brobbey, JSC",
+      "role": "presiding"
+    },
+    {
+      "name": "Date-Bah (Dr), JSC",
+      "role": "member of bench"
+    },
+    {
+      "name": "Yeboah, JSC",
+      "role": "member of bench"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs), JSC",
+      "role": "member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil land dispute",
+  "citations": [
+    "Kwan v. Nyeni [1959] GLR 67",
+    "Yormewu v. Awute [1987-88] 1 GLR 19",
+    "Sarkodee IV v. Boateng II [1982-83] GLR 715",
+    "Takoradi Flour Mills v. Samir [2005-2006] SCGLR 882",
+    "Akrofi v. Otenge [1989-90] 2 GLR 244",
+    "Akrong v. Bulley [1965] GLR 469"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court reinstated the trial court's judgment, holding that the plaintiff had established capacity as the functional head of the family.",
+    "The Court found that the defendants failed to rebut the plaintiff's evidence on headship, despite the burden shifting to them.",
+    "The distinction between 'functional' and 'ceremonial' head was accepted, with the functional head having legal capacity to sue.",
+    "The Court emphasized that under customary law, only the recognized head of family can sue, but acknowledged internal family arrangements.",
+    "Documents such as the 1985 Right of Entry signed by the plaintiff as head were deemed admissible and unchallenged.",
+    "The earlier Circuit Court suit by the ceremonial head was dismissed for lack of capacity, reinforcing that only the functional head could validly bring the action."
+  ],
+  "confidenceNotes": "High confidence in extracted details; all key elements (parties, judgment, legal reasoning) are clearly stated in the document. Some portions of the original text are truncated but do not affect core holdings.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/ASAFOATSE LAWER KORNOR DJABAKOR    VRS.  TETTEHYUM AMARTEY  .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:52:41.498Z",
+    "plainTextLength": 25445
+  },
+  "trialDate": "2010-01-04"
+}

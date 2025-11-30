@@ -1,0 +1,72 @@
+{
+  "caseTitle": "KOFI MENSAH v THE QUEEN",
+  "summary": "Kofi Mensah was convicted of murder for shooting Akua Gyinae, a woman with whom he had been cohabiting and hoped to marry, after she disappointed his marital expectations. He claimed he consumed gin and palm wine, became intoxicated, and had no recollection of the shooting until he found himself beside her, covered in blood. The trial judge dismissed the possibility of a manslaughter verdict and refused to consider intoxication as negating intent, convicting him of murder. On appeal, the West Africa Court of Appeal held that the appellant's conduct did not support a finding of preconceived intent to kill and that the trial judge committed a serious misdirection by failing to consider whether intoxication negated the requisite intent for murder. Citing R. v. Kweku Kotoro and R. v. Kwabena Bio, the court quashed the murder conviction, substituted a conviction for manslaughter, and sentenced the appellant to ten years' imprisonment with hard labour.",
+  "legalKeywords": [
+    "murder",
+    "manslaughter",
+    "intoxication defense",
+    "premeditation",
+    "criminal intent",
+    "misdirection",
+    "assessors",
+    "self-defense",
+    "voluntary intoxication",
+    "actus reus",
+    "mens rea",
+    "criminal liability",
+    "appeal",
+    "verdict substitution",
+    "hard labor"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Murder and Manslaughter",
+    "Defence of Intoxication",
+    "Judicial Misdirection",
+    "Appeal"
+  ],
+  "verdict": "Conviction for murder quashed and substituted with manslaughter.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Jackson, Ag. C.J. (Gold Coast)",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Coussey, J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Quashie Idun, J.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal, Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Kweku Kotoro, 8 W.A.C.A. 88",
+    "R. v. Kwabena Bio, W.A.C.A., 30th May, 1945"
+  ],
+  "rationaleHighlights": [
+    "Appellant's conduct negated preconceived intent to kill",
+    "Unrebutted evidence of intoxication required consideration",
+    "Failure to consider intoxication as negating intent was serious misdirection",
+    "Precedent from R. v. Kweku Kotara applied",
+    "Conviction downgraded due to lack of proven mens rea",
+    "Trial judge wrongly dismissed defense of drunkenness",
+    "Manslaughter verdict permissible under law",
+    "Appeal allowed based on legal error, not factual dispute"
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear factual and legal reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/KOFI MENSAH  v THE QUEEN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:37:22.165Z",
+    "plainTextLength": 6401
+  },
+  "trialDate": "1952-09-11"
+}

@@ -1,0 +1,90 @@
+{
+  "caseTitle": "JANET NAAKARLEY AMEGATCHER VRS THE ATTORNEY-GENERAL, THE ELECTORAL COMMISSION",
+  "summary": "In Janet Naakarley Amegatcher v. Attorney-General & Electoral Commission (Supreme Court, 2012), the plaintiff challenged the constitutionality of provisions in the Local Government Act, 1993 (Act 462) that empowered the President to unilaterally declare new districts and assign names via executive instrument. The Supreme Court held that Article 241(2) of the 1992 Constitution vests the power to redraw district boundaries or reconstitute districts exclusively in Parliament through legislation, not the President. The Court found Section 1(2) of Act 462 inconsistent with the Constitution and therefore void, emphasizing that district creation is a legislative function requiring parliamentary deliberation to prevent partisan abuse. The judgment reinforced constitutional limits on executive power and affirmed Parliament’s role in local government restructuring.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "separation of powers",
+    "judicial review",
+    "local government",
+    "district creation",
+    "executive power",
+    "parliamentary sovereignty",
+    "subsidiary legislation",
+    "purposive interpretation",
+    "constitutional history",
+    "abuse of power",
+    "electoral commission",
+    "presidential authority",
+    "legislative instrument",
+    "executive instrument"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Local Government",
+    "Separation of Powers",
+    "Judicial Review",
+    "Executive Authority"
+  ],
+  "verdict": "The Supreme Court declared Section 1(2) of the Local Government Act, 1993 (Act 462) unconstitutional and void for violating Articles 241(2) and 106(1) of the 1992 Constitution.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Date-Bah",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Atuguba",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Akuffo",
+      "role": "panel judge"
+    },
+    {
+      "name": "Adinyira",
+      "role": "panel judge"
+    },
+    {
+      "name": "Anin-Yeboah",
+      "role": "panel judge"
+    },
+    {
+      "name": "Gbadebe",
+      "role": "panel judge"
+    },
+    {
+      "name": "Akoto-Bamfo",
+      "role": "panel judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "1992 Constitution of Ghana",
+    "Local Government Act, 1993 (Act 462)",
+    "Article 241(2)",
+    "Article 106(1)",
+    "Article 45",
+    "Article 46",
+    "Article 156(3), 1969 Constitution",
+    "Article 182(1), 1979 Constitution"
+  ],
+  "rationaleHighlights": [
+    "Power to create districts constitutionally vested in Parliament, not President",
+    "Section 1(2) of Act 462 violates Article 241(2) and Article 106(1) of the 1992 Constitution",
+    "Historical constitutional trends support parliamentary role in district creation",
+    "Risk of partisan abuse justifies limiting presidential power",
+    "Electoral Commission's advisory role does not override constitutional framework"
+  ],
+  "confidenceNotes": "High confidence in constitutional interpretation based on explicit textual analysis and historical context provided in judgment.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/JANET NAAKARLEY AMEGATCHER VRS THE ATTORNEY-GENERAL, THE ELECTORAL COMMISSION.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:30:14.839Z",
+    "plainTextLength": 71376
+  }
+}

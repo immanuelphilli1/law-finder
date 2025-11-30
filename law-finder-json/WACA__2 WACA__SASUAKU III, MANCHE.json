@@ -1,0 +1,67 @@
+{
+  "caseTitle": "SASUAKU III, MANCHE",
+  "summary": "This civil appeal before the West African Court of Appeal in Accra on 24th November 1934 involved Sasuaku III, Manche of Manya Akromuase, claiming an account of market tolls collected by Sir E. Mate Kole, Konor of Manya Krobo, from Bissa Market between 1928 and 1932. The appellant alleged an oral agreement, later reduced to writing, under which tolls were to be divided equally among the parties and the Bissa Sanitary Board. The court found that even if the written document (Exhibit 'H') were genuine, it did not impose any duty on the respondent to collect tolls or account for them, nor was it executed by him. Therefore, no legal liability arose. The appeal was dismissed with costs of £59 4s, and the lower court's judgment was upheld.",
+  "legalKeywords": [
+    "claim for account",
+    "market tolls",
+    "oral agreement",
+    "written agreement",
+    "jurisdiction",
+    "document admissibility",
+    "liability",
+    "self-help",
+    "tolls collection",
+    "contract enforcement",
+    "evidence",
+    "appeal dismissal",
+    "costs award",
+    "executed document",
+    "non-execution"
+  ],
+  "topics": [
+    "Contract Law",
+    "Civil Procedure",
+    "Evidence",
+    "Jurisdiction",
+    "Appeal"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Defendant-Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Yates",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WACA/2 WACA/SASUAKU III, MANCHE"
+  ],
+  "rationaleHighlights": [
+    "The appeal was based on an alleged oral agreement later reduced to writing, but the document did not impose any duty on the respondent to collect or account for tolls.",
+    "The court held that even if the document (Exhibit 'H') were genuine, it did not create liability on the part of the respondent to account to the appellant.",
+    "Jurisdiction was previously contested but upheld by the West African Court of Appeal in 1933, allowing the case to proceed on merits.",
+    "The court dismissed the appeal because no legal obligation to render an account was established under the agreement."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on primary source text; no conflicting accounts found.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/SASUAKU III, MANCHE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:16:52.475Z",
+    "plainTextLength": 3960
+  },
+  "trialDate": "1934-06-25"
+}

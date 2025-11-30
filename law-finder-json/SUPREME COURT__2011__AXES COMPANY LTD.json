@@ -1,0 +1,60 @@
+{
+  "caseTitle": "<span lang=\"EN-US\" style=\"font-size: 12.0pt; line-height: 115%; font-family: Arial,sans-serif\">  So from the state of the law as espoused by the Ghanaian courts over the years, it is obvious that the summary judgment granted by the trial judge, Ofori Atta J, was final. Even though the judge entered summary judgment for only a part of the amount admitted with the unadmitted part to be proved by evidence, as far as the admitted portion was concerned there was finality with the order and nothing else to be done save execution! Here Hardiman J&#8217;s statement in the <u>Alte Leipzeger case</u> (already cited) becomes very instructive. He said at para. 70,</span>",
+  "summary": "In this Ghanaian civil case, the Supreme Court considered the finality of a summary judgment granted by the trial judge, Ofori Atta J, on an admitted portion of a claim. The court emphasized that once a summary judgment is entered on an admitted debt, it attains finality and is enforceable by execution, with no further judicial action required on that part. The unadmitted portion, however, must still be proven through evidence. The decision draws on precedent, particularly the reasoning of Hardiman J in the Alte Leipzeger case, to affirm that partial summary judgments can have final effect on the issues they resolve, reinforcing procedural efficiency in civil litigation.",
+  "legalKeywords": [
+    "summary judgment",
+    "finality of judgment",
+    "execution of judgment",
+    "admitted debt",
+    "evidence",
+    "civil procedure",
+    "Ghanaian courts",
+    "trial judge",
+    "appellate review",
+    "judicial precedent",
+    "order finality",
+    "procedural law",
+    "judgment enforcement"
+  ],
+  "topics": [
+    "Summary Judgment",
+    "Finality of Orders",
+    "Civil Procedure",
+    "Debt Enforcement",
+    "Judicial Precedent"
+  ],
+  "verdict": "The summary judgment on the admitted amount was upheld as final and enforceable.",
+  "winningSide": "Plaintiff (on the admitted portion of the claim)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ofori Atta J",
+      "role": "trial judge"
+    },
+    {
+      "name": "Hardiman J",
+      "role": "appellate judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Alte Leipzeger case"
+  ],
+  "rationaleHighlights": [
+    "Summary judgment on admitted amounts is final and executable.",
+    "No further proceedings needed on admitted portion.",
+    "Precedent from Alte Leipzeger case supports finality.",
+    "Unadmitted portion requires evidentiary proof."
+  ],
+  "confidenceNotes": "The document appears to be truncated or corrupted, limiting access to full context. Analysis is based on the visible excerpt discussing summary judgment in Ghanaian law.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/AXES COMPANY LTD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:08:13.625Z",
+    "plainTextLength": 110755
+  }
+}

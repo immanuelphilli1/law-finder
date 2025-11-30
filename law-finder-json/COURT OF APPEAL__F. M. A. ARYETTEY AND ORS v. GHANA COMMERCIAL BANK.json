@@ -1,0 +1,68 @@
+{
+  "caseTitle": "A. ARYETTEY AND ORS v. GHANA COMMERCIAL BANK",
+  "summary": "In F. M. A. Aryettey and Ors v. Ghana Commercial Bank, the Court of Appeal addressed an application by new executive members of the Ghana Commercial Bank Pensioners Association for an extension of time to comply with a prior appellate order requiring disclosure of member particulars. The original respondents had instead filed a memorandum of settlement. The appellants (Ghana Commercial Bank) opposed the motion, asserting the dispute was fully settled. The Court held it lacked jurisdiction to determine the validity of the settlement, emphasizing that under s 324(d) of the Companies Code, Act 179, only the court of first instance—the High Court—could approve or reject a compromise in a representative action. The Court declined to enlarge time, ruling that such matters must first be adjudicated by the trial court where the settlement memorandum was pending.",
+  "legalKeywords": [
+    "representative action",
+    "settlement",
+    "jurisdiction",
+    "Companies Code",
+    "Act 179",
+    "section 324",
+    "pension rights",
+    "class action",
+    "enlargement of time",
+    "appellate jurisdiction",
+    "memorandum of settlement",
+    "leave of court",
+    "executive authority",
+    "binding agreement",
+    "procedural compliance"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Company Law",
+    "Appellate Jurisdiction",
+    "Settlement and Compromise",
+    "Representative Actions"
+  ],
+  "verdict": "The Court of Appeal declined to grant the application for enlargement of time, holding that it lacked jurisdiction to determine the validity of the settlement.",
+  "winningSide": "Ghana Commercial Bank (Appellants)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Wood G. (Mrs.)",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Essilfie-Bondzie, J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebe, J.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "F. M. A. Aryettey and Ors v. Ghana Commercial Bank [12/2/98] C.A. No. 193/97",
+    "Companies Code, 1963 (Act 179), s 324(d)"
+  ],
+  "rationaleHighlights": [
+    "The Court of Appeal lacks jurisdiction to rule on the validity of a settlement in a representative action at this stage.",
+    "Settlement of a representative action under s 324(d) of Act 179 requires leave of the court of first instance.",
+    "The High Court, not the Court of Appeal, must determine whether the settlement is valid and binding.",
+    "Filing of a memorandum of settlement changes the procedural posture and triggers original jurisdiction of the trial court.",
+    "An appellate court cannot usurp the functions of the court of first instance in approving or rejecting a compromise."
+  ],
+  "confidenceNotes": "The document is a court ruling from the Court of Appeal of Ghana, and all key details (parties, judges, legal issues) are explicitly stated. The truncation at the end does not affect the core legal reasoning or outcome.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/F. M. A. ARYETTEY AND ORS v. GHANA COMMERCIAL BANK.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:34:23.191Z",
+    "plainTextLength": 34084
+  }
+}

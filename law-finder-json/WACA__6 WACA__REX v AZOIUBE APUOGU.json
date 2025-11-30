@@ -1,0 +1,60 @@
+{
+  "caseTitle": "REX v AZOIUBE APUOGU",
+  "summary": "The four appellants were convicted of the murder of Agwanma Akajuba in the High Court of the Enugu-Onitsha Division and sentenced to death. The principal evidence came from Joseph, who admitted participating in a common plan that included the murder, though he did not physically commit it. The trial judge and the West African Court of Appeal (WACA) held Joseph to be an accomplice requiring corroboration. Corroboration for the first appellant was ample, while for the others it relied primarily on Opara’s testimony that all four accused were seen near the victim’s house on the evening of the murder. Citing R. v. Mullins, the court found this evidence sufficient to corroborate Joseph’s testimony. The appeals were dismissed.",
+  "legalKeywords": [
+    "accomplice",
+    "corroboration",
+    "murder",
+    "common purpose",
+    "evidence of eyewitness",
+    "criminal liability",
+    "joint enterprise",
+    "appellate review",
+    "trial without corroboration",
+    "principle of accessorial liability"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence Law",
+    "Appellate Procedure"
+  ],
+  "verdict": "Appeals dismissed; convictions for murder upheld.",
+  "winningSide": "Respondent (the Crown/Rex)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "KINGDON, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "PETRIDES, C.J., Gold Coast",
+      "role": "Appellate Judge"
+    },
+    {
+      "name": "GRAHAM PAUL, C.J., Sierra Leone",
+      "role": "Appellate Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal (WACA)",
+    "country": "Ghana"
+  },
+  "caseType": "criminal appeal",
+  "citations": [
+    "R. v. Mullins, 3 Cox 526"
+  ],
+  "rationaleHighlights": [
+    "An individual who shares a common purpose involving murder is equally guilty as an accomplice, even if they do not perform the physical act.",
+    "Corroboration of an accomplice’s testimony is required before conviction.",
+    "Eyewitness evidence placing the accused near the victim’s house on the night of the murder can constitute valid corroboration.",
+    "The court affirmed the trial judge’s reliance on R. v. Mullins as authoritative precedent."
+  ],
+  "confidenceNotes": "The decision is clearly reported with direct judicial reasoning and citation of authority. Jurisdictional context reflects colonial-era West African legal structure, with WACA serving multiple British territories including the Gold Coast (now Ghana).",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/REX v AZOIUBE APUOGU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:57:25.517Z",
+    "plainTextLength": 3659
+  },
+  "trialDate": "1940-04-24"
+}

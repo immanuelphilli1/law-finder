@@ -1,0 +1,85 @@
+{
+  "caseTitle": "THE REPUBLIC v THE HIGH COURT, KOFORIDUA EX-PARTE NANA OTUT",
+  "summary": "The Supreme Court of Ghana considered an application for certiorari to quash a High Court ruling that it had jurisdiction over a dispute involving the legitimacy of traditional councils in Akuapim. The applicant, Nana Otutu Konor III, argued that the High Court erred by hearing a matter affecting chieftaincy, which under the Courts Act, 1993 (Act 459) and the Chieftaincy Act, 2008 (Act 759), falls outside the jurisdiction of the High Court. The plaintiff sought declarations that only the Akwapem Traditional Council was lawful and that other councils were void, along with injunctions preventing the defendants from acting as Omanhene or operating through their councils. While the High Court held the matter was not chieftaincy-related, the Supreme Court, per Chief Justice Georgina Wood aligning with Justice Dotse, found that the core issues—particularly the status of the defendants as Paramount Chiefs—constituted a cause affecting chieftaincy. The Court emphasized that where evidence on enstoolment, allegiance, and customary procedures is required, the matter must be heard by a competent traditional authority. It held that the error was patent on the face of the record, justifying supervisory intervention via certiorari. The Court also stressed judicial economy and the risk of conflicting rulings if claims were split between forums. Consequently, the application was allowed, and the High Court's ruling was quashed.",
+  "legalKeywords": [
+    "supervisory jurisdiction",
+    "certiorari",
+    "jurisdictional error",
+    "chieftaincy matters",
+    "High Court jurisdiction",
+    "error of law patent on the face of the record",
+    "judicial review",
+    "separation of claims",
+    "declaratory reliefs",
+    "traditional councils",
+    "paramount chief",
+    "divisional chief",
+    "customary law",
+    "judicial economy",
+    "multiplicity of suits",
+    "statutory interpretation"
+  ],
+  "topics": [
+    "Chieftaincy Jurisdiction",
+    "Supervisory Jurisdiction",
+    "Judicial Review",
+    "Error of Law",
+    "Traditional Councils"
+  ],
+  "verdict": "Application for certiorari allowed; the High Court's ruling was quashed for lack of jurisdiction.",
+  "winningSide": "Applicant (Nana Otutu Konor III and allied traditional councils)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Georgina Wood",
+      "role": "Chief Justice (dissenting in part, ultimately agreeing with Dotse JSC)"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Owusu",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Dotse",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional and chieftaincy jurisdiction",
+  "citations": [
+    "In re Oguaa Paramount Stool; Gabrah v Central Regional House of Chiefs & Haizel [2005-2006] SCGLR 193",
+    "Republic v Court of Appeal, Accra ex parte Tsatsu Tsikata [2005-2006] SCGLR 612",
+    "Ex Parte Industrialization Fund for Developing Countries [2003-2004] SCGLR 348",
+    "Courts Act, 1993 (Act 459), s.117(a-e) and s.57",
+    "Chieftaincy Act, 2008 (Act 759), s.76",
+    "THE LAW OF CHIEFTAINCY IN GHANA, 2008 by Justice S.A. Brobbey @ pp. 232-233"
+  ],
+  "rationaleHighlights": [
+    "The core reliefs (3 and 4) involve chieftaincy issues such as status as Paramount Chiefs, which require evidence on nomination, enstoolment, and allegiance—matters reserved for traditional fora.",
+    "Courts must look to substance over form to prevent camouflage of chieftaincy disputes as civil matters.",
+    "An error in assuming jurisdiction over a chieftaincy matter constitutes an error of law patent on the face of the record, justifying certiorari.",
+    "Separating intertwined chieftaincy and non-chieftaincy claims risks conflicting rulings and undermines judicial economy.",
+    "Declaratory reliefs (1 and 2) are ancillary; the real dispute lies in reliefs affecting chieftaincy status and authority.",
+    "Specialized tribunals are better suited to handle chieftaincy matters under customary law and statutory framework.",
+    "Judicial harmony and avoidance of multiplicity of suits support referring the entire matter to the appropriate chieftaincy body.",
+    "The pleadings and record clearly reveal the chieftaincy nature of the dispute, despite its framing."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment with clear textual support.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2008/THE REPUBLIC v THE HIGH COURT, KOFORIDUA  EX-PARTE NANA OTUT.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:12:23.311Z",
+    "plainTextLength": 72887
+  },
+  "trialDate": "2008-09-05"
+}

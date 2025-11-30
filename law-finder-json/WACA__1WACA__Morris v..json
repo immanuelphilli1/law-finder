@@ -1,0 +1,66 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "In this civil appeal before the West African Court of Appeal in Ghana, Eliza Morris, the plaintiff-respondent, claimed reimbursement of \t4 she contributed toward the construction of a house built during her long-term concubinage with John Weatu, who had died intestate. The trial court had awarded her the amount, finding her contribution proven. On appeal, the decision was reversed. The appellate court held that, in the absence of an express or implied agreement to repay, and given the domestic relationship between the parties, the financial contribution was presumed to be a gift. The court emphasized that a claim against a deceased's estate cannot be sustained solely on the claimant's uncorroborated testimony. Although the plaintiff suggested the funds were loaned, no evidence showed that repayment was ever discussed or expected. The court also noted that Fanti customary law, which treats such contributions as irrecoverable, did not apply as the parties were of the Kroo tribe, but found English law principles equally supported the conclusion that the money was a gift. Thus, the judgment for the plaintiff was set aside and judgment entered for the defendant-administrator.",
+  "legalKeywords": [
+    "concubinage",
+    "gift vs loan",
+    "implied agreement",
+    "recovery of contribution",
+    "estate liability",
+    "presumption of gift",
+    "customary law",
+    "corroboration requirement",
+    "claim against estate",
+    "English law application"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Family Law",
+    "Succession",
+    "Evidence Law"
+  ],
+  "verdict": "Judgment for the Defendant (Administrator of the Estate) on appeal; original award to Plaintiff reversed.",
+  "winningSide": "Defendant-Appellant (Administrator of John Weatu's estate)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sawrey-Cookson",
+      "role": "Justice"
+    },
+    {
+      "name": "Deane",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Michelin",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "In Re Whitaker L.J. (1882) Ch. Div. 737"
+  ],
+  "rationaleHighlights": [
+    "No express or implied agreement to repay was established.",
+    "Contributions during concubinage presumed to be gifts absent clear evidence.",
+    "Claimant's uncorroborated testimony insufficient to sustain claim against deceased's estate.",
+    "Keeping of separate accounts not sufficient to rebut gift presumption.",
+    "Fanti customary law inapplicable as parties were of Kroo tribe.",
+    "English law principles govern in absence of applicable tribal custom.",
+    "Relationship context negates contemplation of repayment.",
+    "Judgment reversed due to legal error in applying presumption."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; case law and reasoning are clearly articulated by multiple judges. Jurisdiction and parties are explicitly stated. Customary law inapplicability is reasoned but not deeply elaborated.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/Morris v..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:42:33.068Z",
+    "plainTextLength": 14630
+  },
+  "trialDate": "1930-06-16"
+}

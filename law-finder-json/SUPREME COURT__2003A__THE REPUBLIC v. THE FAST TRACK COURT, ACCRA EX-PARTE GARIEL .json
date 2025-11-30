@@ -1,0 +1,79 @@
+{
+  "caseTitle": "THE REPUBLIC v. THE FAST TRACK COURT, ACCRA EX-PARTE GARIEL",
+  "summary": "The Republic v. The Fast Track Court, Accra, Ex-Parte Gariel Daniel is a constitutional case before the Supreme Court of Ghana concerning the eligibility of Justice D.K. Afreh to sit as an Additional Judge of the High Court after attaining the age of 65 and subsequently 70. The applicant argued that Article 145(2)(b) of the Constitution, which mandates retirement of High Court Judges at 65, disqualified Justice Afreh from such appointment. The Supreme Court rejected this, holding that Article 139(1)(c) permits the Chief Justice to request any Justice of the Superior Court of Judicature to sit in the High Court, irrespective of age, and that this provision is not subject to Article 145(2)(b). The Court further held that 'proceedings commenced' under Article 145(4) includes interlocutory rulings, not just full trial hearings, thereby allowing Justice Afreh to continue adjudicating cases initiated before his 70th birthday. The application was dismissed.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "judicial retirement age",
+    "separation of powers",
+    "jurisdiction",
+    "prohibition",
+    "commencement of proceedings",
+    "High Court",
+    "Supreme Court",
+    "Additional Judge",
+    "Chief Justice powers",
+    "nunc pro tunc",
+    "judicial continuity",
+    "constitutional supremacy"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Judicial Administration",
+    "Judicial Tenure"
+  ],
+  "verdict": "The application for prohibition against Justice D.K. Afreh sitting as an Additional Judge of the High Court was dismissed. The Supreme Court held that his designation was constitutional under Article 139(1)(c) and that proceedings had commenced before him prior to his 70th birthday, permitting him to continue under Article 145(4).",
+  "winningSide": "The Republic and The Fast Track Court, Accra (Respondents)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Acquah, JSC",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Atuguba, JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Akuffo, JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Wood, JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Kludze, JSC",
+      "role": "Opinion Author"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Article 139(1)(c), Constitution of Ghana",
+    "Article 145(2)(b), Constitution of Ghana",
+    "Article 145(4), Constitution of Ghana",
+    "Article 137(3), Constitution of Ghana",
+    "Article 150(2), Constitution of Ghana"
+  ],
+  "rationaleHighlights": [
+    "Article 139(1)(c) allows the Chief Justice to request any Superior Court Justice to sit in the High Court, irrespective of age.",
+    "The Constitution does not impose an age limit for Additional Judges of the High Court.",
+    "Proceedings commence under Article 145(4) when a court is seized and makes any material ruling, not solely upon taking of testimony.",
+    "The Court cannot amend the Constitution under the guise of interpretation.",
+    "The framers of the Constitution were presumed aware that Superior Court Justices may exceed the High Court retirement age.",
+    "Judicial decisions remain valid even when exercising lower court powers post-retirement age, if authorized.",
+    "The term 'trial' used by the applicant is not constitutionally grounded in Article 145(4).",
+    "Internal consistency of the Constitution must be preserved in interpretation."
+  ],
+  "confidenceNotes": null,
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2003A/THE REPUBLIC v. THE FAST TRACK COURT, ACCRA EX-PARTE GARIEL .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:34:41.294Z",
+    "plainTextLength": 20262
+  },
+  "trialDate": "11TH JUNE 2003"
+}

@@ -1,0 +1,70 @@
+{
+  "caseTitle": "KWASI SAFO v CHIEF KOFI YENSU. AND OTHERS",
+  "summary": "This 1941 West Africa Court of Appeal case involved an interpleader suit by the Techiman Stool, claiming ownership of land attached in execution by judgment-creditor Kwasi Safo following a debt default by the Offuman Stool. The Techiman Stool argued that the land fell within its administrative boundaries and that prior decisions vested title in them. The trial judge held the land belonged exclusively to the Offuman Stool, a finding upheld on appeal. The appellate court ruled that administrative boundaries do not determine land ownership, that the Offumans' temporary service under the Techimanhene did not transfer title, and that the matter was not res judicata. It affirmed the Committee of Privileges' authority in land disputes and found ample evidence supporting the Offuman Stool's traditional ownership. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "interpleader suit",
+    "land ownership",
+    "res judicata",
+    "traditional history",
+    "administrative boundaries",
+    "stool land",
+    "execution of judgment",
+    "Committee of Privileges",
+    "boundary decision",
+    "promissory note",
+    "guarantee",
+    "exclusive possession",
+    "adverse possession",
+    "tribal land",
+    "customary law"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Civil Procedure",
+    "Appellate Law",
+    "Debt Recovery"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Offuman Stool / Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Strother-Stewart",
+      "role": "Justice"
+    },
+    {
+      "name": "Bannerman",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Exhibit 3",
+    "Boundary, Land, Tribute, and Fishery Disputes; (Executive Decision and Validation) Ordinance, Chapter 120"
+  ],
+  "rationaleHighlights": [
+    "Mere inclusion within administrative boundaries does not confer ownership.",
+    "Period of service under Techimanhene did not transfer land title.",
+    "Committee of Privileges' decision was final in absence of appeal.",
+    "Res judicata not established due to lack of prior adjudication on title.",
+    "Sufficient evidence supported Offuman Stool's traditional ownership.",
+    "Description of land in guarantee and affidavit was adequate for execution."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; all key details (parties, judgment, reasoning) are explicitly stated in the source text.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/KWASI SAFO  v CHIEF KOFI YENSU. AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:32:35.918Z",
+    "plainTextLength": 12006
+  },
+  "trialDate": "1941-12-08"
+}

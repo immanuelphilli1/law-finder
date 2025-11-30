@@ -1,0 +1,78 @@
+{
+  "caseTitle": "JONAH v. LORD DUODU-KUMI,",
+  "summary": "This Court of Appeal ruling in Ghana addresses a civil motion for stay of execution pending appeal in a landlord-tenant dispute. The plaintiff, Sam Jonah, obtained a summary judgment in the High Court for ejectment and rent arrears against tenant Lord Duodu-Kumi, who challenged the plaintiff's ownership and the legality of USD-denominated rent payments. The Court of Appeal upheld the summary judgment, holding that the tenant was estopped from denying ownership due to prior attornment via rent payments and that USD rent payments before January 1998 did not violate later Bank of Ghana foreign exchange regulations. The court found no triable issues warranting a full trial and rejected claims of irreparable harm, emphasizing that financial inability alone does not justify a stay of execution.",
+  "legalKeywords": [
+    "summary judgment",
+    "estoppel",
+    "attornment",
+    "rent arrears",
+    "foreign currency payment",
+    "Bank of Ghana regulations",
+    "stay of execution",
+    "tenancy dispute",
+    "ownership challenge",
+    "enforceability of contract",
+    "judicial estoppel",
+    "execution of judgment",
+    "triable issues",
+    "landlord and tenant law",
+    "evidence decree NRCD 323",
+    "foreign exchange control",
+    "civil procedure",
+    "appellate review",
+    "judgment debtor",
+    "equitable relief"
+  ],
+  "topics": [
+    "Property Law",
+    "Contract Law",
+    "Civil Procedure",
+    "Appellate Law",
+    "Monetary Law and Regulation"
+  ],
+  "verdict": "Application for stay of execution rejected",
+  "winningSide": "Plaintiff/Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "A.A. Forster",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "J. Ofori-Boateng",
+      "role": "Presiding Justice of Appeal"
+    },
+    {
+      "name": "A. Essilfie-Bondzie",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Motion",
+  "citations": [
+    "Sam Jonah v. Lord Duodu-Kumi, C.M. No. 209/98, 21st January 1999",
+    "Evidence Decree, 1975 (NRCD 323)",
+    "Bank of Ghana Notice No BG/GOV/SEC/98/2"
+  ],
+  "rationaleHighlights": [
+    "Tenant estopped from challenging landlord's title after attorning by paying rent",
+    "Prior conduct and acceptance of new landlord binding",
+    "USD rent payments made in 1996 predated January 1998 foreign exchange restrictions",
+    "Payments converted to cedis by authorized dealer bank, complying with regulations",
+    "No triable issues existed to prevent summary judgment",
+    "Financial hardship alone insufficient for stay of execution",
+    "Bank of Ghana notice exempted authorized dealer banks",
+    "Cheques explicitly showed cedi equivalents, indicating local currency settlement"
+  ],
+  "confidenceNotes": "High confidence; all key facts, legal reasoning, and holdings are explicitly stated in the ruling with clear references to evidence, statutory provisions, and procedural history.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/SAM JONAH v. LORD DUODU-KUMI,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:06:09.598Z",
+    "plainTextLength": 8407
+  },
+  "trialDate": "21ST JANUARY, 1999"
+}

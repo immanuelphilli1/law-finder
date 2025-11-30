@@ -1,0 +1,75 @@
+{
+  "caseTitle": "GEORGE GRANT & CO.,",
+  "summary": "This West Africa Court of Appeal decision from 1940 in Ghana affirmed the trial court's ruling that a deed of assignment by J. P. Seraphim to his brother C. B. Seraphim (the appellant) was void as a fraudulent transaction intended to defeat creditors. The assignment, made four days after a writ was served in an existing debt action, purported to transfer various properties and debts as security for a claimed debt of £3,890 4s. 6d. The trial judge found the debt not genuinely owed and the assignment not made in good faith. The appellate court upheld this, noting suspicious circumstances including the close familial relationship, lack of documentation for most of the alleged debt, the unregistered nature of the deed, and the appellant's subsequent acquisition of a power of attorney that placed him on both sides of the transaction. Despite some payments to creditors, the court found sufficient evidence to support the trial judge's factual conclusions and dismissed the appeal.",
+  "legalKeywords": [
+    "assignment",
+    "fraudulent transaction",
+    "bona fides",
+    "attachment in execution",
+    "debt security",
+    "mortgagee in possession",
+    "Statute of Elizabeth",
+    "interpleader",
+    "creditors' rights",
+    "deed registration",
+    "power of attorney",
+    "choses in action",
+    "trust for creditors",
+    "evidence evaluation",
+    "family transaction"
+  ],
+  "topics": [
+    "Contract Law",
+    "Debt Enforcement",
+    "Fraudulent Conveyance",
+    "Property Law",
+    "Appellate Procedure"
+  ],
+  "verdict": "Appeal dismissed with costs",
+  "winningSide": "George Grant & Co. (judgment-creditor)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Doorly, J.",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "Kingdon, P.",
+      "role": "presiding"
+    },
+    {
+      "name": "Cor., C.J.",
+      "role": "member of the court"
+    },
+    {
+      "name": "Petrides, C.J.",
+      "role": "member of the court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "13 Eliz. C. 5",
+    "Courts Ordinance, Schedule III, Order 44 Rule 5"
+  ],
+  "rationaleHighlights": [
+    "Assignment made days after writ served raises suspicion",
+    "Family relationship between debtor and assignee undermines credibility",
+    "Lack of proof for majority of alleged debt",
+    "Unregistered assignment not giving public notice",
+    "Appellant on both sides of transaction via power of attorney",
+    "Selective payment of some scheduled debts weakens trust claim",
+    "Court defers to trial judge's factual findings on credibility"
+  ],
+  "confidenceNotes": "High confidence in factual extraction; all details are directly from the judgment text.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/GEORGE GRANT & CO.,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:06:18.723Z",
+    "plainTextLength": 10647
+  },
+  "trialDate": "1940-03-11"
+}

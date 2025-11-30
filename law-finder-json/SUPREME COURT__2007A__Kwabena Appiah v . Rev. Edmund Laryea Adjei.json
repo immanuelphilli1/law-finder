@@ -1,0 +1,75 @@
+{
+  "caseTitle": "Kwabena Appiah v . Rev. Edmund Laryea Adjei",
+  "summary": "This 2007 Supreme Court of Ghana decision concerns a land sale dispute where the respondent, Rev. Edmund Laryea Adjei, sold a plot at McCarthy Hill, Accra, to appellant Kwabena Appiah for GHS 120 million in 2002, despite having previously sold it to another party. After the High Court granted summary judgment for the appellant, the respondent failed to pay and later sought a stay of execution pending appeal. The Supreme Court unanimously allowed the appeal, setting aside the Court of Appeal’s stay order, emphasizing that no executable order existed to stay and condemning the respondent’s manipulation of judicial processes, particularly given his status as a clergyman.",
+  "legalKeywords": [
+    "stay of execution",
+    "summary judgment",
+    "terms of settlement",
+    "functus officio",
+    "breach of contract",
+    "land sale",
+    "judicial misconduct",
+    "execution of judgment",
+    "appeal jurisdiction",
+    "bad faith litigation",
+    "equity",
+    "balance of hardship",
+    "undertaking in court",
+    "settlement agreement",
+    "procedural abuse"
+  ],
+  "topics": [
+    "Contract Law",
+    "Civil Procedure",
+    "Property Law",
+    "Appellate Jurisdiction",
+    "Judicial Ethics"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sophia A. B. Akuffo",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "S. A. Brobbey"
+    },
+    {
+      "name": "R. T. Aninakwah"
+    },
+    {
+      "name": "Sophia O. A. Adinyira"
+    },
+    {
+      "name": "S. K. Asiamah"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "N. B. Landmark Ltd v. Lakiani, [2001-2002] SCGLR 318"
+  ],
+  "rationaleHighlights": [
+    "No executable order existed to justify a stay of execution.",
+    "The Court of Appeal lacked jurisdiction to grant a stay relating to a judgment not under appeal.",
+    "Respondent acted in bad faith and failed to honor settlement terms.",
+    "Respondent had not appealed the original summary judgment on the debt.",
+    "Equities favored the appellant due to respondent's misconduct.",
+    "Respondent's conduct amounted to an abuse of court processes.",
+    "Moral condemnation of clergy involvement in fraudulent land deals.",
+    "The balance of hardship weighed heavily against the appellant."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment with clear citations and factual consistency.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2007A/Kwabena Appiah v . Rev. Edmund Laryea Adjei.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:19:20.598Z",
+    "plainTextLength": 13669
+  },
+  "trialDate": "2006-04-28"
+}

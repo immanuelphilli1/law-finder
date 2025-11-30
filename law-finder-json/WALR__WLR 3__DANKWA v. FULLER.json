@@ -1,0 +1,74 @@
+{
+  "caseTitle": "DANKWA VERSUS FULLER",
+  "summary": "This Court of Appeal decision in Ghana addresses the validity of an ex parte order extending time to file grounds of appeal from a Native Court decision. The plaintiff, having won at first instance but lost on appeal, obtained an ex parte extension from the Land Court (Benson J.) to file appeal grounds. When the appeal was later challenged as out of time, Manyo-Plange J. quashed the extension, ruling it ultra vires and invalid due to lack of notice to the respondent. The Court of Appeal held that the original extension order was valid and binding, as only the issuing judge or a higher court could set it aside. It further ruled that Rule 129(1) of the Native Courts (Ashanti) Procedure Rules, 1949, implicitly grants jurisdiction to extend time, and that such applications may be made ex parte in the absence of an express requirement for notice. The appeal was allowed, the striking out order set aside, and the matter remitted for hearing.",
+  "legalKeywords": [
+    "extension of time",
+    "ex parte application",
+    "jurisdiction",
+    "appeal",
+    "Native Courts",
+    "Procedure Rules",
+    "interlocutory order",
+    "nullity",
+    "notice",
+    "appellate court",
+    "rule 129",
+    "rule 126",
+    "High Court",
+    "Land Court",
+    "Asantehene's Court",
+    "binding order",
+    "preliminary objection",
+    "ultra vires",
+    "discretion",
+    "service of notice"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Appellate Law",
+    "Jurisdiction",
+    "Time Extension",
+    "Native Courts"
+  ],
+  "verdict": "Appeal allowed; order striking out appeal set aside and matter remitted for hearing.",
+  "winningSide": "Plaintiff (Appellant)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "van Lare",
+      "role": "Ag.C.J."
+    },
+    {
+      "name": "Granville Sharp",
+      "role": "J.A."
+    },
+    {
+      "name": "Adumua-Bossman",
+      "role": "J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "R. v. Akiwumi and Bannerman, ex parte Dako (1957) 3 W.A.L.R. 137",
+    "Anane v. Efriyea (1940) 6 W.A.C.A. 169"
+  ],
+  "rationaleHighlights": [
+    "An order enlarging time is valid and binding unless set aside by the issuing judge or appellate court.",
+    "Rule 129(1) implicitly grants the High Court jurisdiction to extend time for appeal.",
+    "No express rule requires notice for time extension applications; ex parte applications are permissible.",
+    "A co-equal court cannot nullify an order of a differently constituted same court.",
+    "The power to extend time is a discretionary one under rule 129(1).",
+    "Failure to serve notice does not invalidate the extension if not mandated by rule."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details are explicitly stated in the judgment and editorial notes.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/DANKWA v. FULLER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:05:57.742Z",
+    "plainTextLength": 9373
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "caseTitle": "C. E. ASANTE",
+  "summary": "The case involved land sold in execution of a decree by the Divisional Court of the Asantehene. Five days before the sale, the claimant applied for an interpleader summons asserting ownership, though the summons was issued after the sale. The lower courts relied on Supreme Court Rules regarding interpleader actions, but the West Africa Court of Appeal held these rules did not apply as there was no provision making them applicable in Ashanti Native Courts. While the reliance on Supreme Court Rules was incorrect, the Court upheld the declaration of ownership because the issue of ownership was clear, consistent with the principle in Abuagyi II v. Gyebu. However, the order setting aside the sale was invalidated because neither the vendor nor purchaser were parties to the proceedings. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "interpleader",
+    "execution of decree",
+    "land ownership",
+    "Native Courts Ordinance",
+    "Supreme Court Rules",
+    "sale of property",
+    "declaration of ownership",
+    "procedural form",
+    "general principle",
+    "jurisdictional applicability"
+  ],
+  "topics": [
+    "Property Law",
+    "Civil Procedure",
+    "Native Courts",
+    "Judicial Review",
+    "Land Dispute"
+  ],
+  "verdict": "Appeal dismissed with costs; declaration of ownership upheld but order setting aside sale set aside.",
+  "winningSide": "Claimant-Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Abuagyi II v. Gyebu, (1921) F.C. 81"
+  ],
+  "rationaleHighlights": [
+    "Rules of Supreme Court incorrectly applied due to lack of statutory applicability",
+    "Native Courts Ordinance rules do not cover interpleader actions",
+    "Form of action immaterial if issue is clear",
+    "Declaration of ownership valid based on clear issue",
+    "Order setting aside sale invalid as vendor/purchaser not parties"
+  ],
+  "confidenceNotes": "High confidence; source is a verbatim court decision with clear procedural and jurisdictional details.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/C.  E.    ASANTE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:36:30.420Z",
+    "plainTextLength": 5065
+  },
+  "trialDate": "1941-05-17"
+}

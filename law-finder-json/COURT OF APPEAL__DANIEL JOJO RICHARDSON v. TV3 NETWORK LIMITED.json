@@ -1,0 +1,70 @@
+{
+  "caseTitle": "DANIEL JOJO RICHARDSON v. TV3 NETWORK LIMITED",
+  "summary": "In this Court of Appeal decision from Ghana, Daniel Jojo Richardson, an executive cameraman and union official at TV3 Network Limited, was summarily dismissed after refusing to work beyond 5:00 PM for the production of a program featuring a guest observing Ramadan. The employer claimed insubordination, citing the need for overtime in the company's interest under Article 24(c) of the Collective Bargaining Agreement. The Court found that while the employee's conduct could warrant disciplinary action, the company failed to follow the mandatory procedure under Article 20 of the Agreement, which required a formal charge to be preferred and an opportunity to respond. The absence of a formal charge and non-compliance with procedural fairness rendered the dismissal unlawful, despite the seriousness of the alleged misconduct. The Court also referenced Ex parte Tsawodzi to affirm that failure to follow statutory disciplinary procedures makes a dismissal ultra vires and null. Although the employee was not prejudiced by the lack of interdiction, the appeal was allowed due to procedural defects, underscoring that due process must be observed even in cases of gross insubordination.",
+  "legalKeywords": [
+    "summary dismissal",
+    "collective bargaining agreement",
+    "disciplinary procedure",
+    "overtime work",
+    "insubordination",
+    "natural justice",
+    "employee rights",
+    "procedural fairness",
+    "workplace policy",
+    "union official",
+    "employment law",
+    "charge preferred",
+    "domestic inquiry",
+    "interdiction",
+    "Labour Regulation L.I 632"
+  ],
+  "topics": [
+    "Employment Law",
+    "Disciplinary Procedure",
+    "Overtime Work",
+    "Procedural Fairness",
+    "Unfair Dismissal"
+  ],
+  "verdict": "The appeal was allowed. The summary dismissal was found to be procedurally flawed and in breach of the Collective Bargaining Agreement and principles of natural justice, despite evidence of potential insubordination.",
+  "winningSide": "Plaintiff/Appellant (Daniel Jojo Richardson)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Owusu-Ansah, JA",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Adinyira, JA"
+    },
+    {
+      "name": "Addo, JA"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Employment Dispute",
+  "citations": [
+    "DANIEL JOJO RICHARDSON v. TV3 NETWORK LIMITED [19TH DECEMBER, 2002] C.A. 120/2001",
+    "The Republic vs. Central Disciplinary Board, Ex parte Tsawodzi 1973 2 GLR 299",
+    "Labour Regulation L.I 632, Section 50",
+    "Police Service Act 1970 (Act 350), Sections 19(3) and (5)",
+    "Police Service (Disciplinary Proceedings) Regulations, 1971 (L.I. 688)"
+  ],
+  "rationaleHighlights": [
+    "Failure to follow prescribed disciplinary procedure under Article 20 of the Collective Agreement rendered dismissal procedurally flawed",
+    "Overtime may be required in the interest of the company under Article 24(c), even if not compulsory under Article 24(d)",
+    "A query is not equivalent to a formal charge; procedural compliance with Article 20(a) is mandatory",
+    "Appellate court emphasized adherence to natural justice and statutory disciplinary processes",
+    "Conduct may justify dismissal, but proper procedure must still be followed"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed court judgment text and explicit references to legal instruments and procedural requirements.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/DANIEL JOJO RICHARDSON v. TV3 NETWORK LIMITED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:38:01.611Z",
+    "plainTextLength": 45555
+  },
+  "trialDate": "19TH DECEMBER, 2002"
+}

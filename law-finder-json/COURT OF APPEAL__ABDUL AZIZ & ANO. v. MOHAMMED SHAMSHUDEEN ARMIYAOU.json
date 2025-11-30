@@ -1,0 +1,72 @@
+{
+  "caseTitle": "AZIZ & ANO. v. MOHAMMED SHAMSHUDEEN ARMIYAOU",
+  "summary": "The Court of Appeal of Ghana allowed in part an appeal against a summary judgment granted by the High Court in favour of the plaintiff for $5,400 and interest, obtained under Order 14 of the High Court Civil Procedure Rules. The plaintiff had paid the defendant to secure a U.S. visa, which turned out to be fake, and sought a full refund. The defendant admitted receiving the money, claimed to have refunded $800, and asserted a right to deduct legitimate expenses for other services rendered under a $6,000 agreement. The Court of Appeal held that the defendant had raised triable issues through admission of partial liability and a set-off defence, which were not traversed, thus warranting leave to defend on the balance. The High Court erred in granting full judgment without allowing defence on the disputed portion. Although the appellant claimed he was not heard, the appellate court found he had actual notice of proceedings and chose to absent himself, making the complaint untenable. The judgment was set aside and the defendant granted leave to defend.",
+  "legalKeywords": [
+    "summary judgment",
+    "Order 14",
+    "defence admission",
+    "set-off",
+    "leave to defend",
+    "refund",
+    "fake visa",
+    "procedural fairness",
+    "triable issues",
+    "civil procedure",
+    "affidavit in opposition",
+    "judgment in absence",
+    "ex debito justiciae",
+    "bonafide defence",
+    "hearing notice"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Summary Judgment",
+    "Contract Law",
+    "Restitution",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed in part; summary judgment set aside and defendant granted leave to defend.",
+  "winningSide": "Defendant/Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Akoto-Bamfor",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Aryeetey",
+      "role": "Concurring Judge"
+    },
+    {
+      "name": "Asare-Korang",
+      "role": "Concurring Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Halsbury's Laws of England 4th edition Vol. 26 paragraph 559",
+    "Morkor vrs. Kuma 1998-99 SC. GLR page 620",
+    "Lazarus vrs. Smith 1908 2KB 266",
+    "Order 14 of the High Court Civil Procedure Rules as amended by L.I. 1129"
+  ],
+  "rationaleHighlights": [
+    "Defendant admitted partial liability and claimed set-off, raising triable issues.",
+    "Judgment for full amount without addressing partial refund was erroneous.",
+    "Court found no merit in claim of lack of hearing due to defendant's awareness and absence.",
+    "Precedent cited: where part of claim is admitted, judgment should be entered only for that part and leave to defend granted on the residue.",
+    "Failure to serve hearing notices not fatal where defendant had actual notice.",
+    "Summary judgment inappropriate where legitimate expenses and partial refund are pleaded and not denied."
+  ],
+  "confidenceNotes": "All information is directly extracted from the judgment text. Citations and procedural details are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/ABDUL AZIZ & ANO. v. MOHAMMED SHAMSHUDEEN ARMIYAOU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:49:06.535Z",
+    "plainTextLength": 11775
+  },
+  "trialDate": "2004-03-26"
+}

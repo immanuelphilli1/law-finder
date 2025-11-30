@@ -1,0 +1,67 @@
+{
+  "caseTitle": "SOLOMON JONAH",
+  "summary": "This 1937 West Africa Court of Appeal case arose from a boundary-related dispute in Gomoa Assin, Ghana, where the plaintiff sought damages after being prevented by the defendant from accessing forest land where farms were located. The initial native tribunal awarded damages, but the native appellate tribunal reversed, finding the claim unclear and noting it was customary for the defendant to restrict access until boundaries were jointly agreed. The Provincial Commissioner then overturned the native appellate decision, treating the matter as a land ownership dispute. The West Africa Court of Appeal held that the original issue was not about land title, possession, or occupation, but about whether the defendant could lawfully restrict access pending a joint boundary agreement. It ruled that the Provincial Commissioner lacked jurisdiction because the dispute did not fall under land ownership claims, which are subject to different procedural rules. The court emphasized the importance of clarity in claims before native tribunals to determine proper jurisdiction and appeal pathways. The appeal was allowed, costs awarded, and the native appellate tribunal's judgment was restored, with counsel waiving enforcement of the �5 pacification order.",
+  "legalKeywords": [
+    "jurisdiction",
+    "native tribunal",
+    "provincial commissioner",
+    "boundary dispute",
+    "land ownership",
+    "appeal",
+    "writ of summons",
+    "customary law",
+    "civil damages",
+    "pacification"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Jurisdiction",
+    "Customary Law",
+    "Civil Procedure",
+    "Native Tribunals"
+  ],
+  "verdict": "Appeal allowed; judgment of the native appellate tribunal restored.",
+  "winningSide": "Defendant-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "Webber, C.J., Sierra Leone",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "Ohene Kwesi Abuagyi II v. Ohene Amua Gyedu",
+    "Kwamin Fosu v. J. G. Turkson"
+  ],
+  "rationaleHighlights": [
+    "The dispute was not about land ownership but about the defendant forbidding the plaintiff from entering land without mutual agreement on boundaries.",
+    "The Provincial Commissioner erred by recharacterizing the issue as one of land title, thereby exceeding jurisdiction.",
+    "Clarity in the claim is essential to determine jurisdiction and proper adjudication in native tribunals.",
+    "The form of the writ should not obscure the actual issue involved and relief claimed.",
+    "The native appellate tribunal correctly interpreted the claim as non-proprietary and procedural in nature.",
+    "The Provincial Commissioner lacked jurisdiction because the original dispute did not concern possession or ownership of land.",
+    "The appeal was allowed with costs, and the native appellate tribunal's judgment was restored.",
+    "Counsel for appellant disavowed enforcement of the �5 pacification award."
+  ],
+  "confidenceNotes": "High confidence in jurisdictional and procedural analysis based on clear judicial reasoning and cited precedents.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/SOLOMON JONAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:10:21.622Z",
+    "plainTextLength": 9804
+  },
+  "trialDate": "1937-04-21"
+}

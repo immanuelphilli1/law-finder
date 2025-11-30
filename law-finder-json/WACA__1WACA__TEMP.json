@@ -1,0 +1,36 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The provided document does not contain a legal decision or case details but appears to be a homepage or introductory page for the West African Court of Appeal (WACA) legal database. It includes a title 'GHANA LAW FINDER', a self-help guide description, and copyright information. There is no case content, judgment, or judicial reasoning available for analysis.",
+  "legalKeywords": [
+    "Ghana Law Finder",
+    "West African Court of Appeal",
+    "legal database",
+    "case index",
+    "legal library",
+    "self-help legal guide",
+    "copyright notice",
+    "online legal resource"
+  ],
+  "topics": [
+    "Legal Research",
+    "Court Resources"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "None",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "Low confidence in extracting case-specific insights due to absence of actual case content; the document is administrative or navigational in nature.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/TEMP.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:38:48.005Z",
+    "plainTextLength": 298
+  }
+}

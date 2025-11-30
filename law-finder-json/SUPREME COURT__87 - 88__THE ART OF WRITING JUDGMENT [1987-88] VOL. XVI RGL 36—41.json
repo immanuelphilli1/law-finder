@@ -1,0 +1,63 @@
+{
+  "caseTitle": "THE ART OF WRITING JUDGMENT [1987-88] VOL. XVI RGL 36—41",
+  "summary": "This document is a judicial address delivered by Chief Justice Sowah E. N. P. on the principles and best practices for writing court judgments in Ghana. Emphasizing that judgment delivery is the most important judicial function, the CJ outlines key aspects including the necessity of mastering the English language, adopting a clear and effective writing style, properly settling issues before trial, and accurately applying the law. He stresses that judgments must be clear, concise, and based on a proper evaluation of evidence rather than witness demeanour. The speech highlights the binding nature of precedent under stare decisis, the importance of legal research despite limited access to law reports, and the need for judges to avoid verbosity and ambiguity. The CJ also cautions against improper cross-examination tactics and premature rulings on the merits before evidence is heard.",
+  "legalKeywords": [
+    "judgment writing",
+    "language in law",
+    "judicial style",
+    "stare decisis",
+    "evaluation of evidence",
+    "cross-examination",
+    "court procedure",
+    "legal reasoning",
+    "judicial responsibility",
+    "delivery of judgment",
+    "rule of law",
+    "appellate review",
+    "credibility assessment",
+    "legal clarity",
+    "PNDC Proclamation"
+  ],
+  "topics": [
+    "Judicial Writing",
+    "Legal Language",
+    "Court Procedure",
+    "Evidence Evaluation",
+    "Stare Decisis"
+  ],
+  "verdict": "Not applicable – this is a judicial speech on legal methodology, not a court decision.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Sowah E. N. P.",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "judicial speech",
+  "citations": [
+    "SOWAH E. N. P., CJ, THE ART OF WRITING JUDGMENT [1987-88] VOL. XVI RGL 36–41"
+  ],
+  "rationaleHighlights": [
+    "Clarity, brevity, and accuracy are essential in judicial writing.",
+    "Judges must base findings on credible evidence, not witness demeanour alone.",
+    "Cross-examination must relate to issues in dispute and not be used to embarrass.",
+    "Superior court decisions bind inferior courts under stare decisis.",
+    "Judges should know where to find the law, especially in absence of adequate legal libraries.",
+    "Findings of fact must be clear before applying the law.",
+    "Long-winded judgments do not equate to legal depth or correctness.",
+    "Judges must support any finding that a witness is untruthful with evidence."
+  ],
+  "confidenceNotes": "The document is a published judicial address rather than a case decision, so standard case elements like verdict and winning party do not apply. Information is drawn directly from the text with high confidence.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/87 - 88/THE ART OF WRITING JUDGMENT [1987-88] VOL. XVI RGL 36—41.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:58:24.279Z",
+    "plainTextLength": 13407
+  },
+  "trialDate": "1981-12-31"
+}

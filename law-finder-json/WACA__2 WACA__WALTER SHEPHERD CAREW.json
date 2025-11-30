@@ -1,0 +1,70 @@
+{
+  "caseTitle": "WALTER SHEPHERD CAREW",
+  "summary": "This 1934 West African Court of Appeal decision concerns an appeal by Walter Shepherd Carew, who claimed to be the sole devisee under a lost will of Matthew John, dated 1917. The will allegedly granted prior life interests to the testator's widow and James Carew. The plaintiff-appellant failed to produce the will, relying instead on parol evidence from himself and R.C.P. Barlatt, who claimed to have received the will from the widow in 1919 and later handed it to the first defendant in 1927. The trial judge dismissed the claim, finding the evidence insufficient to prove the will's existence and contents. On appeal, the court upheld the dismissal, emphasizing that proof of a lost will requires evidence of extreme cogency, leaving no reasonable doubt as to the testator's intentions. The appellate court found the evidence lacking, particularly due to the absence of witness names, the executor’s failure to probate the will during eight years of possession, and the lack of corroborative documentation such as a draft or confirming letter from the testator. The appeal was dismissed, affirming the lower court's judgment.",
+  "legalKeywords": [
+    "lost will",
+    "parol evidence",
+    "testamentary intention",
+    "due execution of will",
+    "burden of proof",
+    "executor duties",
+    "attestation clause",
+    "witness testimony",
+    "probate",
+    "cogent evidence",
+    "will propounded",
+    "letters of administration",
+    "intestacy",
+    "corroborative evidence",
+    "testator's signature"
+  ],
+  "topics": [
+    "Probate Law",
+    "Wills and Succession",
+    "Appellate Procedure",
+    "Evidence Law",
+    "West African Court of Appeal"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Butler-Lloyd",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Deane",
+      "role": "Chief Justice, Gold Coast, concurred"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice, Sierra Leone, concurred"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "West Africa"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Woodward v. Goulstone [1894] App. Cas. 475",
+    "Phibbs v. Phibbs 86 L.J. 82"
+  ],
+  "rationaleHighlights": [
+    "Proof of a lost will requires evidence of extreme cogency",
+    "Parol evidence must leave the court without reasonable doubt",
+    "Executor's failure to apply for probate undermines credibility",
+    "Absence of attesting witness names is a significant weakness",
+    "No draft or confirming letter from testator to support contents",
+    "Distinguished from Phibbs case due to lack of reliable attestation and corroboration"
+  ],
+  "confidenceNotes": "High confidence; all key facts, legal principles, and judicial reasoning are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/WALTER SHEPHERD CAREW.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:13:47.303Z",
+    "plainTextLength": 6092
+  },
+  "trialDate": "1934-10-10"
+}

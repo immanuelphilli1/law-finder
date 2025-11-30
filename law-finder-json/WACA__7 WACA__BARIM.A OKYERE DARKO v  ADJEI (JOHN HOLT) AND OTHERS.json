@@ -1,0 +1,66 @@
+{
+  "caseTitle": "IN THE MATTER OF THE NATIVE ADMINISTRATION ORDINANCE AND IN THE MATTER OF THE NATIVE TRIBUNAL OF ADONTENHENE OF AKWAPHI, ABURI AND IN THE MATTER OF SUITS BARIM",
+  "summary": "This 1941 West African Court of Appeal decision in Accra addressed an appeal brought under section 3(2) of the West African Court of Appeal Ordinance. The court held that section 3(2) applies exclusively to matrimonial matters, and since the case before it did not concern matrimonial issues, the appeal was not maintainable. The appeal was consequently struck out with costs assessed at £18 0s 6d. The case arose from a dispute involving the Native Tribunal of Adontenhene of Akwaphi, Aburi, under the Native Administration Ordinance.",
+  "legalKeywords": [
+    "West African Court of Appeal",
+    "section 3(2)",
+    "matrimonial matters",
+    "appeal struck out",
+    "Native Administration Ordinance",
+    "Native Tribunal",
+    "jurisdiction",
+    "prohibition",
+    "costs",
+    "ordinance interpretation",
+    "appellate jurisdiction",
+    "legal standing",
+    "tribal authority",
+    "Ghana colonial law",
+    "case dismissal"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Matrimonial Jurisdiction",
+    "Native Tribunals",
+    "Colonial Ordinances",
+    "West African Court of Appeal"
+  ],
+  "verdict": "Appeal struck out",
+  "winningSide": "Respondents",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Appeal",
+  "citations": [
+    "West African Court of Appeal Ordinance (Cap. 5)"
+  ],
+  "rationaleHighlights": [
+    "Section 3(2) applies only to matrimonial matters",
+    "The present case was not matrimonial in nature",
+    "Appeal not maintainable under the Ordinance",
+    "Jurisdictional limitation strictly interpreted"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial statement regarding jurisdictional limits of section 3(2); primary source appears authentic with proper court header and date.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/BARIM.A OKYERE DARKO v  ADJEI (JOHN HOLT) AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:36:34.333Z",
+    "plainTextLength": 2100
+  }
+}

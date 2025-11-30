@@ -1,0 +1,86 @@
+{
+  "caseTitle": "BOOK REVIEW MODERN PRINCIPLES OF EQUITY [1987-88] VOL. XVI",
+  "summary": "This document is a book review of 'Modern Principles of Equity' by A.K.P. Kludze, published in 1988, assessing its contribution to Ghanaian and Anglophone African equity and trust law. The reviewer praises the work as a comprehensive and pioneering textbook addressing core equitable doctrines such as specific performance, injunctions, rectification, rescission, trusts, and mortgages, with particular emphasis on their relevance to Ghana. Kludze critiques the re-introduction of the 'principles of natural justice, equity and good conscience' as a test for customary law under section 49 of the Courts Act, 1971, and urges Ghanaian courts to adapt English precedents to local realities. He proposes legal reforms, including validating half-secret trusts if communicated before death, allowing trustee reliance on expert advice, and abolishing the mutuality requirement for specific performance. The book offers the most detailed treatment of Ghanaian mortgage law and customary pledges. Despite numerous typographical errors and some underdeveloped arguments—such as on interim injunction standards and charitable trusts—the reviewer highly commends the work for clarifying complex issues and advancing legal scholarship in Ghana, acknowledging the author's perseverance amid publication challenges.",
+  "legalKeywords": [
+    "equity",
+    "trusts",
+    "specific performance",
+    "injunctions",
+    "rectification",
+    "rescission",
+    "mortgages",
+    "customary law",
+    "misrepresentation",
+    "breach of trust",
+    "prima facie case",
+    "natural justice",
+    "unconscionability",
+    "jurisdiction",
+    "legal reform"
+  ],
+  "topics": [
+    "Equity",
+    "Trusts",
+    "Mortgages",
+    "Customary Law",
+    "Legal Reform"
+  ],
+  "verdict": "The book is highly recommended despite minor flaws.",
+  "winningSide": "Academic scholarship and legal reform advocacy",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Owusu J",
+      "role": "judge"
+    },
+    {
+      "name": "Lord Denning",
+      "role": "judge"
+    },
+    {
+      "name": "Sachs LJ",
+      "role": "judge"
+    },
+    {
+      "name": "Lord Russell LJ",
+      "role": "judge"
+    },
+    {
+      "name": "Azu Crabbe",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Apaloo",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "book review",
+  "citations": [
+    "[1987-88] Vol. XVI RGL 298\u000300",
+    "Annobil v Annobil (1969) CC 27",
+    "Vanderpuije v Nartey [1977] 1 GLR 42",
+    "Agyei-Acheampong v Donkor [1980] GLR 108",
+    "Joscelyne v Nissen [1970] 2 QB 86",
+    "Pierson (cf) [1948] Ch 452",
+    "Hoggart v Scott (1830)",
+    "Norh v Gbedemah (1926-29)"
+  ],
+  "rationaleHighlights": [
+    "Author advocates for Ghanaian courts to depart from English precedents where local circumstances require",
+    "Calls for abolition of mutuality as a condition for specific performance",
+    "Suggests reform in trustee liability and retirement rules",
+    "Critiques reapplication of 'natural justice, equity and good conscience' test to customary law under section 49 of the Courts Act, 1971",
+    "Recommends relaxing rules of evidence for customary pledge transactions"
+  ],
+  "confidenceNotes": "The document is a book review, not a judicial decision; therefore, case details are derived from cited legal texts and references within the review. Accuracy of citations has been cross-checked where possible.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/87 - 88/BOOK REVIEW MODERN PRINCIPLES OF EQUITY [1987-88] VOL. XVI  .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:04:42.516Z",
+    "plainTextLength": 12971
+  }
+}

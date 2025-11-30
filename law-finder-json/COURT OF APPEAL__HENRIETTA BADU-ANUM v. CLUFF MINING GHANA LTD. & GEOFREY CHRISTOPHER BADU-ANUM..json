@@ -1,0 +1,77 @@
+{
+  "caseTitle": "HENRIETTA BADU-ANUM v. CLUFF MINING GHANA LTD. & GEOFREY",
+  "summary": "This Court of Appeal case arose from a fatal road accident on the Accra-Mankessim road involving a Landrover (ACR 6201) driven by Geoffrey Christopher Badu-Anum and an articulated truck (WRA 3233). The plaintiff, Henrietta Badu-Anum, sued her husband for negligence and Cluff Mining Ghana Ltd. for vicarious liability, claiming the company owned the vehicle. The High Court had ruled in her favor, but the Court of Appeal reviewed the evidence. The police report (Exhibit B) alleged the second defendant was overtaking at high speed and lost control, causing a head-on collision. However, no witness statements corroborated the overtaking claim, and the plaintiff’s own evidence varied between a taxi and an unidentified vehicle. The second defendant claimed the truck strayed into his lane, forcing him to swerve. The court emphasized that a collision raises a rebuttable inference of negligence against both drivers. On vicarious liability, the first defendant proved it had transferred ownership of the vehicle to the second defendant’s company in 1991 for $7,500 and delivery of the vehicle, with documentation provided. As the company was no longer the registered owner, vicarious liability did not apply. The appeal was allowed, overturning the High Court’s judgment.",
+  "legalKeywords": [
+    "negligence",
+    "collision",
+    "overtaking",
+    "vicarious liability",
+    "police accident report",
+    "burden of proof",
+    "Highway Code 1973",
+    "prima facie evidence",
+    "careless driving",
+    "evidence credibility",
+    "vehicle ownership",
+    "inference of fault",
+    "swerving",
+    "head-on collision",
+    "damages"
+  ],
+  "topics": [
+    "Tort Law",
+    "Motor Vehicle Accidents",
+    "Negligence",
+    "Vicarious Liability",
+    "Evidence Law"
+  ],
+  "verdict": "The Court of Appeal allowed the appeal, overturning the High Court's judgment in favor of the plaintiff. The defendants were acquitted of liability.",
+  "winningSide": "Defendants/Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Twumasi, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Aryeetey, J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebe, J.A.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "HENRIETTA BADU-ANUM v. CLUFF MINING GHANA LTD. & GEOFREY CHRISTOPHER BADU-ANUM. [30/5/02] CA 27/2000",
+    "Tishigu and Another v Abdulai Dagomba & Others, High Court, Kumasi (1967) GLR 309",
+    "Baker v Market Harborough Industrial Co-operation Society Ltd (1953) 1 WLR 1472",
+    "Nyame v Tarzan Transport (1973) 1 GLR 8 C.A.",
+    "Mensah v Gonja CA No 69/71 (31st July 1972, unreported)",
+    "Saunders v Awudu (1962) 1 GLR 472",
+    "Dagomba v Dagomba 1969 CC48",
+    "Yakubu v Dove (1977) 1 GLR 281 CA",
+    "Aboagye v Engman (1989-90) 1 GLR 416",
+    "Norgbey v Asante (1992) 1 GLR 506"
+  ],
+  "rationaleHighlights": [
+    "Collision between vehicles raises inference of negligence against both drivers, shifting burden to each to exculpate themselves.",
+    "Plaintiff's inconsistent allegations (overtaking taxi vs. unidentified vehicle) undermined credibility.",
+    "Police report stated overtaking, but no supporting statements from passengers mentioned it, weakening its reliability.",
+    "No police sketch or charges against articulated truck driver limited fault determination.",
+    "Vicarious liability claim failed due to prior transfer of vehicle ownership to defendant's company."
+  ],
+  "confidenceNotes": "The summary is based on a detailed appellate judgment with clear factual findings, legal reasoning, and citation of authorities. Information on ownership transfer and police report discrepancies is explicitly stated, though the document is truncated before full conclusion.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/HENRIETTA BADU-ANUM v. CLUFF MINING GHANA LTD. & GEOFREY CHRISTOPHER BADU-ANUM..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:28:42.111Z",
+    "plainTextLength": 46468
+  },
+  "trialDate": "30TH MAY, 2002"
+}

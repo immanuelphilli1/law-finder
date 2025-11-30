@@ -1,0 +1,70 @@
+{
+  "caseTitle": "COMMISSIONER OF POLICE' vclement",
+  "summary": "The appellant, Clement Cobla Dogbe, a storekeeper for the United Africa Company in Kumasi, was convicted in the lower court of two counts of larceny for unaccounted motor tyres in August and September 1937, under section 276(1) of Cap. 29. The West Africa Court of Appeal allowed his appeal, quashing the conviction and entering a verdict of acquittal. The court found the evidence insufficient, emphasizing that recurring stock shortages were common and not automatically treated as theft by the company. The manager testified that deficits required definite proof before being considered stolen. The appellant offered explanations such as 'wrong issues' or unauthorized credit sales, and there was no evidence of concealment. A critical exhibit—a statement by a co-accused (Ayequaye) implicating the appellant—was deemed inadmissible hearsay and possibly coerced, as Ayequaye retracted it in court. The acquittal of the appellant on a similar October charge and of two others charged with receiving further weakened the prosecution's case. The court held that mere unexplained stock loss, without more, could not sustain a larceny conviction.",
+  "legalKeywords": [
+    "larceny",
+    "stock deficiency",
+    "prima facie evidence",
+    "unauthorized sales",
+    "credibility of witness statement",
+    "exhibit admissibility",
+    "criminal conviction",
+    "appellate review",
+    "acquittal",
+    "fraudulent disposal",
+    "receiving stolen goods",
+    "police coercion",
+    "managerial testimony",
+    "monthly stock-taking",
+    "corroborative evidence"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence",
+    "Appellate Procedure",
+    "Theft",
+    "Hearsay"
+  ],
+  "verdict": "Appeal allowed; conviction quashed; acquittal entered.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "C.J., Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "C.J., Gold Coast"
+    },
+    {
+      "name": "Webb",
+      "role": "C.J., Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "WACA/4 WACA/COMMISSIONER OF POLICE' vclement.htm",
+    "section 276 (1) of Cap. 29"
+  ],
+  "rationaleHighlights": [
+    "Mere stock deficiency not prima facie evidence of dishonesty given company's tolerance of recurring shortages.",
+    "Key statement (Exhibit 'S') from co-accused was hearsay and potentially coerced, thus unreliable against appellant.",
+    "Acquittal of co-accused and on related charge undermined prosecution's theory.",
+    "No concealment by appellant; offered plausible explanations for missing items.",
+    "Manager testified deficits not treated as theft without definite proof.",
+    "Lack of corroborative evidence rendered convictions unsafe."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on primary source text and clear judicial reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/COMMISSIONER OF POLICE'   vclement.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:03:27.996Z",
+    "plainTextLength": 4564
+  },
+  "trialDate": "1938-12-13"
+}

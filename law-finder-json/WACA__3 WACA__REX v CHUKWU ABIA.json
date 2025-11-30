@@ -1,0 +1,68 @@
+{
+  "caseTitle": "REX v CHUKWU ABIA",
+  "summary": "The West Africa Court of Appeal quashed the convictions of Chukwu Abia and Obasi Okoronwe for slave dealing due to insufficient particulars in the charges, which created ambiguity about the factual basis of the prosecution. The case hinged on two distinct possible sets of facts: one involving an attempt to pledge or sell a child in Aro-Chuku, and the other involving the placement of the child with a relative for upbringing. The court held that the charges failed to specify which act constituted the offence, preventing a fair trial. Additionally, the Crown’s shifting legal stance during appeal underscored the uncertainty. Without clarity on which facts were proven or relied upon, and lacking evidence that the child was treated as a slave or pledged for debt, the convictions could not stand.",
+  "legalKeywords": [
+    "slave dealing",
+    "section 369 Criminal Code",
+    "insufficient particulars",
+    "conviction quashed",
+    "attempt vs preparation",
+    "conspiracy",
+    "due process",
+    "ambiguity in charge",
+    "appellate review",
+    "evidentiary sufficiency",
+    "servitude",
+    "debt pledge",
+    "trial fairness"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Human Rights"
+  ],
+  "verdict": "Convictions quashed due to lack of clarity in charges and insufficient evidence to support findings under either interpretation of the facts.",
+  "winningSide": "Appellants (Chukwu Abia and Obasi Okoronwe)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal appeal",
+  "citations": [
+    "Rex v Chukwu Abia and Obasi Okoronwe, WACA/3, 22nd April 1936",
+    "Section 369(2) and (3) of the Criminal Code"
+  ],
+  "rationaleHighlights": [
+    "Charges lacked sufficient particulars to inform accused of the specific offence.",
+    "Two mutually exclusive factual scenarios were presented without clarity on which was proven.",
+    "The Crown changed its factual position between hearings, undermining consistency.",
+    "No evidence that the child was held as a slave or pledged as security for debt.",
+    "Ambiguity in the trial record rendered convictions legally unsustainable.",
+    "Handing a child to a relative for upbringing does not constitute slave dealing.",
+    "Attempt and conspiracy issues arose but were not determinative due to factual uncertainty.",
+    "Fair trial rights compromised by vague charges."
+  ],
+  "confidenceNotes": "The decision is clearly based on procedural and evidentiary grounds. The court explicitly rejects both factual interpretations due to lack of clarity and proof. High confidence in accuracy given the clear judicial reasoning and citation of statutory provisions.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/REX v CHUKWU ABIA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:12:25.978Z",
+    "plainTextLength": 6250
+  },
+  "trialDate": "1936-04-22"
+}

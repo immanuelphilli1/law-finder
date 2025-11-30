@@ -1,0 +1,69 @@
+{
+  "caseTitle": "REX v LATUBOSUN",
+  "summary": "The appellant, Latubosun, was charged with murder by the Crown in the High Court. The evidence adduced showed that while he was not guilty of the murder itself, he was an accessory after the fact to the crime. However, no separate charge was brought against him for being such an accessory. The trial judge accordingly acquitted him, holding that a conviction for being an accessory after the fact could not be entered in the absence of a formal charge. The prosecution referred the matter via a case stated for the opinion of the West Africa Court of Appeal. The appellate court, in a joint opinion by Chief Justices Kingdon and Petrides and Justice Butler Lloyd, upheld the trial judge's decision, ruling that it was legally impermissible to convict an accused of a crime—here, being an accessory after the fact to murder—without that offence having been formally charged. The court emphasized the importance of adherence to procedural fairness and statutory requirements under Cap. 20, s. 58(1) of the Laws of Nigeria, and cited relevant English precedents.",
+  "legalKeywords": [
+    "murder",
+    "accessory after the fact",
+    "conviction",
+    "charge",
+    "criminal liability",
+    "case stated",
+    "acquittal",
+    "prosecution",
+    "criminal law",
+    "legal procedure",
+    "offence",
+    "judicial discretion",
+    "statutory interpretation",
+    "Laws of Nigeria",
+    "criminal appeal"
+  ],
+  "topics": [
+    "criminal law",
+    "procedural law",
+    "accessory liability",
+    "appeal",
+    "acquittal"
+  ],
+  "verdict": "Acquittal upheld",
+  "winningSide": "Respondent",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Cap. 20, s. 58(1), Laws of Nigeria",
+    "Reg. v. William Fallon, L. & C. 217, 169 Eng. Rep. 1370",
+    "R. v. Watson, [1916] 2 K.B. 385"
+  ],
+  "rationaleHighlights": [
+    "An accused cannot be convicted of being an accessory after the fact when only charged with murder.",
+    "Conviction requires a formal charge corresponding to the offence.",
+    "The trial court correctly discharged the accused due to lack of appropriate charge.",
+    "Reliance on statutory provisions (Cap. 20, s. 58(1)) and precedent (Fallon, Watson)."
+  ],
+  "confidenceNotes": "High confidence; case is clearly reported with judicial reasoning and cited authorities.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/REX  v LATUBOSUN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:11:20.955Z",
+    "plainTextLength": 2254
+  },
+  "trialDate": "1937-05-26"
+}

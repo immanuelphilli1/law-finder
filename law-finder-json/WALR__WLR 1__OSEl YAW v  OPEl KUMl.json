@@ -1,0 +1,60 @@
+{
+  "caseTitle": "OSEl YAW v OPEl KUMl",
+  "summary": "The appellant, Osei Yaw, sued the respondent, Opei Kum, for specific performance of an agreement dated October 14, 1952, for the sale of a house in Kumasi for £3,800. The appellant also sought, in the alternative, the return of £3,852 10s. The respondent denied liability, arguing ambiguity in the agreement and claiming the intended purchase price was £4,800, including a pre-existing mortgage debt of £1,000. The trial judge found the agreement expressed the parties' intention but admitted extrinsic evidence. The appellate court held that the agreement was unambiguous and that extrinsic evidence could not be used to vary its terms. The appeal was allowed, the lower court's judgment set aside, and the counterclaim dismissed, affirming that the written agreement must be interpreted based on its plain language without reference to prior transactions.",
+  "legalKeywords": [
+    "specific performance",
+    "agreement for sale",
+    "extrinsic evidence",
+    "parol evidence rule",
+    "ambiguity in contract",
+    "written instrument interpretation",
+    "mortgage debt set-off",
+    "contractual intention",
+    "sale of property",
+    "Gold Coast law"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Evidence Law"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Korsah",
+      "role": "Ag.C.J."
+    },
+    {
+      "name": "Foster-Sutton",
+      "role": "P."
+    },
+    {
+      "name": "Coussey",
+      "role": "J.A."
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "[1900] A.C. 263"
+  ],
+  "rationaleHighlights": [
+    "The agreement was clear and unambiguous on its face.",
+    "Extrinsic evidence is inadmissible to alter the meaning of a written agreement that expresses the parties' intention.",
+    "The trial judge erred in considering evidence about the parties' alleged true intention.",
+    "The mortgage debt was a separate transaction and not referenced in the sale agreement.",
+    "The plain language of the document must govern its interpretation."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text, including names, legal principles, and court outcome.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/OSEl YAW v  OPEl KUMl.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:57:56.338Z",
+    "plainTextLength": 6898
+  }
+}

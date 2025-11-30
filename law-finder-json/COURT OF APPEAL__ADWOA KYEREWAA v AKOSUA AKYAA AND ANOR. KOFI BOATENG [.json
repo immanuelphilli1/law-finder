@@ -1,0 +1,64 @@
+{
+  "caseTitle": "KYEREWAA v AKOSUA AKYAA AND ANOR. KOFI BOATENG",
+  "summary": "In this 2004 Court of Appeal decision from Ghana, Adwoa Kyerewaa (Plaintiff/Respondent) successfully challenged the unilateral claim by her sister, Akosua Akyaa (1st Defendant/Appellant), to an uncompleted house at Adweso-Koforidua, which Akosua Akyaa alleged was gifted to her by their deceased mother, Beatrice Asantewa. The High Court had previously ruled in favor of the Plaintiff, declaring the property jointly owned by all five children of the deceased and issuing an interim injunction to prevent the Defendants from dealing with the property. The Defendants appealed, arguing procedural defects, including the Plaintiff’s failure to formally endorse the writ as a representative action, and challenging the trial court’s rejection of the gift and 'aseda' (customary acceptance) evidence. The Court of Appeal dismissed the appeal, holding that the Plaintiff’s writ sufficiently indicated a representative capacity despite technical deficiencies, and that the trial judge correctly found no valid gift due to lack of acceptance by the Plaintiff and insufficient proof of the gift’s terms. The court emphasized that the Plaintiff could not be estopped from challenging the gift since she did not participate in the 'aseda' ceremony. The judgment reaffirmed the principle that property acquired from family resources should be equitably shared among all children under customary law.",
+  "legalKeywords": [
+    "representative action",
+    "customary law",
+    "gift",
+    "aseda",
+    "estoppel",
+    "property ownership",
+    "family property",
+    "procedural defect",
+    "inheritance",
+    "nullity"
+  ],
+  "topics": [
+    "Ghanaian appellate procedure",
+    "customary succession",
+    "property rights",
+    "family disputes",
+    "judicial reasoning"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Plaintiff/Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dotse, J.A.",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Farkye, J.A.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Akamba, J.A.",
+      "role": "Member of panel"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "AKRONG vrs. BULLEY [1965] G.L.R. S.C. 469",
+    "GHANA MUSLIM REPRESENTATIVE COUNCIL vrs. SALIFU [1975] 2 GLR. 246"
+  ],
+  "rationaleHighlights": [
+    "The writ of summons, though technically defective, clearly indicated a representative capacity through its substance and context.",
+    "The Plaintiff did not accept the family 'aseda' ceremony and thus was not estopped from challenging the alleged gift.",
+    "A gift under customary law requires clear proof of donor intent, acceptance, and delivery, which was not sufficiently established.",
+    "The property was financed from the father’s cocoa farm proceeds, indicating family rather than individual ownership.",
+    "Applying strict procedural rules would lead to absurd results given the familial conflict and nature of the claim."
+  ],
+  "confidenceNotes": "The summary is based on a truncated document; however, the core legal reasoning, parties, and outcome are clearly established in the available text. Citations and judicial roles are accurately extracted.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/ADWOA KYEREWAA v AKOSUA AKYAA AND ANOR. KOFI BOATENG [.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:46:52.868Z",
+    "plainTextLength": 33813
+  },
+  "trialDate": "2004-06-24"
+}

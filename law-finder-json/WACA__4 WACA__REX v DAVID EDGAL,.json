@@ -1,0 +1,75 @@
+{
+  "caseTitle": "REX v DAVID EDGAL,",
+  "summary": "In this 1938 West Africa Court of Appeal case, Rex v. David Edgal and others, the appellants were convicted under section 230 of the Criminal Code for supplying substances to procure abortion unlawfully. The prosecution did not allege the substances were noxious, relying instead on the broad wording of the statute. The appellants argued that only noxious substances could form the basis of a conviction, citing Rex v. Isaacs. The Court distinguished that case, holding that under the Nigerian Criminal Code, the nature of the substance was irrelevant. The central issue became the meaning of 'unlawfully.' Relying on Rex v. Bourne, the Court held that abortion is unlawful unless performed in good faith to preserve the mother's life, reflecting the common law of England as applicable in Nigeria under the Protectorate Courts Ordinance. The appeals were dismissed, affirming that the absence of a specific exception in the Code did not render all abortions lawful. The judgment affirmed that the protection of unborn life is a principle of the common law, and only life-saving interventions are lawful.",
+  "legalKeywords": [
+    "abortion",
+    "unlawfully",
+    "Criminal Code section 230",
+    "common law",
+    "Rex v Bourne",
+    "Rex v Isaacs",
+    "manslaughter",
+    "supplying drugs",
+    "felony",
+    "miscarriage",
+    "judicial precedent",
+    "statutory interpretation",
+    "lawful purpose",
+    "prosecution burden",
+    "human life sanctity"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Abortion Law",
+    "Statutory Interpretation",
+    "Common Law Application",
+    "Appellate Decision"
+  ],
+  "verdict": "Appeals dismissed",
+  "winningSide": "Respondent (Crown)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Carey, J.",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul, J.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana (under British West African jurisdiction)"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Rex v. Bourne (1938)",
+    "Rex v. Isaacs (1862), 9 Cox Crim. Cas. 228",
+    "Criminal Code s 230",
+    "Criminal Code Ordinance s 4",
+    "Protectorate Courts Ordinance 1933 s 12"
+  ],
+  "rationaleHighlights": [
+    "The word 'unlawfully' in s 230 requires that the act of procuring miscarriage must not be for the purpose of preserving the mother's life.",
+    "The Court adopted the reasoning in Rex v. Bourne that abortion may be lawful if done in good faith to save the mother's life.",
+    "The nature of the substance supplied (noxious or not) is irrelevant under s 230.",
+    "Section 4 of the Criminal Code Ordinance does not abolish common law principles but modifies punishment.",
+    "The common law protection of unborn life applies in Nigeria under s 12 of the Protectorate Courts Ordinance.",
+    "The omission of a specific exception in the Code does not imply all abortions are lawful.",
+    "The Crown must prove the act was not done in good faith to preserve life.",
+    "The decision affirms judicial reliance on English common law in colonial jurisdictions."
+  ],
+  "confidenceNotes": "High confidence; source is a judicial decision with full reasoning from multiple judges, clear citations, and alignment with known legal principles from Rex v. Bourne. Jurisdictional application to Ghana is inferred from the West Africa Court of Appeal's regional authority at the time.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX v DAVID EDGAL,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:56:09.128Z",
+    "plainTextLength": 20039
+  },
+  "trialDate": "1938-09-10"
+}

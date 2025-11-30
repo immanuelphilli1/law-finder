@@ -1,0 +1,78 @@
+{
+  "caseTitle": "REPUBLIC v. THE NATIONAL HOUSE OF CHIEFS KUMASI,",
+  "summary": "This Court of Appeal decision in Ghana concerns an appeal against a High Court ruling that refused an order of prohibition sought by the appellants, Nana Sakyi Akomeah II and Nana Abrokwa Gyampim IV, to prevent the National House of Chiefs from relying on its 1992 report regarding a chieftaincy dispute over the Akyem Aduasa stool. The dispute originated in 1982 and involved eligibility and customary law issues surrounding the enstoolment of Nana Abrokwa Gyampim IV. The National House of Chiefs conducted an inquiry under Section 3 of the Chieftaincy Act, 1971 (Act 370), following a request from the Chieftaincy Secretariat, and issued a report advising the government. However, the PNDC Secretary declined to act on it, citing lack of jurisdiction over matters of nomination and installation. The appellants later sought to block the use of the report in administrative decisions, particularly concerning the registration of the second appellant as chief. The Court of Appeal dismissed the appeal, holding that the National House of Chiefs was performing a statutory advisory role, not exercising original judicial jurisdiction, and that the report could not be treated as a binding judgment. The court emphasized that proper remedies were available through statutory appeal mechanisms under Sections 22(1) and 50(7) of Act 370, which were not pursued.",
+  "legalKeywords": [
+    "prohibition",
+    "jurisdiction",
+    "chieftaincy dispute",
+    "statutory interpretation",
+    "advisory opinion",
+    "original jurisdiction",
+    "judicial committee",
+    "customary law",
+    "enstoolment",
+    "National House of Chiefs",
+    "High Court ruling",
+    "appeal dismissal",
+    "Section 3 Act 370",
+    "Section 50(7) Act 370",
+    "Section 22(1) Act 370",
+    "administrative decision",
+    "evidence admissibility",
+    "hearsay evidence",
+    "government discretion",
+    "traditional authority"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Constitutional Law",
+    "Customary Law",
+    "Judicial Review",
+    "Appellate Procedure"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Owusu-Ansah J. A.",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Essilfie-Bondzie, J.A.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Amonoo-Monney, J.A.",
+      "role": "Member of panel"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Republic v. Dugbaga VIII 1989/90 GLRD 94",
+    "Chieftaincy Act, 1971 (Act 370), Section 3",
+    "Section 21(1) Act 370",
+    "Section 22(1) Act 370",
+    "Section 50(7) Act 370",
+    "Section 24(1) Act 370"
+  ],
+  "rationaleHighlights": [
+    "The National House of Chiefs was acting in an advisory capacity under Section 3 of Act 370, not exercising original jurisdiction.",
+    "A report by the National House of Chiefs does not constitute a binding judgment unless adopted judicially.",
+    "The proper remedy for aggrieved parties is statutory appeal under Sections 22(1) or 50(7) of Act 370, not prohibition.",
+    "The PNDC Secretary's refusal to act on the report was based on jurisdictional limits, not invalidity of the report.",
+    "The application for prohibition was moot because the registration had already been rejected prior to filing."
+  ],
+  "confidenceNotes": "The summary is based on a complete review of the provided judgment text. All key legal reasoning, statutory references, and procedural history are accurately reflected. Minor truncation at the end of the source does not affect core holdings or outcome.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/THE REPUBLIC v. THE NATIONAL HOUSE OF CHIEFS KUMASI,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:00:38.304Z",
+    "plainTextLength": 30977
+  },
+  "trialDate": "2000-02-04"
+}

@@ -1,0 +1,71 @@
+{
+  "caseTitle": "SOCIETE DE PROMOTION DE LA PACHE v. THE OWNERS & PARTIES",
+  "summary": "This appeal arose from the wrongful discharge of 1,782.30 tonnes of fish at Tema Harbour by the vessel M/V Hilda 'A', contrary to the terms of three bills of lading and a written undertaking (Exhibit B) that required delivery to Abidjan, Tema, and Lagos. The plaintiff, Societe de Promotion de la Pache (SPP), sued for breach of contract, conversion, and injunctive relief. The trial court dismissed the claim, accepting the defendant's argument of a prior barter agreement involving third parties. The Court of Appeal reversed, holding that the bills of lading and Exhibit B established a valid contract of carriage. The captain’s deviation from the agreed destinations without consignee authorization constituted both a breach of contract and conversion. The court rejected the defense that a barter agreement with IPCO justified the seizure, emphasizing that SPP’s cargo could not be subject to a lien based on another party’s obligations. The trial judge’s reliance on extraneous agreements was deemed a misdirection.",
+  "legalKeywords": [
+    "bill of lading",
+    "contract of carriage",
+    "conversion",
+    "breach of contract",
+    "lien",
+    "common agent",
+    "quasi-contract",
+    "freight",
+    "vessel arrest",
+    "injunction",
+    "third-party beneficiary",
+    "prima facie evidence",
+    "undertaking as carrier",
+    "maritime law",
+    "cargo discharge"
+  ],
+  "topics": [
+    "Contract Law",
+    "Maritime Law",
+    "Tort Law",
+    "Injunctions",
+    "Property Rights"
+  ],
+  "verdict": "The appeal was allowed. The trial court's judgment was set aside, and the defendant was held liable for breach of contract and conversion.",
+  "winningSide": "Societe de Promotion de la Pache (Appellant)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lamprey, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Benin, J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Twumasi, J.A.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "SOCIETE DE PROMOTION DE LA PACHE v. THE OWNERS & PARTIES INTERESTED IN THE SHIP OR VESSEL M/V HILDA ‘A’ [4/5/200] C.A. NO. 13/98",
+    "Skibsaktiesel Skapet Thor v. Tyrer (1929) 35 L.I.L. 12 163 at 170",
+    "Carver's Carriage by Sea, Vol. 2, 13th Ed. Chapter 16 pp. 1110–1112",
+    "NRCD 323, Sections 10(1) and 11(1)"
+  ],
+  "rationaleHighlights": [
+    "The bill of lading and Exhibit B constituted a binding contract of carriage between the parties.",
+    "The captain had no authority to unilaterally alter the destination of cargo without consignee consent.",
+    "Discharge of cargo at Tema instead of Abidjan and Lagos constituted wrongful conversion and breach of contract.",
+    "The trial judge erred in relying on a 'barter agreement' involving third parties not before the court.",
+    "A shipowner cannot claim a lien over cargo belonging to a third party based on an agreement with another entity."
+  ],
+  "confidenceNotes": "The judgment is well-reasoned with clear reference to documentary evidence, contractual terms, and legal authority. The appellate court's reversal is based on solid interpretation of bills of lading and agency principles.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/SOCIETE DE PROMOTION DE LA PACHE v. THE OWNERS & PARTIES INTERESTED IN THE SHIP OR VESSEL MV HILDA ‘A.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:03:20.167Z",
+    "plainTextLength": 42322
+  },
+  "trialDate": "1993-06-18"
+}

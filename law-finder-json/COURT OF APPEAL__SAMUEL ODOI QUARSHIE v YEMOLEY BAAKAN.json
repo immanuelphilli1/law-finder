@@ -1,0 +1,68 @@
+{
+  "caseTitle": "SAMUEL ODOI QUARSHIE v YEMOLEY BAAKAN",
+  "summary": "This Court of Appeal case involved a land dispute between cousins Samuel Odoi Quarshie (plaintiff/respondent) and Yemoley Baakan (defendant/appellant) over a parcel of land at La near Degaulle Park, Accra. The plaintiff claimed the land was family property shared among three relatives, including his father, and sought declarations of title, ownership, and an injunction against interference, plus replacement of 600 blocks. The defendant denied the land was family property, asserting she purchased it independently and had paid for the blocks. The trial court ruled for the plaintiff, but the Court of Appeal set aside the judgment. The appellate court held that the plaintiff failed to meet the burden of proof by not providing corroborative evidence, clearly identifying the land boundaries, or properly amending the land size in pleadings. Additionally, the plaintiff lacked legal capacity to sue on behalf of the family or estate without establishing his representative status through probate, letters of administration, or vesting assent. As a result, the appeal was allowed, and judgment was entered in favor of the defendant on her counterclaim.",
+  "legalKeywords": [
+    "declaration of title",
+    "burden of proof",
+    "land identification",
+    "representative capacity",
+    "res judicata",
+    "adverse claim",
+    "corroborative evidence",
+    "amendment of pleadings",
+    "family land",
+    "injunction"
+  ],
+  "topics": [
+    "Land Law",
+    "Civil Procedure",
+    "Burden of Proof",
+    "Representative Suits",
+    "Judicial Review"
+  ],
+  "verdict": "The appeal was allowed; the trial court's judgment was set aside and judgment entered in favor of the defendant on her counterclaim.",
+  "winningSide": "Defendant (Yemoley Baakan)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Essilfie-Bondzie",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Osei",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Quaye",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Land Dispute",
+  "citations": [
+    "SAMUEL ODOI QUARSHIE v YEMOLEY BAAKAN [26/3/2004] H1/92/2004",
+    "OPPONG KOFI and ANOTHER vrs. FOFIE [1964] G.L.R. 174 SC",
+    "BANGA and OTHERS vrs. DJANIE and ANOTHER [1989-90] G.L.R. 510",
+    "MAJOLABI vrs. LARBI & ORS [1959] G.L.R. 190",
+    "ANANE vrs. DONKOR [1965] G.L.R. 188",
+    "GHANA MUSLIM REPRESENTATIVE COUNCIL vrs. SALIFU [1975] 2 GLR 248"
+  ],
+  "rationaleHighlights": [
+    "Plaintiff failed to provide clear description or boundaries of the land claimed, rendering judgment unenforceable.",
+    "Plaintiff did not adduce corroborative evidence beyond his own testimony, failing to meet the burden of proof.",
+    "Amendment to increase land size from 0.21 to 0.70 acres was not formally effected, making the judgment on that basis void.",
+    "Plaintiff lacked legal capacity to sue as he did not establish his role as family head, executor, or beneficiary with required documentation.",
+    "Failure to specify representative capacity in pleadings invalidated the suit under established precedent."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official court judgment text and consistent legal reasoning.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/SAMUEL ODOI QUARSHIE v YEMOLEY BAAKAN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:04:21.321Z",
+    "plainTextLength": 13865
+  },
+  "trialDate": "2004-03-26"
+}

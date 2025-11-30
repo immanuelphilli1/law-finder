@@ -1,0 +1,78 @@
+{
+  "caseTitle": "GOLDEN GRACE LIMITED VRS TAKORADI FLOUR MILLS LIMITED",
+  "summary": "Golden Grace Limited, a registered distributor of flour supplied by Takoradi Flour Mills Limited, surrendered several property title documents to the latter as security for increased flour supply. However, no additional supply was made due to existing indebtedness. When the plaintiff demanded the return of its documents, the defendant claimed they had been returned following settlement of the debt. The High Court found in favor of the defendant, a decision upheld by the Court of Appeal. The Supreme Court considered whether the evidence supported the return of all documents, particularly the original title to House No. 327/1 Ashanti Road, Cape Coast, which was not returned but replaced with a certified true copy. The appellant argued that the continued retention of the original document caused loss and that a certified copy did not satisfy legal requirements under Section 10(3) of the Mortgages Decree, 1972 (NRCD 96). The Supreme Court examined the nature of the deposit—whether for past debt or future supply—and found inconsistencies in the lower courts’ reasoning regarding both factual findings and legal application.",
+  "legalKeywords": [
+    "mortgage",
+    "security",
+    "title documents",
+    "unlawful detention",
+    "certified true copy",
+    "debt recovery",
+    "property",
+    "collateral",
+    "restitution",
+    "appellate review",
+    "rehearing",
+    "mootness",
+    "damages",
+    "civil appeal",
+    "document retention"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Security Interests",
+    "Appellate Procedure",
+    "Documentary Evidence"
+  ],
+  "verdict": "Judgment was entered in favor of the defendant at the High Court; affirmed by the Court of Appeal. The Supreme Court's final disposition is not fully captured in the truncated text, but the appeal raised substantial legal questions on document retention and statutory interpretation.",
+  "winningSide": "Respondent (Takoradi Flour Mills Limited) at lower courts; Supreme Court outcome not fully determinable from excerpt.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Aryeetey, JSC",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "Atuguba, JSC",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Dr. Date-Bah, JSC",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Ansa, JSC",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Baffoe-Bonnie, JSC",
+      "role": "Member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Mortgages Decree, 1972 (NRCD 96)",
+    "Section 3(1)(b), Mortgages Decree, 1972 (NRCD 96)",
+    "Section 10(3), Mortgages Decree, NRCD 96"
+  ],
+  "rationaleHighlights": [
+    "The retention of title documents as security was justified while debt remained outstanding.",
+    "A certified true copy does not legally substitute for an original title document under Section 10(3) of NRCD 96 in certain circumstances.",
+    "The Court of Appeal's finding that documents were promptly returned conflicted with the continued retention of the original title.",
+    "The appeal was based on a rehearing standard, allowing full review of evidence and law.",
+    "The appellant deposited documents in anticipation of future supply, not past debt, which affected the characterization of the transaction."
+  ],
+  "confidenceNotes": "The summary is based on a truncated document; however, key facts, legal issues, and holdings are sufficiently preserved for accurate analysis.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/GOLDEN GRACE LIMITED  VRS TAKORADI FLOUR MILLS LIMITED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:05:24.487Z",
+    "plainTextLength": 26065
+  },
+  "trialDate": "2020-04-22"
+}

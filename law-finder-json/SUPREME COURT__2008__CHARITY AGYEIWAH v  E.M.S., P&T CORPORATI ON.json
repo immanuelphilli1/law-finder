@@ -1,0 +1,76 @@
+{
+  "caseTitle": "CHARITY AGYEIWAH v E.M.S., P&T CORPORATI ON",
+  "summary": "In this 2008 Supreme Court of Ghana decision, Charity Agyeiwah appealed against the Court of Appeal's reversal of a trial court judgment that had awarded her damages for lost travellers cheques sent via EMS, a state postal corporation. The central issues were whether the appellant had indeed posted ₤10,000 worth of travellers cheques and whether the trial court had jurisdiction to declare Section 43(1) of the Post and Telecommunications Decree (NRCD 311) unconstitutional under Article 18(2) of the 1992 Constitution. The Supreme Court found that the Court of Appeal erred in dismissing the appellant's claim, as the defendant's own witness (DW1) clearly testified that the parcel contained travellers cheques valued at ₤10,000, corroborating the plaintiff's case. The Court held that this evidence, unchallenged in cross-examination, should have been determinative. On the constitutional issue, the Supreme Court affirmed that only it has exclusive original jurisdiction under Article 130(1) to rule on constitutional matters, and the trial court exceeded its authority by declaring the statutory provision void. However, the Appellate Court also erred by failing to refer the constitutional question to the Supreme Court as required by Article 130(2). Ultimately, the Court ruled that the constitutional issue was irrelevant because the contract was formed in 1992, before the 1992 Constitution came into force, and thus the applicable law was NRCD 311, which limited postal liability. The appeal was allowed in part, with emphasis on proper jurisdictional procedure and evidentiary evaluation.",
+  "legalKeywords": [
+    "contract of carriage",
+    "jurisdiction",
+    "constitutional interpretation",
+    "balance of probabilities",
+    "corroboration",
+    "judicial overreach",
+    "postal liability",
+    "travellers cheques",
+    "misdelivery",
+    "appellate review",
+    "evidence",
+    "civil appeal",
+    "Supreme Court exclusive jurisdiction",
+    "Article 130",
+    "NRCD 311"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Contract Law",
+    "Appellate Procedure",
+    "Evidence",
+    "Postal Liability"
+  ],
+  "verdict": "The appeal was allowed in part. The Supreme Court found that the Court of Appeal erred in overturning the trial court's factual finding regarding the posting of travellers cheques, given the unchallenged testimony of the defendant's own witness. It further held that while the trial court lacked jurisdiction to rule on the constitutionality of NRCD 311, the Appellate Court should have referred the constitutional issue to the Supreme Court under Article 130(2). However, the constitutional question was ultimately deemed irrelevant due to the timing of the contract.",
+  "winningSide": "Charity Agyeiwah (Appellant)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Mrs. Wood, C.J.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Brobbey, J.S.C."
+    },
+    {
+      "name": "Aninakwa, J.S.C."
+    },
+    {
+      "name": "Mrs. Adinyira, J.S.C."
+    },
+    {
+      "name": "Asiamah, J.S.C."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Barclays Bank Ghana Ltd. v Sakari [1996-1997] SCGLR 639",
+    "Article 1(2), 1992 Constitution of Ghana",
+    "Article 2(1), 1992 Constitution of Ghana",
+    "Article 18(2), 1992 Constitution of Ghana",
+    "Article 130(1) and (2), 1992 Constitution of Ghana",
+    "Post and Telecommunications Decree, 1975 (NRCD 311), Section 43(1)"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court emphasized that only it has exclusive jurisdiction to rule on constitutional matters under Article 130(1), and lower courts must refer such issues to it.",
+    "The Court found that the Appellate Court erred by not referring the constitutional question to the Supreme Court under Article 130(2), despite recognizing its relevance.",
+    "The evidence of the defendant's own witness (DW1) strongly supported the plaintiff's claim that travellers cheques were posted, making the Court of Appeal's finding against the weight of evidence unreasonable.",
+    "The constitutional challenge was ultimately deemed irrelevant because the contract predated the 1992 Constitution and was governed by the then-applicable NRCD 311."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct quotes from the judgment and clear identification of legal provisions. Some details about the final verdict are implied rather than explicitly stated due to document truncation.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2008/CHARITY AGYEIWAH v  E.M.S., P&T CORPORATI ON.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:17:08.585Z",
+    "plainTextLength": 17729
+  },
+  "trialDate": "2008-07-25"
+}

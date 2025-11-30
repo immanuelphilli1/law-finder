@@ -1,0 +1,80 @@
+{
+  "caseTitle": "MENCE MENSAH VRS E. ASIAMA",
+  "summary": "This is a civil land dispute appeal before the Supreme Court of Ghana, Mence Mensah v E. Asiama (J4/14/2007, 20th July 2011). The appellant claimed title to land based on a 1959 grant from the Oshilanaa quarter of Labadi, while the respondent traced his title to a 1957 auction sale to E.A. Quarcoo under a court order in John Adeoje v C.S. Commey, evidenced by a certificate of purchase. The High Court and Court of Appeal both found for the respondent, holding that C.S. Commey had lost ownership prior to 1959 and thus could not validly convey title. The Supreme Court upheld these concurrent findings, emphasizing that it would not disturb factual conclusions absent clear error. The appellant challenged the authenticity of the certificate of purchase, alleging forgery due to lack of suit number and signature by a magistrate instead of a High Court judge. The Court rejected this, ruling that forgery must be pleaded and proven beyond reasonable doubt under Order 19 r.16 and Section 13(1) of N.R.C.D. 323, and that failure to raise the issue at trial or in cross-examination precluded appellate consideration. Searches from the national archives were disregarded as improperly introduced fresh evidence. The appeal was dismissed.",
+  "legalKeywords": [
+    "concurrent findings of fact",
+    "certificate of purchase",
+    "forgery",
+    "burden of proof",
+    "pleading requirements",
+    "root of title",
+    "evidence",
+    "civil procedure",
+    "appellate review",
+    "adverse possession",
+    "land dispute",
+    "documentary evidence",
+    "genuineness of document",
+    "Order 19 Rule 16",
+    "N.R.C.D. 323"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Evidence",
+    "Forgery",
+    "Title to Land"
+  ],
+  "verdict": "Appeal dismissed; judgment of the Court of Appeal affirmed.",
+  "winningSide": "Respondent (E. Asiama)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Baffoe-Bonnie JSC",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Atuguba JSC",
+      "role": "member of bench"
+    },
+    {
+      "name": "Dr. Date-Bah JSC",
+      "role": "member of bench"
+    },
+    {
+      "name": "Ansa JSC",
+      "role": "member of bench"
+    },
+    {
+      "name": "Owusu (Ms.) JSC",
+      "role": "member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Achoro v Akanfela [1996-97] SCGLR 209",
+    "Robins v National Trust Co [1927] AC 515",
+    "Allen v Quebec Warehouse Co (1886) 12 AC 101",
+    "Quarm v Yankah II and I Other, I WACA 80",
+    "John Adeoje v. C.S. Commey"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court upheld concurrent findings of fact by lower courts absent clear error or miscarriage of justice.",
+    "Appellant failed to plead forgery as required under Order 19 r.16 of the High Court (Civil Procedure) Rules, 1954 (L.N.140A).",
+    "Forgery must be proved beyond reasonable doubt even in civil cases under Section 13(1) of the Evidence Decree, N.R.C.D. 323.",
+    "Fresh evidence from national archives not properly admitted; violates audi alteram partem.",
+    "Certificate of purchase deemed valid as it was not challenged during trial or cross-examination."
+  ],
+  "confidenceNotes": "The summary is based on a detailed judicial opinion from the Supreme Court of Ghana with clear factual and legal reasoning. All key details including parties, procedural history, and legal principles are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/MENCE MENSAH   VRS  E. ASIAMA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:03:18.390Z",
+    "plainTextLength": 30872
+  },
+  "trialDate": "2007-04-14"
+}

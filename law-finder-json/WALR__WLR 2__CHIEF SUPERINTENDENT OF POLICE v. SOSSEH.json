@@ -1,0 +1,65 @@
+{
+  "caseTitle": "CHIEF SUPERINTENDENT OF POLICE v. SOSSEH",
+  "summary": "This case concerns a dispute over the validity of a land sale conducted in execution of a judgment after the judgment-debtor's death. The first defendant obtained a consent judgment against Chief Kwesi Odatsia in 1951. After Odatsia's death in 1952, the plaintiff succeeded him. The first defendant proceeded to issue a writ of fi. fa. without obtaining court leave or substituting the deceased with his successor. The properties were sold to the second defendant, who received certificates of purchase. The plaintiff challenged the sale's validity in the Native Court, arguing it was void due to procedural defects. The appeal centered on whether the failure to obtain leave and effect substitution was a mere irregularity or a jurisdictional nullity. The court held that execution could only issue against the estate or legal representative of a deceased judgment-debtor and only with court leave. Absent these, the court acted without jurisdiction, rendering the execution, sale, and certificates of purchase nullities. The decision in In re Shephard was followed, affirming that jurisdictional defects cannot be cured by lapse of time or acquiescence.",
+  "legalKeywords": [
+    "execution of judgment",
+    "sale in execution",
+    "substitution of parties",
+    "jurisdictional error",
+    "nullity",
+    "irregularity in procedure",
+    "certificates of purchase",
+    "deceased judgment-debtor",
+    "leave to execute",
+    "arbitration award"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Execution of Judgments",
+    "Land Law",
+    "Succession",
+    "Jurisdiction"
+  ],
+  "verdict": "The sale in execution was declared null and void due to lack of jurisdiction arising from failure to obtain leave and substitute the deceased judgment-debtor.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "trial judge"
+    },
+    {
+      "name": "Manyo-Plange J.",
+      "role": "cited authority on practice note"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Evennett v. Lawrence (1876) 4 Ch.D. 139",
+    "Absi v. Mends (1935) 2 W.A.C.A. 238",
+    "In re Shephard, Atkins v. Shephard (1890) Ch.D. 131",
+    "In re Padstow Total Loss and Collision Assurance Association (1882) 20 Ch.D. 137",
+    "Sarn, Kofi v. Kwa Buadom (1922) Full Court 1922, 241",
+    "In re Woodall, ex parte Woodall (1884) 13 Q.B.D. 479",
+    "East End Benefit Building Society v. Slack (1891) 60 L.J.Q.B. 359",
+    "Crown v. London and North Western Railway Co. (1863) 32 L.J.Q.B. 318; (1863) 4 B. & S. 326"
+  ],
+  "rationaleHighlights": [
+    "Execution issued without leave and without substitution for deceased judgment-debtor is a jurisdictional defect, not mere irregularity.",
+    "Such a defect renders the execution, sale, and certificates of purchase nullities.",
+    "Court must act within jurisdiction; absence of leave and substitution renders proceedings void ab initio.",
+    "Arbitration did not validate the initial jurisdictional flaw.",
+    "Rules Order 42, Rule 22 (Supreme Court Civil Procedure Rules, 1954) requires leave and proper party substitution."
+  ],
+  "confidenceNotes": "High confidence; case details are clearly documented with direct references to procedural rules and judicial reasoning.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/CHIEF SUPERINTENDENT OF POLICE v. SOSSEH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:37:19.702Z",
+    "plainTextLength": 25500
+  }
+}

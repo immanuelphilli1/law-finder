@@ -1,0 +1,77 @@
+{
+  "caseTitle": "LIVINGSTONE DJOKOTO , JOHN WALLACE AMISSAH VRS BBC INDUSTIALS CO. (GHANA) LTD. TEMA, CITY EXPRESS BUS SERV",
+  "summary": "The appellants, Livingstone Djokoto and John Wallace Amissah, sought a stay of execution of a High Court judgment allowing the sale of two properties owned by their former employer, City Express Bus Service Ltd., to satisfy a judgment debt. The properties were sold to BBC Industrials Co. (Ghana) Ltd. via public auction. The appellants, who occupied the houses, claimed beneficial ownership but failed to prove legal or equitable interest. The High Court dismissed their claim and ruled for the respondents. The Court of Appeal refused a stay of execution, citing no exceptional circumstances. The Supreme Court upheld this decision, finding no abuse of discretion, as the appellants did not demonstrate arguable points of law or that the appeal would be rendered nugatory. The appeal was dismissed.",
+  "legalKeywords": [
+    "stay of execution",
+    "appeal",
+    "discretion",
+    "hardship",
+    "status quo ante",
+    "arguable point of law",
+    "equitable interest",
+    "beneficial ownership",
+    "execution of judgment",
+    "nugatory appeal",
+    "public auction",
+    "fi.fa",
+    "resulting trust",
+    "counterclaim",
+    "civil procedure"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Property Law",
+    "Appeals",
+    "Execution of Judgment",
+    "Stay of Execution"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondents (BBC Industrials Co. (Ghana) Ltd. and City Express Bus Service Ltd.)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Anin Yeboah",
+      "role": "authoring judge"
+    },
+    {
+      "name": "G. T. Wood",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "S. A. Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "J. V. M. Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "B. T. Aryeetey",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "NDK FINANCIAL SERVICES V YIADOM CONSTRUCTION & ELECTRICAL WORKS & OTHERS [2007-2008] SCGLR 93",
+    "DZOBO v AGBEBLEWU & ORS [1991] 294",
+    "APPIAH V PASTOR PARYEY-ADJEI [2007-2008] SCCLR 863"
+  ],
+  "rationaleHighlights": [
+    "The appeal was dismissed because the appellants failed to demonstrate arguable points of law or exceptional circumstances warranting a stay of execution.",
+    "The Court of Appeal did not err in refusing the stay, as no greater hardship was sufficiently proven to outweigh the respondent's interest.",
+    "The Supreme Court emphasized that a stay of execution must preserve the status quo ante and prevent rendering the appeal nugatory if successful.",
+    "The appellants did not establish legal or equitable interest in the properties, per the trial court's findings."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details such as parties, court level, judgment outcome, and legal principles are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/LIVINGSTONE DJOKOTO , JOHN WALLACE AMISSAH VRS BBC INDUSTIALS CO. (GHANA) LTD. TEMA,  CITY EXPRESS BUS SERV.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:03:36.574Z",
+    "plainTextLength": 10670
+  },
+  "trialDate": "2010-10-04"
+}

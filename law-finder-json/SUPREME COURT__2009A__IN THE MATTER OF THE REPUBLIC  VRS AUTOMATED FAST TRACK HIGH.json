@@ -1,0 +1,71 @@
+{
+  "caseTitle": "IN THE MATTER OF THE REPUBLIC VS",
+  "summary": "The Supreme Court of Ghana dismissed an application for certiorari seeking to quash a Fast Track High Court judgment that awarded GHC100,000.00 to an employee after her wrongful dismissal. The applicant, State Housing Company Ltd, argued that the trial judge became functus officio after her October 25, 2007 ruling and lacked jurisdiction to receive further evidence on February 6, 2008, and issue a final judgment on March 20, 2008, without notice. The Supreme Court held that the October 25 ruling was interlocutory, as it explicitly suspended the final award pending further evidence, and thus the trial court retained jurisdiction. It also found that the applicant waived its right to be heard by refusing to participate in the February 6 hearing. Although the Court agreed that the grounds for the application arose on March 20, 2008, it dismissed the motion as it was filed one day beyond the 90-day limit prescribed by Supreme Court Rule 62, rendering it time-barred.",
+  "legalKeywords": [
+    "supervisory jurisdiction",
+    "certiorari",
+    "functus officio",
+    "audi alteram partem",
+    "natural justice",
+    "final judgment",
+    "interlocutory judgment",
+    "time-barred application",
+    "Supreme Court Rules CI 16",
+    "judicial review"
+  ],
+  "topics": [
+    "Judicial Review",
+    "Employment Law",
+    "Procedural Fairness",
+    "Jurisdiction",
+    "Time Limits in Appeals"
+  ],
+  "verdict": "The application for certiorari was dismissed as time-barred, one day outside the 90-day statutory limit.",
+  "winningSide": "Automated Fast Track High Court (Respondent)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Wood (Mrs), CJ",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Brobbey, JSC",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Dotse, JSC",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Anin Yeboah, JSC",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Baffoe-Bonnie, JSC",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Republic v High Court, Kumasi; Ex Parte Mobil Oil (Ghana) Ltd (Hagan Interested Party) [2005-2006] SCGLR 312",
+    "Halsbury's Laws of England, 2nd Edition, Volume 19"
+  ],
+  "rationaleHighlights": [
+    "The trial judge's October 25, 2007 ruling was interlocutory, not final, as it explicitly suspended the final award pending further evidence.",
+    "The applicant waived the right to be heard by refusing to participate in the February 6, 2008 proceedings.",
+    "The grounds for the certiorari application arose on March 20, 2008, the date of the final judgment, not February 6, 2008.",
+    "The application was dismissed as one day out of the 90-day statutory limit under Supreme Court Rule 62.",
+    "The trial court retained jurisdiction to receive further evidence as it had not become functus officio."
+  ],
+  "confidenceNotes": "The case details are drawn directly from a Supreme Court of Ghana ruling, ensuring high factual accuracy. The truncation of the source text does not affect the core legal reasoning or outcome.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/IN THE MATTER OF THE REPUBLIC  VRS AUTOMATED FAST TRACK HIGH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:07:22.480Z",
+    "plainTextLength": 17861
+  }
+}

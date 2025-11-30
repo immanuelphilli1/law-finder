@@ -1,0 +1,71 @@
+{
+  "caseTitle": "ANSAH VERSUS BOYE AND WEST AND SOUTH AFRICAN MINES LTD.",
+  "summary": "In Ansa v. Boye and West and South African Mines Ltd., the West African Court of Appeal considered whether an employer was vicariously liable for a driver's negligent collision occurring two hours after work ended and far from the designated route. The driver, instructed to garage his lorry after delivering manganese at 6 p.m., was involved in an accident at 8 p.m. while allegedly teaching someone to drive. The trial court found he was on a personal errand, thus absolving the employer. On appeal, the court emphasized that liability depends on whether the servant was acting within the scope of employment or on a 'frolic of his own.' While minor detours may not break the employment chain, a substantial deviation in time and route—especially for personal purposes—can. The court noted insufficient evidence to confirm the driver’s activities during the two-hour gap but highlighted that if he was merely taking a circuitous route, liability might still attach. However, embarking on a completely new journey for personal reasons would sever the employer's responsibility.",
+  "legalKeywords": [
+    "master and servant",
+    "vicarious liability",
+    "course of employment",
+    "unauthorized detour",
+    "negligence",
+    "scope of authority",
+    "frolic of own",
+    "deviation in time and route",
+    "third-party injury",
+    "employer liability",
+    "tortious act",
+    "garaging vehicle",
+    "employee misconduct",
+    "driving instruction",
+    "collision"
+  ],
+  "topics": [
+    "Employer Liability",
+    "Negligence",
+    "Vicarious Liability",
+    "Scope of Employment",
+    "Tort Law"
+  ],
+  "verdict": "Appeal allowed in part; remitted for reconsideration of whether the deviation constituted a frolic of his own or remained within the course of employment.",
+  "winningSide": "Plaintiff (partial win on legal principle, case remitted)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Baker Ag.J.A.",
+      "role": "deciding judge"
+    },
+    {
+      "name": "Coussey P.",
+      "role": "panel member"
+    },
+    {
+      "name": "Korsah J.A.",
+      "role": "panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "tort",
+  "citations": [
+    "Goh Choon Seng v. Lee Kim Soo [1925] A.C. 550",
+    "Storey v. Ashton (1869) L.R. 4 Q.B. 476",
+    "Mitchell v. Crassweller (1853) C.B. 237",
+    "Joel v. Morison (1834) 6 C. & P. 503",
+    "Canadian Pacific Railway Co. v. Lockhart [1942] A.C. 591"
+  ],
+  "rationaleHighlights": [
+    "Liability hinges on whether servant was acting within course of employment or on a 'frolic of his own'.",
+    "Unauthorized detours do not automatically absolve employer; key is whether deviation constitutes a new journey.",
+    "Time and route deviations are both relevant in determining employment status.",
+    "Master liable if servant performs authorized tasks in unauthorized manner, but not if engaged in wholly personal business.",
+    "Mitchell v. Crassweller distinguished: servant here may have still been partially on employer's business."
+  ],
+  "confidenceNotes": "High confidence in key legal principles; some uncertainty regarding exact activities during 2-hour gap due to lack of evidence.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/ANSAH v. BOYE AND WEST AND SOUTH AFRICAN MINES LTD..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:14:09.810Z",
+    "plainTextLength": 22074
+  }
+}

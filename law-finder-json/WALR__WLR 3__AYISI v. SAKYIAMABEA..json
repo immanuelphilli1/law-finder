@@ -1,0 +1,62 @@
+{
+  "caseTitle": "AYISI VERSUS SAKYIAMABEA.",
+  "summary": "In Ayisi v. Sakyiamabea, the plaintiff sought a declaration of title to land alienated to the defendant's predecessor in 1908, arguing that the sale lacked customary formalities and that the defendant's claim of a different source of title constituted denial of his family's ownership. The Native Court ruled for the plaintiff, holding that under Akan custom, vendors retain title after sale. The High Court reversed, clarifying that an unconditional alienation with payment, demarcation, and possession extinguishes the grantor's beneficial interest. It distinguished proprietary from jurisdictional rights, affirming that only the latter may persist post-alienation. The court also held that prolonged acquiescence over 49 years barred the plaintiff's claim via estoppel.",
+  "legalKeywords": [
+    "family land",
+    "alienation",
+    "absolute estate",
+    "forfeiture",
+    "estoppel by acquiescence",
+    "jurisdictional attributes",
+    "proprietary interest",
+    "customary formalities",
+    "declaration of title",
+    "beneficial interest",
+    "native custom",
+    "undisturbed possession",
+    "overt acts of ownership",
+    "right to escheat",
+    "bona vacantia"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Estoppel",
+    "Title to Land",
+    "Jurisdictional Rights"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Essien v. Duncan (1956) 2 W.A.L.R. 155"
+  ],
+  "rationaleHighlights": [
+    "Alienation with purchase price, demarcation, and possession extinguishes grantor's beneficial interest",
+    "Proprietary and jurisdictional interests in land are distinct",
+    "Grantor cannot reclaim land after decades of open possession by grantee",
+    "Estoppel by acquiescence bars long-delayed claims",
+    "Native Court erred in conflating jurisdictional and beneficial interests",
+    "No forfeiture absent clear denial of grantor's title",
+    "Customary formalities not unfulfilled where possession was granted and exercised",
+    "Right to escheat insufficient to support action in possession"
+  ],
+  "confidenceNotes": "High confidence; all information derived directly from the judgment text and clearly articulated legal principles.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/AYISI v. SAKYIAMABEA..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:10:50.825Z",
+    "plainTextLength": 7760
+  }
+}

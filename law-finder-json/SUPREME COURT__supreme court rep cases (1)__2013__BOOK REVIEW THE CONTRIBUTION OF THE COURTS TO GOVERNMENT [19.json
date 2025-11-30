@@ -1,0 +1,72 @@
+{
+  "caseTitle": "BOOK REVIEW THE CONTRIBUTION OF THE COURTS TO GOVERNMENT [19",
+  "summary": "This book review by Dr. Kwame Frimpong critically examines A. N. E. Amissah's work on the role of courts in government in Ghana and other Commonwealth African countries between 1981–82. The review discusses the evolution of judicial independence from the colonial era through post-independence regimes, focusing on Ghana’s experience under Nkrumah, military rule, and the Busia government. It highlights key cases such as Re Akoto, the Second Treason Trial, Salifu, and Sallah, illustrating the judiciary's struggles with executive overreach. While Amissah acknowledges the formal legality of actions taken by the Nkrumah regime—such as judicial removals and preventive detention—the reviewer critiques this 'legal punctilio' as insufficient justification for authoritarian practices. The review emphasizes that true judicial independence requires more than procedural legality; it demands substantive commitment to individual rights and impartiality. It also questions whether political considerations in judicial appointments can ever guarantee desired outcomes, citing Lord Denning’s view that judges must discard politics upon appointment. Ultimately, the reviewer argues that courts must protect citizens from state abuse, even when such rulings conflict with executive interests, and warns against dismissing constitutional safeguards as mere 'legal technicalities.'",
+  "legalKeywords": [
+    "judicial independence",
+    "separation of powers",
+    "rule of law",
+    "constitutional rights",
+    "preventive detention",
+    "judicial review",
+    "executive-judiciary relations",
+    "habeas corpus",
+    "appointment of judges",
+    "colonial judiciary",
+    "post-independence judiciary",
+    "constitutional interpretation",
+    "political influence on judiciary",
+    "legal technicalities",
+    "public officers' tenure"
+  ],
+  "topics": [
+    "Judicial Independence",
+    "Constitutional Law",
+    "Executive-Judiciary Relations",
+    "Rule of Law",
+    "Post-Colonial Legal Systems"
+  ],
+  "verdict": "The review concludes that while Amissah provides a comprehensive analysis of the judiciary's role, his ambivalence toward the Nkrumah regime's use of legal forms to justify authoritarianism is problematic. True judicial legitimacy lies in protecting individual rights, not merely adhering to formal legality.",
+  "winningSide": "Judiciary (in principle, as guardian of constitutional rights)",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "A. N. E. Amissah",
+      "role": "Author / Former Justice"
+    },
+    {
+      "name": "Lord Denning",
+      "role": "Referenced Jurist"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "book review",
+  "citations": [
+    "A. N. E. Amissah, The Contribution of the Courts to Government (Oxford Clarendon Press, 1981)",
+    "Re Akoto",
+    "Salifu case",
+    "Sallah case",
+    "Preventive Detention Act 1958",
+    "Constitution of 1960 (amended 1964)",
+    "Second Treason Trial case"
+  ],
+  "rationaleHighlights": [
+    "Judicial independence in post-colonial Africa was undermined by colonial legacies and executive interference.",
+    "The Nkrumah regime maintained legal formalism while undermining substantive justice through laws like the Preventive Detention Act.",
+    "Courts under military rule showed surprising independence when avoiding direct confrontation with the executive.",
+    "The Sallah case highlighted tensions between the judiciary and executive under constitutional governance, though less severe than under Nkrumah.",
+    "Formal legal procedures do not legitimize unjust laws, as seen in comparisons to apartheid South Africa and Nazi Germany.",
+    "Judges must remain impartial despite political appointments, as personal integrity ultimately determines judicial conduct.",
+    "Courts should prioritize protection of individual liberties over deference to executive 'national goals'.",
+    "Traditional justice systems in Africa cannot fully replace inherited colonial legal frameworks."
+  ],
+  "confidenceNotes": "The document is a book review rather than a court judgment; therefore, case details are discussed secondhand. Key cases are accurately referenced but described through the reviewer's lens.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2013/BOOK REVIEW THE CONTRIBUTION OF THE COURTS TO GOVERNMENT [19.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:36:25.532Z",
+    "plainTextLength": 28122
+  }
+}

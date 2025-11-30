@@ -1,0 +1,81 @@
+{
+  "caseTitle": "INSPECTOR-GENERAL OF POLICE. VERSUS LAUD TETTEH LARTEY.",
+  "summary": "This 1934 West Africa Court of Appeal decision in Accra, Ghana, addressed whether an accused person could elect to be tried by jury for offences that were appropriated for jury trial under section 116 of the Criminal Procedure Ordinance. The accused, Laud Tetteh Lartey, faced charges of forgery and stealing, both of which were subject to jury trial under the Governor's order. The court held that the decision on the mode of trial—summary or by jury—rests within the discretion of the magistrate, not the accused. The court emphasized that local procedural law, particularly sections 17 and 18 of the Commissioner's Ordinance (Cap. 23), governed the matter and did not confer a right on the accused to elect trial by jury. The magistrate was therefore legally justified in determining the case summarily.",
+  "legalKeywords": [
+    "summary trial",
+    "trial by jury",
+    "jurisdiction",
+    "Criminal Procedure Ordinance",
+    "Commissioner's Ordinance",
+    "mode of trial",
+    "Police Magistrate",
+    "indictable offence",
+    "procedural law",
+    "section 116",
+    "section 17",
+    "section 18",
+    "Gold Coast law",
+    "right to elect trial",
+    "forgery",
+    "stealing",
+    "Supreme Court Ordinance",
+    "District Commissioner",
+    "accused rights",
+    "Governor in Council"
+  ],
+  "topics": [
+    "Criminal Procedure",
+    "Jurisdiction",
+    "Magistrates",
+    "Right to Trial by Jury",
+    "Legal History"
+  ],
+  "verdict": "The court ruled that the accused does not have the right to elect trial by jury; the magistrate has discretion to try the case summarily.",
+  "winningSide": "Inspector-General of Police",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Aitken",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Section 116, Criminal Procedure Ordinance (Cap. 31)",
+    "Section 17, Commissioner's Ordinance (Cap. 23)",
+    "Section 18, Commissioner's Ordinance (Cap. 23)",
+    "Section 15, Supreme Court Ordinance (Cap. 158)",
+    "Section 3(1), Police Magistrates' Ordinance (Cap. 132)",
+    "Section 4, Police Magistrates' Ordinance (Cap. 132)"
+  ],
+  "rationaleHighlights": [
+    "The right to elect jury trial is not implied in Gold Coast law.",
+    "Section 116 governs how jury trials proceed but does not confer a right to elect such trial.",
+    "Sections 17 and 18 of the Commissioner's Ordinance give discretion to the magistrate, not the accused.",
+    "Local procedural law governs, not English statutes like the Summary Jurisdiction Act 1879.",
+    "The Police Magistrate has the same powers as a District Commissioner.",
+    "No legislative intent to grant accused the right to elect trial is evident.",
+    "The magistrate may commit for trial only if he deems it fit, not upon accused's demand.",
+    "The summary jurisdiction is valid if the magistrate believes the punishment is adequate."
+  ],
+  "confidenceNotes": "The decision is based on clear statutory interpretation of colonial-era ordinances in force in the Gold Coast. The court explicitly rejects importing English procedural rights absent local legislative adoption. High confidence in accuracy due to direct judicial reasoning and citation of relevant provisions.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/I G  P LAUD T LARTEY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:27:24.856Z",
+    "plainTextLength": 5760
+  },
+  "trialDate": "1934-11-20"
+}

@@ -1,0 +1,60 @@
+{
+  "caseTitle": "ACQUAYE VERSUS DEEDEI",
+  "summary": "In this land dispute, the plaintiff, Patience Adukwei Acquaye, succeeded her mother Akua Crabbe as head of the Effy Affuah family branch and sought a declaration of title to two plots of land in Accra, claiming they were self-acquired property of her grandmother, Effy Affuah. The defendants, sons of Akua Crabbe's brother Victor, claimed ownership based on the property being their father's self-acquired asset. The court held that under Accra Ga custom, a woman's self-acquired property passes to her children and then to her maternal family upon the death of the last child. As the defendants were not children of a Ga six-cloth marriage, they had no rights to their father's property. Even if the land had been their father's, it would have become family property upon his intestacy, with the plaintiff as head entitled to manage it. The court found the property was originally Effy Affuah's and affirmed the plaintiff's title, granting her declaratory relief, possession, ejectment, and injunction.",
+  "legalKeywords": [
+    "intestacy",
+    "succession",
+    "family property",
+    "self-acquired property",
+    "matrilineal descent",
+    "Ga custom",
+    "six-cloth marriage",
+    "head of family",
+    "customary succession",
+    "land title",
+    "declaration of title",
+    "ejectment",
+    "injunction",
+    "native custom",
+    "maternal family"
+  ],
+  "topics": [
+    "Succession",
+    "Customary Law",
+    "Land Title",
+    "Family Property",
+    "Intestacy"
+  ],
+  "verdict": "Judgment for the plaintiff",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "Nelson v. Ocansey and Others (1950)",
+    "Vanderpuye and Others v. Botchway (1951) 13 W.A.C.A. 164",
+    "Amarfio and Another v. Ayorkor (1954) 14 W.A.C.A. 554"
+  ],
+  "rationaleHighlights": [
+    "Property acquired by a woman becomes family property upon her death intestate under Ga custom.",
+    "Children of a man not born of a six-cloth marriage have no interest in his self-acquired property.",
+    "Headship of the family determines authority to manage and litigate over family property.",
+    "Defendants' disrespectful conduct toward the head justified relief despite lack of property interest."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and clear citation of authorities.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/ACQUAYE v. DEEDEI AND ANOTHER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:20:09.641Z",
+    "plainTextLength": 16135
+  }
+}

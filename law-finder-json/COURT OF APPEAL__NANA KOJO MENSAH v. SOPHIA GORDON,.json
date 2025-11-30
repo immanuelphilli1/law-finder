@@ -1,0 +1,73 @@
+{
+  "caseTitle": "KOJO MENSAH v. SOPHIA GORDON, CA. NO. 42",
+  "summary": "In this civil appeal before the Court of Appeal of Ghana, the appellant, Nana Kojo Mensah, challenged the dismissal of his claim for a declaration of title to Ebionkessim and Abakan lands, and the erroneous award of judgment to a co-defendant, Bosom Kwesi, who had not filed any pleadings. The trial magistrate had dismissed the plaintiff's claim and the defendant's counter-claim, but granted the co-defendant a declaration of title and damages for trespass despite the absence of a formal counter-claim. The Court of Appeal found that the co-defendant's failure to file a Statement of Defence and counter-claim was fatal under Cap.4 of the Rules of Court. It held that the trial magistrate erred in law by granting relief to a party who did not plead for it and who did not prove the specific boundaries of the land claimed. The court also found a serious conflict of interest as Dr. Tackie-Otoo represented both the defendant and the co-defendant, whose claims were adverse. The court concluded that the plaintiff had established his authority to sue in a representative capacity on behalf of the Ebirashaen Ebiradze Stool Family and had proven the allodial title to the land. The judgment was therefore set aside, and judgment was entered in favor of the plaintiff.",
+  "legalKeywords": [
+    "declaration of title",
+    "allodial title",
+    "joinder of parties",
+    "capacity to sue",
+    "pleadings",
+    "counter-claim",
+    "trespass",
+    "representative capacity",
+    "professional ethics",
+    "conflict of interest",
+    "evidence",
+    "misdirection in law",
+    "rules of court",
+    "family stool land",
+    "boundaries of land",
+    "affidavit",
+    "statement of claim",
+    "statement of defence",
+    "burden of proof",
+    "corroboration"
+  ],
+  "topics": [
+    "Land Law",
+    "Civil Procedure",
+    "Legal Ethics",
+    "Appellate Review",
+    "Family Stool Land"
+  ],
+  "verdict": "The appeal was allowed. The judgment of the trial magistrate was set aside. Judgment was entered in favor of the plaintiff, Nana Kojo Mensah, on his claim for a declaration of title to the lands in dispute.",
+  "winningSide": "Plaintiff/Appellant (Nana Kojo Mensah)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lamptey, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Forster, J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadegbe, J.A.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "NANA KOJO MENSAH v. SOPHIA GORDON, CA. NO. 42/96"
+  ],
+  "rationaleHighlights": [
+    "The co-defendant was not entitled to judgment as he failed to file pleadings, violating Cap.4 of the Rules of Court.",
+    "The trial magistrate erred in law by granting a declaration of title to the co-defendant who did not counter-claim and did not prove the specific boundaries of the land.",
+    "Dr. Tackie-Otoo committed a grave breach of professional ethics by representing both the defendant and the co-defendant whose claims were adverse.",
+    "The plaintiff had capacity to sue in a representative capacity and had adduced sufficient evidence to support his claim.",
+    "The co-defendant should have been joined as a co-plaintiff, not co-defendant, as he sought the same relief as the plaintiff.",
+    "The trial magistrate misdirected himself by stating the co-defendant denied the family's title, which was not supported by evidence."
+  ],
+  "confidenceNotes": "The document is a full judgment from the Court of Appeal of Ghana, with clear procedural history and legal reasoning. All information is directly extracted from the judgment, ensuring high factual accuracy.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/NANA KOJO MENSAH v. SOPHIA GORDON,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:14:26.218Z",
+    "plainTextLength": 33062
+  }
+}

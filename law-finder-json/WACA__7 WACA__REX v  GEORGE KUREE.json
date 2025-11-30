@@ -1,0 +1,64 @@
+{
+  "caseTitle": "REX v GEORGE KUREE",
+  "summary": "In this 1941 West Africa Court of Appeal case from Accra, George Kuree, a Syrian trader, was convicted of raping Dedei Badoo, a petty hawker, in his store on Derby Avenue. The prosecution alleged that Kuree lured the girl behind the counter, tripped her, and forcibly had sexual intercourse while covering her mouth when she shouted. A tenant, Agudey, claimed she heard the shouts and witnessed Kuree adjusting his trousers. The defence argued consent, citing prior sexual relations and the implausibility of the rape occurring in a public store. The trial judge believed the prosecution, but the appellate court found a critical flaw: the prosecution failed to call Amamki, a witness who was present with Agudey during the alleged incident and could have corroborated or contradicted the claim of shouting, a key element to prove force. The court held that the prosecution has a duty to present all relevant evidence, especially on vital issues, and that the trial judge’s ability to assess truth was impaired without Amamki’s testimony. Consequently, the conviction was deemed unsafe and quashed, with an acquittal entered.",
+  "legalKeywords": [
+    "rape",
+    "force",
+    "corroboration",
+    "prosecution duty",
+    "witness credibility",
+    "trial fairness",
+    "evidence omission",
+    "verdict against weight",
+    "acquittal",
+    "appellate review"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence Law",
+    "Sexual Offences",
+    "Appellate Procedure"
+  ],
+  "verdict": "acquitted",
+  "winningSide": "defendant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Strother-Stewart",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal appeal",
+  "citations": [
+    "WACA/7"
+  ],
+  "rationaleHighlights": [
+    "The prosecution must present all relevant evidence, especially where a single witness can resolve a vital issue.",
+    "The absence of corroboration on the element of force undermined the reliability of the conviction.",
+    "The trial judge’s discretion to call a witness was not exercised, but the prosecution bore the primary duty.",
+    "The inherent improbability of the rape occurring in a public space supported the defence.",
+    "Medical evidence showed no recent injury or signs of violence, weakening the force claim.",
+    "The conduct of the complainant and third parties suggested prior consent or complicity.",
+    "The appellate court cannot uphold a conviction where key evidence is omitted, even if the trial judge believed the complainant."
+  ],
+  "confidenceNotes": "High confidence; the appellate judgment clearly articulates the legal and factual basis for overturning the conviction, focusing on procedural fairness and evidentiary completeness.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/REX v  GEORGE KUREE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:29:31.385Z",
+    "plainTextLength": 8729
+  },
+  "trialDate": "1941-12-11"
+}

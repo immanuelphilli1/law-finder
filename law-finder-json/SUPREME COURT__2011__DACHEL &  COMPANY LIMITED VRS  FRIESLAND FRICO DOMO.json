@@ -1,0 +1,86 @@
+{
+  "caseTitle": "DACHEL & COMPANY LIMITED VRS FRIESLAND FRICO DOMO",
+  "summary": "This is a civil appeal before the Supreme Court of Ghana concerning the termination of an agency agreement between Dachel & Company Limited (Plaintiff/Respondent) and Friesland Frico Domo (Defendant/Appellant), later known as Friesland Foods BV. The Plaintiff, appointed in 1978 as sole agent for PMC’s branded products in Ghana, continued under the Defendant after its 1980 takeover. A variation agreement (Exhibit B) introduced a 90-day termination notice. The Defendant terminated the agency in January 1994, offering NLG 120,000 in compensation, which the Plaintiff rejected, claiming loss of future benefits from market expansion efforts. The Plaintiff filed suit in May 1994, serving notice out of jurisdiction without prior court leave, contrary to Order 2 r.4 and Order 11 rr.6–8 of LN 140A. The High Court awarded US$500,000 in damages and GH¢4,700 in special damages, upheld by the Court of Appeal. The Defendant appealed, arguing procedural invalidity and erroneous application of foreign law. The Supreme Court upheld the lower courts’ reliance on Order 70 of LN 140A, treating procedural non-compliance as an irregularity, not a nullity, and affirmed the damages, rejecting the distinction between void and voidable proceedings where natural justice was not fundamentally breached.",
+  "legalKeywords": [
+    "agency agreement",
+    "termination of agency",
+    "procedural irregularity",
+    "compensation for termination",
+    "service out of jurisdiction",
+    "Order 2 r.4 LN 140A",
+    "Order 70 LN 140A",
+    "void vs voidable proceedings",
+    "foreign law application",
+    "jurisdictional compliance",
+    "natural justice",
+    "waiver of procedural objection",
+    "damages assessment",
+    "High Court Civil Procedure Rules",
+    "European Community customs"
+  ],
+  "topics": [
+    "Contract Law",
+    "Civil Procedure",
+    "Agency Law"
+  ],
+  "verdict": "The Supreme Court dismissed the appeal, affirming the Court of Appeal’s judgment and holding that non-compliance with procedural rules regarding service out of jurisdiction did not invalidate the proceedings, as such lapses are irregularities curable under Order 70 of LN 140A, not fundamental nullities. The award of compensation for termination of the agency agreement was upheld.",
+  "winningSide": "Plaintiff/Respondent (Dachel & Company Limited)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Brobbey",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Adinyira (Mrs.)",
+      "role": "Justice"
+    },
+    {
+      "name": "Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebe",
+      "role": "Justice"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs.)",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Order 2 r.4, High Court (Civil Procedure) Rules, 1954 (LN 140A)",
+    "Order 11 rr.6–8, LN 140A",
+    "Order 70 r.1, LN 140A",
+    "Order 81, High Court (Civil Procedure) Rules, 2004 (C.I. 47)",
+    "Republic v. High Court, Accra, Ex parte Allgate Co. Ltd. [2007-2008] SCGLR 1041",
+    "Boakye v. Tutuhyene [2007-2008] SCGLR 970",
+    "Ankumah v City Investment Co. Ltd. [2007-2008] SCGLR 1065",
+    "Republic v. High Court, Koforidua, Ex parte Ansah-Otu [2009] SCGLR 141",
+    "Omane v Opoku [1973] 2 GLR 66",
+    "Seyire v. Anemana [1971] 2 GLR 3"
+  ],
+  "rationaleHighlights": [
+    "Non-compliance with procedural rules under LN 140A does not automatically render proceedings void due to the protective effect of Order 70 r.1.",
+    "Failure to obtain leave to serve out of jurisdiction is an irregularity, not a jurisdictional nullity, especially where the defendant appears and participates in the proceedings.",
+    "Subsequent conduct of the defendant, including appearance and defense, constitutes waiver of procedural objections.",
+    "Award of compensation for agency termination was justified based on the plaintiff's market development efforts.",
+    "Foreign law was not properly pleaded or proven, but the court upheld compensation under domestic legal principles.",
+    "Distinction between void and voidable processes is untenable under the clear language of Order 70 r.1.",
+    "Breach of natural justice (e.g., non-service) may cause nullity, but short-service or procedural lapses are curable irregularities.",
+    "Courts should favor upholding proceedings where justice can be served, in line with the remedial purpose of procedural rules."
+  ],
+  "confidenceNotes": "The summary and analysis are based on the full judgment provided, with clear reference to procedural rules, cited authorities, and judicial reasoning. Key holdings on procedural irregularity and compensation are directly supported by the text. The case is unreported but officially archived by the Supreme Court of Ghana, indicating authenticity.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/DACHEL &  COMPANY LIMITED VRS  FRIESLAND FRICO DOMO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:07:02.220Z",
+    "plainTextLength": 25152
+  },
+  "trialDate": "2011-02-04"
+}

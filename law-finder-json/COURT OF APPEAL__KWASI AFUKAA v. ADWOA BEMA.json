@@ -1,0 +1,69 @@
+{
+  "caseTitle": "AFUKAA v. ADWOA BEMA",
+  "summary": "This Court of Appeal decision in Kwasi Afukaa v. Adwoa Bema (CA 58/2002, 15 January 2004) concerned a land dispute over ownership and title to a parcel at Sefwi Ahwiaa Stool Land, Ghana. The plaintiff/respondent, Kwasi Afukaa, sought a declaration of title, damages for trespass, and a perpetual injunction. He claimed cultivation of the land at Afukaakrom, supported by two boundary witnesses. The defendant/appellant, Adwoa Bema, claimed the land was originally cultivated by her brother and that the plaintiff’s family were granted limited rights. However, she failed to call any witnesses beyond her own testimony. The trial court found in favor of the plaintiff based on the balance of probabilities. On appeal, the defendant argued the judgment was against the weight of evidence, particularly citing inconsistencies in boundary descriptions. The Court of Appeal upheld the decision, emphasizing that the dispute was one of ownership, not boundaries, and that the defendant failed to discharge the evidential burden, especially given her failure to call corroborative witnesses and her admission of allowing others to farm the land. The appeal was dismissed.",
+  "legalKeywords": [
+    "land title",
+    "boundary dispute",
+    "burden of proof",
+    "balance of probabilities",
+    "customary land law",
+    "evidence in civil cases",
+    "acts of ownership",
+    "witness credibility",
+    "trespas to land",
+    "perpetual injunction",
+    "traditional evidence"
+  ],
+  "topics": [
+    "Land Law",
+    "Civil Procedure",
+    "Evidence Law",
+    "Customary Law",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Plaintiff/Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Asare-Korang",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "B. T. Aryeetey",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "E. K. Piesare",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Lamprey v. Fanyie (1988-89) CLR SC (1)",
+    "Bedy v. Agbi (1972) 2 GLR 238",
+    "Nyikplorkpo v. Agbodotor (1987-88) 1 GLR 171",
+    "Akufo Addo v. Cathline (1992) 1 GLR 377",
+    "Nuamah v. Adusei & Ors. (1989-90) GLR"
+  ],
+  "rationaleHighlights": [
+    "The dispute was one of land ownership, not boundary determination, making traditional evidence and acts of ownership more critical than strict boundary testimony.",
+    "The plaintiff satisfied the burden of proof on a balance of probabilities by presenting witnesses who observed his cultivation of the land.",
+    "The defendant’s failure to call corroborative witnesses, despite testifying about family history and land grants, weakened her case significantly.",
+    "An admission by the defendant that she allowed her daughter to farm the disputed land undermined her claim of exclusive ownership.",
+    "Inconsistencies in the plaintiff’s witnesses’ testimony were not fatal, as the core claim of possession and cultivation remained consistent.",
+    "The appellate court affirmed that under civil procedure, the court may rehear evidence and reach an independent conclusion when an appeal is based on the weight of evidence."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed trial and appellate reasoning, clear citation of legal principles, and consistent narrative across parties' submissions.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/KWASI AFUKAA v. ADWOA BEMA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:22:08.442Z",
+    "plainTextLength": 14393
+  },
+  "trialDate": "2004-01-15"
+}

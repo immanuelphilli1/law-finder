@@ -1,0 +1,62 @@
+{
+  "caseTitle": "AKD OTHERS VERSUS AKW APEM STATE COUNCIL.",
+  "summary": "The applicants sought an order of prohibition to prevent the Akwapem State Council from hearing a claim concerning the ownership of land. The court held that the jurisdiction of State Councils under the State Councils (Colony and Southern Togoland) Ordinance, c. 8 of 1952, section 5, is limited to constitutional matters, and a dispute over land ownership does not fall within this scope. The hearing notices clearly indicated that title to land was in issue, which is beyond the Council's authority. Therefore, the court granted the order of prohibition to restrain the Council from proceeding, emphasizing that the Council could initiate fresh proceedings if the matter fell within its constitutional jurisdiction. Costs were awarded to the applicants.",
+  "legalKeywords": [
+    "prohibition",
+    "jurisdiction",
+    "excess of jurisdiction",
+    "State Councils",
+    "land ownership",
+    "constitutional matters",
+    "declaration of title",
+    "State Councils Ordinance",
+    "judicial review",
+    "tribal land",
+    "Gold Coast",
+    "local council",
+    "hearing notice",
+    "costs",
+    "constitutional jurisdiction"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Constitutional Law",
+    "Land Law",
+    "Jurisdiction",
+    "Judicial Review"
+  ],
+  "verdict": "Prohibition granted",
+  "winningSide": "Applicants",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Windsor-Aubrey J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Eastern Judicial Division, Divisional Court, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional and Administrative Law",
+  "citations": [
+    "State Councils (Colony and Southern Togoland) Ordinance, c. 8 of 1952, s. 5"
+  ],
+  "rationaleHighlights": [
+    "State Councils' jurisdiction is limited to constitutional matters under s. 5 of the Ordinance.",
+    "A claim concerning ownership of land is not a constitutional matter.",
+    "Hearing notices explicitly state that land ownership is in issue.",
+    "Court cannot accept respondents' interpretation that the matter is about farming rights or tributes.",
+    "Prohibition is appropriate where a body acts beyond its jurisdiction.",
+    "State Council may initiate fresh proceedings within its lawful authority.",
+    "Applicants not prejudiced; Council not damnified by prohibition.",
+    "Costs awarded to applicants as prevailing party."
+  ],
+  "confidenceNotes": "High confidence; all information is directly derived from the provided judgment text. Case predates modern Ghana's independence but is correctly attributed to the Supreme Court of the Gold Coast, which is now Ghana.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/YIRENKYI AKD OTHERS v. AKW APEM STATE COUNCIL..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:22:42.613Z",
+    "plainTextLength": 3636
+  }
+}

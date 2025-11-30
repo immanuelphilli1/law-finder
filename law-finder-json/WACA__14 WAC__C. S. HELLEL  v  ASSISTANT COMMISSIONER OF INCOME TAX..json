@@ -1,0 +1,78 @@
+{
+  "caseTitle": "C. S. HELLEL v ASSISTANT COMMISSIONER OF INCOME TAX.",
+  "summary": "This 1952 West African Court of Appeal decision in Hellel v. Assistant Commissioner of Income Tax addressed convictions under section 65 of the Income Tax Ordinance for failure to pay assessed taxes and penalties for the years 1943-44 and 1948-49. The appellant argued that a payment of £402 was in full settlement of earlier tax liabilities and that acquittals on two withdrawn counts barred liability. The court held that acquittal on non-payment charges does not discharge tax debt unless based on proof of payment, per section 76. It further ruled that the Assistant Commissioner was competent to prosecute, as the Ordinance did not restrict who could initiate proceedings, allowing any person to do so under section 59 of the Criminal Procedure Ordinance. Both convictions were upheld.",
+  "legalKeywords": [
+    "income tax",
+    "failure to pay tax",
+    "criminal prosecution",
+    "acquittal",
+    "tax liability",
+    "penalty",
+    "demand note",
+    "receipt on account",
+    "settlement offer",
+    "tax assessment",
+    "prosecutorial authority",
+    "section 76",
+    "section 65",
+    "section 59",
+    "Criminal Procedure Ordinance",
+    "tax recovery",
+    "payment allocation",
+    "competent prosecutor",
+    "deemed payment",
+    "endorsement on receipt"
+  ],
+  "topics": [
+    "Tax Law",
+    "Criminal Procedure",
+    "Administrative Law",
+    "Legal Interpretation",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Verity, C.J.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Jibowu, Ag. S.P.J.",
+      "role": "Judge"
+    },
+    {
+      "name": "Coussey, J.",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Tax Appeal",
+  "citations": [
+    "Income Tax Ordinance, s 65",
+    "Income Tax Ordinance, s 76",
+    "Criminal Procedure Ordinance, s 59"
+  ],
+  "rationaleHighlights": [
+    "Acquittal under s 65 does not discharge tax liability unless based on proof of payment",
+    "Receipt marked 'on account' does not constitute full settlement",
+    "Payment of £402 did not cover total tax and penalties owed",
+    "Assistant Commissioner competent to prosecute in absence of statutory restriction",
+    "Section 76 confirms tax liability survives criminal penalty",
+    "General rule under s 59 allows any person to initiate prosecution",
+    "Endorsement on receipt does not override 'on account' language",
+    "Appellant knew only Commissioner could accept full settlement offer"
+  ],
+  "confidenceNotes": "High confidence; all information is directly derived from the judgment text with clear citation to statutory provisions and factual findings.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/C. S. HELLEL  v  ASSISTANT COMMISSIONER OF INCOME TAX..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:42:30.415Z",
+    "plainTextLength": 12090
+  },
+  "trialDate": "1952-02-05"
+}

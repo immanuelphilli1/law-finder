@@ -1,0 +1,73 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The appellant, Igwe, was convicted of murdering Onuoha Okorondu following a dispute over palm-nut harvesting on contested land. The trial judge rejected self-defence, but the West Africa Court of Appeal allowed the appeal, holding that the deceased initiated the attack with a machete, creating a life-threatening situation. After disarming the deceased, the appellant used the weapon to kill him. The appellate court found this act justified under section 286(2) of the Criminal Code as lawful self-defence, given the immediacy and severity of the threat, and quashed the conviction.",
+  "legalKeywords": [
+    "self-defence",
+    "murder",
+    "Criminal Code",
+    "section 286",
+    "section 319",
+    "trespasser",
+    "provocation",
+    "premeditation",
+    "unlawful killing",
+    "use of force",
+    "disarmament",
+    "imminent threat",
+    "defence of property",
+    "Native Court",
+    "appellate review"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Homicide",
+    "Self-Defence",
+    "Appellate Procedure",
+    "Land Dispute"
+  ],
+  "verdict": "Appeal allowed; conviction quashed",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Rex v Igwe, WACA/4",
+    "Criminal Code, s 319",
+    "Criminal Code, s 286(2)"
+  ],
+  "rationaleHighlights": [
+    "The deceased initiated the attack with a machete, posing an imminent threat to the appellant's life.",
+    "The appellant was initially unarmed and acted lawfully in disarming the aggressor.",
+    "The court held that the appellant reasonably believed he was in a life-and-death struggle.",
+    "Killing the now defenceless attacker was justified under s 286(2) due to the ongoing perception of threat.",
+    "The trial judge erred in treating the appellant as the aggressor rather than the victim of the initial assault.",
+    "Self-defence applies even after disarmament if the threat is perceived as continuing.",
+    "The appeal court emphasized that the deceased started the deadly confrontation.",
+    "The act was not premeditated but occurred in the heat of the moment during a violent encounter."
+  ],
+  "confidenceNotes": "High confidence; details are drawn directly from the appellate judgment with clear factual and legal reasoning provided. Jurisdiction is confirmed as West Africa Court of Appeal with specific citation and date.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX V    IGWE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:57:08.609Z",
+    "plainTextLength": 5581
+  },
+  "trialDate": "1938-08-11"
+}

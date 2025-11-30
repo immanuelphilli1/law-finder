@@ -1,0 +1,81 @@
+{
+  "caseTitle": "DANIEL SACKEY QUARCOOPOME v SANYO ELECTRIC TRADING & ANOR",
+  "summary": "The Supreme Court of Ghana considered an appeal in Daniel Sackey Quarcoopome v. Sanyo Electric Trading & Anor. (2008), where the plaintiff, who served as a board director from 1974 to 2001, claimed remuneration for services rendered. The High Court had awarded GHS 350 million on a quantum meruit basis after finding the oral contract terms too vague for enforcement. The Court of Appeal overturned this, citing a conflict with Section 194 of the Companies Code, Act 179 (1963), which governs director remuneration. The Supreme Court examined whether the plaintiff was duly appointed under the Companies Code, noting deficiencies in written consent and regulatory compliance. Despite long service, the Court found he was not properly appointed. It held that quantum meruit could apply where no valid contract exists, but emphasized that courts must not usurp shareholders' statutory authority over remuneration. The appeal was dismissed, affirming that equitable remedies cannot override statutory corporate governance structures.",
+  "legalKeywords": [
+    "quantum meruit",
+    "breach of contract",
+    "director appointment",
+    "Companies Code Act 179",
+    "Section 194",
+    "oral agreement",
+    "written consent",
+    "corporate governance",
+    "equitable remedy",
+    "statutory compliance",
+    "undue enrichment",
+    "board of directors",
+    "casual vacancy",
+    "remuneration",
+    "shareholder resolution"
+  ],
+  "topics": [
+    "Corporate Law",
+    "Contract Law",
+    "Equity and Remedies",
+    "Judicial Review",
+    "Appellate Jurisdiction"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ansa, JSC",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Akuffo (Ms), J.S.C",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Brobbey, J.S.C",
+      "role": "Member"
+    },
+    {
+      "name": "Adinyira (Mrs), J.S.C",
+      "role": "Member"
+    },
+    {
+      "name": "Asiamah, J.S.C",
+      "role": "Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Companies Code, 1963, Act 179, Section 181",
+    "Companies Code, 1963, Act 179, Section 194",
+    "Companies Code, 1963, Act 179, Section 272"
+  ],
+  "rationaleHighlights": [
+    "The plaintiff was not duly appointed as director under Section 181 of the Companies Code due to lack of written consent and non-compliance with company regulations.",
+    "Long service on the board does not equate to lawful appointment under statutory provisions.",
+    "Quantum meruit may apply in absence of valid contract, but cannot override statutory mechanisms for director remuneration under Section 194.",
+    "Courts must not usurp the role of shareholders in determining director compensation.",
+    "Exhibit C was deemed insufficient to establish lawful appointment, being a circular rather than formal resolution.",
+    "The Court of Appeal correctly found that awarding remuneration via quantum meruit contravened the Companies Code.",
+    "Equitable remedies are limited where statutory frameworks provide exclusive procedures.",
+    "The appeal failed because the plaintiff could not show compliance with mandatory appointment procedures."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from judicial text. Some legal interpretation required for synthesis of rationale, but grounded in explicit court reasoning.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2008/DANIEL SACKEY QUARCOOPOME v SANYO ELECTRIC TRADING & ANOR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:16:22.004Z",
+    "plainTextLength": 27352
+  },
+  "trialDate": "2008-11-12"
+}

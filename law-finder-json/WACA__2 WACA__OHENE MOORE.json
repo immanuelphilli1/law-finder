@@ -1,0 +1,70 @@
+{
+  "caseTitle": "OHENE MOORE",
+  "summary": "This Privy Council appeal from the Gold Coast Colony concerned whether the Provincial Commissioner had jurisdiction to hear an appeal from a Native Tribunal. The appellant, Ohene Moore, challenged the reversal of a Native Tribunal's judgment by the Provincial Commissioner, arguing that the appeal was improperly brought. The Native Tribunal had granted conditional leave to appeal, requiring the respondent, Akesseh Tayee, to deposit money and enter into bonds for costs. However, the bonds were conditioned for costs in the appellate court, not the original tribunal, and no actual payment or deposit satisfying the taxed costs in the first court was made. Section 77(2) of the Native Administration Ordinance required either payment or deposit of costs in the tribunal or appellate court before leave could be granted. The Privy Council held that this condition was mandatory and unmet, rendering the appeal a nullity. Thus, the Provincial Commissioner had no jurisdiction to entertain the appeal, and his judgment was set aside. The appeal to the Privy Council was dismissed, upholding the principle that jurisdictional requirements under statute must be strictly observed, even if it leads to a technically harsh outcome.",
+  "legalKeywords": [
+    "appeal jurisdiction",
+    "Native Tribunal",
+    "Provincial Commissioner",
+    "leave to appeal",
+    "costs deposit",
+    "bond for costs",
+    "statutory compliance",
+    "technicality in procedure",
+    "substantial justice",
+    "jurisdictional defect",
+    "conditional leave",
+    "Appellate Court powers",
+    "execution stay",
+    "taxed costs",
+    "judicial review"
+  ],
+  "topics": [
+    "Appellate Jurisdiction",
+    "Statutory Interpretation",
+    "Costs in Legal Proceedings",
+    "Native Tribunals",
+    "Colonial Legal System"
+  ],
+  "verdict": "The appeal was dismissed. The judgment of the Provincial Commissioner was set aside due to lack of jurisdiction. The original decision of the Native Tribunal stood.",
+  "winningSide": "Ohene Moore (Appellant)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lord Atkin",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "Lord Alness",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Sir Sidney Rowlatt",
+      "role": "Panel Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Privy Council",
+    "country": "Ghana (Gold Coast Colony)"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Privy Council Appeal No. 49 of 1933",
+    "1 W.A.C.A. p. 242",
+    "Native Administration Ordinance, Chapter 111, Laws of the Gold Coast Colony, 1928",
+    "Section 77(1) and (2)"
+  ],
+  "rationaleHighlights": [
+    "The Provincial Commissioner lacked jurisdiction because statutory conditions for appeal were not met.",
+    "A bond is not equivalent to payment or deposit of costs as required by law.",
+    "The statutory precondition for leave to appeal was unfulfilled, rendering the appeal invalid ab initio.",
+    "Appellate powers to waive rules only apply once jurisdiction is properly established.",
+    "The defect was jurisdictional, not merely technical, and could not be overlooked."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment and statutory references are explicit.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/OHENE MOORE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:23:25.764Z",
+    "plainTextLength": 7083
+  }
+}

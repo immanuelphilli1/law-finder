@@ -1,0 +1,61 @@
+{
+  "caseTitle": "REX v AMIDA GBADAMOSI AND FIVE OTHERS",
+  "summary": "This 1940 West Africa Court of Appeal decision in Lagos addressed an appellant's informal request to introduce fresh evidence on appeal, despite failing to file a formal application. The court acknowledged the request as an act of indulgence but refused it, emphasizing that the failure to follow proper procedure was not merely a technicality, especially since the nature of the proposed evidence remained undisclosed. The court expressed concern that granting such requests could set a dangerous precedent, enabling accused persons to delay or obstruct justice by withholding evidence during trial and later demanding that the appellate court effectively retry the case. Issues regarding trial irregularities were noted as separate matters to be assessed within the appeal grounds.",
+  "legalKeywords": [
+    "fresh evidence",
+    "appeal procedure",
+    "procedural compliance",
+    "appellate court",
+    "trial irregularities",
+    "abuse of process",
+    "West Africa Court of Appeal",
+    "disclosure of evidence",
+    "judicial discretion",
+    "criminal appeal"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Evidence Law"
+  ],
+  "verdict": "Application to call fresh evidence refused",
+  "winningSide": "Respondent",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "WACA/6 WACA/REX v AMIDA GBADAMOSI AND FIVE OTHERS"
+  ],
+  "rationaleHighlights": [
+    "Failure to file formal application not a mere formality",
+    "Nature of fresh evidence not fully disclosed",
+    "Risk of setting dangerous precedent",
+    "Potential for abuse if accused withholds evidence at trial",
+    "Appellate court should not become a trial court"
+  ],
+  "confidenceNotes": "High confidence; information derived directly from court document with clear judicial reasoning and procedural context.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/REX v   AMIDA GBADAMOSI AND FIVE OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:59:23.677Z",
+    "plainTextLength": 2386
+  },
+  "trialDate": "1940-04-26"
+}

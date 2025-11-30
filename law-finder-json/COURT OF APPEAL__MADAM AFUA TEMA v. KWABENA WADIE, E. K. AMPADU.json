@@ -1,0 +1,65 @@
+{
+  "caseTitle": "AFUA TEMA v. KWABENA WADIE, E. K. AMPADU",
+  "summary": "This Court of Appeal decision from Ghana, delivered on 9th May 2002, concerned a landlord-tenant dispute involving Madam Afua Tema (respondent) and two tenants, Kwabena Wadie and E. K. Ampadu (appellants). The respondent sought recovery of two storerooms, ejectment, and mesne profits, alleging the tenants failed to comply with a requirement to partition their units with cement blocks, defaulted on rent, and caused disturbances. The trial court ruled in her favor, but the Court of Appeal allowed the appeal by the second appellant, E. K. Ampadu, finding that the trial judge's decision was against the weight of evidence. The appellate court held that the partitioning was completed, albeit late, and that no tenancy obligation was proven to have been breached under Section 17(1) of the Rent Act, 1963 (Act 220). Additionally, the court found no evidence that the second appellant engaged in nuisance or caused the plaintiff's arrest. The first appellant, Kwabena Wadie, was deemed to have abandoned his appeal for non-compliance with procedural rules. The orders for ejectment and recovery of possession were set aside.",
+  "legalKeywords": [
+    "Rent Act 1963",
+    "Section 17(1)",
+    "security of tenure",
+    "ejectment",
+    "breach of tenancy",
+    "mesne profits",
+    "burden of proof",
+    "nuisance",
+    "landlord-tenant relationship",
+    "procedural abandonment",
+    "appellate review"
+  ],
+  "topics": [
+    "Property Law",
+    "Tenancy Dispute",
+    "Appellate Procedure",
+    "Judicial Error",
+    "Eviction Law"
+  ],
+  "verdict": "Appeal allowed in part",
+  "winningSide": "Defendant (E. K. Ampadu)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "V. Akoto-Bamfo",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "G. T. Wood",
+      "role": "Concurred"
+    },
+    {
+      "name": "P. K. Owusu-Ansah",
+      "role": "Concurred"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Appiah v. Akos Trading Co. 1972 1 GLR 28",
+    "Dan v. Addo 1962 GLR 200"
+  ],
+  "rationaleHighlights": [
+    "The trial judge erred in finding a breach of tenancy where the obligation to partition was not a term of the lease.",
+    "The evidence showed the partitioning was completed, undermining the plaintiff’s claim.",
+    "The second appellant was not shown to have caused disturbances or committed nuisance.",
+    "The trial court wrongly attributed the arrest of the plaintiff to the second appellant based on inadmissible hearsay.",
+    "The appeal of the first appellant was abandoned due to non-compliance with procedural rules."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear textual evidence from the judgment. Some procedural details (e.g., exact rule citation) are inferred from context but consistent with Ghanaian civil procedure.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/MADAM AFUA TEMA v. KWABENA WADIE, E. K. AMPADU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:17:49.179Z",
+    "plainTextLength": 9808
+  },
+  "trialDate": "2002-05-09"
+}

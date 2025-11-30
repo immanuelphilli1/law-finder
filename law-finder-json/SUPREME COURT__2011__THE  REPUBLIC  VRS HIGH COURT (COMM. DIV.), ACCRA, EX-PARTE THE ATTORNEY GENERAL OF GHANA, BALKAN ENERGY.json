@@ -1,0 +1,85 @@
+{
+  "caseTitle": "HE REPUBLIC VRS HIGH COURT (COMM. DIV.), ACCRA",
+  "summary": "The Supreme Court of Ghana ruled that the High Court (Commercial Division) breached Article 130(2) of the 1992 Constitution by failing to refer constitutional questions regarding the interpretation of Article 181(5) to the Supreme Court. The case centered on whether a power purchase agreement (PPA) between the Government of Ghana and Balkan Energy Ghana Limited—an entity incorporated locally but wholly owned by a foreign company—constituted an 'international business transaction' requiring parliamentary approval. The Supreme Court emphasized that despite prior interpretation in Attorney General v. Faroe Atlantic Co. Ltd, the scope of Article 181(5) remained contested and required authoritative determination by the Supreme Court. The Court declared the High Court’s refusal to refer the matter unconstitutional and exercised its supervisory jurisdiction under Articles 129(4) and 132 to refer two specific constitutional questions back for determination.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "international business transaction",
+    "parliamentary approval",
+    "supervisory jurisdiction",
+    "article 130(2)",
+    "article 181(5)",
+    "power purchase agreement",
+    "arbitration clause",
+    "usurpation of jurisdiction",
+    "High Court referral obligation",
+    "constitutional breach",
+    "exclusive original jurisdiction",
+    "domestic entity with foreign control",
+    "enforcement of constitution",
+    "separation of powers"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Judicial Review",
+    "Public Finance",
+    "Energy Law"
+  ],
+  "verdict": "The Supreme Court granted the first relief sought, declaring that the High Court's failure to refer constitutional questions under Article 130(2) constituted a breach of the Constitution. It referred two constitutional questions concerning the nature of the power purchase agreement and its arbitration clause under Article 181(5) back to itself for authoritative interpretation.",
+  "winningSide": "The Attorney General of Ghana, as applicant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Sophia A. B. Akuffo",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Dr. S. K. Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "S. O. A. Adinyira",
+      "role": "Justice"
+    },
+    {
+      "name": "N. S. Gbadegbe",
+      "role": "Justice"
+    },
+    {
+      "name": "V. Akoto-Bamfo",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Article 130(2), 1992 Constitution of Ghana",
+    "Article 181(5), 1992 Constitution of Ghana",
+    "Article 129(4), 1992 Constitution of Ghana",
+    "Attorney General v. Faroe Atlantic Co. Ltd [2005-2006] SCGLR 271",
+    "Republic v. Special Tribunal, Ex Parte Akosah [1980] GLR 592",
+    "Agyekum v. Boadi [2000] SCGLR 282",
+    "Republic v. High Court (Fast Track Division), Accra, Ex Parte Electoral Commission [2005-2006] SCGLR 514",
+    "Republic v. High Court (Fast Track Division), Accra, Ex Parte CHRAJ (Richard Anane) [2007-2008] SCGLR 213"
+  ],
+  "rationaleHighlights": [
+    "Article 130(2) mandates lower courts to refer constitutional interpretation issues to the Supreme Court.",
+    "The scope of Article 181(5) was disputed regarding whether a domestic company with foreign ownership constitutes an international business transaction.",
+    "The High Court erred by presuming no genuine interpretive controversy existed based on precedent.",
+    "Trial courts must not assume their constitutional interpretation is correct over that of the Supreme Court.",
+    "The Supreme Court has broad remedial powers under Articles 129(4) and 132 to prevent failure of justice.",
+    "Prior interpretation in Attorney General v. Faroe Atlantic does not settle novel applications of constitutional scope.",
+    "Usurpation of the Supreme Court’s exclusive jurisdiction violates the Constitution.",
+    "Referral is required when constitutional intent and scope are in contention, even if precedent exists."
+  ],
+  "confidenceNotes": null,
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/THE  REPUBLIC  VRS HIGH COURT (COMM. DIV.), ACCRA, EX-PARTE THE ATTORNEY GENERAL OF GHANA, BALKAN ENERGY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:58:29.033Z",
+    "plainTextLength": 13884
+  },
+  "trialDate": "2011-11-02"
+}

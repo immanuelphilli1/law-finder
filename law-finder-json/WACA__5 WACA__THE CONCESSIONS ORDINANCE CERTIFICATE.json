@@ -1,0 +1,70 @@
+{
+  "caseTitle": "IN THE MATTER OF: THE CONCESSIONS ORDINANCE CERTIFICATE OF VALlDITY No",
+  "summary": "This West African Court of Appeal decision from Accra on 4th December 1939 concerned a civil claim for the recovery of ₤250 in rents collected by the appellant, J.B. Amegashie, from a concession land after the respondents had legally purchased the land. The original grantors, representatives of the Klevie tribe, had granted the concession to Hans Schumann, later held by Basle Trading Co. Ltd. The first respondent was declared purchaser of the land interest in 1934, with conveyance to the second respondent in 1937. The appellant collected rents from 1934 to 1936 as agent and was sued for refund. The appeal challenged the trial court's jurisdiction, arguing the matter related to land ownership and thus belonged in a Native Tribunal under Section 48(2)(c) of the Native Administration Ordinance. The appellate court held that ownership was res judicata, and the claim was essentially for money had and received, not land rights, thus within the court's jurisdiction. It further ruled that a purchaser can enforce rights even without endorsement of the Certificate of Validity by the Concessions Court, rejecting the argument that such endorsement was a prerequisite. The amendment of the writ to include a claim for money had and received was upheld as non-prejudicial and procedurally sound.",
+  "legalKeywords": [
+    "concessions ordinance",
+    "certificate of validity",
+    "res judicata",
+    "jurisdiction",
+    "native administration ordinance",
+    "rent recovery",
+    "money had and received",
+    "ownership",
+    "purchaser rights",
+    "endorsement",
+    "tribunal jurisdiction",
+    "civil remedy",
+    "amendment of writ",
+    "tort claim",
+    "land rights"
+  ],
+  "topics": [
+    "Land Law",
+    "Concessions",
+    "Jurisdiction",
+    "Civil Procedure",
+    "Res Judicata"
+  ],
+  "verdict": "Appeal dismissed. The trial court's judgment in favor of the plaintiffs for ₤250 with costs was upheld.",
+  "winningSide": "Plaintiffs-Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Cor Doorly",
+      "role": "Justice"
+    },
+    {
+      "name": "McCarthy",
+      "role": "Justice"
+    },
+    {
+      "name": "Fuad",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Solomon v. Vanderpuye (28-6-34: unreported)",
+    "Djabertey v. Benkumhene Antwi Awua 4 W.A.C.A. 202",
+    "Amuakwa v. Kwamin Anyan 3 W.A.C.A. 22"
+  ],
+  "rationaleHighlights": [
+    "The trial court had jurisdiction because the case did not require adjudication on ownership, possession, or occupation of land.",
+    "The question of ownership was res judicata, making the nature of the funds (rent) incidental.",
+    "A purchaser of land under concession can enforce rights even without endorsement of the Certificate of Validity.",
+    "Amendment to claim for 'money had and received' was not embarrassing and did not introduce a new cause of action improperly.",
+    "Refusal to endorse certificate cannot bar a rightful purchaser from legal remedies."
+  ],
+  "confidenceNotes": "The case details are drawn from a primary legal document with clear judicial reasoning. Jurisdictional and procedural points are authoritatively addressed by the appellate court. Some portions of the source text are truncated but key holdings and facts are preserved.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/THE CONCESSIONS ORDINANCE CERTIFICATE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:39:23.807Z",
+    "plainTextLength": 17805
+  },
+  "trialDate": "1939-12-04"
+}

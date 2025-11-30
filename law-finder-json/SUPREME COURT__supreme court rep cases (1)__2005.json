@@ -1,0 +1,44 @@
+{
+  "caseTitle": "AUGUSTINE YAW MANU v MADAM",
+  "summary": "The document is an index of unreported cases from the Supreme Court of Ghana in 2005. One of the listed cases is Nana Yaw Boakyem v Opanyin Kwame Atia & Seth Asante, Civil Appeal No. J4/30/2004, decided on 20th July 2005. No full reasoning or verdict details are available in this index format. The case appears to be a civil matter, possibly involving land or chieftaincy dispute, based on naming conventions.",
+  "legalKeywords": [
+    "civil appeal",
+    "property dispute",
+    "unreported case",
+    "Ghana Supreme Court",
+    "judgment index"
+  ],
+  "topics": [
+    "Civil Appeal",
+    "Property Dispute",
+    "Unreported Judgment"
+  ],
+  "verdict": "Not specified in source",
+  "winningSide": "Not specified in source",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Not specified",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "CIVIL APPEAL NO. J4/30/2004"
+  ],
+  "rationaleHighlights": [
+    "Case listed as unreported civil appeal concerning parties Nana Yaw Boakyem, Opanyin Kwame Atia, and Seth Asante"
+  ],
+  "confidenceNotes": "The document provided appears to be a table of contents or index of unreported cases from the Supreme Court of Ghana for 2005, not the full judgment. Therefore, details are limited to case titles and dates.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2005.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:48:42.030Z",
+    "plainTextLength": 1680
+  },
+  "trialDate": "2005-04-04"
+}

@@ -1,0 +1,71 @@
+{
+  "caseTitle": "REX V EBENEZER TAWIAH. ENOCH ALLOTEY",
+  "summary": "This 1939 West Africa Court of Appeal decision in Ghana addressed the appeals of 31 individuals, members of the Territorial Force band, convicted of stealing under section 271(2) of the Criminal Code following looting incidents during their return from Cape Coast to Accra. The charges arose from events at two villages, with three counts filed. The court quashed the convictions of 15 appellants on count 2 due to their names being omitted from the information, constituting improper arraignment. It also allowed the appeals of Joseph Lamptey and Nathaniel Lartey Mingle, finding a misdirection by the trial judge who incorrectly stated that no represented accused gave evidence, potentially prejudicing the jury's assessment of their testimony. The court upheld the principle of joint liability under section 46 of the Criminal Code, affirming that all could be convicted as principals if the looting was pursuant to a common agreement. It rejected arguments of misjoinder, holding the offences were part of the same transaction under sections 103 and 104 of the Criminal Procedure Code. While affirming the remaining convictions based on sufficient circumstantial evidence and possession of stolen goods, the court reduced all sentences from imprisonment to fines, considering the appellants' youth, military status, and the celebratory context.",
+  "legalKeywords": [
+    "stealing",
+    "abettor",
+    "misjoinder",
+    "circumstantial evidence",
+    "misdirection of jury",
+    "Criminal Code",
+    "Criminal Procedure Code",
+    "joint liability",
+    "conviction quashed",
+    "sentence reduced",
+    "fine",
+    "imprisonment",
+    "identification",
+    "possession",
+    "transaction"
+  ],
+  "topics": [
+    "criminal law",
+    "appellate review",
+    "theft",
+    "joint enterprise",
+    "prosecution procedure"
+  ],
+  "verdict": "Convictions of 15 appellants on count 2 and of Joseph Lamptey and Nathaniel Lartey Mingle on all counts were quashed; remaining convictions upheld but sentences reduced from imprisonment to fines.",
+  "winningSide": "Partial win for appellants; prosecution succeeded on most convictions but failed on specific grounds of misjoinder and misdirection, and on severity of sentence.",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Strother-Stewart",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Doorly",
+      "role": "Justice"
+    },
+    {
+      "name": "McCarthy",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Tawiah & ors",
+    "section 271 (2) of the Criminal Code",
+    "section 103 (a) Criminal Procedure Code",
+    "section 104 (d) Criminal Procedure Code",
+    "section 46 of the Criminal Code"
+  ],
+  "rationaleHighlights": [
+    "Convictions of 15 appellants on count 2 quashed due to omission of names in the information",
+    "Misdirection occurred regarding Joseph Lamptey and Nathaniel Lartey Mingle, leading to quashing of their convictions on all counts",
+    "Joint criminal liability upheld under section 46 of the Criminal Code based on common purpose",
+    "No misjoinder of charges or accused as offences formed part of the same transaction",
+    "Sentences reduced from imprisonment to fines considering appellants' youth and context"
+  ],
+  "confidenceNotes": "All information is derived directly from the provided judgment text. Citations and legal references are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/REX V EBENEZER TAWIAH. ENOCH ALLOTEY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:41:48.893Z",
+    "plainTextLength": 13905
+  }
+}

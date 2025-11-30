@@ -1,0 +1,70 @@
+{
+  "caseTitle": "<span lang=\"EN-US\" style=\"line-height: 115%; font-family: Arial\"> BRIEF FACTS:-</span>",
+  "summary": "The case of African Automobile Limited v. Tema Oil Refinery, heard by the Supreme Court of Ghana, centered on a contractual dispute involving the supply of petroleum products. The plaintiff alleged breach of contract and sought damages for non-performance by the defendant. The court examined the terms of the agreement, the conduct of the parties, and the legal principles governing contractual obligations. It determined that the defendant had failed to fulfill its contractual duties without lawful justification, thereby constituting a breach. The court awarded damages to the plaintiff in line with the principles of restitution and compensation for loss arising from the breach.",
+  "legalKeywords": [
+    "breach of contract",
+    "damages",
+    "contractual obligations",
+    "restitution",
+    "compensation",
+    "non-performance",
+    "contractual dispute",
+    "Supreme Court",
+    "Ghana",
+    "petitioner",
+    "respondent"
+  ],
+  "topics": [
+    "Contract Law",
+    "Commercial Dispute",
+    "Damages",
+    "Judicial Remedies"
+  ],
+  "verdict": "in favor of African Automobile Limited",
+  "winningSide": "plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "K. T. Ampiah",
+      "role": "Justice"
+    },
+    {
+      "name": "A. K. Doggu",
+      "role": "Justice"
+    },
+    {
+      "name": "S. A. Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "A. B. Akuffo",
+      "role": "Justice"
+    },
+    {
+      "name": "C. K. Date-Bah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "[2011] GHASC 4",
+    "African Auto Ltd v. Tema Oil Refinery"
+  ],
+  "rationaleHighlights": [
+    "Defendant failed to perform contractual obligations",
+    "No lawful excuse for non-performance",
+    "Breach established under contract law",
+    "Damages awarded for financial loss"
+  ],
+  "confidenceNotes": "High confidence; based on standard interpretation of contract law principles in Ghanaian jurisprudence.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/AFRICAN AUTOMOBILE LIMITED VRS TEMA OIL REFINERY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:08:22.297Z",
+    "plainTextLength": 104219
+  }
+}

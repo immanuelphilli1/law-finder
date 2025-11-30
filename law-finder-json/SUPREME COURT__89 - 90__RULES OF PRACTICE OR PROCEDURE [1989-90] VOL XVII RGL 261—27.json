@@ -1,0 +1,93 @@
+{
+  "caseTitle": "RULES OF PRACTICE OR PROCEDURE [1989-90] VOL XVII RGL 261—27",
+  "summary": "The document examines a key jurisdictional issue in Ghanaian procedural law concerning the Supreme Court's power under Rule 66(1) of the Supreme Court Rules, 1970 (CI 13) to waive non-compliance with Rule 13(1), which mandates filing a statement of case within three weeks of notification that the record of appeal is ready. In *Darke XII v Dei XI*, the Supreme Court, by a 3-2 majority, held that Rule 66(1) grants the Court jurisdiction to waive non-compliance and restore an appeal struck out under Rule 13(2), interpreting 'action' to include appellate proceedings. However, on the same day, in *In re Oppong (Decd)*, a differently constituted bench, by another 3-2 majority, held the opposite—Rule 66(1) applies only to original jurisdiction actions, not appeals—without addressing the earlier *Darke* decision. The document critiques the *Oppong* ruling as *per incuriam* due to failure to consider binding precedent under Article 116(3) of the 1979 Constitution and highlights internal inconsistency, especially given Rule 70's definition of 'party' to include parties to appeals.",
+  "legalKeywords": [
+    "Rule 66(1)",
+    "Rule 13(1)",
+    "Supreme Court Rules CI 13",
+    "jurisdiction to waive non-compliance",
+    "appeal deemed struck out",
+    "original jurisdiction",
+    "appellate jurisdiction",
+    "per incuriam",
+    "extension of time",
+    "statement of case",
+    "rules of procedure",
+    "binding precedent",
+    "Article 116(3) Constitution",
+    "interpretation of 'action'",
+    "procedural default",
+    "judicial discretion",
+    "restoration of appeal",
+    "majority decision",
+    "minority judgment",
+    "legal definition"
+  ],
+  "topics": [
+    "Procedural Law",
+    "Appellate Procedure",
+    "Judicial Jurisdiction",
+    "Precedent",
+    "Rule Interpretation"
+  ],
+  "verdict": "In Darke XII v Dei XI, the application was dismissed on merits but jurisdiction under Rule 66(1) was affirmed; in In re Oppong (Decd), jurisdiction was denied, creating conflicting rulings.",
+  "winningSide": "In Darke XII v Dei XI: respondents (on merits); in In re Oppong (Decd): respondents (on jurisdiction)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adade JSC",
+      "role": "Majority in Darke - affirmed jurisdiction"
+    },
+    {
+      "name": "Amua-Sekyi JSC",
+      "role": "Majority in Darke - affirmed jurisdiction"
+    },
+    {
+      "name": "Ofori-Boateng JA",
+      "role": "Majority in Darke - affirmed jurisdiction"
+    },
+    {
+      "name": "Osei-Hwere JSC",
+      "role": "Dissent in Darke, Majority in Oppong - denied jurisdiction"
+    },
+    {
+      "name": "Edward Wiredu JSC",
+      "role": "Dissent in Darke, Majority in Oppong - denied jurisdiction"
+    },
+    {
+      "name": "Wuaku JSC",
+      "role": "Majority in Oppong - denied jurisdiction"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Procedural Appeal / Application for Extension of Time",
+  "citations": [
+    "Supreme Court Rules, 1970 (CI 13), r 66(1)",
+    "r 13(1) and (2)",
+    "Darke XII v Dei XI",
+    "In re Oppong (Decd)",
+    "Yendi Skin Cases",
+    "High Court (Civil Procedure) Rules, 1954",
+    "Article 116(3), Constitution of Ghana, 1979"
+  ],
+  "rationaleHighlights": [
+    "Rule 66(1) uses 'any provisions of these Rules', suggesting broad applicability including appellate rules.",
+    "'Action' should be interpreted in its commonsense legal meaning to include both original and appellate proceedings.",
+    "Rule 70 defines 'party' to include 'party to an appeal', undermining a narrow reading of 'action'.",
+    "Failure to consider Darke in Oppong renders the latter decision per incuriam.",
+    "Jurisdictional conflict arises from two differently constituted benches deciding the same issue oppositely on the same day.",
+    "The interests of justice support discretionary power to waive procedural defaults where non-wilful.",
+    "A rigid interpretation risks injustice where technical default bars meritorious appeals.",
+    "The Supreme Court's authority to manage its docket supports flexible interpretation of procedural rules."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct textual analysis. The case comparison and legal critique are well-documented in the source. Truncation at the end does not affect core holdings discussed.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/89 - 90/RULES OF PRACTICE OR PROCEDURE [1989-90] VOL XVII RGL 261—27.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:54:37.099Z",
+    "plainTextLength": 24691
+  }
+}

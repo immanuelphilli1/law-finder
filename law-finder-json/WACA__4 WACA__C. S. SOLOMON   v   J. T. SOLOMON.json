@@ -1,0 +1,73 @@
+{
+  "caseTitle": "C. S. SOLOMON v J. T. SOLOMON",
+  "summary": "In this West Africa Court of Appeal case, the plaintiff-appellant, C. S. Solomon, as administratrix of the estate of the late Sarkis Michael Solomon, brought a claim against the defendant, T. J. Solomon, for an account of partnership transactions and payment of any sum found due. A referee was appointed to examine the accounts. The trial judge, Baker, J., directed adjustments to the accounts, including the removal of certain debits from the deceased's personal account. However, when the report was later considered by Pearson, J. in Baker, J.'s absence, judgment was entered in favor of the defendant based on an incorrect interpretation of the accounts. The appellate court found that the proper judge to assess the referee’s final report was Baker, J., who was familiar with the case. The judgment of the lower court was set aside, the appeal allowed, and the matter remitted to Baker, J. for proper consideration of the referee's report. Each party was ordered to bear their own costs on appeal, with costs in the lower court to be determined by the judge handling the remitted proceedings.",
+  "legalKeywords": [
+    "administratrix",
+    "partnership account",
+    "referee report",
+    "accounting",
+    "judgment remittal",
+    "personal account",
+    "debit entry",
+    "costs allocation",
+    "appellate review",
+    "evidence consideration",
+    "judicial continuity",
+    "court procedure",
+    "successor referee",
+    "fact finding",
+    "objection timing",
+    "judicial error",
+    "account adjustment",
+    "partnership dissolution",
+    "decedent's estate",
+    "procedural fairness"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Partnership Accounting",
+    "Appellate Remittal",
+    "Judicial Responsibility",
+    "Costs in Litigation"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Plaintiff-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webb",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "WACA/4 WACA/C. S. SOLOMON v J. T. SOLOMON"
+  ],
+  "rationaleHighlights": [
+    "The report of a referee must be considered by the judge who ordered the reference and who is familiar with the case.",
+    "A judgment entered by a judge unfamiliar with prior rulings risks procedural unfairness and error.",
+    "Debits to a deceased partner's personal account must align with the trial judge's directions.",
+    "Objections to a referee's report should be raised at the trial level, not on appeal.",
+    "The appellate court will remit for proper judicial consideration when procedural irregularities affect outcome."
+  ],
+  "confidenceNotes": "High confidence; all information derived directly from the judgment text, with clear identification of parties, procedural history, and appellate reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/C. S. SOLOMON   v   J. T. SOLOMON.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:06:36.574Z",
+    "plainTextLength": 6277
+  },
+  "trialDate": "1938-11-02"
+}

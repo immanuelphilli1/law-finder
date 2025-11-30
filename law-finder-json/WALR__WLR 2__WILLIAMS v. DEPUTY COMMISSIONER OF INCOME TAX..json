@@ -1,0 +1,62 @@
+{
+  "caseTitle": "WILLIAMS VERSUS DEPUTY COMMISSIONER OF INCOME TAX.",
+  "summary": "In Williams v. Deputy Commissioner of Income Tax (1947), the appellant, F. A. Williams, sought to deduct �700 spent on legal fees related to a pending Privy Council appeal over a deceased estate, arguing the costs were incurred to produce future income. The Supreme Court of the Gold Coast, Western Judicial Division, rejected the claim, holding that the expenses were private in nature and not incurred in the production of taxable income under section 10(1) of the Income Tax Ordinance, c. 27 of 1943. Citing section 11(a), the court emphasized that private expenses are non-deductible. The expenditure was deemed a capital investment in property with speculative gain, not ordinary income generation. The appeal was dismissed, affirming the Commissioner's refusal to allow the deduction.",
+  "legalKeywords": [
+    "income tax",
+    "deduction",
+    "legal expenses",
+    "taxable income",
+    "private expenses",
+    "production of income",
+    "capital investment",
+    "litigation costs",
+    "tax assessment",
+    "expenditure",
+    "Privy Council",
+    "estate dispute",
+    "tax exemption",
+    "professional income",
+    "speculative gain"
+  ],
+  "topics": [
+    "Tax Law",
+    "Income Tax Deduction",
+    "Legal Expenses",
+    "Capital vs. Revenue Expenditure",
+    "Private Expenses"
+  ],
+  "verdict": "Appeal dismissed.",
+  "winningSide": "Deputy Commissioner of Income Tax",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Hooper J.",
+      "role": "presiding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Western Judicial Division, Divi�sional Court, Sekondi",
+    "country": "Ghana"
+  },
+  "caseType": "tax",
+  "citations": [
+    "Southwell v. Sarill Brothers [1901] 2 K.B. 349",
+    "Income Tax Ordinance, c. 27 of 1943, s. 10(1)",
+    "Income Tax Ordinance, c. 27 of 1943, s. 11(a)",
+    "Income Tax Ordinance, c. 27 of 1943, s. 58(1)"
+  ],
+  "rationaleHighlights": [
+    "Legal expenses were not incurred in the production of income but were private expenses.",
+    "Section 11(a) of the Income Tax Ordinance disallows deductions for private expenses.",
+    "Expenditure aimed at securing property with speculative gain is capital, not income-related.",
+    "No income had been realized from the litigation at the time of assessment.",
+    "Allowing such deductions would open a broad exemption for all litigants seeking financial gain."
+  ],
+  "confidenceNotes": "High confidence; all key details such as jurisdiction, legal provisions, and reasoning are explicitly stated in the text.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/WILLIAMS v. DEPUTY COMMISSIONER OF INCOME TAX..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:21:34.317Z",
+    "plainTextLength": 6852
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "caseTitle": "OSEI ANSONG, PASSION INTERNATIONAL SCHOOL VRS GHANA AIRPORTS COMPANY LTD",
+  "summary": "This Supreme Court of Ghana case (Civil Appeal No. J4/24/2012, decided 23 January 2013) involved Plaintiffs Osei Ansong and Passion International School appealing the Court of Appeal's decision to allow Ghana Airports Company Ltd's application to set aside a writ on grounds of abuse of process. The dispute originated from a prior suit where the High Court granted summary judgment in favor of Ghana Airports Ltd after the Plaintiffs admitted the land belonged to the defendant. The Plaintiffs later filed a new action alleging fraud, claiming false representations by the defendant and state institutions compelled their admissions. The High Court allowed the case to proceed, but the Court of Appeal reversed, finding abuse of process. The Supreme Court upheld the Court of Appeal, ruling that the allegations of fraud were conclusory and not sufficiently pleaded with factual particularity to justify setting aside the prior judgment, emphasizing that fraud must be clearly alleged and strictly proven.",
+  "legalKeywords": [
+    "abuse of process",
+    "fraud in pleadings",
+    "res judicata",
+    "Henderson v Henderson",
+    "summary judgment",
+    "setting aside judgment",
+    "fraudulent misrepresentation",
+    "judicial misconduct",
+    "public interest litigation",
+    "admissions in pleadings",
+    "pleading standards",
+    "court process abuse",
+    "fraud ab initio",
+    "judicial finality",
+    "estoppel"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Judicial Review",
+    "Property Law"
+  ],
+  "verdict": "The Supreme Court dismissed the appeal, affirming the Court of Appeal's decision that the Plaintiffs' subsequent action constituted an abuse of court process due to insufficiently pleaded allegations of fraud, thereby upholding the validity of the prior summary judgment in favor of the Defendant.",
+  "winningSide": "Ghana Airports Company Ltd",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sophia Adinyira (Mrs.) JSC",
+      "role": "Presiding Judge delivering the judgment"
+    },
+    {
+      "name": "Atuguba JSC",
+      "role": "Member of the bench"
+    },
+    {
+      "name": "Owusu (Ms) JSC",
+      "role": "Member of the bench"
+    },
+    {
+      "name": "Dotse JSC",
+      "role": "Member of the bench"
+    },
+    {
+      "name": "Baffoe Bonnie JSC",
+      "role": "Member of the bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Dzotepe v. Hahormene [1987-88] 2 GLR 681",
+    "Naos Holding Inc v Ghana Commercial Bank Ltd [2011] 1 SCGLR 492",
+    "Sasu vs. Amua-Sekyi and Anor [2003-2004] SCGLR 742",
+    "Henderson v Henderson (1843) 3 Hare 100",
+    "Barrow v Bankside Agency Ltd [1996] WLR 257",
+    "Duchess of Kingston’s Case (1776) 20 St Tr 355",
+    "Lazarus Estates Ltd v. Beasley [1956] 1 All ER 341"
+  ],
+  "rationaleHighlights": [
+    "Fraud allegations must be clearly pleaded with specific facts, not conclusory statements.",
+    "A prior judgment obtained by fraud may be set aside, but the fraud must be strictly proven.",
+    "The rule in Henderson v Henderson prevents re-litigation of matters already adjudicated absent special circumstances.",
+    "Merely alleging that representations were fraudulent does not constitute proof or exposure of fraud.",
+    "Courts must balance the abhorrence of fraud with the need for finality in litigation.",
+    "Abuse of process occurs when a party re-litigates the same cause with insufficient new grounds.",
+    "Admissions in prior pleadings carry weight unless vitiated by properly alleged and proven fraud.",
+    "Judicial economy and public policy support finality of judgments."
+  ],
+  "confidenceNotes": "The analysis is based on a complete judicial text with clear holdings and citations. The outcome and reasoning are unambiguous, supported by authoritative precedents in Ghanaian jurisprudence.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/OSEI ANSONG, PASSION INTERNATIONAL SCHOOL VRS GHANA AIRPORTS COMPANY LTD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:08:37.624Z",
+    "plainTextLength": 20675
+  },
+  "trialDate": "2011-10-28"
+}

@@ -1,0 +1,56 @@
+{
+  "caseTitle": "WOYOME AND OTHERS VERSUS AGBOMASU AND OTHERS.",
+  "summary": "In Woyome and Others v. Agbomasu and Others, the High Court of the Eastern Judicial Division, Land Court, addressed whether a decision on a plea of res judicata constitutes a final or interlocutory order in Native Courts under the Native Courts (Southern Ghana) Procedure Regulations, 1945. The Native Court had dismissed the plea of res judicata and granted an interim injunction, prompting the defendants to appeal to the Magistrate’s Court, which reversed the decision and held the claim was res judicata. The Native Court adopted this ruling without independent review. The High Court held that a decision on res judicata is a final order, not interlocutory, and thus the Magistrate’s Court lacked jurisdiction to hear the appeal under s. 52(2) of the Native Courts (Southern Ghana) Ordinance. The Magistrate’s judgment was declared null and void for want of jurisdiction. The Native Court’s adoption of that decision without re-evaluating the plea independently was also invalid. The appeal was allowed, the judgment and order on res judicata were set aside, and the case was remitted for a de novo hearing before a different panel.",
+  "legalKeywords": [
+    "res judicata",
+    "final order",
+    "interlocutory order",
+    "jurisdiction",
+    "appeal",
+    "Native Courts",
+    "Land Court",
+    "Magistrate's Court",
+    "procedural irregularity",
+    "de novo hearing"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Jurisdiction",
+    "Appeals",
+    "Land Law",
+    "Res Judicata"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Native Courts (Southern Ghana) Ordinance, s. 52(2)",
+    "Native Courts (Southern Ghana) Procedure Regulations, regs. 17 and 18",
+    "Kpanyinli v. Western Nzima State Council and Others (1957) 3 W.A.L.R. 190"
+  ],
+  "rationaleHighlights": [
+    "A decision on res judicata is a final order because it disposes of the cause itself.",
+    "The Magistrate's Court lacks jurisdiction over land matters and final decisions from Native Courts.",
+    "An appeal on a final order cannot lie to the Magistrate's Court under s. 52(2).",
+    "Adoption of a null judgment without independent inquiry renders the decision void.",
+    "Procedural non-compliance with regs. 17 and 18 invalidates the Native Court's order."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text, including citations, procedural history, and legal reasoning.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/WOYOME AND OTHERS v. AGBOMASU AND OTHERS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:50:46.633Z",
+    "plainTextLength": 9678
+  }
+}

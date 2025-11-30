@@ -1,0 +1,65 @@
+{
+  "caseTitle": "REX V AJEGE AND KIGBO",
+  "summary": "This appeal from the West Africa Court of Appeal quashed the murder convictions of Ajegbe and Kigbo, who were tried in Womba, Kaduna Judicial Division. The trial suffered multiple procedural irregularities: hearsay evidence from a local chief's investigation was wrongly admitted; uncautioned statements by the accused were accepted without proper warnings; and the appellant Ajegbe was taken to the scene of the crime in an attempt to extract a confession. Ajegbe testified that he made a false confession after being promised release and a reward by the District Head, and given halfpenny to buy food, creating a clear inducement. The court held that the so-called confession was valueless due to these improper influences. Despite the nominal admissibility of the statement at the preliminary inquiry, its reliability was negligible. With no direct evidence linking the appellants to the murder and serious breaches of fair trial principles, the court allowed the appeal and set aside the convictions.",
+  "legalKeywords": [
+    "murder",
+    "confession",
+    "admissibility of evidence",
+    "self-incrimination",
+    "police misconduct",
+    "trial fairness",
+    "improper inducement",
+    "preliminary inquiry",
+    "locus in quo",
+    "right to counsel"
+  ],
+  "topics": [
+    "criminal law",
+    "evidence",
+    "appeal",
+    "confession",
+    "fair trial"
+  ],
+  "verdict": "Convictions quashed on appeal due to inadmissible evidence, improper inducement, and violation of fair trial principles.",
+  "winningSide": "Appellants (Ajegbe and Kigbo)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Cor. Yates",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "WACA/2 WACA/REX V AJEGE AND KIGBO"
+  ],
+  "rationaleHighlights": [
+    "Admission of hearsay statements from investigation conducted by local chief was inadmissible and prejudicial.",
+    "Uncautioned statements by accused were wrongly admitted.",
+    "Accused was improperly induced by promises of release and reward to make a false statement.",
+    "Taking accused to locus in quo to extract admission violates principles of British justice.",
+    "Confession at preliminary inquiry was tainted by prior improper inducement.",
+    "No direct evidence linked appellants to the crime.",
+    "Trial judge could not disregard inadmissible evidence despite later proper testimony.",
+    "Absence of legal representation prejudiced fair trial."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with direct quotations and clear procedural history.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/REX V AJEGE AND KIGBO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:20:18.911Z",
+    "plainTextLength": 5098
+  }
+}

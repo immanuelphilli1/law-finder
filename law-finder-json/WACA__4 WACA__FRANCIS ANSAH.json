@@ -1,0 +1,71 @@
+{
+  "caseTitle": "FRANCIS ANSAH",
+  "summary": "In this West Africa Court of Appeal case from 1938, Francis Ansah, the appellant, sought an injunction to prevent the respondents, Amalgamated Banket Areas Limited and A.E. Huckin, from demolishing a house he had purchased and improved on land leased under a written agreement. He claimed he did not understand the agreement at the time of signing, rendering it void. The trial judge accepted that the respondents failed to prove he understood the agreement but dismissed the claim on the basis of an assumed verbal tenancy. The appellate court held that if the written agreement was void due to lack of understanding, there was no agreement at all—parties were never ad idem. The respondents had let the appellant into possession under a mistake of fact, and the appellant obtained possession under mutual mistake. Thus, the respondents were entitled to oust him. The appellant could remove his building under native law and custom but had not done so. The onus to prove entitlement to compensation under native law and custom lay with the appellant, which he failed to discharge. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "injunction",
+    "compensation",
+    "written agreement",
+    "verbal tenancy",
+    "onus of proof",
+    "mutual mistake",
+    "native law and custom",
+    "ad idem",
+    "demolition",
+    "possession",
+    "repudiation",
+    "mistake of fact",
+    "landlord-tenant",
+    "contract validity",
+    "removal of fixtures"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Native Law and Custom",
+    "Injunction",
+    "Appeal"
+  ],
+  "verdict": "Appeal dismissed with costs assessed at £18 6s. 0d.",
+  "winningSide": "Defendants-Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Yates",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WACA/4 WACA/FRANCIS ANSAH"
+  ],
+  "rationaleHighlights": [
+    "The written agreement was void because the appellant did not understand it, rendering the parties never ad idem.",
+    "In absence of a valid agreement, possession was based on mutual mistake, entitling respondents to recover possession.",
+    "Respondents were entitled to oust the appellant despite lack of understanding, due to mistaken belief in a binding agreement.",
+    "The onus to prove entitlement to compensation lay with the appellant and was not discharged.",
+    "Appellant could remove his building under native law and custom but had not done so.",
+    "Trial judge erred in assuming a verbal tenancy; correct basis was absence of any agreement.",
+    "Native law and custom on compensation not established by appellant.",
+    "Appeal dismissed with costs assessed at £18 6s. 0d."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and explicit findings in the original text.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/FRANCIS ANSAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:02:45.807Z",
+    "plainTextLength": 5173
+  },
+  "trialDate": "1938-05-27"
+}

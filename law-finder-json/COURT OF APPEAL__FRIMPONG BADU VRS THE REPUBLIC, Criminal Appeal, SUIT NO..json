@@ -1,0 +1,74 @@
+{
+  "caseTitle": "FRIMPONG BADU VRS THE REPUBLIC, Criminal Appeal, SUIT NO.",
+  "summary": "The appellant, Frimpong Badu, was convicted by the High Court for attempted exportation and possession of a narcotic drug (cocaine) without a licence or lawful authority, contrary to Sections 1(1) and 2(1) of PNDCL 236. He was sentenced to 12 years imprisonment on each count, to run concurrently. On appeal, he argued the trial court failed to consider his defence and selectively evaluated evidence. The Court of Appeal dismissed the appeal, finding that the trial judge properly assessed all evidence and correctly concluded the appellant had both physical and constructive possession of the cocaine, with knowledge of its nature. The appellant's claim that the bag belonged to a third party (Kenny) and was to be delivered to another (Marvin) was rejected as implausible, especially given his retrieval of personal items (singlets, boxer shorts, socks) from the bag. The court affirmed that the prosecution proved its case beyond reasonable doubt and that the trial judge did not err in law or fact.",
+  "legalKeywords": [
+    "narcotics",
+    "possession",
+    "attempted exportation",
+    "constructive possession",
+    "reasonable doubt",
+    "evidence",
+    "defence",
+    "cocaine",
+    "PNDCL 236",
+    "burden of proof",
+    "trial fairness",
+    "appellate review",
+    "lawful authority",
+    "false compartment",
+    "knowledge of contents"
+  ],
+  "topics": [
+    "criminal law",
+    "drug offences",
+    "appellate procedure",
+    "evidence",
+    "possession"
+  ],
+  "verdict": "Appeal dismissed; conviction and sentence affirmed.",
+  "winningSide": "The Republic (State)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Apaloo, JA",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Gyasesayor, JA",
+      "role": "Justice"
+    },
+    {
+      "name": "Addoh, JA",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "PNDCL 236",
+    "Miller vs. Minister of Pensions (1947) 2 All ER 372",
+    "Osafo Vs The Republic [1993-94] 2 GLR 236",
+    "Bonsu Vs The Republic [1989 - 99] SCGLR 115"
+  ],
+  "rationaleHighlights": [
+    "Appellant's conduct, including repeated phone calls and retrieval of personal items from the bag, indicated anxiety and knowledge of contents.",
+    "Physical possession combined with knowledge satisfies the legal test for possession under PNDCL 236.",
+    "The trial judge properly applied the standard of proof beyond reasonable doubt.",
+    "The defence was found to be a sham based on inconsistencies in the appellant's explanation.",
+    "Appellant's request to remove personal items from the seized bag supported inference of ownership and control.",
+    "Circumstantial evidence overwhelmingly supported conviction on both counts.",
+    "Appellate court found no failure to consider the defence; trial judge adequately evaluated all evidence.",
+    "Constructive and legal possession established despite claim of mere courier role."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed trial record and appellate reasoning. All key facts, legal standards, and judicial conclusions are directly supported by the judgment text.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/FRIMPONG BADU VRS THE REPUBLIC, Criminal Appeal, SUIT NO..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:33:14.575Z",
+    "plainTextLength": 14199
+  },
+  "trialDate": "2010-03-04"
+}

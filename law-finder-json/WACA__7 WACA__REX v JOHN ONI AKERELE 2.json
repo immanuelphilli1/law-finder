@@ -1,0 +1,70 @@
+{
+  "caseTitle": "REX v JOHN ONI AKERELE 2",
+  "summary": "In REX v John Oni Akerele, the West Africa Court of Appeal allowed an appeal against sentence for manslaughter. The appellant had been sentenced to three years' imprisonment with hard labour following conviction for the manslaughter of a child, Kalu Ibe, due to gross carelessness in administering a drug mixture. The Court upheld the conviction but found the sentence excessive, noting the absence of deliberate intent to harm or break the law. It emphasized that the prosecution's case rested on a single act of criminal negligence. Consequently, the original sentence was quashed and replaced with a fine of £500 or twelve months' imprisonment in default. The concurrent sentence on a separate count under section 343(1)(i) of the Criminal Code was quashed under section 16 of the Code. The appellant was granted one month to pay the fine and allowed bail under a bond of £1,000 with two sureties of £500 each.",
+  "legalKeywords": [
+    "manslaughter",
+    "criminal negligence",
+    "sentencing",
+    "appeal against sentence",
+    "fine in lieu of imprisonment",
+    "section 16 Criminal Code",
+    "hard labour",
+    "bail bond",
+    "concurrent sentence",
+    "gross carelessness",
+    "drug administration",
+    "appellate review",
+    "substitution of sentence",
+    "option of fine",
+    "prosecution case"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Sentencing",
+    "Appellate Procedure",
+    "Manslaughter",
+    "Judicial Discretion"
+  ],
+  "verdict": "Appeal allowed; original sentence quashed and substituted with a fine of £500 or twelve months' imprisonment in default.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "WACA/7 WACA/REX v JOHN ONI AKERELE"
+  ],
+  "rationaleHighlights": [
+    "Appellant did not deliberately intend to break the law or harm another.",
+    "Only one act of criminal negligence found: gross carelessness in drug mixture.",
+    "Prison sentence deemed unnecessary given lack of malicious intent.",
+    "Fine substituted for imprisonment to allow rehabilitation opportunity.",
+    "Sentence on third count quashed under section 16 of the Criminal Code.",
+    "Appellant granted one month to pay fine with bail option.",
+    "Court emphasized proportionality and individualized sentencing."
+  ],
+  "confidenceNotes": "High confidence; details are drawn directly from the judgment text with clear attribution of court, parties, and legal reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/REX v JOHN ONI AKERELE 2.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:26:50.028Z",
+    "plainTextLength": 3119
+  },
+  "trialDate": "1941-05-08"
+}

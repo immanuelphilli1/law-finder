@@ -1,0 +1,60 @@
+{
+  "caseTitle": "BIGAMY AND ISLAMIC MARRIAGES IN THE LAW OF GHANA THE LEGISLA",
+  "summary": "This legal analysis examines the intersection of bigamy laws and Islamic marriages in Ghana, focusing on whether a Muslim marriage contracted during a subsisting monogamous marriage constitutes bigamy under Ghanaian law. The article draws on the Privy Council decision in *Attorney-General of Ceylon v Reid*, where a man's conversion to Islam and subsequent polygamous marriage was held not to amount to bigamy due to the recognition of personal law changes in pluralistic societies. In contrast, Ghana's Criminal Code (Section 263) criminalizes any second marriage during the subsistence of a prior marriage, without distinguishing based on validity or religious personal law. The author highlights the lack of clarity in Ghanaian law regarding whether 'customary marriage' includes Islamic marriage, the absence of prosecutions, and the tension between indigenous polygamous norms and imported monogamous legal frameworks. The analysis concludes that Ghana's rigid bigamy law remains underdeveloped and socially dissonant, particularly in its failure to address the status of Muslim marriages explicitly.",
+  "legalKeywords": [
+    "bigamy",
+    "Islamic marriage",
+    "customary law",
+    "personal law",
+    "polygamy",
+    "monogamy",
+    "Criminal Code Section 263",
+    "religious conversion",
+    "marriage validity",
+    "Muslim Marriage and Divorce Act",
+    "native customary law",
+    "legal pluralism",
+    "statutory interpretation",
+    "offence of bigamy",
+    "Ghanaian family law"
+  ],
+  "topics": [
+    "Family Law",
+    "Criminal Law",
+    "Islamic Law",
+    "Customary Law",
+    "Legal Pluralism"
+  ],
+  "verdict": "No definitive judicial verdict discussed; the article analyzes legal ambiguity and scholarly interpretation.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana (discussed in academic context)",
+    "country": "Ghana"
+  },
+  "caseType": "Academic Legal Analysis",
+  "citations": [
+    "Attorney-General of Ceylon v Reid",
+    "Qureshi v Qureshi",
+    "Criminal Code, 1960 (Act 29), Section 263",
+    "Muslim Marriage and Divorce Act (Ceylon)"
+  ],
+  "rationaleHighlights": [
+    "Ghana's bigamy law does not distinguish between void and valid second marriages, unlike other African jurisdictions.",
+    "The term 'customary marriage' in Ghanaian law is ambiguous regarding inclusion of Islamic marriages.",
+    "Social and legal dissonance exists between indigenous polygamous practices and statutory monogamous requirements.",
+    "Absence of prosecutions and judicial interpretation has left bigamy law undeveloped.",
+    "Conversion to Islam and subsequent polygamous marriage may not logically constitute bigamy if personal law is recognized.",
+    "Legislative silence on Islamic marriages creates legal uncertainty.",
+    "Bigamy law in Ghana appears to be an 'alien implant' inconsistent with traditional norms.",
+    "Need for statutory reform to address religious and personal law diversity."
+  ],
+  "confidenceNotes": "The source is an academic legal article, not a court judgment; therefore, the analysis reflects scholarly interpretation rather than binding precedent. The discussion is based on comparative law and statutory interpretation, with high factual accuracy regarding legal provisions and case references.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/93 - 95/BIGAMY AND ISLAMIC MARRIAGES IN THE LAW OF GHANA THE LEGISLA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:12:07.908Z",
+    "plainTextLength": 41012
+  }
+}

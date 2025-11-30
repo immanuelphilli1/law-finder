@@ -1,0 +1,68 @@
+{
+  "caseTitle": "ELIZABETH ANIMA v AKW AI AHYEYE (SUBSTITUTED FOR KW AME DW AA, DECEASED)",
+  "summary": "This appeal to the Judicial Committee of the Privy Council concerned a civil dispute over title and possession of a house in Ashanti, Ghana. The respondent obtained a consent judgment in the Divisional Court of the Supreme Court in 1939, which the appellant later challenged on grounds of lack of jurisdiction, arguing that the matter should have been heard by a Native Court under the Native Courts (Ashanti) Ordinance. The Privy Council held that although the Supreme Court's jurisdiction is concurrent with Native Courts in certain matters, it is only ousted under section 35 of the Native Courts Ordinance if the issue is raised and considered before judgment. Since the jurisdictional issue was not submitted or apparent before the 1939 judgment, the Supreme Court's judgment remained valid. Additionally, the Court ruled that a consent judgment cannot be reviewed under Order 42 of the Courts Ordinance merely by judicial discretion, especially where the compromise terms were not fully known to the court. The appeal was dismissed.",
+  "legalKeywords": [
+    "jurisdiction",
+    "concurrent jurisdiction",
+    "ouster of jurisdiction",
+    "Native Courts",
+    "Supreme Court",
+    "consent judgment",
+    "review",
+    "Courts Ordinance",
+    "Native Courts Ordinance",
+    "civil procedure",
+    "land dispute",
+    "title to land",
+    "possession of land",
+    "jurisdictional challenge",
+    "fraud",
+    "execution of judgment"
+  ],
+  "topics": [
+    "Jurisdiction",
+    "Consent Judgment",
+    "Native Courts",
+    "Supreme Court",
+    "Civil Procedure"
+  ],
+  "verdict": "Appeal dismissed.",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Cor. Lord Radcliffe"
+    },
+    {
+      "name": "Lord Tucker"
+    },
+    {
+      "name": "Mr. L. M. D. de Silva",
+      "role": "delivering judgment"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Judicial Committee of the Privy Council (on appeal from West African Court of Appeal)",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WALR 1/ELIZABETH ANIMA v AKWAI AHYEYE (SUBSTITUTED FOR KWAME DWA A, DECEASED)",
+    "Courts Ordinance, c. 4, s. 18",
+    "Native Courts (Ashanti) Ordinance, c. 99, s. 35",
+    "Supreme Court (Civil Procedure) Rules, 1954, Order 39"
+  ],
+  "rationaleHighlights": [
+    "Jurisdiction of the Supreme Court is not ousted merely by the existence of circumstances allowing Native Court jurisdiction; it must have been considered or submitted before judgment.",
+    "A consent judgment cannot be reviewed under discretionary powers if the grounds for compromise were not known to the court.",
+    "Section 35 operates only when the jurisdictional facts become apparent to the court before judgment.",
+    "The principle prevents a party from remaining silent during proceedings and later challenging jurisdiction after an adverse judgment."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment and editorial notes.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/ELIZABETH ANIMA v  AKW AI AHYEYE (SUBSTITUTED FOR KW AME DW AA, DECEASED).htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:07:55.917Z",
+    "plainTextLength": 25767
+  }
+}

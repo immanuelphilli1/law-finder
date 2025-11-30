@@ -1,0 +1,70 @@
+{
+  "caseTitle": "REX v 1. MOMODU LAOYE",
+  "summary": "The appellants, Momodu Layoye and Oje Akanbi, were convicted in the High Court of Ibadan for the murder of an unknown woman found near Lunku. The prosecution's case relied on testimony from police and witnesses who described the body with multiple wounds, and a post-mortem by Dr. Dale, who confirmed fatal head injuries. However, no link was established between the body examined by the doctor and the one found at the scene. The West Africa Court of Appeal held that this failure to identify the body was fatal to the conviction, as it undermined the medical evidence necessary to prove death by violence. Other issues included inadequate police investigation, inconsistent testimony about mutilation, uncorroborated confessions, and improperly admitted evidence such as a cloth and club found later without reliable provenance. Additionally, the prosecution failed to affirmatively prove that the second appellant's wife, called as a witness, was not in a monogamous marriage, despite her being sworn on the Koran. The court emphasized that even if courtroom conduct suggested an admission, the prosecution must still meet its burden of proof. Consequently, the convictions were quashed.",
+  "legalKeywords": [
+    "murder",
+    "failure to identify body",
+    "medical evidence",
+    "post mortem",
+    "conviction quashed",
+    "evidence sufficiency",
+    "corpus delicti",
+    "confession",
+    "witness credibility",
+    "police investigation",
+    "mutilation",
+    "juju",
+    "onus of proof",
+    "admission in court",
+    "Koran oath"
+  ],
+  "topics": [
+    "criminal law",
+    "evidence",
+    "appeal",
+    "murder",
+    "forensic medicine"
+  ],
+  "verdict": "Convictions quashed due to insufficient and unreliable evidence, particularly the failure to identify the body linked to the medical examination.",
+  "winningSide": "Appellants",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Momodu Layoye, WACA/6, 17 January 1940"
+  ],
+  "rationaleHighlights": [
+    "Failure to identify the body examined by the doctor as the one found by witnesses is fatal to conviction.",
+    "Medical evidence is essential to prove death by violence in murder cases.",
+    "Inconsistencies in witness testimony regarding mutilation raise doubts about evidence reliability.",
+    "Confession by accused regarding removal of private parts for juju not corroborated by medical findings.",
+    "Trial judge improperly relied on courtroom behavior as admission without sufficient evidentiary foundation.",
+    "Subsequent discovery of cloth and club lacked proper chain of custody or witness verification.",
+    "Presumption of polygamous marriage based on Koran oath insufficient; must be proven affirmatively."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment text.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/REX v 1.   MOMODU LAOYE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:58:01.006Z",
+    "plainTextLength": 7600
+  },
+  "trialDate": "1940-01-17"
+}

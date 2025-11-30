@@ -1,0 +1,72 @@
+{
+  "caseTitle": "BOOK REVIEW THE ART OF CROSS-EXAMINATION [1989-90] VOL. XVII",
+  "summary": "This document is a book review of two legal publications by Nat Heward-Mills: 'The Art of Cross-Examination' (1988) and its companion, 'A Handbook of Cross-Examination' (1991). The review, authored by Bimpong-Buta S.Y., highlights the content, structure, and practical value of both works in enhancing advocacy skills, particularly in cross-examination. The books emphasize thorough preparation, strategic questioning, and mastery of evidence law, especially Ghana's Evidence Decree, 1972 (NRCD 323). The author draws from personal courtroom experience, illustrating techniques with real case examples. Both books were formally launched at notable legal institutions in Ghana and received commendations from Supreme Court justices. While the first book lacks a subject index, this is remedied in the second. The review praises the clarity, practicality, and instructional value of the works for both novice and experienced lawyers in common law jurisdictions.",
+  "legalKeywords": [
+    "cross-examination",
+    "evidence law",
+    "advocacy skills",
+    "witness credibility",
+    "trial strategy",
+    "Evidence Decree NRCD 323",
+    "legal publication",
+    "Ghana School of Law",
+    "Supreme Court Ghana",
+    "legal practitioner",
+    "handwriting expert",
+    "biased witness",
+    "courtroom procedure",
+    "legal education",
+    "common law jurisdiction"
+  ],
+  "topics": [
+    "Legal Education",
+    "Trial Advocacy",
+    "Evidence Law",
+    "Judicial Commentary",
+    "Legal Publishing"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "E. N. P. Sowah",
+      "role": "Chief Justice of Ghana (at time of launch)"
+    },
+    {
+      "name": "Francois",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "E. O. Ayoola",
+      "role": "Chief Justice of The Gambia (at time of foreword)"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Book Review / Legal Commentary",
+  "citations": [
+    "The Art of Cross-Examination (1988)",
+    "A Handbook of Cross-Examination (1991)",
+    "Evidence Decree, 1972 (NRCD 323)"
+  ],
+  "rationaleHighlights": [
+    "Cross-examination must be built around themes, not scripted questions",
+    "Preparation is essential to avoid suppression of truth",
+    "Start with innocuous questions, save 'bomb-shells' for impact",
+    "Handwriting experts' conclusions can be challenged as unscientific",
+    "Mastery of Evidence Decree NRCD 323 is critical",
+    "Confidence and alertness are key traits for cross-examiners",
+    "Order of evidence-in-chief need not dictate cross-examination flow"
+  ],
+  "confidenceNotes": "High confidence; information is derived directly from a published book review with specific references to content, structure, author credentials, judicial endorsements, and legal context. No actual court decision is reported, so case outcome fields are marked as not applicable.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/89 - 90/BOOK REVIEW THE ART OF CROSS-EXAMINATION [1989-90] VOL. XVII.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:57:47.139Z",
+    "plainTextLength": 8163
+  },
+  "trialDate": "1988-04-08"
+}

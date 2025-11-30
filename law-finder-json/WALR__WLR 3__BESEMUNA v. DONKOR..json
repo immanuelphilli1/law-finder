@@ -1,0 +1,59 @@
+{
+  "caseTitle": "BESEMUNA VERSUS DONKOR.",
+  "summary": "This case involved a dispute between the Ohene (paramount chief) of Krachi and the Mankralo, who accused the Ohene of violating the Great Oath of the state. The Mankralo condemned the Ohene in his absence, slaughtered two sheep, and sent him the thighs as a symbol of guilt, but did not follow customary procedure by sending chiefs or linguists to summon him to a tribunal. The Ohene sued in the Buem-Krachi Native Court for violation of custom, won, and the Mankralo appealed up to the High Court. The High Court held that although the parties held constitutional roles, the dispute was a personal wrong under native law and not a constitutional matter under s. 14A of the Native Courts (Southern Togoland) Ordinance. It affirmed the Native Court's jurisdiction and upheld its factual findings, emphasizing that Native Courts are custodians of custom and their decisions should not be overturned unless unsupported by evidence or contrary to natural justice, equity, or good conscience.",
+  "legalKeywords": [
+    "native law and custom",
+    "violation of custom",
+    "constitutional matter",
+    "jurisdiction",
+    "Native Court",
+    "Great Oath",
+    "Mankralo",
+    "Ohene",
+    "fact-finding",
+    "appellate review",
+    "natural justice",
+    "equity",
+    "good conscience",
+    "oath prisoner",
+    "customary procedure"
+  ],
+  "topics": [
+    "Customary Law",
+    "Jurisdiction",
+    "Appellate Review",
+    "Chiefly Disputes",
+    "Native Courts"
+  ],
+  "verdict": "Appeal dismissed; decision of the Native Court upheld.",
+  "winningSide": "Ohene (plaintiff)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "presiding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Native Courts (Southern Togoland) Ordinance, s. 14A"
+  ],
+  "rationaleHighlights": [
+    "Dispute between chiefs is not inherently constitutional if rooted in personal wrong under native custom",
+    "Native Courts are custodians of custom and their factual findings are respected on appeal",
+    "Proper procedure requires chiefs of equal rank to summon an Ohene",
+    "Sending messengers to announce guilt without trial violates custom",
+    "Appellate court will not overturn Native Court unless custom offends natural justice or evidence does not support findings"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and clear procedural history.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/BESEMUNA v. DONKOR..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:09:48.237Z",
+    "plainTextLength": 8539
+  }
+}

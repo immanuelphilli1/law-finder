@@ -1,0 +1,58 @@
+{
+  "caseTitle": "KOJO VERSUS ANANE AND ANOTHER.",
+  "summary": "In this 1956 Supreme Court of the Gold Coast case, the plaintiff claimed ownership of a farm inherited from Kwame Nuro, managed by a caretaker who paid proceeds through successive stool occupants. The second defendant, the current Nseniahene, claimed the farm was gifted to the Nsenia Stool by Kwame Nuro during the prior occupant's tenure. The Asantehene's Court had reversed the Native Court's ruling in favor of the defendants, citing lack of an inventory and insufficient evidence. The Supreme Court held that no customary obligation exists to produce a written inventory of stool property upon enstoolment, and thus its absence cannot invalidate a claim. It emphasized that for a gift of immovable property to a stool to be valid under native custom, publicity must be established, typically through testimony from stool elders. The court criticized the lower court for taking judicial notice of witness status without proper record, but affirmed that the Native Court’s factual findings—based on credible evidence of a valid customary gift—should not be disturbed on appeal. The appeal was allowed, restoring the original judgment in favor of the defendants.",
+  "legalKeywords": [
+    "native law and custom",
+    "gift of immovable property",
+    "stool property",
+    "succession",
+    "publicity requirement",
+    "evidence of gift",
+    "judicial notice",
+    "witness capacity",
+    "enstoolment",
+    "customary law"
+  ],
+  "topics": [
+    "Customary Land Law",
+    "Stool Property",
+    "Succession Disputes",
+    "Appellate Review",
+    "Evidence Law"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Benson J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Nthah v. Bennieh (1930) 2 W.A.C.A. (P.C.) 1",
+    "Kisiedu v. Dompreh (1937) 2 W.A.C.A. (P.C.) 281",
+    "Sarbah, Fanti Customary Laws, 1st ed., pp. 69 and 70"
+  ],
+  "rationaleHighlights": [
+    "No customary requirement for a written inventory of stool property upon enstoolment; absence cannot justify overturning a factual finding.",
+    "A valid gift of immovable property under native custom requires publicity, demonstrated through acts like thanks-offering, corporeal acceptance, or use.",
+    "Testimony from stool elders is essential to prove publicity of a gift to a stool.",
+    "Native courts must formally establish and record witness status rather than rely on judicial notice.",
+    "Appellate courts should not overturn factual findings of trial courts unless clearly erroneous, especially in matters of native custom.",
+    "The Native Court’s credibility assessment of witnesses was entitled to deference.",
+    "The Asantehene's Court erred in reversing a decision based on proper evaluation of customary evidence."
+  ],
+  "confidenceNotes": "High confidence; all information is directly derived from the judgment text, including holdings, reasoning, and procedural history. Case is clearly identified with parties, court, date, and legal principles.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/KOJO v. ANANE AND ANOTHER..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:06:06.145Z",
+    "plainTextLength": 9732
+  }
+}

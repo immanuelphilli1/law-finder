@@ -1,0 +1,68 @@
+{
+  "caseTitle": "MISCELLANY-AT-LAW LEGAL ASPECT OF BLOOD TEST EVIDENCE [1987-",
+  "summary": "This 1987–1988 legal analysis by Osew E. O. examines the tension in Ghanaian law between the legal presumption of paternity under customary law and the use of scientific blood test evidence in paternity disputes. The article highlights jurisdictional limitations in lower courts, as seen in R v Accra New Town District Court; Ex parte Papafio, and discusses Section 32 of the Evidence Decree, 1975 (NRCD 323), which presumes a child born during marriage is that of the husband, while Section 97 allows bodily examinations and sample collection when necessary for justice. The author reviews cases like Nyarko v Mansu [1967] GLR 523, where courts upheld presumption despite consent for testing, and compares Ghana’s position with the UK’s Family Law Reform Act 1969, which permits court-ordered blood tests. The piece concludes that Ghana needs comprehensive legislation to resolve the conflict between tradition and science in paternity determinations.",
+  "legalKeywords": [
+    "paternity",
+    "blood test evidence",
+    "legal presumption",
+    "customary law",
+    "Evidence Decree 1975",
+    "jurisdiction",
+    "best interests of the child",
+    "self-incrimination",
+    "corpus evidence",
+    "family law reform",
+    "child custody",
+    "maintenance",
+    "rebuttable presumption",
+    "scientific evidence",
+    "superior courts"
+  ],
+  "topics": [
+    "Family Law",
+    "Evidence Law",
+    "Legal Presumption",
+    "Paternity Disputes",
+    "Judicial Reform"
+  ],
+  "verdict": "No final verdict; the document is a legal commentary analyzing unresolved judicial debate.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Archer J",
+      "role": "High Court Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Ghanaian Courts",
+    "country": "Ghana"
+  },
+  "caseType": "Legal Commentary / Jurisprudential Analysis",
+  "citations": [
+    "Nyarko v Mansu [1967] GLR 523",
+    "R v Accra New Town District Court; Ex parte Papafio (1969) digested in (1970) CC 29",
+    "Daaboa Dagarti v Donipea [1982-83] GLRD 63",
+    "S v S; W v Official Solicitor [1970] 3 All ER 107",
+    "W v W [1970] 1 All ER 1157",
+    "Evidence Decree, 1975 (NRCD 323)",
+    "British Family Law Reform Act, 1969"
+  ],
+  "rationaleHighlights": [
+    "Section 32 of NRCD 323 creates a rebuttable presumption of paternity during marriage.",
+    "Section 97 allows courts to order bodily examinations and fluid samples if necessary for justice.",
+    "Courts have hesitated to order blood tests due to jurisdictional and customary law constraints.",
+    "Scientific evidence is seen as crucial for factual accuracy in paternity cases.",
+    "The best interests of the child are central but must be balanced with other interests.",
+    "There is a need for legislative reform to harmonize science and tradition in paternity disputes.",
+    "Superior courts are urged to develop jurisprudence pending legislation.",
+    "International models like the UK’s Family Law Reform Act offer guidance."
+  ],
+  "confidenceNotes": "High confidence in factual content derived from cited cases and statutory provisions. The analysis reflects scholarly opinion rather than binding judicial decision. Some case references are unreported but cited via digests.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/87 - 88/MISCELLANY-AT-LAW LEGAL ASPECT OF BLOOD TEST EVIDENCE [1987-.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:00:56.990Z",
+    "plainTextLength": 25241
+  }
+}

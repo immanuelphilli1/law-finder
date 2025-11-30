@@ -1,0 +1,76 @@
+{
+  "caseTitle": "MARY YARBOLEY OKAI & others v NICHOLAS TIMOTHY CLERK,",
+  "summary": "This Supreme Court of Ghana case (Civil Appeal No. J4/5/2007, decided on 23rd March 2007) involved a dispute over a leasehold property originally owned by Mark George Okai, who died intestate in 1939. His daughters leased the property to Nicholas Timothy Clerk (N.T. Clerk) for 60 years from 1945 at £60 per year. Clerk paid some rent until April 1964 but failed to comply with a West African Court of Appeal (WACA) order requiring him to demolish the structure and rebuild at his own expense. In 1983, the surviving children of Mark Okai sued for rent arrears, mesne profits, and forfeiture of the lease due to breach of covenant and non-compliance with the WACA order. The defence claimed Clerk had acquired the property through a public auction and subsequent resale, registered in 1953, thus nullifying the lease. However, this defence was rejected as it was not raised in the original defendant's pleadings and lacked supporting evidence. The Supreme Court upheld the lower courts' rulings, affirming forfeiture of the lease and liability for arrears, emphasizing the inconsistency and late emergence of the auction defence and the absence of proof of compliance with the WACA order.",
+  "legalKeywords": [
+    "lease agreement",
+    "forfeiture of lease",
+    "letters of administration",
+    "breach of covenant",
+    "rent arrears",
+    "mesne profits",
+    "intestate succession",
+    "WACA judgment",
+    "building permit",
+    "auction sale",
+    "registered conveyance",
+    "defence rejection",
+    "non-compliance",
+    "successor in title",
+    "pleading consistency"
+  ],
+  "topics": [
+    "Property Law",
+    "Leasehold",
+    "Succession",
+    "Civil Procedure",
+    "Appellate Review"
+  ],
+  "verdict": "The appeal was dismissed. The Supreme Court upheld the judgment of the Court of Appeal, which had affirmed the High Court's decision in favour of the plaintiffs. The lease was forfeited due to breach of covenant and non-compliance with a court order, and the appellants were held liable for rent arrears and mesne profits.",
+  "winningSide": "Plaintiffs/Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Miss Akuffo",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Delivered Judgment"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Mrs. Adinyira",
+      "role": "Justice"
+    },
+    {
+      "name": "Asiamah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "J4/5/2007"
+  ],
+  "rationaleHighlights": [
+    "The appellants' defence was rejected as an afterthought not raised in the original defendant's pleadings.",
+    "No evidence was presented to support compliance with the WACA order to demolish and rebuild.",
+    "The claim of property acquisition via auction was inconsistent with prior conduct and not raised by the original defendant.",
+    "Failure to produce medical evidence undermined the claim that the defendant was too sick to instruct counsel.",
+    "The trial and appellate courts correctly found non-payment of rent and non-compliance with court orders established forfeiture."
+  ],
+  "confidenceNotes": "The case details are drawn directly from the provided judgment text. Some portions of the document were truncated, but key facts, parties, and reasoning were fully preserved for accurate extraction.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2007A/MARY YARBOLEY OKAI & others v  NICHOLAS TIMOTHY CLERK,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:19:35.335Z",
+    "plainTextLength": 26335
+  },
+  "trialDate": "2007-03-23"
+}

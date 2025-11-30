@@ -1,0 +1,74 @@
+{
+  "caseTitle": "REX V A. T. AMPONSAH,",
+  "summary": "The appellants, including a prison superintendent and police constables, were convicted of murdering Kwabena Donkor Moshie, who died from severe beatings and scalding with hot water while in custody. The body was secretly buried. Although the trial court convicted all five of murder, the West African Court of Appeal found a misdirection in law: assessors were not properly instructed on the distinction between murder and manslaughter or on the rebuttable presumption of intent under section 13(3) of the Criminal Code. The appellate court substituted the murder verdicts with convictions for manslaughter and imposed reduced sentences ranging from 4 to 15 years’ imprisonment with hard labour.",
+  "legalKeywords": [
+    "murder",
+    "manslaughter",
+    "misdirection",
+    "assessors",
+    "intent",
+    "Criminal Code",
+    "section 13(3)",
+    "section 15(2)",
+    "West African Court of Appeal Ordinance",
+    "subordinate liability",
+    "brutal assault",
+    "presumption of intent",
+    "hard labour",
+    "post-mortem",
+    "evidence"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Police and Prisoner Abuse",
+    "Legal Presumptions",
+    "Judicial Misdirection"
+  ],
+  "verdict": "Guilty of manslaughter (verdict substituted on appeal)",
+  "winningSide": "Appellants (partial success on appeal)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Cor. Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Yates",
+      "role": "Justice"
+    },
+    {
+      "name": "Strother-Stewart",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "West African Court of Appeal Ordinance, s 11(2)",
+    "Criminal Code, s 13(3)",
+    "Criminal Code, s 15(2)",
+    "Criminal Code, s 232"
+  ],
+  "rationaleHighlights": [
+    "The trial judge failed to clearly direct assessors on the distinction between murder and manslaughter.",
+    "Section 13(3) of the Criminal Code creates a rebuttable presumption of intent if the act posed a great risk of death.",
+    "The assessors may have misunderstood that they could only return a manslaughter verdict if intent to kill was disproven.",
+    "The assaults were manifestly illegal, so subordinate status was no defence.",
+    "The natural and probable consequences of the brutal assault support imputed intent.",
+    "The appellate court exercised its power under s 11(2) to substitute a manslaughter verdict.",
+    "Sentences were revised in light of the substituted verdict.",
+    "Post-mortem could not determine exact cause of death due to decomposition, but injuries were consistent with fatal assault."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed appellate judgment. Case predates modern citation standards but references specific statutory provisions and judicial reasoning. Jurisdiction correctly identified as West African Court of Appeal for the Gold Coast (now Ghana).",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX V  A. T. AMPONSAH,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:57:09.930Z",
+    "plainTextLength": 10612
+  },
+  "trialDate": "1938-08-13"
+}

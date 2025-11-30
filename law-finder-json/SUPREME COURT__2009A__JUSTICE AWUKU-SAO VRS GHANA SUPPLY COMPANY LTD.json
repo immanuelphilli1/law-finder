@@ -1,0 +1,88 @@
+{
+  "caseTitle": "JUSTICE AWUKU-SAO VRS GHANA SUPPLY COMPANY LTD",
+  "summary": "The Supreme Court of Ghana dismissed the appeal filed by Justice Awuku-Sao, former Managing Director of Ghana Supply Company Ltd, who challenged his summary dismissal following a forensic audit conducted during his leave. The plaintiff argued that his dismissal violated both the disciplinary procedures outlined in the company's Conditions of Service for Senior Staff (Exhibit 'F') and the principles of natural justice, particularly audi alteram partem. The courts below held that as Chief Executive, he was not covered by Exhibit 'F' due to structural incompatibility, and that submitting comments on the draft audit report constituted a hearing. The Supreme Court affirmed these findings, ruling that the special terms of his appointment letter (Exhibit 'A') prevailed and that administrative fairness under Article 23 of the 1992 Constitution was satisfied. It also upheld the lower courts' determination that the defendant was not liable for defamation, as the publications were deemed privileged and in the public interest.",
+  "legalKeywords": [
+    "natural justice",
+    "audi alteram partem",
+    "summary dismissal",
+    "forensic audit",
+    "Conditions of Service",
+    "administrative fairness",
+    "Article 23 Constitution",
+    "defamation",
+    "public interest privilege",
+    "disciplinary procedure",
+    "judicial review",
+    "employment contract",
+    "constitutional rights",
+    "procedural fairness",
+    "right to hearing",
+    "Board of Directors authority",
+    "senior staff regulations",
+    "managing director immunity",
+    "internal investigation",
+    "employment law"
+  ],
+  "topics": [
+    "Employment Law",
+    "Administrative Justice",
+    "Constitutional Law",
+    "Defamation",
+    "Judicial Review",
+    "Procedural Fairness",
+    "Corporate Governance",
+    "Public Sector Accountability"
+  ],
+  "verdict": "Dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adinyira (Mrs)",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Dotse",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "J4/15/2008",
+    "Aboagye v. Ghana Commercial Bank Ltd. [2001-2002] SCGLR 797"
+  ],
+  "rationaleHighlights": [
+    "The appointment letter (Exhibit 'A') took precedence over general staff conditions (Exhibit 'F') for the Managing Director.",
+    "As Chief Executive, the appellant could not be subject to internal disciplinary committees under Article 46 of Exhibit 'F', avoiding conflict of interest.",
+    "Submitting written comments on a draft audit report was deemed sufficient compliance with audi alteram partem.",
+    "Article 23 of the 1992 Constitution requires administrative fairness, but does not mandate formal hearing in all cases.",
+    "Public interest justified media publication of audit findings, negating defamation claims.",
+    "No evidence of malice in dissemination of audit report; thus, qualified privilege applied.",
+    "The Board retained unilateral power to dismiss for misconduct per the employment contract.",
+    "Absence of formal disciplinary procedure in the contract did not invalidate summary dismissal if misconduct was established."
+  ],
+  "confidenceNotes": "High confidence; all data extracted directly from court judgment text with clear citation of exhibits, constitutional provisions, and prior case law. Truncation near end does not affect core holdings.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/JUSTICE AWUKU-SAO VRS GHANA SUPPLY COMPANY LTD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:08:29.504Z",
+    "plainTextLength": 31803
+  },
+  "trialDate": "2005-02-04"
+}

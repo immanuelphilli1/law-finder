@@ -1,0 +1,78 @@
+{
+  "caseTitle": "FOREST PRODUCTS LTD & ORS v. GENERAL DEVELOPMENT CO.",
+  "summary": "The Court of Appeal in Ghana upheld an interim preservation order issued by the High Court for equipment and vehicles subject to four consolidated suits between Rad Forest Products Ltd. and General Development Co. Ltd. The High Court had appointed its Deputy Registrar as Receiver/Manager under Order 50, Rules 5 and 7 of the Civil Procedure Rules, 1954 (L.N. 140A), allowing hire use with fees paid into court. The appellants sought a stay of execution, arguing legal error in the appointment of a receiver. The Court of Appeal held that the preservation order was justified given the plaintiffs' prima facie ownership claim, the risk of asset depreciation, and the balance of convenience. It found the receiver's appointment incidental to preservation and not an overreach, noting that the defendants would not suffer irreparable harm as hire payments were safeguarded. The application for stay was therefore rejected.",
+  "legalKeywords": [
+    "interim preservation",
+    "receiver and manager",
+    "Order 50 Rule 5",
+    "Order 50 Rule 7",
+    "detention of property",
+    "prima facie title",
+    "balance of convenience",
+    "hardship",
+    "depreciation of assets",
+    "civil procedure",
+    "stay of execution",
+    "ownership dispute",
+    "hiring charges",
+    "judicial discretion",
+    "property management"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Property Law",
+    "Interim Injunctions",
+    "Receivership",
+    "Asset Preservation"
+  ],
+  "verdict": "Application for stay of execution rejected; interim preservation and appointment of Receiver/Manager upheld.",
+  "winningSide": "Plaintiffs/Respondents (Rad Forest Products Ltd. & Ors)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "A. A. Benin",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Anin-Ansah",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Amonoo-Monney",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Civil Division, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "GARRARD v. EDGE & Sons, (1889) 58 L.J.Ch. 397: 37 W.R. 501",
+    "WILDER v. WILDER (1912) 56 S.J. 571",
+    "SCOTT v. MERCANTILE ACCIDENT INSURANCE CO. (1892) 8 T.L.R. 320",
+    "LENEY & SONS, LTD. v. CALLINGHAM & THOMPSON, (1908) 1 K.B. 79",
+    "CHAPLIN v. BARNETT (1912) 28 T.L.R. 256",
+    "STRELLEY v. PEARSON (1880) 15 Ch. D. 113",
+    "NEW ORLEANS S.S. CO. v. LONDON etc INSURANCE CO. (1909) 1 K.B. 943",
+    "VELATI & CO. V. BRAHAM & CO. (1887) 46 L.J.C.P.415",
+    "RIDPATH & RIDPATH v. ZACHNER (1893) 9 T.L.R. 538"
+  ],
+  "rationaleHighlights": [
+    "Preservation order justified where property is subject of suit and party shows prima facie interest",
+    "Appointment of receiver must serve preservation, not general management",
+    "Balance of convenience favored preservation due to risk of asset depreciation",
+    "Ownership dispute raised serious questions warranting interim measures",
+    "Hardship to plaintiffs outweighed hardship to defendants",
+    "Receiver's appointment deemed consequential to preservation order",
+    "Hire fees to be paid into court protects both parties' interests",
+    "Stay of execution denied to safeguard plaintiffs' potential rights"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and citation of established precedents.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/RAD FOREST PRODUCTS LTD & ORS v. GENERAL DEVELOPMENT CO. LTD..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:08:14.944Z",
+    "plainTextLength": 11490
+  }
+}

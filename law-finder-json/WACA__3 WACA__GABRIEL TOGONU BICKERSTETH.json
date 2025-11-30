@@ -1,0 +1,63 @@
+{
+  "caseTitle": "GABRIEL TOGONU BICKERSTETH",
+  "summary": "This appeal before the West Africa Court of Appeal concerned the interpretation of a Privy Council costs order following the dismissal of an appeal brought by an executor. The surviving executor, P.H. Williams, had entered into a personal bond for £500 to cover potential costs. After the Privy Council dismissed the appeal and ordered costs, Williams sought a declaration that he was not personally liable and that costs should be paid from the deceased's estate. The lower court agreed, but this decision was reversed on appeal. The WACA held that unless the Privy Council expressly orders costs to be paid from an estate, such liability remains personal, especially where a bond was given. The court emphasized that it could not vary or imply terms into the Privy Council’s order. The appeal succeeded, the lower court’s order was set aside, and Williams remained personally liable for costs, though he retained the right to apply for instalment payments.",
+  "legalKeywords": [
+    "costs",
+    "executor liability",
+    "Privy Council",
+    "personal liability",
+    "estate assets",
+    "bond",
+    "interlocutory decision",
+    "appeal dismissal",
+    "costs order interpretation",
+    "judgment enforcement"
+  ],
+  "topics": [
+    "Costs in Civil Proceedings",
+    "Executor Liability",
+    "Privy Council Appeals",
+    "Interpretation of Court Orders",
+    "Estate Administration"
+  ],
+  "verdict": "Appeal allowed; order of lower court set aside.",
+  "winningSide": "Plaintiff-Appellant (Evan Adeleye Shanu)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "WEBBER",
+      "role": "Chief Justice, Sierra Leone"
+    },
+    {
+      "name": "KINGDON",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "PETRIDES",
+      "role": "Chief Justice, Gold Coast"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "WACA/3 WACA/GABRIEL TOGONU BICKERSTETH",
+    "Nigerian Law Reports, Vol. 3, page 76, Tom Jones, deceased, re Shaw v. Jones and Taylor v. Fasanya"
+  ],
+  "rationaleHighlights": [
+    "Costs are personal unless the order explicitly states they are to be paid from the estate.",
+    "The Privy Council's costs order must be construed strictly; courts cannot add terms like 'payable out of the estate.'",
+    "Universal practice requires express wording for estate liability for costs.",
+    "Executor who enters into a bond is personally liable for costs if appeal fails."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear procedural history and legal reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/GABRIEL TOGONU BICKERSTETH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:23:44.751Z",
+    "plainTextLength": 5206
+  },
+  "trialDate": "1936-04-22"
+}

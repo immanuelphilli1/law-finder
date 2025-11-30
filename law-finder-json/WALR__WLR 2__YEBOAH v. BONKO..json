@@ -1,0 +1,66 @@
+{
+  "caseTitle": "YEBOAH VERSUS BONKO.",
+  "summary": "In Yeboah v. Bonko, the plaintiff sought a declaration that she was the rightful successor to the estate of Adjua Penfua and an order annulling the appointment of Kwabina Sarfu by the Yoko family. The central issues were whether the plaintiff and the deceased were maternal cousins and whether the deceased, whose mother may have been a former slave, was a member of the Yoko family under native law. The Native Court found the plaintiff's claim of kinship unproven and upheld the family's appointment. On appeal, it was argued that the defendant's representation by a linguist who also gave evidence rendered the proceedings void. The Supreme Court of the Gold Coast held that the linguist was properly authorized under s.22 of the Native Courts (Colony) Ordinance, and while his testimony was inadmissible, it did not invalidate the proceedings given corroborative evidence. The court affirmed that the deceased’s mother, though possibly formerly enslaved, had become a recognized family member, entitling the family to appoint a successor per custom. The appeal was dismissed, affirming the validity of the customary succession process.",
+  "legalKeywords": [
+    "native law and custom",
+    "succession",
+    "slavery",
+    "representation in native courts",
+    "linguist",
+    "inadmissible evidence",
+    "family membership",
+    "Slave-Dealing Abolition Ordinance",
+    "judicial discretion",
+    "maternal cousin",
+    "devolution of property",
+    "customary appointment",
+    "evidence admissibility",
+    "procedural irregularity",
+    "free person under ordinance"
+  ],
+  "topics": [
+    "Succession",
+    "Native Customary Law",
+    "Slavery and Emancipation",
+    "Legal Representation",
+    "Evidence Law"
+  ],
+  "verdict": "Appeal dismissed; decision of the Native Court upheld.",
+  "winningSide": "Defendant (Yoko family)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Central Judicial Division, Divi�sional Court, Cape Coast",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Afoley Ambah v. Blabi Libra (1927) Full Court 1926-29, 241",
+    "Kissiedu v. Ankrah (1956) WA.C.A., February 25, 1956, unreported",
+    "Adabla v. Gbevlo Agama and Others (1940) 6 W.A.C.A. 165",
+    "Emmanuel Osei v. Asiedu-Ofei (1944) 10 W.A.C.A. 87",
+    "Nyarko v. Abllnyawah (1956) 1 WA.L.R. 137"
+  ],
+  "rationaleHighlights": [
+    "The trial Native Court properly exercised discretion under s.22 of the Native Courts (Colony) Ordinance to allow a linguist with written authority to represent the family.",
+    "Even if the mother of the deceased was originally a slave, she became a free person and was accepted into the family, making the deceased a member entitled to customary succession.",
+    "Admission of inadmissible evidence by a representative does not nullify proceedings; such evidence is to be disregarded, not voiding the entire process.",
+    "The plaintiff failed to prove kinship as first cousins, a key factual issue determinative of her claim.",
+    "Customary procedures for appointing a successor were followed and thus cannot be disturbed by the court.",
+    "The representative giving evidence in personal capacity does not vitiate the trial if corroborative evidence exists.",
+    "The appeal was dismissed because the lower courts' findings were supported by sufficient evidence and in line with native custom and law.",
+    "The action was against the defendant in his official capacity as family head, justifying family representation."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and clear statutory references. Some case citations are unreported but referenced authoritatively.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/YEBOAH v. BONKO..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:21:13.013Z",
+    "plainTextLength": 15513
+  }
+}

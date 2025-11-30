@@ -1,0 +1,63 @@
+{
+  "caseTitle": "NORTEY VERSUS DUNCAN.",
+  "summary": "This consolidated land dispute before the High Court, Eastern Judicial Division, involved rival claims to Osu Stool land based on deeds of gift executed by individuals claiming authority as mankralo. The plaintiffs relied on deeds from Narh Yeboah, who styled himself as acting mankralo in 1949. The defendant's deed was executed in 1951 by Nii Nortey Afriyea II, recognized as the substantive mankralo following a 1948 Ga State Council decision that resolved a dual appointment dispute. The court held that Narh Yeboah's authority ceased after the valid enstoolment of Afriyea II in 1948, rendering the plaintiffs' deeds void. The court affirmed that while sub-stools (like the Mankralo Stool) manage and may grant determinable estates in stool land without superior stool concurrence, only a validly installed occupant can execute such grants. Superior stool consent cannot cure a defect in the grantor's authority. Even if the Osu Stool had consented to the plaintiffs' grants, such concurrence would be ineffective where the grantor lacked authority. The defendant's deed, executed by the duly recognized mankralo, was upheld as valid. The court dismissed the plaintiffs' claims, emphasizing the principle that only the rightful occupant of a stool can convey interests in stool land.",
+  "legalKeywords": [
+    "stool land",
+    "native law and custom",
+    "conveyancing",
+    "acting mankralo",
+    "sub-stool authority",
+    "superior stool concurrence",
+    "determinable estate",
+    "absolute estate",
+    "void grant",
+    "res judicata",
+    "onus of proof",
+    "land registration",
+    "customary land tenure",
+    "alienation of stool land",
+    "Ga State Council"
+  ],
+  "topics": [
+    "land law",
+    "customary law",
+    "stool land administration",
+    "conveyancing",
+    "judicial precedent"
+  ],
+  "verdict": "Judgment for the defendant; plaintiffs' claims dismissed.",
+  "winningSide": "defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "presiding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "Agbloe and Others v. Sappor and Another (1947) 12 W.A.C.A. 187",
+    "Afriyea v. Omaboo and Captan (1955) High Court, Eastern Judicial Division, January 3, 1955, unreported"
+  ],
+  "rationaleHighlights": [
+    "A grant made by an acting mankralo after a substantive mankralo has been validly installed is void.",
+    "Control of stool land vested in sub-stool; sub-stool may grant determinable estates without superior stool's consent.",
+    "Superior stool's concurrence cannot validate a grant made by an unauthorized person.",
+    "Absolute alienation requires superior stool's concurrence, but the grant must still originate from the authorized sub-stool head.",
+    "Principle of res judicata affirmed by prior State Council decision upheld by the court.",
+    "Onus of proof lies on claimant to establish authority of grantor where title is disputed.",
+    "Consent of superior stool is ineffective if the executing party lacked customary authority.",
+    "Documents executed by non-occupants of stool are null and void under native law."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and citation of precedent.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/NORTEY v. DUNCAN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:58:40.811Z",
+    "plainTextLength": 12617
+  }
+}

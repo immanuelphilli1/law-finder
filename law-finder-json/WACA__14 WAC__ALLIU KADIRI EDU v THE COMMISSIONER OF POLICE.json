@@ -1,0 +1,86 @@
+{
+  "caseTitle": "ALLIU KADIRI EDU v THE COMMISSIONER OF POLICE",
+  "summary": "In this 1952 West African Court of Appeal case, Alliu Kadiri Edu, a Post Office employee in Lagos, was acquitted of stealing a suspected postal packet but later charged under section 173(2) of the Criminal Code with negligently losing the same packet. He pleaded not guilty and during trial, his counsel submitted that a second trial was barred by autrefois acquit. The Magistrate overruled the submission, convicted him, and the Supreme Court dismissed his appeal. On further appeal, the Court held that the facts required to prove stealing are distinct from those needed to prove negligence under section 173(2), and thus the two charges could not have been joined or tried alternatively under section 161 of the Criminal Procedure Ordinance. The Court also ruled that section 181 should be interpreted by omitting the non-existent 'sub-section (1)' reference, but this did not benefit the appellant as the offences were not the same. Additionally, the Court found that the appellant’s act of giving his cupboard keys to assistants, despite departmental instructions, constituted negligence. The appeal was dismissed.",
+  "legalKeywords": [
+    "autrefois acquit",
+    "double jeopardy",
+    "negligence",
+    "Criminal Procedure Ordinance",
+    "section 161",
+    "section 181",
+    "section 173(2)",
+    "Criminal Code",
+    "plea in bar",
+    "departmental regulation",
+    "post office employee",
+    "loss of property",
+    "statutory interpretation",
+    "ut res magis valeat quam pereat",
+    "appellate review",
+    "evidence of negligence",
+    "Magistrate's Court",
+    "Supreme Court",
+    "West African Court of Appeal",
+    "acquittal",
+    "criminal liability",
+    "judicial obiter",
+    "charge alternative",
+    "trial bar",
+    "key custody",
+    "risk of loss",
+    "standard of care",
+    "regulatory compliance",
+    "appellate grounds",
+    "factual identity"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Procedural Law",
+    "Appellate Procedure",
+    "Public Employment Liability",
+    "Statutory Interpretation"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Bairamian, J.",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "De Comarmond, AG. C.J. (Nigeria)",
+      "role": "Presiding"
+    },
+    {
+      "name": "Johnston, J.",
+      "role": "Panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Nigeria"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Flatman v. Light, K.B.D., 1946",
+    "R. v. Thomas, 33 Cr. App. Rep. 200",
+    "Maxwell on the Interpretation of Statutes (1937)"
+  ],
+  "rationaleHighlights": [
+    "Facts for stealing and negligence under section 173(2) are legally distinct",
+    "Section 181 must be read by omitting 'sub-section (1)' due to drafting error",
+    "Two charges could not have been joined or tried alternatively under section 161",
+    "Giving keys to assistants despite instructions constituted negligence",
+    "Plea of autrefois acquit must be raised by accused before pleading not guilty",
+    "Appeal on negligence fails if any evidence supports the finding"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and cited statutory provisions. Jurisdictional context is colonial West Africa with Nigerian court applying Ghanaian-related facts; legal principles align with English common law traditions.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/ALLIU KADIRI EDU v THE COMMISSIONER OF POLICE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:44:37.546Z",
+    "plainTextLength": 27945
+  },
+  "trialDate": "1952-08-19"
+}

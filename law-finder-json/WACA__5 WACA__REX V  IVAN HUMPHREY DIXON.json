@@ -1,0 +1,73 @@
+{
+  "caseTitle": "REX V IVAN HUMPHREY DIXON",
+  "summary": "The appellant, Ivan Humphrey Dixon, was convicted of larceny by a public servant in Port Loko, tried by the Circuit Court. He appealed, arguing that Port Loko, being part of the Colony of Sierra Leone, could only be tried by the Supreme Court, not the Circuit Court. The West Africa Court of Appeal dismissed the appeal, holding that the Protectorate Ordinance, 1933, validly extended Circuit Court jurisdiction to Port Loko by including it administratively within the Protectorate. The court ruled that the Legislative Council, unified for both Colony and Protectorate under the 1924 Order in Council, had the power to legislate for both territories. A technical breach of Article XV(3) of the Royal Instructions—requiring ordinance titles to reflect content—did not invalidate the law, as the body of the ordinance clearly defined its territorial scope. The court emphasized a long-standing legislative practice of treating outlying Colony areas like Port Loko as part of the Protectorate for judicial and administrative purposes.",
+  "legalKeywords": [
+    "jurisdiction",
+    "ultra vires",
+    "legislative competence",
+    "Royal Instructions",
+    "Protectorate",
+    "Colony",
+    "Ordinance",
+    "territorial application",
+    "judicial administration",
+    "larceny by public servant",
+    "Order in Council",
+    "Foreign Jurisdiction Act",
+    "administrative district",
+    "Circuit Court",
+    "Supreme Court"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Jurisdiction",
+    "Legislative Authority",
+    "Colonial Law",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed; conviction and sentence affirmed.",
+  "winningSide": "Respondent (Rex/State)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "Webb, C.J., Sierra Leone",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Sierra Leone"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Damodhar Godltan v. Deoram Kanji (1 App. Cases 332)",
+    "Foreign Jurisdiction Act, 1890",
+    "Protectorate of Sierra Leone Order in Council, 24th January 1924",
+    "Protectorate Ordinance, 1933 (Ord. 32/1933)",
+    "Protectorate Courts Jurisdiction Ordinance, 1932, Sec. 43",
+    "Ord. 39/32 Sec. 2"
+  ],
+  "rationaleHighlights": [
+    "The Legislative Council had authority to legislate for both Colony and Protectorate under the same body.",
+    "Section 2(2) of the Protectorate Ordinance, 1933, validly includes Port Loko despite technical breach of Royal Instructions.",
+    "Historical continuity of treating outlying Colony areas as Protectorate supports current jurisdiction.",
+    "Title of an Ordinance not being perfectly descriptive does not render it void if content clearly defines scope.",
+    "Transfer of jurisdiction was effected by legislative Ordinances, not mere executive action, thus lawful."
+  ],
+  "confidenceNotes": "High confidence in jurisdictional and legislative analysis based on repeated legislative acts and court affirmations. Citation of Damodhar Gordhan v. Doeram Kanji is correctly distinguished.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/REX V  IVAN HUMPHREY DIXON.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:42:23.263Z",
+    "plainTextLength": 11959
+  },
+  "trialDate": "1939-03-20"
+}

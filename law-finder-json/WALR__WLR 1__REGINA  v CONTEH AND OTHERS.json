@@ -1,0 +1,68 @@
+{
+  "caseTitle": "REGINA v CONTEH AND OTHERS",
+  "summary": "This appeal to the Judicial Committee of the Privy Council arose from the conviction of the appellants by the Supreme Court of Sierra Leone for conspiring to falsely accuse Paramount Chief Alfred Bockari Samba of murder. The conspiracy followed an earlier failed prosecution where Samba and others were accused based on allegations, including that Samba was a cannibal, which were later retracted. The key legal issue was whether the trial judge properly directed the assessors on the necessity of proving the appellants knew the accusation was false. The Privy Council held that the gist of the offence of conspiracy to accuse is the conspirators' knowledge of the falsity of the accusation, and the trial judge's summing up failed to convey this essential element, potentially leading the assessors to convict based on an agreement to accuse regardless of belief in its truth. Additionally, the Court found that an objection to an assessor, who was married to the complainant's daughter, was valid in principle, and while the judge had discretion, the relationship created an undesirable appearance of bias. Consequently, the convictions were quashed, the appeal allowed, but no order was made as to costs.",
+  "legalKeywords": [
+    "conspiracy to accuse",
+    "falsity of accusation",
+    "knowledge standard",
+    "assessors",
+    "objection to assessor",
+    "interest",
+    "criminal conspiracy",
+    "summing up",
+    "trial procedure",
+    "acquittal",
+    "appeal allowed",
+    "cannibalism allegation",
+    "prosecutorial misconduct",
+    "retraction of testimony",
+    "duty to report crime"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Conspiracy",
+    "Trial Procedure",
+    "Judicial Bias",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed; convictions quashed.",
+  "winningSide": "Appellants (Conteh and others)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Lord Somervell of Harrow",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "Lord Oaksey"
+    },
+    {
+      "name": "Lord Tucker"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Judicial Committee of the Privy Council (on appeal from West African Court of Appeal)",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "WALR 1/REGINA v CONTEH AND OTHERS"
+  ],
+  "rationaleHighlights": [
+    "The essence of conspiracy to accuse is the conspirators' knowledge that the accusation is false.",
+    "An agreement to report a crime believed to be true is not unlawful.",
+    "The trial judge failed to instruct the assessors on the necessity of proving the accused knew the accusation was false.",
+    "Either party has the right to object to an assessor with a connection to the case.",
+    "The judge has discretion to rule on such objections.",
+    "The assessor in question was married to the daughter of the complainant, creating a conflict of interest.",
+    "The appeal succeeded due to misdirection on the core element of the offence.",
+    "No costs awarded to appellants despite success."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the provided judgment text.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/REGINA  v CONTEH AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:51:52.365Z",
+    "plainTextLength": 7501
+  }
+}

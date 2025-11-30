@@ -1,0 +1,89 @@
+{
+  "caseTitle": "NATIONAL LABOUR COMMISSION VRS GHANA TELECOMMUNICATIONS LTD",
+  "summary": "The National Labour Commission (NLC) sought to enforce its order against Ghana Telecommunications Ltd, requiring the termination (not dismissal) of a former employee, Williams Hayford Appiah, with accrued benefits, after he misrepresented his academic credentials. Appiah had claimed attendance at Benkum Secondary School, but investigations revealed he obtained qualifications as a private candidate. He was dismissed for fraud under Regulation 144(iv) of the company’s Staff Rules. The NLC ruled the dismissal should be converted to termination under Regulation 206(b), but did not specify the accrued benefits. The High Court refused enforcement, finding the NLC had substituted charges and issued an incomplete order. The Court of Appeal affirmed. The Supreme Court upheld this, ruling that the NLC overstepped by changing the basis of the charge and that enforcement under s 172 of the Labour Act (Act 651) requires the order to be legally sound and complete. The Court also clarified that s 134, allowing appeals from NLC decisions, applies only to unfair labour practices under ss 127–131, not unfair termination under s 63. Thus, the company could challenge the order in enforcement proceedings.",
+  "legalKeywords": [
+    "labor commission",
+    "enforcement of order",
+    "unfair dismissal",
+    "judicial review",
+    "staff regulations",
+    "fraudulent misrepresentation",
+    "termination of employment",
+    "appellate jurisdiction",
+    "High Court",
+    "Court of Appeal",
+    "Supreme Court",
+    "Labour Act 2003",
+    "Act 651",
+    "section 172",
+    "section 134",
+    "unfair labour practice",
+    "judicial scrutiny",
+    "accrued benefits",
+    "Board of Inquiry",
+    "executive secretary",
+    "affidavit in opposition",
+    "recommendation enforcement",
+    "substitution of charges",
+    "private candidate",
+    "curriculum vitae misrepresentation"
+  ],
+  "topics": [
+    "Labor Law",
+    "Judicial Review",
+    "Employment Termination",
+    "Appellate Procedure",
+    "Administrative Enforcement"
+  ],
+  "verdict": "Appeal dismissed. The Supreme Court upheld the Court of Appeal's decision not to enforce the National Labour Commission's order due to legal inconsistency and incompleteness.",
+  "winningSide": "Ghana Telecommunications Ltd",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Owusu (Ms.)",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Wood (Mrs.)",
+      "role": "Chief Justice, Presiding"
+    },
+    {
+      "name": "Brobbey",
+      "role": "JSC"
+    },
+    {
+      "name": "Yeboah",
+      "role": "JSC"
+    },
+    {
+      "name": "Bonnie",
+      "role": "JSC"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "labor and employment",
+  "citations": [
+    "National Labour Commission v. Ghana Telecommunications Ltd (2012)",
+    "Ghana Commercial Bank Ltd v. Commission for Human Rights and Administrative Justice [2003–2004] SCGLR 91",
+    "Labour Act, 2003 (Act 651), s 172",
+    "Labour Act, 2003 (Act 651), s 134",
+    "Labour Act, 2003 (Act 651), ss 127–131"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court emphasized that enforcement under s 172 of Act 651 is not an appeal and courts should not re-litigate the merits unless the order is legally flawed.",
+    "The Commission exceeded its role by substituting charges under Regulation 206(b) when the employee was charged under Regulation 144(iv).",
+    "The Court of Appeal correctly upheld the High Court’s refusal to enforce due to legal inconsistency in the Commission’s decision.",
+    "Section 134 appeal rights apply only to unfair labour practices under ss 127–131, not unfair termination under s 63.",
+    "An enforcement order must specify accrued benefits to be enforceable; vague directives are incomplete."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the provided judgment text. Citations are properly formatted based on Ghanaian legal standards.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/NATIONAL LABOUR COMMISSION  VRS  GHANA  TELECOMMUNICATIONS       LTD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:24:18.580Z",
+    "plainTextLength": 35706
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "caseTitle": "SAMAN v. OTSIW ABA.",
+  "summary": "This 1957 Ghanaian Supreme Court decision addressed a land dispute originally filed in the Ajumako Native Court 'B' in December 1955. The court held that the Native Courts (Colony) (Reconstitution of Native Courts) (Variation) (No.4) Order, 1956, which took effect on April 30, 1956, removed the territorial jurisdiction of the Ajumako Native Court 'B' over the Brakwa and Odoben lands, including the land in dispute. Since the amending order lacked a saving clause for pending cases, the court ruled that the Ajumako Native Court 'B' lost jurisdiction over the matter as of that date. Consequently, all subsequent proceedings and the September 1956 judgment were declared null and void. The appeal was allowed, and the suit was struck out for lack of jurisdiction, with costs awarded to the defendant in the lower court.",
+  "legalKeywords": [
+    "jurisdiction",
+    "territorial jurisdiction",
+    "pending causes",
+    "saving clause",
+    "null and void",
+    "Native Courts Ordinance",
+    "appellate jurisdiction",
+    "reconstitution of courts",
+    "retrospective effect",
+    "procedural validity",
+    "statutory interpretation",
+    "court competence",
+    "land dispute",
+    "judicial review",
+    "procedural nullity",
+    "legal continuity",
+    "tribunal authority",
+    "jurisdictional limits",
+    "procedural fairness",
+    "legal certainty"
+  ],
+  "topics": [
+    "Jurisdiction",
+    "Land Law",
+    "Native Courts",
+    "Appellate Procedure",
+    "Statutory Interpretation"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana, Central Judicial Division, Land Court, Cape Coast",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Nyako v. Akwa and Others (1949) 12 W.A.C.A. 465",
+    "Quiltur v. Mapleson (1882) 9 Q.B.D. 672",
+    "Colonial Sugar Refining Co. Ltd. v. Irving [1905] A.C. 369",
+    "River Wear Commissioners v. Adamson (1878) 2 App.Cas. 743",
+    "In re Debtor (No. 99 of 1928) (1928) 97 L.J.Ch. 250, C.A."
+  ],
+  "rationaleHighlights": [
+    "The absence of a saving clause in the 1956 Order meant pending cases lost jurisdiction upon its effective date.",
+    "Jurisdiction is statutory and ceases when the conferring law is amended without preservation.",
+    "A court cannot retain jurisdiction over matters removed by legislative reorganization.",
+    "Proceedings after loss of jurisdiction are null and void, regardless of prior initiation.",
+    "Nyako v. Akwa applied: abolition of a court ends all pending causes absent saving provisions.",
+    "Distinction drawn between rights and procedural jurisdiction; the latter is strictly statutory.",
+    "Retrospective effect not presumed; but procedural jurisdiction ends prospectively upon amendment.",
+    "New tribunal must be approached de novo for matters under its exclusive jurisdiction."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning, cited authorities, and unambiguous procedural history. All key details (dates, orders, jurisdictional changes) are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/SAMAN v. OTSIW ABA..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:23:08.952Z",
+    "plainTextLength": 14651
+  }
+}

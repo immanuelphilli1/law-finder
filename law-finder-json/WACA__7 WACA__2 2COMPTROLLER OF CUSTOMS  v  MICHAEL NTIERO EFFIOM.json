@@ -1,0 +1,67 @@
+{
+  "caseTitle": "2 2COMPTROLLER OF CUSTOMS v MICHAEL NTIERO EFFIOM",
+  "summary": "The appellant, Michael Ntiero Effiom, was convicted in the High Court at Buea on three charges: smuggling twelve tierces of tobacco, and being in possession of an automatic pistol and twenty rounds of pistol ammunition as prohibited imports under the Customs Ordinance, Cap. 130. The trial judge imposed cumulative sentences and ordered forfeiture of the items. On appeal to the West African Court of Appeal, the Crown conceded that the convictions could not be sustained. The appellate court held that there was no evidence of actual or attempted smuggling for the first charge, and that the second and third charges were legally defective and should have been struck out. Consequently, the appeal was allowed, all convictions were quashed, sentences and forfeiture orders annulled, and acquittals entered on all charges.",
+  "legalKeywords": [
+    "smuggling",
+    "prohibited imports",
+    "Customs Ordinance",
+    "lack of evidence",
+    "conviction quashed",
+    "forfeiture",
+    "appeal allowed",
+    "acquittal",
+    "trial error",
+    "evidentiary insufficiency",
+    "judicial review",
+    "criminal procedure",
+    "possession offence",
+    "appellate court"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Customs and Excise",
+    "Appellate Procedure",
+    "Evidence Law"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast"
+    },
+    {
+      "name": "Graham Paul, C.J., Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Customs Ordinance, Cap. 130",
+    "sec. 221(1)(a)",
+    "sec. 223(1)(a)",
+    "sec. 231"
+  ],
+  "rationaleHighlights": [
+    "No evidence of actual or attempted smuggling",
+    "Charges should have been struck out for legal defects",
+    "Possession charges lacked proper basis",
+    "Crown unable to support convictions",
+    "Forfeiture orders annulled",
+    "Acquittals directed"
+  ],
+  "confidenceNotes": "High confidence; details are clearly stated in the judgment, including charges, legal provisions, reasoning, and outcome.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/2 2COMPTROLLER OF CUSTOMS  v  MICHAEL NTIERO EFFIOM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:38:48.886Z",
+    "plainTextLength": 3659
+  },
+  "trialDate": "1941-05-01"
+}

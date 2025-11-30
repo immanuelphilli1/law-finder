@@ -1,0 +1,71 @@
+{
+  "caseTitle": "DANIEL ELIAS WILLIAM JOSEPH VRS OKOMFO ANKYE",
+  "summary": "This 2013 Supreme Court of Ghana decision in Daniel Elias William Joseph v. Okomfo Ankye & Amoapong Stool addressed the timeliness of a civil appeal concerning an interlocutory injunction. The appeal was filed on 19 August 2011 against a Court of Appeal decision dated 29 July 2011, which had affirmed a High Court ruling refusing the injunction. The Supreme Court raised a jurisdictional issue sua sponte, questioning whether the appeal was filed within the mandatory 21-day period under Rule 8(1)(a) of CI 16. The Court held that an interlocutory injunction is not a final order and thus appeals from such rulings must comply strictly with the 21-day time limit. Since the appeal was filed beyond this period, the Court lacked jurisdiction to hear it on merits and struck it out accordingly, reaffirming that statutory timeframes for appeals are jurisdictional and non-extendable.",
+  "legalKeywords": [
+    "interlocutory injunction",
+    "jurisdiction",
+    "appeal time limit",
+    "Supreme Court Rules CI 16",
+    "final order",
+    "Rule 8(1)(a)",
+    "due process",
+    "statutory compliance",
+    "appellate jurisdiction",
+    "provisional remedy"
+  ],
+  "topics": [
+    "Ghanaian Constitutional Law",
+    "Civil Procedure",
+    "Appellate Practice",
+    "Injunctions"
+  ],
+  "verdict": "Appeal struck out",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "N. S. Gbadegbe",
+      "role": "Delivered Judgment"
+    },
+    {
+      "name": "W. A. Atuguba",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Dr. S. K. Date-Bah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "S. O. A. Adinyira (Mrs)",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "J. V. M. Dotse",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Republic v High Court (Fast Track Division) Accra; Ex-parte State Housing Company Limited and Another [2009] SCGLR 185",
+    "Tindana (No 1) v Chief of Defence Staff [2011] SCGLR 724"
+  ],
+  "rationaleHighlights": [
+    "An interlocutory injunction is not a final order but an interim measure.",
+    "Appeals from interlocutory rulings must be filed within 21 days under Rule 8(1)(a) of CI 16.",
+    "Failure to file within the statutory time frame deprives the appellate court of jurisdiction.",
+    "The nature of the order (interlocutory) cannot be transformed into a final order by appealing it.",
+    "Strict compliance with procedural timelines is required for due process and jurisdictional validity."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official Supreme Court judgment text, including names, dates, procedural history, legal reasoning, and citations.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/DANIEL ELIAS WILLIAM JOSEPH  VRS OKOMFO ANKYE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:15:26.576Z",
+    "plainTextLength": 8075
+  },
+  "trialDate": "2011-11-07"
+}

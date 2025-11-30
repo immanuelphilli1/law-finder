@@ -1,0 +1,69 @@
+{
+  "caseTitle": "ADANSI STOOL v BRENASE STOOL",
+  "summary": "The Judicial Committee of the Privy Council dismissed an appeal by the Adansi Stool against the Brenase Stool concerning a declaration of title to land in Ashanti, Ghana. The Supreme Court of the Gold Coast and the West African Court of Appeal had both dismissed the claim, finding that the appellant failed to prove a root of title or exclusive possession. The Privy Council upheld the concurrent findings of fact, applying the principle that it will not re-examine evidence unless there is a miscarriage of justice or a violation of a fundamental legal principle. The appellant argued that Exhibits 3 and 6—renunciations by the Brenase Stool of rights to land—entitled them to succeed, but the Board held that a plaintiff must prove their own title. The argument that the Government held the land in trust for Adansi Stool was rejected as it was raised for the first time on appeal and contradicted the appellant's original case. The trial judge's refusal to grant an adjournment to call a traditional historian was found to be within judicial discretion. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "concurrent findings of fact",
+    "misconduct of justice",
+    "violation of legal principle",
+    "root of title",
+    "exclusive possession",
+    "admissibility of evidence",
+    "adjournment discretion",
+    "stool land",
+    "customary land tenure",
+    "renunciation of rights",
+    "trust argument",
+    "retrial",
+    "abandonment of land",
+    "Government acquisition",
+    "oral tradition evidence"
+  ],
+  "topics": [
+    "land title",
+    "customary law",
+    "appeal procedure",
+    "evidence",
+    "judicial discretion"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Brenase Stool",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Mr. L. M. D. de Silva",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "Lord Tucker",
+      "role": "member"
+    },
+    {
+      "name": "Lord Somervell of Harrow",
+      "role": "member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Judicial Committee of the Privy Council (on appeal from West African Court of Appeal)",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "Srimati Bibhabati Devi v. Kumar Narayan Roy [1946] A.C. 508",
+    "Adansi Stool v. Brenase Stool, WLR 1/ADANSI STOOL v BRENASE STOOL"
+  ],
+  "rationaleHighlights": [
+    "Concurrent factual findings by lower courts are binding unless there is a miscarriage of justice or violation of legal principle.",
+    "A plaintiff must succeed on the strength of their own title, not the weakness of the opponent's.",
+    "The trial judge did not abuse discretion in refusing adjournment to call a linguist.",
+    "Documents (Exhibits 3 and 6) were interpreted as supporting the respondent's prior dealings with the land.",
+    "New legal argument (trust) raised for first time on appeal could not be entertained due to lack of factual findings below.",
+    "Even if legal error occurred regarding land abandonment, it did not affect the core finding that appellant failed to prove title."
+  ],
+  "confidenceNotes": "High confidence; all key details are explicitly stated in the judgment, including jurisdiction, parties, legal principles, and outcome.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/ADANSI STOOL v BRENASE STOOL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:18:45.727Z",
+    "plainTextLength": 12603
+  }
+}

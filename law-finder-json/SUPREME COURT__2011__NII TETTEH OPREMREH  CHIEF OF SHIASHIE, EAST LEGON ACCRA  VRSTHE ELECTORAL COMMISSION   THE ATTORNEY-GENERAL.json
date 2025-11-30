@@ -1,0 +1,98 @@
+{
+  "caseTitle": "NII TETTEH OPREMREH CHIEF OF SHIASHIE, EAST LEGON ACCRA VRSTHE ELECTORAL COMMISSION THE ATTORNEY-GENERAL",
+  "summary": "The Supreme Court of Ghana, exercising its original jurisdiction, declared the Local Government (Creation of New Districts Electoral Areas and Designation of Units) Instrument, 2010, LI 1983, unconstitutional and null and void. The plaintiff, Nii Tetteh Opremreh, challenged the validity of LI 1983, arguing that a revised version (NTO2) was improperly substituted for the original instrument (NTO1) after it had been laid before Parliament on 19th October 2010. The Court held that under Article 11(7) of the 1992 Constitution, once an instrument is laid before Parliament and not annulled within 21 sitting days, it automatically becomes law. Parliament has no constitutional authority to amend or substitute such instruments—only to annul them. Since NTO1 was not annulled within the stipulated period, it became law by operation of time. The subsequent introduction of NTO2, which purported to alter electoral areas for the December 2010 District Assembly Elections, was therefore made without legal authority and was declared invalid. The Court rejected the Attorney-General's argument that parliamentary changes were procedural and beyond judicial review, affirming that Article 11(7) provides a clear and binding legal framework. The judgment reinforced the principle that subsidiary legislation must strictly comply with constitutional procedures to be valid.",
+  "legalKeywords": [
+    "constitutional instrument",
+    "subordinate legislation",
+    "Article 11(7)",
+    "annulment",
+    "parliamentary procedure",
+    "unconstitutional",
+    "null and void",
+    "LI 1983",
+    "Electoral Commission",
+    "Attorney-General",
+    "original jurisdiction",
+    "subsidiary legislation",
+    "Gazette publication",
+    "twenty-one sitting days",
+    "rubber stamp"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Electoral Law",
+    "Subsidiary Legislation",
+    "Judicial Review",
+    "Separation of Powers"
+  ],
+  "verdict": "The Local Government (Creation of New Districts Electoral Areas and Designation of Units) Instrument, 2010, LI 1983, is declared unconstitutional and null and void. The original instrument (NTO1) as laid before Parliament on 19th October 2010 is recognized as law. The revised version (NTO2) is invalid due to non-compliance with Article 11(7) of the 1992 Constitution.",
+  "winningSide": "Plaintiff (Nii Tetteh Opremreh)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "GBADEGBE JSC",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "ANSAH",
+      "role": "Presiding"
+    },
+    {
+      "name": "ADINYIRA (MRS) JSC",
+      "role": "Member"
+    },
+    {
+      "name": "OWUSU (MS) JSC",
+      "role": "Member"
+    },
+    {
+      "name": "DOTSE JSC",
+      "role": "Member"
+    },
+    {
+      "name": "YEOBAH JSC",
+      "role": "Member"
+    },
+    {
+      "name": "B. BONNIE",
+      "role": "Member"
+    },
+    {
+      "name": "ARYEETEY JSC",
+      "role": "Member"
+    },
+    {
+      "name": "GBADEGBE JSC",
+      "role": "Member"
+    },
+    {
+      "name": "A. BAMFO (MRS) JSC",
+      "role": "Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "NMC v Attorney-General [2000] SCGLR 1",
+    "JH Mensah v the Attorney General [1996-97] SCGLR 320",
+    "Stephen Okane v Electoral Commission and Another (Unreported, J1/2/2011, 23 June 2011)"
+  ],
+  "rationaleHighlights": [
+    "Article 11(7) of the 1992 Constitution does not empower Parliament to amend or substitute subsidiary legislation—only to annul it within 21 sitting days.",
+    "Once an instrument is laid before Parliament and not annulled within 21 sitting days, it automatically becomes law.",
+    "Parliament cannot constitutionally make changes to an instrument after it is laid; any such alteration lacks legal authority.",
+    "The purported replacement (NTO2) of the original instrument (NTO1) after the 21-day period is invalid and unconstitutional.",
+    "The argument that Parliament's role under Article 11(7) renders it a 'rubber stamp' is rejected—annulment is a sufficient constitutional check."
+  ],
+  "confidenceNotes": "The judgment is clear and well-reasoned, with direct constitutional interpretation and reliance on precedent. The outcome is highly confident given the unambiguous language of Article 11(7) and lack of countervailing authority.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/NII TETTEH OPREMREH  CHIEF OF SHIASHIE, EAST LEGON ACCRA  VRSTHE ELECTORAL COMMISSION   THE ATTORNEY-GENERAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:00:03.717Z",
+    "plainTextLength": 45223
+  },
+  "trialDate": "2011-03-01"
+}

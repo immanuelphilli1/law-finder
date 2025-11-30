@@ -1,0 +1,78 @@
+{
+  "caseTitle": "N. B. LANDMARK LIMITED v. KISHINI LAKHANI",
+  "summary": "The Supreme Court of Ghana allowed an appeal challenging the Court of Appeal's grant of a stay of execution regarding a Circuit Court decision that refused to set aside a default judgment. The Supreme Court held that a refusal to set aside a default judgment is not executable and therefore cannot be subject to a stay of execution. The Court emphasized that the Court of Appeal erred by focusing on the substantive judgment of 2nd November 1998, which was not the subject of the appeal or the stay application. Consequently, the Supreme Court set aside the Court of Appeal’s ruling dated 24th March 1999.",
+  "legalKeywords": [
+    "stay of execution",
+    "default judgment",
+    "appeal",
+    "execution of judgment",
+    "Court of Appeal",
+    "Supreme Court",
+    "Circuit Court",
+    "service of notice",
+    "rent assessment",
+    "judicial discretion",
+    "interim order",
+    "procedural law",
+    "judicial error",
+    "appellate jurisdiction",
+    "legal question"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Appellate Law",
+    "Property Law"
+  ],
+  "verdict": "The appeal was allowed and the ruling of the Court of Appeal granting a stay of execution was set aside.",
+  "winningSide": "N.B. Landmark Limited (Appellant/Plaintiff)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "G.K. Acquah",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "A.K.B. Ampiah",
+      "role": "Justice"
+    },
+    {
+      "name": "F.Y. Kpegah",
+      "role": "Justice"
+    },
+    {
+      "name": "E.D.K. Adjebeng",
+      "role": "Justice"
+    },
+    {
+      "name": "W.A. Atuguba",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "Eboe vrs Eboe (1961) GLR 432",
+    "Mensah v. Ghana Football Association (1988-1989) 1 GLR 1"
+  ],
+  "rationaleHighlights": [
+    "A decision refusing to set aside a default judgment is not executable and thus cannot be stayed.",
+    "Stay of execution only applies to judgments capable of enforcement through execution processes.",
+    "The Court of Appeal erred by conflating the substantive judgment with the refusal to set it aside.",
+    "The appeal was not against the substantive judgment of 2 November 1998, but the refusal to set it aside.",
+    "The issue of rent assessment was not before the Court of Appeal and should not have been addressed.",
+    "Attractive legal arguments do not override jurisdictional and procedural limits.",
+    "Rule 31 of CI 19 does not empower a stay where no executable order exists.",
+    "Judicial focus must remain on the actual decision under appeal."
+  ],
+  "confidenceNotes": "High confidence based on clear judicial reasoning and explicit case law references. All details are directly extracted from the provided judgment text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2001A/N. B. LANDMARK LIMITED v. KISHINI LAKHANI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:42:45.868Z",
+    "plainTextLength": 7461
+  },
+  "trialDate": "1998-09-24"
+}

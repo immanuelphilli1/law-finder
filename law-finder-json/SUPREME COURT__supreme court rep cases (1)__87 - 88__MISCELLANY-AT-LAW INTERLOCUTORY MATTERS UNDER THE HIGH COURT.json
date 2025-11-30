@@ -1,0 +1,77 @@
+{
+  "caseTitle": "MISCELLANY-AT-LAW INTERLOCUTORY MATTERS UNDER THE HIGH COURT",
+  "summary": "This legal commentary by Justice Adade N.Y.B. of the Ghanaian Supreme Court discusses interlocutory matters under the High Court Rules, focusing on injunctions, stay of execution, and aspects of pleadings. It explains that interlocutory orders are interim rulings made during litigation that do not finally determine the rights of the parties. The discussion emphasizes procedural requirements for injunctions under Order 50 and Order 52 of the High Court Rules, distinguishing between ex parte and inter partes applications, and highlighting the exceptional nature of ex parte injunctions, which must be time-limited and subject to prompt review. The paper also addresses the appointment of receivers, critiques the routine appointment of court registrars as receivers of disputed property, and touches upon the necessity of establishing a strong prima facie case for interim relief. Additionally, it outlines considerations courts must weigh when granting injunctions, such as hardship, status quo preservation, and adequacy of damages.",
+  "legalKeywords": [
+    "interlocutory order",
+    "injunction",
+    "ex parte application",
+    "prima facie case",
+    "stay of execution",
+    "High Court Rules",
+    "Order 50",
+    "Order 52",
+    "receiver appointment",
+    "status quo",
+    "interim injunction",
+    "service of notice",
+    "plaintiff",
+    "defendant",
+    "pleadings",
+    "emergency injunction",
+    "relative hardship",
+    "adequate remedy at law",
+    "court discretion",
+    "procedural justice"
+  ],
+  "topics": [
+    "Injunctions",
+    "Interlocutory Proceedings",
+    "Civil Procedure",
+    "High Court Rules",
+    "Judicial Discretion"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Adade N Y B",
+      "role": "Justice delivering commentary"
+    },
+    {
+      "name": "Osei-Hwere",
+      "role": "Justice discussing pleadings"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Legal Commentary / Judicial Lecture",
+  "citations": [
+    "Ansah v Ansah [1977] 2 All ER 638",
+    "Rhone-Poulence v GNTC [1972] 2 GLR 109",
+    "Frimpong v Obeng II [1974] 1 GLR 16",
+    "Punjabi Brothers v Namih (1958) 3 WALR 381",
+    "Easton v Nar Valley Drainage Commissioners (1892) 8 TLR 649",
+    "Smith v Cowell (1830) 6 QBD 75",
+    "Craig v Kanseen"
+  ],
+  "rationaleHighlights": [
+    "Interlocutory orders do not finally dispose of a case but are essential for procedural fairness and efficient justice.",
+    "Ex parte injunctions are exceptional and must be narrowly tailored in time and scope to prevent injustice.",
+    "Courts must balance hardship, status quo, and adequacy of damages when considering injunctions.",
+    "A plaintiff may apply for an injunction after issuing a writ, but service must comply with procedural rules.",
+    "Routine appointment of registrars as receivers may not serve the best interests of the parties.",
+    "An applicant for an interim injunction must show a strong prima facie case and potential irreparable harm.",
+    "Notice and hearing are fundamental, even if delayed in emergencies.",
+    "The distinction between interim and interlocutory injunctions lies in timing, procedure, and duration."
+  ],
+  "confidenceNotes": "The source is a published judicial commentary by a Supreme Court Justice, indicating high authority on procedural law in Ghana. However, it is not a case decision but a scholarly exposition, so verdict and winning side are inapplicable. All extracted information aligns with the text and standard legal principles.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/87 - 88/MISCELLANY-AT-LAW INTERLOCUTORY MATTERS UNDER THE HIGH COURT.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:24:50.329Z",
+    "plainTextLength": 34416
+  }
+}

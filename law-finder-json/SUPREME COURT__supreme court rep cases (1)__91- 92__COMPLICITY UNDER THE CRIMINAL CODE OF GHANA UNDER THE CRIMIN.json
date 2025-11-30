@@ -1,0 +1,84 @@
+{
+  "caseTitle": "COMPLICITY UNDER THE CRIMINAL CODE OF GHANA UNDER THE CRIMIN",
+  "summary": "This academic analysis by Mensa-Bonsu examines complicity under Ghana's Criminal Code, 1960 (Act 29), focusing on sections 20 and 21. It explains that 'abetment' encompasses various forms of participation in crime—such as instigating, commanding, counseling, procuring, or facilitating—and eliminates traditional common law distinctions between types of accomplices. The article emphasizes that abetment must occur before or during the commission of the crime, citing Commissioner of Police v Sarpey and Nyamekye to illustrate that post-commission assistance does not attract liability under Act 29. It further discusses the legislative intent behind the broad terminology, arguing that each term in the list carries distinct meaning. The analysis also highlights the moral and legal rationale for holding abettors criminally liable, particularly to deter indirect encouragement of crime. Despite limited judicial discussion in Ghana, the piece calls for greater appreciation and application of complicity laws in criminal prosecutions.",
+  "legalKeywords": [
+    "complicity",
+    "abetment",
+    "accessorial liability",
+    "Criminal Code Act 29",
+    "instigation",
+    "counsel",
+    "procurement",
+    "encouragement",
+    "facilitation",
+    "joint enterprise",
+    "corroboration",
+    "principal offender",
+    "accomplice",
+    "liability",
+    "criminal intent",
+    "contemporaneous act",
+    "post-commission assistance",
+    "moral culpability",
+    "statutory interpretation",
+    "common law",
+    "jurisdiction",
+    "prosecution",
+    "evidence",
+    "criminal responsibility",
+    "offence",
+    "legal reform",
+    "judicial reasoning",
+    "Ghanaian law",
+    "criminal procedure",
+    "legal scholarship"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Complicity",
+    "Abetment",
+    "Accessorial Liability",
+    "Ghanaian Jurisprudence"
+  ],
+  "verdict": "Not applicable – this is a legal scholarly article, not a court judgment.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Mensa-Bonsu",
+      "role": "author"
+    },
+    {
+      "name": "Lord Goddard",
+      "role": "Chief Justice in cited case"
+    },
+    {
+      "name": "Lord Widgery",
+      "role": "Chief Justice in cited case"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "academic analysis",
+  "citations": [
+    "Criminal Code, 1960 (Act 29)",
+    "Commissioner of Police v Sarpey and Nyamekye",
+    "Ferguson v Weaving"
+  ],
+  "rationaleHighlights": [
+    "Abetment under Act 29 requires acts preceding or contemporaneous with the crime, not after.",
+    "The term 'abetment' consolidates various forms of complicity without distinguishing between accessories and principals.",
+    "Parliament intended different meanings for each listed act (e.g., instigate, counsel, procure), avoiding redundancy.",
+    "Post-commission assistance does not constitute abetment under Act 29, as seen in Sarpey and Nyamekye.",
+    "Moral justification for criminalizing abetment includes protecting vulnerable individuals from coercion."
+  ],
+  "confidenceNotes": "The source is an academic article rather than a full court decision, limiting direct case details. Analysis is based on statutory interpretation and case references within the text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/91- 92/COMPLICITY UNDER THE CRIMINAL CODE OF GHANA UNDER THE CRIMIN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:39:03.987Z",
+    "plainTextLength": 79886
+  }
+}

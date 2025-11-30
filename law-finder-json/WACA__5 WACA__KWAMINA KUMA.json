@@ -1,0 +1,75 @@
+{
+  "caseTitle": "KWAMINA KUMA",
+  "summary": "This 1938 Privy Council appeal originated from a land dispute in the Gold Coast Colony (now Ghana) between Kwamina Kuma, the Odikro of Abrobonku, and Kofi Kuma, a farmer from Yowuma village. The case centered on a declaration of title to a portion of land known as Otenkyiren, surrounded by a red boundary on a survey plan. The trial judge, Mr. Justice Strother-Stewart, granted the declaration in favor of Kwamina Kuma, but the West African Court of Appeal reversed this decision, ordering a nonsuit. The Privy Council, upon review, found that the plaintiff's evidence—based on traditional history, proximity of stool lands, and the practice of non-extraction of tribute—was sufficient to support his title. It emphasized that long occupation without tribute does not negate native communal land ownership principles, citing Amodu Tijani v. The Secretary, Southern Nigeria. The Council set aside the Court of Appeal’s judgment and restored the trial court’s decision, affirming the plaintiff’s title over the disputed land.",
+  "legalKeywords": [
+    "native land title",
+    "usufructuary right",
+    "traditional history",
+    "land dispute",
+    "communal ownership",
+    "stool land",
+    "declaration of title",
+    "occupancy rights",
+    "tribal boundaries",
+    "oral evidence",
+    "radical title",
+    "land tenure",
+    "boundary demarcation",
+    "customary law",
+    "evidence of tradition",
+    "non-payment of tribute",
+    "pre-colonial land law",
+    "Privy Council appeal",
+    "native tribunal",
+    "colonial land jurisprudence"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Appellate Review",
+    "Traditional Boundaries",
+    "Indigenous Land Rights"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Kwamina Kuma (Appellant)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lord Atkin"
+    },
+    {
+      "name": "Lord Porter"
+    },
+    {
+      "name": "Sir Lancelot Sanderson",
+      "role": "Delivered judgment"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Judicial Committee of the Privy Council",
+    "country": "Ghana (then Gold Coast Colony)"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "2 W.A.C.A. p. 178",
+    "[1921] 2 A.C. 399"
+  ],
+  "rationaleHighlights": [
+    "The Privy Council emphasized caution in interpreting native land titles through English legal concepts.",
+    "Usual native land tenure involves communal ownership with the chief as trustee, not individual ownership.",
+    "Long occupation without payment of tribute does not extinguish the plaintiff's radical title under customary law.",
+    "Evidence of attempts to block land sales in 1899 and 1926 supported the plaintiff’s assertion of ownership.",
+    "The trial judge’s assessment of oral and traditional evidence was entitled to deference.",
+    "The defendant’s occupation was consistent with usufructuary rights, not ownership.",
+    "Asebu Omanhene’s testimony confirmed the plaintiff’s land surrounded the disputed area.",
+    "The Court of Appeal erred in requiring formal tribute as proof of title, contrary to local custom."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; source is a verbatim judgment from the Privy Council with clear procedural history, judicial reasoning, and citation. Some formatting artifacts (e.g., 'pages.gif') appear to be scanning errors but do not affect core legal content.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/KWAMINA KUMA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:46:39.108Z",
+    "plainTextLength": 14403
+  },
+  "trialDate": "15TH NOVEMBER,  1938"
+}

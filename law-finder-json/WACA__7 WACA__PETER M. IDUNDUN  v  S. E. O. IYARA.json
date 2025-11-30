@@ -1,0 +1,61 @@
+{
+  "caseTitle": "PETER M. IDUNDUN v S. E. O. IYARA",
+  "summary": "This 1941 West Africa Court of Appeal decision addressed an appeal against a conviction by the High Court for wilful destruction of property and forcible entry under sections 451 and 81 of the Criminal Code. The appellant challenged the High Court's jurisdiction, arguing that the case was improperly before it after being 'remitted' by a Magistrate, who lacked authority to do so. The appellate court held that although the remittance was irregular, the High Court acquired proper jurisdiction by issuing hearing notices and proceeding summarily. The court affirmed the High Court's broad summary jurisdiction and found no merit in other grounds of appeal, dismissing the appeal.",
+  "legalKeywords": [
+    "jurisdiction",
+    "summary trial",
+    "remittance",
+    "High Court",
+    "Magistrate",
+    "irregular procedure",
+    "criminal appeal",
+    "forcible entry",
+    "wilful destruction of property",
+    "Criminal Code",
+    "hearing notices",
+    "procedural validity"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Jurisdiction",
+    "Procedural Law"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast"
+    },
+    {
+      "name": "Graham Paul, C.J., Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Sections 451 and 81, Criminal Code"
+  ],
+  "rationaleHighlights": [
+    "Magistrate lacked power to remit case to High Court",
+    "Irregular remittance did not invalidate proceedings",
+    "High Court had inherent jurisdiction to hear case summarily",
+    "Issuance of hearing notices conferred procedural legitimacy",
+    "No legal restriction on High Court's summary jurisdiction as argued"
+  ],
+  "confidenceNotes": "High confidence; information derived directly from judicial text with clear holdings and reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/PETER M. IDUNDUN  v  S. E. O. IYARA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:30:21.049Z",
+    "plainTextLength": 2384
+  },
+  "trialDate": "23RD APRIL, 1941"
+}

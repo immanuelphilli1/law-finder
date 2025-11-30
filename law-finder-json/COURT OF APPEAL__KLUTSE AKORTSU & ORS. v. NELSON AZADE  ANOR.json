@@ -1,0 +1,69 @@
+{
+  "caseTitle": "KLUTSE AKORTSU & ORS. v. NELSON AZADE ANOR",
+  "summary": "The case KLUTSE AKORTSU & ORS. v. NELSON AZADE ANOR, heard by the Ghana Court of Appeal on 21st January 1999, concerned a land dispute between two families over ownership of the Afevu Grassland in Ho. The plaintiffs claimed customary ownership based on the rule that forest landowners automatically own adjacent grasslands. Prior to litigation, both parties participated in a dispute-resolution process involving elders and payment of fees, which the Court of Appeal assessed as an attempted arbitration. However, the arbitration was invalidated due to a breach of natural justice, as some arbitrators were family elders directly connected to the litigants. The Court further ruled that the plaintiffs were not bound by the arbitration's outcome and were entitled to pursue their claim in court. Additionally, the court found that the survey plan (Exhibit One) inaccurately represented the disputed land by labeling it as Hagble and Kohoe, which the plaintiffs disclaimed, undermining its evidentiary reliability. Lastly, the court held that the existence of the alleged customary rule linking forest and grassland ownership required formal judicial inquiry under Section 55 of the Courts Act, 1993 (Act 459), which the trial court had failed to conduct. The appeal was therefore allowed, and the Circuit Court’s judgment was set aside.",
+  "legalKeywords": [
+    "customary arbitration",
+    "natural justice",
+    "land ownership",
+    "forest and grassland custom",
+    "boundary dispute",
+    "settlement vs. arbitration",
+    "evidence reliability",
+    "customary law adjudication",
+    "Section 55 Courts Act 1993",
+    "jurisdictional error",
+    "tribunal impartiality",
+    "payment in arbitration"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Arbitration Law"
+  ],
+  "verdict": "The Court of Appeal held that the prior arbitration was invalid due to a breach of natural justice, as some members were directly connected to the parties. The plaintiffs were not bound by its findings and were entitled to sue in court. The survey plan was deemed flawed, and the trial court erred in presuming the existence of a customary rule without proper inquiry under Section 55 of the Courts Act, 1993. The appeal was allowed, and the Circuit Court’s judgment was set aside.",
+  "winningSide": "Defendants/Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ofori-Boateng JA",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Forster JA"
+    },
+    {
+      "name": "Essilfie-Bondzie JA"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Moshie v. Fordjour [1962] 2 GLR 74 S.C.",
+    "Ankrah v. Debrah and Olaga [1956] 1 WLR 89",
+    "Kwasi v. Larbi [1955] A.C. 164 P.C.",
+    "Tanor v. Dapomah [1960] GLR p. 241 at 247",
+    "State Council of Peki v. Adamoo DV Court 1931-1933",
+    "Courts Act 1993 (Act 459), Section 55"
+  ],
+  "rationaleHighlights": [
+    "The arbitration was invalid because some members were family elders with direct interest, violating natural justice.",
+    "Payment of fees by both parties indicated an intention to enter binding arbitration, not mere settlement.",
+    "The survey plan (Exh. One) inaccurately labeled the disputed land, undermining its evidentiary value.",
+    "The trial court erred in presuming the existence of a customary rule without inquiry under Section 55 of Act 459.",
+    "In settlement discussions, parties may withdraw, but in arbitration, the decision is binding if properly constituted.",
+    "A tribunal composed of litigants cannot be impartial, akin to being prosecutor and judge simultaneously.",
+    "Customary law claims require judicial determination, not mere assertion by parties.",
+    "The plaintiffs’ rejection of the arbitration outcome was lawful due to its procedural invalidity."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; source text is a formal court judgment with clear reasoning. Minor truncation at end does not affect core holdings.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/KLUTSE AKORTSU & ORS. v. NELSON AZADE  ANOR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:23:31.060Z",
+    "plainTextLength": 16287
+  },
+  "trialDate": "1999-01-21"
+}

@@ -1,0 +1,73 @@
+{
+  "caseTitle": "ADOKW AIHENE KWESI I BRANTUO",
+  "summary": "This case involved a boundary dispute between the plaintiff-appellant, Adokwaihene Kwesi I Brantuo, and the defendant-respondent, Amoafulhene Kwarrna Poku, over land known as Nkwantanan. The dispute centered on the correct interpretation of a 1907 boundary demarcation by Captain Armitage between Bekwai (plaintiff's stool land) and Adansi (defendant's stool land). The native tribunal initially ruled for the defendant, but the Court of the Chief Commissioner reversed that decision, finding the native tribunal’s conclusion to be plainly wrong. The West Africa Court of Appeal, by majority, affirmed the Chief Commissioner’s judgment. The key issue was whether the boundary followed the path from Jidiedema to Meduma after crossing the Agugu River, as per Captain Armitage’s description, or diverged along the Kukra stream. The appellate court held that the original demarcation clearly indicated the path as the boundary, supported by the placement of boundary pillars at directional changes. The absence of any pillar where the boundary would have turned from the Kukra stream to the Meduma path undermined the respondent’s claim. The court emphasized that while native tribunals have primary jurisdiction over customary land matters, appellate courts may reverse factual findings when they are demonstrably incorrect. A declaration was issued confirming the boundary along the yellow line on Exhibit D, aligning with Captain Armitage’s demarcation.",
+  "legalKeywords": [
+    "boundary dispute",
+    "native tribunal",
+    "appellate jurisdiction",
+    "demarcation",
+    "Captain Armitage",
+    "boundary pillars",
+    "path demarcation",
+    "land encroachment",
+    "stool property",
+    "thaleg",
+    "trespass",
+    "declaration of title",
+    "evidence evaluation",
+    "presumption of correctness",
+    "reversal of finding"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Customary Law",
+    "Boundary Disputes",
+    "Judicial Review"
+  ],
+  "verdict": "Judgment of the Chief Commissioner affirmed; appeal dismissed.",
+  "winningSide": "Plaintiff-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Webb, C.J., Sierra Leone",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Concurring Judge"
+    },
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Dissenting Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "boundary dispute",
+  "citations": [
+    "2 W.A.C.A. p. 281",
+    "Powell v. Streatham Manor Nursing Home, 1935 A.C. 267",
+    "Abakah Nthah v. Anguah Bennieh (Privy Council Appeal No. 165 of 1927)",
+    "Kisiedu and Others v. Dompreh and Others (Privy Council Appeal No. 59 of 1936)"
+  ],
+  "rationaleHighlights": [
+    "The native tribunal's decision was based on incorrect interpretation of boundary markers, not the actual path described by Captain Armitage.",
+    "The Chief Commissioner properly reversed the native tribunal’s finding as it was plainly wrong.",
+    "The absence of boundary pillars at critical junctions supports the appellant's claim.",
+    "Appellate courts may reverse factual findings when the trial court's conclusion is unsupported by evidence.",
+    "The Privy Council precedent emphasizes deference to native tribunals unless findings are affirmatively shown to be wrong.",
+    "The boundary follows the path from Jidiedema to Meduma where it crosses the Agugu River, per Captain Armitage’s demarcation.",
+    "The Kukra stream was not mentioned in the original demarcation, undermining the respondent's claim.",
+    "The appellate function is not to retry but to assess whether the lower court’s finding can be sustained."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and clear procedural history.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/ADOKW AIHENE KWESI I BRANTUO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:08:19.706Z",
+    "plainTextLength": 17209
+  }
+}

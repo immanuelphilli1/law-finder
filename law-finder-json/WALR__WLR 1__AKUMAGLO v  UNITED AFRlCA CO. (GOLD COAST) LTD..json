@@ -1,0 +1,63 @@
+{
+  "caseTitle": "AKUMAGLO VERSUS UNITED AFR",
+  "summary": "In Akumaglo v. United Africa Co. (Gold Coast) Ltd., the plaintiff's lorry was lost when it rolled backwards off a ferry pontoon into the Volta River after the pontoon made contact with the riverbank. The plaintiff alleged negligence, claiming the impact caused the accident. The court found that the evidence showed the jolt was not severe and would have propelled the vehicle forward, not backward. With no evidence of pontoon tilting, brake failure, or other negligence, and no support for res ipsa loquitur, the plaintiff failed to discharge the burden of proof. Judgment was entered for the defendants, as the plaintiff did not establish that the loss was due to the defendant's negligence.",
+  "legalKeywords": [
+    "negligence",
+    "burden of proof",
+    "res ipsa loquitur",
+    "standard of care",
+    "causation",
+    "evidence",
+    "standard of proof",
+    "tort law",
+    "duty of care",
+    "accident liability",
+    "vehicle damage",
+    "ferry operation",
+    "contributory factors",
+    "expert testimony",
+    "judicial reasoning"
+  ],
+  "topics": [
+    "Tort Law",
+    "Negligence",
+    "Burden of Proof",
+    "Transportation Accidents",
+    "Judicial Reasoning"
+  ],
+  "verdict": "Judgment for the defendants",
+  "winningSide": "defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Smith Ag.J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Eastern Judicial Division, Divi�sional Court, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Tort - Negligence",
+  "citations": [
+    "Charlesworth, Law of Negligence, 2nd ed., p. 23",
+    "Halsbury, Hailsham ed., Vol. 23, pp. 667-671, paras. 949-955",
+    "Morgan v. Sim (1857) 11 Moo.P.C. 307"
+  ],
+  "rationaleHighlights": [
+    "Impact would logically propel vehicle forward, not backward",
+    "No evidence of pontoon tilting or mechanical failure",
+    "Plaintiff failed to meet burden of proof",
+    "Res ipsa loquitur not applicable",
+    "No witness or expert evidence supported plaintiff's theory",
+    "Brakes and gear system likely functional but unproven",
+    "Accident cause speculative, not attributable to defendant"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and explicit findings. Some minor OCR issues in source text (e.g., 'contoon', 'dis�embarkation') do not affect core legal understanding.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/AKUMAGLO v  UNITED AFRlCA CO. (GOLD COAST) LTD..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:16:07.019Z",
+    "plainTextLength": 7167
+  }
+}

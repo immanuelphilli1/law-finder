@@ -1,0 +1,88 @@
+{
+  "caseTitle": "IN THE MATTER OF AN APPLICATION TO INVOKE THE SUPERVISORY JURISDICTION OF THE SUPREME COURT ARTICLES 88(6) AND 132 OF THE 1992 CONSTITUTION, RULE 61 OF THE SUPREME COURT RULES, 1996 (C",
+  "summary": "This Supreme Court of Ghana ruling addresses the relationship between international and municipal law, particularly in the context of enforcing decisions of the International Tribunal on the Law of the Sea. The Attorney General sought certiorari and prohibition to quash a High Court decision, arguing that it obstructed Ghana's compliance with international obligations under UNCLOS. The Court rejected this, affirming Ghana's dualist legal system: while customary international law is automatically part of domestic law, treaties like UNCLOS require legislative incorporation to have effect in municipal law. The Court held that Article 75 of the 1992 Constitution only governs treaty ratification, not automatic domestic application. It emphasized that certiorari is a legal remedy for jurisdictional errors, not a diplomatic instrument. The ruling reaffirmed that judicial decisions cannot be invalidated merely to satisfy international commitments without legislative action, citing the ICJ's decision in Germany v Italy as support for state responsibility being fulfilled through domestic legal processes.",
+  "legalKeywords": [
+    "international law",
+    "municipal law",
+    "dualism",
+    "treaty incorporation",
+    "customary international law",
+    "certiorari",
+    "prohibition",
+    "supervisory jurisdiction",
+    "UNCLOS",
+    "state immunity",
+    "constitutional interpretation",
+    "executive power",
+    "legislative ratification",
+    "judicial independence",
+    "sovereign immunity"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Public International Law",
+    "Administrative Law",
+    "Treaty Law",
+    "Separation of Powers"
+  ],
+  "verdict": "The application for certiorari and prohibition was dismissed. The Supreme Court held that it could not quash the High Court's ruling merely to enable compliance with international tribunal orders, as treaties do not automatically become part of municipal law without legislative incorporation.",
+  "winningSide": "High Court (Comm. Div.) Accra / Respondent",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah JSC",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Dotse JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Yeboah JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebo JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Akamba JSC",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Republic v High Court Accra, Ex Parte CHRAJ [2003-2004] SCGLR 1",
+    "Republic v Court of Appeal, Ex Parte Tsatsu Tsikata [2005-2006] SCGLR 612",
+    "Triquet v Bath (1764) 3 Burr. 1478",
+    "Trendtex Trading Corporation v Central Bank of Nigeria [1977] QB 529",
+    "Chung Chi Cheung v The King [1939] AC 160",
+    "The Parlement Belge [1880] 5 PD 197",
+    "Walker v Baird [1892] AC 491",
+    "Attorney-General (Canada) v Attorney-General (Ontario) [1937] AC 326",
+    "Theophile v Solicitor-General [1950] AC 186",
+    "J.H. Rayner (Mincing Lane) Ltd. v Dept of Trade and Industry [1990] AC 418"
+  ],
+  "rationaleHighlights": [
+    "Customary international law is part of Ghanaian law, but treaties require legislative incorporation to alter municipal law.",
+    "The Supreme Court cannot issue certiorari merely to enable compliance with international obligations.",
+    "Article 75 of the 1992 Constitution does not automatically incorporate treaties into domestic law.",
+    "Directive principles in Articles 40 and 73 do not override the dualist system.",
+    "Orders of international tribunals are not binding on Ghanaian courts without domestic legislation.",
+    "The Italian example in Jurisdictional Immunities (Germany v Italy) shows States must use domestic processes to comply with international judgments.",
+    "The Executive cannot unilaterally change municipal law through treaty ratification.",
+    "Judicial decisions cannot be quashed as diplomatic tools."
+  ],
+  "confidenceNotes": "The ruling is comprehensive and cites numerous authoritative sources from Ghanaian, Commonwealth, and international jurisprudence. The analysis of dualism in municipal and international law is consistent with established legal doctrine.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/THE REPUBLIC VRS HIGH COURT (COMM. DIV.) ACCRA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:07:02.074Z",
+    "plainTextLength": 74556
+  },
+  "trialDate": "2013-10-05"
+}

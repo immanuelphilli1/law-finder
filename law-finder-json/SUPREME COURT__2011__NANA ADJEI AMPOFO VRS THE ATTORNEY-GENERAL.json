@@ -1,0 +1,102 @@
+{
+  "caseTitle": "NANA ADJEI AMPOFO VRS THE ATTORNEY-GENERAL",
+  "summary": "In Nana Adjei Ampofo v. The Attorney-General & The President of the National House of Chiefs (Supreme Court, 2011), the plaintiff challenged the constitutionality of Section 63(d) of the Chieftaincy Act, 2008 (Act 759), which criminalizes the deliberate refusal to honor a chief's call to attend to an issue. The plaintiff argued that the provision violated the right to freedom of movement under Articles 14 and 21 of the 1992 Constitution, was vague, overbroad, and susceptible to abuse. The Supreme Court held that individual chiefs do not possess judicial powers under the Constitution, distinguishing their role as customary arbitrators from formal judicial functions. The Court rejected the argument that a chief’s call could be equated to a subpoena, emphasizing that arbitration requires consent. It further ruled that the institution of chieftaincy, while constitutionally guaranteed under Article 270(1), is not insulated from constitutional and statutory scrutiny and must conform to the rule of law. The provision was found to unjustifiably infringe on fundamental rights and was declared unconstitutional.",
+  "legalKeywords": [
+    "freedom of movement",
+    "rule of law",
+    "constitutional interpretation",
+    "judicial power",
+    "customary arbitration",
+    "chieftaincy",
+    "subpoena",
+    "due process",
+    "vagueness doctrine",
+    "overbreadth",
+    "fundamental rights",
+    "constitutional supremacy",
+    "arbitration consent",
+    "statutory interpretation",
+    "human rights infringement",
+    "constitutional jurisdiction",
+    "traditional authority",
+    "judicial committees",
+    "constitutional guarantee",
+    "customary law"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Human Rights",
+    "Chieftaincy and Customary Law",
+    "Judicial Power and Separation of Powers",
+    "Statutory Interpretation"
+  ],
+  "verdict": "The Supreme Court declared Section 63(d) of Act 759 unconstitutional for violating the right to freedom of movement and failing to meet constitutional standards of clarity and proportionality.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Presiding"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Adinyira",
+      "role": "Justice"
+    },
+    {
+      "name": "Owusu",
+      "role": "Justice"
+    },
+    {
+      "name": "Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "Aryeetey",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebe",
+      "role": "Justice"
+    },
+    {
+      "name": "A. Bamfo",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Challenge",
+  "citations": [
+    "Adjei-Ampofo v Attorney-General [2003-2004] SCGLR 411",
+    "Edusei v Attorney-General [1996-97] SCGLR 1",
+    "Republic v Techiman Traditional Council, Ex parte Tutu [1982-83] GLR 996",
+    "U.S. v Brewer 139 U.S. 278"
+  ],
+  "rationaleHighlights": [
+    "Individual chiefs lack constitutional judicial power; their role is limited to consensual customary arbitration.",
+    "Section 63(d) of Act 759 is overbroad and vague, failing to specify the nature, time, or place of the 'issue' to be attended.",
+    "A chief’s call cannot be equated to a subpoena, as it lacks the procedural safeguards and specificity of judicial process.",
+    "The institution of chieftaincy, while constitutionally guaranteed, is subject to constitutional and statutory limits.",
+    "Fundamental rights under Articles 14 and 21 must not be infringed without justification.",
+    "The rule of law requires that all traditional institutions conform to constitutional standards.",
+    "Statutory provisions must provide clear notice of prohibited conduct to satisfy due process.",
+    "The Constitution prevails over customary practices that conflict with fundamental rights."
+  ],
+  "confidenceNotes": "The summary is based on a detailed judicial opinion from the Supreme Court of Ghana, with clear reasoning and citation to constitutional provisions and case law. The ruling is definitive on the unconstitutionality of Section 63(d) in the context of fundamental rights and separation of powers.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/NANA ADJEI AMPOFO VRS THE ATTORNEY-GENERAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:02:45.665Z",
+    "plainTextLength": 49335
+  }
+}

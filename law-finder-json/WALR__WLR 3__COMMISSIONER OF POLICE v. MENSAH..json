@@ -1,0 +1,74 @@
+{
+  "caseTitle": "COMMISSIONER OF POLICE VERSUS MENSAH.",
+  "summary": "In Commissioner of Police v. Mensah, the appellant was convicted of unlawfully possessing goods reasonably suspected of being stolen under section 108 of the Criminal Code. He appealed, arguing that the prosecution's cross-examination about a previous conviction violated section 129(f) of the Criminal Procedure Code, which protects accused persons from questions about bad character unless they open the door. The High Court held that the appellant had waived this protection by (1) asserting a defence of lawful acquisition through honest work, thereby putting his good character in issue, and (2) accusing a police witness of destroying a statement, which constituted an attack on the witness's character. The court further ruled that even if the questioning were improper, no miscarriage of justice occurred given the strength of the evidence and the magistrate's experience. On sentencing, the court rejected the argument that only one prior conviction counted, holding that eight prior convictions for stealing were 'similar offences' to unlawful possession under section 80 of the Criminal Code, as both fall under Title II. Thus, the appellant's twelve-month sentence was upheld, though it was ordered to run from the date of original conviction due to appellate delays.",
+  "legalKeywords": [
+    "character evidence",
+    "bad character",
+    "cross-examination",
+    "previous convictions",
+    "similar offence",
+    "section 129 Criminal Procedure Code",
+    "section 80 Criminal Code",
+    "impeachment of witness",
+    "miscarriage of justice",
+    "possession of stolen goods",
+    "stealing",
+    "unlawful possession",
+    "defence conduct",
+    "prosecution questioning",
+    "judicial discretion",
+    "magistrate trial",
+    "appellate review",
+    "sentence enhancement",
+    "inadmissible evidence",
+    "imputations against witness",
+    "good character defence"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence",
+    "Sentencing",
+    "Character Evidence",
+    "Appeal"
+  ],
+  "verdict": "Conviction upheld; appeal dismissed with sentence adjusted to run from date of original conviction.",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Adumua-Bossman J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Central Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Thomas (1957) 41 Cr.App.R. 236",
+    "[1957] 1 W.L.R. 747",
+    "[1957] 3 All E.R. 350",
+    "Criminal Procedure Code, c. 10 of 1951, s. 129(f)",
+    "Criminal Code, c. 9 of 1951, s. 80",
+    "s. 108 Criminal Code",
+    "s. 100 Criminal Code"
+  ],
+  "rationaleHighlights": [
+    "Accused's claim of lawful acquisition of items constituted putting his good character in issue, waiving protection under s. 129(f).",
+    "Accused's allegation that police destroyed a statement amounted to an attack on a prosecution witness's character, further waiving s. 129(f) protection.",
+    "Even if improper, questioning about prior imprisonment did not cause a miscarriage of justice given the strength of evidence and magistrate's experience.",
+    "Stealing (s. 100) and unlawful possession (s. 108) are 'similar offences' under Title II of the Criminal Code, per s. 80 and its Notes.",
+    "Accused had nine prior convictions for similar offences, justifying enhanced sentence of twelve months.",
+    "Magistrates are presumed capable of disregarding inadmissible evidence, especially when raised by unrepresented accused.",
+    "No interference with conviction due to lack of substantial injustice.",
+    "Sentence ordered to run from date of original conviction due to appellate delay."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct textual evidence from the judgment. Editorial note indicates some scholarly disagreement on the interpretation of s. 129(f), but the court's holding is clearly stated.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/COMMISSIONER OF POLICE v. MENSAH..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:06:48.159Z",
+    "plainTextLength": 9721
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "caseTitle": "DAATSIN VERSUS AMISSAH",
+  "summary": "In this 1958 High Court decision, the plaintiff, Kwaw Daatsin (head of the Kumah branch of the Anona family), sued Chief Sam Amissah (head of another branch) to recover a debt of �28 allegedly owed by the deceased 'Uncle Sam' to the deceased Kwesi Asafuah. The court held that under prevailing native customary law, the family of a deceased person is not liable for their debts, particularly where the debtor left no estate. The action could not be maintained against the head of the debtor's family. Additionally, the court ruled that the plaintiff lacked locus standi because the right to enforce the debt passed to the matrilineal family of the deceased creditor, not the plaintiff's family branch. The court affirmed that a head of family suing in a representative capacity is personally liable for costs if awarded against them, citing Hammond v. United Africa Co. This decision marks a shift from older customs of collective family liability, rejecting such principles as relics of slavery inconsistent with justice and equity.",
+  "legalKeywords": [
+    "family liability",
+    "debt recovery",
+    "native customary law",
+    "personal liability",
+    "costs in litigation",
+    "representative capacity",
+    "matrilineal inheritance",
+    "contractual obligation",
+    "insolvent estate",
+    "head of family"
+  ],
+  "topics": [
+    "Contract Law",
+    "Customary Law",
+    "Family Law",
+    "Debt Recovery",
+    "Costs in Litigation"
+  ],
+  "verdict": "Appeal allowed; judgment for the plaintiff set aside.",
+  "winningSide": "Defendant (Chief Sam Amissah)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adumua-Bossman J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Central Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Lokko v. Konklofi (1908) Renner's Reports, Vol. 1, Pt. 2, 454",
+    "Hammond v. United Africa Co., Ltd. and Others (1936) 3 W.A.C.A. 60",
+    "Asiedu v. Ofori and Another, Divisional Court, Dec. 6, 1932, unreported",
+    "Larkai v. Amorkor and Others (1933) 1 W.A.C.A. 323",
+    "Arthur v. Ayensu (1957) 2 W.A.L.R. 257"
+  ],
+  "rationaleHighlights": [
+    "Family not liable for debts of deceased member under modern customary law",
+    "Head of family not proper defendant for individual debts",
+    "Deceased creditor's claim vests in matrilineal family, not plaintiff's branch",
+    "Head suing in representative capacity is personally liable for costs"
+  ],
+  "confidenceNotes": "The judgment is clear and well-reasoned, citing authoritative sources including unreported decisions and scholarly works. Editorial note clarifies potential ambiguity regarding solvency.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/DAATSIN v. AMISSAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:06:01.115Z",
+    "plainTextLength": 17978
+  }
+}

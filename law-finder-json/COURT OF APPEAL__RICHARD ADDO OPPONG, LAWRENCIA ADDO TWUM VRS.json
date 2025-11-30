@@ -1,0 +1,80 @@
+{
+  "caseTitle": "RICHARD ADDO OPPONG, LAWRENCIA ADDO TWUM VRS",
+  "summary": "This is a civil appeal before the Court of Appeal of Ghana, arising from a High Court judgment that set aside a consent judgment in Suit No. E2/59/2006 involving the 'SCOA Building' in Takoradi. The respondents, administrators of the estate of the late Halifax Addo-Twum, claimed ownership of part of the building based on his alleged contribution of half the purchase price when the appellant church (Resurrection Power & Living Bread Ministries International) acquired it from SCOA Ghana Ltd. in 1994. The appellant had obtained a consent judgment against S.G.S. Ltd., the tenant, without notifying the respondents. The respondents then sued to set aside that judgment on grounds of fraud and were granted relief, including a declaration of title not originally claimed. The Court of Appeal found that the trial judge erred in law by amending the writ and counterclaim sua sponte at the judgment stage, contrary to Order 16 of C.I. 47, and that there was insufficient evidence to support a finding of fraud. The court also held that the trial judge misapplied the principle in Lamptey v. Hammond and failed to give adequate consideration to the appellant's case. As a result, the appeal was allowed, and the High Court’s judgment was set aside.",
+  "legalKeywords": [
+    "consent judgment",
+    "fraud",
+    "amendment of pleadings",
+    "discretionary jurisdiction",
+    "real question in controversy",
+    "relief not claimed",
+    "title to property",
+    "procedural fairness",
+    "settlement agreement",
+    "recovery of possession",
+    "injunction",
+    "writ of summons",
+    "counterclaim",
+    "leave to defend",
+    "fraudulent procurement"
+  ],
+  "topics": [
+    "Property Law",
+    "Civil Procedure",
+    "Fraud in Legal Proceedings",
+    "Judicial Discretion",
+    "Appeal"
+  ],
+  "verdict": "The appeal was allowed. The High Court's judgment was set aside due to procedural errors and lack of evidence supporting fraud.",
+  "winningSide": "Appellant (Resurrection Power & Living Bread Ministries International)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kanyoke, J.A.",
+      "role": "author of judgment"
+    },
+    {
+      "name": "Abban (Mrs.), J.A.",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Gyasesayor, J.A.",
+      "role": "member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Lamptey v. Hammond (1986-87) 1 G.L.R. 327",
+    "Dam v. Addo & Brothers (1992) 2 G.L.R. 200",
+    "Okofo Estates Ltd. v. Modern Signs Ltd. (1991-92) S.C.G.L.R. 253",
+    "Adu v. Ankumah (1972) 1 G.L.R.",
+    "Butt v. Chapel Hill Properties Ltd. (2003-2004) 1 S.C.G.L.R. 636",
+    "J.K. Serbeh & Co. Ltd. v. Mensah (2005-2006) S.C.G.L.R. 341",
+    "Delle & Delle v. Owusu Afriyie (2005-2006) S.C.G.L.R. 458",
+    "Evans v. Bartlam (1937) A.C. 473",
+    "Brempong II v. Amofa (2001-2002) 2 S.C.G.L.R. 177",
+    "Klimotechnik Engineering Ltd. v. Skanska Jensen International (2005-2006) S.C.G.L.R. 913"
+  ],
+  "rationaleHighlights": [
+    "The trial judge improperly amended the writ and counterclaim sua sponte at the judgment stage, contrary to Order 16 rules of C.I. 47.",
+    "The principle in Lamptey v. Hammond applies beyond default judgments and is a general rule for setting aside judgments.",
+    "No sufficient evidence was found to support a finding of fraud by the defendants against the plaintiffs.",
+    "The Court of Appeal emphasized that amendments must follow procedural rules and cannot be made retroactively in the judgment.",
+    "Discretion to set aside a judgment must be exercised on correct legal principles and based on adequate evidence.",
+    "The appellant church was not given adequate consideration in the trial court's decision.",
+    "The respondent’s claim for setting aside a consent judgment required either proof of fraud or a reasonable defence.",
+    "The court reaffirmed that procedural rules must be strictly followed to ensure fairness."
+  ],
+  "confidenceNotes": "The document is a full judgment from the Court of Appeal of Ghana, with clear procedural and factual details. All extracted information is directly supported by the text.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/RICHARD ADDO OPPONG, LAWRENCIA ADDO TWUM VRS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:07:38.344Z",
+    "plainTextLength": 62917
+  },
+  "trialDate": "2010-07-08"
+}

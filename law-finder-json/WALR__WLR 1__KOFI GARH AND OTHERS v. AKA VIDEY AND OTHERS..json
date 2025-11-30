@@ -1,0 +1,84 @@
+{
+  "caseTitle": "KOFI GARH AND OTHERS VERSUS VIDEY AND OTHERS.",
+  "summary": "This case involved an appeal from a decision of the Battor-Mepe Native Court, which recognized the plaintiffs' ancestors as principal landowners but awarded possession to the defendants over portions historically granted as farming land. The appeal was initially heard by Chalmers Smith J., who found the judgment unclear regarding land boundaries and referred the case back to the Native Court for clarification, adjourning the appeal. Subsequent judges, including Jackson J. and van Lare J., issued further directions, but the case ultimately came before Manyo Plange J., who ruled that the appeal could not be continued from prior proceedings due to judicial discontinuity and ordered it to be heard de novo. The West African Court of Appeal upheld this decision, holding that an appeal partially heard by one judge cannot be resumed by another, and that the de novo order did not invalidate prior procedural directions. The appeal was dismissed, affirming the principle of judicial continuity in appellate proceedings.",
+  "legalKeywords": [
+    "appeal de novo",
+    "part-heard appeal",
+    "Native Court",
+    "judicial continuity",
+    "reference back",
+    "boundaries of land",
+    "appellate jurisdiction",
+    "Land Court",
+    "Native Courts Ordinance",
+    "judicial order",
+    "procedural order",
+    "succession of judges",
+    "jurisdictional limits",
+    "clarification of judgment",
+    "interlocutory order"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Land Law",
+    "Judicial Continuity",
+    "Native Courts",
+    "Procedural Orders"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Korsah J.A.",
+      "role": "appellate judge"
+    },
+    {
+      "name": "Coussey P.",
+      "role": "appellate judge"
+    },
+    {
+      "name": "Ames Ag.J.A.",
+      "role": "appellate judge"
+    },
+    {
+      "name": "Chalmers Smith J.",
+      "role": "trial appeal judge"
+    },
+    {
+      "name": "Jackson J.",
+      "role": "successor judge"
+    },
+    {
+      "name": "van Lare J.",
+      "role": "successor judge"
+    },
+    {
+      "name": "Manyo Plange J.",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "WALR/WLR 1/KOFI GARH AND OTHERS v. AKA VIDEY AND OTHERS",
+    "Native Courts (Colony) Ordinance, c. 98, s. 50"
+  ],
+  "rationaleHighlights": [
+    "An appeal part-heard by one judge cannot be continued by another judge, analogous to trial continuity principles.",
+    "A reference back to a Native Court for boundary clarification constitutes a part-hearing of the appeal.",
+    "An order to re-hear in whole or in part may render an appeal part-heard.",
+    "A subsequent judge cannot be bound by procedural directions of a predecessor if the hearing was incomplete.",
+    "The order to hear de novo does not equate to setting aside a prior judge's order."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from the legal document. All details are explicitly stated or clearly implied in the judgment.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/KOFI GARH AND OTHERS v. AKA VIDEY AND OTHERS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:06:23.826Z",
+    "plainTextLength": 11249
+  }
+}

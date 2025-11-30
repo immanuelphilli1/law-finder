@@ -1,0 +1,82 @@
+{
+  "caseTitle": "THE REPUBLIC v. THE HIGH COURT, ACCRA EX-PARTE CONTINENTAL C",
+  "summary": "The Republic applied for certiorari to quash a High Court judgment in a commercial dispute between two foreign parties, arguing the court lacked jurisdiction. The Supreme Court dismissed the application as out of time, holding that despite claims of jurisdictional nullity, Rule 62 of C.I. 16 mandates filing within 90 days of the impugned decision. The court emphasized that even allegedly void judgments require compliance with statutory procedures to be challenged and that failure to meet the time limit extinguishes the right to relief. The preliminary objection was upheld, affirming procedural rigor over substantive claims of jurisdictional defect.",
+  "legalKeywords": [
+    "certiorari",
+    "jurisdiction",
+    "nullity",
+    "supervisory jurisdiction",
+    "prerogative orders",
+    "time limit",
+    "Rule 62",
+    "constitutional law",
+    "procedural compliance",
+    "ultra vires",
+    "collateral attack",
+    "direct attack",
+    "locus standi",
+    "Courts Act 1993",
+    "Article 132 Constitution"
+  ],
+  "topics": [
+    "Judicial Review",
+    "Jurisdiction",
+    "Procedural Law",
+    "Constitutional Law",
+    "Administrative Law"
+  ],
+  "verdict": "Application dismissed for being out of time under Rule 62 of C.I. 16.",
+  "winningSide": "The High Court, Accra (respondent)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "D. K. Afreh",
+      "role": "author"
+    },
+    {
+      "name": "Mrs. Bamford-Addo",
+      "role": "concurrence"
+    },
+    {
+      "name": "F. Y. Kpegah",
+      "role": "concurrence"
+    },
+    {
+      "name": "E.D.K. Adjaheng",
+      "role": "concurrence"
+    },
+    {
+      "name": "T. K. Adzoe",
+      "role": "concurrence"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Macfoy v. United Africa Company Ltd. [1962] A.C. 152",
+    "Mosi v. Bagyina [1963] 1 GLR",
+    "Republic v. High Court, Accra: Ex parte Darke XII and Anor. [1992-93] 3 GBR 1138",
+    "Smith v. East Elloe Rural District Council [1956] A.C. 736",
+    "Hoffman-La Roche and Co. A.G and Others vrs. Secretary of State for Trade and Industry [1975] A.C. 295"
+  ],
+  "rationaleHighlights": [
+    "An allegedly void decision must still comply with statutory time limits when challenging via certiorari.",
+    "Judgment presumed valid until legally declared otherwise.",
+    "Supervisory jurisdiction under Article 132 must follow procedural rules in C.I. 16.",
+    "Rule 62 requires filing within 90 days; no extension allowed after expiry.",
+    "Nullity argument does not override statutory time limits for judicial review.",
+    "Failure to file within time renders application incompetent.",
+    "Legal remedies extinguished after 90-day period under Rule 66."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy as all data is drawn directly from the court document. Jurisdictional and procedural details are clearly stated.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2002A/THE REPUBLIC v. THE HIGH COURT, ACCRA EX-PARTE CONTINENTAL C.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:38:45.903Z",
+    "plainTextLength": 8805
+  },
+  "trialDate": "24TH JULY, 2002"
+}

@@ -1,0 +1,70 @@
+{
+  "caseTitle": "REX v FELIX ONYINKE AND THREE OTHERS",
+  "summary": "The West Africa Court of Appeal was asked whether Buraimoh Biu, a convicted murderer under sentence of death, was a competent witness at trial. The court held that despite the common law rule and the precedent in R. v. Webb (1867), which rendered such persons incompetent due to 'attainder', the Forfeiture Act 1870 abolished attainder and corruption of blood. Section 1 of the Act declared that conviction for felony or treason would not result in attainder, thereby removing the legal disability. Consequently, the court ruled that a convicted murderer under sentence of death is a competent witness. The decision affirms statutory reform over outdated common law principles.",
+  "legalKeywords": [
+    "competent witness",
+    "convicted murderer",
+    "sentence of death",
+    "attainder",
+    "Forfeiture Act 1870",
+    "evidence law",
+    "common law",
+    "corruption of blood",
+    "criminal trial",
+    "judicial precedent",
+    "statutory interpretation",
+    "Rex v. Webb",
+    "civil death",
+    "testimony admissibility",
+    "criminal procedure"
+  ],
+  "topics": [
+    "Evidence Law",
+    "Criminal Law",
+    "Statutory Interpretation",
+    "Legal History",
+    "Witness Competency"
+  ],
+  "verdict": "The court ruled that a convicted murderer under sentence of death is a competent witness.",
+  "winningSide": "Appellants",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Webb, 11 Cox 133 (1867)",
+    "Evidence Act (6 & 7 Vict. c. 85)",
+    "Forfeiture Act 1870 (33 & 34 Vict. c. 23)"
+  ],
+  "rationaleHighlights": [
+    "At common law, a convicted murderer under sentence of death was not a competent witness due to attainder.",
+    "The Forfeiture Act 1870 abolished attainder and corruption of blood, rendering such individuals no longer 'civilly dead'.",
+    "Section 1 of the Forfeiture Act 1870 removes the legal bar on competency to testify.",
+    "The ratio decidendi of R. v. Webb (1867) is overruled in effect by the 1870 Act.",
+    "A convicted murderer under sentence of death is now competent to give evidence."
+  ],
+  "confidenceNotes": "The decision is based on clear statutory interpretation of the Forfeiture Act 1870, overriding prior common law and the precedent in R. v. Webb. High confidence in accuracy due to explicit judicial reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/REX v FELIX ONYINKE AND THREE OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:27:27.895Z",
+    "plainTextLength": 3310
+  },
+  "trialDate": "1941-04-28"
+}

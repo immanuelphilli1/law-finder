@@ -1,0 +1,61 @@
+{
+  "caseTitle": "REX v KANU EZUMA",
+  "summary": "In Rex v Kanu Ezuma, the appellant was convicted on two counts: fabricating evidence under section 120(1) of the Criminal Code and corruption of a witness under section 121(1). The West Africa Court of Appeal allowed the appeal against the first conviction, quashing it on the grounds that the charge alleged fabrication of evidence by counselling perjury—conduct expressly excluded from section 120(1). The court emphasized that the wording of the section only applies to fabrication 'by any means other than perjury or counselling or procuring the commission of perjury.' Since the particulars of the offence directly contradicted the statutory requirement, the conviction could not stand. A verdict of acquittal was entered on count one. The conviction on count two for witness corruption was upheld due to clear supporting evidence.",
+  "legalKeywords": [
+    "fabricating evidence",
+    "perjury",
+    "counselling perjury",
+    "witness corruption",
+    "judicial proceeding",
+    "criminal code",
+    "section 120",
+    "section 121",
+    "conviction quashed",
+    "acquittal"
+  ],
+  "topics": [
+    "criminal law",
+    "evidence",
+    "appeal",
+    "perjury",
+    "witness tampering"
+  ],
+  "verdict": "Appeal allowed on count one; conviction and sentence quashed. Conviction upheld on count two.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Baker",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Kanu Ezuma, WACA/7, Lagos, 2nd January 1941"
+  ],
+  "rationaleHighlights": [
+    "The charge under section 120(1) Criminal Code failed because it explicitly included 'counselling or procuring perjury,' which is excluded from that provision.",
+    "The statutory language 'any means other than perjury or counselling or procuring the commission of perjury' limits the scope of section 120(1).",
+    "Charging the accused with fabricating evidence by counselling perjury brings the case within the exception, not the rule."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment text.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/REX v KANU EZUMA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:25:43.311Z",
+    "plainTextLength": 3189
+  },
+  "trialDate": "1941-01-02"
+}

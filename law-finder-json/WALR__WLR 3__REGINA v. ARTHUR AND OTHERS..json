@@ -1,0 +1,63 @@
+{
+  "caseTitle": "REGINA VERSUS ARTHUR",
+  "summary": "In Regina v. Arthur and Others, applications for attachment orders were brought before the Divisional Court in Accra for alleged criminal contempt of the Divisional Court in Kumasi, arising from newspaper articles published during pending proceedings. The court held that only the court in which the contempt is alleged to have occurred has jurisdiction to hear such applications. Relying on precedent and Section 7 of the Courts Ordinance, c. 4 of 1951, the court ruled that although the Chief Justice has nationwide jurisdiction, this does not empower a court in one judicial division to hear contempt matters belonging to another. Therefore, the Accra court lacked jurisdiction, and the applications were refused.",
+  "legalKeywords": [
+    "criminal contempt",
+    "jurisdiction",
+    "contempt of court",
+    "Chief Justice",
+    "Divisional Court",
+    "Courts Ordinance",
+    "judicial division",
+    "attachment order",
+    "procedural jurisdiction",
+    "judicial authority",
+    "contempt proceedings",
+    "territorial jurisdiction",
+    "judicial power",
+    "Supreme Court judges",
+    "precedent"
+  ],
+  "topics": [
+    "Criminal Contempt",
+    "Jurisdiction",
+    "Judicial Authority",
+    "Chief Justice Powers",
+    "Procedural Law"
+  ],
+  "verdict": "Applications for attachment orders refused due to lack of jurisdiction.",
+  "winningSide": "Respondents (journalists)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Quashie-Idun",
+      "role": "Ag. Chief Justice"
+    },
+    {
+      "name": "Windsor-Aubrey",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "criminal contempt",
+  "citations": [
+    "In the Matter of an Application for Attachment for Contempt of Court (1886) 2 T.L.R. 351",
+    "Courts Ordinance, c. 4 of 1951, s. 7"
+  ],
+  "rationaleHighlights": [
+    "Only the court in respect of which contempt is alleged has jurisdiction to hear attachment applications.",
+    "The Chief Justice's nationwide jurisdiction does not allow hearing matters in a court lacking jurisdiction.",
+    "Precedent from 1886 supports that courts punish only contempt of themselves.",
+    "Section 7 of the Courts Ordinance does not confer jurisdiction on a Divisional Court outside the territorial division where the contempt occurred."
+  ],
+  "confidenceNotes": "The ruling is clear and based on established precedent and statutory interpretation; high confidence in accuracy.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/REGINA v. ARTHUR AND OTHERS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:53:51.872Z",
+    "plainTextLength": 8073
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "caseTitle": "REX v AKINPELU AJANI, AND OTHERS",
+  "summary": "In this 1936 West Africa Court of Appeal decision, four appellants were tried for coining offences under section 148(3)(c) of the Criminal Code. The fourth appellant, Tiamiyu, was convicted based on statements from co-accused, despite the prosecution presenting no admissible evidence of his possession of coining tools. The Court held that such statements by one accused against another made in absence are inadmissible unless properly safeguarded. It further ruled that where no case is made by the prosecution, the accused should be discharged before defence; failure to do so constitutes a fundamental error. Although English precedents allowed consideration of defence evidence in such cases, the Court found misdirection and procedural flaws warranted quashing Tiamiyu's conviction. The appeals of the first three appellants were dismissed, but the fourth appellant's appeal was allowed due to lack of admissible evidence and judicial error.",
+  "legalKeywords": [
+    "coining",
+    "admissibility of evidence",
+    "statement by co-accused",
+    "corroboration",
+    "attempt",
+    "misdirection",
+    "non-direction",
+    "accomplice evidence",
+    "possession",
+    "confession",
+    "criminal procedure",
+    "no case to answer",
+    "trial error",
+    "appellate review",
+    "joint trial"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence",
+    "Appellate Procedure",
+    "Procedural Fairness",
+    "Coining Offence"
+  ],
+  "verdict": "Appeal allowed for fourth appellant; convictions of first three appellants upheld.",
+  "winningSide": "Fourth appellant (Tiamiyu)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v. Abraham George (1 Cr. App. Rep., p. 168)",
+    "Rex v. Joseph Power (14 Cr. App. Rep., p. 17; (1919) 1 K.B. 572)",
+    "Rex v. Benjamin Pearson (1 Cr. App. Rep., p. 77)",
+    "Rex v. Frederick Joiner (4 Cr. App. Rep., p. 64)",
+    "Rex v. Frederick Jackson (5 Cr. App. Rep., p. 22)",
+    "Rex v. Alexander Fraser (7 Cr. App. Rep., p. 99)"
+  ],
+  "rationaleHighlights": [
+    "No admissible evidence was presented by the prosecution against the fourth appellant (Tiamiyu) on the first count.",
+    "Statements by co-accused implicating others when not present are inadmissible without proper judicial safeguards.",
+    "Trial judge erred in not discharging the appellant when no case was made by the prosecution.",
+    "Evidence from defence, including accomplice testimony, cannot cure a fatal lack of prosecution evidence if procedural safeguards are breached.",
+    "Appellate court emphasized the need for trial judges to record rulings on inadmissibility and avoid misdirection."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judgment text and clear procedural analysis.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/REX  v AKINPELU   AJANI, AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:15:58.555Z",
+    "plainTextLength": 18894
+  },
+  "trialDate": "1936-02-14"
+}

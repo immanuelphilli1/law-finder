@@ -1,0 +1,72 @@
+{
+  "caseTitle": "AMOABENG VERSUS MILLS",
+  "summary": "In Amoabeng v. Mills, a police constable (plaintiff) was struck by a taxi (defendant) while crossing the road in Accra. The plaintiff claimed damages for negligence, but the defendant raised contributory negligence as a defense. The court found that the plaintiff had stepped into the roadway without due care, taking two or three steps into traffic without looking, despite the taxi approaching at high speed. Although the defendant may have been driving fast, the court held that the plaintiff’s failure to exercise reasonable caution was the decisive cause of the accident. Relying on Radley v. London and North Western Railway Company, the court concluded that the plaintiff's contributory negligence barred recovery, especially in the absence of the Law Reform (Contributory Negligence) Act, 1945, which would have allowed apportionment of damages. Judgment was entered for the defendant with costs.",
+  "legalKeywords": [
+    "contributory negligence",
+    "negligence",
+    "proximate cause",
+    "duty of care",
+    "pedestrian duty",
+    "defence of contributory negligence",
+    "running down accident",
+    "last opportunity rule",
+    "causation in tort",
+    "decisive cause",
+    "Gold Coast law",
+    "Supreme Court precedent",
+    "Radley v London and North Western Railway",
+    "traffic safety",
+    "plaintiff's burden of proof",
+    "evidence credibility",
+    "judgment for defendant",
+    "tort law",
+    "civil liability",
+    "road accident"
+  ],
+  "topics": [
+    "Tort Law",
+    "Negligence",
+    "Contributory Negligence",
+    "Traffic Accidents",
+    "Judicial Reasoning"
+  ],
+  "verdict": "Judgment for the defendant",
+  "winningSide": "defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Smith Ag.J.",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Eastern Judicial Division",
+    "country": "Ghana"
+  },
+  "caseType": "civil tort claim for negligence",
+  "citations": [
+    "Radley v. London and North Western Railway Company (1876) 1 App. Cas. 754",
+    "Davies v. Mann (1842) 10 M. & W. 546",
+    "Admiralty Commissioners v. North of Scotland and Orkney and Shetland Steam Navigation Co. Ltd. [1947] 2 All E.R. 350",
+    "Grant v. Sun Shipping Co. Ltd. [1948] 2 All E.R. 238",
+    "Davies v. Susan Motor Co. Ltd. [1949] 1 All E.R. 620",
+    "Nance v. British Columbia Electric Railway Co. [1951] 2 All E.R. 448"
+  ],
+  "rationaleHighlights": [
+    "The plaintiff, as a pedestrian, owed a duty to traffic to exercise due care when entering the roadway.",
+    "The plaintiff’s act of stepping into traffic without looking constituted contributory negligence.",
+    "Contributory negligence was deemed the decisive cause of the accident.",
+    "The absence of the Law Reform (Contributory Negligence) Act in the Gold Coast meant the plaintiff could not recover any damages.",
+    "The court rejected the 'last opportunity' rule in favor of determining the decisive cause of harm.",
+    "Credibility of evidence favored the conclusion that the plaintiff was already in the road when struck.",
+    "The defendant’s speed, while potentially negligent, was not the proximate cause of the accident.",
+    "The judgment emphasized causation over technical timing of negligent acts."
+  ],
+  "confidenceNotes": "The summary and analysis are based on a clear reading of the reported judgment and editorial commentary. All key facts, legal principles, and citations are directly extracted from the text. The absence of modern contributory negligence legislation in the jurisdiction at the time is central to the outcome.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/AMOABENG v. MILLS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:15:27.570Z",
+    "plainTextLength": 12287
+  }
+}

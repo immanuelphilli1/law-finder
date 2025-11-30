@@ -1,0 +1,84 @@
+{
+  "caseTitle": "REPUBLIC v. THOMAS ASARE EX-PARTE NAA TWAA KOFI",
+  "summary": "In this Court of Appeal ruling, the applicant, Thomas Asare, appealed a finding of contempt and sentence imposed by the Tema High Court in a civil proceeding. The High Court had found him 'guilty' and imposed a fine or alternative imprisonment, part of which was to compensate the applicant. Asare appealed to the Civil Division and sought a stay of execution, which was denied at the trial level. Before the Court of Appeal, the key issue was whether the contempt was civil or criminal, affecting the proper appellate procedure. The respondent argued the matter was quasi-criminal and should have gone to the Criminal Division with a bail application. The Court held that despite the use of 'guilty' and 'sentence,' the context—especially the award of costs—indicated civil contempt. Thus, the appeal to the Civil Division was valid. While a formal 'stay of execution' was procedurally improper due to the nature of the penalty, the court exercised its inherent jurisdiction under CI. 19 Rule 7 to suspend enforcement pending appeal, avoiding irreparable harm.",
+  "legalKeywords": [
+    "contempt of court",
+    "civil contempt",
+    "criminal contempt",
+    "appeal",
+    "stay of execution",
+    "bail pending appeal",
+    "inherent jurisdiction",
+    "interlocutory application",
+    "quasi-criminal offence",
+    "High Court rules",
+    "CI. 19 Rule 7",
+    "procedural error",
+    "prejudgment",
+    "sentence",
+    "fine",
+    "imprisonment",
+    "compensation",
+    "costs",
+    "record of appeal",
+    "locus standi",
+    "enforcement",
+    "fieri facias",
+    "garnishee order",
+    "summons to show cause",
+    "writ of sequestration",
+    "writ of attachment",
+    "writ of delivery"
+  ],
+  "topics": [
+    "Contempt of Court",
+    "Appellate Procedure",
+    "Civil vs Criminal Contempt",
+    "Inherent Jurisdiction",
+    "Stay of Execution"
+  ],
+  "verdict": "The Court of Appeal granted the motion to suspend enforcement of the contempt order pending appeal, recognizing the matter as civil contempt and affirming the validity of the appeal to the Civil Division.",
+  "winningSide": "Applicant (Thomas Asare)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "G. T. Wood (Mrs.)",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "S. A. Brobbey",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "B. T. Aryeetey",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "THE REPUBLIC v. THOMAS ASARE EX-PARTE NAA TWAA KOFI [20/05/99] CA NO. 90/99",
+    "Mensah vs. Ghana Football Association 1989-90 1 GLR. 1"
+  ],
+  "rationaleHighlights": [
+    "The use of terms like 'guilty' and 'sentence' does not automatically convert civil contempt into criminal contempt.",
+    "An appeal from punishment for disobedience in civil proceedings is not a 'criminal cause or matter'.",
+    "Award of costs supports the characterization of the contempt as civil.",
+    "Appellate courts must avoid prejudging substantive issues during interlocutory applications.",
+    "Stay of execution is inappropriate where enforcement mechanisms under civil procedure rules do not apply.",
+    "The court may grant alternative relief under its inherent jurisdiction and CI. 19 Rule 7.",
+    "The motion was properly brought in the Civil Division of the Court of Appeal.",
+    "The applicant demonstrated serious legal issues and risk of irreparable harm if relief was not granted."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; all key details are explicitly stated in the ruling. Jurisdiction and court level confirmed by document header and coram.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/THE REPUBLIC v. THOMAS ASARE EX-PARTE NAA TWAA KOFI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T09:59:52.644Z",
+    "plainTextLength": 12591
+  },
+  "trialDate": "20TH MAY, 1999"
+}

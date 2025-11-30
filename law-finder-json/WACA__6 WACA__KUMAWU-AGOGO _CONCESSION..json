@@ -1,0 +1,65 @@
+{
+  "caseTitle": "KUMAWU-AGOGO _CONCESSION.",
+  "summary": "This 1940 appeal before the West Africa Court of Appeal arose from a concession granted by the Ohene of Agogo to William Arthur Thornton over land at Agogo, Ashanti. The Omanhene of Kumawu and Ohene of Kwaman opposed the certificate of validity, claiming the land was held in common by Agogo, Kumawu, and Kwaman stools. The Divisional Court had ruled for the grantor, finding the opposers failed to prove joint ownership. On appeal, the main grounds were the trial judge's refusal to admit prior admissions by a predecessor of the Agogohene in a 1928 case, and an estoppel argument. The appellate court held that estoppel could not be raised for the first time on appeal, as it was not pleaded or raised during the trial. It also ruled that although the prior evidence was admissible as an admission against interest by a predecessor in title, its exclusion was not prejudicial because the same facts were testified to orally by the witness during the inquiry. The court upheld the trial judge’s factual findings and dismissed the appeal, affirming the concession's validity.",
+  "legalKeywords": [
+    "estoppel",
+    "admissibility of evidence",
+    "admissions against interest",
+    "predecessor in title",
+    "concession grant",
+    "joint ownership",
+    "pleadings",
+    "weight of evidence",
+    "traditional land tenure",
+    "common property",
+    "stool land"
+  ],
+  "topics": [
+    "Land Law",
+    "Evidence",
+    "Appeal Procedure",
+    "Customary Tenure",
+    "Estoppel"
+  ],
+  "verdict": "Appeal dismissed.",
+  "winningSide": "Claimant (Grantor-Respondent)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Turbett",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Woolway v. Rowe (1834) 31 J.K.B. 121; 1 A. & E. 121",
+    "Woolway v. Rowe 1 A. & E. 114"
+  ],
+  "rationaleHighlights": [
+    "Issue of estoppel not raised in pleadings or openings cannot be raised for the first time on appeal.",
+    "Even if evidence was wrongly excluded, no prejudice occurred because same facts were proved orally by the witness.",
+    "Admissions by a predecessor in title are admissible against the current holder, per Woolway v. Rowe.",
+    "Pleadings or counsel's opening serve as formal pleadings in absence of written statements.",
+    "Trial judge's factual findings upheld due to lack of sufficient contrary weight in evidence."
+  ],
+  "confidenceNotes": "High confidence; all key details such as parties, jurisdiction, legal reasoning, and outcome are explicitly stated in the judgment. The absence of modern citation standards does not affect factual reliability.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/KUMAWU-AGOGO _CONCESSION..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:05:17.993Z",
+    "plainTextLength": 15958
+  },
+  "trialDate": "1940-02-23"
+}

@@ -1,0 +1,81 @@
+{
+  "caseTitle": "JOHN DAVID LOGAN FRANK DAVID LAVERICK v THE REPUBLIC",
+  "summary": "The appellants, John David Logan and Frank David Laverick, both British nationals, were convicted by the trial court and the Court of Appeal for criminal conspiracy and unlawful possession of 588.33 kilograms of cocaine under Ghana's Narcotic Drugs (Control, Enforcement and Sanctions) Law, P.N.D.C.L. 236. The Supreme Court of Ghana, in its judgment, found that the prosecution failed to present any direct or circumstantial evidence linking the two appellants to the conspiracy or possession charges. Although they were present at the residence of the first accused during a police raid, mere presence without incriminating evidence was insufficient to sustain a conviction. The Supreme Court held that the verdicts were unreasonable and not supported by the evidence, thereby quashing the convictions and setting aside the 20-year sentences. The court emphasized that convictions in conspiracy cases must be based on inferential evidence arising from coordinated criminal acts, which was absent here.",
+  "legalKeywords": [
+    "criminal conspiracy",
+    "possession of narcotics",
+    "evidence sufficiency",
+    "unreasonable verdict",
+    "circumstantial evidence",
+    "burden of proof",
+    "miscarriage of justice",
+    "summary trial",
+    "appellate review",
+    "inference in criminal law",
+    "Narcotic Drugs Law",
+    "PNDCL 236",
+    "actus reus",
+    "common purpose",
+    "right to fair trial"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Drug Offences",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Conspiracy"
+  ],
+  "verdict": "Convictions quashed and sentences set aside",
+  "winningSide": "Appellants",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Aninakwah",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "S. A.B. Akuffo (Miss)",
+      "role": "Presiding"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Adinyira (Mrs.)",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "P.N.D.C.L. 236",
+    "Criminal Code, 1960 (Act 29)",
+    "The State v. Otchere & Ors. [1963] 2 GLR 463",
+    "R. v. Mulcahy [1868] LR 3HL 306",
+    "R. v. Brisac [1803] 4 East 164",
+    "R. v. Parnell"
+  ],
+  "rationaleHighlights": [
+    "No direct or circumstantial evidence linked the appellants to the conspiracy or possession.",
+    "Mere presence at the scene of crime is insufficient to prove guilt.",
+    "The prosecution failed to establish a common criminal purpose involving the appellants.",
+    "The trial and appellate courts' verdicts were unreasonable and not evidence-based.",
+    "Convictions in conspiracy cases require inferential proof from coordinated acts, which was absent."
+  ],
+  "confidenceNotes": "The judgment is based on a clear analysis of evidentiary insufficiency and established legal principles on conspiracy. The outcome is highly reliable given the absence of any incriminating evidence against the appellants.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2007A/JOHN DAVID LOGAN FRANK DAVID LAVERICK v THE REPUBLIC.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:58:47.246Z",
+    "plainTextLength": 30587
+  },
+  "trialDate": "2007-02-07"
+}

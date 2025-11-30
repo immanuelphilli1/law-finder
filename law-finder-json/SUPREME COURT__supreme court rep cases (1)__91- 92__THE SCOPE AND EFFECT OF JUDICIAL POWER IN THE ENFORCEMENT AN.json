@@ -1,0 +1,79 @@
+{
+  "caseTitle": "THE SCOPE AND EFFECT OF JUDICIAL POWER IN THE ENFORCEMENT AN",
+  "summary": "This legal analysis examines the scope and effect of judicial power in enforcing and defending the 1992 Ghanaian Constitution, tracing its evolution through prior constitutions from 1957 to 1979. It highlights that judicial power is vested solely in the judiciary under Article 125(3), with the Supreme Court holding exclusive original jurisdiction over constitutional matters under Article 130. The paper reviews key cases such as Lardan v Attorney-General (No 2) and Ware v Ofori-Atta under the 1957 Constitution, illustrating how courts interpreted limited judicial powers, primarily reviewing legislation for compliance with specific constitutional restrictions. Under the 1960 Constitution, Re Akoto demonstrated judicial restraint despite constitutional provisions for judicial review. The 1969 and 1979 Constitutions expanded judicial authority, particularly in fundamental rights enforcement. The 1992 Constitution maintains similar structures but strengthens judicial independence and introduces disobedience of court orders as a high crime. The author argues that constitutional adjudication must balance legal interpretation with socio-political considerations to ensure democratic stability.",
+  "legalKeywords": [
+    "judicial power",
+    "constitutional interpretation",
+    "separation of powers",
+    "judicial independence",
+    "supreme court jurisdiction",
+    "fundamental human rights",
+    "ultra vires",
+    "constitutional supremacy",
+    "original jurisdiction",
+    "enforcement of constitution",
+    "rule of law",
+    "judicial review",
+    "high crime",
+    "constitutional adjudication",
+    "separation of powers",
+    "constitutional limitations",
+    "declaratory relief",
+    "constitutional remedies",
+    "judicial restraint",
+    "constitutionalism"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Judicial Power",
+    "Separation of Powers",
+    "Fundamental Rights",
+    "Supreme Court Jurisdiction"
+  ],
+  "verdict": "The judiciary has exclusive authority to interpret and enforce the Constitution, with courts empowered to invalidate laws violating constitutional provisions.",
+  "winningSide": "Judiciary",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Smith J",
+      "role": "Judge"
+    },
+    {
+      "name": "Murphy J",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Interpretation",
+  "citations": [
+    "[1991-92] VOL. XVIII RGL 120–158",
+    "Lardan v Attorney-General (No 2)",
+    "Ware v Ofori-Atta",
+    "Re Akoto",
+    "Ghana (Constitution) Order-in-Council, 1957",
+    "Deportation (Othman Lardan and Amadu Baba) Act, 1957",
+    "Ejisu Stool Property Order, 1958",
+    "Statute Law (Amendment) (No 2) Act, 1957",
+    "Preventive Detention Act, 1958"
+  ],
+  "rationaleHighlights": [
+    "Judicial power under the 1957 Constitution was limited to reviewing laws for breach of specific prohibitions.",
+    "Courts can invalidate legislation that violates explicit constitutional procedures, as seen in Ware v Ofori-Atta.",
+    "The 1992 Constitution entrenches judicial independence and grants the Supreme Court exclusive jurisdiction over constitutional issues.",
+    "Disobedience of Supreme Court orders constitutes a high crime under the 1992 Constitution.",
+    "Constitutional interpretation must consider social, economic, and political policy for democratic stability.",
+    "Original jurisdiction of the Supreme Court extends to enforcement and interpretation of the Constitution.",
+    "Courts must balance competing rights claims to promote good governance.",
+    "Judicial power emanates from the people under Article 125(1) of the 1992 Constitution."
+  ],
+  "confidenceNotes": "The source is a scholarly legal analysis published in a recognized law review, citing authoritative cases and constitutional provisions. However, it is not a verbatim court judgment but a commentary, so some interpretations reflect the author's views.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/91- 92/THE SCOPE AND EFFECT OF JUDICIAL POWER IN THE ENFORCEMENT AN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:37:37.625Z",
+    "plainTextLength": 99403
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "caseTitle": "AKUMAGLO VERSUS UNITED AFRICA",
+  "summary": "In this civil appeal, the Court of Appeal reversed the decision of the lower court, holding that the trial judge had misdirected himself on the evidence. The incident involved a lorry owned by the plaintiff that ran backwards into a river after the defendant's pontoon tilted upon impact with the river bank. The appellate court found that the defendant's servants were negligent in their handling of the pontoon, which directly led to the accident. The reversal was grounded on the proper interpretation of the evidence regarding causation and negligence.",
+  "legalKeywords": [
+    "negligence",
+    "tort",
+    "duty of care",
+    "pontoon operation",
+    "employer liability",
+    "evidence misdirection",
+    "appellate reversal",
+    "accident",
+    "lorry",
+    "river transport"
+  ],
+  "topics": [
+    "Tort Law",
+    "Negligence",
+    "Appellate Procedure",
+    "Employer Liability",
+    "Transportation Accident"
+  ],
+  "verdict": "The appeal was allowed and the lower court's decision was reversed.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Korsah C.J.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Granville Sharp J.A.",
+      "role": "Appellate Judge"
+    },
+    {
+      "name": "Ollennu J.",
+      "role": "Appellate Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "1 W.A.L.R. 217",
+    "WALR/WLR 3/AKUMAGLO v. UNITED AFRICA CO. (GOLD COAST) LTD.htm"
+  ],
+  "rationaleHighlights": [
+    "The trial judge misdirected himself on the evidence.",
+    "The tilt of the pontoon due to impact was the cause of the lorry falling into the river.",
+    "Defendant's servants handled the pontoon negligently.",
+    "Appellate court reversed based on factual inference from evidence."
+  ],
+  "confidenceNotes": "The source document is brief and lacks detailed reasoning or full judgment text; analysis is based on the reported appellate outcome and judicial comments.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/AKUMAGLO v. UNITED AFRICA CO. (GOLD COAST) LTD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:17:48.867Z",
+    "plainTextLength": 1202
+  }
+}

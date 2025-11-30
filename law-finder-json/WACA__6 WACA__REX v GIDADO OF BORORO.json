@@ -1,0 +1,65 @@
+{
+  "caseTitle": "REX v GIDADO OF BORORO",
+  "summary": "The appellant, Gidado of Bororo, was convicted of murder by the High Court at Bamenda, under British Mandate in the Cameroons, for allegedly killing Lotsi with a poisoned arrow during a confrontation over a stolen cow. The West Africa Court of Appeal allowed the appeal and quashed the conviction. The appellate court found that no physical evidence, including the arrow or arrowhead, was presented at trial, and the prosecution failed to prove that the arrow was poisoned. The trial judge improperly assumed the arrow was poisoned with strophantus, relying on medical testimony based on textbook knowledge and symptoms described by uneducated witnesses, despite a discrepancy in the time of death. Crucially, the trial judge relied on incriminating statements made by the appellant through interpreters who were not called to confirm the accuracy of the interpretation. The appellate court held that this constituted a fatal misdirection, as such unverified interpreted statements are inadmissible. In the absence of credible and admissible evidence linking the appellant to the fatal shooting with a poisoned arrow, the conviction could not stand.",
+  "legalKeywords": [
+    "murder",
+    "poisoned arrow",
+    "evidence admissibility",
+    "misdirection",
+    "self-defence",
+    "interpretation of statements",
+    "medical evidence",
+    "presumption of poisoning",
+    "exhibits",
+    "conviction quashed"
+  ],
+  "topics": [
+    "criminal law",
+    "evidence",
+    "appeal",
+    "murder",
+    "judicial error"
+  ],
+  "verdict": "Appeal allowed; conviction and sentence quashed.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    },
+    {
+      "name": "Brooke",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Gidado of Bororo",
+    "WACA/6"
+  ],
+  "rationaleHighlights": [
+    "No physical exhibit of the arrow or arrowhead was presented at trial.",
+    "Assumption that the arrow was poisoned, particularly with strophantus, was not supported by direct evidence.",
+    "Medical evidence based on textbook authority and symptoms reported by lay witnesses was insufficient to prove poisoning.",
+    "Incriminating statements by the accused were admitted without confirmation by interpreters, rendering them inadmissible.",
+    "Trial judge's failure to recognize inadmissibility of unconfirmed interpreted statements constituted a fatal misdirection.",
+    "Conviction based on speculation rather than proof beyond reasonable doubt."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear procedural and evidentiary reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/REX v GIDADO OF BORORO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:57:28.872Z",
+    "plainTextLength": 7827
+  },
+  "trialDate": "1940-03-23"
+}

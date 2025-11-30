@@ -1,0 +1,82 @@
+{
+  "caseTitle": "OPANIN YAW BOAKYE ,OPANIN KWADWO ADOM VRS OPANIN KWAME MARFO",
+  "summary": "This Supreme Court of Ghana decision arose from a civil property dispute concerning Plot No. Block 16, Old Amakom, Kumasi. The plaintiff/respondent, Opanin Yaw Boakye (substituted for Opanin Kwadwo Adom), claimed he had pledged the property to the family of the late Kwabena Gyasi for £500 and sought to recover possession after over 20 years. The defendant/appellant, Opanin Kwame Marfo, successor to Yaw Barima (alias Yaw Gyasi), denied a pledge and counterclaimed title based on a registered deed of assignment dated 7 September 1964. The High Court initially ruled for the plaintiff, accepting his version and rejecting the deed as an afterthought. The Court of Appeal reversed, favoring the defendant. The Supreme Court upheld the reversal, finding the trial judge erred in evaluating evidence: the deed of assignment (Exhibit 1) was an ancient document under Section 130 of the Evidence Act, creating a presumption of regularity; the appellant’s inconsistent pleadings and failure to challenge the signature undermined his case; and unchallenged evidence (e.g., plumbing work in 1969–70, property rate payments) supported a sale, not a pledge. The Court held the Court of Appeal was justified in overturning the trial court’s findings as they were perverse in light of the evidence.",
+  "legalKeywords": [
+    "property dispute",
+    "pledge vs sale",
+    "deed of assignment",
+    "burden of proof",
+    "appellate review",
+    "evidence evaluation",
+    "ancient document",
+    "presumption of regularity",
+    "reversal of judgment",
+    "credibility of witnesses",
+    "oral testimony",
+    "rebuttal of documentary evidence",
+    "counterclaim",
+    "title to land",
+    "recovery of possession"
+  ],
+  "topics": [
+    "land law",
+    "evidence law",
+    "appellate procedure",
+    "property rights",
+    "contractual interpretation"
+  ],
+  "verdict": "The Supreme Court dismissed the appeal, upheld the Court of Appeal's judgment, and affirmed the defendant's title to the property based on the valid deed of assignment.",
+  "winningSide": "Defendant/Appellant (Opanin Kwame Marfo)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "GBADEGBE, JSC",
+      "role": "authoring judge"
+    },
+    {
+      "name": "WOOD (MRS) CJ",
+      "role": "presiding judge"
+    },
+    {
+      "name": "DOTSE, JSC",
+      "role": "panel member"
+    },
+    {
+      "name": "YEBOAH, JSC",
+      "role": "panel member"
+    },
+    {
+      "name": "AKOTO-BAMFO, JSC",
+      "role": "panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil property dispute",
+  "citations": [
+    "FOSUA v ADU-POKU MENSAH [2009] SCGLR 310",
+    "WATT (OR THOMAS) v THOMAS [1947] 1 All ER 582",
+    "NYAME v TARZAN TRANSPORT [1973] 1 GLR 8",
+    "MAHAMA v ISSA [2001-2002] 1 GLR 694"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court upheld the Court of Appeal's reversal of the High Court’s judgment, finding the trial judge misapplied evidentiary rules.",
+    "Exhibit 1 (deed of assignment) qualified as an ancient document under Section 130 of the Evidence Act, shifting the burden to the appellant to disprove its authenticity.",
+    "The appellant’s inconsistent testimony—pleading a family pledge but testifying to a transaction with an individual—undermined his credibility.",
+    "Unchallenged evidence from DW1 (plumber) indicated the house was unoccupied in 1969–1970, supporting a sale over a pledge.",
+    "The trial court wrongly dismissed the deed of assignment as a claim against a deceased’s estate, despite it being executed during the appellant’s lifetime.",
+    "Failure to strictly prove or credibly challenge the signature on the deed led to an adverse inference against the appellant.",
+    "Payment of property rates by the assignee was inconsistent with a pledge, where ownership remains with the pledgor.",
+    "The Supreme Court emphasized appellate deference to trial judges on demeanor, but readiness to reverse on erroneous inferences from facts."
+  ],
+  "confidenceNotes": "High confidence; judgment is detailed with clear reasoning and citation of legal principles. Information extracted directly from judicial analysis.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/OPANIN YAW BOAKYE ,OPANIN KWADWO ADOM VRS OPANIN KWAME MARFO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:00:15.597Z",
+    "plainTextLength": 18209
+  },
+  "trialDate": "2011-04-20"
+}

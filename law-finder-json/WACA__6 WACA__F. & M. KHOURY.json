@@ -1,0 +1,75 @@
+{
+  "caseTitle": "F. & M. KHOURY",
+  "summary": "This consolidated interpleader appeal before the West Africa Court of Appeal concerned competing claims over the assets of judgment-debtor Najib Teymani. The appellants, F. & M. Khoury, challenged the validity and interpretation of a Letter of Hypothecation (Exhibit A) granted by Teymani to Adolphus Beer & Co. on 23rd March 1939, and the priority of a subsequent Bill of Sale granted to A. G. Leventis & Co. The Court upheld the lower court's finding that Exhibit A was a valid document, not a bill of sale under the 1854 Act, as it constituted an assignment for the benefit of all creditors. It was construed as creating a trust requiring pro rata and pari passu distribution of the goods or their proceeds among all of Teymani's creditors. The subsequent Bill of Sale to Leventis & Co. could not prejudice other creditors and did not confer priority. The Court also confirmed that Khoury's attachment of goods, including those previously pledged, fell within the trust's ambit as their possession was deemed that of the judgment-debtor. The lower court's error in limiting the trust beneficiaries to judgment creditors was corrected, and the judgment was varied to ensure all proven creditors would share equally. The appellants were barred from raising a new factual point on appeal.",
+  "legalKeywords": [
+    "hypothecation",
+    "bill of sale",
+    "interpleader",
+    "creditor priority",
+    "trust",
+    "pro rata distribution",
+    "pari passu",
+    "attachment",
+    "execution",
+    "validity of security",
+    "Bankruptcy Laws",
+    "assignment for benefit of creditors",
+    "Bills of Sale Act 1854",
+    "non-registration",
+    "breach of trust",
+    "receiver",
+    "legal estate",
+    "ordinary course of business",
+    "interpleader proceedings",
+    "Order 44 Rule 25"
+  ],
+  "topics": [
+    "Contract Law",
+    "Secured Transactions",
+    "Bankruptcy and Insolvency",
+    "Civil Procedure",
+    "Trust Law"
+  ],
+  "verdict": "The appeal was allowed in part. The judgment of the lower court was upheld regarding the validity and construction of the Letter of Hypothecation but varied to correct the error in limiting distribution to judgment creditors only. The claim of Leventis & Co. based on the subsequent Bill of Sale was subordinated to the trust created by Exhibit A.",
+  "winningSide": "F. & M. Khoury (appellants) partially, as the Court corrected the lower court's error in favor of broader creditor rights, though the core validity of the trust benefiting Beer & Co. and all creditors was upheld against Khoury's exclusive claim.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Tile Tasmania (15 A.C. 223)",
+    "Karunaratne v. Ferdinandus (1902 A.C. 405)",
+    "North Staffordshire Railway v. Edge (1920 A.C. 254)"
+  ],
+  "rationaleHighlights": [
+    "The Letter of Hypothecation (Exhibit A) is valid and constitutes an assignment for the benefit of all creditors, not a registrable bill of sale.",
+    "The document creates a trust under which goods and proceeds must be distributed pro rata and pari passu among all creditors, akin to bankruptcy distribution.",
+    "A subsequent Bill of Sale (Exhibit L) to Leventis & Co. does not override the prior trust and cannot confer preferential status.",
+    "Goods pledged to Khoury were held in trust under Exhibit A; their attachment brought them within the interpleader proceedings.",
+    "New factual arguments cannot be raised for the first time on appeal (citing Tile Tasmania)."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key legal elements, parties, and holdings are explicitly stated in the judgment. The truncated end does not affect core holdings.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/F. & M. KHOURY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:07:58.755Z",
+    "plainTextLength": 19400
+  },
+  "trialDate": "1940-05-23"
+}

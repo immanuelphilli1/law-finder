@@ -1,0 +1,64 @@
+{
+  "caseTitle": "JOHN DJABAHTEY",
+  "summary": "This case involved a civil dispute between John Djabahthey (plaintiff-respondent) and Benkumhene Antwi Awua II, representing himself and the Stool of Begoro (defendant-appellant), concerning a land transaction governed by native customary law. The plaintiff claimed 500 pounds in damages for breach of an implied contractual term to provide undisturbed possession of 255 native ropes of land at Odedeso, which he had purchased for 2,550 pounds. The defendant counterclaimed for 1,090 pounds as the unpaid balance of the purchase price, asserting that full possession would only be granted upon full payment per native custom. The trial judge dismissed the suit for lack of jurisdiction, holding it was a land matter under native law. On appeal, the West African Court of Appeal upheld the dismissal. Kingdon, C.J. (with Petrides, C.J.), held that the suit related to land possession and thus fell under the exclusive jurisdiction of the paramount chief's tribunal per section 48(2)(c) of Cap. 76, requiring referral under section 65. The court rejected the argument that it was merely a personal contract claim, emphasizing that the core issue—undisturbed possession—directly implicated land rights. Webb, C.J., dissented. The appeal was dismissed, affirming the referral to the appropriate native tribunal.",
+  "legalKeywords": [
+    "jurisdiction",
+    "native customary law",
+    "land possession",
+    "breach of contract",
+    "counterclaim",
+    "paramount chief's tribunal",
+    "undisturbed possession",
+    "purchase price",
+    "section 65 Cap. 76",
+    "section 48 Cap. 76"
+  ],
+  "topics": [
+    "Land Law",
+    "Jurisdiction",
+    "Customary Law",
+    "Contract Law",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed; trial court's referral to native tribunal upheld.",
+  "winningSide": "Defendant-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "judge"
+    },
+    {
+      "name": "Petrides",
+      "role": "judge"
+    },
+    {
+      "name": "Webb",
+      "role": "chief justice (dissenting)"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Sasraku III v. Mate Kole, West African Court of Appeal, November 2nd, 1933",
+    "Native Administration (Colony) Ordinance (Cap. 76)",
+    "Courts Ordinance (Cap. 4)"
+  ],
+  "rationaleHighlights": [
+    "The suit relates to possession of land under native customary law, triggering jurisdictional limits under Cap. 76.",
+    "Section 65 requires referral to a native tribunal when a case involves land possession among natives.",
+    "The writ clearly discloses a dispute over land possession, not merely a personal contract claim.",
+    "No evidence or pleadings beyond the writ are needed if jurisdictional facts appear on the face of the documents."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment and legal provisions cited.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/JOHN DJABAHTEY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:02:18.590Z",
+    "plainTextLength": 20773
+  },
+  "trialDate": "1938-12-05"
+}

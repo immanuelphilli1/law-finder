@@ -1,0 +1,72 @@
+{
+  "caseTitle": "REGINA VERSUS ATTIGAH.",
+  "summary": "In Regina v. Attigah, the appellant, a police inspector with 24 years of service and a record of commendations, was convicted of extortion by a trial judge sitting with assessors. The prosecution's case relied on two witnesses who alleged that the appellant, through an accomplice, extorted money by threatening false prosecution. The trial judge dismissed the appellant's evidence of good character as immaterial before verdict, calling it 'sentiment.' The West African Court of Appeal allowed the appeal, holding that good character is always a material consideration, particularly where there is doubt about guilt. The court found that the evidence was not free from doubt—highlighting the lack of corroboration, the possibility of a conspiracy, and the implausibility of the witnesses' conduct. Given that one assessor had entertained doubt, the exclusion of good character evidence deprived the appellant of a fair chance at acquittal. The court set aside the conviction, entered a verdict of not guilty, and ordered the appellant's immediate discharge.",
+  "legalKeywords": [
+    "good character evidence",
+    "extortion",
+    "conspiracy",
+    "admissibility of evidence",
+    "reasonable doubt",
+    "credibility of witnesses",
+    "judge and assessors",
+    "corroboration",
+    "criminal conviction",
+    "police misconduct",
+    "trial fairness",
+    "sentencing",
+    "appellate review",
+    "evidentiary error",
+    "benefit of the doubt"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence Law",
+    "Appellate Procedure",
+    "Police Conduct",
+    "Character Evidence"
+  ],
+  "verdict": "Conviction set aside; verdict of not guilty entered on appeal.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Korsah C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Verity Ag.J.A",
+      "role": "Acting Judge of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Bliss Hill (1918) 13 Cr.App.R. 125",
+    "R. v. Noble (1928) 20 Cr.App.R. 191",
+    "Russell on Crimes, 7th ed., p. 2119"
+  ],
+  "rationaleHighlights": [
+    "Good character is always admissible before verdict and may affect credibility, especially in doubtful cases.",
+    "The trial judge erred in excluding evidence of the appellant's good character, which was relevant to assessing the probability of guilt.",
+    "Doubt existed in the case, as one assessor acquitted based on insufficient evidence, undermining the certainty of conviction.",
+    "The principal witnesses' testimony was tainted and lacked corroboration, raising concerns about a possible conspiracy.",
+    "The rejection of good character evidence deprived the appellant of a reasonable chance of acquittal.",
+    "The court followed Russell on Crimes in holding that good character should always be considered alongside other evidence.",
+    "The conviction was unsafe due to the combined effect of uncorroborated testimony and exclusion of material character evidence.",
+    "The appeal was allowed, conviction set aside, and a verdict of not guilty entered."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and clear procedural history. The court's reliance on established legal principles and specific case law strengthens reliability.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/REGINA v. ATTIGAH..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:24:44.635Z",
+    "plainTextLength": 11420
+  }
+}

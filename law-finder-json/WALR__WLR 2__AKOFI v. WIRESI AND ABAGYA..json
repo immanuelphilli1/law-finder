@@ -1,0 +1,77 @@
+{
+  "caseTitle": "AKOFI VERSUS WIRESI AND ABAGYA.",
+  "summary": "This 1957 West African Court of Appeal decision in Akofi v. Wiresi and Abagya concerned a dispute over customary land tenure systems on stool land in the Gold Coast (now Ghana). The plaintiff, representing a group of cocoa farmers, successfully claimed that their occupation of Odoben Stool land was under the 'abusa' system, entitling the stool to only one-third of farm produce, rather than the 'ebuenu' system, which would allow the stool to claim half the land. The Native Court and Land Court both found in favor of the abusa arrangement, noting its prevalence where tenants cleared virgin forest without landlord contribution. The appellate court upheld these concurrent findings, dismissing the defendants' appeal and affirming that representation under customary practice did not require formal written authorization.",
+  "legalKeywords": [
+    "abusa system",
+    "ebuenu system",
+    "stool land",
+    "customary land tenure",
+    "tenant-farmer rights",
+    "concurrent findings of fact",
+    "native law and custom",
+    "representation in litigation",
+    "West African Court of Appeal",
+    "usufructuary rights",
+    "forfeiture of land interest",
+    "sharecropping agreement",
+    "judicial procedure",
+    "miscarriage of justice",
+    "tribunal authority",
+    "oral judgment validity",
+    "power of attorney",
+    "landlord-tenant relationship",
+    "cocoa farming",
+    "virgin forest cultivation"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Appellate Procedure",
+    "Agricultural Tenancy",
+    "Legal Representation"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Korsah C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Verity Ag.J.A.",
+      "role": "Acting Judge of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Gold Coast (Ghana)"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Srimati Bibhabati Devi v. Kumar Narayan Roy [1946] A.C. 508",
+    "Rattray, Ashanti Law and Constitution, p. 348",
+    "Kwamin Odontwi v. Kwamin Essuman and Others (1940), unreported"
+  ],
+  "rationaleHighlights": [
+    "Concurrent findings of fact by lower courts are binding unless there is a miscarriage of justice or violation of legal principle.",
+    "The abusa system applies where tenants clear virgin forest without landlord contribution.",
+    "Representation in litigation under native custom does not require formal written power of attorney.",
+    "Oral delivery of judgment followed by written record the next day does not invalidate the decision.",
+    "Ebuenu system is unusual when land was originally virgin forest and cleared solely by tenants.",
+    "Stool cannot unilaterally alter established abusa agreements to claim half the land.",
+    "Documentary receipts from 1934 supported prior existence of abusa arrangements.",
+    "Defendants failed to prove stool contributed to farm development costs."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning, citation of authority, and consistency across two lower courts.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/AKOFI v. WIRESI AND ABAGYA..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:45:29.760Z",
+    "plainTextLength": 12889
+  }
+}

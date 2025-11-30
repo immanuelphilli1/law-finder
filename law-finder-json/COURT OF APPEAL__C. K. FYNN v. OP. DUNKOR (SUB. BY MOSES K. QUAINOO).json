@@ -1,0 +1,69 @@
+{
+  "caseTitle": "FYNN v. OP. DUNKOR (SUB. BY MOSES K. QUAINOO)",
+  "summary": "In C.K. Fynn v. O.P. Dunkor (Sub. by Moses K. Quainoo), the Court of Appeal of Ghana addressed whether the respondent, C.K. Fynn, was bound by a prior settlement in Suit No. L2/84 concerning property ownership. The appellants argued that a consent judgment in the earlier suit estopped the respondent from relitigating the matter. However, the court found that although Fynn was joined as a co-defendant, he was not a party to the settlement between the original litigants and did not consent to the withdrawal of the case. The trial judge correctly held that the order in L2/84 was not a consent judgment capable of enforcement, but merely a withdrawal of claims. The appellate court affirmed that Fynn was not bound by the settlement and was entitled to pursue his claim for damages and return of building materials. The court also clarified procedural rules regarding cross-appeals under CI 19, holding that non-compliance with formal notice requirements does not bar a respondent from seeking variation of a decision.",
+  "legalKeywords": [
+    "res judicata",
+    "estoppel",
+    "consent judgment",
+    "joinder of parties",
+    "settlement agreement",
+    "property rights",
+    "title to land",
+    "procedural compliance",
+    "Court of Appeal Rules CI 19",
+    "withdrawal of suit",
+    "execution of judgment",
+    "burden of proof",
+    "customary settlement",
+    "inflationary adjustment",
+    "cross-appeal"
+  ],
+  "topics": [
+    "Property Law",
+    "Civil Procedure",
+    "Appellate Jurisdiction",
+    "Land Dispute",
+    "Judicial Estoppel"
+  ],
+  "verdict": "The appeal was dismissed and the decision of the lower court was upheld.",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Wood, JA",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Aryeetey, JA"
+    },
+    {
+      "name": "Amonoo-Monney"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "C.A. No. 145/2002",
+    "Suit No. L2/84",
+    "CI 19 Rule 15",
+    "Rule 8(3) of LI 1129"
+  ],
+  "rationaleHighlights": [
+    "The order in Suit No. L2/84 was not a consent judgment but a withdrawal of claims, hence not enforceable or binding on non-consenting parties.",
+    "The respondent was joined as a party but did not participate in or consent to the settlement, thus cannot be estopped from relitigating the matter.",
+    "Non-compliance with cross-appeal notice under CI 19 Rule 15 does not deprive the court of power to consider a respondent's contention.",
+    "Equity favors substance over form, so filing a cross-appeal instead of a notice is not fatal.",
+    "Rule 32 of CI 19 empowers the Court of Appeal to make any just order regardless of the scope of appeal."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from the judgment text. Some procedural details inferred from standard Ghanaian civil procedure where explicitly stated.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/C. K. FYNN v. OP. DUNKOR (SUB. BY MOSES K. QUAINOO).htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:41:12.692Z",
+    "plainTextLength": 26997
+  },
+  "trialDate": "2002-06-27"
+}

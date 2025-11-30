@@ -1,0 +1,70 @@
+{
+  "caseTitle": "KINGSFORD AMOAH @ KWAME ABAKA",
+  "summary": "Kingsford Amoah alias Kwame Abaka appealed his conviction and 40-year sentence for conspiracy to commit robbery and robbery under sections 23(1) and 149 of the Criminal Offences Act, Act 29, as amended by Act 646. He was jointly tried with Yaw Duodu for the 2007 robbery and murder of a taxi driver, Kwame Takyi, whom they lured into the bush near Mando, stabbed, stole his taxi (GW 7537X) and GH\u000212,000, and fled to Accra. The appeal, based solely on the ground that the judgment was against the weight of evidence, was dismissed. The Court of Appeal found the prosecution proved conspiracy and robbery beyond reasonable doubt through credible, corroborated testimony from multiple witnesses, including eyewitness accounts and police evidence. The appellant's alibi was rejected as implausible. The court affirmed the trial court's findings, noting that the use of knives as offensive weapons justified the enhanced sentence under Act 646.",
+  "legalKeywords": [
+    "conspiracy to commit robbery",
+    "robbery with offensive weapon",
+    "alibi defence",
+    "beyond reasonable doubt",
+    "corroboration of witnesses",
+    "appellate review",
+    "criminal appeal",
+    "use of force in robbery",
+    "ownership of stolen property",
+    "intent to steal",
+    "offensive weapon",
+    "burden of proof",
+    "evidence evaluation",
+    "judicial reasoning",
+    "sentence of forty years"
+  ],
+  "topics": [
+    "criminal law",
+    "appeal",
+    "robbery",
+    "conspiracy",
+    "evidence"
+  ],
+  "verdict": "Conviction and 40-year sentence upheld on appeal.",
+  "winningSide": "The Republic (prosecution)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "C.J. Honyenuga",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "S.K. Marful-Sau",
+      "role": "presiding"
+    },
+    {
+      "name": "K.A. Acquaye",
+      "role": "panel judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Republic vs Nana Osei Kwadjo II [2008] 1GMJ 42 SC",
+    "Behome v The Republic [1979] GLR 112",
+    "R v Dawson [1977] 64 CAR 170"
+  ],
+  "rationaleHighlights": [
+    "The appeal court upheld the conviction based on overwhelming evidence of conspiracy and robbery.",
+    "The alibi defence was dismissed as an afterthought and not reasonably probable.",
+    "Multiple prosecution witnesses (PW2–PW5, PW7) corroborated the presence and actions of the accused.",
+    "The appellant's possession of the stolen taxi and inability to explain it supported guilt.",
+    "The use of knives constituted an offensive weapon, justifying a 40-year sentence under Act 646."
+  ],
+  "confidenceNotes": "High confidence due to detailed trial and appellate records, multiple witness corroboration, and clear statutory references.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/KINGSFORD AMOAH @ KWAME ABAKA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:23:54.245Z",
+    "plainTextLength": 27997
+  },
+  "trialDate": "2010-06-17"
+}

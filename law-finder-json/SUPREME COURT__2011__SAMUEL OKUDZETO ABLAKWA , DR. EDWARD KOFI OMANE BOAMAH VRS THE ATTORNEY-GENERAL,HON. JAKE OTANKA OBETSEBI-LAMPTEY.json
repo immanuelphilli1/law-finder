@@ -1,0 +1,100 @@
+{
+  "caseTitle": "SAMUEL OKUDZETO ABLAKWA , DR. EDWARD KOFI OMANE BOAMAH VRS THE ATTORNEY-GENERAL,HON. JAKE OTANKA OBETSEBI-LAMPTEY",
+  "summary": "The case of Samuel Okudzeto Ablakwa and Dr. Edward Kofi Omame Boamah v. The Attorney-General and Hon. Jake Otanka Obetsebi-Lamptey (WRITJ1/4/2010, 10th November 2011) involved a constitutional challenge to the purported sale of a government bungalow located at St. Mungo Street, Ridge, Accra, designated as Parcel No. 29, Block 12, Section 019. The plaintiffs sought declarations that the Minister for Water Resources, Works and Housing in the Kufuor government lacked constitutional authority under Articles 20(5), 23, 257, 258, 265, 284, and 296 of the 1992 Constitution to direct the sale or transfer of public land to the second defendant, a high-ranking public official, and that such action constituted cronyism, arbitrariness, and abuse of power. They also challenged the publication of a notice for land registration in the name of the second defendant as unconstitutional. The second defendant raised a preliminary objection, arguing the matter was essentially a land dispute within the jurisdiction of the High Court and that claims under Article 284 fell under CHRAJ’s jurisdiction. The Supreme Court rejected these objections, affirming its exclusive jurisdiction under Articles 2 and 130 to interpret and enforce constitutional provisions, particularly where public rights and constitutional breaches are alleged. The Court emphasized that the real issue was the constitutional validity of state actions concerning public land, not private land rights, and thus fell squarely within its purview. The ruling reaffirmed the principle that constitutional cases must be determined by the pith and substance of the claim, not by superficial categorization.",
+  "legalKeywords": [
+    "constitutional jurisdiction",
+    "public land",
+    "Article 284",
+    "CHRAJ jurisdiction",
+    "abuse of power",
+    "arbitrary administrative action",
+    "land registration",
+    "fundamental human rights",
+    "locus standi",
+    "pith and substance",
+    "separation of powers",
+    "judicial activism",
+    "government accountability",
+    "constitutional interpretation",
+    "standing in public interest"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Land Law",
+    "Judicial Review",
+    "Separation of Powers",
+    "Human Rights Enforcement"
+  ],
+  "verdict": "The Supreme Court overruled the preliminary objection and upheld its jurisdiction to hear the case as a constitutional matter.",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Atuguba JSC",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Akuffo (Ms.) JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Brobbey JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Adinyira (Mrs) JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Owusu (Ms) JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Dotse JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Aryeetey JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs.) JSC",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Petition",
+  "citations": [
+    "Republic v. Special Tribunal, Ex parte Akosah [1980] GLR 592 C.A.",
+    "Odonkor v Amartei (1992) I GLR 577 S.C.",
+    "Acquah and Dadzie v Loo (1961) 1 GLR 239 S.C.",
+    "Ghana Bar Association v Attorney-General (Abban Case)",
+    "Nartey v Attorney-General & Justice Adade",
+    "Sallah v Attorney-General (1970) 2 G&G 493",
+    "Agbevor v. Attorney General [2000] SC GLR 403",
+    "Bimpong-Buta v General Legal Council & Three Others [2003-2004] 2 SC GLR 1200"
+  ],
+  "rationaleHighlights": [
+    "The real issue was the constitutional validity of public land disposal, not private land rights, placing it within the Supreme Court's exclusive jurisdiction under Articles 2 and 130.",
+    "The plaintiffs had standing under Article 3 of the Constitution to enforce public rights despite not being directly dispossessed.",
+    "Claims involving alleged abuse of power and breach of constitutional provisions governing public land management are inherently constitutional, not mere land disputes.",
+    "The pith and substance of the action determines jurisdiction, not the form or label of the claim.",
+    "The Supreme Court must adopt a proactive role in enforcing fundamental rights and checking executive overreach.",
+    "CHRAJ’s jurisdiction under Article 287 does not oust the Supreme Court’s authority to interpret and enforce constitutional provisions.",
+    "Judicial activism is necessary to protect democracy and ensure effective remedies for constitutional breaches."
+  ],
+  "confidenceNotes": "The summary is based on a truncated document; however, the available portion contains sufficient detail on the parties, claims, objections, and judicial reasoning to support accurate extraction. Key constitutional articles and precedents are clearly cited, and the court's ruling on jurisdiction is explicitly stated.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/SAMUEL OKUDZETO ABLAKWA , DR. EDWARD KOFI OMANE BOAMAH VRS THE ATTORNEY-GENERAL,HON. JAKE OTANKA OBETSEBI-LAMPTEY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:59:26.306Z",
+    "plainTextLength": 67326
+  }
+}

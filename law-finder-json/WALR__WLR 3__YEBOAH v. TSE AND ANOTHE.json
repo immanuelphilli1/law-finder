@@ -1,0 +1,69 @@
+{
+  "caseTitle": "YEBOAH VERSUS TSE AND ANOTHE.",
+  "summary": "In this land dispute appeal before the High Court of Ghana, the plaintiff sought a declaration that a sale of land by his father to the defendants' predecessor was invalid under native custom. The Native Court had ruled in favor of the plaintiff, misplacing the burden of proof and accepting inadmissible evidence where the plaintiff's representative testified as if he were the plaintiff. The High Court, per Ollennu J., allowed the appeal, holding that the sale was valid under native custom due to sufficient publicity through witnesses, including a town chief. It further held that the land was self-acquired property of the plaintiff's father, freely alienable without family consent. Crucially, the matter was deemed res judicata based on a prior judgment in Yaw Wilson v. Tse, involving the same land, same defendants, and a plaintiff in privity (the plaintiff's uncle). The earlier judgment had upheld the sale's validity. The High Court found no admissible evidence supporting the plaintiff's claim and set aside the Native Court's decision.",
+  "legalKeywords": [
+    "native custom",
+    "conveyancing",
+    "publicity",
+    "res judicata",
+    "privity of parties",
+    "self-acquired property",
+    "alienation",
+    "estoppel",
+    "burden of proof",
+    "witnesses",
+    "land title",
+    "sale of land",
+    "pledge",
+    "admissible evidence",
+    "representative evidence",
+    "family property",
+    "customary law",
+    "Native Courts",
+    "judgment in previous suit",
+    "undisturbed possession"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Res Judicata",
+    "Evidence",
+    "Property Rights"
+  ],
+  "verdict": "Appeal allowed; judgment of the Native Court set aside.",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "Voogt v. Winch (1819) 2 B. & Ald. 662",
+    "Nyarko v. Abunyawah (1956) 1 W.A.L.R. 137",
+    "Yeboah v. Bonko (1956) 2 W.A.L.R. 107",
+    "Yaw Wilson v. Kwame and Daniel Tse"
+  ],
+  "rationaleHighlights": [
+    "Publicity through witnesses is essential for a valid customary land sale.",
+    "Self-acquired property can be alienated without family consent under native custom.",
+    "The issue was res judicata due to identity of parties, subject matter, and privity with prior plaintiff.",
+    "Evidence given by a representative in first person is inadmissible.",
+    "Documentary evidence (affidavits, prior judgment) overwhelmingly supported the defendants.",
+    "The prior judgment in Wilson v. Tse had already validated the sale in question.",
+    "Failure by the Native Court to properly evaluate evidence and apply res judicata was fatal to its decision."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details (parties, judgment, legal principles) are explicitly stated in the text. Res judicata and inadmissible evidence are clearly articulated by the judge.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/YEBOAH v. TSE AND ANOTHE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:49:55.441Z",
+    "plainTextLength": 11579
+  }
+}

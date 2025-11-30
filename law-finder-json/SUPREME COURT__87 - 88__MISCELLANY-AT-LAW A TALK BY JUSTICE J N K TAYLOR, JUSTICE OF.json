@@ -1,0 +1,59 @@
+{
+  "caseTitle": "MISCELLANY-AT-LAW A TALK BY JUSTICE J N K TAYLOR, JUSTICE OF",
+  "summary": "In this 1987–1988 address to the Ghana Bar Association, Supreme Court Justice J.N.K. Taylor explores the 'dilemmas of law and lawyers in contemporary Ghana,' highlighting tensions between traditional Anglo-Ghanaian legal principles and emerging socialist legality under revolutionary governance. He critiques the concept of 'kalabule' as legally unjustifiable in the absence of price controls, warns against the subordination of law to unarticulated party policy, and expresses concern over the parallel system of public tribunals undermining judicial independence. Justice Taylor calls for a reaffirmation of the rule of law, legal clarity, and professional unity within the legal community amid political flux.",
+  "legalKeywords": [
+    "rule of law",
+    "socialist legality",
+    "judicial independence",
+    "kalabule",
+    "public tribunals",
+    "common law",
+    "customary law",
+    "legal philosophy",
+    "corruption in judiciary",
+    "PNDC",
+    "legal ethics",
+    "revolutionary law",
+    "law and politics",
+    "legal profession",
+    "Ghana Bar Association"
+  ],
+  "topics": [
+    "Legal Philosophy",
+    "Judicial Independence",
+    "Rule of Law",
+    "Socialist Legality",
+    "Ghana Bar Association"
+  ],
+  "verdict": "Not applicable; this is a judicial address, not a court decision.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "J.N.K. Taylor",
+      "role": "Speaker/Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "judicial address",
+  "citations": [
+    "Taylor, J.N.K., \"Miscellany-at-Law: A Talk by Justice J.N.K. Taylor, Justice of the Supreme Court on the Dilemmas of Law and Lawyers in Contemporary Ghana\" (1987-1988)"
+  ],
+  "rationaleHighlights": [
+    "Contrast between Anglo-Ghanaian proscriptive law and emerging socialist legality",
+    "Critique of 'kalabule' as a legally incoherent accusation without price controls",
+    "Concern over erosion of judicial independence under revolutionary regimes",
+    "Tension between traditional legal norms and new public tribunals",
+    "Call for clarity and consistency in legal philosophy"
+  ],
+  "confidenceNotes": "The document is a transcript of a speech delivered by a Supreme Court Justice and not a formal judicial decision; therefore, case details are derived from context and title.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/87 - 88/MISCELLANY-AT-LAW A TALK BY JUSTICE J N K TAYLOR, JUSTICE OF.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:02:49.679Z",
+    "plainTextLength": 34660
+  }
+}

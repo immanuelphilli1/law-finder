@@ -1,0 +1,78 @@
+{
+  "caseTitle": "OCANSEY v. DJANIE AND LAND COMMISSION",
+  "summary": "In Ocansey v. Djanie and Land Commission (CA No. 35/99, 20 July 2000), the Court of Appeal of Ghana dismissed an appeal challenging the Circuit Court's decision that the respondent's land title was void. The appellant had purchased land from the chief of Okponglo in 1992, but the area had already been compulsorily acquired by the government. The Land Commission later leased part of the land to a third party. The Land Registry mistakenly issued a title certificate to the appellant. The trial court found the conveyance unlawful, the title void due to mistake, and dismissed the appellant's claims. The Court of Appeal affirmed, holding that post-acquisition conveyances without state consent are void, that the title could be rectified under PNDCL 152 s.122(1) for mistake, and that the Land Commission benefited from the presumption of regularity in public acts. The appeal and application to vary judgment for damages were dismissed.",
+  "legalKeywords": [
+    "land title registration",
+    "compulsory acquisition",
+    "indefeasibility of title",
+    "rectification of register",
+    "fraud or mistake in registration",
+    "public lands",
+    "trespass",
+    "jurisdiction",
+    "constitutional law",
+    "evidence",
+    "presumption of regularity",
+    "void conveyance",
+    "Land Commission",
+    "executive power",
+    "survey evidence",
+    "corroboration",
+    "Court of Appeal",
+    "trial court findings",
+    "damages",
+    "procedural amendment"
+  ],
+  "topics": [
+    "Land Law",
+    "Administrative Law",
+    "Constitutional Law",
+    "Property Rights",
+    "Judicial Review"
+  ],
+  "verdict": "Appeal dismissed; trial court judgment upheld.",
+  "winningSide": "Land Commission and lessee (respondents)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Twumasi, J.A.",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Benin, J.A.",
+      "role": "concurring judge"
+    },
+    {
+      "name": "Farkye, J.A.",
+      "role": "concurring judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Yeboah vrs Bofour (1971) 2 GLR.199 C.A.",
+    "Tsirifo vrs: Duah VIII (1959) GLR.63",
+    "Woollett vrs: Minister of Agriculture and Fisheries (1954) 3 All ER.529",
+    "Mensah Moncar vrs: Chieftaincy (1972) 2 GLR.293"
+  ],
+  "rationaleHighlights": [
+    "The disputed land fell within a government compulsory acquisition area, rendering any private conveyance void.",
+    "The Land Title Registry's issuance of a certificate to the respondent was erroneous and void due to mistake.",
+    "Under PNDCL 152 s.122(1), the court may rectify the register where registration results from fraud or mistake.",
+    "The presumption of regularity in public duties (omnis praesumuntur rite esse acta) relieved the Land Commission from proving compliance with constitutional conditions.",
+    "A conveyance of acquired land without government consent is void, even if registered, per Mensah Moncar vrs: Chieftaincy (1972).",
+    "The trial judge properly dismissed the claim for damages for trespass due to lack of valid title.",
+    "Appellate court upheld trial court's factual findings supported by survey evidence and corroboration."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy due to clear judicial reasoning, citation of statutory provisions and binding precedents, and explicit findings of fact by the trial and appellate courts.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/OCANSEY v. DJANIE AND LAND COMMISSION.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:11:35.560Z",
+    "plainTextLength": 8220
+  },
+  "trialDate": "1999-01-14"
+}

@@ -1,0 +1,86 @@
+{
+  "caseTitle": "THE REPUBLIC v EDWARD ACQUAYE @NANA ABOR YAMOAH II EX-PARTE",
+  "summary": "This 2008 Supreme Court of Ghana decision in *The Republic v Edward Acquaye @Nana Abor Yamoah II, Ex-parte Charles Kwaku Essel & Ors* centers on a contempt of court appeal arising from a chieftaincy dispute. The case originated from a 1997 destoolment of Nana Abor Ewusie XIX by the Gomoa Akyempim Traditional Council, after which Edward Acquaye was installed as Nana Abor Yamoah II. A higher traditional council later set aside the destoolment and ordered a retrial. Subsequently, the High Court issued a prohibition order in 2001, directing that the status quo be maintained pending a properly constituted panel. The appellant sought to hold Acquaye in contempt for acting as chief during this period. The High Court found him guilty, but the Court of Appeal reversed, interpreting 'status quo' as preserving the state of affairs at the time—namely, Acquaye's enstoolment. The Supreme Court upheld the Court of Appeal’s interpretation, emphasizing that superior courts lack jurisdiction over chieftaincy matters as courts of first instance and must not expand their role beyond the issues presented. The appeal was dismissed, affirming that Acquaye’s conduct did not constitute contempt.",
+  "legalKeywords": [
+    "contempt of court",
+    "status quo",
+    "chieftaincy dispute",
+    "judicial committee",
+    "prohibition order",
+    "enstoolment",
+    "destoolment",
+    "jurisdiction",
+    "quasi-criminal",
+    "standard of proof",
+    "superior courts",
+    "Court of Appeal",
+    "Supreme Court",
+    "Ghana Constitution",
+    "Chieftaincy Act 1971",
+    "Act 370",
+    "High Court Civil Procedure Rules",
+    "prima facie case",
+    "willful disobedience",
+    "gazettement"
+  ],
+  "topics": [
+    "Contempt of Court",
+    "Chieftaincy Law",
+    "Judicial Review",
+    "Jurisdictional Limits",
+    "Statutory Interpretation"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Dotse, J.S.C",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "Akuffo, (Ms) J.S.C",
+      "role": "Presiding"
+    },
+    {
+      "name": "Date-Bah, J.S.C",
+      "role": "Member of panel"
+    },
+    {
+      "name": "Adinyira, (Mrs) J.S.C",
+      "role": "Member of panel"
+    },
+    {
+      "name": "Owusu, (Ms) J.S.C",
+      "role": "Member of panel"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Republic vrs. SITO 1 Ex-parte Fordjour [2001-2002] SCGLR 322",
+    "In Re: Effiduase Stool Affairs (No.2) [1998-99] SCGLR 639",
+    "Okofoh Estates Limited vrs Modern Signs {1996-97 SCGLR.227}"
+  ],
+  "rationaleHighlights": [
+    "The term 'status quo' was interpreted as the state of affairs existing at the time of the High Court's 2001 order, which included the respondent's enstoolment.",
+    "Contempt must be proven beyond reasonable doubt, and willful disobedience must be established.",
+    "Superior courts lack jurisdiction to adjudicate chieftaincy matters as courts of first instance.",
+    "The Supreme Court refused to expand its jurisdiction to address underlying chieftaincy issues not properly before it.",
+    "The Court of Appeal correctly held that acting as chief under a valid enstoolment did not violate the prohibition order.",
+    "The High Court erred in finding contempt where the order did not explicitly prohibit the respondent from performing chiefly functions.",
+    "The appeal was based on misinterpretation of the Chieftaincy Act and misdirection in law.",
+    "The Supreme Court emphasized adherence to procedural rules and jurisdictional boundaries."
+  ],
+  "confidenceNotes": "The summary and analysis are based on a complete reading of the judgment text provided. All key legal principles, holdings, and procedural history are accurately reflected with reference to cited authorities and court reasoning.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2008/THE REPUBLIC v EDWARD ACQUAYE @NANA ABOR YAMOAH II EX-PARTE .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:51:04.972Z",
+    "plainTextLength": 20851
+  },
+  "trialDate": "10TH DECEMBER, 2008"
+}

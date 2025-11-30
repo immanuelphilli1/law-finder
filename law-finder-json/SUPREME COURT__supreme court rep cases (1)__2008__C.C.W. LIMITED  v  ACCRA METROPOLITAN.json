@@ -1,0 +1,83 @@
+{
+  "caseTitle": "C.C.W. LIMITED v ACCRA METROPOLITAN",
+  "summary": "In C.C.W. Limited v Accra Metropolitan Assembly, the Supreme Court of Ghana considered the validity and termination of a 1997 service agreement for waste management services in Accra. The plaintiff, C.C.W. Limited, claimed breach of contract after the defendant unilaterally terminated the agreement in 2001. The defendant argued the contract was void due to non-compliance with statutory procurement procedures under the Local Government Act 1993 (Act 462), lack of parliamentary approval for financing, and alleged duress. The trial court found no duress but held the contract was improperly executed without adherence to tender board requirements and public procurement regulations. The Supreme Court upheld that non-compliance with statutory procedures rendered the agreement unenforceable, despite partial performance. It emphasized that public bodies must follow legal frameworks in contract execution to uphold transparency and accountability. The plaintiff's claims for payment and damages were dismissed, while the defendant’s counterclaim asserting illegality was sustained.",
+  "legalKeywords": [
+    "breach of contract",
+    "public procurement",
+    "statutory compliance",
+    "contract termination",
+    "duress",
+    "Local Government Act 1993",
+    "Standing Orders",
+    "parliamentary approval",
+    "void contract",
+    "District Tender Board",
+    "financial oversight",
+    "government contracts",
+    "enforceability",
+    "illegality",
+    "public policy",
+    "sovereign guarantee",
+    "Loans Act 1970",
+    "technical evaluation",
+    "asset declaration",
+    "constitutional accountability"
+  ],
+  "topics": [
+    "Contract Law",
+    "Administrative Law",
+    "Public Procurement",
+    "Local Government",
+    "Judicial Review"
+  ],
+  "verdict": "The appeal was dismissed; the contract was declared unenforceable due to non-compliance with statutory procedures.",
+  "winningSide": "Accra Metropolitan Assembly",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah, J.S.C."
+    },
+    {
+      "name": "Miss Akuffo, J.S.C."
+    },
+    {
+      "name": "Ansa, J.S.C."
+    },
+    {
+      "name": "Aninakwah, J.S.C."
+    },
+    {
+      "name": "Asiamah, J.S.C."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Local Government Act 1993 (Act 462)",
+    "Loans Act 1970 (Act 335)",
+    "Companies Code, 1963 (Act 179)",
+    "L.I. 1606",
+    "Article 181, 1992 Constitution"
+  ],
+  "rationaleHighlights": [
+    "The contract was executed without approval by the District Tender Board, violating Section 39 of Act 462.",
+    "Failure to advertise the tender and conduct technical evaluation breached L.I. 1606.",
+    "Parliamentary approval was required under the Loans Act for financial obligations involving sovereign guarantees.",
+    "Partial performance did not cure illegality arising from non-compliance with statutory procedures.",
+    "Public policy demands strict adherence to procurement laws by state entities.",
+    "The Assembly could not be estopped from challenging the legality of its own unlawful contract.",
+    "Duress was not proven, but procedural illegality invalidated the agreement.",
+    "Ministerial consultation under Section 88 was necessary for loan-related expenditures."
+  ],
+  "confidenceNotes": "High confidence based on detailed trial findings, statutory references, and appellate reasoning. Some procedural details inferred from standard Ghanaian judicial practice.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2008/C.C.W. LIMITED  v  ACCRA METROPOLITAN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:54:56.163Z",
+    "plainTextLength": 58511
+  },
+  "trialDate": "2008-02-13"
+}

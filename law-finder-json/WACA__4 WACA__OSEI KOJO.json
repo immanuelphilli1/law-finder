@@ -1,0 +1,74 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "In this West Africa Court of Appeal decision from 1938, the plaintiff sued the defendant for possession of land in Tamale and damages for trespass, based on a Deed of Assignment dated 24th April 1936. The deed purported to assign approximately half of Commercial Plot No. 1 Daboya Road, excluding an uncompleted storey building. However, at trial, the court admitted oral evidence suggesting the plaintiff was to receive the entire plot, which led to a judgment in his favor. The appellate court held that such oral evidence was inadmissible under the parol evidence rule, which prohibits extrinsic evidence from adding to or varying the terms of a written deed. Relying on *Norton on Deeds* and common law principles, the court emphasized that written agreements, especially those affecting land, must be interpreted solely based on their terms. The trial judge’s reliance on oral testimony to expand the plaintiff’s interest was therefore erroneous. While the appeal was allowed and the judgment set aside, the court noted the plaintiff might have a valid claim as a tenant in common, though this was not pleaded. A non-suit was entered with liberty to refile. Costs were awarded to the appellant, and rent paid into court was ordered to be refunded.",
+  "legalKeywords": [
+    "land possession",
+    "trespass damages",
+    "deed construction",
+    "parol evidence rule",
+    "extrinsic evidence",
+    "tenancy in common",
+    "assignment of lease",
+    "consent to assign",
+    "non-suit",
+    "statute of frauds",
+    "common law rule",
+    "oral evidence",
+    "written contract",
+    "lease covenant",
+    "judicial discretion"
+  ],
+  "topics": [
+    "Property Law",
+    "Evidence Law",
+    "Land Tenure",
+    "Appellate Procedure",
+    "Contract Interpretation"
+  ],
+  "verdict": "Appeal allowed; judgment of the lower court set aside; non-suit entered with liberty to refile.",
+  "winningSide": "Defendant-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judging Panel"
+    },
+    {
+      "name": "Webb, C.J., Sierra Leone",
+      "role": "Judging Panel"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Deed of Assignment dated 24th April, 1936",
+    "Indenture of Lease dated 13th January, 1932",
+    "Norton on Deeds, 2nd Edition, p. 135",
+    "Courts Ordinance, Order 6 Rule 29, Schedule 2"
+  ],
+  "rationaleHighlights": [
+    "Oral evidence altering written deed terms is inadmissible under common law and statute.",
+    "Extrinsic evidence cannot vary the terms of a deed once reduced to writing.",
+    "Trial judge erred in relying on oral testimony contradicting the Deed of Assignment.",
+    "Plaintiff's claim based on exclusive possession failed due to incorrect deed interpretation.",
+    "Possibility of tenancy in common acknowledged, though not pleaded.",
+    "Non-suit entered with liberty to refile on proper grounds.",
+    "Appellant's costs awarded on appeal and at trial.",
+    "Rent paid into court to be refunded to appellant."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and cited authorities.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/OSEI KOJO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:01:06.038Z",
+    "plainTextLength": 9606
+  },
+  "trialDate": "1938-12-13"
+}

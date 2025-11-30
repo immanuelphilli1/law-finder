@@ -1,0 +1,85 @@
+{
+  "caseTitle": "KWADWO SASU BAMFO, VRS KWESI SINTIM, 130TH NOVEMBER,2011",
+  "summary": "This 2011 Supreme Court of Ghana case involved a land dispute between Kwadwo Sasu Bamfo (Appellant) and Kwesi Sintim (Respondent) over a parcel of land at North Taifa, Accra. The Appellant claimed title via a 1990 lease agreement with Numo Kpanie Mensah, head of the Neefu family, while the Respondent denied the lease's validity, alleging forgery, and counterclaimed based on a 2005 lease from a different family representative. The Appellant presented a witness who testified to the 1990 execution and authenticity of the lease (Ex 'A'), including identifying the lessor's thumbprint and his own signature as a witness. However, the witness admitted the lessor died in 1993, raising questions about the document's date. The Respondent argued the lease was forged and executed after the lessor's death. The court ultimately found the Appellant's evidence unconvincing, particularly due to inconsistencies in the execution date and lack of credible authentication, and ruled in favor of the Respondent, upholding the trial court's decision to dismiss the Appellant's claim and grant the Respondent's counterclaim for title, possession, and damages.",
+  "legalKeywords": [
+    "land title",
+    "lease agreement",
+    "forgery",
+    "declaration of title",
+    "recovery of possession",
+    "trespass",
+    "perpetual injunction",
+    "evidence",
+    "witness testimony",
+    "document authentication",
+    "family land",
+    "Neefu family",
+    "Okumo Aryikwei family",
+    "thumbprint",
+    "counterclaim",
+    "possession",
+    "injunction",
+    "damages",
+    "Supreme Court of Ghana",
+    "civil appeal"
+  ],
+  "topics": [
+    "Land Law",
+    "Property Dispute",
+    "Document Forgery",
+    "Judicial Evidence",
+    "Family Land Ownership"
+  ],
+  "verdict": "The appeal was dismissed. The Respondent's counterclaim succeeded.",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Owusu JSC.",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Atuguba JSC.",
+      "role": "Member of panel"
+    },
+    {
+      "name": "Dr. Date-Bah JSC.",
+      "role": "Member of panel"
+    },
+    {
+      "name": "Ansa JSC.",
+      "role": "Member of panel"
+    },
+    {
+      "name": "Bonnie JSC.",
+      "role": "Member of panel"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "CIVIL APPEAL J4/26/2011",
+    "30TH NOVEMBER, 2011"
+  ],
+  "rationaleHighlights": [
+    "The Appellant's lease document (Ex 'A') was suspect due to conflicting execution dates and the death of the lessor in 1993.",
+    "The witness admitted the lessor died before the apparent execution date on the document.",
+    "The court found the Appellant failed to prove the authenticity of the lease agreement.",
+    "The Respondent successfully challenged the document as forged.",
+    "The trial court's findings were upheld on appeal.",
+    "Possession and title were awarded to the Respondent based on credible evidence.",
+    "The Appellant's claim was dismissed for lack of proof.",
+    "The Respondent's counterclaim for declaration of title and damages succeeded."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; document is a judicial judgment with clear structure. Some text truncation occurred but key reasoning and outcome are preserved.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/KWADWO SASU BAMFO, VRS KWESI SINTIM, 130TH NOVEMBER,2011.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:05:09.921Z",
+    "plainTextLength": 59382
+  },
+  "trialDate": "2011-11-30"
+}

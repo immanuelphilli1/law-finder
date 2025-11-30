@@ -1,0 +1,56 @@
+{
+  "caseTitle": "BORKLOE AND OTHERS VERSUS HLORMENU AND ANOTHER.",
+  "summary": "In Borkloe and Others v. Hlormenu and Another, the plaintiffs sued for a declaration of ownership over two swampy areas but lost at the trial Native Court, which erroneously granted a declaration of title and possession to the defendants despite no counterclaim. The Native Appeal Court set aside the judgment and ordered a rehearing de novo, citing discrepancies in land descriptions, admission of a void perpetual injunction, and refusal to amend the claim. The Supreme Court of Ghana, Eastern Judicial Division, held that the Native Appeal Court erred in remitting the case. It found the land identity was not in dispute, the void injunction was irrelevant after striking out the ultra vires relief, and the sought amendment was a substantive substitution, not a permissible detail change under Regulation 16. Thus, the appeal was allowed, the trial court's decision was restored with the ultra vires portion expunged, and costs were adjusted accordingly.",
+  "legalKeywords": [
+    "declaration of title",
+    "rehearing de novo",
+    "Native Courts Ordinance",
+    "amendment of claim",
+    "ultra vires",
+    "appellate discretion",
+    "perpetual injunction",
+    "burden of proof",
+    "jurisdictional error",
+    "land ownership"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Native Courts Jurisdiction",
+    "Procedural Fairness",
+    "Judicial Discretion"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "van Lare J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Ofuman Stool v. Nchiraa and Branam Stools (1957) 2 W.A.L.R. 229",
+    "Native Courts (Colony) Ordinance, c. 98 of 1951, s. 50",
+    "Native Courts (Colony) Procedure Regulations, 1945, reg. 16"
+  ],
+  "rationaleHighlights": [
+    "The identity and location of the disputed land were known and not in dispute, negating grounds for rehearing.",
+    "The void perpetual injunction was irrelevant after the ultra vires declaration in favor of defendants was expunged.",
+    "The amendment sought was a substantive substitution, not a permissible detail change under Regulation 16.",
+    "The trial Native Court correctly dismissed the claim as plaintiffs failed to discharge the burden of proof.",
+    "The Native Appeal Court's discretion was improperly exercised as the trial was satisfactory and no injustice occurred."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and cited statutory provisions. All key holdings and procedural history are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/BORKLOE AND OTHERS v. HLORMENU AND ANOTHER..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:39:45.240Z",
+    "plainTextLength": 12408
+  }
+}

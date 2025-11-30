@@ -1,0 +1,81 @@
+{
+  "caseTitle": "ACTIONS IN RESPECT OF FOREIGN CURRENCY OBLIGATIONS [1987-88]",
+  "summary": "In Hungarotex Foreign Trading Company for Textiles v. Emmanuel Ofori-Boateng, a Ghanaian businessman defaulted on a US$86,250 debt owed to a Hungarian corporation for goods supplied under a 1979 contract. After partial payments and failed installment agreements, court proceedings were initiated in 1984. The High Court entered a consent judgment requiring payment in cedis at the prevailing bank rate, later allowing installment payments. When the debtor paid only partially, a new consent judgment was agreed in 1985 for a fixed cedi amount. The debtor then sought to amend the 1984 judgment, arguing for an earlier exchange rate. The High Court accepted this, but the Court of Appeal reversed, allowing the appeal by majority. The key issue was whether Ghanaian courts could award judgments in foreign currency or convert debts using the exchange rate at the date of payment. The majority, citing changes in English law and Order 74 of the Civil Procedure Rules, held that conversion should occur at the date of payment to ensure fairness, especially under exchange controls. They emphasized that while English procedural rules may guide practice, substantive jurisdictional expansion is not permitted. The court also recognized its power under the Courts Act, 1971 (Act 372) to adopt equitable solutions from other legal systems. The dissent argued for adherence to prior precedent, but the majority favored a rational, justice-oriented approach over outdated authorities.",
+  "legalKeywords": [
+    "foreign currency obligation",
+    "exchange rate",
+    "consent judgment",
+    "breach of contract",
+    "money judgment",
+    "procedural rules",
+    "jurisdiction",
+    "damages",
+    "specific performance",
+    "conflict of laws",
+    "exchange control",
+    "judgment debt",
+    "date of payment",
+    "precedent",
+    "creative adaptation",
+    "common law development",
+    "High Court (Civil Procedure) Rules",
+    "Courts Act",
+    "equity and good conscience",
+    "rational legal system"
+  ],
+  "topics": [
+    "Contract Law",
+    "Conflict of Laws",
+    "Monetary Judgments",
+    "Exchange Control",
+    "Appellate Review"
+  ],
+  "verdict": "The Court of Appeal allowed the plaintiff's appeal by majority, holding that the exchange rate for converting the foreign currency debt into cedis should be determined at the date of payment, not at the date of breach.",
+  "winningSide": "Plaintiff (Hungarotex Foreign Trading Company for Textiles)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Amua-Sekyi JA",
+      "role": "majority opinion"
+    },
+    {
+      "name": "Abban JA",
+      "role": "majority opinion"
+    },
+    {
+      "name": "Osei-Hwere JA",
+      "role": "dissenting opinion"
+    },
+    {
+      "name": "Ansah-Twum J",
+      "role": "High Court judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Hungarotex Foreign Trading Company for Textiles v. Emmanuel Ofori-Boateng, CA, 13 November 1986",
+    "Societe Generale de Compensation v Ackerman [1972] 1 GLR 413",
+    "The Legal Aspect of Money (4th ed.) by Dr F A Mann",
+    "Dicey and Morris, The Conflict of Laws (11th ed.)",
+    "Courts Act, 1971 (Act 372)"
+  ],
+  "rationaleHighlights": [
+    "English procedural rules applied via Order 74 but do not expand jurisdiction",
+    "Exchange rate should reflect date of actual payment for fairness",
+    "Distinction between damages and debt recovery affects remedy",
+    "Ghanaian courts may creatively adapt foreign legal principles under Act 372",
+    "Earlier precedent not binding where based on overruled English law"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and cited authorities. Some footnotes are truncated but key legal principles and case outcomes are preserved.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/87 - 88/ACTIONS IN RESPECT OF FOREIGN CURRENCY OBLIGATIONS [1987-88].htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:27:54.822Z",
+    "plainTextLength": 17671
+  },
+  "trialDate": "1984-10-31"
+}

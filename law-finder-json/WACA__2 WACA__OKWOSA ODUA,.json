@@ -1,0 +1,70 @@
+{
+  "caseTitle": "OKWOSA ODUA,",
+  "summary": "This civil appeal before the West Africa Court of Appeal concerned a dispute over title to a parcel of land called Iyiowa in Onitsha between the Odekpe people (plaintiffs) and the Umuoputa Orifite family (defendant). The Divisional Court had granted the plaintiffs a declaration of ownership and an injunction restricting the defendant's use of the land, allowing only continued habitation by Mbanefo village residents under plaintiffs' authority. The defendant appealed, arguing lack of jurisdiction and res judicata based on prior native court decisions. The appellate court dismissed the appeal, holding that the Divisional Court properly acquired jurisdiction through a valid transfer order, despite procedural irregularities in party substitution. It further ruled that prior native court cases (Ugboma v. Agbmu, Mbanefo v. Ofoni, Kodilinye v. Mbanefo) did not constitute res judicata, as they involved different parties, subject matter, and legal issues, and did not finally determine the ownership claim between the current parties.",
+  "legalKeywords": [
+    "title to native land",
+    "injunction",
+    "jurisdiction",
+    "res judicata",
+    "estoppel",
+    "tenancy",
+    "customary law",
+    "land ownership",
+    "re-transfer of case",
+    "privity",
+    "declaratory relief",
+    "harvest tribute",
+    "palm tree tapping",
+    "farming rights",
+    "native court decision"
+  ],
+  "topics": [
+    "Land Law",
+    "Jurisdiction",
+    "Res Judicata",
+    "Native Customary Law",
+    "Appellate Procedure"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Plaintiffs (Odekpe people)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Deane",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil land dispute",
+  "citations": [
+    "Ugboma v. Agbmu & Ors. (Native Court of Onitsha, 4th September, 1929)",
+    "Mbanefo Akunna of Orifite v. Ofoni of Sobo (Native Court of Onitsha, 8th September, 1930)",
+    "Kodilinye of Obosi v. Mbanefo"
+  ],
+  "rationaleHighlights": [
+    "Divisional Court had valid jurisdiction despite procedural naming issues due to clear intent and continuity of the case",
+    "No res judicata applies because prior native court cases involved different parties, subject matter, and legal questions",
+    "Tenant cannot challenge landlord's title; thus Mbanefo v. Ofoni did not adjudicate ownership between Odekpe and Umuoputa",
+    "Plaintiffs actively disassociated from prior proceedings, showing no privity with Ofoni",
+    "Native court's decision on rent and possession did not require determination of ultimate land ownership"
+  ],
+  "confidenceNotes": "High confidence in factual extraction; all key details (parties, jurisdiction, rulings) are explicitly stated in the judgment. Citations of prior cases are directly quoted.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/OKWOSA ODUA,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:23:18.869Z",
+    "plainTextLength": 13431
+  },
+  "trialDate": "1934-08-30"
+}

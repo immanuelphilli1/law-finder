@@ -1,0 +1,71 @@
+{
+  "caseTitle": "ASARE BAFFOUR v. ASARE ORIGINAL PAY ALL",
+  "summary": "In this appeal from a Circuit Court judgment, the plaintiff (respondent below) claimed GHS 7.4 million from the defendant (appellant), a licensed District Weekly Lotto operator, for winnings from numbers drawn on October 21, 1995. The plaintiff argued that his agent (Pw1) paid the stake on his behalf before the draw, but the Court of Appeal found otherwise. The court held that the transaction was illegal under PNDCL 223 and Act 94 because the draw occurred on a Saturday, corresponding to the national lottery operated by the Department of National Lotteries, which the defendant was not authorized to conduct. Thus, the bet constituted a prohibited 'clandestine lotto.' Additionally, the court ruled that a stake must be paid before the draw to be valid, and payment the day after cannot retroactively validate a bet. The trial court's finding of pre-draw payment was deemed unreasonable. Consequently, the appeal was allowed, the lower court's judgment set aside, and the plaintiff's claim dismissed. Both parties were ordered to bear their own costs due to their involvement in an illegal transaction.",
+  "legalKeywords": [
+    "lotto",
+    "betting contract",
+    "clandestine lotto",
+    "illegal gambling",
+    "judicial notice",
+    "payment after draw",
+    "void contract",
+    "PNDCL 223",
+    "Act 94",
+    "District Weekly Lotto",
+    "stake",
+    "consideration",
+    "enforceability",
+    "gaming law",
+    "unreasonable finding"
+  ],
+  "topics": [
+    "Gambling Law",
+    "Contract Illegality",
+    "Judicial Notice",
+    "Appellate Review",
+    "Evidence"
+  ],
+  "verdict": "The appeal was allowed; the lower court's judgment was set aside and the plaintiff's claim dismissed.",
+  "winningSide": "Defendant/Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "GBADEGBE, JA.",
+      "role": "authoring judge"
+    },
+    {
+      "name": "FARKYE, JA.",
+      "role": "presiding judge"
+    },
+    {
+      "name": "OWUSU-ANSAH",
+      "role": "concurring judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "North Western Salt Co Ltd v. Electrolytic Alkali Co Ltd [1914] AC 461",
+    "Royal Exchange Assurance v. Sjafarskings Verga [1920] 2 KB - 384",
+    "The AG v. Ramble Enterprises Ltd. Unreported ruling of the High Court Accra dated 16.12.97",
+    "Asare v. Brobbey [1971] 2 GLR 331",
+    "Schandorf v. Zeini [1976] 2 GLR 418 @ 430"
+  ],
+  "rationaleHighlights": [
+    "The transaction constituted a clandestine lotto under PNDCL 223 and Act 94, making it illegal and unenforceable.",
+    "Payment made after the draw does not constitute a valid stake, as betting requires risk on an unknown outcome.",
+    "The court took judicial notice that the draw occurred on a Saturday, aligning with the national lottery, not the defendant's licensed District Weekly Lotto.",
+    "The trial judge's finding that the stake was paid before the draw was unreasonable and unsupported by evidence.",
+    "Credit arrangements after the draw undermine the integrity of games of chance and cannot be enforced."
+  ],
+  "confidenceNotes": "High confidence; all key details are explicitly stated in the judgment, including jurisdiction, parties, legal reasoning, and final disposition.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/ADJEI ASARE BAFFOUR v. ASARE ORIGINAL PAY ALL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:47:57.866Z",
+    "plainTextLength": 40070
+  }
+}

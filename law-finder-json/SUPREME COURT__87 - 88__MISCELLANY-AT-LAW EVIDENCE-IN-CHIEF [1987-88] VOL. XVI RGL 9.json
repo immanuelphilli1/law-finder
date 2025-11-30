@@ -1,0 +1,78 @@
+{
+  "caseTitle": "MISCELLANY-AT-LAW EVIDENCE-IN-CHIEF [1987-88] VOL. XVI RGL 9",
+  "summary": "This legal commentary from the 1987–88 Review of Ghana Law discusses best practices and challenges in conducting examination-in-chief in Ghanaian trials. It emphasizes that counsel should guide witnesses to present their testimony clearly and chronologically, avoiding leading questions except in permitted circumstances. The paper critiques counsel who dominate proceedings, stressing that the focus should remain on the witness and the client's case. It also addresses judicial conduct, cautioning against premature dismissal of testimony and highlighting the tension between truth-seeking and procedural efficiency. Referencing both local and foreign jurisprudence, including the Evidence Decree, 1975 (NRCD 323), the author underscores that relevance is a matter of judgment, not mere logic, and calls for judicial restraint and assistance to ensure fair presentation of evidence.",
+  "legalKeywords": [
+    "evidence-in-chief",
+    "leading questions",
+    "relevance",
+    "admissibility",
+    "examination-in-chief",
+    "witness testimony",
+    "trial procedure",
+    "truth-seeking",
+    "judicial conduct",
+    "counsel conduct",
+    "rules of evidence",
+    "chronological narrative",
+    "cross-examination",
+    "judicial discretion",
+    "procedural fairness"
+  ],
+  "topics": [
+    "Evidence Law",
+    "Trial Advocacy",
+    "Judicial Conduct",
+    "Legal Procedure",
+    "Witness Examination"
+  ],
+  "verdict": "Not applicable – the document is a legal commentary, not a court judgment.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Denning LJ",
+      "role": "referenced appellate judge"
+    },
+    {
+      "name": "R W Fox",
+      "role": "referenced judge"
+    },
+    {
+      "name": "Owen Dixon",
+      "role": "referenced judge"
+    },
+    {
+      "name": "Devlin",
+      "role": "referenced judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "miscellany-at-law",
+  "citations": [
+    "Evidence Decree, 1975 (NRCD 323), s 51",
+    "Jones v National Coal Board [1957] 2 QB 55",
+    "Well and Truly Tried, Law Book Company Limited, 1982, p. 151",
+    "Jesting Pilate (1965) p. 16",
+    "The Judge [1979] at p. 54",
+    "The Commentary on the Evidence Decree, 1975, p. 32",
+    "The Technique of Persuasion (1st ed), 1970, p. 7",
+    "The Lawyer's Treasury, 395 at pp 404-405"
+  ],
+  "rationaleHighlights": [
+    "Examination-in-chief should allow witnesses to narrate facts chronologically and clearly, under controlled guidance from counsel.",
+    "Judges should avoid prematurely dismissing testimony as 'untrue' during examination-in-chief.",
+    "The primary goal in trials is not abstract truth but procedural fairness within adversarial constraints.",
+    "Counsel must avoid dominating the witness and instead focus on presenting the client's case effectively.",
+    "Relevant evidence is admissible unless excluded by policy-based rules; judges should assist in clarifying relevance."
+  ],
+  "confidenceNotes": "The document is a legal commentary rather than a full court judgment, so some fields are inferred from context. Jurisdiction and judges are generalized based on the source being a Ghana Supreme Court publication.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/87 - 88/MISCELLANY-AT-LAW EVIDENCE-IN-CHIEF [1987-88] VOL. XVI RGL 9.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:01:56.261Z",
+    "plainTextLength": 27071
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "caseTitle": "PURCHASE BY A HUSBAND IN THE NAME OF HIS WIFE DEVIOUSNESS OR",
+  "summary": "In Ramia v. Ramia, the plaintiff purchased land and had it conveyed to his wife, the defendant, and later constructed a building in her name. He sued to have the property transferred to him, claiming a resulting trust. The High Court and Court of Appeal ruled against him, upholding the presumption of advancement in favour of a lawful wife, which was not rebutted by evidence of contrary intention. The courts held that post-conveyance conduct, such as the husband's management of the property, could not be used to establish a resulting trust. The case confirmed the applicability of English common law doctrines in Ghana, including the presumption of advancement in marriages under customary and Moslem law, provided the parties intended common law to govern. However, where customary law governs the marital relationship, common law doctrines like resulting trusts may not apply. The decision emphasized that intention is determined at the time of conveyance and that local practices, such as a husband managing his wife's property, should not automatically imply beneficial ownership.",
+  "legalKeywords": [
+    "resulting trust",
+    "presumption of advancement",
+    "customary law",
+    "common law",
+    "conveyance",
+    "beneficial interest",
+    "intention",
+    "equitable interest",
+    "marriage under customary law",
+    "property ownership"
+  ],
+  "topics": [
+    "Property Law",
+    "Family Law",
+    "Equity and Trusts",
+    "Legal Presumptions",
+    "Ghanaian Jurisprudence"
+  ],
+  "verdict": "Against the plaintiff",
+  "winningSide": "Defendant (wife)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Edward Wiredu J.A.",
+      "role": "Appellate Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Property Dispute",
+  "citations": [
+    "Ramia v. Ramia (Court of Appeal, 14 April 1981, unreported)",
+    "Kwantreng v. Amassah [1962] 1 G.L.R 241",
+    "Ussher v. Darko [1977] 1 G.L.R 476",
+    "Quartey v. Armar [1971] 2 G.L.R 231",
+    "Quist v. George [1974] 1 G.L.R. 1",
+    "Reindorf v. Reindorf [1974] 2 G.L.R. 38",
+    "Sasu-Twum v. Twum [1976] 1 G.L.R. 23",
+    "Harrison v. Gray, Jnr. [1979] G.L.R. 330",
+    "Re Paradise Motor Co. Ltd. [1968] 1 W.L.R. 1125",
+    "Shephard v. Cartwright [1955] A.C. 431"
+  ],
+  "rationaleHighlights": [
+    "The presumption of advancement applies to lawful wives, including those in customary and Moslem marriages, unless rebutted by evidence of contrary intention.",
+    "Post-conveyance conduct, such as property management, cannot be used to establish a resulting trust.",
+    "Intention to create a trust or gift is determined at the time of conveyance, not after.",
+    "The common law presumption of resulting trust arises when purchase money is provided by one person but title is taken in another's name.",
+    "In Ghana, local practices like spousal property control may reflect marital roles, not beneficial ownership.",
+    "The applicability of common law doctrines depends on the parties' intention to be governed by common law, especially in customary marriages.",
+    "An intention to gift may be more common in Ghanaian practice than in English contexts, affecting the weight of presumptions.",
+    "Courts must assess whether customary or common law governs property relations between spouses based on the parties' intentions."
+  ],
+  "confidenceNotes": "High confidence; information is drawn directly from a detailed legal analysis with clear citations to case law and statutory provisions. The summary reflects the central holding and reasoning in Ramia v. Ramia and related precedents.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2013/PURCHASE BY A HUSBAND IN THE NAME OF HIS WIFE DEVIOUSNESS OR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:29:01.161Z",
+    "plainTextLength": 14059
+  }
+}

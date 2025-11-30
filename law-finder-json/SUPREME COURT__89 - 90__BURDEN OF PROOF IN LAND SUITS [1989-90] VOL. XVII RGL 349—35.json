@@ -1,0 +1,102 @@
+{
+  "caseTitle": "BURDEN OF PROOF IN LAND SUITS [1989-90] VOL. XVII RGL 349—35",
+  "summary": "This legal analysis examines the burden of proof in civil land title disputes in Ghana, focusing on the 1989 Court of Appeal decision in Banga v Djanie. The commentary questions whether a higher standard of proof—akin to criminal 'beyond reasonable doubt'—applies in land cases, as suggested by Francois JSC. It argues that under the Evidence Decree, 1975 (NRCD 323), the standard remains 'preponderance of probabilities' for all civil cases, including land suits. The Kodilinye principle, requiring plaintiffs to win on the strength of their own case, is clarified: it applies only when the plaintiff fails entirely to make a case, not when the defence merely has weaknesses. The Supreme Court in Odametey v Clocuh and the Court of Appeal in Ricketts v Addo emphasized that if a plaintiff presents even a weak but demonstrable case, they may rely on gaps or weaknesses in the defence. The article concludes that the 'higher burden' notion lacks statutory support and risks undermining fair adjudication.",
+  "legalKeywords": [
+    "burden of proof",
+    "land title",
+    "civil case",
+    "preponderance of probabilities",
+    "proof beyond reasonable doubt",
+    "Kodilinye principle",
+    "declaration of title",
+    "estoppel",
+    "traditional evidence",
+    "possession",
+    "user",
+    "root of title",
+    "balance of probabilities",
+    "quality of proof",
+    "plaintiff's burden",
+    "defendant's weakness",
+    "Ricketts v Addo",
+    "Mante v Botwe",
+    "Adzo v Tay",
+    "Odametey v Clocuh"
+  ],
+  "topics": [
+    "Land Law",
+    "Burden of Proof",
+    "Civil Procedure",
+    "Evidence Law",
+    "Ghanaian Jurisprudence"
+  ],
+  "verdict": "In Banga v Djanie, the Court of Appeal allowed the defendants' appeal, holding that the plaintiff failed to prove her title on the strength of her own case. However, the broader legal question of a 'higher burden' in land cases remains contested, with authoritative decisions supporting the standard civil burden of proof on a balance of probabilities.",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Francois JSC",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Ampiah JA",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Lamptey JA",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Essiem JA",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Taylor JSC",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Wuaku JJSC",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Adade JSC",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Amissah JA",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court and Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Banga v Djanie",
+    "Kodilinye v Odu (1935) 2 WACA 336",
+    "Adzo v Tay",
+    "Kponuglo v Kodadja",
+    "Mante v Botwe",
+    "Ricketts v Addo",
+    "Odametey v Clocuh",
+    "Nartey v Mechanical Lloyd Assembly Plant Ltd."
+  ],
+  "rationaleHighlights": [
+    "The burden of proof in civil land cases remains on a balance of probabilities, not beyond reasonable doubt.",
+    "The plaintiff must succeed on the strength of their own case, not merely on weaknesses in the defence.",
+    "A 'gnawing void' in the defence may allow reliance on such weaknesses if the plaintiff has a demonstrable case.",
+    "Statutory framework under NRCD 323 (ss 10-12) supports preponderance of probabilities as standard in civil cases.",
+    "Mechanical application of the Kodilinye principle is deprecated; courts must assess whether plaintiff made any case at all.",
+    "Long undisturbed possession can support a claim for title.",
+    "The Ricketts v Addo decision clarifies that balancing strengths and weaknesses is part of assessing probabilities.",
+    "The Supreme Court in Odametey v Clocuh emphasized contextual application of evidentiary principles."
+  ],
+  "confidenceNotes": "The analysis is based on a detailed legal commentary and multiple appellate decisions, indicating high confidence in the interpretation of the burden of proof in land cases under Ghanaian law.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/89 - 90/BURDEN OF PROOF IN LAND SUITS [1989-90] VOL. XVII RGL 349—35.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:57:38.654Z",
+    "plainTextLength": 23314
+  }
+}

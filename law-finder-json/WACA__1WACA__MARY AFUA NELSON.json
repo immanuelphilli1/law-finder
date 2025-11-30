@@ -1,0 +1,73 @@
+{
+  "caseTitle": "MARY AFUA NELSON",
+  "summary": "In this 1932 West African Court of Appeal case from Ghana, the plaintiffs—siblings of the defendant Samuel Quarshie Nelson—sued for an account of estate proceeds following the government's 1923 acquisition of land formerly belonging to their deceased father, George Akotey Nelson. The deceased had made a deathbed request (recognized as 'samansiw' in Ga Customary Law) that the literate defendant manage the estate for his siblings' benefit. However, under Native Customary Law, the head of the family was not the son but the maternal nephew, Acquah, who confirmed the defendant’s caretaker role. The court held that the defendant, acting as a fiduciary and not as head of family, was liable to account for the compensation he claimed and received (£1,650). The appeal was dismissed with costs, affirming the lower tribunals’ rulings that the defendant must render an account to his siblings.",
+  "legalKeywords": [
+    "Native Customary Law",
+    "death bed disposition",
+    "samansiw",
+    "family property",
+    "head of family",
+    "fiduciary duty",
+    "accountability",
+    "caretaker",
+    "letters of administration",
+    "funeral expenses",
+    "compensation distribution",
+    "Ga Customary Law",
+    "maternal nephew succession",
+    "provincial commissioner jurisdiction",
+    "appeal procedure"
+  ],
+  "topics": [
+    "Customary Law",
+    "Family Law",
+    "Succession",
+    "Fiduciary Duty",
+    "Property Rights"
+  ],
+  "verdict": "Appeal dismissed with costs. Defendant liable to account for estate compensation as fiduciary caretaker, not head of family.",
+  "winningSide": "Plaintiffs-Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Michelin, J.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Horne, J.",
+      "role": "Concurring Judge"
+    },
+    {
+      "name": "Macquarrie, J.",
+      "role": "Concurring Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Villars v. Baffoe, Renner's Reports 549",
+    "Pappoe v. Kwaku, F.C. 1923-25 158",
+    "Sarbah's Customary Law, p. 78",
+    "Sarbah's Customary Law, p. 82"
+  ],
+  "rationaleHighlights": [
+    "Defendant not head of family under customary law; thus liable to account.",
+    "Headship passed to maternal nephew (Acquah), not son.",
+    "Defendant acted as fiduciary caretaker per deceased's and family head's request.",
+    "Death bed dispositions (samansiw) respected due to affection/respect, not legal will.",
+    "Action for account valid against caretaker, not against head of family.",
+    "Compensation received by defendant required equitable distribution.",
+    "Native Tribunal properly examined accounts; findings upheld."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct textual evidence from the judgment. All key details (parties, legal reasoning, outcome) are explicitly stated in the source.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/MARY AFUA NELSON.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:44:02.725Z",
+    "plainTextLength": 9156
+  },
+  "trialDate": "1932-05-23"
+}

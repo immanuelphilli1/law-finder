@@ -1,0 +1,72 @@
+{
+  "caseTitle": "JARINATU KASUMU v DORCAS IBIRONKE",
+  "summary": "In Jarinatu Kasumu v. Dorcas Ibironke, the appellant landlord sought recovery of premises from the respondent tenant, who had built structures on a leased plot of land with the landlord's knowledge. The landlord argued the lease was for vacant land and thus not protected under the Increase of Rent (Restriction) Ordinance. The trial Magistrate ruled the tenant lost protection after 12 years, but the Supreme Court reversed, recognizing the tenant's occupancy and use of built premises. The West African Court of Appeal upheld this, holding that the landlord’s continued acceptance of rent and description of the holding as 'rooms' established a monthly tenancy of a dwelling, entitling the tenant to statutory protection under the Ordinance.",
+  "legalKeywords": [
+    "landlord and tenant",
+    "lease of land",
+    "tenant building with consent",
+    "recovery of premises",
+    "rent restriction ordinance",
+    "monthly tenancy",
+    "statutory protection",
+    "holding over",
+    "notice to quit",
+    "change of tenancy nature",
+    "implied tenancy",
+    "building on leased land",
+    "jurisdiction of court",
+    "appellate decision",
+    "West African Court of Appeal"
+  ],
+  "topics": [
+    "Property Law",
+    "Tenancy Rights",
+    "Rent Control",
+    "Appellate Jurisdiction"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Foster-Sutton",
+      "role": "President"
+    },
+    {
+      "name": "Verity",
+      "role": "Chief Justice (Nigeria)"
+    },
+    {
+      "name": "Coussey",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "W.A.C.A. No. 3591",
+    "Wolfe v. Hogan, 1949, 1 All E.R. 570",
+    "Jones v. Llanrwst Urban Council"
+  ],
+  "rationaleHighlights": [
+    "Landlord's acceptance of rent after expiration of initial term implied continuation of tenancy.",
+    "Description of premises as 'rooms' in legal documents indicated tenancy of built property, not vacant land.",
+    "Tenant's construction with landlord's consent transformed nature of lease.",
+    "Protection under Rent Restriction Ordinance applies to tenancies involving dwellings, not vacant land.",
+    "Continued possession and rent payment established de facto monthly tenancy.",
+    "Intent of parties inferred from conduct and documentation favored tenant protection.",
+    "Supreme Court correctly interpreted user and purpose of the lease.",
+    "Appellate court affirmed lower court's factual and legal interpretation."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on consistent narrative across judicial levels and clear citation of legal principles. Some document formatting issues present, but core reasoning and outcome are unambiguous.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/JARINATU KASUMU v  DORCAS IBIRONKE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:39:27.776Z",
+    "plainTextLength": 6389
+  },
+  "trialDate": "1952-10-22"
+}

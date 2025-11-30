@@ -1,0 +1,57 @@
+{
+  "caseTitle": "VADO VERSUS SEMPEDE",
+  "summary": "In Vado v. Sempede, a land ownership dispute arose in Sovie Abayeme, Ghana, when a local authority sought to quarry on contested land. Two customary arbitrations were conducted: one by town elders favoring the plaintiff (Sub-Divisional Chief), and another by the Divisional Council favoring the defendant. The Native Court and Native Appeal Court upheld opposing awards without examining their validity. The High Court held that a binding customary arbitration requires prior mutual consent and that the party invoking an award must prove its validity. Since no evidence was presented to establish the legitimacy of either arbitration, both lower court decisions were set aside. The case was remitted for a trial de novo, allowing parties to prove the validity of the arbitrations or the underlying land claim.",
+  "legalKeywords": [
+    "native law and custom",
+    "arbitration",
+    "evidence",
+    "onus of proof",
+    "customary arbitration",
+    "estoppel per rem judicatum",
+    "land ownership",
+    "consent to arbitrate",
+    "jurisdiction of arbitrators",
+    "trial de novo"
+  ],
+  "topics": [
+    "customary law",
+    "arbitration",
+    "land rights",
+    "evidence",
+    "jurisdiction"
+  ],
+  "verdict": "Appeal allowed; both lower court judgments set aside due to lack of proof of valid arbitration; case remitted for trial de novo.",
+  "winningSide": "Plaintiff (on appeal)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "presiding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "(1956) 1 W.A.L.R. 89",
+    "(1957) 2 W.A.L.R. 204",
+    "(1926) Full Court 1926-29, 76"
+  ],
+  "rationaleHighlights": [
+    "A valid customary arbitration requires prior consent by both parties to be bound by the award.",
+    "An arbitration award can act as estoppel only if its validity is proven by the party relying on it.",
+    "Parties may re-arbitrate only by mutual consent, not unilaterally.",
+    "No evidence was presented to prove the validity of either arbitration in this case.",
+    "Native Courts erred by assuming the validity of arbitration awards without proof.",
+    "Appeal allowed and case remitted for trial de novo to determine land ownership and validity of arbitrations."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the case text and citations are verifiable.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/VADO v. SEMPEDE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:51:00.386Z",
+    "plainTextLength": 7750
+  }
+}

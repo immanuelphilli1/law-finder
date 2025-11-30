@@ -1,0 +1,79 @@
+{
+  "caseTitle": "LT. COL. KUURE MULLER VRS MESSRS HOME FINANCE COMPANY",
+  "summary": "This Supreme Court of Ghana case, decided on 14th November 2012, involved a dispute between Lt. Col. Kuure Muller (Plaintiff) and Home Finance Company (Defendant) over the failed delivery of a five-bedroom house purchased at a public auction in 2002 for $40,000 USD. The Plaintiff successfully bid for the property, but was later prevented from occupying it due to a successful legal claim by the original owner, Cyril Kofi Hayford. The High Court awarded the Plaintiff the current market value of the house to restore him to his original position, applying the principle of *restitutio in integrum*. However, the Court of Appeal reversed this, ordering only a refund of the purchase price with interest. The Supreme Court ultimately held that the Plaintiff, as an innocent purchaser for value without notice, was entitled to the current market value of the house to be restored to the position he would have been in had the contract been fulfilled, emphasizing that a mere refund with interest would not suffice given inflation and market changes over eight years.",
+  "legalKeywords": [
+    "breach of contract",
+    "restitutio in integrum",
+    "innocent purchaser for value",
+    "damages for breach",
+    "specific performance",
+    "auction sale",
+    "title defect",
+    "contractual obligation",
+    "judicial remedy",
+    "negligence in property sale",
+    "property delivery failure",
+    "market value compensation",
+    "contractual restitution",
+    "equitable remedy",
+    "financial institution liability"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Damages",
+    "Appeal Judgment",
+    "Supreme Court Decision"
+  ],
+  "verdict": "The Supreme Court allowed the appeal and held that the Plaintiff is entitled to the current market value of the house.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Jones Dotse JSC",
+      "role": "Delivered Judgment"
+    },
+    {
+      "name": "Ansa JSC",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Adinyira (Mrs) JSC",
+      "role": "Member of Bench"
+    },
+    {
+      "name": "Anin-Yeboah JSC",
+      "role": "Member of Bench"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs) JSC",
+      "role": "Member of Bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Bain v Fotherhill (1874) LR7 HL 158",
+    "Royal Dutch Airlines v Fermex Ltd. (1989-90) 2 GLR 623"
+  ],
+  "rationaleHighlights": [
+    "The principle of restitutio in integrum requires placing the injured party in the position they would have been in had the breach not occurred.",
+    "A mere refund of purchase price with interest does not compensate for loss of opportunity to own a house over eight years.",
+    "The Defendant, as a financial institution, had a duty to ensure clear title before auctioning property.",
+    "The Plaintiff was an innocent purchaser for value without notice and should not bear the consequences of the Defendant's negligence.",
+    "Market value compensation is necessary where inflation and real estate appreciation significantly affect property values.",
+    "The Court of Appeal's decision contradicted its own correct legal reasoning.",
+    "Judicial fairness demands substantive justice over technical refund mechanisms.",
+    "Failure to appeal the original owner's claim weakened the Defendant's position."
+  ],
+  "confidenceNotes": "The summary is based on a complete judgment text with clear reasoning from the Supreme Court. All key facts, legal principles, and holdings are explicitly stated in the source document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/LT. COL. KUURE MULLER   VRS  MESSRS HOME FINANCE COMPANY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:26:23.510Z",
+    "plainTextLength": 33815
+  }
+}

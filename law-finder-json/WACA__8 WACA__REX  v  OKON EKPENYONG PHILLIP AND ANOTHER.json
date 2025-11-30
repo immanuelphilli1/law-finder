@@ -1,0 +1,67 @@
+{
+  "caseTitle": "REX v OKON EKPENYONG PHILLIP AND ANOTHER",
+  "summary": "This 1942 West Africa Court of Appeal decision involved an appeal against conviction by the High Court of two appellants, Okon Ekpenyong Phillip and Henry Iguma Oshodi. The court dismissed all grounds of appeal except concerning Count 14, which charged conspiracy to commit a felony under section 516 of the Criminal Code. The court held that Count 14 was bad for uncertainty because it failed to specify the nature of the alleged felony, depriving the accused of adequate notice. As a result, the convictions and sentences on Count 14 were quashed, and acquittals were entered on that count. Convictions on all other counts were upheld.",
+  "legalKeywords": [
+    "conspiracy to commit felony",
+    "section 516 Criminal Code",
+    "uncertainty in charge",
+    "notice to accused",
+    "quashed conviction",
+    "acquittal",
+    "appellate review",
+    "criminal procedure",
+    "West Africa Court of Appeal",
+    "Calabar Magisterial area",
+    "judgment of acquittal",
+    "grounds of appeal",
+    "criminal law",
+    "appellate jurisdiction",
+    "charge particulars"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Legal Certainty",
+    "Conspiracy"
+  ],
+  "verdict": "Appeal allowed on Count 14; convictions quashed and acquittals entered; other convictions upheld",
+  "winningSide": "Appellants (on Count 14)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Baker",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Rex v Okon Ekpenyong Phillip and Another"
+  ],
+  "rationaleHighlights": [
+    "Count 14 failed to specify the nature of the felony, rendering it uncertain",
+    "Accused must be informed of the specific felony they allegedly conspired to commit",
+    "Lack of clarity in charge violates fair trial rights",
+    "Convictions on uncertain counts cannot stand",
+    "Other counts were sufficiently clear and thus upheld"
+  ],
+  "confidenceNotes": "High confidence; details are drawn directly from the judgment text, though original source jurisdiction context may involve broader West African jurisdictional scope.",
+  "metadata": {
+    "sourcePath": "WACA/8 WACA/REX  v  OKON EKPENYONG PHILLIP AND ANOTHER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:19:53.864Z",
+    "plainTextLength": 2333
+  },
+  "trialDate": "1942-02-03"
+}

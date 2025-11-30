@@ -1,0 +1,71 @@
+{
+  "caseTitle": "IN THE MATTER OF THE ESTATE OF JAMES TAYLOR, DECEASED",
+  "summary": "In this 1941 West African Court of Appeal decision, Ben Nze appealed his conviction for unlawful possession of a firearm under the Arms Ordinance. Although his counsel entered a guilty plea after partial hearing of the defense, the appellant claimed he was unaware of the plea and did not intend to plead guilty. The appellate court, citing precedents such as R. v. Baker and R. v. Hussey, held that a conviction based on a plea not personally and knowingly made is a nullity. Consequently, the appeal was allowed, the conviction and sentence were quashed, the fine was ordered to be refunded, and a retrial was directed before a competent court. The court emphasized procedural fairness and the necessity of informed, personal pleas in criminal proceedings.",
+  "legalKeywords": [
+    "guilty plea",
+    "appeal",
+    "conviction quashed",
+    "retrial",
+    "allocutus",
+    "nullity",
+    "informed consent",
+    "procedural fairness",
+    "criminal procedure",
+    "arms ordinance",
+    "legal representation",
+    "judicial error",
+    "right to trial",
+    "sentence invalidity",
+    "recognizances"
+  ],
+  "topics": [
+    "criminal law",
+    "procedural fairness",
+    "appeal",
+    "guilty plea",
+    "retrial"
+  ],
+  "verdict": "Appeal allowed; conviction quashed; retrial ordered.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Baker 7 C.A.R. 217",
+    "R. v. Ingleson 11 C.A.R. 21",
+    "R. v. Hussey 18 C.A.R. 121"
+  ],
+  "rationaleHighlights": [
+    "Appellant was unaware of counsel's plea of guilty on his behalf",
+    "A plea not made personally and knowingly renders subsequent proceedings a nullity",
+    "Established precedent supports setting aside convictions based on invalid pleas",
+    "Retrial ordered due to procedural invalidity, not merits of the case",
+    "Fine ordered to be refunded as conviction was quashed",
+    "Original trial judge unavailable, necessitating new trial"
+  ],
+  "confidenceNotes": "The record is described as incomplete, but the appellate court's conclusion is based on established legal principles regarding invalid guilty pleas.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/REX v    BEN NZE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:29:48.025Z",
+    "plainTextLength": 3732
+  },
+  "trialDate": "1941-04-22"
+}

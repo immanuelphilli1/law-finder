@@ -1,0 +1,78 @@
+{
+  "caseTitle": "REBECCA NAADU NARTEY v. SOLOMON J. A. NARTEY & 4 OTHERS",
+  "summary": "The case involves a dispute over the intestate succession of the estate of the late Moses Tetteh Afutu Nartey, a Ghanaian barrister. The plaintiff, Rebecca Naadu Nartey, filed suit seeking equitable distribution under PNDCL 111, accounting for estate assets, cancellation of improper property transfers, and removal of unauthorized structures. The defendants, including the deceased’s nephew, sister, and children, filed a belated Statement of Defence that the trial court found to disclose no reasonable defence. Despite being granted leave to amend their pleadings, the appellants failed to do so for nearly a year. The trial court entered judgment in default of pleadings and later affirmed it based on evidence led. The Court of Appeal found procedural irregularities, particularly in the trial court hearing evidence before pleadings were complete and without fixing a time for amendment. It held that this violated the audi alteram partem principle of natural justice. Consequently, the Court allowed the appeal, set aside the judgment, and ordered a retrial to ensure fair hearing.",
+  "legalKeywords": [
+    "intestate succession",
+    "PNDCL 111",
+    "default judgment",
+    "amendment of pleadings",
+    "audi alteram partem",
+    "natural justice",
+    "statement of defence",
+    "Order 27 rule 11",
+    "Order 25 rule 4",
+    "inherent jurisdiction",
+    "procedural irregularity",
+    "retrial",
+    "burden of proof",
+    "pleading closure",
+    "evidence admissibility",
+    "judicial discretion",
+    "frivolous defence",
+    "abuse of process",
+    "default in pleading",
+    "motion for judgment"
+  ],
+  "topics": [
+    "Succession Law",
+    "Civil Procedure",
+    "Property Rights",
+    "Family Law",
+    "Judicial Review"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Asare Korang",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Twumasi",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "OKOFOH ESTATES LTD vrs. MODERN SIGNS LTD & ANO (1996-97) SCGLR. 224",
+    "ATTORNEY GENERAL vrs. TIMES NEWSPAPERS LTD. (1973) Q.B.D. 710",
+    "STEE DS vrs. STEEDS (1889) 22 Q.B.D. 537",
+    "REID vrs. HOOLEY (1897) 13 T.L.R. 389",
+    "EDWARDS vrs. PHEUMATIC TYRE CO. (1900) 16 T.L.R. 309",
+    "THORNHILL vrs. WEEKS (1913) 1 Ch.438"
+  ],
+  "rationaleHighlights": [
+    "The trial court violated audi alteram partem by hearing evidence before pleadings were closed.",
+    "Granting leave to amend without time limit rendered the process unfair when judgment followed.",
+    "Judgment entered in default of pleading was procedurally flawed due to prior admission of evidence.",
+    "The court must not mix summary procedures with full trial evidence without proper closure of pleadings.",
+    "Indolence of appellants did not excuse procedural impropriety by the trial court."
+  ],
+  "confidenceNotes": "The summary is based on a truncated document, but key procedural rulings and legal principles are clearly stated. The outcome and reasoning are confidently derived from the available text.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/REBECCA NAADU NARTEY v. SOLOMON J. A. NARTEY & 4 OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:08:59.426Z",
+    "plainTextLength": 15534
+  },
+  "trialDate": "2003-05-08"
+}

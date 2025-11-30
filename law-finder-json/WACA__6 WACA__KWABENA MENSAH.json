@@ -1,0 +1,80 @@
+{
+  "caseTitle": "KWABENA MENSAH",
+  "summary": "This 1940 West Africa Court of Appeal decision involved a land dispute between the head of a family and beneficiaries under a Will, concerning whether two plots were family or private property. The defendants argued that the dispute had been settled by arbitration before the Omanhene of Akwapim under native customary law in 1932, and that the plaintiff was bound by the award. The Divisional Court rejected this, citing concerns over English law applicability and statutory invalidity under the Native Administration and Arbitration Ordinances. The Appeal Court reversed, holding that the core issue—classification of land as family or private—was inherently a matter of native customary law, not English law, and thus suitable for customary arbitration. It ruled that Section 58 of the Native Administration Ordinance does not invalidate such awards but only restricts their enforcement through statutory tribunals. The award was binding *inter se* and could be used as estoppel. The appeal was allowed, the plaintiff's claim dismissed, and judgment entered for the defendants.",
+  "legalKeywords": [
+    "arbitration",
+    "native customary law",
+    "family property",
+    "private property",
+    "will",
+    "estoppel",
+    "jurisdiction",
+    "enforcement",
+    "validity",
+    "Omanhene",
+    "Native Administration Ordinance",
+    "Arbitration Ordinance",
+    "tribunal",
+    "mesne profits",
+    "injunction",
+    "provincial commissioner",
+    "paramount chief",
+    "boundary demarcation",
+    "consent",
+    "binding award"
+  ],
+  "topics": [
+    "land law",
+    "customary law",
+    "arbitration",
+    "family property",
+    "succession"
+  ],
+  "verdict": "Appeal allowed; plaintiff's claim dismissed; judgment entered for defendants with costs.",
+  "winningSide": "Defendants-Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Asiedu v. Kwabena Ofori & Another",
+    "Bernasko v. Andoh",
+    "Adejatu Tomole v. Ilugbo Aro",
+    "Ekua Ayafte v. Kwamina Banyea (1884)",
+    "West Derby Union v. Metropolitan Life Assurance Society (1897) A.C. 647"
+  ],
+  "rationaleHighlights": [
+    "No English law issue arose; the core question was whether land was family or private property under native customary law.",
+    "Section 58 of the Native Administration Ordinance does not invalidate arbitration but limits enforcement by statutory tribunals.",
+    "An arbitration award under native law is binding *inter se* even if not enforceable via court execution.",
+    "Distinction made between validity of award and its enforceability under statute.",
+    "Existence of a Will does not preclude customary arbitration on property classification.",
+    "Proviso in Section 58 confirms that customary arbitration is permitted for non-petty disputes with consent.",
+    "Award can be pleaded as estoppel against re-litigation of same issue.",
+    "Supreme Court precedent supports enforcement of customary arbitration decisions."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on primary source text and clear judicial reasoning. Citations are directly referenced in the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/KWABENA MENSAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:05:13.377Z",
+    "plainTextLength": 13209
+  },
+  "trialDate": "1940-05-21"
+}

@@ -1,0 +1,80 @@
+{
+  "caseTitle": "EMMANUEL AGBALE WORENTUTU",
+  "summary": "This is an appeal against sentencing heard by the West African Court of Appeal on October 16, 1940, involving two appellants, Emmanuel Agbale Worentutu and Salami Adebessin (co-appellant), who were convicted in the High Court of Ibadan Division on two counts: burglary and stealing under Sections 411(1) and 390(4)(b) of the Criminal Code, and robbery under Section 402 of the Criminal Code. The original sentences—10 and 6 years for the first appellant, and 8 and 4 years for the second, all concurrently—were deemed insufficient. The appellate court, citing the appellants' membership in an armed criminal gang and the first appellant's prior violent offenses, exercised its authority to enhance the sentences. The revised sentences were set at 15 and 9 years for the first appellant, and 12 and 6 years for the second, all to run concurrently, in the interest of public protection.",
+  "legalKeywords": [
+    "burglary",
+    "robbery",
+    "stealing",
+    "armed gang",
+    "sentence enhancement",
+    "concurrent sentences",
+    "public protection",
+    "prior conviction",
+    "criminal sentencing",
+    "appellate review",
+    "West African Court of Appeal",
+    "Criminal Code",
+    "Section 411",
+    "Section 390",
+    "Section 402"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Sentencing",
+    "Appellate Procedure",
+    "Burglary",
+    "Robbery"
+  ],
+  "verdict": "Sentences enhanced on appeal; original terms quashed and replaced with longer imprisonment terms.",
+  "winningSide": "State (Respondent)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Cor. Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Strother-Stewart",
+      "role": "Justice"
+    },
+    {
+      "name": "Bannerman",
+      "role": "Justice"
+    },
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice (Nigeria)"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice (Gold Coast)"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice (Sierra Leone)"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "WACA/6 WACA/EMMANUEL AGBALE WORENTUTU"
+  ],
+  "rationaleHighlights": [
+    "Appellate court has power to enhance sentences if deemed too lenient",
+    "Defendants were members of an armed gang committing burglary and robbery",
+    "First appellant had prior convictions for wounding and attempted shooting",
+    "Sentences increased for public protection",
+    "Original sentences quashed and replaced with longer terms"
+  ],
+  "confidenceNotes": "The document appears to be a scanned or transcribed legal decision from the West African Court of Appeal, with clear judicial reasoning and formal structure. However, formatting issues and OCR-like errors (e.g., 'app('llants wt>re', 'thOSe') suggest potential transcription inaccuracies, though key legal facts remain discernible.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/EMMANUEL AGBALE WORENTUTU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:08:19.509Z",
+    "plainTextLength": 2865
+  },
+  "trialDate": "1940-09-23"
+}

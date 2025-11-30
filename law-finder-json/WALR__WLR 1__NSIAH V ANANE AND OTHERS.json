@@ -1,0 +1,62 @@
+{
+  "caseTitle": "NSIAH VERSUS ANANE AND OTHERS.",
+  "summary": "This 1956 Supreme Court of the Gold Coast decision involved a negligence claim by the plaintiff, Nsiah, who suffered severe injuries—including amputation of his right arm—when the lorry he was travelling in collided with another vehicle. The plaintiff sued four defendants as joint tortfeasors, alleging negligence in the operation of both vehicles. The first and second defendants did not appear, leading to an interlocutory judgment against them. The third and fourth defendants denied liability, alleging contributory negligence or voluntary assumption of risk by the plaintiff. The court found both drivers were negligent, rejected defences of contributory negligence and volenti non fit injuria due to lack of evidence, and awarded the plaintiff £1,500 in general damages plus special damages. The judgment emphasized the plaintiff’s loss of earning capacity and physical incapacity, noting his age and 60% disability.",
+  "legalKeywords": [
+    "negligence",
+    "highway accident",
+    "personal injury",
+    "contributory negligence",
+    "volenti non fit injuria",
+    "general damages",
+    "special damages",
+    "joint tortfeasors",
+    "civil liability",
+    "careless driving",
+    "amputation",
+    "quantum of damages",
+    "motor vehicle collision",
+    "passenger injury",
+    "Gold Coast law"
+  ],
+  "topics": [
+    "Tort Law",
+    "Personal Injury",
+    "Negligence",
+    "Damages",
+    "Legal History"
+  ],
+  "verdict": "for the plaintiff",
+  "winningSide": "plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Quashie-Idun J.",
+      "role": "presiding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "civil tort claim",
+  "citations": [
+    "WALR/WLR 1/NSIAH V ANANE AND OTHERS"
+  ],
+  "rationaleHighlights": [
+    "Both vehicles were found to be negligently driven.",
+    "No evidence supported contributory negligence or volenti non fit injuria.",
+    "Defendants' post-accident attempt to settle through a chief was noted but not determinative.",
+    "Medical report established 60% incapacity due to amputation.",
+    "Plaintiff's age and loss of future earning potential influenced damages.",
+    "Careless driving conviction supported civil negligence finding.",
+    "General damages set at £1,500 considering severity and impact.",
+    "Special damages included medical costs, lorry hire, and lost earnings."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text with clear factual and legal reasoning provided by the presiding judge.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/NSIAH V ANANE AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:00:06.314Z",
+    "plainTextLength": 12763
+  }
+}

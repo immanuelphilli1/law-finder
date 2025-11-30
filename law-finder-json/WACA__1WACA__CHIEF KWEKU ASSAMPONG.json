@@ -1,0 +1,68 @@
+{
+  "caseTitle": "CHIEF KWEKU ASSAMPONG",
+  "summary": "This 1932 West African Court of Appeal decision in Chief Kwaku Assampong v. Kwaku Amuaku and Others addressed a land trespass dispute in colonial Ghana, focusing on whether an unrecorded, 35-year-old native customary tribunal decision could constitute res judicata. The lower court had rejected the plea of estoppel by res judicata, but the appellate court reversed, holding that the decision—rendered by a joint tribunal appointed by two Paramount Chiefs under native custom—was a valid judicial determination. The tribunal, though not a formal court or arbitrator under English law, exercised judicial functions under local custom and was authorized to resolve inter-state land disputes. The court emphasized that res judicata applies to decisions by bodies exercising judicial authority under native law, even without written records or formal procedures. The appeal succeeded on the res judicata ground, overturning the lower court's judgment and recognizing the binding effect of the ancestral decision in favor of the defendant's predecessor.",
+  "legalKeywords": [
+    "res judicata",
+    "estoppel",
+    "trespass to land",
+    "native custom",
+    "judicial functions",
+    "customary tribunal",
+    "predecessors in title",
+    "boundary dispute",
+    "oral judgment",
+    "colonial jurisdiction",
+    "jurisdictional authority",
+    "tribal adjudication",
+    "hearsay evidence",
+    "land ownership",
+    "judicial precedent",
+    "customary law",
+    "foreign tribunal",
+    "finality of judgment",
+    "dispute resolution",
+    "ancestral rights"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Colonial Legal Systems"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendants-Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Spencer Bower on Res Judicata"
+  ],
+  "rationaleHighlights": [
+    "An unrecorded decision by a customary tribunal can create res judicata if it was judicial in nature under native custom.",
+    "The tribunal was lawfully constituted by Paramount Chiefs to resolve inter-state land disputes.",
+    "Judicial functions are not limited to formal courts or arbitrators under English law.",
+    "The decision bound successors in title despite lack of written record.",
+    "The lower court erred in requiring formal documentation or classification as arbitration.",
+    "Native customary procedures for dispute resolution are legally binding when properly authorized.",
+    "Hearsay evidence was admissible to prove the existence and effect of the ancestral decision.",
+    "The principle of res judicata applies to foreign (customary) tribunals with competent jurisdiction."
+  ],
+  "confidenceNotes": "High confidence; the judgment is clear and well-reasoned, with detailed analysis of res judicata in customary contexts. Some text truncation occurs at the end, but key holdings are preserved.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/CHIEF KWEKU ASSAMPONG.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:51:38.235Z",
+    "plainTextLength": 38289
+  },
+  "trialDate": "1932-05-17"
+}

@@ -1,0 +1,75 @@
+{
+  "caseTitle": "REPUBLIC v. NATIONAL ELECTORAL COMMISSION AND REBECCA",
+  "summary": "This Court of Appeal decision from July 13, 2000, arose from a challenge to the results of the 1996 parliamentary election in the Ayawaso-West-Wuogon constituency, Ghana. The respondent, George I. Amoo, initially filed an election petition under PNDCL 284, which was dismissed for being out of time. While an appeal against that dismissal was pending before the Supreme Court, Amoo filed a new application in the High Court seeking certiorari and mandamus to compel the Electoral Commission to recount votes, alleging uncounted and misallocated ballots. The High Court granted the orders, but the Court of Appeal overturned the decision, holding that the prior dismissal of the election petition constituted a judgment in rem, creating res judicata and estoppel. The court ruled that the High Court lacked jurisdiction to entertain a second challenge via prerogative writs while an appeal on the same matter was pending, emphasizing that statutory election remedies are exclusive and cannot be circumvented.",
+  "legalKeywords": [
+    "certiorari",
+    "mandamus",
+    "election petition",
+    "res judicata",
+    "judgment in rem",
+    "prerogative orders",
+    "jurisdiction",
+    "statute-barred",
+    "PNDCL 284",
+    "CI 15",
+    "constitutional rights",
+    "Electoral Commission",
+    "vote recount",
+    "procedural fairness",
+    "estoppel"
+  ],
+  "topics": [
+    "Election Law",
+    "Constitutional Law",
+    "Judicial Review",
+    "Administrative Law",
+    "Appellate Procedure"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Twumasi, JA",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ansa, JA"
+    },
+    {
+      "name": "Adinyira, JA"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "PNDCL 284",
+    "CI 15",
+    "Quist v. Kwantreng and others",
+    "Michael Yeboah v. J.H. Mensah (Writ No. 2/97)",
+    "Kariyavoulas and Another v. Osei (1982-83) GLR 1 658",
+    "Bassil v. Honger (1954) 14 WACA 569",
+    "Amoah v. Poku (1965) GLR 155 SC"
+  ],
+  "rationaleHighlights": [
+    "The dismissal of the initial election petition under PNDCL 284 constituted a judgment in rem, which is binding and conclusive unless overturned on appeal.",
+    "The High Court lacked jurisdiction to hear a second challenge via prerogative writs while an appeal on the same matter was pending before the Supreme Court.",
+    "Parties cannot by agreement confer jurisdiction on a court where it does not legally exist.",
+    "The statutory election petition process under PNDCL 284 is the exclusive remedy for challenging election results, and cannot be circumvented by invoking constitutional remedies.",
+    "The trial judge erred in failing to rule on a preliminary objection regarding jurisdiction before proceeding with the substantive application.",
+    "Res judicata and estoppel apply to prevent re-litigation of matters already adjudicated, even if the prior judgment was on procedural grounds.",
+    "The use of certiorari and mandamus is inappropriate where a specific statutory remedy exists and has already been invoked.",
+    "Judicial impatience in bypassing jurisdictional objections undermines the integrity of legal process and the rule of law."
+  ],
+  "confidenceNotes": "The summary and analysis are based on a truncated document; however, the core legal reasoning and outcome are clearly established in the available text. Key citations and judicial principles are accurately reflected.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/THE REPUBLIC v. NATIONAL ELECTORAL COMMISSION AND REBECCA ADOTEY EX-PARTE GEORGE I. AMOO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:01:03.194Z",
+    "plainTextLength": 34744
+  },
+  "trialDate": "2000-07-13"
+}

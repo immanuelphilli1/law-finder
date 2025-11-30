@@ -1,0 +1,88 @@
+{
+  "caseTitle": "NANA KOFI OWUSU v KWAKU OWUSU ANSAH & BAFFOUR APPIAH DANKWA",
+  "summary": "This Supreme Court of Ghana decision concerns a civil appeal over the grant of an interim injunction in a land dispute between Nana Kofi Owusu (plaintiff/appellant/respondent) and Kwaku Owusu Ansah and Baffour Appiah Dankwa (defendant and co-defendant/appellant). The land, located in Twedie and designated as durbar grounds, was claimed by both parties through their respective traditional authorities: the Toasehene and the Anantahene. The co-defendant, claiming as Odikro of Twedie under the Anantahene, obtained an interim injunction from the High Court to prevent the plaintiff from allocating plots. The Court of Appeal set aside the injunction, finding the plaintiff had a better claim based on historical arbitration awards (1946, 1999) affirming Toasehene's ownership. The Supreme Court upheld the appellate decision, ruling that the trial judge misapprehended facts—particularly the existence of pending litigation—and failed to properly consider the pleadings and affidavits. It emphasized that interim injunctions require a serious question to be tried and that the balance of hardship favored the plaintiff, especially given the public interest in preserving community durbar grounds. The court also noted a revenue-sharing agreement, undermining the co-defendant's claim of financial loss.",
+  "legalKeywords": [
+    "interim injunction",
+    "land dispute",
+    "usufructuary title",
+    "status quo",
+    "prima facie case",
+    "arbitration award",
+    "traditional authority",
+    "chieftaincy dispute",
+    "evidence on record",
+    "discretionary remedy",
+    "pleadings and affidavits",
+    "revenue sharing",
+    "Toasehene",
+    "Anantahene",
+    "Odikro",
+    "Twedie land",
+    "land allocation",
+    "tribal land ownership",
+    "interlocutory application",
+    "hardship balance"
+  ],
+  "topics": [
+    "Land Law",
+    "Injunctions",
+    "Traditional Authority",
+    "Arbitration",
+    "Supreme Court Procedure"
+  ],
+  "verdict": "The appeal by the co-defendant was dismissed. The Supreme Court upheld the Court of Appeal's decision to set aside the interim injunction granted by the High Court.",
+  "winningSide": "Plaintiff/Appellant (Nana Kofi Owusu)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sophia Adinyira",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Akuffo",
+      "role": "Justice"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Asiamah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Pountney v. Doegah [1987-88] 1 GLR 111",
+    "Vanderpuye vs. Nartey [1977] 1 GLR 429",
+    "Thorne v. British Broadcasting Corporation [1957] 1WLR 1104",
+    "American Cyanamid Co. v. Ethicon Ltd. [1975] 1 All E.R. 504",
+    "Blunt v Blunt [1943] A.C. 517"
+  ],
+  "rationaleHighlights": [
+    "The Court of Appeal correctly assessed pleadings and affidavit evidence showing plaintiff's superior claim to the land.",
+    "Trial judge erred by relying on non-existent pending litigation between Toasehene and co-defendant.",
+    "Appellate court properly considered arbitration awards (1946, 1999) confirming Toasehene's ownership.",
+    "Co-defendant's claim for injunction was inappropriate given revenue-sharing agreement.",
+    "Discretion to grant injunction must be based on proper materials; error in fact justifies appellate intervention.",
+    "Plaintiff, as agent of Toasehene, had right to allocate land for community development.",
+    "Preservation of durbar grounds for public use outweighs private revenue concerns.",
+    "Applicant's claim must not be frivolous; serious question to be tried standard applied."
+  ],
+  "confidenceNotes": "The judgment is well-reasoned with clear reference to pleadings, affidavits, and prior arbitration records. The Supreme Court affirms the Court of Appeal's evaluation based on documented evidence, particularly the 1946 arbitration award and subsequent agreements.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2007A/NANA KOFI OWUSU v  KWAKU OWUSU ANSAH & BAFFOUR APPIAH DANKWA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:19:03.783Z",
+    "plainTextLength": 16281
+  },
+  "trialDate": "2007-03-14"
+}

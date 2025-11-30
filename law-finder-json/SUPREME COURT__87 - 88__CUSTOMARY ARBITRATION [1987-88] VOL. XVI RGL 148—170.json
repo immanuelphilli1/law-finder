@@ -1,0 +1,92 @@
+{
+  "caseTitle": "CUSTOMARY ARBITRATION [1987-88] VOL. XVI RGL 148—170",
+  "summary": "This legal commentary examines the doctrine of customary arbitration in Ghana, a traditional method of dispute resolution preserved under Ghanaian law and recognized by the courts since 1883. It outlines the five essential characteristics of valid customary arbitration as established in Budu II v Caesar: (i) voluntary submission of the dispute, (ii) prior agreement to accept the award, (iii) a non-arbitrary decision reached after hearing both sides judicially, (iv) adherence to local Native Court procedures, and (v) publication of the award. The article analyzes key judicial decisions, particularly from the 1950s and 1960s, that shaped the understanding of 'voluntary submission,' resolving earlier conflicts between rulings in Yaw v Amobie and Tanor v Dapomah. The Supreme Court ultimately held in Donkor v Isifu that mere attendance at a meeting does not constitute consent; there must be clear evidence that parties understood and agreed to arbitration. The piece emphasizes that while 'customary arbitration' shares the broad concept of third-party dispute resolution with statutory arbitration, it is distinct in form and procedure, rooted in indigenous practice and not governed by English arbitration law. The commentary also notes the continued legal recognition of customary arbitration under various statutes and constitutions, despite the absence of codification.",
+  "legalKeywords": [
+    "customary arbitration",
+    "voluntary submission",
+    "award enforcement",
+    "native customary law",
+    "arbitral procedure",
+    "consent to arbitration",
+    "judicial manner",
+    "repugnancy doctrine",
+    "tribal dispute resolution",
+    "informal adjudication",
+    "customary law",
+    "arbitration award",
+    "consent",
+    "hearing both sides",
+    "publication of award",
+    "Native Court practice",
+    "equity and good conscience",
+    "arbitral jurisdiction",
+    "traditional dispute resolution",
+    "Ghanaian common law"
+  ],
+  "topics": [
+    "Customary Law",
+    "Arbitration",
+    "Judicial Precedent",
+    "Legal Procedure",
+    "Ghanaian Jurisprudence"
+  ],
+  "verdict": "The courts consistently upheld the validity of customary arbitration when its essential elements—especially voluntary submission and fair procedure—are met. Awards were enforceable if not repugnant to natural justice, equity, and good conscience.",
+  "winningSide": "The party demonstrating that arbitration was properly conducted under customary law principles",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Ollennu J",
+      "role": "Justice"
+    },
+    {
+      "name": "Bossman J",
+      "role": "Justice"
+    },
+    {
+      "name": "Sarkodee-Adoo J",
+      "role": "Justice"
+    },
+    {
+      "name": "Akufo-Addo J",
+      "role": "Justice"
+    },
+    {
+      "name": "van Lare J",
+      "role": "Justice"
+    },
+    {
+      "name": "Blay J",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "customary arbitration",
+  "citations": [
+    "Budu II v Caesar [1959]",
+    "Yaw v Amobie",
+    "Tanor v Dapomah",
+    "Gyesiwa v Mensah",
+    "Twumasi v Badu",
+    "Young v Bristol Aeroplane Co. Ltd",
+    "Asare v Donkor [1962]",
+    "Paul v Kokoo [1962]",
+    "Donkor v Isifu [1962]"
+  ],
+  "rationaleHighlights": [
+    "Voluntary submission requires full understanding and consent after explanation of arbitration implications.",
+    "An award must not be arbitrary and must follow a judicial hearing of both sides.",
+    "Customary arbitration must align with local Native Court practices where possible.",
+    "Mere presence at a dispute meeting does not constitute submission to arbitration.",
+    "The law reconciled differing judicial views on voluntary submission in Donkor v Isifu."
+  ],
+  "confidenceNotes": "The document is a legal commentary summarizing case law on customary arbitration in Ghana, with high confidence in the accuracy of cited cases and principles. However, the source is truncated, so full context of later developments may be missing.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/87 - 88/CUSTOMARY ARBITRATION [1987-88] VOL. XVI RGL 148—170.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:04:11.435Z",
+    "plainTextLength": 57721
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "caseTitle": "DR. JACOB EMMANUEL OPPONG v. ATTORNEY-GENERAL, FOR AND ON B",
+  "summary": "In Dr. Jacob Emmanuel Oppong v. Attorney-General & Others, the Supreme Court of Ghana dismissed the plaintiff's action due to non-compliance with procedural rules under C.I. 16. The plaintiff filed an affidavit and statement of case on 14 September 1999 without a writ, which is mandatory under Rule 45(1). Although a writ was later filed on 30 September 1999, the plaintiff failed to file a statement of case within the 14-day period required by Rule 46(1), nor did he apply for an extension under Rule 48(4). The court held that the initial filings were nullities and could not be validated by attaching them to a later writ. The defendants' preliminary objection was upheld, and the action was struck out for procedural non-compliance, emphasizing that fundamental defects in procedure cannot be waived and that strict adherence to rules ensures the efficient administration of justice.",
+  "legalKeywords": [
+    "original jurisdiction",
+    "writ",
+    "statement of case",
+    "procedural compliance",
+    "nullity",
+    "fundamental defect",
+    "Rule 45 C.I. 16",
+    "Rule 46 C.I. 16",
+    "Rule 48 C.I. 16",
+    "Rule 79 C.I. 16",
+    "preliminary objection",
+    "striking out action",
+    "extension of time",
+    "waiver of non-compliance",
+    "justice administration"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Civil Procedure",
+    "Judicial Review",
+    "Supreme Court Jurisdiction",
+    "Procedural Default"
+  ],
+  "verdict": "The plaintiff's action was struck out due to failure to comply with procedural requirements under C.I. 16.",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Mrs. J. Bamford-Addo",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ampiah",
+      "role": "Justice"
+    },
+    {
+      "name": "Adjabeng",
+      "role": "Justice"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Justice"
+    },
+    {
+      "name": "Ms. Akuffo",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Ebusuapanin Kobina Essilfie v. Nana Anafo IV CM.16/92",
+    "Thamboo Ratman v. Thamboo Gumargsarg (1965) 1 W.K.R. 8 PC",
+    "Revici v. Prentice Hall Incorporated (1969) 1 W.L.R. 157 C.A.",
+    "Darkwa v. Kwabi IV (1992-93) G.B.R. 381",
+    "Mosi v. Bagyina (1963) 1 G.L.R. 337 S.C.",
+    "The Republic v. High Court, Kumasi & Ors., Ex Parte Atumfuwa Kwadwo Bi & Anor. CM No. 56/97",
+    "Obeng v. Boateng (1966) G.L.R. 689",
+    "Harlley v. Ejura Farms (Ghana) Ltd. (1977) 2 G.L.R. 179 C.A."
+  ],
+  "rationaleHighlights": [
+    "Failure to file a writ initially renders all prior documents null and void.",
+    "Non-filing of a statement of case within 14 days of the writ allows for striking out under Rule 46(3).",
+    "Rule 48(4) allows for extension of time but plaintiff did not apply.",
+    "Fundamental procedural defects cannot be waived under Rule 79.",
+    "Preliminary objection validly functions as application to strike out."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct quotes from the court ruling and clear procedural references in C.I. 16.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2000A/DR. JACOB EMMANUEL OPPONG  v. ATTORNEY-GENERAL, FOR AND ON B.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:53:23.797Z",
+    "plainTextLength": 12418
+  },
+  "trialDate": "2000-02-23"
+}

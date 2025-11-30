@@ -1,0 +1,68 @@
+{
+  "caseTitle": "J AMES JACKSON S",
+  "summary": "This 1936 Privy Council decision dismissed an appeal from the West African Court of Appeal concerning a land dispute in the Gold Coast Colony (now Ghana). The original action was initiated in a Native Tribunal over title to land, but it was found that proceedings under the Public Lands Ordinance were already pending in the Divisional Court involving the same land. The Privy Council upheld the lower court's ruling that, under Section 7 of the Public Lands Ordinance, the Native Tribunal lacked jurisdiction to hear the case while Divisional Court proceedings were ongoing. The judgment of the Native Tribunal and all subsequent proceedings were declared a nullity. The Privy Council affirmed the award of costs to the respondent, J. M. Cooke, in both the appellate and lower courts, finding no error in the construction of the Ordinance or in the exercise of judicial discretion regarding costs.",
+  "legalKeywords": [
+    "Public Lands Ordinance",
+    "jurisdiction",
+    "nullity",
+    "Native Tribunal",
+    "Divisional Court",
+    "land title",
+    "compensation",
+    "consent judgment",
+    "judicial discretion",
+    "costs",
+    "tribunal competence",
+    "pending proceedings",
+    "finality of judgment",
+    "colonial law",
+    "Ghanaian land law"
+  ],
+  "topics": [
+    "Land Law",
+    "Jurisdictional Conflict",
+    "Appellate Review",
+    "Colonial Legal System",
+    "Procedural Nullity"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lord Maugham",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Lord Salvesen",
+      "role": "Member of the Judicial Committee"
+    },
+    {
+      "name": "Sir Lancelot Sanderson",
+      "role": "Member of the Judicial Committee"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Judicial Committee of the Privy Council",
+    "country": "United Kingdom (on appeal from Gold Coast Colony, now Ghana)"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "1 W.A.C.A. p. 188"
+  ],
+  "rationaleHighlights": [
+    "Proceedings in the Native Tribunal were invalid due to prior pending proceedings under the Public Lands Ordinance in the Divisional Court.",
+    "Section 7 of the Public Lands Ordinance conferred exclusive jurisdiction on the Divisional Court to determine title and compensation during public acquisition.",
+    "The Native Tribunal’s judgment was a nullity or, at minimum, should have been stayed.",
+    "The appellant could pursue remedies against the recipient of compensation even if unable to participate in the Divisional Court proceeding.",
+    "The award of costs to the respondent was within the court's discretion and not grounds for appeal."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text. Jurisdictional details and court hierarchy reflect colonial structure of the Gold Coast in the 1930s.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/J AMES JACKSON S.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:31:02.935Z",
+    "plainTextLength": 9138
+  },
+  "trialDate": "1933-05-09"
+}

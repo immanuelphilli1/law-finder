@@ -1,0 +1,80 @@
+{
+  "caseTitle": "HASSAN SHALLABI",
+  "summary": "In this 1935 West African Court of Appeal case from Accra, Ghana, appellants Hassan Shallabi and Adib Sabih were convicted of stealing and conspiracy under sections 276 and 49(1) of the Criminal Code. The convictions were quashed due to a material error in the charge: the information cited section 276, but no evidence supported any of its specific subsections, and the trial judge failed to explain the legal requirements under that section to the jury. The court found this constituted a serious misdirection. Additionally, the prosecution's suggestion that section 275 was intended was rejected as a substantial drafting error, not a clerical one, and non-compliance with section 202 of the Criminal Procedure Ordinance was noted. The conspiracy conviction was invalidated as dependent on the principal offence. The sentence was also flawed for not imposing separate terms per count, creating ambiguity regarding fines and default imprisonment. The appeals were allowed, and both convictions and sentences were annulled.",
+  "legalKeywords": [
+    "misdirection",
+    "conviction quashed",
+    "criminal code",
+    "section 276",
+    "section 275",
+    "conspiracy",
+    "stealing",
+    "aiding and abetting",
+    "receiving stolen property",
+    "error in law",
+    "sentence concurrent",
+    "fine default imprisonment",
+    "Criminal Procedure Ordinance",
+    "West African Court of Appeal Ordinance",
+    "trial irregularity",
+    "judicial summing-up",
+    "charging error",
+    "substantive legal error",
+    "appellate review",
+    "acquittal on appeal"
+  ],
+  "topics": [
+    "criminal law",
+    "appellate procedure",
+    "legal error",
+    "jury instructions",
+    "sentencing"
+  ],
+  "verdict": "Convictions quashed on appeal due to misdirection and legal error in charging under section 276; conspiracy conviction invalidated as derivative; sentence annulled for improper structure.",
+  "winningSide": "Appellants",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Webber, C.J., Sierra Leone",
+      "role": "Judge"
+    },
+    {
+      "name": "Strother-Stewart, J.",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "section 276 of the Criminal Code",
+    "section 46(2) and 276 of the Criminal Code",
+    "section 289(1) of the Criminal Code",
+    "section 49(1) of the Criminal Code",
+    "section 78 of the Code",
+    "section 202 of the Criminal Procedure Ordinance",
+    "section 10 of the West African Court of Appeal Ordinance, 1925",
+    "section 11 of the West African Court of Appeal Ordinance, 1925"
+  ],
+  "rationaleHighlights": [
+    "The trial judge misdirected the jury by reading section 276 without explaining its subsections, despite no evidence supporting any of its heads.",
+    "The prosecution failed to comply with section 202 of the Criminal Procedure Ordinance if relying on section 275, rendering the charge defective.",
+    "The confusion caused by citing section 276 instead of 275 constituted a substantial error, not a mere clerical mistake.",
+    "The conspiracy conviction failed because it depended on the validity of the principal offence under count one.",
+    "The sentence was improperly structured, failing to impose separate sentences for each count, creating ambiguity in enforcement."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct textual evidence from the judgment. All legal provisions, procedural errors, and judicial reasoning are explicitly stated in the source document.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/HASSAN SHALLABI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:28:15.235Z",
+    "plainTextLength": 10338
+  },
+  "trialDate": "1935-12-03"
+}

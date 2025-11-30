@@ -1,0 +1,87 @@
+{
+  "caseTitle": "DORMAA STATE COUNCIL VERSUS ANSU.",
+  "summary": "The Dormaa State Council appealed to the Court of Appeal after the High Court, in its appellate jurisdiction, quashed a Magistrate's conviction of Ansu for failing to deliver stool property as ordered under the State Councils (Ashanti) Ordinance, 1952, s. 23(2). The Council relied on s. 338 of the Criminal Procedure Code, c. 10 of 1951, which allows appeals by 'any person aggrieved' from a High Court decision on appeal from a Magistrate’s Court. The Court of Appeal held that a prosecutor, including a private prosecutor like the State Council, is not a 'person aggrieved' within the meaning of the section. It overruled prior West African Court of Appeal decisions, notably Commissioner of Police v. Kwashie, finding they failed to consider binding English precedents. The appeal was dismissed at the threshold for lack of locus standi.",
+  "legalKeywords": [
+    "person aggrieved",
+    "prosecutor appeal rights",
+    "Criminal Procedure Code",
+    "locus standi",
+    "appellate jurisdiction",
+    "private prosecutor",
+    "statutory interpretation",
+    "judicial precedent",
+    "overruling precedent",
+    "stool property",
+    "State Councils Ordinance",
+    "High Court appeal",
+    "Court of Appeal jurisdiction",
+    "Magistrate's Court",
+    "reasonable excuse",
+    "acquittal challenge",
+    "legislative intent",
+    "canons of interpretation",
+    "English common law influence",
+    "Ghanaian criminal law"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Legal Standing",
+    "Statutory Interpretation",
+    "Prosecutorial Authority"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "private",
+  "judges": [
+    {
+      "name": "van Lare",
+      "role": "Ag.C.J."
+    },
+    {
+      "name": "Granville Sharp",
+      "role": "J.A."
+    },
+    {
+      "name": "Smith",
+      "role": "J."
+    },
+    {
+      "name": "Ollennu",
+      "role": "J. (Divisional Court)"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Commissioner of Police v. Kwashie (1953) 14 W.A.C.A. 319",
+    "President of the Akim Kotoku State Council v. Ntiamoah Kofi III (1955) 1 W.A.L.R. 26",
+    "R. v. Keepers of the Peace for the County of London (1890) 25 Q.B. 357",
+    "Foss v. Best [1906] 2 K.B. 105",
+    "Stokes v. Mitcheson [1902] 1 K.B. 857",
+    "R. v. Newport Justices [1929] 2 K.B. 416",
+    "Young v. Leamington (Mayor) (1882) 2 App.Cas. 526",
+    "In re Earl Fitz-WiUiam's Agreement [1950] Ch. 448",
+    "Wandsworth Board of Works v. United Telephone Co. (1884) 13 Q.B.D. 904"
+  ],
+  "rationaleHighlights": [
+    "A prosecutor is not a 'person aggrieved' under s. 338 of the Criminal Procedure Code.",
+    "The phrase 'person aggrieved' must be interpreted in light of established English common law precedents.",
+    "Legislative use of 'person aggrieved' implies adoption of its judicially settled meaning.",
+    "The purpose of Part VIII of the Code is to benefit convicted persons, not prosecutors.",
+    "The exclusion of 'severity of sentence' from appealable matters is irrelevant to prosecutors, supporting a restrictive interpretation.",
+    "Prior local decisions allowing prosecutor appeals were overruled due to lack of engagement with authoritative English law.",
+    "The Attorney-General, through amicus curiae, conceded that the Crown does not claim appeal rights as prosecutor.",
+    "Private prosecutors are not in a better position than the Crown in this regard."
+  ],
+  "confidenceNotes": "The decision is highly authoritative, delivered by the Court of Appeal with detailed reasoning and overruling of prior precedent. All key legal elements are clearly documented in the judgment, including statutory provisions, case law, and interpretive principles. Citation accuracy is high based on provided sources.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/DORMAA STATE COUNCIL v. ANSU..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:05:36.663Z",
+    "plainTextLength": 11879
+  }
+}

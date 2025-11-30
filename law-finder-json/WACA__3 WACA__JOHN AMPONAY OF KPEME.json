@@ -1,0 +1,67 @@
+{
+  "caseTitle": "JOHN AMPONAY OF KPEME",
+  "summary": "This appeal before the West African Court of Appeal arose from a land dispute between two farmers, John Amponay and Martin Teyi, concerning a boundary trespass claim. The native Tribunal of Alavanyo found that the defendant had encroached on the plaintiff's land by planting cocoa and awarded the plaintiff a one-third share of the cocoa crop from the disputed area instead of monetary damages. The Akpini State Council reversed this decision on appeal without taking fresh evidence, a ruling upheld by the Provincial Commissioner. The WACA held that judgments in land cases by native tribunals, having observed the land and witnesses firsthand, should not be overturned unless clearly erroneous. Finding no such error and determining that the reversal was unjustified, the WACA allowed the appeal, set aside the appellate judgments, and restored the original decision of the native tribunal, awarding costs to the appellant.",
+  "legalKeywords": [
+    "trespass",
+    "land dispute",
+    "boundary demarcation",
+    "native tribunal",
+    "appellate review",
+    "damages",
+    "cocoa farm",
+    "customary land law",
+    "evidence evaluation",
+    "judicial deference",
+    "restoration of judgment",
+    "costs award"
+  ],
+  "topics": [
+    "Land Law",
+    "Trespass",
+    "Appellate Procedure",
+    "Customary Law",
+    "Judicial Review"
+  ],
+  "verdict": "Appeal allowed; judgment of the native Tribunal of Alavanyo restored.",
+  "winningSide": "Plaintiff-Appellant (John Amponay)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WACA/3 WACA/JOHN AMPONAY OF KPEME"
+  ],
+  "rationaleHighlights": [
+    "Judgment of native tribunal should not be reversed unless clearly wrong",
+    "Trial tribunal had firsthand view of land and witnesses",
+    "Appellate reversal without fresh evidence unjustified",
+    "Factual findings supported by evidence",
+    "Principle of deference to local tribunals affirmed",
+    "Original equitable remedy (crop share) upheld",
+    "Costs awarded to appellant"
+  ],
+  "confidenceNotes": "The case is clearly documented with consistent judicial reasoning and procedural history. The citation is derived from the source file name and case title, which aligns with West African Court of Appeal (WACA) naming conventions.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/JOHN AMPONAY OF KPEME.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:21:59.709Z",
+    "plainTextLength": 3607
+  },
+  "trialDate": "1937-04-27"
+}

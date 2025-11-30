@@ -1,0 +1,74 @@
+{
+  "caseTitle": "NSOATREHENE TWENE KWAME",
+  "summary": "This 1940 West Africa Court of Appeal decision involved a land ownership dispute over Kotafo, a small but significant burial site, between Nsoatrehene Twene Kwame and Berekumhene Kojo Barnier. The Asantehene's Court 'A' originally ruled in favor of the plaintiff, confining its judgment to the specific parcel in dispute. On appeal, the Chief Commissioner's Court expanded the scope by amending the claim to include much larger surrounding areas, despite the original issue being limited to Kotafo. The West Africa Court of Appeal held that this amendment was ultra vires, rendering subsequent proceedings void due to lack of jurisdiction. The court emphasized that appellate jurisdiction could not be used to try a new and broader case not presented originally. The judgment of the Chief Commissioner's Court was set aside, and the matter was remitted for rehearing strictly on the original issue of ownership of Kotafo land. The court also affirmed the importance of clearly defining the boundaries of the disputed land through survey.",
+  "legalKeywords": [
+    "ultra vires",
+    "jurisdiction",
+    "amendment of claim",
+    "appellate jurisdiction",
+    "void proceedings",
+    "land ownership",
+    "Native Courts Ordinance",
+    "Chief Commissioner's Court",
+    "rehearing",
+    "boundary definition",
+    "procedural irregularity",
+    "burial ground",
+    "Asantehene's Court",
+    "de novo hearing",
+    "costs award"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Jurisdictional Limits",
+    "Native Courts",
+    "Ghanaian Legal History"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Plaintiff-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Cor Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Native Courts (Ashanti) Ordinance (Cap. 80)",
+    "Courts Ordinance (Cap. 4)",
+    "Order 52 Rule 19",
+    "Order 26 Rule 1"
+  ],
+  "rationaleHighlights": [
+    "The amendment to include a much larger area was beyond the court's jurisdiction.",
+    "The real and only issue was ownership of Kotafo land.",
+    "Appellate courts cannot expand the scope of a case beyond the original dispute.",
+    "Proceedings based on an ultra vires amendment are void.",
+    "The Chief Commissioner's Court lacked jurisdiction to hear a de novo case on broader land claims.",
+    "Rehearing must be confined to the original issue as presented in the lower court.",
+    "A survey was necessary to define the boundaries of the disputed land.",
+    "Costs were awarded due to procedural irregularities introduced by the appellate court."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and explicit procedural history in the source document.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/NSOATREHENE TWENE KWAME.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:01:58.528Z",
+    "plainTextLength": 7407
+  },
+  "trialDate": "1940-11-28"
+}

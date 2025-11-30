@@ -1,0 +1,65 @@
+{
+  "caseTitle": "ANOR. v. AKOSUA KONADU",
+  "summary": "This Court of Appeal decision from Ghana addresses a dispute over an alleged oral and written agreement concerning the development of Anamanko Stool land in Adum, Kumasi. The plaintiff, Nana Asumadu Bonene, claimed the defendant, Akosua Konadu, breached a contract by taking over construction of a four-storey building intended for the stool, after initially financing part of it. The High Court granted summary judgment for the plaintiff based on an unstamped written agreement (Exhibit 1), declaring the defendant in breach and dismissing her counter-claim. The Court of Appeal allowed the defendant’s appeal, holding that the trial judge erred by entering judgment without hearing oral evidence, particularly since the written agreement was not stamped and thus inadmissible under law. The appellate court found that the defendant’s statement of defence raised triable issues of fact and law, including the circumstances under which she signed the agreement, and that the matter required full trial. The judgment was set aside, and the case remitted to the High Court for trial on the merits.",
+  "legalKeywords": [
+    "breach of contract",
+    "summary judgment",
+    "oral agreement",
+    "written agreement",
+    "stool property",
+    "unstamped document",
+    "admission on pleadings",
+    "triable issue",
+    "counter-claim",
+    "jurisdiction"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Customary Law",
+    "Appellate Procedure",
+    "Civil Procedure"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "A. Essilfie-Bondzie",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "J. Ansa",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "R. C. Owusu",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Solomon vrs Ackon (1964) G.L.R. 2",
+    "Adjavon and Others vrs Ghana Industrial Holding Corporation (1980) G.L.R. CA 135",
+    "Duncan vrs Kawoaco Ltd (1981) G.L.R. 476"
+  ],
+  "rationaleHighlights": [
+    "The trial judge erred in granting judgment without hearing evidence where material facts were disputed.",
+    "The written agreement (Exhibit 1) was not stamped and therefore inadmissible in evidence.",
+    "The defendant's statement of defence raised genuine triable issues on the formation and terms of the agreement.",
+    "Judgment on pleadings is inappropriate where there is controversy or a serious question of law.",
+    "The counter-claim should have been allowed to proceed as it disclosed a cause of action."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear appellate reasoning and citation of precedent. Some formatting artifacts in source text (e.g., � symbol) likely represent corrupted currency symbols (e.g., cedis), but do not affect legal substance.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/NANA ASUMADU BONENE & ANOR. v. AKOSUA KONADU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:14:42.615Z",
+    "plainTextLength": 14663
+  },
+  "trialDate": "2002-06-27"
+}

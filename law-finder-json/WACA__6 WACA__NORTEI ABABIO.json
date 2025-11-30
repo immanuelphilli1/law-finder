@@ -1,0 +1,67 @@
+{
+  "caseTitle": "NORTEI ABABIO",
+  "summary": "This 1940 West Africa Court of Appeal case arose from a land dispute initially filed in the Osu Mantse's Tribunal. The defendants challenged the tribunal's jurisdiction, which was denied by the Provincial Commissioner's Court. After the Osu Mantse's Tribunal issued a ruling rejecting the jurisdictional objection, the defendants appealed to the Ga Mantse's Tribunal under Section 78 of the Native Administration Ordinance. The Ga Mantse's Tribunal found the Osu Tribunal lacked jurisdiction and ordered proceedings halted under Section 74. The Provincial Commissioner's Court dismissed an appeal against this order, questioning the appealability of interlocutory decisions. On further appeal, the West Africa Court of Appeal upheld the Ga Mantse's Tribunal's authority to intervene, noting that Section 74 mandates action when jurisdictional defects are proven, regardless of the appeal's form. While not deciding definitively, the court suggested 'decision' in Section 78 includes interlocutory rulings, emphasizing the efficiency of early jurisdictional review. The appeal was dismissed with costs awarded to the respondents.",
+  "legalKeywords": [
+    "jurisdiction",
+    "interlocutory decision",
+    "appeal",
+    "Native Administration Ordinance",
+    "tribunal",
+    "final decision",
+    "procedural fairness",
+    "land rights",
+    "Ga Mantse",
+    "Osu Mantse",
+    "Section 78",
+    "Section 74"
+  ],
+  "topics": [
+    "jurisdiction",
+    "appeal",
+    "tribunal procedure",
+    "land dispute",
+    "interlocutory order"
+  ],
+  "verdict": "Appeal dismissed with costs; order to stop proceedings upheld.",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Native Administration Ordinance, Cap. 76",
+    "Section 78",
+    "Section 74",
+    "Section 49"
+  ],
+  "rationaleHighlights": [
+    "The Ga Mantse's Tribunal had authority to halt proceedings due to lack of jurisdiction.",
+    "The term 'decision' in Section 78 may include interlocutory rulings.",
+    "Allowing jurisdictional challenges post-trial creates inefficiency.",
+    "Paramount Chief's Tribunal must act under Section 74 when jurisdictional defects are evident."
+  ],
+  "confidenceNotes": "High confidence in extraction; all details directly cited from text.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/NORTEI ABABIO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:01:28.497Z",
+    "plainTextLength": 7229
+  },
+  "trialDate": "1940-05-21"
+}

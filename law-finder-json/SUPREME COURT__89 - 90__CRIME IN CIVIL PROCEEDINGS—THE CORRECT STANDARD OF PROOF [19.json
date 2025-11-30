@@ -1,0 +1,108 @@
+{
+  "caseTitle": "In the case of Ampadu v. Dankwah1",
+  "summary": "This legal commentary examines the correct standard of proof required when allegations of criminal conduct, particularly fraud, arise in civil proceedings, with a focus on Ghanaian jurisprudence. The author critiques the decision in Ampadu v. Dankwah, where the court applied a higher standard of proof—akin to the criminal standard—for fraud in civil cases, relying on In re Agyepong (Decd.); Poku v. Abosi. The article argues that this approach conflicts with established principles in England and Australia, where the standard remains the balance of probabilities, albeit with heightened scrutiny based on the seriousness of the allegation. The English case Hornal v Neuberger Products Ltd is highlighted as settling the principle that civil standards apply even in serious allegations like fraud, a view affirmed by the House of Lords in Khawaja v Secretary of State. Similarly, Australian jurisprudence, beginning with Briginshaw v Briginshaw and reaffirmed in Rejfek v McElroy, holds that while the civil standard applies, courts must weigh the gravity of the allegation. The author concludes that Ghanaian courts should align with these jurisdictions and reject the notion of an elevated standard for fraud, emphasizing proportionality within the balance of probabilities framework.",
+  "legalKeywords": [
+    "standard of proof",
+    "fraud",
+    "civil proceedings",
+    "balance of probabilities",
+    "beyond reasonable doubt",
+    "criminal deception",
+    "allegation of crime",
+    "judicial precedent",
+    "presumption of innocence",
+    "gravity of allegation",
+    "revocation of grant",
+    "letters of administration",
+    "marriage ordinance",
+    "judicial reasoning",
+    "common law",
+    "evidentiary threshold",
+    "judicial discretion",
+    "proportionality in proof",
+    "fraudulent misrepresentation",
+    "due regard to seriousness"
+  ],
+  "topics": [
+    "Evidence Law",
+    "Civil Procedure",
+    "Fraud in Civil Cases",
+    "Comparative Legal Standards",
+    "Ghanaian Jurisprudence"
+  ],
+  "verdict": "The article does not report a judicial verdict but critiques a judicial approach, concluding that the higher standard for proving fraud in civil cases, as applied in Ampadu v. Dankwah, is legally unsound and should be abandoned in favor of the proportionate balance of probabilities standard.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Abakah J",
+      "role": "trial judge"
+    },
+    {
+      "name": "Denning LJ",
+      "role": "Court of Appeal judge"
+    },
+    {
+      "name": "Hudson LJ",
+      "role": "Court of Appeal judge"
+    },
+    {
+      "name": "Morris LJ",
+      "role": "Court of Appeal judge"
+    },
+    {
+      "name": "Ungoed-Thomas J",
+      "role": "trial judge"
+    },
+    {
+      "name": "Jiagge JA",
+      "role": "President of the Court of Appeal"
+    },
+    {
+      "name": "Lord Scarman",
+      "role": "House of Lords"
+    },
+    {
+      "name": "Lord Fraser of Tullybelton",
+      "role": "House of Lords"
+    },
+    {
+      "name": "Dixon J",
+      "role": "High Court of Australia"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Legal Commentary / Jurisprudential Analysis",
+  "citations": [
+    "Ampadu v. Dankwah",
+    "In re Agyepong (Decd.); Poku v. Abosi",
+    "Hornal v Neuberger Products Ltd",
+    "In re Dellow's Will Trusts",
+    "Post Office v Estuary Radio Ltd",
+    "The Michael",
+    "Khawaja v Secretary of State for the Home Department",
+    "Briginshaw v Briginshaw",
+    "Rejfek v McElroy",
+    "Helton v Allen"
+  ],
+  "rationaleHighlights": [
+    "The standard of proof in civil cases involving fraud remains the balance of probabilities, not beyond reasonable doubt.",
+    "Seriousness of the allegation increases the degree of probability required, but does not change the underlying standard.",
+    "English and Australian courts have consistently rejected intermediate standards of proof between civil and criminal.",
+    "The decision in Ampadu v. Dankwah misapplies precedent by requiring 'proof of criminal deception' in a civil matter.",
+    "Courts must weigh the gravity of allegations as part of the overall assessment of probabilities.",
+    "Khawaja affirms that liberty interests demand a high degree of probability, yet still within the civil standard.",
+    "Ghanaian law should align with international common law trends to ensure consistency and fairness.",
+    "The phrase 'fraud must be clearly proved' refers to quality of evidence, not a heightened legal standard."
+  ],
+  "confidenceNotes": "The source is a scholarly legal commentary rather than a full court judgment, so some details are interpretive. However, the analysis is grounded in authoritative case law from Ghana, England, and Australia, and the reasoning is consistent with prevailing common law principles. The absence of a full report of Ampadu v. Dankwah limits direct verification, but the critique is well-supported by comparative jurisprudence.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/89 - 90/CRIME IN CIVIL PROCEEDINGS—THE CORRECT STANDARD OF PROOF [19.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:57:25.920Z",
+    "plainTextLength": 24269
+  }
+}

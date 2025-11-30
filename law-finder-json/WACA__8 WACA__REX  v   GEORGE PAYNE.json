@@ -1,0 +1,77 @@
+{
+  "caseTitle": "REX v GEORGE PAYNE",
+  "summary": "The West Africa Court of Appeal considered whether an anonymous threatening letter sent by the appellant, George Payne, to a legal practitioner with the intent to hinder the lawful exercise of his profession constituted an offence under section 366(1)(a) of the Criminal Code, despite being unrelated to a trade dispute. The trial judge had held that no offence was committed under that section, subject to the appellate court's opinion. The appellate court rejected the argument that section 366 should be narrowly construed like section 7 of the English Conspiracy and Protection of Property Act 1875, which typically applied in trade disputes. It held that section 366 is broader in scope, with distinct wording and penalties, and is not limited to trade disputes. Therefore, the court answered the stated case in the negative, affirming that the conduct did fall within the scope of section 366(1)(a) as an offence.",
+  "legalKeywords": [
+    "criminal law",
+    "intimidation",
+    "compelling action by intimidation",
+    "section 366 Criminal Code",
+    "trade dispute",
+    "anonymous threat",
+    "legal profession",
+    "judicial interpretation",
+    "offence against person",
+    "threat to reputation",
+    "case stated",
+    "appellate decision",
+    "common law influence",
+    "statutory construction",
+    "felony",
+    "judicial division",
+    "Kaduna",
+    "West Africa Court of Appeal",
+    "intent to hinder",
+    "lawful act"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Statutory Interpretation",
+    "Threats and Intimidation",
+    "Legal Profession",
+    "Appellate Procedure"
+  ],
+  "verdict": "The court ruled that the offence under section 366(1)(a) is not limited to trade disputes and that the accused's actions could constitute an offence.",
+  "winningSide": "Respondent (Rex)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Baker",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Section 366(1)(a), Criminal Code",
+    "Section 7, Conspiracy and Protection of Property Act 1875 (UK)"
+  ],
+  "rationaleHighlights": [
+    "Section 366 of the Criminal Code is broader than its English counterpart and not confined to trade disputes.",
+    "The wording and penal provisions of section 366 differ significantly from the UK Act.",
+    "The court is not bound to limit the interpretation of local statutes based on foreign precedents when wording diverges.",
+    "The offence under section 366 covers threats to person and reputation intended to hinder lawful acts, even outside industrial contexts.",
+    "The decision affirms a wider scope for criminal intimidation in professional contexts.",
+    "Statutory adoption from foreign law does not entail adoption of restrictive judicial interpretations.",
+    "The felony classification of the offence in the local code indicates serious legislative intent.",
+    "The court emphasized textual and contextual analysis over analogical reasoning from English cases."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; source is a clear judicial decision with identifiable parties, court, and legal reasoning. Some formatting issues in the original text (e.g., 'pg18', 't he') are interpreted contextually.",
+  "metadata": {
+    "sourcePath": "WACA/8 WACA/REX  v   GEORGE PAYNE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:23:34.573Z",
+    "plainTextLength": 4411
+  },
+  "trialDate": "1942-02-07"
+}

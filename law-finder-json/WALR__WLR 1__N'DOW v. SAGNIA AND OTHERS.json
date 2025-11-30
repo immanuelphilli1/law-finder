@@ -1,0 +1,68 @@
+{
+  "caseTitle": "N'DOW VERSUS SAGNIA AND OTHERS.",
+  "summary": "In N'Dow v. Sagnia and Others, the Supreme Court of the Colony of the Gambia upheld a public auction sale of jointly owned property despite the sale occurring outside the timeframe specified in the court's partition order. The plaintiff, a tenant in common, sought to set aside the sale on grounds of non-compliance with procedural timelines and notice requirements. The court held that such technical non-compliance did not invalidate the sale under Section 70 of the Conveyancing Act, 1881, which protects purchasers acting under court orders from defects in procedural adherence. The purchaser's title was affirmed, and the plaintiff's claims for damages failed due to lack of evidence and absence of actual harm. The court ordered execution of a conveyance to the purchaser.",
+  "legalKeywords": [
+    "sale by order of court",
+    "tenants in common",
+    "partition",
+    "conveyancing act",
+    "non-compliance",
+    "technical irregularity",
+    "purchaser protection",
+    "court order enforcement",
+    "procedural defect",
+    "execution of conveyance",
+    "public auction",
+    "notice of sale",
+    "jurisdiction",
+    "innocent purchaser",
+    "negligence",
+    "trespass",
+    "statutory interpretation",
+    "extension of time",
+    "vendor liability",
+    "partition impracticable"
+  ],
+  "topics": [
+    "Property Law",
+    "Civil Procedure",
+    "Conveyancing",
+    "Family Dispute",
+    "Auction Law"
+  ],
+  "verdict": "The sale was upheld; the plaintiff's claims were dismissed.",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Miles J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Colony of the Gambia",
+    "country": "Gambia"
+  },
+  "caseType": "Civil - Property Dispute",
+  "citations": [
+    "Singh v. Singh (1863) 9 L.T. 129",
+    "Colclough v. Sterum (1821) 2 Eli. 181",
+    "Conveyancing Act, 1881, s. 70",
+    "Law of Property Act, 1925, s. 204(1)",
+    "Sales by Auction Ordinance, 1901, c. 127"
+  ],
+  "rationaleHighlights": [
+    "Section 70 of the Conveyancing Act, 1881, protects purchasers from technical non-compliance with court orders.",
+    "Non-compliance with sale timing is an irregularity in procedure, not a jurisdictional defect.",
+    "An innocent purchaser's title should not be invalidated due to vendor's procedural lapses.",
+    "Application for extension of time would have been granted, mitigating procedural failure.",
+    "Colclough v. Sterum is no longer good law in light of statutory protections for purchasers."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and clear citation of statutes and precedents. Jurisdictional context is colonial Gambia applying English-derived statutes.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/N'DOW v. SAGNIA AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:01:59.433Z",
+    "plainTextLength": 13191
+  }
+}

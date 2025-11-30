@@ -1,0 +1,65 @@
+{
+  "caseTitle": "ENUM VERSUS SHAMA STATE",
+  "summary": "In this 1957 High Court decision, Kofi Enum, headman of the Aboadzi fishing community, applied for a writ of prohibition to prevent the Shama State Council from hearing destoolment charges brought by members of his community. The court held that under the State Councils (Southern Ghana) Ordinance, c. 8 of 1952, State Councils have jurisdiction only over constitutional matters relating to chiefs, and since a headman is not considered a chief under the Ordinance, his destoolment does not constitute a constitutional matter. The court emphasized that the State Council's role is limited to confirming or rejecting a headman appointed by the village, not initiating or adjudicating destoolment proceedings. As the Council was acting beyond its statutory authority, the application for prohibition was granted. The ruling reaffirmed the principle that native judicial bodies must operate within the limits of conferred jurisdiction.",
+  "legalKeywords": [
+    "prohibition",
+    "ultra vires",
+    "jurisdiction",
+    "constitutional matter",
+    "destoolment",
+    "headman",
+    "chief",
+    "State Council",
+    "customary law",
+    "judicial powers",
+    "Native Court",
+    "executive powers",
+    "administrative powers",
+    "confirmation of appointment",
+    "constitutional nature"
+  ],
+  "topics": [
+    "administrative law",
+    "customary law",
+    "judicial review",
+    "constitutional law",
+    "jurisdiction",
+    "prohibition",
+    "traditional leadership"
+  ],
+  "verdict": "The application for a writ of prohibition was granted, restraining the Shama State Council from proceeding with the destoolment charges against the applicant.",
+  "winningSide": "Applicant (Kofi Enum)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Acolatse J.",
+      "role": "presiding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Western Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Kokro and Others v. Enum (1953) 14 W.A.C.A. 313",
+    "Abude and Others v. Onano and Others (1946) 12 W.A.C.A. 102"
+  ],
+  "rationaleHighlights": [
+    "A headman is not a chief under the State Councils (Southern Ghana) Ordinance, c. 8 of 1952.",
+    "Destoolment of a headman is not a constitutional matter within the meaning of the Ordinance.",
+    "State Councils have jurisdiction only over constitutional matters relating to chiefs.",
+    "The State Council cannot elect or destool a headman; it can only confirm or reject a village appointment.",
+    "Proceedings against a headman for destoolment fall outside the statutory jurisdiction of the State Council.",
+    "A writ of prohibition issues where a body acts ultra vires its jurisdiction.",
+    "The opposers conceded that the matter is not within the Council's jurisdiction under the Ordinance.",
+    "Customary authority does not extend to judicial functions beyond statutory limits."
+  ],
+  "confidenceNotes": "The judgment is clear and well-reasoned, with direct reference to statutory interpretation and precedent. The opposing counsel's concession strengthens the reliability of the holding.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/ENUM v. SHAMA STATE COUNCIL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:05:49.787Z",
+    "plainTextLength": 6570
+  }
+}

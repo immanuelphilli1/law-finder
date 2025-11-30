@@ -1,0 +1,71 @@
+{
+  "caseTitle": "ABDUL LATIF JOJO",
+  "summary": "This case involved a dispute over the alleged breach of an oral lease agreement between Abdul Latif Jojo (plaintiff) and Alfred Augustus Cole (defendant) concerning Lucetta House in Accra. The plaintiff claimed specific performance of a 20-year lease at £200 per year, with three years' rent paid in advance. Although the trial court dismissed the claim, finding no concluded contract due to a variation between offer and acceptance and holding time to be of the essence, the West Africa Court of Appeal reversed. The appellate court held that a valid contract existed based on a prior verbal agreement confirmed in writing, with no material difference in the terms. It found no evidence that time was of the essence and that the plaintiff's delay in remitting rent was not unreasonable. However, specific performance was denied because the second defendants (Bardawil & Co.) lacked notice of the prior contract. The case was remitted for assessment of damages against the first defendant, who was also ordered to pay costs.",
+  "legalKeywords": [
+    "specific performance",
+    "contract formation",
+    "offer and acceptance",
+    "time of essence",
+    "verbal agreement",
+    "lease agreement",
+    "counter-offer",
+    "breach of contract",
+    "damages",
+    "tender of payment",
+    "execution of lease",
+    "rent in advance",
+    "variation in terms",
+    "subsisting contract",
+    "notice to quit"
+  ],
+  "topics": [
+    "Contract Law",
+    "Lease Agreements",
+    "Specific Performance",
+    "Breach of Contract",
+    "Damages"
+  ],
+  "verdict": "Appeal allowed; judgment of the lower court reversed.",
+  "winningSide": "Plaintiff (Abdul Latif Jojo)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Cor. Webb",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Strother-Stewart",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "contract dispute",
+  "citations": [
+    "WACA/5 WACA/ABDUL LATIF JOJO"
+  ],
+  "rationaleHighlights": [
+    "The court found a valid contract existed based on mutual confirmation of a prior verbal agreement.",
+    "No material variation was found between the plaintiff's offer and defendant's reply; both expressed agreement on core terms.",
+    "The phrases 'after execution of the legal document' and 'immediately the lease is executed' were interpreted as equivalent.",
+    "No evidence indicated that time was of the essence of the contract.",
+    "The defendant’s acceptance of a better offer before allowing reasonable time for payment constituted breach.",
+    "Specific performance was denied due to lack of notice to the second defendant, but damages were awarded.",
+    "The delay from November 6 to November 30 in making funds available was not unreasonable.",
+    "The defendant still treated the contract as subsisting when instructing notice to quit on November 19."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text with clear factual support.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/ABDUL LATIF JOJO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:51:54.080Z",
+    "plainTextLength": 11925
+  },
+  "trialDate": "1939-04-06"
+}

@@ -1,0 +1,73 @@
+{
+  "caseTitle": "POH VERSUS KONAMBA",
+  "summary": "In POH v. Konamba and Others, the plaintiff challenged the appointment of the third defendant as successor to Kweku Nte, an intestate deceased, asserting her own rightful claim under customary law. The dispute centered on which family branch had adopted Yaah Boyow, the foundling ancestor of Kweku Nte, with the plaintiff claiming adoption into her lineage through her grandmother Abanja, while the defendants claimed discovery by their relative Sintiwaah. The trial Native Court ruled for the plaintiff, finding her version credible, particularly due to the first defendant's prior admission that Kweku Nte was not from her direct family line. On appeal, the magistrate reversed this, but the High Court restored the original judgment, holding that traditional hearsay evidence is admissible only if given by family members, that adoption assimilates a person fully into the family, and that familial appointments of successors cannot arbitrarily displace rightful heirs. Since the plaintiff was not shown to be unfit and no justification was given for her exclusion, the court declared her the rightful successor.",
+  "legalKeywords": [
+    "traditional evidence",
+    "hearsay evidence",
+    "family rights",
+    "customary law",
+    "succession",
+    "adoption",
+    "pedigree",
+    "foundling",
+    "native court",
+    "intestacy",
+    "family appointment",
+    "judicial intervention",
+    "evidence admissibility",
+    "weight of evidence",
+    "lineage",
+    "maternal descent",
+    "clan membership",
+    "successor entitlement",
+    "court restoration",
+    "cultural tradition"
+  ],
+  "topics": [
+    "Family Law",
+    "Evidence Law",
+    "Customary Succession",
+    "Judicial Review",
+    "Hearsay in Legal Proceedings"
+  ],
+  "verdict": "The appeal was allowed, the magistrate's decision reversed, and the trial Native Court's judgment restored.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adumua-Bossman J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Central Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal on Customary Succession",
+  "citations": [
+    "Bura and Amonoo v. Ampima (1891) F.C.L. 214",
+    "Kweku Dua III v. Kwamin Tandoh (1926) Judgments of Privy Council on Appeal from Gold Coast, 187–1928, 109",
+    "In re Asamankese Arbitration (1929) Divisional Court, 1926–29, 220",
+    "In re Acquisition for Residential Area Extension (1931) Divisional Court, 1929–31, 77",
+    "Pappoe v. Wingrove & Co. and Another (1922) Divisional Court, 1921–25, 20",
+    "Solomon v. Botchway (1943) 9 W.A.C.A. 127",
+    "Attipoe and Another v. Shoucaire and Others, Eastern Judicial Division, May 4, 1948, unreported"
+  ],
+  "rationaleHighlights": [
+    "Hearsay traditional evidence is admissible only when given by a family member.",
+    "Adoption under customary law fully integrates the individual into the family.",
+    "Family may pass over a rightful successor only for valid family interests, not arbitrarily.",
+    "Court may intervene if displacement of heir appears capricious.",
+    "Prior inconsistent statements by defendants were crucial in assessing credibility.",
+    "Non-family witnesses cannot reliably transmit traditional pedigree evidence.",
+    "The trial court’s factual findings based on traditional evidence must be respected on appeal.",
+    "The magistrate erred in dismissing the case without appreciating the nature of customary succession disputes."
+  ],
+  "confidenceNotes": "The source document is truncated but contains sufficient reasoning and holding to extract key legal principles and outcome. The judgment is consistent with established Ghanaian customary law jurisprudence on succession and evidence. All critical elements—parties, issues, reasoning, and disposition—are recoverable from the available text.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/POH v. KONAMBA AND OTHERS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:56:53.736Z",
+    "plainTextLength": 21382
+  }
+}

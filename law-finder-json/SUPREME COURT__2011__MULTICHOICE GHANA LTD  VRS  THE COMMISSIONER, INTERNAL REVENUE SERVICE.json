@@ -1,0 +1,89 @@
+{
+  "caseTitle": "MULTICHOICE GHANA LTD VRS THE COMMISSIONER, INTERNAL REVENUE SERVICE",
+  "summary": "This Supreme Court of Ghana case, Multichoice Ghana Ltd v. The Commissioner, Internal Revenue Service, centered on the interpretation of the Income Tax Decree 1975 (SMCD 5) regarding the aggregation of interest income with core business income for tax assessment purposes. The appellant, a pay television company, earned interest on subscription fees deposited in interest-yielding accounts while reporting net losses by offsetting core business expenses against total income, including interest. The Commissioner disallowed this method, assessing tax on interest income separately. The High Court ruled in favor of Multichoice, holding that interest income was not severable from the company's main business. The Court of Appeal upheld the legal reasoning but reversed the outcome, prompting a Supreme Court appeal. The Supreme Court clarified that under SMCD 5, expenses must be directly linked to the income they generate, and thus interest income must be taxed independently if not directly tied to the core business operations.",
+  "legalKeywords": [
+    "tax assessment",
+    "income aggregation",
+    "interest income",
+    "deductible expenses",
+    "assessable income",
+    "SMCD 5",
+    "Income Tax Decree 1975",
+    "PNDCL 61",
+    "corporate taxation",
+    "net loss declaration",
+    "tax law interpretation",
+    "severability of income",
+    "expenses deduction",
+    "Internal Revenue Act 2000",
+    "Act 592",
+    "LI 1675",
+    "public interest litigation",
+    "fiscal dispute",
+    "tax administration",
+    "judicial pronouncement"
+  ],
+  "topics": [
+    "Tax Law",
+    "Corporate Law",
+    "Judicial Interpretation",
+    "Revenue Law",
+    "Appellate Procedure"
+  ],
+  "verdict": "The appeal was dismissed.",
+  "winningSide": "Respondent",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Wood (Mrs.)",
+      "role": "Chief Justice (Presiding)"
+    },
+    {
+      "name": "Dotse",
+      "role": "JSC"
+    },
+    {
+      "name": "Yeboah",
+      "role": "JSC"
+    },
+    {
+      "name": "Gbadebo",
+      "role": "JSC"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs.)",
+      "role": "JSC"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "SMCD 5",
+    "PNDCL 61",
+    "Act 592",
+    "LI 1675",
+    "CI 16 Rule 4",
+    "CI 16 Rule 5"
+  ],
+  "rationaleHighlights": [
+    "Expenses must be wholly, exclusively, and necessarily incurred in producing specific income to be deductible.",
+    "Interest income is not automatically severable from core business income under SMCD 5.",
+    "The Court of Appeal's inconsistent order did not constitute a valid ground of appeal.",
+    "Tax liability must be determined under the law in force at the time of the cause of action, not subsequent legislation.",
+    "Aggregation of income sources for assessment requires legal basis under applicable tax law.",
+    "The central issue was the definition of assessable income, not deductibility of expenses.",
+    "Judicial clarification is needed when longstanding tax practices lack statutory basis.",
+    "Public interest litigation can shape tax law development."
+  ],
+  "confidenceNotes": "The summary is based on a detailed judicial opinion from the Supreme Court of Ghana with clear articulation of legal issues, statutory provisions, and judicial reasoning. All key facts, parties, and holdings are explicitly stated in the source text, ensuring high factual accuracy. The case citation and procedural history are consistent with standard Ghanaian legal reporting formats.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/MULTICHOICE GHANA LTD  VRS  THE COMMISSIONER, INTERNAL REVENUE SERVICE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:02:46.578Z",
+    "plainTextLength": 21210
+  },
+  "trialDate": "2010-04-16"
+}

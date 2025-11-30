@@ -1,0 +1,71 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This 1934 West African Court of Appeal decision addressed whether a plaintiff could pursue a civil action for assault and battery after the defendant was criminally convicted and ordered to pay compensation under section 74(2) of the Criminal Code, which the plaintiff refused. The court held that section 75 of the Criminal Code barred the civil action because the plaintiff had been given the opportunity to receive compensation, even though he did not accept it. The court interpreted 'receives compensation' broadly to include the judicial award and availability of funds, not just physical receipt. The ruling emphasized legislative intent to prevent multiple proceedings and protect defendants from harassment, aligning with the penal nature of the provisions. The appeal was allowed, affirming the bar on the civil claim.",
+  "legalKeywords": [
+    "assault and battery",
+    "compensation",
+    "criminal code",
+    "civil damages",
+    "double jeopardy",
+    "section 75",
+    "judicial interpretation",
+    "multiplicity of proceedings",
+    "penal provision",
+    "receipt of compensation",
+    "imprisonment for non-payment",
+    "bar to action",
+    "legislative intent",
+    "private injury",
+    "public wrong"
+  ],
+  "topics": [
+    "criminal law",
+    "civil liability",
+    "compensation",
+    "appellate procedure",
+    "statutory interpretation"
+  ],
+  "verdict": "Appeal allowed; civil action barred under Section 75 of the Criminal Code.",
+  "winningSide": "Defendant-Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Yates, Acting C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "Graham Paul, J.",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "Section 75 of the Criminal Code (Gold Coast)",
+    "Section 74(2) of the Criminal Code",
+    "Section 73 of the Criminal Code",
+    "West African Court of Appeal Ordinance, 1929, Section 6"
+  ],
+  "rationaleHighlights": [
+    "Section 75 bars civil action if compensation is ordered or imprisonment served for non-payment, even if plaintiff refuses the money.",
+    "The term 'receives compensation' is interpreted broadly to mean having the opportunity to receive payment, not actual receipt.",
+    "Sections 74 and 75 must be read together, with section 74 being penal in nature.",
+    "The legislature intended to prevent multiplicity of proceedings and protect convicted persons from harassment.",
+    "Ambiguity in penal provisions is resolved in favor of the defendant."
+  ],
+  "confidenceNotes": "The interpretation of 'receives compensation' as including the opportunity to receive payment, rather than actual receipt, is clearly supported by the court's reasoning and legislative intent analysis.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/JOHN MARK.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:26:35.328Z",
+    "plainTextLength": 4930
+  },
+  "trialDate": "1934-11-20"
+}

@@ -1,0 +1,71 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This 1940 West Africa Court of Appeal decision involved two consolidated suits concerning land disputes between the people of Egosokwe and Abokwa compounds in Ediba and Osumutong. Suit E/15/38 claimed damages for trespass against 36 individuals, including Chief Ofem Ege, while Suit E/20/38 sought a declaration of title and injunction regarding the disputed land. The suits originated in Native Courts and were transferred to the High Court under the Native Courts Ordinance, 1933. The trial court dismissed the claims for declaration of title and injunction, and awarded limited damages in the trespass suit based on assumed representative liability. The appellate court upheld the dismissal of the declaratory and injunctive claims but allowed the appeal on the trespass claim, setting aside the damages because no specific acts of trespass were proven against any named individual defendant. The court emphasized that suing individuals requires evidence linking them personally to the alleged trespass, and mere group affiliation was insufficient. Costs were adjusted accordingly, with no order for costs in the appellate court due to partial success by both parties.",
+  "legalKeywords": [
+    "trespass",
+    "declaration of title",
+    "injunction",
+    "representative capacity",
+    "Native Courts Ordinance",
+    "evidence of trespass",
+    "consolidated suits",
+    "appellate review",
+    "damages assessment",
+    "jurisdiction transfer",
+    "individual liability",
+    "customary land dispute",
+    "appellate costs",
+    "fact-finding",
+    "judicial discretion"
+  ],
+  "topics": [
+    "Land Law",
+    "Tort Law",
+    "Appellate Procedure",
+    "Customary Law",
+    "Civil Procedure"
+  ],
+  "verdict": "Appeal allowed in part",
+  "winningSide": "Defendant-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Native Courts Ordinance, 1933 (No. 44 of 1933)"
+  ],
+  "rationaleHighlights": [
+    "No evidence was presented linking individual defendants to specific acts of trespass.",
+    "The trial court incorrectly assumed Chief Ofem Ege was sued in a representative capacity without formal amendment.",
+    "Mere membership in a group alleged to have trespassed does not establish individual liability.",
+    "Claims for declaration of title and injunction were properly dismissed due to insufficient evidence.",
+    "Appellate court upheld factual findings of trial judge but corrected legal error in imposing liability.",
+    "Consolidation of suits and addition of injunction claim occurred after transfer to High Court.",
+    "Failure to prove identity and extent of damage invalidated the damages award.",
+    "Costs were adjusted to reflect partial success on appeal."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; source is a clear judicial decision with identifiable parties, court, and reasoning. Jurisdiction is correctly attributed to the West Africa Court of Appeal, which had authority over British West African territories including the Gold Coast (now Ghana).",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/ENYI OBO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:08:30.523Z",
+    "plainTextLength": 4913
+  },
+  "trialDate": "1940-04-19"
+}

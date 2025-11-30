@@ -1,0 +1,63 @@
+{
+  "caseTitle": "ANKRAH VERSUS ARYEE",
+  "summary": "In this 1957 Supreme Court of the Gold Coast case, the plaintiff sued the first defendant for �530 outstanding under a credit-sale agreement for a lorry, and the second defendant as guarantor. The agreement allowed the plaintiff to seize the vehicle upon default. The court held that the seizure clause provided an alternative remedy at the vendor's option, not an exclusive one, allowing recovery of the unpaid balance. However, the second defendant was not liable as the term 'guarantor' followed by his signature lacked sufficient detail to constitute a valid guarantee under the Statute of Frauds, 1677, s. 4. The word 'guarantor' was deemed merely descriptive and too vague to impose legal liability without clearer terms. Judgment was entered for the plaintiff against the first defendant, but the claim against the second defendant was dismissed.",
+  "legalKeywords": [
+    "sale of goods",
+    "credit-sale agreement",
+    "seizure on default",
+    "guarantee",
+    "Statute of Frauds",
+    "alternative remedy",
+    "construction of contract",
+    "memorandum in writing",
+    "vendor's remedy",
+    "guarantor liability",
+    "chattel seizure",
+    "installment payment",
+    "debt recovery",
+    "contract interpretation",
+    "written guarantee"
+  ],
+  "topics": [
+    "Contract Law",
+    "Sale of Goods",
+    "Guarantee",
+    "Statute of Frauds",
+    "Remedies"
+  ],
+  "verdict": "Judgment for the plaintiff against the first defendant; claim against the second defendant dismissed.",
+  "winningSide": "Plaintiff (against first defendant), Second Defendant (on dismissal of claim)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Windsor-Aubrey J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Delor v. Foli (1952) 14 W.A.C.A. 54",
+    "Osei Kofi v. Mensah (1930) 1 W.A.C.A. 76"
+  ],
+  "rationaleHighlights": [
+    "Clause allowing seizure on default is an alternative remedy, not exclusive.",
+    "Vendor has option to sue for debt or seize goods.",
+    "Use of word 'guarantor' alone is too vague to create enforceable guarantee.",
+    "No sufficient memorandum in writing under Statute of Frauds.",
+    "Descriptional labels like 'guarantor' without substantive terms do not impose liability.",
+    "Burden of clarity in drafting falls on the vendor.",
+    "Guarantee must clearly specify obligation to answer for another's debt.",
+    "Ambiguity in guarantee renders it unenforceable."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and cited authority.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/ANKRAH v. ARYEE AND ANOTHER...htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:43:03.279Z",
+    "plainTextLength": 4693
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "caseTitle": "SIERRA LEONE DEVELOPMENT CO. LTD v MARIA TAYLOR",
+  "summary": "This 1952 West Africa Court of Appeal decision arose from a negligence claim following the death of a locomotive driver, Christopher Taylor, who was crushed when the engine he operated collided with a steel cross-bar at the end of a siding. The plaintiff, Maria Taylor, as administratrix of the estate, alleged the company failed to provide a safe working environment, including inadequate braking systems and lack of fencing around the cross-bar. The trial judge awarded damages, finding that while the deceased was negligent, the distance between the catch point and cross-bar was insufficient for the average African driver's slower reaction time. The appellate court reversed this, holding that the trial judge erred in relying on his personal views about African drivers' reaction times without supporting evidence, thereby basing the judgment on non-evidential assumptions. The appeal was allowed, and the original award set aside.",
+  "legalKeywords": [
+    "negligence",
+    "contributory negligence",
+    "standard of care",
+    "judicial discretion",
+    "evidential basis",
+    "appellate review",
+    "workplace safety",
+    "locomotive accident",
+    "cross-bar hazard",
+    "brake system",
+    "African driver stereotype",
+    "judicial bias",
+    "fencing duty",
+    "railway safety",
+    "error of law"
+  ],
+  "topics": [
+    "Tort Law",
+    "Employment Liability",
+    "Judicial Conduct",
+    "Appellate Procedure",
+    "Workplace Accidents"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey",
+      "role": "J.A."
+    },
+    {
+      "name": "Foster-Sutton",
+      "role": "P"
+    },
+    {
+      "name": "Beoku-Betts",
+      "role": "Ag. C.J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal, Sierra Leone",
+    "country": "Ghana (applicable jurisdiction context)"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "WACA/14"
+  ],
+  "rationaleHighlights": [
+    "The trial judge found the primary cause of the accident was the deceased's own negligence in failing to apply brakes and keep a proper lookout.",
+    "The trial judge introduced personal views about African drivers' slower reaction times without any expert or factual evidence.",
+    "The appellate court held that judicial decisions must be based on legal evidence, not personal experience or stereotypes.",
+    "No evidence was presented to support differing standards of care between European and African drivers.",
+    "The appeal succeeded because the judgment relied on non-record evidence, constituting an error of law.",
+    "Previous safe operations by the deceased indicated the system was generally adequate.",
+    "The company denied negligence and asserted contributory fault by the driver.",
+    "The cross-bar was deemed not inherently dangerous and similar to standard railway buffers."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; all details are directly derived from the judgment text. Jurisdictional context reflects historical application of West Africa Court of Appeal decisions across British West African territories including Ghana.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/SIERRA LEONE DEVELOPMENT CO. LTD v  MARIA TAYLOR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:29:26.405Z",
+    "plainTextLength": 11822
+  },
+  "trialDate": "1952-06-17"
+}

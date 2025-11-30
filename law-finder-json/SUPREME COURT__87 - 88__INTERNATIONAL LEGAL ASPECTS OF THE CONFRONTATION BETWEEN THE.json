@@ -1,0 +1,55 @@
+{
+  "caseTitle": "OF THE CONFRONTATION BETWEEN THE REPUBLIC OF SOUTH AFRICA VERSUS STATES OF AMERICA",
+  "summary": "This legal analysis examines the confrontation between the Republic of South Africa and the Frontline States in Southern Africa through the lens of international law, drawing parallels with the ICJ's 1986 Nicaragua v. United States judgment. The paper highlights how South Africa engaged in direct military raids (e.g., in Botswana, Lesotho, Mozambique) and indirect aggression via surrogate rebel groups like MNR and UNITA to destabilize neighboring states supporting liberation movements such as the ANC and SWAPO. It underscores violations of sovereignty, non-intervention, and the prohibition on use of force under customary international law, arguing that these actions contravene principles affirmed in the Nicaragua case. The author calls for greater application of international legal norms to address apartheid, support national liberation, and ensure peace and justice in the region.",
+  "legalKeywords": [
+    "international law",
+    "non-intervention",
+    "use of force",
+    "state sovereignty",
+    "customary international law",
+    "national liberation movements",
+    "apartheid",
+    "destabilization",
+    "rebel groups",
+    "diplomatic support",
+    "economic dependence",
+    "military intervention",
+    "ICJ judgment",
+    "Nicaragua v. USA",
+    "self-determination"
+  ],
+  "topics": [
+    "International Law",
+    "Human Rights",
+    "Decolonization",
+    "Armed Conflict",
+    "State Responsibility"
+  ],
+  "verdict": "The analysis concludes that South Africa's actions violated fundamental principles of international law, particularly the prohibition on the use of force and non-intervention, as affirmed in the Nicaragua v. USA case.",
+  "winningSide": "Frontline States / International Law",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "International Court of Justice (referenced)",
+    "country": "International"
+  },
+  "caseType": "Legal Commentary / Jurisprudential Analysis",
+  "citations": [
+    "Case Concerning Military and Paramilitary Activities in and against Nicaragua (Nicaragua v. United States of America), ICJ (1986)"
+  ],
+  "rationaleHighlights": [
+    "South Africa's direct military raids into Botswana, Lesotho, and Mozambique violated state sovereignty.",
+    "Support for rebel groups like MNR and UNITA constitutes indirect use of force, prohibited under international law.",
+    "The ICJ's Nicaragua decision affirms that aiding insurgents violates the principle of non-intervention.",
+    "Frontline States' support for ANC, PAC, and SWAPO aligns with UN and OAU resolutions on self-determination.",
+    "Economic coercion and destabilization policies breach customary international law norms."
+  ],
+  "confidenceNotes": "The document is a scholarly legal commentary, not a judicial decision; therefore, judges and formal case metadata are not applicable. The analysis is based on well-established international law principles and referenced ICJ jurisprudence.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/87 - 88/INTERNATIONAL LEGAL ASPECTS OF THE CONFRONTATION BETWEEN THE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:03:23.060Z",
+    "plainTextLength": 60016
+  },
+  "trialDate": "1986-06-27"
+}

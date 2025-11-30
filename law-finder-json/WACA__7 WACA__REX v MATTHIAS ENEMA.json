@@ -1,0 +1,64 @@
+{
+  "caseTitle": "REX v MATTHIAS ENEMA",
+  "summary": "In Rex v Matthias Enema, the appellant, a public servant charged with stealing under section 190(5) of the Criminal Code, was convicted on two counts in the Magistrate's Court. On appeal to the West African Court of Appeal, it was held that a material witness, Mr. Milne (Assistant District Officer), was not called despite being named by the appellant. The Acting Solicitor-General acknowledged this procedural failure and did not oppose setting aside the conviction on count one. The court accordingly quashed the conviction and ordered an acquittal on count one. The appeal against conviction on count two was dismissed as without merit, as was the appeal against sentence.",
+  "legalKeywords": [
+    "criminal law",
+    "criminal procedure",
+    "failure to call material witness",
+    "stealing",
+    "public service",
+    "conviction quashed",
+    "acquittal",
+    "appeal",
+    "witness",
+    "Criminal Code section 190(5)"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Criminal Procedure",
+    "Witness Testimony",
+    "Appellate Review",
+    "Public Service Offences"
+  ],
+  "verdict": "Conviction on count one quashed; acquittal entered. Conviction on count two upheld.",
+  "winningSide": "Appellant (partially successful)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Graham Paul, C.J., Sierra Leone",
+      "role": "Judge"
+    },
+    {
+      "name": "Butler Lloyd, J.",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Matthias Enema, WACA/7, 2nd July 1941"
+  ],
+  "rationaleHighlights": [
+    "The appellant named Mr. Milne, a material witness, whom the defense wished to call.",
+    "Mr. Milne was not called to testify.",
+    "The Acting Solicitor-General conceded that the conviction on count one should not be upheld due to the failure to call a material witness.",
+    "Conviction on count one was quashed and acquittal entered.",
+    "Appeal against conviction on count two dismissed for lack of merit.",
+    "Appeal against sentence dismissed."
+  ],
+  "confidenceNotes": "The document is a clear appellate judgment from the West African Court of Appeal with identifiable judges and legal reasoning. All key elements are present and unambiguous.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/REX v MATTHIAS ENEMA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:24:31.355Z",
+    "plainTextLength": 2450
+  },
+  "trialDate": "1941-07-02"
+}

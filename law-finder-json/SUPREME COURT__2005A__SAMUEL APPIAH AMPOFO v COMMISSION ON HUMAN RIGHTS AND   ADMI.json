@@ -1,0 +1,84 @@
+{
+  "caseTitle": "SAMUEL APPIAH AMPOFO v COMMISSION ON HUMAN RIGHTS AND ADMI",
+  "summary": "The Supreme Court of Ghana ruled on a reference from the High Court concerning the constitutionality of CHRAJ's investigative panel system. The plaintiff challenged the validity of an investigation conducted by a panel including a Senior Legal Officer and a Principal Investigator, arguing that only the Commissioner and two Deputy Commissioners could exercise CHRAJ's functions under Article 216 of the 1992 Constitution. The Court unanimously held that the term 'Commission' must be interpreted purposively and contextually, recognizing both a narrow sense (the three principal officers) and a wider sense (the entire institution with staff and branches). It found that Regulations 6 and 7 of CI 7, which authorize investigative panels composed of Commission officers, are constitutional. The Court emphasized that a literal interpretation would render CHRAJ ineffective, as three individuals could not practically investigate complaints or educate the public nationwide. It affirmed that specialized investigative skills are essential for CHRAJ's mandate and that the delegation of investigative functions to trained officers is consistent with the Constitution and Act 456.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "purposive interpretation",
+    "delegation of powers",
+    "separation of powers",
+    "judicial review",
+    "administrative justice",
+    "human rights",
+    "investigative powers",
+    "CHRAJ",
+    "public office",
+    "corruption",
+    "regulatory authority",
+    "constitutional validity",
+    "institutional capacity",
+    "judicial reference"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Human Rights",
+    "Judicial Review",
+    "Institutional Design"
+  ],
+  "verdict": "The Supreme Court upheld the constitutionality of CHRAJ's investigative panel system under CI 7, finding that investigative powers can be exercised by officers other than the Commissioner and Deputy Commissioners.",
+  "winningSide": "Commission on Human Rights and Administrative Justice (CHRAJ)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "G. K. Acquah",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "S.A.B. Akuffo",
+      "role": "Justice"
+    },
+    {
+      "name": "Seth Twum",
+      "role": "Justice"
+    },
+    {
+      "name": "Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "M. Ocran",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "1992 Constitution of Ghana, Art. 216",
+    "1992 Constitution of Ghana, Art. 218",
+    "1992 Constitution of Ghana, Art. 220",
+    "1992 Constitution of Ghana, Art. 230",
+    "Commission on Human Rights and Administrative Justice Act 1993 (Act 456)",
+    "CI 7 (Complaint Procedure Regulations, 1994)"
+  ],
+  "rationaleHighlights": [
+    "The word 'Commission' has both a narrow sense (Commissioner and two Deputies) and a wider sense (institution with staff and branches).",
+    "Literal interpretation limiting functions to only three members would lead to absurdity and institutional impotence.",
+    "Regional and district branches must exercise full functions of CHRAJ to fulfill constitutional purpose.",
+    "Regulation 6 of CI 7 allowing panels with legal officers and investigators is constitutional.",
+    "CHRAJ needs specialized investigative skills beyond legal training to combat white-collar crime.",
+    "Purposive interpretation supports empowering trained officers to conduct investigations.",
+    "The Constitution contemplates a nationwide, operational institution, not just a three-member body.",
+    "Courts should not facilitate the defeat of legislative and constitutional objectives."
+  ],
+  "confidenceNotes": "The judgment is unanimous and clearly reasoned, with strong reliance on constitutional text, structure, and purposive interpretation. The truncation of the final judge's opinion does not affect the core holdings.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2005A/SAMUEL APPIAH AMPOFO v COMMISSION ON HUMAN RIGHTS AND   ADMI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:27:55.966Z",
+    "plainTextLength": 33267
+  },
+  "trialDate": "2004-03-06"
+}

@@ -1,0 +1,70 @@
+{
+  "caseTitle": "SPINTEX LTD",
+  "summary": "This is a civil appeal before the Ghana Court of Appeal concerning a dispute between Spintex Ltd (appellant) and Evans Atta-Edua (respondent). The appellant claimed recovery of GHS110,175,349.74 for goods supplied between 1990 and 1992, but the High Court dismissed the claim and upheld the respondent's counterclaim for GHS6,772,000 wrongfully withheld. The core issue was whether payments made by the respondent to the appellant’s Chief Accountant—later found to have misappropriated funds—constituted valid payments to the company. The Court of Appeal affirmed the High Court’s decision, holding that under section 142 of the Companies Act, 1963 (Act 179), the respondent was entitled to assume the Chief Accountant had authority to receive payments, especially since supplies continued and there was no indication of lack of authority. The court applied the doctrine of ostensible authority and estoppel, citing *GODKA Group v. P S International* and the *Turquand* rule. The appellant’s additional grounds of appeal were struck out for being improperly framed as issues rather than challenges to trial court determinations. The appeal was dismissed, affirming the respondent's victory.",
+  "legalKeywords": [
+    "apparent authority",
+    "ostensible authority",
+    "Companies Act 1963 (Act 179)",
+    "section 142",
+    "fraud by agent",
+    "estoppel",
+    "payment to agent",
+    "corporate liability",
+    "civil appeal",
+    "weight of evidence",
+    "pleading irregularities",
+    "counterclaim",
+    "fraudulent conduct",
+    "audit findings",
+    "dishonored cheques"
+  ],
+  "topics": [
+    "Contract Law",
+    "Agency Law",
+    "Corporate Law",
+    "Civil Procedure",
+    "Appellate Law"
+  ],
+  "verdict": "Appeal dismissed; judgment in favor of the respondent (Evans Atta-Edua) upheld.",
+  "winningSide": "Respondent (Evans Atta-Edua)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Marful-Sau, JA",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "Mariama Owusu, JA",
+      "role": "presiding"
+    },
+    {
+      "name": "Yaw Appau, JA",
+      "role": "member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "GODKA GROUP OF COMPANIES VS. P S INTERNATIONAL LTD. (2001-2002) SCGLR 918",
+    "Royal British Bank v. Turquand (1843-60) All ER Rep 435",
+    "Hely-Hutchinson v. Bray Head Ltd. (1968) 1 QB 549"
+  ],
+  "rationaleHighlights": [
+    "Payments to a company's Chief Accountant were deemed valid under section 142 of the Companies Act due to apparent authority.",
+    "The appellant company was estopped from denying the Chief Accountant's authority to receive payments.",
+    "The respondent had no actual knowledge that the Chief Accountant lacked authority, especially since supplies continued uninterrupted.",
+    "The additional grounds of appeal were struck out for being improperly framed as issues rather than determinations by the trial court.",
+    "The trial court's judgment was upheld as consistent with the weight of evidence and legal principles of agency."
+  ],
+  "confidenceNotes": "The truncated nature of the source document limits full verification of all factual details, but key legal reasoning and cited authorities are preserved.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/SPINTEX LTD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:02:35.644Z",
+    "plainTextLength": 24530
+  },
+  "trialDate": "2010-11-04"
+}

@@ -1,0 +1,84 @@
+{
+  "caseTitle": "LABOUR COMMISSION VRS CROCODILE MATCHET",
+  "summary": "This Supreme Court of Ghana judgment arose from a labor dispute where the National Labour Commission (NLC) sought enforcement of its order against Crocodile Matchets Ghana Ltd. for unfair termination of five employees. The NLC had appointed a two-member committee to hear the case, which issued an order later enforced by the High Court. The Court of Appeal set aside the decision, citing lack of quorum and improper delegation. The Supreme Court upheld this reversal, holding that Section 140(3) of the Labour Act, 2003 (Act 651) requires a quorum of five members, including tripartite representation, to settle industrial disputes. The Court found no statutory basis for a two-member panel to exercise judicial functions and emphasized that mandatory quorum provisions must be strictly observed. The appeal was dismissed, affirming that non-compliance invalidates proceedings.",
+  "legalKeywords": [
+    "Labour Act 651",
+    "industrial dispute",
+    "quorum",
+    "delegation of powers",
+    "enforcement of orders",
+    "unfair termination",
+    "judicial review",
+    "statutory interpretation",
+    "compulsory arbitration",
+    "National Labour Commission",
+    "High Court enforcement",
+    "Court of Appeal reversal",
+    "supreme court rehearing",
+    "tripartite representation",
+    "section 172",
+    "section 140",
+    "section 141",
+    "section 144",
+    "section 164",
+    "procedural validity"
+  ],
+  "topics": [
+    "Labor Law",
+    "Administrative Law",
+    "Judicial Review",
+    "Statutory Interpretation",
+    "Enforcement of Orders"
+  ],
+  "verdict": "The appeal by the National Labour Commission was dismissed. The Supreme Court upheld the Court of Appeal's decision that the two-member committee lacked quorum and could not validly exercise the Commission's judicial functions under the Labour Act, 2003.",
+  "winningSide": "Crocodile Matchets Ghana Ltd.",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Ansa, JSC",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Atuguba, JSC",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Owusu (Ms), JSC",
+      "role": "panel member"
+    },
+    {
+      "name": "Gbadebe, JSC",
+      "role": "panel member"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs), JSC",
+      "role": "panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "labor dispute",
+  "citations": [
+    "Labour Act, 2003, Act 651",
+    "Boateng v Volta Aluminium Co. Ltd [1984-86] 1GLR 733",
+    "Brefor v The Republic [1980] GLR 679",
+    "Boyefio v NTHC Properties Ltd. [1996-97] SCGLR 531"
+  ],
+  "rationaleHighlights": [
+    "Statutes must be read as a whole and interpreted in pari materia, especially where provisions relate to the same subject.",
+    "Section 140(3) mandates a quorum of five for the Commission to settle industrial disputes, including representation from government, labor, and employers.",
+    "No statutory provision authorizes a two-member committee to exercise the Commission’s judicial functions, rendering such proceedings invalid.",
+    "The Court of Appeal correctly held that the two-member panel lacked quorum and that delegation was not properly established on record.",
+    "The Supreme Court upheld the Court of Appeal’s decision due to lack of compliance with mandatory quorum requirements."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment with clear statutory and case law references.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/LABOUR COMMISSION  VRS  CROCODILE MATCHET.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:04:10.878Z",
+    "plainTextLength": 47770
+  },
+  "trialDate": "2006-08-18"
+}

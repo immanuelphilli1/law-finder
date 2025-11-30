@@ -1,0 +1,77 @@
+{
+  "caseTitle": "OSMANYAMA YAW EWUA",
+  "summary": "This 1929 Privy Council appeal from the Gold Coast Colony involved Osmanyama Yaw Ewua, who sought a declaration that a summons issued by Nana Sir Ofori Atta, President of the Akyem Abuakwa Native Tribunal, was ultra vires and oppressive, along with an injunction to halt proceedings. The appellant alleged the respondent threatened to trespass on his land. The Supreme Court and Court of Appeal dismissed the case for lack of cause of action. The Privy Council upheld the dismissal, ruling that challenges to the summons should be raised as a defense in the Native Court, not through a separate action, and that the trespass allegation, though potentially valid, was not properly included in the original writ and no amendment was sought.",
+  "legalKeywords": [
+    "ultra vires",
+    "malicious prosecution",
+    "injunction",
+    "cause of action",
+    "Native Administration Ordinance",
+    "trespass",
+    "declaration",
+    "jurisdiction",
+    "appeal",
+    "Native Tribunal",
+    "paramount chief",
+    "judicial review",
+    "procedural defense",
+    "affidavit",
+    "statement of claim",
+    "civil proceeding",
+    "land rights",
+    "legal remedy",
+    "ordinance interpretation",
+    "judicial committee"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Civil Procedure",
+    "Land and Property Rights",
+    "Judicial Review",
+    "Appellate Law"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Viscount Dunedin",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Lord Blanesburgh",
+      "role": "Member"
+    },
+    {
+      "name": "Chief Justice Anglin",
+      "role": "Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Judicial Committee of the Privy Council",
+    "country": "Ghana (formerly Gold Coast Colony)"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Privy Council Appeal No. 57 of 1929",
+    "Gold Coast Full Court Reports, 1926–1929, p. 381"
+  ],
+  "rationaleHighlights": [
+    "The complaint under Article 28 of the Native Administration Ordinance was a valid matter for the Native Court.",
+    "The appellant should raise defenses in the Native Court rather than seek a declaration in a separate action.",
+    "The term 'ultra vires' was misapplied; any challenge to the ordinance must be made in the Native Court.",
+    "An action for malicious prosecution cannot lie until there is an acquittal in the original case.",
+    "The allegation of threatened trespass was a separate cause of action but was not properly included in the writ.",
+    "No motion to amend the writ was made in the lower courts, so the new claim could not be considered.",
+    "The Privy Council declined to entertain procedural amendments not raised below.",
+    "The appeal was dismissed on the grounds that the original action disclosed no valid cause of action."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on the original judgment text. All details are directly extracted from the reported decision. Jurisdiction is correctly identified as the Gold Coast Colony (modern-day Ghana), and the court hierarchy is accurately represented.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/OSMANYAMA YAW EWUA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:22:23.140Z",
+    "plainTextLength": 6006
+  },
+  "trialDate": "28TH JULY, 1929"
+}

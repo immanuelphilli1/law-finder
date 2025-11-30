@@ -1,0 +1,60 @@
+{
+  "caseTitle": "PROVING FAMILIAR FOREIGN LAW [1987-88] VOL. XVI RGL 249—252",
+  "summary": "This legal commentary examines the challenges of proving foreign law in Ghanaian courts, particularly when the foreign law is from common law or African customary law jurisdictions familiar to Ghana. It critiques the traditional English rule that foreign law must be pleaded and proven as a fact through expert testimony, arguing that this approach is inefficient and impractical when dealing with legal systems closely related to Ghana's. The author proposes that Ghanaian courts should apply the doctrine of judicial notice to recognize foreign rules from common law and neighboring African customary law systems, provided they are well-known or easily verifiable. The Commentary on the Evidence Decree, 1975 is cited in support, noting that foreign law may be judicially noticed if it can be accurately determined from reliable sources. The article also suggests procedural safeguards, such as requiring parties to provide notice of foreign law they intend to rely on, to ensure fairness. The case of Jadbranska Slobodna Plovidba, Split v Oysa Ltd is referenced, where the High Court applied English law without expert testimony, illustrating a practical departure from strict proof requirements.",
+  "legalKeywords": [
+    "foreign law",
+    "judicial notice",
+    "private international law",
+    "common law",
+    "customary law",
+    "expert testimony",
+    "proof of law",
+    "Ghanaian legal system",
+    "statutory interpretation",
+    "Evidence Decree 1975",
+    "Companies Code 1963",
+    "customary law of Africa",
+    "legal harmonization",
+    "judicial notice of foreign law",
+    "familiar foreign law"
+  ],
+  "topics": [
+    "Private International Law",
+    "Judicial Notice",
+    "Proof of Foreign Law",
+    "Customary Law",
+    "Common Law"
+  ],
+  "verdict": "The author concludes that Ghanaian courts should judicially notice foreign laws from familiar common law and African customary jurisdictions when such laws are readily ascertainable, rather than requiring formal proof through expert testimony.",
+  "winningSide": "Proposed judicial reform / academic position",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court / High Court (referenced in discussion)",
+    "country": "Ghana"
+  },
+  "caseType": "legal commentary",
+  "citations": [
+    "[1979] GLR 129",
+    "[1971] 2 GLR 267",
+    "[1967] 1 AC 853",
+    "Dicey and Morris, The Conflict of Laws (10th ed)",
+    "Evidence Decree, 1975 (NRCD 323), s 9",
+    "The Courts Act, 1971 (Act 372), s 50",
+    "Carl Zeiss Stiftung v Rayner & Keeler Ltd (No 2) [1967] 1 AC 853",
+    "Re Cohn [1945] Ch 5"
+  ],
+  "rationaleHighlights": [
+    "Foreign law typically must be proved as fact under English private international law, but this creates inefficiencies when the foreign law is from a familiar jurisdiction like another common law country.",
+    "Ghanaian courts may judicially notice foreign common law or customary law from neighboring African jurisdictions if it is well-known or readily ascertainable.",
+    "Requiring expert testimony for familiar legal systems is inefficient and unnecessary where principles and rules are shared across jurisdictions.",
+    "The Evidence Decree, 1975 supports judicial notice of foreign law when it can be accurately and readily determined from unquestionable sources."
+  ],
+  "confidenceNotes": "The document is a scholarly legal commentary rather than a judicial decision, so some fields are interpreted contextually. Citations are drawn from footnotes and case references within the text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/87 - 88/PROVING FAMILIAR FOREIGN LAW [1987-88] VOL. XVI RGL 249—252.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:21:55.447Z",
+    "plainTextLength": 9844
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "caseTitle": "AKAKPO & ANOR. v. BEN JOHNSON & ANOR. 11",
+  "summary": "In Dasi Akakpo & Anor. v. Ben Johnson & Anor. (C.A. 80/98), the Court of Appeal of Ghana allowed the appellants' appeal against a trial court judgment that had granted various reliefs to the respondents, including declarations, damages, and injunctions. The Court held that the trial judge erred in applying the Rent Act, 1963 (Act 220), which does not apply to vacant land, as confirmed by the respondents' own pleadings that only bare land was granted. The respondents were found to be licensees, not statutory tenants, and were given three months' reasonable notice to quit, making their ejectment lawful. The joinder of the plaintiff's husband as co-plaintiff was invalid under L.I. 1129, Order 15, r.5(3), as it lacked written consent. The Court found contradictions in the respondents' testimony regarding the demolition of structures, supporting the appellants' claim that the removal was voluntary. Consequently, all reliefs granted to the respondents—declarations, damages, and injunction—were set aside as legally unsustainable.",
+  "legalKeywords": [
+    "licensee",
+    "ejectment",
+    "notice to quit",
+    "joinder of parties",
+    "Rent Act 220",
+    "statutory tenant",
+    "lawful possession",
+    "damages",
+    "declaration",
+    "injunction",
+    "bare land",
+    "lease",
+    "trespass",
+    "reasonable notice",
+    "trial error"
+  ],
+  "topics": [
+    "Property Law",
+    "Land Tenure",
+    "Civil Procedure",
+    "Appellate Review",
+    "Ejectment"
+  ],
+  "verdict": "Appeal allowed; trial court judgment set aside.",
+  "winningSide": "Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Brobbey, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Twumasi, J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Aryeetey, J.A.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Dasi Akakpo & Anor. v. Ben Johnson & Anor. [1999] CA 80/98",
+    "Dam v. Addo (1962) 2 GLR 200",
+    "Bisi v. Tabiri 1984–86 2 GLR 283",
+    "Rent Act, 1963 (Act 220), s 1(2)(b)",
+    "L.I. 1129, Order 15, r.5(3)"
+  ],
+  "rationaleHighlights": [
+    "The Rent Act (Act 220) does not apply to vacant land; thus, the trial court erred in applying it.",
+    "The appellants lawfully ejected the respondents as they were licensees, not statutory tenants.",
+    "Joinder of the husband (PW1) as co-plaintiff was improper without written consent under L.I. 1129, Order 15, r.5(3).",
+    "The trial judge based the decision on a legal framework not pleaded or supported by evidence.",
+    "Material contradictions in the respondents' testimony undermined their credibility.",
+    "Licensees may be lawfully removed upon reasonable notice without court order.",
+    "No valid claim for damages exists for lawful ejectment of licensees.",
+    "The reliefs sought were inconsistent with the respondents' actual legal status."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment with clear textual support.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/DASI AKAKPO & ANOR. v. BEN JOHNSON & ANOR..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:37:52.079Z",
+    "plainTextLength": 15998
+  },
+  "trialDate": "11TH NOVEMBER, 1999"
+}

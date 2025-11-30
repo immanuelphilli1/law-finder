@@ -1,0 +1,76 @@
+{
+  "caseTitle": "CHIEF KWEKU DADZIE,",
+  "summary": "This 1940 West Africa Court of Appeal decision in Accra involved Chief Kwaku Dadzie, representing the Anona Stool and Family of Breman, who sought a declaration of title to Eborhu land, an account of rents, and an injunction against defendants Atta Kojo and Kojo Appeanya. The Native Tribunal initially ruled in favor of the plaintiff, but the Provincial Commissioner reversed the decision, primarily due to the defendant's Certificate of Purchase from a Fi. Fa. sale and the plaintiff's 12-year delay. The appellate court reinstated the Native Tribunal's judgment, holding that ownership rights under native law are not extinguished by lapse of time and that sufficient evidence supported the finding that the defendant only acquired a tenant's interest. The claim for an account of rents was withdrawn on appeal.",
+  "legalKeywords": [
+    "declaration of title",
+    "native law and custom",
+    "lapse of time",
+    "Fi. Fa. sale",
+    "Certificate of Purchase",
+    "rights of ownership",
+    "tenant's interest",
+    "evidence",
+    "injunction",
+    "rents",
+    "Native Tribunal",
+    "Provincial Commissioner",
+    "appeal",
+    "costs",
+    "Eguafo State",
+    "Anona Stool",
+    "customary land tenure",
+    "delay in action",
+    "jurisdiction",
+    "restoration of judgment"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Appellate Procedure",
+    "Native Tribunals",
+    "Property Rights"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Plaintiff-Respondent-Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "WACA/6 WACA/CHIEF KWEKU DADZIE"
+  ],
+  "rationaleHighlights": [
+    "Rights of ownership under native law are not extinguished by lapse of time.",
+    "A Certificate of Purchase from a Fi. Fa. sale does not confer absolute title if the seller had only a tenant's interest.",
+    "Findings of fact by Native Tribunals are binding if supported by evidence.",
+    "Delay in asserting rights does not bar a claim for declaration of title under customary law.",
+    "The Provincial Commissioner erred in reversing a well-supported Native Tribunal decision.",
+    "Claim for account of rents was not pursued on appeal.",
+    "Appellate court restored the Native Tribunal's judgment with modification.",
+    "Costs were awarded in favor of the appellant in the appellate court."
+  ],
+  "confidenceNotes": "The document is a clear judicial decision from a recognized appellate court with named judges and a structured legal analysis. All key elements such as parties, issues, reasoning, and outcome are present, supporting high-confidence extraction.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/CHIEF KWEKU DADZIE,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:09:16.507Z",
+    "plainTextLength": 4477
+  },
+  "trialDate": "1940-05-28"
+}

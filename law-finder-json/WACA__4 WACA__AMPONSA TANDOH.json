@@ -1,0 +1,67 @@
+{
+  "caseTitle": "AMPONSA TANDOH",
+  "summary": "This 1938 West Africa Court of Appeal decision arose from a land dispute in New Juaben, Ghana, where Amponsa Tandoh (plaintiff) claimed possession, an account of cocoa farm proceeds, and an injunction against Kwadjo Sarfo (defendant), alleging his brother sold the land without consent. The Native Tribunal found Tandoh had acquiesced to the sale by accepting £2 8s. as 'thanksgiving' in 1921, thus losing his right to sue under native customary law. The Provincial Commissioner reversed this, but the Appeal Court held that the Native Tribunal's findings—based on customary practices like oath proofing and acquiescence—should not be disturbed absent clear error, citing Abaka Nthah v. Anguah Bennieh. The appeal was allowed, the lower court's judgment set aside, and the Native Tribunal's decision restored.",
+  "legalKeywords": [
+    "land possession",
+    "native customary law",
+    "acquiescence",
+    "oath proofing",
+    "thanksgiving payment",
+    "native tribunal",
+    "appellate review",
+    "jurisdiction",
+    "title to land",
+    "exhibit C",
+    "long occupation",
+    "consent to sale",
+    "caretaker arrangement",
+    "Abaka Nthah v. Anguah Bennieh",
+    "West Africa Court of Appeal"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Appellate Jurisdiction",
+    "Acquiescence",
+    "Native Tribunals"
+  ],
+  "verdict": "Appeal allowed; judgment of the Provincial Commissioner's Court set aside; Native Tribunal's judgment restored.",
+  "winningSide": "Defendant-Respondent-Appellant (Kwadjo Sarfo)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webb",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "2 W.A.C.A. p. 1"
+  ],
+  "rationaleHighlights": [
+    "Findings of fact by native tribunals should not be disturbed without clear proof of error.",
+    "Plaintiff's acceptance of £2 8s. constituted acquiescence to the sale under native customary law.",
+    "The Provincial Commissioner's contradictory reasoning undermined the reversal of the Native Tribunal's decision.",
+    "Original ownership does not override subsequent valid customary transactions."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details (parties, judges, holding, jurisdiction) are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/AMPONSA TANDOH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:07:30.033Z",
+    "plainTextLength": 7689
+  },
+  "trialDate": "1938-11-30"
+}

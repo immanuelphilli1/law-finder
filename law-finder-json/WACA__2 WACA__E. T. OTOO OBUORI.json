@@ -1,0 +1,67 @@
+{
+  "caseTitle": "E. T. OTOO OBUORI",
+  "summary": "This 1934 West Africa Court of Appeal decision addressed whether a judgment creditor could execute against the real property of a deceased debtor through an action against the administratrix of the estate. The plaintiff obtained a judgment against the defendant, Yar Borley, as administratrix of Bismarck Abbey-Quartey’s estate, for a debt owed by the deceased. Execution was attempted on the deceased’s real property, prompting an interpleader claim by A. B. Nartey. The court held that since the Letters of Administration granted only authority over the personal estate, the administratrix had no legal interest in the real property, and thus execution against such property was invalid. The court affirmed the lower court’s decision in favor of the claimant.",
+  "legalKeywords": [
+    "Letters of Administration",
+    "execution of judgment",
+    "real property",
+    "personal estate",
+    "judgment creditor",
+    "administratrix",
+    "interpleader",
+    "probate law",
+    "Supreme Court Ordinance",
+    "vested interest",
+    "debt recovery",
+    "representative capacity",
+    "property attachment",
+    "Ghana legal history",
+    "West Africa Court of Appeal"
+  ],
+  "topics": [
+    "Probate Law",
+    "Civil Procedure",
+    "Debt Enforcement"
+  ],
+  "verdict": "The court ruled that execution against real property could not proceed because the administratrix only held authority over the personal estate; the appeal was dismissed.",
+  "winningSide": "Claimant-Respondent (A. B. Nartey)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Yates, Acting C.J.",
+      "role": "Judging Panel"
+    },
+    {
+      "name": "Graham Paul, J.",
+      "role": "Judging Panel"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Supreme Court Ordinance, Section 16",
+    "Supreme Court Ordinance, Schedule II, Order 44, Rule 8"
+  ],
+  "rationaleHighlights": [
+    "Administratrix's authority was limited to personal estate under the Letters of Administration granted.",
+    "A judgment creditor cannot attach property in which the judgment debtor has no vested interest.",
+    "No statutory form existed for granting administration over real estate in the colony.",
+    "English probate law applied by virtue of Section 16, but local practice limited grants to personal property.",
+    "Execution must be confined to property the representative can legally possess and administer."
+  ],
+  "confidenceNotes": "High confidence based on clear judicial reasoning and direct citation of statutory provisions. Case reflects colonial-era probate law in Ghana, with reference to English law as applied locally.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/E. T. OTOO OBUORI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:31:15.145Z",
+    "plainTextLength": 5497
+  },
+  "trialDate": "1934-11-20"
+}

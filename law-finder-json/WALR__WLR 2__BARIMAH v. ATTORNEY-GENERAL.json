@@ -1,0 +1,64 @@
+{
+  "caseTitle": "BARIMAH VERSUS ATTORNEY-GENERAL",
+  "summary": "In Barimah v. Attorney-General, the plaintiff sought damages for negligence by government servants through a petition of right, having obtained the required ministerial consent. The defendant raised a preliminary objection, arguing that the Petitions of Right Ordinance, s. 4, only permitted claims that could have been brought against the Crown in England in 1877. The court held that the Ordinance incorporated English law as it existed at the time of its enactment and did not adopt subsequent reforms, such as the Crown Proceedings Act 1947, which allowed tort claims against the Crown. Since tort claims were not actionable by petition of right in England in 1877, the plaintiff had no valid cause of action. The court dismissed the claim, ruling that the statutory framework did not permit tort actions against the government under the Ordinance.",
+  "legalKeywords": [
+    "petition of right",
+    "tort claim",
+    "government liability",
+    "negligence",
+    "sovereign immunity",
+    "statutory interpretation",
+    "Crown immunity",
+    "Ministerial consent",
+    "colonial ordinance",
+    "legal history",
+    "tort against the state",
+    "procedural bar",
+    "retrospective application",
+    "judicial reasoning",
+    "common law development"
+  ],
+  "topics": [
+    "Tort Law",
+    "Administrative Law",
+    "Legal History",
+    "Sovereign Immunity",
+    "Statutory Interpretation"
+  ],
+  "verdict": "The action was dismissed on the grounds that the plaintiff had no right to bring a tort claim against the government under the Petitions of Right Ordinance as it stood in 1877.",
+  "winningSide": "Defendant (Attorney-General/Government of the Gold Coast)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Benson J",
+      "role": "presiding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Ashanti Judicial Division",
+    "country": "Ghana"
+  },
+  "caseType": "tort",
+  "citations": [
+    "Petitions of Right Ordinance, c. 18 of 1951, s. 4",
+    "Petitions of Right Act 1860 (UK)",
+    "Crown Proceedings Act 1947 (UK)"
+  ],
+  "rationaleHighlights": [
+    "Section 4 of the Petitions of Right Ordinance adopts English law as it stood in 1877, not as subsequently amended.",
+    "In 1877, petitions of right in England did not allow tort claims against the Crown.",
+    "The phrase 'may be preferred' refers to the state of law at the time of the Ordinance's enactment, not evolving law.",
+    "The Crown Proceedings Act 1947 changed English law but did not retroactively apply to the Ordinance.",
+    "Post-1947, claims against the Crown in England are by right, not by petition, making the mechanism under the Ordinance obsolete for modern tort claims.",
+    "The court found no legislative intent to incorporate future changes in English law.",
+    "Even if the 1947 Act applied, the procedural mechanism (petition) no longer exists in England.",
+    "The action was dismissed on a preliminary point—no cause of action in tort exists under the Ordinance."
+  ],
+  "confidenceNotes": "The interpretation of s. 4 is based on the court's determination of legislative intent at the time of enactment in 1877; the ruling hinges on statutory construction and historical application of English law.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/BARIMAH v. ATTORNEY-GENERAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:40:37.244Z",
+    "plainTextLength": 5279
+  }
+}

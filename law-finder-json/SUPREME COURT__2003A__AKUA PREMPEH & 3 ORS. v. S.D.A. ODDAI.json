@@ -1,0 +1,82 @@
+{
+  "caseTitle": "AKUA PREMPEH & 3 ORS. v. S.D.A. ODDAI",
+  "summary": "This Supreme Court of Ghana case involved a dispute over the validity of a purported will of Shadrack Kwaku Edusei, who died in 1966. The plaintiffs, members of his matrilineal family, sought to revoke probate granted in 1980 to executors under a will dated 1965, alleging it was a forgery procured by fraud. The trial High Court and Court of Appeal found the will invalid due to improper execution and fraud, a conclusion upheld by the Supreme Court. The Court emphasized that while the burden initially lies with the will's propounders to prove due execution and testamentary capacity, it shifts to the challengers if a prima facie case is made. Given the testator's likely illiteracy, the Court required proof the will was read over to him, which was lacking. The Supreme Court found no error in the concurrent factual findings of the lower courts and affirmed the decision, dismissing the appeal.",
+  "legalKeywords": [
+    "probate",
+    "will validity",
+    "fraud",
+    "forgery",
+    "due execution",
+    "testamentary capacity",
+    "undue influence",
+    "appellate review",
+    "concurrent findings",
+    "illiterate testator",
+    "reading over will",
+    "burden of proof",
+    "propounder of will",
+    "revocation of probate",
+    "matrilineal inheritance"
+  ],
+  "topics": [
+    "Wills and Probate",
+    "Fraud and Forgery",
+    "Appellate Procedure",
+    "Burden of Proof",
+    "Testamentary Capacity"
+  ],
+  "verdict": "The appeal was dismissed; the decision of the Court of Appeal affirming the invalidity of the will was upheld.",
+  "winningSide": "Plaintiffs/Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "A.K.B. Ampiah",
+      "role": "author"
+    },
+    {
+      "name": "E.K. Wiredu",
+      "role": "concurrence"
+    },
+    {
+      "name": "G.K. Acquah",
+      "role": "concurrence"
+    },
+    {
+      "name": "W.A. Atuguba",
+      "role": "concurrence"
+    },
+    {
+      "name": "S.A.B. Akuffo",
+      "role": "concurrence"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "probate dispute",
+  "citations": [
+    "Johnson v. Maja 13WACA 290",
+    "Eshun v. Paintsiwah (14 WACA 306)",
+    "Atadi v. Ladzekpo (1981) GLR 218",
+    "Nkansah v. Adjabeng and ano. (1961) GLR 465",
+    "Achoro and ano. v. Akenfela and ano. (1996-97) SCGLR 209"
+  ],
+  "rationaleHighlights": [
+    "The burden initially lies with the propounder of a will to establish due execution, capacity, and freedom; it shifts to the attacker if prima facie case is made.",
+    "Where a testator is illiterate or blind, the court must be satisfied the will was read over to them before execution.",
+    "Appellate courts should not overturn findings of fact unless unsupported by evidence.",
+    "Second appellate courts will not interfere with concurrent findings unless a clear blunder or miscarriage of justice is evident.",
+    "Suspicion surrounding execution and lack of proof of proper formalities undermined the will's validity.",
+    "Failure to prove timely delivery of addresses did not invalidate the High Court judgment within six weeks.",
+    "The purported will was found to be procured by fraud and thus null and void."
+  ],
+  "confidenceNotes": "High confidence; all key details such as parties, judgment, and legal reasoning are explicitly stated in the decision.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2003A/AKUA PREMPEH & 3 ORS. v. S.D.A. ODDAI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:37:29.658Z",
+    "plainTextLength": 7864
+  },
+  "trialDate": "14TH MAY, 2003"
+}

@@ -1,0 +1,66 @@
+{
+  "caseTitle": "OHENE OF ASSACHERE v OHENE OF DADJASE",
+  "summary": "This 1941 West African Court of Appeal case involved a land title dispute between the Ohene of Assachere and the Ohene of Dadjase over land in Ashanti, Ghana. The Asantehene's Native Court 'A' divided the land between the two stools, citing justice and equity, after finding that while the plaintiff had some merit, he failed to fully prove his claim. The Court of Chief Commissioner affirmed this decision. On appeal, the West African Court of Appeal dismissed the appeal. Although the court acknowledged that Exhibits 'I' and 'J' (Validated Executive Decisions) were binding under Chapter 120, Section 3(1), it held they did not apply because the appellant failed to establish their relevance to the disputed land. The appellant also failed to present these exhibits or related evidence in the Native Court. The appellate court found no error warranting re-trial, emphasizing finality in a dispute lasting twelve years. All three justices agreed the appeal should be dismissed, with some noting the Native Court’s judgment was inter partes and unconventional but acceptable given the circumstances.",
+  "legalKeywords": [
+    "land title",
+    "declaration of title",
+    "native court",
+    "validated executive decision",
+    "inter partes",
+    "onus of proof",
+    "boundary determination",
+    "equity and justice",
+    "failed to prove case",
+    "re-trial"
+  ],
+  "topics": [
+    "Land Law",
+    "Native Courts",
+    "Appellate Procedure",
+    "Equity",
+    "Customary Law"
+  ],
+  "verdict": "Appeal dismissed with costs assessed at £5 13s. 1d.",
+  "winningSide": "Ohene of Dadjase (Respondent)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    },
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Land Title Dispute",
+  "citations": [
+    "Exhibit 'I'",
+    "Exhibit 'J'",
+    "Chapter 120, Section 3(1)",
+    "Rule 31 of West African Court of Appeal Rules"
+  ],
+  "rationaleHighlights": [
+    "Native Court divided land between parties based on equity despite plaintiff failing to fully prove title.",
+    "Chief Commissioner and West African Court of Appeal upheld division as final settlement of long-standing dispute.",
+    "Validated Executive Decisions (Exhibits 'I' and 'J') were binding in rem but not applicable because appellant failed to prove they related to disputed land.",
+    "Appellant failed to present full case in Native Court; re-trial denied to avoid burdening court and prolonging 12-year litigation.",
+    "Judgment considered inter partes only, not in rem, but upheld due to lack of cross-appeal and public interest in finality."
+  ],
+  "confidenceNotes": "High confidence in factual extraction from primary judgment text; citations and legal reasoning are explicitly stated in the decision.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/OHENE OF ASSACHERE  v  OHENE OF DADJASE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:30:31.422Z",
+    "plainTextLength": 13728
+  },
+  "trialDate": "7TH JUNE, 1941"
+}

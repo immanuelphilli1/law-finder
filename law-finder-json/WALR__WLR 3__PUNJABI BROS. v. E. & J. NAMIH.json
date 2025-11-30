@@ -1,0 +1,69 @@
+{
+  "caseTitle": "PUNJABI BROS. VERSUS E. & J. NAMIH",
+  "summary": "In this 1958 Ghanaian civil case, Punjabi Bros. sought an interlocutory injunction to prevent E. & J. Namih from excluding them from commercial premises in Kumasi after a three-month rent-free period following a prior judgment for possession. The tenants had paid �3,500 under a written agreement that included withdrawal of their appeal and a promise of a future sub-lease if terms were mutually satisfactory. When no agreement was reached, the landlords repossessed the premises. The court, per Sarkodee-Adoo J, dismissed the injunction application, holding that the applicants failed to demonstrate a strong prima facie case or irreparable harm. The landlords were in both de jure and de facto possession, and the court emphasized that injunctions are seldom granted when legal title is disputed. The balance of convenience favored the respondents, and the evidentiary link between the payment and the agreement was unclear.",
+  "legalKeywords": [
+    "interlocutory injunction",
+    "prima facie case",
+    "status quo",
+    "irreparable injury",
+    "inadequacy of damages",
+    "de jure possession",
+    "de facto possession",
+    "tenancy agreement",
+    "specific performance",
+    "recovery of possession",
+    "civil procedure",
+    "equitable right",
+    "legal title",
+    "appeal withdrawal",
+    "sub-lease agreement"
+  ],
+  "topics": [
+    "Injunctions",
+    "Landlord and Tenant",
+    "Possession",
+    "Contractual Agreements",
+    "Civil Procedure"
+  ],
+  "verdict": "Application for interlocutory injunction dismissed.",
+  "winningSide": "E. & J. Namih (respondents/landlords)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sarkodee-Adoo J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Ashanti Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Harman v. Jones (1841) Cr. & Ph. 299",
+    "Black Point Syndicate, Ltd. v. Eastern Concessions, Ltd. (1898) 79 L. T. 658; 15 T.L.R. 117",
+    "Leney & Sons, Ltd. v. Callingham and Thompson [1908] 1 K.B. 79",
+    "Jones v. Pacaya Rubber & Produce Co., Ltd. [1911] 1 K.B. 455",
+    "Bramwell v. Halcomb, 40 E.R. 1110; (1836) 3 My. & Cr. 737",
+    "Lardan v. Attorney-General and Others (No. 1) (1957) 3 W.A.L.R. 55",
+    "18 Halsbury (2nd ed.), pp. 28, 29",
+    "Kerr on Injunctions (5th ed.), pp. 16, 17, p. 26"
+  ],
+  "rationaleHighlights": [
+    "The court does not determine final rights on interlocutory applications but preserves the status quo.",
+    "Applicant must show a strong prima facie case and probability that respondent's case will fail.",
+    "Injunctions are rarely granted when legal title is disputed and not yet established.",
+    "Hardship analysis favored respondents due to their de jure and de facto possession.",
+    "Payment of �3,500 lacked clear nexus to the agreement per evidentiary assessment.",
+    "Inadequacy of damages must be shown for injunctive relief.",
+    "Moral or sentimental considerations are irrelevant in interlocutory decisions.",
+    "The court followed established principles from Kerr on Injunctions and Halsbury."
+  ],
+  "confidenceNotes": "All information is derived directly from the provided judgment text. Jurisdiction and court details are explicitly stated. Legal principles are authoritatively cited from case law and legal texts.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/PUNJABI BROS. v. E. & J. NAMIH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:56:23.062Z",
+    "plainTextLength": 9920
+  }
+}

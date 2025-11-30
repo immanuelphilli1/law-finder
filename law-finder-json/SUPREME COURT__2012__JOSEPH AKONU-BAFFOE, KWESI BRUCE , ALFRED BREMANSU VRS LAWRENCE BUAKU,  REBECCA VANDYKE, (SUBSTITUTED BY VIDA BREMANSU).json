@@ -1,0 +1,82 @@
+{
+  "caseTitle": "JOSEPH AKONU-BAFFOE, KWESI BRUCE , ALFRED BREMANSU VRS LAWRENCE BUAKU, REBECCA VANDYKE, (SUBSTITUTED BY VIDA BREMANSU)",
+  "summary": "This 2012 Supreme Court of Ghana decision involved a dispute over the validity of two wills executed by Thomas Kobina Bremansu in 1992 and 1995. The appellants, named as executors in the 1995 will, sought to revoke the probate granted under the 1992 will, while the respondents, executors under the 1992 will, counterclaimed that the 1995 will was not the testator's deed. The trial court and Court of Appeal upheld the 1992 will, citing suspicious circumstances around the 1995 will, including the testator's use of a thumbprint despite being able to sign his name and the absence of a jurat. The Supreme Court affirmed these findings, emphasizing that the appellants failed to discharge the burden of proving the 1995 will's validity, particularly in solemn form, and that the evidence did not support claims of fraud or invalidity of the 1992 will.",
+  "legalKeywords": [
+    "probate",
+    "will validity",
+    "burden of proof",
+    "counterclaim",
+    "thumbprint signature",
+    "jurat",
+    "testamentary capacity",
+    "fraud allegation",
+    "literacy",
+    "revocation of will",
+    "concurrent findings",
+    "solemn form proof",
+    "Illiterates Protection Ordinance",
+    "appellate review",
+    "evidence evaluation"
+  ],
+  "topics": [
+    "Succession Law",
+    "Wills and Probate",
+    "Appellate Procedure",
+    "Burden of Proof in Civil Cases",
+    "Judicial Reasoning"
+  ],
+  "verdict": "The appeal was dismissed.",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ansa J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Adinyira (Mrs) J.S.C."
+    },
+    {
+      "name": "Dotse J.S.C."
+    },
+    {
+      "name": "Anin Yeboah J.S.C."
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs) J.S.C."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Obrasiwah II v. Otu (1996-97) SCGLR 618",
+    "Achoro v. Akanfela (1996-97) SCGLR 209",
+    "Koglex (No 2) v. Field (2000) SCGLR 175",
+    "Adu v. Ahamah (2007-2008) SCGLR 143",
+    "Fosua & Adu-Poku v. Dufie (Deceased) & Adu-Poku Mensah (2009) SCGLR 311",
+    "Amon v. Bobbett (1889) 22 QBD 543",
+    "Agbosu & Others v. Kotey & Others (2003-2005) 1 GLR 685",
+    "Zabrama v. Segbedzi (1991) 2 GLR 221",
+    "Kwamin v. Kufour (1914) 2 Ren. 808"
+  ],
+  "rationaleHighlights": [
+    "The appellants failed to prove the 1995 will in solemn form, which was critical given the suspicious circumstances.",
+    "The testator's use of a thumbprint on the 1995 will, despite being able to sign his name, raised suspicion.",
+    "Absence of a jurat on the 1995 will undermined its validity, especially if the testator needed explanation of its contents.",
+    "The trial court correctly found that ability to sign one's name does not equate to literacy.",
+    "The respondents' failure to prove fraud did not shift the burden from the appellants to prove their will.",
+    "Concurrent findings of fact by lower courts are not easily disturbed on appeal.",
+    "Evidence showed the testator was literate enough to sign documents but sometimes used thumbprints, indicating possible partial illiteracy.",
+    "The burden of proof remained on the appellants to establish the 1995 will's validity on balance of probabilities."
+  ],
+  "confidenceNotes": "The summary and analysis are based on a truncated document; however, the core legal issues, reasoning, and outcome are clearly presented in the available text. All key judicial holdings and procedural history are derived directly from the provided judgment.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/JOSEPH AKONU-BAFFOE, KWESI BRUCE , ALFRED BREMANSU VRS LAWRENCE BUAKU,  REBECCA VANDYKE, (SUBSTITUTED BY VIDA BREMANSU).htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:29:45.196Z",
+    "plainTextLength": 29417
+  }
+}

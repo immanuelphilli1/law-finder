@@ -1,0 +1,83 @@
+{
+  "caseTitle": "SKYWAY TRAVELS LTD. v. GHANA COMMERCIAL BANK",
+  "summary": "In Skyway Travels Ltd. v. Ghana Commercial Bank, the plaintiff appealed a High Court judgment dismissing its claim for over 124 million cedis allegedly fraudulently or negligently debited from its account between 1990 and 1993. The Court of Appeal upheld the dismissal, finding that the debits were lawful corrections of prior fraudulent credits made through collusion between the plaintiff's accountant, Ben Yaw Xedo Olympio, and bank employees who suppressed cheques drawn on his personal accounts (Wugo General Services and Wugo Farms). These cheques were credited to Skyway’s account without proper clearing, creating artificial balances. The plaintiff then drew on these inflated balances. The court found the bank’s reversal of these entries justified. Although the bank admitted an 18 million cedi error, the appellate court held this did not invalidate the overall legitimacy of the debits. The counterclaim for recovery of 2,137,185.86 cedis plus interest was upheld against Skyway, but not against its directors, as the guarantee they signed was limited to specific obligations. The appeal was dismissed as the trial judge’s findings were supported by evidence and the appellant’s grounds were procedurally defective.",
+  "legalKeywords": [
+    "fraudulent debit",
+    "negligent accounting",
+    "bank-customer relationship",
+    "unjust enrichment",
+    "counterclaim",
+    "guarantee",
+    "collusion",
+    "dishonored cheques",
+    "overdraft",
+    "reconciliation",
+    "breach of contract",
+    "evidence standard",
+    "trial misdirection",
+    "appellate review",
+    "employee misconduct",
+    "accounting fraud",
+    "credit entry",
+    "debit entry",
+    "bank statement",
+    "clearing system"
+  ],
+  "topics": [
+    "Banking Law",
+    "Civil Fraud",
+    "Appellate Procedure",
+    "Contractual Liability",
+    "Unjust Enrichment"
+  ],
+  "verdict": "Appeal dismissed; judgment in favor of Ghana Commercial Bank upheld.",
+  "winningSide": "Ghana Commercial Bank",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Aninakwah J. A.",
+      "role": "Presiding Judge (delivering judgment)"
+    },
+    {
+      "name": "Omari-Sasu",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Ansa H. J. A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Aninakwah J. A.",
+      "role": "Justice"
+    },
+    {
+      "name": "A. A. Benin J.A.",
+      "role": "Trial Judge (Additional High Court Judge)"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "SKYWAY TRAVELS LTD. v. GHANA COMMERCIAL BANK [3/4/03] CA 19/2002",
+    "Court of Appeal, Accra, CA No. 19/2002",
+    "High Court Judgment dated 31st May 2000"
+  ],
+  "rationaleHighlights": [
+    "The trial court dismissed the plaintiff's claim after finding that the disputed debits were corrections of prior fraudulent credits facilitated by collusion between the plaintiff's accountant and bank staff.",
+    "The Court of Appeal upheld the decision, ruling that the plaintiff failed to prove fraud or negligence by the bank and that the debits were lawful corrections.",
+    "The guarantee executed by the directors was limited in scope and could not be used to enforce liability beyond its terms.",
+    "The appellate court rejected the appellant's grounds of appeal for being vague and non-compliant with procedural rules.",
+    "The bank had admitted a partial error (�18 million), but the court found this did not override the broader finding of fraud by the plaintiff."
+  ],
+  "confidenceNotes": "The summary is based on a truncated document; however, key facts, parties, judgment, and reasoning are sufficiently present to support accurate extraction. Missing portions do not appear to alter the core outcome or legal rationale.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/SKYWAY TRAVELS LTD. v.  GHANA COMMERCIAL BANK.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:03:39.054Z",
+    "plainTextLength": 35885
+  },
+  "trialDate": "3RD APRIL, 2003"
+}

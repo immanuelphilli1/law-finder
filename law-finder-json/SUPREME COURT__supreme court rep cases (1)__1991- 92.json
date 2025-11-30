@@ -1,0 +1,97 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The document is a table of contents from the Review of Ghana Law 1991–92, listing scholarly articles on various aspects of Ghanaian law. Topics include complicity under the Criminal Code, customary law and offences, judicial precedent, constitutional interpretation by the Supreme Court, and the impact of socio-economic changes on legal development. The contributors are legal scholars and judicial figures who analyze doctrinal, constitutional, and customary legal issues within Ghana’s evolving legal system.",
+  "legalKeywords": [
+    "complicity",
+    "criminal code",
+    "customary offences",
+    "customary law",
+    "judicial precedent",
+    "constitutional interpretation",
+    "judicial power",
+    "socio-economic change",
+    "exclusive economic zone",
+    "national obligations",
+    "legal system evolution"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Customary Law",
+    "Constitutional Law",
+    "Judicial Precedent",
+    "Legal System Development"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Mensa-Bonsu, H.J.A.N.",
+      "role": "Author"
+    },
+    {
+      "name": "SARPONG G A",
+      "role": "Author"
+    },
+    {
+      "name": "Acquah G. K",
+      "role": "Author"
+    },
+    {
+      "name": "EKOW DANIELS W C",
+      "role": "Author"
+    },
+    {
+      "name": "Taylor J. N. K.",
+      "role": "Author"
+    },
+    {
+      "name": "BIMPONG-BUTA, S.Y",
+      "role": "Author"
+    },
+    {
+      "name": "YEBOA K Y",
+      "role": "Author"
+    },
+    {
+      "name": "Hon. Martin A B K Amidu",
+      "role": "Author"
+    },
+    {
+      "name": "Agbosu L. K.",
+      "role": "Author"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "academic article",
+  "citations": [
+    "[1991-92] VOL. XVIII RGL 193—219",
+    "[1991-92] VOL. 18 RGL 220—243",
+    "[1991-92] VOL. XVIII RGL 36—67",
+    "[1991-92] VOL. XVIII RGL 68—94",
+    "[1991-92] VOL. XVIII RGL 159—192",
+    "VOL. XVII RGL 95—119",
+    "[1991–92] VOL. XVIII RGL 1—35",
+    "[1991-92] VOL. XVIII RGL 120—158",
+    "[1991-92] VOL. XVIII RGL 244—268"
+  ],
+  "rationaleHighlights": [
+    "Analysis of complicity under Ghana's Criminal Code",
+    "Examination of Ghana's obligations under international economic zones",
+    "Role of customary law and offences in the judicial system",
+    "Development and application of judicial precedent in Ghana",
+    "Interpretation of the 1992 Constitution by the Supreme Court",
+    "Judicial enforcement of constitutional provisions",
+    "Impact of socio-economic changes on Ghanaian law"
+  ],
+  "confidenceNotes": "The provided text is a table of contents for a legal review publication, not a court decision. Therefore, details such as verdict and winning side are not applicable.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/1991- 92.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:50:36.367Z",
+    "plainTextLength": 1474
+  }
+}

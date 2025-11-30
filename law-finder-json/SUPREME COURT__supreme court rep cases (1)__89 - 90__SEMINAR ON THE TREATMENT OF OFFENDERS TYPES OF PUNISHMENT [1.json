@@ -1,0 +1,64 @@
+{
+  "caseTitle": "SEMINAR ON THE TREATMENT OF OFFENDERS TYPES OF PUNISHMENT [1",
+  "summary": "This academic paper by Senah K A examines the historical evolution of punishment across societies, from early tribal systems to modern institutions. It highlights how punishment has been shaped by societal beliefs about crime, collective responsibility, and supernatural forces. In early societies, public crimes like taboo violations and witchcraft were punished severely, often by execution or ostracism, to protect the group from spiritual harm. Private crimes triggered blood feuds based on lex talionis. Early modern societies retained brutal methods such as flogging, mutilation, branding, and public humiliation. Over time, imprisonment became the dominant institutionalised punishment, though many penal practices remain inhumane. The paper critiques ongoing harsh conditions in prisons, including in Ghana, and advocates for a shift toward reformative and rehabilitative justice in line with modern humanistic penology.",
+  "legalKeywords": [
+    "punishment",
+    "crime",
+    "rehabilitation",
+    "corporal punishment",
+    "capital punishment",
+    "lex talionis",
+    "penology",
+    "imprisonment",
+    "taboo",
+    "witchcraft",
+    "public crime",
+    "private crime",
+    "mutilation",
+    "branding",
+    "stocks",
+    "pillory",
+    "flogging",
+    "banishment",
+    "retribution",
+    "reform"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Penology",
+    "Legal History",
+    "Human Rights",
+    "Comparative Law"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Not applicable",
+    "country": "Ghana"
+  },
+  "caseType": "Academic Legal Paper",
+  "citations": [
+    "Deut. Chap. 25:2-3",
+    "Proverbs 23:13-14",
+    "Leges Henrici Primi",
+    "Gresham Sykes, The Pains of Imprisonment"
+  ],
+  "rationaleHighlights": [
+    "Punishment historically based on collective harm and spiritual consequences",
+    "Public crimes targeted group survival; private crimes triggered clan-based retaliation",
+    "Lex talionis enforced literal retribution, even against animals",
+    "Modern imprisonment often fails to prioritize rehabilitation",
+    "Branding, flogging, mutilation reflect punitive rather than reformative justice",
+    "Fear of supernatural retribution justified extreme punishments",
+    "Contemporary penology should emphasize reform over retribution"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy as content is derived directly from a scholarly legal paper. No judicial decision is involved; thus, verdict, winning side, and judges are not applicable.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/89 - 90/SEMINAR ON THE TREATMENT OF OFFENDERS TYPES OF PUNISHMENT [1.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:15:40.250Z",
+    "plainTextLength": 13948
+  }
+}

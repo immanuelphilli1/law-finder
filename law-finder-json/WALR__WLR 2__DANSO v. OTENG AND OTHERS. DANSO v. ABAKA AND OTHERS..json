@@ -1,0 +1,74 @@
+{
+  "caseTitle": "DANSO VERSUS OTENG AND OTHERS. DANSO",
+  "summary": "The case involves two consolidated suits arising from the arrest and prosecution of Twum Danso, a traditional council member and cocoa buyer, by local authority officials in Kukurantumi, Gold Coast. The defendants in the first suit were council officials and police officers who caused Danso's arrest without warrant over a dispute concerning payments for cocoa purchased from stool lands. The Ministry of Local Government had clarified that such proceeds were not 'revenues' under section 74 of the Local Government Ordinance, c. 64 of 1951, but the local council disagreed and demanded payment. After Danso refused, the chairman filed a police complaint alleging misappropriation, leading to his detention on August 25–26, 1953, until he paid the disputed sum. A second arrest followed upon service of the writ, resulting in a charge of attempted theft, conviction in a Native Court, and subsequent quashing on appeal. The plaintiff sued for false imprisonment and malicious prosecution. The West African Court of Appeal held that while the council members could not be directly liable for false imprisonment due to lack of direct influence over police action, the police officers acted unlawfully and without bona fides, using arrest to recover a civil debt. In the second suit, the court ruled that a conviction later quashed does not bar a malicious prosecution claim but increases the plaintiff's burden to prove malice and absence of probable cause, which was satisfied on the facts. The appeal was allowed in part, with liability established against the police officers.",
+  "legalKeywords": [
+    "false imprisonment",
+    "malicious prosecution",
+    "arrest without warrant",
+    "reasonable and probable cause",
+    "bona fide duty",
+    "Local Government Ordinance",
+    "malice",
+    "prosecution after quashed conviction",
+    "police misconduct",
+    "civil debt recovery",
+    "immunity under statute",
+    "section 136",
+    "Native Court conviction",
+    "judicial review",
+    "abuse of process"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Criminal Procedure",
+    "Tort Law",
+    "Public Authority Liability",
+    "Legal Interpretation"
+  ],
+  "verdict": "Appeal allowed in part; liability established against police officers for false imprisonment and malicious prosecution",
+  "winningSide": "Plaintiff (in part)",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Benson",
+      "role": "Justice"
+    },
+    {
+      "name": "van Lare",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Reynolds v. Kennedy (1748) 1 Wils.K.B. 232",
+    "Remirnan v. Smith [1938] A.C. 305",
+    "Lister v. Perryman the Younger (1870) L.R. 4 H.L. 521",
+    "Huntley v. Simson (1857) 2 H. & N. 600",
+    "Hicks v. Faulkner (1878) 8 Q.B.D. 167"
+  ],
+  "rationaleHighlights": [
+    "Arrest without warrant to recover a civil debt constitutes false imprisonment",
+    "Police action not in good faith when used to settle civil disputes",
+    "Council members not liable for false imprisonment absent direct control over police",
+    "Malicious prosecution claim survives quashed conviction",
+    "Quashing of conviction shifts burden but does not extinguish claim for malicious prosecution",
+    "Section 136 immunity requires bona fide actions in official duty",
+    "Dispute over stool land revenues is civil, not criminal, in nature",
+    "Use of criminal process to extract payment is abuse of power"
+  ],
+  "confidenceNotes": "High confidence based on detailed factual narrative, clear judicial reasoning, and citation of authoritative precedents. Truncation at end does not affect core holdings.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/DANSO v. OTENG AND OTHERS. DANSO v. ABAKA AND OTHERS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:35:50.993Z",
+    "plainTextLength": 22654
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "caseTitle": "SAMUEL ANINKORAH v. BEATRICE YAA ANINKORAH",
+  "summary": "This is an appeal from a High Court decision dissolving the marriage between Samuel Aninkorah and Beatrice Yaa Aninkorah, and determining ancillary reliefs. The parties married customarily in 1969 and converted to a monogamous marriage in 1982. The husband, a Ghana Army staff working with the UN in Israel, was found to have validly married another woman in 1996, which the High Court later declared null. The wife sought divorce on grounds of adultery, desertion, and cruelty, and claimed settlement of the matrimonial home in Kwashieman and a lump sum. The High Court granted the divorce, dismissed the cross-petition, but ordered the husband to convey a house in Tema to the wife and pay her GHS 40 million. On appeal, the Court of Appeal upheld the decision, holding that the wife failed to prove her contribution to the acquisition of the Kwashieman property, and that the trial judge properly exercised judicial discretion under Section 20(1) of the Matrimonial Causes Act, 1971 (Act 367). The appellate court found no error in the trial judge’s evaluation of evidence or application of law.",
+  "legalKeywords": [
+    "customary marriage",
+    "monogamous marriage",
+    "divorce",
+    "ancillary relief",
+    "property settlement",
+    "spousal contribution",
+    "matrimonial home",
+    "judicial discretion",
+    "burden of proof",
+    "maintenance arrears",
+    "adultery",
+    "desertion",
+    "unreasonable behaviour",
+    "Section 20 Matrimonial Causes Act 1971",
+    "evidence evaluation"
+  ],
+  "topics": [
+    "Family Law",
+    "Property Rights",
+    "Divorce",
+    "Judicial Discretion",
+    "Burden of Proof"
+  ],
+  "verdict": "The appeal was dismissed. The Court of Appeal upheld the High Court's judgment, affirming the dissolution of marriage and the order for the husband to convey a Tema property to the wife and pay GHS 40 million as financial settlement.",
+  "winningSide": "Petitioner/Respondent (Samuel Aninkorah)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Owusu-Ansah, JA",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Essifien-Bondzie, JA",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Farkye, JA",
+      "role": "panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "family law",
+  "citations": [
+    "SAMUEL ANINKORAH v. BEATRICE YAA ANINKORAH [25TH JULY, 2002] CA/NO. 64/2001",
+    "Fofie v. Zanyo 1992 2 GLR 475",
+    "Dankwa v. Dentah 1972 2GLR 305",
+    "Re Yendi Skin Affairs Yakubu II vs. Abudulai No. 2 1984-82 2GLR SC",
+    "Log and Lumber Ltd. v. Oppon 1977 2 GLR 263",
+    "Praka v Ketewa 1964 GLR 423",
+    "Kyiafi v. Wono 1967 GLR 463",
+    "Adom v. Kwarley (1962) 1 GLR 112",
+    "Mensah v. Mensah (1993-94) 1GLR 111",
+    "Rebeiro v. Ribeiro (1989-90) 2 GLR 109"
+  ],
+  "rationaleHighlights": [
+    "The appellant failed to discharge the burden of proof regarding her alleged $500 monthly allowance and contribution to property acquisition.",
+    "The trial judge properly evaluated evidence and applied legal principles, including the discretion under Section 20(1) of the Matrimonial Causes Act.",
+    "Mere residence in a matrimonial home does not confer property interest absent agreement or substantial contribution.",
+    "The appellate court upheld the trial court’s finding that the wife’s claims were unsupported by evidence.",
+    "Judicial discretion in property settlement must be exercised fairly, considering all circumstances of the marriage."
+  ],
+  "confidenceNotes": "The case details are drawn directly from a published Court of Appeal judgment in Ghana. All legal principles and citations are explicitly stated in the judgment, ensuring high factual accuracy. The summary reflects the appellate court's reasoning and final determination.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/SAMUEL ANINKORAH v. BEATRICE YAA ANINKORAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:05:15.859Z",
+    "plainTextLength": 19503
+  },
+  "trialDate": "25TH JULY, 2002"
+}

@@ -1,0 +1,73 @@
+{
+  "caseTitle": "KPAKPA DOGAH, ADABLA AND OTHERS",
+  "summary": "This 1931 West African Court of Appeal decision in Accra addressed an appeal from a ruling that discharged a rule nisi for a writ of Habeas Corpus. The appellant, Kpakpa Dogah, had been detained for three months by the Awuna Native Tribunal over unpaid legal costs following a land dispute. Although he initially obtained conditional leave to appeal, procedural irregularities arose, including failure to notify key parties. Crucially, the appeal was dismissed because the appellant was no longer detained, rendering the Habeas Corpus proceedings moot. The court emphasized that such appeals cannot proceed when the detainee is at large, as the writ's sole purpose is to secure release from unlawful detention. The court also noted the appeal appeared to be an indirect challenge to the Native Tribunal’s decision rather than a genuine liberty claim.",
+  "legalKeywords": [
+    "Habeas Corpus",
+    "appeal",
+    "jurisdiction",
+    "procedural irregularity",
+    "mootness",
+    "unlawful detention",
+    "Native Tribunal",
+    "conditional leave to appeal",
+    "rule nisi",
+    "execution of writ",
+    "costs enforcement",
+    "procedural compliance",
+    "appellate jurisdiction",
+    "liberty of the subject",
+    "conditional appeal"
+  ],
+  "topics": [
+    "Habeas Corpus",
+    "Appellate Procedure",
+    "Native Tribunals",
+    "Procedural Law",
+    "Detention Law"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "TEW, C.J. Sierra Leone",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Michelin, J.",
+      "role": "Judge"
+    },
+    {
+      "name": "Sawrey-Cookson, J.",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Fraser v. Tupper",
+    "Kojo Pon v. Atta Fua (P.C. 1874-1928)",
+    "Eshugbayi Eleko v. Officer Administering the Government of Nigeria and another, (1928) A.C. 459"
+  ],
+  "rationaleHighlights": [
+    "An appeal in Habeas Corpus proceedings is moot if the detainee is already at liberty.",
+    "The writ of Habeas Corpus is not a procedural tool to indirectly challenge tribunal decisions.",
+    "Failure to notify directly affected parties does not automatically invalidate an appeal if justice so requires.",
+    "The sole purpose of Habeas Corpus is to secure release from unlawful detention, not to review underlying judgments.",
+    "Appellant’s failure to comply with appeal conditions led to dismissal of prior appeal to Provincial Commissioner.",
+    "Using Habeas Corpus as a substitute for proper appellate channels undermines judicial procedure.",
+    "The Awuna Native Tribunal had jurisdiction to issue the writ of ca. sa. for enforcement of costs.",
+    "The court refused to entertain academic or hypothetical disputes once actual detention ended."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and explicit procedural details in the source document. All extracted data directly reflects the court's language and structure.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/KPAKPA DOGAH, ADABLA AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:44:57.706Z",
+    "plainTextLength": 7086
+  },
+  "trialDate": "1931-11-16"
+}

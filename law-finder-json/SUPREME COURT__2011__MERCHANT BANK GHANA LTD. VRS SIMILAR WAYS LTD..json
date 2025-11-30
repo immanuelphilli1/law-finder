@@ -1,0 +1,82 @@
+{
+  "caseTitle": "MERCHANT BANK GHANA LTD. VRS SIMILAR WAYS LTD.",
+  "summary": "In Merchant Bank Ghana Ltd. v. Similar Ways Ltd., the Supreme Court of Ghana considered an application for an interim injunction to restrain enforcement of a High Court judgment delivered on 8th January 2009, which the appellant claimed was irregular due to lack of service of the hearing notice. The appellant had previously sought to set aside the judgment and obtain a stay of execution at the High Court and Court of Appeal, all of which were dismissed. The Court of Appeal held that the appeal was not properly premised as it did not challenge the substantive judgment. The Supreme Court emphasized that courts possess inherent and residual powers under Article 126(2) of the 1992 Constitution and rules such as CI 16 r.5 and CI 19 r.7 to grant interlocutory relief, including injunctions, even where not explicitly provided. Relying on In Re Yendi Skin Affairs, the Court affirmed that interim remedies may be granted to protect a party's interest pending appeal, particularly where a court default could cause irreparable harm. The Court recognized the power to suspend the entry of judgment to prevent execution when justice so requires, preserving the appellant’s right to effective appeal.",
+  "legalKeywords": [
+    "stay of execution",
+    "interlocutory injunction",
+    "inherent jurisdiction",
+    "judicial review",
+    "procedural fairness",
+    "constitutional powers",
+    "appeal jurisdiction",
+    "court default",
+    "residual powers",
+    "service of process",
+    "judgment enforcement"
+  ],
+  "topics": [
+    "Ghanaian Constitutional Law",
+    "Civil Procedure",
+    "Appellate Jurisdiction",
+    "Injunctions and Interlocutory Relief",
+    "Judicial Remedies"
+  ],
+  "verdict": "Application granted in principle; interim injunction issued pending appeal",
+  "winningSide": "Plaintiff/Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ansa, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Owusu (Ms), J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebe, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "A. Bamfo (Mrs), J.S.C.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "In Re Yendi Skin Affairs; Yakubu II v. Abdulai (1984-86) 2 GLR 231 S.C.",
+    "Republic v. General Legal Council Disciplinary Committee; Ex parte Aboagye da Costa (1989–90) 2 GLR 164 C.A.",
+    "Republic v High Court, Tema; Ex parte Kofi (1999-2000) I GLR 61 C.A.",
+    "Baiden v Ansah (1973) I GLR 33",
+    "Joseph v Jebeile (1963) I GLR 387 SC",
+    "Republic v Circuit Court Registrar; Ex parte Arthur (1980) GLR 309 C.A.",
+    "Vanderpuije v. Akwei (1971) I GLR 242",
+    "Secretary of State for Trade and Industry v Bannister (1996) 1 All ER 993 C.A.",
+    "A v. Liverpool City Council (1982) AC 363",
+    "R v. Criminal Injuries Compensation Board (1977) 1 All ER 171 C.A."
+  ],
+  "rationaleHighlights": [
+    "Courts have inherent and residual powers under Article 126(2) of the 1992 Constitution to grant interlocutory relief.",
+    "Lack of service on a party may vitiate a judgment and justify injunctive relief.",
+    "Interim remedies are permissible to protect a party’s rights pending appeal, even if not explicitly provided in procedural rules.",
+    "The principle 'actus curiae nemini facit injuriam' protects parties from court delays or defaults.",
+    "Suspension of judgment entry, not just execution, may be warranted to prevent irreparable harm.",
+    "The Court of Appeal and Supreme Court may exercise powers analogous to those of lower courts under constitutional and rule-based authority.",
+    "Precedents support injunctive relief in exceptional cases where statutory remedies are inadequate."
+  ],
+  "confidenceNotes": "The truncated nature of the source document limits access to the final disposition, but the court's reasoning and reliance on precedent strongly indicate the granting of interim relief. Key legal principles and citations are fully extractable and consistent with Ghanaian jurisprudence.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/MERCHANT BANK GHANA LTD. VRS SIMILAR WAYS LTD..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:03:04.789Z",
+    "plainTextLength": 17752
+  }
+}

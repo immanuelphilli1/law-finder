@@ -1,0 +1,73 @@
+{
+  "caseTitle": "SARFO VERSUS BONSU",
+  "summary": "In Sarfo v. Bonsu, a dispute arose between two Ghanaian stools over land ownership within a timber concession area. Both parties, along with two other stools, jointly granted a concession to A. Lang & Co. Ltd., with the plaintiff receiving 5% of the rent. The plaintiff sought a revision of this share after boundary demarcation, but the defendant refused, leading to litigation. The plaintiff argued that the defendant was estopped from denying his interest in the land due to their joint execution of the lease and the defendant's agreement to let the plaintiff prove the grant in court. The Court of Appeal held that no estoppel arose either by deed or conduct, as the lease was executed conditionally and did not bind the lessors inter se. The court emphasized that recitals in a deed among joint grantors do not create binding admissions between them, and conduct in facilitating proof of the grant created at most a rebuttable presumption, not an estoppel. The appeal was dismissed, upholding the lower courts' findings on ownership.",
+  "legalKeywords": [
+    "estoppel by deed",
+    "estoppel by conduct",
+    "concession grant",
+    "joint lessors",
+    "land ownership dispute",
+    "boundary demarcation",
+    "rebuttable presumption",
+    "recitals in deed",
+    "customary land rights",
+    "concurrent findings",
+    "admission of interest",
+    "conditional execution",
+    "tribal stools",
+    "timber rights",
+    "customary evidence"
+  ],
+  "topics": [
+    "Land Law",
+    "Estoppel",
+    "Customary Law",
+    "Concessions",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "Justice"
+    },
+    {
+      "name": "van Lare Ag.C.J.",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Granville Sharp J.A.",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Heath v. Crealock (1874) 10 Ch.App. 22",
+    "General Finance, Mortgage and Discount Co. v. Liberator Permanent Benefit Building Society (1878) 10 Ch.D. 15",
+    "Abiam Stool v. Enyimadu [1953] A.C. 207",
+    "Carpenter v. Buller (1841) 8 M. & W. 209"
+  ],
+  "rationaleHighlights": [
+    "No estoppel by deed where action is collateral to the deed and parties are not bound to each other.",
+    "Recitals in a deed by joint grantors do not create binding obligations between them.",
+    "Estoppel by conduct requires more than mere agreement to let another prove a grant; it creates at most a rebuttable presumption.",
+    "Execution of lease was conditional on future boundary determination.",
+    "Lower courts' concurrent findings on customary ownership upheld.",
+    "Conditional acts to accommodate third parties do not constitute admissions of title.",
+    "Courts must assess traditional and possessory evidence in land disputes.",
+    "Section 32(2) of Concessions Ordinance does not create estoppel against co-grantors."
+  ],
+  "confidenceNotes": "The source document is truncated but contains sufficient information from the judgment to extract key legal reasoning, parties, and outcome. All critical holdings and judicial statements are directly quoted or accurately paraphrased. The case is well-cited in Ghanaian land law jurisprudence.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/SAHFO v. BONSU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:53:16.025Z",
+    "plainTextLength": 19984
+  }
+}

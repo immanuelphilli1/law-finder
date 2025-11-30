@@ -1,0 +1,81 @@
+{
+  "caseTitle": "ATTORNEY GENERAL & ANOR. v APAADE LODGE LIMITED",
+  "summary": "The Supreme Court of Ghana dismissed an application by Apaade Lodge Limited for a stay of execution of a High Court default judgment from 4 April 2006. The applicant had failed to appeal the judgment directly and instead appealed a later decision by the Court of Appeal. The Court held that under Article 129(4) of the 1992 Constitution and Rule 20 of the Supreme Court Rules (C.I. 16), it could only grant a stay of execution on an appeal against an executable judgment, which was not the case here. The Court emphasized that inherent jurisdiction cannot create appellate jurisdiction where none exists and reaffirmed that procedural rules must be followed strictly to prevent abuse of process and ensure legal certainty.",
+  "legalKeywords": [
+    "default judgment",
+    "stay of execution",
+    "inherent jurisdiction",
+    "Article 129(4)",
+    "Courts Act 1993",
+    "Supreme Court Rules CI 16",
+    "procedural compliance",
+    "appellate jurisdiction",
+    "judicial power",
+    "jurisdictional limits",
+    "execution of judgment",
+    "Rule 20",
+    "High Court Civil Procedure Rules CI 47",
+    "constitutional interpretation",
+    "supervisory jurisdiction"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Judicial Review",
+    "Constitutional Law"
+  ],
+  "verdict": "Application for stay of execution dismissed.",
+  "winningSide": "Attorney General & Anor.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adinyira (Mrs)",
+      "role": "Delivered the ruling"
+    },
+    {
+      "name": "Akuffo (Ms)",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "Owusu (Ms)",
+      "role": "Justice"
+    },
+    {
+      "name": "Dotse",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Edusei (No.1) v. Attorney General and Anr. [1996-97] SCGLR 1",
+    "Edusei (No.2) v. Attorney General [1998-99] SCGLR 753",
+    "Tait v. Ghana Airways Corporation [1970] 2 G & G 527",
+    "Yiadom Boakye v. Amaniampong [1981] GLR 3",
+    "Accra Recreational Complex Ltd. vs. Lands Commission Supreme Court, 20th June 2007 (unreported)",
+    "Eboe v. Eboe [1961] 1GLR 432",
+    "Mensah v Ghana Football Association [1988-89] 1GLR 1",
+    "NB. Landmark Ltd. v. Lakiani [2001-2002] SCGLR 318"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court cannot exercise inherent jurisdiction under Article 129(4) unless a matter is already within its jurisdiction.",
+    "A stay of execution can only be granted on an appeal against an executable judgment; no such appeal exists here.",
+    "While default judgments are typically challenged by application to set aside, an appeal is still a legitimate remedy if properly pursued.",
+    "Rule 20 of the Supreme Court Rules requires that a stay application first be made to the lower court before being repeated at the Supreme Court.",
+    "The Court rejected the argument that procedural technicalities should be bypassed in the interest of justice where proper steps were not followed."
+  ],
+  "confidenceNotes": "The ruling is clear and well-reasoned, with consistent reference to constitutional provisions, statutory rules, and binding precedents. The procedural posture is unambiguous, and the court's conclusions are firmly grounded in established law.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2008/ATTORNEY GENERAL & ANOR. v APAADE LODGE LIMITED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:55:13.866Z",
+    "plainTextLength": 20399
+  },
+  "trialDate": "2008-12-10"
+}

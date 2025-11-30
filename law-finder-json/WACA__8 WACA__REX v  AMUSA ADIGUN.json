@@ -1,0 +1,74 @@
+{
+  "caseTitle": "REX v AMUSA ADIGUN",
+  "summary": "In Rex v Amusa Adigun and another, the West Africa Court of Appeal heard an appeal against convictions from the High Court. The appellants, Okon Ekpenyong Phillip and Henry Iguma Oshodi, were charged with multiple counts, including count 14: conspiracy to commit a felony under section 516 of the Criminal Code. The court upheld the convictions on all counts except count 14, which it found defective due to uncertainty. The charge failed to specify the nature of the felony allegedly conspired, depriving the accused of adequate notice. The court held that such notice is essential for a fair defense. Consequently, the appeal against conviction on count 14 was allowed, the convictions and sentences on that count were quashed, and judgments of acquittal were entered. The decision underscores the importance of precision in criminal charges, particularly in conspiracy cases.",
+  "legalKeywords": [
+    "conspiracy",
+    "felony",
+    "Criminal Code section 516",
+    "uncertainty in charge",
+    "notice to accused",
+    "quashing conviction",
+    "acquittal",
+    "appellate review",
+    "criminal procedure",
+    "joint judgment",
+    "Calabar Magisterial area",
+    "notice of offense"
+  ],
+  "topics": [
+    "criminal law",
+    "appellate procedure",
+    "legal certainty",
+    "right to fair trial",
+    "conspiracy charges"
+  ],
+  "verdict": "Convictions on count 14 quashed; acquittal ordered on that count; other convictions upheld.",
+  "winningSide": "Appellants on count 14; Respondent (State) on other counts",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Cor Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Francis",
+      "role": "Justice"
+    },
+    {
+      "name": "Baker",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Amusa Adigun",
+    "WACA/8",
+    "West Africa Court of Appeal, Lagos, 1942"
+  ],
+  "rationaleHighlights": [
+    "The count for conspiracy was deemed bad for uncertainty because it failed to specify the nature of the alleged felony.",
+    "Accused persons must be informed of the specific felony they are alleged to have conspired to commit.",
+    "Convictions on count 14 were quashed due to procedural unfairness.",
+    "Judgment of acquittal was directed for count 14 for both appellants.",
+    "Convictions on other counts were upheld.",
+    "No merit was found in other grounds of appeal.",
+    "Proper notice is essential in criminal charges to ensure fair trial rights.",
+    "The court exercised its appellate authority to correct a defective charge."
+  ],
+  "confidenceNotes": "High confidence; details are drawn directly from the court's published judgment, including names, dates, legal reasoning, and procedural outcome.",
+  "metadata": {
+    "sourcePath": "WACA/8 WACA/REX v  AMUSA ADIGUN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:21:05.805Z",
+    "plainTextLength": 2606
+  },
+  "trialDate": "1942-02-02"
+}

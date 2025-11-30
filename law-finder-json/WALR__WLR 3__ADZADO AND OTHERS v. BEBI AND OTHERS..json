@@ -1,0 +1,62 @@
+{
+  "caseTitle": "ADZADO AND OTHERS VERSUS BEBI AND OTHERS.",
+  "summary": "In Adzado and Others v. Bebi and Others, the applicants sought an extension of time to lodge a notice of intention to appeal a decision of the Kpandu Native Court delivered on October 1, 1957. Although notice was filed with the Native Court on October 25, 1957, no notice was lodged with the Appeal Court within the one-month statutory period. The Native Court transmitted the notice and judgment to the Appeal Court, which received them on November 4, 1957—beyond the deadline. The High Court, Land Court Division, held that jurisdiction to entertain the appeal or grant an extension arises only when both conditions under regulation 118(1) are met: filing notice with the Native Court and lodging it with the Appeal Court within one month. Since the second condition was unmet, the court lacked jurisdiction to extend time under section 52(1) of the Native Courts Ordinance or regulation 123(1). The application was dismissed.",
+  "legalKeywords": [
+    "appeal jurisdiction",
+    "notice of intention to appeal",
+    "enlargement of time",
+    "Native Courts Ordinance",
+    "Procedure Regulations",
+    "jurisdictional prerequisite",
+    "statutory compliance",
+    "regulation 118",
+    "regulation 120",
+    "regulation 123",
+    "appellate procedure",
+    "technical default",
+    "procedural irregularity",
+    "discretionary power",
+    "Muffat v. Kpeshie"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Jurisdiction",
+    "Procedural Compliance",
+    "Native Courts",
+    "Time Extension"
+  ],
+  "verdict": "Application dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal Procedure",
+  "citations": [
+    "(1952) 14 W.A.C.A. 44"
+  ],
+  "rationaleHighlights": [
+    "Jurisdiction to hear an appeal requires strict compliance with regulation 118(1), including lodging notice with the Appeal Court within one month.",
+    "Transmission of notice by the Native Court does not substitute for direct lodging with the Appeal Court.",
+    "Discretion under section 52(1) and regulation 123(1) is inapplicable without prior jurisdiction.",
+    "Filing with the trial court alone does not vest appellate jurisdiction.",
+    "Amended regulations intentionally require two separate steps to vest jurisdiction.",
+    "Failure to lodge notice within time is a jurisdictional bar, not a curable irregularity.",
+    "Even timely transmission by the Native Court would not confer jurisdiction without proper lodging.",
+    "The court cannot extend time where jurisdiction was never acquired."
+  ],
+  "confidenceNotes": "The decision is based on a clear interpretation of statutory and regulatory provisions. The judge distinguishes prior case law and amendments to regulations, indicating high factual and legal precision. All key procedural facts are documented with dates and citations, supporting high confidence in accuracy.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/ADZADO AND OTHERS v. BEBI AND OTHERS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:19:03.668Z",
+    "plainTextLength": 11256
+  }
+}

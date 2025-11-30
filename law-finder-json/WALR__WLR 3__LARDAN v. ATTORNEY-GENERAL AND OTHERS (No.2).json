@@ -1,0 +1,71 @@
+{
+  "caseTitle": "LARDAN VERSUS ATTORNEY-GENERAL",
+  "summary": "In Lardan v. Attorney-General and Others (No.2), the High Court of the Ashanti Judicial Division considered the validity and effect of the Deportation (Othman Larden and Amadu Baba) Act, 1957, which terminated pending legal proceedings challenging the deportation of two individuals. The court held that although the plaintiffs sought a declaration of Ghanaian citizenship, the primary purpose of the proceedings was to impugn the deportation orders, thus falling within the scope of section 4(2) of the Act, which automatically determined such proceedings. The court further ruled that the Act was not unconstitutional under section 31(2) of the Ghana (Constitution) Order in Council, 1957, as it did not impose racial discrimination, since the targeted individuals were not singled out on racial grounds. Additionally, the court affirmed that Parliament possessed plenary legislative power under section 31(1) to make laws for the 'peace, order and good government' of Ghana, which could not be judicially reviewed unless it violated an express constitutional restriction. The decision emphasized parliamentary sovereignty and limited judicial oversight in post-independence Ghana.",
+  "legalKeywords": [
+    "constitutional law",
+    "deportation",
+    "citizenship",
+    "ultra vires",
+    "discrimination",
+    "parliamentary sovereignty",
+    "judicial review",
+    "procedural determination",
+    "plenary powers",
+    "freedom of movement",
+    "right to court access",
+    "racial discrimination",
+    "legislative intent",
+    "statutory interpretation",
+    "public order"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Deportation",
+    "Citizenship",
+    "Judicial Review",
+    "Legislative Power"
+  ],
+  "verdict": "The proceedings were determined by operation of law under the Deportation (Othman Larden and Amadu Baba) Act, 1957, and the Act was upheld as constitutional.",
+  "winningSide": "Attorney-General (State)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Smith J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Ashanti Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Lardan v. Attorney-General and Others (No.1), p. 55",
+    "Ashbury v. Ellis [1893] A.C. 339",
+    "Attorney-General of Ontario v. Attorney-General of Canada [1896] A.C. 348",
+    "Attorney-General of Saskatchewan v. Canadian Pacific Ry. and Attorney-General of Manitoba [1953] A.C. 594",
+    "Attorney-General of Canada v. Cain [1906] A.C. 542",
+    "Hodge v. The Queen (1883) 9 App.Cas. 117",
+    "Riel v. The Queen (1885) 10 App.Cas. 675",
+    "Croft v. Dunphy [1933] A.C. 156",
+    "Mortensen v. Peters (1906) 8 F.(Ct.of Sess.)(J.) 93",
+    "The Queen v. Burah (1878) 3 App.Cas. 889"
+  ],
+  "rationaleHighlights": [
+    "Proceedings seeking citizenship were deemed primarily aimed at impugning deportation orders and thus were terminated under section 4(2) of the Deportation Act.",
+    "The Deportation (Othman Larden and Amadu Baba) Act, 1957, was not discriminatory under section 31(2) as it targeted individuals, not racial communities.",
+    "Section 31(1) conferred plenary legislative power for 'peace, order and good government' which courts cannot review absent constitutional restrictions.",
+    "Parliament has authority to determine pending court proceedings, provided it does not violate express constitutional limits.",
+    "The court distinguished prior colonial constitutional frameworks by affirming Ghana’s post-independence legislative sovereignty.",
+    "Judicial scrutiny is limited to express constitutional prohibitions, not policy or wisdom of legislation.",
+    "The right to access courts and reside in one's country may be limited by validly enacted legislation.",
+    "Legislative intent was clear in terminating proceedings related to specific deportation orders."
+  ],
+  "confidenceNotes": "The case summary is based on a detailed judicial opinion with clear holdings and citations. The jurisdiction, parties, and legal reasoning are explicitly stated. The truncation of the original document does not affect the core holdings or reasoning presented.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/LARDAN v. ATTORNEY-GENERAL AND OTHERS (No.2).htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:03:05.011Z",
+    "plainTextLength": 25946
+  }
+}

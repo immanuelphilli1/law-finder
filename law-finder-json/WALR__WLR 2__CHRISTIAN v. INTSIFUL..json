@@ -1,0 +1,61 @@
+{
+  "caseTitle": "CHRISTIAN VERSUS INTSIFUL.",
+  "summary": "In Christian v. Intsiful, the Judicial Committee of the Privy Council considered the validity of a will executed by a 93-year-old testator with impaired eyesight. The key issue was whether he had knowledge of the will's contents at execution, as required under Order 49, Rule 29 of the Courts Ordinance of the Gold Coast (now Ord. 60, r. 29 of the Supreme Court (Civil Procedure) Rules, 1954), which mandates proof that a blind or illiterate testator either had the will read over or knew its contents. The will, though not read to the testator, contained detailed provisions reflecting intimate knowledge of his personal relationships and affairs, which could not have been known to an outsider. The Privy Council held that such detail on the face of the will was sufficient to imply the testator's knowledge of its contents, even without direct evidence of reading. It also clarified that 'blind' in the rule should be interpreted as functional inability to read, especially given its pairing with 'illiterate.' The appeal, challenging the West African Court of Appeal's upholding of probate, was dismissed.",
+  "legalKeywords": [
+    "probate",
+    "will validity",
+    "blind testator",
+    "illiterate testator",
+    "knowledge of contents",
+    "will execution",
+    "testamentary capacity",
+    "reading over will",
+    "Supreme Court Rules",
+    "Gold Coast Courts Ordinance"
+  ],
+  "topics": [
+    "Probate Law",
+    "Wills and Testaments",
+    "Testamentary Capacity",
+    "Judicial Committee of the Privy Council",
+    "Gold Coast Legal History"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent (proponent of the will)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lord Porter",
+      "role": "Delivered Judgment"
+    },
+    {
+      "name": "Lord Oaksey"
+    },
+    {
+      "name": "Mr. L. M. D. de Silva"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Judicial Committee of the Privy Council",
+    "country": "Ghana"
+  },
+  "caseType": "Probate",
+  "citations": [
+    "Supreme Court (Civil Procedure) Rules, 1954, Ord. 60, r. 29",
+    "Courts Ordinance of the Gold Coast, Ch. 4, Ord. 49, r. 29"
+  ],
+  "rationaleHighlights": [
+    "Intimate personal details in will imply testator's knowledge of contents",
+    "Impaired vision not equivalent to legal blindness without proof of inability to read",
+    "Collocation of 'blind' and 'illiterate' suggests functional inability to read",
+    "Will deposited with court indicates intention to make it formal",
+    "No evidence will was read over, but contents imply knowledge"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on primary judicial text; citation of current rule (Ord. 60, r. 29) included per editorial note.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/CHRISTIAN v. INTSIFUL..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:37:15.854Z",
+    "plainTextLength": 11622
+  }
+}

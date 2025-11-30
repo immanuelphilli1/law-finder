@@ -1,0 +1,74 @@
+{
+  "caseTitle": "NANA ATOAA SRAMANGYEDUA III & ORS VRS KWADWO NYAM NKETIA, WENCHI",
+  "summary": "This Supreme Court of Ghana decision resolved a chieftaincy dispute concerning the valid nomination and enstoolment of a new Omanhene for the Wenchi Traditional Area following the death of Nana Abrefa Mbore Bediatuo VII in 2004. The queen mother, Nana Atoaa Sramangyedua III, was constitutionally and customarily responsible for nominating a candidate. After a ruling by the Brong Ahafo Regional House of Chiefs in June 2006, the kingmakers repeatedly requested her to nominate a candidate within 24 hours, but she requested three weeks for consultations. The kingmakers, deeming her delay unreasonable, bypassed her and had Madam Abena Frema Atuahene nominate Kwadwo Nyam Nketia, who was subsequently enstooled. The queen mother and allied chiefs challenged this, leading to a reversal by the National House of Chiefs. On appeal, the Supreme Court affirmed that nomination is a sine qua non under Article 277 of the 1992 Constitution and Wenchi customary law, and that the queen mother’s request for time was reasonable. The Court held that only the queen mother could validly nominate, and her failure to act within 24 hours did not justify the kingmakers’ intervention. Thus, the nomination and enstoolment of Kwadwo Nyam Nketia were declared invalid.",
+  "legalKeywords": [
+    "nomination",
+    "enstoolment",
+    "customary law",
+    "queen mother",
+    "kingmakers",
+    "chieftaincy succession",
+    "Wenchi Traditional Area",
+    "paramount chief",
+    "constitutional definition of chief",
+    "validity of installation",
+    "stool vacancy",
+    "traditional authority",
+    "judicial review",
+    "Regional House of Chiefs",
+    "National House of Chiefs"
+  ],
+  "topics": [
+    "Chieftaincy Law",
+    "Customary Law",
+    "Constitutional Law",
+    "Judicial Review",
+    "Traditional Leadership Succession"
+  ],
+  "verdict": "The appeal by the kingmakers and Kwadwo Nyam Nketia was dismissed. The Supreme Court upheld the decision of the National House of Chiefs that the nomination and enstoolment of Kwadwo Nyam Nketia as Omanhene of Wenchi was invalid due to lack of valid nomination by the queen mother.",
+  "winningSide": "Petitioners/Appellants: Nana Atoaa Sramangyedua III (Queen Mother) and allied chiefs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Brobbey, J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Dr. Date-Bah, J.S.C."
+    },
+    {
+      "name": "Baffoe-Bonnie, J.S.C."
+    },
+    {
+      "name": "Aryeetey, J.S.C."
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs.), J.S.C."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "chieftaincy dispute",
+  "citations": [
+    "1992 Constitution of Ghana, Act 277",
+    "R. S. Rattray, Ashanti Law and Constitution, 1929 ed. at pa 1443",
+    "In Re Kwabeng Stool; Karikari and Anor. V Ababio & Others [2004-2005] SCGLR 777",
+    "Exhibit 1: Report of the Wenchi Stool Affairs Committee of the National House of Chiefs (1976)"
+  ],
+  "rationaleHighlights": [
+    "Nomination is a constitutional and customary prerequisite for chieftaincy and must precede election, selection, and enstoolment.",
+    "Only the queen mother has the authority to nominate a chief unless she unreasonably refuses, in which case kingmakers may intervene.",
+    "The queen mother's request for three weeks to consult was reasonable under Wenchi custom and did not constitute unreasonable refusal.",
+    "The Supreme Court upheld that nomination by a non-queen mother (Madam Abena Frema Atuahene) was invalid, rendering the entire enstoolment process void.",
+    "Reliance on the 1976 Wenchi Stool Affairs Committee Report was found to be improper without corroborative evidence or live testimony."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment with clear references to constitutional provisions, customary law, and documented proceedings.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/NANA ATOAA SRAMANGYEDUA III & ORS VRS   KWADWO NYAM NKETIA, WENCHI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:01:35.844Z",
+    "plainTextLength": 28942
+  }
+}

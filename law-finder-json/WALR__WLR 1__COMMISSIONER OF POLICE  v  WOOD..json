@@ -1,0 +1,66 @@
+{
+  "caseTitle": "COMMISSIONER OF POLICE VERSUS WOOD.",
+  "summary": "The West African Court of Appeal set aside the summary conviction of Police Constable Wood for perjury under Section 149 of the Criminal Procedure Code, 1951. The Senior Magistrate had convicted Wood summarily after he testified that Addy was not driving during a traffic offense trial, which contradicted the magistrate's finding. However, the appellate court held that the record failed to show that Wood was informed of the specific substance of the perjury allegation or that he was given a chance to show cause why he should not be punished. Citing Chang Hang Kiu v. Piggot and Another, the court reaffirmed that even in summary perjury proceedings, the accused must be clearly informed of the gist of the accusation and allowed to respond. The absence of these elements in the record violated fundamental principles of criminal justice, rendering the conviction invalid. The appeal was allowed, and the appellant was discharged.",
+  "legalKeywords": [
+    "perjury",
+    "summary procedure",
+    "Criminal Procedure Code",
+    "contempt of court",
+    "right to be heard",
+    "charge specificity",
+    "judicial discretion",
+    "fundamental justice",
+    "record sufficiency",
+    "opportunity to show cause"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Perjury",
+    "Summary Procedure",
+    "Fair Trial Rights",
+    "Judicial Contempt"
+  ],
+  "verdict": "Conviction set aside; appellant discharged.",
+  "winningSide": "Appellant (Commissioner of Police v. Wood)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Jibowu Ag.J.A.",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "Coussey P.",
+      "role": "member of bench"
+    },
+    {
+      "name": "Korsah J.A.",
+      "role": "member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Chang Hang Kiu v. Piggot and Another [1909] A.C. 312",
+    "Be SamʼUel Nunoo, B. v. Olujomoye (1936) 3 W.A.C.A. 74",
+    "R. v. Otubu (1943) 9 W.A.C.A. 20",
+    "Gesellschaft v. Attorney-General for Nigeria, 1 N.L.R. 123"
+  ],
+  "rationaleHighlights": [
+    "The court must clearly communicate the gist of the perjury accusation to the accused.",
+    "The accused must be given an opportunity to show cause before summary punishment.",
+    "A conviction cannot stand if the record does not show compliance with basic principles of fair trial.",
+    "Section 149 powers must be exercised sparingly and in line with fundamental justice.",
+    "Assumptions about the accused's knowledge of the charge are legally impermissible.",
+    "Both requirements from Chang Hang Kiu (gist of charge and right to respond) must appear in the record."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and cited authorities.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/COMMISSIONER OF POLICE  v  WOOD..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:10:57.995Z",
+    "plainTextLength": 11877
+  }
+}

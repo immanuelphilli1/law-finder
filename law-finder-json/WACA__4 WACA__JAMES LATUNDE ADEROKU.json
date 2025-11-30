@@ -1,0 +1,72 @@
+{
+  "caseTitle": "JAMES LATUNDE ADEROKU",
+  "summary": "This 1938 West Africa Court of Appeal decision involved a consent order referring the plaintiff's claim to a referee for investigation. The appellate court found the order unreasonably vague, leading the referee to exceed his mandate by effectively conducting a trial. The plaintiff, James Latunde Aderoku, had claimed for use and occupation of his premises by the defendant, The United Africa Co. Ltd., which was in possession as a mortgagee. The referee failed to properly assess the claim or provide reasoning, and no formal set-off or counterclaim was pleaded. The appeal was allowed, the lower court's judgment set aside, and the case remitted to the High Court of Kaduna Division to determine the plaintiff's claim for an account, with liberty to amend pleadings. Costs were left to the discretion of the trial judge due to the consensual and ambiguous nature of the original referral.",
+  "legalKeywords": [
+    "referee",
+    "consent order",
+    "account",
+    "mortgagee",
+    "use and occupation",
+    "set-off",
+    "counterclaim",
+    "trial beyond scope",
+    "vague order",
+    "pleadings",
+    "remittal",
+    "costs discretion",
+    "Order 28 Rule 1",
+    "West Africa Court of Appeal",
+    "High Court Kaduna Division"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Property Law",
+    "Appellate Review",
+    "Mortgage Law",
+    "Judicial Referees"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Plaintiff-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webb",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana (Gold Coast)"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "WACA/4",
+    "Order 28 Rule 1, Rules of the Supreme Court"
+  ],
+  "rationaleHighlights": [
+    "The consent order was too vague and not justified under Order 28 Rule 1.",
+    "The referee exceeded his authority by conducting a de facto trial.",
+    "No set-off or counterclaim was formally pleaded by the defendant.",
+    "The defendant admitted possession as a mortgagee, warranting an account.",
+    "The plaintiff's claim for an account was valid and required proper adjudication.",
+    "The trial court's judgment was set aside due to procedural irregularities.",
+    "Remittal was necessary for a proper determination of the claim.",
+    "Costs were left to the trial judge's discretion due to the consensual referral."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and explicit procedural details in the judgment. Jurisdiction is inferred as Gold Coast (modern-day Ghana) due to the Chief Justice of the Gold Coast being part of the panel and the WACA's jurisdictional scope.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/JAMES LATUNDE ADEROKU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:02:23.033Z",
+    "plainTextLength": 2967
+  },
+  "trialDate": "1938-11-11"
+}

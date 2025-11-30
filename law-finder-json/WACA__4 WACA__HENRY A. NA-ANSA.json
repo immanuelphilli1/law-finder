@@ -1,0 +1,74 @@
+{
+  "caseTitle": "HENRY A. NA-ANSA",
+  "summary": "This appeal from the West Africa Court of Appeal arose from consolidated civil actions between Henry A. Na-Ansa and Tettey Kudsu concerning trespass to land and boundary disputes following an execution sale. The trial was conducted without pleadings, leading to procedural irregularities. The trial judge found that Na-Ansa lawfully purchased land described in a certificate of purchase and was entitled to damages for trespass by Kudsu, awarding £200. However, the appellate court found the trial unsatisfactory due to lack of pleadings, improper admission and rejection of survey plans, and a material mid-trial shift in Kudsu's case. The joinder of seven additional defendants in the cross-action was upheld as precautionary. The appellate court set aside the damages award that exceeded the pleaded claim and ordered a re-trial with proper pleadings to ensure clarity and fairness.",
+  "legalKeywords": [
+    "trespass to land",
+    "certificate of purchase",
+    "boundary dispute",
+    "survey evidence",
+    "joinder of parties",
+    "pleadings",
+    "re-trial",
+    "admissible evidence",
+    "native tribunal",
+    "execution sale",
+    "land ownership",
+    "possession",
+    "damages",
+    "cross-actions",
+    "rejection of evidence"
+  ],
+  "topics": [
+    "Land Law",
+    "Civil Procedure",
+    "Appeal",
+    "Trespass",
+    "Survey and Boundaries"
+  ],
+  "verdict": "Appeal allowed in part; judgment set aside and re-trial ordered with pleadings.",
+  "winningSide": "Appellants (Tettey Kudsu and others) on procedural grounds, but no final determination on merits",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Strother-Stewart",
+      "role": "Justice"
+    },
+    {
+      "name": "Yates",
+      "role": "Trial Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WACA/4 WACA/HENRY A. NA-ANSA",
+    "Kudsu v. Nyawahe and Others",
+    "Supreme Court Rules, Order 3 Rule 5, Schedule 3"
+  ],
+  "rationaleHighlights": [
+    "Trial lacked clarity and proper pleadings, warranting re-trial",
+    "Material change in defendant's case mid-trial was improperly allowed",
+    "Rejection of certain plans was initially correct but reconsideration was required after case amendment",
+    "Joinder of additional defendants was justified ex abundante cautela to prevent future claims",
+    "Damages awarded in excess of claim were improper and set aside"
+  ],
+  "confidenceNotes": "The case details are drawn directly from the provided judgment transcript. Some portions are truncated, but key holdings and procedural history are preserved. Jurisdiction and court level are confirmed by header information.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/HENRY A. NA-ANSA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:02:26.199Z",
+    "plainTextLength": 17693
+  },
+  "trialDate": "1938-06-18"
+}

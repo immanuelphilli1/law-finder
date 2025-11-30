@@ -1,0 +1,63 @@
+{
+  "caseTitle": "BOAKYE VERSUS BRONI AND DOMFE.",
+  "summary": "In Boakye v. Broni and Domfe, the plaintiff appealed a Native Court decision dismissing his claim to a cocoa farm as successor to his late brother. The first defendant, the stepfather, claimed he originally cultivated the farm, gifted it to the deceased brother without formalities, and sought to revoke the gift due to lack of witnesses and the family's refusal to repay an alleged private loan. The High Court held that while the Native Court's factual finding that the defendant originated the farm was supported by evidence, it did not defeat the plaintiff's claim. The court emphasized that a gift of land under customary law is irrevocable once completed and the donee is in possession. It found that the defendant's long-standing conduct—allowing the deceased to occupy the farm for twenty years, acknowledging his control, and later billing the family for maintenance—constituted sufficient publicity to validate the transfer. Even if revocation were possible, the defendant's subsequent conditional re-grant of the farm in exchange for repayment of the debt, and acceptance of partial payment, amounted to a new, enforceable conveyance. The appeal was allowed, and the plaintiff's title was recognized.",
+  "legalKeywords": [
+    "land conveyancing",
+    "native law and custom",
+    "publicity of transfer",
+    "gift of land",
+    "irrevocability of gift",
+    "customary land tenure",
+    "declaration of title",
+    "possession as evidence of ownership",
+    "alienation of land",
+    "succession to self-acquired property",
+    "revocation of gift",
+    "acts of acknowledgment",
+    "inter vivos gift",
+    "stool property",
+    "native court finding"
+  ],
+  "topics": [
+    "land law",
+    "customary law",
+    "gifts",
+    "property rights",
+    "appellate review"
+  ],
+  "verdict": "Appeal allowed. The plaintiff's title to the cocoa farm was declared valid.",
+  "winningSide": "plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "Amarfio and Another v. Ayorkor (1954) 14 W.A.C.A. 554",
+    "Ebu v. Ababio (1956) 2 W.A.L.R. 55"
+  ],
+  "rationaleHighlights": [
+    "A gift of land under customary law is irrevocable once completed and the donee is in possession.",
+    "Publicity of a land transfer may be established through conduct, not merely formal witnessing.",
+    "A court may uphold a plaintiff's title even on a different root of title than pleaded, if evidence supports ownership.",
+    "Acknowledgment by the transferor of the transferee's ownership over time constitutes sufficient publicity.",
+    "Subsequent conduct, such as billing the family for maintenance, affirms recognition of ownership.",
+    "A conditional re-grant based on debt repayment creates a new enforceable interest.",
+    "Findings of fact by native courts are respected if supported by evidence, but do not bar alternative legal conclusions.",
+    "Failure to prove a debt does not justify revocation of a completed gift."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and clear appellate reversal grounded in established customary law principles.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/BOAKYE v. BRONI AND DOMFE..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:09:34.661Z",
+    "plainTextLength": 12761
+  }
+}

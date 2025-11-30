@@ -1,0 +1,68 @@
+{
+  "caseTitle": "KORANG VERSUS ATTA",
+  "summary": "In Korang v. Atta and Others, the plaintiff appealed a Native Court decision awarding her damages for trespass to forest land near Banso, Ghana. The plaintiff claimed she had entered the land thirty years earlier to cultivate it, cutting wild climbers but not demarcating boundaries or planting crops due to ill-health. Shortly before the suit, she planted cocoa-yams upon finding others had cultivated the land. The High Court, per Ollennu J., allowed the appeal, holding that mere cutting of climbers without subsequent cultivation or boundary marking did not amount to legal possession under native custom. The court emphasized that unclaimed forest land is not possessed until it is cleared, demarcated, and cultivated. The plaintiff’s failure to act over thirty years and inability to identify the land conclusively defeated her claim. The Native Court’s judgment was deemed unreasonable, and the claim was dismissed with costs to the defendants.",
+  "legalKeywords": [
+    "trespass",
+    "possession",
+    "land",
+    "forest land",
+    "cultivation",
+    "native custom",
+    "animus possidendi",
+    "boundary demarcation",
+    "reduction into possession",
+    "cocoa-yams",
+    "embryonic possession",
+    "ill-health",
+    "defendant",
+    "plaintiff",
+    "damages",
+    "Native Court",
+    "appeal",
+    "costs",
+    "land dispute",
+    "customary law",
+    "clearing land"
+  ],
+  "topics": [
+    "Land Law",
+    "Trespass",
+    "Customary Law",
+    "Possession",
+    "Appeal"
+  ],
+  "verdict": "Appeal allowed; judgment of the Native Court set aside; plaintiff's claim dismissed with costs.",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WALR 3/KORANG v. ATTA AND OTHERS"
+  ],
+  "rationaleHighlights": [
+    "Unclaimed forest land cannot be considered possessed until boundaries are established, land is cleared, and cultivation begins.",
+    "Cutting wild climbers alone is insufficient to establish possession under native custom.",
+    "Long lapse of time negated any embryonic possession the plaintiff might have initially had.",
+    "Plaintiff failed to identify the land with certainty, undermining her claim.",
+    "Judgment criticized for being illogical and exposing justice to ridicule.",
+    "Possession requires both animus and physical acts consistent with control.",
+    "Native custom requires actual development into a farm for land to be considered redeemed.",
+    "Mere preparation without follow-up does not confer possessory rights."
+  ],
+  "confidenceNotes": "High confidence; source is a verbatim court decision with clear judicial reasoning and procedural history.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/KORANG v. ATTA AND OTHERS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:03:26.690Z",
+    "plainTextLength": 6526
+  }
+}

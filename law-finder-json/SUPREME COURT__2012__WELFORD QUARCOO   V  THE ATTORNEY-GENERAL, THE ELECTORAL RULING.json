@@ -1,0 +1,58 @@
+{
+  "caseTitle": "WELFORD QUARCOO V THE ATTORNEY-GENERAL, THE ELECTORAL RULING",
+  "summary": "In Welford Quarcoo v. The Attorney-General & The Electoral Commission (J1/2/2012, 13th June 2012), the plaintiff sought an interlocutory injunction to halt actions under the Local Government Act, 1993 (Act 462) pending a constitutional challenge. The Supreme Court, per Dr. Date-Bah JSC, dismissed the application, holding that the plaintiff failed to demonstrate irreparable harm since declaratory relief in the main suit could nullify any adverse effects. The court emphasized that halting district creation would cause irreparable delay to government programs and the December general elections, which outweighed the plaintiff's interests. The balance of convenience and public interest weighed against granting the injunction.",
+  "legalKeywords": [
+    "interlocutory injunction",
+    "serious question to be tried",
+    "irreparable damage",
+    "balance of convenience",
+    "public law",
+    "declaratory relief",
+    "Local Government Act",
+    "constitutional challenge",
+    "judicial remedy",
+    "elections",
+    "district creation",
+    "government policy",
+    "status quo",
+    "nullification",
+    "public interest"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Elections",
+    "Local Government",
+    "Injunctions",
+    "Judicial Review"
+  ],
+  "verdict": "Interlocutory injunction dismissed.",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. S. K. Date-Bah",
+      "role": "Presiding Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Local Government Act, 1993 (Act 462)"
+  ],
+  "rationaleHighlights": [
+    "Applicant failed to prove irreparable damage as declaratory relief would reverse any harm if successful.",
+    "Balance of convenience favored the defendants due to potential disruption of government district creation and upcoming elections.",
+    "Public law matters require strong justification to halt state actions presumed beneficial to the public.",
+    "No restoration of status quo needed if impugned laws are later declared void."
+  ],
+  "confidenceNotes": "High confidence; information directly extracted from official Supreme Court ruling with clear procedural and substantive details.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/WELFORD QUARCOO   V  THE ATTORNEY-GENERAL, THE ELECTORAL RULING.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:19:16.100Z",
+    "plainTextLength": 3498
+  }
+}

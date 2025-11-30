@@ -1,0 +1,81 @@
+{
+  "caseTitle": "SUMAILA SANUNU VRS FRANKLIN GADO SALIFU",
+  "summary": "The Supreme Court of Ghana allowed the appeal in Sumaila Sanunu v. Franklin Gado Salifu, overturning both the High Court's grant of summary judgment and the Court of Appeal's affirmation. The appellant, a contractor, had entered a joint execution agreement with the respondent to complete a Ghana Telecom project, with the respondent claiming full financial responsibility. A promissory note, not mentioned in the statement of claim but submitted during the summary judgment application, formed the basis of the lower courts' decisions. The Supreme Court held that the failure to plead reliance on the promissory note deprived the appellant of fair notice. Additionally, the appellant raised triable issues, including that the agreement was with his company (a separate legal entity) and that the document was signed under duress. The Court emphasized that the existence of any bona fide defence requires a full trial, and thus remitted the case for trial on the merits.",
+  "legalKeywords": [
+    "summary judgment",
+    "Order 14 rule 1",
+    "High Court Civil Procedure Rules",
+    "promissory note",
+    "duress",
+    "triable issues",
+    "defence",
+    "statutory declaration",
+    "corporate personality",
+    "leave to defend",
+    "contract dispute",
+    "financial contribution",
+    "civil appeal",
+    "procedural fairness",
+    "burden of proof"
+  ],
+  "topics": [
+    "Contract Law",
+    "Civil Procedure",
+    "Corporate Law",
+    "Summary Judgment",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed; case remitted for trial on the merits.",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "P. Baffoe-Bonnie",
+      "role": "author"
+    },
+    {
+      "name": "W. A. Atuguba",
+      "role": "member"
+    },
+    {
+      "name": "S. A. B. Akuffo",
+      "role": "member"
+    },
+    {
+      "name": "S. K. Date-Bah",
+      "role": "member"
+    },
+    {
+      "name": "R. C. Owusu",
+      "role": "member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Salomon v. Salomon & Co. Ltd. [1897] A.C. 22",
+    "YIRENKYI v. TORMEKPEY [1987-88] 1 GLR 533",
+    "YARTEL BOAT BUILDING CO. v. ANNAN [1991] 2 GLR 11",
+    "Atlanta Timber Co vs Victoria Timber Co Ltd 1962 1 GLR 221",
+    "Anglo-Italian Bank v. Wells (1878) 38 L.T. 197",
+    "Blaiberg v. Abrams (1910) 77 L.T.J. 255"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court found that triable issues existed, including the validity of the promissory note under duress and whether the company or individual was the proper party to sue.",
+    "The reliance on a promissory note not pleaded in the statement of claim denied the appellant fair notice.",
+    "The statutory declaration indicated a contract between the respondent and the appellant's company, raising corporate separateness under Salomon v. Salomon.",
+    "Summary judgment is inappropriate where any bona fide defence or triable issue exists.",
+    "The Court emphasized that even if the defence may fail at trial, the mere possibility warrants a full trial."
+  ],
+  "confidenceNotes": "All information is drawn directly from the provided judgment text. Citations and legal principles are accurately referenced within the document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/SUMAILA SANUNU VRS FRANKLIN GADO SALIFU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:01:58.992Z",
+    "plainTextLength": 12393
+  },
+  "trialDate": "2009-04-22"
+}

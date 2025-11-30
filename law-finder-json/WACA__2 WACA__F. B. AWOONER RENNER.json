@@ -1,0 +1,69 @@
+{
+  "caseTitle": "F. B. AWOONER RENNER",
+  "summary": "This was a civil appeal before the West African Court of Appeal concerning a trespass claim over a parcel of land at Prospect Hill, Cape Coast. The plaintiffs, F. B. Awooner Renner and her husband P. A. Renner, sought damages and an injunction against defendants who had occupied the land since 1904. The appellants claimed title via a 1905 mortgage and 1924 foreclosure, but failed to produce the underlying will, plans, or a later deed allegedly transferring interest to the wife and children. The court held that an action for trespass requires present possessory title, which the plaintiffs lacked. As co-tenants with only an undivided moiety, they could not maintain trespass against someone lawfully in possession under the other co-owner. Further, uncertainty over whether the land was vested in Mr. Renner, Mrs. Renner, or their children—due to an unproduced and unregistered deed—left the court unable to determine valid ownership. The appeal was dismissed with costs, as the plaintiffs failed to meet the onus of proving title.",
+  "legalKeywords": [
+    "trespass to land",
+    "possessory title",
+    "co-owners",
+    "undivided moiety",
+    "mortgage deed",
+    "foreclosure",
+    "onus of proof",
+    "native sale",
+    "title dispute",
+    "ejectment",
+    "plaintiff's standing",
+    "land registration",
+    "evidence production",
+    "spousal ownership",
+    "property management"
+  ],
+  "topics": [
+    "Property Law",
+    "Tort Law",
+    "Land Ownership",
+    "Appellate Procedure",
+    "Evidence Law"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Defendants-Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Deane",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Wallis v. Hands, 1893, 2 Ch. 75"
+  ],
+  "rationaleHighlights": [
+    "Action for trespass not maintainable without present possessory title.",
+    "Plaintiff must prove ownership where possession is disputed.",
+    "Co-tenant cannot sue for trespass over undivided share occupied under co-owner's authority.",
+    "Failure to produce key documents (will, plan, deed) undermines claim.",
+    "Ambiguity in ownership between spouses invalidates standing.",
+    "Trial judge erred in assessing defendant's title instead of scrutinizing plaintiff's title first."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details are explicitly stated in the judgment. The absence of the will and plan documents is noted as a critical evidentiary gap.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/F. B. AWOONER RENNER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:31:02.725Z",
+    "plainTextLength": 15051
+  },
+  "trialDate": "1935-05-21"
+}

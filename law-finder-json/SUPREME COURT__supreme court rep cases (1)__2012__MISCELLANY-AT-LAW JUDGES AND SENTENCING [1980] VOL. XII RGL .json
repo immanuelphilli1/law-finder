@@ -1,0 +1,82 @@
+{
+  "caseTitle": "MISCELLANY-AT-LAW JUDGES AND SENTENCING [1980] VOL. XII RGL",
+  "summary": "This 1980 report from the Review of Ghana Law discusses a BBC Radio Four programme titled 'Talking Law', featuring prominent English judges debating sentencing policy. Lord Justice Lawton asserts he has never given a wrong sentence and argues that judges should consider prison overcrowding when sentencing, noting that imposing prison terms with no available space is ineffective. In contrast, Mr. Justice Drake contends that judges should not let prison conditions dictate sentencing, as failure to punish criminals appropriately risks public backlash. Mr. Justice Pain criticizes the Home Secretary's directive to impose shorter sentences, viewing it as improper interference with judicial independence. Though presented in a Ghanaian legal publication, the content reflects UK judicial perspectives with potential relevance to sentencing policy discussions in Ghana.",
+  "legalKeywords": [
+    "sentencing",
+    "prison overcrowding",
+    "judicial discretion",
+    "criminal punishment",
+    "public confidence in justice",
+    "Home Secretary",
+    "judicial policy",
+    "penal policy",
+    "criminal justice reform",
+    "judicial independence",
+    "corrections",
+    "sentencing guidelines",
+    "judicial responsibility",
+    "prison conditions",
+    "criminal law"
+  ],
+  "topics": [
+    "Sentencing Policy",
+    "Prison Overcrowding",
+    "Judicial Independence",
+    "Criminal Justice",
+    "Judicial Ethics"
+  ],
+  "verdict": "No formal verdict; the document presents judicial opinions on sentencing policy.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Lord Justice Lawton",
+      "role": "judge"
+    },
+    {
+      "name": "Mr. Justice Drake",
+      "role": "judge"
+    },
+    {
+      "name": "Mr. Justice Pain",
+      "role": "judge"
+    },
+    {
+      "name": "Lord Denning",
+      "role": "Master of the Rolls"
+    },
+    {
+      "name": "Lord Justice Templeman",
+      "role": "judge"
+    },
+    {
+      "name": "Lord Justice Shaw",
+      "role": "judge"
+    },
+    {
+      "name": "Mr. Justice Kerr",
+      "role": "chairman of the Law Commission"
+    }
+  ],
+  "jurisdiction": {
+    "court": "BBC Radio Four Programme",
+    "country": "United Kingdom"
+  },
+  "caseType": "miscellany-at-law",
+  "citations": [
+    "[1980] VOL. XII RGL 17\b18"
+  ],
+  "rationaleHighlights": [
+    "Judges should consider prison overcrowding when sentencing, as ineffective sentences undermine justice.",
+    "Some judges oppose factoring in prison conditions, citing the need for appropriate punishment to maintain public confidence.",
+    "Judicial independence is emphasized, with criticism of executive interference in sentencing via Home Secretary's requests."
+  ],
+  "confidenceNotes": "The document is a report on a radio programme featuring English judges discussing sentencing policy; it does not contain a formal judicial decision from Ghana. Information is attributed to media reporting and may lack direct legal authority.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2012/MISCELLANY-AT-LAW JUDGES AND SENTENCING [1980] VOL. XII RGL .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:46:05.223Z",
+    "plainTextLength": 1575
+  },
+  "trialDate": "1980-09-27"
+}

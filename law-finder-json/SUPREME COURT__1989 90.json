@@ -1,0 +1,75 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The document contains summaries of multiple unreported civil decisions from the Ghanaian Supreme Court between 2008 and 2009, covering diverse areas of law including contract, land, family, election, administrative, and labour law. Key cases include Yaa Antwi v N.T.H.C., where the court examined whether an exchange of letters constituted a binding contract for the sale of a house, emphasizing the need for intention to create legal relations and proper communication of payment details. In Sumaila Sanunu v Franklin Gado Salifu, the court considered claims over profit-sharing under a joint execution agreement for a government contract, with issues around summary judgment. Another significant case, Ghana Cable Co. Ltd v Barclays Bank (Gh.) Ltd, addressed whether a bank's refusal to extend credit under an existing facility constituted a breach of contract entitling the company to damages for business collapse. Several rulings also touched on procedural fairness, jurisdictional limits, and constitutional rights, such as the right to be heard under Article 14(1) of the 1992 Constitution.",
+  "legalKeywords": [
+    "contract",
+    "breach of contract",
+    "specific performance",
+    "damages",
+    "offer and acceptance",
+    "intention to create legal relations",
+    "invitation to treat",
+    "credit facility agreement",
+    "summary judgment",
+    "natural justice",
+    "audi alteram partem",
+    "jurisdiction",
+    "stay of execution",
+    "certiorari",
+    "res judicata",
+    "bail conditions",
+    "contempt",
+    "injunction",
+    "declaration of title",
+    "land",
+    "trespass",
+    "divorce",
+    "custody",
+    "election petition",
+    "administrative law",
+    "transfer of cases",
+    "labour law",
+    "unionisation",
+    "constitutional interpretation"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Procedural Fairness",
+    "Constitutional Law",
+    "Civil Appeals"
+  ],
+  "verdict": "Varies by case; some applications were allowed based on procedural impropriety or breach of contract, while others were dismissed due to lack of jurisdiction or untimeliness.",
+  "winningSide": "Depends on individual case; no single prevailing party across all cases.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Not specified",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "YAA ANTWI VRS N.T.H.C. CIVIL APPEAL NO. J4/12/2008",
+    "SUMAILA SANUNU VRS FRANKLIN GADO SALIFU CIVIL APPEAL № J4/13/08",
+    "GHANA CABLE CO. LTD v BARCLAYS BANK (GH.) LTD CIVIL APPEAL. NO.J4/18/2008"
+  ],
+  "rationaleHighlights": [
+    "Existence of a binding contract depends on offer, acceptance, and intention to create legal relations.",
+    "Failure to provide bank details for payment does not invalidate an agreement if performance was possible.",
+    "A party may seek specific performance where there is a clear agreement and willingness to perform.",
+    "Withdrawal of credit facilities in breach of a valid agreement gives rise to claim for damages.",
+    "Principles of natural justice require that parties be heard before adverse orders are made ex parte."
+  ],
+  "confidenceNotes": "Multiple cases are referenced in the document; the most complete and legally significant ones have been selected for citation.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/1989 90.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T09:56:58.444Z",
+    "plainTextLength": 37544
+  }
+}

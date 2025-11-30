@@ -1,0 +1,68 @@
+{
+  "caseTitle": "ADJEI VERSUS APPIAGYEI.",
+  "summary": "In Adjei v. Appiagyei (1958) W.A.L.R. 3, the Court of Appeal of Ghana set aside a lower court's decision to cancel a 1951 mortgage of family land, holding that the plaintiff failed to meet the legal burden required to rescind such a transaction. The plaintiff, claiming to represent the family of Kofi Attim, alleged fraud and lack of family consent, particularly challenging the status of Yaw Kunadu as family head and signatory to the mortgage deed. However, the court found that the plaintiff did not prove his own standing, failed to plead or prove fraud with sufficient particularity, and did not demonstrate that the family had not acquiesced, had acted timeously, or that the defendant could be restored to his pre-transaction position. The court emphasized that a transaction by a family head without family consent is voidable, not void, and that the burden lies on the plaintiff to establish non-acquiescence, due diligence, and restitutio in integrum. The defendant, a successor to the original mortgagee, was protected as a bona fide purchaser for value without notice, especially given the Asantehene’s prior written consent and proper title searches. The appeal was allowed, and the cancellation order was reversed.",
+  "legalKeywords": [
+    "family land",
+    "mortgage",
+    "voidable transaction",
+    "burden of proof",
+    "fraud",
+    "acquiescence",
+    "due diligence",
+    "restitutio in integrum",
+    "bona fide purchaser",
+    "consent of family",
+    "head of family",
+    "title search",
+    "Asantehene's consent",
+    "non-party estoppel",
+    "judgment in personam"
+  ],
+  "topics": [
+    "Land Law",
+    "Family Property",
+    "Equity",
+    "Civil Procedure",
+    "Evidence"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Korsah C.J."
+    },
+    {
+      "name": "Granville Sharp J.A."
+    },
+    {
+      "name": "Ollennu J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Manko v. Bonso",
+    "Mensah v. S.C.O.A. (1958) 3 W.A.L.R. 336"
+  ],
+  "rationaleHighlights": [
+    "A transaction by a family head without family consent is voidable, not void.",
+    "The burden of proving non-acquiescence, due diligence, and restitutio in integrum lies on the plaintiff.",
+    "Fraud must be pleaded with particularity and affirmatively proven.",
+    "A judgment on family membership is binding only in personam, not in rem.",
+    "The defendant was protected as a bona fide purchaser for value without notice.",
+    "Proper title searches and Asantehene's written consent supported good faith.",
+    "Failure to cross-examine or present evidence undermined the plaintiff's case.",
+    "The plaintiff failed to establish standing or timely action."
+  ],
+  "confidenceNotes": "The summary is based on a detailed judicial opinion with clear holdings and reasoning. All key elements including parties, facts, legal issues, and court's rationale are explicitly stated in the source text. Minor truncation at the end does not affect the core legal analysis or outcome.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/ADJEI v. APPIAGYEI..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:19:46.206Z",
+    "plainTextLength": 15945
+  }
+}

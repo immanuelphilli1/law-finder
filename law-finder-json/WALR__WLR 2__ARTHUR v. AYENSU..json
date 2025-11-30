@@ -1,0 +1,62 @@
+{
+  "caseTitle": "ARTHUR VERSUS AYENSU.",
+  "summary": "In Arthur v. Ayensu, the Supreme Court of Ghana, Central Judicial Division, held that the self-acquired property of a deceased intestate devolves not to the wider family group but to the immediate family defined by matrilineal descent—specifically, those tracing lineage through the mother or maternal grandmother of the deceased. The plaintiff, claiming as head of the broader Anona family, lacked standing to sue for recovery of the deceased's real property. Although the lower courts correctly dismissed the claim, their reasoning—that the administratrix (appointed for the personal estate only) was the proper party—was legally unsound. The correct basis was that the niece, Mrs. Faustina Daniels, was entitled by native customary law as a member of the immediate family to represent the deceased’s estate in relation to self-acquired property. The decision reaffirmed principles from Mensah Larkai v. Amorkor and distinguished the impact of the Marriage Ordinance, c. 127 of 1951, which alters devolution by vesting both real and personal property in the administrator for certain married intestates.",
+  "legalKeywords": [
+    "intestacy",
+    "succession",
+    "self-acquired property",
+    "matrilineal descent",
+    "family property",
+    "letters of administration",
+    "Marriage Ordinance c. 127 of 1951",
+    "native customary law",
+    "real property",
+    "personal estate",
+    "devolution of property",
+    "administratrix",
+    "tenants-in-common",
+    "customary succession",
+    "uterine kinship"
+  ],
+  "topics": [
+    "Intestacy and Succession",
+    "Customary Law",
+    "Property Law",
+    "Family Law",
+    "Administration of Estates"
+  ],
+  "verdict": "Appeal dismissed.",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adumua-Bossman J.",
+      "role": "presiding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana, Central Judicial Division, Divisional Court, Cape Coast",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Mensah Lar'kai v. Amorkor and Others (1933) 1 W.A.C.A. 323",
+    "Gorleku v. Gorleku (1934) 2 W.A.C.A. 82"
+  ],
+  "rationaleHighlights": [
+    "Self-acquired property of an intestate devolves to the immediate family tracing descent through the maternal line, not the wider family group.",
+    "The term 'family' in customary succession refers to those claiming descent from the deceased's mother or maternal grandmother, not the broader family unit.",
+    "A grant of letters of administration limited to personal estate does not confer standing to sue regarding real property.",
+    "The administratrix, though improperly cited as the proper party below, was in fact the rightful representative by virtue of her uterine relationship.",
+    "Real property under native customary law passes directly to the immediate family, not through the administrator, absent Marriage Ordinance application.",
+    "Section 48 of the Marriage Ordinance (as amended in 1951) alters devolution by vesting both real and personal property in the administrator for certain married persons.",
+    "Editorial note raises unresolved questions about potential statutory overreach into family custodial property."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and cited authorities. Editorial notes provide contextual clarification but do not override the court's holding.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/ARTHUR v. AYENSU..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:41:34.386Z",
+    "plainTextLength": 11325
+  }
+}

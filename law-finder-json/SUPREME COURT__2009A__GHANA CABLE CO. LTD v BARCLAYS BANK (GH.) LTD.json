@@ -1,0 +1,82 @@
+{
+  "caseTitle": "GHANA CABLE CO. LTD v BARCLAYS BANK (GH.) LTD",
+  "summary": "In Ghana Cable Co. Ltd v Barclays Bank (Gh.) Ltd, the plaintiff appealed against the Court of Appeal's reversal of a High Court judgment that had favored it on claims for damages due to the bank's refusal to extend further credit facilities. The plaintiff argued it was entitled to continued credit under a 1979 debenture and a 1981 unlimited guarantee, and that a course of dealing created an estoppel. The Supreme Court dismissed the appeal, holding that the bank retained discretion over credit advances and was not estopped from refusing further loans. The court also rejected claims of wrongful detention of the bill of lading, noting the absence of a clear admission by the bank and insufficient evidence. The judgment emphasized that course of dealing cannot override contractual discretion and that prior credit extensions did not create a binding obligation for future financing.",
+  "legalKeywords": [
+    "breach of contract",
+    "credit facilities",
+    "debenture",
+    "unlimited guarantee",
+    "estoppel",
+    "course of dealing",
+    "bill of lading",
+    "banking practices",
+    "discretion of bank",
+    "security interest",
+    "civil appeal",
+    "pleadings",
+    "wrongful detention",
+    "contract interpretation",
+    "appellate review"
+  ],
+  "topics": [
+    "Contract Law",
+    "Banking Law",
+    "Civil Procedure",
+    "Estoppel",
+    "Security Interest"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Barclays Bank (Gh.) Ltd",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "W.A. Atuguba",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "J. Ansa",
+      "role": "Concurring Judge"
+    },
+    {
+      "name": "R.C. Owusu (Ms)",
+      "role": "Concurring Judge"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Concurring Judge"
+    },
+    {
+      "name": "P. Baffoe-Bonnie",
+      "role": "Concurring Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Habib Bank Ltd v Habib Bank AG Zurich (1981) 1 WLR 1265",
+    "Amalgamated Investment & Property Co Ltd v Texas Commerce International Bank Ltd (1981) 3 All ER 577",
+    "Johnson v Taylor Bros & Company Limited (1920) AC 144",
+    "Botchway v Okine (1987-88) 2 GLR 1 C.A.",
+    "Hanna Assi (No.2) v GIHOC Refrigeration & Household Products Ltd (No. 2) (2007-2008) SCGLR 16",
+    "Pomaa v Fosuhene (1987-88) 1 GLR 244 S.C."
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court upheld the defendant bank's discretion to refuse further credit despite prior course of dealings.",
+    "No estoppel arose because the bank did not clearly encourage the plaintiff to assume continued credit entitlement.",
+    "The debenture and guarantee did not create an obligation for unlimited credit advances.",
+    "The court found no clear admission by the bank of wrongful detention of the bill of lading.",
+    "Pleadings were sufficient to cover the claim regarding the bill of lading, but evidence was lacking.",
+    "Course of dealing cannot override express contractual terms or discretionary clauses."
+  ],
+  "confidenceNotes": "High confidence in extracted details; all information is directly supported by the judgment text. Some exhibits and record page references are included as cited.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/GHANA CABLE CO. LTD v BARCLAYS BANK (GH.) LTD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:08:28.655Z",
+    "plainTextLength": 15165
+  },
+  "trialDate": "2008-04-18"
+}

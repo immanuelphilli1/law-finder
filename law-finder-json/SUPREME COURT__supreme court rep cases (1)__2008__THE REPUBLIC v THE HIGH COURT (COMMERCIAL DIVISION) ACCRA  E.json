@@ -1,0 +1,88 @@
+{
+  "caseTitle": "THE REPUBLIC v THE HIGH COURT (COMMERCIAL DIVISION) ACCRA E",
+  "summary": "This Supreme Court of Ghana ruling addresses whether the High Court (Commercial Division) had jurisdiction to hear a fresh action challenging an aspect of a consent judgment—specifically, the interest rate entered post-judgment. The Trust Bank Ltd., as applicant, sought certiorari to quash a lower court's decision allowing Ampomah Photo Lab Ltd. and others to file a new suit contesting the interest rate in a prior consent judgment. The Supreme Court held that a fresh action is the proper legal avenue to challenge a consent judgment, especially where appeal is unavailable. It affirmed that consent judgments, being based on agreement, can be set aside on grounds such as mistake, misrepresentation, or inequity, citing English and Ghanaian precedents. The Court declined to intervene via supervisory jurisdiction, finding no jurisdictional or fundamental error by the High Court. The ruling reaffirmed that supervisory powers under Article 132 of the 1992 Constitution apply only to manifest, fundamental errors, not ordinary legal disputes.",
+  "legalKeywords": [
+    "consent judgment",
+    "jurisdiction",
+    "supervisory jurisdiction",
+    "prerogative writs",
+    "certiorari",
+    "functus officio",
+    "abuse of process",
+    "interest rate",
+    "summary judgment",
+    "non-jurisdictional error",
+    "fundamental error",
+    "patent error",
+    "ultra vires",
+    "contractual agreement",
+    "mistake",
+    "restitution",
+    "judicial review",
+    "appeal",
+    "nullity",
+    "equity",
+    "common law"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Judicial Review",
+    "Contract Law",
+    "Banking Law",
+    "Supreme Court Jurisprudence"
+  ],
+  "verdict": "The Supreme Court dismissed the application for certiorari, holding that the High Court had jurisdiction to entertain the fresh action challenging the consent judgment on grounds of mistake and misrepresentation.",
+  "winningSide": "The High Court (Commercial Division) Accra and the Interested Parties (Ampomah Photo Lab Ltd. & 3 ORS.)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah JSC",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Atuguba J.S.C.",
+      "role": "member of bench"
+    },
+    {
+      "name": "Ansa J.S.C.",
+      "role": "member of bench"
+    },
+    {
+      "name": "Adinyira J.S.C.",
+      "role": "member of bench"
+    },
+    {
+      "name": "Baffoe-Bonnie J.S.C.",
+      "role": "member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Republic v High Court Accra, Ex Parte CHRAJ [2003-2004] SCGLR 1",
+    "Republic v Court of Appeal, Ex Parte Tsatsu Tsikata [2005-2006] SCGLR 612",
+    "Guardian Assurance Co. v Bridi [1975] 2GLR 387",
+    "Emeris v Woodward (1889) 43 Ch.D. 185",
+    "Ainsworth v Wilding [1896] 1 Ch. 673",
+    "Wilding v Sanderson [1897] 2 Ch. 534",
+    "Huddersfield Banking Company Ltd. v Henry Lister & Son Ltd. [1895] 2 Ch. D 273"
+  ],
+  "rationaleHighlights": [
+    "A High Court may entertain a fresh action to challenge a consent judgment on grounds such as mistake, even if the judgment was entered by a coordinate court.",
+    "The Supreme Court will only exercise supervisory jurisdiction where there is a jurisdictional error or a fundamental non-jurisdictional error patent on the face of the record.",
+    "A consent judgment, while binding, is based on an agreement and can be set aside on any ground that would invalidate a contract, including mistake or misrepresentation.",
+    "Appeal is not available against a consent judgment, making a fresh action the proper procedural route for challenge.",
+    "The High Court is not functus officio where a judgment entry misrepresents the actual agreement between parties."
+  ],
+  "confidenceNotes": "High confidence in extracted data; all key elements (jurisdiction, legal principles, parties, outcome) are clearly stated in the ruling. Citations are verbatim.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2008/THE REPUBLIC v THE HIGH COURT (COMMERCIAL DIVISION) ACCRA  E.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:49:38.707Z",
+    "plainTextLength": 17316
+  },
+  "trialDate": "2008-11-12"
+}

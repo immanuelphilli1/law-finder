@@ -1,0 +1,81 @@
+{
+  "caseTitle": "NANA KWAKU AMOAH",
+  "summary": "This appeal arose from a dispute between the Stools of Asamangkese and Akwatia (plaintiffs-appellants) and the Omanhene of Akyem Abuakwa with members of the State Council (defendants-respondents) over the validity of a 1929 deed of submission to arbitration and the resulting award. The plaintiffs sought to set aside the deed and award on the grounds that the matters in dispute—particularly the Paramount Stool's claim to one-third of land rents from subordinate stools—were of a political or constitutional character under section 34 of the Native Administration Ordinance, and thus within the exclusive jurisdiction of the State Council, which could not delegate such authority. The West African Court of Appeal dismissed the appeal. It held that the Ordinance did not bar arbitration of such matters, that the issue was res judicata following the Privy Council’s prior refusal to set aside the award, and that the plaintiffs were estopped from challenging the deed’s validity after having previously accepted it. The majority also found that the dispute was not inherently political or constitutional, and that the State Council acted only as a witness to the deed, not as a party. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "arbitration",
+    "res judicata",
+    "estoppel",
+    "jurisdiction",
+    "Native Administration Ordinance",
+    "State Council",
+    "constitutional dispute",
+    "deed of submission",
+    "award",
+    "paramount stool",
+    "subordinate stools",
+    "land rights",
+    "customary law",
+    "political character",
+    "delegation of authority",
+    "Privy Council",
+    "finality of judgment",
+    "arbitrator's jurisdiction",
+    "constitutional character",
+    "lands alienated"
+  ],
+  "topics": [
+    "arbitration",
+    "customary law",
+    "land rights",
+    "res judicata",
+    "jurisdiction"
+  ],
+  "verdict": "The appeal was dismissed with costs.",
+  "winningSide": "Defendants-Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Webber, C.J.",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Michelin J.",
+      "role": "judge"
+    },
+    {
+      "name": "Aitkin J.",
+      "role": "dissenting judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Native Administration Ordinance, s 34",
+    "Native Administration Ordinance, s 116",
+    "Native Administration Ordinance, s 89(3)",
+    "Arbitration Ordinance of 1928",
+    "In re Padstow, etc. Assurance Association [1880] 20 Ch. D. 142",
+    "Greathead v. Bromley (1798) 7 Term Rep. 455"
+  ],
+  "rationaleHighlights": [
+    "Section 34 of the Native Administration Ordinance does not preclude submission of political or constitutional matters to arbitration.",
+    "The matter was res judicata as the Privy Council had previously upheld the award without challenging jurisdiction.",
+    "Plaintiffs were estopped from denying the validity of the deed after having previously treated it as valid in prior proceedings.",
+    "The State Council was not a party to the deed but acted as official witnesses, affirming the Omanhene's authority.",
+    "The claim to a one-third share of land rents was not inherently political or constitutional in nature.",
+    "Parties are free to settle disputes by arbitration even if they fall under the State Council’s exclusive jurisdiction.",
+    "Finality of judicial decisions prevents re-litigation of the same issue.",
+    "The Arbitration Ordinance of 1928 allows for quasi-judicial resolution of disputes regardless of their nature."
+  ],
+  "confidenceNotes": "The judgment is well-reasoned with clear reference to statutory provisions and precedent. The doctrine of res judicata and estoppel are applied consistently with common law principles. Dissenting opinion noted but majority view prevails.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/NANA KWAKU AMOAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:42:14.335Z",
+    "plainTextLength": 37441
+  },
+  "trialDate": "1933-11-24"
+}

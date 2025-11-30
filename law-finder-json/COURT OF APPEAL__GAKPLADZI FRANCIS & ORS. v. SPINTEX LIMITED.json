@@ -1,0 +1,78 @@
+{
+  "caseTitle": "GAKPLADZI FRANCIS & ORS. v. SPINTEX LIMITED",
+  "summary": "In Gakpladzi Francis & Ors. v. Spintex Limited, former employees challenged their dismissal after protesting a company policy requiring them to 'work to cover' hours lost due to power cuts. The Court of Appeal upheld the High Court's ruling that the dismissal was unjustified. The 'work to cover' directive (Exhibit B) was a unilateral variation of the collective agreement, violating Section 10(4) of the Industrial Relations Act, 1965 (Act 299), and thus void. The subsequent suspension of the redundancy exercise and demand for resignations constituted an unfair ultimatum. The employees' peaceful demonstration was protected under Article 21(1)(d) of the 1992 Constitution. The company's claim of an illegal strike failed due to lack of credible evidence of violence or property damage. The court affirmed the employees' right to redundancy benefits and declared the dismissals unlawful.",
+  "legalKeywords": [
+    "collective agreement",
+    "illegal strike",
+    "redundancy",
+    "unfair dismissal",
+    "industrial relations",
+    "constitutional rights",
+    "SSNIT contributions",
+    "unauthorized variation",
+    "employee rights",
+    "work to cover policy",
+    "Industrial Relations Act 1965 (Act 299)",
+    "1992 Constitution of Ghana",
+    "Article 21(1)(d)",
+    "Article 34",
+    "section 10(4)",
+    "unilateral variation",
+    "labor protest",
+    "dismissal justification",
+    "procedural fairness",
+    "union authority",
+    "TEGLEU"
+  ],
+  "topics": [
+    "Labor Law",
+    "Constitutional Law",
+    "Employment Dispute",
+    "Unfair Dismissal",
+    "Collective Bargaining"
+  ],
+  "verdict": "Appeal dismissed; High Court judgment upheld in favor of the plaintiffs. Dismissals declared unlawful, and plaintiffs entitled to redundancy benefits with interest.",
+  "winningSide": "Plaintiffs/Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Anim, J.A.",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Omari Sasu, J.A.",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Kusi-Appouh (Mrs), J.",
+      "role": "panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "labor and employment",
+  "citations": [
+    "GAKPLADZI FRANCIS & ORS. v. SPINTEX LIMITED [12/03/2004] CA NO. HI/35/2004",
+    "NARTEY TOKOLI VRS. VALCO (1987-88) GLRD 100",
+    "NARTEY TOKOLI & ORS. VOLTA ALUMINIUM CO. LTD. (1989–90) GLRD 111 S.C.",
+    "STEVENSON v UNITED ROAD TRANSPORT UNION (1977) 2 ALL ER 941 CA",
+    "GHANA COCOA MARKETING BOARD v AGBETTOH, Court of Appeal, 8 November 1984: digested in (1984-86) GLRD 16"
+  ],
+  "rationaleHighlights": [
+    "Exhibit B (work-to-cover policy) was a unilateral variation of the collective agreement and thus invalid under Act 299",
+    "Plaintiffs' demonstration was protected under Article 21(1)(d) of the 1992 Constitution",
+    "Dismissal based on alleged illegal strike failed due to lack of evidence of violence or property damage",
+    "Suspension of redundancy exercise created an unfair ultimatum: 'work to cover' or 'resign'",
+    "Local union lacked authority to negotiate changes without delegation from TEGLEU"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed court record, direct citation of exhibits, and judicial reasoning. Some truncation in source text, but key facts and legal analysis are preserved.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/GAKPLADZI FRANCIS & ORS. v. SPINTEX LIMITED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:32:49.667Z",
+    "plainTextLength": 18568
+  },
+  "trialDate": "2004-03-12"
+}

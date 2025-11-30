@@ -1,0 +1,71 @@
+{
+  "caseTitle": "REX v ABRIEL JOES NW AGBANI",
+  "summary": "In Rex v Abriel Joes Nwagbani, the West Africa Court of Appeal heard an appeal from a conviction for stealing by a clerk under section 390(6) of the Criminal Code. The appellant, a clerk at Messrs John Holt & Co., was found to be £16 6s 9½ short in his stamp-related accounts. He had drawn funds via vouchers and maintained an outgoings book, but the shortfall was deemed a general deficiency. The appellate court held that a general accounting deficit, without evidence of theft of specific items or funds, was insufficient to sustain a criminal conviction for stealing. The court emphasized that criminal liability requires proof of specific dishonest acts, not mere suspicion or civil-level discrepancies. Consequently, the conviction and sentence were quashed, and an acquittal was entered. The appellant was discharged.",
+  "legalKeywords": [
+    "stealing by clerk or servant",
+    "section 390(6) Criminal Code",
+    "general deficiency in accounts",
+    "conviction quashed",
+    "acquittal",
+    "criminal law",
+    "burden of proof",
+    "sufficient evidence",
+    "appellate review",
+    "theft",
+    "employee misconduct",
+    "accounting discrepancy",
+    "standard of proof",
+    "criminal conviction",
+    "judicial discharge"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Theft",
+    "Appellate Review",
+    "Employment Law",
+    "Evidence"
+  ],
+  "verdict": "Conviction quashed; acquittal entered.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Baker",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Abriel Joes Nwagbani, WACA/8, 7th February 1942"
+  ],
+  "rationaleHighlights": [
+    "The deficiency was general and not tied to specific acts of theft.",
+    "No proof that the accused stole particular stamps or money.",
+    "Mere accounting shortfall insufficient to prove stealing under section 390(6).",
+    "Conviction based on suspicion rather than evidence.",
+    "Appellate court emphasized need for concrete evidence in criminal charges.",
+    "Acquittal entered due to lack of specific incriminating evidence.",
+    "Distinction made between civil liability for deficiency and criminal liability for stealing.",
+    "Judgment reflects principle that criminal guilt requires proof beyond reasonable doubt."
+  ],
+  "confidenceNotes": "High confidence; details are drawn directly from the court's published judgment.",
+  "metadata": {
+    "sourcePath": "WACA/8 WACA/REX  v  ABRIEL JOES NW AGBANI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:20:17.391Z",
+    "plainTextLength": 2732
+  },
+  "trialDate": "1942-02-07"
+}

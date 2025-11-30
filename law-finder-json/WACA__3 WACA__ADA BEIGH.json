@@ -1,0 +1,68 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "In this 1936 West Africa Court of Appeal decision, the court reviewed a judgment against Colin Shaw, an executor of the estate of Job Beigh, who was ordered to pay £800 13s. 5d. to legatee Ada Beigh. The appeal centered on three main issues: (1) the executor’s liability for capital improvements made to a life-interest property at 10 Leman Street; (2) accountability for a mortgage on 12 Hagan Street where the deed was not produced; and (3) responsibility for shop goods bequeathed under the will. The court held that the executor was entitled to full indemnity for properly incurred improvement costs, which should be credited against any liability. Regarding the mortgage, the court ruled that without production of the deed, the executor could not be charged with unrealized interest or principal, only with amounts actually received (£2 5s.). On the shop goods, the court found the executor’s liability limited to £55 4s., after which possession was handed over to the beneficiary. The court emphasized that in the absence of allegations of wilful default or breach of trust, the standard form of account must apply. The appeal was allowed, the lower court’s judgment and costs order set aside, and the case remitted for adjustment consistent with these principles.",
+  "legalKeywords": [
+    "executor liability",
+    "trustee indemnity",
+    "capital improvements",
+    "breach of trust",
+    "mortgage deed non-production",
+    "account of estate",
+    "testamentary purpose",
+    "personal property bequest",
+    "implied assent",
+    "administration order"
+  ],
+  "topics": [
+    "Executor and Trustee Duties",
+    "Mortgage Enforcement",
+    "Estate Accounting",
+    "Trust Property Improvements",
+    "Beneficiary Rights"
+  ],
+  "verdict": "Appeal allowed; judgment and costs set aside; case remitted for further enquiries consistent with the ruling on executor indemnity and limited liability.",
+  "winningSide": "Defendant-Appellant (Colin Shaw)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Webber",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Kingdon",
+      "role": "Justice"
+    },
+    {
+      "name": "Yates",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Re Chapman Cocks v. Chapman, 1896, 2 Ch. 778",
+    "Re Medland Eland v. Medland, 1889, 41 Ch. D. 476 C.A.",
+    "Scott & Milne, 1884 25 Ch. D. 710 C.A.",
+    "Rowley v. Ginnever, 2 Ch. 1897, p. 503",
+    "Seton's Judgments & Orders, Vol. II, 5th Ed., pp. 985 and 986",
+    "Williams on Executors, 12th Ed., Vol. 2, p. 1292"
+  ],
+  "rationaleHighlights": [
+    "No duty on executor to realize mortgage where not required for testamentary purpose or security in peril",
+    "Executor entitled to indemnity for expenses properly incurred on trust property",
+    "Non-production of mortgage deed prevents court from directing sale or assessing liability beyond actual receipts",
+    "Form of account should not be varied absent allegations of wilful default or breach of trust",
+    "Beneficiary taking possession ends executor's active role regarding bequeathed goods"
+  ],
+  "confidenceNotes": "High confidence; all information derived directly from judicial reasoning and cited authorities in the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/ADA BEIGH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:28:04.758Z",
+    "plainTextLength": 16458
+  },
+  "trialDate": "1936-05-26"
+}

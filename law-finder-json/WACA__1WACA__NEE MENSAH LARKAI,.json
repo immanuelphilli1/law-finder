@@ -1,0 +1,73 @@
+{
+  "caseTitle": "NEE MENSAH LARKAI,",
+  "summary": "This 1933 West African Court of Appeal case involved a dispute over land in Accra, originally granted to J. in 1872 as individual property. J. transferred it to his brother A. (Ahuru) in 1889, making A. the individual owner. Upon A.'s intestate death circa 1905, the land became family property under Ga customary law. The plaintiff, claiming as head of the Larkai family, sued to recover the land. The lower court found for the defendants, A.'s nieces, based on alleged gift from A. to their mother O. (Otua) or her 25 years of possession. On appeal, the court held that the plaintiff, as a male-line successor to the family stool, had no claim to family property, which descends through females. O. had succeeded as head of A.'s family and held the land in trust, so her long possession did not vest ownership. As neither party proved title, the appeal was dismissed by non-suit, with each side bearing its own costs.",
+  "legalKeywords": [
+    "family stool",
+    "headship",
+    "family property",
+    "succession",
+    "long possession",
+    "individual ownership",
+    "Ga customary law",
+    "non-suit",
+    "intestate succession",
+    "customary trusteeship",
+    "property dispute",
+    "native law and custom",
+    "ripening of possession",
+    "title to land",
+    "discontinuance of appeal",
+    "costs",
+    "undisturbed possession",
+    "inter vivos gift",
+    "alienation of family property",
+    "mortgagee"
+  ],
+  "topics": [
+    "Customary Law",
+    "Property Law",
+    "Succession",
+    "Land Title",
+    "Family Trust"
+  ],
+  "verdict": "Appeal dismissed by non-suit; no party established title to the land.",
+  "winningSide": "Neither party; case dismissed due to lack of proven title",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Deane C.J.",
+      "role": "appellate judge"
+    },
+    {
+      "name": "Michelin J.",
+      "role": "appellate judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "property dispute",
+  "citations": [
+    "WACA/1WACA/NEE MENSAH LARKAI,",
+    "Ahuru v. Larkai Mensah"
+  ],
+  "rationaleHighlights": [
+    "Succession to family stool (male line) is distinct from succession to family property (female line).",
+    "Land originally individual property of J., then transferred to A. (Ahuru) via gift.",
+    "Upon A.'s intestate death, land became family property of A.'s lineage, not the wider Larkai family.",
+    "O. (Otua) succeeded as head of A.'s family and held land in trust, not as individual owner.",
+    "Long possession by O. did not ripen into ownership under Ga customary law due to fiduciary role.",
+    "Plaintiff, as male descendant, could not inherit family property; lacked standing.",
+    "Defendants failed to prove inter vivos gift from A. to O.",
+    "Appeal dismissed by non-suit; parties bear own costs."
+  ],
+  "confidenceNotes": "High confidence; details are consistent across judicial reasoning and factual recitation.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/NEE MENSAH LARKAI,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:41:38.156Z",
+    "plainTextLength": 27535
+  },
+  "trialDate": "1933-11-22"
+}

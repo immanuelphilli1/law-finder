@@ -1,0 +1,63 @@
+{
+  "caseTitle": "JONAS ADDO McKAY, MR. OKU, MRS. OKU VRS DANIEL MENSAH, NATIONAL LOTT RECEIVERS UNION,ACCRA,",
+  "summary": "This is a ruling by Justice A. A. Benin of the Supreme Court of Ghana in a civil motion concerning a preliminary objection to a repeat application for an interlocutory injunction pending appeal. The applicant, Daniel Mensah, had previously filed a late application to stay execution of a High Court judgment, which the Court of Appeal dismissed on 16th January 2012. Nine days later, he filed a review application, which the Court of Appeal dismissed on 8th November 2012. The applicant then appealed that review decision to the Supreme Court and filed a repeat application for interlocutory injunction. The respondents raised a preliminary objection, arguing lack of jurisdiction and procedural non-compliance. The Supreme Court dismissed the objection, holding that the appeal was validly filed against the 8th November ruling, and that under Rule 20(2) of CI 16 and Article 129(4) of the 1992 Constitution, the Court had jurisdiction to hear the application, which effectively sought a stay of execution. The Court emphasized that the substance of the application, not its label, governed its admissibility, and allowed the injunction application to proceed on its merits.",
+  "legalKeywords": [
+    "interlocutory injunction",
+    "jurisdiction",
+    "stay of execution",
+    "preliminary objection",
+    "review of judgment",
+    "appeal",
+    "inherent jurisdiction",
+    "Court of Appeal",
+    "Supreme Court",
+    "procedural compliance",
+    "constitutional authority",
+    "Article 129(4)",
+    "Rule 20(2) CI 16",
+    "Rule 31 Court of Appeal Rules",
+    "time for appeal"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Jurisdiction",
+    "Injunction",
+    "Appeal",
+    "Stay of Execution"
+  ],
+  "verdict": "The preliminary objection was dismissed, and the application for interlocutory injunction was ordered to be heard on its merits.",
+  "winningSide": "Applicant (Daniel Mensah and National Lott Receivers Union)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "A. A. Benin",
+      "role": "Presiding Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Swaniker v. Adotei Twi II (1966) GLR 151",
+    "Republic v. Tutu II (2008) 7 MLRG 238"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court has jurisdiction to hear a repeat application for interlocutory injunction if it effectively seeks a stay of execution.",
+    "The notice of appeal against the 8th November 2012 ruling is valid on its face, regardless of motive.",
+    "Rule 20(2) of CI 16 requires prior application to the Court of Appeal before approaching the Supreme Court.",
+    "The object of the application, not its title, determines its validity.",
+    "The Supreme Court may exercise inherent jurisdiction to ensure substantial justice.",
+    "A review cannot substitute for an out-of-time appeal, but an appeal against a review ruling is permissible.",
+    "The court dismissed the preliminary objection as the application complied procedurally.",
+    "The respondents were given 10 days to respond to the injunction application."
+  ],
+  "confidenceNotes": "The case is an unreported ruling from the Supreme Court of Ghana, and the details are drawn directly from the provided text. All information is consistent with the document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/JONAS ADDO McKAY, MR.  OKU, MRS.  OKU  VRS  DANIEL MENSAH,  NATIONAL LOTT RECEIVERS UNION,ACCRA,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:12:49.466Z",
+    "plainTextLength": 6829
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "caseTitle": "THE REPUBLIC v THE AUTOMATED FAST TRACKHIGH COURT ACCRAEX-P",
+  "summary": "This 2008 Supreme Court of Ghana ruling addressed an application by MacLeod & Snowrad Ltd. to invoke the Court's supervisory jurisdiction under Article 132 of the 1992 Constitution, seeking certiorari and prohibition orders against the Automated Fast Track High Court, Accra. The applicants challenged the jurisdiction of Justice Gyeasayor, arguing his assumption of the case was improper. The core issue was when the 90-day limitation period under Supreme Court Rule 62 began to run. The Court held that although the applicants first became aware of the alleged jurisdictional defect on 21st January 2008, they unreasonably delayed filing the application until 9th June 2008—well beyond the 90-day deadline ending 20th April 2008. The Court analogized Section 22 of the Limitation Decree (N.R.C.D. 54) to determine the start of the limitation period upon discovery of the defect, but found no reasonable diligence in the delay. Consequently, the preliminary objection was upheld, and the application was struck out as time-barred and incompetent.",
+  "legalKeywords": [
+    "supervisory jurisdiction",
+    "certiorari",
+    "prohibition",
+    "jurisdictional defect",
+    "limitation period",
+    "Article 132 Constitution",
+    "Rule 62 Supreme Court Rules",
+    "natural justice",
+    "fraudulent transfer",
+    "discovery rule",
+    "ex parte application",
+    "default judgment",
+    "case transfer",
+    "judicial impartiality",
+    "time bar",
+    "diligence",
+    "void proceedings",
+    "adjudicating authority",
+    "constitutional remedy",
+    "court registry search"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Civil Procedure",
+    "Judicial Review",
+    "Limitation of Actions",
+    "Supreme Court Jurisdiction"
+  ],
+  "verdict": "Application struck out",
+  "winningSide": "Respondent (Automated Fast Track High Court)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "R.C. Owusu",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "S.K. Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "J. Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "J.V.M. Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Motion",
+  "citations": [
+    "C.I. 16 as amended by C.I. 24",
+    "N.R.C.D. 54 (Limitation Decree)",
+    "THE REPUBLIC VRS. HIGH COURT, KUMASI; EX-PARTE; MOBIL OIL (GHANA) LTD [2005-6] SCGLR 312",
+    "Texano Africa Ltd. V. Bedu [1978] G.L.R 307"
+  ],
+  "rationaleHighlights": [
+    "The 90-day period under Rule 62 begins when the applicant discovers or reasonably should have discovered the grounds for the application.",
+    "The applicants became aware of the jurisdictional issue on 21/1/2008 through a registry search, not on 26/10/2006 when they were not yet parties.",
+    "Delay in filing after discovery was unreasonable, despite awareness of time sensitivity.",
+    "Analogous application of Section 22 of N.R.C.D. 54 supports the discovery rule for limitation periods.",
+    "Failure to seek timely extension of time rendered the application incompetent.",
+    "The court distinguished this case from Mobil Oil based on the nature of the jurisdictional challenge.",
+    "Procedural diligence is essential when invoking constitutional remedies.",
+    "The Fast Track High Court's refusal to set aside proceedings on 10/3/2008 did not restart the limitation clock."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from the court's ruling. All names, dates, rules, and legal principles are explicitly stated in the source document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2008/THE REPUBLIC v  THE AUTOMATED FAST TRACKHIGH COURT ACCRAEX-P.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:13:42.679Z",
+    "plainTextLength": 11716
+  },
+  "trialDate": "2008-10-29"
+}

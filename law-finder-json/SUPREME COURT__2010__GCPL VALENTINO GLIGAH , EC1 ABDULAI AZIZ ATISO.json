@@ -1,0 +1,77 @@
+{
+  "caseTitle": "GCPL VALENTINO GLIGAH , EC1 ABDULAI AZIZ ATISO",
+  "summary": "The appellants, G/Cpl Valentino Gligah and EC/1 Abdulai Aziz Atiso, both police officers, were convicted of rape by a jury and sentenced to 15 years' imprisonment with hard labor. The Supreme Court upheld the conviction, finding that the prosecution proved beyond reasonable doubt that the accused had non-consensual carnal knowledge of Cynthia Nyante on June 22, 1998, at the Central Police Station in Accra. The victim's testimony was corroborated by medical evidence showing vaginal abrasions and probable semen, as well as circumstantial evidence including the recovery of her earring from the crime scene. The defense of denial and claim of prior consensual relationship was rejected as unreasonable and unconvincing. The Court applied the 'oath against oath' principle from Amartey v Republic, concluding that the prosecution's case was credible and the defense lacked probability. The appeal was dismissed.",
+  "legalKeywords": [
+    "rape",
+    "carnal knowledge",
+    "consent",
+    "oath against oath",
+    "corroboration",
+    "medical evidence",
+    "reasonable doubt",
+    "criminal appeal",
+    "burden of proof",
+    "presumption of innocence",
+    "witness credibility",
+    "circumstantial evidence",
+    "penetration",
+    "victim testimony",
+    "defense denial"
+  ],
+  "topics": [
+    "criminal law",
+    "sexual offenses",
+    "appellate review",
+    "evidence",
+    "constitutional rights"
+  ],
+  "verdict": "Appeal dismissed; conviction and sentence upheld.",
+  "winningSide": "The Republic",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Dotse",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Brobbey",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Ansa",
+      "role": "panel member"
+    },
+    {
+      "name": "Yeboah",
+      "role": "panel member"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Lutterodt vrs Commissioner of Police [1963] 1 GLR 429",
+    "Amartey vrs Republic 1964 GLR 256 at 295",
+    "Darko vrs Republic 1968 GLR 203"
+  ],
+  "rationaleHighlights": [
+    "The case hinged on 'oath against oath,' requiring careful assessment of witness credibility.",
+    "Medical evidence confirmed recent sexual activity with physical trauma consistent with non-consensual intercourse.",
+    "Circumstantial evidence, including the discovery of the victim's earring in the room, strongly corroborated the victim's account.",
+    "The defense failed to provide a reasonable or probable alternative explanation despite having the opportunity to do so."
+  ],
+  "confidenceNotes": "The judgment is well-reasoned and based on clear evidentiary analysis, particularly regarding corroboration of the victim's testimony and forensic evidence. The court applied established legal principles consistently.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/GCPL VALENTINO GLIGAH , EC1 ABDULAI AZIZ ATISO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:47:37.806Z",
+    "plainTextLength": 33201
+  },
+  "trialDate": "2009-04-03"
+}

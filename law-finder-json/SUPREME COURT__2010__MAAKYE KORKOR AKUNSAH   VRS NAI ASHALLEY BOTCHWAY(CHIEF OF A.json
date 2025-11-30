@@ -1,0 +1,76 @@
+{
+  "caseTitle": "MAAKYE KORKOR AKUNSAH VRS NAI ASHALLEY BOTCHWAY(CHIEF OF A",
+  "summary": "This Supreme Court of Ghana case involved a dispute over 212.06 acres of Awutu Ofaadaa stool land claimed by Maakye Korkor Akunsah, the appellant, who alleged she received the land as a gift from the chief in 1947 and had cultivated it with her children and tenants. The 1st defendant, her son and chief of Awutu Ofaadaa, leased the land to Jei River Farm Limited in 2000 without her consent. The plaintiff sued for declaration of customary freehold ownership, damages for trespass, recovery of possession, and perpetual injunctions. The High Court dismissed her claim, finding she was not in possession and that she had consented to the lease. The Court of Appeal upheld the decision, ruling the plaintiff failed to prove the gift under customary law, particularly the performance of aseda rites and family consent. The Supreme Court affirmed, emphasizing that stool land grants require family approval and that the plaintiff did not meet the burden of proof. The appeal was dismissed, and the defendants' counterclaim was upheld, recognizing the chief's authority to lease stool land with proper consultation.",
+  "legalKeywords": [
+    "customary freehold",
+    "stool land",
+    "gift of land",
+    "alienation of land",
+    "possession",
+    "trespass",
+    "declaration of title",
+    "perpetual injunction",
+    "burden of proof",
+    "weight of evidence",
+    "consent",
+    "compensation",
+    "chief's authority",
+    "family consent",
+    "Akan custom"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Stool Land",
+    "Gift of Land",
+    "Supreme Court Decision"
+  ],
+  "verdict": "Appeal dismissed; decision in favor of the defendants upheld.",
+  "winningSide": "Defendants (Nai Ashalley Botchway and Jei River Farm Limited)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Aryeetey, JSC",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Atuguba, JSC",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Date-Bah (Dr), JSC",
+      "role": "panel member"
+    },
+    {
+      "name": "Yeboah, JSC",
+      "role": "panel member"
+    },
+    {
+      "name": "Baffoe-Bonnie, JSC",
+      "role": "panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Golighty vrs. Ashrifi (supra)"
+  ],
+  "rationaleHighlights": [
+    "The plaintiff failed to prove the customary gift of stool land due to lack of evidence on essential requirements like aseda rites and presence of principal family members.",
+    "The defendants provided credible testimony that no gift was made, supported by family witnesses and the chief's authority.",
+    "The trial court found the plaintiff was not in actual possession, and her claim of cultivating 212 acres was not credible.",
+    "Under Akan customary law, a chief cannot validly gift stool land without consent of principal family members, which was not shown.",
+    "The Court of Appeal correctly held the appeal was against the weight of evidence, as the plaintiff did not meet her burden of proof."
+  ],
+  "confidenceNotes": "The case summary is based on a full judgment text with clear procedural history and reasoning. All key elements (parties, issues, rulings, rationale) are explicitly stated. The only limitation is the truncation near the end, but the core decision and reasoning are preserved.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/MAAKYE KORKOR AKUNSAH   VRS NAI ASHALLEY BOTCHWAY(CHIEF OF A.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:45:56.039Z",
+    "plainTextLength": 22652
+  },
+  "trialDate": "2009-04-22"
+}

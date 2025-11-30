@@ -1,0 +1,67 @@
+{
+  "caseTitle": "OHIMEN VERSUS ADJEI AKD",
+  "summary": "This case involved a dispute between a family and their stool over the right to alienate stool land. The plaintiff, representing his family, sought a declaration of title, an injunction, and damages for trespass, arguing that the stool could not alienate land occupied by the family without their consent. The Supreme Court of Ghana held that while the stool holds an absolute estate in stool land as trustee for its subjects, subjects in occupation hold a determinable estate that cannot be alienated by the stool without their consent. The court rejected the notion of prescriptive title through long possession, affirming that undisturbed possession does not vest ownership but laches may estop the true owner from recovering land if they have unreasonably delayed. The Native Court's findings were overturned on grounds of legal misdirection regarding res judicata and the effect of long possession. The judgment clarified key principles of customary land tenure, including the nature of estates, requirements for alienation, and the fiduciary duties of stools toward their subjects.",
+  "legalKeywords": [
+    "stool land",
+    "native law and custom",
+    "determinable estate",
+    "absolute estate",
+    "usufructuary rights",
+    "alienation of land",
+    "consent to conveyance",
+    "laches",
+    "forfeiture",
+    "escheat",
+    "reversion",
+    "title to land",
+    "customary land tenure",
+    "family land",
+    "equitable estoppel"
+  ],
+  "topics": [
+    "Customary Land Tenure",
+    "Stool Land Rights",
+    "Alienation of Land",
+    "Laches and Estoppel",
+    "Title to Land"
+  ],
+  "verdict": "The appeal was allowed. The Native Court's judgment was set aside due to legal misdirection on res judicata and the law of adverse possession. The court affirmed the plaintiff family's determinable estate in the land and the requirement of their consent for alienation.",
+  "winningSide": "Plaintiff (family)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana, Central Judicial Division, Land Court, Cape Coast",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "Kuma v. Kuma (1936) 5 W.A.C.A. 4",
+    "Fiscian v. Nelson and Baksmaty (1946) 12 W.A.C.A. 21",
+    "Abbey and Another v. Ollenu (1954) 14 W.A.C.A. 567",
+    "Lokko v. Konkloft (1907) Renner, Vol. 1, Pt. 2, pg 276",
+    "Golightly and Another v. Ashrifi and Others (1955) 14 W.A.C.A. 676",
+    "Essien v. Duncan (1956) 2 W.A.L.R. 155"
+  ],
+  "rationaleHighlights": [
+    "Stool holds stool land as trustee for subjects; interest is absolute but fiduciary.",
+    "Subject grantees hold determinable estates inheritable and alienable among subjects.",
+    "Alienation of occupied stool land requires consent of grantee.",
+    "Long undisturbed possession does not create title but laches may bar recovery.",
+    "Stool may alienate vacant land absolutely with proper consents.",
+    "Forfeiture occurs upon denial of stool's title, e.g., unauthorized alienation to stranger.",
+    "Escheat of abandoned land reverts to stool, not Crown.",
+    "Native court misdirected on res judicata and prescriptive title."
+  ],
+  "confidenceNotes": "High confidence; all information derived directly from judicial reasoning and editorial notes in the provided text.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/OHIMEN v. ADJEI AKD ANOTHER..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:26:21.647Z",
+    "plainTextLength": 20762
+  }
+}

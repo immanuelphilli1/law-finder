@@ -1,0 +1,85 @@
+{
+  "caseTitle": "TETTEH AYAA IDDRISU V WINFRED OTUAFRO ARYEH TENMOTE AKAKPO N",
+  "summary": "This Supreme Court of Ghana decision arose from a civil appeal concerning a land dispute between the plaintiff, Iddrisu Ayaa Tetteh, representing the Ayaa Kwabla family, and defendants Winfred Otuafro Aryeh and Tenmote Akakpo. The case centered on the enforcement of a prior judgment (Suit No. 1/2001) where the trial court had ordered the defendants to pay GH¢2,000 per acre for 200 acres of land and to compensate for additional occupied plots following a survey. The plaintiff, after four years of inaction, filed a new suit seeking an upward review of the ground rent and compensation for extra land at current market value. The Supreme Court held that the plaintiff's failure to execute the original judgment rendered the new claim for rent review an abuse of court process, citing the principle that a party cannot benefit from their own wrong. The Court emphasized that judgments declare pre-existing liabilities and must be enforced through proper execution mechanisms. While the appeal challenged the compensation award of GH¢50 million per acre for additional plots, the Supreme Court upheld it, finding no error in the trial court's exercise of judicial discretion. The appeal was dismissed, affirming the need for finality in litigation.",
+  "legalKeywords": [
+    "judgment enforcement",
+    "abuse of court process",
+    "compensation",
+    "land dispute",
+    "ground rent",
+    "execution of judgment",
+    "inherent jurisdiction",
+    "concurrent findings of fact",
+    "judicial discretion",
+    "residential plots",
+    "survey",
+    "land valuation",
+    "non-compliance",
+    "stay of execution",
+    "finality of litigation"
+  ],
+  "topics": [
+    "Land Law",
+    "Judgment Enforcement",
+    "Appellate Review",
+    "Abuse of Process",
+    "Compensation"
+  ],
+  "verdict": "Appeal dismissed.",
+  "winningSide": "Plaintiff/Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Anin Yeboah",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "S. A. Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "J. Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "J. V. M. Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "P. Baffoe-Bonnie",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "AMOAKO ATTA IV V. NUAMAH [1963] IGLR 432",
+    "RE CHINERY; EXPARTE CHINERY [1884] 12 QBD 342",
+    "RE RIDELL, EX PARTE EARL OF STRATHMORE [1888] 20 QBD 512",
+    "KOJO V. BONSIE [1953] 14 WACA 242-243",
+    "ACHORO V. AKANFELA [1996-97] SCGLR 209",
+    "KOGLEX LTD № 2 V. FIELD [2000] SCGLR 175",
+    "ADU V. AHAMAH [2007–2008] SCGLR 143",
+    "KISH V. TAYLOR [1911] I KB 624"
+  ],
+  "rationaleHighlights": [
+    "A judgment must ascertain a pre-existing liability or right.",
+    "Seeking upward review of rent four years after judgment is an abuse of court process.",
+    "Plaintiff should have enforced the original judgment via execution.",
+    "Principle that a party cannot benefit from their own wrong applies.",
+    "Appellate court should not disturb concurrent factual findings without strong grounds.",
+    "Compensation award upheld due to lack of demonstrated error in judicial discretion.",
+    "Courts have inherent jurisdiction to prevent abuse of process.",
+    "Interest rei publicae ut sit finis litium: litigation must come to an end."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct quotes from the judgment and consistent legal reasoning.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/TETTEH AYAA IDDRISU V WINFRED OTUAFRO ARYEH TENMOTE AKAKPO N.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:42:28.693Z",
+    "plainTextLength": 12030
+  }
+}

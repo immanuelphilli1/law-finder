@@ -1,0 +1,74 @@
+{
+  "caseTitle": "VICTORIA ISLAND PROPERTIES LTD & ANZ GRINDLAYS BANK LTD v",
+  "summary": "This Supreme Court of Ghana case arose from a civil appeal by Standard Chartered Bank GH Ltd (Appellant) against a Court of Appeal decision holding it liable for the loss of US$82,000 fraudulently transferred from Victoria Island Properties Ltd (Respondent). The funds were transferred via telefax instructions by a third party, E.O. Effiong, who impersonated an authorized signatory of the Respondent and directed ANZ Grindlays Bank (Co-Plaintiff) to send the money to a fictitious account at the Appellant’s Liberia Road Branch. The Appellant paid out the funds to Effiong, who lacked a foreign currency account. The Respondent sued for conversion, negligence, and conspiracy. The High Court and Court of Appeal held the Appellant liable under section 81 of the Bills of Exchange Act 1961, interpreting it as imposing a broad statutory duty of care on banks. However, the Supreme Court reversed this, ruling that section 81 applies only to cheques and negotiable instruments, not electronic fund transfers. The Court found no negligence on the part of the Appellant, which acted in good faith and in accordance with payment instructions. The conspiracy claim was struck out for lack of evidence. The appeal was allowed, and the judgment against the Appellant was set aside.",
+  "legalKeywords": [
+    "banking negligence",
+    "international funds transfer",
+    "fictitious account",
+    "duty of care",
+    "indemnity",
+    "conversion",
+    "conspiracy",
+    "statutory interpretation",
+    "Bills of Exchange Act",
+    "collecting banker"
+  ],
+  "topics": [
+    "Banking Law",
+    "Negligence",
+    "Electronic Fund Transfer",
+    "Statutory Interpretation",
+    "Civil Liability"
+  ],
+  "verdict": "The appeal was allowed. The Supreme Court set aside the judgment of the Court of Appeal and discharged the liability of Standard Chartered Bank GH Ltd.",
+  "winningSide": "Standard Chartered Bank GH Ltd (Appellant)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. S. Twum",
+      "role": "Presiding Judge delivering judgment"
+    },
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Member of the bench"
+    },
+    {
+      "name": "Brobbey, J.S.C.",
+      "role": "Member of the bench"
+    },
+    {
+      "name": "Mrs. Adinyira, J.S.C.",
+      "role": "Member of the bench"
+    },
+    {
+      "name": "Asiamah, J.S.C.",
+      "role": "Member of the bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Bills of Exchange Act 1961 (Act 55), s 81",
+    "Victoria Island Properties Ltd v Standard Chartered Bank GH Ltd [2006] GHSC 5",
+    "The Court of Appeal Judgment, 12th November 2004",
+    "High Court Judgment, 24th May 2001"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court found that section 81 of the Bills of Exchange Act 1961 does not apply to electronic fund transfers, only to cheques.",
+    "The Court held that Standard Chartered Bank was not liable in negligence for paying out funds based on fraudulent instructions where it acted in good faith.",
+    "The allegation of conspiracy was struck out for lack of evidence and as an abuse of court process.",
+    "The Court emphasized the evolving nature of electronic banking and the need for updated legal frameworks.",
+    "The appeal was allowed, and the Court of Appeal’s judgment holding the bank liable was set aside."
+  ],
+  "confidenceNotes": "The summary is based on a full reading of the Supreme Court judgment. All key legal reasoning, parties, and holdings are accurately represented. The case is unreported but accessible via the cited source.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2006A/VICTORIA ISLAND PROPERTIES LTD  & ANZ GRINDLAYS BANK LTD   v.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T18:00:37.502Z",
+    "plainTextLength": 44598
+  },
+  "trialDate": "2006-05-04"
+}

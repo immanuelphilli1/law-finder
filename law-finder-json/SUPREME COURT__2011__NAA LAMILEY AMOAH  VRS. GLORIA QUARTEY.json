@@ -1,0 +1,84 @@
+{
+  "caseTitle": "NAA LAMILEY AMOAH VRS. GLORIA QUARTEY",
+  "summary": "This Supreme Court of Ghana case, Naa Lamiley Amoah v. Gloria Quartey (formerly Betty Lokko) & Others (Suit No. CA J4/20/2010, 10th February 2011), centered on a land dispute over Plot No. 1750/1957 in Osu, Accra. The appellant, Naa Lamiley Amoah, claimed she purchased two contiguous plots from Betty Lokko, including 1750/1957, and gifted it to her sister, Mrs. Welbeck. She instructed her husband, a lawyer, to prepare conveyances to transfer 1750/1957 to Welbeck and 1751/1957 to herself. However, due to a competing claim over 1751/1957, Welbeck demanded and received a refund of ₵6,000,000 from Lokko for 1750/1957. Subsequently, Lokko sold 1750/1957 to Sensations Limited. The appellant sued for specific performance, rectification of the land register, and a declaration that the sale was void. The trial High Court dismissed her claims and granted the respondent’s counterclaim, a decision upheld by the Court of Appeal and affirmed by the Supreme Court. The Supreme Court held that the unexecuted conveyances did not transfer title, the refund terminated any interest in the land, and Lokko remained the legal owner at the time of sale, rendering the transaction to Sensations Limited valid. The appeal was dismissed.",
+  "legalKeywords": [
+    "land ownership",
+    "specific performance",
+    "conveyance",
+    "equitable lien",
+    "refund of purchase price",
+    "execution of deed",
+    "gift of property",
+    "rectification of land register",
+    "null and void sale",
+    "injunction",
+    "counterclaim",
+    "damages",
+    "trial court findings",
+    "Court of Appeal",
+    "Supreme Court appeal",
+    "receipt as evidence",
+    "unexecuted conveyance",
+    "rescission of contract",
+    "beneficiary interest",
+    "land certificate"
+  ],
+  "topics": [
+    "Property Law",
+    "Land Title",
+    "Contract Law",
+    "Equity",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed; decision of the Court of Appeal and trial High Court affirmed.",
+  "winningSide": "Respondents (Gloria Quartey, Chief Registrar, and Sensations Limited)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "W. A. Atuguba",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "R. Owusu",
+      "role": "Justice"
+    },
+    {
+      "name": "B. T. Aryeetey",
+      "role": "Delivered Judgment"
+    },
+    {
+      "name": "A. Akoto-Bamfo",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "CA J4/20/2010",
+    "Conveyancing Decree (Act) 1973 (NRCD 175) S. 2"
+  ],
+  "rationaleHighlights": [
+    "Ownership of plot 1750/1957 at time of sale was central issue.",
+    "Unexecuted conveyances (Exhibits 1 & 2) did not transfer legal title.",
+    "Refund of purchase price to Mrs. Welbeck terminated any interest in the plot.",
+    "Betty Lokko retained ownership and could validly sell to Sensations Limited.",
+    "Appellant had no standing to claim specific performance.",
+    "Court upheld trial court and Court of Appeal findings.",
+    "Supreme Court found judgment not against the weight of evidence."
+  ],
+  "confidenceNotes": "The case details are drawn directly from the Supreme Court judgment document; all key facts and legal reasoning are explicitly stated in the text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/NAA LAMILEY AMOAH  VRS. GLORIA QUARTEY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:02:16.204Z",
+    "plainTextLength": 31783
+  },
+  "trialDate": "2010-04-20"
+}

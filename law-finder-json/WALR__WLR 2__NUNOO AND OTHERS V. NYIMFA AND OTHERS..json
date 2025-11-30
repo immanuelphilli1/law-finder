@@ -1,0 +1,71 @@
+{
+  "caseTitle": "AND OTHERS VERSUS NYIMFA",
+  "summary": "In Nunoo and Others v. Nyimfa and Others, the appellants sought enforcement of a consent order made during a concession enquiry, which provided for the cancellation of an existing lease and the creation of a new one. The respondents refused to approve the draft new lease. The appellants applied to the Land Court to enforce the settlement under the Supreme Court (Civil Procedure) Rules, 1954, Order 42, Rule 23, or alternatively under section 19 of the Concessions Ordinance, c. 136 of 1951. The court dismissed the application, holding that once the lease was cancelled, no concession remained for enquiry, thus depriving the court of jurisdiction to enforce the settlement via interlocutory application. The West African Court of Appeal upheld this decision, ruling that the consent terms, though recorded, were not enforceable within the terminated proceeding and that enforcement required a separate substantive action. The court also held that section 19 of the Concessions Ordinance did not apply, as no concession had been declared invalid.",
+  "legalKeywords": [
+    "concession",
+    "lease cancellation",
+    "consent order",
+    "enforcement of settlement",
+    "jurisdiction",
+    "specific performance",
+    "interlocutory application",
+    "Concessions Ordinance",
+    "Supreme Court Civil Procedure Rules",
+    "certificate of validity"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Civil Procedure",
+    "Land Law",
+    "Enforcement of Settlement"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Korsah C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "van Lare J.",
+      "role": "Judge"
+    },
+    {
+      "name": "Acolatse J.",
+      "role": "Lower Court Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Pryer v. Gribble (1875) 10 Ch.App. 534",
+    "Concessions Ordinance, c. 136 of 1951, s. 19",
+    "Supreme Court (Civil Procedure) Rules, 1954, Order 42, Rule 23"
+  ],
+  "rationaleHighlights": [
+    "Cancellation of the lease terminated the concession enquiry, leaving no active concession before the court.",
+    "A consent order recorded for record purposes only cannot be enforced via interlocutory application.",
+    "Section 19 of the Concessions Ordinance does not apply where no concession has been declared invalid.",
+    "Enforcement of settlement terms requires a substantive action, not an application within a terminated enquiry.",
+    "The Land Court lacked jurisdiction to enforce the settlement under Order 42, Rule 23.",
+    "Specific performance of a settlement agreement outside the original suit scope requires a new suit.",
+    "The court cannot record consent agreements as enforceable orders in concession enquiries.",
+    "A new lease must follow fresh procedures under the Concessions Ordinance for certification."
+  ],
+  "confidenceNotes": "All information is derived directly from the provided judgment text. Citations, parties, and legal reasoning are explicitly stated in the source.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/NUNOO AND OTHERS V. NYIMFA AND OTHERS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:26:42.272Z",
+    "plainTextLength": 7307
+  }
+}

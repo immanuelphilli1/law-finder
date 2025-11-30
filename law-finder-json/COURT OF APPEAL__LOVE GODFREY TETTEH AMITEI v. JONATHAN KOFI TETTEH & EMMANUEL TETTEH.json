@@ -1,0 +1,73 @@
+{
+  "caseTitle": "GODFREY TETTEH AMITEI v. JONATHAN KOFI TETTEH & EMMANUEL",
+  "summary": "This 2004 Court of Appeal decision in Ghana affirmed a lower court ruling that Love Godfrey Teteh Amitei is the lawful owner of disputed land at Amlamournya, Odumase-Krobo. The appellants, Jonathan Kofi Tetteh and Emmanuel Tetteh, challenged the judgment but failed to overturn it. The court applied the doctrine of estoppel per rem judicatam (res judicata), finding that previous arbitration decisions (Exhibits 'A' and 'B') involving the appellants' forebears—Theophilus Narh Tetteh and Rev. S.T. Aku Tetteh—had already settled ownership of the same land in favor of the respondent. The appellants admitted during cross-examination that the land in dispute was identical to that in prior proceedings. The Court held that the parties were privies to the earlier suits, the subject matter was the same, and the prior decisions were final and binding. Thus, the appellants were estopped from relitigating the issue. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "estoppel per rem judicatam",
+    "res judicata",
+    "land ownership",
+    "tribal arbitration",
+    "finality of judgment",
+    "privity of parties",
+    "burden of proof",
+    "boundary dispute",
+    "family land",
+    "judicial precedent",
+    "competent jurisdiction",
+    "evidence admissibility",
+    "oath swearing",
+    "succession to land",
+    "trespas"
+  ],
+  "topics": [
+    "Land Law",
+    "Estoppel",
+    "Appellate Review",
+    "Customary Law",
+    "Family Property"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Plaintiff/Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "E.A. Addo",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "S.T. Farkye",
+      "role": "Concurring"
+    },
+    {
+      "name": "R.T. Aninakwa",
+      "role": "Concurring"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Ababio vrs Kanga (1932) 1 WACA 253",
+    "Assampong vrs Amuaku 1932 WACA 192",
+    "Robertson vrs Reindorf (1971) 2 G.L.R. 289",
+    "Otu X and others vrs Owuodzi and others (1987-88) 1 G.L.R. 196",
+    "Conga Engineering (Gh) Limited vrs Moses (1984-86) 2 G.L.R. 319"
+  ],
+  "rationaleHighlights": [
+    "The doctrine of res judicata prevents relitigation of a matter already finally decided by a competent tribunal.",
+    "Parties or their privies are bound by prior judgments on the same subject matter.",
+    "The Trial Judge correctly applied the five elements of res judicata: competent jurisdiction, finality, identity of parties/privies, and identity of cause and subject matter.",
+    "Appellants admitted the land in dispute was the same as in prior arbitration awards.",
+    "Exhibits 'A' and 'B' were admitted without objection and established prior rulings in favor of the respondent.",
+    "Public policy supports finality of litigation to prevent harassment and repetitive suits."
+  ],
+  "confidenceNotes": "High confidence; all key facts, legal principles, and judicial reasoning are explicitly stated in the judgment. Citation of binding precedents and direct admissions from appellants' counsel strengthen reliability.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/LOVE GODFREY TETTEH AMITEI v. JONATHAN KOFI TETTEH & EMMANUEL TETTEH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:21:36.818Z",
+    "plainTextLength": 14997
+  },
+  "trialDate": "2004-02-05"
+}

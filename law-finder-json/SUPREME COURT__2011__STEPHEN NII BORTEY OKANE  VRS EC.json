@@ -1,0 +1,97 @@
+{
+  "caseTitle": "STEPHEN NII BORTEY OKANE VRS EC",
+  "summary": "The Supreme Court of Ghana, in Stephen Nii Bortey Okane v. Electoral Commission (2011), ruled on the constitutional validity of Local Government (Creation of New District Electoral Areas and Designation of Units) Instrument, L.I. 1983. The plaintiff challenged the instrument on grounds that Parliament, through its Subsidiary Legislation Committee, amended it by increasing electoral areas in the Ledzokuku-Krowor District from 12 to 16 without proper authority. The Court held that under Article 11(7) of the 1992 Constitution, Parliament's role is limited to annulment of such instruments within 21 sitting days, not amendment. The power to amend rests with the original maker of the instrument, not Parliament. Since the amendment by Parliament was ultra vires Article 11(7), the four newly added electoral areas were declared void. The Court granted declarations that L.I. 1983, as amended, was unconstitutional and null to the extent of the unauthorized additions, while affirming the validity of the original 24 electoral areas.",
+  "legalKeywords": [
+    "ultra vires",
+    "subsidiary legislation",
+    "constitutional interpretation",
+    "judicial review",
+    "separation of powers",
+    "delegated legislation",
+    "annulment",
+    "amendment",
+    "parliamentary procedure",
+    "electoral law",
+    "Local Government Act",
+    "Gazette publication",
+    "Standing Orders",
+    "municipal elections",
+    "judicial restraint"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Electoral Law",
+    "Administrative Law",
+    "Judicial Review",
+    "Separation of Powers"
+  ],
+  "verdict": "For the plaintiff",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "S. A. Brobbey",
+      "role": "Delivered lead judgment"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Concurred with reasons"
+    },
+    {
+      "name": "Ansa",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Adinyira (Mrs)",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Dotse",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Yeboah",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Aryeetey",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Gbadebe",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs)",
+      "role": "Member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Challenge",
+  "citations": [
+    "1992 Constitution of Ghana, Article 11(7)",
+    "1992 Constitution of Ghana, Article 297(d)",
+    "1992 Constitution of Ghana, Article 103(1)",
+    "Local Government (Creation of New District Electoral Areas and Designation of Units) Instrument, L.I. 1983"
+  ],
+  "rationaleHighlights": [
+    "Parliament cannot amend subsidiary legislation under Article 11(7); it can only annul it.",
+    "Amendment power lies with the original maker of the instrument, not Parliament.",
+    "The four additional electoral areas were added unconstitutionally and are void.",
+    "The decision upholds the principle of separation of powers in legislative processes.",
+    "Annulment and amendment are legally distinct concepts under the Constitution.",
+    "The Court emphasized constitutional fidelity in the enactment of delegated legislation.",
+    "The original 24 electoral areas remain valid as they were not subject to unauthorized changes.",
+    "Parliamentary committees lack constitutional authority to alter legislative instruments."
+  ],
+  "confidenceNotes": "The judgment is clear and well-reasoned, with strong reliance on constitutional text and structure. All justices concurred, indicating high judicial consensus. The legal principles are firmly grounded in the 1992 Constitution, particularly Articles 11(7) and 297(d).",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/STEPHEN NII BORTEY OKANE  VRS EC.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:59:08.139Z",
+    "plainTextLength": 39632
+  }
+}

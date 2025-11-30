@@ -1,0 +1,75 @@
+{
+  "caseTitle": "BAIL IN MURDER CASES [1989-90] VOL. XVII RGL 317—337",
+  "summary": "This legal analysis examines the tension between Section 96(7)(a) of the Criminal Procedure Code, 1960 (Act 30), which mandates refusal of bail in murder cases, and constitutional protections under Articles 15(3)(b) and (4) of the 1969 Constitution (re-enacted in 1979 as Article 21) guaranteeing the right to liberty and protection against unreasonable delay in trial. The case of Republic v Crentsil is central, where bail was initially granted due to lack of disclosed evidence, but the state sought rescission based on new forensic findings linking the accused to the crime. The High Court held that even without breach of bail conditions, courts possess inherent power to rescind bail when new evidence emerges rendering the original decision injudicious or illegal. Crucially, the court found that a 'proper charge of murder' had not been established on the evidence, meaning Section 96(7)(a) did not apply to bar bail. The decision underscores that bail in murder cases hinges on whether the prosecution has met the evidential burden to prove a case to answer, aligning with standards at committal or trial. The analysis also clarifies that district courts lack jurisdiction to grant bail in murder cases outside committal proceedings, emphasizing procedural and constitutional safeguards in pre-trial detention.",
+  "legalKeywords": [
+    "bail",
+    "murder",
+    "Criminal Procedure Code",
+    "section 96(7)(a)",
+    "constitutional rights",
+    "unreasonable delay",
+    "committal proceedings",
+    "forensic evidence",
+    "inherent judicial power",
+    "pre-trial detention",
+    "right to liberty",
+    "evidential burden",
+    "rescission of bail",
+    "indictable offences",
+    "district court jurisdiction"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Constitutional Law",
+    "Bail and Pre-trial Detention",
+    "Judicial Discretion",
+    "Evidence Law"
+  ],
+  "verdict": "Bail was upheld in Republic v Crentsil because the prosecution failed to establish a proper charge of murder on the evidence, and thus could not invoke the mandatory bail denial under section 96(7)(a).",
+  "winningSide": "Accused persons (applicants for bail)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Taylor J",
+      "role": "judge in Okoe, Brefor, and Donkor cases"
+    },
+    {
+      "name": "Osei-Hwere J",
+      "role": "judge in Donkor v The Republic"
+    },
+    {
+      "name": "Learned trial judge in Republic v Crentsil",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Okoe v The Republic",
+    "Brefor v The Republic",
+    "Donkor v The Republic",
+    "Republic v Crentsil",
+    "Criminal Procedure Code, 1960 (Act 30)",
+    "Criminal Procedure Code (Amendment) Decree, 1975 (NRCD 309)",
+    "Constitution of Ghana, 1969, art 15(3)(b) and (4)",
+    "Constitution of Ghana, 1979, art 21(3)(b) and (4)",
+    "Courts Act, 1971 (Act 372), s 39(1)(b)"
+  ],
+  "rationaleHighlights": [
+    "Section 96(7)(a) appears to bar bail in murder cases but may conflict with constitutional rights to timely trial and liberty.",
+    "New evidence can justify rescission of bail even without breach of conditions, under court's inherent power.",
+    "A proper charge of murder requires sufficient evidence of all essential elements to invoke bail denial under section 96(7)(a).",
+    "District courts lack jurisdiction to try murder cases and cannot grant bail absent committal proceedings with full evidence.",
+    "The standard for bail withdrawal should mirror the burden at committal or at the close of prosecution's case."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct textual evidence from the legal document; citations are explicitly referenced in the source.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/89 - 90/BAIL IN MURDER CASES [1989-90] VOL. XVII RGL 317—337.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:58:00.023Z",
+    "plainTextLength": 50145
+  }
+}

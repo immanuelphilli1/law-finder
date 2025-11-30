@@ -1,0 +1,54 @@
+{
+  "caseTitle": "CHIEF SUPERINTENDENT OF POLICE VERSUS JALLOW.",
+  "summary": "In Chief Superintendent of Police v. Jallow, the appellant was charged with burglary and stealing but convicted of retaining stolen property under section 297(1) of the Criminal Code. The West African Court of Appeal held that retaining and receiving stolen property are distinct offences, with retaining applying when stolen property is innocently received but kept after discovering its stolen nature. The court ruled that section 156(2) of the Criminal Procedure Code allows conviction for receiving when charged with stealing, but does not permit conviction for retaining, making the original conviction legally invalid. Given sufficient evidence for receiving, the court substituted the conviction accordingly while maintaining the sentence.",
+  "legalKeywords": [
+    "retaining stolen property",
+    "receiving stolen property",
+    "conviction for lesser offence",
+    "Criminal Code section 297",
+    "Criminal Procedure Code section 156",
+    "Criminal Procedure Code section 290",
+    "distinction between offences",
+    "strict construction of penal statute",
+    "amendment of charge",
+    "appellate substitution of conviction"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Theft and Related Offences"
+  ],
+  "verdict": "Conviction for retaining stolen property quashed; substituted with conviction for receiving stolen property",
+  "winningSide": "Appellee (State)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Miles J.",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Criminal Code, c. 21, s. 297(1)",
+    "Criminal Procedure Code, c. 23, s. 156(2)",
+    "Criminal Procedure Code, s. 290(1)(a)(ii)"
+  ],
+  "rationaleHighlights": [
+    "Section 297(1) creates two distinct offences: receiving and retaining stolen property",
+    "Receiving requires knowledge at time of receipt; retaining applies when knowledge comes after receipt",
+    "Section 156(2) permits conviction for receiving on a charge of stealing but not for retaining",
+    "Penal provisions must be strictly construed; implication not allowed",
+    "Court exercised power under s. 290 to substitute conviction for receiving"
+  ],
+  "confidenceNotes": "High confidence; decision clearly articulates legal distinctions and statutory interpretation based on cited provisions.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/CHIEF SUPERINTENDENT OF POLICE v. JALLOW..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:39:08.835Z",
+    "plainTextLength": 5175
+  }
+}

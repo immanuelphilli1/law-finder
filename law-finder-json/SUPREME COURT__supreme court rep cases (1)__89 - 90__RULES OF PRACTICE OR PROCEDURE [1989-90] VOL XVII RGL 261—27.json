@@ -1,0 +1,93 @@
+{
+  "caseTitle": "RULES OF PRACTICE OR PROCEDURE [1989-90] VOL XVII RGL 261—27",
+  "summary": "The case examines the jurisdiction of the Supreme Court of Ghana under rule 66(1) of the Supreme Court Rules, 1970 (CI 13) to waive non-compliance with rule 13(1), which mandates appellants to file a statement of case within three weeks of notification that the record of appeal is ready. In Darke XII v Dei XI, the Supreme Court, by a majority, held that rule 66(1) grants the court jurisdiction to waive non-compliance with rule 13(1) and restore an appeal deemed struck out, interpreting 'action' to include appellate proceedings. However, on the same day, in In re Oppong (Decd), a differently constituted bench held contrarily that rule 66(1) applies only to original jurisdiction matters, thus denying jurisdiction to restore struck-out appeals. The conflicting decisions raise concerns about consistency, with criticism that In re Oppong (Decd) was decided per incuriam, failing to consider the earlier binding decision in Darke XII v Dei XI.",
+  "legalKeywords": [
+    "Supreme Court Rules",
+    "rule 66(1)",
+    "rule 13(1)",
+    "non-compliance waiver",
+    "jurisdiction",
+    "appellate proceedings",
+    "original jurisdiction",
+    "per incuriam",
+    "statement of case",
+    "rules of procedure",
+    "civil procedure",
+    "extension of time",
+    "struck out appeal",
+    "judicial discretion",
+    "constitutional interpretation",
+    "legal definition",
+    "procedural default",
+    "Court of Appeal",
+    "High Court",
+    "probate appeal"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Jurisdiction",
+    "Procedural Compliance",
+    "Judicial Precedent",
+    "Rule Interpretation"
+  ],
+  "verdict": "In Darke XII v Dei XI, the application was dismissed on merits but jurisdiction affirmed; in In re Oppong (Decd), the application was dismissed for lack of jurisdiction.",
+  "winningSide": "Plaintiff-respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adade JSC",
+      "role": "Majority opinion on jurisdiction"
+    },
+    {
+      "name": "Amua-Sekyi JSC",
+      "role": "Majority opinion on jurisdiction"
+    },
+    {
+      "name": "Ofori-Boateng JA",
+      "role": "Majority opinion on jurisdiction"
+    },
+    {
+      "name": "Osei-Hwere JSC",
+      "role": "Dissenting on jurisdiction in Darke, majority in Oppong"
+    },
+    {
+      "name": "Edward Wiredu JSC",
+      "role": "Dissenting on jurisdiction in Darke, majority in Oppong"
+    },
+    {
+      "name": "Wuaku JSC",
+      "role": "Leading judgment in Oppong"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "CI 13, r 66(1)",
+    "CI 13, r 13(1)",
+    "CI 13, r 70",
+    "Darke XII v Dei XI",
+    "In re Oppong (Decd)",
+    "Yendi Skin Cases",
+    "High Court (Civil Procedure) Rules, 1954"
+  ],
+  "rationaleHighlights": [
+    "Rule 66(1) applies to any provision of CI 13, including appellate rules",
+    "'Action' includes both original and appellate proceedings",
+    "Non-compliance must be non-wilful and in the interests of justice",
+    "In re Oppong (Decd) failed to consider binding precedent in Darke XII v Dei XI",
+    "Definition of 'party' in rule 70 includes parties to appeals",
+    "Jurisdictional conflict between two Supreme Court benches on same day",
+    "Per incuriam criticism due to failure to cite prior decision",
+    "Use of 'any provisions' in rule 66 supports broad interpretation"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed legal analysis and citation of rules and cases. The source is a published legal commentary referencing actual Supreme Court decisions and rules.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/89 - 90/RULES OF PRACTICE OR PROCEDURE [1989-90] VOL XVII RGL 261—27.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:16:43.927Z",
+    "plainTextLength": 24691
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "caseTitle": "LAGOS EXECUTIVE DEVELOPMENT BOARD",
+  "summary": "This 1940 West African Court of Appeal decision involved the Lagos Executive Development Board appealing a lower court ruling that awarded compensation to the Olorogun Family without trial. The Board claimed it had already acquired the land via statutory notice under section 53 of the Lagos Town Planning Ordinance (No. 45 of 1928), not that it was seeking acquisition. The lower court used an originating summons under sections 44 and 45, mislabeled parties, and ruled for the defendants without evidence, citing res judicata from a prior Crown judgment. The appellate court held that an originating summons was procedurally inappropriate, that the Respondents bore the onus to prove entitlement to compensation, and that the prior judgment against the Crown did not bind the Board as a separate legal entity. The appeal was allowed, pleadings were struck out, and the case remitted for trial with clarified procedure and burden of proof.",
+  "legalKeywords": [
+    "res judicata",
+    "onus of proof",
+    "originating summons",
+    "statutory vesting",
+    "compensation claim",
+    "land acquisition",
+    "procedural irregularity",
+    "body corporate",
+    "jurisdiction",
+    "pleadings"
+  ],
+  "topics": [
+    "Land Law",
+    "Administrative Law",
+    "Procedural Law",
+    "Public Law",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Appeal",
+  "citations": [
+    "L.R. 1894 1 Ch. 578",
+    "Lagos Town Planning Ordinance No. 45 of 1928"
+  ],
+  "rationaleHighlights": [
+    "An originating summons is foreign to Nigerian Supreme Court rules and should be treated as a civil summons per section 48(2)",
+    "The Board, as a separate legal entity, is not bound by a prior judgment against the Crown after the alleged vesting date",
+    "The Respondents, as claimants for compensation, bear the onus of proof",
+    "The lower court erred in awarding judgment without trial or evidence",
+    "The mislabeling of parties caused procedural confusion and injustice",
+    "Res judicata does not apply where a statutory body acquires land before a later adverse judgment against the Crown",
+    "The case must be remitted for proper trial with correct burden of proof",
+    "A statement of interest should be filed to clarify claims and defenses"
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text, including party designations, legal reasoning, procedural history, and cited authorities. The jurisdictional context is confirmed as the West African Court of Appeal handling a Lagos land matter under colonial-era ordinances.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/LAGOS EXECUTIVE  DEVELOPMENT BOARD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:04:47.682Z",
+    "plainTextLength": 13407
+  },
+  "trialDate": "1940-04-27"
+}

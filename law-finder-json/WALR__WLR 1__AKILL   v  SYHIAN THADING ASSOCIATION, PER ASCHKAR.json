@@ -1,0 +1,72 @@
+{
+  "caseTitle": "AKILL v SYHIAN THADING ASSOCIATION, PER ASCHKAR",
+  "summary": "This case involved a landlord's action against a tenant for arrears of rent and recovery of possession of two stores. The Supreme Court of the Gold Coast upheld the finding that the tenant owed arrears of rent amounting to £597 5s., based on the trial judge's acceptance of the landlord's evidence and documentary exhibits (C1–C3), despite conflicting documents (A and B) suggesting a lower rent. However, the appellate court set aside the trial judge's order for recovery of possession, which had been granted on the unproven ground that the tenant had given notice to terminate the tenancy. There was no evidence or cross-examination on this point, and the landlord had not sought to amend pleadings to claim possession for arrears. The appellate court emphasized that possession could not be granted on a ground not properly pleaded or defended, as it would violate principles of procedural fairness and judicial discretion, particularly given the potential for rent to be considered exorbitant under the Rent Control Ordinance, 1952. The appeal was allowed in part, with costs adjusted accordingly.",
+  "legalKeywords": [
+    "landlord and tenant",
+    "arrears of rent",
+    "recovery of possession",
+    "notice to terminate",
+    "pleading amendment",
+    "judicial discretion",
+    "rent control",
+    "evidence",
+    "procedural fairness",
+    "tenancy agreement",
+    "cross-examination",
+    "exhibits",
+    "costs",
+    "appeal",
+    "ward of possession"
+  ],
+  "topics": [
+    "Landlord and Tenant",
+    "Civil Procedure",
+    "Rent Control",
+    "Appellate Review",
+    "Evidence"
+  ],
+  "verdict": "Appeal allowed in part: arrears of rent upheld, order for possession set aside.",
+  "winningSide": "Respondents (on arrears), Appellant (on possession)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Hearne J.A.",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "Foster-Sutton P.",
+      "role": "concurring"
+    },
+    {
+      "name": "Coussey J.A.",
+      "role": "concurring"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court, Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WALR/WLR 1/AKILL v SYHIAN THADING ASSOCIATION, PER ASCHKAR",
+    "Courts Ordinance, c. 4 of 1951, Second Schedule, Ord. 5, r. 4",
+    "Rent Control Ordinance, 1952, s. 5"
+  ],
+  "rationaleHighlights": [
+    "No evidence was presented that the appellant gave notice to terminate the tenancy, so the trial judge could not base possession on that ground.",
+    "Even if arrears justified possession, the defendant had no opportunity to defend on that basis due to lack of notice in pleadings.",
+    "Amendment of pleadings required leave and could not be done without risking prejudice to the defendant.",
+    "Judicial discretion must be exercised fairly, especially where rent may be exorbitant under rent control laws.",
+    "The trial judge's order for possession was set aside due to lack of evidentiary and procedural foundation.",
+    "The respondents' claim for arrears was upheld based on credibility of evidence and documentary exhibits.",
+    "Costs were partially awarded to reflect partial success on appeal.",
+    "Principle of fair notice in civil claims is essential to due process."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and explicit references to evidence and legal provisions.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/AKILL   v  SYHIAN THADING ASSOCIATION, PER ASCHKAR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:16:25.332Z",
+    "plainTextLength": 7959
+  }
+}

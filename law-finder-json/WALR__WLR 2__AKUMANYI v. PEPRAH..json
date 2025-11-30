@@ -1,0 +1,57 @@
+{
+  "caseTitle": "AKUMANYI VERSUS PEPRAH.",
+  "summary": "This 1956 Gold Coast Supreme Court decision in Akumanyi v. Peprah concerned a dispute between two nephews over succession to a deceased intestate. The plaintiff claimed valid appointment by the family and confirmation by the family head, seeking a declaration to that effect. The defendant contested the authority of the appointing individual and asserted res judicata based on two customary arbitrations. The Native Court upheld the plaintiff's appointment under native law and custom, finding the arbitrations did not bar the suit. On appeal, the Supreme Court affirmed, holding that (i) under local custom, the son of the elder sister takes precedence over the son of the younger sister regardless of personal age; (ii) the family possesses discretionary power to appoint a successor even over someone with prior customary claim; and (iii) for customary arbitration to constitute res judicata, it must be valid, involve the same parties, and resolve substantially identical issues—conditions not met here due to insufficient proof and discrepancies in testimony.",
+  "legalKeywords": [
+    "succession",
+    "intestacy",
+    "customary law",
+    "res judicata",
+    "arbitration",
+    "family appointment",
+    "native custom",
+    "right to succeed",
+    "head of family",
+    "priority of heirs",
+    "displacement of heir",
+    "custodial successor",
+    "burden of proof",
+    "valid arbitration",
+    "seniority by mother's rank"
+  ],
+  "topics": [
+    "Customary Succession Law",
+    "Res Judicata in Customary Arbitration",
+    "Family Headship Dispute"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Sarbah, Fanti Customary Law, 2nd ed., pp. 101-102, 104-105"
+  ],
+  "rationaleHighlights": [
+    "The son of the elder sister has priority in succession over the son of the younger sister, based on mother's seniority, not personal age.",
+    "The family has the discretionary power to appoint a younger member over one with prior customary claim if it serves family interests.",
+    "A customary arbitration only bars a subsequent suit if it was valid, involved the same parties, and resolved the same issues.",
+    "The defendant failed to prove the arbitrations were valid or binding, especially as the plaintiff was not a party to them.",
+    "Findings of fact by the Native Court on customary law are binding on appeal absent clear error, especially where authorities conflict."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; all key details are directly supported by the judgment text. Some legal phrasing standardized for clarity without altering meaning.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/AKUMANYI v. PEPRAH..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:45:03.107Z",
+    "plainTextLength": 9579
+  }
+}

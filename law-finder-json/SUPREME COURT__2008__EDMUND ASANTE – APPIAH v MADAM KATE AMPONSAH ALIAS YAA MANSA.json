@@ -1,0 +1,90 @@
+{
+  "caseTitle": "EDMUND ASANTE – APPIAH v MADAM KATE AMPONSAH ALIAS YAA MANSA",
+  "summary": "This Supreme Court of Ghana decision from 2008 concerns a property dispute between Edmund Asante-Appiah (appellant) and Madam Kate Amponsah (respondent), who was the wife of the appellant's late half-brother. The appellant claimed sole ownership of a house and plot in Apedwa, purchased from the United African Company (UAC), and allowed his brother’s family to reside there. After the brother’s death, the respondent contested the claim, asserting joint purchase. The High Court initially ruled for the appellant, but the Court of Appeal reversed the decision. The Supreme Court upheld the reversal, primarily due to the invalidity of the power of attorney used by the appellant, who was resident in England. The power of attorney lacked a witness signature as required by Section 1(2) of the Power of Attorney Act, 1998 (Act 548), rendering it invalid. Consequently, the agent lacked capacity to litigate or testify, reducing the appellant’s case to mere pleadings. Additionally, the appellant failed to provide documentary evidence of purchase, violating the Conveyancing Act, 1975 (NRCD 175), which requires written evidence for land transactions. The Court affirmed that the burden of proof rested on the appellant to prove title, which he failed to do, and dismissed the appeal.",
+  "legalKeywords": [
+    "power of attorney",
+    "capacity to sue",
+    "burden of proof",
+    "title to land",
+    "documentary evidence",
+    "Conveyancing Act",
+    "Evidence Decree",
+    "Auction Sales Act",
+    "onus of proof",
+    "property dispute",
+    "invalid instrument",
+    "witness attestation",
+    "oral admission",
+    "land transaction",
+    "written contract",
+    "plaintiff's burden",
+    "inadmissible evidence",
+    "possession of land",
+    "perpetual injunction",
+    "customary grant"
+  ],
+  "topics": [
+    "Property Law",
+    "Civil Procedure",
+    "Evidence Law",
+    "Land Title Disputes",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "S. A. Brobbey",
+      "role": "Presiding Justice delivering judgment"
+    },
+    {
+      "name": "S. A. B. Akuffo",
+      "role": "Justice"
+    },
+    {
+      "name": "Dr. S. K. Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "J. Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "S. K. Asiama",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Power of Attorney Act, 1998 (Act 548)",
+    "Evidence Decree, 1975 (NRCD 323)",
+    "Conveyancing Act, 1975 (NRCD 175)",
+    "Auction Sales Act, 1989 (PNDC 230)",
+    "Juxon-Smith v KLM Dutch Airlines [2005-2006] SCGLR 438",
+    "Edward Nassar & Co Ltd v McVroom [1996-97] SCGLR 468",
+    "Adwubeng v. Domfeh [1996-97] SCGLR 660"
+  ],
+  "rationaleHighlights": [
+    "The power of attorney was invalid due to lack of witness attestation as required by Act 548, s. 1(2).",
+    "The agent lacked legal capacity to sue or testify, rendering all related evidence inadmissible.",
+    "Pleadings alone cannot constitute evidence to prove title to land.",
+    "The appellant failed to produce any documentary evidence of purchase from the UAC, a reputable company.",
+    "Oral sale of land is unenforceable under the Conveyancing Act, 1975, without written evidence.",
+    "The burden of proof remained on the appellant to prove title, which he did not discharge.",
+    "Possession by the respondent for over thirty years weakened the appellant's claim.",
+    "Admissions by the respondent did not shift the legal burden of proof from the plaintiff."
+  ],
+  "confidenceNotes": "The summary is based on a detailed judicial opinion from the Supreme Court of Ghana with clear legal reasoning and citation of statutes and precedents. All extracted data is directly supported by the text, ensuring high factual accuracy.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2008/EDMUND ASANTE – APPIAH v MADAM KATE AMPONSAH ALIAS YAA MANSA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:16:37.058Z",
+    "plainTextLength": 14460
+  },
+  "trialDate": "2008-11-20"
+}

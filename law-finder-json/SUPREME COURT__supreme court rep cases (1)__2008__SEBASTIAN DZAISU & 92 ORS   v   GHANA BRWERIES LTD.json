@@ -1,0 +1,77 @@
+{
+  "caseTitle": "SEBASTIAN DZAISU & 92 ORS v GHANA BRWERIES LTD",
+  "summary": "In Sebastian Dzaisu & 92 Ors v Ghana Breweries Ltd (Supreme Court, 28th May 2008, Civil Appeal No. J4/29/2007), 93 casual workers appealed their dismissal and sought equal benefits with permanent staff under a Collective Bargaining Agreement (CBA). They argued that performing the same work entitled them to equal treatment under the 1992 Constitution (Articles 16(1), 21(1)(e), 24) and the Labour Decree 1967 (NLCD 157). The Supreme Court upheld the Court of Appeal’s decision dismissing the claim, ruling that the appellants failed to provide sufficient evidence that they performed substantially the same work as permanent employees. The Court emphasized that a bare repetition of pleadings in testimony without elaboration or corroborative evidence does not meet the burden of proof. Evidence from the respondent showed that permanent workers operated sophisticated machinery and were skilled, while casual workers performed manual tasks like packing and cleaning. The Court affirmed that appellate courts may set aside factual findings unsupported by evidence, citing Adokor v. Gatsi and Domfe v. Adu. The appeal was dismissed as being against the weight of evidence.",
+  "legalKeywords": [
+    "casual workers",
+    "permanent workers",
+    "collective bargaining agreement",
+    "unfair dismissal",
+    "discriminatory employment practices",
+    "burden of proof",
+    "appellate review",
+    "constitutional rights",
+    "labour rights",
+    "workplace equality"
+  ],
+  "topics": [
+    "Employment Discrimination",
+    "Appellate Procedure",
+    "Burden of Proof",
+    "Constitutional Law",
+    "Labour Rights"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Ghana Breweries Ltd",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sophia Adinyira (Mrs.)",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Akuffo (Mrs.)",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Asiamah",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Employment Law",
+  "citations": [
+    "Akyea-Djamson v. Duagbor (1989-90) 1GLR 223",
+    "Browne v. Dunn (1894) 6 R. 67",
+    "Ayiwah v. Badu [1963] 1 G.L.R. 86",
+    "Adokor v. Gatsi [1966] GLR 31",
+    "Domfe v. Adu [1984-86] 2 GLR 457",
+    "Labour Decree 1967 (NLCD 157)",
+    "Constitution of the Republic of Ghana, 1992, Articles 16(1), 21(1)(e), 24"
+  ],
+  "rationaleHighlights": [
+    "Appellate courts may overturn findings of fact not supported by evidence, even if not cross-appealed.",
+    "A bare assertion in pleadings repeated in testimony without elaboration or supporting evidence does not satisfy the burden of proof.",
+    "Distinction between casual and permanent workers upheld where evidence shows different job roles and skill levels.",
+    "Failure to cross-examine does not automatically constitute admission where the initial assertion lacks evidentiary depth.",
+    "Constitutional claims under Articles 16(1), 21(1)(e), and 24 require concrete evidence of discrimination and unfair treatment."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official court document. All legal principles and case references are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2008/SEBASTIAN DZAISU & 92 ORS   v   GHANA BRWERIES LTD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:52:00.076Z",
+    "plainTextLength": 28906
+  },
+  "trialDate": "2007-04-29"
+}

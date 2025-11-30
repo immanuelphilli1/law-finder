@@ -1,0 +1,60 @@
+{
+  "caseTitle": "ESSIEN VERSUS DUNCAN.",
+  "summary": "In Essien v. Duncan, a 1956 Gold Coast Supreme Court case, the plaintiff claimed title to land originally owned by the defendant's family, who had conveyed it absolutely to a European, H. B. W. Russell, in 1893 and 1895. The land was later transferred to P. A. Renner in 1916, and in 1936, Renner gifted part of it to the plaintiff, who remained in possession until dispossessed in 1950. The defendant claimed reversion under native custom upon Russell’s death without heirs. The Municipal Court initially ruled for the defendant, citing lack of formal conveyance and escheat. On appeal, Ollennu J. held that the plaintiff had established title through long, undisturbed possession and corroborative evidence, including Renner’s letters. The court rejected the escheat argument, ruling that once land is alienated absolutely, the original family cannot reclaim it absent vacancy and abandonment, and that laches and equity barred the defendant’s claim after decades of acquiescence.",
+  "legalKeywords": [
+    "native law and custom",
+    "family land",
+    "alienation of estate",
+    "escheat",
+    "long possession",
+    "laches",
+    "prescriptive title",
+    "superior title",
+    "equity",
+    "bona vacantia",
+    "undisturbed possession",
+    "reversion",
+    "stranger purchaser",
+    "title deed",
+    "continuity of ownership"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Equity",
+    "Succession",
+    "Property Rights"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "(1930) 1 W.A.C.A. 49"
+  ],
+  "rationaleHighlights": [
+    "Absolute alienation of family land breaks continuity of ownership, rendering original owners strangers to the land.",
+    "Long, undisturbed possession can defeat claims by original grantors who have divested title.",
+    "Escheat under native custom only applies if land is vacant and no successor claims through the grantee.",
+    "Laches and equitable estoppel bar reclamation after decades of acquiescence in possession.",
+    "Oral and documentary evidence (e.g., letters) can establish conveyance in absence of formal deed.",
+    "Prescriptive title is not recognized in native custom, but equity supports possessory claims against laches."
+  ],
+  "confidenceNotes": "High confidence; details are drawn directly from judicial reasoning and factual findings in the provided text. Case is well-documented with clear procedural history and legal analysis.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/NYAKO v. MINISTER OF LOCAL GOVERNMENT.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:26:43.786Z",
+    "plainTextLength": 19555
+  }
+}

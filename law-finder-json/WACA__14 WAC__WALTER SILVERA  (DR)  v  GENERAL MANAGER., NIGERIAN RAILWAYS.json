@@ -1,0 +1,71 @@
+{
+  "caseTitle": "WALTER SILVERA (DR) v GENERAL MANAGER., NIGERIAN RAILWAYS",
+  "summary": "This case arose from a nighttime collision at a dangerous level crossing in Ibadan, where Dr. Walter Silvera's car was struck by a slowly moving goods train. The crossing had a 'STOP DANGEROUS LEVEL CROSSING' sign, which the appellant knew about but ignored. Although the train used a kerosene lamp instead of a standard electric light and ceased whistling before reaching the crossing—factors that reduced visibility and auditory warning—the appellate court held that the appellant's own failure to stop constituted contributory negligence. The court acknowledged that the railway may have breached its duty by not maintaining an adequate light or continuous whistle, but concluded that the appellant could have avoided the accident by stopping, as he would then have seen and heard the train. Since his injury resulted primarily from his own lack of reasonable care, the appeal was dismissed with costs.",
+  "legalKeywords": [
+    "negligence",
+    "duty of care",
+    "contributory negligence",
+    "level crossing",
+    "reasonable care",
+    "whistle warning",
+    "kerosene lamp",
+    "visibility",
+    "train accident",
+    "standard of care",
+    "failure to stop",
+    "risk assessment",
+    "transportation law",
+    "tort liability",
+    "causation"
+  ],
+  "topics": [
+    "Tort Law",
+    "Negligence",
+    "Contributory Negligence",
+    "Railway Safety",
+    "Duty of Care"
+  ],
+  "verdict": "Appeal dismissed; trial judgment in favor of the respondent upheld.",
+  "winningSide": "Respondent (Nigerian Railways)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Foster-Sutton",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "de Comarmond",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Coussey",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "tort - negligence",
+  "citations": [
+    "Swadling v. Cooper (1931), A.C. 1"
+  ],
+  "rationaleHighlights": [
+    "Appellant failed to stop at a known dangerous level crossing despite clear signage.",
+    "Train's kerosene lamp provided insufficient visibility; electric lamp was out of order.",
+    "Whistling should have continued up to crossing due to poor visibility and sound obstruction.",
+    "Trial judge found no negligence by railway; appellate court partially disagreed but found appellant's own negligence decisive.",
+    "Accident avoidable if appellant had stopped, as he would have heard and seen the approaching train.",
+    "Injury resulted from appellant’s failure to exercise reasonable care, not defendant's negligence.",
+    "Negligence must be causative; even if railway was negligent, appellant’s contributory negligence barred recovery.",
+    "Costs awarded to respondent; appeal dismissed."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed trial and appellate findings; minor uncertainty regarding exact distance of running shed from crossing due to conflicting evidence.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/WALTER SILVERA  (DR)  v  GENERAL MANAGER., NIGERIAN RAILWAYS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:28:55.341Z",
+    "plainTextLength": 12010
+  },
+  "trialDate": "1952-06-02"
+}

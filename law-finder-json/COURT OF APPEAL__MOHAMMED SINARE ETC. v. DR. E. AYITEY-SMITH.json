@@ -1,0 +1,78 @@
+{
+  "caseTitle": "MOHAMMED SINARE ETC. v. DR. E. AYITEY-SMITH",
+  "summary": "This appeal arose from a land dispute in Accra where the Circuit Court entered judgment in favor of the defendant on his counterclaim after striking out the plaintiff's writ for failure to pay survey fees. The plaintiff died during proceedings, and his wife, Salma Sinare, was substituted as appellant. However, she was not properly served with hearing notices—service was erroneously effected on a non-existent co-defendant and later through her sister without legal basis. The Court of Appeal held that failure to serve the appellant with hearing notices in compliance with Order 9 and Order 10 of the High Court Rules, LN140A, rendered the proceedings a nullity. Additionally, the defendant improperly gave evidence twice without a court order for retrial. The appellate court found the trial judge lacked jurisdiction due to defective service and procedural irregularities. The judgment was set aside, and the counterclaim was ordered to be reheard de novo by a differently constituted Circuit Court.",
+  "legalKeywords": [
+    "service of process",
+    "substituted service",
+    "personal service",
+    "nullity of proceedings",
+    "counterclaim",
+    "de novo hearing",
+    "adjournment",
+    "proof of service",
+    "order of substitution",
+    "civil procedure",
+    "jurisdiction",
+    "due process",
+    "hearing notice",
+    "Circuit Court",
+    "appeal"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Service of Process",
+    "Appeal",
+    "Land Law",
+    "Judicial Nullity"
+  ],
+  "verdict": "Appeal allowed; judgment set aside; counterclaim to be heard de novo.",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ansa J.A.",
+      "role": "author"
+    },
+    {
+      "name": "Lartey J.A.",
+      "role": "concurrence"
+    },
+    {
+      "name": "Akoto-Damfo J.A.",
+      "role": "concurrence"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Donkor v Kusi [1977]2 GLR 243",
+    "Hope v Hope (1854) 4 De G.M & G 328",
+    "Kistler Tettmar [1905] 1 KB 39",
+    "Ofori v Lartey [1978] GLR 490",
+    "Jerigoji v Issah [1989-90] 2 GLR 501",
+    "Karletse Panin v Nuro [1979] GLR 194",
+    "High Court Rules, LN140A",
+    "High Court (Civil Procedure) (Amendment) (No.2) Rules, 1977, LI 1129"
+  ],
+  "rationaleHighlights": [
+    "Failure to serve hearing notice personally or via valid substituted service rendered proceedings a nullity.",
+    "Service on a non-existent co-defendant was invalid and did not constitute proper notice.",
+    "No proof of compliance with substituted service order undermined jurisdiction.",
+    "Defendant improperly led evidence twice without court-ordered retrial or expungement of prior testimony.",
+    "Proper implementation of party substitution after death was not followed, affecting appellant's standing.",
+    "Judgment set aside due to procedural irregularities vitiating the trial.",
+    "Counterclaim ordered to be heard de novo by differently constituted court.",
+    "Rules of court strictly require proper service to ensure right to be heard."
+  ],
+  "confidenceNotes": "All information is derived directly from the provided judgment text. Citations and procedural details are explicitly stated in the decision.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/MOHAMMED SINARE ETC. v. DR. E. AYITEY-SMITH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:15:43.173Z",
+    "plainTextLength": 12653
+  },
+  "trialDate": "2004-03-26"
+}

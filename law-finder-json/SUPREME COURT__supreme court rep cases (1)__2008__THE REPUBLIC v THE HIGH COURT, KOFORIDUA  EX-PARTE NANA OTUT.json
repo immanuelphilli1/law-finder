@@ -1,0 +1,81 @@
+{
+  "caseTitle": "THE REPUBLIC v THE HIGH COURT, KOFORIDUA EX-PARTE NANA OTUT",
+  "summary": "The Supreme Court of Ghana granted an application for certiorari to quash a ruling by the High Court, Koforidua, which had assumed jurisdiction over a dispute involving the legitimacy of multiple Traditional Councils in Akuapim and the status of certain individuals as Paramount Chiefs. The Supreme Court held that the matter was inherently a chieftaincy issue, as it required determination of chieftaincy status, enstoolment processes, and authority to lead councils—matters exclusively within the jurisdiction of traditional tribunals under the Chieftaincy Act, 2008 (Act 759) and the Courts Act, 1993 (Act 459). Despite the High Court's view that the case involved statutory interpretation of Traditional Councils, the Supreme Court found a patent error of law on the record, as the real issues—restraint from claiming chieftaincy titles and leadership roles—were inseparable from chieftaincy disputes. The Court emphasized judicial economy and the risk of conflicting rulings, concluding that the entire matter should be referred to the appropriate chieftaincy forum.",
+  "legalKeywords": [
+    "supervisory jurisdiction",
+    "certiorari",
+    "jurisdiction",
+    "chieftaincy dispute",
+    "High Court",
+    "Traditional Council",
+    "Omanhene",
+    "error of law",
+    "patent error",
+    "separation of powers",
+    "judicial review",
+    "declaratory relief",
+    "customary law",
+    "Courts Act",
+    "Chieftaincy Act"
+  ],
+  "topics": [
+    "Chieftaincy Jurisdiction",
+    "Supervisory Jurisdiction",
+    "Certiorari",
+    "Judicial Review",
+    "Separation of Powers"
+  ],
+  "verdict": "Application for certiorari granted; the High Court's ruling was quashed for lack of jurisdiction.",
+  "winningSide": "Applicant (Nana Otutu Konu III and the Akuapim Anafo, Okere, and Akuapim Guan Traditional Councils)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Georgina Wood",
+      "role": "Chief Justice (dissenting in part, ultimately agreeing with Dotse JSC)"
+    },
+    {
+      "name": "Atuguba J.S.C.",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Owusu (Ms) J.S.C.",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Dotse J.S.C.",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Baffoe-Bonnie J.S.C.",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional and chieftaincy jurisdiction",
+  "citations": [
+    "Republic v Court of Appeal, Accra ex parte Tsatsu Tsikata [2005-2006] SCGLR 612",
+    "In re Oguaa Paramount Stool; Gabrah v Central Regional House of Chiefs & Haizel [2005-2006] SCGLR 193",
+    "Ex Parte Industrialization Fund for Developing Countries [2003-2004] SCGLR 348",
+    "Courts Act, 1993 (Act 459), s.117(a-e) and s.57",
+    "Chieftaincy Act, 2008 (Act 759), s.76",
+    "LI 798",
+    "CI 27"
+  ],
+  "rationaleHighlights": [
+    "The core issues in the case—whether defendants are Paramount Chiefs and can lead Traditional Councils—involve chieftaincy matters requiring evidence on nomination, enstoolment, and allegiance, which fall under exclusive jurisdiction of traditional tribunals.",
+    "Reliefs 3 and 4, concerning restraint from claiming chieftaincy titles and operating through councils, are inherently chieftaincy-related and cannot be separated from declaratory reliefs.",
+    "An error of law is patent on the face of the record when a court assumes jurisdiction over a matter clearly affecting chieftaincy, warranting certiorari.",
+    "Judicial economy and avoidance of conflicting rulings support referring the entire matter to the appropriate chieftaincy forum."
+  ],
+  "confidenceNotes": "The case is a Supreme Court ruling with clear statutory and jurisprudential grounding. All cited authorities are binding and directly relevant. The reasoning is consistent with established Ghanaian chieftaincy law.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2008/THE REPUBLIC v THE HIGH COURT, KOFORIDUA  EX-PARTE NANA OTUT.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:49:24.534Z",
+    "plainTextLength": 72887
+  },
+  "trialDate": "2008-09-05"
+}

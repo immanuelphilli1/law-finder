@@ -1,0 +1,34 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The document is not a judicial decision but a homepage for 'Ghana Law Finder', an online legal resource providing a self-help guide to Ghanaian law, including case and subject matter indices. It contains no case details, court reasoning, or legal analysis. The site is copyrighted in 2003 and maintained by Tony Kaddy.",
+  "legalKeywords": [
+    "Ghana Law Finder",
+    "legal library",
+    "case index",
+    "legal research",
+    "self-help legal guide"
+  ],
+  "topics": [
+    "Legal Research",
+    "Online Legal Resource",
+    "Ghana Law"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "unknown",
+    "country": "Ghana"
+  },
+  "caseType": "unknown",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The provided document does not contain a legal decision, case summary, or judicial content. It appears to be a homepage or portal for a legal resource website (Ghana Law Finder) with no case details.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/90b/TEMP.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:13:17.250Z",
+    "plainTextLength": 295
+  }
+}

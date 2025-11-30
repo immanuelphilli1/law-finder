@@ -1,0 +1,85 @@
+{
+  "caseTitle": "THE REPUBLIC v DR. KWAME DUFFOUR EX-PARTE NICHOLAS EDWARD A",
+  "summary": "This 2008 Supreme Court of Ghana ruling addressed an application for committal for contempt against Dr. Kwame Duffour, arising from alleged non-compliance with a 2006 judgment in Civil Appeal No. J4/25/2005. The court dismissed the contempt application on three grounds: (1) declaratory reliefs, such as those affirming the applicant's shareholding and directorship, are not enforceable by contempt; (2) the act of initiating a fresh suit on the same facts does not constitute contempt, as parties may choose how to treat a judgment by agreement; and (3) the executable orders in question were originally made by the Court of Appeal and merely confirmed by the Supreme Court, meaning enforcement must be sought from the Court of Appeal, not the Supreme Court. The ruling clarified that confirmed appellate orders remain the orders of the lower court and that the Supreme Court lacks inherent jurisdiction to enforce them via contempt proceedings.",
+  "legalKeywords": [
+    "contempt of court",
+    "declaratory relief",
+    "enforceability",
+    "jurisdiction",
+    "Supreme Court",
+    "Court of Appeal",
+    "res judicata",
+    "constitutional interpretation",
+    "article 126(2)",
+    "article 129(4)",
+    "superior courts of record",
+    "executive orders",
+    "customary tribunal",
+    "chietaincy tribunals",
+    "inherent jurisdiction"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Civil Procedure",
+    "Judicial Enforcement",
+    "Contempt Jurisprudence",
+    "Appellate Jurisdiction"
+  ],
+  "verdict": "Application dismissed",
+  "winningSide": "Dr. Kwame Duffour",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "W. A. Atuguba",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Dr. S. K. Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "J. Ansan",
+      "role": "Justice"
+    },
+    {
+      "name": "S. O. B. Adinyira (Mrs.)",
+      "role": "Justice"
+    },
+    {
+      "name": "S. K. Asiamah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Motion",
+  "citations": [
+    "Asumadu-Sakyi II v. Owusu (1981) GLR 398 C.A.",
+    "Dzotepe v. Hahormene III (1984-86) 1 GLR 289 C.A.",
+    "Conca Engineering v. Moses (1984-86) 2 GLR 319 C.A.",
+    "Republic v. High Court, Accra; Ex parte Laryea Mensah (1998-99) SCGLR 160",
+    "In re Effiduase Stool Affairs (No. 2); Republic v. Numapau, Ex parte Ameyaw II (No. 2) (1998-99) SCGLR 639",
+    "Republic v. Mensah Bonsu and Ors; Ex parte Attorney-General (1995-96) 1 GLR 377 S.C.",
+    "Okantey v. Kwaddey (1975) 1 GLR 193 C.A.",
+    "Ansah-Ado v. Addo (1972) 2 GLR 400 C.A.",
+    "MOSI v. BAGYINA (1963) 1 GLR 337 S.C.",
+    "A/S Norway Cement Export Ltd v. Addison (1974) 2 GLR 177 C.A. (Full Bench)"
+  ],
+  "rationaleHighlights": [
+    "Declaratory reliefs do not mandate action and thus cannot be enforced through contempt proceedings.",
+    "Initiating a new suit on previously adjudicated facts does not amount to contempt, as parties retain autonomy over judgment enforcement.",
+    "Confirmed appellate orders remain the orders of the lower court and must be enforced there, not by the confirming appellate court.",
+    "Article 129(4) of the 1992 Constitution is auxiliary and does not grant the Supreme Court original jurisdiction over enforcement matters.",
+    "The Supreme Court lacks joint jurisdiction with lower courts to punish contempt of their orders, especially where statutory provisions assign such power exclusively to another court."
+  ],
+  "confidenceNotes": "The summary and analysis are based on a clear reading of the court's reasoning and cited authorities. All key legal principles and holdings are directly extracted from the judgment. Minor typographical errors in the original (e.g., 'ansan' instead of 'ansah') have been corrected based on standard judicial records.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2008/THE REPUBLIC v DR. KWAME DUFFOUR  EX-PARTE NICHOLAS EDWARD A.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:13:41.984Z",
+    "plainTextLength": 14744
+  },
+  "trialDate": "2008-03-05"
+}

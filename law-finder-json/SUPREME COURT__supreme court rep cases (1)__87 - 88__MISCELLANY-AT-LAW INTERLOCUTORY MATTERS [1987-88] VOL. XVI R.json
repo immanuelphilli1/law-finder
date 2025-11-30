@@ -1,0 +1,72 @@
+{
+  "caseTitle": "INTERLOCUTORY MATTERS VERSUS INTRODUCTION",
+  "summary": "The document is a judicial lecture by Osei-Hwere P on interlocutory matters in civil procedure within the Ghanaian legal system. It emphasizes that interlocutory decisions—such as writ renewal, substituted service, and injunctions—involve judicial discretion that must be exercised judiciously, fairly, and with regard to broader social consequences. The speaker cautions against 'speaking orders' in interlocutory rulings to avoid appellate scrutiny and highlights that appellate courts may overturn discretionary decisions if made under legal error, factual misapprehension, or resulting in injustice. Specific examples include the refusal of an injunction in a football dispute to avoid public disruption, and a detailed discussion on writ renewal, referencing English case law (e.g., Firman v Ellis) and Ghana’s Limitation Decree, 1972 (NRCD 54), suggesting reform toward equitable discretion like England’s Limitation Act 1975, s 2D.",
+  "legalKeywords": [
+    "interlocutory matters",
+    "judicial discretion",
+    "writ renewal",
+    "substituted service",
+    "injunction",
+    "Limitation Decree",
+    "appellate review",
+    "ex parte application",
+    "service of process",
+    "equitable relief",
+    "abuse of process",
+    "court procedure",
+    "discovery",
+    "pleadings",
+    "trial management"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Judicial Discretion",
+    "Appeals"
+  ],
+  "verdict": "This is not a judgment but a judicial commentary; no verdict was delivered. The speaker affirms that interlocutory powers must be exercised with restraint, fairness, and awareness of social impact.",
+  "winningSide": "N/A",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Osei-Hwere P",
+      "role": "Speaker/Judge"
+    },
+    {
+      "name": "Kerr J",
+      "role": "Trial Judge (UK)"
+    },
+    {
+      "name": "Megaw J",
+      "role": "Appellate Judge (UK)"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Judicial Commentary / Legal Lecture",
+  "citations": [
+    "Yaw Buabeng v Kwaku Forkuo, Civil Appeal No 110/68 (2 Feb 1970)",
+    "Evans v Barthlam [1937] AC 473",
+    "Charles Osenton & Company v Johnston [1942] AC 130",
+    "Young v Thomas [1892] 2 Ch 134",
+    "Heaven v Road and Rail Wagons Ltd [1965] 2 QB 355",
+    "Easy v Universal Anchorage Co, Ltd [1974] 2 All ER 1104",
+    "Firman v Ellis [1978] 2 All ER 851",
+    "Musah Nanyame v Alhaji Moro Awudu, Civil Appeal No 4/83 (April 1984)"
+  ],
+  "rationaleHighlights": [
+    "Judicial discretion in interlocutory matters must align with justice and right reason, not exercised arbitrarily.",
+    "Emergency applications may be dismissed if they result from plaintiff’s own delay or create public injustice.",
+    "Appellate courts may overturn discretionary orders based on legal error, factual misapprehension, or injustice.",
+    "Renewal of a writ requires exceptional circumstances, especially where limitation periods are affected.",
+    "Section 2D of the English Limitation Act 1975 provides a broader equitable discretion than Ghana’s NRCD 54 s 23."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy as content is drawn directly from a published judicial lecture in an official law report. Some sections are truncated, particularly on substituted service, limiting completeness on that subtopic.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/87 - 88/MISCELLANY-AT-LAW INTERLOCUTORY MATTERS [1987-88] VOL. XVI R.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:24:05.396Z",
+    "plainTextLength": 34477
+  }
+}

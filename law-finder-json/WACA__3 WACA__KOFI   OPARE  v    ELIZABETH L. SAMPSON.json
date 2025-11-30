@@ -1,0 +1,68 @@
+{
+  "caseTitle": "Abakah Nthah v. Anguah Bennieh,",
+  "summary": "This appeal before the West Africa Court of Appeal at Accra on 21st April 1937 concerned the reversal by a Provincial Commissioner of a native tribunal's judgment in a land dispute. The appellant, Kofi Opare, challenged the reversal, arguing that the Provincial Commissioner overstepped his authority. The Court held that under colonial legislation, native tribunals have exclusive original jurisdiction over land held under native tenure, and their factual findings—especially on matters within their specialized knowledge—should not be disturbed unless clearly wrong. Relying on the Privy Council's decision in Abakah Nthah v. Anguah Bennieh, the Court found no such clear error and ruled that the Provincial Commissioner erred in reversing the native tribunal's decision based merely on a differing assessment of the evidence. The appeal was allowed, the Provincial Commissioner's judgment was set aside, and the original judgment of the Omanhene of Akyem Abuakwa was restored. Costs were awarded to the appellant.",
+  "legalKeywords": [
+    "native court",
+    "Provincial Commissioner",
+    "reversal of findings",
+    "land ownership",
+    "customary tenure",
+    "jurisdiction",
+    "appellate review",
+    "evidence",
+    "tribunal",
+    "Omanhene",
+    "Akyem Abuakwa",
+    "self-help",
+    "colonial legislation",
+    "fair hearing",
+    "costs"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Customary Law",
+    "Judicial Review",
+    "Jurisdiction"
+  ],
+  "verdict": "Appeal allowed; judgment of the native tribunal restored",
+  "winningSide": "Plaintiff-Appellant (Kofi Opare",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Abakah Nthah v. Anguah Bennieh, Privy Council Appeal No. 165/1927",
+    "2 W.A.C.A., p. 1"
+  ],
+  "rationaleHighlights": [
+    "Facts found by a native court in land disputes should not be reversed unless clearly wrong",
+    "Native tribunals have exclusive original jurisdiction over land held under native tenure",
+    "Provincial Commissioner erred in reversing factual findings based on a differing view of evidence balance",
+    "Appellate courts must defer to native tribunals' factual determinations absent clear error"
+  ],
+  "confidenceNotes": "High confidence; source is an official court report with clear judicial reasoning and citation to binding precedent.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/KOFI   OPARE  v    ELIZABETH L. SAMPSON.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:21:10.736Z",
+    "plainTextLength": 2596
+  },
+  "trialDate": "1937-04-21"
+}

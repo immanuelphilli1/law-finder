@@ -1,0 +1,84 @@
+{
+  "caseTitle": "THE REPUBLIC v. THE HIGH COURT, ACCRA EX-PARTE EXPENDABLE PO",
+  "summary": "The Supreme Court of Ghana dismissed an application for certiorari seeking to quash a High Court judgment delivered beyond the six-week period mandated by L.I. 1107, Order 63(2A). The applicant argued the delayed judgment was null and void, citing Republic v. Judicial Committee of the Central Region House of Chiefs, Ex-parte Supi Mark Aaba. The Court held that L.I. 1107 aims to ensure timely judgment delivery but does not strip a court of jurisdiction or render late judgments void. Constitutional provisions, particularly Article 157(3), affirm that a judge remains functus officio only after judgment delivery, preserving jurisdiction despite delay. The Court found the earlier Supi Aaba decision per incuriam for failing to consider constitutional context and declined to follow it, emphasizing that procedural rules must align with constitutional principles.",
+  "legalKeywords": [
+    "certiorari",
+    "judgment delay",
+    "jurisdiction",
+    "functus officio",
+    "constitutional interpretation",
+    "L.I. 1107",
+    "Order 63(2A)",
+    "High Court rules",
+    "supervisory jurisdiction",
+    "Article 132",
+    "Article 157(3)",
+    "Article 129(3)",
+    "procedural mandatory vs directory",
+    "constitutional supremacy",
+    "judicial continuity"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Civil Procedure",
+    "Judicial Administration",
+    "Supreme Court Jurisprudence",
+    "Ghanaian Legal System"
+  ],
+  "verdict": "Application dismissed",
+  "winningSide": "The Republic",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Mrs. Joyce Bamford-Addo",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Kpegah",
+      "role": "Justice"
+    },
+    {
+      "name": "Adjabeng",
+      "role": "Justice"
+    },
+    {
+      "name": "Adzoe",
+      "role": "Justice"
+    },
+    {
+      "name": "Afreh",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional and Civil Procedure",
+  "citations": [
+    "L.I. 1107",
+    "Order 63(2A) of L.N. 140A",
+    "Article 132, Constitution of Ghana",
+    "Article 157(3), Constitution of Ghana",
+    "Article 129(3), Constitution of Ghana",
+    "Republic v. Judicial Committee of the Central Region House of Chiefs, Ex-parte Supi Mark Aaba (C.A. No. 1/99)"
+  ],
+  "rationaleHighlights": [
+    "L.I. 1107 does not nullify judgments delivered after six weeks but ensures timely delivery.",
+    "Jurisdiction persists until judgment is delivered, per Article 157(3) of the Constitution.",
+    "Rules of procedure must be interpreted in harmony with the Constitution.",
+    "The Supi Mark Aaba decision was decided per incuriam due to lack of constitutional consideration.",
+    "Subsequent provisions in L.I. 1107 (subrules 4–7) contemplate delayed judgments, negating nullity.",
+    "Certiorari not warranted where court retains jurisdiction despite delay.",
+    "Constitutional provisions on judicial continuity override procedural timelines.",
+    "Supreme Court exercised discretion under Article 129(3) to depart from precedent."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official court ruling. All legal principles and citations are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2002A/THE REPUBLIC v. THE HIGH COURT, ACCRA EX-PARTE EXPENDABLE PO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:38:47.439Z",
+    "plainTextLength": 22482
+  },
+  "trialDate": "24TH JULY, 2002"
+}

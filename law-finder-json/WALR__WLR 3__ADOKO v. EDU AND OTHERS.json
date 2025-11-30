@@ -1,0 +1,62 @@
+{
+  "caseTitle": "ADOKO VERSUS EDU",
+  "summary": "The Senior Supi of the No. 3 Asafo Company of Mankessim, Kwesi Adoko, brought a case before the Mankessim State Council against Kobina Edu and others for refusing to participate in traditional functions and local administration. The State Council issued a writ under the State Councils (Southern Ghana) Ordinance, 1952, prompting Edu to seek a prohibition order in the High Court, arguing lack of jurisdiction. Ollennu J. held that the State Council's use of statutory powers to compel attendance under section 5(3) of the Ordinance is only valid when exercising jurisdiction over 'matters of a constitutional nature' as defined in section 2. Since the dispute concerned participation in traditional activities and not chiefly elections, depositions, stool property, or political relations, it did not fall within that definition. Therefore, the State Council lacked jurisdiction, and the High Court issued an order of prohibition. The court noted obiter that State Councils may possess inherent customary jurisdiction beyond the Ordinance, but such jurisdiction must be exercised without invoking statutory enforcement mechanisms.",
+  "legalKeywords": [
+    "prohibition",
+    "jurisdiction",
+    "State Council",
+    "constitutional nature",
+    "customary law",
+    "inherent jurisdiction",
+    "statutory powers",
+    "writ of summons",
+    "native custom",
+    "section 5",
+    "section 32",
+    "section 2",
+    "Magistrate's Court powers",
+    "traditional functions",
+    "Asafo Company"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Constitutional Law",
+    "Customary Law",
+    "Jurisdiction",
+    "Prohibition"
+  ],
+  "verdict": "Order of prohibition granted; the Mankessim State Council lacked jurisdiction to hear the case.",
+  "winningSide": "Applicants (Edu and others)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "presiding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Central Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "State Councils (Southern Ghana) Ordinance, c. 8 of 1952, s. 2",
+    "State Councils (Southern Ghana) Ordinance, c. 8 of 1952, s. 5",
+    "State Councils (Southern Ghana) Ordinance, c. 8 of 1952, s. 32",
+    "Kokro and Others v. Enum and Kokro and Others v. Tandoh and Others (consolidated) (1953) 14 W.A.C.A. 313"
+  ],
+  "rationaleHighlights": [
+    "Section 5(3) powers are limited to proceedings under section 5(1) jurisdiction",
+    "Dispute over traditional participation is not a 'matter of a constitutional nature' under section 2",
+    "Use of statutory enforcement mechanisms invokes statutory jurisdiction",
+    "Inherent customary jurisdiction exists but must be exercised without statutory process",
+    "Issuing a writ under s.5(3) without s.5(1) jurisdiction is ultra vires"
+  ],
+  "confidenceNotes": "The judgment is clear and well-reasoned, with precise statutory interpretation. The obiter on section 32 is persuasive but not binding.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/ADOKO v. EDU AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:19:58.998Z",
+    "plainTextLength": 10144
+  }
+}

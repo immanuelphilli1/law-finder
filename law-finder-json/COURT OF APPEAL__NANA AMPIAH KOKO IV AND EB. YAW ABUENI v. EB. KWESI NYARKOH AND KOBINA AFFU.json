@@ -1,0 +1,71 @@
+{
+  "caseTitle": "AMPIAH KOKO IV AND EB. YAW ABUENI v. EB. KWESI NYARKOH",
+  "summary": "This is an appeal from a Circuit Court ruling that refused the plaintiffs leave to amend their writ of summons and statement of claim during trial in a land dispute over the Kyekyegya area in Agona Nyakrom, Ghana. The plaintiffs sought to clarify and alter the boundaries of the disputed land, claiming declaration of title, ejectment, damages for trespass, and a perpetual injunction. The defendants opposed the amendment, arguing it would cause prejudice, require new evidence, and amount to a new case. The Court of Appeal upheld the trial judge's refusal, emphasizing that while courts are generally liberal in allowing amendments to determine the real issue between parties, such amendments must not cause injustice, surprise, or undue delay. The proposed amendment would have drastically changed the described boundaries, retroactively affecting already-given evidence and necessitating recall of witnesses, thus prejudicing the defendants. The appeal was dismissed.",
+  "legalKeywords": [
+    "amendment of pleadings",
+    "declaration of title",
+    "land dispute",
+    "licensee",
+    "trespass",
+    "ejectment",
+    "perpetual injunction",
+    "real issue in controversy",
+    "procedural fairness",
+    "surprise to defendant",
+    "bona fide amendment",
+    "undue delay",
+    "costs as compensation",
+    "boundary delineation",
+    "allodial title"
+  ],
+  "topics": [
+    "Land Law",
+    "Civil Procedure",
+    "Amendment of Pleadings",
+    "Title Dispute",
+    "Judicial Discretion"
+  ],
+  "verdict": "The appeal was dismissed. The trial court's refusal to grant leave to amend the pleadings was upheld.",
+  "winningSide": "Defendants/Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Rose Owusu JA",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "Brobbey JA",
+      "role": "Presiding"
+    },
+    {
+      "name": "Benin JA",
+      "role": "Member of Panel"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "YEBOA and Another VRS. BOFOUR [1971] 2 GLR 199",
+    "CROPPER VRS SMITH [1883] 26 Ch. D700",
+    "TILDESLEY VRS HARPER [1872] 10 Ch. D393",
+    "CLARAPEDE VRS. COMMERCIAL UNION ASSOCIATION [1883] 32 W.R"
+  ],
+  "rationaleHighlights": [
+    "Amendment may be allowed at any stage if it does not cause injustice or surprise to the opposing party.",
+    "An amendment that changes the nature of the case or necessitates recall of witnesses will generally be refused.",
+    "The trial judge must balance procedural fairness with the need to determine the real issue between the parties.",
+    "Amendments taking effect retroactively can invalidate prior evidence if boundaries are altered significantly.",
+    "Failure to amend earlier when opportunity existed weighs against granting late amendments."
+  ],
+  "confidenceNotes": "The judgment is well-reasoned and cites established legal principles on amendment of pleadings. The court's analysis of prejudice and timing is thorough, supporting high confidence in the accuracy of the extracted information.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/NANA AMPIAH KOKO IV AND EB. YAW ABUENI v. EB. KWESI NYARKOH AND KOBINA AFFU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:14:57.026Z",
+    "plainTextLength": 16740
+  },
+  "trialDate": "14TH MARCH 2002"
+}

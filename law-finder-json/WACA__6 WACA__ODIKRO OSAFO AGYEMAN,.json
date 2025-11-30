@@ -1,0 +1,69 @@
+{
+  "caseTitle": "ODIKRO OSAFO AGYEMAN,",
+  "summary": "This 1940 decision by the West Africa Court of Appeal (WACA) addressed a claim for rent and tribute related to cocoa farms in the Adansi area of Ghana. The court held that the Divisional Court lacked jurisdiction, as the matter fell under the authority of Adansi Native Court 'B' per the Native Courts (Confederacy) Order. The appeal was allowed, lower court proceedings were stayed, and the parties were referred to the competent Native Court. The appellant, who had raised the jurisdictional issue early, was awarded costs in both courts.",
+  "legalKeywords": [
+    "jurisdiction",
+    "Native Court",
+    "Divisional Court",
+    "land occupation",
+    "rent claim",
+    "tribute",
+    "cocoa farms",
+    "Adansi",
+    "Supreme Court",
+    "costs award",
+    "procedural referral",
+    "customary land",
+    "appellate review",
+    "tribal stool",
+    "competent court"
+  ],
+  "topics": [
+    "Jurisdiction",
+    "Native Courts",
+    "Land Tenure",
+    "Appellate Procedure",
+    "Costs"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendant-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "C.J."
+    },
+    {
+      "name": "Petrides",
+      "role": "C.J."
+    },
+    {
+      "name": "Bannerman",
+      "role": "J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Native Courts (Confederacy) Order, 1st Schedule, ss 6, 7",
+    "Native Courts (Ashanti) Ordinance, Cap. 80, s 35"
+  ],
+  "rationaleHighlights": [
+    "The claim concerned land occupation and fell within Native Court jurisdiction.",
+    "Divisional Court lacked jurisdiction over customary land matters.",
+    "Section 35 required referral to the competent Native Court.",
+    "Jurisdictional objection was timely raised by appellant.",
+    "Proceedings in higher courts were stayed in favor of Native Court adjudication."
+  ],
+  "confidenceNotes": "High confidence; details are drawn directly from the judgment text, though some procedural context may be inferred due to limited factual elaboration.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/ODIKRO OSAFO AGYEMAN,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:01:16.853Z",
+    "plainTextLength": 2592
+  },
+  "trialDate": "1940-02-16"
+}

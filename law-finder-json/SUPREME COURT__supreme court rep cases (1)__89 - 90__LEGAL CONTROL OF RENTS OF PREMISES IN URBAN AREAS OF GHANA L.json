@@ -1,0 +1,53 @@
+{
+  "caseTitle": "LEGAL CONTROL OF RENTS OF PREMISES IN URBAN AREAS OF GHANA L",
+  "summary": "This academic article analyzes the legal control of rents in urban Ghana, focusing on the evolution and impact of rent regulation laws, particularly the Rent Act, 1963 (Act 220). It situates rent control within the broader context of rapid urbanization, population growth, and severe housing shortages in cities like Accra and Kumasi. The article highlights that over 60% of households in Accra live in rented accommodation, mostly owned by private individuals, with limited public sector involvement due to inefficiencies. The Rent Act, 1963 introduced a system where rent officers assess 'recoverable rent' based on factors such as rateable value, repair costs, and market conditions, ensuring judicial fairness in disputes. The law also criminalizes overcharging, excessive rent advances, and 'goodwill' payments. Despite these measures, enforcement challenges persist amid high demand and insufficient housing supply. The article concludes that rent control has served an egalitarian purpose by protecting low-income urban tenants, though structural issues in housing production and finance remain unresolved.",
+  "legalKeywords": [
+    "rent control",
+    "housing policy",
+    "security of tenure",
+    "urban housing",
+    "affordable housing",
+    "tenant rights",
+    "landlord obligations",
+    "rent assessment",
+    "public housing",
+    "housing shortage"
+  ],
+  "topics": [
+    "rent control",
+    "urban housing policy",
+    "tenant protection",
+    "Ghanaian property law",
+    "housing shortage"
+  ],
+  "verdict": "The article does not present a judicial verdict but evaluates the effectiveness of rent control legislation in Ghana as a social policy instrument.",
+  "winningSide": "N/A",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "N/A",
+    "country": "Ghana"
+  },
+  "caseType": "academic analysis",
+  "citations": [
+    "[1989-90] VOL. XVII RGL 118–137",
+    "Rent Act, 1963 (Act 220)",
+    "Alameddine Bros v Paterson Zochonis",
+    "Living Standards Survey, 1988",
+    "Defence (Rent Restriction) Regulations of 1942"
+  ],
+  "rationaleHighlights": [
+    "Rent control in Ghana serves as a social policy tool to protect tenants from market-driven rents.",
+    "The Rent Act, 1963 (Act 220) establishes legally recoverable rent based on multiple factors including rateable value and maintenance costs.",
+    "Judicial process in rent assessment requires fairness, with rights to cross-examination and access to documents.",
+    "Criminal penalties exist for overcharging rent or demanding excessive rent in advance.",
+    "Urban housing demand far exceeds supply, leading to overcrowding and reliance on private landlords."
+  ],
+  "confidenceNotes": "The document is an academic article rather than a judicial decision, so some fields are adapted accordingly.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/89 - 90/LEGAL CONTROL OF RENTS OF PREMISES IN URBAN AREAS OF GHANA L.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:18:03.798Z",
+    "plainTextLength": 45267
+  }
+}

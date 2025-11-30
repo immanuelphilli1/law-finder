@@ -1,0 +1,65 @@
+{
+  "caseTitle": "VALENTINE FELIX AND ABIGUIE FELIX",
+  "summary": "This 1930 West African Court of Appeal decision involved an application for conditional leave to appeal to the Privy Council. The judgment awarded the plaintiffs-respondents a sum of £491 5s. 6d., which included interest. The appellant contended that costs should be included to exceed the £500 appeal threshold. The court rejected this, citing precedent that costs cannot be counted toward the appealable amount when the substantive judgment is below the threshold, as established in Doorga Chowdry v. Ramanauth Chowdry and Great Western Ry. of Canada v. Braid. The application was dismissed with costs.",
+  "legalKeywords": [
+    "appeal threshold",
+    "conditional leave to appeal",
+    "judgment debt",
+    "costs in appeal",
+    "Privy Council",
+    "West African Court of Appeal",
+    "amount in controversy",
+    "interest in judgment",
+    "Rule 3 (a) and (b)",
+    "appealable value",
+    "judgment including interest",
+    "dismissal with costs",
+    "legal costs",
+    "monetary threshold for appeal",
+    "precedent application",
+    "Acting Chief Justice Young",
+    "Freetown 1930",
+    "colonial appellate procedure",
+    "judicial discretion",
+    "case law citation"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Costs in Litigation",
+    "Judgment Enforcement",
+    "Privy Council Appeals",
+    "Legal Precedent"
+  ],
+  "verdict": "Application dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Young",
+      "role": "Acting Chief Justice of Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Doorga Chowdry v. Ramanauth Chowdry 8 Moo. 3rd app. 262",
+    "Great Western Ry. of Canada v. Braid, 1 Moo. P.C. (N.S.) 101"
+  ],
+  "rationaleHighlights": [
+    "Costs cannot be included to meet the appeal threshold if the judgment amount is below the required value.",
+    "Precedent clearly establishes that only the substantive judgment, not costs, counts toward the appealable amount.",
+    "Interest was included in the judgment but did not raise the principal to the threshold.",
+    "Application dismissed without requiring response from respondents due to lack of legal merit."
+  ],
+  "confidenceNotes": "High confidence; information directly extracted from judgment text and consistent with legal principles of the period.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/VALENTINE FELIX AND ABIGUIE FELIX.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:38:28.117Z",
+    "plainTextLength": 2227
+  },
+  "trialDate": "1930-10-30"
+}

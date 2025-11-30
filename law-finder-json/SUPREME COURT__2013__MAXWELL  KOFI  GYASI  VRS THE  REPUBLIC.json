@@ -1,0 +1,66 @@
+{
+  "caseTitle": "MAXWELL KOFI GYASI VRS THE REPUBLIC",
+  "summary": "The applicant, Maxwell Kofi Gyasi, sought leave to adduce fresh evidence in an appeal against his conviction and 21-year sentence for robbery by the High Court, Kumasi. He claimed he was under 18 at the time of trial, making the proceedings and sentence invalid as they were conducted under adult criminal procedures. The applicant submitted a birth certificate and school admission records to support his age claim. However, the Supreme Court, per Anin Yeboah J.S.C., dismissed the application, holding that the evidence was available at trial and thus did not meet the legal criteria for fresh evidence. The Court emphasized the established principles from DOMBO & ORS. v. NARH [1970] CC 68 CA and reaffirmed in POKU v. POKU [2007-2008] SCGLR 996, which require that fresh evidence must be previously unavailable, relevant, credible, and capable of creating reasonable doubt. The Attorney-General’s Office did not appear or file a response. The Court found no grounds to depart from precedent and dismissed the application for lack of merit, aligning with the Court of Appeal’s earlier decision.",
+  "legalKeywords": [
+    "fresh evidence",
+    "adduction of evidence",
+    "appeal",
+    "juvenile offender",
+    "jurisdiction",
+    "due diligence",
+    "robbery",
+    "sentence",
+    "birth certificate",
+    "school records",
+    "Supreme Court",
+    "Court of Appeal",
+    "High Court",
+    "criminal procedure",
+    "legal representation",
+    "unrepresented state",
+    "judicial discretion",
+    "strict compliance",
+    "available evidence",
+    "procedural fairness"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Juvenile Justice",
+    "Evidence Law",
+    "Judicial Ruling"
+  ],
+  "verdict": "Application dismissed",
+  "winningSide": "Respondent (The Republic)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Motion",
+  "citations": [
+    "DOMBO & ORS. v. NARH [1970] CC 68 CA",
+    "POKU v. POKU [2007-2008] SCGLR 996"
+  ],
+  "rationaleHighlights": [
+    "The evidence (birth certificate and school records) was available at trial and thus does not qualify as 'fresh evidence'.",
+    "The applicant failed to satisfy the four legal principles for adducing fresh evidence on appeal.",
+    "The failure to present the evidence earlier may stem from lack of due diligence by trial counsel.",
+    "The court must strictly adhere to precedent in matters of fresh evidence.",
+    "The absence of representation by the Attorney-General did not alter the legal outcome due to clear precedent."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the ruling with clear factual and legal references.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/MAXWELL  KOFI  GYASI  VRS THE  REPUBLIC.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:12:44.686Z",
+    "plainTextLength": 5488
+  },
+  "trialDate": "2013-04-08"
+}

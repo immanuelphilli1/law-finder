@@ -1,0 +1,74 @@
+{
+  "caseTitle": "NANA ADWOA EFFIA & GODFRED KWOFIE v NANA TAIBA II",
+  "summary": "This Supreme Court of Ghana judgment in a chieftaincy appeal (J2/1/2009) arose from a dispute over the ownership and kingmaking rights of the Royal Sewuah Paramount Stool of Bamiankor. The appellants challenged the National House of Chiefs' dismissal of their case, arguing procedural errors including reliance on extraneous matters, improper handling of a preliminary objection, and misapplication of rules regarding conditional appearance and reply. The core issue was whether an oral preliminary objection based on lis alibi pendens (a pending similar action) was properly raised without a formal motion. The Court emphasized that under Rule 28 of CI 27, Judicial Committees have discretion to determine procedure in the interest of justice, guided by customary law and High Court practice. It held that while formal rules do not strictly bind chieftaincy tribunals, they must ensure fairness and avoid manifest injustice. The Court found fault with the lower tribunals' reliance on counsel's arguments without independent review and cautioned against sua sponte findings not in the record. The appeal was allowed in part, underscoring the need for proper procedural adherence even in traditional forums.",
+  "legalKeywords": [
+    "chieftaincy dispute",
+    "lis alibi pendens",
+    "preliminary objection",
+    "procedural fairness",
+    "customary law",
+    "High Court procedure",
+    "judicial discretion",
+    "oral objection",
+    "conditional appearance",
+    "interim injunction",
+    "record on appeal",
+    "abuse of process",
+    "nullity",
+    "justice of the cause",
+    "principles of customary law"
+  ],
+  "topics": [
+    "Chieftaincy Law",
+    "Procedural Fairness",
+    "Judicial Review",
+    "Customary Law",
+    "Supreme Court Jurisprudence"
+  ],
+  "verdict": "The appeal was allowed in part, with the Supreme Court finding that the lower tribunals erred in their procedural handling, particularly in accepting an oral preliminary objection without proper record and relying on sua sponte findings.",
+  "winningSide": "Petitioners/Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Wood (Mrs) C.J",
+      "role": "Presiding"
+    },
+    {
+      "name": "Ansa, J.S.C"
+    },
+    {
+      "name": "Dotse, J.S.C"
+    },
+    {
+      "name": "Anin Yeboah, J.S.C"
+    },
+    {
+      "name": "Baffoe-Bonnie, J.S.C"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "chieftaincy appeal",
+  "citations": [
+    "Sappor v Wigitap [2007-2008] SCGLR 677",
+    "Chieftaincy (National and Regional Houses of Chiefs) Procedure Rules, 1972, CI 27",
+    "High Court (Civil Procedure) Rules, 1954 (LN140A)"
+  ],
+  "rationaleHighlights": [
+    "Rule 28 of CI 27 allows Judicial Committees to adopt flexible procedures where no express rules exist, guided by customary law and High Court practice.",
+    "An appellate court may interfere if wrong legal principles are applied or manifest injustice results.",
+    "The plea of lis alibi pendens must be determined on proper record, not based on suo moto searches by the tribunal.",
+    "Oral preliminary objections are permissible under chieftaincy procedure if justice so requires, despite absence of formal motion.",
+    "Judicial Committees must independently assess procedural issues rather than rely solely on counsel submissions."
+  ],
+  "confidenceNotes": "The judgment is unreported but sourced directly from the Supreme Court's chieftaincy decisions for 2009. All key details including parties, grounds of appeal, and legal reasoning are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/NANA ADWOA EFFIA & GODFRED KWOFIE v NANA TAIBA II.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:04:26.079Z",
+    "plainTextLength": 39815
+  },
+  "trialDate": "2009-11-04"
+}

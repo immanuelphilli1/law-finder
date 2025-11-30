@@ -1,0 +1,70 @@
+{
+  "caseTitle": "SENKYIRE v. ABOSO GOLDFIELDS",
+  "summary": "In Kofi Senkyire v. Aboso Gold Fields Ltd, the Court of Appeal overturned a Circuit Court ruling that had found in favor of the plaintiff for wrongful dismissal. The plaintiff, a sampler and foreman, was dismissed after being found with a sample bag containing gold-bearing rock (pyrites) at the company's security gate while leaving work. Although the disciplinary committee acknowledged the evidence was circumstantial, it concluded his actions indicated malicious intent, leading to termination. The Circuit Court held the dismissal was wrongful due to lack of direct evidence and failure to call the security officer, constituting a denial of fair hearing. However, the Court of Appeal ruled that the employee’s conduct—carrying valuable mineral samples beyond his duty station without delivering them to the geologist—was inconsistent with faithful performance of duties and prejudicial to the employer’s interests. Citing Arkhurst v. Ghana Museum and Monuments Board and Pearce v. Forster, the court affirmed that such conduct amounted to gross misconduct under the company’s conditions of service, justifying summary dismissal. The appeal was allowed, and the judgment of the Circuit Court was set aside.",
+  "legalKeywords": [
+    "wrongful dismissal",
+    "gross misconduct",
+    "summary dismissal",
+    "employment contract",
+    "fair hearing",
+    "conditions of service",
+    "employee duties",
+    "trustworthiness",
+    "gold mining industry",
+    "security procedures",
+    "circumstantial evidence",
+    "misconduct prejudicial to employer",
+    "termination of employment",
+    "due process",
+    "disciplinary committee"
+  ],
+  "topics": [
+    "Employment Law",
+    "Wrongful Dismissal",
+    "Gross Misconduct",
+    "Industrial Relations",
+    "Mining Sector Regulation"
+  ],
+  "verdict": "Appeal allowed; dismissal upheld as lawful.",
+  "winningSide": "Aboso Gold Fields Ltd (Appellant)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "S. G. Baddoo",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Ansa, J.A.",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Gbadegbe, J.A.",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Employment Law",
+  "citations": [
+    "KOFI SENKYIRE v. ABOSO GOLDFIELDS [25/7/02] CA 80/2001",
+    "Arkhurst v. Ghana Museum And Monuments Board [1971] 2GLR 1",
+    "Pearce V. Forster (1886) 17 Q.B.D C.A."
+  ],
+  "rationaleHighlights": [
+    "The employee's conduct in carrying gold-bearing samples to the security gate created suspicion and undermined trust.",
+    "Even without direct confrontation with the security officer, the principal fact of being found with valuable material at an unauthorized point was sufficient.",
+    "Conduct inconsistent with faithful discharge of duty justifies summary dismissal.",
+    "Employer followed internal procedures by allowing employee to explain before a committee.",
+    "Dismissal not wrongful as it aligned with conditions of service for gross misconduct."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from court judgment text. Some citations are truncated but key details are preserved.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/KOFI SENKYIRE v. ABOSO GOLDFIELDS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:23:39.361Z",
+    "plainTextLength": 20749
+  },
+  "trialDate": "25TH JULY 2002"
+}

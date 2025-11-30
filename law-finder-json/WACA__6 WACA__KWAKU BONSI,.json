@@ -1,0 +1,63 @@
+{
+  "caseTitle": "KWAKU BONSI,",
+  "summary": "The appeal was brought by Kwaku Bonsi, Jasahene of Asokore, and Kwadjo Donyo, former Abadiakyirehene of Asokore, against Nana Antwi Adjena II, Benkumhene of New Juaben, representing the New Juaben Stool. The plaintiffs-appellants sought to rely on Native Law and Custom to support their case, but failed to specifically plead or allege any such customs in their writ or during counsel's opening. The Divisional Court, led by the Chief Justice, held that the writ disclosed no cause of action and entered a non-suit on the pleadings without hearing evidence. On appeal, the West African Court of Appeal affirmed the lower court’s decision, emphasizing that Native Law and Custom must be explicitly pleaded to be considered. The court found that the vaguely suggested customs, if formally articulated, would be implausible and unworthy of serious consideration. Consequently, the appeal was dismissed with costs assessed at £17 13s.",
+  "legalKeywords": [
+    "Native Law and Custom",
+    "pleading requirements",
+    "cause of action",
+    "non-suit on pleadings",
+    "appellate review",
+    "customary law",
+    "writ of summons",
+    "failure to allege",
+    "judicial dismissal",
+    "costs award"
+  ],
+  "topics": [
+    "Customary Law",
+    "Civil Procedure",
+    "Appellate Law"
+  ],
+  "verdict": "The appeal was dismissed with costs assessed at £17 13s.",
+  "winningSide": "Defendant-Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "COR. KINGDON",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "GRAHAM PAUL",
+      "role": "Chief Justice, Sierra Leone"
+    },
+    {
+      "name": "BANNERMAN",
+      "role": "Justice, Gold Coast"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "WACA/6 WACA/KWAKU BONSI"
+  ],
+  "rationaleHighlights": [
+    "Native Law and Custom must be specifically alleged and pleaded to be considered by the court.",
+    "Failure to include such customs in the writ or opening arguments results in no cause of action being disclosed.",
+    "The court will not entertain vague or implied references to customary law.",
+    "The lower court correctly non-suited the plaintiffs based solely on defective pleadings.",
+    "Even if articulated, the suggested customs were viewed as implausible and absurd.",
+    "Appellate court upheld strict adherence to procedural pleading standards in customary law cases.",
+    "No evidentiary hearing is required when pleadings fail to disclose a cause of action.",
+    "Costs were awarded against the appellants due to the lack of legal basis for the appeal."
+  ],
+  "confidenceNotes": "The decision is consistent with established principles of pleading in colonial-era British West African courts, where strict formalism was applied. The reference to 'absurd' customary claims suggests skepticism toward unpleaded indigenous legal arguments. Jurisdictional context confirms this as a pre-independence Ghana (Gold Coast) case under the West African Court of Appeal.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/KWAKU BONSI,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:04:29.763Z",
+    "plainTextLength": 2547
+  }
+}

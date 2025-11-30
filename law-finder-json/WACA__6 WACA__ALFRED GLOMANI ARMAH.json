@@ -1,0 +1,63 @@
+{
+  "caseTitle": "ALFRED GLOMANI ARMAH",
+  "summary": "This 1940 West Africa Court of Appeal decision in Accra concerned the appeal of Alfred Glomani Armah against a conviction for an unspecified offense involving coins. The court addressed the prosecution's failure to call Adamu, an eye-witness to the central transaction, noting it was a matter of severe comment but not fatal to the conviction. The case hinged on whether coins found in the possession of the first prosecution witness were the same coins given by the appellant. Despite two assessors finding the appellant not guilty, the trial judge convicted based on discrepancies in the appellant's statements and supporting evidence. The appellate court upheld the conviction, finding sufficient basis for the trial judge's decision and dismissed the appeal.",
+  "legalKeywords": [
+    "failure to call witness",
+    "eye-witness testimony",
+    "conviction upheld",
+    "appellate review",
+    "assessment of evidence",
+    "credibility of witnesses",
+    "prosecution duty",
+    "trial irregularity",
+    "standard of proof",
+    "discrepancy in statements",
+    "role of assessors",
+    "judicial discretion",
+    "sufficiency of evidence"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Evidence Law"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "WACA/6 WACA/ALFRED GLOMANI ARMAH"
+  ],
+  "rationaleHighlights": [
+    "Failure to call an eye-witness is subject to severe comment but not automatically fatal to conviction",
+    "Discrepancies in the appellant's statements supported the conviction",
+    "Trial judge's factual finding upheld despite split opinion among assessors",
+    "Sufficiency of evidence standard met on appeal"
+  ],
+  "confidenceNotes": "High confidence; details are drawn directly from the judgment text, though the underlying offense and some procedural details are not fully specified in the provided document.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/ALFRED GLOMANI ARMAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:11:06.914Z",
+    "plainTextLength": 2847
+  },
+  "trialDate": "1940-05-14"
+}

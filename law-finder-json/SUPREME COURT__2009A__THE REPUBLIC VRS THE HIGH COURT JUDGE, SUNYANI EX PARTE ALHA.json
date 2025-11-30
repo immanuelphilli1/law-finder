@@ -1,0 +1,89 @@
+{
+  "caseTitle": "THE REPUBLIC VRS THE HIGH COURT JUDGE, SUNYANI EX PARTE ALHA",
+  "summary": "This 2009 Supreme Court of Ghana ruling addressed whether the High Court could entertain an election petition before the Electoral Commission declared and gazetted election results. The case arose when Alhaji Collins Dauda sought to quash a High Court judge's decision to hear a petition by Yiadom Boakye-Boateng challenging the parliamentary election in Asutifi South, alleging ballot box tampering. The Supreme Court unanimously held that the High Court lacked jurisdiction to hear the petition prior to the official declaration of results, emphasizing that even allegations of corrupt practices must await the formal declaration of an election outcome. The Court clarified that the phrase 'the person whose election is questioned' in Section 18(1) of PNDCL 284 implies a post-declaration context, rendering premature petitions invalid. It also criticized prior obiter dicta that suggested otherwise as per incuriam.",
+  "legalKeywords": [
+    "jurisdiction",
+    "election petition",
+    "corrupt practice",
+    "Electoral Commission",
+    "declaration of results",
+    "PNDCL 284",
+    "Article 46",
+    "Article 295(8)",
+    "certiorari",
+    "premature filing",
+    "gazette publication",
+    "supervisory jurisdiction",
+    "constitutional interpretation",
+    "time limit",
+    "ballot box tampering",
+    "interim injunction",
+    "Representation of the People Law",
+    "constitutional duty",
+    "judicial review",
+    "constitutional independence"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Election Law",
+    "Judicial Review",
+    "Jurisdiction",
+    "Electoral Integrity"
+  ],
+  "verdict": "The Supreme Court ruled that the High Court lacked jurisdiction to hear the election petition before the Electoral Commission declared the results.",
+  "winningSide": "Applicant (Alhaji Collins Dauda)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Delivered the unanimous ruling"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Akuffo (Ms)",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Owusu (Ms)",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "B. Bonnie",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Motion",
+  "citations": [
+    "Republic v High Court, Bolgatanga, Ex parte Hawa Yakubu [2001-2002] SCGLR 53",
+    "In re Appenteng [2005-2006] SCGLR 18",
+    "Republic v High Court, Denu; Ex parte Kumapley [2003-2004] SCGLR 79",
+    "Republic v High Court, Ex parte Soku [2001-2002] SCGLR 901",
+    "Republic v Court of Appeal, Ex parte Ghana Cable Limited [2005-2006] SCGLR 107",
+    "Republic v High Court, Ex parte CHRAJ [2003-2004] SCGLR 312"
+  ],
+  "rationaleHighlights": [
+    "Section 18(1) of PNDCL 284 requires election petitions to be filed after results are declared, except in cases of corrupt practices.",
+    "The phrase 'person whose election is questioned' implies a post-declaration context.",
+    "Allegations of corrupt practices cannot bypass the requirement for prior declaration of results.",
+    "Prior obiter dicta suggesting otherwise were deemed per incuriam.",
+    "The Court emphasized constitutional independence of the Electoral Commission under Article 46.",
+    "Premature petitions undermine statutory and constitutional frameworks.",
+    "Drafting flaws in PNDCL 284 may create timing issues but do not override jurisdictional requirements.",
+    "Supervisory jurisdiction was properly invoked to correct a fundamental jurisdictional error."
+  ],
+  "confidenceNotes": "The summary is based on a full reading of the Supreme Court's unanimous ruling, with direct reference to statutory provisions, constitutional articles, and cited precedents. All key facts, legal reasoning, and outcomes are explicitly stated in the source document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/THE REPUBLIC VRS THE HIGH COURT JUDGE, SUNYANI EX PARTE ALHA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:58:46.882Z",
+    "plainTextLength": 21955
+  },
+  "trialDate": "2009-04-08"
+}

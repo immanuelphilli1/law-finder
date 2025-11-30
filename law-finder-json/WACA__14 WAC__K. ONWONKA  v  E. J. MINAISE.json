@@ -1,0 +1,64 @@
+{
+  "caseTitle": "K. ONWONKA v E. J. MINAISE",
+  "summary": "In this civil appeal before the West African Court of Appeal, the appellant, K. Onwonka, sought to set aside a prior settlement agreement and recover ₤1,000 paid as an advance for four launches. The settlement, incorporated into a court judgment in 1947, required the respondent, E. J. Minaise, to sell the launches at the highest possible value, with any surplus over ₤4,400 retained by him and any shortfall borne by the appellant. After the launches were sold for a net of ₤672 5s. 0d., the appellant filed a new claim to set aside the settlement and recover his money. The trial judge dismissed the action, holding that the pleadings disclosed no cause of action and that the second claim was res judicata. On appeal, the appellant argued he should have been allowed to amend his pleadings to allege mutual mistake (that both parties believed the launches were worth about ₤3,000 at settlement) and that the judge erred in giving judgment instead of merely striking out the claim. The appellate court held that the pleadings contained no averment supporting mutual mistake, the fraud allegation was unsubstantiated and unrelated to the settlement, and no application to amend was made. It affirmed that under Order 32, rule 19, the trial judge had the authority to give judgment. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "res judicata",
+    "mutual mistake",
+    "fraud",
+    "pleadings",
+    "cause of action",
+    "settlement agreement",
+    "amendment of pleadings",
+    "practice and procedure",
+    "striking out",
+    "judgment"
+  ],
+  "topics": [
+    "Contract Law",
+    "Civil Procedure",
+    "Res Judicata",
+    "Settlement Agreements",
+    "Pleadings"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Foster-Sutton",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "de Comarmond",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Coussey",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WACA/14",
+    "Order 32, rule 19, Supreme Court (Civil Procedure) Rules"
+  ],
+  "rationaleHighlights": [
+    "The claim failed because the pleadings did not disclose a cause of action based on mutual mistake or fraud at the time of settlement.",
+    "The trial judge correctly dismissed the claim as it disclosed no cause of action, under Order 32, rule 19.",
+    "No application was made to amend pleadings despite opportunity, and amendment would have been unjust given conflicting fraud allegations.",
+    "Allegation of fraud related to the sale, not the settlement, and lacked factual basis.",
+    "Res judicata applied to the second claim due to dismissal of the first"
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text with clear factual support.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/K. ONWONKA  v  E. J. MINAISE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:38:42.000Z",
+    "plainTextLength": 14148
+  },
+  "trialDate": "1952-05-14"
+}

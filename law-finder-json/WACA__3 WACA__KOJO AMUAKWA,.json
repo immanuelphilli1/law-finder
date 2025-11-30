@@ -1,0 +1,72 @@
+{
+  "caseTitle": "KOJO AMUAKWA,",
+  "summary": "The West Africa Court of Appeal quashed the murder conviction of Kojo Amuakwa, Ohene of Agona Duakwa, who had shot and killed Eteng Usani during a riot in Ugep on 31 December 1935. The appellant's nearly completed house was being destroyed by rioters from a rival quarter, despite his non-involvement in the initial conflict. After removing some belongings, he returned and fired into a crowd attacking his property, intending only to scare them. The Assistant Judge found no prior intent to kill and acknowledged high provocation, but upheld the murder conviction. The appellate court ruled that the killing was justifiable under common law as it occurred during a felonious attack on his property—specifically, the unlawful destruction of a building under Sections 76 and 77 of the Criminal Code. Citing Russell on Crimes and Archbold, the court affirmed that one may use lethal force to defend their habitation against forcible dispossession without retreating. As the appellant was acting to repel felons destroying his home, the homicide was deemed justifiable, warranting acquittal.",
+  "legalKeywords": [
+    "justifiable homicide",
+    "defence of property",
+    "manslaughter",
+    "murder",
+    "riot",
+    "felonious destruction",
+    "self-defence",
+    "criminal code",
+    "provocation",
+    "conviction quashed"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Homicide",
+    "Defence of Property",
+    "Appellate Review",
+    "Riot and Public Order"
+  ],
+  "verdict": "Conviction for murder quashed; acquitted on grounds of justifiable homicide in defence of property.",
+  "winningSide": "Defendant-Appellant (Kojo Amuakwa)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides",
+      "role": "Judge"
+    },
+    {
+      "name": "Yates",
+      "role": "Judge"
+    },
+    {
+      "name": "Webber",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Hussey, 18 Cr. App. R. 160",
+    "Russell on Crimes, 8th ed., p. 775",
+    "Archbold, 29th ed., p. 892 et seq."
+  ],
+  "rationaleHighlights": [
+    "Killing occurred during riotous destruction of appellant's nearly completed house",
+    "Appellant acted without prior intent to kill, aiming only to frighten attackers",
+    "Destruction of property constituted a felony under Sections 76 and 77 of the Criminal Code",
+    "Appellant had no duty to retreat when defending his habitation",
+    "Court found the homicide justifiable under common law principles of property defence",
+    "Conviction for murder was quashed due to justification in law",
+    "Prosecution conceded murder conviction was unsustainable",
+    "No finding on self-defence, but defence of property sufficed for acquittal"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and cited legal authorities.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/KOJO AMUAKWA,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:20:52.712Z",
+    "plainTextLength": 6093
+  },
+  "trialDate": "1936-03-10"
+}

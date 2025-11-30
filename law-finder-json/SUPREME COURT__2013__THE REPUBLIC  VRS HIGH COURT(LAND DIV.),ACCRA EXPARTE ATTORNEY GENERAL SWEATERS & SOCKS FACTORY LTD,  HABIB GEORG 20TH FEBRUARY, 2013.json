@@ -1,0 +1,81 @@
+{
+  "caseTitle": "THE REPUBLIC VRS HIGH COURT(LAND DIV.),ACCRA EXPARTE ATTORNEY GENERAL SWEATERS & SOCKS FACTORY LTD, HABIB GEORG 20TH FEBRUARY, 2013",
+  "summary": "This Supreme Court of Ghana ruling from 20th February 2013 addressed whether the High Court has jurisdiction to attach public funds to satisfy a judgment debt owed by the State. The case arose after the High Court issued a Garnishee Order Absolute directing the Bank of Ghana to pay the cedi equivalent of USD 28,595,600 to Sweaters & Socks Factory Ltd and Habib George Beany, following a 32-year denial of use of their factory by the State. The Attorney-General, representing the Republic, sought to quash the order, arguing that the Constitution and financial laws barred courts from ordering withdrawal of public funds without parliamentary appropriation. The Supreme Court reaffirmed its earlier precedent in Republic v High Court (Commercial Division); ex parte Attorney-General, holding that the High Court does have jurisdiction to enforce judgment debts against the State through garnishee proceedings. It rejected the argument that Articles 177 and 178 of the 1992 Constitution prevent such execution, emphasizing that a judgment debt creates a constitutional obligation for the State to pay, necessitating the executive to secure required authorization. The Court stressed that the lack of a specific budget line for judgment debts does not exempt the State from liability, drawing an analogy to private individuals who must satisfy court-ordered payments regardless of personal budgeting. The ruling upheld the rule of law and the State’s duty to honor financial obligations, reinforcing judicial authority in enforcing judgments against the government.",
+  "legalKeywords": [
+    "judgment debt",
+    "garnishee proceedings",
+    "public funds",
+    "State Proceedings Act",
+    "Constitutional interpretation",
+    "execution of judgment",
+    "jurisdiction of High Court",
+    "appropriation of funds",
+    "supervisory jurisdiction",
+    "monetary compensation",
+    "contingency fund",
+    "consolidated fund",
+    "financial administration",
+    "budgetary allocation",
+    "rule of law"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Public Finance",
+    "Judicial Enforcement",
+    "Judgment Debt",
+    "Separation of Powers"
+  ],
+  "verdict": "The Supreme Court dismissed the application to quash the Garnishee Order Absolute, affirming the High Court's jurisdiction to enforce judgment debts against the State through attachment of public funds, provided statutory conditions are met.",
+  "winningSide": "Interested Parties (Sweaters & Socks Factory Ltd and Habib George Beany)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Anin",
+      "role": "Justice"
+    },
+    {
+      "name": "Adinyira (Mrs.)",
+      "role": "Justice"
+    },
+    {
+      "name": "Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "Akamba",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Republic v High Court (Commercial Division); ex parte Attorney-General (Suit No. J5/24/2012, unreported, delivered on 24th January 2013)",
+    "State Proceedings Act, 1998 (Act 555), Section 15(1)",
+    "Financial Administration Act, 2003 (Act 654), Sections 5(1), 13, 14",
+    "1992 Constitution of Ghana, Articles 140(1), 177, 178, 179"
+  ],
+  "rationaleHighlights": [
+    "The High Court has jurisdiction to attach public funds to satisfy judgment debts against the State.",
+    "Non-compliance with Section 15(1) of Act 555 in prior case led to quashing of orders, but principle of liability affirmed.",
+    "Constitutional provisions on public expenditure (Arts 177–179) do not bar court-ordered execution against the State.",
+    "Judgment debts create a constitutional obligation for the State to pay, requiring necessary budgetary adjustments.",
+    "Courts may enforce payment through garnishee proceedings despite absence of specific budget line for judgment debts.",
+    "Separation of powers does not immunize the State from execution; judiciary can order payment, executive must comply via legal mechanisms.",
+    "Public interest requires the State to honor judgment debts to maintain creditworthiness and rule of law.",
+    "The Republic cannot use lack of budgetary provision as a defense to execution, analogous to private individuals."
+  ],
+  "confidenceNotes": "The ruling is based on a binding precedent from the same court, and constitutional and statutory provisions are clearly cited. The analysis is thorough and consistent with prior jurisprudence.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/THE REPUBLIC  VRS HIGH COURT(LAND DIV.),ACCRA EXPARTE ATTORNEY GENERAL SWEATERS & SOCKS FACTORY LTD,  HABIB GEORG 20TH FEBRUARY, 2013.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:07:23.373Z",
+    "plainTextLength": 17756
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This 2013 Supreme Court of Ghana ruling initially dismissed an application by Abed Nortey (applicant) for an interlocutory injunction pending appeal, on grounds of procedural incompetence. The applicant sought to restrain defendants from dealing with land under dispute while appealing a Court of Appeal decision that overturned a High Court judgment in his favor. The court, per Benin, J.S.C., held that because the record of appeal had not been transmitted to the Supreme Court at the time of filing, the court was not yet seized of the matter under Rule 16(1) of C.I. 16, and thus the applicant should have first filed the interlocutory application at the lower court under Rule 20(2). The application was dismissed with costs of GHC1,000. However, this ruling was later overturned on May 17, 2013, by a panel of three justices following a review application.",
+  "legalKeywords": [
+    "interlocutory injunction",
+    "stay of execution",
+    "Supreme Court Rules C.I. 16",
+    "Rule 16(1)",
+    "Rule 20(2)",
+    "procedural incompetence",
+    "record of appeal transmission",
+    "jurisdiction of Supreme Court",
+    "appeal pending",
+    "injunction pending appeal",
+    "land dispute",
+    "declaration of title",
+    "execution of judgment",
+    "review application",
+    "costs award"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Land Law",
+    "Appellate Jurisdiction",
+    "Injunctions",
+    "Supreme Court Practice"
+  ],
+  "verdict": "Application dismissed with costs, but later overturned on review",
+  "winningSide": "2nd and 3rd defendants (initially)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "A. A. Benin",
+      "role": "Single Justice"
+    },
+    {
+      "name": "G. T. Wood (Mrs)",
+      "role": "Presiding Justice on Review"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice on Review"
+    },
+    {
+      "name": "J. B. Akamba",
+      "role": "Justice on Review"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Motion",
+  "citations": [
+    "C.I. 16, Rule 16(1)",
+    "C.I. 16, Rule 20(2)"
+  ],
+  "rationaleHighlights": [
+    "Court not seized under Rule 16(1) until record transmitted",
+    "Interlocutory applications must first go to lower court if record not transmitted",
+    "Rule 20(2) governs stay applications before transmission",
+    "Direct application to Supreme Court procedurally flawed",
+    "Ruling later overturned on review"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on explicit court record and procedural rules cited. Note that the initial dismissal was overturned on review, which affects final outcome but not the content of this specific ruling.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/temp 13.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:05:46.369Z",
+    "plainTextLength": 7040
+  },
+  "trialDate": "2013-04-15"
+}

@@ -1,0 +1,63 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This case involved an application for an extension of time to file an appeal, which was initially misconceived as being directed to the West African Court of Appeal under Rule 15, though such applications should be made to the court below. Due to an error by the appellant's former legal practitioner, the appeal was not filed within the prescribed time. An earlier application to the lower court for extension was dismissed due to a misinterpretation of its powers under the rules. Citing the principle from Kojo Pon v. Atta Fua, the Court exercised its discretionary power under section 8 of the West African Court of Appeal Ordinance, 1933, to allow the appeal to proceed on the merits in the interest of substantial justice. The appellant was required to file the appeal within three days and serve the respondent, while also paying five guineas in costs within seven days as a condition for the appeal's acceptance.",
+  "legalKeywords": [
+    "extension of time",
+    "appeal",
+    "substantial justice",
+    "discretion",
+    "jurisdiction",
+    "legal practitioner error",
+    "Court below",
+    "rule 15",
+    "section 8",
+    "West African Court of Appeal Ordinance"
+  ],
+  "topics": [
+    "Appeal Procedure",
+    "Judicial Discretion",
+    "Legal Error",
+    "Substantial Justice",
+    "Costs and Fees"
+  ],
+  "verdict": "The Court granted the appellant leave to file the appeal out of time under specified conditions.",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Kojo Pon v. Atta Fua, Gold Coast, Privy Council 1874-1928, p.95"
+  ],
+  "rationaleHighlights": [
+    "The Court exercised discretion under section 8 due to special circumstances.",
+    "The lower court erred in dismissing the extension application based on a misinterpretation of its powers.",
+    "Substantial justice outweighs procedural default when no jurisdictional bar exists.",
+    "Appellant's failure stemmed from legal practitioner error and procedural oversight.",
+    "Conditions were imposed to balance fairness to both parties."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment text.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/OFEM ODEY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:00:37.398Z",
+    "plainTextLength": 6041
+  },
+  "trialDate": "1940-04-11"
+}

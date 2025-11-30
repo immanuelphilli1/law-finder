@@ -1,0 +1,75 @@
+{
+  "caseTitle": "OFFIONG EGBO ARCHIBONG",
+  "summary": "This 1938 West Africa Court of Appeal decision involved a land dispute between the family of Obong Egbo Archibong IV and Chief Ntoe Eteta, representing the Akim Qua Town chiefs and people, over entitlement to rental income from lands at Atimbo on the Qua River. The plaintiffs claimed a two-thirds share of lease rents paid by European firms, asserting prior customary grant of the land. The court held that the leased plots were part of the land previously granted under native customary law, rejecting the defense that 'beach lands' could not be subject to such grants based on a 1915 judicial precedent. It further ruled that although the defendants had no right to lease already-granted land, the plaintiffs' acquiescence in the leases entitled them to an equitable share of the rents. The court dismissed reliance on a 1915–1918 agreement limiting payment to £10 annually, finding it did not bind the family as it acknowledged no legal right but was instead a goodwill payment for 'good conduct.' Ultimately, the court fixed the plaintiffs’ share at two-thirds of the lease rents, grounding the claim in equity rather than native law.",
+  "legalKeywords": [
+    "native customary law",
+    "land grant",
+    "equitable share",
+    "forfeiture",
+    "acquiescence",
+    "lease agreement",
+    "rental entitlement",
+    "beach lands",
+    "successor rights",
+    "family representation",
+    "monetary relief",
+    "judicial precedent",
+    "contract interpretation",
+    "goodwill payment",
+    "title dispute"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Equity",
+    "Appellate Decision",
+    "Rent Sharing"
+  ],
+  "verdict": "For the appellants",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webb",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "WACA/4",
+    "1915 Divisional Court Judgment",
+    "Exhibit H (25 Oct 1915)",
+    "Exhibit J (7 June 1918)",
+    "Judgment of 18 Nov 1919"
+  ],
+  "rationaleHighlights": [
+    "The 1915 judgment established that land use extended to the beach, invalidating the 'beach lands' non-grantability defense.",
+    "Defendants lacked authority to lease already-granted land, but plaintiffs’ adoption of leases entitled them to equitable rent sharing.",
+    "The £10 annual payment was not a legal entitlement but a goodwill gesture conditioned on 'good conduct,' not binding on the family.",
+    "No evidence showed that the witness Egbo Archibong had authority to bind the family to the agreement.",
+    "Equitable principles, not native law, governed the claim due to the unique circumstances of post-grant leasing by the grantor.",
+    "The court exercised discretion to fix the equitable share at two-thirds of the lease rents.",
+    "The appeal succeeded because the trial judge erred in refusing to allow evidence on the nature of the £10 agreement.",
+    "The documents relied upon by defendants implicitly denied any legal right, undermining their use to limit plaintiffs’ claims."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct textual evidence from the judgment. All key holdings, parties, and legal reasoning are explicitly stated in the source document. Minor uncertainty exists regarding the full name of 'Egbo Archibong' who witnessed Exhibit H, but this does not affect the overall analysis.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/OFFIONG EGBO ARCHIBONG.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:01:04.795Z",
+    "plainTextLength": 15496
+  },
+  "trialDate": "1938-11-03"
+}

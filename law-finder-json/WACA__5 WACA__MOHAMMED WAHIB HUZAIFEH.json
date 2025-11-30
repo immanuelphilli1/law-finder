@@ -1,0 +1,68 @@
+{
+  "caseTitle": "MOHAMMED WAHIB HUZAIFEH",
+  "summary": "This West Africa Court of Appeal case from 1939 involved a civil claim for damages arising from an allegedly invalid divorce certificate issued under the Marriage of Mohammedans Ordinance (Cap. 107) in the Gold Coast (now Ghana). The plaintiff-respondent, Mohammed Wahib Huzaifeh, claimed damages against the defendants-appellants, Hussein Saba and Maria Elina Sabeh, for obtaining a divorce certificate without his consent and for the refusal to complete a marriage contracted in Syria in 1934. The parties were Hanafi sect Moslems formerly resident in Syria. The central legal issues were whether the divorce was valid under Hanafi Mohammedan law as practiced in Syria, and whether the plaintiff was entitled to damages. The trial court awarded the plaintiff �99 15s. and costs, but the appellate court reversed this decision. The appeal turned on the admissibility and weight of expert testimony: Alhaji Ahamadu Futah, a local Mohammedan priest, was called to testify on Syrian Hanafi law, but the appellate court held he was not a competent expert on Syrian law. While his testimony was not inadmissible, it carried little weight. Furthermore, no evidence established a right to damages under local law for the alleged wrongs. The appeal was allowed, the lower court's judgment was set aside, and judgment was entered for the defendants with costs.",
+  "legalKeywords": [
+    "expert witness",
+    "Mohammedan law",
+    "Hanafi school",
+    "divorce certificate",
+    "Syrian law",
+    "Marriage of Mohammedans Ordinance",
+    "Gold Coast",
+    "competency of witness",
+    "foreign law",
+    "dower",
+    "unconsummated marriage",
+    "Islamic marriage",
+    "legal evidence",
+    "civil damages",
+    "appellate review"
+  ],
+  "topics": [
+    "Family Law",
+    "Islamic Law",
+    "Expert Evidence",
+    "Appellate Procedure",
+    "Conflict of Laws"
+  ],
+  "verdict": "Appeal allowed; judgment for plaintiff set aside; judgment entered for defendants-appellants with costs.",
+  "winningSide": "Defendants-Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Fuad, J.",
+      "role": "judging"
+    },
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "concurring"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "concurring"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "R. v. Silverlock 2 L.R. (1894) 2 Q.B. 766"
+  ],
+  "rationaleHighlights": [
+    "The competency of an expert witness is a question of law for the judge; failure to meet expert standards affects weight, not admissibility.",
+    "A Mohammedan priest in the Gold Coast is not a competent expert on Syrian Hanafi law.",
+    "No valid claim for damages was established under local law.",
+    "The expert's testimony, even if accepted, did not support a claim for refund of dower or damages.",
+    "The appeal was allowed due to lack of proper legal foundation for the plaintiff's claim."
+  ],
+  "confidenceNotes": "The case hinges on the admissibility and weight of expert testimony in foreign Islamic law; the court clearly distinguishes between competency (a legal question) and credibility (a matter of weight).",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/MOHAMMED WAHIB HUZAIFEH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:45:20.898Z",
+    "plainTextLength": 8056
+  },
+  "trialDate": "1939-12-13"
+}

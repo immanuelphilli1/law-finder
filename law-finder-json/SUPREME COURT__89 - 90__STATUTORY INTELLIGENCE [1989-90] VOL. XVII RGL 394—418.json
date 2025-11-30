@@ -1,0 +1,75 @@
+{
+  "caseTitle": "STATUTORY INTELLIGENCE [1989-90] VOL. XVII RGL 394—418",
+  "summary": "The document is a statutory citator covering legal amendments, repeals, and substitutions in Ghanaian law between 1989 and 1990. It details the legislative changes made to various ordinances, acts, decrees, and laws, primarily through Provisional National Defence Council Laws (PNDCLs). Key updates include the repeal of several older laws such as the Insurance Act 1965 (Act 288) and the Banking Act 1970 (Act 339), and the introduction or amendment of new laws including the Income Tax (Amendment) Law 1989 (PNDCL 222), Insurance Law 1989 (PNDCL 227), and Local Government Law 1988 (PNDCL 207) with subsequent amendments. Numerous legislative instruments (LIs) were also revoked or amended, particularly in areas of exchange control, insurance, road traffic, and local government administration. The document serves as a comprehensive reference for tracking statutory changes during the Provisional National Defence Council era.",
+  "legalKeywords": [
+    "PNDCL",
+    "repeal",
+    "amendment",
+    "substitution",
+    "legislative instrument",
+    "statutory revision",
+    "Income Tax",
+    "Insurance Law",
+    "Local Government",
+    "Banking Law",
+    "Customs and Excise",
+    "Public Holidays",
+    "Capital Gains Tax",
+    "Gift Tax",
+    "Council for Law Reporting",
+    "University Acts",
+    "Narcotics Control",
+    "Religious Bodies Registration",
+    "Auction Sales",
+    "Precious Minerals"
+  ],
+  "topics": [
+    "Statutory Amendments",
+    "Legislative Repeals",
+    "Tax Law Reform",
+    "Insurance Regulation",
+    "Local Government Reform",
+    "Higher Education Legislation",
+    "Cultural Institutions",
+    "Public Administration",
+    "Mining and Minerals Regulation",
+    "Judicial Reporting"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Not a judicial decision",
+    "country": "Ghana"
+  },
+  "caseType": "Statutory Citator / Legislative Summary",
+  "citations": [
+    "PNDCL 222",
+    "PNDCL 227",
+    "PNDCL 207",
+    "PNDCL 230",
+    "PNDCL 236",
+    "PNDCL 239",
+    "PNDCL 241",
+    "PNDCL 246"
+  ],
+  "rationaleHighlights": [
+    "Numerous colonial and early post-independence laws were repealed to align with new policy directions under the PNDC regime.",
+    "Extensive amendments were made to tax laws including Income Tax, Capital Gains Tax, and Gift Tax to modernize revenue collection.",
+    "Regulatory frameworks for insurance, banking, and local government were overhauled.",
+    "University governance statutes were updated through amendments to reflect new administrative structures.",
+    "Legislative instruments from earlier periods were systematically revoked, indicating a clean-up of obsolete regulations.",
+    "The citator reflects a centralized legislative reform agenda during military-led governance.",
+    "Amendments often included transitional provisions, such as saving clauses for existing regulations or licenses.",
+    "The document highlights the use of decrees and laws to restructure key economic and cultural institutions."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy as the content is a legislative summary from an official legal publication. However, it is not a court decision, so judicial elements like verdict, judges, or prosecution are not applicable.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/89 - 90/STATUTORY INTELLIGENCE [1989-90] VOL. XVII RGL 394—418.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:52:53.739Z",
+    "plainTextLength": 42673
+  },
+  "trialDate": "1989-01-01"
+}

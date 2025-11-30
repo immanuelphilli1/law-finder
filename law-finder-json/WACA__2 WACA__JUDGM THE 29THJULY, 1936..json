@@ -1,0 +1,71 @@
+{
+  "caseTitle": "JUDGM THE 29THJULY, 1936.",
+  "summary": "This case involved a dispute over the alleged 1920 sale of the Kyeramase-Kohye lands, traditionally attached to the Akroso Stool but subject to reversion to the paramount Mansu Stool. The Ohene of Mansu (respondent) denied consenting to the sale to C. M. Appeatu, W. E. Appeatu, and Yaw Mensah. The West African Court of Appeal restored the Superior Native Tribunal's judgment in favor of the respondent, which held the sale invalid due to lack of consent from the Mansu Stool. The Privy Council dismissed the appeal, affirming that the sale was not binding on the Mansu Stool. Although the Guaha ceremony was performed by Kwame Amanano (the chief's brother), he lacked authority from the Mansu Stool. The appellants failed to produce any receipt or conveyance, paid no money to the Mansu Stool, and were found to have submitted a forged receipt in prior litigation. The Privy Council varied the order to avoid binding non-parties but upheld the core finding of invalidity.",
+  "legalKeywords": [
+    "land sale",
+    "customary law",
+    "consent",
+    "stool land",
+    "native tribunal",
+    "Guaha ceremony",
+    "fraudulent documents",
+    "paramount chief",
+    "alienation of land",
+    "reversion of land",
+    "onus of proof",
+    "forged receipt",
+    "speculative purchase",
+    "native customs",
+    "oral testimony"
+  ],
+  "topics": [
+    "land tenure",
+    "customary land law",
+    "judicial review",
+    "evidence",
+    "fraud"
+  ],
+  "verdict": "Appeal dismissed with costs; alleged sale declared not binding on the Mansu Stool and its chief.",
+  "winningSide": "Respondent (Ohene Kojo Sintim and the Mansu Stool)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "LORD MAUGHAM",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "LORD BLANESBURGH",
+      "role": "Present at hearing"
+    },
+    {
+      "name": "LORD ROCHE",
+      "role": "Present at hearing"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "WACA/2 WACA/JUDGM THE 29THJULY, 1936",
+    "Superior Native Tribunal of Akim Kotoku-Oda, 9th August 1933",
+    "West African Court of Appeal, 24th November 1934",
+    "Privy Council judgment, 29th July 1936"
+  ],
+  "rationaleHighlights": [
+    "Consent of the paramount chief (Ohene) was essential for validity of land sale; no such consent was given",
+    "The Guaha ceremony does not transfer title if purchase money is unpaid and authorization is lacking",
+    "Native tribunal's factual findings entitled to great weight, especially on matters of custom and language",
+    "Appellants' conduct undermined credibility, including tendering a forged receipt",
+    "No conveyance or record of sale despite large transaction value"
+  ],
+  "confidenceNotes": "High confidence in factual extraction; source is an official judgment document with clear procedural history and factual findings.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/JUDGM THE 29THJULY, 1936..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:26:40.546Z",
+    "plainTextLength": 15146
+  },
+  "trialDate": "1033-08-09"
+}

@@ -1,0 +1,89 @@
+{
+  "caseTitle": "TITLE REGISTRATION IN GHANA [1981& 82] VOLS. XIII & XIV RGL",
+  "summary": "This legal analysis examines the concept and framework of title registration in Ghana, emphasizing that registration should concern estates or interests in land—such as allodial, leasehold, and usufructuary—rather than the physical land itself. The author critiques the current system of registering instruments affecting land as overly simplistic and argues for a reformed title registration system that recognizes legally significant, durable interests while excluding transient or personal rights like abusa, abunu, and short-term licences. It highlights challenges in registering vacant stool or government lands due to cost and boundary disputes, recommending that only lands with acquired private interests be registered. The paper supports granting possessory title to those who acquire land through adverse possession under the Limitation Decree, 1972. It also underscores the need for technical and administrative capacity in implementing any new system, noting past failures in documenting oral transfers. Drawing from English and Australian models, including the Torrens system, the author advocates for a structured, state-guaranteed title registration regime to enhance legal certainty and indefeasibility of titles in Ghana.",
+  "legalKeywords": [
+    "land registration",
+    "title registration",
+    "allodial title",
+    "usufructuary",
+    "leasehold",
+    "freehold",
+    "customary law",
+    "stool land",
+    "government land",
+    "indigenous tenure",
+    "registrable interests",
+    "encumbrance",
+    "possessory title",
+    "indefeasibility",
+    "Conveyancing Decree",
+    "Limitation Decree",
+    "abusa",
+    "abunu",
+    "pledge",
+    "Torrens system"
+  ],
+  "topics": [
+    "Land Registration",
+    "Customary Land Tenure",
+    "Property Law",
+    "Title Systems",
+    "Legal Reform"
+  ],
+  "verdict": "Not applicable – this is a legal commentary, not a court judgment.",
+  "winningSide": "Not applicable – no adversarial parties or ruling.",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Ollennu",
+      "role": "legal scholar"
+    },
+    {
+      "name": "Holroyd J.",
+      "role": "judge in Sander v. Twigg"
+    },
+    {
+      "name": "Bentsi-Enchill",
+      "role": "legal scholar"
+    },
+    {
+      "name": "Woodman",
+      "role": "legal scholar"
+    },
+    {
+      "name": "Cheshire",
+      "role": "legal scholar"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Academic/Legal Commentary",
+    "country": "Ghana"
+  },
+  "caseType": "land registration and property law",
+  "citations": [
+    "Ollennu",
+    "Bentsi-Enchill",
+    "Cheshire",
+    "Woodman",
+    "Sander v. Twigg",
+    "Conveyancing Decree, 1973 (N.R.C.D. 175)",
+    "Limitation Decree, 1972"
+  ],
+  "rationaleHighlights": [
+    "Land registration in Ghana should focus on estates or interests in land, not physical land itself.",
+    "Only significant, durable interests (e.g., allodial, leasehold, customary lease) should be registrable.",
+    "Short-term tenancies and personal rights like abusa/abunu should not be independently registrable.",
+    "Vacant stool or government land without private interest should not be compulsorily registered.",
+    "Possessory title should be granted to those acquiring rights via adverse possession under Limitation Decree.",
+    "Registration system must balance legal certainty with administrative feasibility.",
+    "Foreign systems (e.g., Torrens) offer guidance for reform.",
+    "Oral customary transactions lack documentation and are unsuitable for formal title registration."
+  ],
+  "confidenceNotes": "The document is an academic or analytical piece on land registration in Ghana, not a judicial decision with a verdict. Therefore, some fields are inferred based on legal analysis rather than a court ruling.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2013/TITLE REGISTRATION IN GHANA [1981& 82] VOLS. XIII & XIV RGL .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:27:40.636Z",
+    "plainTextLength": 59715
+  }
+}

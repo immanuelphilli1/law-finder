@@ -1,0 +1,74 @@
+{
+  "caseTitle": "THE REPUBLIC HIGH COURT, HUMAH RIGHTS DIV. ACCRA EX-PARTE",
+  "summary": "This Supreme Court of Ghana ruling addressed an application for certiorari to quash a High Court decision allowing the government to take possession of the Mancell Vocational Institute. The applicant, Josephine Akita, administratrix of her deceased mother's estate (one of five co-beneficiaries under the will of Rosamund Mancell), challenged the sale of the Institute, claiming lack of consent. After initiating proceedings in the High Court's Human Rights Division to nullify the sale, she appealed certain orders but failed to appeal the specific order permitting government takeover. A Form 6 notice of appeal was served, which the Supreme Court confirmed transferred jurisdiction to the Court of Appeal, thereby stripping the High Court of authority to proceed. The Court dismissed the application, holding that the High Court lacked jurisdiction post-Form 6 and that the audi alteram partem rule was not breached as the applicant voluntarily absented herself. Crucially, the Court found that the grounds of appeal did not cover the possession order, making the injunction sought unenforceable. The Court emphasized strict compliance with procedural rules on appeal, particularly the specificity required in notices of appeal under CI 19 and CI 47, and declined to extend relief based on implied grounds.",
+  "legalKeywords": [
+    "jurisdiction",
+    "appeal",
+    "Form 6",
+    "audi alteram partem",
+    "interlocutory injunction",
+    "certiorari",
+    "Court of Appeal Rules CI 19",
+    "substantial justice",
+    "vesting assent",
+    "probate",
+    "beneficial interest",
+    "sale of property",
+    "government acquisition",
+    "procedural fairness",
+    "grounds of appeal"
+  ],
+  "topics": [
+    "Jurisdiction",
+    "Appeal Procedure",
+    "Property Rights",
+    "Administrative Law",
+    "Procedural Fairness"
+  ],
+  "verdict": "The application for certiorari was dismissed.",
+  "winningSide": "Respondent (High Court) and Interested Parties (Government and co-beneficiaries)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Brobbey, JSC",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ansa, JSC"
+    },
+    {
+      "name": "Dotse, JSC"
+    },
+    {
+      "name": "Anin Yeboah, JSC"
+    },
+    {
+      "name": "Baffoe-Bonnie, JSC"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Republic v High Court, Ho: Ex parte Evangelical Presbyterian Church of Ghana [1991] 1GLR 323",
+    "Shardey v Adametey & Shardey v Martey and anor. (Consolidated) [1972] 2 GLR 380",
+    "Hanna Assi (No 2) v Gihoc Refrigeration and Household Products Ltd (No 2) [2007-2008] SCGLR 16"
+  ],
+  "rationaleHighlights": [
+    "Service of Form 6 transfers jurisdiction to the Court of Appeal, divesting the High Court of authority.",
+    "Failure to appeal a specific order bars relief on that issue, regardless of related grounds.",
+    "Appellant cannot invoke audi alteram partem after voluntarily boycotting proceedings.",
+    "Substantial justice considered but not applied due to lack of jurisdiction and procedural default.",
+    "Specificity in grounds of appeal is mandatory under CI 19 and CI 47."
+  ],
+  "confidenceNotes": "The document is a reported Supreme Court ruling with clear judicial reasoning and citation of authority. Information is highly reliable.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/THE REPUBLIC  HIGH COURT, HUMAH RIGHTS DIV. ACCRA  EX-PARTE .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:41:20.406Z",
+    "plainTextLength": 75798
+  },
+  "trialDate": "2010-02-17"
+}

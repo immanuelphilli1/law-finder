@@ -1,0 +1,53 @@
+{
+  "caseTitle": "FIJAI STOOL v. EFFIA STOOL",
+  "summary": "The provided document is a table of unreported cases from the Supreme Court of Ghana for the year 2002. It lists various civil appeals, constitutional motions, and ex-parte applications heard by the court, including case names, case numbers, and hearing dates. Notable cases include Fijai Stool v. Effia Stool concerning chieftaincy disputes, and Tsatsu Tsikata v. The Chief Justice & Attorney General, which may involve constitutional or judicial review issues. The list also includes commercial disputes such as P.S. International Limited & Ors. v. Godka Group of Companies and NASIB Dahabieh v. S.A. Tarqui & Brothers. Several cases are ex-parte applications involving judicial review of lower court decisions, such as Republic v. High Court, Accra, ex-parte Ghana Commercial Bank Pensioners Association. The document serves as a case index rather than a full judgment, so detailed reasoning and outcomes are not available.",
+  "legalKeywords": [
+    "Supreme Court",
+    "unreported cases",
+    "civil appeal",
+    "constitutional motion",
+    "ex-parte application",
+    "judicial review",
+    "chieftaincy dispute",
+    "commercial dispute",
+    "Ghana",
+    "Court of Appeal",
+    "High Court",
+    "writ",
+    "CM",
+    "CA",
+    "CIVIL APPEAL NO"
+  ],
+  "topics": [
+    "Chieftaincy Disputes",
+    "Commercial Law",
+    "Constitutional Law",
+    "Judicial Review",
+    "Civil Procedure"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "civil",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Index of Cases",
+  "citations": [
+    "FIJAI STOOL v. EFFIA STOOL [3/7/2002] CIVIL APPEAL NO. 14/2001",
+    "REPUBLIC v. COURT OF APPEAL EX-PARTE GHANA COMMERCIAL BANK PENSIONERS ASSOCIATION [29/05/2002] CM 10/2002",
+    "NASIB DAHABIEH v. S. A. TARQUI & BROTHERS [29/5/2002] CIVIL APPEAL NO. 8/2001",
+    "TSATSU TSIKATA v. CHIEF JUSTICE & ATTORNEY GENERAL [18/05/2002] WRIT NO. 6/2002",
+    "THE REPUBLIC v. HIGH COURT, ACCRA EX-PARTE: EXPENDABLE POLYSTYRENE PRODUCTS LIMITED [24/07/02] C.M. 21/2002"
+  ],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The source document is an index of cases and does not contain full judgments, so details on verdicts, reasoning, or judges are unavailable. Information is limited to case titles, numbers, and dates.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2002.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:49:26.274Z",
+    "plainTextLength": 1221
+  },
+  "trialDate": "2002-07-03"
+}

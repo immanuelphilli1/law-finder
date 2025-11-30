@@ -1,0 +1,72 @@
+{
+  "caseTitle": "YAA ASONKO v. KWAME POKU",
+  "summary": "This appeal arose from a trespass action where Madam Yaa Asonko (respondent) claimed ownership and possession of a farm at Atwe-Nkwanta, allegedly granted by Nyinahin Stool in 1968. The appellant, Kwame Poku, a subject of Nkawie Stool, was found cultivating the same land and challenged the respondent’s title. The Court of Appeal overturned the Circuit Court’s judgment in favor of the respondent, holding that the land fell within Nkawie Stool land as determined by a prior boundary settlement and binding appellate decision (Civil Appeal No. 85/58). The court found that Nyinahin Stool lacked title to grant the land in 1968, rendering the respondent’s claim invalid. The appellant, having received a grant from Nkawie Stool in 1986 and being in effective possession by 1990, held a better title. The court emphasized that the respondent failed to discharge the burden of proving superior title in a trespass action and that the prior judgment (Exhibit A) did not constitute res judicata against the appellant. The appeal succeeded, the lower court’s judgment was set aside, and costs of ₵2.5 million were awarded to the appellant.",
+  "legalKeywords": [
+    "trespass",
+    "title to land",
+    "res judicata",
+    "estoppel per rem judicatam",
+    "stool land",
+    "boundary dispute",
+    "possession",
+    "native customary law",
+    "burden of proof",
+    "judicial precedent",
+    "land ownership",
+    "injunction",
+    "survey plan",
+    "adverse possession",
+    "subject of stool"
+  ],
+  "topics": [
+    "Land Law",
+    "Trespass",
+    "Customary Law",
+    "Res Judicata",
+    "Boundary Disputes"
+  ],
+  "verdict": "Appeal allowed; judgment of the Circuit Court set aside.",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Henrietta Abban",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "F.M. Lartey",
+      "role": "Justice"
+    },
+    {
+      "name": "A. Asare-Korange",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Mensah vs: Ahodjo (1961) 1 GLR 297",
+    "Cobblah vs: Okraku",
+    "Cobblah vs: Gariba and Modua Abrahams (25th February 1955)",
+    "Kobina Ababio II etc vs: Priest-in-charge, Catholic Mission, Ampenyi and ors. (1935) WACA 380",
+    "Mantse Anege Akwei vs: Mantse Kojo Ababio (1918) F.C. February 1919, 64"
+  ],
+  "rationaleHighlights": [
+    "Plaintiff failed to prove better title than defendant as required in trespass actions.",
+    "Land was determined to be under Nkawie Stool jurisdiction, not Nyinahin Stool, based on prior boundary settlement and appellate judgment.",
+    "Prior judgment (Exhibit A) did not establish res judicata against appellant who was not a party.",
+    "Trial court erred in not properly evaluating Exhibit 2, which confirmed Nkawie's ownership.",
+    "Appellant, as subject of Nkawie Stool and in effective possession, had superior title."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed court reasoning and citation of prior authorities.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/MADAM YAA ASONKO v. KWAME POKU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:17:32.764Z",
+    "plainTextLength": 13970
+  },
+  "trialDate": "1996-07-26"
+}

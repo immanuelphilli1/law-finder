@@ -1,0 +1,86 @@
+{
+  "caseTitle": "RICHARD OSAE DUODU VRS NANA AMA BENEWAH",
+  "summary": "This is a civil land dispute appeal before the Supreme Court of Ghana, where Richard Osae Duodu (plaintiff/appellant) challenged the Court of Appeal's reversal of the High Court’s judgment in his favor. The dispute centered on ownership of a parcel of land in Accra, with both parties claiming title through separate purchases from the Reindorf family. The defendant, Nana Ama Benewah, alleged that the plaintiff’s grantor forged the signature of Carl Reindorf, the family representative, in the deed of assignment (Exhibit A). A forensic expert confirmed the forgery, and the Court of Appeal found the plaintiff’s title tainted by fraud. The Supreme Court upheld the Court of Appeal’s decision, ruling that the plaintiff failed to discharge the burden of proving he was a bona fide purchaser for value without notice, especially given the clear evidence of fraud that a diligent buyer should have detected. The appeal was dismissed, and the defendant’s claim to title was affirmed.",
+  "legalKeywords": [
+    "fraud",
+    "forgery",
+    "title to land",
+    "bona fide purchaser",
+    "evidence of fraud",
+    "forensic expert",
+    "registration of title",
+    "nullity of deed",
+    "appellate review",
+    "burden of proof",
+    "diligence in land transaction",
+    "declaration of title",
+    "counterclaim",
+    "reversal of judgment",
+    "damages for wrongful possession"
+  ],
+  "topics": [
+    "Land Law",
+    "Fraud in Property Transactions",
+    "Appellate Jurisdiction",
+    "Bona Fide Purchaser",
+    "Forensic Evidence"
+  ],
+  "verdict": "Appeal dismissed; judgment of the Court of Appeal upheld.",
+  "winningSide": "Nana Ama Benewah (Defendant/Respondent)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Anin Yeboah",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Dr. S. K. Date-Bah",
+      "role": "participating judge"
+    },
+    {
+      "name": "J. AnsaH",
+      "role": "participating judge"
+    },
+    {
+      "name": "N. S. Gbadegbe",
+      "role": "participating judge"
+    },
+    {
+      "name": "V. Akoto-Bamfo (Mrs.)",
+      "role": "participating judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "AKUFFO-ADDO V CATHELINE [1992] 1GLR 337 SC",
+    "AGYENIN-BOATENG V OFORI & YEBOAH [2012] SCGLR 861",
+    "ACKA V PERGAH TRANSPORT LTD [2010] SCGLR 728",
+    "OBENG V ASSEMBLIES OF GOD CHURCH, GHANA [2010] SCGLR 300",
+    "DJIN V MUSAH BAAKO [2007-8] SCGLR 686",
+    "YEBOAH V AMOFA & ORS [1997-98] IGLR 674",
+    "OSUMANU V OSUMANU [1995-96] IGLR 672",
+    "TOURE V BAAKO [1993-94] IGLR 342",
+    "PILCHER V RAWLINS [1871-72] 7 LR Ch App 259"
+  ],
+  "rationaleHighlights": [
+    "Fraud was conclusively established through forensic evidence and oral testimony.",
+    "The appellant failed to prove the plea of being a bona fide purchaser for value without notice.",
+    "The trial judge erred in granting title despite proven fraud, which vitiates all transactions.",
+    "Appellate courts have the duty to review evidence where no concurrent findings exist.",
+    "The burden of proving bona fides lies with the party asserting it.",
+    "A prudent purchaser should have discovered the forgery during due diligence.",
+    "The Court of Appeal correctly reversed the High Court's judgment.",
+    "Damages were justified due to denial of possession."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judgment text and clear citation of evidence and legal principles.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/RICHARD OSAE DUODU  VRS NANA AMA BENEWAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:22:19.687Z",
+    "plainTextLength": 12388
+  }
+}

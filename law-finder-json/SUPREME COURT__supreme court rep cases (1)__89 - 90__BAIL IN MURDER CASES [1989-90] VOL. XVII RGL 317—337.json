@@ -1,0 +1,70 @@
+{
+  "caseTitle": "BAIL IN MURDER CASES [1989-90] VOL. XVII RGL 317—337",
+  "summary": "This case examines the legal framework governing bail in murder cases in Ghana, focusing on the tension between Section 96(7)(a) of the Criminal Procedure Code, 1960 (Act 30), which appears to prohibit bail in murder cases, and constitutional protections under Article 21(3)(b) and (4) of the 1979 Constitution, which guarantee the right to liberty and release if there is unreasonable delay in prosecution. The High Court in Republic v Crentsil addressed whether bail could be rescinded in a murder case even when conditions were not violated, holding that courts possess inherent power to rescind bail when new evidence emerges that undermines the original decision. The court emphasized that a 'proper charge of murder' must be supported by sufficient evidence establishing all elements of the offense, particularly when invoking Section 96(7)(a). The ruling clarified that bail decisions must be based on objective evidential standards akin to those at committal or at the close of the prosecution's case. The district court had initially remanded the accused without recording facts or receiving a summary of evidence, which the High Court found insufficient to justify denial of bail. Ultimately, bail was upheld due to lack of a properly substantiated murder charge, highlighting the necessity of procedural fairness and constitutional compliance in pre-trial detention decisions.",
+  "legalKeywords": [
+    "bail",
+    "murder",
+    "Criminal Procedure Code",
+    "section 96(7)(a)",
+    "constitutional rights",
+    "unreasonable delay",
+    "pre-trial detention",
+    "committal proceedings",
+    "evidential burden",
+    "forensic evidence",
+    "inherent judicial power",
+    "bail rescission",
+    "right to liberty",
+    "constitutional override",
+    "judicial discretion"
+  ],
+  "topics": [
+    "bail",
+    "constitutional law",
+    "criminal procedure",
+    "murder",
+    "judicial discretion"
+  ],
+  "verdict": "Bail was upheld because the prosecution failed to establish a proper charge of murder supported by sufficient evidence; the application to rescind bail was denied.",
+  "winningSide": "Accused persons",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Taylor J",
+      "role": "judge in multiple cited cases"
+    },
+    {
+      "name": "Osei-Hwere J",
+      "role": "judge in Donkor v The Republic"
+    },
+    {
+      "name": "learned trial judge in Republic v Crentsil",
+      "role": "deciding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Okoe v The Republic",
+    "Brefor v The Republic",
+    "Donkor v The Republic",
+    "Republic v Crentsil"
+  ],
+  "rationaleHighlights": [
+    "Section 96(7)(a) of Act 30 appears to bar bail in murder cases, but constitutional provisions on timely trial may override it.",
+    "A court may rescind bail even without breach of conditions if new evidence emerges rendering the grant injudicious.",
+    "The prosecution must show sufficient evidence to establish all elements of murder to justify bail refusal or rescission.",
+    "Article 21(3)(b) and (4) of the 1979 Constitution support release if there is unreasonable delay in prosecution.",
+    "A proper charge of murder requires presentation of indictment and summary of evidence, which was lacking in the initial remand."
+  ],
+  "confidenceNotes": "The source document is truncated but contains sufficient information on the legal reasoning, jurisdiction, and key judicial interpretation. The case analysis is based on a High Court ruling with reference to statutory and constitutional provisions, making the extracted data reliable within the limits of the excerpt.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/89 - 90/BAIL IN MURDER CASES [1989-90] VOL. XVII RGL 317—337.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:20:38.553Z",
+    "plainTextLength": 50145
+  }
+}

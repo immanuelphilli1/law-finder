@@ -1,0 +1,125 @@
+{
+  "caseTitle": "ATTAH v. NYAMESON (Owusu-Addo J.,",
+  "summary": "This compilation from 1981\u00131982 by the Review of Ghana Law reports on personal injury awards from various High Court decisions across Ghana, primarily arising from road accidents, workplace incidents, and police actions. The cases cover fatal injuries, multiple traumas, and specific bodily injuries (arm, wrist, spine, leg). Awards are itemized into general damages (pain and suffering, loss of amenities), special damages (medical, transport, funeral), and pecuniary losses (loss of current and future earnings, dependency). Courts considered factors such as the victim's age, occupation, income, dependants, likelihood of remarriage (in dependency claims), degree of permanent disability, and specific life impacts like loss of consortium or inability to work. Notably, FLETCHER v. OPPONG involved a police shooting with a high award of over \u001c250,000, while DAGARTI v. STATE GOLD MINING CORPORATION addressed a mining accident leading to paraplegia. The methodology often included 'years' purchase' for future earnings and explicit recognition of mental distress and cosmetic deformity.",
+  "legalKeywords": [
+    "personal injury",
+    "damages",
+    "dependency",
+    "loss of earnings",
+    "general damages",
+    "special damages",
+    "permanent disability",
+    "pain and suffering",
+    "loss of amenities",
+    "funeral expenses",
+    "mental distress",
+    "road accident",
+    "workplace injury",
+    "police shooting",
+    "medical negligence (implied in prolonged treatment)",
+    "spinal injury",
+    "amputation",
+    "fracture",
+    "fatal injuries",
+    "injury to child",
+    "loss of consortium",
+    "cosmetic deformity"
+  ],
+  "topics": [
+    "Tort Law",
+    "Personal Injury Damages",
+    "Dependency Claims",
+    "Fatal Accidents",
+    "Disability Compensation"
+  ],
+  "verdict": "Plaintiffs awarded damages in all listed cases.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Owusu-Addo J.",
+      "role": "trial judge"
+    },
+    {
+      "name": "Cecilia Koranteng-Addow J.",
+      "role": "trial judge"
+    },
+    {
+      "name": "Abban J.",
+      "role": "trial judge"
+    },
+    {
+      "name": "Twumasi J.",
+      "role": "trial judge"
+    },
+    {
+      "name": "Lamptey J.",
+      "role": "trial judge"
+    },
+    {
+      "name": "Ansah-Twum J.",
+      "role": "trial judge"
+    },
+    {
+      "name": "Osei-Hwere J.",
+      "role": "trial judge"
+    },
+    {
+      "name": "Amua-Sekyi J.",
+      "role": "trial judge"
+    },
+    {
+      "name": "Wutoh J.",
+      "role": "trial judge"
+    },
+    {
+      "name": "Amuah J.",
+      "role": "trial judge"
+    },
+    {
+      "name": "Hayfron J.",
+      "role": "trial judge"
+    },
+    {
+      "name": "Okunor J.",
+      "role": "trial judge"
+    },
+    {
+      "name": "Wuaku J.",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court",
+    "country": "Ghana"
+  },
+  "caseType": "personal injury",
+  "citations": [
+    "ATTAH v. NYAMESON",
+    "CLARKSON v. STATE TRANSPORT CORPORATION",
+    "DAPAAH v. BUSUMURU",
+    "FLETCHER v. OPPONG",
+    "LARTEY v. ALLOTEY",
+    "MARKO v. AMANKWA",
+    "ZEWU v. RAILWAY & PORTS AUTHORITY",
+    "BAAH v. GHANA COCOA MARKETING BOARD",
+    "BROOKMAN-AMISSAH v. OWUSU BENTUM CONSTRUCTION LTD.",
+    "OMARI-SASU v. AFFUL (headteacher case and judge case separately cited but same name; treated as one citation for indexing purposes here with note of dual claims)"
+  ],
+  "rationaleHighlights": [
+    "Awards based on age, earning capacity, dependants, and extent of disability",
+    "Future loss of earnings calculated via 'years' purchase' method",
+    "Funeral and medical expenses reimbursed as special damages",
+    "Mental distress recognized for close family members in fatal cases",
+    "Permanent disability percentages used to scale compensation",
+    "Consideration of likelihood of remarriage affecting dependency claims"
+  ],
+  "confidenceNotes": "Multiple cases are aggregated in the source document under a summary report format; individual case details are accurate as presented, but procedural or appellate context is limited. Citation OMARI-SASU v. AFFUL appears twice for different plaintiffs (a headteacher and a judge), likely a typographical error or misattribution in source.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2013/PERSONAL INJURIES RECENT AWARDS [1981-82] VOL. XIII & XIV RG.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:28:58.205Z",
+    "plainTextLength": 13025
+  },
+  "trialDate": "1981-05-27"
+}

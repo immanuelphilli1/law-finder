@@ -1,0 +1,90 @@
+{
+  "caseTitle": "GEORGIA HOTEL LIMITED VRS. SILVER STAR AUTO LIMITED",
+  "summary": "In this 2012 Supreme Court of Ghana decision, Georgia Hotel Limited appealed a Court of Appeal ruling that reversed a High Court judgment awarding damages for alleged latent defects in a Mercedes Benz E240 Avant-garde purchased from Silver Star Auto Limited. The plaintiff claimed the vehicle had inherent manufacturing defects including engine noise, faulty sensors, and oil pump malfunction, rendering it unfit for use. The High Court found in favor of the plaintiff, citing latent defects and awarding €58,500, interest, damages for loss of use, and costs. The Court of Appeal reversed, finding insufficient proof of latent defects. The Supreme Court upheld the reversal, holding that the defects were not shown to be undiscoverable by reasonable inspection at delivery and that evidence pointed to operational or maintenance-related issues, particularly battery discharge, rather than inherent flaws. The Court emphasized that a second appellate court may independently assess conflicting factual findings and concluded the plaintiff failed to prove a manufacturing defect existing at the time of sale.",
+  "legalKeywords": [
+    "latent defect",
+    "manufacturing defect",
+    "implied warranty",
+    "reasonable inspection",
+    "product imperfection",
+    "fitness for purpose",
+    "defective vehicle",
+    "automotive warranty",
+    "appeal on findings of fact",
+    "standard of reasonableness",
+    "diagnostic machine evidence",
+    "battery discharge fault",
+    "engine noise",
+    "oil pump defect",
+    "air mass sensor",
+    "pedal sensor",
+    "tappet noise",
+    "Court of Appeal reversal",
+    "second appellate court",
+    "miscarriage of justice"
+  ],
+  "topics": [
+    "Contract Law",
+    "Product Liability",
+    "Appellate Procedure",
+    "Consumer Protection",
+    "Automotive Law"
+  ],
+  "verdict": "Appeal dismissed; Court of Appeal's reversal of High Court judgment upheld.",
+  "winningSide": "Defendant/Appellant/Respondent (Silver Star Auto Limited)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sophia Adinyira (Mrs.)",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ansa J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Dotse J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebe J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs) J.S.C.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Continental Plastics [2009] SCGLR 298",
+    "Bichl VRS Poinier",
+    "US vs. Lembke Const Co. Inc, CA",
+    "Lempke v. Dagenais",
+    "Richards",
+    "Terlinde",
+    "Redarowicz",
+    "Parente (Robert A) vs. Bayville Marine Inc. and General Insurance of America",
+    "Stroud’s Judicial Dictionary"
+  ],
+  "rationaleHighlights": [
+    "Definition of latent defect hinges on non-discoverability through reasonable inspection.",
+    "Second appellate court may choose between conflicting factual findings or make its own.",
+    "Latent defects must exist at time of production and delivery.",
+    "Evidence of battery discharge undermined claim of inherent manufacturing defect.",
+    "Diagnostic results showing no fault in oil pump, air mass sensor, or pedal sensor were critical.",
+    "Tappet noise attributed to maintenance, not inherent defect.",
+    "Court emphasized reasonableness in time and manner of defect discovery."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and cited authorities.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/GEORGIA  HOTEL LIMITED   VRS. SILVER  STAR AUTO LIMITED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:32:51.513Z",
+    "plainTextLength": 34099
+  }
+}

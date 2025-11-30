@@ -1,0 +1,76 @@
+{
+  "caseTitle": "IN THE MATTER OF AN APPLICATION BY EUTITHIOS HAGGE LAMBROU Applicant-Appellant",
+  "summary": "This 1941 West Africa Court of Appeal decision arose from an order by a High Court judge that a solicitor, Mr. Eutithios Hagge Lambrou, personally pay costs due to alleged misconduct in filing a writ of summons in the Magistrate's Court for possession of a house. The Court of Appeal held that the writ was properly issued under section 32(b) of the Protectorate Courts Ordinance, as the claim was a landlord-tenant dispute within the Magistrate's jurisdiction at the time of filing. The jurisdictional issue only emerged after the defendant's statement of defence raised title to land, triggering the proviso to section 32(b). The appellate court found the lower judge misdirected himself and set aside the cost order, directing that the solicitor be refunded.",
+  "legalKeywords": [
+    "jurisdiction",
+    "misconduct",
+    "costs",
+    "Magistrate's Court",
+    "landlord and tenant",
+    "writ of summons",
+    "section 32(b)",
+    "Protectorate Courts Ordinance",
+    "statement of claim",
+    "statement of defence",
+    "title to land",
+    "possession",
+    "appeal",
+    "judicial misdirection",
+    "civil procedure",
+    "legal costs",
+    "solicitor's conduct",
+    "rental dispute",
+    "annual value",
+    "proviso"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Jurisdiction",
+    "Legal Costs",
+    "Land Law",
+    "Professional Conduct"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Applicant-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Protectorate Courts Ordinance, s 32(b)"
+  ],
+  "rationaleHighlights": [
+    "The writ was properly issued in the Magistrate's Court as the claim was for possession between landlord and tenant.",
+    "Jurisdiction under s 32(b) existed at the time of filing the writ and statement of claim.",
+    "Issue of title arose only after the statement of defence, which triggered the proviso ousting Magistrate's jurisdiction.",
+    "The lower judge misdirected himself by penalizing the solicitor for a jurisdictional issue that emerged later.",
+    "Costs order against the solicitor was set aside due to legal error.",
+    "Solicitor entitled to refund of costs paid personally.",
+    "No misconduct established in the issuance of the writ.",
+    "Proper interpretation of statutory jurisdiction is essential in procedural decisions."
+  ],
+  "confidenceNotes": "The document is a clear appellate judgment with cited statutory provisions and judicial reasoning. All key elements such as parties, court, jurisdiction, and legal principles are explicitly stated. The case is historical but legally sound in its procedural analysis.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/FALAIYE OF lLAWE   v OLOJA ADIN OF lLAWE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:34:40.599Z",
+    "plainTextLength": 4175
+  },
+  "trialDate": "1941-05-08"
+}

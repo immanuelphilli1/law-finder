@@ -1,0 +1,71 @@
+{
+  "caseTitle": "AKPAN UNWA UDO EKPO",
+  "summary": "The appellant, Akpan Unwa Udo Ekpo, was initially convicted of murder for killing Sambo during a clan affray between the Ediene and Minya clans in Ikot Ekpene. The deceased was a member of the Ediene clan, which initiated the fight and wounded the appellant with an arrow. After the deceased was injured and fell, the appellant inflicted a fatal machete wound. The trial judge ruled it murder, asserting no personal provocation by the deceased. The West Africa Court of Appeal disagreed, holding that the collective clan attack constituted sufficient provocation under section 318 of the Criminal Code. The court found the killing occurred in the heat of passion due to this provocation, warranting reduction of the conviction from murder to manslaughter. The death sentence was set aside and replaced with two years' imprisonment with hard labour.",
+  "legalKeywords": [
+    "murder",
+    "manslaughter",
+    "provocation",
+    "section 318 Criminal Code",
+    "heat of passion",
+    "clan affray",
+    "aggressor",
+    "reduction of charge",
+    "fatal wound",
+    "appellate review",
+    "self-defense",
+    "collective liability",
+    "tribal conflict",
+    "judicial discretion",
+    "sentencing"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Homicide",
+    "Appeal",
+    "Provocation",
+    "Sentencing"
+  ],
+  "verdict": "guilty of manslaughter",
+  "winningSide": "appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal appeal",
+  "citations": [
+    "Rex v Akpan Unwa Udo Ekpo, WACA, 9th August 1938"
+  ],
+  "rationaleHighlights": [
+    "The provocation was not limited to personal attack but included the collective clan aggression.",
+    "The deceased was part of the aggressing clan and could have been prosecuted for harming the appellant.",
+    "The killing occurred in the heat of passion immediately following the provocation.",
+    "Section 318 of the Criminal Code allows for reduction to manslaughter when provocation is established.",
+    "The trial judge erred in requiring direct personal provocation from the deceased.",
+    "Appellate court substituted verdict based on correct application of provocation doctrine.",
+    "Sentencing was commuted from death to two years' imprisonment with hard labour.",
+    "Factual context of tribal conflict informed the legal assessment of reasonableness of reaction."
+  ],
+  "confidenceNotes": "High confidence in factual and legal accuracy based on clear appellate reasoning and explicit citation of legal provision (section 318 Criminal Code). Jurisdictional context is colonial West Africa, with application of English-derived criminal law principles.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/AKPAN UNWA UDO EKPO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:07:40.391Z",
+    "plainTextLength": 3144
+  },
+  "trialDate": "1938-08-09"
+}

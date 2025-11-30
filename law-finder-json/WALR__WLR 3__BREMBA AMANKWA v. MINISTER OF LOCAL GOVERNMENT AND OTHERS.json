@@ -1,0 +1,70 @@
+{
+  "caseTitle": "BREMBA AMANKWA VERSUS MINISTER OF",
+  "summary": "In Breman Asikuma, the applicant, elected Odikro of Barko, challenged the Governor-General's appointment of a committee of inquiry under the State Councils (Southern Ghana) Ordinance, c. 8 of 1952, arguing it was ultra vires as the matter had already been decided by the state council. The High Court, Eastern Judicial Division, held that appeal commissioners and inquiry committee members are public officers under the Interpretation Ordinance, and that the cause of action arose from the original proceedings before the state council in the Central Judicial Division. Thus, the application should have been filed in Cape Coast, not the Eastern Division, leading to dismissal for lack of jurisdiction. The court recommended transfer to the proper division.",
+  "legalKeywords": [
+    "public officer",
+    "ultra vires",
+    "prerogative writ",
+    "jurisdiction",
+    "cause of action",
+    "interpretation ordinance",
+    "state council",
+    "committee of inquiry",
+    "appeal commissioner",
+    "constitutional law",
+    "judicial review",
+    "writ of prohibition",
+    "customary law",
+    "Governor-General",
+    "quasi-judicial body"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Judicial Procedure",
+    "Customary Leadership Disputes",
+    "Public Officers"
+  ],
+  "verdict": "Application refused",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Windsor-Aubrey J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional and Administrative Law",
+  "citations": [
+    "State Councils (Southern Ghana) Ordinance, c. 8 of 1952, s. 5",
+    "s. 8",
+    "s. 11",
+    "s. 12",
+    "Interpretation Ordinance, c. 1, s. 3(35)",
+    "Interpretation Act, 1957, s. 3",
+    "Supreme Court (Civil Procedure) Rules, Order 5, r. 1(b)",
+    "Order 5, r. 1(d)",
+    "Order 5, r. 1(f)"
+  ],
+  "rationaleHighlights": [
+    "Appeal commissioners and inquiry committee members are public officers under the Interpretation Ordinance.",
+    "The cause of action arose from the original state council proceedings, not the Governor-General's appointment.",
+    "The Governor-General's appointment had substantive legal effect, not merely formal.",
+    "Application should have been filed in the Central Judicial Division (Cape Coast).",
+    "Eastern Judicial Division lacked jurisdiction.",
+    "Writ of prohibition dismissed on procedural grounds.",
+    "Court recommended transfer under Order 5, r. 1(f).",
+    "Governor-General's role distinguished from ministerial respondents."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; all details are directly supported by the text. Jurisdictional and definitional conclusions are clearly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/BREMBA AMANKWA v. MINISTER OF LOCAL GOVERNMENT AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:08:59.544Z",
+    "plainTextLength": 8473
+  }
+}

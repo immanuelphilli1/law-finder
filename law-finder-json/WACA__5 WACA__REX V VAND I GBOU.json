@@ -1,0 +1,70 @@
+{
+  "caseTitle": "REX V VAND I GBOU",
+  "summary": "The case R v. Vandi Gbou and Others (1939) involved three appellants convicted of the murder of Jassa in Sierra Leone. One counsel represented all three jointly indicted accused and called a defense witness, Morna Jonni, who alleged the prosecution's case was a conspiracy against all. The appeal challenged the denial of the last word to counsel for two appellants who did not call witnesses, claimed misdirection by the trial judge, and argued the verdict was against the weight of evidence. The West African Court of Appeal held that since one counsel represented all and called evidence benefiting all, it was proper to grant the Crown the final word. The court found no misdirection, upheld the finding that the appellants were principals in the second degree, and affirmed the conviction, citing R v. Burns and others. The appeals were dismissed.",
+  "legalKeywords": [
+    "murder",
+    "joint trial",
+    "last word",
+    "misdirection",
+    "weight of evidence",
+    "principals in the second degree",
+    "secret society",
+    "alibi",
+    "corroboration",
+    "trumped-up story",
+    "common purpose",
+    "defense witness",
+    "Crown final argument",
+    "appellate review"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Trial Fairness",
+    "Evidence Law",
+    "Joint Representation"
+  ],
+  "verdict": "Appeals dismissed; convictions for murder upheld",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Cor Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Lane",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Sierra Leone"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Rex v. Burns and others (16 Cox Cr. App. Reports p. 195)"
+  ],
+  "rationaleHighlights": [
+    "Single defense counsel calling evidence for joint accused justifies Crown having final word.",
+    "Defense witness testimony benefited all accused, making representation equitable.",
+    "No misdirection on alibi or corroboration; trial judge adequately addressed these in summing up.",
+    "Discrepancies in time of killing did not invalidate conviction given full judicial consideration.",
+    "No finding that accused were part of a secret society, but possibility was properly put to assessors.",
+    "Common purpose was sufficiently established by prosecution.",
+    "Verdict not against the weight of evidence despite defense arguments.",
+    "Precedent from R v. Burns distinguished due to separate counsel in that case."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear appellate judgment text. All details extracted directly from the court's joint judgment. Case is correctly identified as criminal appeal from Sierra Leone under British colonial jurisdiction, heard by the West African Court of Appeal.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/REX V VAND I GBOU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:41:14.894Z",
+    "plainTextLength": 15044
+  },
+  "trialDate": "1939-03-20"
+}

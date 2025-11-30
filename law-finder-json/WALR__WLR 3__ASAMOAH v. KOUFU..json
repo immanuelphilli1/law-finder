@@ -1,0 +1,66 @@
+{
+  "caseTitle": "ASAMOAH VERSUS KOUFU",
+  "summary": "In Asamoah v. Koufu, the High Court of the Eastern Judicial Division, Land Court, addressed a land dispute where the Head of Awutu State claimed land on behalf of the state against a sub-chief of Fetteh State. The case was initially heard in the Awutu Native Court, which ruled in favor of the plaintiff. On appeal, the court raised sua sponte the issue of jurisdiction, holding that a Native Court of a state should not adjudicate disputes involving its own state's interests due to the risk of bias and conflict of interest, even if members act fairly. Citing principles from English and West African jurisprudence, the court emphasized that justice must not only be done but must also be seen to be done. Consequently, the judgment of the Native Court was set aside, and the case was remitted for transfer to the Land Court via the Magistrate's Court. Regarding costs, the court followed precedent by ordering each party to bear their own costs, as the jurisdictional issue was raised by the court, not the parties.",
+  "legalKeywords": [
+    "Native Court jurisdiction",
+    "conflict of interest",
+    "impartiality in adjudication",
+    "sua sponte jurisdictional challenge",
+    "tribunal bias",
+    "land dispute",
+    "state vs state litigation",
+    "due administration of justice",
+    "removal of cause",
+    "costs on appeal",
+    "adjudicative fairness",
+    "stool land",
+    "customary land rights",
+    "appellate intervention",
+    "inherent jurisdiction"
+  ],
+  "topics": [
+    "Jurisdiction",
+    "Land Law",
+    "Judicial Ethics",
+    "Appellate Procedure",
+    "Customary Law"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adumua-Bossman J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "R. v. Sussex Justices; ex p. McCarthy [1924] 1 K.B. 256",
+    "R. v. Essex Justices; ex p. Perkins [1927] 2 K.B. 475",
+    "Ewua v. Wusu (1926) Full Court 1926-1929, 160",
+    "Denkyem State v. Abum State (1956) 1 W.A.L.R. 235",
+    "Quanin v. Adubra and Otu (1957) 2 W.A.L.R. 244"
+  ],
+  "rationaleHighlights": [
+    "A Native Court cannot impartially adjudicate a land dispute involving its own state's claim.",
+    "Justice must manifestly and undoubtedly be seen to be done.",
+    "Members of a Native Court owe allegiance to their stool, creating a conflict of interest.",
+    "Jurisdictional issues raised by the court itself affect cost awards.",
+    "The principle of nemo judex in causa sua applies by analogy.",
+    "Fairness requires removal of cases where apparent bias may exist.",
+    "Costs are typically apportioned equally when the court raises the deciding issue.",
+    "The case must be transferred to a neutral forum like the Land Court."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and cited authorities. All key elements including jurisdiction, rationale, and costs are explicitly stated in the decision.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/ASAMOAH v. KOUFU..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:13:05.174Z",
+    "plainTextLength": 5053
+  }
+}

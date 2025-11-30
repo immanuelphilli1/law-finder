@@ -1,0 +1,76 @@
+{
+  "caseTitle": "REX V AKPAN UNWA UDO EKPO",
+  "summary": "In this appeal from a High Court conviction, the West African Court of Appeal considered whether the appellant's killing of Sambo during a clan affray amounted to murder or manslaughter. The incident occurred during a fight between the Ediene clan (deceased's clan) and the Minya clan (appellant's clan), where the Ediene clan was the aggressor. The appellant was wounded by an arrow and, after the deceased was felled by a machete, retaliated by inflicting a fatal wound. The trial judge convicted of murder, reasoning that the deceased personally did not provoke the appellant. The appellate court disagreed, holding that the provocation stemmed from the collective attack by the Ediene clan, of which the deceased was a part. Applying section 318 of the Criminal Code on provocation, the court found the appellant acted in the heat of passion and substituted a conviction for manslaughter. The death sentence was set aside and replaced with two years' imprisonment with hard labour.",
+  "legalKeywords": [
+    "murder",
+    "manslaughter",
+    "provocation",
+    "heat of passion",
+    "section 318 Criminal Code",
+    "clan affray",
+    "aggressor",
+    "retaliation",
+    "fatal wound",
+    "appellate review",
+    "reduction of charge",
+    "collective provocation",
+    "self-defense",
+    "homicide",
+    "trial error",
+    "sentencing",
+    "hard labour",
+    "appellant in person",
+    "judicial discretion",
+    "factual findings"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Homicide",
+    "Appeal",
+    "Provocation",
+    "Sentencing"
+  ],
+  "verdict": "manslaughter",
+  "winningSide": "appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal appeal",
+  "citations": [
+    "Rex v Akpan Unwa Udo Ekpo, WACA/4, 9th August 1938"
+  ],
+  "rationaleHighlights": [
+    "The provocation was not limited to personal attack but included the collective aggression by the Ediene clan.",
+    "The deceased was part of the aggressing clan and could have been prosecuted for harming the appellant.",
+    "The appellant acted in the heat of passion immediately following the provocation.",
+    "Section 318 of the Criminal Code allows reduction to manslaughter when provocation is established.",
+    "The trial judge erred in requiring personal provocation from the deceased.",
+    "Factual context of clan violence supported mitigation of intent.",
+    "Appellate court exercised corrective jurisdiction to substitute verdict and sentence.",
+    "Sentencing reduced from death to two years' imprisonment with hard labour."
+  ],
+  "confidenceNotes": "The document is a clear appellate judgment with identifiable parties, court, judges, and legal reasoning. The jurisdiction is correctly attributed to the West African Court of Appeal, which had authority over Ghana (then Gold Coast) during the colonial period. The citation format aligns with historical records. Confidence in accuracy is high.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX V AKPAN UNWA UDO EKPO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:58:32.981Z",
+    "plainTextLength": 3133
+  },
+  "trialDate": "1938-08-09"
+}

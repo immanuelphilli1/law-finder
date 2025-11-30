@@ -1,0 +1,79 @@
+{
+  "caseTitle": "EBUSUAPANYIN KWESI KELLS v. EBUSUAPANYIN THOMAS YALLEY",
+  "summary": "The Supreme Court of Ghana dismissed the appeal filed by Ebusuapanyin Thomas Yalley, affirming that House No. 27/2 Ahanta Road, Takoradi, is family property and not subject to private testamentary disposition. The property was originally leased to Ekua Nkontomponyi, mother of the deceased Amos Thomas Yalley, who took possession after her death and renewed the lease in his name. Although he demolished the original structure and built a new one using personal funds, the court held that he held the property as a constructive trustee for the family. The court reaffirmed the principle in Ansah v. Sackey that a family member who builds on family land retains only a life interest, which cannot be alienated without family consent. Since there was no valid gift or fulfillment of customary requirements, the late Amos Thomas Yalley lacked testamentary capacity to bequeath the property. The Supreme Court upheld the concurrent findings of the lower courts, finding no miscarriage of justice, and affirmed the declaration that the property belongs to the Ebiradze Family.",
+  "legalKeywords": [
+    "family property",
+    "testamentary capacity",
+    "constructive trustee",
+    "customary law",
+    "lease renewal",
+    "fiduciary duty",
+    "life interest",
+    "alienation of property",
+    "dying declaration",
+    "reversion to family"
+  ],
+  "topics": [
+    "Property Law",
+    "Customary Law",
+    "Trusts",
+    "Wills and Succession",
+    "Family Property"
+  ],
+  "verdict": "Appeal dismissed; decision of lower courts affirmed.",
+  "winningSide": "Plaintiff/Respondent (Ebusuapanyin Kwesi Kells)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "A.K.B. Ampiah",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "F.Y. Kpega",
+      "role": "Justice"
+    },
+    {
+      "name": "G.K. Acquah",
+      "role": "Justice"
+    },
+    {
+      "name": "W.A. Atuguba",
+      "role": "Justice"
+    },
+    {
+      "name": "S.A.B. Akuffo",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Keech and Sanford (1726) Sel Cast King 61, 25 ER 223",
+    "Biss vrs. Biss (1903) 2 Ch. 40",
+    "Ansah vrs. Sackey 3 WALR 326",
+    "Owoo Vrs Owoo (1945) 11 WACA 81",
+    "Koglex Ltd. (No. 2) Vrs. Kate Field",
+    "Achoro Vrs. Akanfela (1996–97) SCGLR 209"
+  ],
+  "rationaleHighlights": [
+    "Property declared family land due to lack of valid gift or testamentary power",
+    "Lessee held as constructive trustee for family upon renewal in personal name",
+    "Life interest in family-built property does not permit testamentary alienation",
+    "No proof of building covenant breach by original lessee",
+    "Concurrent findings of lower courts upheld absent miscarriage of justice",
+    "Principles from Ansah v. Sackey affirmed as customary law",
+    "Dying declaration insufficient to transfer family property",
+    "Renewal right not extinguished; duty to family upon renewal"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy due to clear judicial reasoning, citation of binding precedents, and consistency across trial and appellate findings.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2000A/EBUSUAPANYIN KWESI KELLS v. EBUSUAPANYIN THOMAS YALLEY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:53:19.701Z",
+    "plainTextLength": 11998
+  },
+  "trialDate": "23RD FEBRUARY,  2000"
+}

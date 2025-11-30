@@ -1,0 +1,61 @@
+{
+  "caseTitle": "COMMISSIONER OF POLICE VERSUS SAGNIA.",
+  "summary": "The appellant was convicted in the Bathurst Magistrate's Court of breaking and entering a dwelling-house and stealing. Although the charge sheet erroneously cited section 283 of the Criminal Code instead of section 281(1), the Supreme Court of the Colony of the Gambia held that the accused was clearly informed of the true nature of the charge, and thus no failure of justice occurred. Under section 290(1)(a)(ii) of the Criminal Procedure Code, the court altered the conviction to housebreaking and stealing under sections 281(1) and 252 of the Criminal Code. The appellant’s inconsistent statements to police and in court were noted, and the 12-month sentence with hard labour was upheld due to prior convictions for theft. The appeal was dismissed.",
+  "legalKeywords": [
+    "criminal law",
+    "appeal",
+    "charge sheet error",
+    "failure of justice",
+    "alteration of conviction",
+    "housebreaking",
+    "stealing",
+    "Criminal Code",
+    "Criminal Procedure Code",
+    "trial error",
+    "prosecution evidence",
+    "inconsistent statements",
+    "sentencing",
+    "previous convictions",
+    "magistrate's court"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appeal",
+    "Procedural Error",
+    "Sentencing",
+    "Judicial Correction"
+  ],
+  "verdict": "Conviction upheld with altered legal basis; appeal dismissed.",
+  "winningSide": "State (Commissioner of Police)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Miles C.J.",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Colony of the Gambia",
+    "country": "The Gambia"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Criminal Code, c. 21, s. 281 (1)",
+    "Criminal Code, c. 21, s. 252",
+    "Criminal Procedure Code, c. 23, s. 290 (1) (a) (ii)"
+  ],
+  "rationaleHighlights": [
+    "The charge sheet incorrectly cited section 283 instead of section 281(1) of the Criminal Code.",
+    "The error did not cause a failure of justice as the accused was clearly informed of the actual offence.",
+    "The court exercised its power under s. 290(1)(a)(ii) of the Criminal Procedure Code to alter the finding.",
+    "The appellant gave inconsistent accounts to police and in court, undermining his credibility.",
+    "The sentence of 12 months' imprisonment with hard labour was upheld as not excessive given prior convictions."
+  ],
+  "confidenceNotes": "The case originates from The Gambia, not Ghana, despite being hosted on a Ghanaian legal website. All legal references and procedural context are specific to Gambian law.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/COMMISSIONER OF POLICE v. SAGNIA..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:36:21.491Z",
+    "plainTextLength": 3489
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "caseTitle": "Ex PARTE MICHAEL ADBALLAH",
+  "summary": "This appeal arose from an order by the Supreme Court of the Gambia requiring solicitor Ladepon Thomas to pay the respondent, Michael Adballah, the sum of £221 allegedly retained from funds recovered under a judgment. The West African Court of Appeal held that the order was improperly made under the court's summary jurisdiction because no solicitor-client relationship existed between Adballah and Thomas; Thomas had been engaged solely by Mr. Barlatt, Adballah's solicitor. The court reaffirmed that summary orders compelling payment of funds by a solicitor to a client require a direct solicitor-client relationship at the time of receipt of funds. It further recognized Thomas's right to assert a lien for unpaid services and Barlatt's independent lien over the recovered amount. The appeal was allowed, the order set aside, and parties directed to bear their own costs in the lower court, though Thomas was awarded costs of appeal due to procedural impropriety in the original application.",
+  "legalKeywords": [
+    "solicitor-client relationship",
+    "lien",
+    "summary jurisdiction",
+    "payment of moneys",
+    "officer of the court",
+    "costs",
+    "bill taxation",
+    "fiduciary duty",
+    "client funds",
+    "legal ethics"
+  ],
+  "topics": [
+    "Legal Fees",
+    "Solicitor's Lien",
+    "Client Funds",
+    "Appellate Review",
+    "Judicial Procedure"
+  ],
+  "verdict": "Appeal allowed; order set aside.",
+  "winningSide": "Defendant-Appellant (Ladepon Thomas)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Deane",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice, Sierra Leone"
+    },
+    {
+      "name": "Butler-Lloyd",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Re Marshall (1857) 5 W.R. 200",
+    "Ex parte Edwards (1887) 8 Q.B.D. 264",
+    "Dicas v. Stockley 173 Eng. Rep. 258",
+    "26 Halsbury p. 837"
+  ],
+  "rationaleHighlights": [
+    "No solicitor-client relationship existed between respondent and appellant; thus, summary order was invalid.",
+    "A solicitor may retain funds under a valid lien for unpaid services.",
+    "The proper remedy lies in taxing the principal solicitor's bill, not proceeding directly against an agent solicitor.",
+    "Court emphasized procedural appropriateness in handling disputes over legal fees."
+  ],
+  "confidenceNotes": "All information is directly extracted from the judgment text; citations and legal principles are explicitly referenced by the presiding judge.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/Ex PARTE MICHAEL ADBALLAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:31:31.531Z",
+    "plainTextLength": 19073
+  },
+  "trialDate": "1934-10-17"
+}

@@ -1,0 +1,80 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This document compiles multiple civil judgments from Ghana's Supreme and High Courts, primarily concerning estate administration, testamentary capacity, and contractual disputes. Key issues include whether a deceased had capacity to devise family property via will, distribution of estates under the Intestate Succession Law (PNDCL 111), and the application of res judicata in barring relitigation of estate administration rights previously decided in 1955. Other cases address abuse of judicial process, enforcement of agreements, wrongful termination of dealership contracts, and execution of judgment debts involving third-party property. The courts consistently upheld procedural fairness, legal capacity, and finality of judgments while interpreting contracts and estate laws.",
+  "legalKeywords": [
+    "administration of estate",
+    "intestate succession",
+    "letters of administration",
+    "res judicata",
+    "capacity to devise",
+    "will interpretation",
+    "abuse of judicial process",
+    "specific performance",
+    "contractual agreement",
+    "bail bonds",
+    "judgment debt",
+    "attachment of property",
+    "wrongful termination",
+    "property sale",
+    "caveat",
+    "executors",
+    "family property",
+    "decedent's estate",
+    "sureties",
+    "execution of judgment"
+  ],
+  "topics": [
+    "Estate Administration",
+    "Intestate Succession",
+    "Contract Law",
+    "Judicial Procedure",
+    "Property Rights"
+  ],
+  "verdict": "Mixed outcomes across cases: some claims upheld (e.g., daughter's inheritance rights, enforcement of agreements), others dismissed (e.g., relitigation barred by res judicata, abuse of process claims rejected)",
+  "winningSide": "Varies by case: plaintiffs succeeded in inheritance and contract enforcement claims; defendants prevailed where res judicata applied or claims were procedurally barred",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "S.K.A. Asiedu",
+      "role": "Justice of the High Court"
+    },
+    {
+      "name": "Torkornoo J.",
+      "role": "Justice of the High Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court and High Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "ASHIE NEEQUAYE v ADEE KOTEY, Civil Appeal J4/26/2009, 10th February 2010",
+    "OPANIN YAW OKYERE (Deceased) v Opain Appenteng of the Estate of Akua Attaa (Deceased) & Akua Adomaa of Seniagya, Asante, Civil Appeal J4/17/2008, 23rd November 2011",
+    "Rita Jones v Emelia Bentil, Suit No. BFA 5/2005, 28th October 2011",
+    "Florence Naadu Lartey & 3 Ors. v Abban Otoo, C.A. No. 15/98, 21st February 2001",
+    "Mary Tetterley Bill & 5 Ors. v Emmanuel Abeka Bil, Civil Appeal No. J4/7/2004, 28th June 2006",
+    "The Republic v The High Court (Commercial Division) Accra, Ex Parte The Trust Bank Ltd, Suit No J5/23/2008, 12th November 2008",
+    "Duodu Amoo, Madam Naadu v Bernard Nimako Akowuah & Samuel Nii Otu Ankrah, Civil Appeal No. J4/36/2011, 13th January 2012",
+    "Peter Ankoma v City Investment Company Limited, Civil Appeal J4/13/2011, 30th May 2012",
+    "Frabina Limited v Shell Ghana Limited, Civil Appeal No. J4/31/2009, 11th August 2010",
+    "Tetteh Ayaa Iddrisu v Winfred Otuafro Aryeh & Tenmote Akakpo, Civil Appeal No. J4/21/2009, 5th May 2010"
+  ],
+  "rationaleHighlights": [
+    "Res judicata barred relitigation of estate administration rights previously decided in 1955",
+    "Surviving daughter entitled to share under Intestate Succession Law, PNDCL 111",
+    "Party may testify as a witness unless legally incompetent",
+    "High Court retains jurisdiction over matters not finally adjudicated",
+    "Unilateral execution on third-party property after debt satisfaction constitutes wrongful act",
+    "Damages for wrongful termination found insufficient on appeal",
+    "Agreement terms must be certain to be enforceable"
+  ],
+  "confidenceNotes": "The document is a compilation of case summaries from the Ghanaian Supreme Court and High Court, with clear citation details and factual narratives. However, the final case on property sale is truncated, limiting full analysis of that particular matter.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/SUBDCSCG.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T09:54:25.217Z",
+    "plainTextLength": 787812
+  },
+  "trialDate": "2005-07-20"
+}

@@ -1,0 +1,78 @@
+{
+  "caseTitle": "CHIEF SUPERINTENDENT OF POLICE VERSUS JENG.",
+  "summary": "In Chief Superintendent of Police v. Jeng, a juvenile court in Bathurst, Gambia, found the appellant, a 14-year-old, guilty of stealing from the person and ordered his detention in the young persons' wing of H.M. Prisons for three years to be taught a trade. The Supreme Court of the Colony of Gambia upheld the conviction but quashed the sentence, ruling that the order amounted to imprisonment, which was illegal under the Children and Young Persons Ordinance, c. 20, as section 2 excludes prisons from the definition of 'place of detention.' The court held that while the juvenile could be imprisoned, a three-year term was excessive and inappropriate. Instead, the appellant was bound over in the sum of £5 to be of good behaviour for two years under the supervision of a probation officer, who was to report monthly to the court.",
+  "legalKeywords": [
+    "juvenile court",
+    "detention order",
+    "imprisonment",
+    "Children and Young Persons Ordinance",
+    "place of detention",
+    "sentence appeal",
+    "probation officer",
+    "supervision order",
+    "criminal law",
+    "rehabilitation",
+    "juvenile sentencing",
+    "legal error",
+    "custodial sentence",
+    "reformative justice",
+    "Gambian law",
+    "appellate review",
+    "correctional facility",
+    "youth offender",
+    "judicial discretion",
+    "sentencing guidelines",
+    "reformatory education",
+    "probation conditions",
+    "recognizance",
+    "court supervision",
+    "non-custodial sentence",
+    "legal interpretation",
+    "statutory definition",
+    "juvenile justice",
+    "rehabilitative measure",
+    "appellate remedy"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Juvenile Justice",
+    "Sentencing",
+    "Appellate Procedure",
+    "Probation"
+  ],
+  "verdict": "Appeal against finding dismissed; appeal against sentence allowed and detention order set aside",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Miles J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Colony of Gambia",
+    "country": "Gambia"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Children and Young Persons Ordinance, c. 20, ss. 2 and 14(i)",
+    "Criminal Code, c. 21, ss. 252 and 256(a)"
+  ],
+  "rationaleHighlights": [
+    "The juvenile court intended a detention order but effectively imposed imprisonment by placing the appellant in a prison wing.",
+    "Section 2 of the Children and Young Persons Ordinance explicitly excludes prisons from 'places of detention.'",
+    "A three-year imprisonment term for a 14-year-old was deemed excessive and counter-rehabilitative.",
+    "The court emphasized rehabilitation over incarceration for juvenile offenders.",
+    "Probation under supervision was considered the most suitable alternative disposition.",
+    "Calling imprisonment by another name does not circumvent statutory limitations.",
+    "The conviction was upheld due to sufficient evidentiary support.",
+    "The appellate court exercised its discretion to substitute a lawful and proportionate sentence."
+  ],
+  "confidenceNotes": "The document is a published law report with clear judicial reasoning and citation of statutory provisions. The case details are consistent and complete, allowing for high-confidence extraction. However, the jurisdiction is Gambia, not Ghana, despite the source website's Ghanaian focus, which may indicate a cataloging error.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/CHIEF SUPERINTENDENT OF POLICE v. JENG..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:38:34.860Z",
+    "plainTextLength": 13873
+  }
+}

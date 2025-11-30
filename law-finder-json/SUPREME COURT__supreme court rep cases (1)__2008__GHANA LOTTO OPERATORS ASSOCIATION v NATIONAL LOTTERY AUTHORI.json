@@ -1,0 +1,80 @@
+{
+  "caseTitle": "GHANA LOTTO OPERATORS ASSOCIATION v NATIONAL LOTTERY AUTHORI",
+  "summary": "In Ghana Lotto Operators Association v National Lottery Authority, the Supreme Court of Ghana addressed a constitutional reference on whether the National Lotto Act, 2006 (Act 722) violated Articles 33(5), 35(1), and 36(2)(b) of the 1992 Constitution. The plaintiffs, private lotto operators, challenged the Act's monopoly provisions and a directive to surrender lottery equipment, arguing infringements on economic freedom and private sector rights. The Court held that Article 33(5), which recognizes unenumerated democratic rights, was not violated, as the plaintiffs failed to clearly identify such rights or demonstrate their applicability. Article 35(1), concerning national sovereignty, was deemed too general to be infringed by the Act. Regarding Article 36(2)(b), which promotes private sector participation, the Court found it non-justiciable, distinguishing Ghana’s Constitution from India’s, where directive principles are explicitly non-enforceable. Despite the absence of an express non-justiciability clause, the Court interpreted Chapter 6 as aspirational and not directly enforceable in courts, thus upholding Act 722. The ruling clarified the limits of constitutional enforcement of economic policy directives in Ghana.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "justiciability",
+    "directive principles of state policy",
+    "economic rights",
+    "freedom of economic activity",
+    "private sector role",
+    "fundamental human rights",
+    "non-justiciable provisions",
+    "National Lotto Act 2006",
+    "Article 36(2)(b)",
+    "sovereignty",
+    "right to work",
+    "gambling regulation",
+    "constitutional enforcement",
+    "separation of powers"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Economic Regulation",
+    "Gambling and Lotteries",
+    "Judicial Review"
+  ],
+  "verdict": "Act 722 does not violate Articles 33(5), 35(1), or 36(2)(b) of the 1992 Constitution",
+  "winningSide": "National Lottery Authority",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Delivered the ruling"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin-Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Reference",
+  "citations": [
+    "Article 33(5), 1992 Constitution of Ghana",
+    "Article 35(1), 1992 Constitution of Ghana",
+    "Article 36(2)(b), 1992 Constitution of Ghana",
+    "National Lotto Act, 2006 (Act 722)",
+    "New Patriotic Party v Attorney-General [1993-94] 2GLR 35"
+  ],
+  "rationaleHighlights": [
+    "Article 33(5) does not independently create enforceable rights without clear identification of unenumerated democratic freedoms",
+    "Article 35(1) is a general sovereignty clause not violated by economic legislation",
+    "Directive Principles under Chapter 6, including Article 36(2)(b), are aspirational and non-justiciable in the absence of express enforcement mechanisms",
+    "The right to work, even if recognized internationally, does not include an unregulated right to operate lotteries",
+    "Courts must distinguish between enforceable rights and policy objectives in constitutional interpretation"
+  ],
+  "confidenceNotes": "The summary is based on a detailed judicial opinion from the Supreme Court of Ghana, with clear reasoning on justiciability and constitutional interpretation. The ruling is consistent with prior jurisprudence on directive principles. However, the document is truncated near the end, though the core legal reasoning appears complete.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2008/GHANA LOTTO OPERATORS ASSOCIATION v NATIONAL LOTTERY AUTHORI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:52:34.793Z",
+    "plainTextLength": 52908
+  },
+  "trialDate": "2008-01-06"
+}

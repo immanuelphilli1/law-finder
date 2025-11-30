@@ -1,0 +1,65 @@
+{
+  "caseTitle": "COMMISSIONER OF POLICE VERSUS BANDAILY",
+  "summary": "The appellant, Bandaily, was convicted by a Magistrate under section 418 of the Criminal Code for accepting £50 under the pretence of influencing a public officer, District Magistrate Bruce Lyle. The prosecution's evidence, which was accepted by the trial court, clearly indicated that the appellant demanded the money not for his own benefit but to pass on to the Magistrate, with an additional £10 loaned by the appellant to make up the required sum. On appeal, Ollennu J. held that section 418 requires the accused to accept valuable consideration for themselves, as the provision lacks the phrase 'for himself or for any other person' found in related offences like corruption and extortion. The court emphasized the principle of strict construction of penal statutes, ruling that the legislature's omission of such language was intentional. The trial magistrate's interpretation—that the accused must have intended to keep the money—was a misdirection, as it substituted the charge with one of false pretences. Consequently, the conviction was quashed, and the appellant was acquitted and discharged.",
+  "legalKeywords": [
+    "bribery",
+    "criminal law",
+    "penal statute",
+    "statutory interpretation",
+    "strict construction",
+    "valuable consideration",
+    "public officer",
+    "influence",
+    "false pretence",
+    "corruption",
+    "extortion",
+    "misdirection",
+    "acquittal",
+    "misdemeanour",
+    "prosecution burden"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Statutory Interpretation",
+    "Bribery and Corruption",
+    "Judicial Misdirection",
+    "Acquittal"
+  ],
+  "verdict": "Conviction quashed; appellant acquitted and discharged.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Criminal Code, c. 9 of 1951, s. 418",
+    "Fordyce v. Bridges (1847) 1 H.L.Cas. 1",
+    "Income Tax Commissioner v. Pemsel [1891] A.C. 534",
+    "In re A Deutor (No. 335 of 1947) [1948] 2 All E.R. 533",
+    "Underhill v. Longridge (1859) 29 L.J.M.C. 65; 24 J.P. 148",
+    "Commissioner of Police v. Sarpong (1946) 12 W.A.C.A. 26"
+  ],
+  "rationaleHighlights": [
+    "Section 418 does not include acceptance of valuable consideration for another person, unlike other sections (429, 437, 439) which explicitly state 'for himself or for any other person'.",
+    "Penal statutes must be strictly construed; courts cannot supply omissions or extend language beyond its express terms.",
+    "The conviction was based on a misdirection in law, as the magistrate conflated the offence with false pretences.",
+    "The prosecution's own evidence showed the money was intended for the public officer, not the accused.",
+    "The legislature's omission of 'for himself or for any other person' in s. 418 is a deliberate exclusion.",
+    "The accused cannot be convicted under s. 418 if the valuable consideration was purportedly accepted on behalf of another."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on unambiguous trial and appellate record, clear statutory interpretation, and consistent witness testimony.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/COMMISSIONER OF POLICE v. BANDAILY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:07:44.847Z",
+    "plainTextLength": 14486
+  }
+}

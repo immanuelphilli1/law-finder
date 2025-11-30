@@ -1,0 +1,81 @@
+{
+  "caseTitle": "JOHN DOMINIC OWUSU V AKUA AKOMAH",
+  "summary": "The Supreme Court of Ghana dismissed the appeal in *John Dominic Owusu v Akua Akomah*, affirming the Court of Appeal's judgment that overturned the High Court's decision. The plaintiff had claimed ownership of property via a 1987 written deed of assignment, but the trial court found the deed was not executed by the defendant and was procured in fraud, rendering it null and void. The defendant alleged an oral agreement from 1986 requiring full payment within three months, which the plaintiff failed to meet. The Supreme Court held that no valid contract existed for specific performance, emphasizing that pleadings define the scope of adjudication and that the plaintiff’s reliance on a fraudulent document barred equitable relief under the 'clean hands' doctrine. It further ruled that time was of the essence due to high inflation, making delayed payment unacceptable. The appeal against costs was also dismissed.",
+  "legalKeywords": [
+    "specific performance",
+    "fraud",
+    "pleadings",
+    "oral agreement",
+    "written contract",
+    "time of essence",
+    "inflation",
+    "equity",
+    "clean hands doctrine",
+    "declaration",
+    "counterclaim",
+    "deed of assignment",
+    "contract formation",
+    "burden of proof",
+    "judicial discretion"
+  ],
+  "topics": [
+    "Contract Law",
+    "Equity",
+    "Property Law",
+    "Fraud",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed; judgment of the Court of Appeal affirmed.",
+  "winningSide": "Defendant (Akua Akomah)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Aninakwa",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Akuffo (Ms)",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Dr. Twum",
+      "role": "panel judge"
+    },
+    {
+      "name": "Dr. Date-Bah",
+      "role": "panel judge"
+    },
+    {
+      "name": "Prof. Ocran",
+      "role": "panel judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "BARCLAYS BANK GHANA LTD. VRS. SAKARI (1996-97) SCGLR 639",
+    "Harmmond vrs. Odoi 1982-83 GLR 1215",
+    "FOFIE VRS. ZANYO (1992) 2GLR 475",
+    "KOGLEX VRS. KATEFIELD (MRS.) (1998-99) SCGLR 451",
+    "SIMON BOBI NTRI VRS. JOSEPH WILLIAMS. CA 11/2001, 22/06/2005"
+  ],
+  "rationaleHighlights": [
+    "No valid contract existed as the written deed was not executed and found fraudulent",
+    "Specific performance denied due to plaintiff's lack of clean hands",
+    "Time was of the essence due to inflation context",
+    "Court bound by pleadings; cannot adjudicate on unpleaded claims",
+    "Trial court erred in granting equitable relief without valid basis",
+    "Supreme Court affirmed Court of Appeal's reversal of trial court"
+  ],
+  "confidenceNotes": "The document is a full judgment from the Supreme Court of Ghana with clear judicial reasoning and citations. All key fields are supported by explicit text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2006A/JOHN DOMINIC OWUSU V AKUA AKOMAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T18:03:32.763Z",
+    "plainTextLength": 20325
+  },
+  "trialDate": "2001-06-07"
+}

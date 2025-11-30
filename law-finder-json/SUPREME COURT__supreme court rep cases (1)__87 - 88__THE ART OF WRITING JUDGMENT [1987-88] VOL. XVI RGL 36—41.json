@@ -1,0 +1,64 @@
+{
+  "caseTitle": "THE ART OF WRITING JUDGMENT [1987-88] VOL. XVI RGL 36—41",
+  "summary": "This 1987–88 address by Chief Justice Sowah E. N. P. to Ghanaian judges focuses on the principles and best practices for writing judicial judgments. Delivered during a period when the PNDC governed by proclamation following the suspension of the 1979 Constitution, the speech emphasizes the critical role of judgment writing in the administration of justice. The CJ underscores the importance of language proficiency, particularly in English, as the official court language, and advocates for clarity, brevity, and precision in judicial expression. He discusses the need for judges to settle issues early, evaluate evidence rigorously, apply binding precedents correctly, and avoid unnecessary verbosity or reliance on witness demeanor. The address also highlights systemic challenges, including lack of access to law reports and appellate decisions, and calls for improved legal infrastructure. The overall tone is instructional, aiming to elevate judicial standards across lower and superior courts in Ghana.",
+  "legalKeywords": [
+    "judgment writing",
+    "judicial language",
+    "stare decisis",
+    "evaluation of evidence",
+    "witness demeanor",
+    "cross-examination",
+    "rule of law",
+    "court procedure",
+    "legal reasoning",
+    "judicial clarity",
+    "binding precedent",
+    "PNDC Proclamation",
+    "superior courts",
+    "findings of fact",
+    "application of law"
+  ],
+  "topics": [
+    "Judicial Ethics",
+    "Legal Writing",
+    "Ghanaian Constitutional Law",
+    "Court Procedure",
+    "Appellate Review"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Sowah E. N. P.",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Judicial Address / Legal Commentary",
+  "citations": [
+    "Lord Denning, The Discipline of the Law",
+    "Cardozo, The Nature of the Judicial Process"
+  ],
+  "rationaleHighlights": [
+    "Clarity, brevity, and accuracy are essential in judgment writing.",
+    "Judges must base findings on credible evidence, not witness demeanor alone.",
+    "Settling issues early prevents irrelevant cross-examination and streamlines trials.",
+    "Binding precedent (stare decisis) must be followed by inferior courts.",
+    "Judgments should reflect the judge's reasoning, not merely recite evidence.",
+    "Language is the vehicle of legal thought and must be mastered.",
+    "Rulings must be concise and not pre-judge the final outcome.",
+    "Access to law reports and legal resources is critical for sound judicial decision-making."
+  ],
+  "confidenceNotes": "The document is not a case judgment but a judicial address, so traditional case elements like verdict and parties are absent. Information extracted is based on direct textual content and authoritative statements by the Chief Justice. Citations are limited to those explicitly mentioned.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/87 - 88/THE ART OF WRITING JUDGMENT [1987-88] VOL. XVI RGL 36—41.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:20:50.922Z",
+    "plainTextLength": 13407
+  },
+  "trialDate": "1981-12-31"
+}

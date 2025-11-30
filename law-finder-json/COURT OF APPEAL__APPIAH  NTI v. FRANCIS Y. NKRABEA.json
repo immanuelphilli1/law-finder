@@ -1,0 +1,71 @@
+{
+  "caseTitle": "APPIAH NTI v. FRANCIS Y. NKRABEA",
+  "summary": "The Court of Appeal in Accra, Ghana, heard an appeal by Appiah Nti (plaintiff/appellant) against Francis Y. Nkrabea (defendant/respondent) concerning a property dispute over H/No. A383/20, Dansoman Estates, Accra. The appellant sought recovery of possession and ejectment, which the Circuit Court had dismissed, while granting the respondent a judgment on his counter-claim for a declaration of equitable joint ownership based on a constructive trust over a sum of ₵5,000.00. The Court of Appeal found that the respondent had admitted the money was a loan and not intended for property purchase, and that the trial judge erred in law by imposing a constructive trust and declaring joint ownership. The appellate court held that no trust arose from a simple loan, set aside the judgment on the counter-claim, and allowed the appeal. The trial judge’s factual findings were otherwise upheld, but the legal conclusion on joint ownership was reversed due to misapplication of trust principles.",
+  "legalKeywords": [
+    "constructive trust",
+    "joint ownership",
+    "ejectment",
+    "recovery of possession",
+    "counter-claim",
+    "equitable interest",
+    "loan",
+    "misapplication of funds",
+    "appellate review",
+    "burden of proof",
+    "personal occupation",
+    "rent payment",
+    "seniority and need",
+    "tracing in equity",
+    "declaratory relief"
+  ],
+  "topics": [
+    "Property Law",
+    "Trusts",
+    "Appellate Procedure",
+    "Landlord and Tenant",
+    "Family Disputes"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Essilfie-Bondzie",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Afreh",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Sapong",
+      "role": "Presiding Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "APPIAH NTI v. FRANCIS Y. NKRABEA [18/3/99] C.A NO. 91/99"
+  ],
+  "rationaleHighlights": [
+    "The respondent admitted the ₵5,000.00 was a loan, not a contribution to property purchase.",
+    "No trust arises from a loan made for a specific purpose, even if misused.",
+    "The trial judge erred in imposing a constructive trust contrary to the evidence.",
+    "The appellant's ownership and right to possession were not negated by the loan.",
+    "The counter-claim for joint ownership failed due to lack of intention to create an equitable interest.",
+    "The appellate court does not overturn factual findings unless no evidence supports them.",
+    "The trial judge misstated the evidence regarding misapplication of funds.",
+    "Equitable tracing does not apply where there was no intention to create a beneficial interest."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text, though the source document is truncated near the end, the key legal reasoning and outcome are fully captured.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/APPIAH  NTI v. FRANCIS Y. NKRABEA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:46:44.275Z",
+    "plainTextLength": 20633
+  },
+  "trialDate": "18TH MARCH, 1999"
+}

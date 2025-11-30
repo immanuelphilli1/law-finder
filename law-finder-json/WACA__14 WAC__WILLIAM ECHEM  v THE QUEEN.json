@@ -1,0 +1,74 @@
+{
+  "caseTitle": "WILLIAM ECHEM v THE QUEEN",
+  "summary": "In William Echem v The Queen, the West African Court of Appeal overturned a murder conviction, holding that the appellant, though guilty of the act, was not criminally responsible due to insanity under Section 28 of the Criminal Code. The appellant had struck the deceased with an axe after experiencing a hallucination in which he believed he was defending himself from armed attackers. Medical evidence linked his mental condition to a prior skull fracture sustained in 1943. The trial judge had rejected the insanity defense based on the McNaughton rules, which do not recognize 'uncontrollable impulse.' However, the appellate court ruled that Section 28 of the Criminal Code explicitly allows this defense, distinguishing Ghanaian/Nigerian law from English common law. The court substituted a verdict of 'guilty but insane' and ordered the appellant detained as a criminal lunatic pending the Governor's pleasure.",
+  "legalKeywords": [
+    "insanity defense",
+    "uncontrollable impulse",
+    "mental disease",
+    "criminal responsibility",
+    "section 28 Criminal Code",
+    "delusions",
+    "McNaughton rules",
+    "guilty but insane",
+    "legal burden of proof",
+    "hallucinations",
+    "skull fracture",
+    "psychiatric evidence",
+    "appellate review",
+    "non-insane delusions",
+    "criminal lunatic"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Mental Health Law",
+    "Appellate Procedure",
+    "Insanity Defense",
+    "Statutory Interpretation"
+  ],
+  "verdict": "Guilty but insane (verdict substituted on appeal)",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "de Comarmond",
+      "role": "Ag. C.J. (Nigeria)"
+    },
+    {
+      "name": "Jibowu",
+      "role": "Ag. S.P.J. (Nigeria)"
+    },
+    {
+      "name": "Johnston",
+      "role": "J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "WACA/14",
+    "Rex v. Sunday Omoni, W.A.C.A. No. 3116",
+    "Rex v. Akilahel, W.A.C.A. No. 3841",
+    "Criminal Code, s 28",
+    "McNaughton case"
+  ],
+  "rationaleHighlights": [
+    "Section 28 of the Criminal Code extends beyond the McNaughton rules by recognizing 'uncontrollable impulse' as a valid defense.",
+    "Medical evidence indicated the accused could know right from wrong but could not control his actions during a mental episode.",
+    "The trial judge erred in dismissing the insanity defense due to reliance on English common law rather than local statutory law.",
+    "Prior head injury in 1943 was medically linked to ongoing mental instability.",
+    "Defendant expressed remorse and had no motive, supporting lack of criminal intent.",
+    "Appellant suffered from delusions of being attacked, under which he mistook the victim for an assailant.",
+    "Court emphasized lower burden of proof for insanity defense in criminal cases under local law.",
+    "Precedents from Rex v. Sunday Omoni and Rex v. Akilahel affirmed the validity of the uncontrollable impulse doctrine."
+  ],
+  "confidenceNotes": "High confidence; case details are clear, judgment explicitly addresses legal standard and precedent.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/WILLIAM ECHEM  v THE QUEEN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:29:08.142Z",
+    "plainTextLength": 14722
+  }
+}

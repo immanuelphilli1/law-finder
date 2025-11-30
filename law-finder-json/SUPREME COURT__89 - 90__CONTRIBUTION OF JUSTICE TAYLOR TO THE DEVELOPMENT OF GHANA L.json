@@ -1,0 +1,76 @@
+{
+  "caseTitle": "CONTRIBUTION OF JUSTICE TAYLOR TO THE DEVELOPMENT OF GHANA L",
+  "summary": "In Nkrumah v Manu (1970), Justice Kobina Taylor, then a High Court judge, delivered a landmark decision that challenged binding precedent and technical legalism in favor of substantive justice. The case involved a slander claim where the district magistrate awarded damages mislabeled as 'special damages.' Taylor refused to overturn the decision on this technical ground, criticizing undue reliance on form over substance. He re-examined the choice-of-law rules under paragraph 64 of the Courts Decree, 1966 (NLCD 84), rejecting the earlier Court of Appeal decision in Attiase v Abobbtey, which had ignored statutory changes. Taylor held that the applicable law must follow the statutory framework, requiring a plaintiff to explicitly claim customary law application. His analysis, though initially controversial and criticized by some judges, was later vindicated by the Court of Appeal in Kyei v Donkor, which endorsed his interpretation. This case established Taylor’s judicial philosophy: a purposive, policy-oriented approach that prioritizes justice over rigid precedent.",
+  "legalKeywords": [
+    "judicial precedent",
+    "stare decisis",
+    "per incuriam",
+    "choice of law",
+    "customary law",
+    "common law",
+    "slander",
+    "defamation",
+    "technicalities in law",
+    "statutory interpretation",
+    "justice and fair play",
+    "precedent criticism",
+    "Courts Decree NLCD 84",
+    "ratio decidendi",
+    "obiter dicta"
+  ],
+  "topics": [
+    "Defamation Law",
+    "Judicial Precedent",
+    "Ghanaian Constitutional and Legal Development"
+  ],
+  "verdict": "The appeal was dismissed. Justice Taylor upheld the award of damages despite the incorrect label of 'special damages,' emphasizing substance over form and applying the correct statutory choice-of-law rules under NLCD 84.",
+  "winningSide": "Plaintiff-respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kobina Taylor",
+      "role": "High Court Judge (author of the decision)"
+    },
+    {
+      "name": "Ollennu N.K.",
+      "role": "Justice of Appeal in Attiase v Abobbtey (criticized)"
+    },
+    {
+      "name": "Francois",
+      "role": "High Court Judge in Sogbaka v Tamakloe (criticized Taylor)"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil defamation",
+  "citations": [
+    "Nkrumah v Manu (1970, unreported)",
+    "Billa v Salifu [1971] 2 GLR 87",
+    "Attiase v Abobbtey (1969)",
+    "Kwaku v Addo (1957)",
+    "Ampong v Aboraa (unreported)",
+    "Kyei v Donkor (Court of Appeal)",
+    "Sogbaka v Tamakloe (High Court)",
+    "Liversidge v Anderson [1942] AC 206",
+    "Donoghue v Stevenson [1932] AC 562"
+  ],
+  "rationaleHighlights": [
+    "Refusal to allow technical mislabeling of damages to defeat justice",
+    "Statutory repeal of old choice-of-law rules rendered prior precedent obsolete",
+    "Binding precedent followed per incuriam may be lawfully rejected",
+    "Explicit election required for customary law application under NLCD 84",
+    "Critique of appellate decisions ignoring statutory changes",
+    "Emphasis on justice, fairness, and policy over formalism",
+    "Subsequent judicial endorsement of Taylor’s position in Kyei v Donkor",
+    "Assertion of judicial independence at the High Court level"
+  ],
+  "confidenceNotes": "High confidence in core facts, especially Taylor’s reasoning and the procedural history. Some citations (e.g., Nkrumah v Manu) are unreported but referenced authoritatively. The analysis is based on a scholarly review, ensuring contextual accuracy.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/89 - 90/CONTRIBUTION OF JUSTICE TAYLOR TO THE DEVELOPMENT OF GHANA L.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:57:18.767Z",
+    "plainTextLength": 92807
+  }
+}

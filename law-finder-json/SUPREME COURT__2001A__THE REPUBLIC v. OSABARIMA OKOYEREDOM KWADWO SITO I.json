@@ -1,0 +1,93 @@
+{
+  "caseTitle": "THE REPUBLIC v. OSABARIMA OKOYEREDOM KWADWO SITO I",
+  "summary": "This Supreme Court of Ghana case involved a contempt application against Osabarima Okoyeredom Kwadwo Sito I, who was accused of defying a 1988 order by the Brong-Ahafo Regional House of Chiefs requiring the return of the Black Stool to the Petelli Royal House by 15 November 1988. The appellant, from the Kralongo Royal House, was enstooled as Omanhene in 1997, after the stool was returned in September 1998. The High Court initially declined jurisdiction, viewing it as a chieftaincy matter, while the Court of Appeal found contempt without conviction. The Supreme Court held that the original order had lapsed due to its fixed deadline passing during the pendency of appeals, which operated as a stay of execution. Since the time for compliance expired before enforcement could occur, the order was no longer enforceable. The Court emphasized that one cannot be held in contempt for failing to comply with an impossible or lapsed directive. It allowed the appeal, set aside the lower courts' judgments, and dismissed the contempt application, noting the futility of enforcing an order after its subject matter had already been delivered.",
+  "legalKeywords": [
+    "contempt of court",
+    "chieftaincy dispute",
+    "enforcement of order",
+    "lapsed order",
+    "stay of execution",
+    "inherent jurisdiction",
+    "customary law",
+    "paramount chief",
+    "stool inheritance",
+    "judicial review",
+    "jurisdictional error",
+    "order variation",
+    "impossibility of performance",
+    "attachment for contempt",
+    "regional house of chiefs",
+    "national house of chiefs",
+    "rotation of stool",
+    "enstoolment",
+    "supreme court appeal",
+    "civil contempt"
+  ],
+  "topics": [
+    "Contempt of Court",
+    "Chieftaincy Disputes",
+    "Judicial Enforcement",
+    "Appellate Procedure",
+    "Customary Law"
+  ],
+  "verdict": "The appeal was allowed. The judgments of the Court of Appeal and the High Court were set aside, and the contempt application was dismissed.",
+  "winningSide": "Appellant (Osabarima Okoyeredom Kwadwo Sito I)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Amprah, J.S.C.",
+      "role": "Member"
+    },
+    {
+      "name": "Ms. Akuffo, J.S.C.",
+      "role": "Member"
+    },
+    {
+      "name": "Lamptey, J.S.C.",
+      "role": "Member"
+    },
+    {
+      "name": "Adzoe, T.K., J.S.C.",
+      "role": "Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Republic v. Brew (1992) 1 GLR 14",
+    "Khoury v. Khoury (1971) 1 GLR 348",
+    "Asumadu-Sakyi vrs. Owusu (1981) GLR 201",
+    "Fattal vrs. Minister of Internal Affairs (1981) GLR 104",
+    "Ellis vrs. Attorney-General, Writ 16/94",
+    "Le Vandowsky vrs. Attorney-General (1971) 1 GLR 49",
+    "Needham v. Needham (1842) 1 Hare 633",
+    "Carter vrs. Roberts [1903] 2 Ch. 312",
+    "Cotton v. Hey [1930] 1 Ch.D 510",
+    "Gilbert vrs. Endean (1878) 9 Ch.D. 259"
+  ],
+  "rationaleHighlights": [
+    "The order to return the Black Stool had a fixed deadline (15/11/88) which expired long before the alleged contempt.",
+    "An appeal operates as a stay of execution under Section 26 of Act 370, delaying enforcement until final judgment.",
+    "Once the deadline passed without enforcement, the order became unenforceable and could not support contempt.",
+    "The subject matter (Black Stool) was eventually returned in 1998, making retrospective enforcement pointless.",
+    "Courts cannot enforce impossible acts; doing so would stultify the judiciary.",
+    "The High Court erred in declining jurisdiction on chieftaincy grounds, but the Court of Appeal wrongly proceeded without addressing jurisdiction.",
+    "No variation of the original order was sought to make it enforceable post-appeal.",
+    "Contempt requires wilful disobedience, not inability due to lapsed time."
+  ],
+  "confidenceNotes": "High confidence in extracted details; all key elements (parties, judges, jurisdiction, outcome) are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2001A/THE REPUBLIC v. OSABARIMA OKOYEREDOM KWADWO SITO I.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:41:53.387Z",
+    "plainTextLength": 37110
+  },
+  "trialDate": "16TH MAY, 2001"
+}

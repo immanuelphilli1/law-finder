@@ -1,0 +1,72 @@
+{
+  "caseTitle": "POWERS OF A COURT TO CONVICT AN ACCUSED PERSON FOR A LESSER",
+  "summary": "This legal analysis examines the scope and application of section 154 of Ghana's Criminal Procedure Code, 1960 (Act 30), which permits a court to convict an accused of a lesser or included offence even when not formally charged, provided the facts support it. The provision aims to prevent multiplicity of trials and ensure justice where the prosecution fails to prove the full charge but establishes a lesser offence. However, the article argues that section 154 must be narrowly interpreted to uphold principles of fair trial, legal certainty, and protection against surprise. Drawing on precedents from the West African Court of Appeal and Ghana’s Court of Appeal—particularly Sarimbe v The Republic—it emphasizes that a lesser offence must be inherently included within the charged offence, not merely factually connected. The discussion highlights that appellate courts may substitute convictions under this section, but only when the legal and factual elements align without prejudicing the accused's right to a fair defence.",
+  "legalKeywords": [
+    "lesser included offence",
+    "conviction",
+    "Criminal Procedure Code",
+    "section 154",
+    "fair trial",
+    "double jeopardy",
+    "aggravated offence",
+    "reduced charge",
+    "criminal justice",
+    "indictment",
+    "attempt",
+    "manslaughter",
+    "murder",
+    "appellate jurisdiction",
+    "surprise defence",
+    "legal certainty",
+    "procedural fairness",
+    "omnibus clause",
+    "jurisdiction to convict",
+    "included offence"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Procedural Fairness",
+    "Appellate Review",
+    "Conviction for Lesser Offence",
+    "Legal Certainty"
+  ],
+  "verdict": "The article does not report a final verdict in a case but analyzes judicial interpretations of section 154, concluding that courts may convict for a lesser included offence only when it is legally and factually reducible from the charged offence and does not violate the accused's right to a fair trial.",
+  "winningSide": "State (prosecution), where conviction for a lesser included offence is upheld under proper legal conditions",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Not specified",
+      "role": "Author of legal commentary"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Sarimbe alias Olala v The Republic",
+    "R v Gyan",
+    "R v Noku of Yusa",
+    "R v Amos Kanu",
+    "R v Adokwu",
+    "Moses Tsinowope v The Republic"
+  ],
+  "rationaleHighlights": [
+    "Section 154 allows conviction for a lesser offence if facts proved reduce the charged offence to a lesser one.",
+    "Conviction for a lesser offence must not surprise the accused; the lesser offence must be inherently included in the charged offence.",
+    "Appellate courts may invoke section 154 to substitute a conviction, as in Sarimbe v The Republic.",
+    "The provision must be interpreted narrowly to preserve fairness and legal certainty.",
+    "A lesser offence must be reducible from the elements of the greater offence.",
+    "Historical precedent from the West African Court of Appeal supports limited application of the provision.",
+    "Distinction exists between offences that are truly included versus those that are factually related but legally distinct.",
+    "The mode of trial (jury, judge alone) may affect the applicability of section 154."
+  ],
+  "confidenceNotes": "The source is an academic legal review discussing judicial interpretations of section 154 of the Criminal Procedure Code, 1960 (Act 30) in Ghana. While the full appellate decisions are not provided, the analysis is based on reported cases from the Court of Appeal and the West African Court of Appeal, indicating reliable doctrinal authority. The interpretation of section 154 is consistent with common law principles and comparative jurisprudence.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/87 - 88/POWERS OF A COURT TO CONVICT AN ACCUSED PERSON FOR A LESSER .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:59:44.782Z",
+    "plainTextLength": 63599
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "caseTitle": "ESSENTIALS OF A CUSTOMARY MARRIAGE A NEW APPROACH [1980] VOL",
+  "summary": "This legal analysis challenges the traditional judicial approach to determining the validity of customary marriages in Ghana, arguing that courts have incorrectly elevated procedural elements—such as family consent, the giving of 'drinks' (dowry), and formal ceremonies—into rigid legal essentials. Drawing on case law, anthropological research, and social observation, the author asserts that a customary marriage is fundamentally based on the voluntary agreement of the couple to live together as husband and wife, evidenced by cohabitation. The article critiques the over-reliance on formalities derived from outdated scholarly descriptions and colonial-era interpretations, emphasizing that contemporary social practice often involves couples self-identifying as married without fulfilling all traditional steps. It calls for a more flexible, evidence-based approach that considers the totality of circumstances rather than fixed requirements.",
+  "legalKeywords": [
+    "customary marriage",
+    "consent",
+    "drinks",
+    "dowry",
+    "consummation",
+    "family consent",
+    "marriage validity",
+    "social practice",
+    "legal essentials",
+    "Ghanaian family law",
+    "marriage formalities",
+    "proof of marriage",
+    "public policy",
+    "betrothal",
+    "inheritance"
+  ],
+  "topics": [
+    "Customary Law",
+    "Family Law",
+    "Marriage Validity",
+    "Legal Formalism vs. Social Reality",
+    "Ghanaian Jurisprudence"
+  ],
+  "verdict": "The article concludes that the so-called 'essentials' of customary marriage should not be treated as strict legal requirements, and that courts should adopt a more holistic, fact-based assessment of whether a marriage exists.",
+  "winningSide": "The argument favors a progressive, socially informed interpretation of customary marriage over rigid formalism.",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Osborne",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "legal analysis",
+  "citations": [
+    "Yaotey v. Quaye",
+    "In re Sapara",
+    "Asumah v. Khair",
+    "Sarbah, Fanti Customary Laws"
+  ],
+  "rationaleHighlights": [
+    "The courts' reliance on rigid 'essentials' of customary marriage is flawed and out of step with social reality.",
+    "Parental or family consent is not a legal necessity for a valid customary marriage.",
+    "The giving of 'drinks' (dowry) is customary but not an absolute legal requirement.",
+    "Living together as husband and wife is strong evidence of marriage.",
+    "Judicial approach should focus on substance over formality.",
+    "Sociological evidence and lived practice should inform legal interpretation.",
+    "Western legal concepts have unduly influenced the interpretation of customary marriage."
+  ],
+  "confidenceNotes": "The source is a legal commentary rather than a direct court judgment, but it analyzes binding case law and customary principles authoritatively. Citations are drawn from the text and reflect key judicial and scholarly references.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2012/ESSENTIALS OF A CUSTOMARY MARRIAGE A NEW APPROACH [1980] VOL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:46:47.612Z",
+    "plainTextLength": 35903
+  }
+}

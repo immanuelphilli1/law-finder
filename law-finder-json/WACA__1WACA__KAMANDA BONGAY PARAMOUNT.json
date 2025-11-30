@@ -1,0 +1,67 @@
+{
+  "caseTitle": "KAMANDA BONGAY PARAMOUNT",
+  "summary": "This 1932 West African Court of Appeal decision concerns a land dispute in the Sierra Leone Protectorate between Kamanda Bongay, Paramount Chief of the Big Bo Chiefdom, and F. S. Macauley, a non-native settler from Sierra Leone Colony. Macauley was granted 37 acres in 1892 for cultivation under native law, with a 1905 gubernatorial letter confirming his interest and succession rights for his children, but prohibiting sub-letting. Despite long possession and prior cooperation with chiefs, Macauley defied the new Paramount Chief's authority after 1926 by asserting absolute ownership and obstructing a community road-widening project. The court upheld the lower court's ruling that such defiance constituted misconduct under native law and custom, leading to forfeiture of his land rights, even without formal expulsion. The appeal was dismissed, affirming the plaintiff's recovery of possession.",
+  "legalKeywords": [
+    "forfeiture of land rights",
+    "native law and custom",
+    "paramount chief authority",
+    "non-native land tenure",
+    "defiance of traditional authority",
+    "land dispute",
+    "customary law enforcement",
+    "sub-letting prohibition",
+    "community road development",
+    "succession rights",
+    "tribal authority",
+    "long possession",
+    "governor's letter 1905",
+    "Sierra Leone Protectorate",
+    "settler misconduct"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Appellate Decision",
+    "Chiefdom Governance",
+    "Property Rights"
+  ],
+  "verdict": "Appeal dismissed; lower court judgment upheld",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Macquarrie, Acting Chief Justice of Sierra Leone",
+      "role": "Judicial Officer"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Sierra Leone Protectorate"
+  },
+  "caseType": "Civil Land Dispute",
+  "citations": [
+    "Exhibit J (Governor's letter, 11 Jan 1905)"
+  ],
+  "rationaleHighlights": [
+    "Defendant's defiance of Paramount Chief's authority, especially obstructing a community road, constituted misconduct under native custom.",
+    "Long possession and prior tolerance did not negate the customary right of forfeiture for defiance.",
+    "The Governor's 1905 letter did not override native law and custom regarding land tenure.",
+    "Sub-letting with prior chiefs' cooperation did not amount to misconduct.",
+    "Forfeiture was valid even without formal expulsion, as the custom allows for loss of rights upon defiance.",
+    "The Chief's actions to enforce community rights were reasonable and lawful.",
+    "The defendant's claim of absolute ownership contradicted the terms of grant and native custom.",
+    "Courts must uphold native customs as proven, not reinterpret them narrowly."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; source is a judicial decision with clear holdings and reasoning. Some metadata (e.g., exact case number) may be missing due to document formatting.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/KAMANDA BONGAY PARAMOUNT.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:47:04.736Z",
+    "plainTextLength": 41024
+  },
+  "trialDate": "1932-10-10"
+}

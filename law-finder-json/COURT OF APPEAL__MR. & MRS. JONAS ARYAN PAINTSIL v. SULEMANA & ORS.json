@@ -1,0 +1,74 @@
+{
+  "caseTitle": "MRS. JONAS ARYAN PAINTSIL v. SULEMANA & ORS.",
+  "summary": "This appeal arose from the Circuit Court's refusal to set aside a default judgment entered against the 1st defendant (appellant) in a land dispute. The plaintiffs obtained default judgment in 1999 after claiming service via substituted means—posting court processes on the appellant's structure and delivering them to a neighbor, Mr. Yartey. However, no affidavit confirmed actual delivery to Mr. Yartey or receipt by the appellant. The appellant, claiming total ignorance of the suit, entered appearance in January 2001 after discovering his building had been demolished pursuant to execution of the judgment. He applied to set aside the default judgment, but the trial court summarily refused without giving reasons. The Court of Appeal held that the trial judge failed to exercise judicial discretion properly by not providing reasoned grounds for refusal, especially given uncertainties around service validity. While noting the appellant's delay and the plaintiffs' execution actions (including demolition and land transfer), the court emphasized that judicial discretion under Order 13 Rule 11 must be exercised justly, considering fairness, potential defence, and procedural irregularities. The appeal succeeded in part, with the matter remitted for proper consideration of whether the judgment should be set aside.",
+  "legalKeywords": [
+    "default judgment",
+    "substituted service",
+    "judicial discretion",
+    "setting aside judgment",
+    "service of process",
+    "land dispute",
+    "trespas",
+    "procedural fairness",
+    "Order 13 Rule 8",
+    "Order 13 Rule 11",
+    "Order 64",
+    "reasons for judgment",
+    "execution of judgment",
+    "appellate review",
+    "equity"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Land Law",
+    "Appellate Law",
+    "Judicial Discretion",
+    "Service of Process"
+  ],
+  "verdict": "Appeal allowed in part; matter remitted to trial court for reconsideration of application to set aside default judgment with proper exercise of judicial discretion.",
+  "winningSide": "Appellant (Mr. & Mrs. Jonas Aryan Paintsil as respondents below, but appellant won on appeal)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Quaye, J.A.",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Omari-Sasu, J.A.",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Tweneboah Koduah, J.A.",
+      "role": "panel judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "REPUBLIC vrs. EASTERN REGIONAL HOUSE OF CHIEFS: Ex-parte: BIRIKORAMAA, [1987-88] 1 GLR.40",
+    "BLUNT vrs. BLUNT [1943] AC. 517",
+    "CRENTSIL vrs. CRENTSIL (1962) 2 GLR. 171",
+    "PEOPLE VRS. RUSSEL 70. Cat Rptr.210, 215, 448 p.2d 794",
+    "STATE vrs. GRANT 10 Wash. App. 468, 519 P2d 261, 265"
+  ],
+  "rationaleHighlights": [
+    "The trial court failed to provide reasons for refusing to set aside default judgment, constituting an error of law.",
+    "Service via posting on structure without confirmed delivery to Mr. Yartey raised doubts about validity of substituted service.",
+    "Appellant's delay in appearance was significant but did not automatically bar relief where justice so required.",
+    "Discretion under Order 13 Rule 11 must be exercised judicially with regard to equity and procedural fairness.",
+    "Execution steps taken (demolition, land transfer) weighed against setting aside judgment but not determinative.",
+    "Failure to obtain leave before out-of-time appearance was a procedural irregularity but not fatal if justice permits.",
+    "Court must consider whether defendant has a credible defence when deciding on setting aside default judgment."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed court record and clear procedural timeline. Some uncertainty regarding service via Mr. Yartey due to lack of affidavit, but court explicitly notes this gap.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/MR. & MRS. JONAS ARYAN PAINTSIL v. SULEMANA & ORS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:15:38.755Z",
+    "plainTextLength": 23625
+  },
+  "trialDate": "2003-12-18"
+}

@@ -1,0 +1,80 @@
+{
+  "caseTitle": "THE REPUBLIC v THE VICE CHANCELLOR KWAME NKRUMAH UNIVERSITY",
+  "summary": "This Supreme Court of Ghana case, decided on 12th November 2008, involved an appeal by five Nigerian students (appellants) dismissed from Kwame Nkrumah University of Science and Technology (KNUST) following alleged involvement in occultism and violence. The dismissals were carried out by the Vice-Chancellor based on an Interim Report (Exhibit KNUST '3') signed by a security officer, without clear evidence of a properly constituted Committee of Enquiry as required under Article 7 of the Students Guide. The appellants challenged the dismissal via judicial review, arguing violations of natural justice and Article 25 of the 1992 Constitution. Both the High Court and Court of Appeal upheld the dismissal, but the Supreme Court found that the respondent failed to prove the formation or proceedings of a lawful inquiry committee, thereby breaching principles of procedural fairness. The Court held that public institutions like KNUST are amenable to judicial review when exercising public functions, and the failure to comply with internal regulations rendered the dismissals unlawful.",
+  "legalKeywords": [
+    "judicial review",
+    "natural justice",
+    "procedural fairness",
+    "committee of inquiry",
+    "student dismissal",
+    "public function",
+    "constitutional rights",
+    "burden of proof",
+    "certiorari",
+    "administrative law",
+    "university regulations",
+    "due process",
+    "Ghana Constitution Article 25",
+    "Evidence Act NRCD 323",
+    "judicial review Order 55 CI 47"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Constitutional Law",
+    "Education Law",
+    "Procedural Fairness",
+    "Judicial Review"
+  ],
+  "verdict": "The Supreme Court allowed the appeal, holding that the dismissal of the students was unlawful due to failure to constitute a proper Committee of Enquiry and denial of fair hearing.",
+  "winningSide": "Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Anin Yeboah",
+      "role": "Delivered leading judgment"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Owusu (Ms)",
+      "role": "Justice"
+    },
+    {
+      "name": "Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "NIMMO V ALEXANDER COWAN & SONS LTD [1968] AC 107",
+    "R V PANEL ON TAKEOVERS AND MERGERS, EX PARTE DATAFIN pic [1987] 1 QB 815",
+    "The Kwame Nkrumah University of Science and Technology, Kumasi Act, 1961 (Act 80)",
+    "Evidence Act, 1975 (NRCD 323)",
+    "De Smith, Woolf and Jowell, Principles of Judicial Review (1999 ed.)"
+  ],
+  "rationaleHighlights": [
+    "The University failed to provide any details about the composition, mandate, or proceedings of the alleged Committee of Enquiry, violating Article 7 of the Students Guide.",
+    "The burden of proof lay with the respondent, as the party with exclusive knowledge of the inquiry process, to demonstrate compliance with procedural fairness.",
+    "Judicial review is available against public institutions performing public functions, even if not strictly governmental.",
+    "The absence of a fair hearing and non-compliance with internal disciplinary procedures rendered the dismissals unlawful.",
+    "A security officer's signature on a report does not establish a lawful committee unless his role and authority are clearly defined."
+  ],
+  "confidenceNotes": "The summary is based on a detailed judicial opinion from the Supreme Court of Ghana with clear legal reasoning and citation of authorities. All key facts and holdings are directly extractable from the text, though the document appears to be truncated near the end. Despite this, the core legal analysis and outcome are fully discernible.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2008/THE REPUBLIC v THE VICE CHANCELLOR KWAME NKRUMAH UNIVERSITY .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:12:48.511Z",
+    "plainTextLength": 22997
+  },
+  "trialDate": "2008-11-12"
+}

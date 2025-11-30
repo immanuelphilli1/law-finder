@@ -1,0 +1,63 @@
+{
+  "caseTitle": "REGINA VERSUS AYAABA.",
+  "summary": "The Court of Appeal in Ghana allowed an appeal against a murder conviction in Regina v. Ayaba, focusing on the defendant's insanity at the time of the offense. The court relied on the principles concerning insane delusions as discussed in the Editorial Note to R. v. Grumah (1957) 2 W.A.L.R. 255, applying Section 52(2) of the Criminal Code and Section 137 of the Criminal Procedure Code. The decision underscores the importance of psychiatric evaluation in determining criminal responsibility.",
+  "legalKeywords": [
+    "insanity defense",
+    "criminal responsibility",
+    "insane delusion",
+    "appeal allowed",
+    "murder conviction",
+    "mental disorder",
+    "Criminal Code",
+    "Criminal Procedure Code",
+    "judicial precedent",
+    "appellate review",
+    "Ghanaian criminal law",
+    "forensic psychiatry",
+    "legal precedent",
+    "Section 52(2)",
+    "Section 137"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Insanity Defense",
+    "Appellate Procedure",
+    "Mental Health Law"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Korsah C.J."
+    },
+    {
+      "name": "van Lare J.A."
+    },
+    {
+      "name": "Granville Sharp J.A."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "R. v. Grumah (1957) 2 W.A.L.R. 255"
+  ],
+  "rationaleHighlights": [
+    "Defendant suffered from an insane delusion at the time of the offense",
+    "Application of Section 52(2) of the Criminal Code on criminal responsibility",
+    "Reliance on editorial commentary as persuasive authority",
+    "Mental state negated intent for murder",
+    "Appellate court reversed conviction based on psychiatric grounds"
+  ],
+  "confidenceNotes": "The source document is brief and lacks full judgment details; analysis is based on available headings, cited provisions, and standard legal interpretation of similar cases in Ghanaian jurisprudence.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/REGINA v. AYAABA..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:53:30.943Z",
+    "plainTextLength": 960
+  }
+}

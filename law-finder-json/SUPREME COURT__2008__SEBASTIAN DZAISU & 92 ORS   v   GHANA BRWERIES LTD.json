@@ -1,0 +1,83 @@
+{
+  "caseTitle": "SEBASTIAN DZAISU & 92 ORS v GHANA BRWERIES LTD",
+  "summary": "In this labor rights case, 93 former casual workers of Ghana Breweries Ltd. appealed to the Supreme Court of Ghana after losing at both the High Court and Court of Appeal. They claimed they performed the same work as permanent employees but were denied benefits under the Collective Bargaining Agreement (CBA), and sought declarations of unconstitutionality, back pay, and damages for wrongful termination. The Supreme Court upheld the lower courts' rulings, emphasizing that the appellants failed to meet the burden of proof by providing concrete evidence that their duties were substantially similar to those of permanent workers. Although the trial court initially accepted their claim due to lack of cross-examination, the Court of Appeal rightly reversed this, noting the absence of evidentiary support. The Supreme Court affirmed that a bare assertion in court, without elaboration or corroborative testimony, does not fulfill the evidential burden, and that appellate courts may correct factual findings unsupported by evidence. The appeal was dismissed.",
+  "legalKeywords": [
+    "casual workers",
+    "permanent workers",
+    "collective bargaining agreement",
+    "burden of proof",
+    "same work",
+    "unfair dismissal",
+    "constitutional rights",
+    "labor rights",
+    "appellate review",
+    "evidence",
+    "work conditions",
+    "employee benefits",
+    "wrongful termination",
+    "discrimination",
+    "fact-finding"
+  ],
+  "topics": [
+    "Employment Law",
+    "Labor Rights",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Constitutional Law"
+  ],
+  "verdict": "The appeal was dismissed. The Supreme Court upheld the decisions of the High Court and Court of Appeal, ruling that the appellants failed to prove they performed the same work as permanent employees and therefore were not entitled to the benefits under the Collective Bargaining Agreement.",
+  "winningSide": "Ghana Breweries Ltd. (Respondent)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sophia Adinyira (Mrs.)",
+      "role": "Presiding Judge authoring the judgment"
+    },
+    {
+      "name": "Akuffo (Mrs.)",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Asiamah",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "labor and employment",
+  "citations": [
+    "Akyea-Djamson v. Duagbor and Others (1989-90) 1GLR 223",
+    "Browne v. Dunn (1894) 6 R. 67",
+    "Ayiwah v. Badu [1963] 1 G.L.R. 86",
+    "Adokor v. Gatsi [1966] GLR 31",
+    "Domfe v. Adu [1984-86] 2 GLR 461",
+    "Evidence Act, 1975 (Act 323)",
+    "Labour Decree 1967 (NLCD 157)",
+    "Constitution of the Republic of Ghana, 1992, Articles 16(1), 21(1)(e), 24"
+  ],
+  "rationaleHighlights": [
+    "The appellants failed to provide sufficient evidence that they performed the same work as permanent workers, despite the burden of proof resting on them.",
+    "The appellate court correctly reversed the trial court's finding because it was unsupported by evidence.",
+    "Failure to cross-examine does not automatically admit a claim; a bare assertion in court without elaboration or supporting evidence does not shift the evidential burden.",
+    "The distinction in job roles—casual workers performing manual tasks vs. permanent workers operating sophisticated equipment—was supported by the respondent's evidence.",
+    "An appellate court has the authority to correct findings of fact not supported by the evidence, regardless of whether the respondent cross-appealed."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct quotation from the judgment and consistent legal reasoning. All key details (parties, issues, evidence, rulings) are explicitly stated in the source text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2008/SEBASTIAN DZAISU & 92 ORS   v   GHANA BRWERIES LTD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:14:04.788Z",
+    "plainTextLength": 28906
+  },
+  "trialDate": "2007-04-29"
+}

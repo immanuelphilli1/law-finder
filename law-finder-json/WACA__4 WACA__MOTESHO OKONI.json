@@ -1,0 +1,71 @@
+{
+  "caseTitle": "MOTESHO OKONI",
+  "summary": "The appellants, including the Bale of Igboora and his two messengers, were convicted of murder for setting fire to a house in pursuit of an unlawful purpose—expelling Shitta Agboola from the town. The fire, ordered by the Bale and executed by his messengers, resulted in the death of Yesajo, who was severely burned and later died in hospital. The prosecution established that the accused acted under an unlawful directive, using arson—a dangerous act likely to endanger human life—in furtherance of their objective. The defense alibi was rejected at trial and abandoned on appeal. The appellate court upheld the conviction, emphasizing that under Section 316(3) of the Nigerian Criminal Code, murder is established when death results from an act done in prosecution of an unlawful purpose that is likely to endanger human life, regardless of intent to kill. This differs from English law, which requires the underlying act to constitute a felony involving violence. The court found no misdirection by the trial judge and dismissed the appeal.",
+  "legalKeywords": [
+    "murder",
+    "manslaughter",
+    "unlawful purpose",
+    "misdirection",
+    "arson",
+    "Oro drums",
+    "Bale of Igboora",
+    "Nigerian Criminal Code",
+    "Section 316",
+    "Section 116(3)",
+    "human life endangerment",
+    "prosecution of unlawful purpose",
+    "act likely to endanger life",
+    "trial judge direction",
+    "appellate review"
+  ],
+  "topics": [
+    "criminal law",
+    "murder vs manslaughter",
+    "judicial procedure",
+    "appellate review",
+    "statutory interpretation"
+  ],
+  "verdict": "Appeal dismissed; murder conviction upheld.",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v. Wyman, 17 Cr. App. p. 10",
+    "Section 319 of Criminal Code",
+    "Section 116(3) of the Code",
+    "Section 306, 315, 316 of Nigerian Criminal Code"
+  ],
+  "rationaleHighlights": [
+    "Death caused by an act done in prosecution of an unlawful purpose, likely to endanger human life, constitutes murder under Nigerian law.",
+    "English law requires the underlying act to be a felony involving violence; Nigerian law does not.",
+    "Section 116(3) makes a person in authority criminally responsible for acts carried out under their order.",
+    "Persistent beating of Oro drums increased the risk to occupants by forcing women indoors.",
+    "Trial judge correctly found murder based on foreseeability of death from arson in occupied dwelling."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and explicit statutory references.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/MOTESHO OKONI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:01:22.823Z",
+    "plainTextLength": 20507
+  },
+  "trialDate": "1938-01-11"
+}

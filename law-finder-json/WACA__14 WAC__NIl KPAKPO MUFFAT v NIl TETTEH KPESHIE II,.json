@@ -1,0 +1,72 @@
+{
+  "caseTitle": "NIl KPAKPO MUFFAT v NIl TETTEH KPESHIE II,",
+  "summary": "This 1952 West Africa Court of Appeal decision in Kpakpo Muffat v. Tetteh Kpeshie II addressed whether the Land Court had discretion under the proviso to section 52(1) of the Native Courts (Colony) Ordinance, 1944, to hear an appeal filed out of time. The appellants, representing the Dsase of Sempe, challenged the Land Court's grant of conditional leave to appeal where the notice was filed beyond the one-month deadline stipulated in Regulation 115(1) of the Native Courts (Colony) Procedure Regulations, 1945. The Court held that the proviso only allows discretion to hear and determine an appeal that has been properly brought before the court, and since timely filing is a jurisdictional prerequisite, no valid appeal existed upon which discretion could be exercised. The appeal was allowed, the Land Court’s order set aside, and costs awarded.",
+  "legalKeywords": [
+    "appeal out of time",
+    "jurisdictional prerequisite",
+    "conditional leave to appeal",
+    "Native Courts Ordinance",
+    "Land Court discretion",
+    "substantial justice",
+    "notice of appeal",
+    "regulatory compliance",
+    "appellate jurisdiction",
+    "procedural review",
+    "judicial discretion",
+    "timely filing",
+    "proviso interpretation",
+    "review of judgment",
+    "procedural error"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Native Courts",
+    "Land Law",
+    "Procedural Compliance",
+    "Judicial Review"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Foster-Sutton",
+      "role": "President"
+    },
+    {
+      "name": "Coussey",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Korsah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Native Courts (Colony) Ordinance, 1944, s 52(1) proviso",
+    "Native Courts (Colony) Procedure Regulations, 1945, Reg 115(1)"
+  ],
+  "rationaleHighlights": [
+    "The proviso to s 52(1) only allows discretion over appeals validly brought before the court.",
+    "Timely filing of notice of appeal under Reg 115(1) is a condition precedent to the existence of an appeal.",
+    "No jurisdiction arises to exercise discretion if the appeal is not properly constituted.",
+    "Applicant cannot rely on erroneous procedural choice (review) to justify late appeal.",
+    "Substantial justice cannot override mandatory procedural requirements.",
+    "The Land Court erred in granting conditional leave where no valid appeal existed.",
+    "Discretion under the proviso presupposes a validly filed appeal.",
+    "The appeal was filed well beyond the one-month deadline (September 1948 to June 1949)."
+  ],
+  "confidenceNotes": "High confidence; all information is directly derived from the judgment text with clear citation to statutory provisions and court reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/NIl KPAKPO MUFFAT v NIl TETTEH KPESHIE II,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:34:35.081Z",
+    "plainTextLength": 6747
+  },
+  "trialDate": "1952-03-17"
+}

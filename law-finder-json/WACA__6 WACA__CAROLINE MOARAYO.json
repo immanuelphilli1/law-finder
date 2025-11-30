@@ -1,0 +1,76 @@
+{
+  "caseTitle": "CAROLINE MOARAYO",
+  "summary": "The West Africa Court of Appeal allowed the appeal by Caroline Moarayo, setting aside the lower court's dismissal of her claim for a declaration of ownership over land at Ibadan Street, Oko Baba, Ebute Metta. The lower court had dismissed the case at the close of the plaintiff's case, primarily due to her failure to produce the original document of title and reliance on a prior judicial finding that she lacked good title. The appellate court held that a prima facie case of title was established through a certified copy of the conveyance and unchallenged evidence of purchase from the Oloto family. It ruled that the non-production of the original title deed was adequately explained—having been obtained by Oshodi (through an auctioneer) as security—and did not justify dismissal. The court also rejected the evidential weight given to the prior litigation, holding that failure to prove title in a previous transaction had no binding effect. The case was remitted for a de novo retrial before another judge, with costs awarded to the appellant in the appellate court.",
+  "legalKeywords": [
+    "declaration of title",
+    "prima facie case",
+    "document of title",
+    "retrial de novo",
+    "evidential value",
+    "misdirection",
+    "equitable mortgage",
+    "failure to produce original",
+    "uncross-examined evidence",
+    "ownership of land",
+    "conveyance",
+    "Lands Registry",
+    "certified copy",
+    "judicial precedent",
+    "burden of proof",
+    "civil procedure",
+    "appellate review",
+    "costs award",
+    "inter partes",
+    "equity in land"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Property Rights",
+    "Judicial Misdirection"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Cor. Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "WACA/6 WACA/CAROLINE MOARAYO"
+  ],
+  "rationaleHighlights": [
+    "Failure to produce original title deed does not invalidate prima facie case when adequately explained",
+    "Certified copy from Lands Registry is admissible and sufficient to support claim",
+    "Uncross-examined evidence of family ownership strengthens plaintiff's case",
+    "Prior failure to prove title in another proceeding has no evidential value",
+    "Respondents' claim through Oshodi fails as he held only possible equitable mortgage",
+    "Dismissal at close of plaintiff's case was a misdirection",
+    "Retrial de novo ordered to ensure fair adjudication",
+    "Costs awarded to appellant in appellate court"
+  ],
+  "confidenceNotes": "High confidence; all information is directly derived from the judgment text, with clear factual and legal reasoning provided by the appellate court.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/CAROLINE MOARAYO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:09:34.507Z",
+    "plainTextLength": 7876
+  },
+  "trialDate": "1940-04-17"
+}

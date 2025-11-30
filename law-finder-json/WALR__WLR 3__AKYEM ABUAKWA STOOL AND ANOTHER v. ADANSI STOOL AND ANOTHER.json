@@ -1,0 +1,77 @@
+{
+  "caseTitle": "ABUAKWA STOOL AND ANOTHER VERSUS ADANSI STOOL AND ANOTHER",
+  "summary": "The Judicial Committee of the Privy Council dismissed an appeal by the Akyem Abuakwa Stool and its subordinate, Muronam, seeking a declaration of title to land also claimed by the Adansi Stool and its subordinate, Banka. The land had previously been the subject of litigation in 1940 between Muronam and Banka, where Muronam failed to establish title. Although Akyem Abuakwa was not a formal party in that case, it was aware of the proceedings and supported Muronam. The courts below held that Akyem Abuakwa was estopped from re-litigating the issue either by res judicata (as a privy) or by conduct (for standing by without intervening). The Privy Council upheld this, emphasizing that where a person with an interest allows another to litigate on their behalf in the same cause, they are bound by the result. The principle, rooted in equity, justice, and common sense, was deemed applicable in African customary contexts even if historically limited in English law. The appeal was dismissed, affirming that the prior judgment barred the current claim.",
+  "legalKeywords": [
+    "estoppel by res judicata",
+    "estoppel by conduct",
+    "stool land",
+    "title to land",
+    "privity",
+    "standing by",
+    "intervention in litigation",
+    "paramount stool",
+    "subordinate stool",
+    "land dispute",
+    "African customary law",
+    "equity",
+    "justice and common sense",
+    "executive decision",
+    "tribal land"
+  ],
+  "topics": [
+    "Land Law",
+    "Estoppel",
+    "Customary Law",
+    "Privy Council Appeals",
+    "Res Judicata"
+  ],
+  "verdict": "Appeal dismissed; the plaintiff stools are estopped from claiming title to the land due to prior litigation involving their subordinates.",
+  "winningSide": "Adansi Stool and Banka Stool",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lord Denning",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "Lord Tucker",
+      "role": "member"
+    },
+    {
+      "name": "Mr. L. M. D. de Silva",
+      "role": "member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Judicial Committee of the Privy Council",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "Wytcherley v. Andrews (1871) L.R. 2 P. & D. 328",
+    "Re Lart, Wilkinson v. Blades [1896] 2 Ch. 788",
+    "Farquharson v. Seton (1828) 5 Russ. 45; 38 E.R. 944",
+    "Yode Kwao v. Kwasi Coker (1931) 1 W.A.C.A. 162",
+    "Appoh Ababio v. Doku Kanga (1932) 1 W.A.C.A. 253",
+    "Akwei v. Cofie (1952) 14 W.A.C.A. 143",
+    "Angu v. Attah (1916) Judgments of Privy Council on Appeal from Gold Coast, 1874-1928, 43",
+    "Fiscian v. Tetteh (1956) 2 W.A.L.R. 192"
+  ],
+  "rationaleHighlights": [
+    "A person with an interest who knowingly stands by while another fights the same legal battle in their shared interest is bound by the outcome.",
+    "The principle of estoppel by conduct is based on justice and common sense and is applicable in African customary contexts even if not previously extended in English law.",
+    "The plaintiff stool (Akyem Abuakwa) failed to intervene in prior litigation where its subordinate (Muronam) litigated the same land title, thus is estopped from re-litigating.",
+    "Res judicata applies where a party is privy to prior proceedings, even if not formally a party.",
+    "Courts in West Africa have recognized that named parties often act as champions for broader interests in land disputes.",
+    "Allowing re-litigation would encourage perjury and the withholding of evidence.",
+    "Customary practices in West Africa support binding outcomes on non-parties who support and benefit from litigation outcomes.",
+    "The Privy Council affirmed the West African Court of Appeal’s application of equitable principles to local conditions."
+  ],
+  "confidenceNotes": "High confidence; the document is a reported judgment from the Judicial Committee of the Privy Council with clear holdings and citations.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/AKYEM ABUAKWA STOOL AND ANOTHER v. ADANSI STOOL AND ANOTHER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:17:34.720Z",
+    "plainTextLength": 17251
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "caseTitle": "KWAO v. RORO SERVICE (GH LTD.)",
+  "summary": "In Mawuli Kwao v. Roro Service (Gh.) Ltd., the plaintiff, a former seafarer, sued his employer for damages for personal injuries sustained aboard MV Kumasi in April 1991. He claimed he was injured during employment, paid medical expenses personally, and was later dismissed in 1996. The defendant argued the claim was statute-barred under the Limitation Decree, 1972 (N.R.C.D. 54), as the writ was issued in January 1998—over six years after the incident. The trial court dismissed the suit, and the Court of Appeal upheld the decision, finding no written acknowledgment of liability by the defendant as required under Section 17 of the Decree. The plaintiff's affidavits and letters showed repeated demands but no admission of fault or promise to compensate. The court rejected arguments of estoppel or equitable tolling, emphasizing strict compliance with statutory time limits. Thus, the appeal failed, and the plaintiff's claim was barred by law.",
+  "legalKeywords": [
+    "limitation period",
+    "personal injury claim",
+    "breach of contract",
+    "estoppel",
+    "acknowledgment of liability",
+    "statute-barred",
+    "seafarer rights",
+    "employment injury",
+    "affidavit evidence",
+    "written acknowledgment",
+    "civil procedure",
+    "compensation claim",
+    "burden of proof",
+    "ex turpi causa",
+    "maritime employment"
+  ],
+  "topics": [
+    "Employment Law",
+    "Personal Injury",
+    "Limitation Period",
+    "Civil Procedure",
+    "Maritime Law"
+  ],
+  "verdict": "The appeal was dismissed. The plaintiff's claim was found to be statute-barred under the Limitation Decree, 1972 (N.R.C.D. 54), and no valid acknowledgment of liability was proven. The decision of the trial court to dismiss the suit was upheld.",
+  "winningSide": "Defendant/Respondent (Roro Service (Gh.) Ltd.)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Benin, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Twumasi, J.A."
+    },
+    {
+      "name": "Farkye, J.A."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "MAWULI KWAO v. RORO SERVICE (GH LTD.) [26/10/2000] CA 98/99",
+    "LUBOUSKY V. SNELLING (1944) 1 K.B. 44, C.A.",
+    "FIAGA V. GHANA COCOA BOARD (1992) 2 G.L.R. 393",
+    "ROBERT V. MINISTER OF PENSIONS (1949) K.B. 227",
+    "Limitation Decree, 1972 (N.R.C.D. 54), sections 3(1) and 17"
+  ],
+  "rationaleHighlights": [
+    "The claim was dismissed as statute-barred under N.R.C.D. 54, Section 3(1), as the action was filed more than three years after the cause of action arose.",
+    "No valid acknowledgment of liability was made by the defendant in writing, as required under Section 17 of the Limitation Decree.",
+    "The plaintiff's letters showed persistent demands but no admission or assurance from the defendant to pay compensation.",
+    "Re-employment of the plaintiff did not constitute an estoppel or acknowledgment of liability.",
+    "The trial court's decision was upheld due to lack of legal basis to extend the limitation period."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from court judgment text. All key details including parties, dates, legal arguments, and outcome are explicitly stated in the source document.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/MAWULI KWAO v. RORO SERVICE (GH LTD.).htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:16:52.483Z",
+    "plainTextLength": 19289
+  },
+  "trialDate": "2000-10-26"
+}

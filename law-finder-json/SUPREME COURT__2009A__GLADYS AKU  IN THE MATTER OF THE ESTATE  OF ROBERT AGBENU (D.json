@@ -1,0 +1,81 @@
+{
+  "caseTitle": "GLADYS AKU IN THE MATTER OF THE ESTATE OF ROBERT AGBENU (D",
+  "summary": "The Supreme Court of Ghana allowed an appeal in a property dispute concerning the estate of Robert Agbenu, who died intestate in 1979. The plaintiff claimed co-ownership of a property with the defendant, his alleged sister, while the defendant asserted sole ownership based on a registered title document (Exhibit A). The trial court dismissed the plaintiff's claims, relying solely on the defendant's registered title, while the Court of Appeal reversed that decision without sufficiently evaluating the evidence. The Supreme Court found that both lower courts failed to properly assess the evidence as required by established precedents. It noted procedural irregularities, including the inclusion of an unrelated court judgment in the record. Due to the failure of both courts to make adequate factual findings and the resulting confusion, the Supreme Court set aside both judgments and ordered a retrial before a differently constituted Circuit Court.",
+  "legalKeywords": [
+    "intestate succession",
+    "land ownership",
+    "title registration",
+    "evidence evaluation",
+    "retrial",
+    "limitation decree",
+    "appellate review",
+    "burden of proof",
+    "property dispute",
+    "witness demeanor",
+    "civil procedure",
+    "decedent's estate"
+  ],
+  "topics": [
+    "Property Law",
+    "Succession",
+    "Appellate Procedure",
+    "Evidence",
+    "Land Registration"
+  ],
+  "verdict": "Appeal allowed; judgments of both lower courts set aside; case remitted for retrial",
+  "winningSide": "Appellant (Gladys Aku Agbenu)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "W. A. Atuguba",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "S.A.B. Akuffo",
+      "role": "Justice"
+    },
+    {
+      "name": "J. Ansa, "
+    },
+    {
+      "name": "R. C. Owusu",
+      "role": "Justice"
+    },
+    {
+      "name": "P. Baffoe-Bonnie",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Majolagbe v Larbi (1959) GLR 190",
+    "Quaye v Mariamu (1961) GLR 93 C.A.",
+    "Nti v Amina (1984-86) 2 GLR 13 C.A.",
+    "Bisi v Tabiri (1984-86) 2 GLR 282 C.A.",
+    "Appiah v Takyi (1982-83) GLR 1 C.A",
+    "George Mattouk v Ellie Massad (1941) 7 WACA 91",
+    "Kofi v Kumansah (1984-86) 1 GLR 116 C.A.",
+    "Codjoe v Kwatchey (supra)",
+    "Atsu v. The Republic (1968) GLR 716 C.A.",
+    "Khoury v Choitel (1964) GLR 100 SC"
+  ],
+  "rationaleHighlights": [
+    "Trial court erred by treating registered title as conclusive without evaluating conflicting evidence",
+    "Court of Appeal failed to adequately assess evidence despite trial court's error",
+    "Presence of unrelated judgment in record indicates serious procedural confusion",
+    "Neither lower court properly applied principles for evaluating factual evidence",
+    "Retrial ordered due to failure of both courts to make proper findings of fact"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official court judgment text. Some procedural irregularities noted in record compilation but core legal reasoning and outcome are clear.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/GLADYS AKU  IN THE MATTER OF THE ESTATE  OF ROBERT AGBENU (D.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:08:07.197Z",
+    "plainTextLength": 11174
+  },
+  "trialDate": "2009-06-17"
+}

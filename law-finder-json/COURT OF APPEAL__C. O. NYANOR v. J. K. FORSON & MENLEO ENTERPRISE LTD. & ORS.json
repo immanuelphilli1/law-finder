@@ -1,0 +1,79 @@
+{
+  "caseTitle": "NYANOR v. J. K. FORSON & MENLEO ENTERPRISE LTD. & ORS",
+  "summary": "This Court of Appeal decision in Ghana concerns an application for stay of execution pending appeal in a corporate liquidation matter involving Metal Factory (Bibiani) Limited. The appellant, C. O. Nyanor, had obtained a High Court judgment declaring his ownership of 5,500,000 shares and entitlement to asset distribution, but the 1st co-respondent, Menleo Enterprise Ltd., appealed, arguing that the share allotment was illegal and that related litigation (Misc. 687/98) was still pending. The Court of Appeal granted the stay, emphasizing that execution could render the appeal nugatory, especially since the legality of the share issuance—central to both cases—remained sub judice. The court noted procedural irregularities, including non-compliance with statutory requirements under the Companies Code, Act 179, and questioned the trial court’s declaration that co-respondents were misjoined, given their direct interest in the company's share structure.",
+  "legalKeywords": [
+    "stay of execution",
+    "corporate liquidation",
+    "shareholding dispute",
+    "Companies Code Act 179",
+    "Bodies Corporate Official Liquidation Act 180",
+    "pendency of suit",
+    "misjoinder",
+    "nugatory appeal",
+    "fraudulent settlement",
+    "statutory compliance",
+    "share allotment",
+    "appellate intervention",
+    "official liquidator",
+    "majority shareholder",
+    "asset distribution",
+    "procedural irregularity",
+    "sub judice matter",
+    "security for costs",
+    "judgment debtor",
+    "creditor rights"
+  ],
+  "topics": [
+    "Corporate Law",
+    "Insolvency and Liquidation",
+    "Appellate Procedure",
+    "Shareholder Rights",
+    "Judicial Remedies"
+  ],
+  "verdict": "Stay of execution granted",
+  "winningSide": "Applicant (Menleo Enterprise Ltd.)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "R.C. Owusu (Ms.)",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "R.T. Aninakwa",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal - Stay of Execution",
+  "citations": [
+    "Dzobo v. Agbebiewu (1991) 1 GLR 294 CA",
+    "Joseph v. Jebelle (1963) 1 GLR 387",
+    "Kwantreng v. Amisah (1962) 1 GLR 241 SC",
+    "Stool of Abinabina v. Enyimadu (1953) 12 WACA 171"
+  ],
+  "rationaleHighlights": [
+    "Execution would render appeal nugatory due to risk of irreversible asset distribution.",
+    "Serious legal questions exist regarding statutory compliance in share issuance under Act 179.",
+    "Pending suit (Misc. 687/98) directly challenges the validity of the share allotment.",
+    "Trial court erred in declaring co-respondents misjoined when their interests were directly affected.",
+    "Majority shareholder (Nyanor) stands to receive over 83% of assets based on contested shares.",
+    "Liquidator had invested company assets, minimizing risk of loss if stay is granted.",
+    "Court emphasized duty to preserve appellate rights where appeal raises arguable legal points.",
+    "Fraud allegations surrounding settlement terms in related litigation undermine finality."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from court document. All names, figures, legal references, and procedural details are explicitly stated in the judgment. Discrepancies in monetary figures (e.g., ₵5,500,00 vs ₵5,500,000) were reconciled using context and repetition in text.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/C. O. NYANOR v. J. K. FORSON & MENLEO ENTERPRISE LTD. & ORS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:41:34.125Z",
+    "plainTextLength": 13365
+  },
+  "trialDate": "2004-02-27"
+}

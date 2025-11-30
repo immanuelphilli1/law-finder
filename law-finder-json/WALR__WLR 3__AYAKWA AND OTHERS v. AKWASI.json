@@ -1,0 +1,59 @@
+{
+  "caseTitle": "AYAKWA AND OTHERS VERSUS AKWASI",
+  "summary": "In Ayakwa and Others v. Akwasi, the Supreme Court of Ghana's Ashanti Judicial Division held that the Governor-General's appointment of a Committee of Inquiry under section 13(1) of the State Councils (Ashanti) Ordinance, 1952, was ultra vires. The State Council had already conducted an inquiry into destoolment charges against Nana Akyeampong Akwasi II, Agonahene, and dismissed the case due to the complainants' lack of standing. Since the matter had been disposed of and was under appeal, it no longer met the conditions for the Governor-General's intervention under s.13(1), which requires that it be inexpedient, delayed, or beyond the Council's cognizance. The court granted writs of certiorari and prohibition, quashing the appointment and barring the Committee from proceeding.",
+  "legalKeywords": [
+    "certiorari",
+    "prohibition",
+    "ultra vires",
+    "State Council",
+    "Governor-General",
+    "Committee of Inquiry",
+    "destoolment",
+    "jurisdiction",
+    "constitutional matter",
+    "customary law",
+    "appeal",
+    "status to sue",
+    "inquiry procedure",
+    "Asanteman Council",
+    "ordinance interpretation"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Constitutional Law",
+    "Customary Law",
+    "Judicial Review",
+    "Ultra Vires"
+  ],
+  "verdict": "The applications for writs of certiorari and prohibition were granted; the Governor-General's appointment of the Committee of Inquiry was declared ultra vires and quashed.",
+  "winningSide": "Nana Akyeampong Akwasi II, Agonahene (respondent)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Smith J.",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana, Ashanti Judicial Division, Divisional Court, Kumasi",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Quansah v. Tagoe (1956) 2 W.A.L.R. 90",
+    "State Councils (Ashanti) Ordinance, c. 4 of 1952, s. 13(1)"
+  ],
+  "rationaleHighlights": [
+    "Section 13(1) applies only where a State Council has not inquired into a matter, cannot conclude without delay, or lacks cognizance.",
+    "State Council had already inquired and dismissed the case on grounds of complainants' lack of status.",
+    "Decision under appeal renders the matter not pending, thus precluding Governor-General's intervention.",
+    "Appointment of Committee was ultra vires as the conditions under s.13(1) were not met."
+  ],
+  "confidenceNotes": "High confidence; decision is clear and well-reasoned with direct statutory interpretation.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/AYAKWA AND OTHERS v. AKWASI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:11:18.970Z",
+    "plainTextLength": 7261
+  }
+}

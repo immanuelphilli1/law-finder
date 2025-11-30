@@ -1,0 +1,69 @@
+{
+  "caseTitle": "NANA KWEKU BOFA, V NANA KOFI KUM",
+  "summary": "This 1940 decision of the West Africa Court of Appeal dismissed an appeal for lack of jurisdiction. The appellant, Nana Kofi Kum, Ohene of Korase, sought to appeal a decision from the Chief Commissioner of Ashanti's Court but could not point to any statutory provision granting the Court of Appeal jurisdiction. Relying on section 8 of the West African Court of Appeal Ordinance (Cap. 5), which allows the court to entertain appeals 'on any terms which it thinks just,' the court held that this provision does not confer general appellate jurisdiction but is limited to cases where an appeal already lies under other statutory provisions. The court affirmed the preliminary objection, citing the unreported 1932 decision in Dovlo Kudiabor v. Hutohoke Kudanu, and dismissed the appeal with costs of £28 11s. 6d.",
+  "legalKeywords": [
+    "jurisdiction",
+    "preliminary objection",
+    "appeal",
+    "statutory interpretation",
+    "section 8",
+    "West African Court of Appeal Ordinance",
+    "customary law",
+    "stool land",
+    "Ohene",
+    "appellate authority",
+    "costs",
+    "dismissal",
+    "statutory enactment",
+    "Chief Commissioner's Court",
+    "Ashanti"
+  ],
+  "topics": [
+    "Appellate Jurisdiction",
+    "Statutory Interpretation",
+    "Customary Leadership Disputes",
+    "Legal Costs",
+    "Preliminary Objection"
+  ],
+  "verdict": "Appeal dismissed for lack of jurisdiction.",
+  "winningSide": "Plaintiff-Respondent",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Bannerman",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Dovlo Kudiabor v. Hutohoke Kudanu (unreported, 14th November 1932)",
+    "West African Court of Appeal Ordinance (Cap. 5), s 8"
+  ],
+  "rationaleHighlights": [
+    "Section 8 of the West African Court of Appeal Ordinance does not confer general appellate jurisdiction",
+    "Jurisdiction under s 8 is limited to appeals authorized by other statutory provisions",
+    "No express enactment granting jurisdiction to hear the appeal",
+    "Preliminary objection upheld for lack of jurisdiction",
+    "Appeal dismissed with costs"
+  ],
+  "confidenceNotes": "The case is clearly reported with judicial reasoning and citation to prior unreported authority; factual accuracy is high based on the official court format and structured judgment.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/NANA KWEKU BOFA, V NANA KOFI KUM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:02:23.599Z",
+    "plainTextLength": 3082
+  },
+  "trialDate": "1940-02-22"
+}

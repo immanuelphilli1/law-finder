@@ -1,0 +1,82 @@
+{
+  "caseTitle": "OWUSU KYENKYENHENE v. J. K. ADU",
+  "summary": "The Supreme Court of Ghana allowed an appeal challenging the Court of Appeal's affirmation of a High Court order that awarded the appellant GHS 8,000,000 as his share of jointly owned school assets without a prior professional valuation. The parties had co-owned the Minnesota International School under a partnership agreement requiring equal sharing of assets upon dissolution. The High Court had originally ordered a professional valuation by competent experts, but none was conducted. Instead, the court relied on an inventory and financial statements that did not constitute proper valuations. The Supreme Court found the monetary award arbitrary and capricious, lacking evidentiary support, and held that the Court of Appeal erred in failing to scrutinize the record. The case was remitted to the trial court for a professional valuation to ensure fair and equitable distribution of assets in accordance with the original court order.",
+  "legalKeywords": [
+    "partnership dissolution",
+    "asset valuation",
+    "joint ownership",
+    "winding up of partnership",
+    "professional valuation",
+    "equitable distribution",
+    "civil appeal",
+    "court supervision",
+    "liquidation",
+    "declaration of ownership",
+    "High Court order",
+    "Court of Appeal error",
+    "arbitrary award",
+    "unfettered discretion",
+    "open market value"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Civil Procedure",
+    "Partnership Law",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed; judgment of the Court of Appeal and High Court's award set aside; case remitted for professional valuation of assets.",
+  "winningSide": "Appellant (Owusu Kyenkyenhene)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adzoe, J.S.C.",
+      "role": "author of leading judgment"
+    },
+    {
+      "name": "Acquah, J.S.C.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "member"
+    },
+    {
+      "name": "Baddoo, J.S.C.",
+      "role": "concurring"
+    },
+    {
+      "name": "Dr. Twum, J.S.C.",
+      "role": "member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "CIVIL APPEAL NO. 16/2001",
+    "Order 63, rule 6 of the High Court (Civil Procedure Rules)",
+    "Act 125 of 1962",
+    "section 47(5) of Act 152"
+  ],
+  "rationaleHighlights": [
+    "No professional valuation was conducted as ordered by the High Court",
+    "The High Court's award of GHS 8,000,000 was arbitrary and capricious",
+    "Court of Appeal failed to critically examine the record",
+    "Remittal ordered for proper valuation by a professional valuer",
+    "Equal sharing of assets required per partnership agreement",
+    "Transparency and fairness in valuation emphasized",
+    "Inventory without valuation insufficient for distribution",
+    "Appellant barred from school by respondent in 1994"
+  ],
+  "confidenceNotes": "All information is directly extracted from the provided judgment text. Case citation and legal provisions are explicitly stated.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2003A/OWUSU KYENKYENHENE v. J. K. ADU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:36:02.268Z",
+    "plainTextLength": 30525
+  },
+  "trialDate": "5TH MARCH, 2003"
+}

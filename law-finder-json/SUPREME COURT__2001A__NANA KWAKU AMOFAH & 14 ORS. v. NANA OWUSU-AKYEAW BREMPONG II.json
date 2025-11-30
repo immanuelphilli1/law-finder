@@ -1,0 +1,80 @@
+{
+  "caseTitle": "NANA KWAKU AMOFAH & 14 ORS. v. NANA OWUSU-AKYEAW BREMPONG II",
+  "summary": "This Supreme Court of Ghana case involved an appeal against the destoolment of Nana Owusu-Akyeaw Brempong II as Omanhene of Atebubu by the National House of Chiefs, affirming the Brong-Ahafo Regional House of Chiefs' decision. The primary remaining charge was that the Respondent violated Atebubu custom by entering the Stool House of Atoobi Kofi during a 1987 festival, a taboo act warranting destoolment. The Supreme Court found that the lower tribunals erred in their factual analysis. The evidence was conflicting: the 7th Petitioner claimed the Respondent entered the house and assaulted the Adontenhene, but his own witnesses denied any struggle. The Respondent and his witnesses, including a police officer, denied entry into the house. The National House of Chiefs' conclusion—that entry into the house could lead to seeing the Stool if the room door was ajar—was speculative and not supported by evidence, especially since the Respondent held the keys. The Court held that the Petitioners failed to prove the charge by a preponderance of probabilities, a standard heightened by the severity of destoolment. Noting the absence of customary rites post-incident, the two-year delay in filing, and the 7th Petitioner's inconsistent conduct, the Supreme Court allowed the appeal, set aside the lower decisions, and reinstated the Respondent.",
+  "legalKeywords": [
+    "destoolment",
+    "customary law",
+    "burden of proof",
+    "preponderance of probabilities",
+    "evidence",
+    "taboo violation",
+    "appellate review",
+    "concurrent findings",
+    "misconduct",
+    "Omanhene",
+    "Stool House",
+    "tribunal error",
+    "festival customs",
+    "regional house of chiefs",
+    "national house of chiefs"
+  ],
+  "topics": [
+    "Customary Law",
+    "Judicial Review",
+    "Evidence",
+    "Appellate Procedure",
+    "Traditional Leadership"
+  ],
+  "verdict": "Appeal allowed; decisions of the National House of Chiefs and Brong-Ahafo Regional House of Chiefs set aside.",
+  "winningSide": "Respondent/Appellant (Nana Owusu-Akyeaw Brempong II)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Amiah, J.S.C.",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Ms. Akuffo, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Lamprey, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Adzoe, J.S.C.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Brempong II vrs. The Republic (1996-97) SC GLR 267 at 627",
+    "Achoro & Anor. vrs. Akanfela & Anor. ([1996-97] SC GLR 209)",
+    "Khoury vrs. Choitel (1964) GLR 100"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court found no credible evidence that the Respondent entered the Stool House or violated the taboo, despite concurrent findings by lower tribunals.",
+    "The National House of Chiefs' reasoning was deemed illogical, relying on a hypothetical scenario (ajar door) without factual basis.",
+    "The burden of proof under customary law required a preponderance of probabilities, which the Petitioners failed to meet.",
+    "The Court emphasized the seriousness of destoolment, warranting stricter evidentiary scrutiny.",
+    "Failure to perform customary rites after the alleged taboo breach raised doubts about the claim's validity.",
+    "The delay of nearly two years to report such a serious offense undermined the Petitioners' case.",
+    "The trial tribunal neglected to critically analyze conflicting testimonies, especially contradictions from the Petitioners' own witnesses.",
+    "The Respondent's evidence was credible and unchallenged on key points, yet improperly dismissed by lower tribunals."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy due to direct extraction from official Supreme Court judgment text and clear identification of legal standards and evidentiary analysis.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2001A/NANA KWAKU AMOFAH & 14 ORS. v. NANA OWUSU-AKYEAW BREMPONG II.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:43:01.872Z",
+    "plainTextLength": 14707
+  }
+}

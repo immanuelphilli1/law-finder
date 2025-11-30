@@ -1,0 +1,80 @@
+{
+  "caseTitle": "EXPRESS LTD. v. MOHAMMED ABDULAI & ANOR",
+  "summary": "The Court of Appeal allowed the appeal filed by City Express Ltd. against the judgment of the trial court in favor of Mohammed Abdulai and another respondent. The appellate court found that the trial judge committed fundamental procedural errors by determining the case through legal arguments without compliance with Order 30 Rule 5 and Order 25 of the High Court (Civil Procedure) Rules. The court held that the adjournment for 'further consideration' lacked basis, as no party had requested further directions. It further ruled that taking legal arguments without demonstrating their potential to dispose of the case and without the parties' consent was irregular. Additionally, the trial judge improperly considered factual matters not supported by evidence, including the respondents' ages and termination letters, and attempted to retrospectively regularize this by taking oral evidence during judgment. These actions rendered the judgment fundamentally flawed and a nullity. Consequently, the Court of Appeal set aside the ruling and ordered a retrial in accordance with the law.",
+  "legalKeywords": [
+    "appeal",
+    "procedural irregularity",
+    "legal arguments",
+    "evidence",
+    "retrial",
+    "fundamental defect",
+    "unauthorized procedure",
+    "extraneous matters",
+    "consent",
+    "pleadings",
+    "Order 30 Rule 5",
+    "Order 25",
+    "C.I. 19 Rule 8(8)",
+    "nullity",
+    "damages assessment",
+    "unlawful dismissal",
+    "trial procedure",
+    "adjournment",
+    "directions",
+    "record of proceedings",
+    "set aside judgment"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Appeal",
+    "Judicial Irregularity",
+    "Evidence",
+    "Retrial"
+  ],
+  "verdict": "Appeal allowed; judgment set aside due to procedural irregularities and improper assessment of damages.",
+  "winningSide": "City Express Ltd. (Appellant)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "N.S. GBADEGBE",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "P.K. TWUMASI",
+      "role": "presiding, concurring"
+    },
+    {
+      "name": "E.K. PEISARE",
+      "role": "concurring"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "CITY EXPRESS LTD. v. MOHAMMED ABDULAI & ANOR [21/01/04] CA. NO. 119/97",
+    "Order 30 Rule 5",
+    "Order 25",
+    "Rule 8(8) of C.I. 19"
+  ],
+  "rationaleHighlights": [
+    "The trial judge erred in determining the case through legal arguments without proper procedural basis.",
+    "No party requested further directions; thus, the adjournment for 'further consideration' was unjustified.",
+    "Legal arguments were taken without showing they could substantially dispose of the case under Order 25.",
+    "There was no consent from the parties to proceed by preliminary legal arguments.",
+    "The trial judge relied on facts not in evidence, such as ages and termination letters.",
+    "Attempt to retrospectively take evidence on ages was unauthorized and irregular.",
+    "Judgment is vitiated by reliance on extraneous, inadmissible material.",
+    "The entire proceeding from May 18 was set aside as fundamentally flawed."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text with clear citations and procedural details.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/CITY EXPRESS LTD. v. MOHAMMED ABDULAI & ANOR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:40:00.162Z",
+    "plainTextLength": 7470
+  },
+  "trialDate": "2004-01-21"
+}

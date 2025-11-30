@@ -1,0 +1,70 @@
+{
+  "caseTitle": "EDEM UMO EDEM AND ANOR",
+  "summary": "This 1940 West Africa Court of Appeal decision concerns a land dispute between Edem Umo Edem (and another) and Chief Oyo Edet over the boundary and use of land known as Ikot Nya Nya in Akpabuyo. The case was transferred from a Native Court to the High Court under the Native Courts Ordinance. The High Court ruled in favor of the plaintiffs, allowing them to farm and collect palm nuts. The defendant appealed, primarily arguing that the matter was res judicata due to prior judgments in 1921 and 1929. The Court of Appeal agreed with the defendant, holding that both the 1921 and 1929 judgments remained valid and established the boundary in favor of the defendant’s claim (marked by Okano trees), rendering the plaintiffs' current claim barred by res judicata. Thus, while no formal declaration of title was granted, the defendant's use of the disputed land must not be disturbed by the plaintiffs.",
+  "legalKeywords": [
+    "res judicata",
+    "land dispute",
+    "boundary determination",
+    "Native Court",
+    "High Court",
+    "West Africa Court of Appeal",
+    "title to land",
+    "adverse possession",
+    "judicial precedent",
+    "jurisdiction transfer",
+    "plea of laches",
+    "evidence scrutiny",
+    "inheritance rights",
+    "customary land law",
+    "judgment on record"
+  ],
+  "topics": [
+    "Property Law",
+    "Civil Procedure",
+    "Appellate Review"
+  ],
+  "verdict": "The appeal was allowed. The judgments of 1921 and 1929 were upheld as valid, and the plea of res judicata was accepted. The defendant's use of the disputed land must not be disturbed by the plaintiffs.",
+  "winningSide": "Defendant-Appellant (Chief Oyo Edet)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "Abakah Nthah vs. Anguah Bennieh (2 W.A.C.A. Reports)",
+    "Ekpo v. Ita (11 N.L.R. 68)"
+  ],
+  "rationaleHighlights": [
+    "The 1921 judgment determined the boundary in favor of the defendant’s claim (Okano trees), dismissing the plaintiff’s claim to title over the land in dispute.",
+    "The 1929 judgment also addressed the same land and recognized a boundary between Ikot Nya Nya and Ikot Nakanda, reinforcing the res judicata effect.",
+    "The High Court erred in ignoring the plea of res judicata, which was properly raised and supported by prior judgments.",
+    "A claim for rights 'incident to title' cannot succeed when a prior judgment has dismissed a claim to the same title against the same party.",
+    "The statutory power under the Native Courts Ordinance allowed the High Court to review transferred cases but did not override binding prior judgments.",
+    "The Native Court's assertion that earlier judgments were 'null and void' was legally incorrect and improperly accepted by the High Court.",
+    "Even without a formal declaration of ownership, the defendant’s possession and use of the land must be protected due to finality of prior decisions.",
+    "The appellate court emphasized that issues of boundary and title had already been litigated and decided, barring relitigation under res judicata."
+  ],
+  "confidenceNotes": "The source document appears truncated but contains sufficient reasoning and procedural history to determine the outcome and legal basis. The court clearly reverses the High Court based on res judicata. Jurisdiction is correctly identified as the West Africa Court of Appeal applying principles relevant to Gold Coast (Ghana), Nigeria, and Sierra Leone within the British colonial legal framework.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/EDEM UMO EDEM AND ANOR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:08:44.510Z",
+    "plainTextLength": 21230
+  },
+  "trialDate": "1940-10-30"
+}

@@ -1,0 +1,95 @@
+{
+  "caseTitle": "ASSEMBLIES OF GOD CHURCH, GHANA v REV. RANSFORD OBENG & OTHE",
+  "summary": "The Supreme Court of Ghana resolved a protracted ecclesiastical dispute between the Assemblies of God Church, Ghana (plaintiff) and Rev. Ransford Obeng & others (defendants), who led the Calvary Charismatic Centre (CCC) in seceding from the denomination in 1992. The core issue was ownership of church property following the unilateral cessation of affiliation. The plaintiffs sought declarations affirming their ownership of the CCC's properties, recovery of possession, and injunctions against interference. The High Court (2001) and Court of Appeal (2005) ruled in favor of the plaintiffs, affirming that church properties were held in trust by the national body under the church's constitution. The Supreme Court upheld these decisions, emphasizing that while individuals have the right to secede, property rights remain with the denominational body unless otherwise provided. A partial exception was recognized for Plot No. 12, Atimpongya, where joint investment created co-ownership between CCC and CCM. The judgment underscored the spiritual incongruity of litigation among religious leaders while affirming the legal supremacy of constitutional church governance.",
+  "legalKeywords": [
+    "church property dispute",
+    "denominational affiliation",
+    "cessation of membership",
+    "trust doctrine",
+    "religious autonomy",
+    "constitutional interpretation",
+    "secession",
+    "injunction",
+    "recovery of possession",
+    "order for accounts",
+    "declaratory relief",
+    "non-denominational movement",
+    "ecclesiastical governance",
+    "movable and immovable property",
+    "pastoral credentials"
+  ],
+  "topics": [
+    "Religious Law",
+    "Property Law",
+    "Trusts",
+    "Civil Litigation",
+    "Constitutional Interpretation"
+  ],
+  "verdict": "The appeal by the defendants was dismissed. The Supreme Court affirmed the lower courts' rulings in favor of the Assemblies of God Church, Ghana, upholding its ownership of the Calvary Charismatic Centre's properties, except for Plot No. 12, Atimpongya, which was recognized as jointly owned.",
+  "winningSide": "Assemblies of God Church, Ghana",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dotse, JSC",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "Dr. Date-Bah, JSC",
+      "role": "Presiding"
+    },
+    {
+      "name": "Adinyira (Mrs), JSC",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Owusu (Ms), JSC",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Anin Yeboah, JSC",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Lartey JSC",
+      "role": "Majority Opinion, Court of Appeal"
+    },
+    {
+      "name": "Twenboa-Kodua JA",
+      "role": "Majority Opinion, Court of Appeal"
+    },
+    {
+      "name": "Asare-Korang JA",
+      "role": "Dissenting, Court of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Mathew 16:24-25",
+    "St. Ignatius Loyola",
+    "Exhibit BB",
+    "Exhibit C",
+    "Exhibit C1",
+    "Exhibit C2",
+    "Court of Appeal Rules, 1997 C.I. 19, Rule 15"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court upheld that secession from a denomination does not automatically confer ownership of church property.",
+    "Church property is held in trust by the national body per the local church constitution.",
+    "The right to affiliate implies the right to disaffiliate in the absence of prohibitive constitutional provisions.",
+    "Joint development of property may create co-ownership rights.",
+    "The cessation of affiliation was valid, but did not transfer property rights.",
+    "The Court emphasized spiritual humility over litigation in ecclesiastical matters."
+  ],
+  "confidenceNotes": "The case details are drawn directly from the judgment text, with clear references to exhibits, constitutional provisions, and court rulings. The summary reflects undisputed facts and judicial reasoning as presented.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/ASSEMBLIES OF GOD CHURCH, GHANA v REV. RANSFORD OBENG & OTHE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:52:05.149Z",
+    "plainTextLength": 43559
+  },
+  "trialDate": "2009-07-04"
+}

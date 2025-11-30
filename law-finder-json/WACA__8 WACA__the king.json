@@ -1,0 +1,78 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This Privy Council appeal from the West African Court of Appeal concerned Dr. John Oni Akerele, a qualified medical practitioner in Nigeria, who was convicted of manslaughter and negligent administration of medicine following the death of a child, Kalu Ibe, after treatment for yaws using Sobita (sodium bismuth tartrate). The Assistant Judge at Umuahia convicted him on the manslaughter and negligent dispensing charges, sentencing him to three years’ hard labor and a fine. The West African Court of Appeal upheld the manslaughter conviction but quashed the sentence on the third charge and substituted a fine of £500. The Privy Council, on appeal, focused solely on whether the manslaughter conviction should be overturned. The Crown used evidence of nine other children's deaths to show a pattern and rebut claims of idiosyncratic reaction, which the Council found properly admitted to demonstrate that the case was not isolated. However, the Council ultimately allowed the appeal, setting aside the conviction due to insufficient evidence of criminal negligence beyond a reasonable doubt, emphasizing the high threshold for convicting a professional based on an adverse outcome.",
+  "legalKeywords": [
+    "manslaughter",
+    "criminal negligence",
+    "medical malpractice",
+    "evidence admissibility",
+    "overdose",
+    "Sobita",
+    "bismuth poisoning",
+    "yaws treatment",
+    "Privy Council appeal",
+    "standard of care",
+    "professional misconduct",
+    "corroborative evidence",
+    "idiosyncratic reaction",
+    "duty of care",
+    "burden of proof"
+  ],
+  "topics": [
+    "criminal law",
+    "medical law",
+    "appellate review",
+    "evidence law",
+    "professional liability"
+  ],
+  "verdict": "Appeal allowed; conviction for manslaughter set aside",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Lord Porter",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "Lord Thankerton"
+    },
+    {
+      "name": "Lord Russell of Killowen"
+    },
+    {
+      "name": "Lord Romer"
+    },
+    {
+      "name": "Sir George Rankin"
+    },
+    {
+      "name": "Sir Madhavan Nair"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Judicial Committee of the Privy Council",
+    "country": "United Kingdom (on appeal from Nigeria, West Africa)"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Privy Council Appeal No. 17 of 1942",
+    "Section 325 Criminal Code",
+    "Section 343(1)(e) Criminal Code",
+    "Section 343(1)(f) Criminal Code"
+  ],
+  "rationaleHighlights": [
+    "Evidence of other children's deaths was admissible to show the case was not an isolated incident due to idiosyncrasy.",
+    "No criminal negligence established despite adverse outcome.",
+    "High threshold for convicting medical professionals of manslaughter.",
+    "Conviction based on outcome alone insufficient without proof of gross deviation from standard of care.",
+    "Privy Council exercised caution in overturning professional misconduct convictions."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed Privy Council judgment text; some formatting and OCR issues in source document but key legal reasoning and outcome are clear and consistent.",
+  "metadata": {
+    "sourcePath": "WACA/8 WACA/the king.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:19:28.737Z",
+    "plainTextLength": 29355
+  },
+  "trialDate": "3RD JULY, 1942"
+}

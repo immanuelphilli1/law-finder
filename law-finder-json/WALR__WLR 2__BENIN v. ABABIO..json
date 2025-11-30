@@ -1,0 +1,71 @@
+{
+  "caseTitle": "BENIN VERSUS ABABIO.",
+  "summary": "The plaintiff, a purchaser of land sold in execution of a judgment debt, brought an action in the Land Court of the Supreme Court to recover possession. The defendant, a native, claimed the land was stool property and the sale was void under the Stool Property Protection Ordinance, c. 101 of 1951. The trial judge held the sale valid but referred the parties to a Native Court, finding the dispute was between natives over land possession. On appeal, the West African Court of Appeal held that while the referral to the Native Court was correct due to statutory ouster of Land Court jurisdiction under s.18(b) of the Courts Ordinance and s.35 of the Native Courts (Ashanti) Ordinance, the trial judge erred by adjudicating on the validity of the sale before referral. Such adjudication was declared a nullity. The appeal was allowed in part, with costs to be borne by each party.",
+  "legalKeywords": [
+    "jurisdiction",
+    "Native Court",
+    "Land Court",
+    "stool property",
+    "execution sale",
+    "Supreme Court",
+    "Stool Property Protection Ordinance",
+    "Courts Ordinance",
+    "Native Courts (Ashanti) Ordinance",
+    "certificate of purchase",
+    "customary land",
+    "dispute between natives",
+    "referral to Native Court",
+    "nullity of judgment",
+    "adjudication without jurisdiction"
+  ],
+  "topics": [
+    "land law",
+    "jurisdiction",
+    "customary law",
+    "execution of judgment",
+    "stool property"
+  ],
+  "verdict": "Appeal allowed in part: referral to Native Court upheld, but adjudication on sale validity set aside as nullity.",
+  "winningSide": "Defendant (on the issue of improper adjudication), but partial win as referral was upheld",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Korsah C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Verity Ag.JA",
+      "role": "Acting Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "Djabartey v. Antwi Awua (1938) 4 W.A.C.A. 202",
+    "Anima v. Ahyeye (1955) 1 W.A.L.R. 40, P.C."
+  ],
+  "rationaleHighlights": [
+    "Dispute over land possession between natives falls under Native Court jurisdiction",
+    "Land Court lacked jurisdiction under s.18(b) Courts Ordinance and s.35 Native Courts (Ashanti) Ordinance",
+    "Land Court erred by adjudicating on validity of sale before referral",
+    "Judgment on merits is a nullity when jurisdiction is ousted",
+    "Referral to Native Court was correct but should have been immediate",
+    "Certificate of purchase does not oust Native Court jurisdiction",
+    "Stool property protected from execution under s.4 Stool Property Protection Ordinance",
+    "Court must act immediately upon recognizing lack of jurisdiction"
+  ],
+  "confidenceNotes": "High confidence; case details are clearly stated with direct judicial reasoning and statutory references.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/BENIN v. ABABIO..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:40:19.227Z",
+    "plainTextLength": 8556
+  }
+}

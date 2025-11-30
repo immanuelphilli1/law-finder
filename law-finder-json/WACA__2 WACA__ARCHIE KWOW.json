@@ -1,0 +1,62 @@
+{
+  "caseTitle": "ARCHIE KWOW",
+  "summary": "This was an appeal from a decision of the Court of the Provincial Commissioner which had dismissed an appeal from a Native Tribunal on the grounds that the case was a money claim. The West Africa Court of Appeal held that the real issue in the dispute—whether the plaintiff was entitled to a two-thirds or one-third share of land rent—related to the ownership of land, thus falling within section 75 of the Native Administration Ordinance (Cap. 111). Therefore, an appeal to the Provincial Commissioner's Court was properly maintainable. The appeal was allowed, the case remitted for decision on its merits, and costs awarded to the appellant.",
+  "legalKeywords": [
+    "appeal",
+    "land ownership",
+    "rent sharing",
+    "native tribunal",
+    "provincial commissioner",
+    "section 75",
+    "Native Administration Ordinance",
+    "jurisdiction",
+    "real issue test",
+    "money claim"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Jurisdiction",
+    "Native Tribunals",
+    "Statutory Interpretation",
+    "Civil Procedure"
+  ],
+  "verdict": "Appeal allowed and case remitted to the Provincial Commissioner's Court for hearing on merits.",
+  "winningSide": "Appellant (Ohene Essien Eku II)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Yates, Acting C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "Graham Paul, J.",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Native Administration Ordinance (Cap. 111), s 75"
+  ],
+  "rationaleHighlights": [
+    "The real issue between parties determines jurisdiction, not the form of the suit.",
+    "Claim to share in land rent constitutes a matter relating to ownership of land under s 75.",
+    "Provincial Commissioner erred in treating the case as a mere money claim.",
+    "Appeal allowed and case remitted for hearing on merits."
+  ],
+  "confidenceNotes": "The document appears to be a digitized version of an original judgment; formatting issues present but key legal reasoning and outcome are clear.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/ARCHIE KWOW.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:32:54.792Z",
+    "plainTextLength": 3340
+  },
+  "trialDate": "1934-11-20"
+}

@@ -1,0 +1,82 @@
+{
+  "caseTitle": "TSATSU TSIKATA v THE REPUBLIC 234",
+  "summary": "This is a criminal appeal before the Supreme Court of Ghana concerning Professor Tsatsu Tsikata, who was charged with three counts of wilfully causing financial loss to the state under section 179A(3)(a) of the Criminal Code, 1960 (Act 29), and one count of misapplying public property under SMCD 140. The appeal arose after the Court of Appeal upheld the High Court's rejection of a no-case-to-answer submission. The appellant argued that applying section 179A(3)(a)—enacted in 1993—to acts in 1991 violated Article 19(5) of the 1992 Constitution prohibiting retroactive criminal liability. The Supreme Court clarified that the criminal liability could only arise from the 1996 payments made under a 1991 guarantee agreement, not the signing of the agreement itself, thus avoiding retroactivity concerns. The Court emphasized that while the contractual obligation was valid, its execution could still be criminally liable if done recklessly or unlawfully. It also held that Article 19(11) requires offences to be defined by written law, not academic sources, and remitted the matter for trial to determine whether prima facie evidence of misconduct existed.",
+  "legalKeywords": [
+    "retroactive criminal liability",
+    "constitutional interpretation",
+    "prima facie evidence",
+    "no case submission",
+    "criminal appeal",
+    "public property misapplication",
+    "financial loss to the state",
+    "guarantee agreement",
+    "prosecutorial discretion",
+    "corporate criminal liability",
+    "rule of law",
+    "separation of powers",
+    "due process",
+    "legal certainty",
+    "statutory interpretation"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Criminal Law",
+    "Appellate Procedure",
+    "Public Finance",
+    "Judicial Interpretation"
+  ],
+  "verdict": "Appeal dismissed; matter remitted for trial on the merits to determine if prima facie case exists under section 179A(3)(a) of the Criminal Code.",
+  "winningSide": "The Republic (State)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Prof. T. M. Ocran",
+      "role": "Presiding Judge authoring judgment"
+    },
+    {
+      "name": "W. A. Atuguba",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "S. A. B. Akuffo",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "G. T. Wood",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "S. A. Brobbey",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Article 19(5), Constitution of Ghana, 1992",
+    "Article 19(11), Constitution of Ghana, 1992",
+    "Section 179A(3)(a), Criminal Code, 1960 (Act 29)",
+    "Section 1(2), Public Property Protection Decree, 1977 (SMCD 140)",
+    "Section 9(1)(a), Public Tribunals Law, 1984 (PNDCL 78)",
+    "Section 3, Act 458",
+    "Act 459"
+  ],
+  "rationaleHighlights": [
+    "The Court of Appeal did not rely on a repealed law to deny constitutional protection under Article 19(5).",
+    "There is no intrinsic inseparability between the 1991 guarantee agreement and the 1996 payments; the latter may form the basis of criminal liability if unlawful.",
+    "The prosecution must show factors making the 1996 payments unlawful under section 179A(3)(a), such as recklessness or lack of professional care.",
+    "Article 19(11) requires offences to be defined by written law, not textbooks or dictionaries.",
+    "The validity of a contract does not immunize its execution from criminal liability if done in violation of statutory duties."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official Supreme Court judgment text. All legal provisions and constitutional articles are explicitly cited in the document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2004A/TSATSU TSIKATA  v   THE REPUBLIC 234.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:32:12.895Z",
+    "plainTextLength": 134078
+  },
+  "trialDate": "2003-04-02"
+}

@@ -1,0 +1,71 @@
+{
+  "caseTitle": "JUSTUS OLAYEMI OSOSAMI v THE COMMISSIONER OF POLICE",
+  "summary": "In this criminal appeal before the West African Court of Appeal, the appellant challenged the validity of proceedings conducted on a public holiday, arguing that the Magistrate lacked jurisdiction, rendering the trial void. The court acknowledged that a public holiday is a dies non juridicus and that judicial proceedings should not be held on such days. However, it noted that the Magistrate sat at the express request of the defense to hear a witness who might not have been available later, and that the defense was fully heard. The court found no prejudice to the appellant and no substantial miscarriage of justice, especially since the irregularity benefited the defense. Applying the proviso to section 11 of the West African Court of Appeal Ordinance, the court dismissed the appeal, affirming that technical irregularities do not invalidate proceedings where justice has been substantially served.",
+  "legalKeywords": [
+    "public holiday",
+    "dies non juridicus",
+    "jurisdiction",
+    "miscarriage of justice",
+    "proviso",
+    "criminal appeal",
+    "Magistrate's Court",
+    "Supreme Court",
+    "witness testimony",
+    "proceedings nullity",
+    "criminal procedure",
+    "appellant in person",
+    "Crown Counsel",
+    "adjournment",
+    "legal irregularity"
+  ],
+  "topics": [
+    "Criminal Procedure",
+    "Jurisdiction",
+    "Appeals",
+    "Public Holidays",
+    "Miscarriage of Justice"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent (The Commissioner of Police)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Verity, C.J.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Jibowu, Ag. S.P.J.",
+      "role": "Judge"
+    },
+    {
+      "name": "Coussey, J.",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "West African Court of Appeal Ordinance, s 11 and proviso"
+  ],
+  "rationaleHighlights": [
+    "A public holiday is a dies non juridicus; courts should not sit on such days.",
+    "Proceedings held on a public holiday at the request of the defence do not amount to a miscarriage of justice.",
+    "Irregularity did not prejudice the appellant; the defense benefited from the hearing.",
+    "The proviso to section 11 allows dismissal of appeal if no substantial miscarriage of justice occurred.",
+    "Magistrate acted in the interests of justice by hearing a key defense witness.",
+    "Appellant's witness was heard and credited, yet conviction followed.",
+    "No jurisdictional bar should invalidate proceedings where defense consents and benefits.",
+    "Court prioritizes substantial justice over technical irregularities."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/JUSTUS OLAYEMI  OSOSAMI  v  THE COMMISSIONER OF POLICE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:38:47.613Z",
+    "plainTextLength": 5375
+  },
+  "trialDate": "1952-02-05"
+}

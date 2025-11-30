@@ -1,0 +1,80 @@
+{
+  "caseTitle": "EX PARTE DR KOFI ASARE AND BABA JAMAL MOHAMMED AHMED M",
+  "summary": "This Supreme Court of Ghana ruling addressed an application by Dr. Kofi Asare and Baba Jamal Mohammed Ahmed for a writ of certiorari to quash a High Court decision that allowed an election petition to proceed before the declaration and gazettal of parliamentary election results. The applicants argued the High Court lacked jurisdiction because the petition was premature under Article 99 and the Representation of the People Law, 1992 (PNDCL 284). The Court held that an election petition requires a declared result to identify 'the person whose election is questioned,' rendering the High Court action invalid as an election petition. However, it affirmed that courts, particularly the Supreme Court, retain jurisdiction to enforce constitutional rights during the electoral process, citing precedents like New Patriotic Party v. NDC. The ruling clarified that while election petitions must await results, constitutional enforcement actions can proceed earlier.",
+  "legalKeywords": [
+    "election petition",
+    "jurisdiction",
+    "constitutional supremacy",
+    "Electoral Commission",
+    "certiorari",
+    "corrupt practice",
+    "declaration of results",
+    "gazettal",
+    "judicial review",
+    "premature petition",
+    "Representation of the People Law",
+    "article 99",
+    "section 18 PNDCL 284",
+    "High Court jurisdiction",
+    "constitutional enforcement"
+  ],
+  "topics": [
+    "Election Law",
+    "Constitutional Law",
+    "Judicial Review",
+    "Jurisdiction",
+    "Electoral Petition"
+  ],
+  "verdict": "The application for certiorari was allowed in part; the High Court's ruling was quashed on grounds of lack of jurisdiction over a premature election petition.",
+  "winningSide": "Applicants (Dr. Kofi Asare and Baba Jamal Mohammed Ahmed)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Atuguba, JSC",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ansa, JSC",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Owusu (Ms), JSC",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Dotse, JSC",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Baffoe-Bonnie, JSC",
+      "role": "Panel Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Republic vs. High Court Judge, Sunyani, Ex parte Alhaji Collins Dauda CM J5/12/2009",
+    "New Patriotic Party vs. National Democratic Congress and Others [2000] SCGLR 461",
+    "Nyame v Mensah (1980) GLR 338",
+    "Ekwam v. Pianim (No.2) (1996-97) SCGLR 120",
+    "Apaloo v Electoral Commission of Ghana (2001-2002) SCGLR 1"
+  ],
+  "rationaleHighlights": [
+    "An election petition cannot be filed before results are declared, as 'the person whose election is questioned' must first be identified.",
+    "Courts retain jurisdiction to enforce constitutional rights even before election results are declared.",
+    "Section 50 of PNDCL 284 does not override the requirement for results to be declared before an election petition is valid.",
+    "The Supreme Court has original jurisdiction to enforce constitutional provisions under articles 2(1)(b) and 130(1)(a).",
+    "Obiter dictum in Hawa Yakubu case is per incuriam to the extent it ignores the requirement of a declared election."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the ruling with clear judicial reasoning and citations.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/EX PARTE DR KOFI ASARE AND   BABA JAMAL MOHAMMED AHMED   M.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:09:45.936Z",
+    "plainTextLength": 118755
+  },
+  "trialDate": "2009-05-23"
+}

@@ -1,0 +1,70 @@
+{
+  "caseTitle": "DICKSON EJUKOLEM v INSPECTOR-GENERAL OF POLICE",
+  "summary": "The appellant, Dickson Ejukelem, was convicted by a Magistrate on two counts of unlawful possession of metalliferous minerals under section 430(1) of the Criminal Code. After the defence closed its case, the Magistrate called three additional prosecution witnesses, which contributed to the conviction. On appeal to the Supreme Court, the conviction was set aside due to improper admission of evidence and misdirection on the onus of proof. However, the Judge ordered a re-trial on the first count. The West African Court of Appeal held that while the appeal was rightly allowed, ordering a re-trial was erroneous and unfair, as it allowed the prosecution a second chance to use improperly admitted evidence. Additionally, the Judge was under a misapprehension regarding the quality of the tin involved, which undermined the basis for re-trial. The order for re-trial was quashed, and an acquittal was entered.",
+  "legalKeywords": [
+    "unlawful possession",
+    "metalliferous minerals",
+    "Criminal Code section 430(1)",
+    "Magistrate's Courts Appeals Ordinance",
+    "additional evidence after defence",
+    "onus of proof",
+    "re-trial",
+    "acquittal",
+    "misdirection in law",
+    "prosecution misconduct",
+    "fair trial",
+    "appellate jurisdiction",
+    "suo motu witness calling",
+    "evidentiary error",
+    "double jeopardy concerns"
+  ],
+  "topics": [
+    "Criminal Procedure",
+    "Appellate Review",
+    "Judicial Misconduct",
+    "Evidence Law",
+    "Fair Trial Rights"
+  ],
+  "verdict": "acquitted",
+  "winningSide": "appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Jibowu",
+      "role": "Ag. S.P.J., Nigeria"
+    },
+    {
+      "name": "De Comarmond",
+      "role": "Ag. C.J., Nigeria"
+    },
+    {
+      "name": "Johnston",
+      "role": "J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal appeal",
+  "citations": [
+    "Asuquo Edem and others v. R., 9 W.A.C.A. 25",
+    "Nelson Ohanyere, W.A.C.A. No. 3033 (5th October, 1949)",
+    "Horvat v. Police, 20 N.L.R. 52"
+  ],
+  "rationaleHighlights": [
+    "The Magistrate improperly called additional witnesses after the defence closed to strengthen the prosecution's case.",
+    "The proper course upon identifying insufficient evidence was acquittal, not calling new witnesses.",
+    "Ordering a re-trial allowed the prosecution to reuse improperly admitted evidence, violating fair trial principles.",
+    "The trial judge was under a factual misapprehension about the grade of tin, undermining the re-trial justification.",
+    "The Crown Counsel did not support the re-trial order, indicating lack of prosecutorial justification."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text, including names, legal provisions, procedural history, and reasoning. Jurisdiction is inferred as Ghana due to source context (GHANA LAW FINDER) and case citation format, though the court operated regionally.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/DICKSON EJUKOLEM  v  INSPECTOR-GENERAL OF POLICE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:44:01.972Z",
+    "plainTextLength": 7481
+  },
+  "trialDate": "1952-08-18"
+}

@@ -1,0 +1,64 @@
+{
+  "caseTitle": "AKOSUA KORAN v BAFOUR KOFI DOKYI",
+  "summary": "This West African Court of Appeal decision from 1941 concerned a civil action by Akosua Koran, a member of the Ekuona Family of Kukurantumi, challenging the sale of family land under a writ of fieri facias (Fi. Fa.) to satisfy the personal debt of Jacob Reynolds Danso. The Native Tribunal of the Paramount Chief of Akyem Abuakwa ruled that the property was not liable for sale as the debt was purely personal and not incurred on behalf of the family. The Provincial Commissioner's Court upheld this decision. On appeal, the defendants argued that only the Head of Family could initiate such an action. However, the Court found that under Akyem Abuakwa customary law, the plaintiff—though not the head—was entitled to sue, especially given her direct interest, advanced age, and verbal authorization from the occupant of the Ekoona Stool. The Court affirmed the tribunal's authority in interpreting native custom and dismissed the appeal with costs, recognizing that family members other than the head may litigate when empowered by custom or family authority.",
+  "legalKeywords": [
+    "family property",
+    "customary law",
+    "private debt",
+    "Fi. Fa. sale",
+    "head of family",
+    "native tribunal",
+    "recovery of possession",
+    "acquiescence",
+    "verbal authorization",
+    "elderly female plaintiff"
+  ],
+  "topics": [
+    "Customary Law",
+    "Family Property",
+    "Civil Procedure",
+    "Land Rights",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed with costs assessed at £21 19s 0d.",
+  "winningSide": "Plaintiff-Respondent (Akosua Koran and the Ekuona Family)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Graham Paul, C.J., Sierra Leone",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Alfa Mahmudu v. Zenuah (2 W.A.C.A. 175)"
+  ],
+  "rationaleHighlights": [
+    "Family property cannot be sold for individual debts under customary law",
+    "Plaintiff had verbal authorization from family stool occupant to sue",
+    "Non-head family members may sue if custom permits",
+    "Tribunal's interpretation of custom upheld by higher court",
+    "No acquiescence found despite time lapse",
+    "Act of purchaser deemed exploitative under local justice principles"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy due to clear judicial reasoning and citation of precedent.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/AKOSUA KORAN v BAFOUR KOFI DOKYI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:37:19.789Z",
+    "plainTextLength": 8326
+  },
+  "trialDate": "1941-05-29"
+}

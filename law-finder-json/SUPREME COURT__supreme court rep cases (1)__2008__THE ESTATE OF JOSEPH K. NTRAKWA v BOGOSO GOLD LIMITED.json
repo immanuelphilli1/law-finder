@@ -1,0 +1,70 @@
+{
+  "caseTitle": "THE ESTATE OF JOSEPH K. NTRAKWA v BOGOSO GOLD LIMITED",
+  "summary": "This civil appeal before the Supreme Court of Ghana involves Bogoso Gold Limited challenging a Court of Appeal decision that upheld a High Court judgment awarding damages to the Estate of Joseph K. Ntrakwa. The core legal issue is whether a High Court judgment can be reviewed by a different High Court judge when the original presiding judge has been transferred, making review by the same judge impossible. The appellant argues that the review process was improperly conducted. The case engages fundamental principles of civil procedure, judicial continuity, and the finality of judgments. The Supreme Court is tasked with determining the proper interpretation of procedural rules regarding post-judgment review in such circumstances.",
+  "legalKeywords": [
+    "appeal",
+    "judgment review",
+    "High Court",
+    "Court of Appeal",
+    "damages assessment",
+    "judicial transfer",
+    "civil procedure",
+    "estate litigation",
+    "executrix",
+    "property rights"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Judicial Review",
+    "Civil Litigation",
+    "High Court Jurisdiction",
+    "Judicial Transfer"
+  ],
+  "verdict": "Judgment reserved or not contained in the provided (truncated) document.",
+  "winningSide": "Not determined from the provided text due to truncation.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Mrs. Wood",
+      "role": "Chief Justice (Presiding)"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Aninakwah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Mrs. Adinyira",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Asiamah",
+      "role": "Justice delivering judgment"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "CIVIL APPEAL NO. J4/16/2007"
+  ],
+  "rationaleHighlights": [
+    "Appellant challenges the Court of Appeal's upholding of a High Court decision subject to review after judge's transfer.",
+    "Issue centers on whether a judgment by a High Court judge can be reviewed by another judge upon transfer.",
+    "Procedural fairness and continuity in judicial process under scrutiny.",
+    "Principles of judicial finality versus corrective justice in appellate review considered."
+  ],
+  "confidenceNotes": "The document appears to be truncated; analysis is based on available portions with focus on metadata and initial judgment text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2008/THE ESTATE OF JOSEPH K. NTRAKWA v BOGOSO GOLD LIMITED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:51:43.541Z",
+    "plainTextLength": 19024
+  },
+  "trialDate": "2007-04-16"
+}

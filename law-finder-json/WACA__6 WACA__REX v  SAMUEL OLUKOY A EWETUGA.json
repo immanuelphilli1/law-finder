@@ -1,0 +1,77 @@
+{
+  "caseTitle": "REX v SAMUEL OLUKOY A EWETUGA",
+  "summary": "The appellants, Samuel Olukoya Ewetuga and Fasasi Alli, were charged with multiple counts of fraudulent false accounting under s. 438(b) of the Criminal Code and stealing under s. 390, relating to petrol allocations in Ijebu Ode. During trial, the prosecution amended six counts from alleging 'making a false entry' to 'omitting an entry' in log books, reclassifying them under s. 438(c). The West Africa Court of Appeal held that these amendments altered the substance of the charges rather than correcting a defect, prejudicing the appellants and violating s. 92(2) of the Criminal Procedure Ordinance. Relying on R. v. Hughes, the court quashed the convictions on counts 1, 7, and 11 for fraudulent false accounting. The court further found the stealing convictions on counts 3, 8, and 12 unsafe due to the trial judge's failure to record reasons or findings of fact, rendering them unsustainable. The appeal was allowed, and all convictions were set aside.",
+  "legalKeywords": [
+    "fraudulent false accounting",
+    "amendment of information",
+    "alteration of substance",
+    "omission to make entry",
+    "prejudice to accused",
+    "criminal procedure",
+    "Criminal Code",
+    "Criminal Procedure Ordinance",
+    "appellate review",
+    "conviction quashed",
+    "intent to defraud",
+    "stealing",
+    "defective charge",
+    "summary trial",
+    "hard labour"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Legal Amendment",
+    "Fraud",
+    "Theft"
+  ],
+  "verdict": "Convictions quashed on all counts due to improper amendment of charges and lack of reasoned findings for stealing convictions.",
+  "winningSide": "Appellants",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Appellate Judge"
+    },
+    {
+      "name": "Graham Paul, C.J., Sierra Leone",
+      "role": "Appellate Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Hughes, 20 Cr. App. Rep. 4",
+    "Criminal Code, s. 438(b)",
+    "Criminal Code, s. 438(c)",
+    "Criminal Code, s. 390",
+    "Criminal Procedure Ordinance, s. 84(3)",
+    "Criminal Procedure Ordinance, s. 92(2)",
+    "Indictments Act, 1915, s. 5(1)"
+  ],
+  "rationaleHighlights": [
+    "Amendments changed the substance of charges from making false entries to omitting entries, constituting a substantive alteration, not a mere correction of defect.",
+    "Amendments made during trial prejudiced the appellants, violating fair trial rights.",
+    "Convictions under s. 438(c) quashed as court exceeded power under s. 92(2) of Criminal Procedure Ordinance.",
+    "No evidence recorded by trial judge to support stealing convictions, rendering them unsafe.",
+    "Question raised on whether s. 7 or s. 8 of Criminal Code applies to omissions by another person to make entries.",
+    "R. v. Hughes applied as binding precedent on improper amendment altering charge substance.",
+    "Trial judge failed to provide findings of fact or reasoning for stealing convictions.",
+    "Appellate court declined to assess sufficiency of evidence on quashed counts due to fundamental procedural error."
+  ],
+  "confidenceNotes": "High confidence; source is a full appellate judgment with clear reasoning and cited authorities.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/REX v  SAMUEL OLUKOY A EWETUGA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:58:15.034Z",
+    "plainTextLength": 15566
+  },
+  "trialDate": "1940-04-27"
+}

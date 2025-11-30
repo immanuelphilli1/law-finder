@@ -1,0 +1,71 @@
+{
+  "caseTitle": "KEWALRAM CHELLARAM VERSUS T. GHANSHAM ...",
+  "summary": "This 1936 West African Court of Appeal decision arose from a case stated by the Chief Justice of Sierra Leone, referring a question of law regarding the applicability of the Bills of Sale Act, 1878, as a statute of general application in the colony. The central issue before the appellate court was whether the lower court had the authority under Section 4 of the West African Court of Appeal (Civil Cases) Ordinance, 1929, to refer a question of law without first delivering a judgment or decision. The majority, led by Chief Justice Kingdon, held that the trial judge had unfettered discretion to refer a legal question at any stage of proceedings, emphasizing procedural flexibility and judicial economy. Justice Yates concurred, stressing that the referral was valid because the legal question would finally determine the dispute. In dissent, Justice Macquarrie argued that Section 4 required the lower court to issue a decision subject to appeal, and that a mere reservation without judgment was procedurally invalid, especially where the Court's opinion would not conclusively resolve the case. The Court ultimately decided it had jurisdiction to hear the matter.",
+  "legalKeywords": [
+    "case stated",
+    "question of law",
+    "section 4",
+    "West African Court of Appeal",
+    "Bills of Sale Act",
+    "statute of general application",
+    "jurisdiction",
+    "finality of decision",
+    "trial procedure",
+    "judicial discretion",
+    "colonial ordinance",
+    "civil appeal",
+    "reserved question",
+    "judgment subject to opinion",
+    "Supreme Court of Sierra Leone"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Statutory Interpretation",
+    "Colonial Law",
+    "Civil Litigation",
+    "Judicial Powers"
+  ],
+  "verdict": "The Court ruled that the case stated is properly before it and will proceed to hear further argument on the legal question.",
+  "winningSide": "Plaintiffs (procedural victory on jurisdiction to hear the case)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, President of the Court"
+    },
+    {
+      "name": "Yates",
+      "role": "Justice"
+    },
+    {
+      "name": "Macquarrie",
+      "role": "Justice, dissenting"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "West African Court of Appeal (Civil Cases) Ordinance, 1929 (No. 9 of 1929)",
+    "Bills of Sale Act, 1878"
+  ],
+  "rationaleHighlights": [
+    "Section 4 allows a trial judge to reserve a question of law at any stage of proceedings",
+    "A case stated must present a question that will finally dispose of the issue between parties",
+    "The dissent argues that a judgment or decision must be given before referring a case",
+    "The majority holds that the discretion under section 4 is unfettered",
+    "Finality and avoidance of future litigation are key purposes of a case stated",
+    "The form of 'case stated' implies a full statement of issues and facts",
+    "The Court has power to hear the case if the legal question is dispositive"
+  ],
+  "confidenceNotes": "The case centers on statutory interpretation of colonial-era legislation; the dissent raises procedural concerns about case-stating under the Ordinance.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/KEWALRAM CHELLARAM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:21:26.569Z",
+    "plainTextLength": 9655
+  },
+  "trialDate": "1936-03-27"
+}

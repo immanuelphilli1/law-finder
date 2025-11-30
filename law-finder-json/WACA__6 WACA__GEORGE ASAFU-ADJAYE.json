@@ -1,0 +1,63 @@
+{
+  "caseTitle": "GEORGE ASAFU-ADJAYE",
+  "summary": "This was an appeal before the West Africa Court of Appeal concerning a claim for commission on cash sales by George Asafu-Adjaye, the plaintiff-appellant, against John Holt & Company (Liverpool) Limited. The appellant argued he was entitled to commission on all cash sales from the company's wholesale store upon Store Requisition Orders, based on Clause 13 of the agreement. The Court held that the agreement only entitled him to commission on cash sales made by him with the express approval of the company's agent, which he failed to prove except for one transaction already compensated. Additionally, the Court found that by signing the commission account as correct on 30th September 1938, the appellant had accepted its accuracy and could not later dispute the calculation, except for a minor correction of 10s. 10d. versus 4s. 1d. The appeal was dismissed with costs of £23 15s. 6d. The Court emphasized the importance of trial judges recording findings of fact and reasons for decisions, even briefly, to aid appellate review.",
+  "legalKeywords": [
+    "commission",
+    "contract interpretation",
+    "cash sales",
+    "agent approval",
+    "contractual entitlement",
+    "findings of fact",
+    "appellate review",
+    "waiver",
+    "account settlement",
+    "oral judgment"
+  ],
+  "topics": [
+    "Contract Law",
+    "Agency",
+    "Appellate Procedure",
+    "Estoppel",
+    "Commercial Law"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Defendants-Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WACA/6 WACA/GEORGE ASAFU-ADJAYE"
+  ],
+  "rationaleHighlights": [
+    "The plaintiff failed to prove any cash sales made with the agent's approval beyond one already credited.",
+    "Clause 13 does not entitle commission on all cash sales, only those made with the agent's approval.",
+    "The plaintiff signed the commission account as correct, estopping him from later disputing its basis.",
+    "The trial judge failed to record findings of fact, complicating appellate review.",
+    "The appeal was dismissed due to lack of evidence and prior acceptance of account."
+  ],
+  "confidenceNotes": "The case is clearly documented with a formal judgment from the West Africa Court of Appeal, with no ambiguity in procedural history or outcome.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/GEORGE ASAFU-ADJAYE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:06:46.038Z",
+    "plainTextLength": 3492
+  },
+  "trialDate": "1940-11-14"
+}

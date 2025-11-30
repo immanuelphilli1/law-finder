@@ -1,0 +1,70 @@
+{
+  "caseTitle": "SAANBAYE BASILDE KANGBEREE VRS ALHAJI SEIDU MOHAMED 2",
+  "summary": "This is a land dispute case heard by the Supreme Court of Ghana on appeal from a Court of Appeal judgment that reversed a High Court decision. The plaintiff, Saanbaye Basilde Kangberee, claimed ownership of a 0.15-hectare parcel of land in South Ofankor, registered under Land Title Certificate No. G.A. 17008, and sought declarations of title and trespass, recovery of possession, demolition of structures, and injunctive relief. The defendant, Alhaji Seidu Mohamed, counterclaimed ownership based on a purchase from Mr. and Mrs. Marcus and alleged the plaintiff’s land fell within a road reservation. The High Court initially ruled for the defendant, relying partly on the surveyor C.W.1’s testimony that the plaintiff’s land was in a road and did not match the occupied plot. However, the Court of Appeal reversed this, finding C.W.1’s evidence unreliable and incoherent, and upheld the plaintiff’s title. The Supreme Court affirmed the Court of Appeal’s decision, holding that the plaintiff’s registered title was prima facie proof of ownership, the defendant failed to prove superior title, and the surveyor’s testimony was too inconsistent to rely upon. The appeal was dismissed, and the plaintiff’s claims were upheld.",
+  "legalKeywords": [
+    "land title",
+    "trespass",
+    "priority of title",
+    "indefeasibility of title",
+    "survey plan",
+    "counterclaim",
+    "recovery of possession",
+    "perpetual injunction",
+    "damages",
+    "evidence reliability"
+  ],
+  "topics": [
+    "property law",
+    "land registration",
+    "evidence",
+    "appellate review",
+    "injunction"
+  ],
+  "verdict": "The Supreme Court dismissed the defendant's appeal and affirmed the Court of Appeal's judgment in favor of the plaintiff.",
+  "winningSide": "plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dotse, JSC",
+      "role": "author of judgment"
+    },
+    {
+      "name": "Dr. Date-Bah JSC",
+      "role": "presiding"
+    },
+    {
+      "name": "Ansa, JSC",
+      "role": "member"
+    },
+    {
+      "name": "Baffoe-Bonnie, JSC",
+      "role": "member"
+    },
+    {
+      "name": "Akoto-Bamfo, (Mrs) JSC",
+      "role": "member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "G.A. 17008",
+    "No.J4/44/2012"
+  ],
+  "rationaleHighlights": [
+    "The Court of Appeal correctly rejected the unreliable and incoherent testimony of the court-appointed surveyor (C.W.1).",
+    "The plaintiff's Land Title Certificate No. G.A. 17008 constitutes prima facie evidence of ownership.",
+    "The defendant failed to prove a valid title through his vendors, whose interest in the land was not established.",
+    "The Supreme Court upheld the Court of Appeal’s reversal of the High Court’s judgment."
+  ],
+  "confidenceNotes": "High confidence due to detailed court record and clear procedural history.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/SAANBAYE BASILDE KANGBEREE VRS ALHAJI SEIDU MOHAMED 2.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:21:38.419Z",
+    "plainTextLength": 40374
+  }
+}

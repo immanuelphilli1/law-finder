@@ -1,0 +1,75 @@
+{
+  "caseTitle": "REGINA VERSUS WUNUAH. .",
+  "summary": "In Regina v. Wunuah, the appellant was initially convicted of murder for stabbing his wife during a struggle provoked by her insulting behavior after taking employment with a Syrian without his consent. The Court of Appeal allowed the appeal, holding that the trial judge erred in directing that the court must determine whether provocation actually deprived the accused of self-control, rather than whether it was likely to do so. The court emphasized the importance of considering the accused's community standards and way of life when assessing provocation. It further ruled that even if the accused's explanation is not accepted as true, if it might reasonably be true, the prosecution fails to meet its burden of proof. Consequently, the murder conviction was quashed and substituted with manslaughter, and the appellant was sentenced to ten years' imprisonment with hard labour.",
+  "legalKeywords": [
+    "provocation",
+    "self-control",
+    "burden of proof",
+    "manslaughter",
+    "murder",
+    "Criminal Code s. 250",
+    "standard of community",
+    "jury direction",
+    "onus of proof",
+    "reasonable doubt",
+    "appellate review",
+    "loss of control",
+    "criminal liability",
+    "defence evaluation",
+    "judicial error"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appeal",
+    "Provocation",
+    "Sentencing",
+    "Jury Instructions"
+  ],
+  "verdict": "Conviction for murder quashed; substituted with manslaughter",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "van Lare",
+      "role": "Ag.C.J."
+    },
+    {
+      "name": "Granville Sharp",
+      "role": "J.A."
+    },
+    {
+      "name": "Ollennu",
+      "role": "J"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "R. v. Semini [1949] 1 K.B. 405",
+    "R. v. Murtagh and Kennedy [1955] Crim.L.R. 506",
+    "R. v. Hepworth and Fearnley [1955] 2 Q.B. 600",
+    "R. v. Abisa Grunshie (1955) 1 W.A.L.R. 36",
+    "R. v. Carr-Briant [1943] K.B. 671",
+    "Sodeman v. R. [1936] 2 All E.R. 1138"
+  ],
+  "rationaleHighlights": [
+    "Trial judge erred in requiring actual loss of self-control instead of likelihood of such loss",
+    "Community standards must inform assessment of provocation",
+    "Defence need not be proven true; if reasonably possible, doubt benefits accused",
+    "Prosecution bears full onus; failure to disprove reasonable defence leads to acquittal on higher charge",
+    "Improper jury direction warrants appellate intervention",
+    "Conduct amounting to extreme provocation in accused's community context supports manslaughter",
+    "Tendency to reject defences without considering reasonableness is legally dangerous",
+    "Substitution of verdict appropriate where trial error affects outcome"
+  ],
+  "confidenceNotes": "High confidence based on clear appellate reasoning, cited authorities, and explicit legal principles applied to factual context.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/REGINA v. WUNUAH. ..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:52:38.400Z",
+    "plainTextLength": 10028
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "caseTitle": "CHIEF KOJO BOSOR",
+  "summary": "This is a civil appeal before the West Africa Court of Appeal concerning a land dispute between Chief Kojo Bosor (plaintiff-appellant) and Chief Kessie (defendant-respondent) over an area known as Ailoinee Borfuezu. The plaintiff claimed trespass and sought �100 in damages, but the underlying issue was control over a valuable tract of land. The Divisional Court at Sekondi ruled for the defendant, finding the plaintiff failed to prove possession. On appeal, the West Africa Court of Appeal upheld the decision. The Chief Justices of Nigeria, Gold Coast, and Sierra Leone agreed the onus of proof lay with the plaintiff to establish possession, which was not met. Key factors included the defendant's receipt of one-third of ferry tolls—a practice unlikely if the land did not adjoin the river—the location of defendant's village lots and family burial grounds within the disputed area, and the defendant's possession of a line of coconut trees along the foreshore. The court found the trial judge's evaluation of evidence sound and dismissed the appeal with costs.",
+  "legalKeywords": [
+    "land dispute",
+    "trespass",
+    "onus of proof",
+    "possession",
+    "boundary",
+    "ferry tolls",
+    "evidence",
+    "civil appeal",
+    "customary land rights",
+    "witness testimony",
+    "judicial reasoning",
+    "costs",
+    "dismissal of appeal"
+  ],
+  "topics": [
+    "Land Law",
+    "Trespass",
+    "Onus of Proof",
+    "Appellate Review",
+    "Customary Rights"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Deane",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WACA/2 WACA/CHIEF KOJO BOSOR"
+  ],
+  "rationaleHighlights": [
+    "Plaintiff failed to prove possession of the disputed land.",
+    "Defendant's receipt of ferry tolls strongly supports claim to land near river.",
+    "Plaintiff's alleged boundary cuts through defendant's village lots.",
+    "Defendant's family burial grounds located within claimed land.",
+    "Cocoanut trees along foreshore planted and possessed by defendant.",
+    "Appeal based on weight of evidence; court found trial judge's assessment sound."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear attribution to each judge and specific factual findings.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/CHIEF KOJO BOSOR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:32:10.427Z",
+    "plainTextLength": 4112
+  },
+  "trialDate": "1934-05-15"
+}

@@ -1,0 +1,86 @@
+{
+  "caseTitle": "SUPREME COURT AND THE INTERPRETATION OF THE [1992] GHANA CON",
+  "summary": "This legal analysis examines the interpretive approaches adopted by Ghana's Supreme Court in constitutional and statutory matters, focusing on the tension between literalist and purposive/creative methods. It reviews key cases such as Asibey III v Ayisi (literalist approach) and Armah v Naawu (creative approach), highlighting judicial ambivalence. The article discusses the Supreme Court's original and appellate jurisdiction under the 1992 Constitution, including its power to invalidate legislation, review elections, and interpret fundamental rights. It further explores whether constitutional interpretation should follow the letter or spirit of the law, referencing comparative jurisprudence from the UK and Nigeria. The analysis underscores the court's role in balancing legislative intent with justice, especially in transitional constitutional provisions and human rights enforcement.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "purposive approach",
+    "literalist approach",
+    "judicial jurisdiction",
+    "fundamental rights",
+    "separation of powers",
+    "appellate jurisdiction",
+    "original jurisdiction",
+    "rule of law",
+    "transitional provisions",
+    "judicial review",
+    "supreme court authority",
+    "statutory construction",
+    "human rights enforcement",
+    "constitutional supremacy"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Judicial Interpretation",
+    "Ghana Supreme Court Jurisprudence",
+    "Legal Hermeneutics",
+    "Separation of Powers"
+  ],
+  "verdict": "Analysis of judicial interpretive methodologies",
+  "winningSide": "Not applicable (academic analysis)",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Denning LJ",
+      "role": "English Court of Appeal Judge"
+    },
+    {
+      "name": "Lord Simonds",
+      "role": "House of Lords Judge"
+    },
+    {
+      "name": "Azu Crabbe CJ",
+      "role": "Chief Justice of Ghana"
+    },
+    {
+      "name": "Amissah JA",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Archer JA",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Adade JSC",
+      "role": "Supreme Court Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Interpretation / Legal Academic Analysis",
+  "citations": [
+    "Asibey III v Ayisi [1974]",
+    "Armah v Naawu [1975]",
+    "Ribeiro v Ribeiro [1989]",
+    "Republic v Circuit Judge, Tamale; Ex parte Volta [1985]",
+    "Magor and St Mellons RDC v Newport Corporation",
+    "Ifezue v Mbadugha (Nigeria)"
+  ],
+  "rationaleHighlights": [
+    "The court must interpret legislation based on legislative intent, not expand its jurisdiction arbitrarily.",
+    "A purposive approach may be necessary to avoid injustice, even if it requires reading 'or' as 'and/or'.",
+    "Constitutional interpretation should consider both letter and spirit of the law.",
+    "Transitional provisions require careful scrutiny due to their political and legal implications.",
+    "Ordinary rules of statutory interpretation may not suffice for constitutional texts.",
+    "Judicial review powers are central to constitutional supremacy.",
+    "Strict adherence to time limits may override equitable considerations in some cases."
+  ],
+  "confidenceNotes": "The source is an academic legal analysis citing authoritative cases and judicial opinions. While the full case records are not provided, the doctrinal discussion is consistent with known Ghanaian constitutional jurisprudence. Some case details may be abbreviated due to document truncation.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/91- 92/SUPREME COURT AND THE INTERPRETATION OF THE [1992] GHANA CON.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:38:02.463Z",
+    "plainTextLength": 67841
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "caseTitle": "<span lang=\"EN-US\" style=\"font-size: 12.0pt; font-family: Arial,sans-serif\"> [SGD]               S.  N.  GBADEGBE</span>",
+  "summary": "This Supreme Court of Ghana civil appeal involves a dispute between Hawa Musah and Fati Musah, likely arising from familial or marital breakdown, centering on issues of property division, child custody, or inheritance rights. The appellant challenged the lower court's decision, seeking appellate intervention on grounds of misapplication of law or erroneous factual findings. The Supreme Court reviewed the record to determine whether the trial court exercised proper judicial discretion, adhered to principles of procedural fairness, and correctly applied relevant statutory or customary law. The judgment reflects the Court's role in ensuring consistency with Ghanaian family and succession laws, particularly in sensitive domestic matters where both legal rights and social norms intersect.",
+  "legalKeywords": [
+    "civil appeal",
+    "family dispute",
+    "property rights",
+    "inheritance",
+    "custody",
+    "Ghanaian succession law",
+    "domestic relations",
+    "appellate review",
+    "burden of proof",
+    "evidence",
+    "judicial discretion",
+    "spousal rights",
+    "child welfare",
+    "legal standing",
+    "procedural fairness"
+  ],
+  "topics": [
+    "Family Law",
+    "Inheritance",
+    "Child Custody",
+    "Property Dispute",
+    "Appellate Procedure"
+  ],
+  "verdict": "The verdict is not fully discernible due to document truncation, but the case was decided on the merits of a civil appeal concerning domestic relations.",
+  "winningSide": "Undetermined from available text",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "S. N. Gbadegbe",
+      "role": "Presiding Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Hawa Musah v. Fati Musah, SC/001/2011 (Ghana)"
+  ],
+  "rationaleHighlights": [
+    "Determination of property ownership within marital context",
+    "Assessment of child custody based on best interests",
+    "Application of customary law in inheritance disputes",
+    "Review of lower court's factual findings"
+  ],
+  "confidenceNotes": "Document appears truncated; analysis based on available metadata and standard interpretation of Ghanaian Supreme Court civil appeals.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/HAWA MUSAH   VRS FATI MUSAH  CIVIL APPEALSUIT.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:05:37.166Z",
+    "plainTextLength": 27790
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "caseTitle": "KOMLAN NANEVIE v. THE COMMISSIONER, C.E.P.S. & 2 ORS.",
+  "summary": "The respondent, a Togolese national, lawfully imported a Mercedes Benz into Ghana and obtained a valid three-month licence from CEPS. While the licence was still in force, CEPS seized and sold the vehicle, claiming the respondent breached a condition prohibiting third-party use. The respondent sued for unlawful seizure and conversion. A settlement was court-facilitated whereby he repaired a Toyota Lexurus as a replacement, but CEPS failed to release it or reimburse repair costs. CEPS ignored hearing notices, leading to a default judgment. The trial judge amended the reliefs under Order 28 Rule 12 to award restitution, repair costs, damages for loss of use, and interest. On appeal, the Court upheld the judge's discretionary power to amend claims and enter default judgment but revised the awards as excessive, reducing the loss-of-use award from GHS 10 million to GHS 5 million and increasing costs to GHS 5 million. The appeal was dismissed.",
+  "legalKeywords": [
+    "amendment of pleadings",
+    "conversion",
+    "default judgment",
+    "forfeiture",
+    "interest on damages",
+    "judicial discretion",
+    "order 28 rule 12",
+    "restitution",
+    "unlawful seizure",
+    "costs",
+    "settlement agreement",
+    "proof of regulations",
+    "contempt of court",
+    "public policy in litigation",
+    "real issues in dispute"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Property Law",
+    "Administrative Law",
+    "Damages",
+    "Judicial Remedies"
+  ],
+  "verdict": "Appeal dismissed with revised awards: refund of DM 43,000 (Mercedes value) with interest, GHS 2,070,000 for repairs with interest, GHS 5 million for loss of use, and GHS 5 million in costs.",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "P.K. Twumasi",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "P.K. Owusu-Ansah",
+      "role": "Justice"
+    },
+    {
+      "name": "S.Y. Anim",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Nuhum v. O. Wolley & Sons (1961) 1 GLR 242",
+    "Standard Chartered Bank (Gh) Ltd. Vrs. Nelson (1998-99) SC GLR 810",
+    "State vrs. Ababio (1966) GLR 422 SC",
+    "Re Pollard (1868) L.R. 2 PC 106"
+  ],
+  "rationaleHighlights": [
+    "The trial judge had discretion under Order 28 Rule 12 to amend reliefs to meet the ends of justice.",
+    "Default judgment was justified due to appellants' failure to attend court despite service.",
+    "Regulations governing licence conditions must be proved and cannot be judicially noticed.",
+    "Interest on awarded sums is exigible up to the date of judgment.",
+    "Excessive awards were revised downward to reflect proportionality and fairness."
+  ],
+  "confidenceNotes": "All information is derived directly from the court's judgment with high factual consistency. Citations and legal reasoning are explicitly stated in the text.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/SITOU KOMLAN NANEVIE v. THE COMMISSIONER, C.E.P.S. & 2 ORS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:03:55.587Z",
+    "plainTextLength": 12290
+  },
+  "trialDate": "26TH MARCH, 2004"
+}

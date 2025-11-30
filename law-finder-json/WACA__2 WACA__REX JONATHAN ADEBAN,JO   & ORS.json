@@ -1,0 +1,87 @@
+{
+  "caseTitle": "REX JONATHAN ADEBAN,JO & ORS",
+  "summary": "This 1935 West Africa Court of Appeal decision from Lagos (applicable to Ghana under the colonial legal framework) overturned the convictions of eleven appellants, including a former Awujale (Theophilus Adenuga Tunwashe), who were found guilty of conspiracy to kill, incitement to kill, attempting to procure juju for murder, and failing to prevent a crime targeting the reigning Awujale of Ijebu Ode, Daniel Adesanya. The appeal centered on a critical procedural error: the prosecution, after the defense had closed its case, was permitted to call Yesufu Idumota Adebanjo—a co-accused in a related assassination attempt and a known hostile witness—as a Crown witness. The appellate court, citing principles from Rex v. Harris, ruled this violated the principles of fair trial. The appellants were denied the opportunity to rebut the new evidence or recall witnesses, constituting a denial of justice. Although the trial judge was presumed to direct himself correctly on the law, the failure to allow a right of reply after introducing significant new evidence rendered the convictions unsafe. The historical context involved a power struggle following the deposition of the 11th appellant as Awujale in 1929 and the contentious installation of his successor in 1933, creating a climate of factional intrigue. The court quashed all convictions, emphasizing the paramount importance of procedural fairness, even in cases involving serious crimes.",
+  "legalKeywords": [
+    "conspiracy to kill",
+    "unlawful incitement",
+    "attempt to procure juju medicine",
+    "failure to prevent crime",
+    "hostile witness",
+    "corroboration",
+    "trial fairness",
+    "judicial discretion",
+    "appeal grounds",
+    "Criminal Code sections 324, 513, 515",
+    "due process",
+    "prima facie case",
+    "accomplice testimony",
+    "evidence admissibility",
+    "conviction quashed",
+    "presumption of judicial correctness",
+    "right to reply",
+    "fair trial",
+    "political succession",
+    "traditional leadership",
+    "factional conflict",
+    "colonial legal system",
+    "West African customary law",
+    "governor's authority",
+    "banishment",
+    "restoration of chief",
+    "attempted assassination",
+    "public order",
+    "witness intimidation",
+    "false informers"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Fair Trial",
+    "Evidence Law",
+    "Traditional Leadership"
+  ],
+  "verdict": "Convictions quashed on appeal due to procedural unfairness in the admission of late evidence from a hostile witness without opportunity for rebuttal.",
+  "winningSide": "Appellants",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Cor. Butler-Lloyd",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Aitken",
+      "role": "Justice"
+    },
+    {
+      "name": "Barton",
+      "role": "Justice"
+    },
+    {
+      "name": "Brooke",
+      "role": "High Court Judge (trial judge)"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v. Harris (1927) 2 K.B. p. 587"
+  ],
+  "rationaleHighlights": [
+    "Convictions quashed due to procedural unfairness in calling a previously uncalled, hostile co-accused as a Crown witness after the defense had closed, violating fair trial rights.",
+    "The trial judge failed to provide the accused with an opportunity to rebut new evidence from the late-called witness, undermining the right to a full defense.",
+    "The appellate court emphasized that while a judge may call a witness, doing so after the defense has closed without allowing rebuttal is fundamentally unjust.",
+    "The variation in wording between the charge and the Criminal Code (s. 513) for incitement was noted but not the primary ground for quashing the conviction.",
+    "The political and social context of chieftaincy rivalry and latent opposition following the deposition of a former Awujale was critical background to the alleged conspiracy."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial record and explicit procedural history.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/REX JONATHAN ADEBAN,JO   & ORS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:20:44.898Z",
+    "plainTextLength": 46450
+  },
+  "trialDate": "1935-05-27"
+}

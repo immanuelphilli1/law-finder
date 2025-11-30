@@ -1,0 +1,87 @@
+{
+  "caseTitle": "ELLIS TAMAKLOE v THE REPUBLIC",
+  "summary": "Ellis Tamakloe appealed his conviction and 10-year sentence for attempted exportation and possession of 695g of Cannabis Sativa without lawful authority under PNDCL 236. The Supreme Court of Ghana upheld the conviction, finding that circumstantial evidence—including the appellant's admission of receiving and handing over the parcel, his handwritten details on the airway bill, and failure to correct the sender's address—supported an irresistible inference of guilt. The court held that physical and constructive possession was proven, and knowledge of the drug's nature could be inferred from the appellant's conduct. The appeal was dismissed as the trial and appellate courts correctly applied the law on circumstantial evidence, particularly the principle that guilt must follow necessarily from established facts, as affirmed in The State v Anani Fiadzo.",
+  "legalKeywords": [
+    "circumstantial evidence",
+    "possession of narcotics",
+    "attempted exportation",
+    "mens rea",
+    "constructive possession",
+    "narcotic drugs control",
+    "proof beyond reasonable doubt",
+    "inference of guilt",
+    "criminal appeal",
+    "appellant conviction",
+    "airway bill",
+    "DHL parcel",
+    "Cannabis Sativa",
+    "PNDCL 236",
+    "evidence decree"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Narcotics Offences",
+    "Circumstantial Evidence",
+    "Appellate Review",
+    "Possession"
+  ],
+  "verdict": "Appeal dismissed; conviction and 10-year sentence upheld.",
+  "winningSide": "The Republic",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Ansa, JSC",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "Atuguba, JSC",
+      "role": "Presiding"
+    },
+    {
+      "name": "Adinyira (Mrs), JSC",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Baffoe-Bonnie, JSC",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Aryeetey, JSC",
+      "role": "Member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "The State v Anani Fiadzo [1961] 1 GLR 416-419",
+    "Duah v The Republic [1987-88] 1 GLR 343-360",
+    "Logan v The Republic [2007-2008]",
+    "Bonsu alias Benjilo v The Republic [2000] SCGLR 112",
+    "Republic v Munkaila [1996-97] SCGLR 445",
+    "Warner v Metropolitan Police Commissioner [1969] 2 A.C.",
+    "R v Smith Dearsley and PCC 494",
+    "R v Gleed (1917) 12 CR App. R. 32a",
+    "Archbold Criminal Pleading, Evidence and Practice (36th ed.)"
+  ],
+  "rationaleHighlights": [
+    "Conviction upheld based on circumstantial evidence linking appellant to parcel via handwriting and admission of possession.",
+    "Appellant's failure to correct sender details raised inference of knowledge and intent.",
+    "Constructive possession established through control over parcel and act of handing it to courier.",
+    "Guilt inferred irresistibly from facts, satisfying test in Anani Fiadzo case.",
+    "No direct evidence required; mens rea deduced from conduct and circumstances.",
+    "Trial and appellate courts correctly applied law on circumstantial evidence.",
+    "Signature and handwriting on airway bill formed critical nexus between appellant and parcel.",
+    "Appellant's explanation deemed unreasonable given suspicious circumstances."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct quotations from the judgment and consistent legal reasoning across cited authorities.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/ELLIS TAMAKLOE v THE REPUBLIC.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:49:17.321Z",
+    "plainTextLength": 38286
+  },
+  "trialDate": "2010-02-17"
+}

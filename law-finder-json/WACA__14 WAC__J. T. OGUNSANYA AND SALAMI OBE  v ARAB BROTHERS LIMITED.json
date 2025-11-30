@@ -1,0 +1,63 @@
+{
+  "caseTitle": "J. T. OGUNSANYA AND SALAMI OBE v ARAB BROTHERS LIMITED",
+  "summary": "In J.T. Ogunsanya and Salami Obe v Arab Brothers Limited, the West Africa Court of Appeal held that landlords could not lawfully evict tenants and demolish premises without a court order, even when complying with a Town Council abatement notice under the Townships Ordinance. Despite the premises being declared dangerous and subject to demolition, the Increase of Rent (Restriction) Ordinance (Cap. 93) required landlords to obtain a court order for ejectment. The court found the landlords liable for trespass, emphasizing that statutory protections for tenants override common law rights. Although the tenants failed to prove special damages, the court awarded 20 shillings in general damages to each appellant, recognizing a legal wrong. The appeal was allowed, and judgment was entered for the plaintiffs with costs.",
+  "legalKeywords": [
+    "trespass",
+    "eviction",
+    "court order",
+    "Increase of Rent (Restriction) Ordinance",
+    "abatement notice",
+    "landlord and tenant",
+    "dangerous building",
+    "statutory compliance",
+    "tenant rights",
+    "Rent Restrictions Legislation"
+  ],
+  "topics": [
+    "Landlord and Tenant Law",
+    "Trespass to Property",
+    "Statutory Interpretation",
+    "Housing Regulation",
+    "Judicial Remedies"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey, J.A.",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Foster-Sutton, P.",
+      "role": "Panel member"
+    },
+    {
+      "name": "De Comarmond, Ag. C.J. (Nigeria)",
+      "role": "Panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal, Nigeria",
+    "country": "Ghana (applicable law context)"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Smith v. Poulter, 1947, 1 K.B. 339"
+  ],
+  "rationaleHighlights": [
+    "The Increase of Rent (Restriction) Ordinance restricts landlords' common law right to evict without court order.",
+    "An abatement notice does not override the requirement for judicial authorization before eviction.",
+    "Landlords must apply to court for possession even when complying with public authority demolition orders.",
+    "The proviso in Schedule II (g) allows courts to impose conditions for tenant re-entry after compliance.",
+    "The court emphasized strict legislative compliance to protect tenant rights, even in unsafe buildings."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text. Jurisdiction reflects the court's location (Nigeria) but the legal principles apply to Ghanaian law context as per source domain.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/J. T. OGUNSANYA AND SALAMI OBE  v ARAB BROTHERS LIMITED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:40:25.576Z",
+    "plainTextLength": 12233
+  },
+  "trialDate": "1952-06-02"
+}

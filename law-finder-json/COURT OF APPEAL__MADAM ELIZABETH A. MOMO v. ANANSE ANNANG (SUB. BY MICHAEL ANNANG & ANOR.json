@@ -1,0 +1,84 @@
+{
+  "caseTitle": "ELIZABETH A. MOMO v. ANANSE ANNANG (SUB. BY MICHAEL",
+  "summary": "This Court of Appeal case in Ghana involved a land dispute between Madam Elizabeth A. Momo (appellant) and Ananse Annang (respondent, substituted by Michael Annang and another). Both parties claimed ownership of the same land through their late grandfathers. The appellant sought a declaration of title, damages for trespass, and a perpetual injunction, but failed to properly describe the land in her pleadings, relying instead on an attached plan. She claimed a prior arbitration had awarded the land to her family, but failed to prove the essential elements of a valid arbitration, including voluntary submission and agreement to be bound. The court found no credible evidence of such arbitration. Additionally, the appellant did not call boundary witnesses, and her survey plan did not match the physical land she claimed. Her documentary evidence (Exh B) indicated a leasehold grant inconsistent with her claim of customary inheritance. The court upheld the trial judge's dismissal of her claim, affirming that the respondents had established possessory title through undisturbed possession since 1965, with the disputed land falling within their claimed area. The respondents were granted a declaration of title, minimal damages for trespass, and a permanent injunction, except against those already in possession through the appellant.",
+  "legalKeywords": [
+    "arbitration",
+    "burden of proof",
+    "customary law",
+    "declaration of title",
+    "evidence",
+    "estoppel",
+    "injunction",
+    "laches",
+    "land dispute",
+    "ownership",
+    "perpetual injunction",
+    "possession",
+    "root of title",
+    "survey plan",
+    "trespass",
+    "undisturbed possession",
+    "usufructuary title",
+    "boundary evidence",
+    "acquiescence",
+    "counterclaim"
+  ],
+  "topics": [
+    "Land Law",
+    "Arbitration",
+    "Evidence",
+    "Customary Succession",
+    "Trespass"
+  ],
+  "verdict": "Appeal dismissed. Respondents awarded declaration of possessory title, minimal damages for trespass, and permanent injunction.",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Mrs. Wood, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Farkye, J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Omari-Sasu, J.A.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "Budu V Caesar 1959 GLR 410",
+    "Donkor vrs Issifu 1963 GLR 418",
+    "Nyaasemhwe V Affibiyesan 1977 1 GLR 27",
+    "Sulia vr Glavee 1991 1 GLR 194",
+    "Kwaw v Awortwi 1989-90 1GLR 190 CA",
+    "Kwabena V Atuahene 1981 GLR 136",
+    "Nyikplokpor v Agbodo for 1987-1988 1 GLR 165",
+    "Yomervu v Awutu 1987 – 1988 1 GLR 9",
+    "Badu v Agbi 1972 2 GLR 238 CA",
+    "Bruce v Quarnor 1959 GLR"
+  ],
+  "rationaleHighlights": [
+    "No valid arbitration proved due to lack of voluntary submission or agreement to be bound",
+    "Appellant failed to prove root of title or clearly define land boundaries",
+    "Survey plan (Exh CE1) contradicted physical identification of land",
+    "Document (Exh B) inconsistent with pleaded customary inheritance",
+    "Respondents entitled to possessory title based on undisturbed possession since 1965",
+    "Damages for trespass minimal but warranted",
+    "Trial judge correct in dismissing appellant's claim"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and multiple legal citations. Some truncation in source text, but key holdings and evidence assessments are preserved.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/MADAM ELIZABETH A. MOMO v. ANANSE ANNANG (SUB. BY MICHAEL ANNANG & ANOR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:17:42.037Z",
+    "plainTextLength": 15476
+  },
+  "trialDate": "2002-05-09"
+}

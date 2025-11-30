@@ -1,0 +1,91 @@
+{
+  "caseTitle": "DAASEBRE NANA OSEI BONSU II ALIASSWALD GYIMAH-KESSIE] v AKW",
+  "summary": "This Supreme Court of Ghana judgment arises from a defamation suit initiated by Daasebre Nana Osei Bonsu II (Mamponghene) against Akwasi Mensah, Ben Ephson, The Daily Dispatch, and Allied News Limited over a 2003 article titled \"Mamponghene in 264 million cedis fraud.\" The High Court initially dismissed the claim, but the Court of Appeal reversed, awarding damages. The Supreme Court considered whether the defence of fair comment applied. It held that the article constituted fair comment on a matter of public interest, given the plaintiff's status as a traditional leader and the pending petition before the Asantehene. The Court found no malice and ruled that the appellants merely reported facts from the petition without exaggeration. It also determined that the procedural error in naming the court in the notice of appeal did not invalidate the appeal. Consequently, the Supreme Court allowed the appeal, set aside the Court of Appeal’s judgment, and restored the High Court’s dismissal.",
+  "legalKeywords": [
+    "defamation",
+    "fair comment",
+    "qualified privilege",
+    "public interest",
+    "malice",
+    "pleading",
+    "rolled-up plea",
+    "customary arbitration",
+    "injunction",
+    "damages",
+    "libel",
+    "statement of defence",
+    "trial court",
+    "Court of Appeal",
+    "Supreme Court",
+    "Asantehene",
+    "Mamponghene",
+    "petition",
+    "truth as defence",
+    "judicial correction"
+  ],
+  "topics": [
+    "Defamation Law",
+    "Freedom of Expression",
+    "Customary Law",
+    "Judicial Procedure",
+    "Media Law"
+  ],
+  "verdict": "The appeal was allowed. The judgment of the Court of Appeal was set aside, and the decision of the High Court dismissing the plaintiff's claims was restored.",
+  "winningSide": "Appellants (Akwasi Mensah, Ben Ephson, The Daily Dispatch, and Allied News Limited)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "GBADEGBE, JSC",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "ATUGUBA, JSC",
+      "role": "Presiding"
+    },
+    {
+      "name": "ANSAH, JSC",
+      "role": "Member of bench"
+    },
+    {
+      "name": "BAFFOE-BONNIE, JSC",
+      "role": "Member of bench"
+    },
+    {
+      "name": "ARYEETEY, JSC",
+      "role": "Member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "SUTHERLAND v STOPES [1925] AC 47",
+    "JONES v KELTON [1963] 3 All ER 952",
+    "LONDON ARTISTS LTD v LITTLER [1969] 3 All ER 193",
+    "LORD v SUNDAY TELEGRAPH [1970] 3 All ER 504",
+    "SLIM v DAILY TELEGRAPH AND ANOTHER [1968] 1 All ER 497",
+    "THOMAS v BRADBURY, AGNEW & CO. LTD [1906] 2KB 627",
+    "BENNEH v NEW TIMES CORPORATION [1982-83] G.L.R.302",
+    "TURNER v METRO–GOLDWYN MAYER PICTURES LTD [1950]1 All ER 449",
+    "SOUTH HETTON COAL LTD v NORTH-EASTERN NEWS ASSOCIATION LTD [1894]1QB 133",
+    "COHEN V DAILY TELEGRAPH [1968] 2 All ER 407"
+  ],
+  "rationaleHighlights": [
+    "The publication was deemed a fair comment on a matter of public interest concerning a traditional leader.",
+    "The plea of justification was not properly raised; only fair comment and qualified privilege were pleaded.",
+    "Matters before the Asantehene, though not a formal court, are part of Ghana’s customary legal system and of public concern.",
+    "The appellants acted honestly and without malice in publishing the article.",
+    "The irregularity in naming the court in the notice of appeal did not invalidate the appeal due to substantive compliance.",
+    "The 'rolled-up plea' is obsolete under current procedural rules requiring separation of fact and comment."
+  ],
+  "confidenceNotes": "The document is a full judgment from the Supreme Court of Ghana with clear judicial reasoning, citations, and procedural history, indicating high factual reliability. The truncation at the end does not affect the core legal analysis or outcome.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/DAASEBRE NANA OSEI BONSU II ALIASSWALD GYIMAH-KESSIE] v  AKW.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:50:35.513Z",
+    "plainTextLength": 17175
+  },
+  "trialDate": "2007-04-23"
+}

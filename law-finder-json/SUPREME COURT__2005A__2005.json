@@ -1,0 +1,33 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The provided document does not contain a legal decision or case details. It appears to be a homepage or introductory page for an online resource on unreported cases of the Supreme Court of Ghana for 2005, including a self-help guide to the law and contact information. There is no case content, judgment, or legal analysis present in the text.",
+  "legalKeywords": [
+    "Ghana",
+    "Supreme Court",
+    "unreported cases",
+    "legal resource",
+    "self-help guide"
+  ],
+  "topics": [
+    "Legal Research",
+    "Court Resources"
+  ],
+  "verdict": "N/A",
+  "winningSide": "N/A",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "N/A",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The source file does not contain a judicial decision. Information is derived solely from a webpage header describing a legal resource.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2005A/2005.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:31:32.658Z",
+    "plainTextLength": 311
+  }
+}

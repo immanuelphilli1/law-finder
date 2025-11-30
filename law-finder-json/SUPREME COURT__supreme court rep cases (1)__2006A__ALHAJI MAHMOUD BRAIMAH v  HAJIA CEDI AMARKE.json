@@ -1,0 +1,85 @@
+{
+  "caseTitle": "ALHAJI MAHMOUD BRAIMAH v HAJIA CEDI AMARKE",
+  "summary": "This Supreme Court of Ghana decision from 11th November 2006 concerns a property dispute over house E.47/12 in Nima, Accra, formerly owned by the late Alhaji Mahmoud Mustapha Ali. Upon his death, the property was inherited by his children, both natural and adopted. The property was allegedly sold to the respondent by the deceased's eldest son and two uterine sisters without the knowledge or consent of two adopted brothers, Abubakar Laye and Laye Broke. The court found the sale invalid due to lack of consent from all rightful heirs and failure by the purchaser to conduct due diligence. The principle in Boateng v. Dwinfo (1979) GLR 360 was applied, holding that a prudent purchaser must investigate apparent encumbrances. The appeal by the defendant was dismissed, affirming that the sale could not be upheld in equity.",
+  "legalKeywords": [
+    "property dispute",
+    "inheritance rights",
+    "adopted children",
+    "sale of property",
+    "constructive notice",
+    "due diligence",
+    "prudent purchaser",
+    "equity",
+    "family property",
+    "consent of heirs",
+    "self-acquired property",
+    "declaration exhibit",
+    "undisputed ownership",
+    "unconcern for rectitude",
+    "action ex turpi causa",
+    "estate distribution",
+    "land rights",
+    "family consent",
+    "inheritance under customary law",
+    "notice to purchaser"
+  ],
+  "topics": [
+    "Property Law",
+    "Family Law",
+    "Inheritance",
+    "Equity",
+    "Supreme Court Jurisprudence"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "W. A. Atuguba",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "G. T. Wood",
+      "role": "Justice"
+    },
+    {
+      "name": "S. A. Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "J. Ansan",
+      "role": "Justice"
+    },
+    {
+      "name": "R. T. Aninakwah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Boateng v. Dwinfo (1979) G.L.R. 360 C.A.",
+    "Amuzu v. Oklikah (1998–1999) S.C.L.R. 141"
+  ],
+  "rationaleHighlights": [
+    "The sale was invalid due to lack of consent from all heirs, including adopted children.",
+    "The purchaser failed to conduct reasonable inquiry, violating the duty of a prudent purchaser.",
+    "Exhibit 'A', a declaration by the deceased, was inoperative in resolving the dispute.",
+    "Equity cannot support a transaction arising from an improper cause (actio ex turpi causa).",
+    "Adopted children have equal inheritance rights in family property.",
+    "The court acts as a court of conscience in property disputes involving family members.",
+    "Knowledge of family dynamics required deeper investigation before purchase.",
+    "Failure to consult known family members undermines the legitimacy of the transaction."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and cited precedents. Some names may have typographical variations (e.g., Ansan vs. Ansa).",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2006A/ALHAJI MAHMOUD BRAIMAH v  HAJIA CEDI AMARKE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T18:05:51.462Z",
+    "plainTextLength": 6162
+  },
+  "trialDate": "2006-11-15"
+}

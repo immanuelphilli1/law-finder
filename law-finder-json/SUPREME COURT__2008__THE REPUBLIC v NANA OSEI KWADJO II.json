@@ -1,0 +1,80 @@
+{
+  "caseTitle": "THE REPUBLIC v NANA OSEI KWADJO II",
+  "summary": "In this criminal appeal before the Supreme Court of Ghana, Nana Osei Kwadjo II challenged his conviction for stealing stool land revenues. The central issue was whether the prosecution proved a dishonest appropriation under Section 120 of the Criminal Code (Act 29). Justice Kpegah, in a concurring opinion, held that the conviction was fundamentally flawed because the prosecution failed to establish a prima facie case, meaning the burden of proof never shifted to the appellant to enter a defence. He emphasized that the appellant's 'claim of right in good faith'—supported by Exhibit 2, a letter from a Lands Commission official acknowledging historical collection practices—constituted a complete defence to stealing. The trial and appellate courts erred by treating the defence as mere ignorance of law rather than a factual belief in entitlement. The Supreme Court, exercising its full appellate jurisdiction, allowed the appeal, quashed the conviction, and underscored the importance of protecting individual fundamental rights under Chapter Five of the 1992 Constitution.",
+  "legalKeywords": [
+    "claim of right in good faith",
+    "dishonest appropriation",
+    "prima facie case",
+    "burden of proof",
+    "criminal appeal",
+    "stealing",
+    "Section 120 Criminal Code",
+    "Section 15 Criminal Code",
+    "misappropriation",
+    "evidence",
+    "right to appeal",
+    "fundamental rights",
+    "jurisdiction",
+    "technical grounds",
+    "appellate review"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Property Rights",
+    "Traditional Authority",
+    "Evidence Law"
+  ],
+  "verdict": "Appeal allowed; conviction quashed.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kpegah, J.S.C.",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Wood, C.J.",
+      "role": "presiding"
+    },
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "panel member"
+    },
+    {
+      "name": "Akuffo, J.S.C.",
+      "role": "panel member"
+    },
+    {
+      "name": "Date-Bah, J.S.C.",
+      "role": "dissenting judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "IN RE PARLIAMENTARY ELECTIONS FOR WULENSI CONSTITUENCY; ZAKARIA v NYIMAKAN [2003-2004] SCGLR 1",
+    "R. v. BERHHARD (1938) Cr. APP. R. P. 137; [1938] 2 K. B. 264",
+    "THE STATE VRS. ALI KASSENA",
+    "Republic v. Kwadwo II"
+  ],
+  "rationaleHighlights": [
+    "The conviction was flawed because no prima facie case was established, so the burden of proof never shifted to the accused.",
+    "The defence of 'claim of right in good faith' is a complete defence to stealing under Section 15 of the Criminal Code.",
+    "The appellant genuinely believed he had authority to collect stool land revenues based on historical practice.",
+    "The trial and Court of Appeal mischaracterized the defence as ignorance of law rather than mistake of fact.",
+    "Exhibit 2 from the Lands Commission supports the appellant's good faith belief in his authority.",
+    "The Supreme Court has jurisdiction to correct errors of law and fact in criminal appeals."
+  ],
+  "confidenceNotes": "The judgment is partially truncated, particularly in the discussion of academic commentary, but key legal reasoning and evidence are preserved. The outcome and rationale are clear despite the truncation.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2008/THE REPUBLIC v NANA OSEI KWADJO II.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:13:24.247Z",
+    "plainTextLength": 152042
+  },
+  "trialDate": "2008-07-11"
+}

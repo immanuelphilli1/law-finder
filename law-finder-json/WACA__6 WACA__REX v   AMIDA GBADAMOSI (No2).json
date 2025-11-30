@@ -1,0 +1,67 @@
+{
+  "caseTitle": "REX v AMIDA GBADAMOSI (No2)",
+  "summary": "In Rex v Amida Gbadamosi (No. 2) (1940), the West Africa Court of Appeal considered an appeal against the conviction of six appellants, including police officers, for breaking and entering and stealing \u0002300 from Samuel Aluko\u0002s shop in Ogbomosho under Section 410 of the Criminal Code. The appellants were sentenced to seven years' imprisonment with hard labour. The prosecution alleged the accused, posing as police officers, used deception to gain entry, searched Aluko\u0002s premises, seized the money under false pretenses, and fled with it. The appellants challenged the conviction on grounds including misdirection by the trial judge, lack of fair trial, improper exclusion and admission of evidence, unreliable identification, and miscarriage of justice. The appellate court reviewed the evidence and rejected all grounds of appeal, affirming that the trial judge had adequately directed himself on the evidence, that no procedural irregularities affected the fairness of the trial, and that the conviction was supported by the weight of credible testimony. The court also reaffirmed the recognized judicial function in Nigeria of assisting unrepresented accused persons in presenting their defense. The appeal was dismissed.",
+  "legalKeywords": [
+    "breaking and entering",
+    "theft",
+    "misdirection",
+    "fair trial",
+    "miscarriage of justice",
+    "alibi",
+    "corroboration",
+    "accomplice testimony",
+    "police misconduct",
+    "self-help justice",
+    "criminal procedure",
+    "evidence admissibility",
+    "judicial conduct",
+    "prosecutorial misconduct",
+    "identification evidence"
+  ],
+  "topics": [
+    "criminal law",
+    "appellate review",
+    "evidence",
+    "judicial misconduct",
+    "police corruption"
+  ],
+  "verdict": "Appeal dismissed; conviction upheld",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Amida Gbadamosi (No. 2) [1940] WACA 6",
+    "Section 410 of the Criminal Code"
+  ],
+  "rationaleHighlights": [
+    "The court upheld the trial judge's factual findings but emphasized the judge's duty to assist unrepresented accused in presenting their defense.",
+    "No irregularity was found in the trial process despite allegations of improper identification, exclusion of evidence, and judicial misconduct.",
+    "The appeal was dismissed as the conviction was supported by credible evidence and no legal error affecting the outcome was established."
+  ],
+  "confidenceNotes": "The case details are drawn directly from the judgment text; however, the document is truncated, potentially omitting later portions of the court's reasoning or dissenting opinions.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/REX v   AMIDA GBADAMOSI (No2).htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:59:16.640Z",
+    "plainTextLength": 20187
+  },
+  "trialDate": "1940-04-27"
+}

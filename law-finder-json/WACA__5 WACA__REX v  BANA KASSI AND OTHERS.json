@@ -1,0 +1,66 @@
+{
+  "caseTitle": "REX v BANA KASSI AND OTHERS",
+  "summary": "The West Africa Court of Appeal reviewed the murder convictions of five appellants, upholding the convictions of four but allowing the appeal of the second accused due to judicial misdirection on the need for corroboration of accomplice evidence. The court held that the trial judge erred in relying on the testimony of Bokari Kamasso as corroboration, as no such corroboration existed. The court also ruled that a mutilated written statement by the first accused (Exhibit II) was improperly admitted, though the conviction stood due to other strong evidence, including a valid confession. The court criticized the trial court's practice of 'temporarily' admitting confessions subject to later challenge, emphasizing that factual issues like duress must be resolved before evidence is finally admitted, especially in trials with assessors. Despite the procedural flaw, no prejudice was found in this instance.",
+  "legalKeywords": [
+    "corroboration",
+    "accomplice",
+    "mutilated document",
+    "admissibility of evidence",
+    "duress",
+    "confession",
+    "trial procedure",
+    "judicial misdirection",
+    "statement in writing",
+    "prejudice in trial"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence",
+    "Appeal",
+    "Confession",
+    "Corroboration"
+  ],
+  "verdict": "Appeal allowed for second accused; conviction and sentence quashed, acquittal ordered. Appeals dismissed for first, third, fourth, and fifth accused.",
+  "winningSide": "Second accused (on appeal); Crown on other appeals",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Onabanjo 3 W.A.C.A. p. 43"
+  ],
+  "rationaleHighlights": [
+    "Trial judge misdirected on corroboration of accomplice evidence",
+    "Mutilated statement cannot sustain conviction if sole basis",
+    "Accomplice status given benefit of doubt to accused",
+    "Objection to confession due to duress must be resolved before admission",
+    "Improper procedure in admitting exhibits temporarily",
+    "Assessors and defense entitled to final ruling pre-defense",
+    "Other evidence sufficient for first accused's conviction",
+    "No prejudice found despite procedural error"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and explicit procedural observations in the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/REX v  BANA KASSI AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:40:32.785Z",
+    "plainTextLength": 7328
+  },
+  "trialDate": "1939-11-22"
+}

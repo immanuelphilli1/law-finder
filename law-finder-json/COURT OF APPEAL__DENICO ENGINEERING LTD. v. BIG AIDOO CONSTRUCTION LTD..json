@@ -1,0 +1,68 @@
+{
+  "caseTitle": "DENICO ENGINEERING LTD. v. BIG AIDOO CONSTRUCTION LTD.",
+  "summary": "In Denico Engineering Ltd. v. Big Aido Construction Ltd., the Court of Appeal reviewed the trial judge's award of ₵20,000,000 in general and special damages, finding that only the special damages based on the hire agreement (Exhibit ‘B’) were justified. The court held that the hire rate of ₵40,000 per day constituted liquidated damages, and calculated the rightful award for the period from February to May 1988 as ₵4,320,000, adding to the previously accepted ₵7,127,000 for June–December 1988, totaling ₵11,457,000. The court set aside the general damages due to lack of evidentiary basis and awarded interest on the outstanding amount under LI 1295, recognizing the plaintiff’s right to the use of money wrongfully withheld.",
+  "legalKeywords": [
+    "liquidated damages",
+    "special damages",
+    "general damages",
+    "contract of hire",
+    "breach of contract",
+    "damages assessment",
+    "interest on awards",
+    "evidentiary burden",
+    "contractual liability",
+    "pre-estimate of loss",
+    "termination of contract"
+  ],
+  "topics": [
+    "Contract Law",
+    "Damages",
+    "Appeal Judgment",
+    "Hire Agreement",
+    "Monetary Awards"
+  ],
+  "verdict": "Appeal allowed in part; damages award revised",
+  "winningSide": "Plaintiff/Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "N. S. Gbadegbe",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "S. G. Baddoo",
+      "role": "Concurring judge"
+    },
+    {
+      "name": "J. Ansa",
+      "role": "Concurring judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Halsbury's Laws of England, 4th Ed., Vol.12, para.1116 @ 419",
+    "Radcliffe vrs: Evans (1892) 2 QB 524 @ 528",
+    "Harbutt’s Plastiscine vrs: Wayne Tank Ltd. (1970) 1 All ER 225 @ 236",
+    "Jeffard vrs: Gee (1970) 1 All ER 1202 @ 1205",
+    "London Chatham & Dover Rly. Co. vrs: South Eastern Rly. Co. (1893) AC 429 @ 439",
+    "LI 1295—Court's (Award of Interest) Instrument 1984"
+  ],
+  "rationaleHighlights": [
+    "The hire rate of ₵40,000/day under Exhibit ‘B’ constitutes a pre-estimated liquidated damages clause.",
+    "Termination of the hire agreement is factually determined by return of equipment, not by default clauses.",
+    "Special damages are recoverable as lost earnings under the contract; general damages require separate wrongful acts.",
+    "No evidence supported general damages; thus, they were set aside.",
+    "Interest awarded under LI 1295 due to wrongful withholding of money owed."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text, including citations, calculations, and judicial reasoning.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/DENICO ENGINEERING LTD. v. BIG AIDOO CONSTRUCTION LTD..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:37:44.060Z",
+    "plainTextLength": 11468
+  }
+}

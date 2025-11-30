@@ -1,0 +1,69 @@
+{
+  "caseTitle": "AND ANOTHER VERSUS BURAIMO DENDE",
+  "summary": "This 1941 West Africa Court of Appeal decision interprets Section 49(1)(a) of the Protectorate Courts Ordinance, 1933, concerning the employment of legal practitioners in appeals from Native Court decisions in land cases. The court held that although the statute requires the value of property to be both 'stated in the writ of summons' and appear to exceed £200 to a judge, the omission of valuation in Native Court writs—consistent with customary practice—should not bar legal representation. Invoking Maxwell's rule of statutory interpretation, the court disregarded the phrase 'as stated in the writ of summons' where no value was stated, allowing legal practitioners when the judge independently determines the property value exceeds £200.",
+  "legalKeywords": [
+    "statutory interpretation",
+    "legal practitioners",
+    "Native Courts",
+    "Protectorate Courts Ordinance",
+    "land cases",
+    "appeal rights",
+    "Maxwell's rule",
+    "judicial discretion",
+    "writ of summons",
+    "property valuation",
+    "legal representation",
+    "colonial law",
+    "judicial reform",
+    "court procedure",
+    "appellate jurisdiction"
+  ],
+  "topics": [
+    "Legal Profession",
+    "Statutory Interpretation",
+    "Appellate Procedure",
+    "Land Law",
+    "Colonial Legal System"
+  ],
+  "verdict": "The court ruled that legal practitioners may be employed in land appeals from Native Courts if the judge believes the property value exceeds £200, even if the value is not stated in the writ of summons.",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Graham Paul, C.J., Sierra Leone",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Appeal",
+  "citations": [
+    "Section 49(1)(a), Protectorate Courts Ordinance, 1933",
+    "Maxwell on the Interpretation of Statutes (7th Edition, p.198)"
+  ],
+  "rationaleHighlights": [
+    "The strict grammatical reading of the statute would lead to absurdity and injustice.",
+    "Native Courts do not traditionally state property values in writs.",
+    "The legislative intent was to restrict legal practitioners only in minor cases.",
+    "Maxwell's rule permits modifying statutory language to reflect legislative intent.",
+    "Judicial discretion should prevail where statutory wording contradicts purpose."
+  ],
+  "confidenceNotes": "The decision is a clear application of purposive statutory interpretation in a colonial legal context. The court's reasoning is well-grounded in legal principle, particularly Maxwell's rule. All key details are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/SURAKATU AND ANOTHER  v  BURAIMO DENDE ..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:23:24.637Z",
+    "plainTextLength": 6666
+  },
+  "trialDate": "8TH MAY, 1941"
+}

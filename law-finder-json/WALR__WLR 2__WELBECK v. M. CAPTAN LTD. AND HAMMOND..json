@@ -1,0 +1,64 @@
+{
+  "caseTitle": "WELBECK VERSUS M. CAPTAN LTD. AND HAMMOND.",
+  "summary": "In Welbeck v. M. Captan Ltd. and Hammond, the Supreme Court of the Gold Coast addressed a dispute over the rightful head of the Kreshie family and entitlement to collect rents from family properties. The plaintiff, Welbeck, claimed appointment as caretaker and administrator following the removal of Hammond, who had previously served as head. A 1942 family resolution and a 1945 Native Court judgment confirmed Welbeck and Thompson as administrators. In 1946, Hammond was reappointed at a family meeting, leading to conflicting Native Court rulings. On appeal, Coussey J. held the issue res judicata in favor of Welbeck due to the earlier judgment. Subsequently, in 1951, another meeting appointed Hammond head despite the non-attendance of Welbeck and his son, who had been invited. The court held that the meeting was validly constituted as it included representatives from both family branches, and the burden was on Welbeck to prove the meeting was non-representative or that absentees were indispensable—evidence he failed to provide. The court dismissed the plaintiff's action, affirming Hammond's appointment and right to administer family property.",
+  "legalKeywords": [
+    "native law and custom",
+    "family law",
+    "head of family",
+    "burden of proof",
+    "res judicata",
+    "family meeting",
+    "appointment validity",
+    "reconciliation",
+    "customary law",
+    "representative meeting",
+    "non-attendance",
+    "caretaker administrator",
+    "family property",
+    "rent recovery",
+    "dispute resolution"
+  ],
+  "topics": [
+    "Family Law",
+    "Customary Law",
+    "Property Rights",
+    "Judicial Precedent",
+    "Burden of Proof"
+  ],
+  "verdict": "Judgment for the defendants; the plaintiff's action was dismissed.",
+  "winningSide": "M. Captan Ltd. and Hammond",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Smith Ag.J.",
+      "role": "trial judge"
+    },
+    {
+      "name": "Coussey J.",
+      "role": "appellate judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Eastern Judicial Division",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Hammond and Another v. Thompson and Others (1951)",
+    "Ankrah v. Allotey and Others (1943)"
+  ],
+  "rationaleHighlights": [
+    "A family meeting's decision is valid if principal members were invited and chose not to attend.",
+    "It is open to family members to reappoint a head at any time in due form.",
+    "Burden of proof lies on the party challenging the meeting’s representativeness.",
+    "Res judicata barred relitigation of headship after prior judgment.",
+    "No requirement for reconciliation between family branches before appointment if both are represented."
+  ],
+  "confidenceNotes": "High confidence; case details are clearly stated with specific dates, parties, and legal reasoning.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/WELBECK v. M. CAPTAN LTD. AND HAMMOND..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:21:43.359Z",
+    "plainTextLength": 17756
+  }
+}

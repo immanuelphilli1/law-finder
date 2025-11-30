@@ -1,0 +1,67 @@
+{
+  "caseTitle": "JUDGMENT OF THE PRIVY 19TH JULY, 1937.",
+  "summary": "This Privy Council appeal, decided on 19th July 1937, arose from a West African Court of Appeal judgment that set aside a 1931 land conveyance from Mrs. Johnson, an 82-year-old widow, to her physician, Dr. Johnson. The conveyance, nominally for £1,500, was deemed a voluntary gift. The trial judge, Webber C.J., dismissed the claim, finding no undue influence and that the gift reflected Mrs. Johnson’s free will. The Court of Appeal reversed, holding that a confidential doctor-patient relationship existed and the presumption of undue influence was not rebutted. The Privy Council upheld the Court of Appeal, ruling that the relationship was sufficiently fiduciary to trigger the presumption and that the defendant failed to prove the gift was made with independent, informed consent, despite some evidence of the donor’s capacity and preference for the conveyance form.",
+  "legalKeywords": [
+    "undue influence",
+    "confidential relationship",
+    "voluntary conveyance",
+    "presumption of influence",
+    "independent legal advice",
+    "donor's free will",
+    "fiduciary duty",
+    "medical practitioner",
+    "gift",
+    "rebuttal of presumption",
+    "mental capacity",
+    "estate administration",
+    "deed of conveyance",
+    "confidential relationship",
+    "equity"
+  ],
+  "topics": [
+    "Equity and Trusts",
+    "Property Law",
+    "Medical Law",
+    "Contract Law",
+    "Appellate Procedure"
+  ],
+  "verdict": "Appeal dismissed; decision of the West African Court of Appeal upheld",
+  "winningSide": "Plaintiff (Mrs. Johnson)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lord Russell of Killowen"
+    },
+    {
+      "name": "Lord Roche"
+    },
+    {
+      "name": "Sir Lancelot Sanderson",
+      "role": "Delivered the judgment"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Privy Council",
+    "country": "United Kingdom (on appeal from West Africa)"
+  },
+  "caseType": "Civil Appeal (Undue Influence in Property Conveyance)",
+  "citations": [
+    "Inche Noriah v. Shaik Allie Bin Omar [1929] A.C. 127",
+    "Colonial Securities Trust Company v. Massey [1896] 1 Q.B. 38"
+  ],
+  "rationaleHighlights": [
+    "A doctor-patient relationship, especially involving prolonged care, can create a presumption of undue influence.",
+    "The burden lies on the donee to prove the gift was a free and independent act of the donor.",
+    "Independent legal advice must be informed and comprehensive to rebut the presumption.",
+    "The availability of both donor and donee as live witnesses strengthened the trial judge’s ability to assess credibility, but the Privy Council found the evidence insufficient to rebut the presumption.",
+    "Preference for a conveyance over a will or gift deed, while relevant, does not alone prove independence from influence."
+  ],
+  "confidenceNotes": "High confidence; the judgment is clearly articulated with detailed legal reasoning and direct citations to precedent. Key facts and holdings are unambiguous.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/JUDGMENT OF THE PRIVY 19TH JULY, 1937..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:26:11.649Z",
+    "plainTextLength": 16478
+  },
+  "trialDate": "19TH JULY, 1937"
+}

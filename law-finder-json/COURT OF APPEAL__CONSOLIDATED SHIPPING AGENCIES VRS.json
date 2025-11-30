@@ -1,0 +1,68 @@
+{
+  "caseTitle": "CONSOLIDATED SHIPPING AGENCIES VRS",
+  "summary": "In this civil appeal from a High Court judgment, Consolidated Shipping Agencies (Respondent) sued Satellite Trans Limited (Appellant) for damages after goods it contracted to transport from Tema Port to the Tema Free Zones enclave fell off the truck and were damaged. The High Court found the Appellant liable as a carrier for failing to transport the goods safely, awarding US$24,937.75 in special damages. The Appellant appealed, arguing it was a private carrier and not negligent, attributing the damage to improper loading by the Respondent's agent. The Court of Appeal upheld the decision, holding that the Appellant, as a bailee, owed a duty of care, and the damage during transit constituted prima facie evidence of negligence. The Appellant failed to rebut this, especially as its own driver confirmed the goods were properly loaded. The Court rejected the argument that road conditions or curves explained the incident, emphasizing the carrier's duty to exercise appropriate care. The Respondent's cross-appeal on interest was dismissed. The appeal was accordingly dismissed.",
+  "legalKeywords": [
+    "common carrier",
+    "private carrier",
+    "bailee",
+    "duty of care",
+    "negligence",
+    "prima facie evidence",
+    "contract of carriage",
+    "damage to goods",
+    "loading responsibility",
+    "breach of contract",
+    "safe transportation",
+    "liability for damage",
+    "cross-appeal",
+    "interest on damages",
+    "standard of care"
+  ],
+  "topics": [
+    "Contract Law",
+    "Tort Law",
+    "Carriage of Goods",
+    "Negligence",
+    "Civil Liability"
+  ],
+  "verdict": "Appeal dismissed; High Court judgment upheld.",
+  "winningSide": "Consolidated Shipping Agencies (Respondent)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "ADUAMA OSEI J.A",
+      "role": "authoring judge"
+    },
+    {
+      "name": "AKOTO-BAMFO J.S.C",
+      "role": "presiding judge"
+    },
+    {
+      "name": "H. ABBAN J.A",
+      "role": "panel judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "CONSOLIDATED SHIPPING AGENCIES VRS SATELLITE TRANS LIMITED, Court of Appeal, Accra, Suit No. H1/78/08, 29 January 2010"
+  ],
+  "rationaleHighlights": [
+    "The carrier, even if private, becomes a bailee and owes a duty of reasonable care.",
+    "Damage during transit constitutes prima facie evidence of negligence.",
+    "Appellant's own driver contradicted its claim of improper loading by confirming goods were properly loaded.",
+    "Assumption of obligation to transport goods safely and securely supports liability.",
+    "No special term in contract exempted the carrier from liability."
+  ],
+  "confidenceNotes": "The case details are drawn directly from the provided judgment text, with clear identification of parties, court, date, and legal reasoning. All information is explicitly stated in the source.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/CONSOLIDATED SHIPPING AGENCIES VRS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:39:15.374Z",
+    "plainTextLength": 36261
+  },
+  "trialDate": "2010-01-29"
+}

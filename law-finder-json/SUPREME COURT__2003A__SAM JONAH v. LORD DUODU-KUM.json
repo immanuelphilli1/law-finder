@@ -1,0 +1,86 @@
+{
+  "caseTitle": "SAM JONAH v. LORD DUODU-KUM",
+  "summary": "This Supreme Court of Ghana case, Sam Jonah v. Lord Duodu-Kumi (Civil Appeal No. 1/2003), arose from a dispute over property ownership and tenancy at No. 109 East Cantoments, Accra. The appellant, Sam Jonah, purchased the property from Unilever Ghana Ltd., which notified the respondent of the sale. The respondent, while admitting occupation, denied Jonah's ownership, claiming the sale was a sham and that rent payments in USD were illegal under exchange control laws. He also alleged duress in making a $20,000 payment to the appellant’s wife. The High Court granted summary judgment for the appellant, but the Court of Appeal set it aside, allowing the respondent to defend. The Supreme Court ultimately held that the respondent failed to present a genuine or plausible defence on the merits, particularly due to lack of particulars on misrepresentation or duress, and that the use of USD in rent agreements does not invalidate them if payment is made in cedis. However, the court found the High Court should have assessed arrears based on the $1,500 monthly rent admitted by the respondent, not the higher amount claimed.",
+  "legalKeywords": [
+    "summary judgment",
+    "pleadings",
+    "defence",
+    "duress",
+    "misrepresentation",
+    "tenancy",
+    "rent arrears",
+    "ejectment",
+    "exchange control law",
+    "legal title",
+    "attornment",
+    "residence",
+    "jurisdiction",
+    "procedural fairness",
+    "burden of proof",
+    "cogent evidence",
+    "affidavit",
+    "Order 14",
+    "Order 19",
+    "resident licensee"
+  ],
+  "topics": [
+    "Property Law",
+    "Tenancy Dispute",
+    "Summary Judgment",
+    "Contract Enforcement",
+    "Exchange Control Regulations"
+  ],
+  "verdict": "Appeal allowed in part",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Akuffo, J.S.C.",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Wiredu, C.J.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Acquah, J.S.C.",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Afreh, J.S.C.",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Dr. Twum, J.S.C.",
+      "role": "Member of Coram"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Halsbury’s Laws of England, Fourth Edition, 516",
+    "Halsbury’s Laws of England, Fourth Edition, 519",
+    "Exchange Control (Amendment) Law, 1986 (PNDCL 149), sections 1A and 5(2)",
+    "Order 14, High Court (Civil Procedure) Rules",
+    "Order 15, rule 6(2)(a)",
+    "Morkor v. Kuma [1998-99] SCGLR, 620"
+  ],
+  "rationaleHighlights": [
+    "Defendant must show a genuine or plausible defence to resist summary judgment",
+    "Allegations of duress and misrepresentation require factual particulars to be credible",
+    "Denomination of rent in USD does not violate exchange control laws if payment is in cedis",
+    "Admission of tenancy cannot be easily retracted without compelling justification",
+    "Court may assess partial liability even when full summary judgment is inappropriate"
+  ],
+  "confidenceNotes": "The document is truncated but contains sufficient information from the lead judgment to extract core legal reasoning, parties, and outcome. Key conclusions are based on the detailed analysis by Akuffo, J.S.C., with concurrence implied by the Coram.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2003A/SAM JONAH v. LORD DUODU-KUM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:35:49.469Z",
+    "plainTextLength": 16063
+  },
+  "trialDate": "22ND JANUARY, 2003"
+}

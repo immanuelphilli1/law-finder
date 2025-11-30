@@ -1,0 +1,70 @@
+{
+  "caseTitle": "ARTHUR HANSEN HAMMOND",
+  "summary": "The West Africa Court of Appeal dismissed an appeal by Arthur Hansen Hammond, who challenged the issuance of a writ of Cautionary for Satisfaction (Ca. Sa.) against him for non-payment of costs while suing as head of the Kreshie family. The court held that under native law and custom, a head of a family is personally liable for obligations incurred in that representative capacity, unlike a person representing a stool, whose liability may be limited. The court distinguished prior cases involving stool representatives, emphasizing that family heads assume personal liability analogous to partners in a firm. Citing Sarbah and historical precedents, the court affirmed the lawfulness of attaching the person of a judgment debtor who sues as head of a family. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "writ of Ca. Sa.",
+    "representative capacity",
+    "head of family",
+    "personal liability",
+    "native law and custom",
+    "attachment of judgment debtor",
+    "family liability",
+    "costs in civil proceedings",
+    "stool property",
+    "execution of judgment"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Native Law and Custom",
+    "Family Liability",
+    "Execution of Judgment",
+    "Writ of Ca. Sa."
+  ],
+  "verdict": "Appeal dismissed with costs of \u000227 0s. 6d.",
+  "winningSide": "Respondents (United Africa Company Ltd. and the Randolph defendants)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "Webber, C.J., Sierra Leone",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Angwah Bennieh v. Abakah Kangah",
+    "G. D. Oluyemo v. OheneAgyemfra IV and another",
+    "Lokko v. Konkloji, Vol. I, Part II of Renner's Gold Coast Reports, at page 451",
+    "Sarbah, First Edition, p. 35",
+    "Sarbah, pp. 146 and 96"
+  ],
+  "rationaleHighlights": [
+    "Head of family is personally liable under native law and custom for family obligations.",
+    "Distinction drawn between suing as representative of a stool versus head of a family.",
+    "Family members are jointly and severally liable for family debts.",
+    "Precedent from Sarbah supports personal liability of family heads.",
+    "Writ of Ca. Sa. validly issued due to personal liability.",
+    "Prior cases on stool representation do not apply to family heads.",
+    "Historical practice of panyarring for debt recognized.",
+    "Analogy to partnership liability under Order 43, Rule 10."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct textual evidence from the judgment and cited authorities.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/ARTHUR HANSEN HAMMOND.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:27:47.049Z",
+    "plainTextLength": 5141
+  },
+  "trialDate": "1936-05-08"
+}

@@ -1,0 +1,68 @@
+{
+  "caseTitle": "REGINA v OTOO, YA WSON AND AGGREY",
+  "summary": "The appellants, public officers, were convicted of conspiracy to extort and corruption under the Gold Coast Criminal Code. The prosecution proved they demanded £100 from the complainant under threats of reporting alleged irregularities and initiating criminal proceedings. The appellants claimed the money was an unsolicited bribe they rejected. The West African Court of Appeal upheld the conviction, ruling that extortion under the Gold Coast Code does not require the officer to have purported to act under lawful authority (distinguishing Nigerian jurisprudence). It further held that corruption occurs when a public officer agrees to allow conduct to be influenced by a benefit, regardless of who initiated the exchange. The court affirmed that the trial judge did not misdirect himself and that the elements of both offences were satisfied.",
+  "legalKeywords": [
+    "extortion",
+    "corruption",
+    "public officer",
+    "criminal law",
+    "Gold Coast Criminal Code",
+    "unlawful demand",
+    "conspiracy",
+    "colour of office",
+    "judicial precedent",
+    "misdirection"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Public Office Misconduct",
+    "Extortion",
+    "Corruption",
+    "Judicial Precedent"
+  ],
+  "verdict": "Conviction upheld on both counts of conspiracy to extort and corruption by a public officer.",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Korsah",
+      "role": "Ag. Chief Justice"
+    },
+    {
+      "name": "Windsor-Aubrey",
+      "role": "Justice"
+    },
+    {
+      "name": "van Lare",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Commissioner of Police v. Koji, W.A.C.A., February 25, 1952",
+    "Commissioner of Police v. Hero Leurand Sawyerr and Others, W.A.C.A., June 5, 1953",
+    "Commissioner of Police v. Mataya, W.A.C.A., November 11, 1950",
+    "Gold Coast Criminal Code, c. 9, ss. 413, 429, 437"
+  ],
+  "rationaleHighlights": [
+    "The offence of extortion under the Gold Coast Criminal Code does not require that the public officer conveyed an impression of lawful authority to make the demand.",
+    "Extortion is established by an unlawful demand, regardless of whether the officer had actual authority.",
+    "Corruption is committed if a public officer agrees to let conduct be influenced by a gift or promise, irrespective of who initiated the transaction.",
+    "Threats to report irregularities in exchange for money constitute extortion.",
+    "The Nigerian interpretation of 'under colour of office' does not apply to the Gold Coast Code due to textual differences.",
+    "Initiation of the bribe offer by the complainant does not negate corruption if accepted.",
+    "Conviction upheld despite appellants' claim that they rejected the bribe.",
+    "The trial judge correctly held that the appellants' ability to carry out threats was immaterial."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct judicial reasoning and cited precedents.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/REGINA  v  OTOO, YA WSON AND AGGREY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:52:22.871Z",
+    "plainTextLength": 7150
+  }
+}

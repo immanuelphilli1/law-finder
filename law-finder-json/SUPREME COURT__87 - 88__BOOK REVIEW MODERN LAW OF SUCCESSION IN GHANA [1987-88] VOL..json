@@ -1,0 +1,75 @@
+{
+  "caseTitle": "BOOK REVIEW MODERN LAW OF SUCCESSION IN GHANA [1987-88] VOL.",
+  "summary": "This 1987–88 book review published in the Review of Ghana Law evaluates A.K.P. Kludze's 'Modern Law of Succession in Ghana,' a comprehensive treatise aimed at both legal practitioners and law students. The reviewer, Osew E.A., commends the book for its thorough analysis of wills (under both statutory and customary law), intestate succession (especially under PNDCL 111), and related family law issues. Kludze critically engages with prior scholarship by Ollennu, Bentsi-Enchill, Sarbah, Danquah, and Rattray, challenging some established views and proposing reforms. Key points include questioning the continued application of English common law rules like Parker v Felgate, advocating for a prima facie right to the matrimonial home for surviving spouses, and raising sovereignty concerns about the indirect application of UK legislation through colonial statutes. The review notes minor shortcomings, including excessive length on certain theoretical discussions, omission of the Registration Law (PNDCL 112), failure to note the repeal of the Insolvency Act, and numerous typographical errors. Despite these, the book is highly recommended for its stimulating arguments, scholarly rigor, and practical relevance to Ghanaian succession law.",
+  "legalKeywords": [
+    "succession",
+    "wills",
+    "intestate succession",
+    "customary law",
+    "testate succession",
+    "PNDCL 111",
+    "Wills Act",
+    "family law",
+    "adoption",
+    "domicile",
+    "privilege wills",
+    "attestation",
+    "commorientes rule",
+    "samansiw",
+    "insolvency",
+    "sovereignty",
+    "statutory interpretation",
+    "judicial customary law",
+    "practised customary law",
+    "marriage registration"
+  ],
+  "topics": [
+    "Succession Law",
+    "Wills and Testate Succession",
+    "Intestate Succession",
+    "Customary Law",
+    "Legal Scholarship Review"
+  ],
+  "verdict": "The book is highly recommended despite typographical errors and minor omissions, praised for its depth, critical analysis, and contribution to legal discourse in Ghana.",
+  "winningSide": "Academic scholarship / Legal reform advocacy",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Osew E A",
+      "role": "reviewer"
+    }
+  ],
+  "jurisdiction": {
+    "court": "N/A",
+    "country": "Ghana"
+  },
+  "caseType": "book review",
+  "citations": [
+    "PNDCL 111",
+    "Wills Act, 1971 (Act 360)",
+    "Marriage Ordinance (Cap 127)",
+    "Marriage of Mohammedans Ordinance (Cap 129)",
+    "Re Lartey [1972] 2 GLR 488",
+    "Parker v Felgate (1883)",
+    "Coleman v Shang (1959)",
+    "Insolvency Act, 1962 (Act 153)",
+    "Customary Marriages and Divorce (Registration) Law, 1985 (PNDCL 112)",
+    "Administration of Estates Act, 1961"
+  ],
+  "rationaleHighlights": [
+    "Critique of the applicability of English law post-independence, particularly regarding sovereignty concerns",
+    "Call for statutory reform in intestate succession, especially concerning the matrimonial home",
+    "Questioning the validity of outdated rules like Parker v Felgate in Ghanaian context",
+    "Emphasis on distinguishing between 'practised' and 'judicial' customary law",
+    "Need for clarity on adoption and legitimacy under customary law",
+    "Importance of addressing insolvency in estate administration",
+    "Criticism of printing errors but affirmation of the book's scholarly value"
+  ],
+  "confidenceNotes": "The document is a scholarly book review rather than a court decision, so judicial confidence is not applicable. However, the legal analysis and references to statutes and cases are accurate and well-grounded in Ghanaian law.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/87 - 88/BOOK REVIEW MODERN LAW OF SUCCESSION IN GHANA [1987-88] VOL..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:04:43.305Z",
+    "plainTextLength": 13190
+  }
+}

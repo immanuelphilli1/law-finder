@@ -1,0 +1,56 @@
+{
+  "caseTitle": "LOROMEKE VERSUS NEKEGHO",
+  "summary": "In this 1957 Ghanaian case, the plaintiff, a Nigerian from Urhobo descent residing in Accra, sought enforcement of a customary order requiring the widow of his deceased brother to repay her dowry and surrender custody of her two children. The lower courts had ruled in his favor based on alleged Urhobo customary law, which permits a family to select a member to marry a widow and, if refused, reclaim the dowry and children. The High Court, Eastern Judicial Division, allowed the appeal. It held that while the custom was sufficiently proven as a fact (especially since the defendants admitted it), the document authorizing the plaintiff to act on behalf of the family was not properly authenticated and thus inadmissible. Crucially, the court ruled that enforcing a custom that strips a mother of custody of her children solely because she refuses a levirate marriage is repugnant to natural justice, equity, and good conscience under section 87 of the Courts Ordinance. The judgments of the lower courts were set aside.",
+  "legalKeywords": [
+    "customary law",
+    "repugnancy doctrine",
+    "natural justice",
+    "dowry repayment",
+    "child custody",
+    "levirate marriage",
+    "evidence of custom",
+    "document authentication",
+    "jurisdiction of native courts",
+    "family authority"
+  ],
+  "topics": [
+    "Family Law",
+    "Customary Law",
+    "Evidence Law",
+    "Child Custody",
+    "Legal Procedure"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Simpson J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "Appeal from Magistrate's Court",
+  "citations": [
+    "Courts Ordinance, c. 4, s. 87 (1)",
+    "Native Courts (Southern Ghana) Ordinance, s. 15 (b)",
+    "Ayo v. Emajaka and Another (unreported)"
+  ],
+  "rationaleHighlights": [
+    "A custom that deprives a mother of her children because she refuses a levirate marriage is repugnant to natural justice, equity, and good conscience.",
+    "Even if a custom is admitted, enforcement may be denied if contrary to fundamental legal principles.",
+    "Proof of foreign custom can be established as a fact, not necessarily through expert testimony.",
+    "A document purporting to confer authority must be authenticated to be admissible.",
+    "The trial court erred in accepting an unverified document as proof of family delegation."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text, including holdings, reasoning, and procedural history.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/LOROMEKE v. NEKEGHO AND AYO..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:02:30.214Z",
+    "plainTextLength": 8237
+  }
+}

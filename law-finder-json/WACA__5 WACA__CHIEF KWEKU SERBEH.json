@@ -1,0 +1,68 @@
+{
+  "caseTitle": "CHIEF KWEKU SERBEH",
+  "summary": "This case involved a civil boundary dispute between Chief Kwaku Serbeh (appellant) and Ohene Kobina Karikari (respondent) over tribal lands in Ghana. The Chief Commissioner had determined the boundary as a straight line between points A and B, based on evidence of an original agreement between predecessors. The Court of Appeal upheld this decision, deferring to the trial court's factual findings. The Privy Council dismissed the appeal, affirming that concurrent factual findings by lower courts should not be disturbed absent compelling reason. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "boundary dispute",
+    "tribal lands",
+    "concurrent findings",
+    "question of fact",
+    "appeal",
+    "evidence evaluation",
+    "land tenure",
+    "precedent",
+    "judicial review",
+    "customary law",
+    "land demarcation",
+    "appellate jurisdiction",
+    "Privy Council",
+    "Chief Commissioner",
+    "Court of Appeal"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Customary Law"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "LORD THANKERTON",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "LORD ALNESS",
+      "role": "member"
+    },
+    {
+      "name": "LORD FAIRFIELD",
+      "role": "member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Judicial Committee of the Privy Council (on appeal from West Africa Court of Appeal)",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Appeal 2 Vo.41 of 1938",
+    "JUDGMENT OF THE LORDS OF THE JUDICIAL COMMITTEE OF THE PRIVY COUNCIL, DELIVERED THE 12TH JUNE, 1939"
+  ],
+  "rationaleHighlights": [
+    "The appeal was on a question of fact, with other points abandoned.",
+    "The trial court accepted the respondent's evidence and rejected the appellant's.",
+    "The Court of Appeal saw no reason to differ from the trial court's factual assessment.",
+    "The Privy Council upheld the concurrent findings of fact by lower courts.",
+    "The boundary was determined as a straight line between points A and B based on historical agreement.",
+    "The Privy Council advised dismissal of the appeal with costs."
+  ],
+  "confidenceNotes": "The source is an official judgment document from the Judicial Committee of the Privy Council, indicating high reliability. However, the note '* Not. reported.' suggests it may not be formally reported in a law report series.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/CHIEF KWEKU SERBEH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:49:42.830Z",
+    "plainTextLength": 2321
+  },
+  "trialDate": "12TH JUNE, 1939"
+}

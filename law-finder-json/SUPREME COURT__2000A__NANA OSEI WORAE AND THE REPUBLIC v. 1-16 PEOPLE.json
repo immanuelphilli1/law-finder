@@ -1,0 +1,102 @@
+{
+  "caseTitle": "IN THE MATTER OF THE PETITION OF NANA OSEI WORAE TO HAVE HIS NAME ON THE REGISTER OF CHIEFS OF THE NATIONAL HOUSE OF CHIEFS AND IN THE MATTER OF AN APPLICATION FOR THE ATTACHMENT AND OR COMMITTAL FOR CONTEMPT AND",
+  "summary": "This is a ruling by the Supreme Court of Ghana on an application for review of its earlier decision dismissing a contempt motion. The applicant, Nana Adu Ameyaw II, sought to have 16 respondents, including chiefs and officials of the National House of Chiefs, attached for contempt, alleging they interfered with judicial processes concerning chieftaincy disputes. The Court dismissed the review application, holding that the original decision did not result in a miscarriage of justice. It reaffirmed that review under Rule 54 of the Supreme Court Rules is limited to exceptional circumstances involving fundamental errors or newly discovered evidence. The Court found no such error, noting that the majority had properly applied the law on contempt, which requires willfulness and jurisdictional competence. It emphasized that inferior tribunals like the National House of Chiefs cannot be held in contempt by the Supreme Court directly, and that the proper remedy for alleged violations of court orders lies in the High Court. The applicant’s reliance on constitutional provisions was deemed irrelevant to the jurisdictional issue. The ruling underscores the finality of judicial decisions and the narrow scope of review.",
+  "legalKeywords": [
+    "contempt of court",
+    "judicial review",
+    "miscarriage of justice",
+    "inherent jurisdiction",
+    "Superior Courts",
+    "National House of Chiefs",
+    "Chieftaincy Act",
+    "constitutional jurisdiction",
+    "Rule 54",
+    "exceptional circumstances",
+    "due diligence",
+    "quasi-criminal standard",
+    "jurisdictional limits",
+    "tribunal authority",
+    "executive interference",
+    "judicial finality",
+    "petitioner rights",
+    "court procedure",
+    "legal precedent",
+    "constitutional interpretation",
+    "judicial committee"
+  ],
+  "topics": [
+    "Contempt of Court",
+    "Judicial Review",
+    "Chieftaincy Disputes",
+    "Constitutional Law",
+    "Jurisdiction"
+  ],
+  "verdict": "The application for review was dismissed.",
+  "winningSide": "The respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Edward Wiredu",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Mrs. J. Bamford-Addo",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Ampiah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Adjabeng",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Acquah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Ms. Akuffo",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Mechanical Lloyd Assembly Plant Ltd. v. Nartey, [1987-88] 2 GLR 598",
+    "Quartey and Others v. Central Services Co. Ltd., [1996-1997] SCGLR 398",
+    "Agyekum v. Asakum Engineering and Construction Ltd., [1992] 2 GLR 635",
+    "Nasali v. Addy, [1987-1988] 2 GLR 286",
+    "Fosuhene v. Pomaa [1987-88] 2 GLR 105",
+    "Republic v. Kofi Totobi Kwakye et al., Ex-Parte Abel Adusei CM. 45/94 (Unreported, Supreme Court Ruling, 26th July 1994)",
+    "Supreme Court Rules, 1996 (C.I. 16), Rule 54",
+    "Chieftaincy Act, 1971 (Act 370), s. 26(7)",
+    "Chieftaincy (Proceedings and Functions) Traditional Councils Regulations, 1972 (LI 798), para. 13(5)",
+    "Constitution of Ghana, 1992, art. 126(2) and art. 129(4)"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court emphasized that review under Rule 54 is not a rehearing but requires exceptional circumstances leading to a miscarriage of justice.",
+    "The Court found no fundamental error in the original decision dismissing the contempt application, as the majority had properly considered relevant law and evidence.",
+    "Articles 126(2) and 129(4) of the Constitution do not extend the Supreme Court’s contempt jurisdiction to actions against inferior tribunals like the National House of Chiefs.",
+    "Contempt requires willfulness (mens rea), which was absent in the conduct of the respondents.",
+    "The Research Committee acted within its statutory mandate under Act 370; thus, its actions did not constitute contempt even if they conflicted with a prior court order.",
+    "The High Court, not the Supreme Court, has jurisdiction over contempt arising from proceedings before chieftaincy tribunals.",
+    "The applicant failed to present new or overlooked evidence that would justify a review.",
+    "The principle of *interest rei publicae ut sit finis litium* (the public interest in finality of litigation) limits the use of review powers."
+  ],
+  "confidenceNotes": "The ruling is from the Supreme Court of Ghana and cites constitutional provisions, statutory instruments, and prior case law, indicating high legal authority. The decision was based on a majority judgment with detailed reasoning, enhancing reliability.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2000A/NANA OSEI WORAE AND THE REPUBLIC v. 1-16 PEOPLE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:49:00.004Z",
+    "plainTextLength": 24571
+  },
+  "trialDate": "2000-01-12"
+}

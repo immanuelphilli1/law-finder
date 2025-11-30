@@ -1,0 +1,72 @@
+{
+  "caseTitle": "IN THE MATTER OF THE CERTIFICATES OF VALIDITY GRANTED IN CONCESSION ENQUIRIES Nos",
+  "summary": "This appeal before the West African Court of Appeal concerned the validity of an order endorsing Certificates of Validity for diamond mining concessions to reflect a one-third rent entitlement in favor of Nana Sir Ofori Atta, Omanhene of Akyem Abuakwa. The concessions were originally granted by subordinate stools (Asamangkese and Akwatia) to the Consolidated African Selection Trust Ltd. The Omanhene opposed their validation, claiming both the necessity of his assent for alienation and a customary right to one-third of the rents. To avoid delay, a compromise was reached in 1924 whereby Certificates of Validity were issued subject to a condition preserving the Omanhene's claims for future determination. An arbitration in 1929, later upheld by the West African Court of Appeal and the Privy Council, confirmed the one-third rent entitlement but rejected the necessity of prior assent. Following this, the Omanhene successfully moved the Concessions Court to endorse the Certificates accordingly. The subordinate stools appealed, challenging the court's jurisdiction and the legal basis for the endorsement. The appeal was dismissed on the grounds that the jurisdictional issue was res judicata and that the court had the authority under the Supreme Court Rules to implement the pre-existing conditional order.",
+  "legalKeywords": [
+    "concession",
+    "certificate of validity",
+    "paramount chief",
+    "customary law",
+    "land alienation",
+    "rent sharing",
+    "jurisdiction",
+    "res judicata",
+    "endorsement",
+    "arbitration",
+    "native custom",
+    "Omanhene",
+    "stool land",
+    "diamond mining",
+    "ex parte motion",
+    "Privy Council",
+    "Supreme Court",
+    "Concessions Ordinance",
+    "arbitral award",
+    "subordinate stool"
+  ],
+  "topics": [
+    "land law",
+    "customary law",
+    "mining concessions",
+    "arbitration",
+    "appellate procedure"
+  ],
+  "verdict": "The appeal was dismissed with costs.",
+  "winningSide": "Respondents (Nana Sir Ofori Atta and Consolidated African Selection Trust Ltd.)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Deane",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Hall",
+      "role": "Arbitrator"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "WACA/1WACA/qqqqq.htm",
+    "Concessions Ordinance",
+    "Arbitration Ordinance 1928",
+    "Supreme Court Rules"
+  ],
+  "rationaleHighlights": [
+    "The issue of jurisdiction to insert a condition in the Certificate of Validity was res judicata and thus not re-examinable on appeal.",
+    "The Concessions Court had the power to order endorsement of the Certificate based on the condition previously attached, under the applicable Supreme Court Rules.",
+    "The compromise allowing issuance of Certificates pending resolution of chieftaincy claims was valid and served to prevent unnecessary delay.",
+    "The arbitrator's award, upheld by the Privy Council, confirmed the Omanhene's customary right to one-third of rents, despite no requirement for his consent to alienation.",
+    "The endorsement order was not a new imposition but the implementation of a pre-existing conditional clause triggered by a final legal determination."
+  ],
+  "confidenceNotes": "The case details are drawn directly from the provided document, which appears to be a digitized version of an official legal report. All key facts, procedural history, and holdings are explicitly stated in the text. The jurisdiction and parties are clearly identified, and the legal reasoning is well-articulated in the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/qqqqq.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:36:29.249Z",
+    "plainTextLength": 26912
+  },
+  "trialDate": "1933-11-27"
+}

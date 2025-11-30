@@ -1,0 +1,78 @@
+{
+  "caseTitle": "KOFI SENKYIRE v ABOSSO GOLDFIELDS LTD.",
+  "summary": "The case of Kofi Senkyire v. Abosso Goldfields Ltd. involved a wrongful dismissal claim following the appellant's termination for allegedly attempting to steal gold-bearing rocks. The plaintiff, a foreman in the Sampling Department, was found carrying a sample bag at the security gate after shift, which led to his suspension and subsequent dismissal by a disciplinary committee. The Circuit Court initially ruled in favor of the plaintiff, awarding damages and back salaries, but the Court of Appeal reversed this decision, holding that the dismissal was lawful. The Supreme Court upheld the appeal, finding that although the evidence was circumstantial and did not prove guilt beyond reasonable doubt, the employer was justified in terminating the plaintiff’s employment due to the breach of trust inherent in his conduct, given the sensitive nature of handling gold-bearing materials in a mining environment. The court emphasized that an employer may lawfully dismiss an employee where trust is irreparably damaged, even without conclusive proof of theft.",
+  "legalKeywords": [
+    "wrongful dismissal",
+    "employment contract",
+    "gross misconduct",
+    "circumstantial evidence",
+    "burden of proof",
+    "termination of employment",
+    "disciplinary procedure",
+    "breach of trust",
+    "standard of proof",
+    "employee rights",
+    "labor law"
+  ],
+  "topics": [
+    "Employment Law",
+    "Disciplinary Procedures",
+    "Wrongful Dismissal",
+    "Industrial Relations",
+    "Mining Sector Regulation"
+  ],
+  "verdict": "Appeal dismissed; decision of Court of Appeal upheld",
+  "winningSide": "Defendant/Respondent (Abosso Goldfields Ltd.)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Acquah",
+      "role": "Chief Justice (Presiding)"
+    },
+    {
+      "name": "Wood",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Dr. Twum",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Prof. Ocran",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Aninakwa",
+      "role": "Justice delivering judgment"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Clouster & Co Ltd vrs Corry [1906] AC. 122 PC",
+    "Brown v Craft (1828) 6 C& P 16",
+    "Arkhurst v. Ghana Museum and Monuments Board (1971) 2 GLR 7",
+    "Halsbury’s Laws of England, 3rd Edition, pp. 485–486"
+  ],
+  "rationaleHighlights": [
+    "The employer lawfully invoked disciplinary procedures under the Conditions of Service for gross misconduct.",
+    "The employee was afforded opportunity to defend himself before a committee, satisfying procedural fairness.",
+    "Circumstantial evidence need not prove guilt beyond reasonable doubt in employment dismissal cases.",
+    "The nature of the mining industry imposes high standards of trust and integrity on employees handling valuable materials.",
+    "Damage to employer-employee trust justified termination even without conclusive proof of theft.",
+    "The committee found the employee's intentions to be malicious despite lack of direct evidence.",
+    "Termination with payment of entitlements was within the company's rights under the contract.",
+    "The Court of Appeal correctly applied the standard of proof appropriate for civil employment disputes."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judgment text; minor truncation in source document does not affect core legal reasoning or outcome.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2006A/KOFI SENKYIRE v  ABOSSO GOLDFIELDS LTD..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T18:05:47.057Z",
+    "plainTextLength": 16071
+  },
+  "trialDate": "2005-04-20"
+}

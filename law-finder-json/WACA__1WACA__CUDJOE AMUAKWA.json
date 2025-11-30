@@ -1,0 +1,64 @@
+{
+  "caseTitle": "CUDJOE AMUAKWA",
+  "summary": "This civil appeal before the West African Court of Appeal involved two consolidated suits by Cudjoe Amuakwa, Chief of Duakwa, against Kwa Gurah and Kwa Amuquandoh Peyin for unpaid rent under a land agreement. The cases were initially heard on the undefended list, with both defendants denied leave to defend after filing affidavits disclosing no substantial defence. A subsequent review allowed evidence on whether the defendants understood the term 'acre' in the agreement, but the trial court upheld the judgment. On appeal, the Court affirmed the trial judge's factual findings that the defendants understood the agreement, which was negotiated over multiple meetings with the District Commissioner interpreting it clause by clause. The appellants' claim of misunderstanding was rejected, especially given the involvement of educated intermediaries ('scholars') and the use of 573 trees as equivalent to an acre. However, the appellate court varied the judgment, reducing the awarded amounts by one-third because only two years of rent were due at the time of filing, not three, and there was no provision for advance payment. Costs of the appeal were awarded to the respondent.",
+  "legalKeywords": [
+    "undefended list",
+    "leave to defend",
+    "review of judgment",
+    "burden of proof",
+    "misrepresentation",
+    "arbitration",
+    "rent agreement",
+    "acreage interpretation",
+    "affidavit in defence",
+    "costs of appeal",
+    "understanding of contract",
+    "District Commissioner",
+    "native land rights",
+    "consent to arbitrate",
+    "payment in advance"
+  ],
+  "topics": [
+    "Contract Law",
+    "Land Law",
+    "Appellate Procedure",
+    "Civil Procedure",
+    "Evidence"
+  ],
+  "verdict": "Appeal dismissed with judgment amounts reduced by one-third.",
+  "winningSide": "Plaintiff-Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Deane, C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Howes, J.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Atta Kwamina v. Kobina Kufuor P.C. 1874-1928, 28"
+  ],
+  "rationaleHighlights": [
+    "Defendants failed to show valid grounds for leave to defend; affidavits disclosed no meritorious defence.",
+    "Defence based on misunderstanding of 'acre' rejected due to evidence of extensive prior discussions and explanations by District Commissioner.",
+    "Arbitration plea dismissed as inconsistent with prior counsel's admission that plaintiff never agreed to submit to arbitration.",
+    "Judgment reduced by one-third because rent was not payable in advance; only two years' rent due at time of filing writs.",
+    "Appellants failed to prove lack of understanding; agreement was made after long deliberation with public officer oversight."
+  ],
+  "confidenceNotes": "High confidence; details are consistent across judicial reasoning and factual recitation.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/CUDJOE AMUAKWA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:50:10.698Z",
+    "plainTextLength": 27955
+  },
+  "trialDate": "1932-11-21"
+}

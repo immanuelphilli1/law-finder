@@ -1,0 +1,35 @@
+{
+  "caseTitle": "supreme court rep cases (1)",
+  "summary": "The provided document is not a judicial decision but rather a copyright and homepage notice for an unofficial online compilation of unreported Supreme Court of Ghana cases from 2004. It includes a self-help guide to the law and contact information, but contains no case details, legal reasoning, or verdict. As such, no substantive legal analysis can be derived from this page.",
+  "legalKeywords": [
+    "unreported case",
+    "copyright notice",
+    "legal resource",
+    "self-help guide",
+    "case index"
+  ],
+  "topics": [
+    "Legal Publishing",
+    "Court Resources",
+    "Unreported Cases",
+    "Ghanaian Law"
+  ],
+  "verdict": "No verdict available",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "unreported",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The provided document does not contain a legal decision, case summary, or judicial content. It appears to be a copyright notice and homepage for an unofficial compilation of unreported cases. No factual legal information is available for extraction.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2008/2008.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:55:46.723Z",
+    "plainTextLength": 272
+  }
+}

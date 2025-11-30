@@ -1,0 +1,66 @@
+{
+  "caseTitle": "FRY, DECEASED. NYIMFA VERSUS KWEGYIRBA..",
+  "summary": "In this probate dispute, the plaintiff, representing the deceased's maternal family, appealed the lower court's decision favoring the executrix wife regarding the construction of John Cassar Fry's will. The will devised \"the old one\" house to the wife and children and \"the new one\" to the maternal family. The testator owned three houses: one in Kumasi and two in Cape Coast. The central issue was whether the two Cape Coast houses together constituted \"the new one\" or if each was separately the old and new building. The West African Court of Appeal held that the will's language created a latent equivocation, making extrinsic evidence admissible to determine the testator's intent. Evidence showed the two Cape Coast houses were locally known as the 'old' and 'new' buildings. The court upheld the trial judge's interpretation that these two houses were the subject of the respective devises, rejecting the plaintiff's claim that both Cape Coast properties formed the 'new one.' The appeal was dismissed.",
+  "legalKeywords": [
+    "will construction",
+    "extrinsic evidence",
+    "latent equivocation",
+    "specific devise",
+    "testator's intention",
+    "maternal family",
+    "real property",
+    "probate dispute",
+    "devises",
+    "admissibility of evidence"
+  ],
+  "topics": [
+    "Wills and Estates",
+    "Property Law",
+    "Evidence Law",
+    "Probate",
+    "Legal Interpretation"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Defendant (executrix, representing the wife and children)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Korsah C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Verity Ag.JA",
+      "role": "Acting Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "probate",
+  "citations": [
+    "Nowell v. Flannery [1936] Ch.D. 203",
+    "Higgins v. Dawson [1902] A.C. 1"
+  ],
+  "rationaleHighlights": [
+    "The will's reference to \"the old one\" and \"the new one\" created latent ambiguity given three existing houses.",
+    "Extrinsic evidence was admissible to clarify the testator's intent.",
+    "The two Cape Coast houses were commonly known as the 'old' and 'new' buildings.",
+    "The Kumasi house was not considered the 'old one' despite acquisition timing.",
+    "The trial judge correctly admitted evidence and interpreted the will.",
+    "The appeal was dismissed based on proper construction of the will.",
+    "Clarity in will language depends on context and surrounding circumstances.",
+    "Ownership and naming conventions of property are relevant to interpretation."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details (parties, judges, jurisdiction, holding) are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/In re FRY, DECEASED. NYIMFA v. KWEGYIRBA...htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:31:40.701Z",
+    "plainTextLength": 5002
+  }
+}

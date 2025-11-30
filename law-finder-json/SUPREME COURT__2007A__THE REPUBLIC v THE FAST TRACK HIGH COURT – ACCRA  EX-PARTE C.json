@@ -1,0 +1,66 @@
+{
+  "caseTitle": "THE REPUBLIC VRS THE FAST TRACK HIGH COURT",
+  "summary": "The Supreme Court of Ghana addressed whether a complaint under Article 218(a) of the 1992 Constitution, enabling CHRAJ to investigate human rights violations, corruption, and abuse of power, must be made by an identifiable individual or entity and formally lodged. The Court held that such a complaint must be traceable to a specific source—either an individual or corporate body—and formally submitted to CHRAJ, either orally or in writing, in accordance with C.I. 7. The Court rejected the notion that public expressions of dissatisfaction, such as media reports, suffice as complaints. It emphasized a literal interpretation of 'complaint' as a formal accusation requiring procedural compliance, distinguishing investigations under Article 218(a) from those under 218(e), which do not require a complainant but are limited to corruption and misappropriation of public funds.",
+  "legalKeywords": [
+    "complaint",
+    "constitutional interpretation",
+    "CHRAJ",
+    "fundamental rights",
+    "abuse of power",
+    "corruption",
+    "public officer",
+    "literal interpretation",
+    "purposive interpretation",
+    "procedural requirements"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Justice",
+    "Human Rights",
+    "Judicial Interpretation",
+    "CHRAJ Jurisdiction"
+  ],
+  "verdict": "The Supreme Court ruled that for a complaint under Article 218(a) to trigger CHRAJ investigation, it must be made by an identifiable person or entity and formally lodged with the Commission.",
+  "winningSide": "The Fast Track High Court – Accra (Respondent), supported by the Attorney General's position on formal complaint requirements",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Chief Justice (President)",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Justice Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "Dr. Date-Baah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Interpretation",
+  "citations": [
+    "Article 218(a)-(e), 1992 Constitution of Ghana",
+    "Article 230, 1992 Constitution",
+    "Commission on Human Rights and Administrative Justice Act, 1993 (Act 456)",
+    "Commission on Human Rights and Administrative Justice (Complaint Procedure) Regulations, 1994 (C.I. 7)"
+  ],
+  "rationaleHighlights": [
+    "The term 'complaint' in Article 218(a) must be interpreted literally and requires an identifiable complainant.",
+    "Oral or written complaints must be formally lodged with CHRAJ per C.I. 7.",
+    "Media expressions or public grievances do not constitute valid complaints without formal submission.",
+    "Paragraph (d)'s reference to 'parties concerned' implies two identifiable parties: complainant and respondent.",
+    "Investigations under Article 218(e) for corruption do not require a formal complaint but are distinct from abuse of power inquiries under 218(a)."
+  ],
+  "confidenceNotes": "High confidence; interpretation based on constitutional text, statutory provisions, and regulatory framework.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2007A/THE REPUBLIC v THE FAST TRACK HIGH COURT – ACCRA  EX-PARTE C.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:17:38.928Z",
+    "plainTextLength": 10532
+  },
+  "trialDate": "2007-10-05"
+}

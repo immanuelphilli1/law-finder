@@ -1,0 +1,59 @@
+{
+  "caseTitle": "supreme court rep cases (1)",
+  "summary": "The provided document is not a judicial decision but a table of contents from the 'Review of Ghana Law 1980' publication. It lists various legal articles and essays authored by different legal scholars and practitioners, covering topics such as customary marriage, land administration, judicial review, consumer protection, and court procedures. There is no case analysis, ruling, or court judgment contained in the text. The content serves as an academic and reference resource rather than a reported court decision.",
+  "legalKeywords": [
+    "judicial review",
+    "customary marriage",
+    "land administration",
+    "consumer protection",
+    "certiorari",
+    "non-jurisdictional error of law",
+    "bail in murder cases",
+    "constitutional interpretation",
+    "separation of powers",
+    "summary judgment",
+    "confession statements",
+    "registrable transactions",
+    "sentencing",
+    "judicial appointments",
+    "legal procedure"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Customary Law",
+    "Land Law",
+    "Criminal Procedure",
+    "Judicial Administration",
+    "Consumer Rights",
+    "Legal Scholarship"
+  ],
+  "verdict": "not applicable",
+  "winningSide": "not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "academic legal review",
+  "citations": [
+    "[1980] Vol. XII RGL"
+  ],
+  "rationaleHighlights": [
+    "The document outlines key legal issues discussed in academic articles from 1980.",
+    "Emphasis is placed on procedural and constitutional developments in Ghanaian law.",
+    "Scholarly contributions address gaps in customary and statutory law application.",
+    "Discussions on judicial review and separation of powers reflect post-independence legal evolution.",
+    "Articles provide foundational understanding of bail, confessions, and land transactions.",
+    "Focus on legal reform and administrative efficiency in the judiciary.",
+    "Recognition of individual contributions to Ghana's legal scholarship.",
+    "No judicial reasoning or case outcome is present as this is not a court decision."
+  ],
+  "confidenceNotes": "High confidence that this is not a court decision but a compilation of legal articles. The source appears to be a legal journal or review publication, not a case report. Therefore, standard case elements like verdict, judges, and prosecution are not applicable.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2011.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:47:50.824Z",
+    "plainTextLength": 2592
+  }
+}

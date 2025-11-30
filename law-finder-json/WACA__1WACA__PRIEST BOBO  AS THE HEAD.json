@@ -1,0 +1,71 @@
+{
+  "caseTitle": "PRIEST BOBO AS THE HEAD",
+  "summary": "This West African Court of Appeal case arose from a land dispute over mortgaged creeks (Akporlor, Agbiwe, Zukpewe, and Mosuoe) adjacent to the Avu Lagoon in Avenor, Ghana. The plaintiffs, led by Priest Bobo and ToGbri Sri II, claimed ownership as tribal property of the Avenor nation. The defendant, Timothy A. Anthony, had purchased the land at execution following a mortgage by three individuals claiming to be Fias of Avenor. The trial court and appellate court held that the mortgagors lacked authority to convey title, as the land was tribal property and the government-recognized Fia at the time was Anuma II. The Benibi v. Bobo (1924) decision was pivotal, having established the lagoon and creeks as perpetual property of the Sevie Tribe, later interpreted as belonging to the broader Avenor nation. The court upheld the trial judge's discretion to allow amendments to the writ during proceedings, rejecting claims of misjoinder and estoppel. Although Anthony was an innocent purchaser, he acquired no valid title. The plaintiffs succeeded in reclaiming the land, though costs were denied due to their failure to intervene earlier.",
+  "legalKeywords": [
+    "land mortgage",
+    "certificate of purchase",
+    "tribal property",
+    "amendment of writ",
+    "innocent purchaser",
+    "sale at execution",
+    "estoppel",
+    "misjoinder",
+    "native title",
+    "equity and good conscience",
+    "Fia",
+    "Paramount Chief",
+    "creeks",
+    "Avu Lagoon",
+    "Anlo"
+  ],
+  "topics": [
+    "land law",
+    "mortgage",
+    "tribal ownership",
+    "court procedure",
+    "amendment of pleadings"
+  ],
+  "verdict": "The appeal was dismissed. The judgment of the court below was upheld, affirming that the plaintiffs retained ownership of the land and creeks as tribal property, and the defendant's certificate of purchase conferred no valid title.",
+  "winningSide": "Plaintiffs-Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sawrey-Cookson",
+      "role": "appellate judge"
+    },
+    {
+      "name": "Hall",
+      "role": "trial judge"
+    },
+    {
+      "name": "Anuma II",
+      "role": "Native Tribunal judge (historical reference)"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "Benibi v. Bobo (1924)",
+    "Rainy v. Bravo (L.R. 4 P.C. 287)",
+    "Exhibit B",
+    "Exhibit A",
+    "Exhibit J"
+  ],
+  "rationaleHighlights": [
+    "The mortgagors lacked authority to mortgage tribal land without tribal consent.",
+    "Amendments to the writ were permissible under court discretion at any stage prior to final judgment.",
+    "The Benibi v. Bobo decision established the creeks as communal property of the Avenor nation.",
+    "The defendant, though an innocent purchaser, acquired no title because the mortgagors had no saleable interest.",
+    "Estoppel was not established as the plaintiffs did not actively mislead the defendant."
+  ],
+  "confidenceNotes": "The document is truncated but contains sufficient information from the judgment to extract key legal points, parties, and reasoning. Citations are drawn directly from the text. Some procedural details may be missing due to truncation.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/PRIEST BOBO  AS THE HEAD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:39:34.050Z",
+    "plainTextLength": 26913
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "caseTitle": "REV. S. S. ODONKOR,",
+  "summary": "This consolidated civil appeal before the West Africa Court of Appeal in Accra (1941) involved land disputes originating from the Native Tribunal of the Ga State. The trial court granted declarations of title and awarded damages for trespass to plaintiffs Rev. S. S. Odonkor (representing the Presbyterian Church) and A. B. Nartey. The appellants, including Yaoteley Yaotey and the Acting Gbese Manche, challenged the judgment, arguing that the court should have halted proceedings due to alleged criminal fraud by plaintiff A. B. Nartey. The appellate court dismissed this argument, affirming that a civil action need not await criminal prosecution, as civil and public wrongs are distinct under common law. It upheld the trial court's factual findings, finding ample evidence of trespass. The appeal by the Acting Gbese Manche was struck out due to lack of standing after a new Gbese Manche was installed. All appeals were dismissed with costs.",
+  "legalKeywords": [
+    "trespass",
+    "declaration of title",
+    "felony",
+    "civil rights",
+    "injunction",
+    "evidence",
+    "prosecution",
+    "appeal",
+    "consolidated cases",
+    "damages",
+    "criminal charge",
+    "public justice",
+    "private wrong",
+    "common law",
+    "jurisdiction",
+    "standing",
+    "costs",
+    "trial court",
+    "native tribunal",
+    "stool land"
+  ],
+  "topics": [
+    "Land Law",
+    "Tort Law",
+    "Civil Procedure",
+    "Criminal-Civil Interface",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Plaintiffs-Respondents (Rev. S. S. Odonkor and A. B. Nartey)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon CJ",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Strother-Stewart",
+      "role": "Justice"
+    },
+    {
+      "name": "Bannerman",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Midland Insurance Co. v. Smith 1881, 6 Q.B.D. 561"
+  ],
+  "rationaleHighlights": [
+    "No legal obligation for court to halt civil proceedings pending criminal investigation of alleged felony by plaintiff.",
+    "Civil and criminal wrongs do not merge; civil action can proceed independently.",
+    "Defendant cannot delay civil case by alleging criminal conduct.",
+    "Trial court's findings supported by ample evidence of trespass.",
+    "Appellant lacked standing to pursue appeal after substitution of Gbese Manche."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details (parties, judgment, legal reasoning) are explicitly stated in the document. Citation is directly quoted.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/REV. S. S. ODONKOR,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:30:18.918Z",
+    "plainTextLength": 9784
+  },
+  "trialDate": "1941-12-04"
+}

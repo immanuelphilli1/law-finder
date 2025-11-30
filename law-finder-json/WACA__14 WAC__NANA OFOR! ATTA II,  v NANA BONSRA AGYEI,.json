@@ -1,0 +1,75 @@
+{
+  "caseTitle": "NANA OFOR! ATTA II, v NANA BONSRA AGYEI,",
+  "summary": "This civil appeal before the West African Court of Appeal, Gold Coast, arose from a land dispute involving the Muronam Stool and the Banka Stool, where a prior judgment had already determined title. The current plaintiffs were the Omanhene of Akim Abuakwa (paramount chief) and the Odikro of Muronam (sub-chief). The trial court dismissed their claim based on estoppel, citing a 1940 judgment against the Muronam Stool in a previous suit with the Banka Stool over the same land. On appeal, the court upheld the estoppel: the second plaintiff (Muronam Stool) was directly bound by the prior judgment. The first plaintiff (Akim Abuakwa) was held estopped by conduct, as it had knowledge of the prior proceedings through its sub-chief and officials, shared the same interest in upholding Muronam’s title, and failed to intervene despite having the right and duty to do so. The court emphasized that Akim Abuakwa’s interest derived solely from Muronam’s title, making it privy to that party. Thus, both plaintiffs were barred from re-litigating the issue of title.",
+  "legalKeywords": [
+    "estoppel by record",
+    "estoppel by conduct",
+    "privity of parties",
+    "title to land",
+    "stool land",
+    "paramount chief",
+    "sub-chief allegiance",
+    "judicial precedent",
+    "re-litigation",
+    "intervention in legal proceedings",
+    "final judgment in rem",
+    "party privy",
+    "standing by",
+    "declaration of title",
+    "injunction",
+    "plea of estoppel",
+    "adverse claim",
+    "jurisdictional hierarchy",
+    "customary land tenure"
+  ],
+  "topics": [
+    "Land Law",
+    "Estoppel",
+    "Customary Law",
+    "Stool Land Disputes",
+    "Judicial Precedent"
+  ],
+  "verdict": "Appeal dismissed. The plaintiffs were estopped from re-litigating the title to the land due to prior judgment and conduct.",
+  "winningSide": "Respondents (Banka Stool and Adansehene)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Manyo-Plange, J.",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "Foster-Sutton, P.",
+      "role": "Panel member"
+    },
+    {
+      "name": "Coussey, I.A.",
+      "role": "Panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "In re Lart: Wilkinson v. Blades (1896) 2 Ch. 788",
+    "Chief Kwame Andoh and another of Muronam on behalf of the Stool of Muronam v. Nana Kwakye Penkro, Bankahene and two others",
+    "West African Court of Appeal judgment dated 29th May, 1941",
+    "Court of the Chief Commissioner of Ashanti decision dated 19th December, 1940"
+  ],
+  "rationaleHighlights": [
+    "Second plaintiff estopped due to prior final judgment against them on same land title issue.",
+    "First plaintiff, though not formal party, is privy to second plaintiff via allegiance and dependent title claim.",
+    "First plaintiff had knowledge of prior suit and duty to intervene but chose to stand by, constituting estoppel by conduct.",
+    "Interest in land derived through sub-stool's title; paramountcy does not confer independent ownership.",
+    "Judgment in rem binds parties and privies, preventing re-litigation of same issue."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and explicit references to prior proceedings and evidence.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/NANA OFOR! ATTA II,  v NANA BONSRA AGYEI,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:34:13.039Z",
+    "plainTextLength": 16679
+  },
+  "trialDate": "1952-07-09"
+}

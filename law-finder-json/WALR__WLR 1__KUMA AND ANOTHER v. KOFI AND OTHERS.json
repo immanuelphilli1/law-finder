@@ -1,0 +1,58 @@
+{
+  "caseTitle": "KUMA AND ANOTHER VERSUS KOFI AND OTHERS",
+  "summary": "In Kuma and Another v. Kofi and Others, the Supreme Court of the Gold Coast (Land Court, Accra) allowed an appeal against a Native Appeal Court decision that had denied the plaintiffs' claim to redeem land allegedly pledged to the defendants. The trial Native Court had found in favor of the plaintiffs, accepting evidence of a pledge and admissions by the defendant's predecessor that the dispute concerned the redemption amount (a keg of gunpowder), not the nature of the transaction. The Native Appeal Court reversed this, citing failure to perform a customary notification upon the death of a pledgee. Lingley J. held that under native law and custom, a pledge remains redeemable indefinitely and that lapse of time is no bar. He further ruled that while customary notification serves to keep a pledge 'alive,' its absence cannot invalidate a pledge proven by other credible evidence, such as admissions. The appeal was allowed, the Native Appeal Court's judgment was set aside, and the trial court's decision was restored.",
+  "legalKeywords": [
+    "native law and custom",
+    "land pledge",
+    "right of redemption",
+    "customary land law",
+    "evidence of pledge",
+    "admission in arbitration",
+    "customary notification",
+    "rebuttal of sale claim",
+    "continuing validity of pledge",
+    "equity in land redemption"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Pledge and Redemption",
+    "Appellate Review",
+    "Evidence in Customary Disputes"
+  ],
+  "verdict": "Appeal allowed; judgment of the Native Appeal Court set aside and trial court judgment restored.",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lingley J.",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Land Court, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "Agbo Kofi v. Addo Kofi (1933) 1 W.A.C.A. 284",
+    "Judgment by van Lare J., January 31, 1953"
+  ],
+  "rationaleHighlights": [
+    "Lapse of time does not bar the right of a pledgor to redeem pledged land under native law and custom.",
+    "Failure to perform customary notification does not invalidate a proven pledge.",
+    "Admissions during non-binding arbitration support the existence of a pledge.",
+    "Customary sale requires chief's consent, which was not proven by the defendant.",
+    "Appeal court erred in overturning trial court's factual findings based on credible evidence.",
+    "Customary notification is evidentiary, not a condition precedent to redemption.",
+    "Equity favors protecting the pledgor's right where the pledge is proven.",
+    "Trial court's factual assessment must be respected on appeal."
+  ],
+  "confidenceNotes": "High confidence in extraction; source is a published law report with clear judicial reasoning and citations.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/KUMA AND ANOTHER v. KOFI AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:04:08.622Z",
+    "plainTextLength": 7861
+  }
+}

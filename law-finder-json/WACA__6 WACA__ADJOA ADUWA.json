@@ -1,0 +1,63 @@
+{
+  "caseTitle": "ADJOA ADUWA",
+  "summary": "This civil case involved a dispute over the enforcement of a writ of fieri facias (fi. fa.) on a farm pledged as security for a debt. Adjoa Aduwa, the appellant, claimed her farm was unconditionally released by the respondent, G.O. Abosi, and that executing the writ constituted trespass. The respondent argued the release was conditional upon substitution with another farm, which never materialized. The Asantehene's Native Court 'B' found for the respondent, holding the release was conditional and the original security remained valid. Although Court 'A' reversed this on appeal, the Chief Commissioner's Court restored the original judgment. The West Africa Court of Appeal dismissed the appeal, affirming that the security was not unconditionally released and the execution was lawful.",
+  "legalKeywords": [
+    "trespass",
+    "writ of fi. fa.",
+    "security release",
+    "conditional agreement",
+    "farm pledge",
+    "execution of judgment",
+    "alternative security",
+    "contractual condition",
+    "native court",
+    "appellate review"
+  ],
+  "topics": [
+    "Property Law",
+    "Contract Law",
+    "Civil Procedure",
+    "Security Interests",
+    "Appellate Jurisdiction"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Defendant-Respondent (G. O. Abosi)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "C.J., Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "C.J., Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "C.J., Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WACA/6 WACA/ADJOA ADUWA"
+  ],
+  "rationaleHighlights": [
+    "The release of the farm was conditional upon provision of alternative security.",
+    "The alternative security was never provided, so the original security remained enforceable.",
+    "The trial court's factual finding was upheld on appeal.",
+    "The appellant's refusal to sign the September 1938 document invalidated that arrangement.",
+    "The West Africa Court of Appeal dismissed the appeal with costs.",
+    "The execution of the writ of fi. fa. was lawful due to unfulfilled conditions."
+  ],
+  "confidenceNotes": "The case details are clearly documented with consistent judicial reasoning across courts; the final decision aligns with factual findings from the trial court.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/ADJOA ADUWA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:11:54.459Z",
+    "plainTextLength": 5383
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "caseTitle": "NCHONAH v APPIAH",
+  "summary": "The consolidated case of Nchonah v Appiah; Mensah v General Development Company Ltd (GDC Ltd); Hammond and Another v GDC Ltd, heard by Adjabeng J at Sekondi on 26 May 1989, involved multiple personal injury and property damage claims arising from motor vehicle accidents. The first plaintiff, a commercial farmer, sustained severe leg injuries resulting in permanent mobility impairment, leading to an award of �680,200, including �400,000 for loss of earnings. The second plaintiff in another limb of the case, a 32-year-old employee earning �2,400 monthly and survived by seven dependants, received �453,200 for loss of dependency and expectation of life. Other cases in the compilation addressed various injuries including fractures, amputations, disfigurement, and loss of livelihood across different regions of Ghana, with awards factoring in pain and suffering, loss of amenities, medical costs, and future earnings. The decisions reflect judicial discretion in assessing damages, particularly in absence of precise financial proof, and emphasize compensation for both economic and non-economic losses.",
+  "legalKeywords": [
+    "personal injury",
+    "loss of dependency",
+    "general damages",
+    "special damages",
+    "loss of earnings",
+    "pain and suffering",
+    "permanent incapacity",
+    "disfigurement",
+    "loss of amenities",
+    "compensatory damages",
+    "motor vehicle accident",
+    "dependency claims",
+    "future earnings",
+    "judicial discretion in damages",
+    "non-pecuniary loss"
+  ],
+  "topics": [
+    "Tort Law",
+    "Personal Injury Claims",
+    "Damages Assessment",
+    "Motor Vehicle Accidents",
+    "Dependency and Loss of Support"
+  ],
+  "verdict": "Awarded in favor of plaintiffs",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adjabeng J",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Williams J",
+      "role": "Judge"
+    },
+    {
+      "name": "Dove J",
+      "role": "Judge"
+    },
+    {
+      "name": "Farkye J",
+      "role": "Judge"
+    },
+    {
+      "name": "Sarpong J",
+      "role": "Judge"
+    },
+    {
+      "name": "Piesare Ag J",
+      "role": "Judge"
+    },
+    {
+      "name": "Lartey J",
+      "role": "Judge"
+    },
+    {
+      "name": "Essilfie-Bondzie J",
+      "role": "Judge"
+    },
+    {
+      "name": "Benin J",
+      "role": "Judge"
+    },
+    {
+      "name": "Lutterodt J",
+      "role": "Judge"
+    },
+    {
+      "name": "Ampiah JA",
+      "role": "Judge"
+    },
+    {
+      "name": "Asare Kwapong J",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Tort / Personal Injury",
+  "citations": [
+    "NCHONAH v APPIAH; MENSAH v GDC LTD; HAMMOND v GDC LTD (CONSOLIDATED) (Adjabeng J, Sekondi, 26 May 1989)"
+  ],
+  "rationaleHighlights": [
+    "Compensation awarded based on actual and projected financial loss, including loss of income and future earnings",
+    "Non-economic damages such as pain and suffering, loss of amenities, and disfigurement were quantified",
+    "Dependents of deceased victims entitled to claims for loss of dependency",
+    "Judges exercised discretion in awarding damages where exact earnings were unproven",
+    "Permanent disability and loss of livelihood were key factors in damage assessment",
+    "Cosmetic disfigurement and psychological impact considered in awards",
+    "Loss of use of income-generating vehicles compensated even without strict proof of daily returns",
+    "Medical expenses and rehabilitation costs factored into special damages"
+  ],
+  "confidenceNotes": "High confidence in summary accuracy as data is drawn directly from reported case details; however, some awards lack full financial breakdowns or plaintiff identifiers, limiting granular analysis.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/89 - 90/NCHONAH v APPIAH MENSAH v GENERAL DEVELOPMENT COMPANY LTD (G.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:16:57.830Z",
+    "plainTextLength": 14708
+  },
+  "trialDate": "1989-05-26"
+}

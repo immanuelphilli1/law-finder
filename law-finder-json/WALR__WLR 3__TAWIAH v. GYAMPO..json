@@ -1,0 +1,57 @@
+{
+  "caseTitle": "TAWIAH VERSUS GYAMPO.",
+  "summary": "In Tawiah v. Gyampo, the plaintiff, a subject of the Dapa Stool, appealed a Native Court decision denying his claim to a piece of stool land he had cultivated since 1941. He sought a declaration of usufructuary title, damages for trespass, and recovery of possession, asserting his rights both as a stool subject and as a descendant of a family granted land by the stool. The defendant stool claimed the land was cultivated by an 'abusa' tenant and that the plaintiff's rights were confined to a limited area. The High Court held that the plaintiff's cultivation and continuous possession created a presumption of a valid usufructuary interest under native custom. It emphasized that a stool subject's customary right to occupy and farm land is protected, even against the stool holding absolute title. The Native Court erred by allowing the stool's ownership to override the plaintiff's protected possession. The appeal was allowed, the lower judgment set aside, and the plaintiff's reliefs granted.",
+  "legalKeywords": [
+    "stool land",
+    "usufructuary title",
+    "native custom",
+    "stool subject",
+    "presumption of title",
+    "right to sue stool",
+    "customary land tenure",
+    "determinable estate",
+    "trespass to land",
+    "recovery of possession"
+  ],
+  "topics": [
+    "customary law",
+    "land rights",
+    "usufruct",
+    "native title",
+    "appeal"
+  ],
+  "verdict": "Appeal allowed; judgment of the Native Court set aside.",
+  "winningSide": "Plaintiff (Tawiah)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "presiding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "WALR/WLR 3/TAWIAH v. GYAMPO"
+  ],
+  "rationaleHighlights": [
+    "A stool subject in occupation of stool land holds a usufructuary interest by custom.",
+    "First cultivation creates a presumption of valid usufructuary title.",
+    "The absolute ownership of stool land by the stool does not permit interference with a subject's lawful possession.",
+    "Customary grants described by direction and boundary point extend as far as the grantee or family can cultivate.",
+    "A native court erred in deferring to absolute ownership, undermining protected usufructuary rights.",
+    "A subject may sue the stool to protect their customary land interest.",
+    "The burden lies on the party challenging possession to rebut the presumption of rightful holding.",
+    "The appeal succeeded because the lower court misapplied customary law principles."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear factual and legal reasoning.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/TAWIAH v. GYAMPO..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:51:44.968Z",
+    "plainTextLength": 7167
+  }
+}

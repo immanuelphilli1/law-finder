@@ -1,0 +1,73 @@
+{
+  "caseTitle": "SAFURATU TAYLOR",
+  "summary": "This appeal concerned a creditor's claim against the estate of David Augustus Taylor, where the plaintiff-appellant sought payment of a judgment debt of £450 and costs from moneys deposited in court from the estate's assets. The lower court refused the application, relying on the Administration of Estates Act 1925, s 34, which mandates pari passu distribution among creditors in insolvent estates. The West Africa Court of Appeal reversed, holding that the matter was not a 'probate cause or proceeding' under section 16 of the Supreme Court Ordinance (Cap. 3), as it involved a dispute over asset distribution rather than the grant of probate. Applying the test of whether such a matter would be heard in the English Probate or Chancery Division, the court concluded it belonged in the latter, meaning English law did not automatically apply. Thus, the pre-existing Nigerian practice allowing priority to earlier judgment creditors was upheld, and the appeal was allowed to grant the plaintiff’s motion for payment from court funds.",
+  "legalKeywords": [
+    "probate causes",
+    "administration of estates",
+    "Letters of Administration",
+    "interlocutory judgment",
+    "creditor priority",
+    "insolvent estate",
+    "motion to pay from court funds",
+    "writ of Fi Fa",
+    "Chancery Division",
+    "Probate Division",
+    "section 16 Supreme Court Ordinance",
+    "section 34 Administration of Estates Act 1925",
+    "jurisdictional attachment",
+    "debt recovery",
+    "estate distribution",
+    "priority of claims",
+    "consent judgment",
+    "court-deposited moneys",
+    "appellate reversal",
+    "legal practice in England"
+  ],
+  "topics": [
+    "Probate Law",
+    "Creditor Rights",
+    "Insolvency",
+    "Appellate Review",
+    "Conflict of Laws"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Plaintiff-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Webber, C.J., Sierra Leone",
+      "role": "Concurring Judge"
+    },
+    {
+      "name": "Butler-Lloyd, J.",
+      "role": "Concurring Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "Administration of Estates Act 1925, s 34",
+    "Supreme Court Ordinance (Cap. 3), s 16"
+  ],
+  "rationaleHighlights": [
+    "The key issue was whether the Administration of Estates Act 1925 applied via section 16 of the Supreme Court Ordinance.",
+    "The court held that the matter was not a 'probate cause' because it involved distribution disputes, not grant of probate.",
+    "The test applied was whether the matter would be heard in the Probate or Chancery Division in England.",
+    "Since such matters are handled in the Chancery Division in England, section 16 does not apply.",
+    "Therefore, English law (1925 Act) does not automatically apply, and Nigerian practice on creditor priority stands."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear legal reasoning and citation to statutory provisions.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/SAFURATU TAYLOR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:18:47.847Z",
+    "plainTextLength": 5536
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "caseTitle": "COM OF POL V MOSES TETTEH AYIKU",
+  "summary": "This 1939 West African Court of Appeal (WACA) decision in Accra addressed whether the trial judge acted within statutory authority under section 319(1)(a)(i) of the Criminal Procedure Code when ordering a retrial. The appellant, Moses Tetteh Ayiku, challenged the procedural validity of the retrial order, arguing that the appellate court lacked power to order a fresh trial without first reversing the original finding and sentence. The court held that the term 'reverse' in the statute is broad and synonymous with 'set aside' or 'annul,' thereby affirming the Divisional Court's order for a new trial. The appeal was dismissed, and the retrial order upheld.",
+  "legalKeywords": [
+    "Criminal Procedure Code",
+    "section 319",
+    "retrial",
+    "reverse finding",
+    "set aside",
+    "annul",
+    "jurisdiction",
+    "appellate powers",
+    "West African Court of Appeal",
+    "Divisional Court",
+    "statutory interpretation",
+    "fresh trial",
+    "appeal dismissed",
+    "judicial authority",
+    "procedural error"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Legal Interpretation",
+    "Jurisdiction"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Petrides",
+      "role": "C.J., Gold Coast"
+    },
+    {
+      "name": "Webb",
+      "role": "C.J., Sierra Leone"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Ag. C.J., Nigeria"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Section 319(1)(a)(i), Criminal Procedure Code",
+    "Sohoni v. [unknown], p.889 et seq. (Indian Reports)"
+  ],
+  "rationaleHighlights": [
+    "The word 'reverse' in section 319(1)(a)(i) is not restrictive and includes 'set aside' or 'annul'.",
+    "A retrial order is valid if the finding and sentence are first reversed.",
+    "The Divisional Court acted within its statutory powers.",
+    "In cases of lack of jurisdiction, 'annul' is the most appropriate term.",
+    "The Indian judicial interpretation supports a broad reading of 'reverse'."
+  ],
+  "confidenceNotes": "High confidence; source is an official court judgment with clear attribution of judges, date, and legal reasoning. Citation to Indian case law supports interpretive stance.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/COM OF POL V MOSES TETTEH AYIKU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:49:31.508Z",
+    "plainTextLength": 2842
+  },
+  "trialDate": "1939-04-01"
+}

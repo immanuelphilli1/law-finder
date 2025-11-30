@@ -1,0 +1,73 @@
+{
+  "caseTitle": "REX V DANIEL BUBOW ARIOWE BEBETEBE",
+  "summary": "The appellant, Daniel Bubow Ariowe Bebetebe, was convicted of murder by the High Court in the Calabar-Aba Division and appealed to the West Africa Court of Appeal. The victim, his wife, died from complications arising from a head injury inflicted by the appellant while he was allegedly drunk. A 'dying declaration' was taken by a Justice of the Peace at the hospital without the appellant being present, though he was under arrest. The appeal challenged the admissibility of the dying declaration, the sufficiency of proof of cause of death, and the defence of intoxication negating malice aforethought. The Court held that under section 51 of the Criminal Procedure Ordinance, a dying declaration is admissible even if the accused is not present, and that the statement 'I am wounded and likely to die' satisfied the requirement of belief in approaching death. The Court rejected the argument that sections 44 and 45 of the Ordinance must be complied with, noting they serve a different function. It emphasized that while presence of the accused is not mandatory, it is preferable for fairness and evidentiary reliability. The medical evidence was found sufficient to establish causation, and the trial judge's rejection of the intoxication defence was upheld. The appeal was dismissed on all grounds.",
+  "legalKeywords": [
+    "dying declaration",
+    "admissibility of evidence",
+    "murder",
+    "criminal procedure",
+    "intoxication defence",
+    "malice aforethought",
+    "cross-examination",
+    "Justice of the Peace",
+    "medical evidence",
+    "appellate review",
+    "conviction",
+    "trial fairness",
+    "section 51",
+    "section 44",
+    "section 45"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence",
+    "Appellate Procedure",
+    "Murder",
+    "Dying Declaration"
+  ],
+  "verdict": "Conviction for murder upheld; appeal dismissed.",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Daniel Bubow Ariowe Bebetebe, WACA/4, 14th May 1938",
+    "Criminal Procedure Ordinance (Cap. 20), s 51",
+    "Criminal Procedure Ordinance (Cap. 20), ss 44, 45"
+  ],
+  "rationaleHighlights": [
+    "Section 51 allows dying declarations to be admitted regardless of whether the accused was present.",
+    "Dying declaration need only show belief in danger of death, not hopeless expectation of immediate death.",
+    "Sections 44 and 45 do not govern admissibility under section 51; they serve a different procedural purpose.",
+    "Accused should be given opportunity to be present when practicable for fairness and evidentiary weight.",
+    "Medical evidence sufficiently linked injury to cause of death.",
+    "Trial judge's finding on intoxication upheld on appeal.",
+    "Even if dying declaration were inadmissible, other evidence supported conviction.",
+    "Appeal dismissed on all grounds."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text with clear legal reasoning and factual details provided.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX V DANIEL BUBOW ARIOWE BEBETEBE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:57:23.025Z",
+    "plainTextLength": 8914
+  },
+  "trialDate": "1938-05-14"
+}

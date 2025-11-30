@@ -1,0 +1,59 @@
+{
+  "caseTitle": "FARAGE VERSUS DAVIES.",
+  "summary": "In Farage v. Davies, the plaintiff sought to recover £548 under a mortgage deed, claiming he had supplied goods of that value to the defendant. The defendant countered that the amount represented a cash loan of £400 plus £108 in interest and £40 in legal fees. The Chief Justice found the defendant's account credible, concluding that the transaction was a loan, not a sale of goods. The court held that the plaintiff was presumed to be a moneylender under section 3 of the Moneylenders Ordinance, c. 178, and had not rebutted this presumption. Furthermore, the mortgage deed failed to comply with section 12 of the Ordinance, as it did not serve as a proper memorandum specifying the principal, interest rate, or interest amount. Consequently, the mortgage was deemed unenforceable, and judgment was entered for the defendant with costs.",
+  "legalKeywords": [
+    "mortgage",
+    "illegality",
+    "moneylender",
+    "Moneylenders Ordinance",
+    "unenforceable contract",
+    "presumption of moneylending",
+    "interest calculation",
+    "memorandum requirement",
+    "section 12 compliance",
+    "section 3 presumption",
+    "loan agreement"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Financial Regulation",
+    "Legal Compliance",
+    "Credibility of Witnesses"
+  ],
+  "verdict": "The mortgage was declared unenforceable due to non-compliance with the Moneylenders Ordinance; judgment was entered for the defendant.",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Miles C.J.",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Colony of the Gambia",
+    "country": "Gambia"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Moneylenders Ordinance, c. 178, s. 3",
+    "Moneylenders Ordinance, c. 178, s. 12"
+  ],
+  "rationaleHighlights": [
+    "Plaintiff presumed to be a moneylender under s. 3; failed to rebut presumption.",
+    "Mortgage deed did not comply with s. 12(1) and (3) as it lacked principal amount, interest rate, and interest sum.",
+    "Court found defendant's testimony credible; plaintiff's version inconsistent and improbable.",
+    "Invoice practices used to disguise loans as goods supply.",
+    "Prior similar transactions support plaintiff's pattern of moneylending.",
+    "Failure to provide proper memorandum renders the mortgage unenforceable.",
+    "Court acknowledged hardship but emphasized legal compliance.",
+    "Clerk's testimony, despite criminal record, deemed credible due to documentary support."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details are explicitly stated in the judgment. The court's reasoning, facts, and legal basis are clearly articulated.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/FARAGE v. DAVIES.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:34:52.571Z",
+    "plainTextLength": 10424
+  }
+}

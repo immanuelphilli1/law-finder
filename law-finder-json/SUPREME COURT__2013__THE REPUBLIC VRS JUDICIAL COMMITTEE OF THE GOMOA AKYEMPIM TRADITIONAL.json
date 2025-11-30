@@ -1,0 +1,89 @@
+{
+  "caseTitle": "THE REPUBLIC VRS JUDICIAL COMMITTEE OF THE GOMOA AKYEMPIM TRADITIONAL",
+  "summary": "This Supreme Court of Ghana judgment addresses a civil appeal concerning the validity of a decision by the Judicial Committee of the Gomoa Akyempim Traditional Council. The Committee had granted an order in a chieftaincy dispute without hearing the appellant, Opanin Pobee, after the first and second defendants applied for disjoinder. The Committee declared the election of the third defendant as Tufuhene null and void and awarded costs, effectively deciding the substantive claim without a hearing. The appellant sought judicial review via certiorari, arguing a breach of the right to be heard (audi alteram partem). Both the High Court and Court of Appeal dismissed the application, stating an appeal was the proper remedy. The Supreme Court reversed this, holding that a denial of the right to be heard is a fundamental breach of natural justice that vitiates any decision, even if the tribunal has jurisdiction. The Court emphasized that such a breach transforms a jurisdictional exercise into an excess or lack of jurisdiction, making certiorari the appropriate remedy. Consequently, the Supreme Court found the lower courts erred in law and allowed the appeal, quashing the Committee's order as a nullity.",
+  "legalKeywords": [
+    "judicial review",
+    "certiorari",
+    "natural justice",
+    "audi alteram partem",
+    "right to be heard",
+    "jurisdiction",
+    "procedural fairness",
+    "Chieftaincy Act",
+    "Traditional Council",
+    "due process",
+    "nullity",
+    "supervisory jurisdiction",
+    "High Court",
+    "Court of Appeal",
+    "tribunal"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Constitutional Law",
+    "Chieftaincy Disputes",
+    "Procedural Fairness",
+    "Judicial Review"
+  ],
+  "verdict": "The appeal was allowed. The Supreme Court held that the Judicial Committee's order of 3/4/2009 was a nullity due to a breach of the audi alteram partem rule and should have been quashed by the High Court via certiorari. The judgments of the High Court and Court of Appeal were therefore set aside.",
+  "winningSide": "Appellant (Opanin Pobee, Tufuhene Elect of Apam)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Anin Yeboah",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Presiding Member"
+    },
+    {
+      "name": "Annan Yeboah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Baffoe Bonnie",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Gbadebe",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Akoto Bamfo (Mrs)",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "judicial review",
+  "citations": [
+    "REPUBLIC V HIGH COURT ACCRA; EX PARTE OSAFO [2011] 2 SCGLR 966",
+    "REPUBLIC V HIGH COURT ACCRA; EX PARTE SALLOUM (SENYO COKER INTERESTED PARTY) [2011] 1 SCGLR 574",
+    "REPUBLIC V HIGH COURT ACCRA; EX PARTE NII OKAIDJA III [NII AYI BONE II INTERESTED PARTY] (Unreported, Supreme Court, Civil Motion No. JS/3/2013, 5/3/2013)",
+    "REPUBLIC V HIGH COURT, ACCRA; EX PARTE INDUSTRIALISATION FUND FOR DEVELOPING COUNTRIES [2003-2004] 1 SCGLR 348",
+    "REPUBLIC V HIGH COURT ACCRA; EX PARTE CHRAJ [ADDO INTERESTED PARTY] [2003-2004] 1 SCGLR 312",
+    "REPUBLIC V COURT OF APPEAL; EX PARTE TSATSU TSIKATA [2005-2006] SCGLR 612",
+    "REPUBLIC V DISTRICT MAGISTRATE, ACCRA; EX PARTE AMOAH [1961] GLR 373"
+  ],
+  "rationaleHighlights": [
+    "A tribunal with subject-matter jurisdiction exceeds or lacks jurisdiction if it denies a party the right to be heard, violating audi alteram partem.",
+    "Breach of natural justice constitutes a fundamental error, rendering proceedings a nullity regardless of jurisdiction.",
+    "The High Court's supervisory jurisdiction under Article 141 and Section 16 is properly invoked when natural justice is violated.",
+    "Superior courts' errors not going to jurisdiction are appealable, but violations of natural justice make proceedings certiorari-able.",
+    "The Judicial Committee destroyed its own jurisdiction by its procedure, despite initial competence."
+  ],
+  "confidenceNotes": "All information is derived directly from the provided judgment text. Citations are explicitly mentioned in the reasoning of the court. The jurisdiction, parties, and procedural history are clearly stated in the document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/THE REPUBLIC VRS JUDICIAL COMMITTEE OF THE GOMOA AKYEMPIM TRADITIONAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:06:53.653Z",
+    "plainTextLength": 19664
+  }
+}

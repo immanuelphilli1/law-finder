@@ -1,0 +1,75 @@
+{
+  "caseTitle": "OPANIN KWAME ATIA SETH ASANTE v NANA YAW BOAKYEM",
+  "summary": "The Supreme Court of Ghana reversed the Court of Appeal's decision and upheld the High Court's judgment in favor of the plaintiffs, Opain Kwame Atia and Seth Asante, declaring them and their siblings as rightful owners of a 70.91-acre land in Senchi, Akwamu Traditional Area. The plaintiffs' father, Opanin Kwame Amoaforo, had lawfully purchased the land in 1950 from Isaac Mensavi Dugbatey with approval from the Akwamu State Council and demarcation witnessed by the 1st Defendant (Chief/Mankrado of Senchi) and Opanin Dade Kofi. A Deed of Conveyance (Exhibit 'A') was executed, endorsed by the Omanhene, and registered in 1960 (Deeds Reg. No. 211/1960). After the father's death in 1962, his nephew Osei Kwaku managed the land and later formally transferred it to the plaintiffs and siblings through customary rites. The 1st Defendant unlawfully took possession after Osei Kwaku's death, cultivated the land, and later sold portions to the 2nd Defendant. The High Court found the plaintiffs' evidence credible and granted a declaration of title, perpetual injunction, and damages. The Court of Appeal reversed this, citing lack of capacity and failure to prove title. The Supreme Court reinstated the High Court's decision, holding that the trial judge's credibility assessments were sound and that Exhibit 'A' was valid despite the absence of stool occupant testimony, emphasizing that the appellate court erred in disregarding demeanor-based findings and improperly invalidating documentary evidence.",
+  "legalKeywords": [
+    "customary land tenure",
+    "declaration of title",
+    "perpetual injunction",
+    "evidentiary burden",
+    "appellate review",
+    "witness credibility",
+    "deed of conveyance",
+    "land registration",
+    "succession to property",
+    "trespas to land"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Customary Law",
+    "Property Rights",
+    "Judicial Review"
+  ],
+  "verdict": "Reversed and judgment reinstated in favor of plaintiffs",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Aninakwa",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Miss Akuffo",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Ms. Wood",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Dr. Twum",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Ansah",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Koglex Ltd (No.2) v Field, 2000 SCGLR 184",
+    "Kyiafi v Wono, 1967 GLR 463"
+  ],
+  "rationaleHighlights": [
+    "Appellate courts must defer to trial court findings based on witness demeanor and credibility",
+    "The High Court's evaluation of witness credibility was thorough and supported by evidence",
+    "Exhibit 'A' (Deed of Conveyance) was properly executed and registered, and its validity was not negated by absence of stool occupant testimony",
+    "The plaintiffs proved customary purchase, possession, and peaceful enjoyment of the land",
+    "The 1st Defendant failed to provide credible evidence of ownership or authority over the land",
+    "The Court of Appeal erred in overturning factual findings without clear evidence of error",
+    "Customary transfer via 'Aseda' ritual by Osei Kwaku to the siblings was validly proven",
+    "The land was not stool property at the time of sale, thus no stool consent was required"
+  ],
+  "confidenceNotes": "High confidence; all key facts, legal principles, and judicial reasoning are explicitly stated in the judgment. Citation of precedent and documentary evidence (Exhibit A) strengthens reliability.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2005A/OPANIN KWAME ATIA SETH ASANTE v NANA YAW BOAKYEM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:30:57.506Z",
+    "plainTextLength": 45372
+  },
+  "trialDate": "2005-07-20"
+}

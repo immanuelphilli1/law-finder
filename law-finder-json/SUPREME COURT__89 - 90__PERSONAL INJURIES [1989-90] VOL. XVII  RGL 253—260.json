@@ -1,0 +1,79 @@
+{
+  "caseTitle": "APPIAH v BAFFOUR (Aryee Ag J,",
+  "summary": "This compilation from the 1989–1990 Review of Ghana Law reports several personal injury cases, primarily arising from road accidents resulting in fatalities. The courts awarded damages based on loss of dependency, loss of expectation of life, funeral expenses, pain and suffering, and special damages. Awards varied significantly depending on the deceased's income, number and age of dependants, and duration of survival post-accident. For instance, in APPIAH v BAFFOUR, a driver's death led to a GH4,680,000 award, including GH4,000,000 for loss of dependency. Even minors with income, such as a 17-year-old coalpot maker in KOOMSON v EDU, received compensation for loss of expectation of life. The judgments reflect structured assessment of economic and non-economic losses, with some courts factoring in tax implications and costs separately.",
+  "legalKeywords": [
+    "personal injuries",
+    "fatal injuries",
+    "loss of dependency",
+    "loss of expectation of life",
+    "funeral expenses",
+    "special damages",
+    "general damages",
+    "road accident",
+    "dependants",
+    "compensation",
+    "damages assessment",
+    "pain and suffering",
+    "income loss",
+    "minor children",
+    "surviving family"
+  ],
+  "topics": [
+    "tort law",
+    "compensation",
+    "fatal accident claims",
+    "damages",
+    "dependency"
+  ],
+  "verdict": "Plaintiffs awarded damages in all reported cases.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Aryee Ag J",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Amuah J",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Adjabeng J",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ammah J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Various High Courts (Accra, Ho, Sekondi)",
+    "country": "Ghana"
+  },
+  "caseType": "personal injury",
+  "citations": [
+    "APPIAH v BAFFOUR [1989-90] Vol. XVII RGL 253",
+    "ASARE v ASANTE [1989-90] Vol. XVII RGL 253",
+    "DAGBUIE v ASAFO [1989-90] Vol. XVII RGL 254",
+    "DRAMANI v SOLI [1989-90] Vol. XVII RGL 254",
+    "IDRISA v SAOUD BROTHERS AND SONS [1989-90] Vol. XVII RGL 254",
+    "KOOMSON v EDU [1989-90] Vol. XVII RGL 254",
+    "NARH v TEYE [1989-90] Vol. XVII RGL 255"
+  ],
+  "rationaleHighlights": [
+    "Awards based on deceased's income, dependants' ages, and years of expected support",
+    "Loss of dependency calculated using multi-year purchase method",
+    "Loss of expectation of life awarded even for minors with earning capacity",
+    "Funeral and medical expenses reimbursed as special damages",
+    "Pain and suffering recognized in fatal cases with brief survival",
+    "Tax implications considered in one award (NARH v TEYE)"
+  ],
+  "confidenceNotes": "All data extracted directly from cited Ghanaian legal reports; awards and reasoning are explicitly stated in the source.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/89 - 90/PERSONAL INJURIES [1989-90] VOL. XVII  RGL 253—260.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:55:10.034Z",
+    "plainTextLength": 3121
+  },
+  "trialDate": "1989-07-26"
+}

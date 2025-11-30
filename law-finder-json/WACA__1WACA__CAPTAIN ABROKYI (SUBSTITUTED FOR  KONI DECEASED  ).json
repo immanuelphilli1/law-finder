@@ -1,0 +1,75 @@
+{
+  "caseTitle": "CAPTAIN ABROKYI (SUBSTITUTED FOR KONI DECEASED )",
+  "summary": "This 1932 West African Court of Appeal case arose from a dispute between Captain Abrokyi (representing the Bomuapoley Stool) and Ohene Senni Panyinli over land ownership and the relative rank of their ancestral stools in the Eastern Nzima State. The Native Tribunal had ruled in favor of the plaintiff, declaring co-ownership of Akomu lands and elevating the Bomuapoley Stool to senior Odikro status. The defendant appealed to the Provincial Commissioner, who set aside the judgment on grounds of misjoinder: the claim combined a land title issue (appealable to the Provincial Commissioner) and a constitutional claim on stool rank (appealable only to the Governor). The West African Court of Appeal, with Michelin J. dissenting, restored the Native Tribunal’s decision, holding that the proceedings were fundamentally political under section 34 of the Native Administration Ordinance and thus not appealable to the Provincial Commissioner. The court emphasized that such constitutional disputes between chiefs must go directly to the Governor, and the joinder of claims did not invalidate the tribunal’s authority in a political matter. The appeal was allowed, and the Provincial Commissioner’s order was overturned.",
+  "legalKeywords": [
+    "declaration of title",
+    "claim to dignity",
+    "Native Administration Ordinance",
+    "jurisdiction",
+    "misjoinder of causes of action",
+    "appeal procedure",
+    "constitutional dispute",
+    "political dispute",
+    "Native Tribunal",
+    "Provincial Commissioner",
+    "Stool rank",
+    "land ownership",
+    "customary law",
+    "right of appeal",
+    "Governor's appeal"
+  ],
+  "topics": [
+    "Customary Law",
+    "Chieftaincy Disputes",
+    "Appellate Jurisdiction",
+    "Land Rights",
+    "Constitutional Disputes"
+  ],
+  "verdict": "The West African Court of Appeal set aside the Provincial Commissioner's judgment and restored the decision of the Native Tribunal.",
+  "winningSide": "Plaintiff-Appellant (Captain Abrokyi, representing the Bomuapoley Stool)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Michelin",
+      "role": "appellate judge"
+    },
+    {
+      "name": "Horne",
+      "role": "appellate judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Adanji v. Hunvoo, Renner's Reports 497",
+    "Native Administration Ordinance (Cap. 111)",
+    "section 34 of the Native Administration Ordinance",
+    "section 43 of the Native Administration Ordinance",
+    "section 75 of the Native Administration Ordinance",
+    "section 81 of the Native Administration Ordinance",
+    "section 83 of the Native Administration Ordinance",
+    "Ordinance No. 31 of 1929",
+    "Ordinance No. 22 of 1929"
+  ],
+  "rationaleHighlights": [
+    "The case involved two distinct claims: land ownership and stool rank, which should not have been joined in one suit.",
+    "Section 34 governs political/constitutional disputes appealable only to the Governor, while land disputes are appealable to the Provincial Commissioner.",
+    "The West African Court of Appeal restored the Native Tribunal’s judgment, holding the matter was political and not subject to appeal to lower courts.",
+    "Misjoinder of claims created procedural irregularity, but the nature of the dispute was deemed political, affecting jurisdiction.",
+    "The Provincial Commissioner lacked jurisdiction to review the constitutional aspect of the case.",
+    "Appeals under section 34 do not require leave; the right of appeal to the Governor is automatic.",
+    "The court emphasized the distinction between civil land suits and constitutional chieftaincy matters under customary law.",
+    "The final decision turned on proper characterization of the dispute as political rather than mixed."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct textual evidence from the judgment and statutory references.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/CAPTAIN ABROKYI (SUBSTITUTED FOR  KONI DECEASED  ).htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:51:35.126Z",
+    "plainTextLength": 25557
+  },
+  "trialDate": "1932-05-23"
+}

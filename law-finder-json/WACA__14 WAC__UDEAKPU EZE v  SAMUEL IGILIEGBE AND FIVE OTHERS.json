@@ -1,0 +1,68 @@
+{
+  "caseTitle": "UDEAKPU EZE v SAMUEL IGILIEGBE AND FIVE OTHERS",
+  "summary": "In this civil appeal before the West Africa Court of Appeal, the plaintiff (Udeakpu Eze) sued on behalf of the Ihe and Ntugevo quarters of Ezi in Nze, claiming an account of rents collected by the defendant (Samuel IgiliegbE and five others) from Aku tenants on communal farmland during 1947–1949. The defendant argued that each quarter of Nze held land separately and denied communal ownership. The trial judge found for the plaintiffs, holding that the land was owned by the Nze community as a whole under customary law, and the defendant had failed to prove exclusive title. The appellate court upheld this decision, affirming that customary tenure presumes communal ownership and the burden was on the defendant to prove otherwise—an onus he failed to discharge. The appeal was dismissed, and the plaintiffs were awarded £140 12s. 6d., with a quarter (£35) allocated to them.",
+  "legalKeywords": [
+    "communal tenure",
+    "customary law",
+    "land ownership",
+    "real property",
+    "rents and profits",
+    "community land",
+    "onus of proof",
+    "native courts",
+    "exclusive title",
+    "stranger tenants",
+    "quarter divisions",
+    "Ibite section",
+    "Ezi section",
+    "Nze community",
+    "tribal land"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Communal Property",
+    "Native Courts",
+    "Rent Dispute"
+  ],
+  "verdict": "Appeal dismissed; decision in favor of the plaintiffs upheld.",
+  "winningSide": "Plaintiffs (Udeakpu Eze and the Ihe and Ntugevo quarters of Ezi in Nze)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey, J.A.",
+      "role": "deciding judge"
+    },
+    {
+      "name": "Foster-Sutton, P.",
+      "role": "presiding judge"
+    },
+    {
+      "name": "De Comarmond, Ag. C.J.",
+      "role": "judging judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "A modu Tijani v. Secretary, Southern Provinces, Nigeria, 1921, 2 A.C. 399"
+  ],
+  "rationaleHighlights": [
+    "Presumption under customary law that land belongs to the community as a whole.",
+    "Burden on defendant to prove exclusive ownership by a section, which was not met.",
+    "Evidence showed historical communal use and rent-sharing between sections.",
+    "Defendant's witnesses were discredited due to bias and influence.",
+    "It is consistent with custom for a section to hold land communally, but not inconsistent for the whole town to do so."
+  ],
+  "confidenceNotes": "The case is clearly reported with full judicial reasoning and citation to authoritative precedent; factual and legal conclusions are well-supported by evidence and customary law principles.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/UDEAKPU EZE v  SAMUEL IGILIEGBE AND FIVE OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:29:12.100Z",
+    "plainTextLength": 10261
+  },
+  "trialDate": "1952-04-24"
+}

@@ -1,0 +1,75 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This 1939 West African Court of Appeal decision addressed whether a minor, Musa, given as a pawn in exchange for a debt, could be considered an accomplice in a slave-dealing charge under section 369(3) of the Criminal Code. The court held that Musa, as the victim of the offence and not a participant in the criminal intent, could not be deemed an accomplice. The ruling clarified that a person for whose protection a law is enacted cannot simultaneously be an accomplice to the same offence. The court distinguished its earlier decision in Rex v. Sanni LadiPo, noting that the issue of pawning was not fully contested, and emphasized that one cannot be convicted of a crime committed upon oneself. The case was remitted to the trial court for judgment consistent with this ruling.",
+  "legalKeywords": [
+    "accomplice",
+    "slave dealing",
+    "victim",
+    "section 369(3) Criminal Code",
+    "pawn",
+    "servitude",
+    "corroboration",
+    "criminal intent",
+    "West African Court of Appeal",
+    "legal protection",
+    "judicial precedent",
+    "case stated",
+    "Rex v. Sanni LadiPo",
+    "Rex v. Verteuil and Whelan",
+    "Rex v. Cramp"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence",
+    "Appellate Procedure",
+    "Legal Personhood",
+    "Child Rights"
+  ],
+  "verdict": "Appeal dismissed; trial judge's ruling upheld",
+  "winningSide": "Respondent",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Baker",
+      "role": "Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Acting Chief Justice, Nigeria"
+    },
+    {
+      "name": "Strother-Stewart",
+      "role": "Acting Chief Justice, Gold Coast"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Rex v. Sanni LadiPo (4 W.A.C.A. 119)",
+    "Rex v. Verteuil and Whelan",
+    "Rex v. Cramp (14 Cox Criminal Cases)",
+    "Rex v. Isaac Opesusi (Not Reported)",
+    "Rex v. Tyrell [1894] QB 710",
+    "Rex v. Crocker (CA), Vol. XVII p. 46",
+    "Rex v. Graham, Crim. Rep. p. 218",
+    "Rex v. Dimes, 76 JP p. 26"
+  ],
+  "rationaleHighlights": [
+    "A victim of a crime cannot be an accomplice to that same offence.",
+    "The law under section 369(3) protects individuals from being placed in servitude as pawns; such persons are not criminally liable.",
+    "An accomplice must share in the criminal intent and can be charged with the offence; the pawned individual cannot.",
+    "The court distinguished Rex v. Sanni LadiPo due to lack of full argument on the accomplice issue.",
+    "Following R. v. Verteuil and Whelan, treating a victim as an accomplice gives undue benefit to the defence."
+  ],
+  "confidenceNotes": "High confidence; the judgment is clearly reasoned with direct legal citations and factual consistency. The court explicitly resolves a perceived conflict in precedent.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/REX v    DARE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:40:56.392Z",
+    "plainTextLength": 8065
+  },
+  "trialDate": "1939-05-13"
+}

@@ -1,0 +1,72 @@
+{
+  "caseTitle": "OFOLEY SOLOMON",
+  "summary": "This 1938 West African Court of Appeal case arose from a jurisdictional reference by the Divisional Court of the Eastern Province regarding a dispute over whether certain properties devised under the Will of William Adjabeng Solomon were family or self-acquired property. The plaintiff, Ofoley Solomon, sued as head of the Nee Adjabeng Ankrah family, seeking a declaration of title and an injunction against the executors and beneficiaries under the Will. Two defences emerged: one asserting the properties were self-acquired, and another challenging the plaintiff’s standing as head of the family. The trial judge questioned his jurisdiction under Section 48(2)(c) and (f) of the Native Administration Ordinance, which assigns such matters to Paramount Chief's Tribunals, and referred two questions to the West African Court of Appeal. The appellate court held that the mere existence of a Will does not automatically oust native tribunal jurisdiction; instead, jurisdiction depends on whether the nature of the transaction indicates the parties agreed—expressly or by implication—to be governed by English law. The final determination was left to the trial court to assess the facts accordingly.",
+  "legalKeywords": [
+    "jurisdiction",
+    "family property",
+    "self-acquired property",
+    "Will interpretation",
+    "native law and custom",
+    "head of family",
+    "Paramount Chief's Tribunal",
+    "West African Court of Appeal",
+    "declaration of title",
+    "injunction",
+    "testator",
+    "probate",
+    "native administration",
+    "English law",
+    "implied agreement"
+  ],
+  "topics": [
+    "Succession",
+    "Land Law",
+    "Jurisdiction",
+    "Customary Law",
+    "Inheritance"
+  ],
+  "verdict": "The West African Court of Appeal did not make a final verdict on the property dispute but ruled that jurisdiction in such cases depends on whether the transaction indicates an implied or express agreement to be governed by English law rather than native law. The case was referred back to the trial court to determine the facts.",
+  "winningSide": "Not applicable – advisory opinion issued, no final verdict rendered.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Bannerman",
+      "role": "Justice"
+    },
+    {
+      "name": "Doorly",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "citations": [
+    "Yamua IV v. Kwa Owuayem Sekye, Suit No. 50/1932",
+    "Section 48(2)(c) and (f) of the Native Administration Ordinance",
+    "Section 76 of the Courts Ordinance"
+  ],
+  "rationaleHighlights": [
+    "Jurisdiction is not automatically ousted by the existence of a Will.",
+    "The key issue is whether the transaction's nature shows an implied or express agreement to be governed by English law.",
+    "Cases involving family property under native custom generally fall under Paramount Chief's Tribunal.",
+    "The trial judge must determine facts to assess applicability of English law.",
+    "A prior ruling in Yamua IV v. Kwa Owuayem Sekye emphasized implied agreement in will-based disputes.",
+    "The Court avoided a broad ruling, emphasizing case-specific factual analysis.",
+    "Practical concerns about cost and length of trial influenced the referral.",
+    "Final determination of jurisdiction was left to the trial court."
+  ],
+  "confidenceNotes": "High confidence in factual extraction from the primary text. The case is clearly a jurisdictional reference with no final decision on property rights. Legal keywords and topics reflect core issues in customary succession and colonial-era jurisdictional boundaries.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/OFOLEY SOLOMON.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:00:56.173Z",
+    "plainTextLength": 11238
+  },
+  "trialDate": "1938-06-04"
+}

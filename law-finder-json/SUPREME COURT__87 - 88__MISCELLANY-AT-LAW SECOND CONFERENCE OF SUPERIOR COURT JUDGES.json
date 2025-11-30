@@ -1,0 +1,70 @@
+{
+  "caseTitle": "MISCELLANY-AT-LAW SECOND CONFERENCE OF SUPERIOR COURT JUDGES",
+  "summary": "The Second Conference of Superior Court Judges in Ghana, held in July 1988, focused on the theme of 'Proof in Law' as part of a continuing judicial education programme. Chief Justice E.N.P. Sowah highlighted the success of the prior year's conference, particularly the creation of a self-regulatory Code of Ethics for Judges, which, though not statutory, was deemed essential for guiding judicial conduct and potentially serving as grounds for misconduct charges if violated. The Code aims to clarify appropriate judicial behavior both for judges and the public. The Chief Justice also addressed systemic delays in court record production, announcing efforts to mechanise recording systems to deliver transcripts within 24 hours, starting with key courts and seeking government support. On the theme of proof, he explained the dual burdens under the Evidence Decree (NRCD 323): burden of persuasion (s. 10(1)) and burden of producing evidence (s. 11(1)), emphasizing that the burden of proof determines outcomes when doubt remains. Papers presented by legal experts sparked debate on cross-examination, evidence-in-chief, and the distinction between objective evidence and subjective truth. The conference underscored the judiciary's commitment to professionalism, transparency, and efficiency.",
+  "legalKeywords": [
+    "Code of Ethics for Judges",
+    "proof in law",
+    "burden of proof",
+    "standard of proof",
+    "cross-examination",
+    "evidence-in-chief",
+    "judicial conduct",
+    "court delays",
+    "mechanisation of court records",
+    "judicial misconduct",
+    "continuing judicial education",
+    "Evidence Decree NRCD 323",
+    "tribunal of fact",
+    "conduct unbecoming a judge",
+    "judicial excellence"
+  ],
+  "topics": [
+    "Judicial Ethics",
+    "Evidence Law",
+    "Court Administration",
+    "Judicial Reform",
+    "Legal Education"
+  ],
+  "verdict": "Not applicable; this is a conference report, not a court judgment.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "E N P Sowah",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "K E Amua-Sekyi",
+      "role": "Justice"
+    },
+    {
+      "name": "J N K Taylor",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "miscellany-at-law",
+  "citations": [
+    "[1987-88] VOL. XVI RGL 88\t1"
+  ],
+  "rationaleHighlights": [
+    "A self-made Code of Ethics enhances compliance and accountability among judges.",
+    "Delays in obtaining court records undermine public confidence; mechanisation aims to deliver transcripts within 24 hours.",
+    "The burden of proof is decisive when the tribunal of fact is in doubt.",
+    "Judges violating ethical rules may be liable for misconduct, even if the Code is not statutory.",
+    "Public understanding of judicial ethics is improved by a published Code.",
+    "Proof is foundational to all court trials; its absence would negate the basis of litigation.",
+    "Objective evidence, not subjective belief, must guide judicial decisions.",
+    "Interdisciplinary engagement strengthens judicial understanding of proof."
+  ],
+  "confidenceNotes": "The document is not a judicial decision but a report on a conference; therefore, some fields are inferred based on context and authoritative statements by the Chief Justice.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/87 - 88/MISCELLANY-AT-LAW SECOND CONFERENCE OF SUPERIOR COURT JUDGES.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:00:00.764Z",
+    "plainTextLength": 8192
+  }
+}

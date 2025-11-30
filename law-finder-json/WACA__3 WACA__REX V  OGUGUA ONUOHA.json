@@ -1,0 +1,64 @@
+{
+  "caseTitle": "REX V OGUGUA ONUOHA",
+  "summary": "The appellant, Ogugua Onuoha, was convicted at trial for preparation for coining under section 148(2) and 148(3)(c) of the Criminal Code, based on the discovery of counterfeit coins and 34 moulds in an open shed within his compound. The prosecution failed to establish a direct link between the accused and the criminal act, as the shed was accessible to others due to a broken fence, and the incriminating items were not concealed. There was no evidence of mens rea, guilty knowledge, or active participation. The West African Court of Appeal held that, under section 10(1) of the West African Court of Appeal Ordinance, 1933, the conviction could not be sustained given the lack of compelling evidence and the presence of reasonable doubt. The appeal was allowed, and the conviction was quashed.",
+  "legalKeywords": [
+    "counterfeiting",
+    "possession",
+    "mens rea",
+    "reasonable doubt",
+    "evidence",
+    "criminal intent",
+    "conviction quashed",
+    "section 148 Criminal Code",
+    "section 10 West African Court of Appeal Ordinance",
+    "guilty knowledge"
+  ],
+  "topics": [
+    "criminal law",
+    "appellate review",
+    "evidence",
+    "intent",
+    "counterfeiting"
+  ],
+  "verdict": "Conviction quashed on appeal due to insufficient evidence and lack of proven intent.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v. Ogugua Onuoha",
+    "Rex v. Frank"
+  ],
+  "rationaleHighlights": [
+    "Conviction cannot be supported due to insufficient evidence linking the accused to the criminal act.",
+    "The parcel containing counterfeit items was found in an open, accessible shed, not exclusively under the accused's control.",
+    "No proof of mens rea or guilty knowledge as required under section 148(2) and (3)(c) of the Criminal Code.",
+    "Bare possession in such circumstances is compatible with innocent or malicious third-party involvement.",
+    "Court applied section 10(1) of the West African Court of Appeal Ordinance, 1933, to quash the conviction on grounds of evidentiary insufficiency."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and explicit statutory reference.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/REX V  OGUGUA ONUOHA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:15:38.398Z",
+    "plainTextLength": 5943
+  },
+  "trialDate": "1936-11-02"
+}

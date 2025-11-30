@@ -1,0 +1,75 @@
+{
+  "caseTitle": "EKUAH MANSAH, v KOFI AMBRADU. AND ORTHERS",
+  "summary": "This appeal arose from a decision by the Provincial Commissioner's Court in favor of Ekuah Mansah, recognizing her as head and successor of Isaac Ben Ephraim and granting her possession and right to collect rents from family property in Dutch Sekondi. The defendants challenged her status and asserted equal rights to the property as family members. The West Africa Court of Appeal held that the core issue was one of succession to family property under section 48(2)(f) of the Native Administration Ordinance, not ownership, possession, or occupation of land under section 48(2)(c). Consequently, the Provincial Commissioner's Court lacked jurisdiction, as appeals in succession matters are limited to the District Commissioner's Court under sections 79 and 128A. Following the Privy Council's precedent in Effuah Adum and Arabah Tanuah v. George Hagan, the court allowed the appeal, set aside the lower court's judgment and costs order, and awarded costs to the appellants.",
+  "legalKeywords": [
+    "declaration of title",
+    "family property",
+    "succession",
+    "jurisdiction",
+    "Native Administration Ordinance",
+    "Provincial Commissioner's Court",
+    "District Commissioner's Court",
+    "letters of administration",
+    "customary law",
+    "rents",
+    "possession",
+    "ownership",
+    "appeal",
+    "tribunal",
+    "elders",
+    "head of family",
+    "self-acquired property",
+    "beneficial interest",
+    "Native Custom",
+    "jurisdictional error"
+  ],
+  "topics": [
+    "Succession",
+    "Jurisdiction",
+    "Family Property",
+    "Customary Law",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed; judgment of the Provincial Commissioner's Court set aside due to lack of jurisdiction.",
+  "winningSide": "Defendants-Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "M'Carthy, J.",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "5 W.A.C.A. 35",
+    "Effuah Adum and ors; v. George Hagan and ors",
+    "Arabah Tanuah v. George Hagan and ors"
+  ],
+  "rationaleHighlights": [
+    "The dispute centered on succession to family property, not ownership or possession of land, placing it under section 48(2)(f) rather than (c) of the Native Administration Ordinance.",
+    "The Provincial Commissioner's Court lacked jurisdiction because appeals in succession matters lie only to the District Commissioner's Court under sections 79 and 128A.",
+    "The Privy Council's decision in Effuah Adum and Arabah Tanuah v. George Hagan affirmed that succession suits are distinct from land ownership disputes.",
+    "The plaintiff's claim as head and successor did not convert a succession issue into a land possession matter.",
+    "Jurisdiction is determined by the substance of the claim, not the form or title of the action."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy due to direct textual support from the judgment and citation of binding precedent from the Privy Council.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/EKUAH MANSAH, v KOFI  AMBRADU. AND ORTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:35:12.821Z",
+    "plainTextLength": 14479
+  },
+  "trialDate": "1941-12-16"
+}

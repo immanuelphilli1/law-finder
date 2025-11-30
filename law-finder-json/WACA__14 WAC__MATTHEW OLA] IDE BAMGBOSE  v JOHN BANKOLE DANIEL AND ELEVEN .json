@@ -1,0 +1,69 @@
+{
+  "caseTitle": "IN THE MATTER OF THE ESTATE OF JOHN ST",
+  "summary": "This 1952 West Africa Court of Appeal decision concerns the distribution of the intestate estate of John St. Matthew Dakiel, who died without a will. The appellant, Matthew Olajide Bamgbose, claimed entitlement as the legitimated nephew through his father Pedro, born before Pedro's parents' church marriage but later legitimated under the Legitimacy Ordinance. The respondents, twelve individuals including John Bankole Daniel, claimed to be children of the deceased from customary marriages. The central legal issue was the interpretation of section 36(1) of the Marriage Ordinance (Cap. 128), particularly whether succession should follow English law or recognize status under native law and custom. The Court overruled *In re Adeline Subulade Williams* (1949) as *per incuriam*, adopting instead the reasoning in *In re Sarah v. Adedovoh* (1951), holding that legitimacy of claimants must be determined by the native law and custom of the parents' domicile at the time of birth, as interpreted under English conflict-of-laws principles. However, the Court found insufficient evidence that the respondents were legitimate children under customary law, thus reversing the lower court’s orders for partition and distribution of the estate.",
+  "legalKeywords": [
+    "intestate succession",
+    "customary marriage",
+    "legitimacy",
+    "Marriage Ordinance",
+    "native law and custom",
+    "Legitimacy Ordinance",
+    "distribution of estate",
+    "per incuriam",
+    "conflict of laws",
+    "real property",
+    "personal property",
+    "English law application",
+    "domicile",
+    "issue of marriage",
+    "appellate reversal"
+  ],
+  "topics": [
+    "Succession Law",
+    "Family Law",
+    "Conflict of Laws",
+    "Legal Interpretation",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed in part; orders for partition and distribution set aside due to insufficient evidence of legitimacy under customary law.",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Foster-Sutton",
+      "role": "President"
+    },
+    {
+      "name": "De Comarmond",
+      "role": "Acting Chief Justice (Nigeria)"
+    },
+    {
+      "name": "Coussey",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Nigeria"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "In re Adeline Subulade Williams, 7 W.A.C.A. 156",
+    "In re Sarah v. Adedovoh and ten others, W.A.C.A. cyclostyled report (23 Nov 1951)"
+  ],
+  "rationaleHighlights": [
+    "The decision in *In re Adeline Subulade Williams* was given *per incuriam* due to failure to consider relevant English authorities on conflict of laws.",
+    "Section 36(1) of the Marriage Ordinance requires reference to English law, but legitimacy of children is determined by native law and custom of the parents' domicile at birth.",
+    "The status of respondents as legitimate children under customary law was not sufficiently proven.",
+    "The Court is not bound by a prior decision that overlooked essential legal principles.",
+    "Distribution of the estate must await proper determination of claimants' legitimacy."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and cited authorities. The case is historically significant for clarifying the interaction between statutory law, customary law, and English legal principles in colonial West Africa.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/MATTHEW OLA] IDE BAMGBOSE  v JOHN BANKOLE DANIEL AND ELEVEN .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:34:55.158Z",
+    "plainTextLength": 18184
+  },
+  "trialDate": "1952-06-02"
+}

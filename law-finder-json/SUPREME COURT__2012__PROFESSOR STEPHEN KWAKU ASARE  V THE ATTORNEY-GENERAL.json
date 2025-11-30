@@ -1,0 +1,101 @@
+{
+  "caseTitle": "PROFESSOR STEPHEN KWAKU ASARE V THE ATTORNEY-GENERAL",
+  "summary": "The Supreme Court of Ghana addressed the interpretation of constitutional provisions on dual citizenship, emphasizing the purposive approach to statutory construction. The court examined the constitutional and legislative framework, particularly Article 8(2) of the 1992 Constitution and Section 16(2) of the Citizenship Act, 2000 (Act 591), which restrict dual citizens from holding certain public offices. The plaintiff, Professor Stephen Kwaku Asare, challenged these restrictions as violating constitutional rights to equality and non-discrimination. The court considered the historical and policy context, including the Committee of Experts' recommendations, which acknowledged both the economic benefits of dual citizenship and concerns over divided allegiance. It held that citizenship provisions are sui generis and must be interpreted within their specific constitutional context, not solely through general human rights principles. The court upheld the restrictions as constitutionally valid, balancing national interest in allegiance with the recognition of dual citizenship, and affirmed that such limitations do not violate entrenched constitutional rights when properly justified.",
+  "legalKeywords": [
+    "purposive interpretation",
+    "dual citizenship",
+    "constitutional supremacy",
+    "equality before law",
+    "allegiance",
+    "citizenship rights",
+    "constitutional interpretation",
+    "fundamental rights",
+    "entrenched provisions",
+    "statutory construction",
+    "rule of law",
+    "human rights limitations",
+    "judicial reasoning",
+    "constitutional amendment",
+    "national sovereignty"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Citizenship",
+    "Statutory Interpretation",
+    "Fundamental Rights",
+    "Separation of Powers"
+  ],
+  "verdict": "The restrictions on dual citizens holding public office were upheld as constitutional.",
+  "winningSide": "Defendant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Atuguba",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Akuffo (Ms)",
+      "role": "Justice"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Owusu (Ms)",
+      "role": "Justice"
+    },
+    {
+      "name": "Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebo",
+      "role": "Justice"
+    },
+    {
+      "name": "Bamfo (Mrs)",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Challenge",
+  "citations": [
+    "Interpretation Act, 2009 (Act 792)",
+    "Constitution of the Republic of Ghana (Amendment) Act, 1996 (Act 527)",
+    "Citizenship Act, 2000 (Act 591)",
+    "Mekkaoui v. Minister of Internal Affairs (1981) GLR 664",
+    "Attorney-General v. Ernest Augustus (Prince) of Hanover (1957) AC 436",
+    "Heydon’s Case [1584] 3 Co Rep. E.R. 637",
+    "Grey v. Pearson (1857) 6 H.L. C. 61",
+    "Govindan Sellappah Nayar Kodakan Pillai v. Punchi Banda Mudanayake & Ors (1955) 2 All E.R. 833"
+  ],
+  "rationaleHighlights": [
+    "The purposive approach to constitutional interpretation prioritizes the spirit and intent over literal wording.",
+    "The Constitution is supreme and must be interpreted in light of its organic, evolving nature.",
+    "Citizenship is a matter of state sovereignty and subject to special constitutional provisions.",
+    "General human rights guarantees must be applied cautiously in citizenship matters.",
+    "Restrictions on dual citizens in public office serve legitimate national interests in allegiance.",
+    "The state may impose differentiated rights based on citizenship status without violating equality.",
+    "The Interpretation Act must not subordinate the Constitution’s interpretive autonomy.",
+    "Balancing diaspora contributions and national security justifies limited dual citizenship rights."
+  ],
+  "confidenceNotes": "The summary is based on a detailed judicial opinion from the Supreme Court of Ghana, with clear doctrinal reasoning and citations. The verdict and rationale are confidently derived from the text, though the truncated end may omit minor concluding remarks. All key legal principles and holdings are preserved.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/PROFESSOR STEPHEN KWAKU ASARE  V THE ATTORNEY-GENERAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:27:13.727Z",
+    "plainTextLength": 125391
+  }
+}

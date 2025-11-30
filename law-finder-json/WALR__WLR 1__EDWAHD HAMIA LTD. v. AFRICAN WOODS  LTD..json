@@ -1,0 +1,78 @@
+{
+  "caseTitle": "EDWAHD HAMIA LTD. VERSUS AFRICAN WOODS",
+  "summary": "This 1956 West African Court of Appeal decision from the Gold Coast (now Ghana) concerned a dispute between Edward Hamia Ltd. and African Woods Ltd. over competing timber concessions on overlapping land in Ashanti. Edward Hamia Ltd. initially filed a concession in July 1953 that failed to comply with section 12 of the Concessions Ordinance, which required execution before a Government Agent. A supplementary agreement was later filed in March 1954, completed in proper form but covering a smaller area and effective only from its own date. African Woods Ltd. filed a validly executed concession in November 1954 over partially overlapping land and opposed Edward Hamia’s claim. The Land Court had ruled the procedural requirements directory, not imperative, and upheld Edward Hamia’s concession. On appeal, the higher court reversed, holding that section 12, read with section 13(11), imposed mandatory requirements for public protection of native landowners; non-compliance rendered the concession invalid. The supplementary document could not retroactively validate the original defective concession, especially as it varied in area and commencement date. The appeal was allowed, and Edward Hamia’s concession was declared invalid.",
+  "legalKeywords": [
+    "concession validity",
+    "procedural compliance",
+    "mandatory statutory requirements",
+    "land rights",
+    "native land protection",
+    "timber rights",
+    "supplementary agreement",
+    "retroactive validation",
+    "public interest",
+    "statutory interpretation",
+    "directory vs imperative",
+    "concession ordinance",
+    "government agent",
+    "land registration",
+    "priority of claims",
+    "equity in land disputes",
+    "invalid concession",
+    "due execution",
+    "Ashanti land law",
+    "native stool authority"
+  ],
+  "topics": [
+    "Land Law",
+    "Statutory Interpretation",
+    "Native Concessions",
+    "Procedural Requirements",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "African Woods Ltd.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Korsah J.A.",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Baker Ag.J.A",
+      "role": "Acting Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "Land Concession Dispute",
+  "citations": [
+    "WALR 1/EDWAHD HAMIA LTD. v. AFRICAN WOODS LTD.",
+    "Caldow v. Pixell (1877) 36 L.T. 496",
+    "Was saw Exploring Syndicate Ltd. v. African Rubber Co. Ltd. [1914] A.C. 626",
+    "Halsbury, Hailsham ed., Vol. 31, pp. 529-531, para. 692"
+  ],
+  "rationaleHighlights": [
+    "Section 12 of the Concessions Ordinance, read with section 13(11), imposes imperative, not directory, requirements to protect native grantors in the public interest.",
+    "Failure to execute a concession before a Government Agent renders it invalid as a concession, regardless of the grantor's acquiescence.",
+    "A supplementary agreement executed later and differing in material terms cannot validate an earlier non-compliant concession.",
+    "The court rejected equitable arguments where statutory mandates were clear and designed for public protection.",
+    "Priority among concession claims depends on valid registration, not mere filing of defective instruments.",
+    "The original concession was void ab initio for non-compliance, and no discretion could cure the defect after the fact.",
+    "The supplementary document was itself a new concession, not a validation of the prior agreement.",
+    "Public policy favors strict enforcement of procedural safeguards in native land transactions."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning, cited authorities, and clear procedural history. Case name corrected from 'Edward Ramia Ltd.' to 'Edward Hamia Ltd.' per standard references and context.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/EDWAHD HAMIA LTD. v. AFRICAN WOODS  LTD..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:08:58.143Z",
+    "plainTextLength": 25860
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "caseTitle": "SAMUEl, JOSIAH SIGISMUND",
+  "summary": "This case involved a dispute over the taxation of a solicitor's bill of costs for legal services rendered in the Gambia, which the plaintiff sought to enforce in Sierra Leone. The West African Court of Appeal held that the lower court lacked jurisdiction to order taxation according to Gambian law, and that consent could not confer such jurisdiction. The original order referring the bill to the Master for taxation was deemed a nullity. Although the appeal was dismissed, the Court set aside the challenged order and remitted the case for a new trial. Costs were apportioned to be borne by each party due to mutual negligence in drafting the consent order.",
+  "legalKeywords": [
+    "taxation of costs",
+    "jurisdiction",
+    "solicitor and client",
+    "consent order",
+    "nullity",
+    "review of taxation",
+    "professional fees",
+    "bills of costs",
+    "West African Court of Appeal",
+    "Sierra Leone Supreme Court",
+    "Gambia Supreme Court",
+    "Order 56 Rule 36",
+    "Master's certificate",
+    "reference to taxation",
+    "procedural irregularity"
+  ],
+  "topics": [
+    "Jurisdiction",
+    "Costs",
+    "Legal Procedure",
+    "Appeal",
+    "Professional Responsibility"
+  ],
+  "verdict": "Appeal dismissed, order set aside, case remitted for new trial.",
+  "winningSide": "Neither party fully prevailed; procedural nullity led to remittal.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Deane",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler-Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Macquarrie",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WACA/2 WACA/SAMUEL, JOSIAH SIGISMUND"
+  ],
+  "rationaleHighlights": [
+    "The Court lacked jurisdiction to order taxation under Gambian law.",
+    "Consent cannot confer jurisdiction where none exists.",
+    "The Master acted as a taxer, not an advisor, invalidating the process.",
+    "The appeal was dismissed but the impugned order was set aside.",
+    "The case was remitted for a new trial.",
+    "Costs of appeal and lower court proceedings to be borne by each party."
+  ],
+  "confidenceNotes": "The case details are clearly stated in the provided document, including jurisdiction, parties, and procedural history. The absence of formal citation formats (e.g., law reports) is due to the source being a digitized court record.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/SAMUEl, JOSIAH SIGISMUND.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:18:08.036Z",
+    "plainTextLength": 8032
+  },
+  "trialDate": "1934-10-10"
+}

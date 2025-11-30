@@ -1,0 +1,39 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The provided document does not contain a legal decision or case details. It appears to be a homepage or introductory page for the 'West African Law Reports' with a self-help guide to the law, a case and subject matter index, and contact information. There is no case content, judgment, or legal analysis present.",
+  "legalKeywords": [
+    "legal research",
+    "case index",
+    "law reports",
+    "legal library",
+    "Ghana law",
+    "West African Law Reports",
+    "self-help legal guide",
+    "case law database",
+    "legal information service",
+    "online legal resource"
+  ],
+  "topics": [
+    "Legal Research",
+    "Law Reporting",
+    "Legal Information Systems"
+  ],
+  "verdict": "No legal decision or case content available.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Not applicable",
+    "country": "Ghana"
+  },
+  "caseType": "Not applicable",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "Low confidence in extracting case-specific details due to absence of case content. The provided text is metadata or portal information, not a judicial decision.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/TEMP.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:51:32.076Z",
+    "plainTextLength": 294
+  }
+}

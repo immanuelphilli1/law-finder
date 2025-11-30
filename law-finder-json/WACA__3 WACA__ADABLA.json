@@ -1,0 +1,67 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This appeal before the West African Court of Appeal arose from a judgment of the Paramount Chief's Tribunal at Ada, which non-suited the plaintiff. The plaintiff appealed directly to the Supreme Court, Eastern Province, without first applying to the Paramount Chief's Tribunal for leave to appeal, as required by section 77(1) of the Native Administration Ordinance (Cap. 111). The Court held that the proceedings before the Provincial Commissioner were a nullity due to non-compliance with the mandatory requirement of obtaining leave to appeal. The proviso added to section 77(2) by Ordinance No. 18 of 1935, which allows the West African Court of Appeal to exercise discretion in hearing appeals for substantial justice, was interpreted by the majority (Webber and Kingdon, C.JJ.) as applying only to subsection (2), not to subsection (1). Therefore, it could not cure the failure to seek leave under subsection (1). Petrides, C.J., dissented, arguing that the term 'this section' in the proviso should be given its ordinary meaning and extend to the entire section, allowing discretionary hearing of the appeal. The appeal was allowed, and the judgment of the High Native Tribunal of Ada was restored.",
+  "legalKeywords": [
+    "appeal",
+    "leave to appeal",
+    "nullity",
+    "proviso",
+    "section 77",
+    "Native Administration Ordinance",
+    "statutory interpretation",
+    "substantial justice",
+    "discretion",
+    "provincial commissioner"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Statutory Interpretation",
+    "Native Tribunals",
+    "Procedural Nullity",
+    "Leave to Appeal"
+  ],
+  "verdict": "Appeal allowed; judgment of the High Native Tribunal of Ada restored.",
+  "winningSide": "Plaintiff-Appellants/Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Webber, C.J.",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Kingdon, C.J.",
+      "role": "concurring judge"
+    },
+    {
+      "name": "Petrides, C.J.",
+      "role": "dissenting judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Native Administration Ordinance (Cap. 111)",
+    "Ordinance No. 18 of 1935, s 13"
+  ],
+  "rationaleHighlights": [
+    "The proviso to s 77(2) applies only to that subsection, not the entire section.",
+    "Failure to apply for leave to appeal from the Paramount Chief's Tribunal renders subsequent proceedings a nullity.",
+    "The phrase 'this section' in the proviso does not extend its effect to s 77(1) due to the specific amendment of sub-section (2).",
+    "Discretion to hear appeal not exercised where mandatory procedural step (leave to appeal) was omitted.",
+    "Appeal must first be sought from the originating tribunal unless leave is granted by higher authority under specific conditions.",
+    "Statutory interpretation must follow the ordinary meaning of words unless absurdity or inconsistency arises.",
+    "Petrides, C.J. dissented, advocating for a literal reading of 'this section' to allow discretion.",
+    "The court emphasized procedural compliance in native tribunal appeals."
+  ],
+  "confidenceNotes": "High confidence in interpretation of statutory provision based on clear legislative language and judicial reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/ADABLA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:28:13.781Z",
+    "plainTextLength": 5863
+  },
+  "trialDate": "1936-12-19"
+}

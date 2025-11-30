@@ -1,0 +1,74 @@
+{
+  "caseTitle": "ALHAJI FASASI ADESHOYE v J. O. SHIWONIKU",
+  "summary": "In Alhaji Fasasi Adeshoye v J. O. Shiwoniku, the plaintiff sued for trespass after purchasing a plot from an agent authorized by only three of six heirs of the original landowner, Salu Kayaoja, who died intestate. The defendant claimed ownership via a 1950 conveyance from two heirs relying on a deed of partition executed by only four heirs. The West African Court of Appeal upheld the trial judge's finding that, despite both parties having defective titles due to lack of full heir consent and absence of formal partition, the plaintiff's prior possession entitled him to maintain the trespass action. The court held that the defendant's conveyance was invalid as the grantors lacked authority to convey full title. Possession, not defective paper title, conferred standing to sue in trespass. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "trespass to land",
+    "possession",
+    "defective title",
+    "conveyance",
+    "deed of partition",
+    "fee simple",
+    "intestate succession",
+    "joint inheritance",
+    "voidable title",
+    "admission of evidence",
+    "land ownership",
+    "legal estate",
+    "equity",
+    "property rights",
+    "unauthorized sale",
+    "heirs",
+    "registered deed",
+    "land dispute",
+    "succession law",
+    "real property"
+  ],
+  "topics": [
+    "Tort Law",
+    "Property Law",
+    "Land Dispute",
+    "Succession",
+    "Conveyancing"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Respondent (Plaintiff below)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Foster-Sutton",
+      "role": "President"
+    },
+    {
+      "name": "de Comarmond",
+      "role": "Acting Chief Justice (Nigeria)"
+    },
+    {
+      "name": "Coussey",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WACA/14",
+    "Alhaji Fasasi Adeshoye v J. O. Shiwoniku"
+  ],
+  "rationaleHighlights": [
+    "The plaintiff in possession can maintain a trespass action even with defective title.",
+    "A conveyance based on an incomplete deed of partition is defective where not all heirs consent.",
+    "Possession, not mere paper title, determines right to sue in trespass.",
+    "Grantors cannot convey better title than they possess.",
+    "Defective title does not defeat possession-based claims in trespass."
+  ],
+  "confidenceNotes": "The case is clearly reported with full judicial reasoning and parties identified; jurisdictional context confirmed as West African Court of Appeal with sitting judges.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/ALHAJI FASASI ADESHOYE v J. O. SHIWONIKU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:45:04.985Z",
+    "plainTextLength": 6175
+  },
+  "trialDate": "1952-05-22"
+}

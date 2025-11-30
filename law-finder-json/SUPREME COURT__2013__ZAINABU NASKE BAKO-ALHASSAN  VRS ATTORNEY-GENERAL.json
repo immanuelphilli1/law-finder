@@ -1,0 +1,90 @@
+{
+  "caseTitle": "N.S GBADEGBE JSC VERSUS ZAINABU NASKE BAKO-ALHASSAN -",
+  "summary": "In Zainabu Naske Bako-Alhassan v. Attorney-General (Writ No. J1/22/2012, 24th April 2013), the Supreme Court of Ghana considered a claim by a self-represented litigant seeking formal recognition and procedural accommodation for non-lawyers in court proceedings. The plaintiff argued that the Constitution implicitly guarantees a 'window of opportunity' for unrepresented citizens to access justice equally. The Court, per Dotse JSC, acknowledged the plaintiff's articulate and sincere presentation but held that her claims were philosophical and policy-oriented, not justiciable constitutional issues. Relying on Articles 2(1) and 130(1) of the 1992 Constitution and precedents such as J.H. Mensah v A.G. and Rockson v Ghana Football Association, the Court reaffirmed its exclusive original jurisdiction over constitutional enforcement and interpretation. It concluded that the plaintiff’s request for systemic reform in legal procedure fell outside this jurisdiction and was better addressed by the legislature or legal institutions like the Ghana Bar Association. The action was dismissed for failing to state a valid cause of action under the Constitution.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "judicial review",
+    "original jurisdiction",
+    "self-represented litigant",
+    "fundamental human rights",
+    "access to justice",
+    "legal aid",
+    "pro se litigation",
+    "Supreme Court jurisdiction",
+    "article 2",
+    "article 130",
+    "unrepresented litigants",
+    "equitable access",
+    "constitutional enforcement",
+    "rule of law"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Access to Justice",
+    "Judicial Review",
+    "Legal Profession",
+    "Human Rights"
+  ],
+  "verdict": "The plaintiff's action was dismissed for lack of justiciable constitutional issue.",
+  "winningSide": "Defendant (Attorney-General)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "W. A. Atuguba",
+      "role": "Presiding"
+    },
+    {
+      "name": "J. Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "R. Owusu (Ms)",
+      "role": "Justice"
+    },
+    {
+      "name": "J. Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "P. Baffoe-Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "N.S. Gbadegbe",
+      "role": "Justice"
+    },
+    {
+      "name": "V. Akoto-Bamfo (Mrs)",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "J. H. Mensah v A.G. [1996-97] SCGLR 320",
+    "New Patriotic Party v A.G. (CIBA) case [1996-97] SCGLR 729",
+    "Agyei Twum v A. G. & Anr. [2005-2006] SCGLR 732",
+    "Asare-Baah III v A. G. & Anr. [2010] SCGLR 463",
+    "Federation of Youth Association of Ghana (FEDYAG) v Public Universities of Ghana & Others [2010] SCGLR 265",
+    "Rockson v Ghana Football Association [2010] SCGLR 445",
+    "New Patriotic Party v I.G.P [1993-94] 2 GLR 459 SC",
+    "Mensima v A. G. [1996-97] SCGLR 67"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court has exclusive original jurisdiction over constitutional interpretation and enforcement under Articles 2(1) and 130(1) of the 1992 Constitution.",
+    "The plaintiff’s request for formal recognition of non-lawyers to self-represent does not constitute a justiciable constitutional issue under the Court’s original jurisdiction.",
+    "While the Court acknowledged the plaintiff’s articulate presentation, her claims were deemed philosophical rather than legal, and thus outside the scope of enforceable constitutional remedies.",
+    "The Court emphasized that access to justice for self-represented litigants is a policy issue, not a constitutional violation, and must be addressed through legislative or institutional reform."
+  ],
+  "confidenceNotes": "The judgment is well-reasoned and cites multiple authoritative precedents from the Supreme Court of Ghana, confirming the court's original jurisdiction and interpretive authority under the 1992 Constitution. The plaintiff's claims, while philosophically grounded, were found not to meet the constitutional threshold for invoking the court's original jurisdiction.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/ZAINABU NASKE BAKO-ALHASSAN  VRS ATTORNEY-GENERAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:06:04.866Z",
+    "plainTextLength": 35093
+  },
+  "trialDate": "2012-01-22"
+}

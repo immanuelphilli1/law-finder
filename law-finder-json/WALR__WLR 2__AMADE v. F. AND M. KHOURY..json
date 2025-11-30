@@ -1,0 +1,63 @@
+{
+  "caseTitle": "AMADE VERSUS F.",
+  "summary": "In this 1956 Gold Coast Supreme Court case, the plaintiff (Amade) entered into a hire-purchase agreement with the defendants (F. and M. Khoury) for a lorry. The defendants lawfully seized the vehicle in December 1954 due to a £20 arrear in payments. Although the plaintiff later paid the £20, the court held he was not entitled to repossession because the agreement lacked a redemption clause allowing reinstatement upon payment of arrears. Additionally, two collateral agreements—evidenced by receipts for repairs and spare parts worth £380 15s. 6d.—remained unpaid, and their inclusion effectively extended the hire-purchase obligations. The court dismissed the plaintiff's claim for return of the lorry or damages and entered judgment for the defendants on their counterclaim for the outstanding amounts.",
+  "legalKeywords": [
+    "hire purchase",
+    "seizure of goods",
+    "default in payment",
+    "collateral agreement",
+    "repossession rights",
+    "redemption clause",
+    "waiver of rights",
+    "unlawful detention",
+    "counterclaim",
+    "public policy",
+    "arrears of payment",
+    "property rights",
+    "contractual obligations",
+    "judicial waiver",
+    "contract enforcement"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Commercial Law",
+    "Hire-Purchase Agreements",
+    "Remedies"
+  ],
+  "verdict": "The plaintiff's claim was dismissed; judgment was entered for the defendants on both the claim and counterclaim.",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dennison J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Dispute",
+  "citations": [
+    "Whiteleys Ltd. v. Hilt [1918] 2 K.B. 808",
+    "Delor v. Foli (1952) 14 W.A.C.A. 54"
+  ],
+  "rationaleHighlights": [
+    "The hire-purchase agreement permitted seizure upon default, and no redemption clause allowed repossession after payment of arrears.",
+    "The defendants were within their rights to retain possession after lawful seizure.",
+    "Payment of the £20 arrear did not discharge the full obligation due to unpaid collateral agreements.",
+    "The receipts for repairs and spares constituted binding collateral agreements extending the original contract.",
+    "The plaintiff's argument on public policy was not pleaded and therefore could not be considered.",
+    "The defendants accepted the arrears payment but were not required to return the lorry as obligations remained outstanding.",
+    "The plaintiff had used the lorry for three years and caused damage, justifying the defendants' concern over property preservation.",
+    "The court found the agreements were properly explained and understood by the plaintiff."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and cited authorities. All key details are directly extracted from the judgment text.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/AMADE v. F. AND M. KHOURY..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:44:16.975Z",
+    "plainTextLength": 10205
+  }
+}

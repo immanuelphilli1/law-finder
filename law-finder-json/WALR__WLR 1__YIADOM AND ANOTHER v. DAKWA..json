@@ -1,0 +1,63 @@
+{
+  "caseTitle": "ANOTHER VERSUS DAKWA.",
+  "summary": "This was a civil land dispute between the Asakraka Stool (plaintiffs) and the Bepong Stool (defendant) over ownership of a parcel of land in the Kwahu State. The plaintiffs claimed exclusive title based on an alleged customary arbitration that demarcated a boundary along the Asensefi-Kyekyenamon footpath, placing the disputed land within their stool's territory. A portion of the land had been part of the Worobong Forest Reserve, later released for cultivation. The plaintiffs argued that the defendant was estopped from contesting ownership due to inaction during the Forest Reserve Inquiry, where the land was claimed by a third party, Asafoatse Nimo, without objection from the defendant. The trial Native Court held the land was jointly owned. On appeal, the Land Court, Accra, upheld this decision, finding sufficient evidence supporting joint ownership through customary arbitration. The plea of estoppel by acquiescence failed as the defendant's conduct did not amount to fraud. The court confirmed the appeal was dismissed with costs.",
+  "legalKeywords": [
+    "land title",
+    "customary arbitration",
+    "estoppel by acquiescence",
+    "joint ownership",
+    "stool land",
+    "boundary dispute",
+    "Forest Reserve Ordinance",
+    "native court",
+    "appeal",
+    "exclusive ownership",
+    "alienation claimant",
+    "injunction",
+    "trespass",
+    "jurisdiction",
+    "evidence evaluation"
+  ],
+  "topics": [
+    "land law",
+    "customary law",
+    "estoppel",
+    "appellate review",
+    "joint ownership"
+  ],
+  "verdict": "Appeal dismissed; decision of the trial Native Court upheld.",
+  "winningSide": "Bepong Stool (defendant)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "van Lare J.",
+      "role": "presiding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Eastern Judicial Division, Land Court, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "WALR/WLR 1/YIADOM AND ANOTHER v. DAKWA",
+    "(1) Willmott v. Barber (1880) 15 Ch.D. 96"
+  ],
+  "rationaleHighlights": [
+    "The trial court's finding of joint ownership was supported by sufficient evidence from a customary arbitration.",
+    "The plea of estoppel by acquiescence failed because the defendant's inaction during the Forest Reserve Inquiry did not amount to fraud.",
+    "The appellant failed to prove exclusive ownership of the land claimed.",
+    "The court upheld the trial court's factual findings, emphasizing appellate deference.",
+    "No adjudication occurred against the defendant in prior proceedings to support estoppel by record.",
+    "The subject-matter of the suit extended beyond the forest reserve area to the broader boundary dispute.",
+    "The Asakraka Stool's claim relied on an alleged boundary footpath, which the court found unproven.",
+    "The Bepong Stool's non-challenge to an alienation claim was not legally binding or fraudulent."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details are explicitly stated in the judgment. Citation of Willmott v. Barber is directly referenced in the rationale.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/YIADOM AND ANOTHER v. DAKWA..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:48:02.369Z",
+    "plainTextLength": 13000
+  }
+}

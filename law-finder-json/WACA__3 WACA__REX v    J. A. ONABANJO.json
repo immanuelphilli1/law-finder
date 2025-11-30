@@ -1,0 +1,71 @@
+{
+  "caseTitle": "REX v J. A. ONABANJO",
+  "summary": "The appellant, J. A. Onabanjo, was convicted of stealing goods worth �615 15s. from his employers, John Holt & Co. Ltd., while working as a storekeeper. The prosecution sought to admit a written statement he signed during an investigation. Initially marked for identification only, the trial judge admitted it after the close of evidence, finding it was made voluntarily. The appellant claimed he was induced to sign by a promise that his store would be reopened, but the trial judge disbelieved this. On appeal, it was argued that the statement was inadmissible due to improper timing of the admissibility ruling and alleged inducement. The West Africa Court of Appeal held that although the trial judge should have ruled on admissibility when the statement was first tendered, the delay did not prejudice the appellant, especially since he did not request to reopen his defence. The court found no evidence of threats or coercion and upheld the trial judge's credibility assessment. It concluded that the statement was properly admitted and that the conviction was supported by ample evidence, dismissing the appeal.",
+  "legalKeywords": [
+    "stealing",
+    "admissibility of statement",
+    "voluntary confession",
+    "inducement",
+    "trial irregularity",
+    "prejudice",
+    "conviction",
+    "evidence",
+    "cross-examination",
+    "appellate review",
+    "statement in own words",
+    "witness testimony",
+    "promise as inducement",
+    "judicial discretion",
+    "reserved judgment"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence",
+    "Appellate Procedure",
+    "Confessions",
+    "Judicial Discretion"
+  ],
+  "verdict": "Conviction upheld on appeal; appeal dismissed.",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Archbold, 29th edition, p. 389"
+  ],
+  "rationaleHighlights": [
+    "Statement admissible if made without inducement, menace, or promise",
+    "Trial judge properly assessed voluntariness of statement",
+    "Irregular timing of admissibility ruling not prejudicial",
+    "Appellant failed to allege threats at trial",
+    "Promise to continue employment was key disputed inducement",
+    "No request to reopen defence undermines claim of prejudice",
+    "Sufficient evidence supported conviction",
+    "Appellate court defers to trial judge's credibility assessment"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed trial record and appellate reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/REX v    J. A. ONABANJO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:13:52.418Z",
+    "plainTextLength": 9182
+  },
+  "trialDate": "1936-04-24"
+}

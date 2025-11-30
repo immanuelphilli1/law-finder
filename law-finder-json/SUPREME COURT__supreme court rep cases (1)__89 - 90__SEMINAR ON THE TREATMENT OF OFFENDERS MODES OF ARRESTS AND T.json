@@ -1,0 +1,64 @@
+{
+  "caseTitle": "SEMINAR ON THE TREATMENT OF OFFENDERS MODES OF ARRESTS AND T",
+  "summary": "This legal commentary by Alhaji Nuhhu Billa, a senior police officer and barrister, discusses the legal framework and procedures governing arrests and the treatment of suspects and complainants under Ghanaian law as of 1989–1990. It outlines the definition of arrest as the restraint of liberty, citing Christie v Leachinsky, and emphasizes that arrest powers are governed by the Criminal Procedure Code, 1960 (Act 30). The text distinguishes between arrests with and without warrant, detailing circumstances justifying each. It affirms that both police and private citizens may make arrests under specific conditions, such as witnessing violent, fraudulent, or property-related offences. The commentary stresses procedural fairness: suspects must be informed of the reason for arrest, treated humanely, and searched with regard to decency, with gender-appropriate officers conducting searches. Juveniles must have guardians notified, and suspects have the right to remain silent. The document also addresses the treatment of complainants, noting police duties to receive complaints respectfully and act promptly, though transport limitations often delay responses. Police cells are criticized for poor conditions, except at Legon police station. The importance of adhering to the Judges' Rules and section 120 of the Evidence Decree, 1975 (NRCD 323), in obtaining voluntary statements is emphasized. Overall, the piece serves as a procedural guide promoting lawful, humane, and rights-respecting law enforcement practices in Ghana.",
+  "legalKeywords": [
+    "arrest",
+    "warrant of arrest",
+    "private arrest",
+    "police powers",
+    "treatment of suspects",
+    "treatment of complainants",
+    "Criminal Procedure Code",
+    "Evidence Decree",
+    "detention",
+    "rights of accused",
+    "police custody",
+    "use of force",
+    "bail",
+    "juvenile arrest",
+    "prisoner search"
+  ],
+  "topics": [
+    "Arrest Procedures",
+    "Police Powers",
+    "Suspect Rights",
+    "Complainant Treatment",
+    "Criminal Procedure"
+  ],
+  "verdict": "N/A",
+  "winningSide": "N/A",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Alhaji Nuhhu Billa",
+      "role": "Author (Legal Commentator)"
+    }
+  ],
+  "jurisdiction": {
+    "court": "N/A",
+    "country": "Ghana"
+  },
+  "caseType": "legal commentary",
+  "citations": [
+    "Christie v Leachinsky [1947] AC 573",
+    "Criminal Procedure Code, 1960 (Act 30), s 1",
+    "Criminal Procedure Code, 1960 (Act 30), s 10(1) and (2)",
+    "Evidence Decree, 1975 (NRCD 323), s 120(2) and (3)"
+  ],
+  "rationaleHighlights": [
+    "Arrest must be justified by law and not arbitrary",
+    "Suspects must be informed of the reason for arrest",
+    "Private persons may arrest for certain offences witnessed",
+    "All suspects are presumed innocent until proven guilty",
+    "Police must treat suspects humanely and follow due process",
+    "Statements must be made under caution per Judges' Rules",
+    "Special care required for juveniles and female prisoners"
+  ],
+  "confidenceNotes": "The document is a legal commentary rather than a judicial decision, so case details are interpretive. Citations to statutes and case law are accurate within context.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/89 - 90/SEMINAR ON THE TREATMENT OF OFFENDERS MODES OF ARRESTS AND T.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:16:29.941Z",
+    "plainTextLength": 13584
+  }
+}

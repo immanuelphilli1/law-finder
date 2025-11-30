@@ -1,0 +1,73 @@
+{
+  "caseTitle": "BOAKYE VERSUS BAABU",
+  "summary": "In Boakye v. Baabu, the plaintiff sought a declaration of title to land, which the defendant claimed was previously granted to her. The trial Native Court found in favor of the defendant, crediting her testimony over the plaintiff's due to its consistency and corroboration. On appeal, the Native Appeal Court reversed the decision after visiting the locus in quo, despite not having observed the witnesses. The West African Court of Appeal held that such site visits cannot justify overturning factual findings made by a trial court that assessed witness credibility firsthand. It emphasized that appellate courts, especially native ones, must not substitute their own impressions from a site visit for the trial court's evaluation of live testimony. The appeal was dismissed, affirming the principle that findings of fact based on witness demeanor should be respected unless clearly erroneous.",
+  "legalKeywords": [
+    "native courts",
+    "locus in quo",
+    "findings of fact",
+    "appeal court",
+    "evidence evaluation",
+    "witness credibility",
+    "declaration of title",
+    "land dispute",
+    "trial court",
+    "judicial visit",
+    "sworn testimony",
+    "conflict of evidence",
+    "appellate review",
+    "customary land law",
+    "judicial error"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Evidence",
+    "Native Courts",
+    "Judicial Review"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Verity Ag.J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Coussey P.",
+      "role": "Concurring Judge"
+    },
+    {
+      "name": "Korsah C.J.",
+      "role": "Concurring Judge"
+    },
+    {
+      "name": "van Lare J",
+      "role": "Panel Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Boakye v. Baabu",
+    "Keteku and Others v. Dzogbenuku and Others (1956) 1 W.A.L.R. 134",
+    "Dza v. Komla (1956) 1 W.A.L.R. 145"
+  ],
+  "rationaleHighlights": [
+    "A visit to the locus in quo should not substitute for sworn testimony and witness demeanor observed by the trial court.",
+    "Native Appeal Courts must defer to trial court's credibility assessments when they have not seen the witnesses.",
+    "The Appeal Court erred by reversing factual findings based on its own impressions from a site visit.",
+    "No dispute existed over land boundaries or location; thus, the visit added no probative value.",
+    "The trial court's evaluation of conflicting evidence was reasonable and based on witness credibility."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment text.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/BOAKYE v. BAABU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:40:02.813Z",
+    "plainTextLength": 6860
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "caseTitle": "KWAKU KUMI AND OTCHERE KWABENA",
+  "summary": "This 1934 West Africa Court of Appeal decision involved an appeal by plaintiffs Kwaku Kumi and Otchere Kwabena against the dismissal of their appeal from a Paramount Chief's Tribunal judgment in favor of defendant Amaka Otchere. The core issue was the interpretation of section 77(2) of the Native Administration Ordinance, which required payment or deposit of costs before leave to appeal could be granted. The plaintiffs had applied for leave after the Tribunal refused it, and the Provincial Commissioner ordered a deposit of £15 to cover unassessed costs, which the plaintiffs paid. Conditional and later final leave to appeal were granted. However, the Acting Deputy Commissioner later dismissed the appeal on a preliminary objection that the full amount of costs had not been deposited, despite the successful party's delay in filing a bill of costs. The Court of Appeal considered whether the Commissioner could estimate costs when actual amounts were unknown due to delay. The majority held that the Commissioner had the authority and duty to assess a reasonable sum when the respondent unreasonably delayed filing costs, and that strict compliance with depositing 'actual' costs was not required. Graham Paul, J., dissented, arguing that section 77(2) required actual costs to be paid or deposited, not an estimate. The appeal was dismissed, affirming the lower court's refusal of leave due to non-compliance with the statutory requirement.",
+  "legalKeywords": [
+    "Native Administration Ordinance",
+    "section 77",
+    "leave to appeal",
+    "costs deposit",
+    "unreasonable delay",
+    "bill of costs",
+    "conditional leave",
+    "final leave",
+    "appeal procedure",
+    "jurisdiction",
+    "stay of execution",
+    "taxation of costs",
+    "appellate jurisdiction",
+    "procedural compliance",
+    "estimation of costs",
+    "right to appeal",
+    "preliminary objection",
+    "ex parte application",
+    "discretion of court",
+    "statutory interpretation"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Costs in Legal Proceedings",
+    "Native Tribunals",
+    "Judicial Discretion",
+    "Statutory Interpretation"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Graham Paul",
+      "role": "Judge"
+    },
+    {
+      "name": "Deane",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Yates",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Native Administration Ordinance, s 77(1)",
+    "Native Administration Ordinance, s 77(2)"
+  ],
+  "rationaleHighlights": [
+    "Section 77(2) requires actual payment or deposit of costs before leave to appeal is granted, with no discretion to estimate when costs are unascertained.",
+    "The court must ensure strict compliance with statutory conditions precedent for appeals from native tribunals.",
+    "An appellant cannot bypass the requirement to pay or deposit actual costs by relying on a court-estimated amount unless the statute permits it.",
+    "Where a respondent delays filing a bill of costs, the appellant's remedy is to apply to the tribunal for assessment, not to seek an estimated deposit.",
+    "The refusal of leave to appeal was justified because the statutory condition under section 77(2) was not fully met."
+  ],
+  "confidenceNotes": "The summary and analysis are based on a truncated document; however, sufficient content is available to determine the core legal issue, parties, court reasoning, and outcome. Discrepancies in names (e.g., 'Cor. Deane' likely being 'Deane, C.J.') have been normalized based on standard judicial titles. The case appears to be correctly identified as a civil appeal within the native tribunal system under colonial-era Ghanaian law.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/KWAKU KUMI AND OTCHERE KWABENA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:26:01.119Z",
+    "plainTextLength": 33024
+  },
+  "trialDate": "1934-12-03"
+}

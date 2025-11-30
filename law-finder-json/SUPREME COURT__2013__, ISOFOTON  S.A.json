@@ -1,0 +1,96 @@
+{
+  "caseTitle": ", ISOFOTON S.A",
+  "summary": "The Supreme Court of Ghana delivered a unanimous judgment in a constitutional case brought by Martin Alamisi Amidu, a former Attorney-General, challenging the validity of two international agreements between the Government of Ghana and Isofoton S.A., a Spanish company. The plaintiff argued that the agreements for solar energy and irrigation projects, executed in 2001 and 2005, constituted international business or economic transactions under Article 181(5) of the 1992 Constitution and were therefore void for lack of parliamentary approval. The Court agreed, holding that even though the underlying Spanish loan had been approved by Parliament, each specific transaction required separate laying before and approval by Parliament under Article 181(5). The Court further ruled that the High Court had acted without jurisdiction in interpreting constitutional provisions and granting consent judgments based on these void agreements. It declared the garnishee proceedings and related enforcement actions null and void. The Court affirmed the plaintiff’s standing under Article 2(1) to bring the action, despite parallel litigation by the Attorney-General. The judgment reinforced the supremacy of the Constitution and the necessity of strict compliance with procedural requirements in international transactions involving the state.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "international business transaction",
+    "parliamentary approval",
+    "Article 181(5)",
+    "void contract",
+    "supervisory jurisdiction",
+    "garnishee order",
+    "Attorney-General",
+    "separation of powers",
+    "judicial overreach",
+    "public law",
+    "constitutional standing",
+    "consent judgment",
+    "jurisdictional error",
+    "rule of law"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Public Finance",
+    "International Agreements",
+    "Judicial Review",
+    "Separation of Powers"
+  ],
+  "verdict": "The Supreme Court declared the agreements between Ghana and Isofoton S.A. null and void for failure to comply with Article 181(5) of the 1992 Constitution, held that the High Court lacked jurisdiction to interpret the Constitution, and invalidated the consent judgments and garnishee orders arising from them.",
+  "winningSide": "Plaintiff (Martin Alamisi Amidu)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah JSC",
+      "role": "Presiding"
+    },
+    {
+      "name": "Ansa JSC",
+      "role": "Member"
+    },
+    {
+      "name": "Adinyira JSC",
+      "role": "Member"
+    },
+    {
+      "name": "Owusu JSC",
+      "role": "Member"
+    },
+    {
+      "name": "Dotse JSC",
+      "role": "Member"
+    },
+    {
+      "name": "Anin Yeboah JSC",
+      "role": "Member"
+    },
+    {
+      "name": "Baffoe-Bonnie JSC",
+      "role": "Member"
+    },
+    {
+      "name": "Gbadebe JSC",
+      "role": "Member"
+    },
+    {
+      "name": "Akoto-Bamfo JSC",
+      "role": "Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Article 181(5), 1992 Constitution of Ghana",
+    "Article 2(1), 1992 Constitution of Ghana",
+    "Article 132, 1992 Constitution of Ghana",
+    "Amidu v Attorney-General, Waterville & Woyome (Unreported, Supreme Court, 14 June 2013)",
+    "Sam (No. 2) v Attorney-General [2000] SCGLR 305",
+    "Loans Act, Act 335"
+  ],
+  "rationaleHighlights": [
+    "Agreements under international loans must be separately laid before Parliament under Article 181(5), even if the loan itself was approved.",
+    "High Court lacked jurisdiction to interpret constitutional provisions like Article 181.",
+    "Consent judgments based on unconstitutional agreements are void for lack of jurisdiction.",
+    "A private citizen can challenge constitutional violations under Article 2(1), even if the Attorney-General is involved in related litigation.",
+    "Re-awarding of contracts without due process violates constitutional principles of fairness and accountability."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details are explicitly stated in the judgment. Citations are directly quoted or clearly implied.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/, ISOFOTON  S.A.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:18:55.058Z",
+    "plainTextLength": 45890
+  }
+}

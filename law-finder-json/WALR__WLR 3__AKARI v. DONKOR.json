@@ -1,0 +1,60 @@
+{
+  "caseTitle": "AKARI v. DONKOR.",
+  "summary": "In Akari v. Donkor, the plaintiff, a newly enstooled chief, sought to compel the defendant, a stool-subject occupying inherited stool land, to enter into a new tenancy agreement with increased annual tribute from £1 4s. to £2 8s. The defendant had lawfully succeeded his uncle and paid the agreed tribute following a reduction approved by the plaintiff's predecessor, accompanied by a customary 'aseda' (thank-offering). The Native Court initially ruled for the plaintiff, but on appeal, the High Court held that a stool cannot unilaterally abrogate or vary the terms of a customary tenancy agreement lawfully entered into by a predecessor. The court emphasized the inheritable and determinable nature of a stool-subject’s estate, which is held on fixed customary dues, distinguishing it from agreements with non-subjects. The appeal was allowed, the Native Court’s judgment was set aside, and the plaintiff’s claim was dismissed.",
+  "legalKeywords": [
+    "stool land",
+    "customary tenure",
+    "inheritable estate",
+    "unilateral variation",
+    "aseda",
+    "native custom",
+    "determinable estate",
+    "reversion",
+    "tribute",
+    "land occupation",
+    "succession to land",
+    "customary dues",
+    "usufructuary interest",
+    "stool subject",
+    "mutual consent",
+    "land agreement"
+  ],
+  "topics": [
+    "Customary Land Law",
+    "Stool Land Tenure",
+    "Inheritance of Land Rights",
+    "Native Custom",
+    "Land Dispute"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendant",
+  "prosecutionType": "private",
+  "judges": [
+    {
+      "name": "Adumua-Bossman J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Central Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "Land and Customary Tenure Dispute",
+  "citations": [
+    "Akofi v. Wiresi and Abagya (1957) 2 W.A.L.R. 257"
+  ],
+  "rationaleHighlights": [
+    "A stool-subject's interest in stool land is an inheritable, determinable estate held on fixed customary services and dues.",
+    "The stool (reversion holder) cannot unilaterally vary or abrogate a binding customary agreement made by a predecessor.",
+    "Payment of 'aseda' upon agreement confirms the finality and legitimacy of the arrangement.",
+    "Distinction drawn between stool-subjects (customary rights) and strangers (contractual agreements) in land occupation.",
+    "Security of tenure for customary occupiers requires protection against arbitrary changes by new stool holders."
+  ],
+  "confidenceNotes": "The decision is clearly reported with direct judicial reasoning and citation to precedent. All key elements including parties, issue, holding, and rationale are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/AKARI v. DONKOR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:17:51.366Z",
+    "plainTextLength": 8832
+  }
+}

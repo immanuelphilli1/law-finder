@@ -1,0 +1,83 @@
+{
+  "caseTitle": "NAN A AKPANDjA",
+  "summary": "This Privy Council appeal from the West African Court of Appeal concerned a land ownership dispute between two chiefs—Nan a Akpandja, paramount chief of Buem Borada under British mandate, and Fiaga Egblomesse, chief of Akposso Badu under French mandate—over approximately 15 square miles of land in British Togoland. The dispute centered on historical claims of original ownership, conquest from the Kwawu people, and post-conquest possession. The Acting District Commissioner initially divided the land, awarding the northern portion to the appellant and the southern to the respondent, a decision upheld by the West African Court of Appeal. The appellant appealed to the Privy Council, challenging both the evidentiary basis and the discovery of a German map allegedly showing the boundary further east. The Privy Council dismissed the appeal, affirming that the trial officer’s findings—based on witness testimony, site inspection, and physical indicators like farm possession and a boundary stone heap—were valid. The German map was rejected due to insufficient proof of authoritative origin and unavailability for cross-examination. The Council clarified the boundary, substituting boundary post 78A for 78B, and affirmed ownership accordingly, with the appellant to pay costs.",
+  "legalKeywords": [
+    "land ownership",
+    "boundary dispute",
+    "chieftaincy",
+    "customary law",
+    "evidence",
+    "traditional testimony",
+    "map admissibility",
+    "prima facie evidence",
+    "locus in quo",
+    "tribal history",
+    "colonial mandate",
+    "international boundary",
+    "factual finding",
+    "appellate review",
+    "German mandate",
+    "French mandate",
+    "Gold Coast",
+    "Supreme Court Ordinance",
+    "hearsay",
+    "corroboration",
+    "farm possession",
+    "boundary marker",
+    "heap of stones",
+    "path clearing",
+    "German map",
+    "Dr. Johannes Gruner",
+    "Acting District Commissioner",
+    "West African Court of Appeal",
+    "Privy Council"
+  ],
+  "topics": [
+    "Land Law",
+    "Chieftaincy Disputes",
+    "Evidence Law",
+    "Colonial History",
+    "Appellate Procedure"
+  ],
+  "verdict": "Appeal dismissed; judgment of the West African Court of Appeal affirmed with formal boundary clarification.",
+  "winningSide": "Respondent (Fiaga Egblomesse, chief of Akposso Badu)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "LORD PORTER",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "LORD ROMER",
+      "role": "panel member"
+    },
+    {
+      "name": "SIR GEORGE RANKIN",
+      "role": "panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Privy Council (on appeal from West African Court of Appeal)",
+    "country": "Ghana"
+  },
+  "caseType": "land ownership dispute",
+  "citations": [
+    "2 W.A.C.A. p. 24",
+    "Abotchi Kponuglo & ors. v. Adja Kodadja (Privy Council Appeal No. 123 of 1931)"
+  ],
+  "rationaleHighlights": [
+    "The Acting District Commissioner's factual findings were based on witness testimony and site inspection, which the Privy Council deemed valid.",
+    "The German map was not admitted due to lack of reliable provenance and inability to challenge its accuracy on appeal.",
+    "The Privy Council upheld the division of land based on possession and traditional use, affirming the Court of Appeal's decision.",
+    "The boundary heap of stones and existing farm possession were treated as corroborative evidence.",
+    "Appellate courts should be cautious in overturning trial-level factual determinations, especially in chieftaincy disputes."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; source is a formal judgment with clear procedural history and reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/NAN A AKPANDjA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:45:28.182Z",
+    "plainTextLength": 12542
+  },
+  "trialDate": "14TH FEBRUARY, 1939"
+}

@@ -1,0 +1,76 @@
+{
+  "caseTitle": "FLORA NICOLLA GODWIN",
+  "summary": "This 1934 West African Court of Appeal decision concerned an appeal from a Sierra Leone Supreme Court ruling that dismissed an action for specific performance of a land sale contract. The defendant, an administratrix of her intestate husband's estate, refused to complete the sale, claiming a previously unknown infant grandniece had a beneficial interest in the estate, requiring court consent under Section 24 of the Intestate Estates Ordinance, 1924 (Cap. 104). The appellate court reversed, holding that Section 6 of the Supreme Court Ordinance, 1904 (Cap. 205), did not incorporate the English Administration of Estates Act, 1925, into Sierra Leone law. The court interpreted 'for the time being' as referring to the law in force in England at the Ordinance's commencement in 1904, not future enactments. Thus, the Statute of Distributions of Charles II remained applicable, under which the grandniece had no interest. Consequently, court consent was unnecessary, and the contract was enforceable. The appeal was allowed, with judgment for specific performance, mesne profits of £24, and costs.",
+  "legalKeywords": [
+    "specific performance",
+    "contract for sale of land",
+    "intestate succession",
+    "administration of estates",
+    "statutory interpretation",
+    "probate jurisdiction",
+    "repeal of ordinance",
+    "beneficial interest",
+    "infant heir",
+    "court consent for sale",
+    "devolution of property",
+    "Sierra Leone law",
+    "English law application",
+    "jurisdictional incorporation",
+    "construction of statute",
+    "mesne profits",
+    "administratrix duties",
+    "land distribution",
+    "testamentary succession",
+    "legal incapacity"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Succession Law",
+    "Statutory Interpretation",
+    "Appellate Procedure"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Macquarrie, J."
+    },
+    {
+      "name": "Butler-Lloyd, J."
+    },
+    {
+      "name": "Deane, C.J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Sierra Leone"
+  },
+  "caseType": "Appeal in civil matter concerning specific performance and intestate succession",
+  "citations": [
+    "Supreme Court Ordinance, 1904 (Cap. 205)",
+    "Intestate Estates Ordinance, 1924 (Cap. 104)",
+    "Statute of Distribution, 22 and 23 Car. 2 Cap. 10",
+    "Administration of Estates Act, 1925 (UK)"
+  ],
+  "rationaleHighlights": [
+    "The phrase 'for the time being' in Section 6 refers to the law in force in England at the time of the Ordinance's enactment (1904), not future laws.",
+    "Section 6 does not incorporate the English Administration of Estates Act, 1925, into Sierra Leone law.",
+    "The Intestate Estates Ordinance, 1924, was not repealed by Section 6 and remains in force.",
+    "Under the Statute of Distributions of Charles II, the infant grandniece had no beneficial interest in the estate.",
+    "Since the grandniece had no interest, court consent under Section 24 was not required for the sale.",
+    "The administratrix had legal capacity to enter into the contract without court approval.",
+    "It would be inconceivable for the legislature to repeal a major ordinance by implication rather than express language.",
+    "The appeal is allowed, granting specific performance, mesne profits of £24, and costs."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and explicit statutory references. Jurisdiction is correctly identified as Sierra Leone under the West African Court of Appeal. The case involves civil, not criminal, proceedings. All judges concurred in the outcome.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/FLORA NICOLLA GODWIN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:30:41.539Z",
+    "plainTextLength": 12832
+  },
+  "trialDate": "1934-10-16"
+}

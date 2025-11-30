@@ -1,0 +1,87 @@
+{
+  "caseTitle": "NII NARH DOWUONA II v ADDOKWEI TETTEH OLEWOLON & 3 ORS",
+  "summary": "This 2006 Supreme Court of Ghana decision in Nii Narh Dowuona II v Addokwei Tetteh Olewolon & 3 Ors involved a land dispute over approximately 87.68 acres at Boi near Abokobi. The plaintiff, representing the Boi Stool, sought a declaration of title, perpetual injunction, and damages for trespass, alleging that the defendants were licensees who unlawfully claimed ownership. The defendants, members of the Nii Ashong Lomotey family, claimed ownership through a customary grant from the Numo Nmashie family of Teshie two centuries prior and invoked estoppel based on a prior Court of Appeal judgment (Civil Case No. 49/80) concerning Adjancote Hill land. The trial High Court and Court of Appeal dismissed the plaintiff's claim, finding insufficient proof. The Supreme Court upheld these decisions, emphasizing contradictions within the plaintiff’s own traditional evidence (e.g., between the plaintiff and his witness on how the land was acquired), which fatally weakened his case under established precedent. The Court rejected the argument that the judgment in Civil Case No. 49/80 estopped the plaintiff, clarifying that the disputed land was not part of that prior adjudication. Ultimately, the appeal was dismissed, affirming the defendants’ superior claim based on coherent traditional history and possession.",
+  "legalKeywords": [
+    "declaration of title",
+    "perpetual injunction",
+    "trespass",
+    "traditional evidence",
+    "burden of proof",
+    "estoppel per rem judicatum",
+    "customary grant",
+    "possession since time immemorial",
+    "contradictions in testimony",
+    "weight of evidence",
+    "appellate rehearing",
+    "land dispute",
+    "stool land",
+    "root of title",
+    "preponderance of probabilities"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Stool Land Ownership",
+    "Trespass",
+    "Judicial Precedent"
+  ],
+  "verdict": "Dismissed",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Aninakwah, J.S.C.",
+      "role": "Delivered Judgment"
+    },
+    {
+      "name": "Akuffo, J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Twum, J.S.C.",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Date-Bah, J.S.C.",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Ansa, J.S.C.",
+      "role": "Member of Coram"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "ADWUBEN V DOMFEH (1996-1997) SCGLR 660",
+    "TUAKWA V BOSOM (2001-2002) SCGLR 61",
+    "Adjei bi Kojo v Bonsie (1957) 3 WALR 257",
+    "Yaw v Atta (1961) GLR 513",
+    "Atadi v Ladjekpo (1981) GLR 219",
+    "Obeng v Bempomaa (1992-93) 3GBLR 1029",
+    "Odonkor and others v Amartei (1992-93) 1GBLR 59"
+  ],
+  "rationaleHighlights": [
+    "The plaintiff failed to discharge the burden of proof by preponderance of probabilities as required under N.R.C.D 323.",
+    "Contradictions between the plaintiff’s testimony and that of his witness on the mode of land acquisition fatally undermined the plaintiff’s case.",
+    "The principle in Adjei Kojo v Bonsie does not protect internal inconsistencies within a party’s evidence; such contradictions are fatal under Atadi v Ladjekpo.",
+    "The Court of Appeal erred in not conducting a full rehearing but the trial judge’s findings were adequately supported.",
+    "The land in dispute was not part of the earlier Adjancote acquisition judgment (Civil Case No. 49/80), so estoppel did not apply.",
+    "The plaintiff’s claim of possession since time immemorial was not substantiated by credible traditional evidence.",
+    "The defendants provided a more coherent and consistent traditional history of ownership through a 200-year-old customary grant.",
+    "The trial judge was charitable in admitting unpleaded evidence that favored the plaintiff, which did not cause miscarriage of justice."
+  ],
+  "confidenceNotes": "The summary is based on a truncated document; however, all key legal issues, holdings, and reasoning are present in the available portion. The outcome and rationale are clearly stated by Justice Aninakwah, and citations are verifiable. Confidence is high in accuracy.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2006A/NII NARH DOWUONA II v ADDOKWEI TETTEH OLEWOLON & 3 ORS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T18:02:18.968Z",
+    "plainTextLength": 21272
+  },
+  "trialDate": "2006-06-21"
+}

@@ -1,0 +1,76 @@
+{
+  "caseTitle": "SAKARIYAWO OSHODI",
+  "summary": "This Privy Council appeal from the West Africa Court of Appeal concerned a property dispute over No. 16, Ajia Ijesha Court, Lagos, formerly part of family land granted to the Oshodi family after 1862. The land was allotted to a domestic (arota) under Oshodi Tappa, with a Crown grant issued in 1869. The central issue was whether the Oshodi family tacitly consented to the alienation of the land by the headman's assignee in 1912–1914, despite having no formal consent. The Privy Council held that the family did not acquiesce in the sale, emphasizing that the headman held the land in trust and lacked unilateral power to alienate. Although a custom allowing alienation with family consent had developed, the evidence of such consent was insufficient. The absence of an installed chief during the transactions did not extinguish the family’s reversionary rights. The Court overturned the Full Court’s declaration in favor of the purchasers, restoring the trial judge’s finding that the plaintiffs failed to prove family consent, thereby affirming the Oshodi family’s reversionary interest.",
+  "legalKeywords": [
+    "native law and custom",
+    "family land",
+    "alienation of land",
+    "acquiescence",
+    "reversionary rights",
+    "Crown grant",
+    "fee simple",
+    "arota",
+    "headman",
+    "consent",
+    "land tenure",
+    "trust",
+    "succession",
+    "interregnum",
+    "mortgage",
+    "property rights",
+    "customary law",
+    "colonial land law",
+    "Lagos",
+    "Epetedo"
+  ],
+  "topics": [
+    "land law",
+    "customary tenure",
+    "property rights",
+    "reversion",
+    "acquiescence"
+  ],
+  "verdict": "Appeal allowed; declaration in favor of respondents (purchasers) set aside; Oshodi family's reversionary rights upheld.",
+  "winningSide": "Appellant (Oshodi family)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "LORD MAUGHAM",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "LORD BLANESDURGH",
+      "role": "present"
+    },
+    {
+      "name": "LORD ROCHE",
+      "role": "present"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal (on appeal from Nigeria, under Privy Council oversight)",
+    "country": "Ghana"
+  },
+  "caseType": "property dispute",
+  "citations": [
+    "Sakariyawo Oshodi v. Moriamo Dakolo [1930] A.C. 667",
+    "Idewu Inasa v. Sakariyawo Oshodi [1934] A.C. 99"
+  ],
+  "rationaleHighlights": [
+    "Headman with Crown grant holds land in trust; no individual right of alienation",
+    "Reversionary right vests in family chief upon extinction of headman's descendants",
+    "Alienation of family land requires family consent under native custom",
+    "No sufficient evidence of Oshodi family's acquiescence in sale",
+    "Absence of installed chief does not extinguish family reversionary rights",
+    "Substantial building by purchaser does not imply consent",
+    "Acquiescence by individual members insufficient to bind the family"
+  ],
+  "confidenceNotes": "High confidence; the document is a formal judgment from the Privy Council with clear factual and legal reasoning. Truncation occurs near the end but does not affect key holdings or outcome.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/SAKARIYAWO OSHODI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:53:47.055Z",
+    "plainTextLength": 18844
+  },
+  "trialDate": "16TH JULY, 1936"
+}

@@ -1,0 +1,75 @@
+{
+  "caseTitle": "OHENE APPOH ABABIO",
+  "summary": "This 1932 West African Court of Appeal decision in Ohene Appoh Ababio v. Ohene Doku Kanga concerned a boundary dispute between two divisional chiefs, the Ohene of Assenta and the Ohene of Kickam, within the Eastern Akim State in the Gold Coast (now Ghana). The core issue was whether the boundary followed the Biale River westward to the sea or turned south from a bridge to the Bobloma creek, thereby determining control over the Agona lands. The State Council and Provincial Commissioner had ruled in favor of the defendant, citing res judicata based on a prior judgment in Anopoley v. Athunli. The appellate court held that res judicata did not strictly apply because the plaintiff was neither a party nor a privy in the earlier case. However, the court found ample independent evidence supporting the boundary determination favoring Kickam, particularly the prior successful claim by a Kickam subject. The appeal was dismissed with costs, affirming the lower tribunals' factual conclusions based on customary land tenure and boundary evidence.",
+  "legalKeywords": [
+    "res judicata",
+    "boundary dispute",
+    "customary land",
+    "estoppel",
+    "stool land",
+    "privy",
+    "native tribunal",
+    "paramount chief",
+    "long possession",
+    "evidential value",
+    "jurisdiction",
+    "final decision",
+    "reversioner",
+    "tenancy",
+    "land ownership",
+    "tribal authority",
+    "admission against interest",
+    "competent jurisdiction",
+    "subject matter",
+    "rehearing on appeal"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Appellate Procedure",
+    "Native Tribunals",
+    "Res Judicata"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Deane",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Saxton",
+      "role": "Provincial Commissioner"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Gold Coast (Ghana)"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Anopoley v. Athunli",
+    "Rees v. Walters 3 M. & W. 527",
+    "Wenman v. Mackenzie 25 L.J. Q.B. 44",
+    "Sarbah's Fanti Customary Laws, page 56"
+  ],
+  "rationaleHighlights": [
+    "Res judicata does not apply where parties or privies are not identical",
+    "Prior judgment has evidential value even if not binding",
+    "Stool land retains paramount title while families hold possessory rights",
+    "Chiefs act as champions of stool interests in boundary disputes",
+    "Long possession and successful claims support boundary determinations",
+    "Native tribunals are competent to decide customary land matters",
+    "Paramount chief's tribunal is highest native authority",
+    "Admission in correspondence confirms representation of stool interests"
+  ],
+  "confidenceNotes": "The summary is based on a truncated but substantial portion of the judgment. Key facts and legal reasoning are present, though the conclusion of Deane CJ's judgment is cut off. However, the outcome (dismissal of appeal) is clearly stated earlier in the text.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/OHENE APPOH ABABIO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:41:34.490Z",
+    "plainTextLength": 22095
+  },
+  "trialDate": "1932-11-15"
+}

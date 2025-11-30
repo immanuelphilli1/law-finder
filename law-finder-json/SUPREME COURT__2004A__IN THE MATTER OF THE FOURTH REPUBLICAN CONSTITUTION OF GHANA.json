@@ -1,0 +1,86 @@
+{
+  "caseTitle": "IN THE MATTER OF THE FOURTH REPUBLICAN CONSTITUTION OF GHANA 1992 AND IN THE MATTER OF INTERPRETATION OF ARTICLE 47(1), (5), (6) AND ARTICLE 113 AND IN THE MATTER OF THE NEWLY CREATED CONSTITUENCIES BY THE ELECTORAL COMMISSION AND IN THE MATTER OF AN APPLICATION BY]",
+  "summary": "The Supreme Court of Ghana, exercising its original jurisdiction, interpreted Articles 47(1), (5), (6), and 113 of the 1992 Constitution regarding the Electoral Commission's decision to include 30 newly created constituencies in the December 2004 general elections. The plaintiff, Luke Mensah, sought a declaration that the Electoral Commission (EC) was constitutionally justified in including the new constituencies. Although the plaintiff's case had procedural defects, the court proceeded due to the significant public interest. The court held that while the EC has the constitutional authority under Articles 45 and 47 to demarcate and alter constituencies via a Constitutional Instrument (C.I. 46), such alterations do not take immediate effect. Article 47(6) mandates that boundary changes come into force only upon the next dissolution of Parliament. Therefore, the 30 new constituencies, though legally created by C.I. 46, could not participate in the 2004 elections but would become operational in the subsequent parliamentary term. The court rejected arguments for immediate implementation, emphasizing that retroactive application would violate Article 107. The judgment upheld constitutional order, clarity, and the rule of law in electoral processes.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "electoral boundaries",
+    "constituency creation",
+    "Electoral Commission powers",
+    "Article 47",
+    "Article 113",
+    "Constitutional Instrument",
+    "dissolution of Parliament",
+    "retroactive legislation",
+    "separation of powers",
+    "rule of law",
+    "parliamentary elections",
+    "presidential elections",
+    "judicial review",
+    "public interest litigation"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Election Law",
+    "Judicial Interpretation",
+    "Separation of Powers",
+    "Electoral Commission"
+  ],
+  "verdict": "The Supreme Court ruled that the 30 newly created constituencies, although legally established by C.I. 46, cannot participate in the December 2004 elections as their operationalization is constitutionally deferred to the next Parliament following the dissolution of the current one, in accordance with Article 47(6) of the 1992 Constitution.",
+  "winningSide": "The Attorney General and the constitutional interpretation favoring delayed implementation, effectively upholding the position that the new constituencies must await the next parliamentary term.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Acquah, CJ",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Miss Akuffo, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Baddoo, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Dr. Twum, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Prof. Kludze, J.S.C.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional interpretation",
+  "citations": [
+    "Article 47(1), (5), (6), Constitution of Ghana 1992",
+    "Article 113, Constitution of Ghana 1992",
+    "Article 51, Constitution of Ghana 1992",
+    "Article 11(7)(c), Constitution of Ghana 1992",
+    "Article 107, Constitution of Ghana 1992",
+    "Representation of the People (Constituencies) Instrument, 2004 (C.I. 46)",
+    "LI 1538",
+    "Rule 46(2)(a) of C.I. 16"
+  ],
+  "rationaleHighlights": [
+    "The creation of new constituencies requires a two-stage process: legal backing via Constitutional Instrument and operationalization upon dissolution of Parliament.",
+    "Article 47(6) clearly states that boundary alterations come into effect upon the next dissolution of Parliament, not immediately upon enactment.",
+    "Holding elections for new constituencies before they legally come into force would violate constitutional timing and risk retroactive application, contrary to Article 107.",
+    "The Electoral Commission has authority under Article 45 and 47 to review and demarcate constituencies, but implementation is constitutionally deferred.",
+    "Public interest justified hearing despite procedural flaws in the plaintiff's filing.",
+    "C.I. 46 legally creates the 30 new constituencies but they become operational only after dissolution of the current Parliament.",
+    "The court emphasized the framers' intent to avoid mid-term electoral disruptions.",
+    "Judgment affirms that constitutional provisions must be interpreted according to their letter and spirit."
+  ],
+  "confidenceNotes": "The judgment is definitive and issued by the Supreme Court of Ghana, with clear constitutional reasoning. All cited provisions are directly referenced in the court's analysis.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2004A/IN THE MATTER OF THE FOURTH REPUBLICAN CONSTITUTION OF GHANA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:34:14.561Z",
+    "plainTextLength": 22805
+  },
+  "trialDate": "2004-03-05"
+}

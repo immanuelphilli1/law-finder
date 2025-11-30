@@ -1,0 +1,54 @@
+{
+  "caseTitle": "COMMISSIONER OF POLICE VERSUS BOAME AND ANOTHER.",
+  "summary": "In Commissioner of Police v. Boame and Another, the High Court of the Ashanti Judicial Division reviewed an order by the Senior Magistrate of Kumasi forfeiting the bail recognisances of two sureties, Kwasi Boame and another, following the accused's failure to surrender. The sureties were ordered to pay �1,000 each or face six months’ imprisonment, and were immediately committed to prison without prior attachment and sale of property. The High Court, per Murphy J, held that under section 104(2) and (4) of the Criminal Procedure Code, imprisonment in default of payment is only lawful after a warrant for attachment and sale has been issued and the penalty cannot be recovered through that means. The court found the Senior Magistrate’s order procedurally flawed and allowed the appeal. The order was set aside, and the sureties were directed to produce the accused or show cause why their recognisances should be forfeited by December 19, 1958. The court also recommended that, if forfeiture were reimposed, the Magistrate consider remitting the penalty under section 104(5) due to the appellants’ prior incarceration.",
+  "legalKeywords": [
+    "Criminal Law",
+    "Police",
+    "Forfeiture of Recognisances",
+    "Bail Bond",
+    "Surety",
+    "Section 104 Criminal Procedure Code",
+    "Attachment and Sale of Property",
+    "Imprisonment in Default of Payment",
+    "Procedural Compliance",
+    "Appeal"
+  ],
+  "topics": [
+    "Criminal Procedure",
+    "Bail and Surety",
+    "Judicial Review",
+    "Prison Sentences",
+    "Statutory Interpretation"
+  ],
+  "verdict": "Appeal allowed; original order set aside; remitted for reconsideration with procedural safeguards.",
+  "winningSide": "Appellants (Boame and the other surety)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Murphy J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Ashanti Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal",
+  "citations": [
+    "WALR/WLR 3/COMMISSIONER OF POLICE v. BOAME AND ANOTHER"
+  ],
+  "rationaleHighlights": [
+    "The court held that imprisonment for default of payment on forfeited recognisance is only permissible after a warrant for attachment and sale of property has been issued and enforcement attempted.",
+    "The Senior Magistrate erred by committing the sureties to prison without first attempting recovery via attachment and sale as required by s. 104(2) and (4) of the Criminal Procedure Code.",
+    "The High Court emphasized procedural fairness, noting it would have been desirable to allow the sureties an opportunity to produce the accused before forfeiture.",
+    "The appeal was allowed, the original order set aside, and the sureties given a chance to produce the accused or show cause why recognisances should be forfeited.",
+    "The court recommended consideration of remission under s. 104(5) due to the appellants’ already served imprisonment (over two months)."
+  ],
+  "confidenceNotes": "The case details are clearly stated with direct quotes from the judgment and statutory provisions; high confidence in accuracy.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/COMMISSIONER OF POLICE v. BOAME AND ANOTHER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:06:59.079Z",
+    "plainTextLength": 4567
+  }
+}

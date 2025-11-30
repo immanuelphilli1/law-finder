@@ -1,0 +1,88 @@
+{
+  "caseTitle": "BAAFOUR KWAME FANTE ADUAMOA II AND OTHERS v. NANA GYAKORANG",
+  "summary": "The plaintiffs, citizens of Kade in Akyem Abuakwa, invoked the Supreme Court's original jurisdiction under articles 2 and 130(1)(a) of the 1992 Constitution seeking a declaration that Nana Gyakorang Adu Twum II, the Chief of Kade, was disqualified from office due to his conviction for defrauding by false pretences by the National Public Tribunal in 1993, and that he be destooled under article 275 of the Constitution. They also sought orders for him to vacate the palace and account for stool property. The Supreme Court held that the matter did not constitute a genuine constitutional issue warranting its original jurisdiction. It emphasized that the Court's role is not to adjudicate chieftaincy disputes or enforce destoolment, which are governed by customary law and fall under the jurisdiction of the National House of Chiefs. The Court ruled that article 275 does not automatically remove a chief upon conviction, and that the proper forum for such a claim is not the Supreme Court but the appropriate traditional and judicial channels. The suit was dismissed for lack of jurisdiction.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "original jurisdiction",
+    "enforcement of constitution",
+    "article 130",
+    "article 275",
+    "destoolment",
+    "Supreme Court jurisdiction",
+    "constitutional supremacy",
+    "reference jurisdiction",
+    "ultra vires",
+    "fundamental rights",
+    "judicial restraint",
+    "constitutional ambiguity",
+    "public officer disqualification",
+    "traditional leadership"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Jurisdiction",
+    "Chieftaincy Disputes",
+    "Judicial Review",
+    "Fundamental Rights"
+  ],
+  "verdict": "The Supreme Court dismissed the suit for lack of jurisdiction, holding that the plaintiffs' claims were essentially chieftaincy matters not amounting to a genuine constitutional interpretation or enforcement issue under article 130(1).",
+  "winningSide": "Defendant (Nana Gyakorang Adu Twum II)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Acquah",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "Wiredu",
+      "role": "Presiding"
+    },
+    {
+      "name": "Bamford-Addo",
+      "role": "Justice"
+    },
+    {
+      "name": "Ampiah",
+      "role": "Justice"
+    },
+    {
+      "name": "Adjabeng",
+      "role": "Justice"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Justice"
+    },
+    {
+      "name": "Akuffo (Ms.)",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Gbedemah vrs. Awoonor-Williams, (1969) 2 G&G 438",
+    "Tait vrs Ghana Airways Corporation (1970) 2 G & G 527",
+    "Yiadom vrs Amaniampong (1981) GLR 3 SC",
+    "Edusei vrs Attorney-General (1996-97) SCGLR 1",
+    "Republic vrs. Special Tribunal ex parte Akosah (1980) GLR 592 CA"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court's original jurisdiction under article 130(1) is limited to genuine constitutional issues, not matters that are essentially private or chieftaincy disputes disguised as constitutional enforcement.",
+    "A lower court may apply clear constitutional provisions without referring them to the Supreme Court; only ambiguous or conflicting provisions require reference under article 130(2).",
+    "The plaintiffs' action was not a true constitutional enforcement case but an attempt to use the Supreme Court to achieve destoolment, which falls under chieftaincy jurisdiction.",
+    "Conviction of a chief does not automatically lead to destoolment under article 275; the process must follow customary law and procedures.",
+    "The Court emphasized that constitutional language must be imprecise or ambiguous for an issue of interpretation to arise."
+  ],
+  "confidenceNotes": "The judgment is clear and well-reasoned, with consistent reliance on precedent and constitutional provisions. The outcome is highly confident based on established principles of constitutional jurisdiction.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2000A/BAAFOUR KWAME FANTE ADUAMOA II AND OTHERS v. NANA GYAKORANG .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:53:56.548Z",
+    "plainTextLength": 19789
+  },
+  "trialDate": "2000-02-09"
+}

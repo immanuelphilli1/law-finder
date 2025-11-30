@@ -1,0 +1,66 @@
+{
+  "caseTitle": "application in Adjei v. Foriwaa1",
+  "summary": "The case Adjei v. Foriwaa, heard by the High Court in Kumasi on 13 March 1980, addressed the adaptation of Akan customary law to the Matrimonial Causes Act, 1971 (Act 367), particularly regarding rights to the matrimonial home. The plaintiff, a customary-law wife, sought declarations on joint property, maintenance, and an injunction against ejection. The defendant, having married another woman, counter-petitioned for dissolution and ejection. The court consolidated proceedings and initially ordered reinstatement of the plaintiff and children, though only three children returned. Subsequently, due to ongoing conflict, the defendant sought good behaviour undertakings. The court held that customary law does not confer a personal right of occupation in the matrimonial home on a wife or children, especially where children belong to the mother's family. While courts may order accommodation for children's protection, continued residence is subject to good behaviour. The court exercised discretion under the Matrimonial Causes Act, concluding that the absence of a customary right allowed equitable intervention, ultimately ordering the children to vacate within 28 days. The decision clarified the interplay between statutory and customary law in marital disputes.",
+  "legalKeywords": [
+    "customary law",
+    "Matrimonial Causes Act",
+    "matrimonial home",
+    "right of occupation",
+    "good behaviour",
+    "dissolution of marriage",
+    "maintenance",
+    "child custody",
+    "equitable relief",
+    "Akan customary law",
+    "spousal rights",
+    "property rights",
+    "court discretion",
+    "family law",
+    "judicial intervention"
+  ],
+  "topics": [
+    "Family Law",
+    "Customary Law",
+    "Property Rights",
+    "Child Custody",
+    "Matrimonial Disputes"
+  ],
+  "verdict": "The court ruled that the plaintiff and her children had no customary right to occupy the matrimonial home and ordered the children to vacate within 28 days due to ongoing conflict and lack of good behaviour.",
+  "winningSide": "defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Woodman Gordon R.",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Kumasi",
+    "country": "Ghana"
+  },
+  "caseType": "Family Law / Customary Marriage Dispute",
+  "citations": [
+    "Adjei v. Foriwaa (1980), unreported",
+    "[1981] G.L.R.D. 32",
+    "Matrimonial Causes Act, 1971 (Act 367)",
+    "Amissah-Abadoo v. Abadoo [1974] 1 G.L.R. 110",
+    "National Provincial Bank v. Ainsworth [1965] A.C. 1175"
+  ],
+  "rationaleHighlights": [
+    "Customary law does not grant a wife or children a personal right to occupy the matrimonial home.",
+    "The court may intervene under the Matrimonial Causes Act where customary law provides no specific right.",
+    "Continued occupation by children is subject to good behaviour.",
+    "Maintenance may be satisfied in kind, including accommodation, at the court's discretion.",
+    "The absence of a proprietary interest avoids creating land encumbrances.",
+    "The decision harmonizes customary law with statutory equity and justice principles.",
+    "The husband retains discretion over accommodation unless court intervention is necessary.",
+    "The ruling supports flexible, equitable relief over rigid customary entitlements."
+  ],
+  "confidenceNotes": "The summary is based on a well-documented legal analysis with reference to case law and statutory provisions. However, the primary case (Adjei v. Foriwaa) is unreported, relying on a digest, which may limit access to full procedural details. The legal reasoning is consistent with established Ghanaian jurisprudence on customary marriage and property rights.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2013/ADAPTATION OF CUSTOMARY LAW TO THE MATRIMONIAL CAUSES ACT, 1.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:37:29.405Z",
+    "plainTextLength": 10151
+  }
+}

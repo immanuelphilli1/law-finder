@@ -1,0 +1,71 @@
+{
+  "caseTitle": "AKPAN OBONG UDOFIA AND ANOR.",
+  "summary": "This civil appeal before the West Africa Court of Appeal arose from a land boundary dispute in Uruan Native Court, later transferred to the High Court and consolidated with other cases. The plaintiffs sought a declaration of title to Ikpa land, claiming exclusive use and defined boundaries marked on a plan. The trial court granted judgment but failed to clearly define the eastern boundary beyond the African Mission and the southern boundary near Esuk Utatan, leading to uncertainty. The appellate court held that a declaration of title requires precise boundary definition, citing Baruwa v. Ogunshola. The judgment was therefore set aside for legal uncertainty. The court also ruled that the amendment of the claim was permissible, as the original writ broadly covered land extent determination, and that withdrawn pleadings could not serve as binding admissions. Emphasizing clarity, the court recommended that land plans be formally integrated into judgments. The appeal was allowed, the judgment reversed, and the case remitted for retrial before a different judge, with costs awarded to the appellants and a refund ordered for any sums paid under the vacated judgment.",
+  "legalKeywords": [
+    "declaration of title",
+    "boundary dispute",
+    "land ownership",
+    "native court jurisdiction",
+    "amendment of pleadings",
+    "admissions in pleadings",
+    "retrial",
+    "plan as part of judgment",
+    "communal land",
+    "res judicata",
+    "costs award",
+    "uncertainty in judgment",
+    "judicial remittal",
+    "civil procedure",
+    "land demarcation"
+  ],
+  "topics": [
+    "Land Law",
+    "Civil Procedure",
+    "Appellate Review",
+    "Boundary Disputes",
+    "Judicial Remedies"
+  ],
+  "verdict": "Appeal allowed; judgment of the lower court set aside due to uncertainty in land boundaries; case remitted for retrial.",
+  "winningSide": "Defendants-Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "Graham Paul, C.J., Sierra Leone",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "4 W.A.C.A. 159",
+    "Akpaka and others v. E. E. Archibong and others (1923)",
+    "Webber, J., 16th April 1925"
+  ],
+  "rationaleHighlights": [
+    "Judgment set aside due to uncertainty in defining eastern and southern boundaries.",
+    "Amended claim allowed despite shift from original claim; native court writs not to be scrutinized strictly.",
+    "Pleadings withdrawn; prior admissions cannot be relied upon after amendment.",
+    "Plan should be made part of judgment to prevent future disputes.",
+    "Case remitted for retrial before a different judge.",
+    "Costs awarded to appellants in appeal; refund ordered for payments under vacated judgment."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details are explicitly stated in the judgment. Citations and procedural history are clearly referenced.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/AKPAN OBONG UDOFIA AND ANOR..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:11:40.304Z",
+    "plainTextLength": 10905
+  },
+  "trialDate": "1940-10-30"
+}

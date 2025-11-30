@@ -1,0 +1,74 @@
+{
+  "caseTitle": "NASIB DAHABIEH v. S. A. TARQUI & BROTHERS [",
+  "summary": "This 2002 Supreme Court of Ghana decision in Nasib Dahabieh v. S. A. Tarqui & Brothers concerns a civil appeal arising from a property dispute involving claims for damages due to wrongful execution and recovery of possession. The appellant had previously succeeded in having a 1975 default judgment set aside in 1982 on grounds of fraud, with Anterkyi, J. awarding exemplary damages of ₵100,000 and declaring the prior proceedings a nullity. Subsequent actions in 1988 and 1989 sought further damages for detention/conversion of goods and enforcement of the earlier award. The High Court ruled for the appellant, but the Court of Appeal reversed, granting possession to the respondents. The Supreme Court upheld the Court of Appeal’s decision, holding that the appellant was estopped per rem judicatam from re-litigating claims that were or could have been addressed in the 1976 suit. The Court dismissed Ground 1 for non-compliance with Supreme Court Rules requiring specificity in legal grounds, but considered Ground 3 regarding lack of statutory notice, though it did not overturn the decision. The Court found that the prior award of exemplary damages encompassed losses from the wrongful execution, and that the appellant's refusal of payment did not revive the claim. The appeal was dismissed, affirming the order for recovery of possession.",
+  "legalKeywords": [
+    "estoppel per rem judicatam",
+    "recovery of possession",
+    "statutory notice",
+    "default judgment",
+    "exemplary damages",
+    "conversion",
+    "fraud",
+    "nullity",
+    "grounds of appeal",
+    "procedural compliance"
+  ],
+  "topics": [
+    "Property Law",
+    "Civil Procedure",
+    "Appeal Law",
+    "Res Judicata",
+    "Landlord and Tenant"
+  ],
+  "verdict": "Appeal dismissed; Court of Appeal's judgment upheld.",
+  "winningSide": "Respondents (S. A. Tarqui & Brothers)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "T. K. Adzoe",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "Bamford-Addo (Mrs.)",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Ampiah",
+      "role": "Justice"
+    },
+    {
+      "name": "Kpegah",
+      "role": "Justice"
+    },
+    {
+      "name": "Adjahbeng",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Zabrama v. Segbedzi 2 GLR 221",
+    "Anterkyi, J. in Suit No. 152/76 (7/1982)",
+    "Court of Appeal Judgment (21/4/1988)",
+    "Supreme Court Rules, 1996, C.I. 16, Rule 6"
+  ],
+  "rationaleHighlights": [
+    "The appeal failed because the appellant was estopped from relitigating claims already resolved in prior proceedings.",
+    "The Court of Appeal correctly applied res judicata, as the damages claimed were within the scope of earlier litigation.",
+    "Non-service of statutory notice was not raised at trial, affecting its admissibility on appeal.",
+    "The appellant had already been compensated via exemplary damages; further claims for conversion were barred.",
+    "The trial court’s award considered monies paid into court, undermining the basis for re-litigation."
+  ],
+  "confidenceNotes": "High confidence in extracted details; all information is directly cited from the judgment text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2002A/NASIB DAHABIEH v. S. A. TARQUI & BROTHERS [.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:39:36.317Z",
+    "plainTextLength": 28234
+  },
+  "trialDate": "29TH MAY, 2002"
+}

@@ -1,0 +1,61 @@
+{
+  "caseTitle": "LUCAS VERSUS GOLD COAST BUILDING CONSTRUCTION CO. LTD.",
+  "summary": "The plaintiff, an employee of the Gold Coast Building Construction Co. Ltd., sued for damages for wrongful dismissal after failing to comply with two directives: handing over his work to another employee and attending a directors' meeting. He claimed the instructions were unreasonable due to insufficient notice. The court held that even if the orders were unreasonable from the employer's perspective, they were not unlawful, and the plaintiff had no valid excuse for disobedience. The court emphasized that employees must obey lawful and reasonable orders, and wilful refusal constitutes misconduct, justifying summary dismissal. The claim failed, and judgment was entered for the defendant with costs.",
+  "legalKeywords": [
+    "wrongful dismissal",
+    "master and servant",
+    "contract of service",
+    "lawful order",
+    "reasonable order",
+    "disobedience",
+    "termination of employment",
+    "employee duties",
+    "employer authority",
+    "work handover",
+    "directors' meeting",
+    "leave of absence",
+    "employment contract",
+    "misconduct",
+    "summary dismissal"
+  ],
+  "topics": [
+    "Employment Law",
+    "Contract Law",
+    "Dismissal and Discipline",
+    "Master and Servant",
+    "Judicial Precedent"
+  ],
+  "verdict": "Judgment for the defendants.",
+  "winningSide": "Gold Coast Building Construction Co. Ltd.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dennison J.",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Eastern Judicial Division, Divi\u0002sional Court, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "[1930] A.C. 271",
+    "[1845] 14 M. & W. 112",
+    "[1845] 153 E.R. 411"
+  ],
+  "rationaleHighlights": [
+    "Disobedience to lawful and reasonable orders constitutes misconduct justifying dismissal.",
+    "Even if an order is unreasonable, if it does not endanger the employee, it remains lawful.",
+    "Employer has implied right to terminate for substantial breach of duty.",
+    "Employee cannot unilaterally judge the reasonableness of an employer's directive.",
+    "Failure to attend a directors' meeting and hand over duties without lawful excuse is a breach of contract."
+  ],
+  "confidenceNotes": "The judgment is clear and well-reasoned with direct application of precedent; citations are accurately referenced from the Privy Council and English common law.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/LUCAS v. GOLD COAST BUILDING CONSTRUCTION CO. LTD..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:27:53.718Z",
+    "plainTextLength": 6086
+  }
+}

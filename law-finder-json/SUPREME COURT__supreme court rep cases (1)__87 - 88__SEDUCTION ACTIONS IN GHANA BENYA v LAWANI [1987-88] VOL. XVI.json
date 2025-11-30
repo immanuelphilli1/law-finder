@@ -1,0 +1,73 @@
+{
+  "caseTitle": "BENYA v LAWANI",
+  "summary": "In Benya v. Lawani [1987-88], the plaintiff, a father, sued a medical officer for customary seduction after his teenage daughter became pregnant following a relationship with the defendant during a clinic visit. The trial judge awarded substantial damages without clearly defining 'customary seduction' or justifying the amount. This article critiques the decision for conflating common law and customary law principles, particularly in misapplying the concept of loss of service (a common law requirement) to a customary context where liability is based on social injury, family disgrace, and moral wrong rather than proprietary interests. The author emphasizes that customary actions for seduction of an unmarried woman are rooted in the wrong done to the individual and the dishonor brought upon the family, not in loss of service, and warns against mislabeling enticement cases as seduction, which creates legal confusion.",
+  "legalKeywords": [
+    "customary seduction",
+    "loss of service",
+    "damages",
+    "family disgrace",
+    "carnal knowledge",
+    "common law tort",
+    "parental claim",
+    "inducement",
+    "in loco parentis",
+    "quasi-criminal remedy",
+    "cultural values",
+    "procedural clarity",
+    "verdict assessment",
+    "legal fiction",
+    "proprietary interest"
+  ],
+  "topics": [
+    "Tort Law",
+    "Customary Law",
+    "Family Law",
+    "Legal Confusion in Ghana"
+  ],
+  "verdict": "The trial court awarded the plaintiff GH₵300,000 in general damages plus GH₵30,000 in costs and GH₵53,000 in special damages, but the decision was criticized for lack of legal clarity and improper conflation of common law and customary law principles.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Her Ladyship",
+      "role": "trial judge"
+    },
+    {
+      "name": "Taylor J",
+      "role": "judge in Billa v Salifu"
+    },
+    {
+      "name": "Francois J",
+      "role": "judge in Dapah v. Madzigbe"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil tort claim under customary and common law",
+  "citations": [
+    "Benya v. Lawani [1987-88] Vol. XVI RGL 171–190",
+    "Dapah v. Madzigbe",
+    "Billa v Salifu",
+    "Best v. Samuel Fox & Co, Ltd.",
+    "Lynch v. Knight"
+  ],
+  "rationaleHighlights": [
+    "The trial judge failed to define 'customary seduction' or justify the quantum of damages.",
+    "Customary law focuses on moral wrong and family disgrace, not loss of service.",
+    "Common law seduction is rooted in master-servant relationship; customary law is not.",
+    "Liability in customary seduction does not require proof of carnal knowledge or loss of service.",
+    "The decision risks confusing enticement (automatic liability) with seduction (service-based).",
+    "Scholars like Sarbah and Danquah distinguish between civil damages and quasi-criminal penalties in customary law.",
+    "Age and consent are underdeveloped factors in customary seduction jurisprudence.",
+    "Misapplication of common law concepts undermines legal coherence in Ghana."
+  ],
+  "confidenceNotes": "High confidence in factual extraction from the provided text. Some citations are referenced indirectly. Jurisdiction inferred as Ghanaian Supreme Court based on context and source file.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/87 - 88/SEDUCTION ACTIONS IN GHANA BENYA v LAWANI [1987-88] VOL. XVI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:21:21.858Z",
+    "plainTextLength": 52681
+  }
+}

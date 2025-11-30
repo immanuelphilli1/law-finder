@@ -1,0 +1,95 @@
+{
+  "caseTitle": "MADAM AKUA NYAMEKYE v. MR. ANTHONY KWAKU OPOKU",
+  "summary": "The Supreme Court of Ghana dismissed an application by Madam Akua Nyamekye to review its prior 3-2 majority judgment dismissing her appeal regarding eligibility for the Krobo Stool. The applicant argued that the split decision and alleged miscarriage of justice warranted review under Rule 54 of the Supreme Court Rules (C.I. 16). The Court reaffirmed that review is not a second appeal and requires exceptional circumstances such as fundamental error or newly discovered evidence. The applicant merely rehashed arguments from the original appeal, including claims about dynastic rights and exclusivity under Akan customary law. The Court found no fundamental error, noting that evidence such as the installation of S.K. Mainoo (an Ekuona) and the acceptance of dwantoa from the respondent contradicted the claim of an exclusive dynasty. The application was dismissed for lacking merit.",
+  "legalKeywords": [
+    "review application",
+    "miscarriage of justice",
+    "exceptional circumstances",
+    "customary law",
+    "stool occupancy",
+    "Akan clan",
+    "Supreme Court Rules C.I. 16",
+    "Rule 54",
+    "majority decision",
+    "fundamental error",
+    "new evidence",
+    "per incuriam",
+    "dynastic right",
+    "kingmakers",
+    "dwantoa"
+  ],
+  "topics": [
+    "Judicial Review",
+    "Customary Law",
+    "Stool Succession",
+    "Supreme Court Procedure",
+    "Miscarriage of Justice"
+  ],
+  "verdict": "Application for review dismissed",
+  "winningSide": "Respondent (Mr. Anthony Kwaku Opoku)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Edward Wiredu",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Mrs. J. Bamford-Addo",
+      "role": "Concurring Judge"
+    },
+    {
+      "name": "Ampiah",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Kpegah",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Adjabeng",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Ms. Akuffo",
+      "role": "Member of Coram"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Bisi vrs. Kwayie [1987-88] 2 GLR 295",
+    "Quartey et als. vrs. Central Services Co. Ltd. et als. [1996-97] SGGLR 398",
+    "Ribeiro vrs. Ribeiro (No. 2) [1989-90] 2 GLR 130",
+    "Mechanical Lloyd Assembly Plant vrs. Nartey [1987-88] 2 GLR 598",
+    "Mosi vrs Bagyina [1963] 1 GLR 337",
+    "Kwa Nana vrs. Appa et al. (unreported) SC judgment dated 29th January, 1997",
+    "Republic vrs. Nana Oduro Numapau II, & 15 Ors., Ex-Parte: Nana Adu Ameyaw II, C.M. 39/99, dated 12th January, 2000",
+    "Ababio vrs. Bekoe II [1996-97] SCGLR, 392",
+    "Adam Achoro vrs. Akanfela [1996-97] SCGLR 384"
+  ],
+  "rationaleHighlights": [
+    "Review is not a second appeal; only allowed under exceptional circumstances per Rule 54 of C.I. 16",
+    "Majority decision binds regardless of split; numerical disagreement does not justify review",
+    "Applicant failed to show fundamental error or new evidence",
+    "Arguments rehashed from appeal; no exceptional circumstances shown",
+    "Installation of S.K. Mainoo and acceptance of dwantoa undermine claim of exclusive dynasty",
+    "Court emphasized that review is not for rehearing or refining appellate arguments",
+    "Claim of displaced dynasty contradicted by post-Osei Sampam events",
+    "No constitutional or procedural error demonstrated"
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the ruling with clear judicial reasoning and procedural context.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2000A/MADAM AKUA NYAMEKYE v. MR. ANTHONY KWAKU OPOKU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:49:19.380Z",
+    "plainTextLength": 35774
+  },
+  "trialDate": "12TH APRIL, 2000"
+}

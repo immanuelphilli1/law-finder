@@ -1,0 +1,69 @@
+{
+  "caseTitle": "QUACOE VERSUS DADSON.",
+  "summary": "In Quaco v. Dadson, the plaintiff sued for defamation after the defendant publicly called him an 'ex-convict' in Anomabu, alleging multiple prior convictions and imprisonments. The High Court, applying English law due to the parties' literacy and the nature of the alleged wrong, held that the statement was slanderous per se as it imputed a criminal offence punishable by imprisonment. The judge accepted the plaintiff's testimony and corroboration by the defendant's own companion, rejecting the defendant's alibi for lack of supporting evidence. Relying on English precedents, the court ruled that such imputations cause lasting social disgrace (obloquy) and are actionable without proof of special damage. The defendant failed to justify the statement, which was wholly false. The plaintiff was awarded �50 in damages with costs.",
+  "legalKeywords": [
+    "defamation",
+    "slander actionable per se",
+    "imputation of criminal offence",
+    "ex-convict",
+    "native customary law",
+    "English law application",
+    "special damage",
+    "reputation",
+    "obloquy",
+    "truth as defence",
+    "corroborative evidence",
+    "judicial discretion",
+    "damages",
+    "costs",
+    "public utterance"
+  ],
+  "topics": [
+    "Defamation",
+    "Slander",
+    "Native Customary Law",
+    "English Law Application",
+    "Damages"
+  ],
+  "verdict": "Judgment for the plaintiff with �50 damages and costs.",
+  "winningSide": "plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adumua-Bossman J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Central Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Hellwig v. Mitchell [1910] 1 K.B. 609",
+    "Fowler v. Dowdney, 174 E.R. 234",
+    "Gainford v. Tuke, 79 E.R. 460",
+    "Boston v. Tantam, 79 E.R. 536",
+    "Cheetham v. Bannerman (1881) Fanti Law Reports 23",
+    "Afful v. Yambah (1885) Renner's Reports",
+    "Accromah v. Frimpon (1885) Renner's Reports",
+    "Carnor v. Otum (1904) Renner's Reports",
+    "Amoah v. Djabi (1926) Divisional Court",
+    "Kuku v. Addo (1957) 2 W.A.L.R. 306"
+  ],
+  "rationaleHighlights": [
+    "Words imputing conviction and imprisonment are slanderous per se under English law",
+    "Native customary law recognizes defamation but English law applied due to parties' literacy and context",
+    "Imputation of being an 'ex-convict' carries lasting social stigma (obloquy) even if punishment served",
+    "Defendant's alibi rejected due to failure to produce supporting witness",
+    "No truth in defendant's statement; no justification offered"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judgment text and clear judicial reasoning. Native customary law discussion is contextual but not determinative in outcome.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/QUACOE v. DADSON..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:56:00.683Z",
+    "plainTextLength": 13111
+  },
+  "trialDate": "1957-08-03"
+}

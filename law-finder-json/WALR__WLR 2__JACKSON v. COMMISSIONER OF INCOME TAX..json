@@ -1,0 +1,68 @@
+{
+  "caseTitle": "JACKSON VERSUS COMMISSIONER OF INCOME TAX.",
+  "summary": "In Jackson v. Commissioner of Income Tax, the Supreme Court of the Gold Coast ruled that retroactive salary arrears paid in 1947 could not be apportioned across prior years for income tax assessment. The taxpayer, a judge, received a lump sum for salary increases retroactive to January 1946, but the court held that since no legal entitlement or debt existed for these arrears during the earlier years, they could not form part of the assessable income for those periods. Relying on the wording of the Income Tax Ordinance, particularly sections 53 and 18(1), and distinguishing UK precedents due to the absence of an equivalent to Schedule E, Rule 5, the court concluded that the arrears were taxable only in the year they were paid. The appeal was allowed, and the Commissioner's additional assessments for prior years were invalidated.",
+  "legalKeywords": [
+    "income tax",
+    "additional assessment",
+    "arrears of salary",
+    "taxable income",
+    "year of assessment",
+    "retroactive payment",
+    "tax liability",
+    "assessment authority",
+    "Income Tax Ordinance",
+    "Gold Coast",
+    "judicial salary",
+    "tax on income",
+    "debt vs income",
+    "tax apportionment",
+    "retroactive salary increase"
+  ],
+  "topics": [
+    "Tax Law",
+    "Income Assessment",
+    "Retroactive Payments",
+    "Judicial Compensation",
+    "Statutory Interpretation"
+  ],
+  "verdict": "The appeal was allowed. The Commissioner of Income Tax had no authority to make additional assessments for prior years on arrears of salary that were not due or payable until 1947. The lump sum payment was to be assessed solely in the year of payment.",
+  "winningSide": "Appellant (Jackson)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Smith J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Eastern Judicial Division",
+    "country": "Ghana"
+  },
+  "caseType": "tax",
+  "citations": [
+    "Jackson v. Commissioner of Income Tax",
+    "Dracup v. Radcliffe (1946) 27 T.C. 188",
+    "McKeown v. Boe [1928] I.R. 195",
+    "London County Council v. Att.-Gen. [1901] A.C. 26",
+    "St. Lucia Mines & Estates Co. v. St. Lucia Colonial Treasurer [1924] A.C. 508",
+    "Leigh v. Inland Revenue Commissioners [1928] 1 K.B. 73",
+    "Dodworth v. Dale [1936] 2 K.B. 503"
+  ],
+  "rationaleHighlights": [
+    "Section 53 of the Income Tax Ordinance limits additional assessments to income for the specific year in question.",
+    "No debt existed for the arrears prior to 1947; thus, no income arose in earlier years.",
+    "Absence of a provision equivalent to UK Income Tax Act, Schedule E, Rule 5, prevents apportionment across years.",
+    "Tax is on income actually received or accrued as a right; mere entitlement without legal claim does not constitute income.",
+    "Leigh v. Inland Revenue Commissioners supports taxing lump-sum arrears in the year of payment.",
+    "Section 18(1) ties assessable income to amounts received 'during' the preceding year.",
+    "Event giving rise to income (payment authorization) occurred after original assessments.",
+    "Additional assessment unlawful for events occurring after the year to which it relates."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct judicial reasoning and cited authorities. The absence of a local equivalent to UK Schedule E, Rule 5 is pivotal.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/JACKSON v. COMMISSIONER OF INCOME TAX..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:31:10.799Z",
+    "plainTextLength": 10273
+  }
+}

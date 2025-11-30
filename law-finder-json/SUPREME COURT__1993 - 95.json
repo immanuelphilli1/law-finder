@@ -1,0 +1,59 @@
+{
+  "caseTitle": "AVUUGI v ABUGRI",
+  "summary": "The document is a table of contents from the Review of Ghana Law 1993–95, featuring scholarly articles on various legal topics in Ghana. Key themes include customary and Islamic family law, constitutional rights, human rights, criminal justice, and commercial law. Notable articles discuss the intersection of bigamy and Islamic marriage, the action for breach of promise to marry, the right to state-appointed counsel under the 1992 Constitution, and the need for reform in the law on carriage of goods by sea. The entries reflect academic analysis rather than judicial decisions.",
+  "legalKeywords": [
+    "customary law",
+    "Islamic marriages",
+    "breach of promise to marry",
+    "right to counsel",
+    "human rights",
+    "testate succession",
+    "exclusion clauses",
+    "carriage of goods by sea",
+    "constitutional rights",
+    "judicial appointments"
+  ],
+  "topics": [
+    "Customary Law",
+    "Constitutional Law",
+    "Family Law",
+    "Human Rights",
+    "Commercial Law"
+  ],
+  "verdict": "Not applicable – this is an academic compilation, not a court judgment.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "MENSA-BONSU H J A N",
+      "role": "author"
+    },
+    {
+      "name": "NII-APONSAH D A",
+      "role": "author"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "academic commentary",
+  "citations": [
+    "[1993-95] VOL. XIX 252—262",
+    "[1993-95] VOL XIX 247—251",
+    "[1993-95] VOL XIX RGL 140—158"
+  ],
+  "rationaleHighlights": [
+    "Analysis of customary law issues in Avuugi v Abugri",
+    "Discussion on bigamy and Islamic marriages under Ghanaian law",
+    "Examination of the right to state-appointed counsel under the 1992 Constitution",
+    "Critique of exclusion clauses in consumer contracts"
+  ],
+  "confidenceNotes": "The document appears to be a table of contents for a legal review publication rather than a court decision. Information is derived from article titles and citations.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/1993 - 95.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T09:56:29.889Z",
+    "plainTextLength": 2038
+  }
+}

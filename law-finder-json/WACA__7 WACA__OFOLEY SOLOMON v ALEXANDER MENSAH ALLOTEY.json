@@ -1,0 +1,66 @@
+{
+  "caseTitle": "OFOLEY SOLOMON v ALEXANDER MENSAH ALLOTEY",
+  "summary": "This 1941 West African Court of Appeal decision addressed a jurisdictional challenge arising from an order by the Divisional Court directing payment of funds held in court to the head of a family, following a determination by the Ga Manche Tribunal that certain properties devised by will were family property and not part of the deceased's personal estate. The executors had appealed the Divisional Court's order, arguing lack of jurisdiction after the main action was referred to a customary tribunal. The appellate court dismissed the appeal, affirming that the Divisional Court retained jurisdiction to make ancillary orders necessary for justice, citing the principle that all court orders inherently carry the liberty to apply for further directions. The court emphasized that the original receiver's appointment and fund-holding order was not final and required a subsequent disbursement order, which the court was competent to issue even after referral to the Ga Manche Tribunal.",
+  "legalKeywords": [
+    "jurisdiction",
+    "Divisional Court",
+    "Ga Manche Tribunal",
+    "family property",
+    "receiver",
+    "order for payment",
+    "executors and trustees",
+    "customary law",
+    "ancillary order",
+    "in gremio liberty",
+    "Court of Appeal",
+    "will interpretation",
+    "property disposition",
+    "procedural justice",
+    "receivership"
+  ],
+  "topics": [
+    "Jurisdictional Authority",
+    "Customary vs. Formal Legal Systems",
+    "Probate and Succession",
+    "Court Procedures and Ancillary Orders"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent (Emmanuel Obeng Ankrah)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "M'Carthy",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Fritz v. Hobson (1880) 14 Ch D 542"
+  ],
+  "rationaleHighlights": [
+    "The Divisional Court retained jurisdiction to make orders necessary for justice, even after referral to a customary tribunal.",
+    "The appointment of a receiver and holding of funds created an ongoing judicial process requiring a disbursement order.",
+    "All court orders inherently carry the liberty to apply for further directions (in gremio liberty).",
+    "The original order was not final, thus the court retained control over the funds pending final disposition."
+  ],
+  "confidenceNotes": "High confidence based on clear judicial reasoning and citation of precedent. Case reflects established principles of court jurisdiction and procedural continuity in colonial-era Ghanaian jurisprudence.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/OFOLEY SOLOMON v ALEXANDER MENSAH ALLOTEY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:31:10.151Z",
+    "plainTextLength": 7517
+  },
+  "trialDate": "1941-12-16"
+}

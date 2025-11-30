@@ -1,0 +1,88 @@
+{
+  "caseTitle": "NANA KOFI OWUSU v KWAKU OWUSU ANSAH & BAFFOUR APPIAH DANKWA",
+  "summary": "This 2007 Supreme Court of Ghana judgment in Nana Kofi Owusu v Kwaku Owusu Ansah & Baffour Appiah Dankwa concerns a land dispute over Twedie lands designated as Durbar Grounds. The High Court had granted an interim injunction to preserve the status quo, which the Court of Appeal overturned, finding the plaintiff had a stronger claim based on historical arbitrations favoring Toasehene's ownership. The Supreme Court upheld the Court of Appeal’s decision, ruling that the trial judge misapplied facts by citing non-existent pending litigation and failed to properly assess pleadings and affidavits. The court emphasized that interim injunctions must be based on a serious question to be tried and balanced hardship, concluding the plaintiff would suffer greater harm if development of communal land was restrained. The judgment also highlighted the importance of environmental and communal land conservation.",
+  "legalKeywords": [
+    "interim injunction",
+    "status quo",
+    "prima facie case",
+    "pleadings and affidavit evidence",
+    "land dispute",
+    "chieftaincy dispute",
+    "usufructuary title",
+    "declaratory relief",
+    "trespass damages",
+    "recovery of possession",
+    "perpetual injunction",
+    "traditional authority",
+    "arbitration award",
+    "estoppel",
+    "hardship balance",
+    "discretionary remedy",
+    "misapprehension of fact",
+    "revenue sharing",
+    "communal land",
+    "environmental conservation"
+  ],
+  "topics": [
+    "Land Law",
+    "Injunctions",
+    "Chieftaincy Disputes",
+    "Traditional Authority",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Plaintiff/Appellant (Nana Kofi Owusu)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sophia Adinyira",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Miss Akuffo",
+      "role": "Justice"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Asiamah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Pountney v. Doegah [1987-88] 1 GLR 111",
+    "Vanderpuye vs. Nartey [1977] 1 GLR 429",
+    "Thorne v. British Broadcasting Corporation [1957] 1 WLR 1104",
+    "American Cyanamid Co. v. Ethicon Ltd. [1975] 1 All E.R. 504",
+    "Blunt v Blunt [1943] A.C. 517"
+  ],
+  "rationaleHighlights": [
+    "The trial judge erred by relying on a supposed pending litigation that was not supported by the record.",
+    "An interim injunction requires a serious question to be tried and protection of legal rights, not mere assertion.",
+    "The Court of Appeal properly considered pleadings and affidavits showing Toasehene's historical ownership.",
+    "Hardship to the plaintiff in blocking community development outweighed claimed revenue loss by defendant.",
+    "Discretion in granting injunctions must be based on proper and relevant evidence.",
+    "The plaintiff was acting as agent of Toasehene, whose ownership was upheld by prior arbitration awards.",
+    "Revenue from the land was to be shared among traditional authorities, undermining defendant's financial claim.",
+    "Environmental and communal interests support development of public durbar grounds."
+  ],
+  "confidenceNotes": "The summary is based on a complete reading of the provided judgment text. All key legal principles, parties, and reasoning are accurately reflected. The case citation and judicial hierarchy are consistent with Ghanaian jurisprudence. Some peripheral procedural details may be omitted for conciseness, but no material facts affecting the outcome are missing.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2007A/NANA KOFI OWUSU v  KWAKU OWUSU ANSAH & BAFFOUR APPIAH DANKWA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:57:45.883Z",
+    "plainTextLength": 16281
+  },
+  "trialDate": "2007-03-14"
+}

@@ -1,0 +1,74 @@
+{
+  "caseTitle": "ADURUMOKUMOR OF BAKOKODIA v E. E. SILLO OF OMADINOR",
+  "summary": "This civil appeal before the West Africa Court of Appeal arose from a land dispute transferred from a Native Court to the Supreme Court. The plaintiffs, E. E. Sillo and others representing the people of Omadinor, sued the defendant, Adurumokumor of Bakokodia, for a declaration of title and damages for trespass. The defendant appealed after losing at trial, arguing that the plaintiffs lacked court approval to sue in a representative capacity under Order 4, Rule 3 of the Supreme Court (Civil Procedure) Rules. The Court held that since the suit originated in a Native Court not bound by those rules, the transfer did not invalidate the plaintiffs' representative standing, especially as the defendant had admitted the representative capacities in his pleadings. The Court also rejected a challenge to the land plan, noting the disputed area was identifiable despite a clerical error in marking. Lastly, it upheld the award of damages, ruling that the defendant and his community were collectively liable for the trespass. The appeal was dismissed with a rider added to clarify that the judgment does not prejudice future boundary determinations with neighboring communities.",
+  "legalKeywords": [
+    "representative capacity",
+    "trespass",
+    "declaration of title",
+    "native court",
+    "Supreme Court Civil Procedure Rules",
+    "Order 4 Rule 3",
+    "transfer of suit",
+    "community liability",
+    "damages",
+    "land dispute",
+    "admission in pleadings",
+    "traditional evidence",
+    "plan interpretation",
+    "judicial rider",
+    "procedural compliance"
+  ],
+  "topics": [
+    "Land Law",
+    "Civil Procedure",
+    "Tort Law",
+    "Native Customary Law",
+    "Appellate Law"
+  ],
+  "verdict": "Appeal dismissed.",
+  "winningSide": "Respondents (E. E. Sillo and the people of Omadinor)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey J.A.",
+      "role": "judging"
+    },
+    {
+      "name": "Foster-Sutton, P.",
+      "role": "concurring"
+    },
+    {
+      "name": "De Comarmond, Ag. C.J.",
+      "role": "concurring"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Maim v. Wulff, 3 W.A.C.A. 232",
+    "Ababio v. Ackumpong, 6 W.A.C.A. 173",
+    "Chief Ntuen Ibok and Two Others v. Chief Douglas MacJaja, W.A.C.A., 5th May, 1947",
+    "Musa APena and Others v. Ajose Oniku and Others, W.A.C.A., 17th May, 1945"
+  ],
+  "rationaleHighlights": [
+    "Transfer from Native Court preserves original procedural validity; Supreme Court rules not retroactively applied.",
+    "Admission in defence binds parties on representative capacities.",
+    "Community as a legal entity can be liable for collective trespass.",
+    "Damages awarded against individual extend to community when act is collective.",
+    "Plan discrepancies do not invalidate claim if core boundaries are identifiable.",
+    "Rider added to judgment to prevent future boundary disputes with third parties.",
+    "Obiter confirms that failure to mark disputed area on plan is clerical, not substantive error.",
+    "Precedent from Chief Ntuen Ibok case directly supports procedural continuity after transfer."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key elements (jurisdiction, parties, issues, holdings) are explicitly stated in the judgment. Citations and procedural history are clearly documented.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/ADURUMOKUMOR OF BAKOKODIA  v E. E. SILLO OF OMADINOR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:45:45.801Z",
+    "plainTextLength": 9563
+  },
+  "trialDate": "1952-06-02"
+}

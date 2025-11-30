@@ -1,0 +1,81 @@
+{
+  "caseTitle": "NANA ATTA KARIKARI AND ANOTHER v NANA OW ARE AGYEKUM II",
+  "summary": "This Privy Council decision from June 7, 1955, concerns an appeal by Nana Atta Karikari and another against Nana Ow Are Agyekum II, originating from a land trespass and recovery of possession case in the Gold Coast (now Ghana). The core issue was the taxation of costs, specifically a dispute over surveyor's fees and laborers' wages amounting to £870, which the taxing officer reduced to £9. The West African Court of Appeal allowed £736, and leave to appeal to the Privy Council was granted under Article 3(a) of the West African (Appeal to Privy Council) Order in Council, 1949–1950. The Privy Council held that a dispute solely over the quantum of costs does not constitute a 'matter in dispute' under Article 3(a), which requires a minimum value of £500. The appeal was dismissed, affirming that appeals on costs alone are only admissible in exceptional circumstances under Article 3(b) or by special leave, neither of which applied here.",
+  "legalKeywords": [
+    "appeal as of right",
+    "quantum of costs",
+    "matter in dispute",
+    "taxation of costs",
+    "West African Court of Appeal",
+    "Privy Council",
+    "Gold Coast Courts Ordinance",
+    "discretion of taxing officer",
+    "special leave to appeal",
+    "incidence of costs",
+    "final judgment",
+    "civil right",
+    "property claim",
+    "error of law",
+    "judicial discretion",
+    "procedural objection",
+    "costs in litigation",
+    "appeal jurisdiction",
+    "public importance",
+    "consent order"
+  ],
+  "topics": [
+    "Costs in Civil Litigation",
+    "Appellate Procedure",
+    "Privy Council Jurisprudence",
+    "Legal Costs Taxation",
+    "Ghanaian Land Law"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lord Somervell of Harrow",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Lord Radcliffe",
+      "role": "Member"
+    },
+    {
+      "name": "Mr. L. M. D. de Silva",
+      "role": "Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Judicial Committee of the Privy Council",
+    "country": "Ghana (then Gold Coast, under British jurisdiction)"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "West African (Appeal to Privy Council) Order in Council, 1949-1950, Article 3",
+    "Gold Coast Courts Ordinance, s. 13",
+    "West African Court of Appeal Ordinance, s. 3",
+    "Inglis v. Mansfield, 3 C & Fin. 362",
+    "Credit Fancier of Mauritius v. Paturau",
+    "Donald Campbell & Co. v. Pollah [1927] A.C. 732",
+    "Sauvageau v. Gauthier L.R. 5 P.C. 494"
+  ],
+  "rationaleHighlights": [
+    "A dispute solely over the quantum of costs does not constitute a 'matter in dispute' under Article 3(a).",
+    "Appeals on costs alone are not permitted as of right and require special circumstances or leave.",
+    "Costs cannot be aggregated to meet the £500 threshold for appeal under Article 3(a).",
+    "The phrase 'matter in dispute' refers to the subject of the original proceedings, not ancillary issues like costs.",
+    "The West African Court of Appeal erred in granting leave under Article 3(a).",
+    "Appeals on costs may exceptionally proceed under Article 3(b) if of public importance.",
+    "No error of law or abuse of discretion was shown to justify special leave.",
+    "The proper procedure is a preliminary petition to dismiss an improperly grounded appeal."
+  ],
+  "confidenceNotes": "The source is a formal law report from the West African Law Reports, and the judgment is delivered by the Judicial Committee of the Privy Council, indicating high authority. All details are directly extracted from the text, with no external assumptions.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/NANA ATTA KARIKARI AND ANOTHER  v NANA OW ARE AGYEKUM II.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:01:11.597Z",
+    "plainTextLength": 8402
+  }
+}

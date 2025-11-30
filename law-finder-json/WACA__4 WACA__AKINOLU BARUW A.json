@@ -1,0 +1,64 @@
+{
+  "caseTitle": "AKINOLU BARUW A",
+  "summary": "In this civil land dispute heard by the West African Court of Appeal, the plaintiff-appellant, Akinolu Baruwa, sought a declaration of title to land in Odogun, Isheri District. The claim was dismissed against the first two defendants who contested it, as the plaintiff failed to discharge the onus of clearly identifying the land claimed. No valid plan was presented, and the one referenced (Exhibit A) related to a different case concerning Ito Abo Swamp in Ikorodu, making it irrelevant. The plaintiff's own witness gave inconsistent testimony, further undermining the claim. The court upheld the dismissal against the first two defendants due to failure to establish a prima facie case. However, regarding the third and fourth defendants, who did not dispute the claim, the court ruled that a non-suit should have been entered instead of a dismissal. Thus, the appeal was dismissed against the first two defendants with costs, but allowed in part regarding the last two, with the dismissal set aside and a non-suit ordered.",
+  "legalKeywords": [
+    "declaration of title",
+    "land dispute",
+    "onus of proof",
+    "non-suit",
+    "dismissal",
+    "plan evidence",
+    "prima facie case",
+    "self-help",
+    "property boundaries",
+    "trial procedure"
+  ],
+  "topics": [
+    "Property Law",
+    "Civil Procedure",
+    "Land Title",
+    "Evidence",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed against first two defendants; allowed in part against third and fourth defendants with non-suit substituted for dismissal.",
+  "winningSide": "First two defendants (respondents)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webb",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WACA/4 WACA/AKINOLU BARUW A"
+  ],
+  "rationaleHighlights": [
+    "Plaintiff failed to clearly identify the area of land claimed.",
+    "No proper plan was submitted to the court.",
+    "Exhibit A was irrelevant as it pertained to a different dispute.",
+    "Plaintiff's witness gave contradictory evidence.",
+    "First two defendants properly resisted; dismissal upheld.",
+    "Last two defendants did not contest; non-suit ordered instead of dismissal."
+  ],
+  "confidenceNotes": "High confidence; source is a verbatim court decision from the West African Court of Appeal with clear judicial reasoning and party details.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/AKINOLU BARUW A.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:07:56.763Z",
+    "plainTextLength": 5273
+  },
+  "trialDate": "1938-11-08"
+}

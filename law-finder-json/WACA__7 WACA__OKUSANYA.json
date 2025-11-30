@@ -1,0 +1,70 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This 1941 Privy Council judgment arose from a long-standing land dispute between the Ake and Ijesha peoples in Nigeria, focusing on the scope of 'farming rights' granted to Ijesha over specified farms under the 1924 Tew judgment. The appellants (Ake) sought declarations that Ijesha's farming rights did not include reaping palm or kola nuts from trees planted by Ake, paying no tribute, or felling timber. The lower courts dismissed the claims based on res judicata and the irrelevance of the felling claim due to forestry regulations. The Privy Council held that while some claims were res judicata—such as reaping palm nuts and planting cocoa and kola trees—the issues of tribute payment and reaping produce from trees planted by Ake had not been finally adjudicated and were not barred. The claim regarding felling trees was not res judicata but was considered misconceived due to statutory forestry control, though the Council expressed no view on underlying customary rights.",
+  "legalKeywords": [
+    "res judicata",
+    "farming rights",
+    "customary land tenure",
+    "tribunal jurisdiction",
+    "declaratory relief",
+    "injunction",
+    "native law and custom",
+    "judicial precedent",
+    "Privy Council appeal",
+    "land ownership",
+    "forest ordinance",
+    "boundary dispute",
+    "appellate review"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Appellate Jurisdiction",
+    "Res Judicata",
+    "Agricultural Rights"
+  ],
+  "verdict": "Partially allowed",
+  "winningSide": "Appellants in part",
+  "prosecutionType": "private",
+  "judges": [
+    {
+      "name": "Lord Russell of Killowen",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Lord Atkin"
+    },
+    {
+      "name": "Lord Rower"
+    },
+    {
+      "name": "Sir George Rankin"
+    },
+    {
+      "name": "Lord Justice Clauson"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Judicial Committee of the Privy Council",
+    "country": "United Kingdom (on appeal from West Africa)"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Tew judgment (7 Feb 1924)",
+    "Duncombe judgment (1905)",
+    "Ames, Assistant J. (5 Feb 1935)"
+  ],
+  "rationaleHighlights": [
+    "Res judicata applies only to issues actually decided, not abandoned or unadjudicated claims.",
+    "Claim regarding tribute not res judicata as it was never judicially determined.",
+    "Right to fell trees governed by Forestry Ordinance, not subject to private land rights declarations.",
+    "New claim about harvesting trees planted by Ake not previously litigated, thus not barred."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; source is a judicial decision with clear procedural history. Some formatting issues in original text, but key holdings are discernible.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/OKUSANYA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:31:08.064Z",
+    "plainTextLength": 15878
+  }
+}

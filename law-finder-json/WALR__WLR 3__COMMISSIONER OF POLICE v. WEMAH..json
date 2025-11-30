@@ -1,0 +1,73 @@
+{
+  "caseTitle": "COMMISSIONER OF POLICE VERSUS WEMAH.",
+  "summary": "In Commissioner of Police v. Wehah, the Court of Appeal of Ghana upheld the conviction of a municipal councillor for extortion under the Criminal Code, s. 413. The appellant, as a public officer, obtained money from individuals by falsely representing that he could authorize building projects, a power not vested in individual councillors. The court distinguished extortion from corruption, emphasizing that extortion involves obtaining money 'under colour of office' through misrepresentation of authority, without requiring proof of a specific duty. The judgment clarified that under s. 437 of the Criminal Code, the essence of extortion is the abuse of office for personal gain, regardless of whether the accused was discharging an official duty.",
+  "legalKeywords": [
+    "extortion",
+    "corruption",
+    "public officer",
+    "under colour of office",
+    "Criminal Code",
+    "misrepresentation of authority",
+    "municipal council",
+    "building permit",
+    "wilful oppression",
+    "judicial distinction",
+    "duties of office",
+    "unlawful demand",
+    "valuable consideration",
+    "abuse of power",
+    "statutory authority"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Public Office Misconduct",
+    "Judicial Interpretation",
+    "Extortion vs Corruption"
+  ],
+  "verdict": "Conviction for extortion upheld",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Quashie-Idun",
+      "role": "Ag.C.J."
+    },
+    {
+      "name": "Manyo Plange",
+      "role": "J."
+    },
+    {
+      "name": "van Lare",
+      "role": "J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Criminal Code, c. 9 of 1951, s. 413",
+    "Criminal Code, s. 437",
+    "Commissioner of Police v. Bonsu and Others (1957) 2 W.A.L.R. 334",
+    "Commissioner of Police v. Appiah, W.A.C.A., June 10, 1947 (unreported)",
+    "R. v. Minimah (1940) 6 W.A.C.A. 192"
+  ],
+  "rationaleHighlights": [
+    "Extortion does not require proof of a specific duty; it suffices that the accused acted 'under colour of office'.",
+    "Misrepresentation of power or authority as a public officer constitutes acting 'under colour of office'.",
+    "Section 437 of the Criminal Code omits 'in respect of the duties of his office', distinguishing extortion from corruption.",
+    "The accused obtained money by falsely claiming authority to approve building projects.",
+    "The victims paid due to the appellant's position as a councillor, establishing the link to his office.",
+    "The court followed Commissioner of Police v. Appiah, affirming that representation of office powers, even false, supports extortion.",
+    "Distinction made between Nigerian and Ghanaian law on extortion due to differing statutory wording.",
+    "Conviction upheld because the appellant knew he was not lawfully authorized to demand the money."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and direct citation of statutory provisions and prior case law. The summary reflects the core legal distinction established in the judgment.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/COMMISSIONER OF POLICE v. WEMAH..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:06:11.400Z",
+    "plainTextLength": 17872
+  }
+}

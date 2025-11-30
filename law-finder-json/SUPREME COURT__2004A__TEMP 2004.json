@@ -1,0 +1,33 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The provided document is not a legal decision but appears to be a template or header page for unreported cases of the Supreme Court of Ghana from 2004. It contains no substantive case information, parties, judgment, or legal analysis. As such, no case details, verdict, or legal reasoning can be extracted.",
+  "legalKeywords": [
+    "Ghana",
+    "Supreme Court",
+    "unreported cases",
+    "2004",
+    "legal database"
+  ],
+  "topics": [
+    "Court Administration",
+    "Legal Publishing"
+  ],
+  "verdict": "No verdict available",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "unknown",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The provided document appears to be a webpage header or template for unreported cases of the Supreme Court of Ghana from 2004, not an actual legal decision. It contains no case details, judgment text, parties, or legal reasoning.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2004A/TEMP 2004.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:32:27.086Z",
+    "plainTextLength": 209
+  }
+}

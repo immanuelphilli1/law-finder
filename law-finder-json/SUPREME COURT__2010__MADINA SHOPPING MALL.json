@@ -1,0 +1,82 @@
+{
+  "caseTitle": "MADINA SHOPPING MALL",
+  "summary": "The Madina Shopping Mall Association (appellants) appealed a lower court decision dismissing their claim for ownership of shops they had paid for at the Rosehill Height Shopping Mall. They argued that the payments made to Rosehill Gh. Ltd. and its Managing Director, E. M. Frimpong, were for the outright purchase of shops, supported by an oral agreement. However, the Supreme Court upheld the Court of Appeal's finding that no enforceable contract existed because essential terms, particularly price, were not agreed upon. The application form (Exhibit E) did not mention sale, only allocation after deposit, and required a next-of-kin—insufficient to prove ownership. The court rejected the fraud claim, noting the appellants signed the forms without protest. While affirming dismissal, the court ordered restitution of monies paid with simple interest from the date of occupation termination to final payment, less any rent paid by those who accepted tenancy, citing its inherent jurisdiction to prevent miscarriage of justice.",
+  "legalKeywords": [
+    "contract formation",
+    "essential terms",
+    "oral agreement",
+    "tenancy agreement",
+    "goodwill payment",
+    "specific performance",
+    "restitution",
+    "inherent jurisdiction",
+    "fraud",
+    "next of kin",
+    "part performance",
+    "lease vs sale",
+    "enforceable contract",
+    "interest award",
+    "commercial property"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Restitution",
+    "Commercial Tenancy",
+    "Supreme Court Jurisprudence"
+  ],
+  "verdict": "Appeal dismissed with variation for restitution of monies paid with interest, less rent paid by those who accepted tenancy.",
+  "winningSide": "Defendants / Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "W. A. Atuguba",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Akuffo (Ms)",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Owusu (Ms)",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "OKAI vrs. OCANSEY [1992-93]3 GBR. 1047 CA",
+    "MAY AND BUTCHER vrs. R, HOUSE OF LORDS [1934]2 KB 17",
+    "BRITISH BANK FOR FOREIGN TRADE vrs. NOVINEX LTD. [1949] 1 KB.623, 1 ALL ER. 155",
+    "NTHC LTD v ANTWI (2009) SC GLR 117",
+    "HANNA ASSI (No. 2) v. GHIHOC REFRIGERATION & HOUSEHOLD PRODUCTS LTD (No. 2) [2007-2008] SC GLR 16"
+  ],
+  "rationaleHighlights": [
+    "No enforceable contract due to absence of agreed essential terms like price",
+    "Exhibit E did not mention sale, undermining claim of outright purchase",
+    "Next-of-kin provision does not prove ownership transfer",
+    "Goodwill payments for commercial premises are legally permissible",
+    "Court exercised inherent jurisdiction to order restitution with interest",
+    "Fraud claim dismissed due to appellants signing forms without objection",
+    "Reference to binding precedent on incomplete contracts",
+    "Emphasis on written terms over oral assertions"
+  ],
+  "confidenceNotes": "All information extracted directly from the court document. Citations, judges, and legal reasoning are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/MADINA SHOPPING MALL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:45:56.849Z",
+    "plainTextLength": 48077
+  }
+}

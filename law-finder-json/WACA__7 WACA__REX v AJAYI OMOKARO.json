@@ -1,0 +1,71 @@
+{
+  "caseTitle": "R. v. Sykes",
+  "summary": "The appellant, Ajayi Omokaro, was convicted of murder based entirely on his confessions, one of which was made before a European Assistant Commissioner of Police. On appeal, the sole issue was whether a conviction could stand on such a basis. The West Africa Court of Appeal upheld the conviction, citing R. v. Sykes as authority that a conviction solely on confessional evidence is valid if the confessions are proven genuine. The trial judge had carefully examined the circumstances and found the confessions authentic. The appeal was dismissed.",
+  "legalKeywords": [
+    "murder",
+    "confession",
+    "conviction",
+    "self-incrimination",
+    "evidence sufficiency",
+    "trial fairness",
+    "appellate review",
+    "judicial discretion",
+    "criminal procedure",
+    "police interrogation"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence",
+    "Confession",
+    "Murder",
+    "Appellate Procedure"
+  ],
+  "verdict": "Conviction for murder upheld.",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Butler Lloyd",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Brooke",
+      "role": "Justice"
+    },
+    {
+      "name": "Jeffreys",
+      "role": "Justice"
+    },
+    {
+      "name": "Baker",
+      "role": "Justice"
+    },
+    {
+      "name": "Bhooke",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Sykes, 8 C.A.R. 223",
+    "8 C.A.R. p. 233"
+  ],
+  "rationaleHighlights": [
+    "Conviction based solely on confessions is legally permissible if proven genuine.",
+    "Trial judge conducted thorough inquiry into circumstances of confessions.",
+    "Precedent (R. v. Sykes) supports admissibility and sufficiency of confession evidence.",
+    "Confession made before European Assistant Commissioner of Police adds credibility."
+  ],
+  "confidenceNotes": "The case relies heavily on precedent (R. v. Sykes) and judicial assessment of confession authenticity. Confidence is high due to clear judicial reasoning and citation of binding authority.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/REX v AJAYI OMOKARO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:28:22.949Z",
+    "plainTextLength": 1817
+  },
+  "trialDate": "1941-11-06"
+}

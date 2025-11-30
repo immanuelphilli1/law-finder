@@ -1,0 +1,80 @@
+{
+  "caseTitle": "THE HEAD OF FAMILY IMMUNITY PRINCIPLE THE SUPREME COURT PROP",
+  "summary": "The Supreme Court in Hansen v Ankrah (1985) was divided on whether the head of a family under customary law could be sued for an account of family property. By a narrow 3-2 majority, the Court upheld the 'immunity principle,' shielding the head of family from judicial accounting actions while in office. The decision was rooted in preserving the head's authority and family autonomy, but dissenting justices emphasized accountability and the need for remedies against fiduciary breaches. Despite the ruling, the Court acknowledged its own power to depart from precedent. Later in 1985, the PNDC (legislature) abolished the immunity principle, effectively overturning the decision and affirming the head's liability to account where family property is at risk and internal resolution fails.",
+  "legalKeywords": [
+    "head of family",
+    "customary law",
+    "accountability",
+    "immunity principle",
+    "family property",
+    "fiduciary duty",
+    "judicial precedent",
+    "PNDC legislation",
+    "family autonomy",
+    "breach of trust",
+    "interlocutory orders",
+    "judicial remedy",
+    "customary accountability",
+    "removal from office",
+    "uniformity of customary law"
+  ],
+  "topics": [
+    "Customary Law",
+    "Family Law",
+    "Constitutional Law",
+    "Judicial Precedent",
+    "Legislative Override"
+  ],
+  "verdict": "The Supreme Court dismissed the appeal by a 3-2 majority, upholding the immunity of the head of family from being sued for an account during tenure, but this principle was later abolished by the PNDC.",
+  "winningSide": "The first defendant (head of family) won at the Supreme Court, though the broader legal principle was later overturned legislatively.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sowah JSC",
+      "role": "Majority"
+    },
+    {
+      "name": "Francois JJA",
+      "role": "Majority"
+    },
+    {
+      "name": "Mensa Boison JJA",
+      "role": "Majority"
+    },
+    {
+      "name": "Apaloo CJ",
+      "role": "Dissenting"
+    },
+    {
+      "name": "Taylor JSC",
+      "role": "Dissenting"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Customary Law / Civil Accountability",
+  "citations": [
+    "Hansen v Ankrah [1985]",
+    "Sarbah, Customary Law of West Africa (referenced in judgment)",
+    "PNDC intervention post-1985"
+  ],
+  "rationaleHighlights": [
+    "Preservation of the head of family's authority as a social institution.",
+    "Family autonomy should limit judicial interference in internal accountability.",
+    "No judicial precedent is binding on the Supreme Court, which may depart from past decisions.",
+    "Accountability is essential to prevent abuse of fiduciary power.",
+    "Remedies for breach of trust should exist even within customary frameworks.",
+    "Uniformity across ethnic customary laws supports liability to account.",
+    "Internal dispute resolution should precede judicial action.",
+    "Legislative intervention can override judicially developed customary doctrines."
+  ],
+  "confidenceNotes": "The document is a scholarly legal commentary on Hansen v Ankrah, not the full judgment. Details are reliable but synthesized. The legislative override by PNDC is treated as conclusive though the specific decree is not cited.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/89 - 90/THE HEAD OF FAMILY IMMUNITY PRINCIPLE THE SUPREME COURT PROP.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:13:31.217Z",
+    "plainTextLength": 28094
+  }
+}

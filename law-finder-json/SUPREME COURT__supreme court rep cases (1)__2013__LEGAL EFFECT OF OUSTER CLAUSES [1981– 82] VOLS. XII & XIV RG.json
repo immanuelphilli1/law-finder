@@ -1,0 +1,83 @@
+{
+  "caseTitle": "LEGAL EFFECT OF OUSTER CLAUSES [1981– 82] VOLS. XII & XIV RG",
+  "summary": "This legal analysis examines the effect of ouster clauses in both contractual and statutory contexts, focusing on their enforceability under public policy principles. It establishes that clauses attempting to completely oust the jurisdiction of courts—especially on questions of law—are void as contrary to public policy, while those deferring judicial intervention (e.g., until after arbitration or negotiation) are generally valid. Key English cases like Addison v. Brown, Baker v. Jones, and Re Davstone Estates illustrate that parties cannot contract out of court jurisdiction on legal interpretation, though factual determinations by private tribunals may be final. The Ghanaian case In re Timber and Transport Kumasi-Krusevac Co., Ltd. confirms that parties may validly agree to postpone legal actions such as winding-up for a fixed term, provided there is no fundamental breach. The overarching principle, affirmed by Lord Denning, is that public policy protects the courts' role in adjudicating legal rights, even within private contractual arrangements.",
+  "legalKeywords": [
+    "ouster clauses",
+    "public policy",
+    "jurisdiction",
+    "contract law",
+    "arbitration",
+    "exclusion clauses",
+    "domestic tribunals",
+    "judicial review",
+    "natural justice",
+    "finality of decisions",
+    "questions of law",
+    "questions of fact",
+    "void agreements",
+    "enforceability",
+    "maintenance agreements",
+    "winding-up of companies",
+    "arbitrator misconduct",
+    "conclusive certificates",
+    "lease agreements",
+    "trust administration"
+  ],
+  "topics": [
+    "Contract Law",
+    "Judicial Review",
+    "Public Policy",
+    "Alternative Dispute Resolution",
+    "Corporate Law"
+  ],
+  "verdict": "Ouster clauses that attempt to exclude judicial review on questions of law are unenforceable as contrary to public policy; however, clauses deferring court access or limiting review on factual determinations may be valid if properly framed.",
+  "winningSide": "Ordinary courts retain jurisdiction over questions of law; private agreements cannot override this principle.",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Lord Denning L.J.",
+      "role": "appellate judge"
+    },
+    {
+      "name": "Lynskey J.",
+      "role": "trial judge"
+    },
+    {
+      "name": "Chitty J.",
+      "role": "trial judge"
+    },
+    {
+      "name": "Amua-Sekyi J.",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court (referenced contextually)",
+    "country": "Ghana"
+  },
+  "caseType": "academic analysis",
+  "citations": [
+    "Addison v. Brown",
+    "Bennett v. Bennett",
+    "Baker v. Jones",
+    "Re Wynn's Will Trusts",
+    "Tullis v. Jacson",
+    "Re Davstone Estates, Ltds' Leases Manprop, Ltd's v. O'dell",
+    "Lee v. Showmen's Guild of Great Britain",
+    "Leigh v. National Union of Railwaymen",
+    "In re Timber and Transport Kumasi-Krusevac Co., Ltd.; Zastava v. Bonsu"
+  ],
+  "rationaleHighlights": [
+    "Parties cannot by private agreement oust courts from jurisdiction on questions of law, as it violates public policy.",
+    "Exclusion clauses may validly make tribunals final arbiters on questions of fact, but not on questions of law.",
+    "An agreement postponing court access (e.g., until after arbitration) is enforceable, unlike one that completely denies jurisdiction.",
+    "In Ghana, a contractual bar on winding-up for ten years was upheld as valid where parties freely agreed, absent fundamental breach."
+  ],
+  "confidenceNotes": "The document is an academic legal analysis rather than a full court judgment; citations are drawn from case law discussed within the text. Jurisdictional context is primarily English common law with one Ghanaian case referenced.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2013/LEGAL EFFECT OF OUSTER CLAUSES [1981– 82] VOLS. XII & XIV RG.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:32:06.840Z",
+    "plainTextLength": 63301
+  }
+}

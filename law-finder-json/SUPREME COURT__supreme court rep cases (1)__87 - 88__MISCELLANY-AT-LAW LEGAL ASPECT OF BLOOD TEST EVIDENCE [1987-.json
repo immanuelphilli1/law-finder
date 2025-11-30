@@ -1,0 +1,73 @@
+{
+  "caseTitle": "MISCELLANY-AT-LAW LEGAL ASPECT OF BLOOD TEST EVIDENCE [1987-",
+  "summary": "This 1987-88 legal commentary by Osew E. O. examines the tension in Ghanaian law between the legal presumption of paternity under customary law and the use of scientific blood test evidence in paternity disputes. The author analyzes Section 32 of the Evidence Decree, 1975 (NRCD 323), which presumes a child born during marriage is the husband's, against Section 97, which permits bodily examinations and sample collection when necessary for justice. Despite the presumption, the article argues for greater judicial use of blood tests, citing foreign precedents like S v S and the UK's Family Law Reform Act 1969. It highlights jurisdictional limitations in lower courts, consent issues, and the need for comprehensive legislation to balance the child's best interests with scientific accuracy and evolving social norms.",
+  "legalKeywords": [
+    "paternity",
+    "blood test evidence",
+    "presumption of legitimacy",
+    "customary law",
+    "Evidence Decree 1975",
+    "jurisdiction",
+    "best interests of the child",
+    "scientific evidence",
+    "self-incrimination",
+    "family law reform",
+    "corporal examination",
+    "rebuttable presumption",
+    "child custody",
+    "maintenance",
+    "legal reform"
+  ],
+  "topics": [
+    "Family Law",
+    "Evidence Law",
+    "Legal Presumption",
+    "Scientific Evidence",
+    "Child Custody"
+  ],
+  "verdict": "No final verdict; the document is a legal commentary analyzing unresolved legal debate.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Archer J",
+      "role": "High Court Judge"
+    },
+    {
+      "name": "Lord Denning",
+      "role": "Master of the Rolls"
+    },
+    {
+      "name": "Denning MR",
+      "role": "Dissenting Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Legal Commentary / Jurisprudential Analysis",
+  "citations": [
+    "Nyarko v Mansu [1967] GLR 523",
+    "R v Accra New Town District Court; Ex parte Papafio (1969)",
+    "S v S; W v Official Solicitor [1970] 3 All ER 107",
+    "S v McC (formerly S) & M S [1970] 1 All ER 1162",
+    "W v W [1970] 1 All ER 1157",
+    "British Family Law Reform Act, 1969"
+  ],
+  "rationaleHighlights": [
+    "Section 32 of the Evidence Decree creates a rebuttable presumption of paternity during marriage.",
+    "Section 97 allows courts to order bodily examinations and fluid samples if necessary for justice.",
+    "Courts must balance the child's best interests with scientific evidence and family stability.",
+    "There is a need for legislative reform to resolve the conflict between presumption and science.",
+    "Superior courts should develop jurisprudence pending new legislation.",
+    "International precedents support the use of blood tests in paternity cases."
+  ],
+  "confidenceNotes": "High confidence in factual content as the document is a published legal commentary citing specific statutes, cases, and judicial opinions. However, some referenced cases are unreported, which may limit verifiability.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/87 - 88/MISCELLANY-AT-LAW LEGAL ASPECT OF BLOOD TEST EVIDENCE [1987-.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:23:51.316Z",
+    "plainTextLength": 25241
+  }
+}

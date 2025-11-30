@@ -1,0 +1,77 @@
+{
+  "caseTitle": "ELLIS TAMAKLOE v THE REPUBLIC",
+  "summary": "In this criminal appeal, Ellis Tamakloe challenged his conviction and 10-year sentence for attempted exportation and possession of 695g of cannabis without lawful authority. The Supreme Court of Ghana upheld the lower courts' decisions, affirming that circumstantial evidence sufficiently established Tamakloe's possession and control of the parcel containing the drugs. The Court found that Tamakloe's act of personally filling in consignee details on the airway bill and failing to question the incorrect sender's address (Friesland Company) supported an irresistible inference of guilt. The Court emphasized that knowledge and intent—key elements of mens rea—can be inferred from conduct, and held that the prosecution met the burden of proof beyond reasonable doubt using circumstantial evidence in line with established legal principles.",
+  "legalKeywords": [
+    "circumstantial evidence",
+    "possession of narcotics",
+    "attempted drug export",
+    "mens rea",
+    "constructive possession",
+    "burden of proof",
+    "reasonable doubt",
+    "Narcotic Drugs Control Law",
+    "PNDCL 236",
+    "appellate review"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Drug Offences",
+    "Evidence Law"
+  ],
+  "verdict": "Conviction and sentence upheld on both counts.",
+  "winningSide": "The Republic (prosecution)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Ansa, JSC",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "Atuguba, JSC",
+      "role": "Presiding"
+    },
+    {
+      "name": "Adinyira (Mrs), JSC",
+      "role": "Panel member"
+    },
+    {
+      "name": "Baffoe-Bonnie, JSC",
+      "role": "Panel member"
+    },
+    {
+      "name": "Aryeetey, JSC",
+      "role": "Panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "The State v Anani Fiadzo [1961] 1 GLR 416-419",
+    "Duah v The Republic [1987-88] 1 GLR 343-360",
+    "Logan v The Republic [2007-2008]",
+    "Bonsu alias Benjilo v The Republic [2000] SCGLR 112",
+    "Republic v Munkaila [1996-97] SCGLR 445",
+    "Warner v Metropolitan Police Commissioner [1969] 2 A.C.",
+    "R v Smith Dearsley and PCC 494",
+    "R v Gleed (1917) 12 CR App. R. 32a",
+    "Archbold Criminal Pleading, Evidence and Practice (36th ed.)"
+  ],
+  "rationaleHighlights": [
+    "Circumstantial evidence must lead to an irresistible inference of guilt incompatible with innocence.",
+    "Physical possession of a drug parcel, coupled with control and conduct, supports constructive possession.",
+    "Mens rea can be inferred from established facts and behavior, not requiring direct proof.",
+    "Failure to correct a false sender's address on an airway bill undermines a claim of innocent involvement.",
+    "The burden of proof lies with the prosecution to establish guilt beyond reasonable doubt, even in absence of direct evidence."
+  ],
+  "confidenceNotes": "High confidence. All information is directly extracted from the judgment text. Citations and legal principles are accurately reflected as stated in the decision.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2010/ELLIS TAMAKLOE v THE REPUBLIC.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:41:20.038Z",
+    "plainTextLength": 38286
+  },
+  "trialDate": "2010-02-17"
+}

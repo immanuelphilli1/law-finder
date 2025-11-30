@@ -1,0 +1,82 @@
+{
+  "caseTitle": "CHAPEL HILL SCHOOL LTD v THE ATTORNEY GENERAL THE COMMISSI",
+  "summary": "The Supreme Court of Ghana considered whether Chapel Hill School Ltd., a privately established and later incorporated school, qualified as an 'educational institution of a public character' under the Income Tax Act 1975 (SMCD 5) and the Internal Revenue Act, 2000 (Act 592), thereby entitling it to tax exemption. The Court found that the lower courts erred in equating 'public character' with 'public ownership' or relying on dictionary definitions of 'public school.' Instead, it held that an institution can be of public character even if privately owned, provided it serves the public and its income or assets do not confer private benefit. Drawing on Privy Council jurisprudence in Dilworth and principles from English charity law, the Court emphasized that public benefit and the absence of private gain are central to determining public character. It also applied the noscitur a sociis rule, noting that 'educational institution' should be interpreted in light of 'religious' and 'charitable' institutions, which are often privately managed. The case was remitted for determination of whether the school met the statutory criteria, particularly regarding private benefit and its corporate structure post-2001.",
+  "legalKeywords": [
+    "tax exemption",
+    "educational institution of public character",
+    "public benefit",
+    "private benefit",
+    "charitable purpose",
+    "noscitur a sociis",
+    "income tax",
+    "non-profit",
+    "trusteeship",
+    "corporate structure",
+    "business income",
+    "religious institution",
+    "charity law",
+    "statutory interpretation",
+    "exempt organisation"
+  ],
+  "topics": [
+    "Tax Law",
+    "Education Law",
+    "Charity and Non-Profit Law",
+    "Statutory Interpretation",
+    "Public Benefit Doctrine"
+  ],
+  "verdict": "Appeal allowed in part; case remitted to lower court for determination of whether the institution meets the criteria for being an exempt organization under Act 592, particularly regarding absence of private benefit and compliance with governance requirements.",
+  "winningSide": "Appellant (Chapel Hill School Ltd.) on legal principle, but final determination remitted",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Presiding"
+    },
+    {
+      "name": "Akuffo (Ms.)",
+      "role": "Member"
+    },
+    {
+      "name": "Owusu (Ms.)",
+      "role": "Member"
+    },
+    {
+      "name": "B. Bonnie",
+      "role": "Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "tax exemption for educational institutions",
+  "citations": [
+    "Income Tax Act 1975 (SMCD 5)",
+    "Internal Revenue Act, 2000 (Act 592)",
+    "Dilworth and Ors v The Commissioner of Stamps; Dilworth and Ors v The Commissioner for Land and Income Tax [1899] AC 99",
+    "Charitable Gifts Duties Exemption Act, 1883 (NZ)",
+    "English Charities Act 2006",
+    "Companies Act, 1963 (Act 179)"
+  ],
+  "rationaleHighlights": [
+    "The phrase 'educational institution of a public character' is not limited to state-owned institutions.",
+    "An institution may be privately owned but still of public character if it serves the public and confers no private benefit.",
+    "The principle from Dilworth v Commissioner supports that public character depends on public benefit and inalienable public interest.",
+    "Noscitur a sociis rule implies that 'educational institution' should be interpreted alongside 'religious' and 'charitable' institutions, which are often privately run.",
+    "Absence of private benefit is a key criterion for tax exemption under Act 592.",
+    "Merely charging fees does not disqualify an institution from being non-commercial if profits are reinvested and no individual benefits."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct judicial reasoning and statutory references. Some details about post-2001 corporate structure and business activities are partially redacted but do not affect core legal conclusions.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/CHAPEL HILL SCHOOL LTD v THE ATTORNEY GENERAL   THE COMMISSI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:10:23.396Z",
+    "plainTextLength": 24503
+  },
+  "trialDate": "2009-04-25"
+}

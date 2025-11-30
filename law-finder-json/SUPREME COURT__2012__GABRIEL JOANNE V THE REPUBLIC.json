@@ -1,0 +1,80 @@
+{
+  "caseTitle": "GABRIEL JOANNE V THE REPUBLIC",
+  "summary": "This is a criminal appeal before the Supreme Court of Ghana concerning Gabriel Joanne, who was convicted for attempted exportation and possession of narcotic drugs. Initially refusing to plead without counsel, she later appeared without her lawyer and voluntarily changed her plea from not guilty to guilty. The Supreme Court dismissed the appeal, holding that while best practices require judges to explain the consequences of a guilty plea, the trial judge's failure to inquire into the appellant's decision in a summary trial did not amount to a miscarriage of justice. The appellant had previously exercised her right to counsel and was aware of her rights under Article 19(2)(f) of the 1992 Constitution. The Court emphasized that an accused may elect self-representation and that the strong evidence from the first prosecution witness further supported the validity of the conviction. The errors in the charge sheet were also deemed cured by the evidence presented.",
+  "legalKeywords": [
+    "right to counsel",
+    "plea of guilty",
+    "fair trial",
+    "Article 19(2)(f)",
+    "summary trial",
+    "miscarriage of justice",
+    "constitutional rights",
+    "criminal appeal",
+    "self-representation",
+    "admissibility of plea",
+    "Narcotic Drugs Act",
+    "judicial discretion",
+    "procedural fairness",
+    "detention rights",
+    "accused's choice"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Constitutional Law",
+    "Right to Fair Trial",
+    "Appeal",
+    "Drug Offences"
+  ],
+  "verdict": "The appeal was dismissed; the conviction and 10-year sentence for attempted exportation and possession of narcotic drugs were upheld.",
+  "winningSide": "The Republic",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Adinyira (Mrs.) JSC",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Owusu (Ms) JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Dotse JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Yeboah JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebo JSC",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Article 14(2), 1992 Constitution of Ghana",
+    "Article 19(2)(f), 1992 Constitution of Ghana",
+    "Section 199, Criminal and Other Offences Act, 1960 (Act 30)",
+    "The Republic v. High Court (Fast Track Division) Accra: Ex parte Tsatsu Tsikata [2007-2008] SCGLR 1200",
+    "Narcotic Drugs (Control, Enforcement and Sanctions) Law, 1990 (PNDCL 236)"
+  ],
+  "rationaleHighlights": [
+    "The omission of the trial judge to inquire into the appellant's change of plea in absence of counsel was not so grave as to cause miscarriage of justice.",
+    "Appellant had previously exercised her right to counsel and was aware of her rights under Article 19(2)(f).",
+    "Evidence from PW1 strongly supported conviction, reducing need for judicial inquiry into plea change.",
+    "Best practices recommend explaining consequences of plea, but failure to do so in summary trial not automatically fatal.",
+    "Right to lawyer of choice does not entitle an accused to a specific lawyer if absent; courts must not be held hostage to counsel's absence."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official Supreme Court judgment text. All legal provisions and case facts are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/GABRIEL JOANNE V THE REPUBLIC.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:33:26.471Z",
+    "plainTextLength": 96552
+  },
+  "trialDate": "2011-03-03"
+}

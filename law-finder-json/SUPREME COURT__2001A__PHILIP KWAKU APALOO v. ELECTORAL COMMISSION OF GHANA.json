@@ -1,0 +1,85 @@
+{
+  "caseTitle": "PHILIP KWAKU APALOO v. ELECTORAL COMMISSION OF GHANA",
+  "summary": "In this constitutional case, the plaintiff, Philip Kwaku Apaloo, challenged the Electoral Commission of Ghana's directive that only voters with photo identity cards could vote in the 2000 elections, or alternatively, that those without such cards could only vote if all candidate agents unanimously affirmed their identity. The Supreme Court held that these directives, published in a Gazette Notice and internal guidelines, were invalid because they were not enacted through a constitutional instrument as required by Article 51 of the 1992 Constitution. The Court emphasized that the right to vote under Article 42 is fundamental and cannot be restricted by administrative measures that bypass constitutional procedures. It further ruled that requiring party agents to affirm voter identity compromised the independence of the Electoral Commission under Article 46. The Court declared the directives null and void and issued a permanent injunction against their enforcement, affirming that any regulatory changes must follow the proper constitutional process.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "electoral law",
+    "voting rights",
+    "suffrage",
+    "photo ID requirement",
+    "constitutional instrument",
+    "separation of powers",
+    "judicial review",
+    "fundamental rights",
+    "electoral commission powers",
+    "universal adult suffrage",
+    "rule of law",
+    "independence of electoral body",
+    "voter identification",
+    "Gazette Notice",
+    "C.I. 15",
+    "C.I. 12",
+    "Article 42",
+    "Article 51",
+    "Article 297"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Election Law",
+    "Fundamental Rights",
+    "Judicial Review",
+    "Separation of Powers"
+  ],
+  "verdict": "The Supreme Court declared the Electoral Commission's photo ID and agent affirmation directives null and void for contravening Articles 42 and 51 of the 1992 Constitution, and issued a permanent injunction against their enforcement.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Mrs. J. Bamford-Addo",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ampiah",
+      "role": "Justice"
+    },
+    {
+      "name": "Kpegah",
+      "role": "Justice"
+    },
+    {
+      "name": "Atugubba",
+      "role": "Justice"
+    },
+    {
+      "name": "Lamptey",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "1992 Constitution of Ghana, Art. 2(1)(b)",
+    "1992 Constitution of Ghana, Art. 42",
+    "1992 Constitution of Ghana, Art. 51",
+    "1992 Constitution of Ghana, Art. 297(d)",
+    "Public Elections Regulations 1996 (C.I. 15), Reg. 30",
+    "Public Elections (Regulation of Voters) Regulations 1995 (C.I. 12), Reg. 11"
+  ],
+  "rationaleHighlights": [
+    "The Electoral Commission's directive requiring photo ID for voting was invalid because it was not enacted via a constitutional instrument as required by Article 51.",
+    "The requirement for unanimous affirmation by party agents violated the independence of the Electoral Commission under Article 46.",
+    "The right to vote under Article 42 is fundamental and cannot be restricted by administrative directives inconsistent with the Constitution.",
+    "The Commission had the power to regulate elections but must do so through proper constitutional instruments, not unilateral Gazette notices."
+  ],
+  "confidenceNotes": "The judgment is clear and well-reasoned, with direct constitutional references. The court's unanimous decision and explicit findings support high confidence in the accuracy of the extracted information.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2001A/PHILIP KWAKU APALOO v. ELECTORAL COMMISSION OF GHANA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:42:35.196Z",
+    "plainTextLength": 107212
+  },
+  "trialDate": "2001-01-17"
+}

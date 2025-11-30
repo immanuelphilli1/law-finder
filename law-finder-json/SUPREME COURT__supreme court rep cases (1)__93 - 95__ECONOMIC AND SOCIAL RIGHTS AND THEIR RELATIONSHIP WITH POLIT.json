@@ -1,0 +1,72 @@
+{
+  "caseTitle": "ECONOMIC AND SOCIAL RIGHTS AND THEIR RELATIONSHIP WITH POLIT",
+  "summary": "This document is a scholarly lecture delivered during a 1993 human rights week in Ghana, examining the relationship between economic and social rights and civil and political rights within international law and the Ghanaian constitutional context. It traces the philosophical origins of human rights to natural law theories of Aquinas, Grotius, Locke, and Rawls, and discusses the evolution of international human rights instruments, particularly the Universal Declaration of Human Rights (1948), the International Covenant on Civil and Political Rights (1966), and the International Covenant on Economic, Social and Cultural Rights (1966). The lecture critiques the early Ghanaian judiciary's failure in Re Akoto to enforce human rights under the 1960 Constitution, describing it as a missed opportunity for justice. It highlights that the 1992 Constitution rectified this by making fundamental rights justiciable under Chapter 5. The author emphasizes the interdependence of all human rights categories and calls for their equal recognition and implementation, especially in the African context.",
+  "legalKeywords": [
+    "human rights",
+    "economic and social rights",
+    "civil and political rights",
+    "constitutional interpretation",
+    "justiciability",
+    "natural rights",
+    "fundamental freedoms",
+    "rule of law",
+    "international human rights law",
+    "Ghana Constitution 1992",
+    "Re Akoto",
+    "UN Charter",
+    "African Charter",
+    "legal positivism",
+    "right to life",
+    "right to education",
+    "right to work",
+    "freedom of expression",
+    "equality before the law",
+    "right to health"
+  ],
+  "topics": [
+    "Human Rights Law",
+    "Constitutional Law",
+    "International Law",
+    "Legal Philosophy",
+    "Ghanaian Jurisprudence"
+  ],
+  "verdict": "Not applicable – this is an academic lecture, not a court judgment.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Not Applicable",
+      "role": "Author"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional interpretation",
+  "citations": [
+    "Re Akoto",
+    "Universal Declaration of Human Rights (1948)",
+    "International Covenant on Civil and Political Rights (1966)",
+    "International Covenant on Economic, Social and Cultural Rights (1966)",
+    "African Charter on Human and Peoples' Rights (1986)"
+  ],
+  "rationaleHighlights": [
+    "Human rights derive from natural law and philosophical foundations, particularly through thinkers like Locke and Rawls.",
+    "Civil and political rights are often immediately enforceable, while economic and social rights may require progressive realization.",
+    "The Re Akoto case is criticized for rendering early constitutional human rights declarations non-justiciable.",
+    "International instruments like the ICCPR and ICESCR form the basis for dual categorization of rights.",
+    "The 1992 Ghana Constitution rectifies past deficiencies by making fundamental rights justiciable.",
+    "There is an inseparable link between development and the enjoyment of all human rights.",
+    "Regional frameworks like the African Charter complement global human rights standards.",
+    "Third-generation rights (e.g., right to development, peace, environment) present challenges due to their collective nature."
+  ],
+  "confidenceNotes": "The document is a scholarly lecture, not a judicial decision; therefore, case details are interpretive and lack formal verdict or winning side. Key legal instruments are accurately cited.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/93 - 95/ECONOMIC AND SOCIAL RIGHTS AND THEIR RELATIONSHIP WITH POLIT.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:11:52.306Z",
+    "plainTextLength": 52073
+  },
+  "trialDate": "1993-06-25"
+}

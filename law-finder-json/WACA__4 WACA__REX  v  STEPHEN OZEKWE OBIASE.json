@@ -1,0 +1,69 @@
+{
+  "caseTitle": "REX v STEPHEN OZEKWE OBIASE",
+  "summary": "The appellant, Stephen Ozekwe Obiase, was convicted in the High Court for unlawful possession of thirteen counterfeit shillings under section 150A of the Criminal Code. The coins were found during a search for illicit liquor in a tin on a wall accessible from inside or outside the house. The appellant claimed the coins were planted by an enemy. The West Africa Court of Appeal allowed the appeal, holding that while section 150A places the burden on the accused to show lawful authority once possession is proved, the prosecution must first establish conclusive possession — that is, facts incompatible with any reasonable innocent explanation. The court found the evidence insufficient to conclusively prove the appellant's guilty knowledge or possession, as the possibility of the coins being planted remained viable. Thus, the conviction was unsafe, and the court ordered a verdict of acquittal.",
+  "legalKeywords": [
+    "unlawful possession",
+    "counterfeit coins",
+    "section 150A",
+    "Criminal Code",
+    "onus of proof",
+    "possession",
+    "conviction quashed",
+    "acquittal",
+    "reasonable doubt",
+    "planted evidence",
+    "prosecution burden",
+    "conclusive evidence",
+    "guilty knowledge",
+    "appeal allowed",
+    "judicial precedent"
+  ],
+  "topics": [
+    "criminal law",
+    "evidence",
+    "appeal",
+    "possession",
+    "counterfeit currency"
+  ],
+  "verdict": "Conviction quashed; acquittal entered",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "3 W.A.C.A. p. 88",
+    "Rex v. Ogllgu Onuoha (4th November, 1936)"
+  ],
+  "rationaleHighlights": [
+    "Section 150A shifts burden to accused to show lawful excuse, but prosecution must first prove conclusive possession",
+    "No evidence conclusively negated possibility that coins were planted without appellant's knowledge",
+    "Conviction unsafe where alternative innocent explanation is reasonably possible",
+    "Appeal court emphasized that each case depends on its own circumstances",
+    "Prosecution failed to prove guilty knowledge beyond reasonable doubt"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and explicit citation of legal provisions and precedent.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX  v  STEPHEN OZEKWE OBIASE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:59:44.007Z",
+    "plainTextLength": 3564
+  },
+  "trialDate": "1938-01-11"
+}

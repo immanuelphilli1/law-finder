@@ -1,0 +1,68 @@
+{
+  "caseTitle": "CHIEF GBENEBICHIE v SOCRATES A WOSHIKA",
+  "summary": "This West Africa Court of Appeal case involved a dispute over family land rents managed by the Family Head, Chief Gbenebichie, who leased property in his own name. After family objections, a 1947 meeting led to the creation of the Omateye Family Trust Fund, formalized by a Memorandum (Exhibit M) and a new Constitution (Exhibit N), appointing three Trustees and a Management Committee, including the Family Head, with a provision for an annual ex gratia payment of £80 to him. He accepted this payment and participated in committee activities. Later, he refused to provide lease copies, was denied the next £80, and issued a 'Notice of Withdrawal,' continuing to collect rents without remitting them. The Trustees sued for £393 6s. 0d. The trial judge non-suited the Trustees, citing improper joinder. The Court of Appeal held that the trust documents were not registrable 'instruments' under the Land Registration Ordinance, were binding on the Family Head who had benefited from them, and that the descriptive label 'Committee of Management' did not change the joint and several liability. The judge erred in non-suiting instead of amending the pleadings. The Family Head's appeal failed, and the Trustees' cross-appeal succeeded; they were entitled to judgment.",
+  "legalKeywords": [
+    "trust fund",
+    "family land",
+    "rents",
+    "non-suit",
+    "amendment of pleadings",
+    "Land Registration Ordinance",
+    "customary law",
+    "trusteeship",
+    "representative capacity",
+    "instrument",
+    "ex gratia payment",
+    "conciliation meeting",
+    "District Officer",
+    "thumb print",
+    "interpreter's certificate"
+  ],
+  "topics": [
+    "Trust Law",
+    "Land Law",
+    "Civil Procedure",
+    "Customary Law",
+    "Contractual Obligations"
+  ],
+  "verdict": "The appeal by the Family Head was dismissed. The cross-appeal by the Trustees was allowed. The non-suit was set aside, and judgment was entered in favor of the Trustees.",
+  "winningSide": "The Trustees (respondents in the appeal) won.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Foster-Sutton, P.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "De Comarmond, Ag. CJ (Nigeria)",
+      "role": "Justice"
+    },
+    {
+      "name": "Coussey, J.A.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Manche Kojo Ababio IV v. Quartey and another, Privy Council Appeal No. 94 of 1914"
+  ],
+  "rationaleHighlights": [
+    "Documents creating a family trust fund are not 'instruments' under the Land Registration Ordinance and thus do not require registration.",
+    "The Family Head understood and accepted benefits under the trust documents, making them binding.",
+    "Descriptive labels in pleadings do not alter the legal capacity in which parties are sued.",
+    "A trial judge should amend pleadings to reflect the real issue rather than non-suiting plaintiffs.",
+    "The Family Head admitted receiving rents but failed to prove he was not liable to account to the Trustees."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details (parties, judgment, reasoning) are explicitly stated in the text.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/CHIEF GBENEBICHIE   v SOCRATES A WOSHIKA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:42:09.982Z",
+    "plainTextLength": 21520
+  },
+  "trialDate": "1952-06-02"
+}

@@ -1,0 +1,72 @@
+{
+  "caseTitle": "REX v AGUMAGU NWAOKE .",
+  "summary": "The appellant, Agumagu Nwaoku, was convicted of manslaughter for causing the death of his former wife, Nwoacha, after invoking a 'juju' called 'Onye Uku' and threatening her when she refused to repay marriage money. The trial judge held that the juju created a well-grounded apprehension of inevitable harm in the native mind, analogizing it to cases where fear causes immediate life-endangering acts. However, the West Africa Court of Appeal allowed the appeal, finding no evidence that the specific juju had ever led to suicide or that the accused knew it was reasonably likely to cause her to take her own life. The court emphasized that the deceased's suicide, occurring six days later and requiring significant deliberation, was not an immediate or inevitable consequence of the threat. The court distinguished this from cases where fear directly causes impulsive acts (e.g., jumping from a window). Without proof of reasonable likelihood or direct causation, section 310 of the Criminal Code did not apply. The conviction and sentence were quashed.",
+  "legalKeywords": [
+    "manslaughter",
+    "juju",
+    "intimidation",
+    "threats",
+    "suicide",
+    "criminal liability",
+    "section 310",
+    "section 325",
+    "Criminal Code",
+    "reasonable likelihood",
+    "self-inflicted death",
+    "mental impact",
+    "causation",
+    "apprehension of harm",
+    "native belief"
+  ],
+  "topics": [
+    "criminal law",
+    "manslaughter",
+    "causation in criminal law",
+    "traditional beliefs and law",
+    "mental health and criminal liability"
+  ],
+  "verdict": "Appeal allowed; conviction and sentence quashed",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Butler Lloyd",
+      "role": "Chief Justice (Ag.)"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    },
+    {
+      "name": "Brooke",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Agumagu Nwaoku, WACA/5, 4th May 1939",
+    "Section 310, Criminal Code",
+    "Section 325, Criminal Code"
+  ],
+  "rationaleHighlights": [
+    "No evidence that the juju had ever caused suicide before",
+    "Accused lacked knowledge that juju invocation would likely cause suicide",
+    "Suicide was not an immediate consequence of the threat",
+    "Section 310 requires reasonable likelihood of death-causing act",
+    "Distinction between direct fear response (e.g., jumping from window) and delayed self-harm",
+    "Belief in juju not sufficient without causal link",
+    "Act of deceased was independent and deliberate",
+    "Conviction quashed due to insufficient causal nexus"
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear legal reasoning and factual findings.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/REX v  AGUMAGU NWAOKE ..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:40:58.587Z",
+    "plainTextLength": 5729
+  }
+}

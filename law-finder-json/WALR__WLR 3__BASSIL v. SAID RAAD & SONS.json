@@ -1,0 +1,82 @@
+{
+  "caseTitle": "BASSIL VERSUS SAID RAAD",
+  "summary": "In Bassil v. Said Raad & Sons, the Court of Appeal of Ghana overturned a trial court decision granting a landlord possession of leased premises and arrears of rent. The tenancy, originally for five years at £55 per month, saw rent reduced to £45 from January 1953. The landlord claimed this was temporary, but the defendant tenant produced receipts showing consistent acceptance of the lower amount. The appellate court held that the receipts indicated a binding variation of rent, supported by the doctrine of promissory estoppel. Additionally, the court ruled that under the Rent Control Ordinance, s. 11(1)(a), recovery of possession could not be granted where the lease lacked a re-entry clause for breach of covenant (e.g., unauthorized sub-letting), and that continued acceptance of rent waived any right to forfeiture. The appeal was allowed, denying the landlord’s claims.",
+  "legalKeywords": [
+    "promissory estoppel",
+    "rent reduction",
+    "breach of covenant",
+    "waiver of forfeiture",
+    "statutory tenancy",
+    "recovery of possession",
+    "Rent Control Ordinance",
+    "sub-letting without consent",
+    "common law landlord rights",
+    "acceptance of rent",
+    "quasi-estoppel",
+    "contract variation",
+    "forfeiture",
+    "re-entry clause",
+    "tenant protection",
+    "judicial discretion",
+    "arrears of rent",
+    "covenant enforcement",
+    "landlord and tenant law",
+    "Ghanaian property law"
+  ],
+  "topics": [
+    "Contract Law",
+    "Landlord and Tenant",
+    "Property Law",
+    "Estoppel",
+    "Appellate Decision"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Smith J.",
+      "role": "Justice"
+    },
+    {
+      "name": "Ollennu J.",
+      "role": "Justice"
+    },
+    {
+      "name": "Granville Sharp J.A.",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Central London Property Trust, Ltd. v. High Trees House, Ltd. [1947] 1 K.B. 130",
+    "Moubarak v. Eguakun (1956) 1 W.A.L.R. 88",
+    "Birmingham & District Land Co. v. London & N.W. Ry. (1888) 40 Ch.D. 268",
+    "Doe d. Wilson v. Phillips (1824) 2 Bing. 13",
+    "Doe d. Darke v. Bowditch (1846) 8 Q.B. 973",
+    "Doe d. Gatehouse v. Rees (1838) 4 Bing.N.C. 384",
+    "Groft v. Lumley (1858) 6 H.L.Cas. 672",
+    "Davenport v. The Queen (1877) 3 App.Cas. 115"
+  ],
+  "rationaleHighlights": [
+    "Receipts for rent at £45/month indicated a binding rent reduction, not partial payment.",
+    "Promissory estoppel applied: landlord cannot act inconsistently with promise acted upon by tenant.",
+    "Rent Control Ordinance does not override common law but supplements it with tenant protections.",
+    "No re-entry clause in lease means no forfeiture for breach of covenant.",
+    "Acceptance of rent after breach constitutes legal waiver of forfeiture.",
+    "Court discretion under s.11(1) requires common law basis for possession order.",
+    "Long delay in claiming arrears undermined landlord's credibility.",
+    "Unauthorized sub-letting alone does not justify possession without forfeiture rights."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning, cited authorities, and documentary receipts. All key legal principles are well-supported by precedent and statutory interpretation.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/BASSIL v. SAID RAAD & SONS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:10:11.464Z",
+    "plainTextLength": 12779
+  }
+}

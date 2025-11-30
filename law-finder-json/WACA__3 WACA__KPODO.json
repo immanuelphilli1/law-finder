@@ -1,0 +1,69 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This case involved a claim by A. C. Kpodo, the plaintiff-respondent, against Swiss African Trading Co. Ltd., the defendant-appellant, for damages due to wrongful termination of employment, filed in the District Magistrate's Court at Accra. The Magistrate ruled for the defendant but referred a legal question to the Supreme Court (Divisional Court) under Section 47 of the Courts Ordinance, asking whether Section 8 of the Master and Servants' Ordinance applied. The Divisional Court held that it did not apply and directed the case back for assessment of damages. The defendant appealed to the West African Court of Appeal. The Court dismissed the appeal, holding that no appeal lies from an opinion of the Supreme Court on a case stated under Section 47, as the Court was not sitting in original or appellate jurisdiction. The appeal was therefore not within the jurisdiction conferred by Sections 3 or 4 of the West African Court of Appeal Ordinance, 1935.",
+  "legalKeywords": [
+    "appeal jurisdiction",
+    "case stated",
+    "question of law",
+    "Master and Servants Ordinance",
+    "Courts Ordinance",
+    "wrongful determination of service",
+    "District Magistrate's Court",
+    "Divisional Court",
+    "Supreme Court opinion",
+    "preliminary objection",
+    "no appeal lies",
+    "original jurisdiction",
+    "stated case",
+    "civil suit",
+    "costs apportionment"
+  ],
+  "topics": [
+    "Appellate Jurisdiction",
+    "Case Stated",
+    "Employment Law",
+    "Procedural Law",
+    "Judicial Review"
+  ],
+  "verdict": "Appeal dismissed for lack of jurisdiction.",
+  "winningSide": "Respondent (A. C. Kpodo)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Concurring Judge"
+    },
+    {
+      "name": "Webber, C.J., Sierra Leone",
+      "role": "Concurring Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "West African Court of Appeal Ordinance, 1935 (No. 11 of 1935)",
+    "Courts Ordinance, s 47",
+    "Master and Servants' Ordinance (Cap. 101), s 8"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court was not exercising appellate or original jurisdiction but providing an opinion on a stated case.",
+    "Section 47 of the Courts Ordinance allows magistrates to state a case for the Supreme Court's opinion but does not create a right of appeal.",
+    "The West African Court of Appeal lacks jurisdiction to hear appeals from opinions of the Divisional Court on stated cases.",
+    "Appeal lies only where the Divisional Court sits in original jurisdiction or on appeal from a Magistrate, neither of which applied here.",
+    "The preliminary objection to the appeal's admissibility was upheld for lack of statutory jurisdiction."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment and procedural history.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/KPODO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:20:51.183Z",
+    "plainTextLength": 4806
+  }
+}

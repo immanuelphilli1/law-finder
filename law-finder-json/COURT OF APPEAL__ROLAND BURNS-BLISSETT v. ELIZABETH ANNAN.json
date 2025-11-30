@@ -1,0 +1,78 @@
+{
+  "caseTitle": "ROLAND BURNS-BLISSETT v. ELIZABETH ANNAN",
+  "summary": "This Court of Appeal decision from Ghana, delivered on May 4, 2004, concerned a property dispute over House No. MS1 in Tarkwa between Roland Burns-Blissett (respondent) and Elizabeth Annan (appellant). The respondent claimed ownership on behalf of himself and his siblings as descendants of Henry Francis Burns-Blissett, asserting that the house was built with compensation paid to his grandmother, Madam Ekua Duku (Nyaa Ekua), after her husband’s railway accident. He presented evidence including a fire insurance policy and an affidavit (Exhibit 'F') in which Nyaa Ekua transferred interests in several properties to her sons and grandchildren. The appellant countered that the house was family property constructed through collective family effort and that the respondent was estopped from denying this. The trial court ruled in favor of the respondent, declaring him and his siblings owners and awarding possession. The Court of Appeal upheld this decision, finding that the evidence—including land purchase receipts and indentures in Nyaa Ekua’s name, as well as a vesting affidavit by family elders—supported her sole ownership and intent to benefit her descendants. The appellate court rejected the appellant’s arguments, noting that the trial judge properly evaluated all issues and that the judgment was consistent with the evidence and applicable law.",
+  "legalKeywords": [
+    "property ownership",
+    "family property",
+    "hearsay evidence",
+    "customary law",
+    "gift inter vivos",
+    "customary will",
+    "estoppel by conduct",
+    "burden of proof",
+    "Land Registry Act",
+    "evidence decree",
+    "succession",
+    "inheritance rights",
+    "oral declaration",
+    "affidavit as evidence",
+    "joint ownership",
+    "fraud in estate distribution",
+    "appellate review",
+    "weight of evidence",
+    "trial court findings",
+    "real property dispute"
+  ],
+  "topics": [
+    "Property Law",
+    "Succession and Inheritance",
+    "Family Law",
+    "Evidence Law",
+    "Appellate Procedure"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Omari Sasu",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Asare-Korang",
+      "role": "Justice"
+    },
+    {
+      "name": "Aninakwah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "AWUAH vrs. ADUTU [1987-88] GLR",
+    "MALM vrs. LLUTTERODT [1963] 1 GLR",
+    "AMPOMAH vrs. VOLTA RIVER AUTHORITY [1989-90] 2 GLR 28"
+  ],
+  "rationaleHighlights": [
+    "The trial judge properly admitted hearsay evidence under Section 123(2)(a) of NRCD 323 as an exception where it concerned family history.",
+    "Exhibits 'A' and 'S', showing land purchase and indenture in Nyaa Ekua’s name, supported her individual ownership.",
+    "The failure of family members to retrieve or nullify Exhibit 'F' after alleged arbitration indicated acceptance of her sole ownership.",
+    "The trial court correctly found that the distribution of property excluding the respondent’s siblings amounted to fraud, negating estoppel.",
+    "An affidavit by family elder Atta Buadee acknowledged the respondent’s father as owner of House No. MS1, supporting the claim.",
+    "The appellate court affirmed that the judgment was not against the weight of evidence and that the trial judge adequately addressed all issues.",
+    "Even if the transfer was not a valid gift inter vivos, the evidence collectively supported the respondent’s entitlement.",
+    "The principle in AMPOMAH v. VOLTA RIVER AUTHORITY was applied: appellant must show error when challenging factual findings."
+  ],
+  "confidenceNotes": "The summary is based on a complete review of the provided judgment text, with high confidence in factual accuracy. All key legal issues, evidence, and holdings are reflected. The case citation and procedural history are consistent with Ghanaian appellate practice.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/ROLAND BURNS-BLISSETT v. ELIZABETH ANNAN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:06:53.652Z",
+    "plainTextLength": 17539
+  },
+  "trialDate": "2004-05-04"
+}

@@ -1,0 +1,80 @@
+{
+  "caseTitle": "ENOCK AWASABI GBERTEY VRS E.A. ACCAM ESQUIRE & ANOR",
+  "summary": "This Supreme Court of Ghana decision in *Enock Awasabi Gbertey v. E.A. Accam Esquire & Anor.* (Civil Appeal No. J4/4/2011, 10th April 2013) concerns the legal consequences of enforcing a judgment later declared a nullity. The Defendant, a lawyer, obtained a judgment for legal fees in 2005, leading to the seizure and auction of the Plaintiff's vehicle in 2006. The Plaintiff failed to comply with a High Court order to deposit GHS 10,000 to stay execution. However, the Court of Appeal later set aside the original judgment in 2007, ruling it a nullity due to the Defendant’s failure to comply with section 30 of the Legal Profession Act, which requires a one-month notice before suing for fees. The Plaintiff then sued to recover his vehicle, but the High Court dismissed the suit, citing abuse of process and obedience to prior court orders. The Court of Appeal reversed this, holding that all processes based on a void judgment—including the seizure and sale—are themselves void ab initio. The Supreme Court affirmed this, dismissing the Defendant’s appeal. It emphasized that a void judgment cannot validate any subsequent enforcement action, and the Plaintiff’s recovery action was lawful. The case reaffirms strict compliance with statutory preconditions in legal practice and the doctrine that 'void' acts are incurably invalid.",
+  "legalKeywords": [
+    "nullity",
+    "void ab initio",
+    "execution of judgment",
+    "stay of execution",
+    "abuse of process",
+    "contempt of court",
+    "writ of fifa",
+    "section 30 Legal Profession Act",
+    "estoppel",
+    "auction of property",
+    "Court of Appeal reversal",
+    "Supreme Court affirmation",
+    "procedural compliance",
+    "legal fees recovery",
+    "due process"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Legal Ethics",
+    "Execution of Judgments",
+    "Nullity of Judicial Acts",
+    "Appellate Review"
+  ],
+  "verdict": "The Supreme Court dismissed the appeal and affirmed the Court of Appeal's decision that the original judgment and all related enforcement actions were null and void, thereby allowing the Plaintiff's claim for recovery of his vehicle or its value to proceed.",
+  "winningSide": "Plaintiff/Appellant/Respondent (Enock Awasabi Gbertey)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "S. O. A. Adinyira (Mrs.)",
+      "role": "author of judgment"
+    },
+    {
+      "name": "W. A. Atuguba",
+      "role": "presiding justice"
+    },
+    {
+      "name": "S. K. Date-Bah",
+      "role": "justice"
+    },
+    {
+      "name": "J. V. M. Dotse",
+      "role": "justice"
+    },
+    {
+      "name": "Gbadegbe",
+      "role": "justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Republic v. High Court, Accra, Ex Parte Afoda [2001-2002] SCGLR 768",
+    "Republic v. High Court, Accra, Ex-parte Allgate Co. Ltd. [2007-8] SCGLR 1041",
+    "Ayarna v. Agyemang [1976] 1 GLR 306",
+    "Nartey v. Gati [2010] SCGLR 745",
+    "Gaisie Zwennes Hughes & Co, Civil Appeal No. J1/24/2011 (unreported, 1st February 2012)",
+    "Mcfoy v. UAC Ltd"
+  ],
+  "rationaleHighlights": [
+    "Non-compliance with section 30 of the Legal Profession Act renders a writ of summons a nullity.",
+    "All processes based on a void judgment are void ab initio and unenforceable.",
+    "A party acting under a court order later set aside is not automatically protected if the underlying judgment is null.",
+    "Disobedience of an order based on a void judgment does not constitute contempt when the foundation is legally invalid.",
+    "The Court of Appeal correctly held that recovery of property sold under a void judgment is lawful and not an abuse of process."
+  ],
+  "confidenceNotes": "All key details such as parties, court levels, statutory provisions, and legal principles are explicitly stated in the judgment. Citations are directly quoted or clearly referenced.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/ENOCK AWASABI GBERTEY VRS  E.A. ACCAM ESQUIRE & ANOR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:14:01.445Z",
+    "plainTextLength": 15398
+  }
+}

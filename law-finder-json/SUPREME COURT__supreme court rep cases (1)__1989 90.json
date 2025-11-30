@@ -1,0 +1,65 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This compilation of unreported Ghanaian Supreme Court civil motions and appeals from 2008–2009 addresses diverse legal issues including contract disputes, land title, injunctions, and procedural fairness. Key cases involve claims for specific performance of property sale agreements, disputes over credit facility breaches leading to business collapse, and applications for declaratory relief regarding land ownership. Procedural issues such as the timeliness of applications, jurisdictional conflicts, and adherence to natural justice—particularly the right to be heard—are recurrent themes. The Court emphasized the importance of proper service, the binding effect of res judicata, and the limits on judicial authority when a stay of execution is in place. Several cases also examine the validity of ex-parte orders and their compliance with constitutional rights under the 1992 Constitution.",
+  "legalKeywords": [
+    "contract",
+    "declaration of title",
+    "breach of contract",
+    "specific performance",
+    "damages",
+    "trespass",
+    "injunction",
+    "recovery of possession",
+    "jurisdiction",
+    "res judicata",
+    "natural justice",
+    "audi alteram partem",
+    "stay of execution",
+    "certiorari",
+    "contempt",
+    "land",
+    "offer and acceptance"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Procedural Law",
+    "Constitutional Law",
+    "Injunctions"
+  ],
+  "verdict": "Varies by case; some applications granted, others dismissed based on jurisdiction, procedural defects, or res judicata.",
+  "winningSide": "Depends on individual case; no single prevailing party across the compilation.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Not specified",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "YAA ANTWI VRS N.T.H.C. CIVIL APPEAL NO. J4/12/2008",
+    "SUMAILA SANUNU VRS FRANKLIN GADO SALIFU CIVIL APPEAL № J4/13/08",
+    "JAAS CO. LIMITED VRS EDWARD APAU AND MADAM AKUA ACHEMPOMAA CIVIL APPEAL NO. J4/18/2008",
+    "NANA AMA AMPONSAH VRS FRANKLYN AMOAH NYAMAAH CIVIL APPEAL NO. J4/10/2008",
+    "PEKI STOOL VRS. TSITO AWUDOME CIVIL APPEAL NO. J4/14/2008"
+  ],
+  "rationaleHighlights": [
+    "Existence of agreement based on exchange of letters may constitute binding contract if intention to create legal relations is evident",
+    "High Court may lack jurisdiction if a stay of execution is in force from a superior court",
+    "Principles of natural justice, particularly audi alteram partem, must be observed in ex-parte applications affecting fundamental rights",
+    "A final judgment by the Supreme Court typically bars re-litigation under res judicata",
+    "Interim injunctions and orders for preservation must balance urgency with procedural fairness"
+  ],
+  "confidenceNotes": "The document appears to be a compilation of case summaries from the Ghana Supreme Court, with limited detail per case. Extracted information is based on the clearest and most complete entries. Some cases are truncated or lack full procedural history.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/1989 90.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:51:10.838Z",
+    "plainTextLength": 37544
+  }
+}

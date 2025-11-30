@@ -1,0 +1,74 @@
+{
+  "caseTitle": "COMMISSIONER OF POLICE v ANTHONY ARBAN",
+  "summary": "The appellant, Anthony Arban, was convicted in a lower court for unlawful possession of diamonds under section 11(3) of Cap. 130, following the discovery of diamonds among shoe boxes in his shop. He claimed no knowledge of their presence, and the prosecution acknowledged that anyone entering the shop could have placed them there. The West Africa Court of Appeal allowed the appeal, holding that the prosecution failed to prove beyond reasonable doubt that the appellant had constructive possession of the diamonds, which requires evidence of knowledge or consent. The court emphasized that while section 11(3) shifts the burden to the accused to prove lawful possession, the prosecution must first establish possession conclusively. Citing *Obiase* and *Rex v. Schmna*, the court ruled that the facts were equally consistent with innocence and thus did not support the conviction. The conviction and sentence were quashed, and an acquittal was entered.",
+  "legalKeywords": [
+    "constructive possession",
+    "unlawful possession",
+    "diamonds",
+    "burden of proof",
+    "criminal conviction",
+    "reasonable doubt",
+    "prosecution evidence",
+    "innocence",
+    "acquittal",
+    "circumstantial evidence",
+    "lawful authority",
+    "judicial reasoning",
+    "appellate review",
+    "criminal law",
+    "Gold Coast"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence",
+    "Possession",
+    "Appeal",
+    "Burden of Proof"
+  ],
+  "verdict": "Appeal allowed; conviction and sentence quashed.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Webb",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v. Schmna v Abrmnovitch, 11 Cr. App. R. 45",
+    "R. v. Pratt, 4 F. & F. 315",
+    "R. v. Freedman, 22 Cr. App. R. 33",
+    "Obiase (W.A.C.A. Lagos, 7 January, 1938)"
+  ],
+  "rationaleHighlights": [
+    "Possession must be proven beyond reasonable doubt before burden shifts to accused.",
+    "Constructive possession requires knowledge or consent.",
+    " mere presence on premises insufficient for possession.",
+    "Explanation need not be believed if reasonably true.",
+    "Inculpatory facts must exclude innocent hypotheses.",
+    "Prosecution failed to negate possibility of unauthorized placement.",
+    "Precedent from Obiase applied to quash conviction.",
+    "Conviction based on speculation, not conclusive evidence."
+  ],
+  "confidenceNotes": "High confidence; case facts and legal reasoning are clearly articulated with direct judicial references.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/COMMISSIONER OF POLICE  v  ANTHONY ARBAN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:03:35.742Z",
+    "plainTextLength": 6043
+  },
+  "trialDate": "1938-12-14"
+}

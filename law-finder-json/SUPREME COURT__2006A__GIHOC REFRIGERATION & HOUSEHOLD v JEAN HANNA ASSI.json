@@ -1,0 +1,84 @@
+{
+  "caseTitle": "GIHOC REFRIGERATION & HOUSEHOLD v JEAN HANNA ASSI",
+  "summary": "This Supreme Court of Ghana decision arose from a land dispute over Plot No. 19, Ring Road Industrial Area, Kaneshie, Accra. The Respondent, Jean Hanna Assi, claimed ownership of the land, supported by Land Title Certificate No. GA 8570, issued under the Land Title Registration Law, 1986 (PNDCL 152). Although the Appellant, GIHOC Refrigeration & Household Products Ltd., occupied the property following state confiscation of the Respondent’s company under military regimes, the court held that the land itself was never legally confiscated. The trial judge found that the Respondent retained indefeasible title under PNDCL 152 and declared him the rightful owner. On appeal, the majority dismissed the substantive appeal but rejected the Respondent’s cross-appeal for declaration of title and recovery of possession due to lack of a formal counterclaim. Justice Akuffo (Ms), dissenting on the cross-appeal, argued that the trial court had jurisdiction to grant such reliefs based on the evidence and principles of justice, citing Order 63 Rule 6 of the former High Court Rules and the reformed Order 1 Rule 2 of C.I. 47, which prioritize effective and final resolution of disputes. She emphasized that procedural technicalities should not override substantive justice, especially where the evidence clearly established the Respondent’s ownership and entitlement to possession.",
+  "legalKeywords": [
+    "indefeasible title",
+    "adverse possession",
+    "land ownership",
+    "procedural justice",
+    "burden of proof",
+    "preponderance of probabilities",
+    "Land Title Registration Law",
+    "NRCD 323",
+    "declaration of title",
+    "recovery of possession",
+    "cross-appeal",
+    "judicial reform",
+    "civil procedure",
+    "Order 63 Rule 6",
+    "Order 1 Rule 2"
+  ],
+  "topics": [
+    "Property Law",
+    "Land Title",
+    "Civil Procedure",
+    "Supreme Court Jurisprudence",
+    "Judicial Reform"
+  ],
+  "verdict": "Substantive appeal dismissed; cross-appeal dismissed by majority, but dissenting opinion held it should succeed.",
+  "winningSide": "Appellant on main appeal; Respondent would have prevailed on cross-appeal per dissent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Akuffo (Ms)",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "Prof. Ocran",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Aninakwa",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "PNDCL 152",
+    "NRCD 323",
+    "Odametey v. Clocuh [1989-90] 1 GLR 14",
+    "Odonkor v. Amartei [1992-93] GBR 59",
+    "Tuakwa v. Bosom [2001-2002] SCGLR 61",
+    "In Re Coles and Ravenshear, [1907] 1 KB 1"
+  ],
+  "rationaleHighlights": [
+    "Respondent's title was indefeasible under PNDCL 152 due to registration.",
+    "Trial judge had jurisdiction to grant declaratory relief even without formal counterclaim.",
+    "Standard of proof in civil cases is preponderance of probabilities under NRCD 323.",
+    "Court may grant unpleaded reliefs if supported by evidence and necessary for justice.",
+    "Order 63 Rule 6 and Order 1 Rule 2 empower courts to act beyond strict pleadings to achieve justice.",
+    "Majority’s refusal to uphold cross-appeal promotes multiplicity of proceedings and inefficiency.",
+    "Evidence overwhelmingly established Respondent's ownership and right to possession.",
+    "Procedural technicalities must not override substantive justice."
+  ],
+  "confidenceNotes": "High confidence; all key details such as jurisdiction, parties, judges, legal principles, and procedural rules are clearly stated in the judgment. Citations are directly quoted or referenced.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2006A/GIHOC REFRIGERATION & HOUSEHOLD v JEAN HANNA ASSI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:24:55.484Z",
+    "plainTextLength": 70282
+  },
+  "trialDate": "2005-11-04"
+}

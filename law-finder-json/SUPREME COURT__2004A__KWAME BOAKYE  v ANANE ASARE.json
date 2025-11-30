@@ -1,0 +1,83 @@
+{
+  "caseTitle": "KWAME BOAKYE v ANANE ASARE",
+  "summary": "This Supreme Court of Ghana decision from 2004 concerns a land dispute between Kwame Boakye (Appellant) and Anane Asare (Respondent). The Appellant's predecessor had initially won in the District Court, but the High Court reversed the decision. While an appeal to the Court of Appeal was pending, the parties allegedly reached an out-of-court compromise and agreed to withdraw the appeal. However, the Appellant proceeded with the appeal in the Respondent's absence and obtained a favorable judgment. The Respondent then sued to set aside that judgment on grounds of fraud, which the High Court dismissed, but the Court of Appeal reversed, finding fraudulent conduct. The Supreme Court upheld the Court of Appeal’s decision, ruling that the Appellant’s failure to disclose the compromise constituted fraud, even if not directly on the court, and affirmed that such judgments can be set aside.",
+  "legalKeywords": [
+    "fraud on the court",
+    "compromise agreement",
+    "set aside judgment",
+    "appeal procedure",
+    "concurrent findings of fact",
+    "evidence",
+    "judicial misconduct",
+    "settlement",
+    "land dispute",
+    "boundary demarcation",
+    "Court of Appeal",
+    "Supreme Court",
+    "procedural fraud",
+    "withdrawal of appeal",
+    "amicable settlement",
+    "binding arbitration",
+    "customary law",
+    "judicial discretion",
+    "costs award",
+    "fraudulent concealment"
+  ],
+  "topics": [
+    "Land Law",
+    "Civil Procedure",
+    "Judicial Fraud",
+    "Appellate Law",
+    "Contractual Settlement"
+  ],
+  "verdict": "Judgment upheld",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Atuguba J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Acquah J.S.C."
+    },
+    {
+      "name": "Sophia Akuffo J.S.C."
+    },
+    {
+      "name": "Adzoe J.S.C."
+    },
+    {
+      "name": "Baddoo J.S.C."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "GBADAGO V. TSILI (1957) 2 WALR II",
+    "ARCHORO V. AKANFELA (1996-97) SCGLR 209",
+    "KANKAM VS. BUACHI III (1964) GLR 138",
+    "ZOGLI v. GANYO (1977) 1GLR 297"
+  ],
+  "rationaleHighlights": [
+    "The Court emphasized that fraud includes concealment of material facts such as a compromise agreement.",
+    "A judgment may be set aside even if fraud was not directly on the court but affected the fairness of proceedings.",
+    "Concurrent findings of fact by lower courts are binding unless shown to be perverse or erroneous.",
+    "The Appellant’s failure to disclose the compromise was deemed fraudulent conduct.",
+    "The compromise was confirmed by disinterested witnesses and payment of consideration.",
+    "The Court upheld the principle that parties must act in good faith during litigation.",
+    "The judgment reaffirmed that procedural fairness outweighs technical success in appeals.",
+    "The Court dismissed the appeal for lack of merit and affirmed the Court of Appeal’s reversal."
+  ],
+  "confidenceNotes": "The summary is based on a detailed judicial opinion with clear factual findings and legal reasoning. All key elements including parties, procedural history, legal issues, and holdings are explicitly stated in the source text. Citations and judicial roles are accurately extracted.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2004A/KWAME BOAKYE  v ANANE ASARE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:34:26.104Z",
+    "plainTextLength": 25734
+  },
+  "trialDate": "2004-07-14"
+}

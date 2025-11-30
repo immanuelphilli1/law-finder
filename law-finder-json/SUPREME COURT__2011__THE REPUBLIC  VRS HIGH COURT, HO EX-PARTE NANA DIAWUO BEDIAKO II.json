@@ -1,0 +1,80 @@
+{
+  "caseTitle": "THE REPUBLIC VRS HIGH COURT, HO EX-PARTE NANA DIAWUO BEDIAKO II",
+  "summary": "The Supreme Court of Ghana dismissed an application by Nana Diawuo Bediako II, Omanhene of Pai Traditional Area, and Nana Adomako Mensah, Stool Father, who sought certiorari and prohibition to quash bail and related proceedings granted by the High Court, Ho, in a criminal case originally tried at the Circuit Court, Hohoe. The applicants argued that the High Court, Ho lacked jurisdiction as the case originated in Hohoe and no transfer order was issued by the Chief Justice. The Supreme Court held that although appeals and related applications should generally be filed at the High Court, Hohoe, the non-functioning status of that court at the time justified the filing at Ho. The Court also affirmed that applicants had locus standi under the public interest exception established in Republic v Korle Gonno District Magistrate Ex-parte Ampomah and In re-Appenteng, dismissing the preliminary objection. It ruled that the High Court, Ho had jurisdiction to hear the bail application due to operational constraints in Hohoe and that the applicants' request for certiorari and prohibition lacked merit.",
+  "legalKeywords": [
+    "jurisdiction",
+    "certiorari",
+    "prohibition",
+    "bail pending appeal",
+    "locus standi",
+    "supervisory jurisdiction",
+    "High Court",
+    "Circuit Court",
+    "stay of execution",
+    "constitutional interpretation",
+    "judicial transfer",
+    "fundamental rights",
+    "appeal procedure",
+    "abuse of process",
+    "public interest standing"
+  ],
+  "topics": [
+    "Criminal Procedure",
+    "Judicial Jurisdiction",
+    "Constitutional Law",
+    "Appellate Process",
+    "Bail Application"
+  ],
+  "verdict": "Application dismissed",
+  "winningSide": "Respondent (Republic)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "J. Dotse",
+      "role": "Delivered the ruling"
+    },
+    {
+      "name": "G. Wood (Mrs)",
+      "role": "Chief Justice, Presiding"
+    },
+    {
+      "name": "Anin-Yeboah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "N.S. Gbadegbe",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "V. Akoto-Bamfo",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal / Judicial Review",
+  "citations": [
+    "Republic v Korle Gonno District Magistrate Grade I Ex-parte Ampomah, [1991] 1 GLR 353",
+    "In re-Appenteng (Decd) Republic v High Court, Accra Ex-parte Appenteng & Another [2005-2006] SCGLR 18"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court affirmed that there is only one High Court in Ghana, with multiple locations for administrative purposes.",
+    "The non-functioning status of the High Court, Hohoe at the time justified the filing of the bail application at the High Court, Ho.",
+    "Applicants had locus standi under the public interest exception to invoke certiorari and prohibition.",
+    "Section 33 of Act 459 allows bail pending appeal to be filed either at the trial or appellate court in criminal cases.",
+    "The High Court, Ho had jurisdiction to hear the application due to operational constraints in Hohoe.",
+    "The principle from Ex-parte Ampomah was reaffirmed: locus standi is not required for public interest challenges to jurisdictional excess.",
+    "The Court emphasized expeditious handling of bail applications affecting fundamental rights.",
+    "Forum shopping concerns are balanced against access to justice and practical judicial administration."
+  ],
+  "confidenceNotes": "High confidence; information extracted directly from the court's ruling with clear citation of legal provisions and precedents. Some document truncation occurred near the end, but key reasoning and outcome were fully captured.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/THE REPUBLIC  VRS HIGH COURT, HO EX-PARTE NANA DIAWUO BEDIAKO II.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:57:38.871Z",
+    "plainTextLength": 18399
+  },
+  "trialDate": "2011-03-03"
+}

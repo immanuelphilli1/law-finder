@@ -1,0 +1,84 @@
+{
+  "caseTitle": "Nartey v Mechanical Lloyd Assembly",
+  "summary": "The case Nartey v Mechanical Lloyd Assembly Plant Ltd involved a dispute over La rural land in Frafraha, Ghana, where the plaintiff claimed title based on a 1976 grant from Nii Okpoti Adjaye Komey (OK), head of the Agbawe family and Mantse of Frafraha. The central issue was whether OK, as a sub-stool authority, had the power to grant La rural land, or if such authority rested solely with the La stool. While prior authorities suggested the La stool held exclusive granting rights, evidence showed a long-standing practice of sub-stools making grants without objection from the La stool. The Supreme Court was divided: Taylor and Wuaku JJSC applied estoppel by acquiescence, holding the La stool was estopped from denying the validity of sub-stool grants due to prolonged inaction; Adade JSC held sub-stools generally had such power; and two dissenting judges held only the La stool could grant. On the burden of proof, the majority applied a hybrid approach—requiring the plaintiff to establish a prima facie case on the strength of his own title, then weighing both parties' weaknesses. The plaintiff succeeded based on prior possession and defects in the defendant’s title, including lack of clear succession from a lease to Mr. Darko and inconsistency between competing grants.",
+  "legalKeywords": [
+    "allodial title",
+    "customary law",
+    "estoppel by acquiescence",
+    "sub-stool authority",
+    "La stool land",
+    "burden of proof in land cases",
+    "possession in trespass",
+    "family land",
+    "rural land grant",
+    "compulsory acquisition",
+    "title to land",
+    "prima facie possession",
+    "defects in conveyance",
+    "successor in title",
+    "local customary practice"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Land Tenure",
+    "Trespass and Possession",
+    "Estoppel",
+    "Judicial Reasoning"
+  ],
+  "verdict": "The Supreme Court allowed the plaintiff's appeal, affirming his claim to the land based on prior possession and the application of estoppel by acquiescence against the La stool.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Taylor JSC",
+      "role": "Majority"
+    },
+    {
+      "name": "Wuaku JSC",
+      "role": "Majority"
+    },
+    {
+      "name": "Adade JSC",
+      "role": "Majority"
+    },
+    {
+      "name": "Francois JSC",
+      "role": "Dissenting"
+    },
+    {
+      "name": "Amua-Sekyi JSC",
+      "role": "Dissenting"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Land Title Dispute",
+  "citations": [
+    "Nartey v Mechanical Lloyd Assembly Plant Ltd",
+    "Owusu v Manche of Labadi",
+    "Akwei v Awuletey",
+    "Adoaku v Nyamalor",
+    "Nii Adjei Onano v Okoi Noi",
+    "Kodilinye v Odu",
+    "Ricketts v Addo"
+  ],
+  "rationaleHighlights": [
+    "The La stool may be estopped by acquiescence from denying sub-stool land grants due to prolonged inaction.",
+    "Possession, even short-term, suffices for trespass claims without proving legal title.",
+    "Plaintiff must establish a prima facie case on the strength of their own title before weaknesses in defendant's case are weighed.",
+    "Customary practice of sub-stool land grants, though conflicting with prior judicial rulings, informed equitable application of estoppel.",
+    "Defendant's title was defective due to lack of proven succession from Mr. Darko and inconsistent conveyances.",
+    "Dual exercise of rights over land by paramount stool and sub-stool may exist under customary law.",
+    "Courts may consider social reality and transactional expectations in applying legal doctrines flexibly.",
+    "A mistake of law may still support estoppel where local rules are obscure and public reliance is reasonable."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and cited authorities. Some interpretive elements in legal doctrine application, particularly regarding estoppel by acquiescence in customary land contexts, reflect nuanced judicial disagreement but are well-supported in the decision.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/89 - 90/LA STOOL LAND DISPUTE [1989-90] VOL. XVII RGL 338—348.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:18:30.029Z",
+    "plainTextLength": 26882
+  }
+}

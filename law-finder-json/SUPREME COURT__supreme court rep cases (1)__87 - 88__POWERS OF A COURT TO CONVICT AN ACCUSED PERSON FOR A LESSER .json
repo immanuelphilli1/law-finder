@@ -1,0 +1,72 @@
+{
+  "caseTitle": "POWERS OF A COURT TO CONVICT AN ACCUSED PERSON FOR A LESSER",
+  "summary": "This legal analysis examines the scope and application of section 154 of Ghana's Criminal Procedure Code, 1960 (Act 30), which permits a court to convict an accused person of a lesser or included offence even when not specifically charged, provided the facts support it. The discussion centers on whether such convictions are permissible under principles of fair trial, legal certainty, and absence of surprise. The article reviews historical precedents from Ghana and Nigeria, including decisions by the West African Court of Appeal, and analyzes the Court of Appeal of Ghana’s ruling in *Sarimbe alias Olala v The Republic*, where it upheld a conviction for assault on a murder charge under section 154. It argues that the provision must be narrowly interpreted to preserve the accused's right to prepare a defense and avoid unfairness, emphasizing that the lesser offence must be inherently included within the charged offence. The analysis also questions whether appellate courts can invoke this power sua sponte.",
+  "legalKeywords": [
+    "lesser included offence",
+    "section 154 Criminal Procedure Code",
+    "fair trial",
+    "legal certainty",
+    "conviction on alternative charge",
+    "double jeopardy",
+    "mode of trial",
+    "appellate jurisdiction",
+    "reduced charge",
+    "included offence",
+    "criminal homicide",
+    "assault",
+    "murder",
+    "manslaughter",
+    "procedural fairness",
+    "West African Court of Appeal",
+    "Sarimbe v The Republic",
+    "Moses Tsinowope v The Republic",
+    "R v Gyan",
+    "R v Noku of Yusa"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Criminal Procedure",
+    "Judicial Interpretation",
+    "Appellate Review",
+    "Fair Trial Rights"
+  ],
+  "verdict": "The article does not report a final judicial verdict but analyzes legal principles and case law; however, in *Sarimbe v The Republic*, the Court of Appeal upheld a conviction for a lesser offence (assault) on a murder charge.",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Not specified",
+      "role": "Appellate Court Panel"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Sarimbe alias Olala v The Republic",
+    "Moses Tsinowope v The Republic",
+    "R v Gyan",
+    "R v Noku of Yusa",
+    "R v Amos Kanu",
+    "R v Adokwu"
+  ],
+  "rationaleHighlights": [
+    "Section 154 allows conviction for a lesser included offence if facts prove a reduced form of the charged crime.",
+    "Convictions under section 154 must not violate the accused's right to fair trial and legal certainty.",
+    "The lesser offence must be inherently contained within the elements of the greater offence.",
+    "Appellate courts may apply section 154 sua sponte, but this raises procedural fairness concerns.",
+    "Historical jurisprudence from the West African Court of Appeal supports narrow interpretation.",
+    "A conviction for a non-included lesser offence risks surprising the accused and undermining defense preparation.",
+    "The mode of trial (jury, judge-alone) may affect applicability of section 154.",
+    "Statutory classification of offences (felony/misdemeanour) influences permissible alternative convictions."
+  ],
+  "confidenceNotes": "High confidence in factual content based on cited cases and statutory provisions; some judge names and specific court details are not provided in the source text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/87 - 88/POWERS OF A COURT TO CONVICT AN ACCUSED PERSON FOR A LESSER .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:22:24.604Z",
+    "plainTextLength": 63599
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "caseTitle": "ROJO METTLE NUNOO ,SQUADRON LEADER (RTD) CLEND SOWU & KOFI P",
+  "summary": "In this 2008 Supreme Court of Ghana judgment, the plaintiffs—Rojo Mettle Nunoo, Squadron Leader (Rtd) Clend Sowu, and Kofi Portuphy—sought declarations and orders compelling the Electoral Commission to publish full, detailed results of the December 2004 Presidential Election, including polling station-level data, arguing that the Commission's publication of only the 'Declaration of President Elect Instrument, 2004' (CI 49) failed to meet its constitutional obligations under Article 63(9) and violated principles of transparency under Article 45. The Court, per Dr. Date-Bah JSC, held that Article 63(9) only requires the declaration to be executed under the hand and seal of the EC Chairman and to state that a candidate was declared elected—detailed results need not be included in the instrument. The Court further ruled that the plaintiffs' action was not an election petition under Article 64(1), as they challenged the validity of the declaration, not the election itself, and thus the 21-day time limit for election petitions did not apply. The Court affirmed the validity of CI 49 and declined to order the publication of granular results, noting that Article 49 ensures such data is accessible in the public domain. The judgment emphasized a literal and purposive interpretation of the Constitution, upholding the Electoral Commission's compliance with its constitutional duties.",
+  "legalKeywords": [
+    "constitutional duty",
+    "declaration of president-elect",
+    "prima facie evidence",
+    "election petition",
+    "time limitation",
+    "judicial interpretation",
+    "literal interpretation",
+    "public disclosure of results",
+    "electoral transparency",
+    "separation of election validity from declaration validity",
+    "Article 63(9)",
+    "Article 64(1)",
+    "Article 49",
+    "constitutional instrument",
+    "Electoral Commission powers",
+    "judicial referral",
+    "supervisory jurisdiction",
+    "nullity of declaration",
+    "voter turnout data",
+    "polling station results"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Election Law",
+    "Judicial Interpretation",
+    "Separation of Powers",
+    "Electoral Transparency"
+  ],
+  "verdict": "The Supreme Court ruled in favor of the Electoral Commission, holding that the Declaration of President Elect Instrument, 2004 (CI 49) was constitutionally valid and that the plaintiffs' claims for additional publication of election results were not supported by the Constitution.",
+  "winningSide": "Electoral Commission",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "Akuffo",
+      "role": "Presiding"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Adinyira",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional interpretation",
+  "citations": [
+    "Article 63(9), 1992 Constitution of Ghana",
+    "Article 64(1), 1992 Constitution of Ghana",
+    "Article 45, 1992 Constitution of Ghana",
+    "Article 49, 1992 Constitution of Ghana",
+    "CI 49 (Declaration of President Elect Instrument, 2004)",
+    "Act 451",
+    "Presidential Elections (Amendment) Act 1996",
+    "CI 15"
+  ],
+  "rationaleHighlights": [
+    "The Court held that the plaintiffs' action was not an election petition under Article 64(1), as they challenged the validity of the declaration, not the election itself, thus the 21-day limit did not apply.",
+    "Article 63(9) requires only that the declaration be executed under the hand and seal of the EC Chairman and state the elected candidate—no requirement to include detailed results.",
+    "The detailed election results need not be part of the declaration instrument, provided they are available in the public domain as required by Article 49.",
+    "The Declaration of President Elect Instrument, 2004 (CI 49) met constitutional requirements and was validly issued.",
+    "A literal interpretation of Article 63(9) was adopted, focusing on the text and purpose of the constitutional provision.",
+    "The Court emphasized that invalidity of the declaration does not equate to invalidity of the election; the former does not nullify the underlying valid results.",
+    "The plaintiffs sought full publication of polling station data, but the Court found no constitutional obligation to publish such details within the declaration.",
+    "The referral to the Supreme Court was justified due to genuine constitutional questions requiring authoritative interpretation."
+  ],
+  "confidenceNotes": "High confidence; all information derived directly from the court's judgment and constitutional provisions cited therein.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2008/ROJO METTLE NUNOO ,SQUADRON LEADER (RTD) CLEND SOWU & KOFI P.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:14:33.342Z",
+    "plainTextLength": 22130
+  },
+  "trialDate": "2008-07-31"
+}

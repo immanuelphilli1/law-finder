@@ -1,0 +1,87 @@
+{
+  "caseTitle": "KOWUS MOTORS v CHECK POINT GH. LTD. 7 ORS",
+  "summary": "The Supreme Court of Ghana considered whether Kowus Motors, the plaintiff/appellant, had locus standi to bring an action after it had ceased to exist due to a statutory merger under the Transfer of Shares and Merger (Kowus Motors, Kaasbohrer Ghana Limited and Ghana Assembly Plant) Decree, 1979 (AFRCD 60). The decree merged Kowus Motors with other companies into Automotive and Technical Services Limited (ATS), thereby extinguishing its separate legal identity. The respondents argued that the action was a nullity because the plaintiff no longer existed as a legal entity at the time the suit was filed. The court reaffirmed the principle that an action brought by a non-existent legal person is a nullity, citing both local and English authorities. It held that since Kowus Motors had been dissolved by operation of law prior to the commencement of the action, it lacked capacity to sue, rendering the entire proceeding void ab initio.",
+  "legalKeywords": [
+    "locus standi",
+    "nullity",
+    "corporate existence",
+    "merger by decree",
+    "capacity to sue",
+    "statutory merger",
+    "legal personality",
+    "dissolution of company",
+    "procedural defect",
+    "jurisdictional challenge",
+    "corporate capacity",
+    "enforcement of rights",
+    "limitation period",
+    "substitution of parties",
+    "equitable interest",
+    "assignment of claims",
+    "trustee in bankruptcy",
+    "relate back doctrine",
+    "non-joinder",
+    "misjoinder"
+  ],
+  "topics": [
+    "Corporate Law",
+    "Civil Procedure",
+    "Supreme Court Jurisprudence",
+    "Legal Capacity",
+    "Merger and Acquisition"
+  ],
+  "verdict": "The appeal was dismissed as the plaintiff lacked locus standi due to its dissolution prior to instituting the action.",
+  "winningSide": "Defendants/Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Dr. Date-Bah, J.S.C."
+    },
+    {
+      "name": "Ansa, J.S.C."
+    },
+    {
+      "name": "Adinyira (Mrs), J.S.C."
+    },
+    {
+      "name": "Dotse, J.S.C."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "A-G v. Faroe Atlantic Co. Ltd. [2005–2006] SCGLR 271",
+    "Edusei v. Diners Club Suisse S.A. (1982–83) GLR 809",
+    "Republic v. High Court, Ex parte Attorney-General (Delta Foods Case) (1998–99) SCGLR 614",
+    "International Bulk Shipping and Services Ltd. v Minerals and Metals Trading Corp of India [1996] 1 All ER 1017",
+    "Re Compania Merabello San Nicholas S.A. [1972] 3 All E.R. 448",
+    "Lazard Bros & Co v Midland Bank Ltd [1933] AC 289",
+    "Dubai Bank Ltd. v Galadari (No. 4) (1990) Times, 23 February",
+    "Fielding v Rigby [1993] 4 All ER 294"
+  ],
+  "rationaleHighlights": [
+    "An action brought by a non-existent legal entity is a nullity.",
+    "Corporate dissolution by operation of law extinguishes legal personality and capacity to sue.",
+    "A statutory merger under AFRCD 60 dissolved Kowus Motors and transferred its identity to ATS.",
+    "The court may entertain a new legal issue if it is substantial and requires no additional evidence.",
+    "Substitution of parties cannot cure a nullity where the original plaintiff never existed at the time of filing.",
+    "Amendments do not relate back to validate proceedings initiated by a defunct company.",
+    "Locus standi is a jurisdictional requirement that must exist at the time of filing.",
+    "Judicial recognition of foreign corporate status does not override domestic legal extinction."
+  ],
+  "confidenceNotes": "The summary is based on a complete reading of the provided judgment text. All key legal principles, citations, and holdings are directly extracted from the court's reasoning. The case is well-documented with authoritative references to Ghanaian and English jurisprudence, supporting high confidence in accuracy.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2008/KOWUS MOTORS v  CHECK POINT GH. LTD. 7 ORS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:53:20.300Z",
+    "plainTextLength": 27247
+  },
+  "trialDate": "2008-10-05"
+}

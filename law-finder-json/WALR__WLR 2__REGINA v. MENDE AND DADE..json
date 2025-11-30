@@ -1,0 +1,79 @@
+{
+  "caseTitle": "REGINA VERSUS MENDE",
+  "summary": "In Regina v. Mendeh and Dade, the Supreme Court of Ghana, Court of Appeal, heard appeals from two defendants convicted of robbery and conspiracy to rob alongside a third accused, Bosompim, who did not appeal. The incident involved a group of men, instigated by Bosompim, assaulting three individuals—Kofi Yeboah, Kwasi Anane, and Kwasi Addae—in Muoso village. After the assaults, the victims were taken to Bosompim’s house where he detained them and demanded 21 shillings each for release. One victim paid directly; the other two had relatives pay on their behalf. The appellants participated in the assaults but were not present during the extortion. The court held that the robbery convictions could not stand because the complainants did not have property in or possession of the money paid by third parties, which is an essential element of robbery. Furthermore, there was no evidence that the appellants shared Bosompim’s intent to extort money or that the force used was for the purpose of stealing. Thus, the conspiracy to rob also failed. However, since the use of force was established, the court exercised its power under s. 11(2) of the Court of Appeal Ordinance, 1957, to substitute the robbery convictions with convictions for assault under s. 180 of the Criminal Code. Each appellant was sentenced to twelve months’ imprisonment with hard labour, replacing the original sentences. The appeal on the first count was allowed, and the appellants were discharged on that count.",
+  "legalKeywords": [
+    "robbery",
+    "conspiracy to rob",
+    "assault",
+    "extortion",
+    "common purpose",
+    "use of force",
+    "property in stolen item",
+    "possession",
+    "duress",
+    "intent to steal",
+    "Criminal Code",
+    "Court of Appeal powers",
+    "substitution of verdict",
+    "unlawful detention",
+    "threat of harm",
+    "confederate liability",
+    "revenge motive",
+    "prosecution burden",
+    "indictment requirements",
+    "hard labour sentence"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Robbery",
+    "Conspiracy",
+    "Assault",
+    "Appeal"
+  ],
+  "verdict": "Convictions for robbery and conspiracy to rob quashed; substituted with convictions for assault. Appeal allowed on first count; appellants discharged on that count.",
+  "winningSide": "Appellants",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Korsah C.J."
+    },
+    {
+      "name": "Quashie Idun"
+    },
+    {
+      "name": "van Lare",
+      "role": "author of judgment"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana, Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Gray (1917) 12 Cr.App.R. 244",
+    "B. v. Harding (1929) 21 Cr.App.R. 166; 142 L.T. 583",
+    "Criminal Code, c. 9, ss. 49, 289, 302, 290(1), 303",
+    "Court of Appeal Ordinance, c. 35 of 1957, s. 11(2)",
+    "Archbold, 33rd ed., para. 1119",
+    "Criminal Procedure Code, c. 10 of 1951, s. 151",
+    "Criminal Code, s. 180"
+  ],
+  "rationaleHighlights": [
+    "Convictions for robbery quashed because complainants lacked property in or possession of money paid by third parties.",
+    "No evidence linked appellants to Bosompim's intent to extort money; thus, no common design to rob.",
+    "Assaults were part of a revenge motive, not connected to robbery.",
+    "Force used was not for stealing but unrelated to any intent to rob.",
+    "Court substituted robbery convictions with assault convictions under s. 11(2) of Court of Appeal Ordinance.",
+    "Extortion charge considered but not pursued against appellants.",
+    "Conspiracy to rob failed due to absence of shared criminal intent.",
+    "Robbery requires both force and intent to steal, both of which were absent for appellants."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment with clear textual support.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/REGINA v. MENDE AND DADE..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:24:08.320Z",
+    "plainTextLength": 14694
+  }
+}

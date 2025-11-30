@@ -1,0 +1,75 @@
+{
+  "caseTitle": "ALFRED BERNARD DAREFOOH v HALIM KARAM",
+  "summary": "In Alfred Bernard Darefooh v Halim Karam, the West Africa Court of Appeal reviewed a judgment awarding £350 (including £300 for the value of a lorry and trailer and £50 for loss of earnings) after the defendant wrongfully seized the plaintiff's vehicle. The appellant argued the claim was in detinue and that the court should have ordered return of the lorry or its value, not additional damages for lost earnings. The appellate court held that while the writ was poorly drafted, the rules for assessing damages in detinue and trover are identical, and special damages for loss of earnings are not recoverable because the earning capacity is inherent in the chattel's value. The court affirmed the £300 valuation based on uncontradicted evidence but set aside the £50 for lost earnings. It also ruled that the discretionary power to order return of the chattel should not be exercised where damages provide full compensation and the item is an ordinary article of commerce. The appeal was allowed in part, with costs awarded to the appellant.",
+  "legalKeywords": [
+    "detinue",
+    "trover",
+    "conversion",
+    "damages",
+    "wrongful seizure",
+    "chattel",
+    "special damages",
+    "value of goods",
+    "discretionary power",
+    "loss of earnings",
+    "compensation",
+    "writ of summons",
+    "judgment",
+    "appeal",
+    "ownership",
+    "plaintiff",
+    "defendant",
+    "court costs",
+    "assessment of damages",
+    "delivery of chattel",
+    "ordinary article of commerce"
+  ],
+  "topics": [
+    "Tort Law",
+    "Property Law",
+    "Civil Procedure",
+    "Damages",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed in part: £300 award and costs upheld; £50 for loss of earnings set aside and claim dismissed.",
+  "winningSide": "Defendant-Appellant (on the issue of loss of earnings)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, CJ., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Graham Paul, C.J., Sierra Leone",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Read and another v. Fairbanks and others, 22 L.J. C.P. 206",
+    "Philips v. Hayward (1825), 3 Dowl. 362",
+    "Whiteley Ltd. v. Hilt (1918) 2 K.B. 819"
+  ],
+  "rationaleHighlights": [
+    "The claim, though poorly worded, was properly assessed under principles of detinue or trover, with identical damage rules.",
+    "Special damages for loss of earnings are not recoverable where the mere capacity for profitable use is part of the chattel's value.",
+    "The court's discretionary power to order return of a chattel should not be exercised when damages fully compensate and the item is an ordinary article of commerce.",
+    "The trial judge's valuation of £300 was upheld due to lack of contradictory evidence.",
+    "The appellate court set aside the £50 award for loss of earnings as legally impermissible."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment with clear textual support.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/ALFRED BERNARD DAREFOOH  v HALIM KARAM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:37:32.211Z",
+    "plainTextLength": 10700
+  }
+}

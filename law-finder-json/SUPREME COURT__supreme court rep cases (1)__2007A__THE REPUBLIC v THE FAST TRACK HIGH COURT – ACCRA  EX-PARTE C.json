@@ -1,0 +1,73 @@
+{
+  "caseTitle": "THE REPUBLIC VRS THE FAST TRACK HIGH COURT",
+  "summary": "The Supreme Court of Ghana interpreted the term 'complaint' under Article 218(a) of the 1992 Constitution, determining that for the Commission on Human Rights and Administrative Justice (CHRAJ) to initiate an investigation into violations of fundamental rights, corruption, abuse of power, or unfair treatment by public officers, the complaint must be made by an identifiable individual or corporate body and formally lodged with CHRAJ. The Court rejected the notion that public expressions of dissatisfaction, such as media reports, constitute valid complaints under this provision. Relying on a literal and constitutional interpretation, and reading Article 218(a) together with Article 230 and C.I. 7, the Court emphasized that formal procedures require a traceable complainant. The decision clarifies that while CHRAJ has broad investigative functions, its authority under Article 218(a) is triggered only by formal, identifiable complaints, distinguishing it from the investigative mandate under Article 218(e), which does not require such procedural formalities.",
+  "legalKeywords": [
+    "complaint interpretation",
+    "constitutional function",
+    "CHRAJ",
+    "fundamental rights",
+    "abuse of power",
+    "corruption",
+    "public officer",
+    "procedural requirements",
+    "literal interpretation",
+    "purposive interpretation",
+    "investigation authority",
+    "administrative justice",
+    "complaint procedure",
+    "identifiable complainant",
+    "public forum complaint"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Human Rights",
+    "Judicial Interpretation",
+    "Anti-Corruption"
+  ],
+  "verdict": "The Supreme Court held that a valid complaint under Article 218(a) of the 1992 Constitution must be made by an identifiable individual or corporate body and formally lodged with CHRAJ; public or media expressions do not suffice.",
+  "winningSide": "The Fast Track High Court – Accra (Respondent), supported by the Attorney General and the Interested Party",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Chief Justice",
+      "role": "President of the Court"
+    },
+    {
+      "name": "Justice Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "Dr. Date-Baah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional interpretation",
+  "citations": [
+    "Article 218(a), 1992 Constitution of Ghana",
+    "Article 230, 1992 Constitution of Ghana",
+    "Commission on Human Rights and Administrative Justice Act 1993 (Act 456)",
+    "Commission on Human Rights and Administrative Justice (Complaint Procedure) Regulations, 1994 (C.I. 7)"
+  ],
+  "rationaleHighlights": [
+    "The term 'complaint' in Article 218(a) requires an identifiable individual or corporate body to lodge it with CHRAJ.",
+    "Media or public expressions of dissatisfaction do not constitute a valid basis for CHRAJ investigation under Article 218(a).",
+    "C.I. 7 prescribes formal procedures for lodging complaints, supporting the need for traceable and formal complaints.",
+    "Paragraph (d) of Article 218 implies two identifiable parties—complainant and respondent—supporting the necessity of a formal complaint.",
+    "Article 218(e) does not authorize investigation into 'abuse of power' or 'conflict of interest'—such powers are limited to Article 218(a).",
+    "Literal and constitutional interpretation of 'complaint' aligns with formal accusation requiring a source.",
+    "CHRAJ cannot initiate investigations under Article 218(a) based solely on public media reports without a formal complainant."
+  ],
+  "confidenceNotes": "High confidence; decision is based on clear constitutional and statutory interpretation with explicit reference to provisions.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2007A/THE REPUBLIC v THE FAST TRACK HIGH COURT – ACCRA  EX-PARTE C.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:55:58.053Z",
+    "plainTextLength": 10532
+  },
+  "trialDate": "2007-10-05"
+}

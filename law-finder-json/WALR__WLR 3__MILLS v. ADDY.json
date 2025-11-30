@@ -1,0 +1,65 @@
+{
+  "caseTitle": "MILLS VERSUS ADDY",
+  "summary": "In Mills v. Addy (1958), the High Court of Ghana addressed a dispute over land ownership within an Accra Ga matrilineal family. The plaintiff, a senior female descendant of the common ancestress Adaku Mansah, sued to declare the disputed properties as family property. The defendant, a grandson of Adaku Mansah through a different daughter, claimed ownership based on descent from his father, the last head of the family. The court held that in the absence of a formally appointed head, the eldest female of the most senior generation (the plaintiff) was entitled to represent the family. It further ruled that self-acquired property of a woman becomes family property under Ga custom, and upon the failure of the direct line of descent, reverts to the wider family. The court emphasized that family property is held in joint life interest by members and cannot be alienated by life tenants. Children from a six-cloth marriage do not inherit family property, only self-acquired property of their father. The decision affirmed that 'once family property, always family property,' preserving its character regardless of the number of surviving beneficiaries.",
+  "legalKeywords": [
+    "family law",
+    "head of family",
+    "representation",
+    "intestacy",
+    "self-acquired property",
+    "family property",
+    "life interest",
+    "matrilineal succession",
+    "customary law",
+    "Ga custom",
+    "succession",
+    "joint life interest",
+    "inalienability",
+    "matrilineal descent",
+    "reversion of property"
+  ],
+  "topics": [
+    "Family Law",
+    "Customary Law",
+    "Succession",
+    "Land Rights",
+    "Matrilineal Inheritance"
+  ],
+  "verdict": "The plaintiff's claim was upheld. The court declared that she was entitled to represent the family and that the disputed properties were family property reverting to the wider family upon the failure of the direct line of descent.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Mills v. Addy, 3 W.A.L.R. 3 (1958)",
+    "Nunoo v. Cleland (1945)",
+    "Acquaye v. Deedci and Crabbe, 3 W.A.L.R. 132 (1957)",
+    "Nelson v. Ocansey and Tackie (1950)",
+    "Ankrah and Another v. Aryeh and Others, 3 W.A.L.R. 104 (1957)",
+    "Mensah v. S.C.O.A. and Boahene, 3 W.A.L.R. 336 (1958)",
+    "Re Eburahim, deceased; Ansa v. Ankrah, 3 W.A.L.R. 317 (1958)"
+  ],
+  "rationaleHighlights": [
+    "Where no head of family is appointed, the oldest female of the most senior generation may act as head if no male is present.",
+    "Family property in matrilineal systems reverts to the wider family upon failure of direct line; 'once family property, always family property'.",
+    "Life tenants in family property hold joint life interests and cannot dispose of the property by will or inter vivos.",
+    "Children of a male life tenant in a six-cloth marriage have no interest in family property, only in self-acquired property.",
+    "Self-acquired property of a woman becomes family property and is administered according to matrilineal custom, not automatically passing to a sole male heir."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct judicial reasoning and cited authorities. Some editorial notes clarify obiter dicta and conflicting precedents.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/MILLS v. ADDY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:59:48.075Z",
+    "plainTextLength": 22822
+  }
+}

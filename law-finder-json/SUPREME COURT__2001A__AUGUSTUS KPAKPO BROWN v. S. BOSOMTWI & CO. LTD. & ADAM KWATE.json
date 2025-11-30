@@ -1,0 +1,89 @@
+{
+  "caseTitle": "AUGUSTUS KPAKPO BROWN v. S. BOSOMTWI & CO. LTD. & ADAM KWATE",
+  "summary": "This 2002 Supreme Court of Ghana decision in CA No. 1/2001 involves a land dispute between Augustus Kpakpo Brown (plaintiff/appellant) and S. Bosomtwi & Co. Ltd. and Adam Kwatei Quartey (defendants). The plaintiff claimed ownership of land at Anyah, Greater Accra, seeking damages for gravel excavation and a perpetual injunction. The defendants countered that the land belonged to the Gbawe Kwatei Family, who had granted them rights. The trial court and Court of Appeal found in favor of the defendants, ruling the plaintiff failed to clearly identify and prove ownership of the land, particularly its western boundary. The Supreme Court upheld the lower courts' concurrent findings, finding no miscarriage of justice, and dismissed the appeal.",
+  "legalKeywords": [
+    "land dispute",
+    "boundary identification",
+    "burden of proof",
+    "overt acts of ownership",
+    "concurrent findings",
+    "trespass",
+    "title to land",
+    "survey plan",
+    "joinder of parties",
+    "appellate review",
+    "miscarriage of justice",
+    "evidence evaluation",
+    "preponderance of probabilities",
+    "perpetual injunction",
+    "special damages",
+    "general damages",
+    "rehearing on appeal",
+    "Court of Appeal",
+    "Supreme Court",
+    "Gbawe Kwatei Family"
+  ],
+  "topics": [
+    "Land Law",
+    "Civil Procedure",
+    "Appellate Jurisdiction",
+    "Evidence Law",
+    "Property Rights"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "A. K. Ampiah",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Mrs. Bamford-Addo",
+      "role": "Presiding, concurred"
+    },
+    {
+      "name": "F. Y. Kpegah",
+      "role": "Concurred"
+    },
+    {
+      "name": "E. D. K. Adjaheng",
+      "role": "Concurred"
+    },
+    {
+      "name": "T. K. Adzoe",
+      "role": "Concurred"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Bissali v. Gyampoh III (1964) GLR 381",
+    "Bedu v. Agbi (1972) 2 GLR 239 (CA)",
+    "Dam v. Addo (1962) 2 GLR 200 SC",
+    "Laryea v. Oforiwah",
+    "Koglex Ltd. (No.2) v. Field (2000) SCGLR 175",
+    "Achoro v. Akoufela (1996-97) SCGLR 209"
+  ],
+  "rationaleHighlights": [
+    "Plaintiff failed to clearly identify the western boundary of the claimed land",
+    "Plaintiff's evidence was inconsistent and confused regarding land description",
+    "Co-defendant provided clear description and evidence of overt acts of ownership",
+    "Exhibit CE1 (composite survey plan) defined the contested area",
+    "Concurrent findings by trial and appellate courts were supported by evidence",
+    "Supreme Court found no blunder or miscarriage of justice",
+    "Appellant's documents and prior judgments did not affect the core issues",
+    "Joinder of Anyaa Chief was vacated on appeal, weakening plaintiff's position"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed court record, explicit findings, and clear procedural history.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2001A/AUGUSTUS KPAKPO BROWN v. S. BOSOMTWI & CO. LTD. & ADAM KWATE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:46:11.440Z",
+    "plainTextLength": 14599
+  },
+  "trialDate": "29TH MAY, 2002"
+}

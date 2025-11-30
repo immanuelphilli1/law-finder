@@ -1,0 +1,61 @@
+{
+  "caseTitle": "ALHAJI F.A.ONASANYA v DANIEL ADENIJI",
+  "summary": "In this civil appeal before the West African Court of Appeal, the appellant (landlord) challenged the award of £400 in general damages to the respondent (tenant) after the landlord removed doors and windows from the leased premises while the tenant was still in occupation, following a notice to quit. The trial judge awarded substantial general damages, citing the defendant's high-handed conduct and failure to personally appear in defense. The appellate court held that the trial judge wrongly considered irrelevant factors, particularly the defendant’s conduct in not appearing personally, which should not influence the assessment of damages in a trespass claim. Applying the principle from Smith v. Schilling, the court found the damages so excessive that they could not reasonably have been awarded if only relevant considerations were taken into account. Accordingly, the appeal was allowed, damages were reduced from £400 to £200, and no order as to costs was made. The respondent was ordered to refund £200 to the appellant.",
+  "legalKeywords": [
+    "Tort",
+    "Trespass",
+    "Damages",
+    "Assessment of Damages",
+    "Irrelevant Considerations",
+    "General Damages",
+    "Special Damages",
+    "Landlord-Tenant",
+    "Notice to Quit",
+    "Injunction"
+  ],
+  "topics": [
+    "Tort Law",
+    "Appellate Review",
+    "Damages"
+  ],
+  "verdict": "Appeal allowed; damages reduced from £400 to £200.",
+  "winningSide": "Appellant (Alhaji F.A. Onasanya)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Foster-Sutton",
+      "role": "President"
+    },
+    {
+      "name": "de Comarmond",
+      "role": "Acting Chief Justice (Nigeria)"
+    },
+    {
+      "name": "Coussey",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Nigeria",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Smith v. Schilling, 1928, 1 K.B.D., at p. 440"
+  ],
+  "rationaleHighlights": [
+    "The trial judge incorrectly considered the defendant's high-handed conduct and failure to personally appear in court as a basis for awarding higher damages.",
+    "The appellate court applied the principle from Smith v. Schilling to determine that damages were unreasonably high due to irrelevant considerations.",
+    "Damages were reduced from £400 to £200 because the trial judge misdirected himself in law by factoring in improper elements.",
+    "The court upheld the finding of trespass but corrected the quantum of damages based on legal principle.",
+    "The appeal succeeded only on the ground of excessive damages, not liability."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear attribution of facts, legal reasoning, and outcome.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/ALHAJI F.A.ONASANYA v DANIEL ADENIJI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:45:17.840Z",
+    "plainTextLength": 7291
+  },
+  "trialDate": "1952-05-15"
+}

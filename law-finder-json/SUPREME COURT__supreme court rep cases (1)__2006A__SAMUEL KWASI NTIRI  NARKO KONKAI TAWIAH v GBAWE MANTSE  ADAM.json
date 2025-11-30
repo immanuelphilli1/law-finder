@@ -1,0 +1,85 @@
+{
+  "caseTitle": "SAMUEL KWASI NTIRI NARKO KONKAI TAWIAH v GBAWE MANTSE ADAM",
+  "summary": "This Supreme Court of Ghana case, decided on 18th October 2006, involved a land dispute over a parcel at Chuim, Odorkor, between Samuel Kwasi Ntiri and Narko Konkai Tawia (Plaintiffs/Respondents) and Gbawe Mantse and Adam Kwatei Quartey (Defendants/Appellants). The Plaintiffs claimed title via a 1977 conveyance from Asere Mantse and a 1917 gift to Gbawe Tawia, seeking declaration of title, possession, damages for trespass, and injunction. The Defendants denied the claim, asserting the land was part of Gbawe family land and raising estoppel based on a prior 1961 High Court judgment. The Circuit Court initially ruled for the Plaintiffs, but the Court of Appeal partially allowed the Defendants' appeal, criticizing the trial court for relying on an incomprehensible surveyor's report, failing to address estoppel, and improperly delegating judicial functions to a surveyor. The Supreme Court ultimately upheld the Court of Appeal’s intervention, emphasizing procedural fairness, proper evidentiary evaluation, and the necessity of addressing pleaded defenses like estoppel.",
+  "legalKeywords": [
+    "land title",
+    "trespass",
+    "declaration of title",
+    "recovery of possession",
+    "perpetual injunction",
+    "estoppel per rem judicatam",
+    "surveyor evidence",
+    "judicial delegation",
+    "procedural fairness",
+    "root of title",
+    "conveyance",
+    "customary land ownership",
+    "court-appointed surveyor",
+    "incomprehensible testimony",
+    "joinder of parties",
+    "boundary dispute",
+    "gift deed",
+    "registration of deed",
+    "judgment on uncertain boundaries",
+    "miscarriage of justice"
+  ],
+  "topics": [
+    "Land Law",
+    "Civil Procedure",
+    "Evidence",
+    "Appellate Review",
+    "Customary Law"
+  ],
+  "verdict": "Appeal allowed in part by the Court of Appeal; Supreme Court affirmed the need for proper judicial process and correction of errors.",
+  "winningSide": "Defendants/Appellants (partially successful on appeal)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Miss Akuffo",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Dr. Twum",
+      "role": "Delivered Judgment"
+    },
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Aninakwah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Kwatia Asuansah Owoo-Papafio vrs. Amadu Wangara & Others (Suit No. 107/1961)",
+    "CIVIL APPEAL NO. J4/29/2004"
+  ],
+  "rationaleHighlights": [
+    "Trial court erred in relying on a court-appointed surveyor whose evidence was incomprehensible due to senility.",
+    "Failure to consider the defense of estoppel per rem judicatam constituted a serious legal error.",
+    "Judgment cannot be based on uncertain boundaries without proper survey and cross-examination.",
+    "Court improperly delegated judicial function by ordering post-judgment survey to define ownership.",
+    "Appellate court rightly intervened where trial judge created a case not pleaded by the parties.",
+    "Procedural fairness requires that all pleaded defenses be addressed and evidence properly evaluated.",
+    "Joinder of parties must follow proper legal procedure to avoid irregularities.",
+    "Land disputes require clear evidence of root of title and boundary demarcation."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed court record; some procedural details inferred from standard Ghanaian civil procedure where text is truncated.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2006A/SAMUEL KWASI NTIRI  NARKO KONKAI TAWIAH v GBAWE MANTSE  ADAM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T18:01:36.168Z",
+    "plainTextLength": 27566
+  },
+  "trialDate": "2004-04-29"
+}

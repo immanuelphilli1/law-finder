@@ -1,0 +1,70 @@
+{
+  "caseTitle": "YAW NSOWAH v. OKYEAME KOBIRI & B. OFORI BOATENG",
+  "summary": "The Court of Appeal of Ghana set aside the High Court's judgment in favor of the plaintiff, Nana Yaw Nsowah, who had been awarded damages for trespass and unlawful closure of his beer bar. The appellate court held that the tenancy agreement (Exhibit A), upon which the plaintiff relied, was unenforceable because the plaintiff failed to prove that its contents were read and explained to the illiterate predecessor of the 1st defendant, as required by the Illiterate Protection Ordinance CAP 262. Consequently, the relationship was governed by the Rent Act, 1963 (Act 220). The court found that the 1st defendant had a legitimate counter-claim for recovery of possession due to non-payment of rent from April 1995, especially since rent increases had been mutually agreed upon. The eviction, conducted by a Rent Officer with official authority, did not constitute trespass. The trial judge was found to have erred in law by relying on the invalid agreement and dismissing the counter-claim. The appeal was allowed, and the plaintiff's claim dismissed.",
+  "legalKeywords": [
+    "tenancy agreement",
+    "illiterate protection",
+    "Rent Act 1963 (Act 220)",
+    "trespass",
+    "unlawful closure",
+    "counter-claim",
+    "recovery of possession",
+    "rent arrears",
+    "evidence",
+    "burden of proof",
+    "customary succession",
+    "judicial error",
+    "damages",
+    "rent review",
+    "mutual variation of contract"
+  ],
+  "topics": [
+    "Property Law",
+    "Tenancy",
+    "Contract Law",
+    "Civil Procedure",
+    "Evidence Law"
+  ],
+  "verdict": "Appeal allowed; judgment for the plaintiff set aside and dismissed.",
+  "winningSide": "Defendant/Appellant (Okyeame Kobiri)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Essilfie-Bondzie J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Aryeetey J.A."
+    },
+    {
+      "name": "Owusu-Ansah J.A."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "NANA YAW NSOWAH v. OKYEAME KOBIRI & B. OFORI BOATENG [12/12/2002] CA 138/2000",
+    "WAYA VRS BYROUTHY (1958) 3 W.A.C.R. 413",
+    "BOAKYEM AND OTHERS VRS ANSAH (1963) 2 G.L.R. 223",
+    "PLYMOUTH CORPORATION VRS HARVEY (1971) 1 WLR 549",
+    "NASH VRS. ARMSTRONG (1861) 10 CB (NS) 259"
+  ],
+  "rationaleHighlights": [
+    "Tenancy agreement unenforceable due to failure to prove it was read to illiterate signatory per Illiterate Protection Ordinance CAP 262",
+    "Parties may mutually vary rent terms even without express contractual provision",
+    "Rent Officer's actions lawful under Rent Act 1963 for non-payment of rent",
+    "No trespass established as eviction was carried out under official authority",
+    "Lower court erred in relying on unenforceable agreement and dismissing valid counter-claim"
+  ],
+  "confidenceNotes": "The judgment is fully reported with clear reasoning and citations. The appellate court reversed the lower court's decision based on well-established legal principles regarding illiterate parties and tenancy law.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/NANA YAW NSOWAH v. OKYEAME KOBIRI & B. OFORI BOATENG.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:13:43.196Z",
+    "plainTextLength": 18379
+  },
+  "trialDate": "2002-12-12"
+}

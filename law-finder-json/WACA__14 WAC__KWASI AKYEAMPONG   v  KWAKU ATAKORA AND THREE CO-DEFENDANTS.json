@@ -1,0 +1,71 @@
+{
+  "caseTitle": "KWASI AKYEAMPONG v KWAKU ATAKORA AND THREE CO-DEFENDANTS",
+  "summary": "In this civil appeal before the West Africa Court of Appeal for the Gold Coast, Kwasi Akyeampomg, as successor to Kwabena Nkrumah, challenged the sale of three mortgaged cocoa farms by mortgagee Kwaku Atakora. The mortgage deed required a one-month written notice demanding payment before the power of sale could be exercised, and only if default continued after that period. A notice was issued on 2nd January 1948, before the repayment due date of 15th April 1948, and the farms were sold on 22nd April 1948. The court held that the notice was invalid because the debt was not yet due when issued, rendering the sale wrongful. However, the appeal was dismissed because the appellant failed to prove any actual damage, having admitted inability to repay the loan even with proper notice. The proceeds of sale (£378) were used to settle prior mortgages held by Kwame Ewua and Kwaku Addae, with no surplus remaining for the appellant. The trial judge’s decision was upheld.",
+  "legalKeywords": [
+    "mortgage",
+    "power of sale",
+    "notice of default",
+    "wrongful sale",
+    "proceeds of sale",
+    "mortgagor",
+    "mortgagee",
+    "due notice",
+    "default in payment",
+    "grace period",
+    "native law and custom",
+    "successor in title",
+    "cocoa farms",
+    "auctioneer",
+    "incumbrances"
+  ],
+  "topics": [
+    "Property Law",
+    "Mortgage Law",
+    "Civil Procedure",
+    "Damages",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent (Kwaku Atakora and co-defendants)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Manyo-Plange",
+      "role": "Judge"
+    },
+    {
+      "name": "Foster-Sutton",
+      "role": "President"
+    },
+    {
+      "name": "Coussey",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal, Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Selwyn v. Carfit (1888), 38 Ch. Div. 273"
+  ],
+  "rationaleHighlights": [
+    "The power of sale could only be exercised after one month's written notice requiring payment following the due date.",
+    "The notice dated 2nd January 1948 was invalid because the debt was not yet due, making the subsequent sale wrongful.",
+    "Despite the wrongful sale, no actual damages were proven as the appellant admitted inability to repay.",
+    "The sale occurred nearly three months after the due date, and the appellant did not attempt to repay or attend the sale.",
+    "The court distinguished the case from Selwyn v. Garfit only by the length of the grace period (one month vs. three months).",
+    "The proceeds were shared among prior mortgagees, eliminating any surplus for the appellant.",
+    "Nominal damages were appropriate, but none were awarded due to lack of evidence of loss.",
+    "The appeal was dismissed because the procedural defect did not result in tangible harm to the appellant."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; all key details (parties, dates, legal reasoning) are explicitly stated in the judgment. Citation format corrected to standard legal style.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/KWASI AKYEAMPONG   v  KWAKU ATAKORA AND THREE CO-DEFENDANTS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:35:43.307Z",
+    "plainTextLength": 12727
+  },
+  "trialDate": "1952-01-05"
+}

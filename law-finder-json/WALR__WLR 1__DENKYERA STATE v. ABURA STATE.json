@@ -1,0 +1,78 @@
+{
+  "caseTitle": "DENKYERA STATE VERSUS ABURA STATE",
+  "summary": "This 1956 West African Court of Appeal decision resolved a jurisdictional dispute between Denkyera State and Abura State over land boundaries, trespass, and injunctions. The core issue was whether the Land Court or a Native Court had authority to hear the case. The court held that no Native Court was competent due to both territorial limitations and the risk of bias, as Native Court members, being subjects of their respective stools, could not impartially adjudicate disputes involving their own state's land claims. Thus, under section 24(4)(a) of the Courts Ordinance, c. 4 of 1951, the Land Court had exclusive original jurisdiction. The ruling emphasized that 'competent' includes not only legal jurisdiction but also the absence of bias, aligning with the principle of nemo judex in causa sua. The appeal was dismissed, affirming the Land Court's authority to proceed.",
+  "legalKeywords": [
+    "jurisdiction",
+    "Native Courts",
+    "Land Court",
+    "nemo judex in causa sua",
+    "bias",
+    "competent court",
+    "section 24 Courts Ordinance",
+    "section 58 Native Courts Ordinance",
+    "territorial jurisdiction",
+    "conflict of interest",
+    "original jurisdiction",
+    "Supreme Court",
+    "stool land",
+    "due process",
+    "adjudication",
+    "tribal boundaries",
+    "legal impartiality",
+    "removal of proceedings",
+    "exclusive jurisdiction",
+    "proper cognizance"
+  ],
+  "topics": [
+    "Jurisdiction",
+    "Land Law",
+    "Native Courts",
+    "Conflict of Interest",
+    "Constitutional Law"
+  ],
+  "verdict": "The appeal was dismissed; the Land Court was affirmed as the proper forum.",
+  "winningSide": "Denkyera State (plaintiff)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Korsah J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Baker Ag.J.A",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Land Dispute",
+  "citations": [
+    "Courts Ordinance, c. 4 of 1951, s. 24(4)(a)",
+    "Native Courts (Colony) Ordinance, c. 98 of 1951, s. 58",
+    "H. v. Income Tax Special Purposes Commers (1888) 21 Q.B.D. 313",
+    "Halsbury, Simonds ed., Vol. 11, paras 116, 123"
+  ],
+  "rationaleHighlights": [
+    "No Native Court had territorial jurisdiction over the disputed boundary between two states.",
+    "Native Court members' loyalty to their stool created a conflict of interest, undermining impartiality.",
+    "'Competent' under s.24(4)(a) requires both jurisdiction and freedom from bias.",
+    "Principle of nemo judex in causa sua applies to Native Courts in inter-state land disputes.",
+    "Land Court has exclusive original jurisdiction where no competent Native Court exists.",
+    "Supreme Court retains authority to determine preliminary jurisdictional issues.",
+    "Section 58 mandates referral only if a cause is properly cognizable by a Native Court.",
+    "Justice must not only be done but manifestly seen to be done."
+  ],
+  "confidenceNotes": "High confidence; all information is directly derived from the provided judgment text, with clear citations and judicial reasoning.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/DENKYERA STATE v. ABURA STATE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:10:33.292Z",
+    "plainTextLength": 16503
+  }
+}

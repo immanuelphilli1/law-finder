@@ -1,0 +1,70 @@
+{
+  "caseTitle": "MISCELLANY-AT-LAW ENFORCEMENT OR INTERPRETATION OF THE CONST",
+  "summary": "This legal commentary discusses the circumstances under which a matter qualifies as one of 'enforcement or interpretation of the Constitution' under article 118(1)(a) of the 1979 Ghana Constitution, as clarified by the Court of Appeal in Republic v. Special Tribunal; Ex parte Akosah. The court held that such an issue arises when constitutional language is ambiguous, when parties offer rival interpretations, when there is conflict between constitutional provisions, or when institutional operations under the Constitution conflict. However, if the constitutional language is clear and unambiguous, the matter does not require Supreme Court intervention under its original jurisdiction; instead, any alleged misinterpretation may be addressed through normal appellate procedures. The decision emphasizes that mere application of clear constitutional provisions to facts is within the trial court's purview and does not warrant Supreme Court original jurisdiction.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "enforcement of the constitution",
+    "ambiguity in constitutional provisions",
+    "Supreme Court jurisdiction",
+    "article 118",
+    "original jurisdiction",
+    "constitutional conflict",
+    "judicial review",
+    "appellate procedure",
+    "constitutional law",
+    "interpretation doctrine",
+    "separation of powers",
+    "judicial authority",
+    "constitutional remedies",
+    "legal certainty"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Judicial Interpretation",
+    "Supreme Court Jurisdiction",
+    "Appellate Procedure",
+    "Rule of Law"
+  ],
+  "verdict": "The Court of Appeal clarified that only genuine issues of constitutional ambiguity, conflicting interpretations, or institutional conflicts qualify for Supreme Court determination under article 118(1)(a); clear provisions applied to facts do not.",
+  "winningSide": "Clarification of jurisdictional boundaries favored proper judicial hierarchy and limited original jurisdiction of the Supreme Court to true constitutional questions.",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Anin J.A.",
+      "role": "Court of Appeal Judge"
+    },
+    {
+      "name": "Bannerman C.J.",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional interpretation",
+  "citations": [
+    "[1971] 2 G.L.R. 473",
+    "[1980] G.L.R.",
+    "Republic v. Special Tribunal; Ex parte Akosah",
+    "Gbedemah v. Awoonor-Williams",
+    "Tait v. Ghana Airways Corporation"
+  ],
+  "rationaleHighlights": [
+    "An issue of constitutional interpretation arises if constitutional language is ambiguous or unclear.",
+    "Rival interpretations by litigants trigger the need for Supreme Court determination.",
+    "Conflict between constitutional articles necessitates interpretation.",
+    "Conflict in operation of constitutional institutions raises enforcement and interpretation issues.",
+    "Clear and unambiguous constitutional provisions do not require Supreme Court interpretation under article 118(1)(a).",
+    "Proper application of clear constitutional provisions to facts is for trial courts, not Supreme Court original jurisdiction.",
+    "Erroneous construction of clear text may be remedied on appeal, not via original jurisdiction.",
+    "Submission on application of law to facts does not constitute constitutional interpretation."
+  ],
+  "confidenceNotes": "The document is a legal commentary summarizing case law rather than a full court decision, but cites authoritative sources including the Court of Appeal and Supreme Court.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2012/MISCELLANY-AT-LAW ENFORCEMENT OR INTERPRETATION OF THE CONST.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:46:02.310Z",
+    "plainTextLength": 3457
+  }
+}

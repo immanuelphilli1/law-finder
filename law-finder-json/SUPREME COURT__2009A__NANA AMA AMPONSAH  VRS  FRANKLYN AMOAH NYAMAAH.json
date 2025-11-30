@@ -1,0 +1,93 @@
+{
+  "caseTitle": "NANA AMA AMPONSAH VRS FRANKLYN AMOAH NYAMAAH",
+  "summary": "This 2009 Supreme Court of Ghana judgment in Nana Ama Amponsah v. Franklyn Amoah Nyamaah concerns a matrimonial dispute involving dissolution of marriage, property division, and custody of children. The parties married under Akan Customary law in 1991 and had four children. The petitioner sought dissolution of marriage and partition of the matrimonial home at Plot 15 Block B, Odeneho Kwadaso, Kumasi. The High Court granted custody to the mother, denied alimony, and ruled the property not jointly owned, while erroneously adjudicating on an unrelated property at Atwima Afiasiebon. The Court of Appeal reversed, declaring the Odeneho Kwadaso house jointly owned and ordering partition, while recognizing the Afiasiebon property as belonging to the petitioner’s mother. The Supreme Court held that the lower courts lacked jurisdiction to rule on the Afiasiebon property since it was not claimed by either party, constituting an irregular exercise of jurisdiction. Regarding the Odeneho Kwadaso house, the Court found it was jointly enjoyed and treated as marital property, with allocation documents in the appellant’s name, and affirmed its status as matrimonial property subject to equitable sharing, overturning the appellant’s claim that it belonged solely to his father or to him alone.",
+  "legalKeywords": [
+    "matrimonial property",
+    "customary marriage",
+    "jurisdictional irregularity",
+    "res judicata",
+    "issue estoppel",
+    "equitable sharing",
+    "pleadings",
+    "acts of ownership",
+    "alimony",
+    "custody of children",
+    "partition of property",
+    "evidence decree",
+    "rehearing on appeal",
+    "departure from pleadings",
+    "matrimonial home",
+    "joint ownership",
+    "self-acquired property",
+    "court of competent jurisdiction",
+    "burden of proof",
+    "rebuttable presumption"
+  ],
+  "topics": [
+    "Family Law",
+    "Property Law",
+    "Appellate Procedure",
+    "Jurisdiction",
+    "Evidence Law"
+  ],
+  "verdict": "Appeal allowed in part; decision on Atwima Afiasiebon property set aside due to lack of jurisdiction; Odeneho Kwadaso house affirmed as matrimonial property subject to equitable sharing",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Wood (Mrs).",
+      "role": "Chief Justice, Presiding"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Anin-Yeboah",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "TIMITIMI v. AMABEBE [1953] 14 W.A.C.A. 374",
+    "Gihoc Refridgeration & Household Products Ltd V Hanna Assi 2005-2006 SCGLR",
+    "Dam vs J.K. Addo [1962] 2 GLR 200 SC",
+    "ABOWABA V ADESHINA [1946] 12 W.A.C.A 18",
+    "ACHIAMPONG V ACHIAMPONG [1982-83] GLR 1017",
+    "MENSAH V MENSAH [1998-99] SCGLR 350",
+    "BOAFO V BOAFO [2005-2006] SCGLR",
+    "ABRAHAMS V AKWEI [1961] GLR 676",
+    "HAMMOND V ODOI & anor [1982-83] GLR 1215",
+    "PRAKA V KETEWA [1964] GLR 423-427"
+  ],
+  "rationaleHighlights": [
+    "Courts cannot adjudicate on reliefs not sought by parties; doing so constitutes jurisdictional irregularity",
+    "Ownership of property not in issue cannot be determined, even if evidence is before the court",
+    "A party who fails to join an action involving their property may be estopped from later challenging the judgment",
+    "Acts of ownership over property create a rebuttable presumption of ownership under Section 48(2) of NRCD 323",
+    "Pleadings bind parties; departure from them without amendment violates procedural rules",
+    "Courts must base decisions only on issues raised in pleadings and reliefs claimed",
+    "Equitable sharing applies where property is jointly used and treated as marital asset",
+    "Judgment in rem on unpleaded property risks creating unintended res judicata effects"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official Supreme Court judgment text. All legal principles and case citations are accurately represented as stated in the source document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/NANA AMA AMPONSAH  VRS  FRANKLYN AMOAH NYAMAAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:04:07.907Z",
+    "plainTextLength": 17380
+  },
+  "trialDate": "2008-10-04"
+}

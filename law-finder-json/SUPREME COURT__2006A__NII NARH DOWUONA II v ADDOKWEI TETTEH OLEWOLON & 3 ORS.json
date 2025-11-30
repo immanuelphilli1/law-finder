@@ -1,0 +1,82 @@
+{
+  "caseTitle": "NII NARH DOWUONA II v ADDOKWEI TETTEH OLEWOLON & 3 ORS",
+  "summary": "This is a civil appeal before the Supreme Court of Ghana concerning a land dispute between the Boi Stool, represented by Nii Narh Dowuona II, and the defendants, Addokwei Tetteh Olewolon and others, who claim title through the Numo Nmashie family of Teshie. The plaintiff sought a declaration of title to 87.68 acres of land at Boi near Abokobi, perpetual injunction against trespass, and general damages. The trial High Court and Court of Appeal dismissed the claim, finding the plaintiff failed to prove title. The Supreme Court upheld the lower courts' decisions, emphasizing fatal contradictions between the plaintiff’s testimony and that of his witnesses regarding the mode of ancestral acquisition of the land—vacant land versus conquest. The Court held that such internal inconsistencies undermined the plaintiff’s case, distinguishing this from rival traditional histories. The defendants relied on a prior Court of Appeal judgment (Civil Case No. 49/80) concerning Adjancote Hill, asserting estoppel. The Supreme Court found no error in the lower courts’ evaluation and affirmed that the plaintiff did not discharge the burden of proof on a balance of probabilities.",
+  "legalKeywords": [
+    "land title",
+    "customary law",
+    "traditional evidence",
+    "estoppel per rem judicatam",
+    "possession",
+    "trespas",
+    "declaration of title",
+    "perpetual injunction",
+    "burden of proof",
+    "contradictions in testimony",
+    "Boi Stool",
+    "Numo Nmashie family",
+    "Adjancote Hill",
+    "Court of Appeal Civil Case No. 49/80",
+    "rehearing on appeal"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Tenure",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Stool Land"
+  ],
+  "verdict": "Appeal dismissed. Decision of the Court of Appeal and trial High Court affirmed.",
+  "winningSide": "Defendants/Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Aninakwah, J.S.C.",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "Miss Akuffo, J.S.C.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Dr. Twum, J.S.C.",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Dr. Date-Bah, J.S.C.",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Ansa, J.S.C.",
+      "role": "Member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil land dispute",
+  "citations": [
+    "ADWUBEN V DOMFEH (1996-1997) SCGLR 660",
+    "TUAKWA V BOSOM 2001-2002 SCGLR 61",
+    "Adjei bi Kojo v Bonsie (1957) 3 WALR 257",
+    "Yaw v Atta (1961) GLR 513",
+    "Atadi v Ladjekpo (1981 GLR) p 219",
+    "Obeng v Bempomaa – 1992-93 3GBLR p 1029",
+    "Odonkor and others v Amartei – 1992-3 1GBLR 59"
+  ],
+  "rationaleHighlights": [
+    "Appellant failed to prove title due to contradictions between his testimony and that of his witnesses",
+    "Principle in Adjei Kojo v Bonsie does not apply where contradictions are within a party's own evidence",
+    "Trial court's finding supported by evidence; appellate courts affirmed preference for defendants' case",
+    "Estoppel per rem judicatam raised based on prior Court of Appeal judgment in Civil Case No. 49/80",
+    "Appellate duty to review entire record affirmed, but not violated in this case"
+  ],
+  "confidenceNotes": "High confidence; details are consistent across pleadings, judgments, and legal principles cited. Some document truncation occurs but key holdings and reasoning are preserved.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2006A/NII NARH DOWUONA II v ADDOKWEI TETTEH OLEWOLON & 3 ORS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:23:19.149Z",
+    "plainTextLength": 21272
+  },
+  "trialDate": "2006-06-21"
+}

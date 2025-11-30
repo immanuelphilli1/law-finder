@@ -1,0 +1,83 @@
+{
+  "caseTitle": "CHAPEL HILL SCHOOL LTD. V AG COMM OF IRS",
+  "summary": "The Supreme Court of Ghana ruled that Chapel Hill School Ltd., prior to its conversion into a company limited by shares in 2001, was an educational institution of a public character and therefore entitled to tax exemption on its income. The court dismissed a review application brought by the Commissioner of Internal Revenue, affirming its earlier decision. The applicant sought review under article 133 of the Constitution and rule 54 of the Supreme Court Rules, alleging exceptional circumstances and miscarriage of justice. The court reaffirmed that review is not an appellate remedy but a special jurisdiction exercisable only in cases of fundamental error, per incuriam decisions, or grave injustice. It held that the original decision correctly interpreted the law and that no grounds for review existed.",
+  "legalKeywords": [
+    "tax exemption",
+    "educational institution",
+    "public character",
+    "judicial review",
+    "miscarriage of justice",
+    "fundamental error",
+    "per incuriam",
+    "Companies Act 1963",
+    "article 133 Constitution",
+    "rule 54 Supreme Court Rules"
+  ],
+  "topics": [
+    "Tax Law",
+    "Constitutional Law",
+    "Judicial Review",
+    "Education Law",
+    "Company Law"
+  ],
+  "verdict": "Application for review dismissed; original decision upholding tax exemption affirmed.",
+  "winningSide": "Chapel Hill School Ltd.",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Atuguba",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Akuffo",
+      "role": "Justice"
+    },
+    {
+      "name": "Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "Owusu",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebe",
+      "role": "Justice"
+    },
+    {
+      "name": "Akoto-Bamfo",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "tax exemption and judicial review",
+  "citations": [
+    "In re Assessment of Income Tax by The Commissioner of Internal Revenue; Chapel Hill School v Attorney-General & Internal Revenue Service (2009) SC GLR 432",
+    "Quartey v Central Services Co. Ltd. (1996-97) SC GLR 398",
+    "Fosuhene v Pomaa [1987-88]2 GLR 105 S.C",
+    "Afranie II v Qaurcoo (1992)2 GLR 561 S.C",
+    "Republic v. High Court Kumasi Ex Parte Abubakari (No. 3)[2000] SC GLR 45"
+  ],
+  "rationaleHighlights": [
+    "Chapel Hill School was deemed an educational institution of public character prior to conversion into a company limited by shares",
+    "Income of such institutions is exempt from taxation under Ghanaian law",
+    "Review applications require exceptional circumstances or discovery of new evidence",
+    "A fundamental legal error resulting in miscarriage of justice justifies review",
+    "Misconstruction of statutory provisions may deprive court of jurisdiction"
+  ],
+  "confidenceNotes": "The summary is based on a reported Supreme Court ruling with clear factual and legal reasoning. All key details including parties, legal principles, and outcome are explicitly stated in the source.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/CHAPEL HILL SCHOOL LTD. V AG COMM OF IRS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:50:55.216Z",
+    "plainTextLength": 62022
+  },
+  "trialDate": "2010-05-05"
+}

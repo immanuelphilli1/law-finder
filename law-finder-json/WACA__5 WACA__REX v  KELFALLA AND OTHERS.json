@@ -1,0 +1,82 @@
+{
+  "caseTitle": "REX v KELFALLA AND OTHERS",
+  "summary": "In this 1939 West African Court of Appeal decision, five appellants convicted of the murder of an unknown man in Sierra Leone appealed on grounds of procedural error and insufficiency of evidence. The prosecution alleged a ritualistic cannibalistic murder orchestrated by Paramount Chief Jo Kwi, though he was not charged and testified for the Crown. The appellants, including sub-chiefs and servants of Jo Kwi, were convicted based partly on uncorroborated testimony. The appellate court held that prosecution witnesses who testified at the preliminary investigation must be made available for cross-examination at trial, and merely offering them to the defence is insufficient. Since three key witnesses (including Jo Kwi) were not called, and the defence denied cross-examination, the court exercised its discretion to call Jo Kwi during the appeal, whose testimony undermined the prosecution’s case. Additionally, the court found that the fifth appellant's conviction relied solely on the uncorroborated evidence of a witness (Siaffa Mada) whom the trial judge deemed an accomplice. As no corroboration existed, the conviction could not stand. The appeals of all appellants were allowed, convictions quashed, and acquittals entered.",
+  "legalKeywords": [
+    "criminal law",
+    "procedure",
+    "witnesses",
+    "depositions",
+    "cross-examination",
+    "accomplice",
+    "corroboration",
+    "murder",
+    "preliminary investigation",
+    "trial",
+    "conviction",
+    "acquittal",
+    "native law and custom",
+    "cannibalistic ritual",
+    "Paramount Chief",
+    "Assessors",
+    "evidence",
+    "prosecution",
+    "defence",
+    "appellate review",
+    "judicial discretion"
+  ],
+  "topics": [
+    "criminal procedure",
+    "evidence",
+    "appellate review",
+    "right to cross-examine",
+    "accomplice testimony"
+  ],
+  "verdict": "Convictions quashed; acquittals entered.",
+  "winningSide": "Appellants",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v. Chipi Chigeri, 3 W.A.C.A. 201",
+    "Rex v. Vandi Gbou & Ors.",
+    "R. v. Woodhead",
+    "R. v. Cassidy",
+    "Reg. v. Thompson, 13 Cox Cr. Cas. 181",
+    "Queen v. Barley, 2 Cox Cr. Cas. 191"
+  ],
+  "rationaleHighlights": [
+    "Witnesses from preliminary investigation must be made available for cross-examination at trial; failure to do so undermines fair trial rights.",
+    "If a trial judge treats a witness as an accomplice requiring corroboration, conviction cannot stand without such corroboration.",
+    "The court exercised discretion to call a key witness (Jo Kwi) during appeal to assess potential impact on original verdict.",
+    "Convictions quashed due to lack of opportunity to cross-examine prosecution witnesses and absence of corroboration for accomplice testimony against fifth appellant.",
+    "Court endorsed Rex v. Chipi Chigeri as binding precedent for proper prosecutorial procedure in British West Africa.",
+    "Native burial practices were used to infer guilt, indicating cultural context in evidentiary reasoning.",
+    "Defence argument that prosecution case was fabricated to implicate chiefs was not dismissed outright, contributing to reasonable doubt.",
+    "Appellate court entered verdicts of acquittal rather than ordering retrial, indicating finality in justice."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from the judgment text. Citations and procedural points are explicitly stated in the decision.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/REX v  KELFALLA AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:40:28.300Z",
+    "plainTextLength": 10240
+  },
+  "trialDate": "1939-11-23"
+}

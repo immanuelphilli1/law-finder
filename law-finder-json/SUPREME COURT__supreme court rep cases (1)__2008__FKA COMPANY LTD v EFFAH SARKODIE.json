@@ -1,0 +1,85 @@
+{
+  "caseTitle": "FKA COMPANY LTD v EFFAH SARKODIE",
+  "summary": "In FKA Company Ltd v Effah Sarkodie, the Supreme Court of Ghana dismissed the appellant's appeal challenging the lower courts' judgment in favor of the respondent for declaration of title, recovery of possession, damages for trespass, and perpetual injunction over 95.194 acres at New Weija. The plaintiff established that its managing director acquired the land by customary grant from the Weija Stool in 1980, took possession, and later had the title formalized in the company's name upon incorporation in 1998. The defendant claimed a grant from the Ngleshie Amanfro Stool and later from the Weija Stool, but the court found this invalid as the Weija Stool had already alienated the land. A court-appointed surveyor confirmed that 85% of the defendant's claimed land overlapped with the plaintiff's. The Supreme Court upheld the principle that a valid customary conveyance divests the grantor of further interest (nemo dat quod non habet), and held that the plaintiff's evidence, including prior judgments and a cadastral plan, satisfied the burden of proof on a balance of probabilities. The appeal, based solely on the weight of evidence, was dismissed as the findings were amply supported.",
+  "legalKeywords": [
+    "customary land tenure",
+    "declaration of title",
+    "recovery of possession",
+    "trespass",
+    "perpetual injunction",
+    "nemo dat quod non habet",
+    "preponderance of probabilities",
+    "burden of proof",
+    "cadastral plan",
+    "collusion",
+    "caretaker possession",
+    "corporate succession",
+    "evidence evaluation",
+    "appellate review",
+    "inconsistencies in testimony"
+  ],
+  "topics": [
+    "land law",
+    "customary tenure",
+    "title dispute",
+    "appellate review",
+    "evidence"
+  ],
+  "verdict": "Appeal dismissed; decision of the Court of Appeal and High Court affirmed in favor of the plaintiff.",
+  "winningSide": "FKA Company Ltd (Plaintiff/Respondent)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "G. T. Wood",
+      "role": "Chief Justice (Presiding)"
+    },
+    {
+      "name": "Adzoe",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Asiamah",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil land dispute",
+  "citations": [
+    "Tuakwa v Bosom [2001-2002] SCGLR 61",
+    "DOVIE & DOVIE v ADABANU [2005-2006] SCGLR 905",
+    "EFFISAH v ANSAH [2005-2006] SCGLR 943",
+    "Hammond v Odoi [1982-83] 2 GLR 1215",
+    "Salomon v Salomon [1897] AC 22",
+    "Manche Anege Akwei v Manche Kojo Ababio IV (Accra Water Works Acquisition) dated 24th July 1948",
+    "Full Court judgment dated 1924"
+  ],
+  "rationaleHighlights": [
+    "An effective customary conveyance divests the grantor of any further interest in the land.",
+    "The plaintiff's managing director acquired the land in 1980; incorporation of the company in 1998 did not negate prior acquisition under customary law.",
+    "Surveyor's report showed 85% of defendant's claimed land fell within plaintiff's cadastral plan, confirming boundaries.",
+    "Judgments against Amanfro Stool on same land established plaintiff's good title.",
+    "Defendant's grant from Weija Stool post-dated plaintiff's prior interest and was invalid due to nemo dat principle.",
+    "Minor inconsistencies in plaintiff's testimony do not undermine the overall preponderance of evidence.",
+    "Acting Mankralo's claim that plaintiff was merely a caretaker was deemed improbable and indicative of collusion.",
+    "Appellate courts may interfere only if findings are unreasonable or based on incorrect legal principles."
+  ],
+  "confidenceNotes": "High confidence; all key facts and legal principles are directly supported by evidence and cited authorities in the judgment.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2008/FKA COMPANY LTD v EFFAH SARKODIE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:53:54.559Z",
+    "plainTextLength": 26690
+  },
+  "trialDate": "2008-10-27"
+}

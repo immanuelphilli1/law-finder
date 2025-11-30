@@ -1,0 +1,68 @@
+{
+  "caseTitle": "AMODU RUFAI",
+  "summary": "In this civil land dispute before the West Africa Court of Appeal, the plaintiff, representing the Saogun family, sought a declaration of title to a parcel of land at Pakodo Ikorodu Beach, claiming descent from Saogun deceased. The claim relied on prior judgments and familial lineage but failed to establish how Saogun originally acquired the land or define the boundaries of Ipakodo. The defendants contested the identity of the land, asserting it was Ebute Ile Eletu, and argued the cited judgments were not binding. The trial judge dismissed the claim due to insufficient evidence, a decision upheld on appeal. The appellate court found no definitive evidence linking the disputed promontory to Ipakodo land, noting that the referenced judgments and skeletal Plan 'A' provided no clear boundary or adjacency. The court emphasized that the burden of proof rested on the plaintiff, who failed to meet it, and dismissed the appeal with costs, modifying the lower court's judgment to remove an extraneous finding on ownership of the promontory.",
+  "legalKeywords": [
+    "declaration of title",
+    "burden of proof",
+    "land dispute",
+    "boundary determination",
+    "prior occupation",
+    "evidence insufficiency",
+    "non-suit",
+    "judicial precedent",
+    "family land",
+    "survey plan"
+  ],
+  "topics": [
+    "Land Law",
+    "Property Rights",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Boundary Disputes"
+  ],
+  "verdict": "Appeal dismissed with costs; modification ordered to remove overreaching finding on ownership of the promontory.",
+  "winningSide": "Defendants - Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Webber",
+      "role": "Chief Justice, Sierra Leone"
+    },
+    {
+      "name": "Deane",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil land dispute",
+  "citations": [
+    "Kosoko v. Apella",
+    "Apena v. da Silva, 1899",
+    "Kosoko v. Apena, 1918",
+    "Apena v. Balogun and OT., 1923",
+    "Adedoyin v. Apena, 1927",
+    "Johnson v. Ominu"
+  ],
+  "rationaleHighlights": [
+    "Plaintiff failed to prove extent or boundaries of Ipakodo land.",
+    "Reliance on prior judgments did not establish connection to disputed promontory.",
+    "Plan 'A' was skeletal and unhelpful; no surveyor testimony provided.",
+    "Judgments cited related to lands by main road, not the current promontory in dispute.",
+    "Ownership claim failed due to insufficient evidence, not weakness of defense."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct judicial reasoning and explicit references to evidence and prior judgments.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/AMODU RUFAI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:33:25.655Z",
+    "plainTextLength": 7859
+  },
+  "trialDate": "1934-08-24"
+}

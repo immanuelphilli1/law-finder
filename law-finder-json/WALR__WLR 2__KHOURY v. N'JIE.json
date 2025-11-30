@@ -1,0 +1,66 @@
+{
+  "caseTitle": "KHOURY VERSUS N'JIE.",
+  "summary": "In Khoury v. N'Jie, the plaintiff sued to recover \u0001295 as the outstanding balance from a \u000118,000 property sale conducted under a sealed agreement. The defendant argued that an oral agreement in October 1953 varied the original contract, whereby the plaintiff agreed to forgo \u0001295 in exchange for early payment of \u00011,000 and rent-free occupation until completion. The Chief Justice found in favor of the defendant, holding that early payment constituted valid consideration for the variation, and that despite common law rules, equity permits oral variation of a sealed contract under the Supreme Court of Judicature (Consolidation) Act, 1925. The plaintiff's conduct, including not offsetting the debt against later rent, supported the finding of full satisfaction. Judgment was entered for the defendant with costs.",
+  "legalKeywords": [
+    "contract under seal",
+    "oral agreement",
+    "variation of contract",
+    "consideration",
+    "nudum pactum",
+    "payment before due date",
+    "rent-free occupation",
+    "liquidated debt",
+    "equity",
+    "common law",
+    "promissory note",
+    "deed",
+    "completion of sale",
+    "judgment for defendant",
+    "contract law",
+    "Ghana Law Finder",
+    "West African Court of Appeal",
+    "Supreme Court of Judicature Act 1925",
+    "Steeds v Steeds",
+    "Berry v Berry"
+  ],
+  "topics": [
+    "Contract Law",
+    "Consideration",
+    "Variation of Contract",
+    "Equity vs Common Law",
+    "Sealed Deeds"
+  ],
+  "verdict": "Judgment for the defendant with costs.",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Miles C.J",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Colony of the Gambia",
+    "country": "Gambia"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Steeds v. Steeds (1889) 22 Q.B.D. 537",
+    "Berry v. Berry [1929] 2 K.B. 316"
+  ],
+  "rationaleHighlights": [
+    "A promise to allow continued possession until completion is not valid consideration, as the party is already entitled to it.",
+    "Payment of part of a debt before the due date constitutes valid consideration for a variation.",
+    "A contract under seal can be varied by an oral agreement, as equity allows such variation post-Supreme Court of Judicature (Consolidation) Act, 1925, s. 44.",
+    "The defendant's witnesses, including the plaintiff's uncle, were credible and supported the variation claim.",
+    "The plaintiff's failure to set off the alleged debt against rent paid later supports the finding of full satisfaction.",
+    "The written memorandum allowing rent-free occupation was unnecessary if no variation occurred, thus supporting the defendant's case."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; all key details (parties, amounts, dates, legal principles) are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/KHOURY v. N'JIE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:28:33.823Z",
+    "plainTextLength": 6783
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "caseTitle": "APPLICATION TO ADDUCE FRESH EVIDENCE,",
+  "summary": "In this civil motion before the Supreme Court of Ghana, the applicant sought leave to adduce fresh evidence—specifically, a map allegedly used in determining a boundary in a 1927 case—pursuant to Rule 76 of the Supreme Court Rules, 1996 (CI 16). The court held that the applicant failed to demonstrate the relevance of the map, as the binding authority remains the 1927 judgment, not evidence considered on appeal. Additionally, the applicant did not prove that the map was unavailable despite due diligence, nor did they produce the appellate record where the map was supposedly used. The respondent contested the map's role in the original proceedings. Ultimately, the court refused leave to adduce the evidence, finding it would not serve the interest of justice, and awarded costs of GHC 1,000 against the applicant.",
+  "legalKeywords": [
+    "fresh evidence",
+    "adduce evidence",
+    "due diligence",
+    "relevance of evidence",
+    "interest of justice",
+    "appeal procedure",
+    "boundary dispute",
+    "1927 judgment",
+    "map as evidence",
+    "Native Tribunal",
+    "appellate tribunal",
+    "civil motion",
+    "costs award",
+    "stool property",
+    "Manhyia Palace"
+  ],
+  "topics": [
+    "Evidence",
+    "Appeals",
+    "Boundary Dispute",
+    "Costs",
+    "Ghanaian Civil Procedure"
+  ],
+  "verdict": "Leave to adduce fresh evidence refused.",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. S. K. Date-Bah",
+      "role": "Presiding Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Supreme Court Rules, 1996 CI 16, Rule 76"
+  ],
+  "rationaleHighlights": [
+    "The applicant failed to demonstrate the relevance of the map to the current appeal.",
+    "The map was not used during the original trial but allegedly on appeal, reducing its probative value.",
+    "The applicant did not exhibit the appellate proceedings where the map was supposedly used.",
+    "The respondent denied the map's role in the 1927 case.",
+    "Leave to adduce fresh evidence was denied due to lack of due diligence and relevance.",
+    "Costs were awarded against the applicant for the failed application."
+  ],
+  "confidenceNotes": "The document is an unreported Supreme Court decision from Ghana; citation is based on internal court rules and exhibits referenced.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/APPLICATION TO ADDUCE FRESH  EVIDENCE,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:17:53.357Z",
+    "plainTextLength": 4085
+  },
+  "trialDate": "2013-08-23"
+}

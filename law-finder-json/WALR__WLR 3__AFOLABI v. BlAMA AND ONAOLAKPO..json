@@ -1,0 +1,62 @@
+{
+  "caseTitle": "AFOLABI v. BlAMA AND ONAOLAKPO.",
+  "summary": "In AFOLABI v. BLAMA AND ONAOLAKPO, the plaintiff and his deceased brother entered into a licensing agreement with the defendant, who acted as caretaker of stool lands, granting them rights to mine for diamonds along the Akwabusu Stream. It was later discovered that the land was within a pre-existing mining concession held by a company, rendering the area ineligible for a new mining licence. The court held that an implied condition in the agreement was that the land was free from prior conflicting rights. Since this condition was breached, the defendant was found liable for damages. Although the claim for fraudulent misrepresentation was not substantiated, the court awarded the plaintiff £1,101 for expenses incurred due to the breach of the implied condition.",
+  "legalKeywords": [
+    "contract",
+    "licence",
+    "mining rights",
+    "implied condition",
+    "breach of contract",
+    "damages",
+    "fraudulent misrepresentation",
+    "stool land",
+    "concession",
+    "land rights",
+    "third-party rights",
+    "agreement validity",
+    "misrepresentation",
+    "contractual obligation",
+    "due diligence"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Mining Law",
+    "Land Rights",
+    "Civil Liability"
+  ],
+  "verdict": "The court ruled in favor of the plaintiff, finding the defendant liable for breach of an implied condition in the mining licence agreement.",
+  "winningSide": "plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Simpson J.",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Action for Damages",
+  "citations": [
+    "WALR/WLR 3/AFOLABI v. BLAMA AND ONAOLAKPO"
+  ],
+  "rationaleHighlights": [
+    "An implied condition in a licence agreement is that the land is free from prior conflicting rights.",
+    "The defendant, as caretaker of stool land, warranted the right to grant the mining licence.",
+    "The third plan misrepresented the area as outside the mining concession, leading to a granted but invalid licence.",
+    "The plaintiff was arrested while operating within the leased area, confirming encroachment on the concession.",
+    "Damages were awarded for actual expenses incurred due to the breach.",
+    "Fraudulent misrepresentation was not proven, but breach of condition was established.",
+    "The plaintiff was found credible; the defendant's testimony was inconsistent.",
+    "The defendant offered alternative land post-arrest, suggesting awareness of the conflict."
+  ],
+  "confidenceNotes": "The summary is based on a clear judicial opinion with documented evidence and reasoning. Factual details are consistent across testimony and documents, supporting high confidence in accuracy.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/AFOLABI v. BlAMA AND ONAOLAKPO..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:18:52.754Z",
+    "plainTextLength": 7140
+  }
+}

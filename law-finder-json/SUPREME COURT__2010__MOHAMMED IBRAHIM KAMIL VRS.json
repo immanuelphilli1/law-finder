@@ -1,0 +1,88 @@
+{
+  "caseTitle": "MOHAMMED IBRAHIM KAMIL VRS",
+  "summary": "The appellant, Mohammed Ibrahim Kamil, was convicted by the High Court and later sentenced to 15 years imprisonment by the Court of Appeal for possession of 588.33 kilograms of cocaine without lawful authority, contrary to section 2 of PNDCL 236. The Supreme Court upheld the conviction, finding that the prosecution proved beyond reasonable doubt that the appellant had constructive possession of the drugs through his active role in transporting and concealing the drug-laden boxes at the accused's residence. Despite denying involvement, the appellant's actions—including driving the vehicle, hiring laborers, and personally carrying boxes—supported the lower courts' findings. The Court emphasized that concurrent factual findings by lower courts are not easily overturned absent a clear miscarriage of justice, which was not demonstrated here.",
+  "legalKeywords": [
+    "criminal conspiracy",
+    "narcotic drugs",
+    "possession",
+    "importation",
+    "constructive possession",
+    "evidence beyond reasonable doubt",
+    "concurrent findings of fact",
+    "prima facie case",
+    "miscarriage of justice",
+    "strict liability",
+    "burden of proof",
+    "appellate review",
+    "cocaine",
+    "PNDCL 236",
+    "surveillance",
+    "confiscation",
+    "trial court",
+    "Court of Appeal",
+    "Supreme Court",
+    "prosecution witnesses"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Drug Offences",
+    "Appellate Procedure",
+    "Evidence",
+    "Constitutional Law"
+  ],
+  "verdict": "Conviction for possession of narcotic drugs upheld; sentence of 15 years IHL confirmed.",
+  "winningSide": "The Republic",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Ansa, J.S.C.",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Brobbey, J.S.C.",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Date-Bah (Dr), J.S.C.",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Gbadebe, J.S.C.",
+      "role": "Member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Bonsu alias Benjillo v The Republic [2000] SCGLR 112",
+    "Warner v Metropolitan Commissioner [1969] AC 256 HL",
+    "R v Boyeson [1982] 2 All ER 161",
+    "Akosah v The Republic [1979] GLR 250",
+    "Logan & Laverick v the Republic [2007-2008] SCGLR 75",
+    "Hodgson v The Republic [2009] SCGLR 642",
+    "Achoro v Akanfella [1996-97] SCGLR 209",
+    "Obrasiwa v Otu [1996-97] SCGLR 618"
+  ],
+  "rationaleHighlights": [
+    "Conviction upheld due to sufficient circumstantial evidence of control and involvement.",
+    "Knowledge of drug nature required for conviction under PNDCL 236.",
+    "Appellate court must not interfere with concurrent findings unless clear error is shown.",
+    "Defendant's denial rejected in favor of prosecution's credible witness testimony.",
+    "Constructive possession established through actions and control over drug movement."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct quotation from court judgment and consistent citation of legal authorities.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/MOHAMMED IBRAHIM KAMIL VRS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:45:27.046Z",
+    "plainTextLength": 28610
+  },
+  "trialDate": "2010-12-08"
+}

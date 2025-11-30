@@ -1,0 +1,67 @@
+{
+  "caseTitle": "EFFU AH KW AKUW AH",
+  "summary": "This case involved a dispute over ownership of land and a building in Yamoransa, Ghana, under Native Customary Law. The plaintiff, Effu Ah Kwakuwah, claimed ownership of part of a building constructed by her late husband, Kwamin Assimaku, who allegedly gifted her a portion during his lifetime. The Native Tribunal rejected her claim, ruling that the gift was invalid due to lack of public acknowledgment and customary thank-offering, as required by Fanti Customary Law. The Provincial Commissioner reversed this decision, citing the plaintiff's contributions and valid disposal of self-acquired property. On further appeal, the West Africa Court of Appeal restored the Native Tribunal's judgment, emphasizing that findings on customary law by native tribunals should not be disturbed without clear proof of error. The court held that the gift failed to meet customary requirements for validity, particularly public witnessing and acceptance through presents. The appeal was allowed, costs awarded to the appellant.",
+  "legalKeywords": [
+    "Native Customary Law",
+    "gift validity",
+    "land ownership",
+    "public acknowledgment",
+    "thank-offering",
+    "self-acquired property",
+    "appellate review",
+    "findings of fact",
+    "jurisdiction",
+    "restitution"
+  ],
+  "topics": [
+    "Customary Law",
+    "Property Rights",
+    "Appellate Review",
+    "Gifts",
+    "Land Dispute"
+  ],
+  "verdict": "Appeal allowed; judgment of the Provincial Commissioner set aside and that of the Native Tribunal restored.",
+  "winningSide": "Plaintiff-Appellant-Respondent (Effu Ah Kwakuwah)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webb",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "2 W.A.C.A. p. 1",
+    "1 W.A.C.A. p. 281",
+    "Sarbah's Fanti Customary Laws, 1st Ed., pp. 69-70"
+  ],
+  "rationaleHighlights": [
+    "Gifts of immovable property must be publicly acknowledged under Fanti Customary Law",
+    "Absence of customary acceptance invalidates the gift",
+    "Appellate court erred in overturning native tribunal's factual findings",
+    "Presumption of correctness in native tribunal decisions",
+    "Continued possession alone insufficient without customary acceptance",
+    "Unrebutted evidence does not override non-compliance with custom",
+    "Provincial Commissioner misinterpreted Native Custom"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct quotations from tribunal and appellate decisions, as well as authoritative legal texts.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/EFFU AH KW AKUW AH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:03:00.204Z",
+    "plainTextLength": 8043
+  },
+  "trialDate": "1938-11-28"
+}

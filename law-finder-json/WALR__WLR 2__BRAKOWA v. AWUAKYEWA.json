@@ -1,0 +1,78 @@
+{
+  "caseTitle": "BRAKOWA VERSUS AWUAKYEWA",
+  "summary": "In Brakowa v. Awuakyewa, the plaintiff appealed a Land Court decision affirming a Native Court judgment that allowed the sale of her cocoa farm in execution of a debt for which she was a surety. She contended that the writ of summons in the original suit had never been served on her, rendering the judgment and subsequent sale void. The West African Court of Appeal held that service was neither admitted nor proved in accordance with Regulation 49 of the Native Court (Colony) Procedure Regulations, 1945, as the defendant failed to call the bailiff or produce a valid certificate of service. The court emphasized that where service is disputed, the best evidence—namely, oral testimony from the serving officer—must be presented. Additionally, the court found it an abuse of discretion to deny joinder of the property purchaser, as his interests were directly affected and multiplicity of suits should be avoided. The appeal was allowed, and the matter remitted for rehearing.",
+  "legalKeywords": [
+    "service of process",
+    "proof of service",
+    "nullity of judgment",
+    "joinder of parties",
+    "multiplicity of suits",
+    "declaration of title",
+    "execution of judgment",
+    "writ of fl. fa.",
+    "surety",
+    "civil procedure",
+    "Native Courts",
+    "regulatory compliance",
+    "cocoa farm",
+    "land dispute",
+    "cross-examination",
+    "best evidence rule",
+    "hearsay evidence",
+    "court discretion",
+    "rehearing",
+    "appellate review"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Land Law",
+    "Service of Process",
+    "Judgment Nullity",
+    "Party Joinder"
+  ],
+  "verdict": "Appeal allowed; judgment set aside and case remitted for rehearing.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "van Lare J.",
+      "role": "deciding judge"
+    },
+    {
+      "name": "Coussey P.",
+      "role": "concurring judge"
+    },
+    {
+      "name": "Korsah C.J.",
+      "role": "concurring judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Native Court (Colony) Procedure Regulations, No. 10 of 1945, Regulation 49",
+    "Native Court (Colony) Procedure Regulations, No. 10 of 1945, Regulation 48",
+    "Native Court (Colony) Procedure Regulations, No. 10 of 1945, Regulation 45",
+    "Native Court (Colony) Procedure (Amendment) Regulations, No. 8 of 1950",
+    "Native Courts Ordinance, c. 98 of 1951"
+  ],
+  "rationaleHighlights": [
+    "Failure to prove service of writ renders judgment a nullity under Regulation 49.",
+    "Best evidence required when service is disputed: bailiff should be called to testify.",
+    "Hearsay evidence of service is insufficient.",
+    "Refusal to join purchaser as defendant was an irregular exercise of discretion.",
+    "Joining necessary to avoid multiplicity of suits and protect affected interests.",
+    "No certificate of service found; plaintiff not properly cited.",
+    "Appeal allowed and case remitted for rehearing."
+  ],
+  "confidenceNotes": "High confidence; all key details are explicitly stated in the judgment, including procedural rules, evidence issues, and appellate reasoning.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/BRAKOWA v. AWUAKYEWA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:39:36.448Z",
+    "plainTextLength": 9313
+  }
+}

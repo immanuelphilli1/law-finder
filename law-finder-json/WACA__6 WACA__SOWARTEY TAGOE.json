@@ -1,0 +1,70 @@
+{
+  "caseTitle": "SOWARTEY TAGOE",
+  "summary": "This 1940 West African Court of Appeal decision addressed whether a claimant could bring a fresh interpleader action after a prior action was struck out for non-prosecution. The court held that the striking out of the original action did not operate as res judicata, and the claimant retained the right to bring a new action, appeal, or apply for relisting or review. However, the court cautioned that repeatedly filing fresh actions to indefinitely delay enforcement would constitute an abuse of process. The judge’s additional statement refusing to relist the case was criticized as prejudging a future issue, potentially disqualifying him from ruling on any relisting application. Costs were awarded to the claimant.",
+  "legalKeywords": [
+    "interpleader action",
+    "striking out",
+    "res judicata",
+    "abuse of process",
+    "fresh action",
+    "relief from dismissal",
+    "adjournment refusal",
+    "costs award",
+    "case stated",
+    "procedural fairness",
+    "non-prosecution",
+    "judicial bias",
+    "abuse of court process",
+    "right to appeal",
+    "remedy"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Appellate Law",
+    "Judicial Conduct",
+    "Costs and Fees"
+  ],
+  "verdict": "The claimant may bring a fresh action; the prior striking out does not bar a new suit.",
+  "winningSide": "Claimant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "Graham Paul, C.J., Sierra Leone",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Armour v. Bate, 65 L.T. 137",
+    "West African Court of Appeal Ordinance (Cap. 5)",
+    "Courts Ordinance (Cap. 4), Order 44, Rule 26",
+    "Cap. 4 Schedule 3 Order 34 Rule 2"
+  ],
+  "rationaleHighlights": [
+    "Striking out for non-appearance does not equate to a judgment on the merits.",
+    "The claimant retains the right to file a fresh action.",
+    "Repeated filings to delay enforcement constitute abuse of process.",
+    "A judge’s premature refusal to relist a case may disqualify them from future rulings on the matter.",
+    "The proper procedure under a case stated requires judgment to be given subject to appeal, not final disposition."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the provided judgment text with clear factual support.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/SOWARTEY TAGOE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:55:02.068Z",
+    "plainTextLength": 7266
+  },
+  "trialDate": "1940-11-14"
+}

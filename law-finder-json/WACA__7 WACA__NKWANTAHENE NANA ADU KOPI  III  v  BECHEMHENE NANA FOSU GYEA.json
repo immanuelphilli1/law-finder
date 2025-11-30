@@ -1,0 +1,67 @@
+{
+  "caseTitle": "NKWANTAHENE NANA ADU KOPI III v BECHEMHENE NANA FOSU GYEA",
+  "summary": "This is a land ownership dispute between Nkwantahene Nana Adu Kopi III and Bechemhene Nana Fosu Gyeabuor II over an area marked yellow in Exhibit \"B 1\". The Asantehene's Divisional Court \"B\" initially ruled in favor of the defendant, finding the 1913 agreement (Exhibit \"A\") did not cover the disputed southwestern area. On appeal, Court \"A\" reversed this decision based on inferences from Exhibit \"A\", which the West Africa Court of Appeal found unjustified. The Chief Commissioner's Court also erred by extending the 1913 agreement beyond its clear scope. The appellate court upheld Court \"B\"'s factual findings, which were based on a site visit and substantial evidence, and restored its judgment, declaring the disputed land belonged to Bechem. The appeal was allowed, prior judgments set aside, and costs awarded to the appellant.",
+  "legalKeywords": [
+    "land ownership",
+    "boundary dispute",
+    "executive enquiry",
+    "agreement interpretation",
+    "evidence evaluation",
+    "appellate review",
+    "customary land rights",
+    "thalesw",
+    "Nkwantahene",
+    "Bechemhene"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Boundary Disputes",
+    "Evidence",
+    "Customary Law"
+  ],
+  "verdict": "Appeal allowed; judgment of Asantehene's Court \"B\" restored.",
+  "winningSide": "Bechemhene (Defendant)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "land ownership dispute",
+  "citations": [
+    "Exhibit \"A\"",
+    "Exhibit \"B 1\""
+  ],
+  "rationaleHighlights": [
+    "No justification to extend Exhibit \"A\" beyond its face value",
+    "Asantehene's Court \"B\" correctly limited the 1913 agreement to the northeast boundary",
+    "Findings of fact by Court \"B\" supported by evidence and site visit",
+    "Higher courts erred by misinterpreting Exhibit \"A\"",
+    "Unanimous view of messengers supported defendant's claim",
+    "Judgment should not be reversed unless affirmatively shown to be wrong",
+    "Acting Assistant Chief Commissioner's extension of agreement was unjustified",
+    "Plaintiff failed to provide countervailing argument on appeal"
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/NKWANTAHENE NANA ADU KOPI  III  v  BECHEMHENE NANA FOSU GYEA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:31:20.891Z",
+    "plainTextLength": 9506
+  },
+  "trialDate": "3RD JUNE, 1941"
+}

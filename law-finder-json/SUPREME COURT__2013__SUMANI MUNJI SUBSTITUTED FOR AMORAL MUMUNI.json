@@ -1,0 +1,83 @@
+{
+  "caseTitle": "SUMANI MUNJI SUBSTITUTED FOR AMORAL MUMUNI",
+  "summary": "The Supreme Court of Ghana dismissed an appeal concerning the High Court's jurisdiction to extend time for filing an appeal three years after the decision. The appellant had filed an appeal in 2003, which was dismissed in 2006 as a nullity. The High Court later granted an extension of time, but this order was vacated by the same court using its review jurisdiction under Order 42 of C.I. 47, on the grounds that the application was filed beyond the six-month statutory limit under Rule 9(7) of C.I. 19. The Supreme Court affirmed the Court of Appeal's decision, holding that the original extension order was void for lack of jurisdiction and could be set aside under the court's inherent or review powers, citing Mosi v Bagyina and Network Computers Ltd. v Intelstat Global Sales & Marketing Ltd. as authority.",
+  "legalKeywords": [
+    "jurisdiction",
+    "void order",
+    "extension of time",
+    "review jurisdiction",
+    "inherent jurisdiction",
+    "Court of Appeal Rules",
+    "High Court Civil Procedure Rules",
+    "ultra vires",
+    "nullity",
+    "statutory time limit",
+    "appeal procedure",
+    "superior court powers",
+    "order vacated",
+    "patent error",
+    "suo motu jurisdiction"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Judicial Review",
+    "Jurisdictional Limits",
+    "Court Orders and Validity",
+    "Ghanaian Civil Procedure"
+  ],
+  "verdict": "Dismissed",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "G. T. Wood (Mrs.)",
+      "role": "Chief Justice (Presiding)"
+    },
+    {
+      "name": "J. V. M. Dotse",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "A. A. Benin",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "J. B. Akamba",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Order 42, High Court (Civil Procedure) Rules, 2004 (C.I. 47)",
+    "Rule 9, Court of Appeal Rules, 1997 (C.I. 19)",
+    "Mosi v Bagyina [1963] 1 GLR 637",
+    "Dankwa v Fuller",
+    "Network Computers Ltd. v Intelstat Global Sales & Marketing Ltd. [2012] 1 SCGLR 218"
+  ],
+  "rationaleHighlights": [
+    "The High Court lacked jurisdiction to grant an extension of time filed beyond the six-month statutory limit under Rule 9(7) of C.I. 19.",
+    "An order made without jurisdiction is a nullity and can be set aside at any time.",
+    "Courts have inherent power to vacate their own void orders, suo motu or upon review.",
+    "The review under Order 42 of C.I. 47 applies to patent errors or void orders.",
+    "The Court of Appeal correctly held the extension order was void and properly vacated.",
+    "The Supreme Court affirmed that no discretion exists in setting aside void orders to prevent perpetuation of illegality.",
+    "Legal procedures may be relaxed when dealing with plain nullities to uphold justice.",
+    "The appeal was dismissed as it failed on all grounds of jurisdiction and procedure."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and cited authorities. All details extracted directly from the judgment text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/SUMANI MUNJI SUBSTITUTED FOR AMORAL MUMUNI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:10:50.093Z",
+    "plainTextLength": 9670
+  },
+  "trialDate": "2012-04-20"
+}

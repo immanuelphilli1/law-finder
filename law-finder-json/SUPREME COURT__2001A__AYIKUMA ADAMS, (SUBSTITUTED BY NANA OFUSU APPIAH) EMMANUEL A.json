@@ -1,0 +1,86 @@
+{
+  "caseTitle": "AYIKUMA ADAMS, (SUBSTITUTED BY NANA OFUSU APPIAH) EMMANUEL A",
+  "summary": "This is a civil land dispute before the Supreme Court of Ghana concerning ownership of a plot in Awudome. The plaintiff, Ayikuma Adams (substituted by Nana Ofusu Appiah), claimed a customary grant of the land from the Manche Ankrah family in 1962 and immediate possession. The defendant, Emmanuel Tetteh Lomotey, claimed the land was allocated to his mother among 30 plots for family resettlement. The plaintiff sued for declaration of title and recovery of possession. The trial court and Court of Appeal ruled in favor of the plaintiff. On appeal, the Supreme Court upheld the lower courts' decisions, finding that the plaintiff discharged the burden of proof through credible and corroborated evidence, including testimony from Manche Ankrah family members. The defendant failed to call witnesses to support his claim, did not produce boundary owners, and relied on contradictory documents (Exhibits C and C1) that identified different plots. The court emphasized that unchallenged evidence, such as PW3's testimony confirming the plaintiff's grant and the non-acceptance of Plot No.5 by the defendant's mother, must be considered. The appeal was dismissed for lack of merit.",
+  "legalKeywords": [
+    "customary land grant",
+    "burden of proof",
+    "evidence admissibility",
+    "trespass",
+    "land ownership",
+    "declaration of title",
+    "recovery of possession",
+    "survey evidence",
+    "corroboration",
+    "boundary witnesses",
+    "plaintiff's onus",
+    "defendant's failure to call witnesses",
+    "exhibit credibility",
+    "judicial reliance on unchallenged evidence",
+    "land allocation",
+    "family land dispute",
+    "Ga customary law",
+    "documentary evidence",
+    "oral testimony",
+    "failure to plead"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Evidence",
+    "Supreme Court Jurisprudence",
+    "Property Dispute"
+  ],
+  "verdict": "Appeal dismissed; judgment upheld in favor of the plaintiff.",
+  "winningSide": "Plaintiff/Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "LampTey, JSC",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "Ampiah, (Presiding)",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Kpegah, JSC",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "AdjahBeng, JSC",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Adzoe, JC",
+      "role": "Justice of the Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil land dispute",
+  "citations": [
+    "Asomah vrs. Sevordzie (1987-88) 1 GLR 67",
+    "Atta vs. Adu (1987-88) 1 GLR 233",
+    "Evidence Decree, 1975 (NRCD 323), s. 6(1)",
+    "ss. 21, 24 and 48(1) of NRCD 323"
+  ],
+  "rationaleHighlights": [
+    "Plaintiff discharged burden of proof through credible and corroborated testimony, including from family members.",
+    "Defendant failed to call supporting witnesses or boundary owners despite listing them.",
+    "Court rejected defendant's claim due to inconsistent documents (Exhibits C and C1) and failure to explain discrepancies.",
+    "PW3's unchallenged testimony confirmed plaintiff's 1962 customary grant and contradicted defendant's claim.",
+    "Defendant's mother was allocated Plot No.5, not Plot No.10, and there was no proof she accepted it.",
+    "Court held that unobjected-to evidence must be considered, per NRCD 323 s.6(1) and Asomah v. Sevordzie.",
+    "Appeal dismissed because findings were supported by evidence and no legal error was found."
+  ],
+  "confidenceNotes": "High confidence; all key details such as parties, court, judges, and legal reasoning are clearly stated in the judgment. The outcome and rationale are explicitly articulated by Justice Lamptey.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2001A/AYIKUMA ADAMS, (SUBSTITUTED BY NANA OFUSU APPIAH) EMMANUEL A.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:45:17.790Z",
+    "plainTextLength": 18592
+  },
+  "trialDate": "25TH JULY, 2001"
+}

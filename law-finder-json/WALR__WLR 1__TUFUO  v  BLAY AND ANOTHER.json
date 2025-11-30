@@ -1,0 +1,64 @@
+{
+  "caseTitle": "TUFUO VERSUS BLAY AND ANOTHER.",
+  "summary": "In this 1956 Gold Coast land case, the plaintiff claimed title to a property in Prestea following a mortgagee's sale. The mortgagor, William Minow de Bordes, had first mortgaged the property to Kwesi Krah in 1951, then purported to sell it to the first defendant in 1953. Kwesi Krah later exercised his power of sale, and the plaintiff purchased the property on November 11, 1953. The court held that the mortgagee had the right to sell by private treaty despite the lack of explicit authorization, as the deed conferred an unrestricted power of sale. The court found that a public auction had been attempted but was stopped, and the subsequent private treaty sale was valid. The prior sale to the first defendant was declared null and void, as the mortgagee's sale extinguished the equity of redemption. The plaintiff was granted a declaration of title, mesne profits from the first defendant, and the second defendant (tenant) was ordered to pay rent to the plaintiff going forward.",
+  "legalKeywords": [
+    "mortgage",
+    "power of sale",
+    "private treaty",
+    "public auction",
+    "equity of redemption",
+    "mortgagee",
+    "mortgagor",
+    "customary pledge",
+    "title declaration",
+    "mesne profits",
+    "notice of sale",
+    "bona fide sale",
+    "Trustees and Mortgagees Act 1860",
+    "fraudulent sale",
+    "sub-lessee"
+  ],
+  "topics": [
+    "property law",
+    "mortgage enforcement",
+    "title disputes",
+    "equity of redemption",
+    "land sales"
+  ],
+  "verdict": "Judgment for the plaintiff",
+  "winningSide": "plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Windsor-Aubrey J.",
+      "role": "presiding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Western Judicial Division, Land Court, Sekondi",
+    "country": "Ghana"
+  },
+  "caseType": "property",
+  "citations": [
+    "Davey v. Dumnt (1857) 1 De G. & J. 335",
+    "Nash v. Eads (1880) 25 S.J. 95",
+    "Halsbury, Hailsham ed., Vol. 23, p. 436, para. 642",
+    "Coote on Mortgages, 9th ed., p.928",
+    "Trustees and Mortgagees Act, 1860 (23 & 24 Vict. c. 145)",
+    "Halsbury, Hailsham ed., Vol. 23, pp. 435-439, paras. 640-647"
+  ],
+  "rationaleHighlights": [
+    "A mortgagee may sell by private treaty even if not explicitly authorized, provided the mortgage deed grants unrestricted power of sale.",
+    "Sale extinguishes the equity of redemption; prior sale by mortgagor during mortgage is void.",
+    "Mortgagee's title passes to purchaser even without required notice; remedy for defective notice is damages, not invalidation.",
+    "Court found no public auction occurred; sale was by private treaty after failed auction.",
+    "Purchaser in good faith takes valid title despite irregularities in sale process if no fraud or collusion."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and citation of authoritative legal sources. Disputed facts (auction vs. private treaty) resolved through witness credibility assessment.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/TUFUO  v  BLAY AND ANOTHER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:48:22.976Z",
+    "plainTextLength": 12201
+  }
+}

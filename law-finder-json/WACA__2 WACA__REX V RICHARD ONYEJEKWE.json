@@ -1,0 +1,73 @@
+{
+  "caseTitle": "REX V RICHARD ONYEJEKWE",
+  "summary": "The appellant, Richard Onyejekwe, was convicted in the High Court of Enugu on two counts: stealing by a clerk or servant under Section 390(6) of the Criminal Code and fraudulent false accounting under Section 438(b). On appeal to the West Africa Court of Appeal, it was held that the High Court improperly revived the stealing charge, which had been dismissed by the Magistrate after preliminary investigation. The appellate court ruled that the trial court lacked jurisdiction to reintroduce a charge not included in the committal order. Regarding the false accounting charge, the court found no evidentiary basis, as the cash balance entry in question accurately reflected the accounting liability between the accused and his employer, Messrs. John Holt & Company, despite a discrepancy in physical cash on hand. The conviction was therefore quashed. Additionally, the restitution order was invalidated due to lack of evidence that the accused possessed the funds and because it effectively imposed a civil debt with criminal penalties. Both convictions and the restitution order were quashed, and the accused was discharged.",
+  "legalKeywords": [
+    "stealing by clerk or servant",
+    "fraudulent false accounting",
+    "preliminary investigation",
+    "committal procedure",
+    "restitution order",
+    "double jeopardy",
+    "charge amendment",
+    "criminal procedure",
+    "evidentiary sufficiency",
+    "judicial overreach",
+    "colonial criminal law",
+    "cash balance entry",
+    "employer-employee fiduciary duty"
+  ],
+  "topics": [
+    "criminal law",
+    "appellate review",
+    "procedural fairness",
+    "restitution",
+    "false accounting"
+  ],
+  "verdict": "Convictions and restitution order quashed; appeal allowed.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Cor. Butler-Lloyd",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    },
+    {
+      "name": "Brooke",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Williams (1899) 19 Cox C.C p. 239",
+    "Russell on Crimes Vol. II p. 1348",
+    "Sec. 390(6) Criminal Code",
+    "Sec. 438(b) Criminal Code",
+    "Protectorate Courts Ordinance No. 45 of 1933",
+    "Criminal Procedure Ordinance",
+    "Order XXXIX (Rules of Court No. 5 of 1934)",
+    "Rule of Court No. 7 of 1934"
+  ],
+  "rationaleHighlights": [
+    "High Court lacked authority to revive a charge dismissed at preliminary investigation",
+    "Entry was not false as the credited balance matched actual accounting liability",
+    "No evidence supported the false accounting charge under Sec. 438(b)",
+    "Restitution order invalid due to lack of evidentiary basis and improper civil enforcement mechanism",
+    "Conviction quashed due to procedural and evidentiary flaws"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and cited authorities. Case predates modern Ghana's independence but falls under colonial West African judicial system with structured legal references.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/REX V RICHARD ONYEJEKWE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:19:46.626Z",
+    "plainTextLength": 8504
+  },
+  "trialDate": "1935-01-30"
+}

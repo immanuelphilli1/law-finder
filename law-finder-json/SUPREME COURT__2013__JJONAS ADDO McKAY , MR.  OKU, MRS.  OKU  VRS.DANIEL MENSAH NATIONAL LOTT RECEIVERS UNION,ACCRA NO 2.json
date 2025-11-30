@@ -1,0 +1,67 @@
+{
+  "caseTitle": "JJONAS ADDO McKAY , MR. OKU, MRS. OKU VRS.DANIEL MENSAH NATIONAL LOTT RECEIVERS UNION,ACCRA NO 2",
+  "summary": "This is a civil motion before the Supreme Court of Ghana, where the 1st Defendant (Daniel Mensah) sought an interlocutory injunction to restrain the Plaintiffs from executing a judgment pending appeal. The underlying case involved a money-lending transaction where the Plaintiffs advanced GH\u000233,000.00, and the trial court ultimately awarded a balance of GH\u000236,606.40 including interest at 20.5%. The appeal, filed out of time, challenged the judgment on grounds including the legality of the interest rate. The Court of Appeal had refused a stay of execution, deeming the 25th October 2010 judgment final. The Supreme Court, while not deciding the finality issue, granted the injunction on terms: the 1st Defendant was ordered to pay the undisputed principal balance of GH\u000212,020.00 by 31 May 2013, after which attached properties were to be released. The court emphasized the importance of preserving the appeal for a substantial legal question and directed the Registrar to expedite the appeal process. No costs were awarded.",
+  "legalKeywords": [
+    "interlocutory injunction",
+    "stay of execution",
+    "final judgment",
+    "appeal out of time",
+    "money-lending transaction",
+    "rate of interest",
+    "rights of parties",
+    "execution of judgment",
+    "balance of principal",
+    "appellate jurisdiction",
+    "equitable execution",
+    "deputy sheriff",
+    "court registrar",
+    "civil motion",
+    "pending appeal"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Injunctions",
+    "Appeals",
+    "Money Lending",
+    "Interest Rates"
+  ],
+  "verdict": "The application for interlocutory injunction was granted on terms, requiring the 1st Defendant to pay GH\u000212,020.00 (balance of principal) by 31 May 2013, after which all attached properties were to be released. The appeal was to proceed without delay.",
+  "winningSide": "1st Defendant (Daniel Mensah), conditionally",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "A. A. Benin",
+      "role": "Presiding Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "IN RE MENSAH (DECD); MENSAH & SEY v. INTERCONTINENTAL BANK (GH) LTD. (2010) SCGLR 118 SC",
+    "REPUBLIC v. HIGH COURT (FAST TRACK DIVISION) ACCRA; EX PARTE STATE HOUSING CO. LTD. (NO.2) (KORANTEN-AMOAKO, INTERESTED PARTY) (2009) SCGLR 185",
+    "POMAA v. FOSUHENE. (1987-88) 1 GLR 244 SC",
+    "XL INSURANCE SWITZERLAND CO & OTHERS v. GEMINI MARITIME SERVICES & GHANA PORTS AND HARBOURS AUTHORITY, Civil Appeal no. J4/7/2012, dated 25th April 2012, unreported",
+    "Halsbury\u0019s Laws, 5th edn. Vol 11 paras 479, 338"
+  ],
+  "rationaleHighlights": [
+    "The appeal raises a substantial question of law regarding the finality of the 25th October 2010 judgment versus the 19th January 2011 decision.",
+    "Neither party is impecunious, and there is no risk of asset dissipation, reducing the need for a blanket injunction.",
+    "The 1st Defendant admitted receiving GH\u000233,000.00, and the trial court found GH\u000220,980.00 repaid, leaving a principal balance of GH\u000212,020.00.",
+    "Interest payment was withheld due to a discrepancy between the claimed 7% and the applied 20.5%, a key issue for the appeal.",
+    "The court balanced equity and justice by ordering partial payment while preserving the appeal's integrity.",
+    "Reliance on Halsbury\u0019s Laws to justify injunctive relief in aid of equitable execution.",
+    "The application was granted on terms rather than as a general injunction.",
+    "The court emphasized the importance of allowing the apex court to rule on a significant legal issue."
+  ],
+  "confidenceNotes": "The ruling is clear and well-reasoned, with direct references to legal authorities and factual admissions. The judge explicitly refrains from deciding the finality of the judgment below, deferring that issue to the appellate court, which strengthens the reliability of the extracted information.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/JJONAS ADDO McKAY , MR.  OKU, MRS.  OKU  VRS.DANIEL MENSAH NATIONAL LOTT RECEIVERS UNION,ACCRA NO 2.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:13:05.297Z",
+    "plainTextLength": 9066
+  },
+  "trialDate": "2013-05-03"
+}

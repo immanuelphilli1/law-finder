@@ -1,0 +1,91 @@
+{
+  "caseTitle": "THE REPUBLIC v THE HIGH COURT, ACCRA EX-PARTE WILLIAM ADDAE",
+  "summary": "The Supreme Court of Ghana considered an application by four Assembly members from the Biakoye District seeking certiorari and prohibition to quash an interlocutory injunction issued by the High Court, Accra, which restrained the inauguration and operation of the Biakoye District Assembly. The Applicants were not parties to the original suit but claimed the injunction prevented them from discharging their duties. They argued that the High Court lacked jurisdiction under Article 130(1)(b) of the 1992 Constitution to invalidate legislation, a power reserved for the Supreme Court. A preliminary objection was raised that the application was filed out of time under Rule 62 of CI 16, which requires filing within 90 days. However, the Court held that the cause of action arose on May 13, 2009, when a new injunction directly affecting the Applicants was issued, not in March 2008, making the application timely. The Court found no proof that the Applicants had been served with earlier orders and thus dismissed the preliminary objection. The ruling affirmed the Supreme Court's exclusive supervisory jurisdiction over constitutional challenges to legislative instruments.",
+  "legalKeywords": [
+    "supervisory jurisdiction",
+    "certiorari",
+    "prohibition",
+    "ultra vires",
+    "jurisdiction",
+    "interlocutory injunction",
+    "Local Government Act",
+    "Constitution 1992",
+    "Article 130",
+    "Rule 62 CI 16",
+    "ex-parte application",
+    "standing",
+    "service of process",
+    "judicial review",
+    "administrative law",
+    "district assembly",
+    "electoral areas",
+    "Nkonya-Ahenkro",
+    "Biakoye District",
+    "Minister of Local Government",
+    "Electoral Commission",
+    "interested parties",
+    "third parties",
+    "joinder",
+    "adjournment",
+    "affidavit",
+    "depositions",
+    "constitutional interpretation",
+    "procedural compliance",
+    "time limitation"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Judicial Review",
+    "Jurisdiction",
+    "Local Government"
+  ],
+  "verdict": "The preliminary objection was overruled, and the application to invoke supervisory jurisdiction was upheld as timely and valid.",
+  "winningSide": "Applicants (William Addae-Atcheewerebuo and others)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Dotse, JSC",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Wood (Mrs), CJ",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Ansa, JSC",
+      "role": "panel member"
+    },
+    {
+      "name": "Owusu (Ms), JSC",
+      "role": "panel member"
+    },
+    {
+      "name": "Anin Yeboah, JSC",
+      "role": "panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Republic v High Court, Accra, Ex-parte William Addae-Atcheewerebuo (2010)",
+    "Republic v High Court, Kumasi, Ex-parte Mobil Oil (Ghana) Ltd [2005-2006] SCGLR 312"
+  ],
+  "rationaleHighlights": [
+    "Only the Supreme Court has jurisdiction under Article 130(1)(b) of the 1992 Constitution to strike down legislation; High Court lacks such power.",
+    "Application for certiorari and prohibition was timely as cause of action arose on May 13, 2009, not March 4, 2008, because Applicants were not served earlier.",
+    "Rule 62 of CI 16 allows 90 days from when grounds first arise; court applied this principle from Ex-parte Mobil Oil case.",
+    "Preliminary objection dismissed due to lack of proof that Applicants were served with prior orders.",
+    "Supervisory jurisdiction invoked to prevent High Court from exceeding constitutional limits."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official court document with clear procedural and jurisdictional reasoning.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/THE REPUBLIC v THE HIGH COURT, ACCRA  EX-PARTE WILLIAM ADDAE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:40:52.278Z",
+    "plainTextLength": 25312
+  }
+}

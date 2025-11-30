@@ -1,0 +1,88 @@
+{
+  "caseTitle": "OP. KOJO FORI, KYIDOMHENE, ADUM, KUMASI AND OTHERS v. OP. KO",
+  "summary": "This is a chieftaincy review application before the Supreme Court of Ghana, where the applicants sought to have the Court's earlier judgment in Chieftaincy Appeal No. 10/98 reviewed. The original decision had dismissed the applicants' appeal against the National House of Chiefs' confirmation of the nomination and installation of the 2nd respondent as Adumhene. The applicants argued that the judgment caused a grave miscarriage of justice due to alleged misapplication of Ashanti customary law, particularly regarding the role of the Ayete stool in a patrilineal succession system. The Supreme Court, relying on Article 133(1) of the Constitution and Rule 54 of the Supreme Court Rules, 1996 (C.I. 16), reiterated that its review jurisdiction is not appellate and cannot be used to re-litigate issues already decided. The Court found no fundamental error in the original judgment, noting that the 2nd applicant’s claim was traced through a female line, which was inconsistent with the patrilineal nature of the Adum Stool. The application was dismissed unanimously for failure to establish exceptional circumstances or new evidence warranting review.",
+  "legalKeywords": [
+    "review jurisdiction",
+    "miscarriage of justice",
+    "exceptional circumstances",
+    "customary law",
+    "patrilineal succession",
+    "Ayete stool",
+    "Supreme Court Rules",
+    "Article 133",
+    "chieftaincy dispute",
+    "new evidence",
+    "due diligence",
+    "appellate function",
+    "judicial restraint",
+    "National House of Chiefs",
+    "Ashanti customary law"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Customary Law",
+    "Judicial Review",
+    "Chieftaincy Disputes",
+    "Succession Law"
+  ],
+  "verdict": "Application for review dismissed.",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Edward Wiredu",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Bamford-Addo (Mrs.)",
+      "role": "Justice"
+    },
+    {
+      "name": "Ampiah",
+      "role": "Justice"
+    },
+    {
+      "name": "Adjabeng",
+      "role": "Justice"
+    },
+    {
+      "name": "Acquah",
+      "role": "Justice"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Justice"
+    },
+    {
+      "name": "Akuffo (Ms.)",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Chieftaincy",
+  "citations": [
+    "Article 133(1), Constitution of Ghana",
+    "Rule 54, Supreme Court Rules, 1996 (C.I. 16)",
+    "Akua Nyamekye v. Anthony Kwaku Opoku, Civil Motion No. 45/99",
+    "Republic v. Nana Oduro Numapau II & 15 others, Ex-Parte Nana Adu Ameyaw II, CM 39/99"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court's review jurisdiction under Article 133(1) and Rule 54 is not appellate and cannot be used to re-litigate appeals.",
+    "A review may only be granted on grounds of exceptional circumstances causing miscarriage of justice or discovery of new, important evidence.",
+    "The applicants failed to demonstrate any fundamental error in the original judgment.",
+    "The Court emphasized that translating 'Mmamadwa' as 'paternal' instead of 'patrilineal' does not alter the basis of succession, which requires male-line descent.",
+    "The 2nd applicant’s lineage through a female line (Ama Adowa) was incompatible with patrilineal succession to the Adum Stool.",
+    "The Court refused to treat the review as an opportunity to reargue legal interpretations already decided."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the court's ruling with clear judicial reasoning and citation of legal provisions.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2000A/OP. KOJO FORI, KYIDOMHENE, ADUM, KUMASI AND OTHERS v. OP. KO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:47:41.041Z",
+    "plainTextLength": 23461
+  },
+  "trialDate": "2000-10-18"
+}

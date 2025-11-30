@@ -1,0 +1,72 @@
+{
+  "caseTitle": "KFFUAH KRABAH",
+  "summary": "This 1936 Privy Council judgment arose from a land and stool ownership dispute in Dutch Seccondee (Sekondi), Gold Coast Colony (now Ghana). The appellant, Effuah Amissah, claimed on behalf of the Awooah Alookoo family to own specified lands and villages, including Dutch Seccondee, asserting these were attached to their family stool rather than the town stool held by the respondent, Segu Winwah II. The claim also sought an account of profits from 1918 onward and the return of the state stool and regalia. The trial court and Supreme Court dismissed the action based on res judicata from a 1909 judgment by Gough J. The Privy Council overturned this, holding that the 1909 action did not bind the family collectively as the plaintiffs lacked proper authorization. However, on the merits, the Council upheld the lower courts' factual findings: the lands were attached to the town stool, Segu Winwah II was a legitimate blood descendant of the Abrahiam Abradzie family, and the plaintiffs failed to prove their case. The appeal was dismissed, affirming the town stool's authority over the lands and rejecting the claim to family ownership.",
+  "legalKeywords": [
+    "stool land",
+    "res judicata",
+    "customary law",
+    "family stool",
+    "town stool",
+    "land attachment",
+    "judicial estoppel",
+    "native custom",
+    "Fanti law",
+    "trustee principle",
+    "Ohene",
+    "Odikro",
+    "regalia",
+    "pedigree",
+    "land ownership"
+  ],
+  "topics": [
+    "Customary Land Tenure",
+    "Stool and Family Ownership",
+    "Res Judicata in Native Courts",
+    "Privy Council Appeals",
+    "Gold Coast Colonial Law"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lord Maugham",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Lord Atkin",
+      "role": "Member"
+    },
+    {
+      "name": "Lord Alness",
+      "role": "Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Judicial Committee of the Privy Council",
+    "country": "United Kingdom (on appeal from Gold Coast Colony)"
+  },
+  "caseType": "Land and Customary Tenure Appeal",
+  "citations": [
+    "Gold Coast, Full Court Reports, 1926-29, p. 501",
+    "Kobina Angll v. Cudjoe Attah (P.C. Appeal No. 78 of 1915)",
+    "Bee Lingandowdll v. Basangowda L.R. 54 Ind. App. 122"
+  ],
+  "rationaleHighlights": [
+    "The 1909 judgment did not create res judicata because the plaintiffs lacked family authorization and did not represent all members.",
+    "Fanti customary law recognizes land attachment to stools, with the occupant acting as trustee for the family or clan.",
+    "The Ohene must be a blood descendant of the Abrahiam Abradzie family, and Segu Winwah II was proven to be one.",
+    "The evidence showed that Odikroes consulted the Ohene, not the appellant, when dealing with land, supporting town stool attachment.",
+    "The Privy Council deferred to the trial judge's assessment of witness credibility, especially given language and cultural context.",
+    "No active assertion of land rights by the plaintiffs outside court was proven.",
+    "The distinction between family stool and town stool was central, with the lands found attached to the latter.",
+    "The appellant failed to prove that the lands were attached to the Awooah Alookoo family stool."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct quotation and synthesis from the original judgment text. Some procedural details may be abbreviated due to document truncation, but core legal issues and holdings are fully represented.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/KFFUAH KRABAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:26:00.403Z",
+    "plainTextLength": 17126
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "caseTitle": "SOPHIA MALM",
+  "summary": "This 1937 West African Court of Appeal decision in *Sophia Malm v. Maurice Meyer Wulff* arose from a land dispute transferred from a Native Tribunal to the Divisional Court. The plaintiff sought to amend the writ to sue both personally and as head of her family, but the trial judge refused, leading counsel to discontinue the case, which was then struck out. The appeal challenged the refusal to amend the writ. The appellate court dismissed the appeal on three grounds: no pending case for interlocutory appeal, lack of jurisdiction to amend in a way that alters the parties' legal identities, and proper judicial discretion in refusing amendment. A dissenting opinion argued the court had power to amend under Supreme Court rules to address the real issue in dispute.",
+  "legalKeywords": [
+    "amendment of pleadings",
+    "jurisdiction",
+    "interlocutory appeal",
+    "representative capacity",
+    "real issue in controversy",
+    "case striking out",
+    "transfer of cases",
+    "Native Tribunal",
+    "Divisional Court",
+    "discretionary power",
+    "Court rules application",
+    "legal personality",
+    "procedural fairness",
+    "ownership claim",
+    "family property",
+    "procedural discontinuance",
+    "appellate jurisdiction",
+    "pleading intelligibility",
+    "supplemental parties",
+    "judicial discretion"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Property Law",
+    "Appellate Law",
+    "Jurisdiction",
+    "Family and Inheritance"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Yates",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana (Gold Coast Colony)"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Courts Ordinance, 1935, Order 26, Schedule 3",
+    "Courts Ordinance, 1935, Order 3, Rule 5",
+    "Courts Ordinance, 1935, Order 3, Rule 1",
+    "Native Administration Ordinance (Cap. 111), s. 71",
+    "Courts Ordinance, s. 106",
+    "Courts Ordinance, s. 107(1)(a)"
+  ],
+  "rationaleHighlights": [
+    "No pending case after striking out bars interlocutory appeal",
+    "Amendment would create new legal party, exceeding transferred jurisdiction",
+    "Trial judge exercised discretion correctly in refusing amendment",
+    "Dissent: Court had power to amend to reflect real issue under Supreme Court rules",
+    "Transfer preserves original case identity; cannot alter legal parties via amendment",
+    "Rules allow amendment to clarify real controversy, per dissent"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on primary source text. Discrepancies in court name (Supreme vs. Divisional) are noted but do not affect core legal reasoning. Dissenting view clearly articulated on jurisdictional power.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/SOPHIA MALM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:10:36.615Z",
+    "plainTextLength": 13041
+  },
+  "trialDate": "1937-12-18"
+}

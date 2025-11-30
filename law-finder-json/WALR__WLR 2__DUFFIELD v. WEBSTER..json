@@ -1,0 +1,66 @@
+{
+  "caseTitle": "DUFFIELD VERSUS WEBSTER.",
+  "summary": "In this 1956 libel action before the Supreme Court of the Colony of the Gambia, the defendant successfully applied for a stay of proceedings on grounds that the action was frivolous, vexatious, and an abuse of court process. The plaintiff based his claim on a letter dated February 8, 1956, which he had not seen and whose contents he learned secondhand. The defendant swore in an uncontradicted affidavit that no letter was written on that date and that the actual letter, written on another day, did not contain the words alleged. The court held that a libel action cannot proceed without the plaintiff having reasonable certainty of the defamatory words, and that attempting to use litigation as a means to obtain evidence constitutes an abuse of process. Relying on Collins v. Jones and other authorities, the court found the plaintiff's claim amounted to a fishing expedition and granted a stay with costs.",
+  "legalKeywords": [
+    "abuse of process",
+    "frivolous action",
+    "vexatious litigation",
+    "libel",
+    "defamation",
+    "statement of claim",
+    "pleadings",
+    "discovery",
+    "fishing expedition",
+    "inherent jurisdiction",
+    "stay of proceedings",
+    "extraneous evidence",
+    "particulars",
+    "words complained of",
+    "affidavit"
+  ],
+  "topics": [
+    "Defamation",
+    "Civil Procedure",
+    "Abuse of Process",
+    "Libel",
+    "Pleadings"
+  ],
+  "verdict": "Application for stay of proceedings granted; action stayed with costs against the plaintiff.",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Miles J.",
+      "role": "presiding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Colony of the Gambia",
+    "country": "Gambia"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Bemmington v. Scoles [1897] 2 Ch. 1",
+    "Critchell v. London and South Western Railway Co. [1907] 1 K.B. 860",
+    "Harris v. Wane (1879) 4 C.P.D. 125",
+    "Collins v. Jones [1955] 2 W.L.R. 813",
+    "Lawrance v. Norreys (1890) 15 App.Cas. 210"
+  ],
+  "rationaleHighlights": [
+    "Action is an abuse of court process where plaintiff lacks knowledge of alleged defamatory words",
+    "Plaintiff cannot base libel claim on a letter he has not seen",
+    "Defendant's uncontradicted affidavit shows no letter was written on the alleged date",
+    "Insertion of 'more' into quoted text suggests fabrication to create defamatory meaning",
+    "Proceedings amount to a fishing expedition for evidence via discovery",
+    "Court has inherent jurisdiction to stay actions that are frivolous or vexatious",
+    "Plaintiff previously subpoenaed the letter, indicating lack of initial knowledge",
+    "Timing of alleged conversation and postal delivery raises factual impossibility"
+  ],
+  "confidenceNotes": "All information is derived directly from the provided judgment text. Jurisdiction and court details are confirmed by the document header and judicial signature.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/DUFFIELD v. WEBSTER..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:35:37.556Z",
+    "plainTextLength": 9724
+  }
+}

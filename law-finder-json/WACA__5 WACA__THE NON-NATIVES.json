@@ -1,0 +1,65 @@
+{
+  "caseTitle": "IN THE MATTER OF THE NON-NATIVES INCOME TAX (PROTECTORATE) ORDINANCE, 1931, AND IN THE MATTER OF THE ASSESSMENT OF INCOME TAX PAYABLE BY BISHOP BERTRAM LASBREY",
+  "summary": "This West African Court of Appeal decision interprets section 4(1) of the Non-Natives Income Tax (Protectorate) Ordinance, 1931, holding that income derived from employment in Nigeria but neither received in nor derived from Nigeria (such as a bishop’s leave salary paid from funds subscribed in England) is not assessable for income tax. The court affirmed the trial judge’s ruling, emphasizing that 'derived from Nigeria' cannot be judicially expanded to include income merely linked to Nigerian employment. The decision underscores the importance of strict statutory interpretation and limits on tax jurisdiction, distinguishing the case from Potters v Commissioner of Income Tax. The court declined to extend the ordinance’s reach absent clear legislative language.",
+  "legalKeywords": [
+    "income tax",
+    "non-natives",
+    "derived from Nigeria",
+    "employment income",
+    "tax assessment",
+    "statutory interpretation",
+    "leave salary",
+    "foreign-sourced income",
+    "tax liability",
+    "jurisdictional nexus"
+  ],
+  "topics": [
+    "Tax Law",
+    "Statutory Interpretation",
+    "Jurisdiction",
+    "Public Law",
+    "Employment Income"
+  ],
+  "verdict": "The assessment was invalid; the petitioner's leave salary is not assessable under the Ordinance.",
+  "winningSide": "Petitioner (Bishop Bertram Lasbrey)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Butler Lloyd",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    },
+    {
+      "name": "Brooke",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "tax",
+  "citations": [
+    "Non-Natives Income Tax (Protectorate) Ordinance, 1931, s 4(1)",
+    "Non-Natives Income Tax (Protectorate) Ordinance, 1931, s 14(1)",
+    "Potters v Commissioner of Income Tax, N.L.R. XI, p 144"
+  ],
+  "rationaleHighlights": [
+    "The phrase 'derived from Nigeria' in s 4(1) does not equate to 'derived from employment in Nigeria'",
+    "Courts must not read words into statutes; interpretation must reflect actual legislative text",
+    "Distinction drawn between income derived from Nigeria and income from employment located in Nigeria",
+    "Salary paid from foreign funds during leave in England lacks sufficient nexus to be taxable in Nigeria",
+    "Legislative amendment required to expand tax scope, not judicial interpretation"
+  ],
+  "confidenceNotes": "High confidence in interpretation of statutory language; citation of Potters case is referenced but distinguished by court.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/THE NON-NATIVES.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:38:46.722Z",
+    "plainTextLength": 4569
+  },
+  "trialDate": "1939-11-02"
+}

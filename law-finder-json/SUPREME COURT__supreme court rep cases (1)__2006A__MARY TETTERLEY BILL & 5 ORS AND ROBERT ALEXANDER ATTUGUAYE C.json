@@ -1,0 +1,78 @@
+{
+  "caseTitle": "MARY TETTERLEY BILL & 5 ORS AND ROBERT ALEXANDER ATTUGUAYE C",
+  "summary": "This Supreme Court of Ghana decision addresses a civil appeal in an estate matter involving conflicting roles of joint administrators. The plaintiffs, beneficiaries of an estate, sued the defendant and initially included the co-plaintiff as a defendant due to his role as co-administrator. The High Court struck out the co-plaintiff as a defendant and joined him as a co-plaintiff, a decision not appealed. During trial, the defendant objected to the co-plaintiff testifying, citing lack of pleading and renunciation of administration. The Supreme Court held that a party is competent to testify unless legally disqualified, and the objection went to admissibility, not competence. Relying on precedents like Hayford v Moses and Acquaah v Larbi, the Court affirmed that joint administrators are not always required to act in unison, especially when their interests conflict. The Court upheld the procedural validity of reconstituting parties under Order 15 r 6 of the High Court Rules and dismissed the appeal, affirming the trial court's discretion in managing party roles and evidence.",
+  "legalKeywords": [
+    "estate matter",
+    "letters of administration",
+    "joint administrators",
+    "party as witness",
+    "competence to testify",
+    "non-joinder of executors",
+    "capacity to sue",
+    "civil procedure",
+    "Order 15 Rule 6",
+    "Evidence Decree NRCD 323"
+  ],
+  "topics": [
+    "Probate Law",
+    "Civil Procedure",
+    "Evidence Law",
+    "Estate Administration",
+    "Judicial Discretion"
+  ],
+  "verdict": "The appeal is dismissed.",
+  "winningSide": "Plaintiffs-Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "W. A. Atuguba",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "G. T. Wood (Mrs)",
+      "role": "Justice"
+    },
+    {
+      "name": "Prof. M. T. Ocran",
+      "role": "Justice"
+    },
+    {
+      "name": "J. Ansah",
+      "role": "Justice"
+    },
+    {
+      "name": "R. T. Aninakwah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil",
+  "citations": [
+    "Hayford v Moses [1980] GLR 757",
+    "Acquaah v Larbi [1980] GLR 629",
+    "In re Moore (1888) P 36",
+    "Brewer v Westminster Bank Ltd [1952] 2 All ER 650",
+    "Burnside v Harrison Marks Productions Ltd [1968] 2 All ER 286",
+    "Williams on Executors and Administrators (14th ed)",
+    "Bullen & Leake's Precedents of Pleadings (11th ed)",
+    "Warwick Film Productions Ltd v Eisinger [1963] 1 WLR 756"
+  ],
+  "rationaleHighlights": [
+    "Joint administrators may be on opposing sides in litigation when their interests diverge.",
+    "A party is competent to testify unless disqualified under the Evidence Decree.",
+    "The court may reconstitute parties under Order 15 r 6 of the High Court (Civil Procedure) Rules.",
+    "The principle that executors must act jointly does not apply absolutely where practical conflicts arise.",
+    "A co-administrator may be joined as a plaintiff even if previously a defendant, if justice so requires."
+  ],
+  "confidenceNotes": "The case is a Supreme Court decision with clear judicial reasoning and established legal citations. The information extracted is highly reliable.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2006A/MARY TETTERLEY BILL & 5 ORS AND ROBERT ALEXANDER ATTUGUAYE C.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T18:02:32.335Z",
+    "plainTextLength": 9618
+  },
+  "trialDate": "2004-07-04"
+}

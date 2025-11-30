@@ -1,0 +1,69 @@
+{
+  "caseTitle": "OTHERS VERSUS BOATENG.",
+  "summary": "This 1957 Ghanaian High Court decision, delivered by Ollennu J., addressed two key legal issues in a land dispute involving stool property. First, it clarified that under native custom, certain office holders—particularly linguists—are 'natural representatives' of a stool and may represent it in litigation without requiring written authorization from the chief, as stipulated under section 22 of the Native Courts (Southern Ghana) Ordinance. Second, the court held that a prior judgment against the defendant in his capacity as a stool occupant did not constitute res judicata in proceedings where he was sued as a private individual, as the legal personalities were distinct. The appeal was allowed, the original ruling set aside, and the case remitted for a new trial.",
+  "legalKeywords": [
+    "native law and custom",
+    "stool property",
+    "representation in litigation",
+    "res judicata",
+    "natural representatives",
+    "linguist",
+    "Native Courts Ordinance",
+    "section 22",
+    "estoppel",
+    "communal property",
+    "legal personality",
+    "jurisdiction",
+    "authority to sue",
+    "customary law",
+    "procedural irregularity",
+    "trial de novo",
+    "burden of proof",
+    "oral testimony",
+    "judicial discretion",
+    "Akyem Abuakwa"
+  ],
+  "topics": [
+    "Customary Law",
+    "Land Law",
+    "Civil Procedure",
+    "Native Courts",
+    "Legal Representation"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "(1957) 3 W.A.L.R.",
+    "Ofuniahu v. Tabri Yaw and Sie Kwaku (1957)",
+    "Yeboah v. Bonko (1956) 2 W.A.L.R. 107",
+    "Keelson v. Mensah (1957) 2 W.A.L.R. 271",
+    "Chapman v. Ocloo and Kporhanu (1957) 3 W.A.L.R. 84"
+  ],
+  "rationaleHighlights": [
+    "Linguists and certain office holders are 'natural representatives' of a stool under native custom and do not require written authorization to represent it in court.",
+    "Section 22 of the Native Courts Ordinance should not override customary rules of representation for stools.",
+    "Res judicata does not apply when a person is sued in a different legal capacity (private vs. official) from a prior case.",
+    "Native Courts may struggle with technical legal doctrines like res judicata, warranting judicial caution.",
+    "Insisting on written authority from a chief could lead to representation contrary to native custom and invalidate proceedings.",
+    "Representation under section 22 applies to individuals in personal capacity, not when acting as stool or family heads."
+  ],
+  "confidenceNotes": "The decision is well-reasoned and grounded in both statutory interpretation and customary law. Citations to unreported and reported cases support the legal analysis. High confidence in accuracy due to clear judicial reasoning and editorial notes.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/OFORI ATTA II AND OTHERS v. BOATENG..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:57:22.604Z",
+    "plainTextLength": 8911
+  }
+}

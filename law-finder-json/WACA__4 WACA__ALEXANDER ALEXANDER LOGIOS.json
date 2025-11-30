@@ -1,0 +1,69 @@
+{
+  "caseTitle": "ALEXANDER ALEXANDER LOGIOS",
+  "summary": "The appellant, Alexander Alexander Logios, claimed entitlement to a Certificate of Occupancy for a plot of land in Kano, Nigeria, based on a November 1935 letter from the Resident of Kano. However, the certificate was issued to Gaisers, a firm represented by Brettschneider, following negotiations facilitated by the appellant's solicitor, Mr. Oddie. Although an English solicitor for the appellant cabled a refusal to sell, Mr. Oddie asserted the sale had been completed. The Government acted on Oddie's representation, and the appellant failed to formally revoke Oddie's agency or inform the Government. The West Africa Court of Appeal dismissed the appeal, holding that the Government reasonably assumed Oddie had authority to act on the appellant’s behalf, and no legal interest preventing such agency was established.",
+  "legalKeywords": [
+    "agency",
+    "principal and agent",
+    "termination of agency",
+    "certificate of occupancy",
+    "government reliance on agent",
+    "authority to contract",
+    "good faith assumption",
+    "constructive notice",
+    "land rights",
+    "equitable mortgage"
+  ],
+  "topics": [
+    "Property Law",
+    "Agency Law",
+    "Administrative Law"
+  ],
+  "verdict": "Appeal dismissed. The Government's issuance of the Certificate of Occupancy to Gaisers based on the solicitor's representation was valid due to the continuing apparent authority of the agent.",
+  "winningSide": "Defendant-Respondent (Attorney-General of Nigeria)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Cor. Petrides",
+      "role": "Justice"
+    },
+    {
+      "name": "Webb, C.J.",
+      "role": "Chief Justice, Sierra Leone"
+    },
+    {
+      "name": "Butler-Lloyd",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana (West Africa Court of Appeal)"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Bowstead on Agency, 8th Edition, p. 41",
+    "Exhibit D (agreement as early as June 1935)",
+    "Exhibit AB (Oddie's letter of 22nd October)",
+    "Exhibit AG (cable: 'Logios refuses sell premises Kano')",
+    "Exhibit AK (Oddie's reply on completion)",
+    "Exhibits AL and AN (appellant's letters of April and July 1936)"
+  ],
+  "rationaleHighlights": [
+    "The Government reasonably assumed the solicitor remained the appellant’s agent.",
+    "No formal revocation of agency was communicated to the Government.",
+    "Oral authority for agency is valid unless execution under seal is required.",
+    "Appellant's inaction after the sale supported the assumption of valid agency.",
+    "The certificate was issued in good faith based on the agent’s representation.",
+    "The purported equitable mortgage did not transfer legal or equitable interest.",
+    "Completion of the sale was affirmed by the agent with no contradiction from the principal.",
+    "No protest or repudiation was communicated by the appellant to the buyer or Government."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and cited exhibits. Jurisdictional context reflects colonial West Africa legal framework applicable to Ghana at the time.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/ALEXANDER ALEXANDER LOGIOS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:07:30.902Z",
+    "plainTextLength": 6306
+  },
+  "trialDate": "1938-11-11"
+}

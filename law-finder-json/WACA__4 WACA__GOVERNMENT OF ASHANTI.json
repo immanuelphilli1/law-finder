@@ -1,0 +1,77 @@
+{
+  "caseTitle": "GOVERNMENT OF ASHANTI",
+  "summary": "The West Africa Court of Appeal dismissed an appeal by L.S. Bandoh and W.S. Bandoh (applicants) seeking to set aside a public auction sale of property executed under a writ of Fi Fa in favor of William Bu Achie (purchaser). The applicants, not parties to the original judgment, argued the sale was invalid due to lack of proper 14-day notice, absence of bidders, collusion between auctioneer and purchaser, under-value sale, and failure to notify them to settle the debt. The District Magistrate had set aside the sale, but the Supreme Court reversed, finding the applicants failed to prove substantial injury from the material irregularity (13-day notice). The Appeal Court upheld the Supreme Court, affirming that Rule 31 of Order 44 required proof of both material irregularity and substantial injury, which was not met. It emphasized that mere undervalue or familial connections did not invalidate the sale, and the auctioneer had no duty to notify third parties. The applicants were advised to pursue their property interest through separate legal action.",
+  "legalKeywords": [
+    "Fi Fa",
+    "writ of execution",
+    "sale of immovable property",
+    "material irregularity",
+    "substantial injury",
+    "locus standi",
+    "Order 44 Rule 31",
+    "Order 44 Rule 28",
+    "collusion",
+    "under-value sale",
+    "notice of sale",
+    "auction irregularity",
+    "judgment debtor",
+    "third-party interest",
+    "appellate review"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Property Law",
+    "Execution of Judgment",
+    "Judicial Review",
+    "Third-Party Rights"
+  ],
+  "verdict": "Appeal dismissed; Supreme Court decision upheld",
+  "winningSide": "Respondents (Purchaser and Auctioneer)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Cor. Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Yates",
+      "role": "Justice"
+    },
+    {
+      "name": "Bannerman",
+      "role": "Justice (appellate judge)"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Acting Omanhene Yao Boafo IV v. Ex Omanhene Ofori Kuma II, Full Court Reports 1926-29, p. 193",
+    "Okai v. Reindorf (1924), Divisional Court and Full Court Judgments",
+    "Afutu v. Stavely & Co. (1923), Full Court Judgments"
+  ],
+  "rationaleHighlights": [
+    "Sale cannot be set aside solely for procedural irregularity without proof of substantial injury",
+    "Thirteen-day notice violated Rule 28 but did not automatically invalidate sale",
+    "Allegations of no bidders, collusion, and under-value sale lacked evidentiary support",
+    "Auctioneer had no duty to notify interested parties before sale",
+    "Third parties may have standing under Rule 31 if materially affected",
+    "Judgment creditor entitled to enforce judgment regardless of property value vs. debt",
+    "Magistrate erred by deciding on affidavits alone without oral evidence",
+    "Applicants' remedy lies in asserting property interest separately"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed court record, clear procedural history, and explicit judicial reasoning. All key details (parties, rulings, legal standards) are directly quoted or logically inferred from the text.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/GOVERNMENT OF ASHANTI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:02:47.203Z",
+    "plainTextLength": 10270
+  },
+  "trialDate": "1938-05-27"
+}

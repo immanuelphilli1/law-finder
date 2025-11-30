@@ -1,0 +1,71 @@
+{
+  "caseTitle": "IN THE MATTER OF THE ESTATE OF JAMES TAYLOR, DECEASED",
+  "summary": "This West Africa Court of Appeal case from 1941 concerned the construction of Clause 4 of James Taylor's will, which devised 'Tinubu House' to Emma Tinubu Taylor Cummings 'for the term of her natural life' but included a contingency: if she died before age 21 or marriage, the property would go to the executors to rent or sell, with proceeds forming part of the testator's personal estate. Emma died in 1937, over 21 and unmarried, having never married or disposed of the property. The trial court held the life estate language should be rejected and the property should revert to the residue of James Taylor's estate. The appellate court agreed the 'term of her natural life' was repugnant and thus invalid, confirming the devise was in fee simple. However, it disagreed with the trial court’s interpretation of the contingency, holding that the condition failed upon Emma attaining age 21, making the fee simple indefeasible. Therefore, the property formed part of Emma’s estate upon her death and passed to her administrator, the defendant. The appeal was allowed, the lower court’s judgment set aside, and costs awarded against the plaintiff.",
+  "legalKeywords": [
+    "construction of will",
+    "devise in fee simple",
+    "life estate",
+    "repugnant terms",
+    "contingent remainder",
+    "intestate succession",
+    "vesting of property",
+    "marriage condition",
+    "age condition",
+    "executors and trustees",
+    "personal estate",
+    "real estate",
+    "letters of administration",
+    "residue of estate",
+    "common law inheritance"
+  ],
+  "topics": [
+    "Wills and Trusts",
+    "Property Law",
+    "Inheritance Law",
+    "Appellate Review",
+    "Estate Administration"
+  ],
+  "verdict": "Appeal allowed; judgment of the lower court set aside; property declared part of Emma Tinubu Taylor Cummings' estate.",
+  "winningSide": "Defendant-Appellant (Eustace Taylor Cummings)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "judging panel"
+    },
+    {
+      "name": "Graham Paul, C.J., Sierra Leone",
+      "role": "judging panel"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "probate",
+  "citations": [
+    "Doe v. Stenlake, 104 E.R. p. 203"
+  ],
+  "rationaleHighlights": [
+    "The phrase 'for the term of her natural life' was rejected as repugnant to a fee simple devise.",
+    "A devise to 'heirs and assigns' indicates an intent to convey a fee simple estate.",
+    "Contingent remainder is defeated if the beneficiary attains 21 or marries.",
+    "Attaining age 21 without marriage fulfilled the condition, making the estate indefeasible.",
+    "Property became part of the devisee's estate upon death and passed via intestacy.",
+    "Court followed Doe v. Stenlake on repugnancy in estate descriptions.",
+    "Common sense interpretation supports marriage or majority as protective conditions.",
+    "Trial court's interpretation misread the proviso in the will."
+  ],
+  "confidenceNotes": "High confidence; judgment is clear and reasoning is well-articulated with reference to precedent.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/JULIA ELIZABETH TAYLOR  v EUSTACE TAYLOR CUMMINGS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:33:38.908Z",
+    "plainTextLength": 7255
+  },
+  "trialDate": "1941-03-06"
+}

@@ -1,0 +1,73 @@
+{
+  "caseTitle": "REX V SYLVANUS SAMUELS",
+  "summary": "This appeal from a murder conviction centered on procedural irregularity during a court-ordered view of the crime scene. The West African Court of Appeal quashed the conviction because the accused, Sylvanus Samuels, was absent when the court, jury, prosecution, defence counsel, and two witnesses visited the locus in quo. During this visit, a prosecution witness was questioned on key aspects of the crime scene, and the Chief Justice demonstrated how the prosecution's theory about a forced lock was implausible. The court held that these actions transformed the 'view' into part of the trial, which must be conducted in the accused’s presence under the principles established in Lawrence v. The King. Despite the trial judge's presence, the failure to include the accused during evidentiary activity constituted a disregard of legal process. The appellate court concluded that this irregularity may have affected the jury’s decision and amounted to a miscarriage of justice. As a result, the conviction and sentence were set aside, and an acquittal was entered.",
+  "legalKeywords": [
+    "murder",
+    "trial irregularity",
+    "presence of accused",
+    "view of locus in quo",
+    "demonstration of evidence",
+    "miscarriage of justice",
+    "felony trial",
+    "witness testimony outside court",
+    "judicial discretion",
+    "jury observation",
+    "criminal procedure",
+    "right to fair trial",
+    "appellate review",
+    "evidence admissibility",
+    "procedural fairness"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Fair Trial Rights",
+    "Evidence",
+    "Judicial Conduct"
+  ],
+  "verdict": "Appeal allowed; conviction and sentence quashed; acquittal entered.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "Yates, J.",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Lawrence v. The King, 1933 A.C. p. 699",
+    "Regina v. Martin & Webb, L.R. C.C.R. Vol. 1, p. 378",
+    "In re Dillet, 12 Appeal Cases, 459"
+  ],
+  "rationaleHighlights": [
+    "The 'view' became part of the trial due to questioning of witnesses and judicial demonstration.",
+    "Accused's absence during this phase violated the principle that felony trials must occur in the accused’s presence.",
+    "Questions and demonstration likely influenced the jury’s decision.",
+    "Precedent from Lawrence v. The King affirms the inviolable right of the accused to be present in felony cases.",
+    "Regina v. Martin & Webb distinguished due to judge's absence in that case, unlike here.",
+    "Irregularity amounted to a miscarriage of justice under Lord Watson’s test in In re Dillet.",
+    "Court emphasized that any activity beyond mere observation transforms a 'view' into a trial proceeding.",
+    "Defence counsel requested the accused's attendance, but request was denied."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment with clear factual and legal reasoning provided.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX V    SYLVANUS SAMUELS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:58:53.839Z",
+    "plainTextLength": 9242
+  },
+  "trialDate": "1938-12-08"
+}

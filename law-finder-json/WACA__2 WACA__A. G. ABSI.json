@@ -1,0 +1,72 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This 1935 West Africa Court of Appeal decision addressed a preliminary objection concerning the validity of an ex parte order granting an extension of time to appeal. The appellant sought to appeal a judgment from the Supreme Court of Sierra Leone, but the respondent raised a jurisdictional challenge, arguing that the extension of time was granted without proper notice. The Court held that such an order must be made on notice to both parties, as it affects the rights of both, and cannot be decided ex parte. Relying on Evennett v. Lawrence and court rules requiring notice, the Court found the extension order invalid because it was made ex parte, despite the respondent's solicitor being present but declining to participate. Consequently, the appeal was dismissed for non-compliance with procedural rules.",
+  "legalKeywords": [
+    "ex parte order",
+    "extension of time",
+    "jurisdictional objection",
+    "procedural compliance",
+    "appeal rules",
+    "notice requirement",
+    "final leave to appeal",
+    "Court of Appeal Rules",
+    "O. 49 r. 3",
+    "Evennett v. Lawrence",
+    "adjournment",
+    "affidavits",
+    "motion practice",
+    "due process",
+    "appellate procedure"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Procedural Law",
+    "Jurisdiction",
+    "Notice in Legal Proceedings"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Macquarrie, J.",
+      "role": "Justice"
+    },
+    {
+      "name": "Strother Stewart, J.",
+      "role": "Justice"
+    },
+    {
+      "name": "Brooke, J.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Appeal",
+  "citations": [
+    "Evennett v. Lawrence 46 L.J. Ch. 119",
+    "O. 49 r. 3",
+    "Rule 30 of the Court of Appeal Rules"
+  ],
+  "rationaleHighlights": [
+    "An order extending time to appeal must be made on notice to both parties.",
+    "Ex parte orders affecting both parties are ineffective.",
+    "The respondent's solicitor attended but declined to participate, which did not cure the lack of proper notice.",
+    "The court relied on Evennett v. Lawrence to affirm that such applications cannot be heard ex parte.",
+    "Strict compliance with appellate rules is required.",
+    "The judge acknowledged the order was ex parte in a later ruling.",
+    "Procedural defects cannot be overlooked even if technical.",
+    "The rules ensure fairness and opportunity to be heard."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and cited authorities. Some formatting issues in source text but key legal points are unambiguous.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/A. G. ABSI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:35:23.158Z",
+    "plainTextLength": 5002
+  },
+  "trialDate": "1935-04-15"
+}

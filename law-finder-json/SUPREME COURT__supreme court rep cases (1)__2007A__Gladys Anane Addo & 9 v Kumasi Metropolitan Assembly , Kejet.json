@@ -1,0 +1,82 @@
+{
+  "caseTitle": "Gladys Anane Addo & 9 v Kumasi Metropolitan Assembly , Kejet",
+  "summary": "The Supreme Court of Ghana dismissed an appeal by the Kejetia Traders Association against a lower court order requiring it to render accounts for funds collected from members for the reconstruction of market stalls in Kejetia, Kumasi. The original plaintiffs, former licensees and members of the association, contributed money to pre-finance the project but were dissatisfied with the allocation of new stalls and lack of financial transparency. The High Court had ordered the association's executives to account for the funds, with auditing by the Serious Fraud Office, a decision upheld by the Court of Appeal and later affirmed by the Supreme Court. The Supreme Court held that the High Court judge acted within his powers under Order 33 Rule 3 of the High Court (Civil Procedure) Rules, despite not ordering accounts earlier in the process, and found no miscarriage of justice. The court emphasized the duty of accountability given the large sums collected and poor record-keeping by the association.",
+  "legalKeywords": [
+    "accountability",
+    "financial accountability",
+    "market administration",
+    "judicial efficiency",
+    "prima facie evidence",
+    "books of account",
+    "duty to account",
+    "Order 33 Rule 3",
+    "High Court Rules",
+    "misapplication of funds",
+    "statutory authority",
+    "judicial discretion",
+    "verification of accounts",
+    "perpetual injunction",
+    "travesty of justice",
+    "bad faith appeal",
+    "court management",
+    "audit requirement",
+    "public market control",
+    "allocation of stalls"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Administrative Law",
+    "Financial Accountability",
+    "Judicial Review",
+    "Market Regulation"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sophia A. B. Akuffo",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "Mrs. Adinyira",
+      "role": "Justice"
+    },
+    {
+      "name": "Asiamah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Commodore v. Fruit Supply Ghana Limited, [1977] 1 GLR 241"
+  ],
+  "rationaleHighlights": [
+    "The High Court acted within its statutory powers in ordering accounts as part of its judgment.",
+    "Order 33 Rule 3 allows courts to direct accounting and verification even post-trial.",
+    "The duty to account arises from the collection of member funds, regardless of allocation disputes.",
+    "No substantial miscarriage of justice occurred despite timing of the accounting order.",
+    "Poor record-keeping and uncooperative conduct by the Association justified external audit.",
+    "The appeal was found to be in bad faith given the Appellant's agreement on the need for accounting."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official court document. Some details may be truncated in source, but core legal reasoning and outcome are fully captured.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2007A/Gladys Anane Addo & 9 v Kumasi Metropolitan Assembly , Kejet.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:59:22.094Z",
+    "plainTextLength": 16909
+  },
+  "trialDate": "2006-04-19"
+}

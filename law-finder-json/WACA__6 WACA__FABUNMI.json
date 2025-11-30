@@ -1,0 +1,70 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This appeal before the West Africa Court of Appeal arose from a civil claim by Fabunmi Larinde and others against Salami Afiko and Oseni Debary for tribute and damages for the use of farmland in Odi Olowo village, Lagos, under Awori customary law. The plaintiff sought damages for the unauthorized reaping of palm nuts by the defendant tenant. The defendant admitted liability for tribute but denied liability for damages, asserting a customary right as a tenant to harvest palm nuts. The lower court awarded damages, but the appellate court allowed the appeal. It held that a 1925 judgment between the same parties, which recognized the tenant's right to reap palm nuts, constituted res judicata and barred the current claim for damages. The court rejected the trial judge's belief that the 1925 decision had been reversed, clarifying that only an appellate court could do so. Additionally, the court ruled that the alleged Awori custom restricting palm nut harvesting by non-natives was not properly proven, as a single 1892 case did not establish it as a notorious custom warranting judicial notice. Therefore, the damages award was set aside, and the plaintiff's claim for damages against the first defendant was dismissed, with costs awarded to the appellant.",
+  "legalKeywords": [
+    "res judicata",
+    "customary law",
+    "proof of custom",
+    "misdirection",
+    "tribunal error",
+    "native law and custom",
+    "tenant rights",
+    "land use",
+    "palm nut reaping",
+    "tribute payment",
+    "judicial notice",
+    "estoppel by record",
+    "civil damages",
+    "land tenure",
+    "Awori custom"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Res Judicata",
+    "Appellate Review",
+    "Judicial Notice"
+  ],
+  "verdict": "Appeal allowed; judgment on damages set aside; plaintiff's claim for damages dismissed.",
+  "winningSide": "Defendant-Appellant (Salami Afiko)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Yesufu Kugbuyi v. Odunjo (1926) VII N.L.R. 51",
+    "Odu of Ikeja and Akitoye of Ikeja (1892)",
+    "Kobina Angu v. Cudjoe Attah (Gold Coast Reports P.C. 1874\u001a1928)"
+  ],
+  "rationaleHighlights": [
+    "The 1925 judgment constitutes res judicata on the issue of the appellant's right to reap palm nuts and binds the parties.",
+    "The trial judge erred in treating the 1925 judgment as reversed when it was not; only an appellate court can overturn a decision.",
+    "A custom must be proven by witness testimony unless it has become notorious through frequent judicial recognition.",
+    "A single 1892 decision does not amount to 'frequent proof' sufficient for judicial notice of custom.",
+    "The plaintiff cannot selectively rely on a prior judgment to support tribute liability while ignoring its adverse finding on damages."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details (parties, jurisdiction, legal principles) are explicitly stated in the judgment. Citations and legal reasoning are clearly articulated by the appellate court.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/FABUNMI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:07:31.125Z",
+    "plainTextLength": 8285
+  },
+  "trialDate": "1940-04-27"
+}

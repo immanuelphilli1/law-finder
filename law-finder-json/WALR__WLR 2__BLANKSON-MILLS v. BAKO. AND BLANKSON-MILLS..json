@@ -1,0 +1,67 @@
+{
+  "caseTitle": "BLANKSON-MILLS VERSUS BAKO. AND",
+  "summary": "In Blankson-Mills v. Bako and Blankson-Mills, an application for final leave to appeal to the Privy Council was dismissed due to inordinate delay. The applicant had obtained conditional leave on September 13, 1950, but only applied for final leave in July 1956, after more than six years. The West African Court of Appeal held that section 20 of the West African (Appeal to Privy Council) Order in Council, 1949, implicitly requires applicants to act with due diligence. The applicant failed to provide cogent reasons for the delay, such as circumstances beyond their control or absence of negligence. Despite the respondents not seeking to rescind the conditional leave, the court ruled this did not excuse the applicant's inaction. The application was dismissed with costs.",
+  "legalKeywords": [
+    "final leave to appeal",
+    "conditional leave to appeal",
+    "due diligence",
+    "inordinate delay",
+    "Privy Council",
+    "West African Court of Appeal",
+    "Order in Council 1949",
+    "section 20",
+    "negligence",
+    "appellate procedure",
+    "notice of appeal",
+    "cogent reasons",
+    "rescission",
+    "appellate delay",
+    "judicial indulgence"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Delay in Legal Proceedings",
+    "Privy Council Appeals",
+    "Procedural Fairness"
+  ],
+  "verdict": "Application dismissed",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Korsah C.J."
+    },
+    {
+      "name": "van Lare J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Gold Coast (Ghana)"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "West African (Appeal to Privy Council) Order in Council, 1949, s. 20"
+  ],
+  "rationaleHighlights": [
+    "Section 20 implies requirement of due diligence in applying for final leave",
+    "Delay of over six years without justification is inexcusable",
+    "Failure to act despite awareness of lapse constitutes neglect",
+    "No rescission by respondents does not excuse applicant's inaction",
+    "Simple factual issue with concurrent findings against applicant",
+    "No cogent reason such as accident or external circumstance shown",
+    "Applicant seeking indulgence without merit",
+    "Application dismissed with costs"
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text with clear factual and legal reasoning provided by the court.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/BLANKSON-MILLS v. BAKO. AND BLANKSON-MILLS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:40:27.364Z",
+    "plainTextLength": 4413
+  }
+}

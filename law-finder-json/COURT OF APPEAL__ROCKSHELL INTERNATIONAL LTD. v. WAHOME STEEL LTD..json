@@ -1,0 +1,69 @@
+{
+  "caseTitle": "ROCKSHELL INTERNATIONAL LTD. v. WAHOME STEEL LTD.",
+  "summary": "In this civil appeal, RocksHell International Ltd. (respondent) sued Wahome Steel Ltd. (appellant) for conversion of plant and equipment allegedly destroyed by fire and removed from a quarry site at Lawlawvor. The High Court awarded damages based on the claim that the equipment belonged to the respondent and was unlawfully taken. The Court of Appeal allowed the appeal, setting aside the judgment. It held that the trial judge erred in finding ownership and conversion without credible evidence, particularly given inconsistencies in the plaintiff's evidence and lack of corroboration. The appellant had acted under a letter from the Shai Traditional Council authorizing removal of scrap metal. Furthermore, the earlier criminal conviction of the appellant's representative for dishonestly receiving stolen property was quashed due to factual and temporal inconsistencies in the charges. The Court found the civil judgment manifestly against the weight of evidence and reversed the award of damages and costs.",
+  "legalKeywords": [
+    "conversion",
+    "scrap metal",
+    "abandonment",
+    "evidence inconsistency",
+    "depreciation",
+    "damages",
+    "criminal conviction",
+    "dishonest receiving",
+    "traditional authority",
+    "property rights",
+    "burden of proof",
+    "appellate review",
+    "judicial error",
+    "documentary evidence",
+    "cross-examination"
+  ],
+  "topics": [
+    "Property Law",
+    "Tort Law",
+    "Appellate Procedure",
+    "Evidence",
+    "Criminal Law"
+  ],
+  "verdict": "Appeal allowed; judgment of the High Court set aside.",
+  "winningSide": "Appellant (Wahome Steel Ltd.)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Aryeetey, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Aninakwah, J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Quaye, J.A.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "ROCKSHELL INTERNATIONAL LTD. v. WAHOME STEEL LTD. [28/05/2004] CA 104/2001",
+    "Criminal Code, 1960 (Act 129), s 146",
+    "Criminal Code, 1960 (Act 129), s 147(1)"
+  ],
+  "rationaleHighlights": [
+    "The Court of Appeal found that the trial judge's conclusion that the scrap belonged to the plaintiff was not supported by credible evidence.",
+    "The criminal conviction of the appellant's representative for dishonestly receiving was quashed due to temporal and factual inconsistencies in the charges.",
+    "The trial judge erred in relying on the plaintiff's uncorroborated and inconsistent testimony despite acknowledging its weaknesses under cross-examination.",
+    "The appellant acted under authority from the Shai Traditional Council to remove scrap metal, undermining claims of unlawful conversion."
+  ],
+  "confidenceNotes": "The summary is based on a detailed judgment from the Court of Appeal of Ghana. Key facts and legal reasoning are explicitly stated in the judgment. Some portions of the source text were truncated, but the core findings and appellate reasoning are preserved.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/ROCKSHELL INTERNATIONAL LTD. v. WAHOME STEEL LTD..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:07:16.527Z",
+    "plainTextLength": 33853
+  },
+  "trialDate": "2004-05-28"
+}

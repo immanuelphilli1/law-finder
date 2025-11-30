@@ -1,0 +1,77 @@
+{
+  "caseTitle": "BATANHENE AND MBIR VERSUS KRAMPAH AND AGGREY.",
+  "summary": "This 1956 West African Court of Appeal decision in *Batanhene and Mbir v. Krampah and Aggrey* concerned a malicious prosecution claim by plaintiffs who were chiefs acquitted of a native customary offence of insulting a paramount chief. The first defendant, the Omanhene, initiated prosecution after failing to attend a State Council meeting at a changed venue, despite having received notice through intermediaries. The court held that his failure to make reasonable inquiries negated any honest belief in the plaintiffs' guilt, establishing absence of reasonable and probable cause. His motive was deemed malicious due to his interest in preventing a destoolment inquiry. The second defendant, a police sergeant, was found equally liable for supporting the prosecution without independent investigation, thereby exercising discretionary authority with malice. The appeal was allowed, judgment entered for the plaintiffs, and damages remitted for determination.",
+  "legalKeywords": [
+    "malicious prosecution",
+    "reasonable and probable cause",
+    "malice",
+    "native customary offence",
+    "abuse of process",
+    "prosecutorial discretion",
+    "police misconduct",
+    "customary arbitration",
+    "state council",
+    "destoolment",
+    "prudent man standard",
+    "bail opposition",
+    "judicial inquiry",
+    "improper motive",
+    "acquittal",
+    "tort liability",
+    "discretionary act",
+    "ministerial act",
+    "honest belief",
+    "prosecution without cause"
+  ],
+  "topics": [
+    "Tort Law",
+    "Customary Law",
+    "Judicial Review",
+    "Police Conduct",
+    "Chieftaincy Disputes"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Korsah J.A.",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Jackson Ag.J.A.",
+      "role": "Acting Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal (Tort - Malicious Prosecution)",
+  "citations": [
+    "Hicks v. Faulkner (1881) 8 Q.B.D. 167",
+    "Lister v. Perryman the Yolinger (1870) L.R. 4 H.L. 521",
+    "Brown v. Hawkes [1891] 2 Q.B. 722"
+  ],
+  "rationaleHighlights": [
+    "Absence of reasonable and probable cause established due to failure to inquire about changed meeting venue",
+    "Malice inferred from defendant's interest in preventing destoolment proceedings",
+    "Police officer's actions were discretionary, not ministerial, and supported malicious prosecution",
+    "Prosecution based on insult to chief failed where customary process had been lawfully redirected",
+    "Acquittal by Native Court on grounds of frivolity supported claim of lack of probable cause",
+    "Failure to investigate facts negated honest belief in guilt",
+    "Interference with customary inquiry constitutes improper motive",
+    "State Council's authority over chieftaincy disputes affirmed"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed trial record, direct judicial reasoning, and clear citation of legal principles from authoritative English common law precedents applied in Gold Coast jurisdiction.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/BATANHENE AND MBIR v. KRAMPAH AND AGGREY..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:13:53.861Z",
+    "plainTextLength": 14468
+  }
+}

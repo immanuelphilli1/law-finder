@@ -1,0 +1,73 @@
+{
+  "caseTitle": "CUDJOE AMUAKWA AS CHIEF OF DUAKWA",
+  "summary": "This 1932 West African Court of Appeal case involved a boundary dispute between two divisional chiefs, Ohene Appoh Ababio of Assenta and Ohene Doku Kanga of Kickam, both under the Omanhene of Eastern Nzima in Ghana. The dispute centered on the Agona lands near the Biale River, specifically whether the boundary ran westward to the sea or southward from a bridge to the Bobloma creek. The lower tribunals dismissed the claim based on res judicata from a prior case, Anopoley v. Athunli, which had settled the same boundary. The Court of Appeal held that res judicata did not apply because the plaintiff was neither a party nor a privy in the earlier suit. However, the prior judgment was deemed admissible as evidence of customary land ownership. The court found ample evidence supporting the lower courts' decision and dismissed the appeal with costs, affirming the boundary as defined in the earlier ruling.",
+  "legalKeywords": [
+    "boundary dispute",
+    "res judicata",
+    "estoppel",
+    "stool land",
+    "customary law",
+    "native tribunal",
+    "paramount chief",
+    "long possession",
+    "evidence",
+    "privy",
+    "reversioner",
+    "land ownership",
+    "divisional chiefs",
+    "admissible evidence",
+    "final judgment",
+    "competent jurisdiction",
+    "subject matter",
+    "parties",
+    "judicial precedent",
+    "land demarcation",
+    "family land"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Appellate Procedure",
+    "Evidence",
+    "Res Judicata"
+  ],
+  "verdict": "Appeal dismissed with costs",
+  "winningSide": "Defendant-Respondent (Ohene Doku Kanga)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Deane",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Saxton",
+      "role": "Provincial Commissioner"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Anopoley v. Athunli",
+    "Rees v. Walters 3 M. & W. 527",
+    "Wenman v. Mackenzie 25 L.J. Q.B. 44",
+    "Sarbah's Fanti Customary Laws, page 56"
+  ],
+  "rationaleHighlights": [
+    "Judgment not binding under res judicata due to non-identity of parties or privies",
+    "Prior judgment has evidential value but not conclusive effect",
+    "Stool holds paramount title; family land coexists with stool land",
+    "Litigants may act as champions of stool interests without formal agency",
+    "West African Court of Appeal upheld lower courts based on sufficiency of evidence"
+  ],
+  "confidenceNotes": "High confidence in extraction; case details are clear despite minor truncation. Jurisdiction and parties are explicitly stated.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/CUDJOE AMUAKWA AS CHIEF OF  DUAKWA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:50:48.254Z",
+    "plainTextLength": 22954
+  },
+  "trialDate": "1932-11-21"
+}

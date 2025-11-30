@@ -1,0 +1,60 @@
+{
+  "caseTitle": "SEAWORNU, AMENYITOR AND OTHERS VERSUS GAKOR AND OTHERS.",
+  "summary": "In Seawornu, Amenyitor and Others v. Gakor and Others, the plaintiffs obtained judgment in the Anloga Native Court 'B' after the defendants failed to appear. The defendants applied under s. 51 of the Native Courts (Southern Ghana) Ordinance to discharge the judgment, citing improper service and lack of authorization of the court members. Upon refusal, they appealed to the Anlo Native Appeal Court, which set aside the judgment and ordered a trial de novo. The plaintiffs then appealed to the High Court, Land Division, challenging the jurisdiction on the grounds that the Native Appeal Court's order was interlocutory and that no leave to appeal had been granted under s. 52(3). Ollennu J held that an appeal under s. 51 is not interlocutory as it calls into question the judgment on the merits and thus falls under the general appeal provisions (ss. 46–48). Furthermore, although the order for retrial did not resolve the underlying land dispute, it finally disposed of the issue before the Native Appeal Court and was therefore a final decision, making the appeal properly before the High Court.",
+  "legalKeywords": [
+    "appeal",
+    "interlocutory decision",
+    "final decision",
+    "trial de novo",
+    "jurisdiction",
+    "Native Courts Ordinance",
+    "leave to appeal",
+    "judgment in default",
+    "retrial",
+    "appellate jurisdiction",
+    "nullity",
+    "service of process",
+    "authorization of court members",
+    "Native Appeal Court",
+    "Land Court"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Jurisdiction",
+    "Final Judgment",
+    "Interlocutory Order",
+    "Native Courts"
+  ],
+  "verdict": "The appeal was properly before the High Court; the objection to jurisdiction failed.",
+  "winningSide": "Plaintiffs (appellants)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J",
+      "role": "presiding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Ex parte Moore, in re Faithful (1885) 14 Q.E.D. 627",
+    "Turkson v. Amoah Ababio and Another (1950) 13 W.A.C.A. 35"
+  ],
+  "rationaleHighlights": [
+    "An appeal under s. 51 challenges the merits of a default judgment and is not interlocutory.",
+    "The order for trial de novo is final as it disposes of the issue before the Native Appeal Court.",
+    "Section 51 restores the right to appeal under ss. 46–48 despite default of appearance.",
+    "Finality is assessed relative to the deciding court, not the overall dispute.",
+    "Precedent from Ex parte Moore and Turkson supports finality of appellate orders directing retrial."
+  ],
+  "confidenceNotes": "High confidence; all key details are explicitly stated in the judgment, including jurisdiction, legal provisions, and reasoning.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/SEAWORNU, AMENYITOR AND OTHERS v. GAKOR AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:52:21.246Z",
+    "plainTextLength": 9866
+  }
+}

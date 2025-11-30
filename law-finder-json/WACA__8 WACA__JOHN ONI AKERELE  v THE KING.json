@@ -1,0 +1,78 @@
+{
+  "caseTitle": "JOHN ONI AKERELE v THE KING",
+  "summary": "Dr. John Oni Akerele, a qualified medical practitioner in Nigeria, was convicted of manslaughter for the death of a child, Kalu Ibe, following administration of Sobita (sodium bismuth tartrate) during a public health campaign for yaws. The West African Court of Appeal upheld the conviction, finding that the doctor had criminally negligently prepared an overly concentrated solution, leading to bismuth poisoning. The Privy Council affirmed that evidence of nine other children's deaths and illnesses was properly admitted to demonstrate that the reaction was not due to individual idiosyncrasy but to a dangerously strong mixture. The key issue was whether the negligence amounted to a criminal degree, with the court emphasizing that criminal negligence must go beyond mere civil fault and show a gross disregard for life. The appeal against conviction was dismissed, affirming the standard that gross negligence in medical practice can constitute manslaughter.",
+  "legalKeywords": [
+    "manslaughter",
+    "criminal negligence",
+    "medical malpractice",
+    "evidence admissibility",
+    "overdose",
+    "bismuth poisoning",
+    "idiosyncrasy",
+    "standard of care",
+    "gross negligence",
+    "judicial review",
+    "appellate decision",
+    "medical practitioner liability",
+    "public health",
+    "toxicology",
+    "forensic medicine"
+  ],
+  "topics": [
+    "Medical Law",
+    "Criminal Law",
+    "Evidence Law",
+    "Appellate Procedure",
+    "Professional Negligence"
+  ],
+  "verdict": "Conviction for manslaughter upheld on appeal.",
+  "winningSide": "The King (Crown)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "LORD ROMER",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "THE LORD CHANCELLOR",
+      "role": "panel member"
+    },
+    {
+      "name": "LORD PORTER",
+      "role": "panel member"
+    },
+    {
+      "name": "SIR GEORGE RANKIN",
+      "role": "panel member"
+    },
+    {
+      "name": "SIR MADHA VAN NAIR",
+      "role": "panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v Bateman (1925) 94 L.J. (K.B.) 791",
+    "R. v. Noakes (1866) 4 F. and F. 920",
+    "Halsbury's Laws of England (Hailsham Edition), Volume 9"
+  ],
+  "rationaleHighlights": [
+    "Evidence of other patients' deaths was admissible to disprove idiosyncrasy and prove overdose.",
+    "Criminal negligence requires gross disregard for life, not mere civil negligence.",
+    "A single act of preparing an overly strong mixture may constitute criminal negligence if gross.",
+    "Conviction upheld based on inference from pattern of harm across multiple patients.",
+    "Distinction emphasized between compensable negligence and criminal negligence."
+  ],
+  "confidenceNotes": "High confidence; details are drawn directly from the judgment text with clear factual support. Truncation does not affect core holdings.",
+  "metadata": {
+    "sourcePath": "WACA/8 WACA/JOHN ONI AKERELE  v THE KING.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:21:56.310Z",
+    "plainTextLength": 21855
+  },
+  "trialDate": "1941-03-07"
+}

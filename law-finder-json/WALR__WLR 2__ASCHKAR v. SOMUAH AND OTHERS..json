@@ -1,0 +1,78 @@
+{
+  "caseTitle": "ASCHKAR VERSUS SOMUAH AND OTHERS.",
+  "summary": "In Aschkar v. Somuah and Others, the West African Court of Appeal upheld a lower court's order for recovery of possession under section 11(1)(e) of the Rent Control Ordinance, 1952, allowing the landlord to redevelop the property. The defendants contested the application, arguing the scheme was not genuine, lacked public interest, and did not constitute redevelopment. The court held that the landlord had demonstrated bona fide intent by taking concrete steps, including obtaining municipal approval, and that the Ordinance does not require public interest as a condition. It further ruled that the test for redevelopment is whether the scheme can proceed without possession, not the extent of alterations to the tenanted premises.",
+  "legalKeywords": [
+    "recovery of possession",
+    "landlord and tenant",
+    "scheme of redevelopment",
+    "Rent Control Ordinance",
+    "bona fides",
+    "eviction",
+    "public interest",
+    "private interest",
+    "interior wall removal",
+    "Accra Municipal Council",
+    "section 11(1)(e)",
+    "proviso condition",
+    "compensation for non-compliance",
+    "alterations to building",
+    "court discretion",
+    "genuine intention",
+    "statutory interpretation",
+    "common law rights",
+    "tenant protection",
+    "redevelopment plan"
+  ],
+  "topics": [
+    "Landlord and Tenant Law",
+    "Statutory Interpretation",
+    "Property Redevelopment",
+    "Rent Control",
+    "Appellate Decision"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Korsah C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Verity Ag.J.A.",
+      "role": "Acting Judge of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Gold Coast (Ghana)"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Rent Control Ordinance, c. 2 of 1952, s. 11(1)(e)",
+    "Mitchell v. Townend & Co. [1921] 2 K.B. 91",
+    "J. W. Smart (Modern Shoe Repairs) Ltd. v. Hinckley and Leicestershire Building Society [1952] 2 All E.R. 846",
+    "Rent Control Ordinance, 1947, s. 9(1)(c)"
+  ],
+  "rationaleHighlights": [
+    "The court must assess whether the landlord has taken steps to implement the redevelopment scheme to determine bona fides.",
+    "The Rent Control Ordinance, 1952, does not require the scheme to serve public interest; private interest suffices.",
+    "The true test is whether the scheme can be carried out without possession of the tenanted premises.",
+    "The court may impose conditions under the proviso to section 11(1)(e) if bona fides are in doubt.",
+    "Removal of interior walls was sufficient to constitute redevelopment where it enabled broader building modifications.",
+    "Legislative change from 1947 to 1952 Ordinance shows intent to remove public interest as a criterion.",
+    "The landlord's plan was approved by the Accra Planning Committee, supporting its genuineness.",
+    "The scheme had been carried out post-judgment, confirming the landlord's good faith."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct judicial reasoning and cited authorities. The case is clearly reported with full judicial analysis and references to statutory provisions and precedents.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/ASCHKAR v. SOMUAH AND OTHERS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:41:02.111Z",
+    "plainTextLength": 12799
+  }
+}

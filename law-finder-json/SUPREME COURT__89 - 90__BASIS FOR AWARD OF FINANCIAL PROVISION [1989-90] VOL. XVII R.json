@@ -1,0 +1,95 @@
+{
+  "caseTitle": "Ribeiro v Ribeiro2 in reserved",
+  "summary": "In Ribeiro v Ribeiro, the Ghanaian Supreme Court, by a 3-2 majority, upheld the lower courts' decision to rescind the husband's transfer of 'Haulage House' to his new wife and order its conveyance to the former wife as part of financial provision under section 20(1) and 26(1) of the Matrimonial Causes Act, 1971 (Act 367). The husband had transferred multiple properties during proceedings, which the courts found to be in bad faith to defeat the wife's claim. The majority affirmed that a spouse's domestic contributions justify financial provision, including property transfer, even without direct financial contribution. The trial court also awarded 150,000 lump sum. The dissenting justices argued that courts lack statutory authority to transfer titled property absent proprietary interest and that financial provision should be limited to monetary awards. The case exposed deep judicial division on the scope of judicial discretion in marital property distribution.",
+  "legalKeywords": [
+    "financial provision",
+    "disposition of assets",
+    "matrimonial property",
+    "section 26 Matrimonial Causes Act",
+    "spousal maintenance",
+    "fraudulent transfer",
+    "domestic contribution",
+    "judicial discretion",
+    "property settlement",
+    "divorce",
+    "equitable distribution",
+    "bad faith transfer",
+    "lump sum award",
+    "matrimonial home",
+    "conduct of parties"
+  ],
+  "topics": [
+    "family law",
+    "property rights",
+    "judicial discretion",
+    "fraudulent conveyance",
+    "spousal support"
+  ],
+  "verdict": "Appeal dismissed by Supreme Court (3-2 majority); affirmed High Court and Court of Appeal decisions to rescind property transfer and award financial provision.",
+  "winningSide": "wife (respondent)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Amua-Sekyi JSC",
+      "role": "majority"
+    },
+    {
+      "name": "Adade JSC",
+      "role": "majority"
+    },
+    {
+      "name": "Ofori-Boateng JA",
+      "role": "majority"
+    },
+    {
+      "name": "Francois JSC",
+      "role": "dissenting"
+    },
+    {
+      "name": "Wuaku JSC",
+      "role": "dissenting"
+    },
+    {
+      "name": "Abban JSC",
+      "role": "Court of Appeal"
+    },
+    {
+      "name": "Osei-Hwere JJA",
+      "role": "Court of Appeal"
+    },
+    {
+      "name": "Lamptey JJA",
+      "role": "Court of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "family law",
+  "citations": [
+    "Ribeiro v Ribeiro",
+    "Matrimonial Causes Act, 1971 (Act 367)",
+    "Cobb v Cobb",
+    "Pettitt v. Pettitt",
+    "Achiampong v Achiampong",
+    "Hofman v Hofman",
+    "Wachtel v Wachtel",
+    "Matrimonial Causes Act, 1973 (UK)"
+  ],
+  "rationaleHighlights": [
+    "Court may rescind asset dispositions made to defeat financial claims under s.26(1)",
+    "Domestic services entitle spouse to financial provision despite no financial contribution",
+    "Discretion to award financial provision includes property conveyance if intended to defeat claims",
+    "Dissent argues courts lack power to transfer property without proprietary interest",
+    "Transfer during proceedings with continued control indicates bad faith",
+    "Affluent spouse should provide adequate accommodation regardless of title"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and multiple court levels cited. Some document truncation occurs but key holdings and dissents are preserved.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/89 - 90/BASIS FOR AWARD OF FINANCIAL PROVISION [1989-90] VOL. XVII R.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:58:15.078Z",
+    "plainTextLength": 44623
+  }
+}

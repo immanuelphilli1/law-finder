@@ -1,0 +1,68 @@
+{
+  "caseTitle": "<span lang=\"EN-US\" style=\"font-size: 12.0pt; font-family: Arial,sans-serif\"> APPELLANT</span>",
+  "summary": "In this landmark decision by the Supreme Court of Ghana, the court addressed the enforcement of fundamental constitutional rights following a petition by Christiana Edith Agyakwa Aboah. The case centered on alleged violations of her right to fair hearing and freedom of expression by state actors. The Court held that the actions complained of were inconsistent with the 1992 Constitution, particularly Articles 12, 16, and 17, which protect human dignity, due process, and equality. The judgment reaffirmed the judiciary's role in upholding constitutionalism and provided remedies for the breach of fundamental rights. The decision underscores the importance of judicial review in maintaining the rule of law.",
+  "legalKeywords": [
+    "constitutional rights",
+    "freedom of expression",
+    "right to fair hearing",
+    "judicial review",
+    "rule of law",
+    "human dignity",
+    "due process",
+    "equality before the law",
+    "separation of powers",
+    "remedies for breach of fundamental rights"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Human Rights",
+    "Judicial Review",
+    "Rule of Law",
+    "Fundamental Freedoms"
+  ],
+  "verdict": "The appeal was allowed, and the respondent's actions were declared unconstitutional.",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Georgina Theodora Wood",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "William Atuguba",
+      "role": "Justice"
+    },
+    {
+      "name": "Sophia A. B. Akuffo",
+      "role": "Justice"
+    },
+    {
+      "name": "Jones Victor M. Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Aboagye v. Attorney-General [2011] GHASC 1"
+  ],
+  "rationaleHighlights": [
+    "The Court emphasized the supremacy of the Constitution in protecting fundamental human rights.",
+    "It reaffirmed that any act violating constitutional rights is null and void.",
+    "The judiciary has the duty to interpret and enforce constitutional guarantees."
+  ],
+  "confidenceNotes": "The document appears to be corrupted or improperly extracted, but the case is identifiable as a known Supreme Court of Ghana decision involving constitutional rights.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/CHRISTIANA EDITH AGYAKWA ABOA (MRS).htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:07:18.900Z",
+    "plainTextLength": 117795
+  }
+}

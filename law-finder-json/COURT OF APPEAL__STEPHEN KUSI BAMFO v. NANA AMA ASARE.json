@@ -1,0 +1,76 @@
+{
+  "caseTitle": "STEPHEN KUSI BAMFO v. NANA AMA ASARE",
+  "summary": "This appeal arose from the High Court's dismissal of the appellant's action for lack of capacity to sue following the closure of a family business premises by the respondent. The appellant claimed succession to a tenancy under his deceased father's will, but the Court of Appeal upheld the lower court's ruling. It held that a statutory tenancy under the Tenants Act, 1963 (Act 220) is a personal right that terminates upon the tenant's death and cannot be bequeathed or transferred by will. Since the appellant’s father died without a subsisting tenancy, there was no right to pass to the appellant, rendering him without legal capacity to sue. The court also rejected arguments based on Order 15 Rules 6 and 16 of L.I. 1129, clarifying these rules govern joinder of parties, not substantive standing. The trial judge did not err in requiring affidavit evidence of capacity at the interlocutory stage, especially where the claim was challenged. The appeal was dismissed, affirming that without a valid legal interest, the appellant could not maintain the action.",
+  "legalKeywords": [
+    "statutory tenancy",
+    "capacity to sue",
+    "vesting assent",
+    "probate",
+    "non-joinder",
+    "personal representative",
+    "right to possession",
+    "executor",
+    "beneficiary",
+    "interim order",
+    "misjoinder",
+    "status quo",
+    "affidavit evidence",
+    "Administration of Estates Act 1961 (Act 63)",
+    "High Court Civil Procedure Rules L.I. 1129",
+    "Order 15 Rule 6",
+    "Order 15 Rule 16",
+    "per incuriam",
+    "joint tenancy",
+    "nemo dat quod non habet"
+  ],
+  "topics": [
+    "Property Law",
+    "Succession",
+    "Civil Procedure",
+    "Tenancy Rights",
+    "Judicial Review"
+  ],
+  "verdict": "Appeal dismissed.",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Tweneboah-Koduah, J.A.",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "Ansah, J.A.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Aninakwah, J.A.",
+      "role": "Member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "CONNEY vrs. BENTUM WILLIAMS (1984-86) 2 GLR. 301",
+    "DHALOMAL vrs. PUPLAMPU [1984-86] 1 GLR.341",
+    "BANK OF GHANA vrs. LABONE WEAVERS ENTERPRISE LTD. (1971) 1 GLR. 251",
+    "FOSUHENE vrs. AKORE & 11 ORS. 1 GBR.181",
+    "VANDERPUYE vrs. NARTEY (1977) 1 GLR.428"
+  ],
+  "rationaleHighlights": [
+    "A statutory tenant's right is personal and does not survive death or pass to personal representatives.",
+    "No capacity to sue where no legal right was transferred via will or vesting assent.",
+    "Rules on joinder (Order 15) do not confer standing but govern party inclusion.",
+    "Interim relief requires sufficient affidavit evidence of capacity even before trial."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and citation of statutes and case law.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/STEPHEN KUSI BAMFO v. NANA AMA ASARE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:02:25.028Z",
+    "plainTextLength": 18367
+  },
+  "trialDate": "2003-02-06"
+}

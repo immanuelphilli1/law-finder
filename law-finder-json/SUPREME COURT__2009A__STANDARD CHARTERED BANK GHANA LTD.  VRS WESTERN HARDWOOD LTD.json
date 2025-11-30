@@ -1,0 +1,88 @@
+{
+  "caseTitle": "STANDARD CHARTERED BANK GHANA LTD. VRS WESTERN HARDWOOD LTD",
+  "summary": "The Supreme Court of Ghana dismissed an application by Standard Chartered Bank Ghana Ltd. to suspend the Court of Appeal's conditional order for stay of execution and to stay enforcement of the High Court's judgment. The bank had lost at the High Court, which awarded Gh\u0003300,000 in damages and Gh\u00036,000 in costs to Western Hardwood Ltd. Upon appeal, the Court of Appeal ordered the bank to pay half the judgment debt (Gh\u0003150,000) as a condition for staying execution. The bank then applied to the Supreme Court to reverse that order, arguing that the respondents were impecunious and unable to refund the sum if the appeal succeeded. The Supreme Court held that it lacked jurisdiction to intervene because the applicant had not first reapplied to the Court of Appeal after appealing, as required by rule 20(2) of the Supreme Court Rules, 1996 (CI 16). The Court emphasized that a judgment confirmed on appeal remains the order of the lower court and is not subject to stay by the appellate court. It also explicitly overruled the precedent in NDK Financial Services Ltd v Yiadom Construction & Electrical Works [2007-2008] 1 SCGLR 93, reaffirming that only the originating court can enforce or stay its own judgment. The application was dismissed for lack of jurisdiction.",
+  "legalKeywords": [
+    "stay of execution",
+    "appeal",
+    "judgment debt",
+    "interlocutory application",
+    "Supreme Court Rules CI 16",
+    "jurisdiction",
+    "procedural compliance",
+    "Court of Appeal",
+    "High Court",
+    "conditional stay",
+    "execution process",
+    "appellate jurisdiction",
+    "rule 20(2)",
+    "confirmed judgment",
+    "functional justice"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Stay of Execution",
+    "Jurisdiction",
+    "Civil Litigation",
+    "Judgment Enforcement"
+  ],
+  "verdict": "Application dismissed for lack of jurisdiction.",
+  "winningSide": "Respondents (Western Hardwood Ltd and Farrouk Barrakeh)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "W. A. Atuguba",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "J. Ansah",
+      "role": "Justice"
+    },
+    {
+      "name": "S. O. A. Adinyira (Mrs)",
+      "role": "Justice"
+    },
+    {
+      "name": "R. C. Owusu (Ms)",
+      "role": "Justice"
+    },
+    {
+      "name": "P. Baffoe-Bonnie",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Anang Sowah v Adams, MJ8/2/2009, 14 January 2009",
+    "Takyi v Ghassoub (Ghana) Ltd [1987-88] 2 GLR 452",
+    "Dhalomal v Puplampu [1984-86] 1 GLR 341",
+    "Republic v High Court, Accra; Ex parte Asakum Engineering & Construction Ltd [1993-94] 2 GLR 643",
+    "Ababio v Mensah [1989-90] 1 GLR 560",
+    "Asare v The Republic [1968] GLR 37",
+    "Aidoo v Commissioner of Police (No 2) [1964] GLR 344",
+    "NDK Financial Services Ltd v Yiadom Construction & Electrical Works [2007-2008] 1 SCGLR 93",
+    "Republic v Duffour; Ex parte Asare [2007-2008] 1 SCGLR 394",
+    "Mosi v Bagyina [1963] 1 GLR 337"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court lacks jurisdiction to reverse or suspend a Court of Appeal's conditional stay of execution without prior reapplication to the Court of Appeal under rule 20(2) of CI 16.",
+    "A confirmed judgment of a lower court remains the order of that court and cannot be stayed by a higher court on appeal.",
+    "The applicant failed to comply with procedural prerequisites, making the application non-justiciable.",
+    "The Court explicitly departs from NDK Financial Services Ltd v Yiadom, clarifying that affirmed orders belong to the trial court.",
+    "Purposive interpretation of 'proceedings' under rule 20(1) was discussed but not applied due to procedural default.",
+    "Terms of conditional stay are for the benefit of the judgment creditor and lapse upon non-compliance, not enforceable against them.",
+    "Jurisdiction cannot be bypassed based on speculation about lower court's unwillingness to reconsider.",
+    "The dismissal reinforces strict adherence to appellate procedure in civil matters."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy as all data is drawn directly from the court document. Jurisdictional and procedural details are clearly stated.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/STANDARD CHARTERED BANK GHANA LTD.  VRS WESTERN HARDWOOD LTD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:02:36.299Z",
+    "plainTextLength": 13598
+  },
+  "trialDate": "2009-05-20"
+}

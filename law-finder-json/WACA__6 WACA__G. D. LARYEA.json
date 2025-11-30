@@ -1,0 +1,76 @@
+{
+  "caseTitle": "G. D. LARYEA",
+  "summary": "This 1940 West Africa Court of Appeal decision involved a land dispute in Accra, Ghana, where the plaintiff-appellant sought a declaration of title and damages for trespass against the defendant-respondent. The trial judge non-suited the plaintiff for failing to meet the burden of proof regarding title and possession, and denied the defendant costs, citing lack of merit on either side and the defendant's absence. The appellate court held that the trial judge improperly exercised discretion in denying costs, as the defendant's success did not require affirmative merit, and absence was not a valid reason for cost denial. The appeal was dismissed, costs of appeal were awarded to the defendant, and the lower court's judgment was varied to include costs for the defendant in the court below. The appellate judges also criticized the trial judge's broad negative characterization of Accra residents as unjustified and inappropriate.",
+  "legalKeywords": [
+    "declaration of title",
+    "trespass",
+    "non-suit",
+    "burden of proof",
+    "costs",
+    "discretionary power",
+    "judicial discretion",
+    "contradictory evidence",
+    "land dispute",
+    "oral vs documentary evidence",
+    "successful party",
+    "fee simple",
+    "witness credibility",
+    "pleadings",
+    "cross-appeal",
+    "Rule 32",
+    "award of costs",
+    "title to land",
+    "possession",
+    "land ownership"
+  ],
+  "topics": [
+    "Property Law",
+    "Civil Procedure",
+    "Costs in Litigation",
+    "Evidence",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Defendant-Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Cor. Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "WACA/6 WACA/G. D. LARYEA"
+  ],
+  "rationaleHighlights": [
+    "The trial judge failed to exercise judicial discretion in denying costs to the successful defendant.",
+    "A defendant need not show affirmative merit; it suffices to show the plaintiff failed in proof.",
+    "The defendant's personal absence is not a valid ground for denying costs.",
+    "Contradictory oral and documentary evidence undermined the plaintiff's claim.",
+    "The trial judge's generalization about Accra residents was unjustified and inappropriate.",
+    "Rule 32 empowers appellate courts to vary cost orders despite no cross-appeal.",
+    "Failure to prove title or possessory interest justified non-suit.",
+    "Lack of pleadings contributed to inefficiency in trial and appeal."
+  ],
+  "confidenceNotes": "High confidence; all information is directly derived from the provided judgment text, including names, roles, legal reasoning, and procedural outcomes.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/G. D. LARYEA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:07:19.245Z",
+    "plainTextLength": 7097
+  },
+  "trialDate": "1940-11-07"
+}

@@ -1,0 +1,73 @@
+{
+  "caseTitle": "KARIOLA VERSUS MAHAMA.",
+  "summary": "In Kariola v. Mahama, an action for conversion of kola nuts, the plaintiff successfully sued the defendant despite the defendant's prior acquittal in a criminal larceny case. The High Court of Ghana, Central Judicial Division, held that a previous criminal acquittal does not bar a civil claim for conversion. Relying on Section 147(2) of the Criminal Procedure Code, c. 10 of 1951, the court confirmed that the plaintiff's right to bring civil proceedings remained valid as the suit was filed within six months of the magistrate's restitution order. The court also affirmed the general legal principle that criminal judgments are inadmissible as evidence in subsequent civil proceedings. The plaintiff proved ownership and was awarded ₤84 as damages.",
+  "legalKeywords": [
+    "conversion",
+    "civil proceedings",
+    "criminal acquittal",
+    "evidence admissibility",
+    "restitution order",
+    "Criminal Procedure Code",
+    "ownership",
+    "Section 147",
+    "res judicata",
+    "Hollington v. Hewthorn",
+    "prior conviction",
+    "property rights",
+    "burden of proof",
+    "civil liability",
+    "double jeopardy",
+    "judicial precedent",
+    "magistrate's order",
+    "tort law",
+    "chattel ownership",
+    "statutory interpretation"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Evidence Law",
+    "Criminal Law Interface",
+    "Property Law",
+    "Tort Law"
+  ],
+  "verdict": "Judgment for the plaintiff",
+  "winningSide": "plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adumua-Bossman J",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Central Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil action for conversion",
+  "citations": [
+    "Criminal Procedure Code, c. 10 of 1951, s. 147",
+    "Hollington v. Hewthorn & Co. Ltd. [1943] K.B. 587",
+    "Winter v. Bancks and Lings (1901) 84 L.T. 504",
+    "Buller & Co. Ltd. v. Brooks (1930) 46 T.L.R. 233",
+    "In the Estate of Orippen [1911] P. 108",
+    "Partington v. Partington [1925] P. 34",
+    "O'Toole v. O'Toole (1926) 134 L.T. 542"
+  ],
+  "rationaleHighlights": [
+    "Criminal acquittal does not preclude civil liability for conversion",
+    "Section 147(2) preserves right to civil action within six months",
+    "Criminal judgments are inadmissible as evidence in civil cases",
+    "Ownership determined independently in civil proceedings",
+    "General legal principle supports separation of criminal and civil proceedings",
+    "Precedents from English law affirm inadmissibility of criminal convictions",
+    "Plaintiff met burden of proof for ownership",
+    "Damages awarded based on market value of goods"
+  ],
+  "confidenceNotes": "High confidence; source is a formal court judgment with clear reasoning, statutory reference, and cited precedents. All key elements are explicitly stated.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/KARIOLA v. MAHAMA..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:04:34.682Z",
+    "plainTextLength": 9567
+  }
+}

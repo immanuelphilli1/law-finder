@@ -1,0 +1,81 @@
+{
+  "caseTitle": "IN THE MATTER OF THE ESTATE OF AGNESS FLORENCE MARTIN, DECEASED BETWEEN VICTORIA FANNY MARTIN Plaintiff-Respondent",
+  "summary": "This case involved an appeal from summary convictions of four individuals, including O. S. Agyeman and others, who were charged with conspiring against the lawful authority of Otumfuo Nana Osei Agyeman Prempeh II, the Asantehene, under section 12(1) of the Native Authority Ordinance, 1935. The appellants were tried and convicted summarily by a Judge of the Supreme Court at Kumasi, despite a preliminary objection to jurisdiction. The West Africa Court of Appeal held that the trial judge lacked jurisdiction to try the offences summarily because the penalty under section 12(1)—a fine of up to £100 and imprisonment for up to one year—exceeded the Magistrate's jurisdiction as defined in section 43(a) of the Courts Ordinance, 1935, which only permits summary trial for offences punishable by fine *or* imprisonment, not both. Furthermore, no permission from the Governor was obtained as required by section 12(4), which explicitly bars Native or District Commissioner's Courts from trying such offences without such consent. Since a Judge's summary jurisdiction under section 149 of the Criminal Procedure Code is limited to offences triable by Magistrates, the convictions were set aside. The Court allowed the appeals, quashed all convictions, and directed that judgments and verdicts of acquittal be entered pursuant to section 10(2) of Ordinance 11/35.",
+  "legalKeywords": [
+    "jurisdiction",
+    "summary trial",
+    "criminal procedure",
+    "Native Authority",
+    "consent of Governor",
+    "offence",
+    "conviction",
+    "appeal",
+    "acquittal",
+    "imprisonment",
+    "fine",
+    "conspiracy",
+    "lawful authority",
+    "Magistrate's jurisdiction",
+    "Supreme Court",
+    "preliminary inquiry",
+    "removal from Ashanti",
+    "Governor's permission",
+    "section 12(1)",
+    "section 149"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Jurisdiction",
+    "Appeal",
+    "Native Authority",
+    "Conspiracy"
+  ],
+  "verdict": "Convictions quashed; judgment and verdict of acquittal entered.",
+  "winningSide": "Appellants",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Native Authority Ordinance, 1935 (No. 1 of 1935)",
+    "Criminal Procedure Code, s 149",
+    "Criminal Procedure Code, s 167",
+    "Criminal Procedure Code, s 178",
+    "Courts Ordinance, 1935, s 43",
+    "Ordinance 11/35, s 10(2)"
+  ],
+  "rationaleHighlights": [
+    "Trial judge lacked jurisdiction because the offence under s 12(1) carried both fine and imprisonment, exceeding Magistrate's jurisdiction under s 43(a) of the Courts Ordinance.",
+    "Section 149 limits a Judge's summary jurisdiction to offences triable by Magistrates.",
+    "No Governor's permission was granted under s 12(4), depriving the court of jurisdiction.",
+    "Convictions quashed due to lack of jurisdiction.",
+    "Judgment and verdict of acquittal entered as required by s 10(2) of Ordinance 11/35.",
+    "Section 178 CPC does not extend Magistrate's jurisdiction beyond statutory limits.",
+    "Distinction in wording between s 43(a) ('or') and s 43(b) ('or with both') is determinative.",
+    "Appeal allowed on jurisdictional grounds, not merits."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text with clear statutory references and judicial reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/OTUMFUO NANA OSEI AGYEMAN PREMPEH II ...htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:16:48.167Z",
+    "plainTextLength": 7857
+  },
+  "trialDate": "1936-11-04"
+}

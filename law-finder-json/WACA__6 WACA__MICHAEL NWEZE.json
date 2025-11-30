@@ -1,0 +1,64 @@
+{
+  "caseTitle": "MICHAEL NWEZE",
+  "summary": "The appellant, Walter Oko Minimah, clerk of the Native Court at Agafor-Andoni, was convicted of extortion under section 99 of the Criminal Code for accepting £4 from individuals for performing his duties. The West Africa Court of Appeal allowed the appeal and quashed the conviction. The court held that it was essential to prove both the specific duty the accused was performing and that the reward was given for that duty. Since the prosecution failed to present evidence on the nature of the appellant's duties, and the trial judge relied on judicial notice rather than evidence to assert the clerk's power to prepare bail bonds, the conviction could not stand. Additionally, the court noted that the two separate payments alleged should have been charged separately rather than lumped into a single charge. The court also confirmed that the principal prosecution witnesses were not accomplices. A verdict of acquittal was entered.",
+  "legalKeywords": [
+    "extortion",
+    "public officer",
+    "duty in course of employment",
+    "proof of duty",
+    "improper reward",
+    "bail bonds",
+    "accomplice witness",
+    "charge specificity",
+    "criminal code s 99",
+    "failure to prove case"
+  ],
+  "topics": [
+    "criminal law",
+    "public corruption",
+    "appellate review",
+    "evidence",
+    "judicial notice"
+  ],
+  "verdict": "Appeal allowed; conviction and sentence quashed; acquittal entered",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    },
+    {
+      "name": "Brooke",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v. Walter Oko Minimah, WACA/6, 30th July 1940",
+    "Criminal Code, s 99"
+  ],
+  "rationaleHighlights": [
+    "Duty must be proven by evidence, not judicial notice",
+    "Each alleged transaction must form a separate charge",
+    "Failure to specify duty invalidates conviction",
+    "Prosecution must prove performance of official duty for reward",
+    "Accomplice status of witnesses assessed and rejected"
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment text.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/MICHAEL NWEZE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:02:34.174Z",
+    "plainTextLength": 4977
+  },
+  "trialDate": "1940-07-30"
+}

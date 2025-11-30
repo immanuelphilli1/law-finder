@@ -1,0 +1,61 @@
+{
+  "caseTitle": "KAKRAH VERSUS AMPOFOAH",
+  "summary": "The Nyakrom Stool had granted a usufructuary interest in stool land to James Obodai, a stranger, who paid an annual rent of \u0002. Upon his death intestate, his estate was apportioned by the legally appointed successor, Mr. Forster, who allocated the disputed land to Obodai's children. The stool later demanded a financial contribution toward an unrelated stool debt and sought to increase the annual rent to \u00012, both of which the children refused. The stool sued to compel a new agreement and to reclaim portions of the land. The Supreme Court held that the stool could not impose fines for debts unconnected to the land or unilaterally vary the original rent. The children, having been duly allotted the land under native law and custom, succeeded to their father's rights and obligations as of right. The court affirmed that the land did not revert to the stool upon Obodai's death and that the children were the proper parties to sue. The appeal was dismissed with costs to the defendants.",
+  "legalKeywords": [
+    "stool land",
+    "native law and custom",
+    "usufructuary interest",
+    "intestate succession",
+    "land tenure",
+    "annual rent",
+    "stool debt",
+    "successor in title",
+    "estate apportionment",
+    "land reversion",
+    "customary land rights",
+    "fine levy",
+    "tenancy obligations",
+    "determinable estate",
+    "stranger grantee"
+  ],
+  "topics": [
+    "Customary Land Law",
+    "Succession",
+    "Stool Land Tenure",
+    "Native Law and Custom",
+    "Land Dispute"
+  ],
+  "verdict": "Appeal dismissed; original decision upholding the rights of the defendants as successors in title was affirmed.",
+  "winningSide": "Defendants (Amfofah and others)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adumua-Bossman J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana, Central Judicial Division, Land Court, Cape Coast",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "WALR/WLR 2/KAKRAH v. AMPOFOAH AND OTHERS"
+  ],
+  "rationaleHighlights": [
+    "Successors in title by native custom inherit usufructuary rights in stool land as of right.",
+    "Stool cannot unilaterally increase rent or demand fines for unrelated debts.",
+    "Apportionment of estate by lawful successor valid under native law.",
+    "Stool land does not automatically revert on death of grantee.",
+    "Stool's claim for increased rent dismissed.",
+    "Labourers farming for deceased do not trigger reversion.",
+    "Children validly sued as current holders of the land interest."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear factual and legal reasoning.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/KAKRAH v. AMPOFOAH AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:28:49.690Z",
+    "plainTextLength": 6511
+  }
+}

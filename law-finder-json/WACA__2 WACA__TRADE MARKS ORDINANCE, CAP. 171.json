@@ -1,0 +1,78 @@
+{
+  "caseTitle": "IN THE MATTER OF TRADE MARKS ORDINANCE, CAP",
+  "summary": "This 1935 West African Court of Appeal decision dismissed an appeal by the Netherlands Distillery against the registration of trade marks Nos. 2534, 2537, and 2538 by J.H. Henkes' Distillery in the Gold Coast (now Ghana). The appellant argued the marks resembled its No. 168 mark and were likely to deceive, but the court found the evidence insufficient to shift the onus of proof. The court held that opinions on resemblance from deponents were inadmissible, and no evidence of actual confusion was presented. It emphasized the respondent's prior and continuous use of crowns and medals in trade marks since at least 1904, undermining claims of exclusivity. The court also clarified that decisions of the Nigerian Full Court were not binding in the Gold Coast. With no proof of deception and significant differences in the marks, the appeal was dismissed with costs.",
+  "legalKeywords": [
+    "trade mark",
+    "resemblance",
+    "deception",
+    "onus of proof",
+    "evidence",
+    "rectification",
+    "confusion",
+    "exclusive use",
+    "crown",
+    "medals",
+    "label design",
+    "Gold Coast",
+    "Nigeria",
+    "Full Court",
+    "affidavit",
+    "opinion evidence",
+    "stork",
+    "color use",
+    "prior use",
+    "illiterate buyers",
+    "judicial precedent"
+  ],
+  "topics": [
+    "intellectual property",
+    "trade marks",
+    "evidence",
+    "judicial precedent",
+    "burden of proof"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Respondents (J. H. Henkes' Distillery)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Doorly",
+      "role": "judge"
+    },
+    {
+      "name": "Webber",
+      "role": "chief justice"
+    },
+    {
+      "name": "Strother-Stewart",
+      "role": "judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "intellectual property",
+  "citations": [
+    "Trade Marks Ordinance, Cap. 171",
+    "Payton & Co. Ltd. v. Snelling, Laddell & Co. Ltd. (17 R.P.C. 48 C.A.)"
+  ],
+  "rationaleHighlights": [
+    "Decisions of Nigerian Full Court not binding on Gold Coast Divisional or West African Court of Appeal",
+    "Opinions on trade mark resemblance not admissible as evidence; matter for judge",
+    "Appellant failed to provide evidence of actual confusion or deception",
+    "Respondent had prior and continuous use of crown and medals in trade marks since 1904",
+    "No exclusive right to use colors or prize medals established by appellant",
+    "Onus remained on appellant to prove likelihood of deception, which was not met",
+    "Distinctions noted between Nigerian case and present case, including burden of proof and available evidence",
+    "Five years of unchallenged use without evidence of confusion weighed against appellant"
+  ],
+  "confidenceNotes": "High confidence in factual extraction; all key details (parties, judges, jurisdiction, outcome) are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/TRADE MARKS ORDINANCE, CAP. 171.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:14:54.204Z",
+    "plainTextLength": 11371
+  },
+  "trialDate": "1935-11-30"
+}

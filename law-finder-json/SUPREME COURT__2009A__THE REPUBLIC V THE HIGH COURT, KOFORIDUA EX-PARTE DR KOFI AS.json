@@ -1,0 +1,91 @@
+{
+  "caseTitle": "REPUBLIC VRS HIGH COURT, KOFORIDUA",
+  "summary": "The Supreme Court of Ghana ruled on an application by Dr. Kofi Asare, the New Patriotic Party's parliamentary candidate for Akwatia, who sought to quash a High Court ruling that allowed an election petition to proceed before the official declaration and gazetting of election results. The petition, filed by National Democratic Congress and independent candidates, alleged electoral malpractices and sought a rerun. The Supreme Court held that an election petition cannot be filed before results are declared, as the legal basis for such petitions—specifically, challenging 'the person whose election is questioned'—requires a declared winner. The Court emphasized that while courts can intervene in electoral matters pre-declaration under constitutional enforcement jurisdiction (e.g., to prevent illegal acts), a premature election petition under PNDCL 284 is jurisdictionally invalid. The ruling clarified the interpretation of 'election' in electoral law and reaffirmed the supremacy of the Constitution.",
+  "legalKeywords": [
+    "election petition",
+    "jurisdiction",
+    "constitutional supremacy",
+    "Representation of the People Law 1992",
+    "PNDCL 284",
+    "article 99",
+    "certiorari",
+    "premature petition",
+    "Electoral Commission",
+    "declaration of results",
+    "gazetting",
+    "corrupt practice",
+    "judicial review",
+    "constitutional enforcement",
+    "High Court jurisdiction",
+    "Supreme Court original jurisdiction",
+    "section 18",
+    "section 50",
+    "article 94",
+    "article 125"
+  ],
+  "topics": [
+    "Election Law",
+    "Constitutional Law",
+    "Judicial Review",
+    "Electoral Disputes",
+    "Jurisdiction",
+    "Supreme Court Procedure",
+    "Pre-election Litigation"
+  ],
+  "verdict": "Application granted in principle; the High Court's ruling was quashed for lack of jurisdiction as the election petition was premature.",
+  "winningSide": "Applicant (Dr. Kofi Asare)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Atuguba, JSC",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ansa, JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Owusu (Ms), JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Dotse, JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie, JSC",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional and Electoral Matter",
+  "citations": [
+    "Republic v High Court, Sunyani, Ex parte Alhaji Collins Dauda CM J5/12/2009",
+    "[2001-2002] 1 GLR 311",
+    "[2000] SCGLR 461",
+    "(1980) GLR 338",
+    "(1996-97) SCGLR 120",
+    "(2001-2002) SCGLR 1"
+  ],
+  "rationaleHighlights": [
+    "An election petition requires a declared result to challenge 'the person whose election is questioned'.",
+    "Section 18 of PNDCL 284 does not allow petitions before results are declared, even for alleged corrupt practices.",
+    "The expression 'election' in electoral law implies a concluded process with a declared winner.",
+    "Statutory provisions must be read in context and in harmony with the Constitution.",
+    "Courts may intervene pre-election under constitutional enforcement jurisdiction but not via election petitions.",
+    "The Supreme Court has original jurisdiction over constitutional enforcement matters.",
+    "The Constitution is supreme over all laws and institutions in Ghana.",
+    "Obiter dictum in Hawa Yakubu case was per incuriam and should not be followed."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the court's ruling with clear citations and legal reasoning provided in the text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/THE REPUBLIC V THE HIGH COURT, KOFORIDUA EX-PARTE DR KOFI AS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:00:56.013Z",
+    "plainTextLength": 118886
+  },
+  "trialDate": "2009-05-23"
+}

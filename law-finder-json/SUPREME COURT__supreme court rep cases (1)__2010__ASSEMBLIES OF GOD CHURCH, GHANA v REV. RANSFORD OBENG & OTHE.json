@@ -1,0 +1,91 @@
+{
+  "caseTitle": "ASSEMBLIES OF GOD CHURCH, GHANA v REV. RANSFORD OBENG & OTHE",
+  "summary": "This Supreme Court of Ghana case involved a dispute between the Assemblies of God Church, Ghana (plaintiff/respondent) and five former leaders of the Calvary Charismatic Centre (CCC), led by Rev. Ransford Obeng (defendants/appellants), following the CCC's unilateral decision to sever denominational ties in 1992. The plaintiffs sought declarations affirming their ownership of the church property, recovery of possession, and injunctions against interference. The High Court ruled in favor of the plaintiff, declaring that the seceding members ceased to be part of the church and that the properties belonged to the national church under a trust doctrine. The Court of Appeal affirmed this with expanded declarations, and the Supreme Court upheld the decision. The court emphasized that while members have the right to secede, church property acquired during affiliation is held in trust by the national body and cannot be retained by seceding factions. The judgment also highlighted the spiritual and moral implications of such disputes within Christendom.",
+  "legalKeywords": [
+    "church property dispute",
+    "denominational affiliation",
+    "cessation of membership",
+    "trust doctrine",
+    "religious autonomy",
+    "constitutional interpretation",
+    "secession",
+    "injunction",
+    "recovery of possession",
+    "ecclesiastical governance",
+    "declaratory relief",
+    "perpetual injunction",
+    "order for accounts",
+    "pastoral credentials",
+    "local church constitution"
+  ],
+  "topics": [
+    "Religious Law",
+    "Property Rights",
+    "Trusts",
+    "Constitutional Interpretation",
+    "Injunctions"
+  ],
+  "verdict": "The appeal by the defendants was dismissed. The Supreme Court upheld the lower courts' decisions, affirming that the seceding members ceased to be part of the Assemblies of God Church and that all immovable and movable properties of the Calvary Charismatic Centre belonged to the plaintiff church under a trust arrangement.",
+  "winningSide": "Assemblies of God Church, Ghana",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dotse",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "Date-Bah",
+      "role": "Presiding"
+    },
+    {
+      "name": "Adinyira",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Owusu",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Lartey",
+      "role": "Court of Appeal (former JSC)"
+    },
+    {
+      "name": "Twenboa-Kodua",
+      "role": "Court of Appeal"
+    },
+    {
+      "name": "Asare-Korang",
+      "role": "Dissenting, Court of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Mathew 16:24-25",
+    "St. Ignatius Loyola (quoted in judgment)",
+    "Exhibit BB",
+    "Exhibits C, C1, C2",
+    "Court of Appeal Rules, 1997 C.I. 19, Rule 15"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court upheld that secession from a denomination does not automatically entitle seceding members to retain church property held in trust.",
+    "Church property is governed by the national constitution, which vests ownership in the central body (Assemblies of God, Ghana).",
+    "The right to affiliate implies the right to disaffiliate, but not to take property held in trust.",
+    "The decision emphasized spiritual humility and warned against self-interest in religious leadership."
+  ],
+  "confidenceNotes": "The case details are drawn directly from the judgment text, with clear references to exhibits, constitutional provisions, and court rulings. The summary reflects undisputed facts and judicial reasoning as presented.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2010/ASSEMBLIES OF GOD CHURCH, GHANA v REV. RANSFORD OBENG & OTHE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:43:05.754Z",
+    "plainTextLength": 43559
+  },
+  "trialDate": "2009-07-04"
+}

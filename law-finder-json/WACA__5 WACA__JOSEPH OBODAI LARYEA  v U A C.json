@@ -1,0 +1,65 @@
+{
+  "caseTitle": "JOSEPH OBODAI LARYEA v U A C",
+  "summary": "In this 1939 West Africa Court of Appeal case, Joseph Obodai Laryea appealed a lower court decision dismissing his claim for declaration of title, recovery of possession, and damages for trespass over land in Nsawam, Ghana. The land was originally conveyed to the plaintiff's brother, Albert Laryea, who mortgaged it to Millers Limited and later sold the western portion to the plaintiff, granting only an equity of redemption. A 1929 re-conveyance deed, intended to transfer legal title from Millers Limited to the plaintiff, was not fully executed—lacking attestation and not delivered—thus failing to pass legal estate. The United Africa Co. Ltd. later purported to sell the land to the second defendant in 1930, but this sale was deemed legally ineffective due to unproven corporate succession. The court upheld the trial judge’s finding that the plaintiff failed to prove legal title, and consequently dismissed claims for possession and trespass. Even if title were established, the plaintiff’s inaction for six years despite knowledge of the sale constituted laches, barring equitable relief. The appeal was dismissed, with costs awarded to the second defendant, while the first defendant was ordered to bear its own costs due to its role in initiating the flawed sale.",
+  "legalKeywords": [
+    "legal estate",
+    "equity of redemption",
+    "laches",
+    "declaration of title",
+    "recovery of possession",
+    "trespass",
+    "deed execution",
+    "attestation",
+    "possession",
+    "bona fides",
+    "equitable title",
+    "mortgage",
+    "conveyance",
+    "succession",
+    "procedural waiver"
+  ],
+  "topics": [
+    "Property Law",
+    "Equity",
+    "Land Title Disputes",
+    "Appellate Review",
+    "Trespass"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "M'CARTHY, J."
+    },
+    {
+      "name": "STROTHER-STEWART, AG. C.]."
+    },
+    {
+      "name": "DOORLY, J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "WACA/5"
+  ],
+  "rationaleHighlights": [
+    "The deed of re-conveyance failed to pass legal estate due to incomplete execution and lack of attestation.",
+    "Plaintiff’s claim based on legal title failed; no alternative basis on equitable title or prior possession was advanced.",
+    "Even if title were proven, laches would bar relief due to plaintiff’s six-year inaction.",
+    "Second defendant’s possession since 1930, with improvements, supported dismissal.",
+    "First defendant’s abortive sale contributed to litigation, justifying cost allocation."
+  ],
+  "confidenceNotes": "High confidence; all key facts, holdings, and judicial reasoning are explicitly stated in the judgment. Jurisdiction and court level are clearly identified. Some formatting anomalies in the source (e.g., 'COR. STROTHER-STEWART, AG. C].') appear to be OCR errors but do not affect factual accuracy.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/JOSEPH OBODAI LARYEA  v U A C.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:46:54.194Z",
+    "plainTextLength": 13264
+  },
+  "trialDate": "1939-12-04"
+}

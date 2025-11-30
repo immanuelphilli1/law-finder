@@ -1,0 +1,51 @@
+{
+  "caseTitle": "AUGUSTINE YAW MANU v MADAM",
+  "summary": "The document is a table of unreported cases from the Supreme Court of Ghana for the year 2005, listing various civil and chieftaincy appeals heard between January and December 2005. It includes case titles, appeal or motion numbers, and hearing dates. The cases involve diverse matters such as property disputes, human rights, administrative justice, estate issues, and chieftaincy conflicts. No detailed judgments or rulings are provided in this index-style document, which serves as a reference list rather than a full legal report.",
+  "legalKeywords": [
+    "Supreme Court",
+    "Ghana",
+    "civil appeal",
+    "unreported cases",
+    "chancery division",
+    "estate dispute",
+    "property rights",
+    "chietaincy appeal",
+    "administrative justice",
+    "human rights",
+    "judicial review",
+    "civil motion",
+    "succession",
+    "land dispute",
+    "contract dispute"
+  ],
+  "topics": [
+    "Civil Appeals",
+    "Chieftaincy Disputes",
+    "Estate Matters",
+    "Human Rights",
+    "Administrative Justice"
+  ],
+  "verdict": "unknown",
+  "winningSide": "unknown",
+  "prosecutionType": "civil",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal / Chieftaincy Appeal",
+  "citations": [
+    "CIVIL APPEAL NO. J4/32/2004",
+    "CIVIL APPEAL NO. J4/4/2005",
+    "CHIEFTAINCY APPEAL NO. 1/2002"
+  ],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The source is an index of cases without full judgments; therefore, details on verdicts, judges, and legal rationale are unavailable. Information is limited to case titles, numbers, and dates.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2005.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T09:55:20.629Z",
+    "plainTextLength": 1680
+  },
+  "trialDate": "2005-04-04"
+}

@@ -1,0 +1,68 @@
+{
+  "caseTitle": "REX v JAMES ANUKU",
+  "summary": "In this 1940 West Africa Court of Appeal decision, James Anuku appealed his conviction for murder, arguing that the trial judge erred in rejecting the defense of insanity. The trial judge acknowledged that Anuku was not mentally normal but held that the evidence was insufficiently explicit to establish legal insanity under section 28 of the Criminal Code. The appellate court upheld the conviction, citing R. v. True, 16 C.A.R. 167, and affirmed that the judge, as the trier of fact, was entitled to conclude that the totality of the evidence did not prove insanity at the time of the offense. The appeal was dismissed.",
+  "legalKeywords": [
+    "murder",
+    "insanity defense",
+    "sufficiency of evidence",
+    "criminal responsibility",
+    "mental abnormality",
+    "section 28 Criminal Code",
+    "appellate review",
+    "jury direction",
+    "forensic psychiatry",
+    "legal burden of proof",
+    "criminal appeal",
+    "judicial discretion",
+    "mental state at time of offense",
+    "medical evidence",
+    "non-insane abnormal mind"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Mental Health Law",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Insanity Defense"
+  ],
+  "verdict": "Appeal dismissed; conviction for murder upheld.",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. True, 16 Criminal Appeal Report, p.167"
+  ],
+  "rationaleHighlights": [
+    "The trial judge acknowledged the accused was not mentally normal but found the evidence insufficient to meet the legal threshold for insanity under section 28 of the Criminal Code.",
+    "The appellate court upheld the trial judge's evaluation, emphasizing that the facts as a whole did not establish insanity at the time of the act.",
+    "The court relied on R. v. True to affirm that even in the absence of contradictory medical evidence, the tribunal of fact is not bound to accept an insanity defense.",
+    "No medical evidence was presented by the prosecution, but the judge was still entitled to reject the defense based on the totality of the evidence.",
+    "The appeal was dismissed because the court found no misdirection in law or error in factual assessment."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment, including the legal standard applied and the court's reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/REX v   JAMES ANUKU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:58:59.920Z",
+    "plainTextLength": 3896
+  },
+  "trialDate": "1940-04-27"
+}

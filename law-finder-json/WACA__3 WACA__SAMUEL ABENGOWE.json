@@ -1,0 +1,65 @@
+{
+  "caseTitle": "SAMUEL ABENGOWE",
+  "summary": "Samuel Abengowe was convicted of manslaughter for allegedly causing the death of Nwantu Oriaku through an injection administered without medical qualification. The deceased, who had long-standing syphilis and sores, died shortly after receiving an injection from Abengowe. A post-mortem could not determine the cause of death due to decomposition. The prosecution failed to specify the exact nature of the alleged negligence—whether due to a dirty needle, contaminated liquid, or overdose of poison. The trial court wrongly excluded the Government Analyst's report, which could have clarified whether poison was present. The appellate court held that there was insufficient evidence to establish that the injection caused or accelerated death, and that the conviction could not be sustained on speculative grounds. The appeal was allowed, the conviction quashed, and an acquittal entered.",
+  "legalKeywords": [
+    "manslaughter",
+    "unlawful act",
+    "negligence",
+    "cause of death",
+    "post-mortem examination",
+    "admissibility of evidence",
+    "analyst's report",
+    "septicremia",
+    "poison",
+    "syphilis"
+  ],
+  "topics": [
+    "criminal law",
+    "evidence",
+    "medical jurisprudence",
+    "appellate review"
+  ],
+  "verdict": "Appeal allowed; conviction quashed; acquittal entered",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "WACA/3 WACA/SAMUEL ABENGOWE"
+  ],
+  "rationaleHighlights": [
+    "Insufficient evidence to prove death was caused or accelerated by the accused's act",
+    "Exclusion of analyst's report unjustified and prejudicial",
+    "Prosecution failed to specify precise negligence alleged",
+    "Post-mortem could not determine cause of death due to decomposition",
+    "Swelling not conclusively linked to dirty injection",
+    "Possibility of alternative causes not ruled out",
+    "Conviction unsafe based on speculative reasoning",
+    "Acquittal directed due to lack of evidentiary support"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and documented procedural errors.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/SAMUEL ABENGOWE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:10:38.766Z",
+    "plainTextLength": 6361
+  },
+  "trialDate": "1936-11-02"
+}

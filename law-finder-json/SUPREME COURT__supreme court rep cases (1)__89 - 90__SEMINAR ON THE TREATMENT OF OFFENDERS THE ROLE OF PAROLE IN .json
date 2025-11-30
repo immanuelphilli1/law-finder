@@ -1,0 +1,76 @@
+{
+  "caseTitle": "SEMINAR ON THE TREATMENT OF OFFENDERS THE ROLE OF PAROLE IN",
+  "summary": "This 1989–90 seminar paper by Justice Danyagre J.S. examines the role of parole in Ghana's criminal justice system, advocating for community-based corrections as a humane, effective, and fiscally responsible alternative to prolonged incarceration. Drawing on the British parole model, the paper outlines that prisoners serving determinate sentences become eligible for parole after one-third of their sentence or six months, whichever is later. Parole is not a right but a privilege granted based on good conduct, rehabilitation potential, and risk assessment. The process involves a Local Review Committee and the Parole Board, which advises the Secretary of State (Interior Minister). Conditions of parole include reporting to probation officers, maintaining employment, and obtaining permission for travel. Violation can lead to recall. The paper emphasizes that long-term imprisonment may worsen criminal behavior, citing research showing lower recidivism among early releases. It critiques Ghana's prison overcrowding, largely due to non-violent offenses like theft, and calls for reform through expanded use of parole to reduce systemic strain and promote reintegration.",
+  "legalKeywords": [
+    "parole",
+    "prison reform",
+    "rehabilitation",
+    "incarceration",
+    "recidivism",
+    "probation",
+    "community-based corrections",
+    "penal policy",
+    "good conduct remission",
+    "prison overcrowding",
+    "criminal justice administration",
+    "supervision of offenders",
+    "risk assessment",
+    "reconviction",
+    "prisonisation",
+    "determinate sentencing",
+    "parole board",
+    "local review committee",
+    "parole licence conditions",
+    "fiscal savings in corrections"
+  ],
+  "topics": [
+    "Parole System",
+    "Prison Reform",
+    "Criminal Rehabilitation",
+    "Overcrowding in Prisons",
+    "Community Corrections"
+  ],
+  "verdict": "The paper does not contain a judicial verdict but presents a policy recommendation supporting the expansion and structured implementation of the parole system in Ghana to improve criminal justice outcomes.",
+  "winningSide": "N/A",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Danyagre J S",
+      "role": "Author of seminar paper"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "American Friends Service Committee 1971, p 33",
+    "Prisons and the Prisoner, 1977, para 108",
+    "Bentham, 1864, p. 351",
+    "Clemmer 1940, pp 299-316",
+    "Eichman, 1966",
+    "Juman and Dickover, 1969",
+    "Hawkins, 1976, chap 3",
+    "Walker, 1965, pp 257-259",
+    "Walker, 1971, pp 120-122",
+    "Hood and Sparks, 1970, chaps 6 and 7"
+  ],
+  "rationaleHighlights": [
+    "Imprisonment may be criminogenic and counterproductive to rehabilitation",
+    "Parole serves as a rehabilitative and cost-effective alternative to full incarceration",
+    "Overcrowding undermines prison reform objectives and living conditions",
+    "Parole decisions are based on risk assessment and reform potential, not automatic entitlement",
+    "Community-based corrections reduce social and economic costs of imprisonment",
+    "Longer prison sentences correlate with higher reconviction rates",
+    "Parole acts as an institutional incentive for good behavior",
+    "Scientific prediction tools help assess reoffending risk"
+  ],
+  "confidenceNotes": "The document is a seminar paper by Justice Danyagre and not a formal court judgment, so citations are academic or policy references rather than binding legal authority. Information on parole procedures is presented as descriptive of the system based on the British model.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/89 - 90/SEMINAR ON THE TREATMENT OF OFFENDERS THE ROLE OF PAROLE IN .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:15:49.432Z",
+    "plainTextLength": 16569
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "caseTitle": "BAIL IN MURDER CASES [1987-88] VOL. XVI RGL 252—259",
+  "summary": "In Republic v Crentsil, the Ghanaian High Court addressed the interpretation of section 96(7)(a) of the Criminal Procedure Code (Amendment) Decree, 1975 (NRCD 309), which appears to prohibit bail in murder cases. Justice Kpegah held that the provision does not completely oust judicial discretion to grant bail where the prosecution fails to present sufficient evidence to establish a prima facie case of murder. The court emphasized that the mere charging of murder does not automatically trigger the bail prohibition; rather, there must be objective evidence supporting all essential elements of the offence. The judge distinguished the role of a bail court from that of a trial court, noting that pre-trial judges must assume the truth of prosecution evidence but should not engage in weighing its credibility or drawing inferences as a jury would. The decision clarified that bail may be withdrawn if new evidence emerges that establishes a prima facie case. The ruling reinforced that a scintilla of evidence is insufficient for committal or bail refusal, aligning with prior precedents and safeguarding individual liberty while recognizing the gravity of murder charges.",
+  "legalKeywords": [
+    "bail",
+    "murder",
+    "prima facie case",
+    "section 96(7)(a)",
+    "Criminal Procedure Code",
+    "NRCD 309",
+    "circumstantial evidence",
+    "committal",
+    "no case to answer",
+    "evidence sufficiency",
+    "judicial discretion",
+    "liberty",
+    "prosecution burden",
+    "cross-examination",
+    "scintilla of evidence"
+  ],
+  "topics": [
+    "bail",
+    "criminal procedure",
+    "evidence",
+    "judicial discretion",
+    "murder",
+    "constitutional rights",
+    "Ghanaian law"
+  ],
+  "verdict": "Bail was upheld because the prosecution failed to present evidence sufficient to establish a prima facie case of murder.",
+  "winningSide": "defence",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kpegah",
+      "role": "trial judge"
+    },
+    {
+      "name": "Aboagye",
+      "role": "precedent judge"
+    },
+    {
+      "name": "Taylor",
+      "role": "precedent judge"
+    },
+    {
+      "name": "Korsah",
+      "role": "precedent judge"
+    },
+    {
+      "name": "Amissah",
+      "role": "precedent judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Republic v Crentsil",
+    "Prah v The Republic",
+    "Seidu v The Republic",
+    "State v Bisa",
+    "Republic v Kwame Crentsil and Okoe Awulley"
+  ],
+  "rationaleHighlights": [
+    "Section 96(7)(a) does not categorically bar bail in murder cases if no prima facie case is established",
+    "Bail may be granted if evidence does not support all elements of murder",
+    "A bail judge must assume prosecution evidence is true but need not weigh it like a trial judge",
+    "New evidence showing a prima facie case can justify withdrawal of bail",
+    "Circumstantial evidence must meet a high threshold to justify denial of bail",
+    "Committal or bail refusal requires more than a scintilla of evidence",
+    "Judges must avoid prejudging the case at the bail stage",
+    "Balance between individual liberty and seriousness of murder is critical"
+  ],
+  "confidenceNotes": "The analysis is based on a published legal commentary interpreting judicial reasoning in bail applications in murder cases under Ghanaian law. The primary case discussed is Republic v Crentsil, with reference to binding precedents and statutory provisions. The truncated conclusion does not affect core holdings.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/87 - 88/BAIL IN MURDER CASES [1987-88] VOL. XVI RGL 252—259.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:05:19.462Z",
+    "plainTextLength": 21135
+  }
+}

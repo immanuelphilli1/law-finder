@@ -1,0 +1,62 @@
+{
+  "caseTitle": "REGINA VERSUS BANDAY.",
+  "summary": "In Regina v. Banday, the accused was convicted of murder for stabbing his brother during a disturbance while allegedly intoxicated. The facts showed that after drinking, the accused attacked a third party, was restrained by his brother, and then stabbed him from behind with a penknife, causing fatal injuries. The defense argued that the accused was too intoxicated to form the necessary intent for murder. The court held that while intoxication may be considered in assessing intent under section 11(4) of the Criminal Code, it does not negate malice aforethought where the accused knew their actions would probably cause death or grievous harm, even if indifferent to the outcome—per section 190(b). The judge found the accused had exaggerated his level of intoxication, noting he gave a coherent account of events shortly after the incident and showed awareness and distress. Therefore, malice aforethought was established, and the conviction for murder under section 187 stood.",
+  "legalKeywords": [
+    "murder",
+    "intoxication",
+    "malice aforethought",
+    "criminal liability",
+    "recklessness",
+    "intent",
+    "Criminal Code",
+    "evidence of intoxication",
+    "presumption of intention",
+    "grievous bodily harm",
+    "self-defense",
+    "burden of proof",
+    "R. v. Beard",
+    "section 190(b)",
+    "section 11(4)"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Murder",
+    "Intoxication Defense",
+    "Intent and Mens Rea",
+    "Judicial Reasoning"
+  ],
+  "verdict": "Guilty of murder",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Miles C.J.",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court of the Protectorate of the Gambia",
+    "country": "Gambia"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Beard (1919) 14 Cr.App.R. 110",
+    "Criminal Code, c. 21, s. 11(4)",
+    "Criminal Code, c. 21, s. 190(b)",
+    "Criminal Code, c. 21, s. 187"
+  ],
+  "rationaleHighlights": [
+    "Intoxication does not negate malice aforethought unless it renders the accused incapable of knowing the probable consequences of their actions.",
+    "Indifference to whether death or grievous harm results satisfies the definition of malice aforethought under s. 190(b).",
+    "Section 11(4) of the Criminal Code only applies where intent is an essential element; it does not assist where liability is based on knowledge and recklessness.",
+    "The accused’s conduct after the act—such as recalling events and showing distress—undermined claims of extreme intoxication.",
+    "A person who acts recklessly while intoxicated is still criminally liable for the natural consequences of their actions."
+  ],
+  "confidenceNotes": "High confidence; facts and legal reasoning are clearly articulated in the judgment with direct references to statutory provisions and precedent.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/REGINA v. BANDAY..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:24:59.139Z",
+    "plainTextLength": 8807
+  }
+}

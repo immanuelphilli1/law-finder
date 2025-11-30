@@ -1,0 +1,112 @@
+{
+  "caseTitle": "THE REPUBLIC VRS THE HIGH COURT, CAPE COAST EX PARTE GHANA",
+  "summary": "The Supreme Court of Ghana was called upon to determine whether Justice Tanko Amadu had jurisdiction to vary an earlier order made by Justice Kwofie, who was on leave, granting a stay of execution and installment payments in a civil judgment debt case. The applicant, Ghana Cocoa Board, argued that the variation order was made without jurisdiction and thus null. The Supreme Court held that Justice Amadu did not improperly assume jurisdiction, as the application was not a review but a variation sought due to ambiguity in the original order. The Court found that the variation did not contravene procedural rules, particularly Order 42 Rule 4 of C.I. 47, and affirmed that a judgment creditor may seek clarification or modification of an ambiguous order. The application to quash the variation order was dismissed.",
+  "legalKeywords": [
+    "supervisory jurisdiction",
+    "jurisdiction",
+    "variation of order",
+    "stay of execution",
+    "judgment debt",
+    "installment payment",
+    "functus officio",
+    "ambiguity in court order",
+    "High Court Rules",
+    "Order 42 Rule 4",
+    "C.I. 47",
+    "consent judgment",
+    "execution process",
+    "judgment creditor",
+    "judgment debtor",
+    "vacation judge",
+    "procedural propriety",
+    "appeal",
+    "civil procedure",
+    "court registry",
+    "default clause",
+    "legal standing",
+    "judicial review",
+    "stay application",
+    "execution levy",
+    "judicial authority",
+    "court formal order",
+    "affidavit in support",
+    "motion for review",
+    "application for variation"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Judicial Review",
+    "Execution of Judgment",
+    "Supervisory Jurisdiction",
+    "Court Orders"
+  ],
+  "verdict": "Application dismissed",
+  "winningSide": "Respondent (High Court, Cape Coast) and Interested Party (Ghana Cocoa Board)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Anin Yeboah",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Justice"
+    },
+    {
+      "name": "Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Owusu",
+      "role": "Justice"
+    },
+    {
+      "name": "G. T. Wood (Mrs.)",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "S. A. Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "J. V. M. Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "P. Baffoe-Bonnie",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Motion",
+  "citations": [
+    "RE GM HOLDINGS LTD [1941] 3 ALL ER 417",
+    "GHANA NATIONAL TRADING CORPORATION VRS BAIDEN [1987-88] 2GLR 163 CA",
+    "Order 42 Rule 4, High Court (Civil Procedure) Rules 2004, C.I. 47"
+  ],
+  "rationaleHighlights": [
+    "Justice Amadu did not lack jurisdiction to hear the variation application despite Justice Kwofie being on leave.",
+    "Order 42 Rule 4 prohibits review applications when a judge is on leave for less than three months, but this was a variation, not a review.",
+    "The variation sought clarification of an ambiguous order and did not improperly alter the original judgment.",
+    "A judgment creditor may apply for variation if an order creates ambiguity or practical difficulty.",
+    "The Supreme Court emphasized that no appeal was pending, distinguishing the case from functus officio principles.",
+    "The original stay and installment terms were largely affirmed; only the default clause was modified.",
+    "The Court found no jurisdictional overreach, as the judge acted within procedural bounds.",
+    "The applicant failed to demonstrate that the variation was ultra vires or procedurally flawed."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; all key details including parties, procedural history, legal arguments, and judicial reasoning are clearly stated in the ruling. Citations and rules are accurately referenced.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/THE REPUBLIC  VRS THE HIGH COURT, CAPE COAST EX PARTE GHANA .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:01:00.931Z",
+    "plainTextLength": 11255
+  },
+  "trialDate": "2009-05-05"
+}

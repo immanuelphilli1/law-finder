@@ -1,0 +1,64 @@
+{
+  "caseTitle": "KOJO ATTA v KWAKU APAWU",
+  "summary": "This 1941 West Africa Court of Appeal decision arose from a trespass claim over land known as Agyinfra Land, originally filed by Robina Nketsia as Odikro of Dahia, who died during proceedings. Kojo Atta was substituted as plaintiff in the same representative capacity. The lower court found he was not the Odikro but still awarded him �35 in damages for personal trespass and granted an injunction, treating the suit as individual rather than representative. The appellate court held that while the lower court could have amended the writ to reflect the correct capacity, it failed to do so and did not afford defendants a chance to object. The appeal was allowed, the judgment set aside, and the case remitted to the Commissioner's Court to determine whether amendment would cause injustice. If so, the claim would be dismissed; otherwise, judgment could proceed on the amended writ, with opportunity for additional evidence. Defendants were awarded costs of the appeal.",
+  "legalKeywords": [
+    "trespass",
+    "amendment of writ",
+    "stool property",
+    "Odikro",
+    "representative capacity",
+    "injunction",
+    "damages",
+    "procedural justice",
+    "costs",
+    "appeal"
+  ],
+  "topics": [
+    "Tort Law",
+    "Property Law",
+    "Appellate Procedure",
+    "Customary Leadership",
+    "Civil Procedure"
+  ],
+  "verdict": "Appeal allowed; judgment set aside and case remitted for procedural determination on amendment of writ.",
+  "winningSide": "Appellants (defendants) on appeal",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Appeal",
+  "citations": [
+    "WACA/7 WACA/KOJO ATTA v KWAKU APAWU"
+  ],
+  "rationaleHighlights": [
+    "Court found plaintiff not Odikro but still entitled to personal damages if trespass proven",
+    "Amendment of writ permissible if no injustice to defendants",
+    "Defendants must be heard before amendment at appellate stage",
+    "Extra costs from incorrect capacity can be compensated via cost awards",
+    "Appellate court remitted case for procedural correction rather than deciding substantively",
+    "Injunction granted conditionally upon amendment"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on primary source text; no conflicting accounts present.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/KOJO ATTA  v  KWAKU APAWU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:32:49.946Z",
+    "plainTextLength": 8410
+  },
+  "trialDate": "1941-05-19"
+}

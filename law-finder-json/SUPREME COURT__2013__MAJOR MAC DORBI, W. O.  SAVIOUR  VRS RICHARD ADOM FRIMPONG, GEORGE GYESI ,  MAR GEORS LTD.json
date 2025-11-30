@@ -1,0 +1,93 @@
+{
+  "caseTitle": "MAJOR MAC DORBI, W. O. SAVIOUR VRS RICHARD ADOM FRIMPONG, GEORGE GYESI , MAR GEORS LTD",
+  "summary": "This Supreme Court of Ghana decision in Civil Appeal No. J4/45/2011, delivered on 30th January 2013, concerned a land ownership dispute between retired army officers Major Mac Dorbi and W. O. Saviour (appellants) and Richard Adom Frimpong, George Gyesi, and Mar Geors Ltd (respondents). The appellants, while in active military service in the 1980s, were allocated three swampy plots from government land through the Chief of Staff and invested significant funds in developing them. The first respondent later claimed ownership from Nii Kotey III of La and paid $20,000 to a worker, claiming joint ownership with Mac Dorbi. The High Court initially ruled for the appellants, but the Court of Appeal reversed it, citing inconsistencies in pleadings and evidence. The Supreme Court reinstated the High Court's judgment, emphasizing that the physical developments and the $20,000 payment constituted strong acknowledgments of the appellants' title. It held that procedural lapses, including W. O. Saviour's lack of formal appearance, were waived under Order 81 rules of C.I. 47 due to full participation and the principle of substantial justice. The appeal was allowed, the Court of Appeal's decision set aside, and the High Court's judgment restored.",
+  "legalKeywords": [
+    "land ownership",
+    "title dispute",
+    "appellate review",
+    "procedural waiver",
+    "evidence credibility",
+    "lease acquisition",
+    "government land",
+    "counterclaim",
+    "jurisdiction",
+    "civil procedure",
+    "admissions in evidence",
+    "physical development of land",
+    "payment as acknowledgment",
+    "waiver of rights",
+    "consimili casu",
+    "undisputed evidence",
+    "trial judge findings",
+    "appellate interference",
+    "Order 81 rule 1",
+    "Order 81 rule 2(2)"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Civil Procedure",
+    "Evidence",
+    "Property Rights"
+  ],
+  "verdict": "Appeal allowed; judgment of the Court of Appeal set aside and judgment of the High Court restored.",
+  "winningSide": "Appellants (Major Mac Dorbi and W. O. Saviour)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "W. A. Atuguba",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "S. K. Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "S. O. A. Adinyira (Mrs.)",
+      "role": "Justice"
+    },
+    {
+      "name": "J. V. M. Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "N. S. Gbadegbe",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Asante v. Bogyabi (1966) GLR 232, SC",
+    "Banahene v. Adinkra (1976) 1 GLR 346, CA",
+    "Agyakuma v. Opuni (1987-88) 1 GLR 47, SC at 50",
+    "Bisi v. Tabiri (1987) 1 GLR 360, SC",
+    "Manu v. Nsiah (2005-2006) SCGLR 25",
+    "Obeng v. Boateng (1966) GLR 689",
+    "Nyako v. A.E. Akwa (1949) 12 WACA 465",
+    "Kini v. The Republic (1980) GLR 412",
+    "Adam v. The Republic (1992) 2 GLR 150",
+    "Hanna Assi v. GIHOC Refrigeration & Household Products Ltd (No.2) (2007-2008) SCGLR 16"
+  ],
+  "rationaleHighlights": [
+    "Undisputed physical developments on the land support appellants' claim",
+    "Payment of $20,000 by respondent acknowledged Mac Dorbi's title",
+    "Inconsistencies in evidence do not outweigh clear admissions and conduct",
+    "Appellate court should not disturb trial judge's findings where supported by evidence",
+    "Procedural defects waived under Order 81 rules due to full litigation by parties",
+    "Principle of substantial justice prevails over technicalities",
+    "Parties fully litigated ownership, validating outcome despite procedural lapses",
+    "Presumption of correctness attached to trial court's factual findings"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official Supreme Court judgment text and consistent internal logic.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/MAJOR MAC DORBI, W. O.  SAVIOUR  VRS RICHARD ADOM FRIMPONG, GEORGE GYESI ,  MAR GEORS LTD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:11:35.755Z",
+    "plainTextLength": 7780
+  },
+  "trialDate": "2013-01-30"
+}

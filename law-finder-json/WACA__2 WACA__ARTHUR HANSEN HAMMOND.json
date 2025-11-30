@@ -1,0 +1,71 @@
+{
+  "caseTitle": "ARTHUR HANSEN HAMMOND",
+  "summary": "This 1935 West Africa Court of Appeal decision concerned a land dispute over St. Janet's Harbour in Accra, Ghana, between two branches of the Kreshie family. The plaintiff, Arthur Hansen Hammond, claimed the property as family land, while the defendants, descendants of Janet Plange, asserted individual ownership through a gift inter vivos from her husband. The trial court ruled for the plaintiff, but the appellate court reversed, finding that documentary evidence—including mortgages, reconveyances, and leases—demonstrated long-standing recognition of individual ownership by Janet Plange and her descendants. The court emphasized acts of ownership, such as leasing and rent collection, as valid under native customary law for acceptance of a gift of immovable property. The appeal was allowed, the plaintiff's claim dismissed, and costs awarded.",
+  "legalKeywords": [
+    "gift inter vivos",
+    "native customary law",
+    "title to land",
+    "family property",
+    "individual ownership",
+    "reconveyance",
+    "mortgage",
+    "acceptance of gift",
+    "West Africa Court of Appeal",
+    "exclusive possession",
+    "land dispute",
+    "documentary evidence",
+    "declaration of title",
+    "recovery of possession",
+    "customary land tenure"
+  ],
+  "topics": [
+    "Land Law",
+    "Family Property",
+    "Appellate Review",
+    "Customary Law",
+    "Property Ownership"
+  ],
+  "verdict": "Appeal allowed; plaintiff's claim dismissed",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Cor. Yates",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Exhibit Y",
+    "Exhibit D",
+    "Exhibit E",
+    "Exhibit F"
+  ],
+  "rationaleHighlights": [
+    "The mortgage (Exhibit Y) included Momo’s signature not because the land was family property, but likely because the loan was requested through her.",
+    "Reconveyances (Exhibits D, E, F) treated the property as belonging solely to Janet Plange and her successors, not the Kreshie family.",
+    "The plaintiff admitted no other family members claimed the property, undermining his claim to represent the family.",
+    "Acts such as leasing the property and collecting rent constituted valid acceptance of a gift under native customary law.",
+    "Longstanding, unchallenged exercise of ownership by Janet Plange’s branch supports individual title."
+  ],
+  "confidenceNotes": "High confidence based on clear appellate reasoning and consistent documentary evidence. The court thoroughly analyzed native customary law and key exhibits, with no contradictory findings.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/ARTHUR HANSEN HAMMOND.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:32:38.176Z",
+    "plainTextLength": 11903
+  },
+  "trialDate": "1935-12-21"
+}

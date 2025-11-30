@@ -1,0 +1,88 @@
+{
+  "caseTitle": "THE REPUBLIC v THE HIGH COURT, ACCRA(COMMERCIAL DIVISION)",
+  "summary": "The Supreme Court of Ghana ruled that Justice Tanko Amadu of the Commercial Division of the High Court lacked jurisdiction to hear and determine a contempt application after the 2008 legal vacation had ended, as his authority as a vacation judge had lapsed and there was no formal transfer of the case to his division. The applicant, Dr. Kwabena Appenteng, had been found guilty of contempt by Tanko Amadu J for allegedly violating a court order during the execution of a writ of possession, but challenged the ruling on grounds of lack of jurisdiction. The Supreme Court emphasized that while contempt is a substantive matter, the judge's authority was confined to the vacation period and did not extend beyond it. The Court also reaffirmed that certiorari is a discretionary remedy and will not be granted automatically, even for want of jurisdiction, if the party failed to raise a timely objection. The decision underscores the importance of respecting judicial divisions and procedural rules to prevent forum shopping and maintain judicial integrity.",
+  "legalKeywords": [
+    "jurisdiction",
+    "contempt of court",
+    "certiorari",
+    "judicial authority",
+    "legal vacation",
+    "vacation judge",
+    "Chief Justice",
+    "divisional jurisdiction",
+    "administrative convenience",
+    "forum shopping",
+    "judicial misconduct",
+    "execution of writ",
+    "forfeiture of machines",
+    "separation of judicial divisions",
+    "stay of execution",
+    "transfer of cases",
+    "judicial discretion",
+    "excess of jurisdiction",
+    "procedural fairness",
+    "rule of law"
+  ],
+  "topics": [
+    "Judicial Jurisdiction",
+    "Contempt of Court",
+    "Certiorari",
+    "Legal Vacation",
+    "Judicial Administration"
+  ],
+  "verdict": "The Supreme Court granted the application for certiorari, quashing the contempt ruling by Tanko Amadu J due to lack of jurisdiction.",
+  "winningSide": "The Republic (Applicant)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ansa, J.S.C."
+    },
+    {
+      "name": "Baffoe-Bonnie, J.S.C."
+    },
+    {
+      "name": "Aryeetey, J.S.C."
+    },
+    {
+      "name": "Gbadebe, J.S.C."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional and administrative law",
+  "citations": [
+    "Republic v. High Court, Ex parte Yalley (Gyane & Ottor Interested Parties) [2007-2008] SC GLR 512",
+    "R v Imer London Quarter Session; Ex parte D’souza (1970) AII ER 481",
+    "R v. Williams; Ex parte Phillips (1914) IK B608",
+    "Wiredu v Mim Timber Co Ltd. (1963) 2 GLR 167 S.C",
+    "Republic v. High Court, Kumasi; Ex parte Ackaah (1995-1996) I GLR 270 S.C",
+    "Imperial Chemical Industries plc v. Colmer (Inspector of Taxes) (1996) 2 AII ER 23 H.L",
+    "Republic v. High Court, Cape Coast; Ex parte Marwan Kort. (1998-99) SC GLR 833",
+    "Soro v Frans (2005-2006) SC GLR 1003",
+    "The Republic v. High Court Judge (Fast Track Division) Accra; Ex parte Quaye & Anor (Yovonoo & Ors Interested Parties) (2005-2006) SC GLR 660"
+  ],
+  "rationaleHighlights": [
+    "A judge of the Commercial Division lacked jurisdiction to hear a contempt case filed in another division after the legal vacation ended.",
+    "Jurisdiction during vacation is limited to the period and authority granted by the Chief Justice.",
+    "Certiorari is discretionary and not automatic, even for want of jurisdiction, if no objection was raised below.",
+    "Judicial divisions are administrative but must be respected to prevent forum shopping and chaos.",
+    "Statutory interpretation must reflect real-world application, not just linguistic analysis.",
+    "Transfer of cases between divisions requires formal authority, typically from the Chief Justice.",
+    "Judges cannot assume jurisdiction beyond their assigned or temporarily authorized scope.",
+    "Proper judicial administration requires adherence to procedural and territorial jurisdictional rules."
+  ],
+  "confidenceNotes": "The ruling is clear on jurisdictional issues and supported by multiple precedents. Some document truncation occurs at the end, but key legal reasoning and outcome are preserved.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2010/THE REPUBLIC  v  THE HIGH COURT, ACCRA(COMMERCIAL DIVISION) .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:40:25.361Z",
+    "plainTextLength": 19804
+  },
+  "trialDate": "2010-02-03"
+}

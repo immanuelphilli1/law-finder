@@ -1,0 +1,66 @@
+{
+  "caseTitle": "SAMUEL DAVID PAPPOE",
+  "summary": "This 1933 West African Court of Appeal decision in Samuel David Papppoe v. Bank of British West Africa addressed an appeal concerning interest charges on an overdrawn current account. The plaintiff-appellant claimed overpayment of interest, asserting a verbal agreement for lower interest rates and denying knowledge of compound interest practices. The court upheld the lower court's judgment, finding no evidence of mistake in payment, affirming the reasonableness and customarity of 10% compound interest with monthly rests, and concluding that the plaintiff had acquiesced to the terms. The court emphasized the notoriety and reasonableness of banking customs in the Gold Coast and England, supported by testimony from bank managers. It rejected claims of a special agreement due to lack of contemporaneous documentation and inconsistent conduct by the plaintiff, who never previously objected to the interest calculations despite detailed correspondence about his account.",
+  "legalKeywords": [
+    "compound interest",
+    "customary practice",
+    "acquiescence",
+    "verbal agreement",
+    "mistake in payment",
+    "banking law",
+    "interest rate",
+    "overdraft",
+    "usury",
+    "notorious custom"
+  ],
+  "topics": [
+    "Banking Law",
+    "Contract Law",
+    "Interest Calculation",
+    "Legal Custom"
+  ],
+  "verdict": "affirmed",
+  "winningSide": "defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Michelin",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "George Campbell Deane",
+      "role": "Chief Justice (lower court)"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana (Gold Coast Colony)"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Moore v. Voughton, 1 Stark. 487",
+    "Standard Bank v. Brodrecht",
+    "Inland Revenue Commissioners v. Holder (1931) 2 K.B. 81",
+    "Parrs Bank v. Yates (1898) 2 Q.B. 460",
+    "Fergusson v. Fyffe 8 Cl. and F. 121",
+    "Spencer v. Wakefield (1887) 4 T.L.R. 194"
+  ],
+  "rationaleHighlights": [
+    "The plaintiff's payment to settle the account was not made under mistake, as he was aware of and agreed to the interest charges.",
+    "The 10% compound interest with monthly rests was found to be fair, reasonable, and in line with established banking custom in the Gold Coast and England.",
+    "The alleged verbal agreement for lower interest rates was not supported by bank records or contemporaneous evidence.",
+    "The plaintiff's long-standing failure to object and his detailed correspondence about the account without mentioning the alleged agreement constituted acquiescence.",
+    "The notoriety and reasonableness of the banking custom were confirmed by testimony from senior bank officials.",
+    "The financial impact of compounding was minimal (e.g., 9s. 8d. on £100 over one year), supporting its reasonableness.",
+    "The entry in the ledger referencing 6% interest was made months after the alleged agreement and contradicted by actual charging patterns.",
+    "The court relied on English precedents recognizing capitalization of interest as binding when customers acquiesce."
+  ],
+  "confidenceNotes": "The summary is based on a complete review of the provided judgment text. All key legal issues, holdings, and reasoning are accurately represented. The case is historical (1933) and originates from the Gold Coast Colony, now Ghana. The jurisdictional and procedural context is correctly identified. The absence of the full lower court record does not impair understanding of the appellate court's reasoning, which is fully articulated.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/SAMUEL DAVID PAPPOE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:38:54.816Z",
+    "plainTextLength": 26498
+  },
+  "trialDate": "1933-06-12"
+}

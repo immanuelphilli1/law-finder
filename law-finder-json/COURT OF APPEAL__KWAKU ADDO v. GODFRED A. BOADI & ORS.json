@@ -1,0 +1,71 @@
+{
+  "caseTitle": "ADDO v. GODFRED A. BOADI & ORS.",
+  "summary": "In Kwaku Addo v. Godfred A. Boadi & Ors. (CA No. 114/2002, 5 March 2004), the Court of Appeal of Ghana set aside the trial High Court's judgment that upheld a redistribution of Opanin Kweku Boadi's estate as a valid negotiated settlement. The appellant had sought to set aside the redistribution, claiming it was an invalid arbitration, and sought injunctions, damages, and refund of payments made to the panel. The trial judge had treated the validity of the arbitration as a preliminary issue and limited evidence accordingly, ultimately ruling it was a negotiated settlement. The Court of Appeal held this was erroneous because the pleaded case centered on arbitration, not negotiated settlement, and the latter was not raised by either party. The court emphasized that arbitration and negotiated settlement are legally distinct under customary law. Additionally, the trial judge's ruling claimed to be based on hearing both counsel, but the record showed no such hearing occurred, raising concerns about extraneous considerations. The court also found procedural irregularity in failing to use Order 36 rule 4 to direct a separate trial of issues, thereby compromising fair trial. Consequently, the appeal succeeded, the lower court's decision was set aside, and a new trial was ordered.",
+  "legalKeywords": [
+    "arbitration",
+    "negotiated settlement",
+    "estoppel by arbitration",
+    "procedural irregularity",
+    "customary law",
+    "redistribution of estate",
+    "trial procedure",
+    "Order 36 rule 4",
+    "Order 70",
+    "evidence evaluation",
+    "counterclaim",
+    "preliminary issue",
+    "fair trial",
+    "jurisdiction",
+    "pleadings"
+  ],
+  "topics": [
+    "Customary Law",
+    "Civil Procedure",
+    "Arbitration",
+    "Appeal",
+    "Estate Distribution"
+  ],
+  "verdict": "The appeal was allowed. The decision of the trial court was set aside and a new trial ordered.",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Essilfie-Bondzie",
+      "role": "Presiding Justice of Appeal"
+    },
+    {
+      "name": "Gbadegbe",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Mensah v Essah (1976) 1GLR 424",
+    "Obadzen v Onanka II (1982-83) GLR 46",
+    "Food Specialties v Ramia (1989-90) 2GLR 327"
+  ],
+  "rationaleHighlights": [
+    "The trial judge erred in ruling on a preliminary issue without proper record of hearing counsel.",
+    "The trial judge incorrectly based his decision on a 'negotiated settlement' not pleaded by either party.",
+    "Arbitration and negotiated settlement are distinct under customary law.",
+    "The trial judge failed to follow proper procedure under Order 36 rule 4 for separate trial of issues.",
+    "The appeal succeeds due to procedural irregularities affecting fair trial.",
+    "The original judgment is set aside and a new trial ordered."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from the judgment text. All legal references and procedural details are explicitly stated in the source.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/KWAKU ADDO v. GODFRED A. BOADI & ORS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:22:39.191Z",
+    "plainTextLength": 11828
+  },
+  "trialDate": "2004-03-05"
+}

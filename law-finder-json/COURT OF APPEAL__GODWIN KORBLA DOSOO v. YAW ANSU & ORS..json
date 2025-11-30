@@ -1,0 +1,66 @@
+{
+  "caseTitle": "GODWIN KORBLA DOSOO v. YAW ANSU & ORS.",
+  "summary": "In this civil appeal from a land ownership dispute, the Court of Appeal of Ghana set aside the trial court's judgment in favor of the respondent, Godwin Korbla Dosoo, who claimed ownership of a plot in East Legon based on a purchase from the Wofa Trebi Family. The appellants, Yaw Ansu and others, derived their title from a prior sale by the Obodae family to Yaw Darko. The trial judge held that the Wofa Trebi Family had valid title when they sold to the respondent, rendering the appellants' transaction void under the maxim 'nemo dat quod non habet'. However, the Court of Appeal found the trial unsatisfactory due to reliance on unpleaded and unproven evidence regarding a prior judgment allegedly transferring title from the Obodae to the Wofa Trebi Family. The appellate court emphasized that no formal judgment or deed of surrender was presented, and it was inconsistent for Afutu, head of the Wofa Trebi Family, to both transfer the land to the respondent and request the appellants to regularize their title. Consequently, the appeal was allowed, and the lower court's decision was overturned due to insufficient evidence and unresolved factual issues.",
+  "legalKeywords": [
+    "land title",
+    "nemo dat quod non habet",
+    "title registration",
+    "attornment",
+    "deed of surrender",
+    "ownership dispute",
+    "evidence",
+    "civil appeal",
+    "unpleaded evidence",
+    "burden of proof"
+  ],
+  "topics": [
+    "Land Law",
+    "Property Dispute",
+    "Appellate Review",
+    "Evidence Law",
+    "Title Registration"
+  ],
+  "verdict": "The appeal was allowed; the judgment of the lower court was set aside due to insufficient evidence and unresolved factual issues.",
+  "winningSide": "Appellants (Yaw Ansu & Ors.)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "P.K. Twumasi",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "P.K. Owusu-Ansah",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "S.Y. Anim",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "GODWIN KORBLA DOSOO v. YAW ANSU & ORS. [4/03/2004] C.A. NO. 26/2002"
+  ],
+  "rationaleHighlights": [
+    "The trial judge relied on unpleaded evidence about a prior judgment affecting land title, which was not formally tendered or proven.",
+    "The appellate court found it contradictory that Afutu would both transfer land to the respondent and request appellants to regularize title to the same land.",
+    "The appeal succeeded due to insufficient evidence on critical issues: identity of the land, existence of prior judgment, and validity of title surrender.",
+    "The principle of 'nemo dat quod non habet' was considered but deemed inapplicable without proof of prior valid ownership.",
+    "Failure to produce the alleged judgment or deed of surrender rendered the trial unsatisfactory.",
+    "The appellants had made payments to attorn as tenants, indicating recognition of Wofa Trebi Family's authority, complicating ownership claims.",
+    "The court emphasized that vital factual issues were left unanswered by the trial court.",
+    "The appeal was allowed due to procedural and evidentiary deficiencies in the lower court's judgment."
+  ],
+  "confidenceNotes": "The case details are clearly stated in the judgment document with consistent names, dates, and legal reasoning. However, the absence of a formally tendered judgment record regarding the Obodae vs. Wofa Trebi dispute introduces some evidentiary uncertainty, which the appellate court explicitly noted.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/GODWIN KORBLA DOSOO v. YAW ANSU & ORS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:29:33.747Z",
+    "plainTextLength": 6892
+  },
+  "trialDate": "2004-03-04"
+}

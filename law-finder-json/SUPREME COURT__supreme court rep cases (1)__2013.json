@@ -1,0 +1,41 @@
+{
+  "caseTitle": "supreme court rep cases (1)",
+  "summary": "The provided document is not a legal decision but a table of contents from a publication titled 'Review of Ghana Law 1983–86'. It lists various legal articles, book reviews, and commentaries authored by legal scholars and practitioners, covering topics such as arbitration under customary law, intestate succession, land registration, judicial duties, and legal practice in Ghana during the specified period. There is no case analysis, judgment, or court ruling contained in the text.",
+  "legalKeywords": [
+    "customary law",
+    "intestate succession",
+    "land registration",
+    "prerogative writs",
+    "judicial duties",
+    "legal practice",
+    "arbitration",
+    "sources of law",
+    "state attorneys",
+    "personal injuries"
+  ],
+  "topics": [
+    "Legal Scholarship",
+    "Ghanaian Legal System",
+    "Customary Law",
+    "Legal Procedure",
+    "Judicial Administration"
+  ],
+  "verdict": "N/A",
+  "winningSide": "N/A",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "N/A",
+    "country": "Ghana"
+  },
+  "caseType": "N/A",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "High confidence: the document is clearly a table of contents for a legal review publication, not a court decision. No judicial reasoning or verdict is present.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2013.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:47:27.626Z",
+    "plainTextLength": 2466
+  }
+}

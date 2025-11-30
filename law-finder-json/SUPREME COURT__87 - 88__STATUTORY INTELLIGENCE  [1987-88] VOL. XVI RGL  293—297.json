@@ -1,0 +1,55 @@
+{
+  "caseTitle": "STATUTORY INTELLIGENCE [1987-88] VOL. XVI RGL 293—297",
+  "summary": "This document is a statutory citator covering legislative amendments and repeals in Ghana between 1 January 1987 and 31 December 1988. It records updates to various laws, including the Income Tax Decree, Courts Act, Workmen's Compensation Act, Stamp Act, and Electoral Commission Decrees, primarily through Provisional National Defence Council Laws (PNDCLs). Key actions include the repeal of the Workmen's Compensation Act (Act 174) and NLCD 86 via PNDCL 187, amendments to income tax provisions under PNDCL 205, and updates to court procedures via PNDCL 191. The citator serves as a reference for tracking changes in Ghanaian statutory law during the Provisional National Defence Council era.",
+  "legalKeywords": [
+    "statutory amendment",
+    "repeal",
+    "substitution",
+    "legislative update",
+    "tax law",
+    "criminal procedure",
+    "courts",
+    "income tax",
+    "stamp act",
+    "workmen's compensation",
+    "customs and excise",
+    "electoral commission",
+    "pensions",
+    "entertainment duty",
+    "vehicle purchase tax"
+  ],
+  "topics": [
+    "Tax Law",
+    "Labor Law",
+    "Criminal Procedure",
+    "Judicial Reform",
+    "Legislative Amendments"
+  ],
+  "verdict": "Not applicable – this is a legislative reference document, not a court judgment.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "statutory interpretation",
+  "citations": [
+    "PNDCL 187",
+    "PNDCL 191",
+    "PNDCL 205",
+    "PNDCL 175",
+    "PNDCL 177",
+    "PNDCL 204",
+    "PNDCL 176"
+  ],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The document is a statutory citator and not a full judicial decision; therefore, case-specific details like judges, verdict, and rationale are absent. Information is derived from legislative amendments and repeals.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/87 - 88/STATUTORY INTELLIGENCE  [1987-88] VOL. XVI RGL  293—297.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:58:36.783Z",
+    "plainTextLength": 11596
+  },
+  "trialDate": "1987-01-01"
+}

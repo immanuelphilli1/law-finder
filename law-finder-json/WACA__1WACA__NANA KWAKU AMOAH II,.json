@@ -1,0 +1,70 @@
+{
+  "caseTitle": "IN THE MATTER OF THE CERTIFICATES OF VALIDITY GRANTED IN CONCESSION ENQUIRIES Nos",
+  "summary": "This 1933 West African Court of Appeal decision concerns a dispute over diamond mining concessions granted by subordinate stools (Asamangkese and Akwatia) to the Consolidated African Selection Trust Ltd., opposed by Nana Sir Ofori Atta, the Omanhene of Akyem Abuakwa. The Concessions Court issued Certificates of Validity subject to a condition preserving the Omanhene’s claim to one-third of rents, pending legal determination. After arbitration confirmed his entitlement to one-third of rents under customary law, and higher courts upheld the award, the Omanhene sought endorsement of the Certificates. The Court held that the issue of jurisdiction to impose the condition was res judicata and that the Concessions Court had power under Supreme Court rules to order endorsement, dismissing the appeal with costs.",
+  "legalKeywords": [
+    "concessions ordinance",
+    "certificate of validity",
+    "customary land rights",
+    "paramount chief",
+    "subordinate stools",
+    "alienation of stool land",
+    "rent sharing",
+    "res judicata",
+    "arbitration award",
+    "native custom",
+    "ex parte application",
+    "endorsement of certificate",
+    "jurisdiction",
+    "Supreme Court rules",
+    "Omanhene",
+    "land tenure",
+    "diamond mining concessions",
+    "Akyem Abuakwa",
+    "stool property",
+    "third-party claim"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Mining Law",
+    "Appellate Procedure",
+    "Arbitration"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Deane",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Concessions Ordinance",
+    "Supreme Court Ordinance",
+    "Arbitration Ordinance 1928"
+  ],
+  "rationaleHighlights": [
+    "The jurisdictional challenge to the condition in the Certificate was barred by res judicata.",
+    "The Concessions Court had authority under Supreme Court rules to order endorsement.",
+    "The condition preserved the Omanhene’s claim without prejudicing the grantors.",
+    "Arbitration award confirming one-third rent entitlement was upheld by Privy Council.",
+    "Ex parte order for endorsement was procedurally valid once the condition's trigger occurred.",
+    "Delay in resolving claims justified conditional certification to allow mining operations.",
+    "Customary law entitled the Paramount Stool to one-third of rents despite no role in alienation.",
+    "The grantors’ motion to set aside the endorsement was properly rejected."
+  ],
+  "confidenceNotes": "High confidence; details are consistent across narrative and judgment, with clear procedural history and legal reasoning provided.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/NANA KWAKU AMOAH II,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:42:57.338Z",
+    "plainTextLength": 25831
+  },
+  "trialDate": "1933-11-27"
+}

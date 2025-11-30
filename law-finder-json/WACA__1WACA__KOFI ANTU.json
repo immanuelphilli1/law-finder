@@ -1,0 +1,67 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This 1933 West African Court of Appeal decision addressed whether a Provincial Commissioner had the authority to review and rescind his initial order transferring a native land dispute from a Native Tribunal to the Divisional Court, and instead transfer it to another Native Tribunal. The court held that as long as the Divisional Court had not yet been formally seized of the case, the Commissioner retained the power to review his own order under section 85 of the Native Administration Ordinance. The appeal, brought by Kofi Antu as successor of deceased family members against the Assin Ayinabrim Stool represented by Ohene Kweku Buadu, was allowed on this basis, affirming the Commissioner’s revisory jurisdiction. The court also clarified that certiorari does not lie against executive acts, such as those by the Governor under section 121, which are not judicial in nature.",
+  "legalKeywords": [
+    "Native Administration Ordinance",
+    "section 71",
+    "section 85",
+    "Provincial Commissioner",
+    "Divisional Court",
+    "Native Tribunal",
+    "review of order",
+    "transfer of suit",
+    "executive act",
+    "judicial act",
+    "writ of certiorari",
+    "jurisdiction",
+    "superintending jurisdiction",
+    "inferior jurisdiction",
+    "seisin of court"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Appellate Procedure",
+    "Judicial Review",
+    "Customary Land Dispute",
+    "Executive vs Judicial Functions"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Plaintiff-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Webber, J.",
+      "role": "Appellate Judge"
+    },
+    {
+      "name": "Michelin, J.",
+      "role": "Appellate Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Thomas Harrison Odonkor v. Konor Emmanuel Mate Kale and others, P.C. 1874-1928, 37"
+  ],
+  "rationaleHighlights": [
+    "The Provincial Commissioner retains power to review an order under section 85 so long as the Divisional Court has not been formally seised.",
+    "Section 71 grants clear authority to transfer suits between native tribunals.",
+    "An order transferring a case remains revisable if higher court has not assumed jurisdiction.",
+    "Acts by the Governor under section 121 are executive, not judicial, and thus not subject to certiorari.",
+    "Writ of certiorari only applies to judicial or quasi-judicial acts, not ministerial or executive ones.",
+    "Broad interpretation of 'inferior jurisdiction' does not extend to executive decisions.",
+    "The four-day notice of review demonstrates timely exercise of revisory power.",
+    "Native land disputes fall under native tribunal jurisdiction unless properly transferred."
+  ],
+  "confidenceNotes": "The document appears to be a scanned or transcribed judgment with some formatting issues; however, key holdings on review powers and certiorari are clearly stated. The citation to an earlier case supports the jurisdictional reasoning. Confidence in accuracy is high based on internal consistency and reference to statutory provisions.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/KOFI ANTU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:45:34.587Z",
+    "plainTextLength": 4857
+  },
+  "trialDate": "1933-05-08"
+}

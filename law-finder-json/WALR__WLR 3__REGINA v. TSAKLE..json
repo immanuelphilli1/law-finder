@@ -1,0 +1,61 @@
+{
+  "caseTitle": "REGINA VERSUS TSAKLE.",
+  "summary": "In Regina v. Tsakle, the accused was charged under section 184 of the Criminal Code with unlawfully carnally knowing a girl between ten and thirteen years of age. A statutory requirement under the same section mandates that prosecution must commence within three months of the alleged offence. After both the prosecution and defence had closed their cases, but before final addresses, the court noted that no evidence had been presented to establish the date of commencement of proceedings, a critical requirement for jurisdiction. The prosecution argued that the court should either presume timely filing under the maxim 'omnia praesumuntur rite acta' or exercise discretion under section 118 of the Criminal Procedure Code to recall a witness to produce the summons. The defence contended that the burden of proving timely prosecution lies strictly on the prosecution and that failure to meet it is fatal. The court held that the prosecution must affirmatively prove compliance with the statutory time limit as an essential ingredient of the charge, rejecting the application of the legal presumption in criminal matters. It further affirmed that while a judge has discretion under s. 118 to recall witnesses even after the close of both cases, such discretion must serve the interests of justice. However, in this instance, since the missing evidence was fundamental and not rebuttal in nature, the prosecution's failure was fatal, and the court would have been unable to proceed absent corrective action.",
+  "legalKeywords": [
+    "criminal law",
+    "evidence",
+    "defilement",
+    "prosecution time limit",
+    "burden of proof",
+    "recall of witness",
+    "Criminal Procedure Code s. 118",
+    "essential ingredient of offence",
+    "just decision",
+    "omnis praesumuntur rite acta"
+  ],
+  "topics": [
+    "criminal law",
+    "evidence",
+    "prosecution procedure",
+    "judicial discretion",
+    "statutory interpretation"
+  ],
+  "verdict": "The court ruled that failure by the prosecution to adduce evidence of timely commencement of proceedings under s. 184 of the Criminal Code was fatal to the case, as it is an essential ingredient of the charge.",
+  "winningSide": "defence",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Adumua-Bossman J",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Central Judicial Division, Cape Coast Assizes",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Tsakle",
+    "Criminal Code, c. 9 of 1951, s. 184",
+    "Criminal Procedure Code, c. 10 of 1951, s. 118",
+    "R. v. McKenna (1956) 40 Cr.App.R. 65",
+    "R. v. Sullivan [1923] 1 K.B. 47",
+    "R. v. Parker and Smith (1864) L. & C. 459",
+    "R. v. Casbolt (1869) 11 Cox 385",
+    "R. v. West [1898] 1 Q.B. 174",
+    "R. v. Wakeley [1920] 1 K.B. 688"
+  ],
+  "rationaleHighlights": [
+    "The prosecution must prove that charges were filed within statutory time limits as an essential element of the case.",
+    "Judicial discretion under s. 118 allows recall of witnesses even after close of prosecution and defence cases if essential to justice.",
+    "The maxim 'omnia praesumuntur rite acta' does not apply in criminal cases to excuse lack of proof on statutory time limits.",
+    "Failure to adduce evidence of timely prosecution is fatal to the case, depriving the court of jurisdiction to convict."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct judicial reasoning and cited authorities. Some editorial notes present but do not undermine core holdings.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/REGINA v. TSAKLE..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:52:50.184Z",
+    "plainTextLength": 16920
+  }
+}

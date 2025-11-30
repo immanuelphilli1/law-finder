@@ -1,0 +1,77 @@
+{
+  "caseTitle": "EDMUND ASANTE – APPIAH v MADAM KATE AMPONSAH ALIAS YAA MANSA",
+  "summary": "This Supreme Court of Ghana decision arose from a property dispute where the appellant, Edmund Asante-Appiah, claimed sole ownership of a house and plot in Apedwa purchased from the United African Company (UAC). The respondent, Madam Kate Amponsah (alias Yaa Mansah), widow of the appellant's half-brother, contested this, asserting joint ownership. The High Court initially ruled for the appellant, but the Court of Appeal reversed it. The Supreme Court dismissed the appellant's appeal, holding that the power of attorney used by the appellant—residing in England—was invalid under the Power of Attorney Act, 1998 (Act 548), as it lacked a witness signature per s.1(2). Consequently, the agent lacked capacity to litigate or testify. The appellant failed to present any documentary evidence (e.g., receipt, certificate of purchase) to prove the alleged purchase from UAC, a reputable colonial-era company, making an oral sale unenforceable under the Conveyancing Act, 1975 (NRCD 175), s.2. The Court affirmed the onus was on the appellant to prove title, which he failed to do, and that the respondent, having no counterclaim, bore no burden. The appeal was dismissed for lack of merit.",
+  "legalKeywords": [
+    "power of attorney",
+    "capacity to sue",
+    "onus of proof",
+    "title to land",
+    "admissibility of evidence",
+    "Conveyancing Act",
+    "Auction Sales Act",
+    "documentary evidence",
+    "oral admission",
+    "property dispute"
+  ],
+  "topics": [
+    "Property Law",
+    "Evidence Law",
+    "Capacity to Sue",
+    "Onus of Proof",
+    "Power of Attorney"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "S. A. Brobbey",
+      "role": "authoring judge"
+    },
+    {
+      "name": "S. A. B. Akuffo",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Dr. S. K. Date-Bah",
+      "role": "justice"
+    },
+    {
+      "name": "J. Ansah",
+      "role": "justice"
+    },
+    {
+      "name": "S. K. Asiamah",
+      "role": "justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil property dispute",
+  "citations": [
+    "Juxon-Smith v KLM Dutch Airlines [2005-2006] SCGLR 438",
+    "Edward Nassar & Co Ltd v McVroom [1996-97] SCGLR 468",
+    "Ussher v Kpanyinli [1989-90]2 GLR 13",
+    "Amoah v Arthur [1987-88] 2 GLR 87",
+    "Adwubeng v. Domfeh [1996-97] SCGLR 660",
+    "Ebusuapanin Yaa Kwesi v. Arhin Davis (2006) 2 GMLR50",
+    "Kponuglo v. Koddadja (1933) 2 WACA 24"
+  ],
+  "rationaleHighlights": [
+    "Invalid power of attorney due to lack of witness signature under Act 548, s.1(2)",
+    "Appellant failed to prove title through documentary evidence as required by Conveyancing Act, NRCD 175, s.2",
+    "Onus of proof correctly placed on appellant as plaintiff claiming possession and injunction",
+    "Oral admissions insufficient to establish title for property originally owned by UAC",
+    "Pleadings alone cannot constitute evidence; appellant's case reduced to inadmissible pleadings"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on explicit judicial reasoning and statutory references.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2008/EDMUND ASANTE – APPIAH v MADAM KATE AMPONSAH ALIAS YAA MANSA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:54:21.107Z",
+    "plainTextLength": 14460
+  },
+  "trialDate": "2008-11-20"
+}

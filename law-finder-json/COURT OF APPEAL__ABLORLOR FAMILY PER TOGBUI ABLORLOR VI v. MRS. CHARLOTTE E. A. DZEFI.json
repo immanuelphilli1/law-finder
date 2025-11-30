@@ -1,0 +1,79 @@
+{
+  "caseTitle": "ABLORLOR FAMILY PER TOGBUI ABLORLOR VI v. MRS. CHARLOTTE",
+  "summary": "The Court of Appeal in Ablorlor Family v. Mrs. Charlotte E. A. Dzefi (CA No. 5/98, 26 October 2000) overturned a lower court's judgment that declared the Ablorlor Family as sole owners of Nyametso land and voided a land sale by the Amoah family. The appellate court held that the land was jointly owned by three families—Ablorlor, Kodje, and Tengkpo—based on a 1936 Native Tribunal decision. It ruled that alienation of such land requires consent from all three families' heads and principal members; thus, a sale by only one family (Amoah) was invalid. However, the plaintiff lacked capacity to sue alone, as he did not seek to protect jointly held family property under the exceptions in Kwan v. Nyieni, nor had he consulted the other co-owning families. The trial court erred by granting reliefs not pleaded and by substituting the plaintiff’s claim of exclusive ownership with a joint ownership finding. Consequently, the appeal was allowed, and the judgment for the plaintiff was set aside.",
+  "legalKeywords": [
+    "customary land law",
+    "joint family ownership",
+    "alienation of family land",
+    "capacity to sue",
+    "Kwan v. Nyieni",
+    "void ab initio",
+    "consent of family heads",
+    "estoppel",
+    "recovery of possession",
+    "perpetual injunction",
+    "declaration of title",
+    "tribal land rights",
+    "family property",
+    "consensus in family decisions",
+    "jurisdiction of trial court",
+    "pleadings and reliefs",
+    "appellate review",
+    "customary law principles",
+    "land title dispute",
+    "native tribunal judgment"
+  ],
+  "topics": [
+    "Customary Land Law",
+    "Family Property Disputes",
+    "Capacity to Sue",
+    "Alienation of Land",
+    "Appellate Jurisdiction"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Benin, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Twumasi, J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Aryeetey, J.A.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Civil Division, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Kwan v. Nyieni (1959) G.L.R. 67",
+    "Amakom Sawmill & Co. v. Mansah (1963) 1 G.L.R. 368",
+    "Malm v. Lutterodt (1963) 1 G.L.R. 1",
+    "Tawiah-Yesereh v. C.F.A.O. and Another (1966) G.L.R. 357"
+  ],
+  "rationaleHighlights": [
+    "Under Ewe customary law, alienation of jointly owned family land requires consent of all family heads and principal members.",
+    "A sale by one family without concurrence of others is void ab initio.",
+    "The plaintiff lacked capacity to sue alone where land is jointly owned and no evidence showed other families refused to act to protect the property.",
+    "Courts cannot grant reliefs not pleaded without amendment of the writ.",
+    "The trial court erred in substituting the plaintiff’s claim of exclusive ownership with a finding of joint ownership.",
+    "The principle in Kwan v. Nyieni applies only when family property is in danger and heads refuse to act, which was not the case here.",
+    "Pleadings must support the reliefs sought; judgment cannot be based on issues not raised in pleadings.",
+    "Joint ownership was established by a 1936 Native Tribunal decision involving Ablorlor, Kodje, and Tengkpo families."
+  ],
+  "confidenceNotes": "High confidence based on detailed appellate reasoning, citation of precedent, and clear factual findings from trial record.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/ABLORLOR FAMILY PER TOGBUI ABLORLOR VI v. MRS. CHARLOTTE E. A. DZEFI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:50:08.790Z",
+    "plainTextLength": 21072
+  },
+  "trialDate": "2000-10-26"
+}

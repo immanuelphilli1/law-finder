@@ -1,0 +1,77 @@
+{
+  "caseTitle": "ABAKAH NTHAH",
+  "summary": "This Privy Council appeal from the Gold Coast Colony (modern-day Ghana) concerned a land dispute over the Agissu lands in Saltpond District. The appellant, Abraham Essell, acted as caretaker of the land, which was originally acquired by Charles Barnes Acquah in 1881 through a court-ordered sale following a judgment against Abina Owoodoowa. Acquah's title was upheld in 1882 and he later devised the land to his daughter, Sarah Quagrainie, via his 1907 will. The respondent, Rebecca Davis, claimed ownership based on a 1893 Certificate of Purchase allegedly showing her as purchaser of the same land. The Privy Council found this certificate suspicious: it was not produced until 1911, Acquah retained the documents, and Davis did not testify about the purchase. The Council held that the 1893 transaction did not override Acquah’s valid 1881 title, especially since it purported to sell Abina’s interest despite prior extinguishment. The appeal was dismissed, affirming the Supreme Court of the Gold Coast’s decision restoring title to Acquah’s successors. The caretaker’s rights to collect tribute were recognized, but ownership remained with Quagrainie as devisee.",
+  "legalKeywords": [
+    "land title",
+    "certificate of purchase",
+    "conveyance",
+    "will",
+    "devisee",
+    "heirs",
+    "executors",
+    "trespass",
+    "caretaker",
+    "nominee",
+    "trustee",
+    "judicial estoppel",
+    "identity of property",
+    "execution of decree",
+    "succession",
+    "real property",
+    "customary law",
+    "English law application",
+    "collateral attack",
+    "fraud on creditors"
+  ],
+  "topics": [
+    "Land Dispute",
+    "Succession and Inheritance",
+    "Property Law",
+    "Judicial Sale",
+    "Colonial Legal System"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lord Warrington of Clyffe",
+      "role": "Delivered Judgment"
+    },
+    {
+      "name": "Lord Blanesburgh",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Sir Charles Sargant",
+      "role": "Panel Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Privy Council",
+    "country": "Ghana (Gold Coast Colony)"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Privy Council Appeal No. 36 of 1928",
+    "Supreme Court of the Gold Coast Colony (9 July 1927)"
+  ],
+  "rationaleHighlights": [
+    "The 1881 Certificate of Purchase and conveyance to Acquah established a valid and consistent title.",
+    "The 1893 Certificate claiming Rebecca Davis as purchaser was suspect due to lack of testimony, retention by Acquah, and procedural inconsistencies.",
+    "A purchaser cannot acquire title from a defendant whose interest was already extinguished in a prior sale.",
+    "The caretaker’s right to collect tribute does not equate to ownership.",
+    "The Privy Council refused to allow a subsequent, unclear transaction to defeat a clear and long-standing title.",
+    "Estoppel could not apply against Acquah as he was not the vendor in the 1893 transaction.",
+    "The 1893 sale may have been a nominal purchase of a disputed claim through a nominee, not a genuine transfer.",
+    "The conduct of the parties over decades supported Acquah’s family’s ownership."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; source is a formal judgment transcript from the Privy Council with clear procedural history and legal reasoning. Some document references are truncated but key holdings are intact.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/ABAKAH NTHAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:34:38.798Z",
+    "plainTextLength": 16271
+  },
+  "trialDate": "15TH NOVEMBER, 1929"
+}

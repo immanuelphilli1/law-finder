@@ -1,0 +1,58 @@
+{
+  "caseTitle": "CARROLL VERSUS ANDREWS AND OTHERS.",
+  "summary": "The Supreme Court of the Colony of the Gambia held that the Bathurst Reform Club, an unincorporated members' club, held the premises on a monthly tenancy after the expiration of a two-year lease, as the rent was expressed as \u000210 per month rather than an annual sum, thereby rebutting the presumption of a yearly tenancy. The court upheld the validity of the notice to quit given by the landlord. However, the action failed because the individual officers (secretary, president, treasurer) were not proper defendants, as an unincorporated club cannot be sued through its officers without a court order under R.S.C. (Gambia), Ord. 3, r. 3 authorizing representative parties. The claim was dismissed, but no costs were awarded due to initial pleading deficiencies.",
+  "legalKeywords": [
+    "landlord and tenant",
+    "monthly tenancy",
+    "yearly tenancy presumption",
+    "holding over",
+    "notice to quit",
+    "unincorporated association",
+    "club liability",
+    "R.S.C. Ord. 3 r. 3",
+    "representative action",
+    "executive committee",
+    "assignment of lease",
+    "oral agreement",
+    "rent payment terms",
+    "legal entity",
+    "proper parties to sue"
+  ],
+  "topics": [
+    "Landlord and Tenant",
+    "Unincorporated Associations",
+    "Civil Procedure"
+  ],
+  "verdict": "Judgment for the defendants; claim dismissed due to improper parties, though notice to quit was valid.",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Miles J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Colony of the Gambia",
+    "country": "Gambia"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Adler v. Blackman [1952] 2 All E.R. 945 (C.A.)",
+    "Ladies' Hosiery and Underwear Ltd. v. Parker [1930] 1 Ch. 304"
+  ],
+  "rationaleHighlights": [
+    "Rent expressed monthly rebuts presumption of yearly tenancy",
+    "Unincorporated club not a legal entity; officers cannot be sued personally without court authorization",
+    "R.S.C. (Gambia) Ord. 3 r. 3 requires court-authorized representatives for unincorporated associations",
+    "Plaintiff must sue correct parties; burden not on defendant to correct pleading defects",
+    "Oral agreement confirmed assignment and new two-year term at monthly rent"
+  ],
+  "confidenceNotes": "High confidence in factual extraction; source is a published law report with clear judicial reasoning and citations.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/CARROLL v. ANDREWS AND OTHERS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:12:45.715Z",
+    "plainTextLength": 13627
+  }
+}

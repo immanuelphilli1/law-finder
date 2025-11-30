@@ -1,0 +1,66 @@
+{
+  "caseTitle": "REX v HARRY, ADINDU EWUNONU",
+  "summary": "The appellants were convicted of the murder of a boy named Unaeze, with the prosecution relying heavily on a dying declaration made by the victim during a brief period of lucidity amid delirium. The West Africa Court of Appeal held that the dying declaration was inadmissible because there was no evidence that the deceased believed he was about to die at the time, as required under Section 61 of the Criminal Procedure Ordinance. Furthermore, the court noted a critical inconsistency: while eyewitnesses described a bright moonlit night, the moon was only four days old and thus could not have provided significant light, casting doubt on witness credibility and supporting the defense's claim of a conspiracy. Given the inadmissibility of the dying declaration and the flawed evidentiary basis, the court concluded that the trial judge could not inevitably have reached the same verdict absent these errors. Consequently, the appeals were allowed, convictions quashed, and acquittals entered.",
+  "legalKeywords": [
+    "murder",
+    "dying declaration",
+    "admissibility of evidence",
+    "aiding and abetting",
+    "conspiracy",
+    "lucidity during delirium",
+    "moonlight as corroborative evidence",
+    "criminal appeal",
+    "evidentiary error",
+    "veracity of eyewitness"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence",
+    "Appeal",
+    "Murder",
+    "Dying Declaration"
+  ],
+  "verdict": "Appeal allowed; convictions quashed; acquittal entered",
+  "winningSide": "Appellants",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Bedingfield, 14 Cox Criminal Cases 341",
+    "Section 319 Criminal Code",
+    "Section 51 Criminal Procedure Ordinance",
+    "Section 61 Criminal Procedure Ordinance"
+  ],
+  "rationaleHighlights": [
+    "Dying declaration inadmissible due to lack of belief in impending death during brief lucidity",
+    "Eyewitness account undermined by astronomical inconsistency in moonlight description",
+    "Trial judge's reliance on flawed evidence affected outcome",
+    "Strong corroboration of defense claim of conspiracy",
+    "Convictions quashed due to cumulative evidentiary deficiencies"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and explicit statutory references.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX  v HARRY, ADINDU EWUNONU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:59:20.681Z",
+    "plainTextLength": 4456
+  },
+  "trialDate": "1938-01-24"
+}

@@ -1,0 +1,92 @@
+{
+  "caseTitle": "KATSINA NATIVE ADMINISTRATION",
+  "summary": "This 1938 West Africa Court of Appeal decision involved a murder case under Mohammedan Law in Katsina Native Administration, where appellants Abdullahi Kogo, Momman Zagi Zara, and Buzu dan Dangi were convicted. The High Court, guided by Mohammedan Assessors, found that evidence reached only the stage of 'lausau' (incomplete proof), requiring the oath of 'Kasamah' by conjuratores to establish full proof. After the oaths were administered, the convictions were upheld. The appellate court affirmed this procedure as lawful under the Native Courts Ordinance and Protectorate Courts Rules, dismissing appeals based on misdirection, misreception of evidence, and weight of evidence. The second appellant, who had confessed and pleaded guilty, was not permitted to withdraw his confession.",
+  "legalKeywords": [
+    "Murder",
+    "Mohammedan Law",
+    "Lausau",
+    "Kasamah",
+    "Native Court",
+    "Confession",
+    "Conjuratores",
+    "Appellate Procedure",
+    "Evidence",
+    "Oath",
+    "Native Courts Ordinance",
+    "Protectorate Courts Rules",
+    "Assessors",
+    "Conviction",
+    "Misdirection",
+    "Verdict",
+    "Legal Procedure",
+    "Criminal Appeal",
+    "Judicial Review",
+    "Islamic Law",
+    "Witness Testimony",
+    "Conflicting Statements",
+    "Acquittal",
+    "Death Sentence",
+    "Judicial Oath",
+    "Court of Emir",
+    "High Court",
+    "West Africa Court of Appeal",
+    "Legal Tradition",
+    "Judicial Discretion"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Islamic Law",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Native Jurisdiction"
+  ],
+  "verdict": "Appeals dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    },
+    {
+      "name": "Brooke, J.",
+      "role": "High Court Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Native Courts Ordinance, 1933, s 36",
+    "Protectorate Courts Rules, 1934, Order 43 r 7",
+    "Protectorate Courts Rules, 1934, Order 44 r 7"
+  ],
+  "rationaleHighlights": [
+    "Evidence reached only 'lausau' stage, requiring 'Kasamah' oath for full proof under Mohammedan Law",
+    "High Court had authority to remit case for additional proof via oath",
+    "Confession by co-accused not sufficient alone without corroboration",
+    "Procedure under Native Courts Ordinance and Protectorate Courts Rules upheld",
+    "Appellant cannot withdraw guilty plea after conviction",
+    "Assessors' expertise in Mohammedan Law was determinative",
+    "No misdirection in requiring oaths post-conviction on appeal",
+    "Conflicting witness statements did not undermine overall evidence sufficiency"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on primary source document with clear judicial reasoning and citation of applicable laws and procedures.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/KATSINA NATIVE ADMINISTRATION.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:02:13.828Z",
+    "plainTextLength": 5494
+  },
+  "trialDate": "1938-08-16"
+}

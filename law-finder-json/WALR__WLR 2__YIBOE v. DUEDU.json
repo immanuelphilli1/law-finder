@@ -1,0 +1,68 @@
+{
+  "caseTitle": "YIBOE VERSUS DUEDU",
+  "summary": "In Yiboe v. Duedu, the plaintiff, as head of the Amandja Clan, sought a declaration of title and possession of land known as Bogloto-Sakada against the defendant, a sub-chief representing the Akloba Stool. The land had been previously litigated in a trespass action where the Magistrate found the land belonged to the plaintiff’s family, but the West African Court of Appeal later removed the ownership declaration for lack of a counterclaim. The plaintiff argued res judicata and estoppel based on prior findings. The Supreme Court of Ghana held that the prior judgment did not bar the current claim because the earlier case concerned usufructuary rights and trespass, not absolute title. Thus, the issue of fee simple ownership was not res judicata. The court also clarified that estoppel would only apply if the defendant had previously relied on the absolute title issue, which he did not. The appeal was dismissed, affirming the Native Appeal Court’s decision in favor of the stool on both claim and counterclaim.",
+  "legalKeywords": [
+    "res judicata",
+    "estoppel",
+    "title to land",
+    "usufructuary interest",
+    "absolute title",
+    "fee simple",
+    "native court",
+    "counterclaim",
+    "tribal land",
+    "communal land",
+    "stool land",
+    "family land",
+    "trespass",
+    "West African Court of Appeal",
+    "judicial precedent",
+    "finding of fact",
+    "ownership",
+    "possession",
+    "customary law",
+    "land dispute"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Res Judicata",
+    "Estoppel",
+    "Native Courts",
+    "Tribal Land Rights",
+    "Judicial Precedent"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Defendant (Stool)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana, Central Judicial Division, Land Court, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Land Dispute",
+  "citations": [
+    "Djokuto v. Saba and Others (1950)",
+    "The Queen v. Inhabitants of Hartington (Middle Quarter) (1855)",
+    "West African Court of Appeal Judgment (March 7, 1952)"
+  ],
+  "rationaleHighlights": [
+    "Prior litigation addressed usufructuary rights, not absolute title, so res judicata does not apply.",
+    "No counterclaim was made in the first suit, so no final determination on fee simple title occurred.",
+    "Estoppel requires prior reliance on the same issue, which was absent here.",
+    "Distinction between possessory/occupational rights and full ownership is critical in stool-family land disputes.",
+    "Magistrate's declaration of ownership was set aside for lack of counterclaim, limiting its legal effect."
+  ],
+  "confidenceNotes": "The summary is based on a detailed judicial analysis with clear references to prior judgments and legal principles. The outcome is confidently derived from the court's reasoning on res judicata and estoppel in customary land law context.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/YIBOE v. DUEDU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:20:31.574Z",
+    "plainTextLength": 17328
+  }
+}

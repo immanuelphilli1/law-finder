@@ -1,0 +1,80 @@
+{
+  "caseTitle": "REX v JOHN ONI AKERELE",
+  "summary": "Dr. John Oni Akerele, a licensed medical practitioner, was convicted of manslaughter and a related charge of reckless or negligent conduct under sections 325 and 345(1)(f) of the Criminal Code for administering an overdose of the drug Sobita (sodium-bismuth-tartrate) to a patient, Kalu Ibe, who died from resulting toxaemia and oral sepsis. The West African Court of Appeal dismissed his appeal, affirming that the evidence— including the deaths of nine other children similarly treated—was properly admitted to prove the dose was an overdose and not due to individual idiosyncrasy. The court rejected a technical challenge to the coroner's committal, finding no substantial miscarriage of justice. It also held that Nigerian law on criminal negligence does not differ materially from English law, requiring a high degree of negligence amounting to a crime against the state. The trial judge's findings of fact—that the death resulted from an overdose and that the doctor's conduct was criminally negligent—were upheld as supported by ample evidence.",
+  "legalKeywords": [
+    "manslaughter",
+    "criminal negligence",
+    "medical practitioner",
+    "overdose",
+    "reckless conduct",
+    "evidence admissibility",
+    "coroner's committal",
+    "standard of care",
+    "unlawful killing",
+    "professional misconduct",
+    "toxic reaction",
+    "stomatitis",
+    "Sobita",
+    "bismuth tartrate",
+    "duty of care",
+    "causation",
+    "character evidence",
+    "prosecutorial error",
+    "appellate review",
+    "hard labor"
+  ],
+  "topics": [
+    "criminal law",
+    "medical malpractice",
+    "appellate procedure",
+    "evidence law",
+    "forensic medicine"
+  ],
+  "verdict": "Conviction for manslaughter and reckless conduct upheld; appeal dismissed.",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Bateman (1925), 19 C.A.R. 8",
+    "West African Court of Appeal Ordinance, 1933 (No. 47 of 1933)",
+    "Coroners Ordinance (Cap. 15)",
+    "Criminal Code, s. 303",
+    "Criminal Code, s. 306",
+    "Criminal Code, s. 325",
+    "Criminal Code, s. 343(1)(e)",
+    "Criminal Code, s. 345(1)(f)"
+  ],
+  "rationaleHighlights": [
+    "Admission of evidence regarding deaths of other patients was proper to disprove idiosyncratic reaction and establish overdose",
+    "Coroner's failure to formally find guilt did not vitiate committal as it was a technical defect without substantial injustice",
+    "Standard for criminal negligence in Nigeria aligns with English law: must show disregard for life rising to a crime against the state",
+    "Section 303 of the Criminal Code imputes causation but does not lower threshold for criminal liability",
+    "Conviction upheld due to overwhelming evidence of gross negligence in administering dangerous drug"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and explicit statutory references. Case involves clear medical negligence with strong evidentiary support.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/REX v JOHN ONI AKERELE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:26:56.275Z",
+    "plainTextLength": 16255
+  },
+  "trialDate": "1941-05-08"
+}

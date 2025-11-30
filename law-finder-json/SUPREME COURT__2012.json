@@ -1,0 +1,36 @@
+{
+  "caseTitle": "AMBROSE DOTSE KLAH V PHOENIX",
+  "summary": "The document lists unreported cases from the Supreme Court of Ghana in 2012, including the civil appeal case of African Automobile Limited v The Attorney-General, cited as J4/23/2012 and decided on 6th June 2012. No detailed facts, legal reasoning, or judgment content are provided in the source file, which appears to be a case index or table of contents rather than a full judgment.",
+  "legalKeywords": [
+    "civil appeal",
+    "unreported case",
+    "Supreme Court",
+    "Ghana",
+    "Attorney-General"
+  ],
+  "topics": [
+    "Civil Appeal",
+    "Judicial Index",
+    "Unreported Judgments"
+  ],
+  "verdict": "Not specified due to lack of full judgment details.",
+  "winningSide": "Not specified due to lack of full judgment details.",
+  "prosecutionType": "state",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "J4/23/2012"
+  ],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The document appears to be a table of unreported cases from the Supreme Court of Ghana for 2012. Specific details about the case African Automobile Limited v The Attorney-General are limited to the case title, citation, and date. No full judgment or detailed reasoning is provided in the source file.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T09:54:29.801Z",
+    "plainTextLength": 7376
+  }
+}

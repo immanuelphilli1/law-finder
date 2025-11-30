@@ -1,0 +1,61 @@
+{
+  "caseTitle": "CHARLES MATE KOLE, NEN RULING",
+  "summary": "In this 2012 ruling by the Supreme Court of Ghana, the court dismissed a motion by co-defendants for leave to file a counter-claim in a pending case. The presiding justice, Dr. Date-Bah, held that the application was filed too late, as the substantive case had already been adjourned for judgment. Additionally, the court found that the counter-claim—seeking a declaration on the proper interpretation of PNDC Law 26 and LI 1983 regarding the administrative delineation of Akuse—involved statutory rather than constitutional interpretation, and thus did not fall within the Court’s exclusive original jurisdiction. The dismissal was without prejudice, allowing the co-defendant to pursue the claim in a more appropriate legal forum.",
+  "legalKeywords": [
+    "counter-claim",
+    "original jurisdiction",
+    "statutory interpretation",
+    "constitutional interpretation",
+    "procedural delay",
+    "Electoral Commission",
+    "PNDC Law",
+    "LI 1983",
+    "Dangbe West District",
+    "Manya Krobo District Assembly",
+    "declaration",
+    "exclusive jurisdiction",
+    "adjourned for judgment",
+    "motion for leave",
+    "affidavit in opposition"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Jurisdiction",
+    "Procedural Law",
+    "Electoral Administration",
+    "Statutory Interpretation"
+  ],
+  "verdict": "The application for leave to file a counter-claim was dismissed on procedural and jurisdictional grounds.",
+  "winningSide": "Plaintiffs/Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. S. K. Date-Bah",
+      "role": "Presiding Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "WRIT J1/4/2011",
+    "LI 1983",
+    "PNDC Law 26",
+    "PNDC Law 28"
+  ],
+  "rationaleHighlights": [
+    "Application for leave to file counter-claim dismissed as it was filed too late, with judgment already adjourned for delivery.",
+    "The subject matter of the counter-claim involves statutory interpretation (LI 1983 and PNDC Laws), which does not fall within the exclusive original jurisdiction of the Supreme Court.",
+    "The Court emphasized that constitutional interpretation triggers original jurisdiction, not statutory interpretation.",
+    "Dismissal is without prejudice to the co-defendant’s right to pursue the claim in an appropriate forum."
+  ],
+  "confidenceNotes": "The ruling is clear and unambiguous; dismissal is based on procedural timing and jurisdictional grounds. No full judgment is provided, only a pre-judgment ruling.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/CHARLES MATE KOLE, NEN RULING.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:34:43.954Z",
+    "plainTextLength": 4008
+  }
+}

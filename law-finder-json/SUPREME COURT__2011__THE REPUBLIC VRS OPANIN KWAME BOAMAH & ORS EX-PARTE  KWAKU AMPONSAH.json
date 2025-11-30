@@ -1,0 +1,79 @@
+{
+  "caseTitle": "THE REPUBLIC VRS OPANIN KWAME BOAMAH & ORS EX-PARTE KWAKU AMPONSAH",
+  "summary": "This Supreme Court of Ghana decision in Civil Appeal No. J4/3/2011, delivered on 27th July 2011, concerned an appeal against contempt convictions arising from a chieftaincy dispute over the enstoolment of the Akwamuhene of Agogo Traditional Area. The respondent, Kwaku Amponsah, initiated contempt proceedings after the first appellant was enstooled during ongoing chieftaincy litigation. The High Court convicted the appellants, a decision upheld by the Court of Appeal. The Supreme Court allowed the appeal, setting aside the convictions and sentences. It held that contempt being quasi-criminal requires proof beyond reasonable doubt, and the affidavit evidence presented was insufficient to meet this standard, particularly in the face of denial by the respondents. The court emphasized that the applicant failed to adduce further evidence or seek cross-examination, leaving the matter as a mere assertion versus denial, entitling the respondents to the benefit of the doubt.",
+  "legalKeywords": [
+    "contempt of court",
+    "standard of proof",
+    "beyond reasonable doubt",
+    "quasi-criminal",
+    "affidavit evidence",
+    "cross-examination",
+    "chieftaincy dispute",
+    "enstoolment",
+    "customary law",
+    "judicial review",
+    "burden of proof",
+    "evidentiary sufficiency",
+    "denial and assertion",
+    "trial error",
+    "Court of Appeal"
+  ],
+  "topics": [
+    "Contempt of Court",
+    "Chieftaincy Disputes",
+    "Evidence Law",
+    "Standard of Proof",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed; convictions and sentences for contempt set aside due to insufficient evidence meeting the standard of proof beyond reasonable doubt.",
+  "winningSide": "Appellants (Respondents in the High Court contempt proceedings)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Anin-Yeboah",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Akuffo (Ms.)",
+      "role": "Justice"
+    },
+    {
+      "name": "Adinyira (Mrs.)",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebe",
+      "role": "Justice"
+    },
+    {
+      "name": "A. Bamfo (Mrs.)",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "REPUBLIC v NUMAPAH, PRESIDENT NATIONAL HOUSE OF CHIEFS 7 ORS; EX PARTE AMEYAW II (NO 2) [1998-99] SCGLR 639",
+    "HEATONS TRANSPORT (ST HELENS) LTD v TRANSPORT AND GENERAL WORKERS UNION [1972] 2 All ER 1214",
+    "RE BRAMBLEVALE LTD [1969] 3 All ER 1062",
+    "IN RE ARYEEETEY (DECD); ARYEETEY v OKWABY [1987-88] 2 GLR 44",
+    "THE REPUBLIC v BEKOE; EX PARTE ADJEI [1982-83] GLR 91"
+  ],
+  "rationaleHighlights": [
+    "Contempt is quasi-criminal and requires proof beyond reasonable doubt.",
+    "Affidavit evidence alone was insufficient to meet the high standard of proof.",
+    "Court must not rely solely on untested depositions when faced with denial.",
+    "Failure to call further evidence or seek cross-examination led to benefit of doubt for respondents.",
+    "Trial court erred in accepting applicant's version without corroboration."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official Supreme Court judgment document with clear judicial reasoning and cited authorities.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/THE REPUBLIC VRS OPANIN KWAME BOAMAH & ORS EX-PARTE  KWAKU AMPONSAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:55:29.819Z",
+    "plainTextLength": 11447
+  }
+}

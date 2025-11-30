@@ -1,0 +1,77 @@
+{
+  "caseTitle": "KAROUCHI UNIVERSAL TRADING LTD v. KWAME DZADEY JNR. AND",
+  "summary": "The Court of Appeal dismissed the appellant's challenge to the validity of an arbitral award on jurisdictional grounds, holding that the arbitrators' extension of time to issue the award—done in writing and without timely objection—was valid and did not nullify the award. The court emphasized that mere delay, especially with tacit party consent, does not invalidate an award absent substantial injustice. However, the appeal succeeded in part: the court found that the arbitrators failed to rule on two distinct and severable issues—(e) the present-day value of shares held by the Dzadeys in Karouchi Mining, and (g) whether Karouchi Universal had invested money in Karouchi Mining and how much. This omission amounted to misconduct. Additionally, the arbitrators breached natural justice by examining expert witnesses in the absence of the parties, denying them the right to cross-examine. Consequently, the court set aside the award only on these two issues and remitted them for reconsideration, while upholding the rest of the award under the principle of severability.",
+  "legalKeywords": [
+    "arbitration",
+    "jurisdiction",
+    "misconduct",
+    "natural justice",
+    "award setting aside",
+    "time extension",
+    "severability",
+    "cross-examination",
+    "procedural fairness",
+    "contract dispute",
+    "share valuation",
+    "investment disclosure",
+    "accounting review",
+    "tacit acquiescence",
+    "waiver of objection"
+  ],
+  "topics": [
+    "Arbitration Law",
+    "Civil Procedure",
+    "Corporate Disputes",
+    "Judicial Review",
+    "Natural Justice"
+  ],
+  "verdict": "Appeal allowed in part; arbitral award set aside on issues (e) and (g) and remitted for reconsideration, otherwise dismissed.",
+  "winningSide": "Partially in favor of Appellant (Karouchi Universal Trading Ltd) on specific issues, but overall upheld by High Court and affirmed with modification by Court of Appeal.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Owusu-Ansah J.A.",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "Essilfie-Bondzie J.A.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Aryeetey J.A.",
+      "role": "Member of Panel"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Arbitration Appeal",
+  "citations": [
+    "KAROUCHI UNIVERSAL TRADING LTD v. KWAME DZADEY JNR. AND ORS. [28/11/2002] CA /194/2000",
+    "Adisi vs; C.& F CO. (W.A) Ltd. 1963 2 GLR. 42",
+    "Selby vs: Whitbread & Co. 1917 1KB 748",
+    "Wakefield vs: Llanelly and Dock Company 1865 3 De G.J. & SM 11",
+    "R.v. Hill 1819 7 Price 636",
+    "Palmer v. Metropolitan Rly Co. 1862 31 L.J. Q.B. 259",
+    "The State of New York Dept. of Taxation and Finance v. Valenti 393 NYS. 2d 797"
+  ],
+  "rationaleHighlights": [
+    "Arbitrators had jurisdiction despite delayed award due to written extension and party acquiescence.",
+    "Failure to decide all referred issues constitutes potential misconduct under arbitration law.",
+    "Award partially set aside on severable issues (share value and investment amount) and remitted.",
+    "Conduct of expert examination in absence of parties breached natural justice.",
+    "Delay in award does not automatically void it if no prejudice shown and consent implied.",
+    "Partial invalidity does not require setting aside entire award if severable under Selby principle.",
+    "Party's tacit acceptance of extended timeline bars later objection on jurisdictional grounds.",
+    "Arbitrators exceeding scope by conducting in-depth audit not referred is jurisdictional overreach."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from court judgment text. Some citations were truncated in source but matched with standard legal formats.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/KAROUCHI UNIVERSAL TRADING LTD v. KWAME DZADEY JNR. AND ORS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:24:03.029Z",
+    "plainTextLength": 24566
+  },
+  "trialDate": "2002-11-28"
+}

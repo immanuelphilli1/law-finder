@@ -1,0 +1,68 @@
+{
+  "caseTitle": "ALLOTEY VERSUS ESSIEN",
+  "summary": "In Allokey v. Essien, the plaintiff sought a declaration of title and recovery of possession of land occupied and developed by the defendant, who claimed ownership through purchase. The High Court, Eastern Judicial Division, found that the defendant had acted in good faith since 1947, constructing buildings and spending approximately £3,500 while the plaintiff's family remained aware of his actions but failed to object or intervene. The court held that under native custom and equity, the plaintiff's family was estopped by acquiescence and conduct from asserting title, particularly given their knowledge of prior litigation involving the same land in which they did not participate. Additionally, the plaintiff's attempt to introduce evidence contradicting her pleadings—specifically, claims of having issued oral and written warnings—was rejected due to failure to amend pleadings and produce the written notice. Judgment was entered for the defendant.",
+  "legalKeywords": [
+    "estoppel by acquiescence",
+    "estoppel by conduct",
+    "native law and custom",
+    "title to land",
+    "possession of land",
+    "equity",
+    "pleading amendment",
+    "best evidence rule",
+    "parol evidence",
+    "acquiescence",
+    "litigation estoppel",
+    "development of land",
+    "good faith possession",
+    "service of notice",
+    "written notice",
+    "Ga Native Court",
+    "Land Court",
+    "West African Court of Appeal",
+    "certificate of occupation",
+    "family title"
+  ],
+  "topics": [
+    "Land Law",
+    "Estoppel",
+    "Pleading and Procedure",
+    "Evidence Law",
+    "Customary Law"
+  ],
+  "verdict": "Judgment for the defendant",
+  "winningSide": "defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil - Land Title Dispute",
+  "citations": [
+    "Abbey and Ashalley Okoe v. Ollennu (1954) 14 W.A.C.A. 567",
+    "Thompson v. Mensah (1957) 3 W.A.L.R. 240",
+    "Ak1Cei v. Cofie (1952) 14 W.A.C.A. 143"
+  ],
+  "rationaleHighlights": [
+    "Owner estopped by acquiescence where they allow another to develop land in good faith without objection",
+    "Estoppel by conduct applies when a party fails to intervene in prior litigation affecting their land interest",
+    "Pleadings cannot be contradicted by evidence without amendment",
+    "Best evidence rule requires production of written notice or its copy; parol evidence insufficient",
+    "Defendant's good faith and substantial investment protected under native custom and equity",
+    "Plaintiff's family had knowledge of both development and prior litigation but remained passive",
+    "Judicial reliance on precedent from W.A.C.A. and W.A.L.R. to affirm customary estoppel principles"
+  ],
+  "confidenceNotes": "High confidence; all key facts, holdings, and citations are explicitly stated in the judgment. The case is well-documented with clear judicial reasoning and references to binding precedents in Ghanaian and West African jurisprudence.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/ALLOTEY v. ESSIEN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:16:54.131Z",
+    "plainTextLength": 10618
+  }
+}

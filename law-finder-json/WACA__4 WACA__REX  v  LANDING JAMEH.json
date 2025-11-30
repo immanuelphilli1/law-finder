@@ -1,0 +1,63 @@
+{
+  "caseTitle": "REX v LANDING JAMEH",
+  "summary": "The appellant, Landing Jameh, a Chief Driver in the Public Works Department of the Gambia Government, was convicted of stealing ten cases of government petrol under section 255 of the Criminal Code (theft by person in public service). The trial occurred in the Provincial Court of South Bank Province, though the initial act occurred in Bathurst. The appellant challenged jurisdiction, arguing the theft occurred solely in Bathurst, but the court held the offence was continuing and thus triable in the South Bank Province under section 61 of the Criminal Procedure Code. The appellant also sought to introduce further evidence on appeal, including testimony suggesting no petrol shortage was found, but the appellate court refused, noting such evidence pertained to facts, not law, and was inadmissible on a legal appeal. The court also rejected claims of procedural irregularity due to the absence of counsel, finding the trial judge exercised discretion appropriately. Finally, the court held that the prosecution established a prima facie case through circumstantial evidence, even without direct proof of petrol loss, citing Rex v. Mockford. The appeal was dismissed.",
+  "legalKeywords": [
+    "theft",
+    "public service",
+    "prima facie case",
+    "jurisdiction",
+    "continuing offence",
+    "Criminal Code section 255",
+    "Criminal Procedure Code section 61",
+    "appellate procedure",
+    "additional evidence on appeal",
+    "trial without counsel"
+  ],
+  "topics": [
+    "criminal law",
+    "theft",
+    "appellate procedure",
+    "jurisdiction",
+    "evidence"
+  ],
+  "verdict": "Appeal dismissed; conviction and sentence upheld.",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "Webb, C.J., Sierra Leone",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v. Mockford (11 Cox 16 C.C.R.)",
+    "Griffith v. Taylor (1876) 2 C.P.D. 194"
+  ],
+  "rationaleHighlights": [
+    "Theft under section 255 is a continuing offence, allowing jurisdiction where the offence continues.",
+    "No requirement for direct proof of loss if circumstantial evidence supports theft.",
+    "Appellate court cannot admit further evidence on factual matters when only legal appeals are permitted.",
+    "Discretion to adjourn lies with the trial court and will not be overturned absent abuse."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy as the case details are clearly presented in the judgment and key legal principles are supported by cited authorities.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX  v  LANDING JAMEH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:00:12.515Z",
+    "plainTextLength": 10496
+  },
+  "trialDate": "1938-03-16"
+}

@@ -1,0 +1,93 @@
+{
+  "caseTitle": "HALLE AND SONNS A.S.",
+  "summary": "This Supreme Court of Ghana case, Halle and Sonns A.S. v. Bank of Ghana & Warm Weather Enterprise Ltd., arose from a 1991 transaction where a Norwegian company exported fish to a Ghanaian firm under an avalised bill of exchange guaranteed by a rural bank later taken over by the Bank of Ghana. When payment was not made, the plaintiff obtained a summary judgment in 2001. The defendants sought to appeal but filed their applications for extension of time after the initial three-month period, though within six months of the judgment. The High Court dismissed the extension application, but the Court of Appeal later granted a seven-day extension, allowing the appeal to proceed and ultimately setting aside the summary judgment on the grounds of triable issues. The plaintiff appealed to the Supreme Court, arguing the Court of Appeal lacked jurisdiction because the appeal was filed out of time. The Supreme Court dismissed this appeal, holding that the timely filing of the extension application (within six months) conferred jurisdiction, regardless of when it was determined. The Court emphasized that procedural rules must not defeat substantive justice, especially when triable issues exist, and distinguished the precedent of Doku v. Presbyterian Church on its facts.",
+  "legalKeywords": [
+    "extension of time to appeal",
+    "jurisdiction",
+    "summary judgment",
+    "procedural rules",
+    "final decision",
+    "Court of Appeal Rules C.I. 19",
+    "Rule 9",
+    "Rule 28",
+    "public interest in finality of litigation",
+    "justice of the cause",
+    "affidavit in opposition",
+    "conditional appearance",
+    "statute barred",
+    "avalised bill of exchange",
+    "professional negligence",
+    "leave to defend",
+    "nullity",
+    "prima facie triable issues",
+    "rules as handmaid not mistress",
+    "filing vs determination of application",
+    "limitation period",
+    "discretion to extend time",
+    "record evidence requirement",
+    "constitutional appeal as of right",
+    "resuscitation of dead case",
+    "procedural technicality",
+    "overriding interest of justice",
+    "deposit liability of central bank",
+    "distressed financial institution",
+    "service of writ"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Appeal Law",
+    "Jurisdiction",
+    "Summary Judgment",
+    "Extension of Time"
+  ],
+  "verdict": "The Supreme Court dismissed the appeal, upholding the Court of Appeal's decision to grant an extension of time and set aside the summary judgment. The case was remitted for a full trial on the merits.",
+  "winningSide": "Defendants/Appellants (Bank of Ghana and Warm Weather Enterprise Ltd.)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adinyira (Mrs)",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "Akuffo (Ms)",
+      "role": "Presiding"
+    },
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs)",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "In re Coles & Ravenshear [1907] 1KB 1 at page 4",
+    "Nye v. Nye [1967] CC 75",
+    "Republic v. Circuit Court Judge, Tamale ex parte Volta Senior Game Warden [1984-1986] 1 GLR 372 SC",
+    "Doku v. Presbyterian Church of Ghana [2004-2005] SCGLR 700"
+  ],
+  "rationaleHighlights": [
+    "The Court emphasized that procedural rules should serve justice, not obstruct it, citing that rules are a 'handmaid rather than a mistress.'",
+    "The Supreme Court upheld the Court of Appeal's jurisdiction, clarifying that timely filing of an extension application (within six months) is sufficient, even if determination occurs later.",
+    "The Doku case was distinguished on grounds that it involved no record evidence of a timely application, unlike the present case where applications were filed within the six-month window.",
+    "The Court recognized the tension between finality of litigation and the need to address substantial justice, favoring the latter where arguable defenses exist.",
+    "The Court of Appeal had correctly found triable issues, justifying the grant of unconditional leave to defend, thereby setting aside the summary judgment."
+  ],
+  "confidenceNotes": "High confidence in extracted details; all key elements (parties, rulings, jurisdiction, procedural rules) are clearly stated in the judgment text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/HALLE AND SONNS A.S..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:46:56.817Z",
+    "plainTextLength": 27820
+  }
+}

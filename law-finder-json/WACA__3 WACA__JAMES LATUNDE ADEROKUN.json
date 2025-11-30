@@ -1,0 +1,66 @@
+{
+  "caseTitle": "JAMES LATUNDE ADEROKUN",
+  "summary": "The West African Court of Appeal dismissed an application for leave to appeal brought by James Latunde Aderokun against the United Africa Co. Ltd on 17th April 1936. The Court held that it had discretion under Rule 11 of its rules to refuse the application and determined that no special grounds justified granting leave. It emphasized that the appellant was already pursuing remedies in another court with undisputed jurisdiction and could obtain full redress there. Allowing the appeal would encourage multiplicity of proceedings, which the Court sought to avoid. The application was dismissed with costs assessed at five guineas.",
+  "legalKeywords": [
+    "leave to appeal",
+    "discretionary power",
+    "multiplicity of proceedings",
+    "jurisdiction",
+    "appellate procedure",
+    "Rule 11",
+    "West African Court of Appeal Rules",
+    "costs",
+    "remedy",
+    "appellate jurisdiction",
+    "abuse of process",
+    "procedural fairness",
+    "judicial economy"
+  ],
+  "topics": [
+    "Appellate Law",
+    "Civil Procedure",
+    "Jurisdiction",
+    "Legal Costs"
+  ],
+  "verdict": "Application dismissed",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "WACA/3 WACA/JAMES LATUNDE ADEROKUN"
+  ],
+  "rationaleHighlights": [
+    "Court has discretion under Rule 11 to grant or refuse leave to appeal",
+    "No special grounds shown for appeal",
+    "Appellant already pursuing remedy in another competent court",
+    "Risk of multiplicity of proceedings",
+    "Full redress available in alternative forum",
+    "Judicial economy and procedural efficiency"
+  ],
+  "confidenceNotes": "High confidence; details are drawn directly from the original decision text with clear attribution of court, parties, judges, and reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/JAMES LATUNDE ADEROKUN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:22:14.333Z",
+    "plainTextLength": 1811
+  },
+  "trialDate": "1936-04-17"
+}

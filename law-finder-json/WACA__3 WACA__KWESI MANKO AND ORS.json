@@ -1,0 +1,64 @@
+{
+  "caseTitle": "KWESI MANKO AND ORS",
+  "summary": "This 1936 West Africa Court of Appeal decision in Ghana dismissed consolidated appeals concerning ejectment, possession, and declaration of title over family land. The plaintiffs, claiming ownership of land and a two-storey house as heirs of Kojo Botsio, challenged a 1885 sale by Botsio to Bentil, arguing it was invalid due to lack of family consent. The court held that alienation of family land without consent is voidable, not void, and can be upheld if the family fails to timely challenge it under conditions allowing restitution. The court rejected the argument that rent-free occupation by Bentil (who married into the family) constituted acquiescence. However, continuous occupation of the upper floor by Bentil's successors from 1914 onward supported the validity of the title chain. The plaintiffs failed to meet the burden of proof for ejectment or title, and the appeals were dismissed, affirming the defendant's caretakers' possession.",
+  "legalKeywords": [
+    "ejectment",
+    "family land",
+    "title declaration",
+    "voidable sale",
+    "acquiescence",
+    "burden of proof",
+    "land alienation",
+    "successors in title",
+    "restitution",
+    "customary law"
+  ],
+  "topics": [
+    "Property Law",
+    "Customary Land Tenure",
+    "Appellate Review",
+    "Title Disputes",
+    "Ejectment"
+  ],
+  "verdict": "Both the main appeal and cross-appeal were dismissed.",
+  "winningSide": "Defendants-Respondents (Bonso and others; Aba Kokodey and another)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Petrides",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Kingdon",
+      "role": "Concurring Judge"
+    },
+    {
+      "name": "Webber",
+      "role": "Concurring Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Coffie Patsie v. Boatoe and two others (Supreme Court, Accra, 8th October 1885)",
+    "Quassie Bayaidie v. Kwamina Mensah (F.C.L. 150)"
+  ],
+  "rationaleHighlights": [
+    "Sale of family land without consent is voidable, not void",
+    "Family's failure to timely challenge sale affirms title",
+    "Occupation by non-family members since 1914 supports valid title",
+    "Rent-free occupation by relative does not imply acquiescence to sale",
+    "Burden of proof lies on plaintiff in ejectment and title claims"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on primary source text and clear judicial reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/KWESI MANKO AND ORS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:19:01.260Z",
+    "plainTextLength": 6225
+  },
+  "trialDate": "1936-05-09"
+}

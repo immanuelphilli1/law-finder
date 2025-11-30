@@ -1,0 +1,80 @@
+{
+  "caseTitle": "GYIMAH ASANTE AND ANO. v. SIMON BOBI NTIRI AND JOSEPH",
+  "summary": "This Court of Appeal decision from Ghana addresses a property dispute involving competing claims over a house at 18 Macroni Street, Adenta, Accra. The appellants, Peter Gyimah Asante and others, purchased the property from the defendant, Simon Bobi Ntiri, for 23 million cedis in September 1995. The respondent, Simon Bobi Ntiri, had earlier entered into an agreement with Simon Bobi Ntiri and Joseph Williams in January 1995 to sell the same property for 16.5 million cedis, but that transaction was not completed or registered. The trial court dismissed the appellants' claim, holding they were not innocent purchasers without notice due to court processes posted on the property. The Court of Appeal reversed this, ruling that the appellants were bona fide purchasers without notice, as the court processes were affixed after their purchase and neither party had registered their interest. The court emphasized that under section 36(4) of the Conveyancing Decree, NRCD 175, failure to investigate title does not impute constructive notice. The appeal was allowed, affirming the appellants' superior equitable claim.",
+  "legalKeywords": [
+    "bona fide purchaser",
+    "constructive notice",
+    "registration of title",
+    "equitable interest",
+    "interpleader",
+    "substituted service",
+    "failure to register",
+    "prior interest",
+    "doctrine of notice",
+    "Land Registry Act",
+    "Conveyancing Decree",
+    "equity favors vigilance",
+    "fraudulent sale",
+    "legal estate",
+    "innocent purchaser",
+    "actual notice",
+    "imputed notice",
+    "title investigation",
+    "court processes",
+    "possession"
+  ],
+  "topics": [
+    "Property Law",
+    "Equity",
+    "Land Dispute",
+    "Appeal",
+    "Registration"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "J. Ansah",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Farkye",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Twumasi",
+      "role": "Presiding Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Usher vrs: Darko 1977 1 GLR.476",
+    "Kwaku Badu vrs: Op. Kwaku Appiah (Unreported, 1967)",
+    "Dr. Oklikah vrs Col. Amusu Civil Appeal No. 9/66 (1997)",
+    "Ayekpa vrs: Sackey Mensah 1984-86 1 GLR.173",
+    "Zeini vrs: Schandorf 1976 2 GLR. 418"
+  ],
+  "rationaleHighlights": [
+    "The appellants completed payment before any court action was filed, so could not have had notice.",
+    "Under NRCD 175 s.36(4), no constructive notice arises from failure to investigate title.",
+    "Posting of court processes after purchase cannot impute notice to the purchaser.",
+    "Equity does not assist a claimant who remains inactive while property is developed by another.",
+    "Legal title passed via written consent under Ayekpa vrs: Sackey Mensah.",
+    "Trial judge erred in law by equating posted processes with constructive notice.",
+    "Registration is required for actual notice to the world under Land Registry Act, s.25(1).",
+    "Defendant's conduct in selling same property twice was condemned as fraudulent."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and citation of statutory and case law. Some document truncation occurs but key holdings and facts are preserved.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/PETER GYIMAH ASANTE AND ANO. v. SIMON BOBI NTIRI AND JOSEPH WILLIAMS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:09:29.425Z",
+    "plainTextLength": 23218
+  },
+  "trialDate": "2000-06-08"
+}

@@ -1,0 +1,86 @@
+{
+  "caseTitle": "KWAKU BONSU VERSUS AMA AGYEMANG",
+  "summary": "This Supreme Court of Ghana decision in Kwaku Bonsu v. Ama Agyemang (2012) addresses the legal principles governing the remedy of specific performance in land sale contracts. The plaintiff-appellant sought specific performance of a 2007 agreement for land at Achimota, which the High Court granted, but the Court of Appeal substituted with damages. The Supreme Court reinstated the specific performance order, holding that land is inherently unique and damages are presumed inadequate unless exceptional circumstances exist. The Court rejected the Court of Appeal's reasoning that damages could suffice, emphasizing that specific performance is the primary equitable remedy for breach of land contracts, absent recognized grounds for denial such as fraud, undue influence, or inadequacy of consideration. The decision reaffirms the discretionary yet rule-bound nature of equitable remedies in Ghanaian property law.",
+  "legalKeywords": [
+    "specific performance",
+    "contract for sale of land",
+    "equitable remedy",
+    "damages as inadequate remedy",
+    "uniqueness of land",
+    "breach of contract",
+    "Court of Appeal reversal",
+    "discretionary relief",
+    "injunction",
+    "undue influence",
+    "illiteracy",
+    "adequacy of consideration",
+    "equity jurisdiction",
+    "Ghanaian property law",
+    "enforceable contract",
+    "payment into court",
+    "fraud in contract",
+    "judicial discretion",
+    "land conveyance",
+    "remedy substitution"
+  ],
+  "topics": [
+    "Property Law",
+    "Equity and Trusts",
+    "Appellate Review",
+    "Contract Enforcement",
+    "Land Disputes"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Date-Bah JSC",
+      "role": "Delivered leading judgment"
+    },
+    {
+      "name": "Akuffo (Ms) JSC",
+      "role": "Member of panel"
+    },
+    {
+      "name": "Anin Asare JSC",
+      "role": "Member of panel"
+    },
+    {
+      "name": "Dotse JSC",
+      "role": "Member of panel"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs) JSC",
+      "role": "Member of panel"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Adderley v. Dixon (1824)",
+    "Sudbrook Trading Ltd. v Eggleton [1983] 1 AC 444",
+    "Ahumah v Akorli (No. 2) [1975] 1 GLR 473",
+    "Holliday v Lockwood [1917] 2 Ch 47",
+    "NTHC case"
+  ],
+  "rationaleHighlights": [
+    "Land is presumed unique, making damages inherently inadequate",
+    "Specific performance is primary remedy for breach of land contracts",
+    "Discretion to deny specific performance must follow settled equitable principles",
+    "Court of Appeal erred in treating damages as sufficient without exceptional circumstances",
+    "Payment into court by plaintiff supports readiness to perform contractual obligations",
+    "Defendant's illiteracy and undue influence claims were not substantiated",
+    "Equity will not allow technicalities to defeat just enforcement of land contracts"
+  ],
+  "confidenceNotes": "High confidence; information extracted directly from judicial reasoning and procedural history in the document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/KWAKU BONSU V AMA AGYEMA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:27:57.864Z",
+    "plainTextLength": 34946
+  }
+}

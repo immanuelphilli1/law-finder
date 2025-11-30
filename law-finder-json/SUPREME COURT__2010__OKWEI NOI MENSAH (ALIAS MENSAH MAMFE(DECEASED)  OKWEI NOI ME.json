@@ -1,0 +1,79 @@
+{
+  "caseTitle": "OKWEI NOI MENSAH (ALIAS MENSAH MAMFE(DECEASED) OKWEI NOI ME",
+  "summary": "The Supreme Court of Ghana adjudicated an appeal by nine plaintiffs, including eight former employees of Barclays Bank Ghana Limited and their union, who were summarily dismissed following an alleged illegal strike on 14 November 2007. The dismissals, retroactively effective from 11 January 2008, were based on Article 17 of the Collective Bargaining Agreement (CBA). The appellants challenged the legality of the dismissals, arguing that the bank failed to follow mandatory procedures under Article 15 of the CBA, including suspension and investigation, and that the dismissals violated constitutional and statutory protections. The Supreme Court upheld the lower courts' rulings, affirming that the bank had the discretion under the CBA to invoke Article 17 independently and that the summary dismissals were lawful given the proven serious misconduct.",
+  "legalKeywords": [
+    "summary dismissal",
+    "Collective Bargaining Agreement",
+    "Labour Act 2003",
+    "Article 17 CBA",
+    "Article 15 CBA",
+    "natural justice",
+    "proven serious misconduct",
+    "unfair dismissal",
+    "industrial action",
+    "constitutional rights",
+    "procedural fairness",
+    "employment law",
+    "union representation",
+    "grievance procedure",
+    "right to appeal"
+  ],
+  "topics": [
+    "Employment Law",
+    "Labour Rights",
+    "Judicial Review"
+  ],
+  "verdict": "The appeal was dismissed. The Supreme Court upheld the legality of the summary dismissals, ruling that the bank acted within its rights under the CBA by invoking Article 17 without first applying Article 15, and that the employees were given due process as required by law.",
+  "winningSide": "Barclays Bank Ghana Limited (Respondent)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Wood (Mrs)",
+      "role": "Chief Justice, Presiding"
+    },
+    {
+      "name": "Owusu (Ms)",
+      "role": "Justice, Supreme Court"
+    },
+    {
+      "name": "Dotse",
+      "role": "Justice, Supreme Court"
+    },
+    {
+      "name": "Gbadebo",
+      "role": "Justice, Supreme Court"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs)",
+      "role": "Justice, Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Justice",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "CIVIL APPEAL NO. J4/9/2010",
+    "Labour Act 2003 (Act 651)",
+    "1992 Constitution of Ghana, Article 23",
+    "Boateng v. Volta Aluminum Company Limited (1984-86) 1 GLR 733",
+    "Presbyterian Hospital v. Boateng (1984-86) 2 GLR 381"
+  ],
+  "rationaleHighlights": [
+    "Articles 15 and 17 of the CBA can operate independently; Article 15 (suspension for investigation) is not a precondition to Article 17 (summary dismissal).",
+    "The bank had unlimited discretion under the CBA to invoke Article 17 where serious misconduct was proven, especially in cases of misconduct caught in the act.",
+    "The notice served on employees constituted valid notice under Article 17(2), and dismissal became effective after one month if no reply was received or if the bank upheld dismissal after review.",
+    "The appellants’ argument that they replied to the notice was not supported by sufficient evidence on record.",
+    "No victimization was found, as the dismissals were based on conduct, not union affiliation.",
+    "The principles of natural justice were not violated, as employees had the right to respond and appeal under the CBA."
+  ],
+  "confidenceNotes": "The analysis is based on a detailed judicial reasoning document from the Supreme Court of Ghana. All key legal provisions, case references, and procedural details are explicitly stated in the judgment. The interpretation of the CBA and constitutional provisions is consistent with established Ghanaian jurisprudence.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/OKWEI NOI MENSAH (ALIAS MENSAH MAMFE(DECEASED)  OKWEI NOI ME.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:43:38.368Z",
+    "plainTextLength": 44454
+  },
+  "trialDate": "2010-09-04"
+}

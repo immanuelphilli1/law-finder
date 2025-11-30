@@ -1,0 +1,75 @@
+{
+  "caseTitle": "TONY ADAMS -VRS- ANANG SOWAH",
+  "summary": "The appellant, Anang Sowah, applied to the Supreme Court of Ghana for a stay of execution of an order for the delivery of possession of a property at H/No 6C 153/29, East Legon, Accra, which had been auctioned following a judgment against him in a debt suit brought by Amarkai Amarteifio. The appellant claimed he was outside the jurisdiction at material times and challenged the execution process. The Court of Appeal had previously dismissed his appeal against the possession order on 17 July 2008. The Supreme Court dismissed the current application for stay of execution, holding that under rule 20(1) of CI 16, no stay could be granted because the judgment appealed from (the Court of Appeal's dismissal of the appeal) was not executable and did not necessitate further proceedings. The court emphasized that rule 20 applies only to execution of the actual judgment under appeal, not prior executable orders.",
+  "legalKeywords": [
+    "stay of execution",
+    "appeal",
+    "executable judgment",
+    "Supreme Court Rules CI 16",
+    "rule 20",
+    "jurisdiction",
+    "proceedings not necessitated by judgment",
+    "Court of Appeal",
+    "judicial sale",
+    "vacant possession",
+    "application dismissed"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Appellate Jurisdiction",
+    "Execution of Judgment"
+  ],
+  "verdict": "The application for stay of execution pending appeal was dismissed.",
+  "winningSide": "Respondent (Tony Adams, the execution purchaser)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "W. A. Atuguba",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "J. Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "R. C. Owusu",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "P. Baffoe-Bonnie",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal (Interlocutory Application for Stay of Execution)",
+  "citations": [
+    "Takyi v Ghassoub (Ghana) Ltd [1987-88] 2 GLR 52",
+    "Sewing Machines Ltd v Wilson [1976] 1 WLR 37",
+    "Republic v Duffour; Ex parte Asare [2007-2008] 1 SCGLR 394"
+  ],
+  "rationaleHighlights": [
+    "Rule 20(1) of CI 16 does not permit a stay of execution where the judgment under appeal is not executable.",
+    "The judgment appealed from (dismissing an appeal) did not require or necessitate further proceedings.",
+    "Only proceedings directly arising from the terms of the appealed judgment can be stayed under rule 20.",
+    "Rule 5 of CI 16 (on matters not provided for) does not apply where a specific rule (rule 20) already governs the issue.",
+    "The prior executable judgment was not the subject of the appeal; hence, it falls outside rule 20’s scope.",
+    "An appeal to the Supreme Court is limited to matters arising from the immediate lower court's decision.",
+    "The court rejected the argument that it could stay proceedings merely because justice so requires, absent a basis in rule 20.",
+    "The application was misconceived and dismissed accordingly."
+  ],
+  "confidenceNotes": null,
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/TONY ADAMS  -VRS- ANANG SOWAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:54:52.322Z",
+    "plainTextLength": 8131
+  },
+  "trialDate": "2009-01-14"
+}

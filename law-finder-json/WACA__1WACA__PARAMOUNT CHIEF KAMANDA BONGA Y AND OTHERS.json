@@ -1,0 +1,74 @@
+{
+  "caseTitle": "PARAMOUNT CHIEF KAMANDA BONGA Y AND OTHERS",
+  "summary": "This 1931 West African Court of Appeal decision addresses an application for leave to appeal filed by Paramount Chief Kamanda Bongay and others more than three months after the lower court's final judgment. The central issue was whether the Court could entertain a late application beyond the three-month period under Rule 10, given that it was filed within six months. The Court held that Rule 11 explicitly permits applications to the appellate court within six months without requiring special justification, rejecting the argument that such late applications should be treated as requests for 'special leave.' The Court emphasized the plain language of the rules and found a rational basis for the time distinction in Ordinance No. 9 of 1929, which limits certain appeals (e.g., on costs or by consent) to the lower court within three months. However, the applicants were not immediately granted leave because their supporting affidavit failed to clearly establish that the claim exceeded the statutory threshold of fifty pounds in value. The Court ruled that a supplementary affidavit must be filed to confirm jurisdictional requirements before conditional leave to appeal could be finalized.",
+  "legalKeywords": [
+    "leave to appeal",
+    "final judgment",
+    "time limitation",
+    "procedural rules",
+    "conditional leave",
+    "affidavit requirement",
+    "jurisdictional threshold",
+    "Ordinance No. 9 of 1929",
+    "Rule 10",
+    "Rule 11",
+    "interlocutory orders",
+    "appeal by consent",
+    "costs order",
+    "special leave",
+    "conditional appeal",
+    "statutory interpretation",
+    "appellate procedure",
+    "Supreme Court",
+    "Circuit Court",
+    "fifty pounds threshold"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Jurisdictional Threshold",
+    "Procedural Compliance",
+    "Affidavit Requirements",
+    "Statutory Interpretation"
+  ],
+  "verdict": "Conditional leave to appeal granted, pending submission of a supplementary affidavit proving the claim exceeds fifty pounds in value.",
+  "winningSide": "Plaintiffs (conditionally)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Deane",
+      "role": "Chief Justice, The Gold Coast Colony"
+    },
+    {
+      "name": "McRoberts",
+      "role": "Acting Chief Justice, Sierra Leone"
+    },
+    {
+      "name": "Sawrey-Bookson",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "West African Court of Appeal Rules 10 and 11",
+    "Ordinance No. 9 of 1929 (as amended by Ordinance No. 29 of 1929), s 3"
+  ],
+  "rationaleHighlights": [
+    "Rule 11 allows applications for leave to appeal to the West African Court of Appeal within six months without requiring special reasons",
+    "Distinction between three-month limit for lower court and six-month limit for appellate court is justified by functional differences",
+    "Section 3 of Ordinance No. 9 of 1929 provides a rational basis for the time distinction, particularly for interlocutory or consent orders",
+    "Applicant must clearly establish jurisdictional value threshold (over £50) to qualify for appeal",
+    "A mere suggestion of value in affidavit is insufficient; clear factual showing required",
+    "Conditional leave granted pending submission of supplementary affidavit"
+  ],
+  "confidenceNotes": "The case is clearly reported with specific references to procedural rules and statutory provisions. The jurisdiction and court level are unambiguous. The lack of detailed factual background on the underlying dispute limits contextual depth, but core procedural and legal reasoning is well-documented.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/PARAMOUNT CHIEF KAMANDA BONGA Y AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:40:16.888Z",
+    "plainTextLength": 6190
+  }
+}

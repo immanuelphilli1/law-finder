@@ -1,0 +1,81 @@
+{
+  "caseTitle": "EWUDZI VERSUS DADSON.",
+  "summary": "This 1957 High Court decision in EWUDZI v. DADSON addressed a procedural error in a private prosecution under Ghana's Criminal Procedure Code. The District Magistrate in Cape Coast had dismissed a charge of falsifying court records without hearing the prosecutor's evidence, accepting a defense submission that the charge was improperly laid. The High Court held that under section 168 of the Code, a magistrate must hear the prosecution's evidence after a 'not guilty' plea in a summary trial. It further clarified that under section 172(1), magistrates may amend or substitute charges if defective, but cannot dismiss them pre-evidence. The appeal was allowed, and a trial de novo was ordered.",
+  "legalKeywords": [
+    "Criminal Procedure Code",
+    "summary trial",
+    "private prosecution",
+    "charge amendment",
+    "section 168",
+    "section 172",
+    "not guilty plea",
+    "prosecution evidence",
+    "defective charge",
+    "trial de novo",
+    "magistrate powers",
+    "objection to charge",
+    "falsifying court records",
+    "obstructing justice",
+    "case stated",
+    "retrial",
+    "procedural error",
+    "judicial discretion",
+    "amendment of charge",
+    "pre-trial dismissal"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Legal Procedure",
+    "Judicial Review",
+    "Prosecutorial Rights",
+    "Magistrates' Powers"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Prosecutor",
+  "prosecutionType": "private",
+  "judges": [
+    {
+      "name": "van Lare J",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Adumua-Bossman J",
+      "role": "Judge"
+    },
+    {
+      "name": "Hayfron-Benjamin, Jnr.",
+      "role": "Counsel for prosecutor"
+    },
+    {
+      "name": "Sekyi",
+      "role": "Counsel for accused"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Central Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Criminal Procedure Code, c. 10 of 1951, s. 168",
+    "Criminal Procedure Code, c. 10 of 1951, s. 172(1)",
+    "Criminal Procedure Code, s. 244"
+  ],
+  "rationaleHighlights": [
+    "Section 168 mandates magistrates to hear prosecution evidence after a not guilty plea in summary trials.",
+    "No provision allows dismissal of charges pre-evidence in summary trials.",
+    "Section 172(1) permits amendment or substitution of defective charges.",
+    "Objections to charge form must be addressed through amendment, not dismissal.",
+    "Distinction exists between summary trial and trial on information procedures.",
+    "Magistrate erred by treating summary trial like an information-based trial.",
+    "Remedy for defective charge is trial continuation with possible amendment.",
+    "Appeal succeeded due to procedural misapplication."
+  ],
+  "confidenceNotes": "The source is a digitized version of a published law report from the West African Law Reports (WALR), indicating high reliability. The judgment is clearly articulated with direct statutory references and logical reasoning. All key elements including parties, court, date, and legal principles are consistently documented.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/EWUDZI v. DADSON..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:05:24.942Z",
+    "plainTextLength": 5388
+  }
+}

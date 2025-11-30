@@ -1,0 +1,82 @@
+{
+  "caseTitle": "THE REPUBLIC V LT SETH ODURO",
+  "summary": "The Supreme Court of Ghana ruled on a preliminary objection concerning its jurisdiction to hear an appeal by the Republic against a decision of the Court Martial Appeal Court that quashed the conviction of Lieutenant Seth Oduro for being absent without leave. The respondent argued that no direct right of appeal exists from the Court Martial Appeal Court to the Supreme Court and that special leave under article 131(2) of the 1992 Constitution was required. The Court agreed, holding that rights of appeal in Ghana are strictly statutory and not inherent. It found no provision in the Constitution or the Armed Forces Act, 1962 (Act 105), that permits an appeal from the Court Martial Appeal Court to the Supreme Court. Although the Republic claimed the appeal was from the Court of Appeal (Criminal Division) due to long-standing practice, the Court rejected this, affirming that statutory provisions must prevail over practice. The Court also expressed doubt that article 131(2) could confer appellate rights where none exist and noted that even if it could, no application for special leave had been made. The appeal was therefore dismissed for lack of jurisdiction.",
+  "legalKeywords": [
+    "right of appeal",
+    "jurisdiction",
+    "Court Martial Appeal Court",
+    "statutory interpretation",
+    "Constitution of Ghana 1992",
+    "Armed Forces Act 1962",
+    "article 131",
+    "article 137",
+    "special leave to appeal",
+    "criminal appeal",
+    "military justice",
+    "appellate procedure",
+    "inherent jurisdiction",
+    "conditional right of appeal",
+    "constitutional law"
+  ],
+  "topics": [
+    "Appellate Jurisdiction",
+    "Military Law",
+    "Constitutional Law",
+    "Criminal Procedure",
+    "Statutory Interpretation"
+  ],
+  "verdict": "The Supreme Court dismissed the appeal for lack of jurisdiction, upholding the respondent's preliminary objection.",
+  "winningSide": "Respondent (Lt. Seth Oduro)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "Dr. Twum",
+      "role": "Presiding"
+    },
+    {
+      "name": "Prof. Ocran",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Adinyira",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Asiamah",
+      "role": "Member of Coram"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Kuma v The Republic [1968] GLR 926",
+    "Nye v Nye [1967] GLR 76",
+    "In Re Yendi Skin Affairs, Yakubu II v Abudulai [[1984-86] 2 GLR 226",
+    "Otoo v Dua [1991] 2 GLR 247",
+    "R v S (T) [1994] 3 S.C.R. 952",
+    "Dolphyne (No. 2) v Speedline Stevedoring Co. Ltd. [1996-97] SCGLR 373"
+  ],
+  "rationaleHighlights": [
+    "A right of appeal is a creature of statute and not inherent in Ghanaian law.",
+    "No statutory or constitutional provision allows direct appeal from the Court Martial Appeal Court to the Supreme Court.",
+    "Article 131(2) of the 1992 Constitution likely applies only to appeals from the Court of Appeal, not other tribunals.",
+    "The Republic failed to seek special leave, which may be required, making the appeal procedurally defective.",
+    "The Court of Appeal has been de facto handling court martial appeals, but this practice does not confer legal jurisdiction.",
+    "The Supreme Court cannot expand its jurisdiction beyond what is conferred by the Constitution or statute."
+  ],
+  "confidenceNotes": "The document is a full judgment from the Supreme Court of Ghana with clear citations and reasoning. All extracted information is directly supported by the text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2007A/THE REPUBLIC V LT SETH ODURO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:18:09.356Z",
+    "plainTextLength": 25527
+  },
+  "trialDate": "2007-05-30"
+}

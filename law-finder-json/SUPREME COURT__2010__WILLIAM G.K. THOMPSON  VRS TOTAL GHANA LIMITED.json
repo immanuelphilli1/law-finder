@@ -1,0 +1,83 @@
+{
+  "caseTitle": "WILLIAM G.K. THOMPSON VRS TOTAL GHANA LIMITED",
+  "summary": "This Supreme Court of Ghana case, decided on 11th August 2010, involved William G.K. Thompson, a senior employee and Retail Network Development Manager at Total Ghana Limited, who was suspended without being given an opportunity to respond to allegations linking him to police investigations concerning misconduct at a company filling station. The suspension letter cited implication in police probes, but no charges were filed against him, and the company failed to present credible evidence supporting the allegations. The High Court and later the Court of Appeal ruled in favor of Thompson, declaring the suspension unlawful. The Supreme Court upheld these decisions, emphasizing that the employer failed to meet the burden of proof under the Evidence Act, particularly Sections 11(4) and 14, and relied on inadmissible hearsay evidence. The Court found the suspension unjustified, procedurally unfair, and in breach of natural justice, thereby affirming that the employer's actions were unlawful and without foundation.",
+  "legalKeywords": [
+    "suspension of employee",
+    "burden of proof",
+    "natural justice",
+    "hearsay evidence",
+    "unfair labor practice",
+    "employment contract",
+    "procedural fairness",
+    "Evidence Act NRCD 323",
+    "wrongful suspension",
+    "judicial review",
+    "employee rights",
+    "employer liability",
+    "admissibility of evidence",
+    "standard of proof",
+    "right to be heard"
+  ],
+  "topics": [
+    "Employment Law",
+    "Administrative Law",
+    "Evidence Law",
+    "Labor Rights",
+    "Judicial Review"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "G. T. Wood (Mrs.)",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "S.A. Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "J.V.M. Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "N.S. Gbadebe",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "CIVIL APPEAL NO. J4/3/2010",
+    "Evidence Act, 1975 (NRCD 323)",
+    "Brown v Rolls Royce Limited [1960] 1 ALL ER 577",
+    "Tormekpey v Ahiable [1975] 2 GLR 432",
+    "Bonsu v The Republic [1999-2000] 1 GLR 199"
+  ],
+  "rationaleHighlights": [
+    "Employer failed to prove allegations justifying suspension",
+    "Suspension based on unproven and hearsay evidence violates natural justice",
+    "Burden of proof under Section 11(4) and Section 14 of the Evidence Act not met",
+    "Inadmissible evidence must be disregarded even if not acted upon",
+    "Failure to allow employee to respond breaches fair hearing rights",
+    "Unsubstantiated suspension renders action unlawful and unjustified",
+    "No criminal charges or adverse findings against employee",
+    "Employer's conduct implies admission of lack of credible evidence"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official court judgment text, clear identification of parties, court hierarchy, legal reasoning, and citation of statutory provisions and case law.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/WILLIAM G.K. THOMPSON  VRS TOTAL GHANA LIMITED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:40:23.702Z",
+    "plainTextLength": 10055
+  },
+  "trialDate": "2008-07-31"
+}

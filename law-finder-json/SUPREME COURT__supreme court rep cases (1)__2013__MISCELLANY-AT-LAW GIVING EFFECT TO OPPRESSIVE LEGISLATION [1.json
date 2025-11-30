@@ -1,0 +1,65 @@
+{
+  "caseTitle": "Okorie v. The Republic1 and Taylor",
+  "summary": "The case of Tinieye, alias Killer v. The Republic, heard in the High Court of Bolgatanga on 15 August 1979, addressed the admissibility of confession statements obtained without informing the accused of their right to counsel. Despite prior judicial decisions in Okorie v. The Republic and Republic v. Akosah holding such statements inadmissible under the 1969 Constitution, the Criminal Procedure (Amendment) Decree, 1975 (S.M.C.D. 3) explicitly rendered such statements admissible regardless of non-compliance with constitutional rights. Taylor J. rejected arguments that the court should refuse to enforce what was deemed oppressive legislation, affirming that courts must apply clear legislative enactments even if perceived as unjust, and that judicial resistance to such laws should take the form of resignation rather than judicial overreach. The judge emphasized that statutory interpretation must follow plain language unless ambiguity exists, warning against judicial usurpation of legislative power.",
+  "legalKeywords": [
+    "admissibility of confession",
+    "right to counsel",
+    "judicial interpretation",
+    "oppressive legislation",
+    "constitutional rights",
+    "statutory override",
+    "Criminal Procedure Amendment Decree",
+    "judicial restraint",
+    "legislative supremacy",
+    "confession statement",
+    "constitutional breach",
+    "court's role",
+    "legal interpretation",
+    "judicial duty",
+    "rule of law"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Criminal Procedure",
+    "Judicial Interpretation",
+    "Human Rights",
+    "Legislative Supremacy"
+  ],
+  "verdict": "Confession statements were held admissible.",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Taylor J.",
+      "role": "Trial Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Bolgatanga",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Republic v. Akosah [1975] 2 G.L.R. 406",
+    "Okorie v. The Republic [1974] 2 G.L.R. 272",
+    "S.M.C.D. 3 (1975)"
+  ],
+  "rationaleHighlights": [
+    "Courts must apply clear legislative enactments even if perceived as oppressive.",
+    "Judges who object to legislation should resign rather than defy it.",
+    "Statutory language prevails unless ambiguous.",
+    "Judicial role is interpretation, not lawmaking.",
+    "S.M.C.D. 3 explicitly overrides constitutional right to counsel for admissibility.",
+    "Refusing to apply law undermines separation of powers.",
+    "Preamble use is inappropriate when statute is unambiguous.",
+    "Judicial activism risks usurping legislative function."
+  ],
+  "confidenceNotes": "The case is unreported but referenced through a legal commentary with citations to related reported cases. The reasoning is consistent with judicial doctrines in Ghana during the period.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2013/MISCELLANY-AT-LAW GIVING EFFECT TO OPPRESSIVE LEGISLATION [1.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:30:39.127Z",
+    "plainTextLength": 3649
+  },
+  "trialDate": "1979-08-15"
+}

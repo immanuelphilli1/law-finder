@@ -1,0 +1,79 @@
+{
+  "caseTitle": "J. J. OCQUAYE",
+  "summary": "The West African Court of Appeal dismissed an appeal in J. J. Ocquaye v. L. Quarshie & Ors. (1937) because the appellant failed to pay costs awarded by a Native Tribunal and did not obtain proper leave to appeal. The court held that the Provincial Commissioner's Court lacked authority under section 77(2) of the Native Administration Ordinance to grant leave, and the proviso did not empower the appellate court to intervene. In a separate case, Mensah Nyaku & Ors. v. Otoo Pabi, the court allowed an appeal challenging the joinder of parties and causes of action, ruling that combining a land ownership claim—within the jurisdiction of a Native Tribunal—with claims involving interpretation of English-form legal documents created procedural unfairness. The writ was struck out without prejudice to re-filing in appropriate forums.",
+  "legalKeywords": [
+    "leave to appeal",
+    "Native Tribunal",
+    "Provincial Commissioner's Court",
+    "section 77(2)",
+    "Native Administration Ordinance",
+    "joinder of parties",
+    "causes of action",
+    "jurisdiction",
+    "land ownership",
+    "costs",
+    "writ",
+    "declaration",
+    "rectification",
+    "cancellation of deed",
+    "account of moneys",
+    "multiple claims",
+    "procedural fairness",
+    "appellate jurisdiction",
+    "Supreme Court",
+    "Order 3 Rule 8",
+    "Courts Ordinance 1935"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Jurisdiction",
+    "Land Law",
+    "Civil Procedure",
+    "Native Tribunals"
+  ],
+  "verdict": "Appeal dismissed in Ocquaye; appeal allowed in Nyaku",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Yates",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "WACA/3 WACA/J. J. OCQUAYE",
+    "Section 77(2), Native Administration Ordinance",
+    "Order 3, Rule 8, Schedule 3, Courts Ordinance 1935"
+  ],
+  "rationaleHighlights": [
+    "Provincial Commissioner's Court lacks power to grant leave to appeal under section 77(2)",
+    "Proviso does not empower appellate court to grant leave to lower tribunal",
+    "Joinder of land ownership claim with document interpretation claims causes procedural embarrassment",
+    "Fair trial impossible due to mixed jurisdictional claims",
+    "Order 3 Rule 8 permits striking out improperly joined claims",
+    "Native Tribunals have primary jurisdiction over land ownership",
+    "Writ struck out without prejudice to refiling in proper courts",
+    "Costs awarded to successful appellants in Nyaku case"
+  ],
+  "confidenceNotes": "High confidence; details extracted directly from judicial text with clear citations and consistent judicial reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/J. J. OCQUAYE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:23:03.219Z",
+    "plainTextLength": 11975
+  },
+  "trialDate": "1937-11-25"
+}

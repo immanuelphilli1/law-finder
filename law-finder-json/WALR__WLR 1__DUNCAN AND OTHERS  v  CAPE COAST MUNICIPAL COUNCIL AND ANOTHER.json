@@ -1,0 +1,61 @@
+{
+  "caseTitle": "DUNCAN AND OTHERS VERSUS CAPE COAST MUNICIPAL COUNCIL",
+  "summary": "In Duncan and Others v Cape Coast Municipal Council and Another, the Supreme Court of the Gold Coast held that a rate imposed by the Cape Coast Municipal Council for 1954–1955 was invalid due to non-compliance with statutory publicity requirements. Although the rate had been approved by the Minister and published in the Gazette, the Council failed to publish notice in at least one daily newspaper circulating in its area, as mandated by Regulation 2(2) of the Municipal Councils (Rates) Regulations, 1953 (L.N. 432). The court emphasized that under section 97 of the Municipal Councils Ordinance, a rate is invalid unless notice is given in the manner prescribed by valid regulations. While the Council also failed to give advance notice of its intention to levy the rate, the court held this omission did not invalidate the rate, as the Ordinance only made post-resolution publicity mandatory. The plaintiffs, as ratepayers, were granted a declaration of invalidity, but the claim for an account of collected rates was dismissed.",
+  "legalKeywords": [
+    "municipal council",
+    "rate validity",
+    "public notice",
+    "statutory compliance",
+    "regulatory requirement",
+    "local government law",
+    "ratepayer rights",
+    "administrative procedure",
+    "invalidation of rate",
+    "duty to publish",
+    "Gazette publication",
+    "newspaper publication",
+    "Ministerial approval",
+    "section 97",
+    "Municipal Councils Ordinance"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Local Government",
+    "Taxation Law",
+    "Statutory Interpretation",
+    "Judicial Review"
+  ],
+  "verdict": "The rate was declared invalid due to failure to comply with mandatory publication requirements in a daily newspaper.",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Manyo-Plange J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Central Judicial Division, Divisional Court, Cape Coast",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Action for Declaration",
+  "citations": [
+    "Municipal Councils Ordinance, c. 9 of 1953, ss. 93, 94, 95, 97, 109",
+    "Municipal Councils (Rates) Regulations, 1953, L.N. 432",
+    "Gold Coast Gazette, No. 76 of November 13, 1954, p. 1422"
+  ],
+  "rationaleHighlights": [
+    "Section 97 of the Ordinance renders a rate invalid unless notice is given in the manner prescribed by regulations made under section 109.",
+    "Regulation 2(2) requires publication in at least one daily newspaper circulating in the council’s area, in addition to the Gazette.",
+    "Failure to publish in a daily newspaper constituted non-compliance with mandatory statutory procedure.",
+    "Although no advance notice of intention to levy the rate was given, this was not a mandatory requirement under the Ordinance and thus did not invalidate the rate.",
+    "The plaintiffs, as ratepayers, had standing to challenge the validity of the rate."
+  ],
+  "confidenceNotes": "The decision is clearly based on strict statutory interpretation of the Municipal Councils Ordinance and its subsidiary regulations. The court's reasoning is consistent with administrative law principles requiring strict compliance with procedural mandates for validity of fiscal measures. The citation of specific provisions and undisputed facts supports high confidence in accuracy.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/DUNCAN AND OTHERS  v  CAPE COAST MUNICIPAL COUNCIL AND ANOTHER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:09:44.734Z",
+    "plainTextLength": 10702
+  }
+}

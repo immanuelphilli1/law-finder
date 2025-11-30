@@ -1,0 +1,110 @@
+{
+  "caseTitle": "SUMAILA BIELBIEL VRS ADAMU DARAMANI, THE ATTORNEY GENERAL",
+  "summary": "In Sumaila Bielbiel v. Adamu Daramani & the Attorney General (Review Motion No. J1/2/2010, 26th October 2011), the Supreme Court of Ghana dismissed an application to review its earlier ruling that allowed a constitutional action to proceed under its original jurisdiction. The case centered on whether Adamu Daramani, a Member of Parliament holding a British passport, was disqualified from office under Article 97(1)(e) of the 1992 Constitution for owing allegiance to a foreign country. Initially, the High Court and Court of Appeal dismissed the claim, treating it as a time-barred election petition. However, the Supreme Court held that the matter was a constitutional enforcement action, not an election petition, and thus properly fell within its exclusive original jurisdiction under Article 130(1). The applicant sought review, arguing the decision was per incuriam and created a dangerous precedent. The Court rejected this, emphasizing that review is not a second appeal and that no miscarriage of justice occurred. It affirmed its duty to uphold constitutional supremacy, even if the result affects parliamentary membership.",
+  "legalKeywords": [
+    "original jurisdiction",
+    "constitutional enforcement",
+    "election petition",
+    "allegiance",
+    "parliamentary disqualification",
+    "miscarriage of justice",
+    "review application",
+    "per incuriam",
+    "constitutional interpretation",
+    "Supreme Court review powers",
+    "jurisdictional challenge",
+    "constitutional integrity",
+    "public interest litigation",
+    "constitutional office holder",
+    "Article 130(1)",
+    "Article 97(1)(e)",
+    "Article 94(2)(a)",
+    "Rule 54 Supreme Court Rules",
+    "constitutional supremacy",
+    "technicality vs substance"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Election Law",
+    "Judicial Review",
+    "Parliamentary Eligibility",
+    "Supreme Court Jurisdiction"
+  ],
+  "verdict": "Application for review dismissed.",
+  "winningSide": "Respondent (Sumaila Bielbiel)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "S. A. B. Akuffo (Ms)",
+      "role": "Presiding"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Adinyira (Mrs)",
+      "role": "Justice"
+    },
+    {
+      "name": "Owusu (Ms)",
+      "role": "Justice"
+    },
+    {
+      "name": "Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "Aryeetey",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebe",
+      "role": "Justice"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs.)",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Yeboah v. J. H. Mensah [1998-99] SCGLR 492",
+    "Representation of the People Law, 1992 (PNDCL 284)",
+    "Order 2(2) of the High Court (Civil Procedure) Rules, 2004 (C.I. 47)",
+    "Supreme Court Rules, 1996 (C.I. 16), Rule 54"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court has exclusive original jurisdiction to enforce constitutional provisions, even where prior judgments exist.",
+    "A constitutional action challenging parliamentary membership due to foreign allegiance falls within the Court's original jurisdiction under Article 130(1).",
+    "Review applications cannot be used as a second appeal; mere disagreement with a ruling is insufficient.",
+    "The Court must uphold constitutional integrity over procedural technicalities when public interest is at stake.",
+    "The decision in Yeboah v. J.H. Mensah does not bar constitutional enforcement actions under the original jurisdiction.",
+    "No miscarriage of justice occurs if a constitutionally ineligible MP is unseated, as constitutional compliance serves the public good.",
+    "Article 130(1) must not be interpreted so narrowly as to render Article 2(1) (constitutional supremacy) superfluous.",
+    "The possibility of strategic litigation does not negate the Court's duty to hear valid constitutional questions."
+  ],
+  "confidenceNotes": "The case details are drawn directly from a Supreme Court ruling with clear procedural history and legal reasoning. All information is consistent with the provided document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/SUMAILA BIELBIEL VRS ADAMU DARAMANI, THE ATTORNEY GENERAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:58:55.028Z",
+    "plainTextLength": 18386
+  }
+}

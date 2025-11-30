@@ -1,0 +1,82 @@
+{
+  "caseTitle": "LAND REGISTRY ACT NEW ISSUES FOR OLD [1989–90] VOL. XVIII RG",
+  "summary": "The Supreme Court of Ghana, in Odametey v Clocuh and Nartey v Mechanical Lloyd Assembly Plant Ltd, addressed key issues under the Land Registry Act, 1962 (Act 122). The court rejected the doctrine of constructive registration, holding that unregistered instruments are ineffective regardless of presentation for registration. It affirmed that registration confers constructive notice under section 25(1), binding even landholding stools to notice of unauthorized grants. The majority held that priority between competing instruments is determined by registration date under section 26. The court also clarified that valid customary law grants transfer title independently of registration, and subsequent documentary conveyances purporting to transfer already-disposed rights are ineffective. Administrative failures by the Land Registry do not override statutory registration requirements.",
+  "legalKeywords": [
+    "Land Registry Act 1962",
+    "constructive registration",
+    "section 24(1)",
+    "section 25(1)",
+    "section 26",
+    "customary law grant",
+    "constructive notice",
+    "priority of registration",
+    "ineffective instrument",
+    "registration requirement",
+    "unauthorized grant",
+    "estoppel by acquiescence",
+    "La stool land rights",
+    "Agbawe family",
+    "re-plotting land",
+    "null and void conveyance",
+    "judicial review of land registry",
+    "fraudulent intention",
+    "mistaken belief in title",
+    "equitable doctrines in land law"
+  ],
+  "topics": [
+    "Land Law",
+    "Registration of Titles",
+    "Customary Law",
+    "Equity and Trusts",
+    "Supreme Court Jurisprudence"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Taylor JSC",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Amua-Sekyi JSC"
+    },
+    {
+      "name": "Francois JJSC"
+    },
+    {
+      "name": "Wuaku JJSC"
+    },
+    {
+      "name": "Adade JSC"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Land Title Dispute",
+  "citations": [
+    "Odametey v Clocuh",
+    "Ntem v Ankwandah",
+    "Nartey v Mechanical Lloyd Assembly Plant Ltd",
+    "Ayitey v Mantey"
+  ],
+  "rationaleHighlights": [
+    "Unregistered instruments are ineffective under s 24(1) regardless of presentation for registration",
+    "Constructive registration doctrine rejected by majority",
+    "Registration under s 25(1) constitutes constructive notice to all persons",
+    "Priority between instruments determined by registration date under s 26",
+    "Valid customary law grants transfer title independently of registration",
+    "Subsequent conveyances over already-granted land are ineffective",
+    "Landholders may be bound by notice of unauthorized registrations",
+    "Courts may in appropriate cases order correction of registry entries"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and multiple cited authorities; minor uncertainty regarding Adade JSC's full rationale due to terse concurrence.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/89 - 90/LAND REGISTRY ACT NEW ISSUES FOR OLD [1989–90] VOL. XVIII RG.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:18:28.851Z",
+    "plainTextLength": 25367
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "caseTitle": "EVAN ADELEYE SHANU",
+  "summary": "This appeal before the West Africa Court of Appeal concerned the interpretation of a Privy Council order regarding costs following the dismissal of an appeal by the surviving executor of an estate. The appellant, Evan Adeleye Shanu, challenged a lower court decision that held the costs awarded by the Privy Council should be paid from the estate of J.R. Shanu, deceased, rather than personally by the executor, P.H. Williams. The Court held that unless the Privy Council expressly orders costs to be paid from an estate, such liability remains personal, especially where a bond was entered into by the executors. The lower court's order was reversed, affirming that the executor was personally liable for the costs, and the appeal succeeded with costs awarded to the appellant.",
+  "legalKeywords": [
+    "costs",
+    "executor liability",
+    "personal liability",
+    "estate assets",
+    "bond for costs",
+    "Privy Council order",
+    "interpretation of order",
+    "interlocutory decision",
+    "appeal dismissal",
+    "payment by instalments"
+  ],
+  "topics": [
+    "Costs in Civil Proceedings",
+    "Executor Liability",
+    "Interpretation of Judicial Orders",
+    "Estate Administration",
+    "Appeal Law"
+  ],
+  "verdict": "Appeal allowed; order of lower court set aside.",
+  "winningSide": "Plaintiff-Appellant (Evan Adeleye Shanu)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "WEBBER, C.J., SIERRA LEONE",
+      "role": "presiding judge"
+    },
+    {
+      "name": "KINGDON, C.J., NIGERIA",
+      "role": "concurring judge"
+    },
+    {
+      "name": "PETRIDES, C.J., GOLD COAST",
+      "role": "concurring judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "WACA/3 WACA/EVAN ADELEYE SHANU",
+    "Nigerian Law Reports, Vol. 3, page 76, Tom Jones, deceased, re Shaw v. Jones and Taylor v. Fasanya"
+  ],
+  "rationaleHighlights": [
+    "Costs are personal unless the order explicitly states they are to be paid from the estate.",
+    "The Privy Council's order did not specify payment from the estate, so liability falls on the individual executor.",
+    "Courts cannot vary a Privy Council order by implication or addition.",
+    "Universal practice requires express terms for charging estate with costs.",
+    "Surviving executor remains personally liable based on bond entered into."
+  ],
+  "confidenceNotes": "The case details are clearly documented with direct quotes from the judgment and procedural history. Citation to Nigerian Law Reports supports the legal principle applied.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/EVAN ADELEYE SHANU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:24:01.169Z",
+    "plainTextLength": 5206
+  },
+  "trialDate": "1936-04-22"
+}

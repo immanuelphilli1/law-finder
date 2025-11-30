@@ -1,0 +1,62 @@
+{
+  "caseTitle": "BAFFOUR v. TEMA DEVELOPMENT CORP. & ANOTHER",
+  "summary": "In Atta Baffour v. Tema Development Corp. & Another, the plaintiff, Atta Baffour, had been invited by the deceased tenant E.Q. Quartey to reside in a property owned by the first defendant, Tema Development Corporation (TDC). Although Baffour made payments to Quartey, these were invalid under the Rent Act, Act 220, due to lack of landlord consent. After Quartey's death, Baffour formally applied to TDC to become the new tenant. The second defendant, who had lived rent-free in the kitchen providing care to Quartey, did not make a formal application but was nonetheless granted the tenancy by TDC. The High Court ruled in favor of Baffour, and on appeal, the Court of Appeal upheld the decision, holding that since Baffour was the only party to formally apply, he should have been granted the tenancy. The court emphasized that the landlord failed to provide justifiable reasons for awarding the tenancy to someone who did not apply, and thus the appeal was dismissed.",
+  "legalKeywords": [
+    "tenancy",
+    "landlord",
+    "statutory tenant",
+    "Rent Act Act 220",
+    "subletting",
+    "exclusive possession",
+    "lease",
+    "contract",
+    "tenant application",
+    "judicial review"
+  ],
+  "topics": [
+    "Property Law",
+    "Landlord and Tenant",
+    "Succession to Tenancy",
+    "Administrative Discretion in Tenancy Allocation"
+  ],
+  "verdict": "Appeal dismissed; decision in favor of plaintiff-respondent upheld",
+  "winningSide": "Plaintiff-Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "K. Omari-Sasu",
+      "role": "Presiding Justice of Appeal"
+    },
+    {
+      "name": "J. Ansa",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "S.K. Asiama",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "ATTA BAFFOUR v. TEMA DEVELOPMENT CORP. & ANOTHER [16/1/2003] CIVIL APPEAL NO. 105/2002"
+  ],
+  "rationaleHighlights": [
+    "The plaintiff formally applied for the tenancy, unlike the second defendant.",
+    "The landlord failed to provide satisfactory reasons for granting tenancy to a non-applicant.",
+    "Acts of subletting without landlord consent are void under the Rent Act, Act 220.",
+    "The trial judge incorrectly labeled the plaintiff a statutory tenant, but the appellate court corrected this while affirming the outcome.",
+    "Granting tenancy to one who did not apply violates principles of fairness and procedural propriety."
+  ],
+  "confidenceNotes": "High confidence; facts and legal reasoning are clearly articulated in the judgment, with unambiguous appellate reasoning and consistent application of property law principles.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/ATTA BAFFOUR v. TEMA DEVELOPMENT CORP. & ANOTHER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:44:48.687Z",
+    "plainTextLength": 4571
+  },
+  "trialDate": "2003-01-16"
+}

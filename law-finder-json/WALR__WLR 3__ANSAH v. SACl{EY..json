@@ -1,0 +1,62 @@
+{
+  "caseTitle": "ANSAH VERSUS SACKEY.",
+  "summary": "In Ansa v. Sackey, the High Court of Ghana's Eastern Judicial Division held that the plaintiff retained a valid usufructuary interest in Asere Stool land despite a subsequent grant to the defendant. The court found that under native custom, a stool cannot forfeit land granted for building purposes without first giving the grantee notice and a reasonable opportunity to remedy the breach. The evidence showed no such notice or opportunity was given, rendering the alleged forfeiture invalid. Consequently, the defendant's entry onto the land constituted trespass. The court declared the plaintiff the rightful holder of the usufruct and awarded damages of £25.",
+  "legalKeywords": [
+    "stool land",
+    "native law and custom",
+    "determinable estate",
+    "forfeiture",
+    "usufructuary interest",
+    "building condition",
+    "notice",
+    "re-grant",
+    "trespass",
+    "customary law",
+    "land tenure",
+    "reversion",
+    "reasonable time",
+    "remedy of breach",
+    "invalid grant"
+  ],
+  "topics": [
+    "land law",
+    "customary law",
+    "forfeiture",
+    "trespass",
+    "determinable estate"
+  ],
+  "verdict": "Judgment for the plaintiff with declaration of title and damages for trespass.",
+  "winningSide": "plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J",
+      "role": "presiding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "WALR 3/ANSAH v. SACl{EY"
+  ],
+  "rationaleHighlights": [
+    "Forfeiture of stool land requires prior notice and opportunity to remedy breach.",
+    "Custom mandates consultation with grantee before forfeiture.",
+    "Failure to build within a reasonable time may justify forfeiture.",
+    "Two warnings are customary before valid forfeiture.",
+    "Forfeiture without due process is invalid under native custom.",
+    "Subsequent grant based on invalid forfeiture does not affect original title.",
+    "Trespass occurs when defendant enters land under invalid re-grant.",
+    "Customary law governs stool land grants and forfeitures."
+  ],
+  "confidenceNotes": "The decision is clearly reported with direct judicial reasoning and witness testimony cited, supporting high confidence in accuracy.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/ANSAH v. SACl{EY..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:14:54.218Z",
+    "plainTextLength": 8044
+  }
+}

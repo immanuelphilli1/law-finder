@@ -1,0 +1,95 @@
+{
+  "caseTitle": "CUSTOMARY ARBITRATION [1987-88] VOL. XVI RGL 148—170",
+  "summary": "This legal commentary examines the doctrine of customary arbitration in Ghana, tracing its development through judicial decisions from 1883 to 1962. It emphasizes that customary arbitration is a recognized mode of dispute resolution under Ghanaian law, preserved by statutes such as the Chieftaincy Act, 1961, and protected under constitutional and common law principles. The article outlines five essential characteristics of valid customary arbitration: (i) voluntary submission with informed consent, (ii) prior agreement to accept the award, (iii) a non-arbitrary decision reached judicially after hearing both sides, (iv) adherence to local Native Court procedures, and (v) publication of the award. Key cases like Budu II v Caesar, Asare v Donkor, Paul v Kokoo, and Donkor v Isifu clarify that mere attendance at a meeting does not constitute submission, and full understanding of the arbitration process is required. The Supreme Court resolved earlier conflicts in jurisprudence, affirming that customary arbitration, while distinct from statutory arbitration, remains a legitimate and enforceable method of adjudication in Ghana.",
+  "legalKeywords": [
+    "customary arbitration",
+    "voluntary submission",
+    "award enforcement",
+    "native customary law",
+    "arbitral procedure",
+    "consent to arbitrate",
+    "judicial manner",
+    "repugnancy doctrine",
+    "traditional dispute resolution",
+    "Ghanaian common law",
+    "chieftaincy jurisdiction",
+    "informal adjudication",
+    "arbitral award",
+    "equity and good conscience",
+    "Native Administration Ordinance",
+    "Chieftaincy Act 1961",
+    "Supreme Court Ordinance",
+    "customary law preservation",
+    "arbitration principles",
+    "party autonomy"
+  ],
+  "topics": [
+    "Customary Law",
+    "Arbitration",
+    "Judicial Procedure",
+    "Legal History",
+    "Ghanaian Jurisprudence"
+  ],
+  "verdict": "The article concludes that customary arbitration remains a valid and enforceable form of dispute resolution in Ghana, provided it meets established legal criteria including informed consent, procedural fairness, and non-repugnancy to justice and equity.",
+  "winningSide": "The principle of customary arbitration as a legally valid process",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Ollennu J",
+      "role": "Justice"
+    },
+    {
+      "name": "Bossman J",
+      "role": "Justice"
+    },
+    {
+      "name": "Sarkodee-Adoo J",
+      "role": "Justice"
+    },
+    {
+      "name": "Akufo-Addo J",
+      "role": "Justice"
+    },
+    {
+      "name": "van Lare J",
+      "role": "Justice"
+    },
+    {
+      "name": "Blay J",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "customary arbitration",
+  "citations": [
+    "Budu II v Caesar (1959)",
+    "Yaw v Amobie",
+    "Tanor v Dapomah",
+    "Gyesiwa v Mensah",
+    "Twumasi v Badu",
+    "Young v Bristol Aeroplane Co. Ltd",
+    "Asare v Donkor (1962)",
+    "Paul v Kokoo (1962)",
+    "Donkor v Isifu (1962)"
+  ],
+  "rationaleHighlights": [
+    "Voluntary submission requires clear consent after full explanation of arbitration implications",
+    "An award must be made in a judicial manner, not arbitrarily",
+    "The practice of the local Native Court should be followed as nearly as possible",
+    "Publication of the award is essential for validity",
+    "Mere presence at a meeting does not constitute submission to arbitration",
+    "Customary arbitration is distinct from statutory arbitration but equally valid",
+    "Courts must ensure awards are not repugnant to natural justice, equity and good conscience",
+    "Consistency in jurisprudence was achieved through Donkor v Isifu (1962)"
+  ],
+  "confidenceNotes": "The document is a legal commentary summarizing case law on customary arbitration in Ghana, with high confidence in the accuracy of cited cases and principles derived from judicial decisions.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/87 - 88/CUSTOMARY ARBITRATION [1987-88] VOL. XVI RGL 148—170.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:26:42.270Z",
+    "plainTextLength": 57721
+  }
+}

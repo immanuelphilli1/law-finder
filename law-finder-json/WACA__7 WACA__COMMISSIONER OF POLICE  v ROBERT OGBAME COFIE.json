@@ -1,0 +1,68 @@
+{
+  "caseTitle": "COMMISSIONER OF POLICE v ROBERT OGBAME COFIE",
+  "summary": "In Commissioner of Police v Robert Ogbase Cofie (WACA, 12 December 1941), the appellant was convicted of stealing two shirts from the King's warehouse. Although the prosecution failed to prove that the specific shirts were missing from a warehouse bale, evidence showed a bale of similar shirts had been tampered with. The West Africa Court of Appeal upheld the conviction, ruling that stealing may be established through circumstantial evidence and that the corpus delicti need not be expressly proven. Citing multiple authorities, the court held that the evidence against the appellant was overwhelming, warranting dismissal of the appeal.",
+  "legalKeywords": [
+    "stealing",
+    "corpus delicti",
+    "circumstantial evidence",
+    "criminal conviction",
+    "warehouse theft",
+    "evidentiary standard",
+    "appellate review",
+    "burden of proof",
+    "tampering with goods",
+    "judge of facts"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence",
+    "Theft",
+    "Appellate Procedure",
+    "Corpus Delicti"
+  ],
+  "verdict": "Conviction upheld; appeal dismissed.",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "M'Carthy, J.",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Dredge, 1 Cox 235",
+    "R. v. Hooper, 175 Eng. Rep. 637",
+    "R. v. Burton, 23 L.J.M.C. 52",
+    "R. v. Sbarra, 13 Cr. App. Rep. 118",
+    "R. v. Fuschillo, 27 Cr. App. Rep. 193",
+    "R. v. Boateng (unreported), WACA, 10 June 1941"
+  ],
+  "rationaleHighlights": [
+    "Theft can be proven through circumstantial evidence; express proof of corpus delicti is not mandatory.",
+    "Evidence of tampering with a bale of shirts supports inference of theft.",
+    "Failure to prove missing items directly does not invalidate conviction if evidence is overwhelming.",
+    "Fact-finding is for the trial judge or jury; appellate court defers to factual conclusions.",
+    "Overwhelming evidence justified upholding conviction despite evidentiary gap."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and cited authorities; unreported case cited but contextually reliable.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/COMMISSIONER OF POLICE  v ROBERT OGBAME COFIE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:35:38.827Z",
+    "plainTextLength": 3204
+  },
+  "trialDate": "1941-12-12"
+}

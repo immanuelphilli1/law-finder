@@ -1,0 +1,79 @@
+{
+  "caseTitle": "REX V PETER KALLE",
+  "summary": "The appellant, Peter Kalle, was convicted on two counts of fraudulent false accounting and stealing under sections 438(a), (b) and 390(6) of the Criminal Code. On appeal, the West African Court of Appeal quashed the conviction on the first count due to duplicity, as it combined multiple distinct offences under different subsections into a single charge without separate counts. However, the appeal against the second count was dismissed. The court held that although there were technical defects in the charge—such as naming individual owners of the property when the law deems money received on behalf of another as belonging to the principal—these did not cause prejudice given the appellant had adequate notice of the charges. The court applied the proviso to section 10(1) of Ordinance 47 of 1933, affirming that no substantial miscarriage of justice occurred. The appellant's argument that he was punished thrice for the same offence was rejected as a confusion between civil and criminal liability. His sentence, which ran concurrently, was not deemed excessive. The facts and the appellant’s own statement pointed clearly to guilt, with his defense being more an appeal for leniency based on age and following superior orders.",
+  "legalKeywords": [
+    "fraudulent false accounting",
+    "stealing",
+    "duplicity in charges",
+    "miscarriage of justice",
+    "summary trial",
+    "concurrent sentence",
+    "criminal liability",
+    "Criminal Code",
+    "proviso to section 10(1)",
+    "West African Court of Appeal Ordinance 47 of 1933",
+    "section 438",
+    "section 390(6)",
+    "section 387",
+    "Rex v. Igbinovia",
+    "R. v. Thompson",
+    "R. v. Wilmot",
+    "adequate notice",
+    "irregular indictment",
+    "appellate review",
+    "conviction quashed",
+    "appeal dismissed"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Fraud",
+    "Theft",
+    "Legal Error"
+  ],
+  "verdict": "Conviction on first count quashed; conviction on second count upheld.",
+  "winningSide": "Respondent (Rex)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "BUTLER LLOYD",
+      "role": "Ag.C.J., Nigeria"
+    },
+    {
+      "name": "BROOKE",
+      "role": "Justice"
+    },
+    {
+      "name": "MARTINDALE",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Wilmot 24 C.A.R. 63",
+    "Rex v. Igbinovia (October 1936, West African Court of Appeal)",
+    "R. v. Thompson, 1914, 9 C.A.R. 262"
+  ],
+  "rationaleHighlights": [
+    "The first count was quashed due to duplicity in charging multiple offences under different subsections in a single count.",
+    "The second count was upheld because the appellant had adequate notice of the charges despite technical irregularities.",
+    "The court applied the proviso to section 10(1) of Ordinance 47 of 1933, refusing to interfere where no substantial miscarriage of justice occurred.",
+    "The appellant's claim of triple punishment was dismissed as confusion between civil and criminal liability.",
+    "Sentence running concurrently was not considered excessive.",
+    "The appellant's own statement amounted to an admission of guilt, though framed as a plea for leniency.",
+    "Inclusion of victims' names was unnecessary but not prejudicial given that funds were received on behalf of the employer.",
+    "Precedent from R. v. Thompson supported upholding convictions despite procedural defects if no prejudice is shown."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from the judgment text. Citations and legal reasoning are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/REX V PETER KALLE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:14:42.752Z",
+    "plainTextLength": 5511
+  },
+  "trialDate": "1937-08-25"
+}

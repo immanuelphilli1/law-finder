@@ -1,0 +1,73 @@
+{
+  "caseTitle": "THOMAS C. THOMPSON & ANOR",
+  "summary": "The plaintiffs, executors of Joseph William Pratt, sought re-conveyance of real property mortgaged by the deceased to the defendant after full payment of the mortgage debt. The Supreme Court dismissed the claim, holding that section 3 of Cap. 61 did not confer any interest in real estate upon executors. The West African Court of Appeal reversed this decision, ruling that section 3 of the Execution Against Real Property Ordinance, 1924 (Cap. 61), made real estate 'legal assets' subject to administration by personal representatives. Thus, the executors were entitled to redeem and recover the mortgaged property. The appeal was allowed, and the respondent was ordered to re-convey the property and pay costs.",
+  "legalKeywords": [
+    "executors",
+    "mortgagor",
+    "real property",
+    "re-conveyance",
+    "legal assets",
+    "equitable assets",
+    "Administration of Estates Act 1833",
+    "Execution against Real Property Ordinance",
+    "personal representative",
+    "creditor claims",
+    "freehold land",
+    "devastavit",
+    "plene administravit",
+    "Sierra Leone law",
+    "West African Court of Appeal"
+  ],
+  "topics": [
+    "Probate Law",
+    "Property Law",
+    "Succession and Administration of Estates"
+  ],
+  "verdict": "The appeal was allowed. The lower court's judgment was set aside. The respondent was ordered to re-convey the property to the appellants at their expense and to pay their taxed costs in both courts.",
+  "winningSide": "Plaintiffs-Appellants (executors of Joseph William Pratt)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Webb, C.J., Sierra Leone",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Concurring Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Concurring Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Sierra Leone"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "Administration of Estates Act 1833, s. 1(1)",
+    "Execution against Real Property Ordinance, 1924 (Cap. 61), s. 3",
+    "Supreme Court Ordinance, 1904, s. 8",
+    "Intestate Estates Ordinance (Cap. 104), ss. 11–13",
+    "Attorney General v. Brunning (1858) 8 H.L.C. 243, 11 E.R. 242"
+  ],
+  "rationaleHighlights": [
+    "Section 3 of Cap. 61 added real estate as 'legal assets' to be administered by personal representatives, unlike the 1833 Act which treated them as equitable assets.",
+    "The omission of 'courts of equity' in Cap. 61 indicates that real estate became directly administrable by executors at law.",
+    "Real estate of an intestate already vested in a curator and was distributable as personalty, and Cap. 61 aligned testate estates with this rule.",
+    "Executors can sue for recovery of mortgaged property to avoid liability for devastavit if assets are not properly administered.",
+    "Lord Cranworth’s reasoning in A.G. v. Brunning supports that assets taken virtute officii are legal, not equitable.",
+    "The decision enables executors to redeem mortgaged property upon full debt satisfaction.",
+    "The judgment harmonizes estate administration for both testate and intestate deceased in Sierra Leone law.",
+    "The re-conveyance is ordered at the respondent's expense, affirming the appellants’ legal right to recovery."
+  ],
+  "confidenceNotes": null,
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/THOMAS C. THOMPSON & ANOR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:38:38.750Z",
+    "plainTextLength": 9638
+  },
+  "trialDate": "1939-03-21"
+}

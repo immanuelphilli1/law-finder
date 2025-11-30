@@ -1,0 +1,80 @@
+{
+  "caseTitle": "IN THE MATTER OF ARTICLE 99 OF THE 1992 CONSTITUTION OF GHANA AND IN THE MATTER OF THE REPRESENTATION OF THE PEOPLE LAW 1992 (PNDCL 284) AND IN THE MATTER OF A PARLIAMENTARY ELECTION FOR WULENSI CONSTITUENCY HELD ON THE 7TH DECEMBER 2000 [11/04/2002] CA /10/01 IN THE SUPERIOR COURT OF JUDICATURE IN THE COURT OF APPEAL ACCRA – GHANA ___________________________________________ CORAM: WOOD (MRS",
+  "summary": "This is an appeal from a High Court decision that declared the election of Samuel Nyimakan as Member of Parliament for Wulensi Constituency void on grounds of ineligibility. The Court of Appeal upheld the decision, affirming that Nyimakan did not meet the constitutional requirement of hailing from the constituency. The appellant challenged the procedure, arguing the petition should have been initiated by writ of summons, not a petition form. The court held that the petition form was valid under Order 74 of the High Court Rules, which permits the application of English practice where local rules are silent. Any procedural irregularity was deemed voidable and waived due to the appellant's full participation. On the merits, the court found substantial evidence supporting the trial judge's conclusion that Nyimakan hailed from Saboba, not Wulensi, despite minor errors in reasoning. The appeal was dismissed, affirming the respondent's success in challenging the election.",
+  "legalKeywords": [
+    "election petition",
+    "parliamentary election",
+    "constitutional qualification",
+    "residency requirement",
+    "hail from",
+    "procedural irregularity",
+    "void vs voidable",
+    "burden of proof",
+    "hearsay evidence",
+    "waiver of objection",
+    "High Court procedure",
+    "Court of Appeal",
+    "PNDCL 284",
+    "Article 99",
+    "originating process",
+    "petition form",
+    "writ of summons",
+    "equity and substance over form",
+    "judicial discretion",
+    "evidence evaluation"
+  ],
+  "topics": [
+    "Election Law",
+    "Constitutional Law",
+    "Procedural Law",
+    "Judicial Review",
+    "Parliamentary Qualifications"
+  ],
+  "verdict": "Appeal dismissed; the declaration that Samuel Nyimakan's election was void was upheld.",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Wood (Mrs.)",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Farkye",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Omari-Sasu",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "election petition appeal",
+  "citations": [
+    "Article 99, 1992 Constitution of Ghana",
+    "Section 26(1), Representation of the People Law 1992 (PNDCL 284)",
+    "Order 70, High Court (Civil Procedure) Rules, LN 140A/1954",
+    "Mosi v Bagyina (1963) GLR 337",
+    "Order 74, High Court Rules",
+    "Atkins Court Forms 2nd Edition",
+    "Giles Francis Harwood, Odgers’ Principles of Pleading and Practice, 19th Edition"
+  ],
+  "rationaleHighlights": [
+    "The use of a petition form instead of a writ of summons was valid due to the absence of specific rules, supported by Order 74 allowing English practice.",
+    "Procedural non-compliance is a mere irregularity (voidable), not a nullity, especially when waived by full participation.",
+    "The term 'hail from' was interpreted as equivalent to 'home town' or 'originate from' for electoral qualification.",
+    "Even with corrected inferences, sufficient evidence supported the finding that the appellant did not hail from the Wulensi Constituency.",
+    "Hearsay nature of documentary exhibits (birth declarations) was acknowledged but did not invalidate their evidentiary weight in context.",
+    "Failure to promptly object to procedural form constitutes waiver under equity and Order 70."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; document is a full judgment with clear legal reasoning and citations. Truncation occurs late and does not affect core holdings.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/IN THE MATTER OF A PARLIAMENTARY ELECTION FOR WULENSI CONSTITUENCY HELD ON THE 7TH DECEMBER 200.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:27:42.889Z",
+    "plainTextLength": 57548
+  },
+  "trialDate": "2002-04-11"
+}

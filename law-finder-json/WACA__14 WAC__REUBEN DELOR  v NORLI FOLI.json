@@ -1,0 +1,65 @@
+{
+  "caseTitle": "REUBEN DELOR v NORLI FOLI",
+  "summary": "The case Reuben Delor v Norli Foli (1952) arose from a loan agreement where Foli borrowed £360 from Delor, secured by his lorry, and granted Delor the right to seize the lorry upon default. After Foli defaulted, Delor took possession without opposition. Foli sued for trespass and damages, while Delor sought the lorry's documents. The trial court ruled the seizure a trespass and awarded damages to Foli. On appeal, the West Africa Court of Appeal allowed the appeal, holding that a party may lawfully authorise another to seize a chattel for debt under a contractual licence, distinguishing real property mortgages requiring court intervention. The seizure was lawful, and Foli was ordered to transfer the lorry to Delor.",
+  "legalKeywords": [
+    "contract of loan",
+    "chattel seizure",
+    "security interest",
+    "trespass to goods",
+    "licence to seize",
+    "equitable mortgage",
+    "right of distress",
+    "default in payment",
+    "transfer of possession",
+    "chattel security"
+  ],
+  "topics": [
+    "Contract Law",
+    "Tort Law",
+    "Secured Transactions",
+    "Appellate Decision",
+    "Property Law"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Foster-Sutton",
+      "role": "President"
+    },
+    {
+      "name": "Wilson",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Acolatse",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Osei Kofi v. Mensah, 1 W.A.C.A. 76",
+    "Kwaku Adu Sei and Kwaku Ansa v. Johnson Ofori, C.C.L.R., 1926-9, 87",
+    "Thompson v. Veale (1896), 74 L.T. 130",
+    "Chapman v. Beecham, 3 Q.B. 723"
+  ],
+  "rationaleHighlights": [
+    "A party may lawfully authorise another to seize a chattel under a contractual licence upon default.",
+    "Distinction drawn between equitable mortgage of land (requiring court intervention) and chattel security (transferable by delivery).",
+    "Seizure of a lorry under express contractual terms does not constitute trespass if authorised.",
+    "Chapman v. Beecham applied: licence to seize goods, even without landlord-tenant relationship, can be valid.",
+    "Contractual right to seize operates as a private licence, enforceable without court order when clearly granted."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text, including names, legal principles, citations, and outcome. Jurisdiction and court details are consistent with historical records of the West Africa Court of Appeal sitting in the Gold Coast (now Ghana).",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/REUBEN DELOR  v NORLI FOLI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:33:48.573Z",
+    "plainTextLength": 11069
+  }
+}

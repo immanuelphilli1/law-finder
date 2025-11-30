@@ -1,0 +1,70 @@
+{
+  "caseTitle": "REGINA VERSUS ANYAN",
+  "summary": "The appellant, Amale Anyan, was convicted of murdering his wife by striking her with an iron bar. He claimed the injury occurred accidentally when he tried to throw the bar out of a window and his wife came behind him. The prosecution's medical expert testified that the nature of the wound indicated a deliberate blow. The trial judge's summing up suggested the medical evidence ruled out accident, thereby improperly treating expert opinion as conclusive on the central issue of intent. The Court of Appeal held that where an expert expresses an opinion on the ultimate fact in issue, the jury must be clearly directed that they alone are the judges of fact and must not treat such opinion as binding. The failure to give proper directions on both the medical evidence and the accused’s explanation rendered the conviction unsafe. The appeal was allowed, and the appellant was acquitted and discharged.",
+  "legalKeywords": [
+    "criminal law",
+    "evidence",
+    "expert witness",
+    "opinion evidence",
+    "jury directions",
+    "murder",
+    "accident defense",
+    "medical evidence",
+    "burden of proof",
+    "benefit of doubt",
+    "unlawful harm",
+    "foreseeability",
+    "trial error",
+    "conviction quashed",
+    "acquittal"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence",
+    "Jury Instructions",
+    "Expert Testimony",
+    "Murder"
+  ],
+  "verdict": "Conviction quashed; appellant acquitted and discharged.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "van Lare",
+      "role": "Ag.C.J."
+    },
+    {
+      "name": "Granville Sharp",
+      "role": "J.A."
+    },
+    {
+      "name": "Adumua-Bossman",
+      "role": "J"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Rivett (1950) 34 Cr.App.R. 87",
+    "R. v. Murtagh and Kennedy (1955) 39 Cr.App.R. 72"
+  ],
+  "rationaleHighlights": [
+    "Expert opinion on ultimate issue must not override jury's role as fact-finder.",
+    "Jury must be directed that they alone decide whether a blow was accidental or deliberate.",
+    "Failure to properly direct jury on accused's explanation constitutes serious error.",
+    "Medical evidence cannot conclusively rule out accident.",
+    "Benefit of doubt must be clearly explained to jury.",
+    "Summing up must guide jury on three key positions regarding the accused’s explanation.",
+    "Improper jury directions led to unsafe conviction."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judgment text and clear legal reasoning.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/REGINA v. ANYAN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:54:19.054Z",
+    "plainTextLength": 8792
+  }
+}

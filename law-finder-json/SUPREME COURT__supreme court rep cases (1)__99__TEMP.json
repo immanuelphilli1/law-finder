@@ -1,0 +1,34 @@
+{
+  "caseTitle": "supreme court rep cases (1)",
+  "summary": "The provided document is not a judicial decision but rather a homepage or introductory page for a legal resource platform titled 'Ghana Law Finder'. It promotes a self-help guide to the law, featuring a case and subject matter index, and provides contact information. There is no case content, ruling, or legal analysis present in the text.",
+  "legalKeywords": [
+    "Ghana Law",
+    "legal resource",
+    "case index",
+    "subject matter index",
+    "legal library"
+  ],
+  "topics": [
+    "Legal Research",
+    "Legal Resource Portal",
+    "Ghana Law"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "unknown",
+    "country": "Ghana"
+  },
+  "caseType": "unknown",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The provided document does not contain a legal decision, case summary, or judicial reasoning. It appears to be a homepage or index for a legal resource website with no case-specific content.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/99/TEMP.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:08:38.280Z",
+    "plainTextLength": 295
+  }
+}

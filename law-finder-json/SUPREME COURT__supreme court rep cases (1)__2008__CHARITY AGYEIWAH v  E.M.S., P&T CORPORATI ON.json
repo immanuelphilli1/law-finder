@@ -1,0 +1,85 @@
+{
+  "caseTitle": "CHARITY AGYEIWAH v E.M.S., P&T CORPORATI ON",
+  "summary": "In this 2008 Supreme Court of Ghana case, Charity Agyeiwah appealed against E.M.S., P&T Corporation regarding a lost parcel containing £10,000 worth of travellers' cheques sent to the UK. The trial court ruled in her favor, but the Court of Appeal reversed the decision, citing lack of jurisdiction by the trial judge to declare a statutory provision unconstitutional and questioning the evidence. The Supreme Court found that the Court of Appeal erred in dismissing the factual basis of the claim, particularly given corroboration by the defendant's own witness (DW1) who confirmed receipt of the travellers' cheques. However, the Court held that the constitutional issue—whether Section 43(1) of NRCD 311 was inconsistent with Article 18(2) of the 1992 Constitution—was irrelevant because the contract predated the Constitution’s enforcement and thus could not be applied retroactively. The appeal was allowed on factual grounds, emphasizing that the appellate court should have referred the constitutional question to the Supreme Court under Article 130(2) if deemed material.",
+  "legalKeywords": [
+    "constitutional jurisdiction",
+    "appellate review",
+    "corroboration of evidence",
+    "contract of carriage",
+    "judicial error",
+    "balance of probabilities",
+    "jurisdictional overreach",
+    "retroactivity of law",
+    "postal liability",
+    "travellers cheques",
+    "evidence on balance",
+    "Supreme Court exclusive jurisdiction",
+    "Article 130(2)",
+    "Article 18(2)",
+    "NRCD 311",
+    "contract formation",
+    "misdirection in law",
+    "weight of evidence",
+    "civil appeal",
+    "judicial duty to refer"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Civil Procedure",
+    "Evidence Law",
+    "Contract Law",
+    "Appellate Jurisdiction"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Mrs. Wood, C.J.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Brobbey, J.S.C."
+    },
+    {
+      "name": "Aninakwa, J.S.C."
+    },
+    {
+      "name": "Mrs. Adinyira, J.S.C."
+    },
+    {
+      "name": "Asiamah, J.S.C."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Barclays Bank Ghana Ltd. v Sakari [1996-1997] SCGLR639",
+    "Article 1(2), 1992 Constitution",
+    "Article 2(1), 1992 Constitution",
+    "Article 130(2), 1992 Constitution",
+    "Article 18(2), 1992 Constitution",
+    "Section 43(1), NRCD 311"
+  ],
+  "rationaleHighlights": [
+    "The defendant's own witness (DW1) corroborated that the parcel contained £10,000 in travellers' cheques, supporting the appellant's claim.",
+    "The Court of Appeal misdirected itself by rejecting this corroborated evidence without compelling reason.",
+    "The trial judge lacked jurisdiction to rule on the constitutionality of NRCD 311, but the appellate court failed in its duty under Article 130(2) to refer the issue to the Supreme Court.",
+    "The 1992 Constitution cannot apply retroactively to a contract formed before its effective date.",
+    "In civil cases, proof on balance of probabilities suffices, and the evidence met this standard.",
+    "The constitutional question was ultimately deemed irrelevant to the resolution of the contractual dispute.",
+    "Appellate courts must refer constitutional issues to the Supreme Court when they arise in lower courts.",
+    "The appeal succeeded primarily on factual grounds, not constitutional ones."
+  ],
+  "confidenceNotes": "High confidence in factual and legal accuracy based on clear judicial reasoning and citation of constitutional provisions and precedent. The document is a formal court ruling from the Supreme Court of Ghana with structured legal analysis.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2008/CHARITY AGYEIWAH v  E.M.S., P&T CORPORATI ON.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:55:34.811Z",
+    "plainTextLength": 17729
+  },
+  "trialDate": "2008-07-25"
+}

@@ -1,0 +1,84 @@
+{
+  "caseTitle": "DR. KWABENA NTIRI RIVERSON &2 ORS v YAW SIAW ADDO",
+  "summary": "This Supreme Court of Ghana case, Dr. Kwabena Ntiri Riversom & 2 Ors v Yaw Siaw Addo (Civil Appeal No. J4/4/2005), arose from a dispute over ownership of a property in Agona Swedru purchased from the United Africa Company (UAC). The plaintiffs, administrators of the estate of the late Opanyin Yaw Koranteng, claimed ownership based on a 1972 Deed of Assignment in Koranteng's name. The defendant, son of Opanyin Kwame Addo (Koranteng’s uterine brother), argued that his father had financed the purchase and arranged for the property to be registered in Koranteng’s name to avoid public scrutiny, asserting a resulting trust. The trial court accepted the defendant’s version, but the Court of Appeal reversed, favoring documentary evidence and disinterested witnesses. The Supreme Court upheld the Court of Appeal, finding insufficient evidence to prove that Kwame Addo paid the purchase price on his own account, thus failing to establish a resulting trust. The appeal was dismissed.",
+  "legalKeywords": [
+    "resulting trust",
+    "burden of proof",
+    "Deed of Assignment",
+    "ownership dispute",
+    "balance of probabilities",
+    "documentary evidence",
+    "credibility of witnesses",
+    "acts of ownership",
+    "family property dispute",
+    "collusion",
+    "gift inter vivos",
+    "affidavit",
+    "negotiation of sale",
+    "property registration",
+    "UAC property",
+    "estate administration",
+    "trial court preference",
+    "appellate review",
+    "corroborative evidence",
+    "disinterested witness"
+  ],
+  "topics": [
+    "Property Law",
+    "Trusts",
+    "Family Law",
+    "Appellate Procedure",
+    "Evidence Law"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah, J.S.C.",
+      "role": "Delivered leading judgment"
+    },
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Akuffo (Ms), J.S.C.",
+      "role": "Member"
+    },
+    {
+      "name": "Wood (Mrs), J.S.C.",
+      "role": "Member"
+    },
+    {
+      "name": "Aninakwa, J.S.C.",
+      "role": "Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Brown vrs Dunn (1893) 6 R67 at p. 71, HL",
+    "Adwubeng v Domfeh [1996-97] SCGLR 660",
+    "Koglex Ltd.(No.2) v Field [2000] SCGLR 175",
+    "Dyer v Dyer (1788) 2 Cox Eq. 92"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court found insufficient evidence to prove that Opanyin Kwame Addo paid the purchase price on his own account, failing to meet the burden for a resulting trust.",
+    "Documentary evidence, particularly the Deed of Assignment in Koranteng’s name, was given greater weight than oral testimony.",
+    "The Court upheld the Court of Appeal’s preference for disinterested family witnesses over the defendant’s interested relatives.",
+    "The trial judge’s inference of collusion to conceal ownership was not supported by sufficient factual basis on appeal.",
+    "The principle in Brown v Dunn was considered, but the plaintiffs were not deemed to have admitted the defendant’s version due to lack of cross-examination on key points."
+  ],
+  "confidenceNotes": "The summary is based on a truncated document, but all key legal elements—parties, issue, reasoning, and outcome—are clearly discernible from the available text. The Supreme Court's decision aligns with established principles of property and evidence law in Ghana.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2005A/DR. KWABENA NTIRI RIVERSON &2 ORS v YAW SIAW ADDO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:31:25.513Z",
+    "plainTextLength": 30194
+  },
+  "trialDate": "2005-04-04"
+}

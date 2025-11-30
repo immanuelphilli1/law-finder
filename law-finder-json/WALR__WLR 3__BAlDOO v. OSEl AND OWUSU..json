@@ -1,0 +1,65 @@
+{
+  "caseTitle": "BA VERSUS OSE",
+  "summary": "In Baldoo v. Osei and Owusu, the plaintiff, a subject of the New Juaben Stool, claimed title to stool land based on being the first to cultivate it from virgin forest, thereby acquiring a determinable estate under native custom. The first defendant, a stool stranger, claimed under a 1932 sale from the second defendant (also a stool subject) and a 1948 confirmatory lease from the stool. The High Court upheld the Native Court's finding that the plaintiff's predecessor had cultivated the land first, thus acquiring prior usufructuary rights. The court held that the stool could not validly grant a lease over land already under a subject's usufruct without that subject's consent. The confirmatory lease was therefore void. Additionally, the court found no estoppel by laches, as the plaintiff's family had acted promptly upon discovering the trespass and the defendant's occupation was intermittent. The appeal was dismissed, affirming the plaintiff's title and award of damages for trespass.",
+  "legalKeywords": [
+    "stool land",
+    "usufructuary rights",
+    "determinable estate",
+    "native custom",
+    "alienation",
+    "estoppel by acquiescence",
+    "laches",
+    "customary services",
+    "stool stranger",
+    "confirmatory lease",
+    "title to land",
+    "trespass",
+    "land cultivation",
+    "equitable estoppel",
+    "tribal land rights"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Estoppel",
+    "Trespass",
+    "Native Title"
+  ],
+  "verdict": "Appeal dismissed; plaintiff's title to the land upheld and damages for trespass affirmed.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "Baldoo v. Osei and Owusu",
+    "Golightly v. Ashrifi and Others (1955) 14 W.A.C.A. 676",
+    "Ohimen v. Adjei and Another (1957) 2 W.A.L.R. 275",
+    "Thompson v. Mensah (1957) 3 W.A.L.R. 240",
+    "Lindsay Petroleum Co. v. Hurd (1874) L.R. 5 P.C. 221",
+    "Kwadjoe v. Cudjoe (1930) Divisional Court Judgments 1929-31, 25",
+    "Abbey v. Ollennu (1954) 14 W.A.C.A. 567"
+  ],
+  "rationaleHighlights": [
+    "A stool subject acquires usufructuary rights by first cultivation of virgin stool land.",
+    "Such rights constitute a determinable estate alienable without stool consent if customary obligations are preserved.",
+    "A confirmatory lease to a stool stranger is void if based on erroneous assumption of vendor's title.",
+    "Estoppel does not apply where plaintiff lacked knowledge and defendant's acts were intermittent.",
+    "The stool cannot override a subject's usufruct without consent."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and citation of established precedents in native land law.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/BAlDOO v. OSEl AND OWUSU..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:09:58.131Z",
+    "plainTextLength": 14181
+  }
+}

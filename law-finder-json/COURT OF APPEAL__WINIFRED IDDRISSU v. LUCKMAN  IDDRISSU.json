@@ -1,0 +1,69 @@
+{
+  "caseTitle": "WINIFRED IDDRISSU v. LUCKMAN IDDRISSU",
+  "summary": "In Winifred Iddrissu v. Luckman Iddrissu (Court of Appeal, Accra, 2000), the appellant, Winifred Iddrissu, appealed a High Court ruling that granted joint Letters of Administration to multiple parties, including herself, Luckman Iddrissu, and a customary successor. The deceased, Sulemana Ibun Iddrissu, died intestate in 1994. The appellant claimed to be the sole surviving spouse, supported by a 1992 marriage registration certificate in which the deceased declared no other existing marriages. The Court of Appeal held that the certificate constituted conclusive evidence of her status as the sole spouse, rejecting claims of other surviving spouses due to lack of rebuttal or objection during the registration process. The Court also found error in excluding the appellant’s children and including a non-applicant customary successor. Applying Order 2 Rule 6 of LI 1515 and Rule 32(1) of the Court of Appeal Rules, the Court allowed the appeal and granted Letters of Administration jointly to Winifred Iddrissu (sole spouse), Amin Abdul Iddrissu (her son), Iddrissu Sulemana, and Luckman Iddrissu, limiting the number to four administrators as permitted by law.",
+  "legalKeywords": [
+    "Letters of Administration",
+    "intestate succession",
+    "customary marriage registration",
+    "probate caveat",
+    "surviving spouse",
+    "order of priority",
+    "affidavit of interest",
+    "rehearing on appeal",
+    "conclusive presumption",
+    "joint grant"
+  ],
+  "topics": [
+    "Probate Law",
+    "Family Law",
+    "Succession Law",
+    "Appellate Procedure",
+    "Customary Marriage"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Essilfie-Bondzie",
+      "role": "Presiding Justice of Appeal"
+    },
+    {
+      "name": "Ansah",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Owusu-Ansah",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Order 2 Rule 6, Probate and Administration Rules, 1991 (LI 1515)",
+    "Intestate Succession Law, 1985 (PNDC Law 111)",
+    "Customary Marriage and Divorce Registration Law, 1985 (PNDCL 112)",
+    "Rule 32(1), Court of Appeal Rules CI.19"
+  ],
+  "rationaleHighlights": [
+    "The 1992 marriage registration certificate, in which the deceased declared no other marriages, constitutes conclusive evidence of the appellant being the sole surviving spouse.",
+    "No objections were filed during the statutory publication period under PNDCL 112, weakening claims of other spouses.",
+    "The trial judge erred in recognizing unproven surviving spouses without rebuttal evidence.",
+    "Inclusion of a non-applicant customary successor and exclusion of the appellant's children was procedurally flawed.",
+    "The Court exercised its power under Rule 32(1) to rehear and substitute a proper grant of administration.",
+    "Joint grant limited to four administrators in accordance with probate rules.",
+    "The appellant’s co-applicant son had standing and should not have been omitted.",
+    "The caveat by non-applicants did not override statutory priority under LI 1515."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text, including citations, parties, and legal reasoning. No external interpretation required.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/WINIFRED IDDRISSU v. LUCKMAN  IDDRISSU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T09:59:32.290Z",
+    "plainTextLength": 14407
+  },
+  "trialDate": "1998-12-01"
+}

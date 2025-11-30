@@ -1,0 +1,80 @@
+{
+  "caseTitle": "ALAN WILLIAM HODGSON V THE REPUBLIC",
+  "summary": "Alan William Hodgson appealed his conviction and 20-year sentence for criminal conspiracy and unlawful possession of 588.33 kilograms of cocaine under the Narcotic Drugs (Control, Enforcement and Sanctions) Law, P.N.D.C. L 236. He challenged the charges as defective for failing to specify the type of narcotic drug involved and argued there was insufficient evidence to link him to the offence, claiming his presence at the scene was coincidental. The Supreme Court of Ghana dismissed the appeal, holding that the charges provided reasonable information under Section 112(1) of the Criminal Procedure Code and that the defect did not amount to a substantial miscarriage of justice under Section 31(2) of the Courts Act, 1993. The Court found credible evidence connecting the appellant to the conspiracy, including his alleged role in transporting the drugs from Prampram to Tema. It distinguished this case from John David Logan & Anor v The Republic, where appeals were allowed due to lack of evidence, noting stronger proof here. The Court also upheld the 20-year sentence as proportionate to the severity of the crime. Constitutional challenges under Article 19(2) were rejected, affirming both the trial and appellate courts' decisions.",
+  "legalKeywords": [
+    "criminal conspiracy",
+    "narcotic drugs",
+    "possession",
+    "cocaine",
+    "defective charge",
+    "evidence evaluation",
+    "miscarriage of justice",
+    "constitutional rights",
+    "appellate review",
+    "sentence mitigation",
+    "prosecution burden",
+    "reasonable information",
+    "trial fairness",
+    "appellate standards",
+    "constitutional interpretation"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Drug Offences",
+    "Appellate Procedure",
+    "Constitutional Rights",
+    "Evidence Law"
+  ],
+  "verdict": "Appeal dismissed; conviction and 20-year sentence upheld.",
+  "winningSide": "The Republic (State)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Owusu (Ms)",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Date-Bah (Dr.)",
+      "role": "Presiding"
+    },
+    {
+      "name": "Adinyira (Mrs)",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Dotse",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "John David Logan & 2 others Vrs THE REPUBLIC (Unreported)",
+    "JOHN DAVID LOGAN & ANOR VRS THE REPUBLIC [2007-8] SCGLR p.76",
+    "Criminal Procedure Code, 1960 (Act 30)",
+    "Narcotic Drugs (Control, Enforcement and Sanctions) Law, P.N.D.C. L 236",
+    "Courts Act, 1993 (Act 459)"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court upheld the conviction because the charge provided reasonable information despite not specifying the narcotic type, as cocaine is listed under the law and known to offenders.",
+    "The Court found sufficient evidence linking the appellant to the conspiracy and possession, rejecting claims of no evidence or unreliable proof.",
+    "Reliance was placed on precedent in John David Logan & Anor v The Republic [2007-8] SCGLR 76, but distinguished based on evidentiary differences.",
+    "The sentence of 20 years I.H.L. was affirmed as not excessive given the gravity of the offence involving 588.33 kg of cocaine.",
+    "The Court applied Section 31(2) of the Courts Act, 1993, holding that no substantial miscarriage of justice occurred despite alleged procedural defects."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official court judgment text. All key details including charges, grounds of appeal, legal arguments, and final disposition are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/ALAN WILLIAM HODGSON V  THE REPUBLIC.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:11:24.936Z",
+    "plainTextLength": 37598
+  },
+  "trialDate": "2009-01-03"
+}

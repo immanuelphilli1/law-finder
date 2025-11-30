@@ -1,0 +1,71 @@
+{
+  "caseTitle": "UNITED AFRICA CO., LTD .",
+  "summary": "The West Africa Court of Appeal allowed an appeal by United Africa Co., Ltd. against a non-suit granted in the lower court due to non-prosecution of the defendant for alleged felony. The lower court had dismissed the claim for damages of \u00027,816 for breach of contract, treating the negligence claim as a disguised felony. The appellate court held that the plaintiff had a reasonable excuse for non-prosecution, as the police and law officers had investigated and declined to prosecute. It emphasized that there is no duty on a private party to initiate a private prosecution after state authorities refuse. The court found the evidence of breach overwhelming and reinstated judgment for the plaintiff, stressing the duty of courts to ensure real justice by allowing all material evidence.",
+  "legalKeywords": [
+    "breach of contract",
+    "non-prosecution",
+    "felony",
+    "civil action",
+    "duty to prosecute",
+    "private prosecution",
+    "negligence",
+    "public justice",
+    "review of judgment",
+    "reasonable excuse",
+    "damages",
+    "evidence sufficiency",
+    "police investigation",
+    "law officers' advice",
+    "judicial discretion"
+  ],
+  "topics": [
+    "Contract Law",
+    "Civil Procedure",
+    "Criminal Law Interface",
+    "Judicial Review",
+    "Damages"
+  ],
+  "verdict": "Appeal allowed; judgment of lower court set aside; judgment entered for plaintiffs for \u00027,816 and costs.",
+  "winningSide": "Plaintiff-Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Deane",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Smith v. Selwyn (1914) 3 K.B. 98"
+  ],
+  "rationaleHighlights": [
+    "Court must ascertain reason for non-prosecution before dismissing claim",
+    "No duty on private party to initiate prosecution after state refusal",
+    "Evidence of police and law officers' refusal constitutes reasonable excuse",
+    "Trial judge erred in not seeking explanation prior to judgment",
+    "Overwhelming evidence supported plaintiff's claim",
+    "Public duty was fulfilled by reporting to authorities",
+    "Refusal to hear review evidence was unjust",
+    "Appeal allowed due to procedural fairness"
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/UNITED AFRICA CO., LTD ..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:14:17.889Z",
+    "plainTextLength": 7929
+  },
+  "trialDate": "1934-05-15"
+}

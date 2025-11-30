@@ -1,0 +1,75 @@
+{
+  "caseTitle": "REPUBLIC v. OPANYIN EKRA KWAME & ANOR",
+  "summary": "This Court of Appeal case from Ghana addressed whether the appellants, Opanyin Ekra Kwame and another, were rightly convicted of contempt for failing to surrender the 'black stool' and all 'Bombae drums' of Kwesimintim to the Western Regional House of Chiefs. The High Court had convicted them based solely on affidavits, particularly one from the Registrar of the House of Chiefs, who claimed the surrendered stool was a kitchen stool and only three of six drums were returned. The appellants protested at the hearing that they had fully complied. The Court of Appeal held that contempt being quasi-criminal requires proof beyond reasonable doubt, and it was erroneous to base conviction solely on untested affidavit evidence without oral testimony or cross-examination, especially when material facts were disputed. The trial judge’s reliance on the Registrar’s unchallenged affidavit was deemed inappropriate, as the appellants had orally contested the claims. The appeal was allowed, and the conviction quashed due to procedural unfairness and failure to meet the required standard of proof.",
+  "legalKeywords": [
+    "contempt of court",
+    "affidavit evidence",
+    "proof beyond reasonable doubt",
+    "cross-examination",
+    "High Court Civil Procedure Rules",
+    "Order 59 Rule 26",
+    "standard of proof",
+    "quasi-criminal",
+    "writ of delivery",
+    "stay of execution",
+    "regalia dispute",
+    "chieftaincy matter",
+    "House of Chiefs",
+    "bail conditions",
+    "judicial review"
+  ],
+  "topics": [
+    "Contempt of Court",
+    "Evidence Law",
+    "Judicial Procedure",
+    "Chieftaincy Disputes",
+    "Appellate Review"
+  ],
+  "verdict": "The appeal was allowed and the conviction for contempt was quashed due to insufficient evidence and failure to meet the standard of proof beyond reasonable doubt.",
+  "winningSide": "Appellants (Opanyin Ekra Kwame & Anor.)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Twumasi",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Farkye",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Re Bramblevale Ltd (1969) 3 All E.R. 1062",
+    "Republic v Bekoe and Others Ex Parte Adjei (1982-83) GLR 91",
+    "Gbadamosi v Mohammmadu (1991) 1 GLR 283",
+    "Republic v Georgina Asare Ex Parte Annor-Yeboah & Anor. CA dated 20th May, 2001 (unreported)",
+    "Armah v Addoquaye (1972) 1 GLR 109"
+  ],
+  "rationaleHighlights": [
+    "Contempt cases require proof beyond reasonable doubt, akin to criminal trials.",
+    "Reliance on unchallenged affidavits without oral evidence or cross-examination is insufficient for conviction in contempt cases.",
+    "The trial judge erred in accepting the Registrar's affidavit as conclusive without testing its credibility.",
+    "An appeal filed out of time does not automatically stay execution of an order.",
+    "Ambiguity in the original order regarding number of drums contributed to the dispute.",
+    "Failure to allow proper challenge to affidavit evidence undermines fair trial principles.",
+    "Court disapproved of treating contempt cases as purely affidavit-based proceedings.",
+    "Protestations by appellants at hearing constituted sufficient contestation of facts."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from court judgment text. Some citations are unreported but referenced authoritatively within the judgment.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/THE REPUBLIC v. OPANYIN EKRA KWAME & ANOR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:01:03.423Z",
+    "plainTextLength": 16696
+  },
+  "trialDate": "2002-05-09"
+}

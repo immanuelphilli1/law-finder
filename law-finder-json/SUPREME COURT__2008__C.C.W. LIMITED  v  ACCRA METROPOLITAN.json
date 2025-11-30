@@ -1,0 +1,80 @@
+{
+  "caseTitle": "C.C.W. LIMITED v ACCRA METROPOLITAN",
+  "summary": "In C.C.W. Limited v. Accra Metropolitan Assembly (Civil Appeal No. J4/5/2007, decided 13th February 2008), the Supreme Court of Ghana upheld the lower court's finding that the service agreement for waste management services, executed on 4th December 1997, was unenforceable due to non-compliance with statutory procurement requirements under the Local Government Act 1993 (Act 462) and related regulations. The Court found that the contract was awarded without adherence to the mandatory processes involving the District Tender Board and approval by the General Assembly, rendering the agreement procedurally flawed. Although the claim of duress was dismissed, the Court affirmed that the failure to obtain prior parliamentary approval for the associated financing agreement—required under the Loans Act 1970 (Act 335)—constituted a condition precedent that was not met. Consequently, the termination of the contract by the Accra Metropolitan Assembly was lawful. The Plaintiff's claims for payment, damages, and loss of profit were dismissed, while the Defendant's counterclaim regarding the illegality of the contract was upheld.",
+  "legalKeywords": [
+    "breach of contract",
+    "public procurement",
+    "duress",
+    "statutory compliance",
+    "contract validity",
+    "parliamentary approval",
+    "tender board",
+    "district assembly",
+    "sovereign guarantee",
+    "enforceability",
+    "null and void",
+    "estoppel",
+    "counterclaim",
+    "financial obligations",
+    "conflict of interest"
+  ],
+  "topics": [
+    "Contract Law",
+    "Administrative Law",
+    "Public Procurement",
+    "Local Government",
+    "Constitutional Law"
+  ],
+  "verdict": "The appeal by the Accra Metropolitan Assembly was upheld; the service agreement was declared unenforceable due to statutory non-compliance and lack of parliamentary approval, and the Plaintiff's claims were dismissed.",
+  "winningSide": "Accra Metropolitan Assembly",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Miss Akuffo",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Aninakwah",
+      "role": "Justice"
+    },
+    {
+      "name": "Asiamah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Local Government Act 1993 (Act 462)",
+    "Loans Act 1970 (Act 335)",
+    "Companies Code, 1963 (Act 179)",
+    "Ghana Investment Promotion Centre Act, 1994 (Act 478)",
+    "Local Government (District Tender Boards) (Establishment) Regulations 1995 (L.I. 1606)"
+  ],
+  "rationaleHighlights": [
+    "Contract found unenforceable due to non-compliance with statutory procurement procedures",
+    "No duress established in execution of the agreement",
+    "Parliamentary approval required for financing agreement as condition precedent",
+    "Failure to involve District Tender Board and General Assembly invalidated the process",
+    "Termination justified due to illegality and non-compliance"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed court record and explicit statutory references.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2008/C.C.W. LIMITED  v  ACCRA METROPOLITAN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:16:54.156Z",
+    "plainTextLength": 58511
+  },
+  "trialDate": "2008-02-13"
+}

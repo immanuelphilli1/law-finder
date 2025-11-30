@@ -1,0 +1,83 @@
+{
+  "caseTitle": "ATTORNEY GENERAL & ANOR. v APAADE LODGE LIMITED",
+  "summary": "The Supreme Court of Ghana dismissed a repeat application by Apaade Lodge Limited for a stay of execution of a High Court default judgment dated 4 April 2006. The applicant had failed to appeal against the judgment but sought relief under the Court's inherent jurisdiction under Article 129(4) of the 1992 Constitution, arguing that justice required a stay pending appeal against a later Court of Appeal decision. The Court held that it could only exercise such powers when a matter is already within its jurisdiction, and since no appeal had been filed against the High Court judgment, it lacked jurisdiction to grant a stay. It reaffirmed that procedural rules under the Supreme Court Rules (C.I. 16), particularly Rule 20, require an appeal to be lodged before a stay application can be entertained. The Court also clarified that while default judgments are typically challenged by application to set aside, an appeal is still a legitimate remedy. The application was dismissed for non-compliance with procedural requirements.",
+  "legalKeywords": [
+    "stay of execution",
+    "default judgment",
+    "inherent jurisdiction",
+    "Article 129(4) Constitution",
+    "Supreme Court jurisdiction",
+    "Court of Appeal judgment",
+    "procedural compliance",
+    "execution of judgment",
+    "appeal procedure",
+    "High Court Civil Procedure Rules",
+    "jurisdictional limits",
+    "judicial power",
+    "supervisory jurisdiction",
+    "constitutional interpretation",
+    "fundamental rights enforcement"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Civil Procedure",
+    "Judicial Jurisdiction",
+    "Stay of Execution",
+    "Appeal Law"
+  ],
+  "verdict": "Application for stay of execution dismissed.",
+  "winningSide": "Attorney General & Anor.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adinyira (Mrs)",
+      "role": "Presiding Judge delivering the ruling"
+    },
+    {
+      "name": "Akuffo (Ms)",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Date-Bah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Owusu (Ms)",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Dotse",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Edusei (No.1) v. Attorney General and Anr. [1996-97] SCGLR 1",
+    "Edusei (No.2) v. Attorney General [1998-99] SCGLR 753",
+    "Tait v. Ghana Airways Corporation [1970] 2 G & G 527",
+    "Yiadom Boakye v. Amaniampong [1981] GLR 3",
+    "Accra Recreational Complex Ltd. vs. Lands Commission Supreme Court, 20th June 2007 (unreported)",
+    "Eboe v. Eboe [1961] 1GLR 432",
+    "Mensah v Ghana Football Association [1988-89] 1GLR 1",
+    "NB. Landmark Ltd. v. Lakiani [2001-2002] SCGLR 318"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court lacks jurisdiction to stay a judgment not appealed against, even under Article 129(4).",
+    "Article 129(4) does not confer original jurisdiction ab initio but applies only when a matter is already within the Court's jurisdiction.",
+    "A party must first appeal against a judgment before seeking a stay of execution under Rule 20 of the Supreme Court Rules.",
+    "Default judgments may be appealed, contrary to counsel's submission that setting aside is the only remedy.",
+    "The Court rejected the argument that inherent jurisdiction allows circumvention of procedural rules to prevent failure of justice."
+  ],
+  "confidenceNotes": "The ruling is clear and well-reasoned, with consistent reference to constitutional provisions, statutory rules, and binding precedents. The procedural posture is unambiguous, and the court's conclusions are firmly grounded in established law.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2008/ATTORNEY GENERAL & ANOR. v APAADE LODGE LIMITED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:17:14.688Z",
+    "plainTextLength": 20399
+  },
+  "trialDate": "2008-12-10"
+}

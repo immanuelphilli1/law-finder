@@ -1,0 +1,78 @@
+{
+  "caseTitle": "AMUEL Q. NELSON",
+  "summary": "This civil appeal before the West Africa Court of Appeal arose from a trespass claim by Samuel Q. Nelson against S. Ammah and Yawa Aruna regarding possession of land originally belonging to the Aruna family. The plaintiff claimed he purchased the land in 1920 from Isaac Cobblah Fiscian, head of the Aruna family, and entered into possession. The defendants argued they had superior title. The Ga Tribunal and Provincial Commissioner dismissed the appeal, relying on Exhibits 'B', 'C', and 'F' to support Yawa Aruna's status as family head and rightful heir. The appellate court found serious misdirections: Exhibit 'B' (1934) could not retroactively validate pre-1930 transactions; Exhibit 'C' (1931) did not adjudicate family headship; and Exhibit 'F' applied inapplicable Cape Coast succession law. The court emphasized that blood relatives existed, Ga customary law governed, and the plaintiff was not required to join Fiscian. The case was remitted for re-hearing de novo with proper directions on the exhibits and native law.",
+  "legalKeywords": [
+    "trespass",
+    "title to land",
+    "customary law",
+    "res judicata",
+    "misdirection",
+    "Ga native law",
+    "succession",
+    "family property",
+    "conveyance",
+    "possession",
+    "tribunal error",
+    "exhibits",
+    "superior title",
+    "re-hearing de novo",
+    "trustee appointment",
+    "null and void acts",
+    "blood relatives",
+    "domestic servant inheritance",
+    "government acquisition",
+    "passive acquiescence"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Appellate Procedure",
+    "Trespass",
+    "Succession"
+  ],
+  "verdict": "Appeal allowed; case remitted for re-hearing de novo with directions on correct interpretation of exhibits and application of Ga customary law.",
+  "winningSide": "Plaintiff-Appellant (Samuel Q. Nelson)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Cor. Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Exhibit \"B\"",
+    "Exhibit \"C\"",
+    "Exhibit \"F\"",
+    "Johnson and Another v. Johnson",
+    "Fiscian v. Yawa Aruna (11th July, 1931)"
+  ],
+  "rationaleHighlights": [
+    "The real issue in the trespass claim was title to land, not mere possession.",
+    "The tribunal seriously misdirected itself on Exhibits \"B\", \"C\", and \"F\".",
+    "Exhibit \"B\" did not appoint Yawa Aruna as Head of Family retroactively.",
+    "Exhibit \"C\" did not decide family headship and thus was not res judicata.",
+    "Exhibit \"F\" applied Cape Coast law, not Ga law, and was wrongly treated as binding.",
+    "The tribunal failed to consider Ga customary law and blood relatives' rights."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; all key details are explicitly stated in the judgment. Citations are drawn directly from referenced exhibits and cases.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/AMUEL Q. NELSON.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:10:23.964Z",
+    "plainTextLength": 16175
+  },
+  "trialDate": "1940-05-23"
+}

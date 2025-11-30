@@ -1,0 +1,84 @@
+{
+  "caseTitle": "FEDERATION OF YOUTH ASSOCIATION OF GHANA(FEDYAG) v PUBLIC",
+  "summary": "The Federation of Youth Associations of Ghana (FEDYAG) filed a suit in the Supreme Court seeking a declaration that the fee-paying policy of public universities violated several constitutional provisions, including the right to equal educational opportunities and non-discrimination. The plaintiff argued that universities reserved excessive spaces for foreign students and admitted Ghanaians at higher fees, disadvantaging qualified local applicants. The Supreme Court dismissed the case on jurisdictional grounds, holding that the claim constituted a personal human rights enforcement action under article 33(1) of the 1992 Constitution, which falls within the exclusive jurisdiction of the High Court, not the Supreme Court's original jurisdiction. The Court emphasized that only where a plaintiff seeks to enforce a constitutional provision in the public interest, without asserting a personal right, would the Supreme Court have jurisdiction. Since FEDYAG failed to demonstrate a personal violation of rights, it lacked locus standi in the Supreme Court. The ruling clarified the distinction between personal human rights claims and public interest constitutional enforcement, reaffirming precedent from Adjei-Ampofo and Edusei.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "fundamental human rights",
+    "jurisdiction",
+    "locus standi",
+    "education policy",
+    "fee-paying policy",
+    "non-discrimination",
+    "equal access to education",
+    "Directive Principles of State Policy",
+    "Supreme Court original jurisdiction",
+    "High Court jurisdiction",
+    "article 33(1)",
+    "article 130(1)",
+    "article 140(2)",
+    "public interest litigation"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Human Rights",
+    "Education Law",
+    "Jurisdiction",
+    "Administrative Justice"
+  ],
+  "verdict": "The action was dismissed for lack of jurisdiction. The Supreme Court held it could not hear the case as it amounted to a personal human rights claim properly brought before the High Court under article 33(1).",
+  "winningSide": "Defendants (Public Universities of Ghana and State actors)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Adinyira (Mrs), J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin Yeboah, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebe, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs), J.S.C.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Adjei-Ampofo (No 1) v. Accra Metropolitan Assembly & Attorney General (No. 1) [2007\u00022008] 2 SCGLR 613",
+    "Edusei v Attorney-General [1996-97] SCGLR 97",
+    "Edusei (No2) v Attorney-General [1998-99] SCGLR 753",
+    "Oppong v Attorney-General [2003\u00022004] 1 SCGLR 376",
+    "CIBA Case",
+    "Sam (No. 2) v Attorney-General"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court lacks jurisdiction over personal human rights claims; such matters fall under the High Court per article 33(1).",
+    "Jurisdiction depends on whether the plaintiff is asserting a personal right or enforcing a constitutional provision in the public interest.",
+    "The plaintiff lacked locus standi as it did not show a personal violation of rights.",
+    "The High Court, not the Supreme Court, is the proper forum for human rights enforcement when the claim is 'in relation to him.'",
+    "The plaintiff's claim, though framed constitutionally, was treated as a personal human rights action.",
+    "Directive Principles (e.g., article 38) inform the interpretation of fundamental rights but are not directly enforceable alone.",
+    "The fee policy's fairness was not adjudicated due to jurisdictional dismissal.",
+    "The ruling reaffirmed the non-concurrent nature of Supreme and High Court jurisdictions in constitutional matters."
+  ],
+  "confidenceNotes": "The ruling is clear and well-reasoned, with direct citation to constitutional provisions and precedent. The jurisdictional analysis is definitive, though the case was dismissed on procedural grounds rather than on the merits of the fee policy.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/FEDERATION OF YOUTH ASSOCIATION OF GHANA(FEDYAG)  v  PUBLIC .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:48:03.487Z",
+    "plainTextLength": 64694
+  },
+  "trialDate": "2010-02-03"
+}

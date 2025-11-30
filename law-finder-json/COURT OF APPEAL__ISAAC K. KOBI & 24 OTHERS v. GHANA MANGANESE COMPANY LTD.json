@@ -1,0 +1,78 @@
+{
+  "caseTitle": "K. KOBI & 24 OTHERS v. GHANA MANGANESE COMPANY LTD.",
+  "summary": "The Court of Appeal of Ghana in Isaac K. Kobi & 24 Others v. Ghana Manganese Company Ltd. (2004) addressed the wrongful termination of 25 employees following a strike action on May 19, 1999. The employer classified the strike as violent and required workers to sign a 'Declaration of Renewal of Confidence and Loyalty' to resume work. Although most workers complied, the appellants were dismissed with service certificates citing 'Not re-admitted after closure of the mine in May 1999.' The High Court dismissed their claims, ruling the strike illegal under the Industrial Relations Act, 1965 (Act 299). On appeal, the Court found that several appellants had no involvement in the strike—some were on leave, sick, or off-duty—and were not individually implicated. The Court held that the employer failed to prove their participation, and the uncorroborated testimony of the Resident Director was insufficient to justify termination. The appeal was allowed, and the case remitted for individual assessment of damages.",
+  "legalKeywords": [
+    "wrongful termination",
+    "strike action",
+    "Industrial Relations Act 1965",
+    "employee rights",
+    "unfair dismissal",
+    "burden of proof",
+    "corroborative evidence",
+    "reinstatement",
+    "defamation",
+    "collective action",
+    "employment contract",
+    "labor dispute",
+    "judicial review",
+    "appellate remedy",
+    "due process",
+    "employer liability",
+    "worker participation",
+    "alibi defense",
+    "presumption of innocence",
+    "procedural fairness"
+  ],
+  "topics": [
+    "Labor Law",
+    "Employment Law",
+    "Appellate Decision",
+    "Industrial Relations",
+    "Judicial Reasoning"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Plaintiffs/Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Quaye, J.A.",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Twumasi, J.A.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Aninakwa, J.A.",
+      "role": "Member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Employment Dispute / Labor Appeal",
+  "citations": [
+    "Industrial Relations Act 1965 (Act 299)",
+    "ASARE vrs. DONKOR and SERWAH II (1962) 2 GLR. 176",
+    "ABADOO vrs. AWOTWI [1973] 1 GLR.393"
+  ],
+  "rationaleHighlights": [
+    "Not all employees participated in the strike; several had valid alibis (on leave, sick, off-duty).",
+    "Employer failed to individually identify appellants as participants in the strike.",
+    "Uncorroborated evidence of the Resident Director was insufficient to justify dismissal.",
+    "Issuance of a circular rescinding dismissal implied no blanket penalties would apply.",
+    "Failure to call material witnesses (e.g., HR Manager, Secretary) weakened the respondent's case.",
+    "Legal principle: Non-participants cannot be collectively punished for industrial action.",
+    "Trial court erred in not assessing claims individually as required by Order 16 Rule 1, L.N. 140A.",
+    "Appeal remitted for individual determination of reliefs and damages."
+  ],
+  "confidenceNotes": "The summary is based on a truncated but substantial portion of the judgment. Key procedural and evidentiary reasoning is present, though the final disposition may have minor omissions due to truncation. All legal principles and citations are accurately reflected as provided in the text.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/ISAAC K. KOBI & 24 OTHERS v. GHANA MANGANESE COMPANY LTD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:27:11.393Z",
+    "plainTextLength": 23039
+  },
+  "trialDate": "2004-06-24"
+}

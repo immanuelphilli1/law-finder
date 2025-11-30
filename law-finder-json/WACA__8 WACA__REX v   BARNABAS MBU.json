@@ -1,0 +1,66 @@
+{
+  "caseTitle": "REX v BARNABAS MBU",
+  "summary": "The West Africa Court of Appeal allowed the appeal of Barnabas Mbu, a veterinary assistant with the Bamenda Native Administration, who had been convicted on multiple counts of official corruption and extortion under sections 98 and 99 of the Criminal Code. The court held that the charges were fundamentally flawed because Mbu did not qualify as a 'person employed in the public service' as defined in section 1 of the Criminal Code, since the Bamenda Native Administration had not been formally appointed as a Native Authority under the Native Authority Ordinance No. 43 of 1933. Furthermore, no evidence was presented to prove Mbu's employment status or that he performed duties as a public officer. The court also identified procedural irregularities, including the improper joinder of multiple counts in single charges, absence of dates in the particulars, and insufficient evidence to support one of the convictions. Consequently, all convictions and sentences were quashed, and judgments of acquittal were entered.",
+  "legalKeywords": [
+    "official corruption",
+    "extortion",
+    "public service",
+    "Criminal Code",
+    "Native Authority Ordinance",
+    "employment status",
+    "procedural irregularity",
+    "definition of public officer",
+    "evidentiary deficiency",
+    "acquittal"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Public Office and Employment",
+    "Appellate Procedure",
+    "Statutory Interpretation",
+    "Judicial Review"
+  ],
+  "verdict": "acquitted",
+  "winningSide": "appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Baker",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal appeal",
+  "citations": [
+    "Criminal Code, sections 98, 99, section 1",
+    "Native Authority Ordinance No. 43 of 1933, section 3(1)(a) and (b)",
+    "Government Notice No. 1725 of 1938",
+    "Ordinance No. 3 of 1943 (Nigeria)"
+  ],
+  "rationaleHighlights": [
+    "The accused did not qualify as 'employed in the public service' under the Criminal Code because the Bamenda Native Administration was not appointed under the Native Authority Ordinance.",
+    "No evidence was presented to prove the appellant's employment by the Native Administration or his status as a public officer.",
+    "The charges were defective for failing to specify dates and improperly combining multiple counts.",
+    "The evidence failed to support the conviction on the third count of the second charge.",
+    "The court emphasized strict adherence to statutory definitions and procedural fairness in criminal prosecutions."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct textual evidence from the judgment. All legal reasoning and holdings are explicitly stated in the source document.",
+  "metadata": {
+    "sourcePath": "WACA/8 WACA/REX v   BARNABAS MBU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:21:40.045Z",
+    "plainTextLength": 14746
+  },
+  "trialDate": "7TH FEBRUARY, 1942"
+}

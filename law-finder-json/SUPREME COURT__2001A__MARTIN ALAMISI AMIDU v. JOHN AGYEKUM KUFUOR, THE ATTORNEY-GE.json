@@ -1,0 +1,98 @@
+{
+  "caseTitle": "MARTIN ALAMISI AMIDU v. JOHN AGYEKUM KUFUOR, THE ATTORNEY-GE",
+  "summary": "In Martin Alamisi Amidu v. John Agyekum Kufuor & Others (CM No. 8/2001), the plaintiff challenged the President's appointment of three individuals to key roles in the Office of the President without consulting the Council of State, as allegedly required by the Presidential Office Act 1993 (Act 463). The plaintiff sought declarations that these appointments were unconstitutional and requested injunctive relief. The Supreme Court dismissed the suit, holding that it lacked jurisdiction because the dispute concerned a statutory framework (Act 463), not a constitutional provision, and thus could not be adjudicated under the Court’s exclusive original jurisdiction under Article 130. The Court further ruled that no cause of action arose under Article 2(1)(b) of the Constitution, as the defendants’ conduct did not directly contravene a constitutional clause. Additionally, the case was deemed moot since the individuals had since been validly appointed as Ministers of State, making the relief sought academic. The Court also noted the improper joinder of the Attorney-General, whose office was vacant at the time of filing.",
+  "legalKeywords": [
+    "jurisdiction",
+    "constitutional interpretation",
+    "separation of powers",
+    "executive appointment",
+    "mootness",
+    "original jurisdiction",
+    "Presidential Office Act",
+    "Council of State",
+    "justiciability",
+    "Article 130",
+    "Article 2(1)(b)",
+    "void appointments",
+    "judicial notice",
+    "public notoriety",
+    "standing"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Judicial Review",
+    "Executive Power",
+    "Mootness",
+    "Jurisdiction"
+  ],
+  "verdict": "The Supreme Court upheld the preliminary objection, dismissed the plaintiff's action, and ruled that it lacked jurisdiction to hear the case.",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Edward Wiredu",
+      "role": "Ag. Chief Justice"
+    },
+    {
+      "name": "Mrs. J. Bamford-Addo",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Amiah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Kpegah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Adjahbeng",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Acquah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Sophia Akuffo",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Lamptey",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Article 11, 1992 Constitution of Ghana",
+    "Article 130(1)-(2), 1992 Constitution",
+    "Article 2(1)(b), 1992 Constitution",
+    "Presidential Office Act 1993 (Act 463)",
+    "Ghana Bar Association v. Attorney-General & Abban, S.C., 5 December 1995 (unreported)",
+    "Barake v. Barake, High Court, Accra, 25 June 1990 (unreported)"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court lacks jurisdiction over disputes concerning statutory appointments under Act 463, which are not constitutional provisions.",
+    "Actions under Article 2(1)(b) require a contravention of a specific constitutional provision, not mere statutory violations.",
+    "The case became moot as the challenged individuals were later lawfully appointed as Ministers of State.",
+    "Judicial notice was taken of publicly known facts regarding the new ministerial appointments.",
+    "The Attorney-General’s office was vacant at the time of filing, rendering joinder improper.",
+    "Private citizens appointed by the President cannot be held liable under Article 2(1)(b) if they did not initiate the unconstitutional act."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct quotes from the ruling and consistent judicial reasoning across multiple justices.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2001A/MARTIN ALAMISI AMIDU v. JOHN AGYEKUM KUFUOR, THE ATTORNEY-GE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:43:03.122Z",
+    "plainTextLength": 198136
+  },
+  "trialDate": "25TH APRIL, 2001"
+}

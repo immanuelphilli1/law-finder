@@ -1,0 +1,75 @@
+{
+  "caseTitle": "GEORGE HAGAN AND OTHERS",
+  "summary": "This consolidated appeal before the Judicial Committee of the Privy Council arose from two judgments of the West African Court of Appeal concerning the estate of Thomas Hagan, a native of the Gold Coast Colony who died in 1931. The appellants, Hagan's siblings, had obtained letters of administration for his personal estate. The respondents included Effuah Adum and her children, claiming rights as the 'slave-wife' and offspring, and Araba Tanuah, asserting status as head of the deceased’s family. Suit A, initiated in the Native Tribunal of Winneba, sought declaration of the estate's value and allocation of shares. The Tribunal awarded one-fourth of both personal and real property to Adum and her children, with the remainder under Araba’s control. The Divisional Court and West African Court of Appeal upheld the Tribunal’s jurisdiction. Suit B, filed in the Divisional Court by Araba, sought accounting and administration; initially dismissed, it was later allowed on appeal based on the res judicata effect of the Native Tribunal’s decision in Suit A. The Privy Council affirmed both lower courts, holding that the Native Tribunal had jurisdiction under section 43(2)(f) of the Native Administration Ordinance over succession matters, including valuation and distribution, independently of other jurisdictional limits. It rejected arguments based on prior arbitration, election of forum, and monetary or territorial restrictions, confirming the validity of concurrent proceedings in different courts.",
+  "legalKeywords": [
+    "native customary law",
+    "jurisdiction",
+    "succession",
+    "letters of administration",
+    "res judicata",
+    "Paramount Chief's Tribunal",
+    "arbitration award",
+    "personal estate",
+    "real estate",
+    "slave-wife",
+    "family head",
+    "civil jurisdiction",
+    "Native Administration Ordinance",
+    "section 43",
+    "section 59",
+    "ex parte motion",
+    "appeal",
+    "consolidated appeals",
+    "subject matter jurisdiction",
+    "distribution of estate",
+    "valuation of estate"
+  ],
+  "topics": [
+    "Succession Law",
+    "Customary Law",
+    "Jurisdiction",
+    "Appeal",
+    "Res Judicata"
+  ],
+  "verdict": "Appeal dismissed; the judgments of the West African Court of Appeal were upheld.",
+  "winningSide": "Respondents (Effuah Adum, her children, and Araba Tanuah)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "LORD THANKERTON",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "LORD ALNESS",
+      "role": "member of the Judicial Committee"
+    },
+    {
+      "name": "LORD FAIRFIELD",
+      "role": "member of the Judicial Committee"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Judicial Committee of the Privy Council on appeal from West African Court of Appeal",
+    "country": "Ghana (Gold Coast Colony)"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Privy Council Appeals Nos. 82 & 137 of 1936",
+    "Connecticut Fire Insurance Company v. Kavanagh, [1892] A.C. 473, at p. 480"
+  ],
+  "rationaleHighlights": [
+    "The Native Tribunal had jurisdiction under section 43(2)(f) of the Native Administration Ordinance to hear matters relating to succession, including valuation and distribution.",
+    "The letters of administration granted by the Divisional Court do not preclude parallel proceedings in a Native Tribunal regarding distribution.",
+    "Each head in section 43(2) provides an independent basis of jurisdiction; conditions from one head (e.g., monetary limit in (e) or land location in (c)) cannot be imported into another.",
+    "The arbitration award was not binding as it was not proven to have been accepted as final by the parties.",
+    "The judgment of the Native Tribunal was binding (res judicata) on the Divisional Court in suit B."
+  ],
+  "confidenceNotes": "High confidence; all key details such as parties, jurisdiction, legal issues, and rulings are explicitly stated in the judgment text.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/GEORGE HAGAN AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:47:41.740Z",
+    "plainTextLength": 17064
+  },
+  "trialDate": "7TH JULY, 1939"
+}

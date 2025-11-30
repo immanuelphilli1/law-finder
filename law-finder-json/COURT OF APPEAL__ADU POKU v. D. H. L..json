@@ -1,0 +1,67 @@
+{
+  "caseTitle": "POKU v. D. H. L.",
+  "summary": "This civil appeal arose from a dispute over the jurisdiction of the Ghanaian courts in a contract of carriage case between Ex-Warrant Officer Adu Poku (plaintiff) and D.H.L. (defendant), a London-based company. The plaintiff obtained leave to serve the writ out of jurisdiction, which the defendant sought to set aside, arguing that the proper law of the contract was English law and that England was the appropriate forum. The High Court dismissed the application, but the Court of Appeal allowed the appeal. It held that the trial judge erred in ruling the application out of time, clarifying that legal vacation periods do not count under Order 64 Rule 4 and that Order 12 Rule 24 permits conditional appearance without a strict 14-day deadline. Substantively, the Court found that the contract was formed, breached, and governed by English law, with all relevant events occurring in London. The plaintiff's return to Ghana did not alter the jurisdictional analysis. The affidavit supporting the service application was deemed insufficient for lacking a full and frank disclosure of key facts. The Court concluded that Ghana was not the appropriate forum and that the lower court lacked jurisdiction.",
+  "legalKeywords": [
+    "jurisdiction",
+    "forum conveniens",
+    "proper law of contract",
+    "service out of jurisdiction",
+    "conditional appearance",
+    "legal vacation",
+    "affidavit requirements",
+    "contract of carriage",
+    "lex loci contractus",
+    "prima facie case"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Conflict of Laws",
+    "Jurisdiction",
+    "Contract Law",
+    "Service of Process"
+  ],
+  "verdict": "Appeal allowed. The order of the High Court dismissing the application to set aside service out of jurisdiction was set aside. The Court held that the Ghanaian courts lacked jurisdiction as the proper law of the contract was English law and the forum conveniens was England.",
+  "winningSide": "Defendant (D.H.L.)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lampson, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Akoto Bamfo (Mrs.) J.",
+      "role": "Trial Judge"
+    },
+    {
+      "name": "Armah, J.",
+      "role": "Judge who granted initial leave"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "ADU POKU v. D. H. L. [13/07/95] C.A. No. 11/95",
+    "Annin Rashieed Shipping Corp. v. Kuwait Insurance Co. (1983) Weekly Law Reports, July 22, House of Lords",
+    "Society General de Compensation v. Ackerman (1972) 1 E.L.R. 413",
+    "Chatteney v. The Brazilian Sub-Marine Co. Ltd. (1891) 1 Q.B.D. 89",
+    "Assunziene (1954) 1 All E.R. 278"
+  ],
+  "rationaleHighlights": [
+    "The Court found that the trial judge erred in holding the application to set aside service was out of time, as legal vacation periods are not counted in time computation under Order 64 Rule 4.",
+    "The proper law of the contract was determined to be English law, given the contract was formed, performed, and breached in London, with both parties resident there at the time.",
+    "The affidavit in support of the application for leave to serve out of jurisdiction was deficient for failing to provide a full and frank statement of material facts, particularly 'the events that followed' the breach.",
+    "Entry of appearance under protest is permitted under Order 12 Rule 24 via motion or summons, and no time limit applies for such applications.",
+    "Admission in a statement of defence does not confer jurisdiction; jurisdiction is a matter of law, not party conduct."
+  ],
+  "confidenceNotes": "High confidence; all key details (jurisdiction, parties, legal reasoning) are explicitly stated in the judgment. Case citations and procedural history are clearly documented.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/ADU POKU v. D. H. L..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:47:05.301Z",
+    "plainTextLength": 17448
+  },
+  "trialDate": "1995-07-13"
+}

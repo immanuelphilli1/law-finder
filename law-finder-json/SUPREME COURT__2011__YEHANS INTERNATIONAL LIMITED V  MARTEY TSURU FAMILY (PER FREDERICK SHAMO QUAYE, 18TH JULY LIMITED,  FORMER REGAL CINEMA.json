@@ -1,0 +1,90 @@
+{
+  "caseTitle": "YEHANS INTERNATIONAL LIMITED V MARTEY TSURU FAMILY (PER FREDERICK SHAMO QUAYE, 18TH JULY LIMITED, FORMER REGAL CINEMA",
+  "summary": "The Supreme Court of Ghana dismissed an interlocutory appeal filed by 18th July Limited (formerly Regal Cinema), the second defendant and appellant, against Yehans International Limited, the plaintiff and respondent, in a land dispute concerning a property at Light Industrial Area, Accra. The original action involved a claim for declaration of title and ancillary reliefs, including an interlocutory injunction. The High Court granted the injunction based on an affidavit by a law clerk who disclosed the source of information, which the Supreme Court upheld as compliant with Order 20 Rule 8(2) of C147. The appellant challenged the capacity of the deponent and the Court of Appeal's failure to consider balance of hardships, but the Supreme Court found that both the High Court and Court of Appeal properly applied established principles governing interlocutory injunctions, including maintaining the status quo, preventing irreparable harm, and weighing convenience. The Court also affirmed that the discretion to require undertakings as to damages lies with the court, citing Republic v High Court, Koforidua, Ex Parte Ansa-Otu [2009] SCGLR 141. Finding no error in law or fact, the Supreme Court dismissed the appeal as meritless.",
+  "legalKeywords": [
+    "interlocutory injunction",
+    "declaration of title",
+    "status quo",
+    "balance of convenience",
+    "undertaking as to damages",
+    "affidavit in support",
+    "source of information",
+    "frivolous application",
+    "legal or equitable right",
+    "irreparable damage",
+    "Court of Appeal dismissal",
+    "Supreme Court dismissal",
+    "Land Certificate",
+    "root of title",
+    "possession of land",
+    "motion to vacate",
+    "interlocutory appeal",
+    "discretionary power",
+    "contempt of court",
+    "summary judgment"
+  ],
+  "topics": [
+    "Land Law",
+    "Injunctions",
+    "Civil Procedure",
+    "Appellate Review",
+    "Supreme Court Jurisprudence"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Yehans International Limited (Respondent)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Anin Yeboah",
+      "role": "Delivered Judgment"
+    },
+    {
+      "name": "S. A. Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "J. AnsaH",
+      "role": "Justice"
+    },
+    {
+      "name": "R. C. Owusu",
+      "role": "Justice"
+    },
+    {
+      "name": "P. Baffoe Bonnie",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil",
+  "citations": [
+    "EDUSEI V. DINNERS CLUB SUISSE S.A [1982 – 83] GLR 809 CA",
+    "AMERICA CYNAMIDE CO. V. ETHICON LIMITED [1975] AC 396",
+    "VANDERPUYE V. NARTEY [1977] 1GLR 428",
+    "ODONKOR & ORS V. AMARTEI [1987-88] 1GLR 578 SC",
+    "OWUSU V. OWUSU-ANSAH [2007-08] SCGLR 870",
+    "POUNTNEY V. DOEGAH [1987-8] 1GLR III",
+    "CRENSTIL V CRENSTIL [1962 2 GLR 171",
+    "BALLMOSS V MENSAH [1984-86] 1GLR 724",
+    "THE REPUBLIC V HIGH COURT, KOFORIDUA EX PARTE ANSAH-OTU [2009] SCGLR 141",
+    "HOFFMAN – LA ROCHE & CO A – G & ORS V. SECRETARY OF STATE FOR TRADE & INDUSTRY [1974] 2 ALL ER 1128 HL"
+  ],
+  "rationaleHighlights": [
+    "The deponent's capacity to swear the affidavit was valid under Order 20 Rule 8 (2) C147 as source of information was disclosed.",
+    "The Court of Appeal properly considered principles governing interlocutory injunctions including status quo, balance of convenience, and hardship.",
+    "The trial court had discretion to waive undertakings in granting interlocutory injunctions, per Ex Parte Ansa-otu [2009] SCGLR 141.",
+    "No misapplication of law or factual misapprehension was found in the lower courts' decisions.",
+    "The appeal was dismissed for lacking merit, affirming the Court of Appeal's dismissal."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official Supreme Court judgment text and proper citation of legal authorities.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/YEHANS INTERNATIONAL LIMITED V  MARTEY TSURU FAMILY (PER FREDERICK SHAMO QUAYE, 18TH JULY LIMITED,  FORMER REGAL CINEMA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:53:44.781Z",
+    "plainTextLength": 11813
+  },
+  "trialDate": "2011-04-23"
+}

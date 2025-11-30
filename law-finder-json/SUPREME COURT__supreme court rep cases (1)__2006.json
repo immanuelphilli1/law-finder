@@ -1,0 +1,47 @@
+{
+  "caseTitle": "ADU KOFI DJIN v SEIDU MUSA",
+  "summary": "The provided document is a table of unreported cases from the Supreme Court of Ghana for the year 2006. It lists various civil and chieftaincy appeals with case numbers, parties involved, and hearing dates. However, the actual judgments, legal reasoning, or outcomes of these cases are not included in the document. As such, no substantive legal analysis or verdict details can be extracted. The document serves primarily as a case index rather than a source of judicial decisions or legal precedents.",
+  "legalKeywords": [
+    "Supreme Court",
+    "Ghana",
+    "civil appeal",
+    "unreported cases",
+    "judicial index",
+    "case listing",
+    "2006 cases",
+    "chancery jurisdiction",
+    "appeal hearing",
+    "case management",
+    "judicial records",
+    "court registry",
+    "legal research",
+    "case citation",
+    "judicial administration"
+  ],
+  "topics": [
+    "Court Listings",
+    "Appellate Jurisdiction",
+    "Legal Research",
+    "Case Index",
+    "Judicial Records"
+  ],
+  "verdict": "unknown",
+  "winningSide": "unknown",
+  "prosecutionType": "civil",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "Low confidence in extracting specific case outcomes due to lack of full judgment content; data based solely on a case index.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2006.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:48:21.662Z",
+    "plainTextLength": 2195
+  },
+  "trialDate": "2006-03-04"
+}

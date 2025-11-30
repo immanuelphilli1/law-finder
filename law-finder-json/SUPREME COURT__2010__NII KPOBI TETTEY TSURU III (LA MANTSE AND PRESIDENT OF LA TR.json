@@ -1,0 +1,80 @@
+{
+  "caseTitle": "NII KPOBI TETTEY TSURU III (LA MANTSE AND PRESIDENT OF LA TR",
+  "summary": "This Supreme Court reference arose from a High Court referral concerning the compulsory acquisition of 92.490 acres of land in La, known as the 'Wireless Station,' originally acquired under the Public Lands (Leasehold) Ordinance, 1950 (Cap. 138), for a 99-year term starting 1948. The plaintiff, Nii Kpobi Tettey Tsuru III, La Mantse and President of the La Traditional Council, argued that the government's recent development of the land through the 'Ghana @ 50' initiative for non-wireless purposes—such as constructing buildings later offered for sale by a private company—constituted a change of use violating Article 20(5) and (6) of the 1992 Constitution. The High Court found a clear change of use and referred three key constitutional questions: whether Article 20 applies to pre-constitution acquisitions, whether the La Stool has a right to first option upon change of use, and whether applying Article 20(6) retrospectively is permissible. The Supreme Court confirmed that while the 1992 Constitution is generally prospective, Article 20(5) governs ongoing use of land acquired for public purposes. It affirmed that any deviation from the original purpose triggers the original owner's right to first option under Article 20(6), provided the constitutional provisions are applied in a manner consistent with the law at the time of acquisition.",
+  "legalKeywords": [
+    "compulsory acquisition",
+    "public interest",
+    "constitutional interpretation",
+    "land use",
+    "re-acquisition right",
+    "first option",
+    "retrospective application",
+    "public lands",
+    "change of use",
+    "traditional authority",
+    "La Stool",
+    "Ghana @ 50",
+    "Wireless Station",
+    "Article 20",
+    "Article 257"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Land Law",
+    "Traditional Authority Rights",
+    "Public Property Use",
+    "Judicial Reference"
+  ],
+  "verdict": "The Supreme Court upheld the principle that land compulsorily acquired for a specific public purpose must remain so used under Article 20(5) of the 1992 Constitution. A change of use invalidates continued public ownership under the original terms, triggering Article 20(6), which grants the original owner the first option to reacquire the land.",
+  "winningSide": "Plaintiff (Nii Kpobi Tettey Tsuru III, representing La Traditional Council)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Atuguba, JSC",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ansa, JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Owusu (Ms), JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Dotse, JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie, JSC",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Article 20(5) and (6), 1992 Constitution of Ghana",
+    "Public Lands (Leasehold) Ordinance, 1950 (Cap. 138)",
+    "Gbedemah v Awoonor-Williams (1969) 2 G&G 442",
+    "Omaboe III v Attorney-General & Lands Commission (2005-2006) SCGLR 579",
+    "Article 257(1) and (2), 1992 Constitution"
+  ],
+  "rationaleHighlights": [
+    "Land acquired under Cap. 138 for specific public purpose (Wireless Station) must remain so used per Article 20(5).",
+    "Where land is no longer used for original purpose, original owner has first option to reacquire per Article 20(6).",
+    "Article 20 applies prospectively; does not automatically invalidate pre-1992 acquisitions but governs post-1992 use.",
+    "Change of use to non-public or private development violates constitutional and statutory provisions.",
+    "Supreme Court referenced to interpret constitutional applicability to historical acquisitions."
+  ],
+  "confidenceNotes": "High confidence; all information derived directly from cited judgment text and constitutional provisions.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/NII KPOBI TETTEY TSURU III (LA MANTSE AND PRESIDENT OF LA TR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:44:39.128Z",
+    "plainTextLength": 123453
+  },
+  "trialDate": "2010-05-19"
+}

@@ -1,0 +1,74 @@
+{
+  "caseTitle": "CHIEF SUPERINTENDENT OF POLICE VERSUS SANKAREH.",
+  "summary": "In Chief Superintendent of Police v. Sankareh (1956), the Supreme Court of the Gambia addressed whether a magistrate could disqualify an individual from driving after conviction for failing to produce a driving licence under the Motor Traffic Ordinance, s. 70, when the trial was conducted under the Trial of Petty Criminal Cases Ordinance, c. 25. The appellant was convicted and sentenced to a fine and twelve-month disqualification. On appeal, the court held that section 5 of the Trial of Petty Criminal Cases Ordinance strictly limits permissible punishments to imprisonment up to one month, fines up to £5, or corporal punishment up to twelve strokes, with only additional orders for restitution, confiscation, or forfeiture allowed. Since disqualification was not among the listed penalties and did not fall under the proviso, the court ruled the disqualification order ultra vires. Applying the principle of strict interpretation of penal statutes, the court concluded that the legislature's omission of disqualification indicated its exclusion. The appeal was allowed, and the disqualification order was quashed.",
+  "legalKeywords": [
+    "disqualification from driving",
+    "failure to produce licence",
+    "Trial of Petty Criminal Cases Ordinance",
+    "Motor Traffic Ordinance",
+    "ultra vires",
+    "strict interpretation of penal statute",
+    "expression unius est exclusion alterius",
+    "petty criminal cases",
+    "statutory interpretation",
+    "corporal punishment",
+    "fine",
+    "imprisonment",
+    "restitution",
+    "confiscation",
+    "forfeiture",
+    "punitive order",
+    "magistrate's court",
+    "appeal against sentence",
+    "ultra vires court order",
+    "driving licence",
+    "criminal procedure",
+    "colonial law",
+    "Gambia",
+    "West African Court of Appeal",
+    "Maxwell on Interpretation of Statutes"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Traffic Offences",
+    "Judicial Interpretation",
+    "Sentencing Limits",
+    "Administrative Penalties"
+  ],
+  "verdict": "Appeal allowed; disqualification order quashed.",
+  "winningSide": "Appellant (Sankareh)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Miles J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gambia",
+    "country": "Gambia"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Chief Superintendent of Police v. Sankareh (1956) 2 W.A.L.R. 98",
+    "Trial of Petty Criminal Cases Ordinance, c. 25, s. 5",
+    "Motor Traffic Ordinance, c. 155, ss. 70, 86(1)"
+  ],
+  "rationaleHighlights": [
+    "Section 5 of the Trial of Petty Criminal Cases Ordinance limits punitive powers to specified penalties; disqualification not included.",
+    "Proviso to section 5 only allows additional orders related to restitution, confiscation, or forfeiture, not punitive disqualification.",
+    "Principle of strict interpretation of penal statutes favors the accused when statutory meaning is ambiguous.",
+    "Use of 'expression unius est exclusion alterius' implies exclusion of unlisted punishments.",
+    "Disqualification order deemed ultra vires as outside magistrate's jurisdiction under the Ordinance.",
+    "Doubt raised whether failure to produce licence constitutes an offence 'connected with driving' under s. 86(1).",
+    "Case tried under petty criminal procedure cannot sustain punishment beyond statutory limits.",
+    "Appeal allowed solely on grounds of legal incompetence to impose disqualification."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct judicial reasoning and statutory references.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/CHIEF SUPERINTENDENT OF POLICE v. SANKAREH..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:37:29.435Z",
+    "plainTextLength": 7673
+  }
+}

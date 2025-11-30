@@ -1,0 +1,82 @@
+{
+  "caseTitle": "KWAKU BAMFI ADOMAKO PATIENCE NANA ADOMAKO VRS OPANIN KOFI DUODU KWASI AKRONG, EMMANUEL NTIFU, KOJO E",
+  "summary": "In this civil appeal before the Supreme Court of Ghana, the respondents (Kwaku Bamfi Adomako and Patience Nana Adomako) claimed ownership of land in Adamorobe, Aburi, purchased from Nana Odjobi Aduamoah IV, the then-representative of the Asakyiri Aduamoah family. The appellants, led by Nana Kofi Duodu, contested the sale, arguing that Nana Odjobi lacked authority, the transaction was a conditional licence (not a sale), and that family elders did not consent. The trial court initially ruled for the appellants, declaring the sale void, but the Court of Appeal reversed. The Supreme Court dismissed the appeal, affirming that Nana Odjobi had capacity to act for the family and that the transaction was an outright sale. It also held that the appellants' application for variation of the trial court's judgment was time-barred and substantively invalid, as it sought only enhanced reasoning, not correction of the decision. The Court emphasized that a notice of variation cannot be used to demand 'further and better reasons' for a judgment one otherwise accepts.",
+  "legalKeywords": [
+    "land sale",
+    "family property",
+    "customary law",
+    "title dispute",
+    "appellate procedure",
+    "variation of judgment",
+    "capacity to alienate",
+    "consent of elders",
+    "conditional licence",
+    "estoppel",
+    "illiteracy defence",
+    "procedural defect",
+    "time-barred application",
+    "cross-appeal alternative",
+    "registered deed",
+    "nullity of sale",
+    "re-entry condition",
+    "profit sharing",
+    "concessionary pricing",
+    "judicial reasoning",
+    "weight of evidence"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Customary Law",
+    "Contractual Interpretation",
+    "Judicial Reasoning"
+  ],
+  "verdict": "Appeal dismissed; decision of the Court of Appeal upheld.",
+  "winningSide": "Respondents (Kwaku Bamfi Adomako and Patience Nana Adomako)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Wood (Mrs)",
+      "role": "Chief Justice (Presiding)"
+    },
+    {
+      "name": "Brobbey",
+      "role": "J.S.C."
+    },
+    {
+      "name": "Ansa",
+      "role": "J.S.C."
+    },
+    {
+      "name": "Dotse",
+      "role": "J.S.C."
+    },
+    {
+      "name": "Gbadebe",
+      "role": "J.S.C."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "CIVIL APPEAL NO. J4 / 29 / 2011",
+    "Court of Appeal Rules, CI 19, Rule 15(1)"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court upheld the Court of Appeal's decision, affirming that Nana Odjobi Aduamoah had authority to act as head of family for the land transaction.",
+    "The Court found the appellants' notice of variation was time-barred and substantively flawed, as it sought only additional reasons for a favorable judgment, not correction of the decision.",
+    "The transaction was determined to be an outright sale, not a conditional licence, despite appellants' claims of profit-sharing and development obligations.",
+    "The Court emphasized that a notice of variation is not a tool to obtain 'further and better reasons' for a judgment already accepted as correct in outcome.",
+    "The appellants' argument on illiteracy and lack of consent by elders failed due to lack of merit and procedural defects."
+  ],
+  "confidenceNotes": "The summary is based on a detailed judicial opinion from the Supreme Court of Ghana, with clear articulation of procedural and substantive issues. All key facts, legal arguments, and holdings are explicitly stated in the source text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/KWAKU BAMFI ADOMAKO  PATIENCE NANA ADOMAKO  VRS    OPANIN KOFI DUODU  KWASI AKRONG, EMMANUEL NTIFU, KOJO E.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:04:22.830Z",
+    "plainTextLength": 33428
+  }
+}

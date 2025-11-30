@@ -1,0 +1,94 @@
+{
+  "caseTitle": "JOHN ATTA WUSU VRS MR. FOSUHENE",
+  "summary": "This Supreme Court of Ghana judgment addresses whether a plaintiff's initiation of a second civil action on the same land dispute constitutes an abuse of court process after discontinuing a prior suit with liberty, despite a pending counterclaim by the defendant. The plaintiff first sued in 2002 for declarations of allotment, damages for trespass, and injunction, but later discontinued with court leave. The defendant's counterclaim remained pending. In 2003, the plaintiff filed a new action with substantially similar reliefs. The defendant moved to dismiss, arguing abuse of process. The High Court agreed and struck out the writ. The Court of Appeal reversed, holding that discontinuance with liberty permits a fresh action. The Supreme Court upheld the Court of Appeal, affirming that Order 26 Rule 1 of the High Court Rules (LN 540) allows a plaintiff to bring a new suit after discontinuance with liberty, and such discontinuance does not operate as estoppel. The Court rejected the argument that a pending counterclaim bars a fresh action, emphasizing that the correct legal question was the effect of 'discontinuance with liberty,' which the Court of Appeal properly answered.",
+  "legalKeywords": [
+    "abuse of process",
+    "discontinuance with liberty",
+    "counterclaim",
+    "res judicata",
+    "inherent jurisdiction",
+    "perpetual injunction",
+    "trespass",
+    "declaration of title",
+    "procedural law",
+    "fresh action",
+    "High Court Rules LN 540",
+    "Order 26 Rule 1",
+    "judicial interpretation",
+    "estoppel",
+    "duplicate proceedings"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Land Law",
+    "Judicial Review",
+    "Abuse of Process",
+    "Discontinuance of Action"
+  ],
+  "verdict": "The Supreme Court dismissed the appeal, upholding the Court of Appeal's decision that the plaintiff's second action was not an abuse of process and that discontinuance with liberty permits a fresh action on the same subject matter.",
+  "winningSide": "Plaintiff/Appellant/Respondent (John Atta Wusu)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Baffoe-Bonnie, JSC",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "Atuguba, JSC",
+      "role": "Presiding"
+    },
+    {
+      "name": "Date-Bah (Dr), JSC",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Yeboah, JSC",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Aryeetey, JSC",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Duose JA",
+      "role": "Court of Appeal"
+    },
+    {
+      "name": "Akoto Bamfo JA",
+      "role": "Court of Appeal"
+    },
+    {
+      "name": "Osei JA",
+      "role": "Court of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Foly Adama vrs Messrs Norpalm ASV and one other, Civil Suit No. 212/2002",
+    "Nmako Salt Concession; Concession Enquiry No. 1120 (Accra) 1962 GLR 354",
+    "Amoako Atta II v Osei Kofi II [1962] 1 GLR",
+    "Ahenkora II v Kumah [1963] 1 GLR 77",
+    "Amoako vrs. Kwan [1975] 1 GLR 25",
+    "Biei v. Assah (1953) 14 W.A.C.A. 303",
+    "Fox v. Star Newspaper Ltd."
+  ],
+  "rationaleHighlights": [
+    "Discontinuance with liberty allows plaintiff to file a fresh action on same subject matter",
+    "Pendency of counterclaim does not bar fresh action if original suit was discontinued with liberty",
+    "Trial court erred in treating second action as abuse of process",
+    "Court of Appeal correctly focused on legal effect of 'discontinuance with liberty'",
+    "Supreme Court affirms that discontinuance with liberty prevents estoppel"
+  ],
+  "confidenceNotes": "All information is derived directly from the provided judgment text. Citations are explicitly mentioned in the reasoning. Jurisdiction, parties, and procedural history are clearly stated in the document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/JOHN ATTA  WUSU  VRS MR. FOSUHENE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:46:16.988Z",
+    "plainTextLength": 26109
+  },
+  "trialDate": "2010-05-19"
+}

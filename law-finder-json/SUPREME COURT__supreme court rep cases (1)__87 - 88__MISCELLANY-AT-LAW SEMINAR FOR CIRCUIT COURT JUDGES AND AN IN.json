@@ -1,0 +1,70 @@
+{
+  "caseTitle": "MISCELLANY-AT-LAW SEMINAR FOR CIRCUIT COURT JUDGES AND AN IN",
+  "summary": "This document compiles a keynote address by Chief Justice Sowah E N P on 'The Art of Writing Judgments' delivered at a 1987 seminar for circuit court judges, alongside a list of recent personal injury awards. The Chief Justice emphasizes that judgment writing is the most critical judicial function, requiring clarity, brevity, and accuracy. He stresses the importance of mastering the English language, adopting a clear and effective writing style, and properly settling issues before trial to avoid irrelevant cross-examination. He underscores the binding nature of precedent under stare decisis and the necessity of applying law correctly to factual findings. The document also includes illustrative personal injury awards from 1987–1988, showing detailed breakdowns for fatal and non-fatal road accident cases, reflecting considerations of age, dependency, earnings, and non-pecuniary damages.",
+  "legalKeywords": [
+    "judgment writing",
+    "language in law",
+    "style in judgments",
+    "settlement of issues",
+    "stare decisis",
+    "cross-examination",
+    "personal injury awards",
+    "delivery of judgment",
+    "legal reasoning",
+    "appellate review",
+    "evidence evaluation",
+    "judicial conduct",
+    "court procedure"
+  ],
+  "topics": [
+    "Judicial Writing",
+    "Legal Language",
+    "Court Procedure",
+    "Personal Injury Awards",
+    "Judicial Training"
+  ],
+  "verdict": "Not applicable – the document is a judicial training resource and award summary, not a case decision.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Sowah E N P",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Asare-Kwapong J",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Lutterodt J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Various Lower Courts",
+    "country": "Ghana"
+  },
+  "caseType": "judicial seminar address",
+  "citations": [
+    "AHIATI v AHIAKPAH (Asare-Kwapong J, Ho, 16 November 1987)",
+    "AKWELEY v SMITH (Lutterodt J, Accra, 4 March 1988)"
+  ],
+  "rationaleHighlights": [
+    "Clarity, brevity, and accuracy are essential in judgment writing.",
+    "Judges must base findings on credible evidence, not witness demeanour alone.",
+    "Settling issues early prevents abusive cross-examination.",
+    "Superior court decisions bind inferior courts under stare decisis.",
+    "Judgments should reflect the judge's clear reasoning, not verbose repetition.",
+    "Personal injury awards consider age, earnings, dependents, and non-pecuniary losses.",
+    "Rulings must be concise and not pre-judge the full case.",
+    "Language proficiency is a professional necessity for judges."
+  ],
+  "confidenceNotes": "The document is not a judicial decision but a compilation of lectures and awards. Citations are drawn from the personal injury awards section. The main text is a speech by the Chief Justice.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/87 - 88/MISCELLANY-AT-LAW SEMINAR FOR CIRCUIT COURT JUDGES AND AN IN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:22:29.406Z",
+    "plainTextLength": 69942
+  },
+  "trialDate": "1981-12-31"
+}

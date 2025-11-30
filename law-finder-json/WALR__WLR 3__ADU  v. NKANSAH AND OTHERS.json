@@ -1,0 +1,61 @@
+{
+  "caseTitle": "ADU VERSUS NKANSAH AND OTHERS",
+  "summary": "In this 1957 High Court decision from the Eastern Judicial Division of Ghana, the plaintiff, representing a land 'company', claimed damages for trespass and sought possession of land being cultivated by subjects of the Nteso Stool. The land was part of a larger tract sold by the Nteso Stool to the plaintiff's predecessors and confirmed during a 1926 Forest Reserve Inquiry, where the Stool supported the plaintiff's claim for compensation as alienation claimants. The trial Native Court had dismissed the claim and ordered partition of the land, which the High Court found to be beyond its jurisdiction. The appellant court held that the defendants were estopped by conduct from denying the plaintiffs' title due to their prior support of the claim, and that Native Courts lack authority to order partition or grant relief not specifically claimed. The appeal was allowed, the lower court's orders were set aside, and judgment was entered for the plaintiff for damages and recovery of possession.",
+  "legalKeywords": [
+    "estoppel by conduct",
+    "title to land",
+    "trespass to land",
+    "Native Court jurisdiction",
+    "partition of land",
+    "alienation claimants",
+    "Forest Reserve Inquiry",
+    "recovery of possession",
+    "ultra vires order",
+    "compensation for land acquisition",
+    "adjudication of ownership",
+    "land dispute",
+    "consent of parties",
+    "grantee and grantor relationship",
+    "official inquiry"
+  ],
+  "topics": [
+    "Land Law",
+    "Estoppel",
+    "Jurisdiction",
+    "Native Courts"
+  ],
+  "verdict": "The appeal was allowed. The High Court set aside the Native Court's dismissal and its partition order, entered judgment for the plaintiff for damages for trespass, and affirmed the plaintiff's right to recovery of possession.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "van Lare J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Land Dispute",
+  "citations": [
+    "ADU v. NKANSAH AND OTHERS, [1957] WALR 3"
+  ],
+  "rationaleHighlights": [
+    "Defendants estopped by conduct due to prior support of plaintiff's ownership claim during 1926 Forest Reserve Inquiry.",
+    "Native Courts lack jurisdiction to order partition of land without consent of parties.",
+    "Courts cannot grant relief not specifically sought in the claim.",
+    "Findings from official inquiries carry legal weight in land title disputes.",
+    "Compensation awarded based on recognized ownership establishes legal entitlement.",
+    "Trial court erred in dismissing the case and failing to adjudicate on established facts.",
+    "Order requiring plaintiff to attend State Council to sign deeds was ultra vires.",
+    "Plaintiff entitled to damages and recovery of possession based on valid title."
+  ],
+  "confidenceNotes": "All information is derived directly from the provided text. Citation format follows West African Law Reports (WALR) convention. The case reflects colonial-era legal structures in Ghana, including Native Courts and Forest Reserve procedures.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/ADU  v. NKANSAH AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:19:07.661Z",
+    "plainTextLength": 6022
+  }
+}

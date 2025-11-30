@@ -1,0 +1,86 @@
+{
+  "caseTitle": "PETER ANKOMAH V CITY INVESTMENT COMPANY",
+  "summary": "In Peter Ankomah v City Investment Company Limited, the Supreme Court of Ghana addressed whether damages for loss of use of seized property constitute general or special damages in a detinue claim. The plaintiff's property— a car and refrigerator—was wrongfully seized during execution of a judgment against his wife. The High Court awarded damages for loss of use and replacement value, but the Court of Appeal recharacterized loss of use as special damages requiring strict proof, awarding only nominal damages. The Supreme Court upheld that detinue allows recovery of the chattel or its value plus damages for detention, but emphasized that loss of use is recoverable only where actual damage to the chattel is proven, aligning with English tort law precedents. Since no damage was shown, the plaintiff was not entitled to loss of use damages. The Court affirmed the replacement value awards, noting the trial judge's discretion in assessing reasonable figures despite exaggerated claims.",
+  "legalKeywords": [
+    "detinue",
+    "general damages",
+    "special damages",
+    "wrongful seizure",
+    "loss of use",
+    "chattel",
+    "damages for detention",
+    "burden of proof",
+    "nominal damages",
+    "tort of conversion",
+    "property rights",
+    "execution of judgment",
+    "sheriff's sale",
+    "replacement value",
+    "Halsbury's Laws of England",
+    "Salmond and Heuston",
+    "Lord Denning",
+    "Supreme Court of Ghana",
+    "civil appeal",
+    "evidence"
+  ],
+  "topics": [
+    "Tort Law",
+    "Property Law",
+    "Civil Procedure",
+    "Damages",
+    "Judicial Discretion"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dotse JSC",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Date-Bah JSC",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Ansa JSC",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Bonnie JSC",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Bamfo (Mrs) JSC",
+      "role": "Member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Halsbury’s Laws of England (5th Ed., 1975) vol 12 para 1416",
+    "SCM v Whittall [1971] AC 337",
+    "The Mediana [1900] AC 113",
+    "The Greta Holme [1897] AC 118",
+    "Admiralty v SS Cheskiang [1926] AC 665",
+    "Salmond and Heuston on the Law of Torts (19th Ed.)",
+    "M.A. Jones, Textbook on Torts (8th Ed.)"
+  ],
+  "rationaleHighlights": [
+    "Damages for loss of use are not recoverable in detinue without proof of actual damage to the chattel.",
+    "Loss of use claims require strict proof as special damages when not arising from physical damage.",
+    "General damages for loss of use apply only where the chattel is damaged and used for private or commercial purposes.",
+    "The trial court properly awarded replacement value despite inflated claims, within judicial discretion.",
+    "The Court of Appeal correctly limited recovery to nominal damages due to failure to prove special damages."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and citation of authoritative legal sources. Some truncation in source text does not affect core holdings.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/PETER ANKOMAH V CITY INVESTMENT COMPANY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:23:18.639Z",
+    "plainTextLength": 28374
+  }
+}

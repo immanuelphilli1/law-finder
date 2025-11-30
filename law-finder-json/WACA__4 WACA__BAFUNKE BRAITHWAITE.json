@@ -1,0 +1,78 @@
+{
+  "caseTitle": "BAFUNKE BRAITHWAITE",
+  "summary": "This 1938 West African Court of Appeal decision involved interpleader proceedings initiated by BaFunke Braithwaite and Victoria Aduke against A. Folarin, an executing judgment creditor. The plaintiffs claimed ownership of attached property, asserting a prior disposition from the debtor. The lower court ordered release of the attachment, citing lack of local law voiding family dispositions made during financial distress, though expressing concern over creditor protection. The appellate court held that Section 13 Elizabeth Cap. 5, a statute of general application under English common law, remained applicable in Nigeria via Section 14 of the Supreme Court Ordinance, despite its 1925 repeal in England. The court found the trial judge misdirected himself by assuming no such law existed in Nigeria. Citing Re Holland (1902), the court emphasized that fraudulent intent must be assessed from all circumstances. The appeal was allowed, the judgment set aside, and the case remitted for factual findings on fraud. The appellant was awarded costs in the appellate court.",
+  "legalKeywords": [
+    "interpleader proceedings",
+    "fraudulent disposition",
+    "Statute of Elizabeth",
+    "creditor protection",
+    "common law",
+    "collusive transfer",
+    "property attachment",
+    "judicial misdirection",
+    "remittal for trial",
+    "costs award",
+    "West African Court of Appeal",
+    "Supreme Court Ordinance",
+    "Re Holland",
+    "general application statute",
+    "financial embarrassment",
+    "family disposition",
+    "executing judgment creditor",
+    "appellate review",
+    "fraudulent intent",
+    "Nigerian legal system"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Debtor-Creditor Law",
+    "Property Law",
+    "Appellate Law",
+    "Legal History"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Cor. Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "13 Eliz. Cap. 5",
+    "Re Holland [1902] 2 Ch. 360",
+    "Supreme Court Ordinance, s 14"
+  ],
+  "rationaleHighlights": [
+    "The Statute 13 Eliz. Cap. 5 is a statute of general application and remains in force in Nigeria despite repeal in England after 1900.",
+    "The trial judge misdirected himself by believing no law existed to void dispositions in fraud of creditors.",
+    "Courts must examine all circumstances to determine fraudulent intent, per Re Holland.",
+    "Family dispositions made during financial distress are suspect and require scrutiny.",
+    "The case was remitted for proper findings of fact in light of applicable law.",
+    "The appellant succeeded on the legal issue and was awarded costs in the appellate court.",
+    "The lower court's judgment was set aside due to fundamental legal error.",
+    "Creditor protection is a key policy underlying anti-fraudulent transfer laws."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on primary source text. Jurisdiction is correctly identified as West African Court of Appeal with Ghana (Gold Coast) as relevant jurisdiction. Some ambiguity in plaintiff/defendant labels due to procedural conversion of interpleader, but clarified through context.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/BAFUNKE BRAITHWAITE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:06:38.659Z",
+    "plainTextLength": 5276
+  },
+  "trialDate": "1938-05-19"
+}

@@ -1,0 +1,74 @@
+{
+  "caseTitle": "P.S. INVESTMENT LIMITED V CENTRAL REGIONAL DEVELOPMENT",
+  "summary": "P.S. Investment Limited, a minority shareholder in Twifo Oil Palm Plantation Limited (TOPP), brought an action against CEREDEC (the majority shareholder), Unilever Ghana Limited, the Divestiture Implementation Committee (DIC), the Attorney General, and several directors, challenging the sale of 40% of CEREDEC's shares in TOPP to Unilever. The plaintiff alleged violations of its pre-emptive rights under Regulation 32(a) of TOPP’s regulations, arguing that the sale was conducted by DIC without proper authority and bypassed shareholder consent. The trial court dismissed all claims, but the case was appealed to the Supreme Court. Central issues included whether the DIC had the power to sell CEREDEC’s shares, whether board resolutions approving the transfer were valid, and whether directors acted in bad faith. The case highlights key principles of corporate governance, shareholder rights, and the limits of state agencies in divestiture processes under Ghanaian company law.",
+  "legalKeywords": [
+    "shareholder rights",
+    "pre-emptive rights",
+    "directors' duties",
+    "corporate governance",
+    "divestiture",
+    "board resolution",
+    "share transfer",
+    "bad faith",
+    "equitable interest",
+    "Foss v Harbottle exception",
+    "regulatory compliance",
+    "government agency authority"
+  ],
+  "topics": [
+    "Corporate Law",
+    "Shareholder Rights",
+    "Judicial Review",
+    "Fiduciary Duties",
+    "Public Sector Divestiture"
+  ],
+  "verdict": "The trial court dismissed the plaintiff's claims; the appeal outcome is not fully detailed in the provided text, but the Supreme Court engaged with the legal merits of shareholder rights and procedural irregularities.",
+  "winningSide": "Lower court ruled in favor of the defendants; final appellate decision not fully specified in excerpt.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dotse JSC",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Adinyira JSC",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Owusu JSC",
+      "role": "panel member"
+    },
+    {
+      "name": "Yeboah JSC",
+      "role": "panel member"
+    },
+    {
+      "name": "Bonnie JSC",
+      "role": "panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Foss v Harbottle",
+    "Companies Act, 1963 (Act 179)"
+  ],
+  "rationaleHighlights": [
+    "The sale of shares by DIC was challenged as ultra vires and contrary to TOPP's regulations.",
+    "Plaintiff argued that its pre-emptive rights under Regulation 32(a) were violated.",
+    "The Supreme Court emphasized procedural fairness in share transfers involving state-owned entities.",
+    "Directors were accused of breaching fiduciary duties by approving an irregular transaction.",
+    "The trial court dismissed the claims, but the appeal raised significant corporate law principles."
+  ],
+  "confidenceNotes": "The case involves clear references to statutory provisions and established common law principles; citations are explicitly mentioned or strongly implied by context.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/P.S. INVESTMENT LIMITED V CENTRAL REGIONAL DEVELOPMENT.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:23:45.886Z",
+    "plainTextLength": 67200
+  },
+  "trialDate": "2012-04-18"
+}

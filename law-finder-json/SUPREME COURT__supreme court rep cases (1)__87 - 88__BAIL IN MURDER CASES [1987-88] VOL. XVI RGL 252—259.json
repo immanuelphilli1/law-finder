@@ -1,0 +1,82 @@
+{
+  "caseTitle": "BAIL IN MURDER CASES [1987-88] VOL. XVI RGL 252—259",
+  "summary": "In Republic v Crentsil and Okoe Awulley, Justice Kpegah of the Cape Coast High Court addressed the issue of bail in murder cases under section 96(7)(a) of the Criminal Procedure Code (Amendment) Decree, 1975 (NRCD 309), which mandates refusal of bail in murder cases. The court held that this provision does not completely oust judicial discretion; bail may still be granted if the prosecution fails to present evidence establishing a prima facie case of murder. The accused had initially been denied bail by a district court due to lack of evidence, but Justice Kpegah granted bail because the prosecution's evidence—mainly blood stains in the accused's room and recent painting—was deemed insufficient to prove murder beyond suspicion. The court emphasized that a mere charge of murder does not automatically trigger the bail prohibition; there must be objective evidence supporting all elements of the offence. The ruling clarified that bail judges must assume the truth of prosecution evidence but should not assess its weight as a trial judge would. Furthermore, bail may be withdrawn if new evidence later establishes a prima facie case. The decision reinforced that a 'scintilla of evidence' is inadequate for committal or bail refusal, aligning with prior precedents and safeguarding individual liberty while recognizing the seriousness of murder charges.",
+  "legalKeywords": [
+    "bail",
+    "murder",
+    "prima facie case",
+    "section 96(7)(a)",
+    "Criminal Procedure Code",
+    "NRCD 309",
+    "circumstantial evidence",
+    "committal",
+    "no case to answer",
+    "evidence sufficiency",
+    "right to liberty",
+    "withdrawal of bail",
+    "scintilla of evidence",
+    "cross-examination",
+    "prosecution burden"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Bail",
+    "Evidence",
+    "Judicial Discretion",
+    "Murder"
+  ],
+  "verdict": "Bail was upheld as the prosecution failed to establish a prima facie case of murder based on the evidence presented.",
+  "winningSide": "Defence",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kpegah J",
+      "role": "trial judge"
+    },
+    {
+      "name": "Aboagye J",
+      "role": "precedent judge"
+    },
+    {
+      "name": "Taylor",
+      "role": "precedent judge"
+    },
+    {
+      "name": "Korsah",
+      "role": "precedent judge"
+    },
+    {
+      "name": "Amissah",
+      "role": "precedent judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Cape Coast",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Republic v Crentsil",
+    "Prah v The Republic",
+    "Seidu v The Republic",
+    "State v Bisa",
+    "Republic v Crentsil and Okoe Awulley"
+  ],
+  "rationaleHighlights": [
+    "Section 96(7)(a) does not completely oust court's discretion to grant bail in murder cases if no prima facie case is established.",
+    "Bail may be granted if evidence is insufficient to support all elements of murder.",
+    "Presence of blood stains alone, without more, does not establish a murder case for bail refusal.",
+    "Bail can be withdrawn if new evidence later establishes a prima facie case of murder.",
+    "Bail judges must assume prosecution evidence is true but need not weigh it like a trial judge.",
+    "A scintilla of evidence is insufficient to justify committal or denial of bail.",
+    "Risk of prejudging the case at bail stage undermines fair trial principles.",
+    "Balance between individual liberty and public interest in serious crime prosecution."
+  ],
+  "confidenceNotes": "High confidence in extraction; source is a legal commentary on a reported case with direct judicial reasoning cited.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/87 - 88/BAIL IN MURDER CASES [1987-88] VOL. XVI RGL 252—259.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:27:18.345Z",
+    "plainTextLength": 21135
+  }
+}

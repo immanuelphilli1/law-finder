@@ -1,0 +1,39 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The provided document does not contain a legal decision or case details. It appears to be a homepage or portal for the West Africa Court of Appeal with a self-help guide to the law, including a case and subject matter index. There is no case information, judgment, or legal analysis present in the text provided.",
+  "legalKeywords": [
+    "Ghana Law Finder",
+    "West Africa Court of Appeal",
+    "legal portal",
+    "case index",
+    "subject matter index",
+    "legal research",
+    "self-help legal guide",
+    "court database",
+    "law library",
+    "jurisprudence access"
+  ],
+  "topics": [
+    "Legal Research",
+    "Court Portal",
+    "West Africa Court of Appeal"
+  ],
+  "verdict": "N/A",
+  "winningSide": "N/A",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "N/A",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The document does not contain a judicial decision. Information is derived from a legal portal interface. No case details are available for analysis.",
+  "metadata": {
+    "sourcePath": "WACA/TEMP.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T09:53:57.918Z",
+    "plainTextLength": 296
+  }
+}

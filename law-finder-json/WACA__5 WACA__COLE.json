@@ -1,0 +1,65 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The West Africa Court of Appeal, sitting in Accra on April 4, 1939, reviewed a decision from the Divisional Court regarding the validity of a lease granted by Dan Cole, the son of the plaintiff, to the defendant. The lower court had ruled the lease invalid due to lack of formal authority under a Power of Attorney or agency. The appellate court held that the lease, being for a term of less than three years, did not require execution under seal and was valid in writing. Additionally, the plaintiff had consistently held Dan Cole out as his agent and property manager, supporting the agency claim. Even if the lease were invalid, the defendant qualified as a yearly tenant entitled to remain until served with proper notice to quit. Thus, the appeal was allowed, the lower court’s judgment reversed, and the plaintiff’s action dismissed. The cross-appeal was dismissed with costs.",
+  "legalKeywords": [
+    "lease validity",
+    "agency by holding out",
+    "power of attorney",
+    "lease under three years",
+    "writing not under seal",
+    "yearly tenant",
+    "notice to quit",
+    "apparent authority",
+    "agent authority",
+    "ejection of tenant"
+  ],
+  "topics": [
+    "Contract Law",
+    "Agency Law",
+    "Property Law",
+    "Appellate Procedure"
+  ],
+  "verdict": "Judgment of the lower court reversed; plaintiff's action dismissed. Defendant entitled to remain without notice to quit.",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Cor. Webb",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Strother-Stewart",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "Kugbe v. Union Trading Co., Divisional Court, 1926–29, p. 205"
+  ],
+  "rationaleHighlights": [
+    "Leases for less than three years need not be under seal and may be valid in writing.",
+    "Holding out an individual as agent supports agency claims even without formal power of attorney.",
+    "Defendant became a yearly tenant through possession and payment of rent.",
+    "Ejection of a yearly tenant requires prior notice to quit.",
+    "A point not raised in the lower court (validity of unsealed lease) can be considered on appeal.",
+    "Overwhelming evidence confirmed Dan Cole was held out as agent.",
+    "Power to execute deeds cannot arise solely by holding out, but lease validity rested on statutory exception.",
+    "No costs ordered against defendant despite prevailing on a new point."
+  ],
+  "confidenceNotes": "High confidence; details are clearly stated in the joint judgment and procedural history. Citation to Kugbe v. Union Trading Co. supports the legal principle on yearly tenancy.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/COLE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:49:33.118Z",
+    "plainTextLength": 3595
+  },
+  "trialDate": "1939-04-04"
+}

@@ -1,0 +1,99 @@
+{
+  "caseTitle": "THE REPUBLIC VS. HIGH COURT, SEKONDI EX-PARTE GEORGE KINGSLEY KWASI AMPONGR",
+  "summary": "This is a Supreme Court ruling on an application for certiorari to quash a High Court decision that had dismissed a prior judicial review application. The applicant, George Kingsley Kwasi Ampong (alias Odeneho Akrufa Krukoko II), sought to challenge a Chieftaincy Tribunal's default judgment declaring him destooled as Omanhene of Wassa Fiase Traditional Area in 2002. After the Tribunal dismissed his motion to set aside the judgment, he filed for judicial review at the Sekondi High Court, which was dismissed on 21 December 2010. He then approached the Supreme Court under its supervisory jurisdiction, largely reiterating the same grounds. The Supreme Court, per Akoto-Bamfo JSC, dismissed the application, holding that the High Court acted within its jurisdiction and that any non-jurisdictional errors must be addressed via appeal, not certiorari. The Court emphasized that certiorari is not a substitute for appeal and requires a clear error apparent on the face of the record, such as lack of jurisdiction or breach of natural justice. The additional ground—criticism of counsel by the High Court—was not sufficient to constitute a jurisdictional flaw. The application was thus dismissed.",
+  "legalKeywords": [
+    "certiorari",
+    "judicial review",
+    "supervisory jurisdiction",
+    "jurisdictional error",
+    "natural justice",
+    "error of law apparent on the face of the record",
+    "abuse of process",
+    "chietaincy tribunal",
+    "High Court",
+    "Supreme Court",
+    "constitutional jurisdiction",
+    "appellate jurisdiction",
+    "default judgment",
+    "destoolment",
+    "Omanhene",
+    "Wassa Fiase Traditional Area",
+    "professional integrity of counsel",
+    "strictures against counsel",
+    "procedural irregularity",
+    "contempt of court",
+    "burden of persuasion",
+    "service of process",
+    "judicial conduct",
+    "constitutional interpretation",
+    "Courts Act 459",
+    "C.I.16",
+    "Article 131",
+    "Article 132",
+    "Article 141",
+    "Republic v High Court cases"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Chieftaincy Disputes",
+    "Judicial Review",
+    "Supervisory Jurisdiction"
+  ],
+  "verdict": "The application for certiorari was dismissed.",
+  "winningSide": "The Republic / High Court, Sekondi",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "V. Akoto-Bamfo",
+      "role": "authoring judge"
+    },
+    {
+      "name": "W. A. Atuguba",
+      "role": "presiding judge"
+    },
+    {
+      "name": "R. Owusu",
+      "role": "panel judge"
+    },
+    {
+      "name": "B. T. Aryeetey",
+      "role": "panel judge"
+    },
+    {
+      "name": "S. N. Gbadegbe",
+      "role": "panel judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "judicial review",
+  "citations": [
+    "Republic v Chief Registrar of Lands, Ex parte Dsane [2003-2004] 2 SCGLR 995",
+    "Barclays Bank Ltd v Interested Party [2005-2006] SCGLR 107",
+    "Republic v Accra Circuit Court, Ex parte Appiah [1982-83] 1 GLR 129",
+    "Republic v High Court, Accra, Ex parte Soku [2003-2004] 2 SCLR 719",
+    "Republic v High Court, Accra, Ex parte Industrial Fund for Developing Countries [2003-2004] SCGLR 514",
+    "Republic v High Court, Ex parte CHRAJ (Addo Interested Party) [2003-2004] 1 SCGLR 312"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court declined to re-hear substantially the same grounds of certiorari previously rejected by the High Court, emphasizing that supervisory jurisdiction is not a substitute for appeal.",
+    "Certiorari is a discretionary remedy limited to jurisdictional errors or breaches of natural justice, not merits-based challenges.",
+    "An error not apparent on the face of the record must be corrected via appeal, not certiorari.",
+    "The applicant failed to show a jurisdictional defect in the High Court's ruling; thus, the proper remedy was appeal.",
+    "The Court noted that repeating nearly identical grounds before a higher court under supervisory jurisdiction undermines procedural good faith.",
+    "The High Court acted within its jurisdiction in dismissing the judicial review application.",
+    "The additional ground regarding criticism of counsel did not constitute a jurisdictional error warranting certiorari.",
+    "The Court reaffirmed the distinction between appellate and supervisory jurisdiction under the 1992 Constitution."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment with clear textual support.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/THE REPUBLIC   VS. HIGH COURT, SEKONDI EX-PARTE   GEORGE KINGSLEY KWASI AMPONGR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:58:08.951Z",
+    "plainTextLength": 14598
+  },
+  "trialDate": "2011-05-16"
+}

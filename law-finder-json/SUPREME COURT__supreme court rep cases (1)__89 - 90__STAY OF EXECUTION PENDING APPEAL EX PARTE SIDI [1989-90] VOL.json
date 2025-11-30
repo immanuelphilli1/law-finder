@@ -1,0 +1,77 @@
+{
+  "caseTitle": "STAY OF EXECUTION PENDING APPEAL EX PARTE SIDI [1989-90] VOL",
+  "summary": "In Republic v Court of Appeal, Accra: Ex parte Sidi, a landmark Ghanaian Supreme Court decision, the court addressed the issue of whether onerous terms imposed on a stay of execution pending appeal could be equated with a refusal, thereby permitting the applicant to reapply at the Court of Appeal under Rule 28 of the Court of Appeal Rules. The case arose after the High Court ordered the judgment-debtor to pay the full judgment debt into court as a condition for stay, which the debtor claimed was inconvenient and tantamount to a refusal. The Supreme Court considered longstanding principles balancing the rights of judgment-creditors to enjoy their judgment and judgment-debtors to pursue effective appeals. It examined prior authorities like Saunders v Awudu and Joseph v Jebeile, where stringent payment-into-court conditions were upheld without constituting refusals. The court ultimately rejected the notion that financial inconvenience equates to denial of relief, affirming that a conditional grant remains a grant and does not trigger the right to reapply at a higher court. This decision reinforced judicial discretion in crafting equitable stay conditions while curbing procedural abuse.",
+  "legalKeywords": [
+    "stay of execution",
+    "appeal",
+    "judgment-debtor",
+    "judgment-creditor",
+    "conditional stay",
+    "Court of Appeal Rules",
+    "Rule 28",
+    "discretionary power",
+    "execution of judgment",
+    "balance of interests",
+    "payment into court",
+    "nugatory appeal",
+    "judicial discretion",
+    "procedural fairness",
+    "abuse of process",
+    "High Court",
+    "Supreme Court",
+    "Ghana",
+    "civil procedure",
+    "interim relief"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Appellate Law",
+    "Execution of Judgments",
+    "Judicial Discretion",
+    "Stay of Execution"
+  ],
+  "verdict": "The application for stay was granted conditionally by the lower court; the Supreme Court held that onerous or inconvenient terms do not constitute a refusal, thus the right to reapply at the Court of Appeal under Rule 28 was not triggered.",
+  "winningSide": "Judgment-creditor",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adade JSC",
+      "role": "Sitting as additional judge in Court of Appeal"
+    },
+    {
+      "name": "Apaloo J",
+      "role": "High Court Judge in Saunders v Awudu"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Republic v Court of Appeal, Accra: Ex parte Sidi [1989-90] Vol. XVII RGL 273",
+    "Ghassoub v Bibiani Wood Complex Ltd",
+    "Saunders v Awudu",
+    "Joseph v Jebeile",
+    "Oppan v Frans & Co Ltd",
+    "Fitouri Krekchi v United Africa Co Ltd",
+    "Bisi v Tabiri alias Asare"
+  ],
+  "rationaleHighlights": [
+    "A conditional stay does not become a refusal merely because terms are financially burdensome.",
+    "The purpose of stay conditions is to balance the interests of both parties during appeal.",
+    "Payment into court ensures the appeal is not rendered nugatory if successful.",
+    "Rule 28 only allows reapplication at the Court of Appeal if the lower court refuses the application outright.",
+    "Longstanding precedent supports imposition of stringent financial conditions for stay.",
+    "Judicial discretion must be exercised judicially, weighing hardship to both sides.",
+    "Procedural rules must be interpreted logically to prevent abuse of process.",
+    "The life of the law is experience, but illogical reasoning is not a virtue in law."
+  ],
+  "confidenceNotes": "The summary is based on a detailed legal commentary from a published law review source. All key facts, principles, and citations are drawn directly from the text. Some portions of the original document were truncated, but sufficient context remains to support high-confidence extraction of core legal principles and case details.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/89 - 90/STAY OF EXECUTION PENDING APPEAL EX PARTE SIDI [1989-90] VOL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:14:48.818Z",
+    "plainTextLength": 37563
+  }
+}

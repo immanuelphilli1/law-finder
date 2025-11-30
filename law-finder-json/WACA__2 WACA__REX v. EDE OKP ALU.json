@@ -1,0 +1,71 @@
+{
+  "caseTitle": "REX v. EDE OKP ALU",
+  "summary": "The case involves the appeal of Udu Nwozi, convicted of murder alongside Ede Okp Alu in the Enugu High Court. The Officer Administering the Government referred the conviction of Udu Nwozi to the West African Court of Appeal under section 22 of the West African Court of Appeal Ordinance, 1933. Although Udu Nwozi did not appear or contest the appeal, the Crown Counsel assisted the court by presenting potential arguments in his favor. The appeal raised three key issues: (a) whether the appellant was the actual killer, (b) the admission of inadmissible hearsay evidence, and (c) a misdirection in law by the trial judge. The court held that even though the appellant was not proven to have delivered the fatal blow, and despite the erroneous admission of some hearsay evidence, there was ample credible evidence to sustain the conviction. Crucially, the trial judge failed to invoke section 7(d) of the Nigerian Criminal Code, which holds persons guilty who counsel or procure the commission of a crime. However, the appellate court found that the facts clearly supported such a finding, and thus the misdirection did not result in a miscarriage of justice. Accordingly, under the proviso to section 10(1) of the Ordinance, the conviction was upheld.",
+  "legalKeywords": [
+    "murder",
+    "conviction",
+    "counsel and procure",
+    "section 7 Criminal Code",
+    "misdirection in law",
+    "hearsay evidence",
+    "constructive presence",
+    "principals in second degree",
+    "West African Court of Appeal",
+    "proviso to section 10",
+    "section 22 Ordinance",
+    "actual killer",
+    "party to offence",
+    "prerogative of mercy",
+    "sufficient evidence"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Parties to Offences"
+  ],
+  "verdict": "Conviction for murder upheld on appeal despite misdirection in law and admission of inadmissible evidence, due to sufficient credible evidence and applicability of section 7(d) of the Criminal Code.",
+  "winningSide": "The Crown (Respondent)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "C.J., Nigeria"
+    },
+    {
+      "name": "Webber",
+      "role": "C.J., Sierra Leone"
+    },
+    {
+      "name": "Butler-Lloyd",
+      "role": "J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal appeal",
+  "citations": [
+    "Section 7(d) of the Nigerian Criminal Code",
+    "Section 10(1) proviso, West African Court of Appeal Ordinance, 1933",
+    "Section 22, West African Court of Appeal Ordinance, 1933"
+  ],
+  "rationaleHighlights": [
+    "Even without being the actual killer, one who counsels or procures murder is deemed guilty under section 7(d) of the Criminal Code.",
+    "Admission of hearsay evidence does not invalidate a conviction if there is otherwise sufficient credible evidence.",
+    "A misdirection in law does not require quashing of a conviction if no miscarriage of justice occurred.",
+    "The term 'principal in the second degree' is not used in Nigerian law and should be avoided.",
+    "Section 7 of the Criminal Code must be invoked when the accused is not proven to have committed the physical act of killing.",
+    "Factual findings by the trial court were supported by evidence, including planning, use of appellant's weapon, and burial of the body.",
+    "The appellant's own version admitted prior agreement and indirect involvement, supporting guilt under section 7(d).",
+    "The proviso to section 10(1) allows affirmation of a conviction despite procedural or legal error if the outcome is justified."
+  ],
+  "confidenceNotes": null,
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/REX v. EDE OKP ALU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:19:05.722Z",
+    "plainTextLength": 7689
+  }
+}

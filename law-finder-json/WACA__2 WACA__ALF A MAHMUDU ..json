@@ -1,0 +1,74 @@
+{
+  "caseTitle": "ALF A MAHMUDU .",
+  "summary": "This West African Court of Appeal decision from 1934 concerns an interpleader action initiated by Tesai A. Zenuah, a family member, challenging the attachment of family land for the private debt of B.H. Zenuah, the head of the family. The property, located on Pagan Road, Accra, was admitted to be family property and not the personal asset of the judgment debtor. The Police Magistrate had dismissed the claim, holding only the head of the family could sue. On appeal, the Court held that the customary law rule barring non-head family members from bringing such claims was repugnant to justice, equity, and good conscience under Section 19 of the Supreme Court Ordinance. Furthermore, the Court found Order 45 Rule 25(1) of the Supreme Court Rules empowered it to hear the claim regardless of customary law. The Court emphasized that allowing execution on family property for a private debt would result in a legal absurdity, as the debtor held no attachable interest. It ruled the property must be released from attachment, affirming the court's duty to prevent misuse of its processes, while clarifying this does not extend to allowing non-heads to initiate title actions over family land.",
+  "legalKeywords": [
+    "interpleader",
+    "family property",
+    "customary law",
+    "private debt",
+    "execution of judgment",
+    "land attachment",
+    "repugnancy doctrine",
+    "trust",
+    "head of family",
+    "Supreme Court Ordinance",
+    "Order 45 rule 25",
+    "justice equity and good conscience",
+    "native law",
+    "property rights",
+    "judicial sale",
+    "reduction to absurdity",
+    "legal standing",
+    "customary litigation",
+    "family land",
+    "non-attachable property"
+  ],
+  "topics": [
+    "Customary Law",
+    "Property Law",
+    "Civil Procedure",
+    "Family Law",
+    "Appellate Law"
+  ],
+  "verdict": "The appeal was allowed in favor of the claimant; the interpleader objection was valid, and the family property must be released from attachment.",
+  "winningSide": "Claimant (Tesai A. Zenuah and family members)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Graham Paul",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, concurring"
+    },
+    {
+      "name": "Yates",
+      "role": "Acting Chief Justice, concurring"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appellate",
+  "citations": [
+    "Supreme Court Ordinance, s 19",
+    "Supreme Court Rules, Order 45 r 25(1)"
+  ],
+  "rationaleHighlights": [
+    "Customary law restricting interpleader to head of family is repugnant to justice, equity, and good conscience",
+    "Supreme Court empowered by Order 45 r 25(1) to hear claims despite customary law restrictions",
+    "Family property held in trust by head cannot be sold for private debts",
+    "Allowing sale would result in legal absurdity—selling non-existent interest",
+    "Court must release property from attachment when held in trust for family"
+  ],
+  "confidenceNotes": "High confidence; the judgment explicitly references statutory provisions and customary law principles, with clear reasoning from the bench.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/ALF A MAHMUDU ..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:33:46.075Z",
+    "plainTextLength": 9525
+  },
+  "trialDate": "1934-11-20"
+}

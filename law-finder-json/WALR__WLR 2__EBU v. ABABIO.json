@@ -1,0 +1,75 @@
+{
+  "caseTitle": "EBU VERSUS ABABIO.",
+  "summary": "In EBU v. ABABIO, a land title dispute between two stools in the Gold Coast (now Ghana), the Judicial Committee of the Privy Council upheld a declaration of title in favor of the plaintiff stool based on long and continuous possession, despite inconclusive traditional evidence regarding first occupation. The plaintiff demonstrated acts of ownership, including granting concessions as early as 1907 and exercising control over villages on the land. Although the traditional evidence did not clearly establish original occupancy, the trial judge and appellate court found the plaintiff's evidence of possession credible and sufficient to support title. The Privy Council affirmed that a favorable finding on traditional evidence is not mandatory when possession is well-documented and extensive. The appeal was dismissed, with costs awarded to the respondent.",
+  "legalKeywords": [
+    "declaration of title",
+    "traditional evidence",
+    "first occupation",
+    "long possession",
+    "acts of possession",
+    "cocoa farms",
+    "concessions",
+    "migration",
+    "trespass",
+    "ownership of land",
+    "occupancy",
+    "stool land",
+    "Native Courts Ordinance",
+    "West African Court of Appeal",
+    "Gold Coast",
+    "Assessor",
+    "concurrent findings of fact",
+    "local conditions",
+    "rights over land",
+    "original title",
+    "isolated possession"
+  ],
+  "topics": [
+    "Land Law",
+    "Evidence Law",
+    "Customary Law",
+    "Appellate Procedure",
+    "Property Rights"
+  ],
+  "verdict": "Appeal dismissed; declaration of title upheld in favor of the respondent.",
+  "winningSide": "Plaintiff (EBU, representing the Assin Bisiasi stool)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lord Oaksey"
+    },
+    {
+      "name": "Lord Radcliffe"
+    },
+    {
+      "name": "Lord Somervell of Harrow"
+    },
+    {
+      "name": "Mr. L. M. D. de Silva",
+      "role": "delivering judgment"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Judicial Committee of the Privy Council",
+    "country": "Ghana"
+  },
+  "caseType": "land title dispute",
+  "citations": [
+    "[1934] A.C. 340",
+    "(1934) 2 W.A.C.A. 46"
+  ],
+  "rationaleHighlights": [
+    "Traditional evidence of first occupation is not essential if long and continuous possession is proven.",
+    "Possession of portions may support title to whole area if reasonably attributable to a right over the whole.",
+    "Courts in Africa with knowledge of local conditions are best placed to assess possession claims.",
+    "No finding on traditional evidence was required where documentary and testimonial evidence of possession was strong.",
+    "Appellate courts should not interfere with concurrent findings of fact absent compelling reason."
+  ],
+  "confidenceNotes": "High confidence; all key details such as parties, jurisdiction, judges, and legal reasoning are clearly stated in the source.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/EBU v. ABABIO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:35:27.622Z",
+    "plainTextLength": 9354
+  }
+}

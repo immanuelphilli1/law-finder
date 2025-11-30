@@ -1,0 +1,66 @@
+{
+  "caseTitle": "CAP MARKETING v. THE OWNERS OF M V VINTA",
+  "summary": "This appeal arose from a civil action where Val Cap Marketing sued the Owners of M/V Vinta for $70,543.82 for fuel supplied. The defendants moved to dismiss, arguing no contract existed and the claim was statute-barred. The trial court dismissed the motion and entered judgment for Val Cap. On appeal, the Court of Appeal held that the trial judge erred in law by entering judgment at that stage. It found that Val Cap’s reply introduced a new case based on assignment of debt, inconsistent with the original claim of direct contractual liability. Since the trial judge considered matters outside the pleadings and failed to require proof of the alleged contract, the judgment was set aside. The appeal was allowed, and the case remitted for trial on the proper issues.",
+  "legalKeywords": [
+    "contract existence",
+    "pleadings",
+    "inherent jurisdiction",
+    "summary dismissal",
+    "assignment of debt",
+    "demurrer",
+    "affidavit evidence",
+    "statement of claim",
+    "reply to defence",
+    "procedural error"
+  ],
+  "topics": [
+    "Contract Law",
+    "Civil Procedure",
+    "Appellate Review",
+    "Pleadings",
+    "Inherent Jurisdiction"
+  ],
+  "verdict": "Appeal allowed; judgment of the trial court set aside and case remitted for trial.",
+  "winningSide": "The Owners of M/V Vinta (Appellants)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lamprey, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Wood (Mrs.), J.A."
+    },
+    {
+      "name": "Brobbey, J.A."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "VAL CAP MARKETING v. THE OWNERS OF M V VINTA [30/3/99] C.A. NO. 27/98",
+    "In Re Cole (Dec) Codjoe v. Cole (1977) 2 GLR 305",
+    "Bank of West Africa v Holbrock (1966) G.L.R. 164",
+    "Remmington v. Scoles (1995-9) All E R 117",
+    "Appenteng & ors v. Bank of West Africa Ltd. & ors. (1961) G.L.R. 196",
+    "Burrows v. Rhodes (1895-9) All E R 117"
+  ],
+  "rationaleHighlights": [
+    "The trial judge erred by entering judgment without proper trial after dismissing a preliminary motion.",
+    "Val Cap's reply introduced a new cause of action (assignment of debt) not in the original statement of claim.",
+    "No affidavit evidence was presented to prove the existence of the alleged contract.",
+    "The trial court could not consider evidence outside the pleadings under Order 25 rules.",
+    "The appellate court emphasized that a party is bound by its pleadings and cannot rely on inconsistent or extraneous evidence."
+  ],
+  "confidenceNotes": "The judgment is well-reasoned with clear references to procedural rules and case law. The appellate court's reversal is based on solid legal grounds regarding pleading and evidence.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/VAL CAP MARKETING v. THE OWNERS OF M V VINTA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T09:58:41.971Z",
+    "plainTextLength": 87103
+  },
+  "trialDate": "1993-08-12"
+}

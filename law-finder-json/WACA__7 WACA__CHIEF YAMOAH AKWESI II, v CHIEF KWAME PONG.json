@@ -1,0 +1,70 @@
+{
+  "caseTitle": "CHIEF YAMOAH AKWESI II, v CHIEF KWAME PONG",
+  "summary": "This case involved a land boundary dispute between Chief Yamoah Akwesi II, Stool Holder of Ayinasu, and Chief Kwame Pong, Stool Holder of Abrakaso, over the Bepoase lands, both under the Ejisu Stool in Ashanti, Ghana. The dispute originated from conflicting executive decisions: the 1902 Armitage Decision, which awarded Bepoase land to Ayinasu, and the 1915 Fuller Decision, which recognized Abrakaso's ownership and established a partial boundary. Although both decisions were validated under Cap. 120 in 1929, a 1930 amicable settlement brokered by Ejisuhene Boaten established that the land be held in common, with proceeds divided equally among Ejisu, Ayinasu, and Abrakaso. The Native Court of Ejisu and later the Chief Commissioner's Court upheld the Fuller Decision, disregarding the 1930 agreement. However, the West Africa Court of Appeal ruled that the 1930 settlement was binding and could coexist with the boundary determination. It affirmed the boundary demarcation by the Chief Commissioner’s Court while upholding the Asantehene’s Court 'A' finding that the land is held in common and revenues shared per the 1930 agreement. The court ordered accurate mapping of the boundary and equal cost-sharing for the survey.",
+  "legalKeywords": [
+    "land boundary dispute",
+    "stool holder",
+    "overlordship",
+    "native court",
+    "executive decision validation",
+    "amicable settlement",
+    "tribal land",
+    "common ownership",
+    "boundary demarcation",
+    "customary law",
+    "jurisdictional conflict",
+    "validated decision",
+    "revenue sharing",
+    "Ejisu Stool",
+    "Asantehene's Court"
+  ],
+  "topics": [
+    "land dispute",
+    "customary law",
+    "executive decision",
+    "boundary demarcation",
+    "revenue sharing"
+  ],
+  "verdict": "The West Africa Court of Appeal upheld the boundary demarcation from the Chief Commissioner's Court and affirmed the 1930 amicable settlement recognizing common ownership and revenue sharing of Bepoase land among Ayinasu, Abrakaso, and Ejisu Stools.",
+  "winningSide": "Both parties partially won: Ayinasu and Abrakaso retained boundary allocations, but both are bound by the 1930 agreement to share proceeds equally with Ejisu Stool.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "Graham Paul, C.J., Sierra Leone",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "WACA/7",
+    "Cap. 120",
+    "Boundary, Land, Tribute, and Fishery Disputes (Executive Decisions Validation) Ordinance"
+  ],
+  "rationaleHighlights": [
+    "The 1930 amicable settlement could override prior executive decisions because parties were free to enter binding agreements.",
+    "The Armitage (1902) and Fuller (1915) decisions were validated under Cap. 120 but did not preclude subsequent mutual agreements.",
+    "The Asantehene's Court 'A' correctly recognized the 1930 agreement as valid and binding.",
+    "The Chief Commissioner's Court had authority under s.3(3) Cap.120 to demarcate full boundaries.",
+    "Both ownership and revenue-sharing arrangements were upheld: boundaries by Chief Commissioner, proceeds by 1930 agreement.",
+    "Lower courts erred in assuming validated decisions could not be superseded by later consensual settlements."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear references to decisions, parties, and legal provisions.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/CHIEF YAMOAH AKWESI II, v CHIEF KWAME PONG.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:36:17.835Z",
+    "plainTextLength": 14534
+  }
+}

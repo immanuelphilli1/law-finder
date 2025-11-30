@@ -1,0 +1,79 @@
+{
+  "caseTitle": "SOLOMON NTRAKWA v. G.P.R.T.U.",
+  "summary": "This appeal arose from a High Court judgment awarding Solomon Ntrakwa compensation of thirty-one million, five hundred thousand cedis against the G.P.R.T.U. for preventing him from operating a petrol station on his land since 1990, plus 45% annual interest. The Court of Appeal upheld the liability but set aside the interest rate as legally unsound. The court held that while the trial judge correctly relied on witness testimony—including that of a relative (PW1)—the 45% interest award was arbitrary and not supported by evidence or statute. Interest was recalibrated to the prevailing bank rate under LI 1295 (pre-judgment) and 4% under LN 140A (post-judgment). The appellants’ challenge to the underlying judgment (in J.K. Ntrakwa v. G.P.R.T.U.) failed due to res judicata, as it had not been appealed. The claim was not subject to the writing requirement under NRCD 175, as it sought compensation for interference, not transfer of land interest. All grounds of appeal were dismissed except on interest, which was modified.",
+  "legalKeywords": [
+    "interest in land",
+    "res judicata",
+    "appellate review",
+    "evidence of relatives",
+    "award of interest",
+    "LI 1295",
+    "NRCD 175",
+    "simple interest",
+    "judicial notice",
+    "jurisdiction",
+    "compensation",
+    "demeanour of witness",
+    "trial judge findings",
+    "per incuriam",
+    "unjust enrichment"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Interest Awards"
+  ],
+  "verdict": "The appeal was partially allowed: the principal award was upheld, but the interest rate of 45% was set aside and replaced with statutory interest under LI 1295 and LN 140A.",
+  "winningSide": "Respondent (Solomon Ntrakwa)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Brobbey, JA",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Baddoo, JA",
+      "role": "Justice"
+    },
+    {
+      "name": "Afreh, JA",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "SOLOMON NTRAKWA v. G.P.R.T.U. [17/2/00], C.A. No. 83/99",
+    "ADAI v. ANANE [1973] 1 GLR 144",
+    "NKAEGUO v. KUNADU [1974] 2 GLR 150",
+    "TANKO v. KARAMI [1989-90] 2 GLR 189",
+    "DARKWAH v DENTEH [1972] 2 GLR 305",
+    "IN RE YENDI SKIN AFFAIRS: YAKUBU II v. ABUDULAI (No. 2) [1984-86] 2 GLR 239",
+    "LOG & LUMBER LTD v. OPPON [1977] 2 GLR 263",
+    "PRAKA v. KETEWA [1964] GLR 423",
+    "KYIAFI v. WONO [1967] GLR 463"
+  ],
+  "rationaleHighlights": [
+    "The evidence of a related witness (PW1) was accepted due to lack of demonstrated bias and his continued membership in the defendant union, supporting neutrality.",
+    "The trial judge’s factual findings were upheld because appellate courts defer to trial judges' assessment of witness demeanour unless findings are unsupported or erroneous.",
+    "The 45% interest award was set aside as arbitrary and per incuriam; interest must follow statutory frameworks (LI 1295 for pre-judgment, LN 140A for post-judgment).",
+    "The prior judgment in J.K. Ntrakwa v. G.P.R.T.U. was binding under res judicata, as it was not appealed and involved the same parties.",
+    "Section 2 of NRCD 175 does not apply because the claim was for compensation for unlawful interference, not for the transfer of an interest in land.",
+    "Judicial notice was taken of the fact that petrol stations in Ghana are operated on behalf of oil companies, not directly by them.",
+    "An objection to venue was not properly raised in a timely manner and thus could not invalidate the trial court’s jurisdiction.",
+    "The plaintiff established continuity of claim from his father, justifying use of the earlier judgment under his name."
+  ],
+  "confidenceNotes": "The document is a full judgment from the Court of Appeal of Ghana with clear citation and reasoning. All key elements such as parties, court, judges, legal issues, and outcome are explicitly stated. The truncation at the end does not affect the core legal analysis or final determination.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/SOLOMON NTRAKWA v. G.P.R.T.U..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:03:15.978Z",
+    "plainTextLength": 21939
+  },
+  "trialDate": "2000-02-17"
+}

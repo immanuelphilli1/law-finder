@@ -1,0 +1,72 @@
+{
+  "caseTitle": "KARAMA AND WIBIKO",
+  "summary": "This is a consolidated civil land dispute before the West Africa Court of Appeal involving the people of Egdbema Adua (plaintiffs-appellants) and the people of Emilagan and chiefs of Emilwan (plaintiffs-respondents) over title to land known as Adei Egula. The trial judge had refused a declaration of title due to lack of a plan defining boundaries but granted an injunction restricting interference with certain parcels. The appellate court upheld the refusal of the declaration, agreeing that without a plan or clear evidence of partition from former common land, title could not be determined. It further ruled that the injunction was unenforceable due to uncertainty of the area it covered, citing legal principles requiring clarity in injunctive orders. The appeal was allowed in part: the injunction was set aside and a non-suit entered on that claim. Costs in the lower court were to be borne by both sides, while the appellant was awarded costs in the appellate court.",
+  "legalKeywords": [
+    "land title",
+    "injunction",
+    "declaration of title",
+    "non-suit",
+    "boundaries",
+    "common land",
+    "partition",
+    "uncertainty of area",
+    "enforcement of injunction",
+    "trial judge",
+    "consolidated suits",
+    "successors and servants",
+    "heirs",
+    "plan requirement",
+    "evidence of title"
+  ],
+  "topics": [
+    "Land Law",
+    "Injunctions",
+    "Title Disputes",
+    "Procedural Law",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed in part; injunction set aside, non-suit entered, declaration of title refused.",
+  "winningSide": "Defendants-Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Webb",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "Kerr on Injunction, 6th edition, p. 647",
+    "Cather v. Midland Railway Co., 41 English Reports Ch. p. 1025"
+  ],
+  "rationaleHighlights": [
+    "No plan was provided to define boundaries for declaration of title.",
+    "Injunction was set aside due to uncertainty of the area it applied to.",
+    "Land was formerly common land with no evidence of partition.",
+    "Court cited Kerr on Injunction on clarity requirements for injunctions.",
+    "Defendants could not be bound by a vague injunction without defined limits.",
+    "No evidence that plaintiffs acquired title to the land claimed.",
+    "Trial judge correctly refused declaration but erred in granting injunction.",
+    "Both parties to bear their own costs in lower court."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details (parties, court, outcome) are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/KARAMA AND WIBIKO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:02:06.471Z",
+    "plainTextLength": 9498
+  },
+  "trialDate": "1938-11-02"
+}

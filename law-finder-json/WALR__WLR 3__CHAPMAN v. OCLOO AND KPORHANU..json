@@ -1,0 +1,63 @@
+{
+  "caseTitle": "CHAPMAN VERSUS OCLOO",
+  "summary": "In Chapman v. Ocloo and Kporhanu, the plaintiff sued on behalf of his family to recover land, claiming ownership of family property. The defendants challenged the plaintiff's authority to sue in a representative capacity, which the plaintiff failed to establish through evidence. The High Court held that where a plaintiff sues on behalf of a family or stool and authority is contested, the burden lies on the plaintiff to prove such authority. The court emphasized that, absent exceptional circumstances, only the head of the family or someone with express family authorization may litigate on its behalf. The plaintiff’s failure to prove authority, coupled with evidence showing the property was jointly owned and partially alienated, led the court to overturn the Native Court’s judgment in his favor. The appeal was allowed, the judgment set aside, and the claim dismissed in favor of the defendants.",
+  "legalKeywords": [
+    "representative capacity",
+    "family property",
+    "stool property",
+    "burden of proof",
+    "authority to sue",
+    "native law and custom",
+    "head of family",
+    "joint ownership",
+    "land dispute",
+    "evidence",
+    "challenged authority",
+    "customary litigation",
+    "family headship",
+    "customary representation",
+    "property alienation"
+  ],
+  "topics": [
+    "Customary Law",
+    "Land Law",
+    "Litigation Procedure",
+    "Family Property",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Sokpui II and Others v. Tay Agbozo III and Gatsikpo and Others (1951) 13 W.A.C.A. 241",
+    "Keelson v. Mensah (1957) 2 W.A.L.R. 271",
+    "Ofori Atta II and Others v. Boateng (1957) 3 W.A.L.R. 38",
+    "Ofuman Stool v. Nchima and Brnam Stools (1957) 2 W.A.L.R. 229"
+  ],
+  "rationaleHighlights": [
+    "Where authority to sue on behalf of a family is challenged, the burden is on the plaintiff to prove it.",
+    "Proof of family headship typically satisfies the burden of authority.",
+    "The plaintiff’s claim failed due to lack of evidence of authorization.",
+    "Property was jointly owned and partially alienated, undermining the plaintiff’s claim.",
+    "Native Court erred by not addressing the preliminary issue of representational authority.",
+    "Even on merits, the plaintiff’s case failed due to loss of family interest in the land."
+  ],
+  "confidenceNotes": "The decision is clearly reported with direct judicial reasoning and citation of relevant precedents. All key elements—parties, court, judge, holding, and rationale—are explicitly stated in the text.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/CHAPMAN v. OCLOO AND KPORHANU..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:08:38.008Z",
+    "plainTextLength": 6501
+  }
+}

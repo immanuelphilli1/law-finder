@@ -1,0 +1,34 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The document is not a judicial decision but a homepage for 'Ghana Law Finder', an online legal resource providing a self-help guide to Ghanaian law, including case and subject matter indices. It contains no case details, court reasoning, or judgment. The copyright is held by Legal Library Services (2003).",
+  "legalKeywords": [
+    "Ghana Law Finder",
+    "legal library",
+    "self-help guide",
+    "case index",
+    "legal research"
+  ],
+  "topics": [
+    "Legal Research",
+    "Online Legal Resource",
+    "Ghana Law"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "unknown",
+    "country": "Ghana"
+  },
+  "caseType": "unknown",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The provided document does not contain a legal decision, case summary, or judicial content. It appears to be a homepage or portal for a legal resource website (Ghana Law Finder) with no case details.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/90c/TEMP.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:13:08.896Z",
+    "plainTextLength": 295
+  }
+}

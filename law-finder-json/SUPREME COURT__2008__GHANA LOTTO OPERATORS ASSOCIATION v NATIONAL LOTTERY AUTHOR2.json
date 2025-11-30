@@ -1,0 +1,76 @@
+{
+  "caseTitle": "GHANA LOTTO OPERATORS ASSOCIATION v NATIONAL LOTTERY AUTHOR2",
+  "summary": "The Supreme Court of Ghana was asked to determine whether the National Lotto Act, 2006 (Act 722) violated Articles 33(5), 35(1), and 36(2)(b) of the 1992 Constitution. The plaintiffs, private lotto operators, challenged the Act's creation of a state monopoly through the National Lottery Authority, arguing it infringed their economic freedoms and constitutional rights. The Court held that Article 33(5), which recognizes unenumerated fundamental rights, did not support the claim, as the right to operate a private lottery was not inherent in a democratic system. Article 35(1), concerning national sovereignty, was deemed too general to be justiciable. Crucially, the Court ruled that Article 36(2)(b), which directs the state to foster a pronounced role for the private sector, is part of the Directive Principles of State Policy and not enforceable by courts, lacking explicit constitutional justiciability. The reference was dismissed, upholding the constitutionality of Act 722.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "directive principles of state policy",
+    "justiciability",
+    "fundamental human rights",
+    "freedom of economic activity",
+    "private sector role",
+    "lottery regulation",
+    "separation of powers",
+    "sovereignty of the people",
+    "right to work",
+    "public monopoly",
+    "property rights",
+    "judicial review",
+    "Article 130(2) reference",
+    "National Lotto Act 722"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Economic Rights",
+    "Gambling Regulation",
+    "Judicial Review"
+  ],
+  "verdict": "The Supreme Court dismissed the reference, ruling that Act 722 does not violate the cited constitutional provisions.",
+  "winningSide": "National Lottery Authority",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "opinion author"
+    },
+    {
+      "name": "Brobbey",
+      "role": "presiding"
+    },
+    {
+      "name": "Ansa",
+      "role": "panel"
+    },
+    {
+      "name": "Anin-Yeboah",
+      "role": "panel"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "panel"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Ghana Lotto Operators Association v National Lottery Authority [2008] GHSC 3",
+    "New Patriotic Party v Attorney-General [1993-94] 2 GLR 35"
+  ],
+  "rationaleHighlights": [
+    "Article 36(2)(b) of the 1992 Constitution is not justiciable as it forms part of the Directive Principles of State Policy, which are aspirational and not enforceable by courts.",
+    "Article 33(5) does not independently create enforceable rights; it only recognizes unenumerated rights inherent in a democracy, but no such right to operate lotteries was established.",
+    "Article 35(1) is a general sovereignty clause and not a justiciable provision; it does not confer individual rights enforceable in court.",
+    "The court emphasized that while Directive Principles guide governance, they cannot be enforced judicially without explicit constitutional provision."
+  ],
+  "confidenceNotes": "The case is unreported but sourced from a credible compilation of Supreme Court decisions. Key constitutional provisions and judicial reasoning are clearly articulated.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2008/GHANA LOTTO OPERATORS ASSOCIATION v NATIONAL LOTTERY AUTHOR2.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:15:19.334Z",
+    "plainTextLength": 51515
+  },
+  "trialDate": "2008-07-23"
+}

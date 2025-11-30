@@ -1,0 +1,35 @@
+{
+  "caseTitle": "OTHERS v ALHAJI ALl",
+  "summary": "The document is not a legal judgment but a case index listing decisions from the West African Court of Appeal (WACA) involving parties from Ghana and potentially other West African jurisdictions. It includes case titles such as 'Commissioner of Police v Armaah Quarshie' and 'Rex v Ebenezer Tawiah', indicating both criminal and civil matters. However, no substantive details about any case, including facts, legal reasoning, or outcomes, are provided in this file.",
+  "legalKeywords": [
+    "WACA",
+    "case index",
+    "Ghana legal database",
+    "table of cases",
+    "judicial records"
+  ],
+  "topics": [
+    "Legal Index",
+    "Case List",
+    "West African Court of Appeal",
+    "Ghana Legal System"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "unknown",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The provided document does not contain a full legal decision or judgment. It appears to be a table of cases from the West African Court of Appeal (WACA) with no detailed facts, reasoning, or verdicts. As such, the information extracted is limited to case titles and structural metadata.",
+  "metadata": {
+    "sourcePath": "WACA/waca 5.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T09:53:26.856Z",
+    "plainTextLength": 2450
+  }
+}

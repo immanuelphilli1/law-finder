@@ -1,0 +1,89 @@
+{
+  "caseTitle": "UNITED AFRA CO.,LTD v JAMES EGGAY TAYLOR",
+  "summary": "The West Africa Court of Appeal allowed an appeal concerning ownership of land in Kumasi, Ghana, previously leased under an agreement dated 25 November 1927 between the Government of Ashanti and Chief Kwadjo Apaw, Omanhene of Agona. The respondent claimed the land as stool property, but the court held that the lease was taken by Apaw in his individual capacity, not on behalf of the Agona Stool, because neither the elders nor the linguist joined in the agreement, as required by Ashanti native law and custom. The court emphasized that Apaw, being illiterate and unable to understand English, could not be presumed to have understood the document, but he did not claim mistake, and it was clear he intended to bind himself personally. The agreement, being in English form, was governed by English law. A subsequent indenture from May 1928 involving construction of a stool house, though consented to by elders, did not alter the original lease's character. The court concluded that Apaw was the sole lessee, and thus his interest could be lawfully seized in execution. The lower court’s judgment was set aside, the claim dismissed, and costs awarded to appellants.",
+  "legalKeywords": [
+    "interpleader",
+    "lease",
+    "Ashanti native law",
+    "stool property",
+    "illiterate signatory",
+    "onus of proof",
+    "English law application",
+    "Quicquid plantatur solo, solo cedit",
+    "chief as individual",
+    "elders' consent",
+    "linguist",
+    "renewal of lease",
+    "native custom",
+    "contract binding",
+    "land tenure",
+    "executed agreement",
+    "consent in writing",
+    "building covenant",
+    "property seizure",
+    "succession",
+    "deed assignment",
+    "jurisdictional law",
+    "mistake in contract",
+    "freehold annexation",
+    "executors and assigns",
+    "renewal terms",
+    "rental payment",
+    "demolition obligation",
+    "construction timeline",
+    "public health board approval"
+  ],
+  "topics": [
+    "Land Law",
+    "Native Custom and Tradition",
+    "Contract Law",
+    "Appellate Review",
+    "Property Rights"
+  ],
+  "verdict": "Appeal allowed; judgment of lower court set aside; claim dismissed.",
+  "winningSide": "Appellants (United Africa Company Ltd)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "Webber, C.J., Sierra Leone",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Antu v. Buadu, F.C. 1929 at p. 477",
+    "Kwamin v. Kobina Kufuor, P.C. 1874-1928, p. 28",
+    "Atta Kwamin v. Kobina Kufztor",
+    "Fawcett v. Odamtten (1929), P.C. 26-29, 339",
+    "Quarshie v. Plange (1927), F.C. 26-29, 246"
+  ],
+  "rationaleHighlights": [
+    "Lease was taken by chief as an individual, not on behalf of the stool.",
+    "Stool not bound unless elders or linguist joined in the lease.",
+    "No evidence that Ashanti custom prohibits a chief from holding personal property.",
+    "Illiterate signatory must have understanding proven; burden on appellants.",
+    "Agreement in English form governed by English law.",
+    "Building constructed under indenture became part of freehold via annexation principle.",
+    "Chief's personal rights were validly seized in execution."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct judicial reasoning and cited authorities. No conflicting evidence noted.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/UNITED AFRA CO.,LTD v JAMES EGGAY TAYLOR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:09:40.828Z",
+    "plainTextLength": 10632
+  },
+  "trialDate": "1936-12-16"
+}

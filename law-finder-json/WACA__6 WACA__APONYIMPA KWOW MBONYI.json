@@ -1,0 +1,75 @@
+{
+  "caseTitle": "APONYIMPA KWOW MBONYI",
+  "summary": "This 1940 West Africa Court of Appeal decision in Accra, Ghana, involved an appeal by headmen and representatives of Winneba fishermen seeking to prevent the execution of a writ of Fi. Fa. on community canoes. The plaintiffs argued they were not judgment debtors in the underlying suit and thus不应 be subject to seizure. The lower court had refused an interim injunction, ruling that interpleader proceedings after seizure were the only remedy. The appellate court reversed, holding that statutory interpleader rules only apply post-seizure and do not bar pre-emptive applications to restrain unlawful execution. Citing Halsbury’s Laws, the court affirmed the right to seek injunctive relief against imminent, unlawful interference with property rights. The appeal was allowed, the lower court’s decision set aside, and the case remanded for hearing on the injunction application, with costs awarded to the appellants.",
+  "legalKeywords": [
+    "interim injunction",
+    "writ of Fi.Fa.",
+    "execution of judgment",
+    "interpleader proceedings",
+    "threatened invasion of rights",
+    "property seizure",
+    "judgment debtor",
+    "unlawful execution",
+    "Halsbury's Laws",
+    "Supreme Court Rules",
+    "Order 44",
+    "Order 45",
+    "right to apply to court",
+    "pre-seizure injunction",
+    "fishermen's property rights",
+    "canoe ownership",
+    "statutory interpretation",
+    "apprehended injury",
+    "costs award",
+    "West Africa Court of Appeal"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Property Law",
+    "Injunctions",
+    "Execution of Judgments",
+    "Appellate Law"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Plaintiffs-Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Graham Paul, C.J., Sierra Leone",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Order 44, Rules of the Supreme Court",
+    "Order 45, Rules of the Supreme Court",
+    "18 Halsbury, 2nd Edition, p. 28, para 42"
+  ],
+  "rationaleHighlights": [
+    "Interpleader procedures only apply after seizure of property",
+    "Statutory rules do not override the right to seek injunctive relief against unlawful seizure",
+    "A threatened invasion of legal rights warrants interim injunctive relief",
+    "Order 45 does not bar pre-emptive applications to prevent unlawful execution",
+    "Delay in claiming property post-seizure may bar interpleader relief"
+  ],
+  "confidenceNotes": "High confidence; information extracted directly from primary judgment text with clear judicial reasoning and procedural details.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/APONYIMPA KWOW MBONYI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:10:28.174Z",
+    "plainTextLength": 5653
+  },
+  "trialDate": "1940-05-21"
+}

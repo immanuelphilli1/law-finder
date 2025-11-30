@@ -1,0 +1,67 @@
+{
+  "caseTitle": "CHIEF SUPERINTENDENT OF POLICE VERSUS SAIDY.",
+  "summary": "The appellant, Chief Superintendent of Police, appealed the conviction of Saidy for attempted shop breaking under section 365 of the Criminal Code. The charge did not reference section 284, which defines the full offence of shop breaking, nor did it specify the intended felony. The Supreme Court of the Colony of the Gambia held that the omission of the full offence section was not fatal because section 365 independently creates an offence. While lack of particularity is generally problematic, in summary trials it is not grounds for overturning a conviction if the accused had sufficient notice of the charge. Relying on R. v. Ipbinovia, the court found the appellant had adequate notice and was caught in flagrante delicto. No miscarriage of justice occurred, per section 312 of the Criminal Procedure Code. The appeal against conviction and sentence was dismissed.",
+  "legalKeywords": [
+    "attempted shop breaking",
+    "criminal charge particularity",
+    "summary trial",
+    "section 365 Criminal Code",
+    "section 284 Criminal Code",
+    "intent to commit felony",
+    "flagrante delicto",
+    "miscarriage of justice",
+    "Criminal Procedure Code s. 312",
+    "R. v. Ipbinovia",
+    "charge irregularity",
+    "attempted felony",
+    "sufficient notice to accused",
+    "conviction validity",
+    "summary conviction"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Legal Procedure",
+    "Appeal",
+    "Attempted Offence",
+    "Charge Particularity"
+  ],
+  "verdict": "Conviction and sentence upheld; appeal dismissed.",
+  "winningSide": "State (prosecution)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Miles J.",
+      "role": "deciding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Colony of the Gambia",
+    "country": "Gambia"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Ipbinovia (1936) 3 W.A.C.A. 79",
+    "Criminal Code, c. 21, s. 365",
+    "Criminal Code, c. 21, s. 284",
+    "Criminal Procedure Code, c. 23, s. 119",
+    "Criminal Procedure Code, c. 23, s. 312",
+    "R. v. Harvey, 11 Cox 662"
+  ],
+  "rationaleHighlights": [
+    "Section 365 creates a standalone offence; thus, failure to cite section 284 is not fatal.",
+    "Lack of particularity in a summary trial is not automatically fatal if the accused has reasonable notice of the charge.",
+    "Precedent from R. v. Ipbinovia supports upholding convictions in summary trials despite technical defects in the charge.",
+    "No miscarriage of justice occurred, as the appellant was caught in flagrante delicto and clearly understood the charge.",
+    "Section 312 of the Criminal Procedure Code allows dismissal of appeals where irregularities do not cause a failure of justice.",
+    "It is desirable—but not mandatory—to specify the full offence section when charging an attempt.",
+    "The particulars should ideally include intent to commit a felony and its nature, but omission does not void conviction in summary cases.",
+    "The sentence of four months was not excessive given the circumstances."
+  ],
+  "confidenceNotes": "High confidence based on direct judicial reasoning and clear citation of legal provisions and precedent.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/CHIEF SUPERINTENDENT OF POLICE v. SAIDY..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:37:42.687Z",
+    "plainTextLength": 5834
+  }
+}

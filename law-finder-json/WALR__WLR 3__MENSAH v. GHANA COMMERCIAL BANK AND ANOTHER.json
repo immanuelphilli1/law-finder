@@ -1,0 +1,60 @@
+{
+  "caseTitle": "MENSAH VERSUS GHANA COMMERCIAL BANK",
+  "summary": "In this 1957 Ghanaian land dispute, the plaintiff, Patience Adukwei Acquaye, succeeded as head of the Effy Affuah family branch and claimed title to land in Accra allegedly self-acquired by her grandmother. The defendants, sons of Victor Crabbe (Effy Affuah’s son), claimed ownership based on their father’s alleged acquisition. The court held that under Accra Ga custom, self-acquired property of a woman passes to her children and then to her matrilineal family upon their deaths. Since the defendants were not children of a Ga six-cloth marriage, they had no rights to their father’s self-acquired property, which also devolved to the matrilineal family. The court affirmed the plaintiff’s status as rightful head and declared the property family property under her control, awarding her the declaration and injunction sought.",
+  "legalKeywords": [
+    "intestacy",
+    "matrilineal succession",
+    "family property",
+    "self-acquired property",
+    "Ga customary law",
+    "head of family",
+    "customary appointment",
+    "succession rights",
+    "land title",
+    "native custom",
+    "ejectment",
+    "declaration of title",
+    "customary jurisdiction"
+  ],
+  "topics": [
+    "Customary Law",
+    "Land Law",
+    "Succession",
+    "Family Law",
+    "Matrilineal Descent"
+  ],
+  "verdict": "For the plaintiff",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Land Dispute / Succession",
+  "citations": [
+    "Nelson v. Ocansey and Others (1950)",
+    "Vanderpuye and Others v. Botchway (1951) 13 W.A.C.A. 164",
+    "Amarfio and Another v. Ayorkor (1954) 14 W.A.C.A. 554"
+  ],
+  "rationaleHighlights": [
+    "Under Accra Ga custom, a woman's self-acquired property passes to her children and then to her matrilineal family upon their deaths.",
+    "Men's self-acquired property under Accra Ga custom becomes family property upon intestacy, with only children from a six-cloth marriage having limited rights.",
+    "The plaintiff was duly appointed head of the Effy Affuah family branch and thus had standing to sue.",
+    "Defendants, not being from a six-cloth marriage, had no customary interest in their father's property.",
+    "Even if the land were the father's self-acquired property, it would have devolved to the matrilineal family, not the defendants.",
+    "The defendants’ disrespectful conduct toward the family head reinforced the need for judicial intervention."
+  ],
+  "confidenceNotes": "High confidence; decision is well-reasoned with clear application of customary law and cited precedents. Minor truncation in source text does not affect core holdings.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/MENSAH v. GHANA COMMERCIAL BANK AND ANOTHER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:01:02.962Z",
+    "plainTextLength": 16468
+  }
+}

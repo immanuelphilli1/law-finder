@@ -1,0 +1,61 @@
+{
+  "caseTitle": "ASHONG-METTLE VERSUS ASHONG-METTLE",
+  "summary": "In Ashong-Mettle v. Ashong-Mettle, the petitioner sought a divorce on the grounds of the respondent's adultery with Matilda Agriba Hagan. The respondent admitted the adultery but claimed it was condoned through customary arbitration on May 17, 1955, which included conditions that he end the relationship, repay borrowed money, and cover the petitioner's medical expenses. The court found that the respondent failed to fulfill these conditions, particularly by continuing his association with the co-respondent, as evidenced by a photograph taken months after the arbitration. The judge held that condonation was conditional and not achieved due to non-compliance. Furthermore, even if condonation had occurred, the respondent's ongoing conduct constituted hardship and neglect sufficient to revive the grounds for divorce under the precedent of Richardson v. Richardson. The petitioner was deemed a credible witness, while the respondent was found evasive and untruthful. Consequently, a decree nisi was granted in favor of the petitioner.",
+  "legalKeywords": [
+    "divorce",
+    "adultery",
+    "condonation",
+    "customary arbitration",
+    "revival of adultery",
+    "cohabitation",
+    "marital dispute",
+    "petition for divorce",
+    "witness credibility",
+    "arbitration award",
+    "legal cruelty",
+    "resumption of cohabitation",
+    "evidence",
+    "decree nisi",
+    "marital relationship"
+  ],
+  "topics": [
+    "Family Law",
+    "Divorce",
+    "Adultery",
+    "Condonation",
+    "Customary Law"
+  ],
+  "verdict": "Decree nisi granted in favor of the petitioner.",
+  "winningSide": "Petitioner",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dennison J.",
+      "role": "presiding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Eastern Judicial Division, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "divorce",
+  "citations": [
+    "Richardson v. Richardson [1950] P. 16",
+    "[1949] 2 All E.R. 330",
+    "65 T.L.R. 613"
+  ],
+  "rationaleHighlights": [
+    "Condonation of adultery was conditional on the respondent fulfilling the arbitration award terms, which he did not.",
+    "Respondent's continued association with the co-respondent after arbitration undermined claim of condonation.",
+    "Photographic evidence contradicted respondent's testimony, affecting credibility.",
+    "Even if condonation occurred, respondent's subsequent conduct revived the adultery under principles from Richardson v. Richardson.",
+    "Petitioner was found more credible: truthful, consistent, and cooperative in testimony."
+  ],
+  "confidenceNotes": "High confidence; facts are clearly stated with direct judicial reasoning and witness credibility assessment.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/ASHONG-METTLE v. ASHONG-METTLE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:41:07.753Z",
+    "plainTextLength": 19337
+  }
+}

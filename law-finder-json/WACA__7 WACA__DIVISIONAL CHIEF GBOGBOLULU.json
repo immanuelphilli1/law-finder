@@ -1,0 +1,68 @@
+{
+  "caseTitle": "DIVISIONAL CHIEF GBOGBOLULU",
+  "summary": "This appeal before the West African Court of Appeal arose from a land dispute between two traditional stools in the Gold Coast (now Ghana). The Divisional Chief of Vakpo, suing in representative capacity for his stool, obtained judgment in the Magistrate's Court against the Head Chief of Anfoega, also representing his stool. The Deputy Commissioner overturned the decision on the technical ground that the writ did not explicitly state the representative capacities of the parties. The appellate court held that courts must prioritize substantial justice over procedural technicalities, particularly where parties are unrepresented. It ruled that the representative nature of the suit was evident from the proceedings and that the writ could be formally amended to reflect this without prejudice. The court restored the Magistrate's judgment, which upheld the Gruner boundary as the correct demarcation, a position consistent with the defendant's own counterclaim. No valid alternative ground for appeal was presented.",
+  "legalKeywords": [
+    "representative capacity",
+    "substantial justice",
+    "technicality",
+    "amendment of pleadings",
+    "land dispute",
+    "boundary determination",
+    "trespass",
+    "stool land",
+    "appellate review",
+    "procedural fairness",
+    "unrepresented parties",
+    "judicial discretion",
+    "costs order",
+    "Gruner boundary",
+    "customary law"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Customary Law",
+    "Judicial Remedies",
+    "Procedural Justice"
+  ],
+  "verdict": "Appeal allowed; judgment of the Acting Deputy Commissioner set aside; judgment of the Magistrate restored.",
+  "winningSide": "Plaintiff-Respondent-Appellant (Divisional Chief Gbogbolulu representing the Stool of Vakpo)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Strother-Stewart, J.",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "WACA/7 WACA/DIVISIONAL CHIEF GBOGBOLULU"
+  ],
+  "rationaleHighlights": [
+    "Courts must prioritize substantial justice over technicalities, especially when parties are unrepresented.",
+    "Failure to specify representative capacity in writ does not invalidate action if clear from proceedings.",
+    "Court has authority to amend pleadings to reflect true nature of suit if no hardship results.",
+    "Boundary determination based on historical demarcation by Dr. Gruner upheld where both parties initially agreed.",
+    "Defendant estopped from rejecting Gruner boundary after relying on it in counterclaim."
+  ],
+  "confidenceNotes": "High confidence; source is a verbatim court decision from the West African Court of Appeal with clear judicial reasoning and procedural details.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/DIVISIONAL CHIEF GBOGBOLULU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:34:50.707Z",
+    "plainTextLength": 6095
+  },
+  "trialDate": "1941-12-04"
+}

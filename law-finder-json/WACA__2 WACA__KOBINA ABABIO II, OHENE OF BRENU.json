@@ -1,0 +1,71 @@
+{
+  "caseTitle": "KOBINA ABABIO II, OHENE OF BRENU",
+  "summary": "This 1935 West African Court of Appeal decision in Ghana concerned a land trespass dispute between Kobina Ababio II, Ohene of Brenu, and the Catholic Mission and Ohene Tekyi Akyin III representing the Ampenyi Stool. The case centered on ownership and possession of land known as Ebutukul/Abutuku. Previous judgments involving ancestors of the parties were admitted not as res judicata but as evidence of continuous possession by the Brenu Akyinm people. The Appeal Court upheld the Divisional Court's ruling in favor of the plaintiff, finding that prior judicial decisions and acts of possession supported the plaintiff's claim. The appellants' arguments regarding inadmissibility of evidence, rejection of testimony, and weight of evidence were rejected. The appeal was dismissed, affirming damages and an injunction against further trespass.",
+  "legalKeywords": [
+    "trespass to land",
+    "acts of possession",
+    "res judicata",
+    "estoppel",
+    "weight of evidence",
+    "admissibility of evidence",
+    "customary land tenure",
+    "native customary law",
+    "appellate review",
+    "judicial precedent",
+    "land boundaries",
+    "stool land",
+    "traditional evidence",
+    "injunction",
+    "damages"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Evidence Law"
+  ],
+  "verdict": "Appeal dismissed; judgment for plaintiff-respondent upheld with damages of £25 and permanent injunction granted against defendants.",
+  "winningSide": "Plaintiff-Respondent (Kobina Ababio II, Ohene of Brenu)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Bannerman, J.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Concurring Judge"
+    },
+    {
+      "name": "Webber, C.J., Sierra Leone",
+      "role": "Concurring Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Kobina Ababio II v. Priest-in-Charge, Catholic Mission, Ampenyi (1935), WACA",
+    "Martin Nortei Codjoe v. Emmanuel Kwatchey and Others (Sierra Leone)",
+    "Chief Ntiaro & Others v. Ibok Etok Akpam & Others, Nigeria Law Reports Vol. 3 p. 9"
+  ],
+  "rationaleHighlights": [
+    "Prior judgments were admissible to show acts of possession, not to establish res judicata.",
+    "The trial judge properly evaluated traditional evidence and credibility of witnesses.",
+    "Exhibit 'Q' was improperly admitted due to lack of certification, but other evidence sufficiently supported the judgment.",
+    "Exhibit 'V' (oath case proceedings) was relevant and properly admitted.",
+    "Appellate court will not overturn findings unless they are perverse or based on improper exercise of discretion.",
+    "Continuous possession by Brenu Akyinm people over decades supported their claim.",
+    "Distance and context showed Kwamin Conua's statement unrelated to disputed land.",
+    "Unsigned and unverified statements were rightly disregarded for lack of credibility."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on primary court document with full judgment text, names of parties, judges, dates, and specific exhibits referenced. Jurisdiction and procedural posture clearly defined within colonial West African appellate system.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/KOBINA ABABIO II, OHENE OF BRENU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:25:36.199Z",
+    "plainTextLength": 10830
+  },
+  "trialDate": "1935-12-21"
+}

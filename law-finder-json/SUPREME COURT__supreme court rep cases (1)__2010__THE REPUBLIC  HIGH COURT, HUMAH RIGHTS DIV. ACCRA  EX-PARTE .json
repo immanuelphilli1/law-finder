@@ -1,0 +1,78 @@
+{
+  "caseTitle": "THE REPUBLIC HIGH COURT, HUMAH RIGHTS DIV. ACCRA EX-PARTE",
+  "summary": "This Supreme Court of Ghana ruling addressed an application for certiorari to quash a High Court decision allowing the government to take possession of the Mancell Vocational Institute. The applicant, Josephine Akita, administratrix of her deceased mother's estate (one of five beneficiaries of the Institute), challenged the sale, claiming lack of consent. After appealing the dismissal of her injunction and main claim, she sought to restrain enforcement pending appeal. The High Court proceeded to grant possession to the government despite service of Form 6, which signifies transmission of the appeal record. The Supreme Court held that service of Form 6 automatically transferred jurisdiction to the Court of Appeal, rendering the High Court's subsequent actions null. However, the application failed because the applicant had not appealed the specific order granting possession; her grounds only challenged the dismissal of the injunction and the main claim. The Court emphasized strict compliance with procedural rules requiring specificity in appeals. While acknowledging the jurisdictional error, the Court found no breach of audi alteram partem as the applicant boycotted the hearing. It also considered substantial justice, noting the significant public funds involved and the potential for monetary restitution if the applicant ultimately prevails, thus dismissing the application.",
+  "legalKeywords": [
+    "jurisdiction",
+    "appeal",
+    "audi alteram partem",
+    "interlocutory injunction",
+    "certiorari",
+    "Form 6",
+    "Court of Appeal Rules CI 19",
+    "High Court Civil Procedure Rules CI 47",
+    "probate",
+    "vesting assent",
+    "ex-parte application",
+    "substantial justice",
+    "status quo ante",
+    "beneficial interest",
+    "sale of property",
+    "government acquisition"
+  ],
+  "topics": [
+    "Jurisdiction",
+    "Appeal Procedure",
+    "Natural Justice",
+    "Property Rights",
+    "Government Acquisition"
+  ],
+  "verdict": "The application for certiorari was dismissed.",
+  "winningSide": "Respondent (High Court, Humah Rights Div. Accra) and Interested Parties (Government and other children of Rosamund Mancell)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Brobbey, JSC",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ansa, JSC"
+    },
+    {
+      "name": "Dotse, JSC"
+    },
+    {
+      "name": "Anin Yeboah, JSC"
+    },
+    {
+      "name": "Baffoe-Bonnie, JSC"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil",
+  "citations": [
+    "Republic v High Court, Ho: Ex parte Evangelical Presbyterian Church of Ghana [1991] 1GLR 323",
+    "Shardey v Adametey & Shardey v Martey and anor. (Consolidated) [1972] 2 GLR 380",
+    "Hanna Assi (No 2) v Gihoc Refrigeration and Household Products Ltd (No 2) [2007-2008] SCGLR 16"
+  ],
+  "rationaleHighlights": [
+    "Service of Form 6 transfers jurisdiction to the Court of Appeal, divesting the High Court of authority.",
+    "Failure to appeal a specific order bars challenging it later, even via ancillary motions.",
+    "Non-service of an affidavit does not breach audi alteram partem if it was not relied upon in the decision.",
+    "Appellant cannot invoke natural justice after voluntarily boycotting proceedings based on a jurisdictional objection.",
+    "Specificity in grounds of appeal is mandatory under CI 19 r 8(2) and CI 47 Order 51 r 1(4).",
+    "Substantial justice considerations must align with the record and practical consequences.",
+    "Monetary remedies can mitigate harm from premature possession, especially involving public funds.",
+    "Litigation delay should not unjustly deprive the public of benefits from completed transactions."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on explicit judicial reasoning and cited authorities.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2010/THE REPUBLIC  HIGH COURT, HUMAH RIGHTS DIV. ACCRA  EX-PARTE .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:39:56.621Z",
+    "plainTextLength": 75798
+  },
+  "trialDate": "2010-02-17"
+}

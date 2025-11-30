@@ -1,0 +1,59 @@
+{
+  "caseTitle": "MANSOUR VERSUS SUKUMAL.",
+  "summary": "In Mansour v. Sukumal, the High Court of the Western Judicial Division in Ghana considered whether a new lease existed after the expiration of an initial seven-year lease. Although the parties had executed a written lease with a proposed rent, they subsequently agreed to refer the rent determination to the Rent Assessment Committee and abide by its decision. The Committee initially set the rent at �1,207 10s. per annum, but this was later reduced to �600 per annum by the District Magistrate. The landlord sought possession under section 11(1)(e)(i) of the Rent Control Ordinance, claiming the tenants were statutory tenants. The court held that a complete agreement existed due to the method of rent determination, constituting a valid lease. Thus, the tenants were not statutory tenants, and the landlord could not rely on the Ordinance to recover possession. Judgment was entered for the defendants.",
+  "legalKeywords": [
+    "lease agreement",
+    "rent determination",
+    "statutory tenant",
+    "Rent Control Ordinance",
+    "novation",
+    "Rent Assessment Committee",
+    "notice to quit",
+    "possession of premises",
+    "section 11(1)(e)(i)",
+    "section 16(1)",
+    "completed agreement",
+    "id certum est quod certum reddi potest"
+  ],
+  "topics": [
+    "Landlord and Tenant Law",
+    "Contract Formation",
+    "Rent Control",
+    "Judicial Review",
+    "Property Law"
+  ],
+  "verdict": "dismissed",
+  "winningSide": "defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Acolatse J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Western Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil - Landlord and Tenant",
+  "citations": [
+    "Rent Control Ordinance, c. 2 of 1952, s. 11(1)(e)(i)",
+    "Rent Control Ordinance, c. 2 of 1952, s. 16(1)"
+  ],
+  "rationaleHighlights": [
+    "Agreement on method of rent determination constitutes complete agreement (id certum est quod certum reddi potest)",
+    "Execution of lease document and submission to Rent Assessment Committee evidenced mutual intent",
+    "Payment of rent based on Committee's assessment confirmed tenancy under new terms",
+    "Novation of original lease established new contractual relationship",
+    "Defendants not statutory tenants under s.16(1) due to existence of lease",
+    "Plaintiff failed to prove defendants were statutory tenants",
+    "Landlord not entitled to possession under s.11(1)(e)(i) without statutory tenancy"
+  ],
+  "confidenceNotes": "The decision is clearly articulated with reference to statutory provisions and legal principles. The reasoning is consistent with contract and property law doctrines, particularly regarding novation and completeness of agreement. High confidence in accuracy.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/MANSOUR v. SUKUMAL..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:01:19.315Z",
+    "plainTextLength": 5812
+  }
+}

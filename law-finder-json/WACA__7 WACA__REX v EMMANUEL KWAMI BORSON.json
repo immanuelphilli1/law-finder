@@ -1,0 +1,73 @@
+{
+  "caseTitle": "REX v EMMANUEL KWAMI BORSON",
+  "summary": "In Rex v Emmanuel Kwami Borson, the West Africa Court of Appeal allowed an appeal against a conviction for perjury under section 359 of the Criminal Code. The appellant had made a sworn statement before a public officer, declaring he acquired land through ancestral allocation and built a structure without family assistance—statements alleged to be false. However, the court held that the oath was a 'voluntary oath' administered outside any judicial inquiry or official proceeding, which is expressly prohibited under section 13 of the Imperial Statutory Declarations Act 1835 as applied in the Gold Coast. Since the administration and taking of the oath were unlawful, the oath was deemed legally invalid. Consequently, the foundation for the perjury charge was destroyed. The court allowed the appeal, quashed the conviction and sentence, and entered a verdict of acquittal. The Crown, through the Acting Solicitor-General, did not oppose the appeal on this point of law.",
+  "legalKeywords": [
+    "perjury",
+    "voluntary oath",
+    "unlawful administration of oath",
+    "Statutory Declarations Act 1835",
+    "Criminal Code section 359",
+    "judicial inquiry",
+    "public officer",
+    "acquittal",
+    "jurisdiction",
+    "oath invalidity",
+    "customary land allocation",
+    "false statement under oath",
+    "common law perjury",
+    "imperial legislation application",
+    "Gold Coast legal system"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Perjury",
+    "Oaths and Affirmations",
+    "Appellate Review",
+    "Legal Procedure"
+  ],
+  "verdict": "Appeal allowed; conviction and sentence quashed; judgment of acquittal entered.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Strother-Stewart",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Emmanuel Kwami Borson, WACA/7, 2nd December 1941",
+    "Statutory Declarations Act 1835, s 13",
+    "Criminal Code, s 359",
+    "Criminal Code, s 386"
+  ],
+  "rationaleHighlights": [
+    "The oath was administered voluntarily, not in connection with a judicial inquiry or prosecution.",
+    "Section 13 of the Statutory Declarations Act 1835 prohibits voluntary oaths by public officers.",
+    "Administration of such an oath is unlawful, rendering the oath legally invalid.",
+    "Without a valid oath, the statement cannot support a perjury charge.",
+    "The conviction was therefore unsustainable in law.",
+    "The prosecution did not contest the appeal.",
+    "Acquittal was entered as a matter of law.",
+    "The case illustrates the strict requirement for lawful administration of oaths in perjury cases."
+  ],
+  "confidenceNotes": "High confidence; all details are explicitly stated in the judgment text.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/REX v EMMANUEL KWAMI BORSON.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:27:26.014Z",
+    "plainTextLength": 5424
+  }
+}

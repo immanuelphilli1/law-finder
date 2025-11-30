@@ -1,0 +1,95 @@
+{
+  "caseTitle": "YAW AGYEI AGNES KORANKYE, RITA GYAMFUWAA, FRED ANSONG DWAMENA VRS MIKE SIMILAO CIVIL APPEAL,",
+  "summary": "This Supreme Court of Ghana decision arose from an appeal against the dismissal of an interlocutory injunction application by the High Court, which was upheld by the Court of Appeal. The appellants argued that the High Court lacked jurisdiction to hear the motion because it was not listed on the cause list for November 1, 2007. The Supreme Court held that the absence of a case from the cause list does not nullify proceedings where parties had prior notice of the hearing date and were present in court. It emphasized that a cause list serves as informational notice, not a jurisdictional prerequisite. The Court found that compliance with Order 25 of the High Court Civil Procedure Rules—filing of statements of case and affidavits—enabled the court to decide the matter on the papers. It affirmed that judicial discretion governs the hearing of motions and appellate courts should not interfere absent demonstrable error. The appeal was dismissed, affirming the lower courts' decisions.",
+  "legalKeywords": [
+    "interlocutory injunction",
+    "jurisdiction",
+    "cause list",
+    "natural justice",
+    "discretion of court",
+    "High Court Civil Procedure Rules",
+    "Order 25",
+    "Order 79",
+    "motion hearing",
+    "appellate review",
+    "non-judicial act",
+    "statement of case",
+    "affidavit",
+    "procedural compliance",
+    "judicial discretion"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Injunctions",
+    "Jurisdiction",
+    "Appellate Law",
+    "Judicial Discretion"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ansa JSC",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Atuguba JSC",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Dr. Date-Bah JSC",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Bonnie JSC",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Akoto-Bamfo JSC",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Dzakpasu J",
+      "role": "Trial judge"
+    },
+    {
+      "name": "Ofori-Attah J",
+      "role": "Vacation judge"
+    },
+    {
+      "name": "Gyaesayor JA",
+      "role": "Delivered Court of Appeal judgment"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Order 79 rule 2(b) of the High Court Civil Procedure Rules, 1993, CI 47",
+    "Order 25 rule 1",
+    "Shardey v Adamtey and Shardey v Adamtey and another (Consolidated) [1972] 2 GLR 380, CA",
+    "Crentsil v Crentsil [1962] 2 GLR 171 at 175, SC",
+    "Ballmoos v Mensah [1984-86] 1 GLR 724, CA",
+    "Blunt v Blunt [1943] AC 517"
+  ],
+  "rationaleHighlights": [
+    "The absence of a case from the cause list does not void proceedings if parties had prior notice and were present.",
+    "Courts have discretion to hear motions not listed if parties are present and papers are filed.",
+    "Compliance with Order 25 rules allowed the court to decide the injunction application on the papers.",
+    "A cause list is informative, not a sine qua non for jurisdiction.",
+    "Appellate courts will not interfere with discretionary decisions absent misapplication of law or facts.",
+    "Presence of parties constitutes implied acceptance of the hearing forum and date.",
+    "Failure to appear due to unlisted cause may amount to indolence if prior notice exists.",
+    "Publication in Gazette or cause list is mandatory for registrars but not jurisdictional for courts."
+  ],
+  "confidenceNotes": "All information is derived directly from the provided judgment text. The case details, legal reasoning, and citations are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/YAW AGYEI   AGNES KORANKYE, RITA GYAMFUWAA, FRED ANSONG DWAMENA VRS   MIKE SIMILAO   CIVIL APPEAL,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:54:44.677Z",
+    "plainTextLength": 16334
+  }
+}

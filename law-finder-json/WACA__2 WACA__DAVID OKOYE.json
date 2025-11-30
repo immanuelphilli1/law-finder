@@ -1,0 +1,71 @@
+{
+  "caseTitle": "DAVID OKOYE",
+  "summary": "This case involved a boundary dispute between the Ogidi and Obunike peoples in colonial Ghana, where the plaintiff sought a declaration that the old Awka-Onitsha road was the true boundary. The trial judge ruled in favor of the Ogidi people, finding that a District Officer had mistakenly marked the boundary along the new Awka road, contrary to the 1914 Native Court judgment which referenced the old road. The West Africa Court of Appeal upheld the decision, emphasizing credible and reliable evidence from witnesses including Archdeacon Basden, the Eze Ani of Ozeh, Benjamin Amobi, and Obianyu—the presiding chief of the 1914 court. The court found no basis to overturn the trial judge’s assessment of witness credibility or the weight of evidence, dismissing the appeal with costs. The judgment clarified that the prolonged conflict resulted from administrative error, not legal ambiguity.",
+  "legalKeywords": [
+    "boundary dispute",
+    "res judicata",
+    "weight of evidence",
+    "native court judgment",
+    "estoppel",
+    "declaratory relief",
+    "witness credibility",
+    "district officer error",
+    "tribal land rights",
+    "intrinsic evidence",
+    "locus in quo",
+    "appellate review",
+    "criminal trespass vs civil trespass",
+    "subpoenaed witness",
+    "geographical evidence"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Evidence",
+    "Native Courts",
+    "Boundary Disputes"
+  ],
+  "verdict": "Appeal dismissed; trial court's declaration that the old Awka road is the boundary upheld.",
+  "winningSide": "Plaintiffs (Ogidi people)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Deane",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler-Lloyd",
+      "role": "Acting Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WACA/2 WACA/DAVID OKOYE"
+  ],
+  "rationaleHighlights": [
+    "The trial judge's finding was supported by intrinsic evidence and a visit to the locus in quo.",
+    "Archdeacon Basden's expert geographical testimony strongly supported the old Awka road as the true boundary.",
+    "The Eze Ani of Ozeh, an independent chief, confirmed lifelong knowledge of the old road as the boundary.",
+    "Benjamin Amobi’s judicial role did not undermine his credibility due to context of prior rulings.",
+    "Obianyu, president of the 1914 Native Court, testified that the District Officer misapplied the court's judgment.",
+    "The Full Court correctly held the matter was not res judicata due to ambiguity and lack of identity of parties/subject matter.",
+    "The appeal failed because the judgment was not against the weight of evidence.",
+    "The litigation stemmed from a District Officer's erroneous demarcation on the new road instead of the old."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and multiple corroborating witness accounts.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/DAVID OKOYE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:31:55.969Z",
+    "plainTextLength": 13228
+  },
+  "trialDate": "1934-11-19"
+}

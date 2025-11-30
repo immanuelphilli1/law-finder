@@ -1,0 +1,79 @@
+{
+  "caseTitle": "KWASHIE GBO v KWABENA ANTIE & 1OR.",
+  "summary": "This Supreme Court of Ghana decision from April 12, 2006, resolved a long-standing property dispute between Kwashie Gbo (Respondent) and Kwabena Antie & Others (Appellants) over House No. 270/9, Accra New Town. The core issue was whether the transaction involving the property was a pledge or an outright sale. The Respondent, the original owner, had lost the property through a public auction but later repaid the auction purchaser, Odartey Lamptey, with financial help from the Appellants, who then collected rent. The Appellants claimed an outright sale, relying partly on Exhibit R2, a 1969 document that was rejected by lower courts for improper stamping. The Supreme Court overturned this, finding that R2 did bear an impressed stamp and was correctly classified as a conveyance under NRCD 175, not a receipt under Act 311, thus making it admissible. The Court emphasized statutory interpretation principles, including reading instruments as a whole and using headings as interpretative aids. It held that the transaction constituted a pledge, not a sale, affirming the Respondent's right to reclaim possession and seek an account of rents. The appeal was dismissed, upholding the lower courts' verdict in favor of the Respondent.",
+  "legalKeywords": [
+    "stamp duty",
+    "conveyance",
+    "receipt",
+    "instrument classification",
+    "statutory interpretation",
+    "impressed stamp",
+    "adhesive stamp",
+    "property transfer",
+    "pledge vs sale",
+    "jurat",
+    "land transaction",
+    "improvements to property",
+    "rent accounting",
+    "evidence admissibility",
+    "Court of Appeal error"
+  ],
+  "topics": [
+    "Property Law",
+    "Statutory Interpretation",
+    "Evidence Law",
+    "Stamp Duty",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed; decision of the Court of Appeal upheld in favor of the Respondent.",
+  "winningSide": "Plaintiff/Respondent (Kwashie Gbo)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Wood (Mrs). J.S.C.",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "Acquah, C.J.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Dr. Twum, J.S.C."
+    },
+    {
+      "name": "Ansa, J.S.C."
+    },
+    {
+      "name": "Aninawah, J.S.C."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Act 311",
+    "NRCD 175",
+    "S. 46 of Act 311",
+    "S. 47 of Act 311",
+    "S. 32 of Act 311",
+    "S. 16 of Act 311",
+    "S. 4 of Interpretation Act, 1960 (Act 4)"
+  ],
+  "rationaleHighlights": [
+    "The court emphasized that Exhibit R2 was wrongly rejected by lower courts as it bore an impressed stamp and complied with stamping requirements under Act 311.",
+    "The document was classified as a conveyance, not a receipt, based on its substance and purpose, thus requiring impressed stamping under NRCD 175.",
+    "The Supreme Court stressed that statutory headings, though not part of the law, serve as interpretative aids, especially when consistent with the provisions.",
+    "The Court found that the Court of Appeal erred in overturning a factual finding (presence of a stamp) not clearly erroneous, violating principles of appellate review.",
+    "The transaction was ultimately determined to be a pledge, not an outright sale, preserving the original owner's equitable interest."
+  ],
+  "confidenceNotes": "The judgment is well-reasoned and directly addresses statutory interpretation; citations are clear and contextually accurate.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2006A/KWASHIE GBO v  KWABENA ANTIE & 1OR..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:24:19.224Z",
+    "plainTextLength": 33548
+  },
+  "trialDate": "2005-10-04"
+}

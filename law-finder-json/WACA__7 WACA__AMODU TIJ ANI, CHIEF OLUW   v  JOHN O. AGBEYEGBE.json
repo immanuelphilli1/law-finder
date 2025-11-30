@@ -1,0 +1,61 @@
+{
+  "caseTitle": "AMODU TIJ ANI, CHIEF OLUW v JOHN O. AGBEYEGBE",
+  "summary": "This appeal concerns a dispute over priority to the proceeds from the sale of a judgment debtor's property between two judgment creditors. The respondent obtained a consent judgment with a stay of execution conditional on installment payments, which the debtor defaulted on. He then applied for a writ of fi fa on 3rd September 1940. The appellant, who had obtained judgment earlier, applied for a writ of fi fa on 13th August 1940—21 days before the respondent. The West Africa Court of Appeal held that under Rules 24 and 26 of Order 44 of the Supreme Court Rules, priority is determined by the date of receipt of the application for the writ. Since the appellant's application was received first, he was entitled to priority. The court rejected the argument that a consent judgment with a stay of execution grants general preference over other creditors, emphasizing that such a rule would be absurd in the absence of bankruptcy laws. The appeal was allowed, the lower court's decision was set aside, and costs were awarded to the appellant.",
+  "legalKeywords": [
+    "writ of fi fa",
+    "judgment creditor",
+    "priority of claims",
+    "consent judgment",
+    "stay of execution",
+    "rules of supreme court",
+    "order 44 rule 24",
+    "order 44 rule 26",
+    "execution of judgment",
+    "proceeds of sale"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Debt Recovery",
+    "Judgment Enforcement",
+    "Priority of Creditors"
+  ],
+  "verdict": "Appeal allowed. Appellant entitled to priority in distribution of proceeds.",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Ajala v. Akinboro, 11 N.L.R. 130"
+  ],
+  "rationaleHighlights": [
+    "Priority between judgment creditors depends on the date of receipt of application for writ of fi fa.",
+    "Consent judgment with stay of execution does not grant general preference over other creditors.",
+    "No bankruptcy law in Nigeria; priority determined by timing of application.",
+    "Appellant's application was received 21 days before respondent's, entitling appellant to priority."
+  ],
+  "confidenceNotes": "High confidence; facts are clearly stated and legal reasoning is explicit.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/AMODU TIJ ANI, CHIEF OLUW   v  JOHN O. AGBEYEGBE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:37:06.345Z",
+    "plainTextLength": 6201
+  },
+  "trialDate": "1941-05-08"
+}

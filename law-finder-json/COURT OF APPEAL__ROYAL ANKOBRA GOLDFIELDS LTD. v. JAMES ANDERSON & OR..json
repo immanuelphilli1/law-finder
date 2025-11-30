@@ -1,0 +1,71 @@
+{
+  "caseTitle": "ANKOBRA GOLDFIELDS LTD. v. JAMES ANDERSON & OR.",
+  "summary": "The Court of Appeal of Ghana set aside a summary judgment entered by the Circuit Court in favor of Royal Ankobra Goldfields Ltd. against James Anderson and others, ruling that the Circuit Court lacked jurisdiction to hear the case due to the claim's value exceeding its statutory limit of GHS 10,000,000. The plaintiff had sought specific performance of a contract for the sale of 100kg of gold valued at $730,000, with a balance of $670,000 unpaid. Despite a jurisdictional objection raised by the defendant, the trial judge failed to address it or follow the statutory procedure under Section 41 of the Courts Act, 1993 (Act 459), which requires either referral to the High Court or obtaining the parties' agreement to proceed. The appellate court held that the trial court’s assumption of jurisdiction rendered the entire proceedings a nullity, making it unnecessary to consider other grounds of appeal. The appeal was allowed solely on jurisdictional grounds.",
+  "legalKeywords": [
+    "jurisdiction",
+    "summary judgment",
+    "specific performance",
+    "Circuit Court",
+    "Courts Act 1993",
+    "Act 459",
+    "constitutional jurisdiction",
+    "procedural irregularity",
+    "nullity",
+    "objection to jurisdiction",
+    "inferior court",
+    "contract enforcement",
+    "Ghanaian appellate procedure",
+    "leave to amend grounds of appeal",
+    "bias in judicial conduct"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Contract Law",
+    "Jurisdictional Limits",
+    "Appellate Review",
+    "Judicial Bias"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ansa, JA",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Farkye, JA"
+    },
+    {
+      "name": "Asare-Korang, JA"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Okomfo Afua v. Sarbah [1974] 1 GLR 147",
+    "Bakuma v. Ekor [1972] 1 GLR 133",
+    "Essah v. Sofo [1972] 2 GLR 301",
+    "Hausa v Dauda [1961] GLR (Part II) 550"
+  ],
+  "rationaleHighlights": [
+    "The Circuit Court's jurisdiction is limited to civil claims not exceeding GHS 10,000,000 under Section 41 of Act 459.",
+    "A claim valued at $730,000 far exceeds the Circuit Court's jurisdictional limit.",
+    "Jurisdictional objections can be raised at any stage, including on appeal.",
+    "Failure to follow statutory procedure when jurisdiction is challenged renders proceedings a nullity.",
+    "Parties cannot confer jurisdiction unless in strict compliance with the law.",
+    "The trial judge erred by ignoring the jurisdictional objection without inquiry or record of party consent.",
+    "An appellate court need not consider merits when jurisdiction is fundamentally lacking."
+  ],
+  "confidenceNotes": "The decision is based on clear statutory provisions and established precedent regarding court jurisdiction in Ghana. The truncation of the original document does not affect the core legal reasoning, which is fully articulated in the available portion.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/ROYAL ANKOBRA GOLDFIELDS LTD. v. JAMES ANDERSON & OR..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:06:47.799Z",
+    "plainTextLength": 17179
+  },
+  "trialDate": "2003-07-03"
+}

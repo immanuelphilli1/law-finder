@@ -1,0 +1,74 @@
+{
+  "caseTitle": "HOLDINGS LTD. v. GHANA COMMERCIAL BANK LTD",
+  "summary": "The Court of Appeal of Ghana set aside the decision of the High Court which had allowed an originating summons filed by Naos Holdings Ltd. against Ghana Commercial Bank Ltd. The plaintiff sought a declaration of rights under five promissory notes it claimed to hold as a holder in due course, originally issued by Sabat Motors to Eaglet Corporation and later endorsed to the plaintiff. The defendant bank applied to strike out the proceedings, arguing that there were substantial factual disputes including lack of consideration, prior repudiation of the notes by Sabat Motors, and mala fides on the part of the plaintiff. The High Court ruled the originating summons appropriate but permitted the defendant to adduce documentary evidence on mala fides. The Court of Appeal held that the use of an originating summons was improper because the case involved complex and disputed facts—such as whether the notes were issued without consideration, whether they were repudiated before endorsement, and whether the plaintiff had notice of defects—that could not be adequately resolved by affidavit evidence alone and required viva voce testimony. Citing precedent, the court emphasized that originating summons are only suitable where the primary issue is one of legal construction and no serious factual dispute exists. Since the resolution of the case depended on contested facts, the proper procedure was an action by writ, not originating summons. The appeal was allowed, and the matter was remitted for determination through appropriate proceedings.",
+  "legalKeywords": [
+    "originating summons",
+    "holder in due course",
+    "promissory notes",
+    "construction of instruments",
+    "mala fides",
+    "abuse of process",
+    "disputed facts",
+    "viva voce evidence",
+    "lack of consideration",
+    "repudiation",
+    "Bills of Exchange Act",
+    "fraud",
+    "good faith",
+    "affidavit evidence",
+    "procedural irregularity"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Commercial Law",
+    "Negotiable Instruments",
+    "Appellate Review",
+    "Judicial Remedies"
+  ],
+  "verdict": "Appeal allowed; decision of the High Court set aside and matter remitted for determination by appropriate proceedings.",
+  "winningSide": "Ghana Commercial Bank Ltd. (Appellant)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Benin, J.A.",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Forster, J.A.",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Afreh J.A.",
+      "role": "panel judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "Poku and Another v: Kwao and Another (1989-90) 2 GLR.82",
+    "Republic vrs: High Court, Accra; Ex-parte Ploetner (1984-86) 2 GLR.107",
+    "Siasuom vrs: Kyi (1971) 1 GLR.483 C.A.",
+    "Korbla II alias Tetteh and Another vrs: Odartei III (1980) GLR.932",
+    "Lewis vrs: Green (1905) 2 Ch 340: 74 L.J. Ch.682",
+    "Bills of Exchange Act, 1961 (Act.55), s.27(i)",
+    "Halsbury's Laws of England, 4th Edition, vol.4, Paragraph 388",
+    "High Court (Civil Procedure) Rules, 1954 (L.N.140A), Order 54A, rule 1"
+  ],
+  "rationaleHighlights": [
+    "Originating summons inappropriate where substantial facts are in dispute",
+    "Serious factual issues such as lack of consideration, repudiation, and mala fides require viva voce evidence",
+    "Construction of instrument alone will not resolve all disputes if factual issues remain",
+    "Trial court erred in restricting evidence to affidavits on mala fides"
+  ],
+  "confidenceNotes": "The judgment is well-reasoned and cites authoritative precedents from the Supreme Court of Ghana and English law. The analysis of originating summons procedure and holder-in-due-course doctrine is consistent with established legal principles.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/NAOS HOLDINGS LTD. v. GHANA COMMERCIAL BANK LTD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:13:22.514Z",
+    "plainTextLength": 27936
+  },
+  "trialDate": "1999-05-13"
+}

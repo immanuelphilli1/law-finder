@@ -1,0 +1,64 @@
+{
+  "caseTitle": "PRESBYTERIAN CHURCH OF GHANA v. REV. C. E. N. DOKU",
+  "summary": "The Presbyterian Church of Ghana appealed a High Court decision ordering the retired Reverend C. E. N. Doku to vacate the church manse and awarding him �5,000,000 in compensation for lost salary and �162,000 wrongly deducted from his entitlements. The Court of Appeal held that while the respondent was not estopped from challenging the propriety of his premature retirement—having been denied a hearing contrary to church regulations—the award of �5,000,000 for 17 years’ salary was excessive and unsupported by precedent. Relying on established case law, the court substituted the award with two years’ salary as damages. The court upheld the finding that the deduction of �162,000 was unjustified due to the church’s failure to provide a basis, and further ruled that interest should be awarded on that sum at the prevailing bank rate from the date of deduction to the date of judgment.",
+  "legalKeywords": [
+    "unlawful retirement",
+    "estoppel",
+    "breach of natural justice",
+    "wrongful dismissal",
+    "damages assessment",
+    "pension rights",
+    "church employment",
+    "domestic tribunal procedures",
+    "audi alteram partem",
+    "contractual entitlements"
+  ],
+  "topics": [
+    "Employment Law",
+    "Contract Law",
+    "Administrative Justice",
+    "Religious Institutions",
+    "Appeals"
+  ],
+  "verdict": "Appeal partially allowed: the �5,000,000 award set aside and replaced with two years’ salary as damages; the �162,000 repayment upheld and interest awarded at prevailing bank rate; order for vacation of manse affirmed.",
+  "winningSide": "Mixed – Respondent (Rev. Doku) prevailed on damages and interest; Appellant (Church) succeeded in reducing compensation amount",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "B. T. Aryeetey",
+      "role": "Delivered Judgment"
+    },
+    {
+      "name": "A. Essilfie-Bondzie",
+      "role": "Concurring Judge"
+    },
+    {
+      "name": "Twumasi",
+      "role": "Concurring Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Employment and Contract Dispute",
+  "citations": [
+    "Ghana Cocoa Marketing Board v. Agbettoh and others [1983-86] GLRD 16",
+    "Nartey-Tokoli v. Volta Aluminium Co. Ltd [1989-90] GLRD 112",
+    "Ghana National Trading Corporation and Another v. Baiden [1991] GLR 567"
+  ],
+  "rationaleHighlights": [
+    "Award of �5,000,000 for 17 years’ salary was inappropriate; precedent supports two years’ salary as damages in wrongful dismissal.",
+    "Respondent not estopped from challenging retirement as no denial of retirement itself, but its procedural impropriety.",
+    "Deduction of �162,000 unjustified—appellants failed to prove basis, thus liable to repay.",
+    "Interest on �162,000 should have been awarded; corrected on appeal at prevailing bank rate.",
+    "Failure to grant hearing before retirement violated church regulations and principles of natural justice."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from court judgment text. All legal reasoning and outcomes are explicitly stated in the decision.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/PRESBYTERIAN CHURCH OF GHANA v. REV. C. E. N. DOKU [.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:08:44.336Z",
+    "plainTextLength": 13855
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "caseTitle": "LAWANI BRIMAH ONISIWO AND OTHERS v TAIWO GBAMGBOYE",
+  "summary": "This West Africa Court of Appeal decision from 1941 concerned a dispute over customary land rights in Ghana. The defendants, descendants of a domestic servant of the plaintiffs' ancestor, had leased family land to a third party for thirty years without the plaintiffs' consent. The plaintiffs claimed forfeiture of the defendants' customary occupancy rights due to misbehaviour. The defendants initially claimed fee simple ownership and raised defences of long possession, laches, and acquiescence, but abandoned the title claim. The court upheld the trial judge's finding that leasing the land under claim of ownership constituted a direct challenge to the overlord's rights, amounting to misbehaviour and forfeiture under native law and custom. The court emphasized that not every lease results in forfeiture, and each case must be judged on its facts. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "family property",
+    "customary law",
+    "forfeiture",
+    "misbehaviour",
+    "lease without consent",
+    "overlord rights",
+    "native law and custom",
+    "alienation",
+    "long possession",
+    "stale claim",
+    "laches",
+    "acquiescence",
+    "defence of title",
+    "challenge to ownership",
+    "thirty years lease"
+  ],
+  "topics": [
+    "Customary Law",
+    "Land Tenure",
+    "Forfeiture of Rights",
+    "Family Property",
+    "Leasehold Disputes"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Plaintiffs-Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Real Property Limitation Act 1874"
+  ],
+  "rationaleHighlights": [
+    "Leasing family property for 30 years to a stranger without consent constitutes misbehaviour and forfeiture.",
+    "A challenge to the overlord's rights is the foundation of forfeiture.",
+    "Not every lease constitutes alienation or misbehaviour; each case depends on its facts.",
+    "Defence of fee simple ownership was abandoned.",
+    "Long possession and laches were pleaded but not upheld.",
+    "The act of leasing under claim of ownership directly challenged plaintiffs' rights.",
+    "The court avoided a broad rule that all leases cause forfeiture.",
+    "The appeal was dismissed with costs."
+  ],
+  "confidenceNotes": "The case summary is derived directly from the provided judgment text, with high factual accuracy. The jurisdiction and court details are inferred from the panel of Chief Justices and the court header.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/LAWANI BRIMAH ONISIWO AND OTHERS  v TAIWO GBAMGBOYE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:32:19.530Z",
+    "plainTextLength": 4609
+  },
+  "trialDate": "1941-05-08"
+}

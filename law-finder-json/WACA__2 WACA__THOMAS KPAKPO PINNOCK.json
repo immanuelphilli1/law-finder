@@ -1,0 +1,73 @@
+{
+  "caseTitle": "THOMAS KPAKPO PINNOCK",
+  "summary": "The West Africa Court of Appeal allowed the appeal by Thomas Kpakpo Pinnock against G.B. Ollivant & Co., Ltd., holding that the sale of his mortgaged property at Nsawam was wrongful. The mortgagee had issued a demand notice in 1927 for �75 14s., but did not exercise the power of sale until over six years later, accepting partial payments in the interim without issuing a fresh notice. The property was sold by private treaty through a licensed auctioneer to his own client for �40—less than one-third of its �140 market value as confirmed by the defendants' expert. The court emphasized that as a surety-mortgagor, Pinnock was entitled to notice of the actual outstanding amount before sale, which he never received. The sale was deemed unconscionable and inequitable. The appeal was allowed on the alternative claim for damages, with the case remitted to determine the exact balance due and award the difference between that sum and the market value.",
+  "legalKeywords": [
+    "mortgage deed",
+    "power of sale",
+    "equity of redemption",
+    "surety-mortgagor",
+    "wrongful sale",
+    "damages",
+    "notice requirement",
+    "private treaty sale",
+    "market value",
+    "waiver of notice",
+    "unreasonable treatment",
+    "reduction of debt",
+    "redemption right",
+    "licensed auctioneer",
+    "conflict of interest"
+  ],
+  "topics": [
+    "Property Law",
+    "Mortgage Law",
+    "Equity",
+    "Damages",
+    "Civil Procedure"
+  ],
+  "verdict": "Appeal allowed; case remitted for assessment of damages based on difference between market value and actual debt at time of sale.",
+  "winningSide": "Plaintiff-Appellant (Thomas Kpakpo Pinnock)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    },
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Yates",
+      "role": "Acting Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Brightly v. Norton (3 B & S 305; English Reports Vol. 122 p. 116)",
+    "Tours v. Wilson (4 B & S 442; English Report Vol. 122 p. 524)",
+    "Moore v. Shelley (8 Appeal Cases 285)"
+  ],
+  "rationaleHighlights": [
+    "Sale conducted over six years after initial notice without fresh notice invalidates power of sale",
+    "Mortgagee accepted payments post-notice, undermining original demand",
+    "Surety-mortgagor entitled to updated notice of actual amount due before sale",
+    "Sale by private treaty to auctioneer's client at less than one-third market value deemed unconscionable",
+    "Equity requires mortgagee to act reasonably and afford mortgagor fair opportunity to redeem",
+    "Trial judge erred in misunderstanding plaintiff's waiver argument as to entire mortgage rights instead of notice",
+    "Damages measure set as difference between market value (�140) and actual debt at sale date",
+    "Case remitted to assess exact debt amount and enter judgment accordingly"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and explicit findings. Some document truncation occurs at end, but key holdings and rationale are preserved.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/THOMAS KPAKPO PINNOCK.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:15:31.748Z",
+    "plainTextLength": 15285
+  },
+  "trialDate": "1934-11-20"
+}

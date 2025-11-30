@@ -1,0 +1,75 @@
+{
+  "caseTitle": "OWUSU ENT. LTD. v. RAINBOW FOODS INT. CORP. CA NO.",
+  "summary": "In Kweku Owusu Ent. Ltd. v. Rainbow Foods Int. Corp., the respondent, a U.S.-based company, supplied poultry products to the appellant, a Ghanaian company, with a claim for unpaid balance of US$84,345.89 after partial payment. The appellant contested, alleging deviation from the agreed C.I.F. Tema shipment terms to F.O.B. Tema, causing financial strain, and asserting that more containers were delivered than contracted. The High Court granted summary judgment for the respondent, but the Court of Appeal found triable issues regarding contract terms, shipment mode, and agency relationship, warranting a full trial. The appeal was allowed to set aside the summary judgment, emphasizing that genuine disputes on contractual performance and counterclaims could not be resolved summarily.",
+  "legalKeywords": [
+    "summary judgment",
+    "contract of sale",
+    "CIF vs FOB",
+    "triable issues",
+    "breach of contract",
+    "affidavit evidence",
+    "counterclaim",
+    "jurisdiction",
+    "commercial dispute",
+    "agency relationship",
+    "freight charges",
+    "payment obligation",
+    "contract interpretation",
+    "procedural fairness",
+    "burden of proof",
+    "cross-border transaction",
+    "documentary evidence",
+    "judicial discretion",
+    "motion practice",
+    "good faith"
+  ],
+  "topics": [
+    "Commercial Law",
+    "Contract Law",
+    "Procedural Law",
+    "International Trade",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "J.B. Akamba",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ms. Rose Owusu",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin-Yeboah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Order 14 of LN140A as amended by LI 1129",
+    "Dott vs. Brown (1936) 1 A.E.R. 545",
+    "Mc Lardy vs. Slateum (1890) 24 Q.B.D. 504",
+    "Adam and Harvey Ltd. vs. Int. Maritime Supplies Co. Ltd. (1966) 1 Lloyd’s Rep. 572"
+  ],
+  "rationaleHighlights": [
+    "The Court found triable issues on contract terms, particularly shipment mode (CIF vs FOB), which affect financial obligations.",
+    "The appellant raised a credible counterclaim linked to the original claim, necessitating a full trial.",
+    "Affidavit evidence revealed disputes over agency, delivery quantities, and payment terms, undermining the basis for summary judgment.",
+    "The respondent’s assertion of 'no defence' was contradicted by plausible factual and legal disputes.",
+    "Procedural fairness required that the defendant’s counterclaim and defence be heard at trial rather than dismissed summarily."
+  ],
+  "confidenceNotes": "The document is truncated near the end, but sufficient information is present to determine the appellate outcome, key legal issues, and reasoning. The conclusion that the appeal was allowed is supported by the court's detailed critique of the summary judgment and recognition of triable issues.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/KWEKU OWUSU ENT. LTD. v. RAINBOW FOODS INT. CORP..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:21:11.084Z",
+    "plainTextLength": 16634
+  }
+}

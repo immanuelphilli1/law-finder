@@ -1,0 +1,83 @@
+{
+  "caseTitle": "CONTRIBUTION OF JUSTICE TAYLOR TO THE DEVELOPMENT OF GHANA L",
+  "summary": "This document reviews the judicial philosophy and key contributions of Justice Kobina Taylor of the Ghanaian High Court, particularly in the case of Nkrumah v Manu (1970). The central issue involved the applicable law in a slander action—whether common law or customary law governed. Justice Taylor rejected a rigid adherence to precedent, notably criticizing the Court of Appeal's decision in Attiase v Abobbtey as outdated following the repeal of prior legislation and the enactment of paragraph 64 of NLCD 84 (Courts Decree, 1966). He held that the statutory framework required a plaintiff to positively elect customary law for it to apply, rejecting the notion that it could be implied. Despite the binding nature of prior decisions, Taylor applied the doctrine of per incuriam to decline following erroneous precedent. His approach, initially criticized by some judges for overstepping hierarchy norms, was later vindicated by a differently constituted Court of Appeal in Kyei v Donkor, which endorsed his interpretation. The case exemplifies Taylor’s commitment to justice over technicality and his role in modernizing Ghana’s legal development.",
+  "legalKeywords": [
+    "judicial precedent",
+    "stare decisis",
+    "per incuriam",
+    "choice of law",
+    "customary law",
+    "common law",
+    "defamation",
+    "slander",
+    "technicalities",
+    "ratio decidendi",
+    "obiter dictum",
+    "legal development",
+    "justice",
+    "fair play",
+    "statutory interpretation"
+  ],
+  "topics": [
+    "Legal Precedent",
+    "Customary Law",
+    "Defamation",
+    "Judicial Reasoning",
+    "Statutory Interpretation"
+  ],
+  "verdict": "In Nkrumah v Manu, the High Court upheld the district magistrate's award by applying the correct choice-of-law rules under NLCD 84, para 64, rejecting the binding but outdated precedent in Attiase v Abobbtey as per incuriam.",
+  "winningSide": "Plaintiff (respondent in the appeal)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kobina Taylor",
+      "role": "High Court Judge (author of key decisions)"
+    },
+    {
+      "name": "Ollennu",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Apaloo",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Lassey",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Francois",
+      "role": "High Court Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court / High Court / Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Nkrumah v Manu (1970)",
+    "Billa v Salifu ([1971] 2 GLR 87)",
+    "Kwaku v Addo",
+    "Attiase v Abobbtey",
+    "Ampong v Aboraa",
+    "Sogbaka v Tamakloe",
+    "Kyei v Donkor",
+    "Liversidge v Anderson [1942] AC 206",
+    "Donoghue v Stevenson [1932] AC 562"
+  ],
+  "rationaleHighlights": [
+    "Refusal to follow binding precedent deemed outdated or incorrect due to statutory change",
+    "Emphasis on substance over technical legal formalism",
+    "Statutory repeal rendered prior precedent obsolete",
+    "Lower court may critique higher court decisions if decided per incuriam",
+    "Customary law requires positive election by plaintiff under NLCD 84, para 64"
+  ],
+  "confidenceNotes": "The document is a scholarly review of Justice Taylor's jurisprudence, not a direct court transcript. Citations are derived from the author's references to cases discussed.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/89 - 90/CONTRIBUTION OF JUSTICE TAYLOR TO THE DEVELOPMENT OF GHANA L.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:19:38.980Z",
+    "plainTextLength": 92807
+  }
+}

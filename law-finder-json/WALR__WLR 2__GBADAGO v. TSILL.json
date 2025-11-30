@@ -1,0 +1,63 @@
+{
+  "caseTitle": "GBADAGO VERSUS TSILL",
+  "summary": "In Gbadago v. Tsill, the plaintiff challenged a written judgment from the Native Appeal Court of Anlo State, arguing that a portion granting the defendant rights over palm trees on Atiavie land was fraudulently inserted after the oral judgment was delivered. The Supreme Court of the Gold Coast, through van Lare J., held that the action was not one to set aside a judgment obtained by fraud—since no fraudulent evidence influenced the court's decision—but rather a claim for rectification based on a failure to accurately record the judgment. The court emphasized that the Registrar’s failure to comply with Regulation 41 of the Native Courts (Colony) Procedure Regulations, No. 10 of 1945, which required the accurate recording of judgments, constituted a violation of a legal right. The court affirmed that the Native Court 'A' had jurisdiction to hear such an action, even if novel, as it applied established legal principles. The appeal was dismissed, upholding the lower court’s order to delete the contested passage.",
+  "legalKeywords": [
+    "fraud in judgment",
+    "judgment rectification",
+    "Native Courts jurisdiction",
+    "oral vs written judgment",
+    "Regulation 41",
+    "legal right violation",
+    "inherent jurisdiction",
+    "declaratory relief",
+    "judicial misconduct",
+    "court record accuracy",
+    "customary law",
+    "equity and remedy",
+    "appeal court procedure",
+    "judicial fraud",
+    "record keeping duty"
+  ],
+  "topics": [
+    "Judicial Integrity",
+    "Native Courts",
+    "Fraudulent Proceedings"
+  ],
+  "verdict": "The appeal was dismissed. The court upheld the Native Court 'A’s' authority to order deletion of the improperly recorded portion of the judgment, confirming that the written judgment did not reflect the orally delivered decision.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "van Lare J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Eastern Judicial Division, Land Court, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Native Courts (Colony) Procedure Regulations, No. 10 of 1945, Part 7, Regulation 41",
+    "Best v. Samuel Fox & Co. Ltd. and Another [1950] 2 All E.R. 798",
+    "Vanderpuye v. Plange and Others (1942) 8 W.A.C.A. 170",
+    "Kwaa Kwesi v. Kofi Kwakwa (1937) 3 W.A.C.A. 176"
+  ],
+  "rationaleHighlights": [
+    "The fraud alleged occurred after judgment delivery and thus did not affect the judicial decision-making process.",
+    "The core issue was the inaccurate recording of the judgment, not the substance of the judgment itself.",
+    "Violation of statutory duty to record judgments accurately gives rise to a cause of action.",
+    "Native Courts can hear novel actions if they apply established legal principles.",
+    "Equity requires that a legal wrong must have a remedy.",
+    "The Native Court 'A' had jurisdiction despite the novelty of the claim.",
+    "The gravamen was declaratory: whether the contested passage was part of the delivered judgment.",
+    "Precedent supports courts' authority to correct fraudulent or irregular entries in their records."
+  ],
+  "confidenceNotes": "High confidence in factual extraction. All details are directly supported by the text. The distinction between fraud in the judgment process versus post-judgment record tampering is clearly articulated in the decision. Jurisdictional and procedural reasoning aligns with cited authorities.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/GBADAGO v. TSILL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:32:15.052Z",
+    "plainTextLength": 14447
+  }
+}

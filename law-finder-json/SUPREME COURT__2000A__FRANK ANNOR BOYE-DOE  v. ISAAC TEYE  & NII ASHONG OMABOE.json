@@ -1,0 +1,79 @@
+{
+  "caseTitle": "FRANK ANNOR BOYE-DOE v. ISAAC TEYE & NII ASHONG OMABOE",
+  "summary": "This Supreme Court of Ghana decision in Frank Annor Boye-Doe v. Isaac Teye & Nii Ashong Omaboe (CA 13/98, 12th July 2000) addressed the validity of a High Court judgment delivered approximately two years after the presiding judge's retirement. The court held that under Article 145(4) of the 1992 Constitution, a retired Superior Court judge may only continue in office for up to six months after attaining the mandatory retirement age to conclude proceedings commenced before retirement. Since the judgment was delivered outside this six-month constitutional window by a different, sitting judge, the proceedings were deemed a nullity. The Supreme Court allowed the appeal, set aside the judgments of both the High Court and the Court of Appeal, and ordered the case remitted for a fresh trial de novo. The court declined to address other grounds of appeal, as this constitutional issue was dispositive.",
+  "legalKeywords": [
+    "Article 145(4) Constitution",
+    "judicial retirement",
+    "nullity of proceedings",
+    "de novo trial",
+    "jurisdiction after retirement",
+    "Superior Court judge",
+    "constitutional time limit",
+    "judgment delivery",
+    "retired judge authority",
+    "procedural invalidity",
+    "stay of execution",
+    "Rule 6(8) Supreme Court Rules",
+    "judicial continuity",
+    "post-retirement functions",
+    "constitutional interpretation"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Judicial Tenure",
+    "Appellate Procedure",
+    "Judgment Validity"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "A.K.B. Ampiah",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "F.Y. Kpegah",
+      "role": "Justice"
+    },
+    {
+      "name": "E.D.K. Adjabeng",
+      "role": "Justice"
+    },
+    {
+      "name": "G.K. Acquah",
+      "role": "Justice"
+    },
+    {
+      "name": "S.A.B. Akuffo",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Article 145(2) and (4), Constitution of Ghana, 1992",
+    "Rule 6(8), Supreme Court Rules, 1996 (C.I. 16)"
+  ],
+  "rationaleHighlights": [
+    "A judge must vacate office upon reaching mandatory retirement age unless continuing for up to six months to conclude pending proceedings.",
+    "Article 145(4) permits limited post-retirement continuation solely to deliver judgment in cases commenced before retirement.",
+    "The six-month extension is not automatic and must be necessary for concluding pre-retirement proceedings.",
+    "A judgment delivered two years post-retirement falls outside constitutional limits and is a nullity.",
+    "A sitting judge cannot validate a judgment rendered outside constitutional jurisdiction on behalf of a retired judge.",
+    "Proceedings beyond the six-month period lack legal authority and are void.",
+    "The appeal is determined solely on constitutional grounds, making other grounds unnecessary to address.",
+    "Remittal for de novo trial ensures constitutional compliance and fair adjudication."
+  ],
+  "confidenceNotes": "The summary is based on a clear constitutional provision (Article 145) and the court's explicit reasoning. All details are directly extractable from the judgment text, with high factual accuracy. Citation of constitutional articles and court rules enhances reliability.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2000A/FRANK ANNOR BOYE-DOE  v. ISAAC TEYE  & NII ASHONG OMABOE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:52:51.251Z",
+    "plainTextLength": 4496
+  },
+  "trialDate": "2000-07-12"
+}

@@ -1,0 +1,86 @@
+{
+  "caseTitle": "Appeal in Tobah v. Kweikumah1",
+  "summary": "The Court of Appeal decision in Tobah v. Kweikumah clarified that the High Court does not have concurrent jurisdiction with traditional councils or regional houses of chiefs in chieftaincy matters as courts of first instance. The ruling affirmed that under the Chieftaincy Act, 1971 (Act 370) and the Courts Act, 1971 (Act 372), judicial committees of traditional councils hold exclusive jurisdiction over chieftaincy disputes arising within their areas, except where a paramount chief or the Asantehene is involved. The court rejected the argument that section 14(1)(a) of Act 372, granting the High Court original jurisdiction in 'all matters,' overrides section 52, which excludes chieftaincy matters from the High Court's jurisdiction. It emphasized that the phrase 'all matters' is subject to constitutional and statutory limitations. However, the High Court retains supervisory jurisdiction via prerogative writs like certiorari and prohibition to correct illegalities, fraud, or breaches of natural justice in traditional council proceedings. The decision resolved conflicting High Court rulings and reaffirmed the statutory framework for chieftaincy dispute resolution in Ghana.",
+  "legalKeywords": [
+    "jurisdiction",
+    "chieftaincy",
+    "High Court",
+    "traditional council",
+    "exclusive jurisdiction",
+    "supervisory powers",
+    "prerogative writs",
+    "certiorari",
+    "prohibition",
+    "quo warranto",
+    "Courts Act",
+    "Chieftaincy Act",
+    "constitutional interpretation",
+    "natural justice",
+    "fraud",
+    "duress",
+    "usurpation",
+    "public office",
+    "statutory creation",
+    "constitutional supremacy"
+  ],
+  "topics": [
+    "Chieftaincy Disputes",
+    "Judicial Jurisdiction",
+    "Constitutional Law",
+    "Administrative Law",
+    "Traditional Courts"
+  ],
+  "verdict": "High Court lacked jurisdiction as court of first instance; traditional council had exclusive jurisdiction",
+  "winningSide": "defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Jiagge J.A.",
+      "role": "Appellate Judge"
+    },
+    {
+      "name": "Quashie-Sam J.",
+      "role": "High Court Judge"
+    },
+    {
+      "name": "Hayfron-Benjamin J.",
+      "role": "High Court Judge"
+    },
+    {
+      "name": "Abban J.",
+      "role": "High Court Judge"
+    },
+    {
+      "name": "Osei-Hwere J.",
+      "role": "High Court Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional and Administrative Law",
+  "citations": [
+    "Tobah v. Kweikumah",
+    "Republic v. Boateng; Ex parte Adu Gyamfi",
+    "Moosi v. Boateng",
+    "Republic v. Tekperbiawe Divisional Council; Ex parte Nene Korle II",
+    "Republic v. Sagoe II; Ex parte Baffo V"
+  ],
+  "rationaleHighlights": [
+    "Section 14(1)(a) of Courts Act 1971 is subject to other enactments including section 52",
+    "No conflict between section 14(1)(a) and section 52 of Act 372",
+    "Traditional councils have exclusive jurisdiction in chieftaincy matters under Act 370",
+    "High Court retains supervisory jurisdiction over traditional councils",
+    "Prerogative writs available for fraud, illegality, or breach of natural justice",
+    "Quo warranto may apply if office is statutory and usurped",
+    "Chieftaincy is a public institution under the Constitution"
+  ],
+  "confidenceNotes": "The source is a legal commentary referencing appellate and high court decisions with statutory and constitutional analysis. While the original case documents are not provided, the analysis is detailed and cites specific provisions and cases, supporting high factual reliability.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2013/JURISDICTION IN CHIEFTAINCY MATTERS [1981 & 82] VOLS. XIII &.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:33:27.943Z",
+    "plainTextLength": 28446
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "caseTitle": "JANET NAAKARLEY AMEGATCHER VRS THE ATTORNEY-GENERAL, THE ELECTORAL COMMISSION 2",
+  "summary": "In Janet Naakarley Amegatcher v. The Attorney-General & The Electoral Commission (Supreme Court, Writ No. J1/8/2012, 26th July 2012), the plaintiff challenged the constitutionality of sections of the Local Government Act, 1993 (Act 462), particularly provisions empowering the President to create districts by executive instrument. The plaintiff argued that under Article 241(2) and Article 106(1) of the 1992 Constitution, only Parliament has the authority to create or reconstitute districts through legislation, not the President via executive action. The Supreme Court, applying constitutional interpretation principles, held that the power to create districts resides with Parliament, and thus section 1(2) of Act 462, which allows the President to declare areas as districts, is inconsistent with the Constitution and void. The Court emphasized that district creation involves significant governance and political implications, necessitating parliamentary oversight to prevent abuse for partisan purposes.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "separation of powers",
+    "judicial review",
+    "executive power",
+    "parliamentary sovereignty",
+    "local government",
+    "district creation",
+    "unconstitutional legislation",
+    "executive instrument",
+    "legislative instrument",
+    "Article 241",
+    "Article 106",
+    "subsidiary legislation",
+    "purposive approach",
+    "constitutional history"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Local Government",
+    "Separation of Powers",
+    "Judicial Review"
+  ],
+  "verdict": "The Supreme Court declared section 1(2) of the Local Government Act, 1993 (Act 462) unconstitutional and void for violating Articles 241(2) and 106(1) of the 1992 Constitution.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Justice"
+    },
+    {
+      "name": "Akuffo",
+      "role": "Justice"
+    },
+    {
+      "name": "Adinyira",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin-Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebe",
+      "role": "Justice"
+    },
+    {
+      "name": "Akoto-Bamfo",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Challenge",
+  "citations": [
+    "1992 Constitution of Ghana, Article 241",
+    "1992 Constitution of Ghana, Article 106",
+    "Local Government Act, 1993 (Act 462), Section 1",
+    "Writ No. J1/8/2012"
+  ],
+  "rationaleHighlights": [
+    "The power to create districts is legislative and constitutionally vested in Parliament under Article 241(2).",
+    "Executive instruments cannot override constitutional requirements for lawmaking.",
+    "The purposive interpretation of the Constitution supports parliamentary, not presidential, creation of districts.",
+    "Historical constitutional development shows consistent legislative control over district creation.",
+    "Allowing presidential creation of districts risks abuse for partisan political purposes."
+  ],
+  "confidenceNotes": "The judgment is based on clear constitutional text, historical context, and purposive interpretation. The Court's unanimous reasoning and citation of prior constitutional frameworks support high confidence in the accuracy of the summary.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/JANET NAAKARLEY AMEGATCHER VRS THE ATTORNEY-GENERAL, THE ELECTORAL COMMISSION 2.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:31:14.937Z",
+    "plainTextLength": 71376
+  }
+}

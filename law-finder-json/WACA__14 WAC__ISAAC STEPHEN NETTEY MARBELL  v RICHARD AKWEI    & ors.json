@@ -1,0 +1,72 @@
+{
+  "caseTitle": "ISAAC STEPHEN NETTEY MARBELL v RICHARD AKWEI & ors",
+  "summary": "This 1952 West African Court of Appeal decision in the Gold Coast (now Ghana) involved two consolidated land disputes concerning adjoining plots on Farrar Avenue, Accra. In the second case, Richard Akwei, who had conveyed land to Faris, was estopped from claiming title against Emelia Cofie after having supported Faris' defense in a prior suit where Cofie successfully established superior title. Though not a formal party in that earlier case, Akwei was found to be vitally interested in its outcome, as the validity of his own conveyance was at stake. The court held that by standing by and allowing Faris to litigate on his behalf, Akwei was bound by the judgment. The principle of estoppel by privity of interest was affirmed, citing English and regional precedents. In the first case, Isaac Marbell successfully appealed a lower court ruling, with the appellate court correcting an evidentiary error regarding the proper interpretation of conveyance deeds linked to Vidal James Buckle’s acquisitions.",
+  "legalKeywords": [
+    "estoppel",
+    "privity of estate",
+    "title to land",
+    "adverse possession",
+    "conveyance",
+    "trespass to land",
+    "judicial precedent",
+    "joinder of parties",
+    "res judicata",
+    "evidence in land disputes",
+    "property law",
+    "land litigation",
+    "successive conveyances",
+    "boundary dispute",
+    "standing by in litigation"
+  ],
+  "topics": [
+    "Property Law",
+    "Estoppel",
+    "Land Title Disputes",
+    "Appellate Review",
+    "Judicial Precedent"
+  ],
+  "verdict": "Appeal allowed in Marbell v. Akwei; appeal dismissed in Akwei v. Cofie on grounds of estoppel.",
+  "winningSide": "Isaac Stephen Nettey Marbell (in first action); Emelia Chicher Cofie (in second action)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Foster-Sutton",
+      "role": "President"
+    },
+    {
+      "name": "Coussey",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Acolatse",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Wycherley v. Andrews (1872), L.R. 327",
+    "Wilkinson v. Blades (1896), L.R. C.R. 788",
+    "Yode Kwao v. Kwasi Coker, 1 W.A.C.A. 168",
+    "Mercantile Investment and General Trust Co. v. River Plate Trust Loan and Agency Co. (1894), 1 Ch. D. 595",
+    "Farquharson v. Seton, 5 Russ. 45"
+  ],
+  "rationaleHighlights": [
+    "A person not formally a party may be estopped if vitally interested and in privity of interest with a party.",
+    "Standing by while another defends one's legal interest binds the non-party to the outcome.",
+    "Estoppel applies where a prior conveyance's validity is challenged in earlier litigation.",
+    "Trial judge correctly applied precedent from Yode Kwao v. Kwasi Coker.",
+    "Vendor cannot re-litigate title once it has been judicially rejected in a prior case involving the vendee."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct judicial reasoning and cited authorities. Some document truncation occurs but key holdings are preserved.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/ISAAC STEPHEN NETTEY MARBELL  v RICHARD AKWEI    & ors.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:40:16.097Z",
+    "plainTextLength": 20246
+  },
+  "trialDate": "1952-07-09"
+}

@@ -1,0 +1,59 @@
+{
+  "caseTitle": "THE QUALIFICATION AND THE CONSTITUTIONAL POSITION OF THE ATT",
+  "summary": "This legal analysis examines the constitutional and historical evolution of the office of the Attorney-General in Ghana, focusing on its qualification requirements and institutional status. It traces the transformation from a colonial-era public service position, insulated from political change, to a political appointment under the 1960 Republican Constitution. Subsequent military regimes, including the NLC, NRC, and PNDC, introduced varying qualifications and attempted to reclassify the Attorney-General as a civil servant, notably through the Legal Service Regulations, 1983 (LI 1288). The article critiques the legality of these regulations, arguing that they improperly altered the constitutional status of the office via subordinate legislation. It analyzes the tension between the 'separate office' and 'combined office' models of the Attorney-General and Secretary for Justice, concluding that the combined model is more viable for Ghana's future constitutional framework. The piece underscores the importance of clarity in the appointment process, qualifications, and the balance between political accountability and professional independence.",
+  "legalKeywords": [
+    "Attorney-General",
+    "constitutional position",
+    "legal service",
+    "public servant",
+    "appointment",
+    "qualification",
+    "rule of law",
+    "Minister for Justice",
+    "PNDC",
+    "Legal Service Board",
+    "separation of powers",
+    "judicial independence",
+    "constitutional history",
+    "legal reform",
+    "executive authority"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Legal History",
+    "Attorney-General",
+    "Public Service",
+    "Legal Reform"
+  ],
+  "verdict": "The article concludes that the current legal framework creates confusion and that the combined office model of the Attorney-General and Secretary for Justice is constitutionally and practically preferable.",
+  "winningSide": "Combined office concept",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "[1989-90] VOL. XVII RGL 95\u00117",
+    "Gold Coast (Constitution) Order in Council, 1950",
+    "Republican Constitution, 1960",
+    "PNDCL 42",
+    "Legal Service Regulations, 1983 (LI 1288)"
+  ],
+  "rationaleHighlights": [
+    "The office of the Attorney-General evolved from a colonial public service role to a political appointment under republican constitutions.",
+    "PNDCL 42 and LI 1288 created ambiguity by attempting to confer public service status on the Attorney-General via regulatory instrument, not constitutional mandate.",
+    "The combined office concept (Attorney-General and Secretary for Justice) is constitutionally and practically preferable to the separate office notion.",
+    "Qualification requirements (e.g., 15 years at the Bar) were introduced administratively, raising questions about legal validity.",
+    "The Attorney-General's independence and accountability are central to constitutional democracy."
+  ],
+  "confidenceNotes": "The document is an academic legal analysis rather than a court judgment; however, it cites primary legal instruments and constitutional provisions with high accuracy. Information on historical constitutional evolution and statutory instruments is consistent with known Ghanaian legal history.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/89 - 90/THE QUALIFICATION AND THE CONSTITUTIONAL POSITION OF THE ATT.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:13:40.382Z",
+    "plainTextLength": 56865
+  },
+  "trialDate": "1990-11-09"
+}

@@ -1,0 +1,73 @@
+{
+  "caseTitle": "K. W MAHTANI v G. P. DASWANI",
+  "summary": "This was a libel case heard by the West African Court of Appeal (WACA) on 16th December 1941, arising from a public notice published by G. P. Daswani in the African Morning Post on 2 October 1940. The notice, issued as attorney for Utoomal and Assudamal Company, revoked the power of attorney of Choithram Wadhumal Mahtani (brother of the plaintiff, K. W. Mahtani) and warned the public that dealings with Mahtani Brothers were at their own risk. The plaintiff claimed this implied he was attempting to defraud creditors by selling goods, damaging his credit and reputation. The trial judge awarded £1,500 in damages, finding the publication malicious and defamatory, particularly inferring an imputation of insolvency. On appeal, the WACA held that the trial judge erred by relying on an unpleaded innuendo of insolvency and improperly considering it in awarding damages. The appeal was allowed, the judgment set aside, and a new trial ordered before a different judge.",
+  "legalKeywords": [
+    "libel",
+    "defamation",
+    "innuendo",
+    "imputation of insolvency",
+    "malice",
+    "damages",
+    "privileged occasion",
+    "truth as defence",
+    "publication",
+    "reputation",
+    "misdirection",
+    "pleading requirements",
+    "appellate review"
+  ],
+  "topics": [
+    "Defamation Law",
+    "Civil Liability",
+    "Appellate Procedure"
+  ],
+  "verdict": "The appeal was allowed. The judgment of the lower court was set aside and a new trial ordered before a different judge.",
+  "winningSide": "Defendant-Appellant (G. P. Daswani)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Appellate Judge"
+    },
+    {
+      "name": "McCarthy, J.",
+      "role": "Appellate Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal (WACA)",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "Dawe v. Palmer 123 English Reports 1147",
+    "Riding v. Smith (1876) 1 Ex. 93",
+    "Vines v. Serrell (1835) 7 C & P. 163",
+    "Crepigny v. Wellesley (1829) 5 Bing. 402",
+    "Praed v. Graham (1889) 59 L.J.",
+    "Ratcliff v. Evans (1892) 2 Q.B. 528",
+    "Smith v. Schilling (1928) 1 K.B. 429"
+  ],
+  "rationaleHighlights": [
+    "The words complained of did not on their face necessarily impute insolvency, and since such an innuendo was not pleaded by the plaintiff, the trial judge erred in relying on it.",
+    "The defendant was deprived of the opportunity to contest the unpleaded imputation of insolvency, violating fair trial principles.",
+    "The trial judge misdirected himself by factoring the unpleaded insolvency imputation into the assessment of damages.",
+    "While the publication could carry a defamatory meaning, the appellate court emphasized strict adherence to pleading rules in defamation cases.",
+    "The appeal court did not assess the truth of the statement or the actual damages but focused on the procedural error in the trial.",
+    "Appellate courts must not uphold judgments based on grounds not properly raised or contested at trial.",
+    "The conduct of the defendant at trial, while noted as obstinate, could not justify basing damages on an unpleaded innuendo.",
+    "A new trial was necessary to ensure a fair determination of the case on properly pleaded issues."
+  ],
+  "confidenceNotes": "The source document is a clear and complete legal judgment from a recognized court (WACA) with formal structure, cited authorities, and reasoned decision. All information extracted is directly supported by the text. The jurisdictional context (Gold Coast, now Ghana) and procedural posture (appeal from Divisional Court) are accurately reflected. The case is well-documented with no apparent gaps affecting factual reliability.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/K. W MAHTANI  v  G. P. DASWANI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:32:55.293Z",
+    "plainTextLength": 19098
+  },
+  "trialDate": "1941-12-16"
+}

@@ -1,0 +1,75 @@
+{
+  "caseTitle": "COMMISSIONER OF POLICE VERSUS DIKO PIM",
+  "summary": "The High Court of the Ashanti Judicial Division in Ghana considered whether the Ejisu Stool Property (No.2) Order, 1958, made under the Statute Law Amendment (No.2) Act, 1957, had legal force before its publication in the Gazette. The order, dated September 12, 1958, but published on September 20, authorized Nana Kofi Atta to seize stool property and eject occupants. Diko Pim and another were charged with obstructing this action on September 12. The Magistrate discharged them, ruling the order unenforceable before publication. The Attorney-General referred the case to the Supreme Court via case stated. The court held that the order constituted subsidiary legislation with legislative effect, not a mere executive act, and thus required publication in the Gazette to have legal force under the Interpretation Act, 1957. It further ruled that no offence was created by breaching the order, as the statute did not criminalize such conduct directly. Therefore, the appeal was dismissed.",
+  "legalKeywords": [
+    "subsidiary legislation",
+    "legislative effect",
+    "executive order",
+    "publication in Gazette",
+    "condition precedent",
+    "force of law",
+    "Interpretation Act 1957",
+    "Statute Law Amendment Act",
+    "judicial notice",
+    "case stated",
+    "constitutional law",
+    "administrative action",
+    "retrospective effect",
+    "legal consequences",
+    "stool property",
+    "Ministerial power",
+    "criminal charge",
+    "offence not known to law",
+    "parent statute",
+    "legal force"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Criminal Procedure",
+    "Legal Interpretation",
+    "Ghanaian Case Law"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondents",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Smith J",
+      "role": "Judge"
+    },
+    {
+      "name": "Murphy J",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Ashanti Judicial Division",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional and Administrative Law",
+  "citations": [
+    "Interpretation Act, 1957, s. 3(1)",
+    "Interpretation Act, 1957, s. 5",
+    "Interpretation Act, 1957, s. 12(2)(d)",
+    "Statute Law Amendment (No.2) Act, 1957, s. 4(2)",
+    "Statute Law Amendment (No.2) Act, 1957, s. 7(1)"
+  ],
+  "rationaleHighlights": [
+    "An order made under statutory authority is part of 'Act of Parliament' under s. 3(1) of the Interpretation Act, 1957",
+    "Section 5 of the Interpretation Act requires publication in the Gazette for an Act or order to take effect unless otherwise provided",
+    "Recital of date of making does not constitute provision for prior operation",
+    "To determine if an order is legislative or administrative, examine its effect and necessity for publication",
+    "Orders with far-reaching legal consequences are subsidiary legislation",
+    "Publication desirability indicates legislative character",
+    "No offence was created by the Act for breach of the order",
+    "Appeal dismissed because charge did not state a known offence"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and statutory interpretation. All key details including dates, provisions, and holdings are explicitly stated in the source text.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/COMMISSIONER OF POLICE v. DIKO PIM AND ANOTHER..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:07:33.554Z",
+    "plainTextLength": 12694
+  }
+}

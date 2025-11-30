@@ -1,0 +1,92 @@
+{
+  "caseTitle": "HASNEM ENTERPRISES LIMITED v. IBM WORLD TRADE CORPORATION",
+  "summary": "This Supreme Court of Ghana judgment in Hasnem Enterprises Limited v. IBM World Trade Corporation (Civil Appeal No. 2/98, 16th May 2001) arose from a dispute over maintenance services for an IBM copier machine purchased in 1977. The respondent claimed specific performance of an alleged oral after-sales service agreement and damages for losses incurred when the appellant refused further servicing after 1984. While the trial court found no enforceable contract, the Court of Appeal reversed by majority. The Supreme Court ultimately upheld the appellant's appeal. A key issue was the period over which interest should accrue on a counterclaim for maintenance services. The trial court had awarded interest only up to judgment date (16th May 1990), but the Supreme Court held that interest must run until final payment due to Ghana's high inflation, citing the principle that a wrongfully withholding party should not benefit from use of another's money. Relying on LI 1295 and Section 2(4) of the Courts Act, 1993, the Court ordered interest at the current bank rate (linked to 90-day Treasury Bill rate of 45%) on the outstanding amount until full payment, emphasizing that creditors must be fully compensated for the time value of money and that courts should discourage debtors from using litigation to delay payment.",
+  "legalKeywords": [
+    "interest award",
+    "commercial debt",
+    "oral agreement",
+    "specific performance",
+    "maintenance service",
+    "contract enforcement",
+    "LI 1295",
+    "Courts Act 1993",
+    "inflation impact",
+    "judicial discretion",
+    "final payment interest",
+    "bank rate",
+    "creditor rights",
+    "debtor obligations",
+    "compound interest",
+    "economic policy",
+    "treasury bill rate",
+    "unjust enrichment",
+    "equitable compensation",
+    "appeal variation"
+  ],
+  "topics": [
+    "Contract Law",
+    "Interest Awards",
+    "Commercial Litigation",
+    "Appellate Review",
+    "Monetary Compensation"
+  ],
+  "verdict": "The appeal succeeded. The decision of the Court of Appeal was set aside and the trial court's judgment was varied to award interest from 20th December 1984 up to the date of final payment at the current bank rate (45%, based on 90-day Treasury Bill rate).",
+  "winningSide": "Hasnem Enterprises Limited (Appellant/Respondent)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ms. Akuffo, J.S.C.",
+      "role": "author of concurring opinion"
+    },
+    {
+      "name": "Adzoe, J.S.C.",
+      "role": "author of lead opinion"
+    },
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "member of bench"
+    },
+    {
+      "name": "Ampiah, J.S.C.",
+      "role": "presiding"
+    },
+    {
+      "name": "Lampert, J.S.C.",
+      "role": "member of bench"
+    },
+    {
+      "name": "Brobbey, J.A.",
+      "role": "dissenting judge in Court of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Holland West Africa et al V. Pan African Trading Company et al. [1976] 2 GLR 179",
+    "Harbutt's Plasticine Ltd V. Wayne Tank and Pump Co. Ltd. [1970] 1 All ER 225",
+    "Jefford V Gee [1970] 1 All ER 1202",
+    "London, Chatham and Dover Railway Co. V. South Eastern Railway Co [1893] AC 429",
+    "Waseem Attieh V Koglex Ltd. et als, unreported S.C. judgement in suit no. C.A. 3/2000, dated May 09, 2001"
+  ],
+  "rationaleHighlights": [
+    "Interest should run until final payment to prevent unjust enrichment of debtor",
+    "Trial court failed to provide reasons for limiting interest to judgment date",
+    "High inflation in Ghana necessitates interest up to final payment",
+    "Courts must discourage evasion of financial obligations through litigation",
+    "Rate of interest should reflect current economic conditions",
+    "LI 1295 allows judicial discretion on interest period",
+    "Creditor must be placed in position they would have been had debt been paid timely",
+    "Need for legislative reform to allow compound interest"
+  ],
+  "confidenceNotes": "The document is a full judgment from the Supreme Court of Ghana with clear judicial reasoning and citations. All extracted information is directly supported by the text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2001A/HASNEM ENTERPRISES LIMITED v. IBM WORLD TRADE CORPORATION.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:43:45.529Z",
+    "plainTextLength": 89003
+  },
+  "trialDate": "16TH MAY, 2001"
+}

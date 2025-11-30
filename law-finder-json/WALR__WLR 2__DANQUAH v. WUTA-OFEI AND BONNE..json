@@ -1,0 +1,68 @@
+{
+  "caseTitle": "DANQUAH VERSUS WUTA-OFEI AND BONNE.",
+  "summary": "In Danquah v. Wuta-Ofei and Bonne (1956), the West African Court of Appeal addressed the legal effects of the Accra Town (Lands) Ordinance, c. 87 of 1951, on possessory rights following compulsory acquisition. The plaintiff received an oral grant of stool land in 1939, confirmed by a 1945 deed, and was in possession when the first defendant built on the land in 1948. The defendant argued that the plaintiff’s rights were extinguished under section 5(4) of the Ordinance for failure to claim compensation within the statutory period. The court held that 'deemed to have determined' under section 5(4) did not extinguish rights absolutely but only as against the Chief Secretary regarding compensation claims. The plaintiff, as a possessor, retained superior rights against all except the Crown and was entitled to recovery of possession, mesne profits, and an injunction, though not a declaration of title. The decision clarified that unclaimed interests could be restored upon divestment under section 2(2).",
+  "legalKeywords": [
+    "compulsory acquisition",
+    "possessory title",
+    "deemed to have determined",
+    "declaration of title",
+    "mesne profits",
+    "perpetual injunction",
+    "oral grant",
+    "stool land",
+    "Accra Town Lands Ordinance",
+    "vesting in Chief Secretary",
+    "rights extinguishment",
+    "compensation claim",
+    "divesting order",
+    "native law and custom",
+    "equitable interest"
+  ],
+  "topics": [
+    "Land Law",
+    "Constitutional Law",
+    "Property Rights",
+    "Statutory Interpretation",
+    "Native Customary Law"
+  ],
+  "verdict": "The appeal was allowed in part; the plaintiff was entitled to recovery of possession, mesne profits, and injunction but not a declaration of title.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey P."
+    },
+    {
+      "name": "Korsah C.J."
+    },
+    {
+      "name": "Verity Ag.J.A"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Ex parte Walton (1881) 17 Ch.D. 746",
+    "Kodilinye v. Anantogu (1955) Privy Council",
+    "Asher v. Whitlock (1865) L.R. 1 Q.B. 1",
+    "Sundar v. Parliati (1889) 5 T.L.R. 683",
+    "Okantey v. Kwaddey (1956) 2 W.A.L.R. 43"
+  ],
+  "rationaleHighlights": [
+    "Section 2(1) vested land absolutely in the Chief Secretary, divesting all prior interests.",
+    "Section 5(4)'s 'deemed to have determined' applies only as between claimant and Chief Secretary for compensation purposes.",
+    "Possession confers good title against all but the true owner, protecting the plaintiff against the defendant.",
+    "Failure to claim compensation does not extinguish proprietary interest absolutely.",
+    "Divesting order under section 2(2) restores prior interests if no compensation was paid."
+  ],
+  "confidenceNotes": "High confidence; source is a reported judgment with clear judicial reasoning and citations. Some text truncation occurs at end but does not affect core holdings.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/DANQUAH v. WUTA-OFEI AND BONNE..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:36:33.056Z",
+    "plainTextLength": 20934
+  }
+}

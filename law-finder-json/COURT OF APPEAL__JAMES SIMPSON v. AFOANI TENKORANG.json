@@ -1,0 +1,74 @@
+{
+  "caseTitle": "SIMPSON v. AFOANI TENKORANG",
+  "summary": "In James Simpson v. Afoani Tenkorang, the appellant, a UK resident, remitted £5,000 to his brother-in-law (the respondent) in 1994 to purchase a residential plot in Accra and prepare building plans. The respondent used the funds as instructed, purchasing land from Nana Okanfra II at Kwabenya after a Lands Commission search and preparing an indenture. The appellant later visited Ghana, received the documents, supervised construction, and participated in material purchases. However, the structure was demolished by an adverse claimant, revealing a title defect. The appellant then sued for refund, initially claiming no land was purchased, but later arguing the purchase was invalid due to lack of prudence and non-compliance with registration. The Court of Appeal dismissed the appeal, finding the respondent had fulfilled his obligations and the appellant's shifting positions amounted to approbation and reprobation. The court emphasized that the original instructions did not require a guaranteed marketable title, and thus the respondent was not liable for the adverse claim.",
+  "legalKeywords": [
+    "land purchase",
+    "breach of contract",
+    "embezzlement",
+    "nemo dat quod non habet",
+    "title defect",
+    "remittance for property",
+    "failure to register",
+    "adverse claim",
+    "contractual obligation",
+    "privity of contract",
+    "due diligence",
+    "land ownership",
+    "construction supervision",
+    "demolition by third party",
+    "statutory compliance",
+    "cross-examination",
+    "statement of claim",
+    "defence",
+    "reply",
+    "litigation strategy"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Civil Appeals",
+    "Land Disputes",
+    "Remedies"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "P. K. Twumasi",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Henrietta Abban",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "E. K. Piesare",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "JAMES SIMPSON v. AFOANI TENKORANG [28/05/04] H1/64/2004"
+  ],
+  "rationaleHighlights": [
+    "Appellant remitted £5,000 to respondent for land purchase and construction planning in Ghana.",
+    "Respondent used funds as instructed: purchased land from Nana Okanfra II at Kwabenya and prepared building plans.",
+    "Appellant later supervised construction and received documents, indicating initial approval.",
+    "Structure was demolished by an adverse claimant, revealing title defect in vendor.",
+    "Appellant shifted legal stance from non-purchase to improper purchase, which court rejected as inconsistent.",
+    "Court upheld trial judge's finding that respondent fulfilled contractual obligations.",
+    "Claim dismissed due to appellant's approbation and reprobation and lack of contractual provisions for title guarantee."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/JAMES SIMPSON v. AFOANI TENKORANG.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:26:27.226Z",
+    "plainTextLength": 7555
+  }
+}

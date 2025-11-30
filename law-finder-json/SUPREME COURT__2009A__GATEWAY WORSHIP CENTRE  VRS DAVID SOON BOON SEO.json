@@ -1,0 +1,79 @@
+{
+  "caseTitle": "GATEWAY WORSHIP CENTRE VRS DAVID SOON BOON SEO",
+  "summary": "This is a civil appeal before the Supreme Court of Ghana concerning the jurisdiction of the Circuit Court to apply principles of equity and trusts in a land dispute. The appellant, a Korean missionary, raised funds in Korea allegedly for the respondent church (Gateway Worship Centre), used part of the funds to purchase land, but did not remit the money to the church. The church and its pastor sued for declaration of title, recovery of possession, and injunction. The Circuit Court and Court of Appeal ruled in favor of the church, holding the land was held in trust. The appellant challenged the jurisdiction of the Circuit Court to apply equitable principles. The Supreme Court held that under Article 11 of the 1992 Constitution and the Interpretation Act, all courts in Ghana are courts of both law and equity, and thus the Circuit Court had jurisdiction to apply trust principles in land matters. The appeal was dismissed, affirming that equitable remedies like constructive trusts are within the Circuit Court's jurisdiction when tied to land disputes.",
+  "legalKeywords": [
+    "jurisdiction",
+    "equity",
+    "trusts",
+    "Circuit Court",
+    "common law",
+    "land title",
+    "injunction",
+    "locus standi",
+    "ownership of funds",
+    "constitutional law",
+    "Courts Act",
+    "Interpretation Act",
+    "customary law",
+    "fused jurisdiction",
+    "equitable remedies",
+    "declaration of title",
+    "recovery of possession",
+    "perpetual injunction",
+    "order for accounts",
+    "missionary funds"
+  ],
+  "topics": [
+    "Equity and Trusts",
+    "Jurisdiction",
+    "Land Title",
+    "Civil Procedure",
+    "Fundraising and Fiduciary Duty"
+  ],
+  "verdict": "Appeal dismissed. The Supreme Court upheld the lower courts' decisions, affirming that the Circuit Court had jurisdiction to apply equitable principles and that the land was held in trust for the respondent church.",
+  "winningSide": "Respondent (Gateway Worship Centre)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Akuffo, J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Date-Bah, J.S.C."
+    },
+    {
+      "name": "Adinyira (Mrs), J.S.C."
+    },
+    {
+      "name": "Owusu, J.S.C."
+    },
+    {
+      "name": "Dotse, J.S.C."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Bou-Chedid v. Yalley [1976] 2 GLR 258",
+    "Courts Act, 1993 (Act 459)",
+    "Interpretation Act, 1960 (C.A. 4)",
+    "Constitution of Ghana, Article 11(1) and (2)"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court affirmed that all courts in Ghana are courts of both law and equity, citing constitutional and statutory provisions.",
+    "The Circuit Court had jurisdiction over land-related matters, including application of equitable principles such as trusts.",
+    "Failure to raise jurisdictional challenge earlier was criticized but did not invalidate the appeal.",
+    "The promise to raise funds, use of video for fundraising, and retention of funds supported a constructive trust over the land purchased."
+  ],
+  "confidenceNotes": "The case is well-documented with clear references to statutory and constitutional provisions. Jurisdictional analysis is thorough and consistent with established Ghanaian jurisprudence.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/GATEWAY WORSHIP CENTRE  VRS DAVID SOON BOON SEO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:08:59.266Z",
+    "plainTextLength": 34608
+  },
+  "trialDate": "2009-01-21"
+}

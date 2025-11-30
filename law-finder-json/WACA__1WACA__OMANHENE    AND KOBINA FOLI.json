@@ -1,0 +1,67 @@
+{
+  "caseTitle": "OMANHENE AND KOBINA FOLI",
+  "summary": "This 1930 West African Court of Appeal decision in Accra concerned a motion by Omanhene Kobina Foli to set aside an arbitration award between him and Ohene Obeng Akese over a disputed tract of land in Adansi. The Full Court had previously referred the matter to arbitration after setting aside a 1923 Circuit Court judgment, appointing Supreme Court Judge Mr. Justice Hall as arbitrator. After hearing extensive evidence and inspecting the site, the arbitrator divided the land using a purple boundary line, allocating the western portion to the Omanhene and the eastern to the Ohene. The appellant challenged the award on grounds including legal error, insufficient evidence, and alleged procedural misconduct. The Court upheld the award, affirming that courts cannot overturn arbitral decisions merely due to perceived errors in law or fact when the award is valid on its face. It found no jurisdictional overreach in the arbitrator's division of the land, given the nature of the boundary dispute, and rejected claims of improper delegation to the surveyor who drew the line under the arbitrator's direction. The decision emphasized the finality of arbitration agreements and the importance of actual possession and physical features in resolving traditional land disputes.",
+  "legalKeywords": [
+    "arbitration",
+    "award setting aside",
+    "jurisdiction",
+    "evidence",
+    "traditional land ownership",
+    "boundary dispute",
+    "possession",
+    "occupation",
+    "reference scope",
+    "misconduct",
+    "surveyor",
+    "finality of award",
+    "land dispute",
+    "nomadic communities",
+    "fetish hill"
+  ],
+  "topics": [
+    "Arbitration Law",
+    "Land Dispute",
+    "Traditional Ownership",
+    "Court Procedure",
+    "Finality of Awards"
+  ],
+  "verdict": "Motion to set aside the arbitration award dismissed; award upheld.",
+  "winningSide": "Defendant-Respondent (Ohene Obeng Akese)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Deane",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Hall",
+      "role": "Arbitrator/Judge of Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "arbitration",
+  "citations": [
+    "Fuller v. Fenwick (1846) 16 L.J. C.P. 79",
+    "Montgomery Jones Kobina Foli v. Obeng Akese",
+    "In re (1898) 78 L.T. 406",
+    "Privy Council Appeal No. 16 of 1926"
+  ],
+  "rationaleHighlights": [
+    "Award cannot be set aside merely for being mistaken in law or fact if good on its face",
+    "Arbitrator applied correct legal principles from Privy Council precedent",
+    "Personal inspection of disputed area supported decision-making",
+    "Division of land not beyond scope where boundary dispute involves incremental claims",
+    "Direction to surveyor to draw line does not constitute improper delegation"
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear procedural and legal reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/OMANHENE    AND KOBINA FOLI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:40:22.869Z",
+    "plainTextLength": 15912
+  },
+  "trialDate": "1930-05-12"
+}

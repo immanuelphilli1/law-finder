@@ -1,0 +1,78 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This 1935 West Africa Court of Appeal decision involved two sets of plaintiffs, E. Buhler & Company and J. F. Sicks & Co., appealing the refusal of a garnishee order against the Chief Registrar of Lagos. The funds in question were the remaining proceeds (�474 19s. 6d) from the sale of Caroline Johnson's mortgaged property at No. 10 Victoria Street, Lagos, after the first mortgagee (Bank of British West Africa) was paid. The appellants sought to garnish these funds to satisfy their judgment debts. The Court held that no garnishable debt existed because the remaining proceeds were properly allocated to the second mortgagee, Messrs. Coates & Co., under their court-ordered sale, and Caroline Johnson, the judgment debtor, had no beneficial interest in the funds until prior mortgage claims were satisfied. The Court rejected the argument that a judicial note constituted a valid payment-out order but affirmed the outcome, dismissing the appeal on the ground that there was no property in the hands of the Chief Registrar legally due to Caroline Johnson that could be garnished.",
+  "legalKeywords": [
+    "garnishee proceedings",
+    "mortgage priority",
+    "proceeds of sale",
+    "custodia legis",
+    "payment out order",
+    "Fi Fa writ",
+    "order of sale",
+    "second mortgagee rights",
+    "first mortgagee priority",
+    "judgment debt enforcement",
+    "Sheriff's return",
+    "Treasury payment",
+    "private treaty sale",
+    "court registry funds",
+    "garnishment eligibility"
+  ],
+  "topics": [
+    "Garnishment",
+    "Mortgage Enforcement",
+    "Priority of Claims",
+    "Court Registry Funds",
+    "Judgment Enforcement"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Garnishee-Respondent (Chief Registrar, Lagos)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Aitken",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    },
+    {
+      "name": "Barton",
+      "role": "Justice"
+    },
+    {
+      "name": "Butler-Lloyd",
+      "role": "Trial Judge"
+    },
+    {
+      "name": "Chief Justice",
+      "role": "Trial Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "The Bank of British West Africa v. Caroline Johnson",
+    "E. Buhler & Company v. Caroline Johnson",
+    "J. F. Sicks & Co. v. Caroline Johnson"
+  ],
+  "rationaleHighlights": [
+    "No funds were due from the Chief Registrar to Caroline Johnson eligible for garnishment",
+    "Proceeds of sale were payable to prior mortgagees first, leaving no surplus for the judgment debtor's creditors",
+    "The note by Butler-Lloyd, J. did not constitute a valid payment-out order",
+    "Garnishee order requires a debt due to the judgment debtor, which did not exist here",
+    "Appeal dismissed because no garnishable property existed in court"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial narrative and procedural records; minor uncertainty regarding exact date of property sale between Sept 1933 and March 1934.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/E. BUHLER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:31:42.739Z",
+    "plainTextLength": 21439
+  },
+  "trialDate": "1935-05-17"
+}

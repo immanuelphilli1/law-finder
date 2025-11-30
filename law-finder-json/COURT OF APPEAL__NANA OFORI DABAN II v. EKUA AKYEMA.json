@@ -1,0 +1,79 @@
+{
+  "caseTitle": "OFORI DABAN II v. EKUA AKYEMA",
+  "summary": "This is a land dispute case before the Ghanaian Court of Appeal concerning the validity of a deed poll dated 21st March 1888, through which Kofi Bordai purchased land including Asisiwah from Edward Francis Amissah. The plaintiff, Nana Ofori Daban II, Chief of Assin Anyinabirim, sued to declare the deed fraudulent and void, claiming the land had been in the possession of his people for over 200 years. The defendant, Ekua Akyema (succeeded by Saeed Kwabena Appiah), counterclaimed for declaration of title and recovery of possession. The trial court dismissed the plaintiff's claim and granted the counterclaim, allowing occupants four months to attorn. On appeal, the plaintiff argued misdirection, insufficient evidence, and that the judgment enforced a fraud. Two additional grounds raised procedural issues: the trial judge allegedly violated natural justice by raising new points (lack of capacity, audi alteram partem) without giving the plaintiff a chance to respond, and the costs awarded (over one million cedis) were excessive. The Court of Appeal found that the trial judge committed a serious procedural error by effectively arguing for the defendant and deciding on unaddressed points, thereby denying the plaintiff a fair hearing. Although the merits of the fraud claim were not overturned, the appeal succeeded on grounds of procedural unfairness, leading to the setting aside of the judgment.",
+  "legalKeywords": [
+    "land title",
+    "fraudulent conveyance",
+    "deed poll",
+    "customary succession",
+    "declaration of title",
+    "recovery of possession",
+    "injunction",
+    "natural justice",
+    "audi alteram partem",
+    "procedural fairness",
+    "costs assessment",
+    "counterclaim",
+    "misdirection",
+    "evidence",
+    "tenancy",
+    "attornment",
+    "procedural irregularity",
+    "judicial conduct",
+    "appeal grounds",
+    "property dispute",
+    "ancestral land",
+    "succession",
+    "land ownership",
+    "colonial land transaction",
+    "judicial miscarriage",
+    "trial procedure"
+  ],
+  "topics": [
+    "Land Law",
+    "Procedural Fairness",
+    "Fraud in Conveyancing",
+    "Appellate Review",
+    "Customary Land Rights"
+  ],
+  "verdict": "The appeal was allowed due to a breach of natural justice; the trial court's judgment was set aside.",
+  "winningSide": "Plaintiff/Appellant (on appeal)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Twumasi, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Aryeetey, J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Tweneboah-Koduah, J.A.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "NANA OFORI DABAN II v. EKUA AKYEMA [30/01/2003] CA 76/94",
+    "Exhibit A (deed poll, 21st March 1888)"
+  ],
+  "rationaleHighlights": [
+    "The trial judge dismissed the plaintiff's claim that the 1888 deed poll was fraudulent, upholding its validity and the resulting title.",
+    "The Court of Appeal found that the trial judge committed a serious breach of natural justice by raising new legal points (lack of capacity, failure to address audi alteram partem) without affording the plaintiff an opportunity to respond.",
+    "The appeal was allowed due to procedural unfairness, not on the merits of the fraud allegation.",
+    "The additional grounds relating to excessive costs were not properly addressed in counsel's submissions, leading to confusion, but the core issue was the denial of fair hearing."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment text, including parties, facts, issues, and outcome.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/NANA OFORI DABAN II v. EKUA AKYEMA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:14:01.407Z",
+    "plainTextLength": 31357
+  },
+  "trialDate": "2003-01-30"
+}

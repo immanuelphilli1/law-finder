@@ -1,0 +1,70 @@
+{
+  "caseTitle": "MENSAH NYAKU AS HEAD",
+  "summary": "This 1937 West Africa Court of Appeal decision arose from an appeal against a Divisional Court's refusal to strike out a writ involving multiple plaintiffs and complex claims over land ownership, deed cancellation, and royalties. The plaintiffs, representing various family heads, claimed co-ownership of land granted via an indenture in 1933 and alleged that the defendant fraudulently induced the testator to execute a deed of gift instead of a new will. The defendant objected on grounds of jurisdiction, lack of cause of action, and improper joinder. The appellate court held that the multiple joinder of parties and causes—particularly combining a land ownership claim (cognizable by a Native Tribunal) with claims requiring interpretation of English legal documents—created such inconvenience and embarrassment that a fair trial was impossible. Citing Order 3, Rule 8 of the Courts Ordinance, 1935, the court ruled the Divisional Court should have struck out the writ. The appeal was allowed, the writ was struck out without prejudice, and plaintiffs were permitted to pursue their claims separately in the appropriate courts.",
+  "legalKeywords": [
+    "land ownership",
+    "joinder of parties",
+    "causes of action",
+    "jurisdiction",
+    "Native Tribunal",
+    "deed of gift",
+    "will interpretation",
+    "fraudulent representation",
+    "cancellation of deed",
+    "rectification of deed",
+    "royalties",
+    "account of moneys",
+    "Supreme Court",
+    "Divisional Court",
+    "preliminary objection"
+  ],
+  "topics": [
+    "Land Law",
+    "Civil Procedure",
+    "Jurisdiction",
+    "Succession",
+    "Fraud"
+  ],
+  "verdict": "Appeal allowed; writ struck out without prejudice to refiling in appropriate courts.",
+  "winningSide": "Defendant (appellant)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "KINGDON, C.J., NIGERIA",
+      "role": "Justice"
+    },
+    {
+      "name": "PETRIDES, C.J., GOLD COAST",
+      "role": "Justice"
+    },
+    {
+      "name": "YATES, J.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "WACA/3 WACA/MENSAH NYAKU AS HEAD.htm",
+    "Courts Ordinance, 1935, Order 3, Rule 8, Schedule 3"
+  ],
+  "rationaleHighlights": [
+    "Multiple joinder of parties and causes of action creates inconvenience and embarrassment, impeding fair trial.",
+    "Claim involving land ownership should be first determined by a Native Tribunal.",
+    "Joinder of customary land claims with English-form legal document interpretation is inappropriate.",
+    "Divisional Court lacked jurisdiction over land title determination.",
+    "Plaintiffs may refile claims separately in appropriate forums.",
+    "Appeal allowed to uphold procedural integrity and jurisdictional boundaries."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment text.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/MENSAH NYAKU AS HEAD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:18:22.268Z",
+    "plainTextLength": 9309
+  },
+  "trialDate": "1937-12-14"
+}

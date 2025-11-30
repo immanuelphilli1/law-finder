@@ -1,0 +1,74 @@
+{
+  "caseTitle": "THE ESTATE OF JOSEPH K. NTRAKWA v BOGOSO GOLD LIMITED",
+  "summary": "The Supreme Court of Ghana set aside a judgment and damages award from the High Court due to serious procedural irregularities. The trial court failed to serve a hearing notice on the defendant after the summons for directions, yet proceeded to hear evidence and deliver judgment. The final judgment was delivered on 21st August 2001, rendering the court functus officio. A subsequent 'assessment of damages' on 18th September 2001 was conducted in the absence of both parties and lacked jurisdiction. The Supreme Court held that the failure to comply with court orders, particularly service requirements, rendered the entire trial null and void. It emphasized that judicial power must give effect to the will of the law, not the will of the judge. The appeal was allowed, and a new de novo trial was ordered before the High Court in Sekondi.",
+  "legalKeywords": [
+    "judicial misconduct",
+    "procedural fairness",
+    "service of process",
+    "functus officio",
+    "null and void judgment",
+    "due process",
+    "assessment of damages",
+    "trial irregularities",
+    "de novo trial",
+    "court orders compliance"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Judicial Conduct",
+    "Due Process",
+    "Damages Assessment",
+    "Jurisdiction"
+  ],
+  "verdict": "Appeal allowed; original judgment and damages award set aside; new trial ordered.",
+  "winningSide": "Appellant (Bogoso Gold Limited)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "S. K. Asiamah",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "G. T. Wood",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "S. A. Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "R. T. Aninakwah",
+      "role": "Justice"
+    },
+    {
+      "name": "S. O. Adinyira",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Rusfell v. East Anglia Rly ER 201 at p 206",
+    "Republic v. High Court, Accra ex parte Afoda [2001-2002] SC GLR 768",
+    "Osborne v. United States, 9 Wheat. 738 at 866"
+  ],
+  "rationaleHighlights": [
+    "Failure to serve hearing notice rendered subsequent proceedings null and void",
+    "Court lacked jurisdiction after delivering final judgment (functus officio)",
+    "Assessment of damages conducted in absence of both parties was invalid",
+    "Trial judge failed to ensure compliance with own orders",
+    "Proceedings amounted to a muddled and farcical trial",
+    "Appeal allowed; new trial ordered"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on explicit court records and clear judicial reasoning.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2008/THE ESTATE OF JOSEPH K. NTRAKWA v BOGOSO GOLD LIMITED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:13:56.085Z",
+    "plainTextLength": 9275
+  },
+  "trialDate": "2007-04-16"
+}

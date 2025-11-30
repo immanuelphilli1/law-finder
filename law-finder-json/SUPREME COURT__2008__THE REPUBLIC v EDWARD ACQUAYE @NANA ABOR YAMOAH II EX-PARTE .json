@@ -1,0 +1,86 @@
+{
+  "caseTitle": "THE REPUBLIC v EDWARD ACQUAYE @NANA ABOR YAMOAH II EX-PARTE",
+  "summary": "The Supreme Court of Ghana, in Republic v Edward Acquaye @ Nana Abor Yamoah II, addressed a contempt case arising from a chieftaincy dispute. The High Court had found Acquaye guilty of contempt for acting as chief of Gomoa Fetteh contrary to a 2001 order to maintain the status quo. The Court of Appeal reversed this, interpreting 'status quo' as preserving the state of affairs where Acquaye had been installed and gazetted as chief after the destoolment of his predecessor. The Supreme Court upheld the Court of Appeal’s decision, emphasizing that the superior courts lack jurisdiction over chieftaincy matters as courts of first instance and that the appeal was improperly framed. The Court rejected the appellants' attempt to broaden the scope of the appeal, reaffirming that contempt must be proven beyond reasonable doubt and that the original chieftaincy dispute should be resolved by the appropriate traditional council.",
+  "legalKeywords": [
+    "contempt of court",
+    "status quo",
+    "chieftaincy dispute",
+    "jurisdiction",
+    "quasi-criminal",
+    "proof beyond reasonable doubt",
+    "judicial committee",
+    "prohibition order",
+    "installation of chief",
+    "superior courts",
+    "constitutional jurisdiction",
+    "Court of Appeal reversal",
+    "Supreme Court jurisdiction",
+    "gazettement",
+    "willful disobedience",
+    "traditional council",
+    "Blackstone principle",
+    "due process",
+    "legal interpretation",
+    "appellate review"
+  ],
+  "topics": [
+    "Contempt of Court",
+    "Chieftaincy Disputes",
+    "Judicial Jurisdiction",
+    "Supreme Court Appeals",
+    "Legal Interpretation"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Dotse",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Akuffo",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Date-Bah",
+      "role": "panel judge"
+    },
+    {
+      "name": "Adinyira",
+      "role": "panel judge"
+    },
+    {
+      "name": "Owusu",
+      "role": "panel judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Republic vrs. SITO 1 Ex-parte Fordjour [2001-2002] SCGLR 322",
+    "In Re: Effiduase Stool Affairs (No.2) [1998-99] SCGLR 639",
+    "Okofoh Estates Limited vrs Modern Signs {1996-97 SCGLR.227}"
+  ],
+  "rationaleHighlights": [
+    "The term 'status quo' was interpreted as the existing state of affairs where Nana Abor Yamoah II had been installed and gazetted as chief.",
+    "Superior courts lack jurisdiction to hear chieftaincy matters as courts of first instance.",
+    "Contempt, being quasi-criminal, must be proven beyond reasonable doubt.",
+    "The Supreme Court refused to expand its jurisdiction to address underlying chieftaincy issues not properly before it.",
+    "The appeal was dismissed for misdirection and failure to recognize jurisdictional limits.",
+    "The Court emphasized that the proper forum for resolving the chieftaincy dispute remains the Judicial Committee of the Traditional Council.",
+    "The High Court's contempt finding was overturned due to incorrect interpretation of the order.",
+    "The Court criticized the litigants and counsel for pursuing a contempt route instead of resolving the core chieftaincy matter."
+  ],
+  "confidenceNotes": "The summary is based on a detailed judicial opinion with clear holdings and citations. All key elements including parties, court, judges, legal principles, and outcome are explicitly stated in the source text, ensuring high factual accuracy.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2008/THE REPUBLIC v EDWARD ACQUAYE @NANA ABOR YAMOAH II EX-PARTE .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:13:20.407Z",
+    "plainTextLength": 20851
+  },
+  "trialDate": "10TH DECEMBER, 2008"
+}

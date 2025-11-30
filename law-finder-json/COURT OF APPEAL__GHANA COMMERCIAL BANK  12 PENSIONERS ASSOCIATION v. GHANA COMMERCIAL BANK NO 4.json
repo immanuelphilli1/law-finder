@@ -1,0 +1,64 @@
+{
+  "caseTitle": "COMMERCIAL BANK PENSIONERS ASSOCIATION v. GHANA",
+  "summary": "The Court of Appeal of Ghana dismissed an appeal by Ghana Commercial Bank against a ruling on review, having granted the Pensioners Association's application to strike out the appeal. The bank had attempted to raise an 'internal mechanism' as a basis for appeal, but the court found this argument was not pleaded in the original defence, violating Order 19 Rule 4 of the High Court (Civil Procedure) Rules, 1954. The court held that the issue was an afterthought and could not be raised after the bank had voluntarily submitted to judgment in 1999, citing *Gwira v. State Insurance Corporation* [1991] 1 GLR.398. The court also rejected the bank's claim that delay required special leave for review, noting Rule 34 of CI 19 imposes no time limit—only a requirement of exceptional circumstances and justice. The appeal was struck out for lacking merit, and the bank was ordered to pay �30 million in costs.",
+  "legalKeywords": [
+    "appeal dismissal",
+    "submission to judgment",
+    "internal mechanism",
+    "review application",
+    "exceptional circumstances",
+    "Order 19 Rule 4",
+    "Rule 34 CI 19",
+    "pleadings",
+    "costs award",
+    "civil procedure"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Appeal Law",
+    "Judicial Review",
+    "Pleadings",
+    "Costs"
+  ],
+  "verdict": "Appeal dismissed and notice of appeal struck out.",
+  "winningSide": "Ghana Commercial Bank Pensioners Association",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "K. Omari-Sasu",
+      "role": "Presiding Justice of Appeal"
+    },
+    {
+      "name": "S. Y. Anim",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "G. Kusi-Appouh",
+      "role": "High Court Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "GHANA COMMERCIAL BANK PENSIONERS ASSOCIATION v. GHANA COMMERCIAL BANK [12/3/2004] H3/123/2004",
+    "GWIRA v. STATE INSURANCE CORPORATION [1991] 1 GLR.398"
+  ],
+  "rationaleHighlights": [
+    "The appellant bank failed to plead the 'internal mechanism' in its original defence, violating Order 19 Rule 4 of the High Court (Civil Procedure) Rules.",
+    "The 'internal mechanism' argument was deemed an afterthought and inadmissible post-submission to judgment.",
+    "No time bar exists for review applications under Rule 34 of CI 19; only exceptional circumstances and justice are required.",
+    "The grounds of appeal were unmeritorious and disclosed no reasonable basis for appeal.",
+    "The court affirmed the principle that a party cannot re-litigate after voluntarily submitting to judgment."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on court document with clear procedural history, cited rules, and judicial reasoning.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/GHANA COMMERCIAL BANK  12 PENSIONERS ASSOCIATION v. GHANA COMMERCIAL BANK NO 4.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:31:14.626Z",
+    "plainTextLength": 6167
+  },
+  "trialDate": "2004-03-12"
+}

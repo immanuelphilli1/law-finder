@@ -1,0 +1,82 @@
+{
+  "caseTitle": "MISCELLANY-AT-LAW FINDING AND EVALUATION OF FACTS IN CIVIL A",
+  "summary": "This legal commentary from the 1987–88 Review of Ghana Law discusses the critical role of trial judges in finding and evaluating facts in civil actions. It emphasizes that a trial judge, sitting without a jury in Ghana, bears the dual responsibility of determining primary facts and applying the law. The article outlines that findings of fact must be explicit, evidence-based, and resolve all material disputes, particularly where witness credibility is contested. It references key cases such as Quaye v Mariamu and Reindorf v Amadu to illustrate when appellate courts have intervened due to inadequate factual findings. The commentary also explores the assessment of witness credibility under Section 80(2) of the Evidence Decree, NRCD 323, cautioning against overreliance on demeanour. It further explains that while appellate courts typically defer to trial court findings, they may overturn them if unsupported by evidence or contradicted by documentary proof, as seen in Appiah v Takyi. Overall, the piece underscores the necessity of rigorous, transparent fact-finding to ensure just outcomes in civil litigation.",
+  "legalKeywords": [
+    "finding of facts",
+    "evaluation of evidence",
+    "credibility of witnesses",
+    "primary facts",
+    "inference",
+    "demeanour",
+    "burden of proof",
+    "appellate review",
+    "traditional evidence",
+    "possession of land",
+    "oral testimony",
+    "documentary evidence",
+    "trial judge duties",
+    "civil procedure",
+    "Evidence Decree NRCD 323"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Evidence Law",
+    "Judicial Reasoning",
+    "Appellate Review",
+    "Witness Credibility"
+  ],
+  "verdict": "Not applicable – the document is a legal commentary, not a case judgment.",
+  "winningSide": "Not applicable – no specific case outcome is reported.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Van Lare JSC",
+      "role": "appellate judge"
+    },
+    {
+      "name": "Korsah CJ",
+      "role": "chief justice"
+    },
+    {
+      "name": "Sarkodee Addo JSC",
+      "role": "supreme court judge"
+    },
+    {
+      "name": "Azu Crabbe JSC",
+      "role": "supreme court judge (dissenting)"
+    },
+    {
+      "name": "da Rocha B J",
+      "role": "author/commentator"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Quaye v Mariamu [1961] GLR 93",
+    "Addison v A/S Norway Cement Export Ltd [1973] 2 GLR 151",
+    "Adjin & Co v Kumaning [1982-83] GLRD 13",
+    "Reindorf v Amadu [1962] 1 GLR 508",
+    "Appiah v Takyi [1982-83] GLRD 1"
+  ],
+  "rationaleHighlights": [
+    "A trial judge must make clear and proper findings on primary facts before applying the law.",
+    "Findings must be based on evidence properly before the court; unsupported findings are invalid.",
+    "Appellate courts generally defer to trial court's factual findings, especially where witness demeanour is involved.",
+    "Credibility assessment must go beyond demeanour and consider consistency, bias, and external evidence.",
+    "Documentary evidence can override oral testimony when there is a conflict.",
+    "Failure to resolve material conflicts in evidence renders a judgment unsatisfactory.",
+    "Evaluation of facts is a logical, objective process distinct from fact-finding.",
+    "Professional witnesses may appear credible but lack reliability."
+  ],
+  "confidenceNotes": "The document is an academic legal commentary rather than a full court judgment, which limits direct extraction of case-specific details such as parties, verdict, and winning side. However, it extensively references actual Ghanaian cases and legal principles, allowing for reliable citation of judicial reasoning and procedural standards.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/87 - 88/MISCELLANY-AT-LAW FINDING AND EVALUATION OF FACTS IN CIVIL A.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:24:19.735Z",
+    "plainTextLength": 19347
+  }
+}

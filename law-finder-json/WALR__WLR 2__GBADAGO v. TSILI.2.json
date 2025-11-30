@@ -1,0 +1,79 @@
+{
+  "caseTitle": "GBADAGO VERSUS TSILI.",
+  "summary": "This 1957 West African Court of Appeal decision in GBADAGO v. TSILI concerns a land dispute in the Gold Coast (now Ghana), where the plaintiff successfully challenged a judgment allegedly altered by fraud and conspiracy. The Native Appeal Court had orally delivered a judgment in his favor, but days later, the Registrar convened a meeting at the President's house—attended by the losing defendant—where the written judgment was recorded with unauthorized additions benefiting the defendant. The plaintiff sued in the Native Court to set aside the fraudulent portion. The Native Court and Land Court both ruled for the plaintiff, finding fraud and conspiracy. On appeal, the defendant argued lack of jurisdiction, estoppel due to abandoned appeal, and challenged the evidence. The West African Court of Appeal upheld the lower courts, affirming that Native Courts have inherent jurisdiction to set aside judgments obtained by fraud, that estoppel did not apply, and that the evidence supported the finding of fraud.",
+  "legalKeywords": [
+    "fraud in judgment",
+    "inherent jurisdiction",
+    "conspiracy",
+    "Native Courts",
+    "judicial misconduct",
+    "oral vs written judgment",
+    "court fraud",
+    "judgment alteration",
+    "procedural irregularity",
+    "customary law",
+    "judicial integrity",
+    "record keeping",
+    "fraudulent modification",
+    "court procedure",
+    "judicial panel",
+    "fraudulent collusion",
+    "judicial authority",
+    "judgment authenticity",
+    "procedural compliance",
+    "judicial ethics"
+  ],
+  "topics": [
+    "Native Courts jurisdiction",
+    "fraudulent judgment",
+    "judicial procedure",
+    "land dispute",
+    "inherent powers of courts"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Korsah C.J.",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Coussey P.",
+      "role": "Panel member"
+    },
+    {
+      "name": "Verity Ag.JA",
+      "role": "Panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "GBADAGO v. TSILI (1957)",
+    "Gbadago v. Tsili (1955) 2 W.A.L.R. 11",
+    "Oannell v. Sewell (1858) 157 E.R. 615",
+    "The Allred Nobel; The Bjorn$terjne Bjornson; The Fridland [1918] 293",
+    "Native Courts (Colony) Procedure Regulations, No. 10 of 1945, Reg. 41"
+  ],
+  "rationaleHighlights": [
+    "Native Courts possess inherent jurisdiction to set aside their own judgments obtained by fraud.",
+    "The judgment must be recorded forthwith in open court per Regulation 41.",
+    "The presence of the losing party during private recording of judgment raised suspicion.",
+    "The protest of panel members and absence of approval invalidated the altered judgment.",
+    "The court emphasized natural justice and good conscience as foundational to judicial integrity.",
+    "The Registrar's unavailability and prior misconduct supported the fraud finding.",
+    "Estoppel did not bar the plaintiff due to the gravity of fraud allegations.",
+    "The blind and aged President's inability to recall signing undermined authenticity."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; all details are directly supported by the text. Jurisdictional and procedural points are clearly articulated in the judgment. Some names may have transcription errors (e.g., 'Oannell' likely 'Cannell').",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/GBADAGO v. TSILI.2.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:33:08.868Z",
+    "plainTextLength": 13403
+  }
+}

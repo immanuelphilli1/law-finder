@@ -1,0 +1,67 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The case involves a land dispute between Yode Kwao (plaintiff-appellant) and Kwasi Coker (defendant-respondent) over a parcel of land in the Gold Coast Colony (now Ghana). The plaintiff claimed damages for trespass, asserting ownership through a 1926 purchase from Nkansa. The defendant traced his title to Aboagye, whose ownership was confirmed by a 1908 Native Tribunal judgment in Aboagye v. Nkansa and a 1909 Divisional Court judgment in Coker v. Nmate. The key issue was whether the earlier judgments constituted *res judicata* and estopped the plaintiff from relitigating the land’s ownership. The West African Court of Appeal affirmed the lower court’s ruling that the plaintiff was bound by the prior decisions, as he and Nmate were part of the same syndicate with identical interests, and the plaintiff had acquiesced in the earlier proceedings without seeking to join. Thus, the plaintiff was estopped from asserting title.",
+  "legalKeywords": [
+    "res judicata",
+    "estoppel",
+    "land ownership",
+    "title to land",
+    "syndicate liability",
+    "privity of estate",
+    "Native Tribunal",
+    "Divisional Court",
+    "identity of interest",
+    "preliminary issue",
+    "trespas",
+    "successor in title",
+    "admissible evidence",
+    "acquiescence",
+    "binding judgment"
+  ],
+  "topics": [
+    "Property Law",
+    "Land Dispute",
+    "Judicial Precedent"
+  ],
+  "verdict": "The appeal was dismissed. The plaintiff, Yode Kwao, was found to be estopped from litigating the ownership of the land due to the prior binding judgments in favor of the defendant's predecessor-in-title, particularly the 1909 decision in Coker v. Nmate, which resolved the boundary and ownership issue affecting the syndicate of which the plaintiff was a member.",
+  "winningSide": "Defendant-Respondent (Kwasi Coker)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "SAWREY-COOKSON, J.",
+      "role": "Appellate Judge"
+    },
+    {
+      "name": "DEANE, C.J.",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal (WACA)",
+    "country": "Ghana"
+  },
+  "citations": [
+    "Coker v. Nmate (1909), Divisional Court, Accra",
+    "Aboagye v. Nkansa (1908), Native Tribunal",
+    "Mercantile Investment etc. Co. v. River Plate Trust Co. (1894) 1 Ch. 578",
+    "Spencer Bower on Estoppel"
+  ],
+  "rationaleHighlights": [
+    "The principle of res judicata applies when the subject matter, parties, or their privies are identical in interest.",
+    "Members of a land-purchasing syndicate are bound by a judgment against one member if their titles and interests are substantially identical.",
+    "A person with a shared interest who is present during litigation but fails to join the suit may be estopped from later asserting conflicting claims.",
+    "Identity of interest, rather than strict legal identity, determines whether a party is bound by a prior judgment.",
+    "The 1909 judgment in Coker v. Nmate conclusively determined the boundaries of the land, covering the area in dispute.",
+    "The trial judge correctly applied legal principles of estoppel and res judicata based on established authorities.",
+    "The plaintiff’s acquiescence in the prior litigation without seeking to intervene supports the application of estoppel.",
+    "The evidence, including the 1908 Native Tribunal decision, was properly admitted and relevant to the issue of title."
+  ],
+  "confidenceNotes": null,
+  "metadata": {
+    "sourcePath": "WACA/1WACA/YODE KWAO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:36:44.558Z",
+    "plainTextLength": 25549
+  },
+  "trialDate": "1931-12-03"
+}

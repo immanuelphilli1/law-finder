@@ -1,0 +1,68 @@
+{
+  "caseTitle": "Rex v. Oliphant",
+  "summary": "Joseph Attoh Ahumah Quaye, an accounts manager at the United Africa Company Limited's Nsawam branch, was convicted of falsifying accounts under section 283(1) of the Criminal Code. The West Africa Court of Appeal upheld the conviction, finding that Quaye instructed a clerk, Ofori, to make a false entry in the stores transfer book showing kerosene was taken for watchmen's expenses when it was for his personal use, with intent to defraud. The false entry was replicated in ledger No.2 and a true entry omitted from ledger No.8. The court held that falsification committed through an innocent agent constitutes criminal liability for the directing party. Evidence of other transactions was admissible to prove intent. The appeal was dismissed, following Rex v. Oliphant, confirming that directing a false entry or omission through another satisfies the statutory offence.",
+  "legalKeywords": [
+    "falsification of accounts",
+    "intent to defraud",
+    "admissibility of evidence",
+    "innocent agent",
+    "fraudulent entry",
+    "criminal liability",
+    "corporate fraud",
+    "accounting fraud",
+    "evidence of other transactions",
+    "criminal code section 283",
+    "Rex v. Oliphant",
+    "constructive liability"
+  ],
+  "topics": [
+    "criminal law",
+    "fraud",
+    "evidence",
+    "corporate liability",
+    "appellate decision"
+  ],
+  "verdict": "Appeal dismissed; conviction upheld.",
+  "winningSide": "Prosecution (Rex)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Justice"
+    },
+    {
+      "name": "Barton",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v. Oliphant, 1905, 2 K.B. 67",
+    "Reg. v. Butt, 15 Cox, 564"
+  ],
+  "rationaleHighlights": [
+    "False entries made by an innocent clerk under the accused's direction constitute falsification by the accused.",
+    "Evidence of other transactions was admissible to prove intent to defraud.",
+    "The accused, as accounts manager, was responsible for entries made under his instructions.",
+    "Omission of a true entry at another's direction constitutes an offence under section 283(1).",
+    "Precedent from Rex v. Oliphant confirms liability for falsification through innocent agents.",
+    "Knowledge of accounting system implies intent to create corresponding false entries.",
+    "No requirement to call the clerk who made the ledger entry if the record speaks for itself."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and direct citation of precedent.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/REX  v  JOSEPH ATTOH AHUMAH QUAYE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:11:30.514Z",
+    "plainTextLength": 6141
+  },
+  "trialDate": "1937-04-12"
+}

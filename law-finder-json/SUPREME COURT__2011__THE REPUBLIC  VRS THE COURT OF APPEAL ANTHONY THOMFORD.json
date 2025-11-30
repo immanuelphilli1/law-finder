@@ -1,0 +1,81 @@
+{
+  "caseTitle": "THE REPUBLIC VRS THE COURT OF APPEAL ANTHONY THOMFORD",
+  "summary": "The Supreme Court of Ghana considered an application for certiorari to quash an order of the Court of Appeal that struck out an appeal based solely on the Registrar's Certificate of non-compliance with Rule 20(1) of CI 19, without hearing the appellant's counsel. The applicant, Ghana Chartered Institute of Bankers, argued that the audi alteram partem principle was breached. The Supreme Court emphasized that failure to afford a party an opportunity to be heard violates natural justice and results in a jurisdictional nullity. It held that the Court of Appeal erred by acting on the Registrar's Certificate without allowing the appellant to challenge its validity. The Court further ruled that time limits under Rule 62 of CI 16 do not apply to jurisdictionally defective decisions. The ruling reaffirmed that procedural fairness is fundamental, and discretion under Rule 20(2) must be exercised only after hearing the affected party.",
+  "legalKeywords": [
+    "audi alteram partem",
+    "natural justice",
+    "nullity",
+    "jurisdiction",
+    "certiorari",
+    "procedural fairness",
+    "Court of Appeal Rules CI 19",
+    "Rule 20",
+    "Registrar's Certificate",
+    "extension of time",
+    "supervisory jurisdiction",
+    "Rule 62 CI 16",
+    "breach of procedure",
+    "right to be heard",
+    "discretionary power"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Constitutional Law",
+    "Appellate Procedure",
+    "Natural Justice",
+    "Judicial Review"
+  ],
+  "verdict": "The Supreme Court granted the application for certiorari, quashing the Court of Appeal's order striking out the appeal due to breach of audi alteram partem.",
+  "winningSide": "The Republic (on behalf of Ghana Chartered Institute of Bankers as applicant)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Presiding Judge delivering the ruling"
+    },
+    {
+      "name": "Atuguba",
+      "role": "JSC"
+    },
+    {
+      "name": "Ansa",
+      "role": "JSC"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "JSC"
+    },
+    {
+      "name": "Aryeetey",
+      "role": "JSC"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Vasquez v Quarshie [1968] 2 GLR 62",
+    "The Republic v High Court, Accra; ex parte Salloum & Ors (Coker, Interested Party), Suit No. J5/4/2011, unreported judgment of the Supreme Court, delivered on 16th March 2011",
+    "In re Kumi (Dec’d); Kumi v Nartey [2007-2008] SCGLR 623",
+    "Republic v High Court, Accra; ex parte Allgate Co. Ltd. (Amalgamated Bank Ltd., Interested Party) [2007-2008] SCGLR 1041",
+    "Amoakoh v Hansen [1987-88] 2 GLR 26",
+    "Republic v High Court (Fast Track Division) Accra; ex parte Speedline Stevedoring Co. Ltd. (Dolphyne Interested Party) [2007-2008] SCGLR 102"
+  ],
+  "rationaleHighlights": [
+    "Breach of audi alteram partem renders proceedings a nullity",
+    "Non-compliance with procedural rules does not override right to be heard",
+    "Registrar's Certificate is not irrebutable and must be subject to challenge",
+    "Time limits for filing applications do not apply to jurisdictionally defective decisions",
+    "Court must allow representation before exercising discretion under Rule 20(2)"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy due to direct quotations from judicial opinions and clear procedural details. Some truncation in source text, but key legal reasoning and outcome are preserved.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/THE REPUBLIC  VRS THE COURT OF APPEAL ANTHONY THOMFORD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:57:08.075Z",
+    "plainTextLength": 25376
+  },
+  "trialDate": "2001-05-21"
+}

@@ -1,0 +1,67 @@
+{
+  "caseTitle": "MOMODU RAJI v R. M. WILLIAMS AND OTHERS",
+  "summary": "This case involved an appeal against a conveyance of land executed under the power granted by the Conveyancing Act of 1881. The appellant sought to set aside the conveyance, but the West African Court of Appeal held that the protection afforded to the purchaser under section 21(2) of the Act is absolute. The court emphasized that it was not concerned with the background circumstances leading to the execution of the conveyance. As the statutory protection was unqualified, the appeal was dismissed with costs.",
+  "legalKeywords": [
+    "sale of land",
+    "conveyance",
+    "power of sale",
+    "Conveyancing Act 1881",
+    "section 21(2)",
+    "purchaser protection",
+    "appeal dismissal",
+    "absolute protection",
+    "land transaction",
+    "executed conveyance",
+    "third-party purchaser",
+    "property law",
+    "real estate",
+    "legal remedy",
+    "void conveyance"
+  ],
+  "topics": [
+    "Property Law",
+    "Conveyancing",
+    "Appellate Procedure",
+    "Statutory Interpretation",
+    "Land Transactions"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Butler Lloyd",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Brooke",
+      "role": "Justice"
+    },
+    {
+      "name": "Jeffreys",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Conveyancing Act of 1881, s 21(2)"
+  ],
+  "rationaleHighlights": [
+    "The conveyance was made under the power granted by the Conveyancing Act of 1881.",
+    "The court declined to examine the circumstances leading to the conveyance.",
+    "Section 21(2) of the Act provides absolute protection to the purchaser.",
+    "The appeal lacked substantive merit and was dismissed."
+  ],
+  "confidenceNotes": "The source document is a court judgment from the West African Court of Appeal, though scanned and presented via a legal portal; citation to the Conveyancing Act of 1881 is explicit and contextually accurate.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/MOMODU RAJI  v R. M. WILLIAMS AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:31:48.674Z",
+    "plainTextLength": 1880
+  },
+  "trialDate": "1941-11-07"
+}

@@ -1,0 +1,82 @@
+{
+  "caseTitle": "NOVA COMPLEX LIMITED v GHANA PORT & HARBOURS AUTHORITY",
+  "summary": "This Supreme Court of Ghana case, Nova Complex Limited v Ghana Port & Harbours Authority, centered on the correct rate and application of post-judgment interest on a debt arising from a prior judgment. The respondent sought a garnishee order for unpaid interest, arguing that post-judgment interest should be calculated using the U.S. dollar prime rate, not the Bank of Ghana's rate, and that the Court (Award of Interest and Post Judgment Interest) Rules 2005 (CI 52) applied. The appellant contended that applying CI 52 retroactively to the 2004 High Court judgment was unconstitutional. The Supreme Court unanimously rejected this, holding that CI 52 applies from the date of the final appellate judgment (2006), not the trial judgment (2004), thus avoiding retroactivity. It affirmed that post-judgment interest under CI 52 applies automatically from the date of the final judgment until payment and that the Court of Appeal was correct in ordering interest on the dollar component at the prevailing U.S. rate. The Court also clarified that Article 107 of the Constitution, which restricts retroactive laws, does not apply to court rules made under Article 157(2).",
+  "legalKeywords": [
+    "post-judgment interest",
+    "garnishee order",
+    "Court (Award of Interest and Post Judgment Interest) Rules 2005 (CI 52)",
+    "retroactive application",
+    "appellate jurisdiction",
+    "interest rate",
+    "judgment debt",
+    "procedural law",
+    "constitutional law",
+    "Bank of Ghana",
+    "US dollar prime rate",
+    "91-day Treasury Bill rate",
+    "pre-judgment interest",
+    "final judgment",
+    "rehearing on appeal"
+  ],
+  "topics": [
+    "Interest on Judgment Debts",
+    "Appellate Jurisdiction",
+    "Procedural Law",
+    "Constitutional Law",
+    "Garnishee Proceedings"
+  ],
+  "verdict": "The appeal by the Ghana Port & Harbours Authority was dismissed. The Supreme Court upheld the Court of Appeal's decision that post-judgment interest on the U.S. dollar component of the judgment debt should be calculated at the prevailing U.S. interest rate until final payment, in accordance with CI 52.",
+  "winningSide": "Nova Complex Limited",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Adinyira (Mrs)",
+      "role": "Justice"
+    },
+    {
+      "name": "Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "CCWL v Accra Metropolitan Assembly [2007-2008] SCGLR 440",
+    "Da Costa v Ofori Transport Ltd. [2007-2008] SCGLR 602",
+    "Dupaul Wood Treatment (Ghana) Co. Ltd & Duffour v Asare [2005-2006] SCGLR 667",
+    "Yungdong Industries Ltd v Roro Services & Ors [2005-2006] SCGLR 816",
+    "Antwi v NTHC (Suit No. 54/12/2008, unreported judgment, delivered on 4th February 2009)"
+  ],
+  "rationaleHighlights": [
+    "The operative judgment for post-judgment interest under CI 52 is the final appellate judgment, not the trial court's.",
+    "CI 52 applies prospectively from the date of the final appellate judgment, not retroactively to the trial judgment.",
+    "Article 107 of the 1992 Constitution does not apply to rules made by the Rules of Court Committee under Article 157(2).",
+    "Post-judgment interest accrues automatically from the date of final judgment until full payment.",
+    "The Supreme Court has discretion to award pre-judgment interest from the cause of action to the date of final judgment.",
+    "The Court of Appeal correctly ordered post-judgment interest on the dollar component at the prevailing U.S. rate until payment.",
+    "The argument that applying CI 52 constitutes unconstitutional retroactivity fails because CI 52 is procedural and applies to final judgments.",
+    "Interest on judgment debts is governed by statutory rules, not outdated repealed provisions."
+  ],
+  "confidenceNotes": "All information is derived directly from the provided judgment text. Citations are explicitly mentioned in the reasoning. Jurisdiction, parties, and legal principles are clearly stated.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/NOVA COMPLEX LIMITED  v  GHANA PORT & HARBOURS AUTHORITY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:44:28.758Z",
+    "plainTextLength": 20386
+  }
+}

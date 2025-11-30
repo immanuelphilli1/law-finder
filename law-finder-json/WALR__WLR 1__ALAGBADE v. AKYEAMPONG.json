@@ -1,0 +1,57 @@
+{
+  "caseTitle": "ALAGBADE VERSUS AKYEAMPONG",
+  "summary": "The plaintiff, a licensed moneylender, sued to recover ₤606 Os. 3d as the balance due under two loan agreements secured by cocoa farms. The agreements stated loans of ₤500 + ₤50 interest and ₤184 + ₤10 interest, with repayment via cocoa proceeds. The defendant contested, asserting the true loans were ₤300 + ₤250 interest and ₤100 + ₤94 interest, and that the documents misrepresented the terms. The court found the plaintiff's evidence unconvincing and credited the defendant's account. It held the agreements void under s.26(2) of the Moneylenders Ordinance for misstating loan terms, the second agreement unenforceable under s.12(1) for failure to deliver a copy, and the interest rates excessive under s.13(1) and s.3 of the Loans Recovery Ordinance. The plaintiff's claim was dismissed with costs awarded to the defendant.",
+  "legalKeywords": [
+    "contract illegality",
+    "moneylender",
+    "licensed moneylender",
+    "excessive interest",
+    "void contract",
+    "unenforceable agreement",
+    "cocoa farm security",
+    "failure to deliver copy",
+    "harsh and unconscionable terms",
+    "statutory compliance"
+  ],
+  "topics": [
+    "Contract Law",
+    "Illegality",
+    "Moneylending Regulation",
+    "Interest Rates",
+    "Judicial Credibility Assessment"
+  ],
+  "verdict": "The plaintiff's claim was dismissed. The agreements were declared void and unenforceable. Judgment was entered for the defendant with costs.",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Manyo-Plange J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Central Judicial Division, Divisional Court, Cape Coast",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Moneylenders Ordinance, c. 176 of 1951, s. 12(1)",
+    "Moneylenders Ordinance, c. 176 of 1951, s. 13",
+    "Moneylenders Ordinance, c. 176 of 1951, s. 26(2)",
+    "Loans Recovery Ordinance, c. 175 of 1951, s. 3"
+  ],
+  "rationaleHighlights": [
+    "Agreements misrepresented principal and interest, violating s.26(2) of the Moneylenders Ordinance",
+    "Second agreement unenforceable due to failure to deliver copy within 7 days under s.12(1)",
+    "Interest presumed excessive under s.13(1) and reduced to 15% under Loans Recovery Ordinance",
+    "Credibility of defendant and witness favored over plaintiff and his clerk",
+    "Plaintiff's failure to call multiple witnesses inferred as adverse to his case"
+  ],
+  "confidenceNotes": "The judgment is clear and well-reasoned with explicit statutory references. The credibility assessment of witnesses is detailed, supporting the factual conclusions.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/ALAGBADE v. AKYEAMPONG.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:15:47.520Z",
+    "plainTextLength": 15201
+  }
+}

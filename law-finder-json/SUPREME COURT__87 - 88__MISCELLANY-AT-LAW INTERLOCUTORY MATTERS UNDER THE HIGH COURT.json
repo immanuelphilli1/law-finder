@@ -1,0 +1,69 @@
+{
+  "caseTitle": "MISCELLANY-AT-LAW INTERLOCUTORY MATTERS UNDER THE HIGH COURT",
+  "summary": "This legal commentary by Justice Adade N.Y.B. of the Ghanaian Supreme Court examines interlocutory matters under the High Court Rules, focusing on injunctions, stay of execution, and aspects of pleadings. Interlocutory orders are defined as judicial directives issued during the pendency of a case that do not finally determine the rights of the parties. The discussion emphasizes procedural requirements for injunctions under Order 50 and Order 52 of the High Court Rules, distinguishing between ex parte interim orders (granted only in emergencies) and interlocutory injunctions granted on notice. The court must consider factors such as hardship to parties, preservation of the status quo, adequacy of damages, and the applicant's prima facie case when deciding on injunctions. The commentary critiques the routine appointment of court registrars as receivers in land disputes, suggesting private individuals may better serve the parties' interests. It also clarifies timing rules for applications, noting plaintiffs may apply for injunctions after issuing a writ of summons, but service of notice generally requires prior service of the writ unless leave is granted. The truncated text appears to transition into permanent injunctions and pleading requirements.",
+  "legalKeywords": [
+    "interlocutory order",
+    "injunction",
+    "ex parte application",
+    "status quo",
+    "prima facie case",
+    "High Court Rules",
+    "receiver appointment",
+    "stay of execution",
+    "service of notice",
+    "procedural justice",
+    "interim order",
+    "Order 50",
+    "Order 52",
+    "relative hardship",
+    "adequacy of damages"
+  ],
+  "topics": [
+    "Injunctions",
+    "Interlocutory Proceedings",
+    "Civil Procedure",
+    "Judicial Discretion",
+    "Court Administration"
+  ],
+  "verdict": "N/A",
+  "winningSide": "N/A",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Adade N Y B",
+      "role": "author/speaker"
+    },
+    {
+      "name": "Osei-Hwere",
+      "role": "contributor"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Legal Commentary / Judicial Lecture",
+  "citations": [
+    "Ansah v Ansah [1977] 2 All ER 638",
+    "Rhone-Poulence v GNTC [1972] 2 GLR 109",
+    "Frimpong v Obeng II [1974] 1 GLR 16",
+    "Punjabi Brothers v Namih (1958) 3 WALR 381",
+    "Easton v Nar Valley Drainage Commissioners (1892) 8 TLR 649",
+    "Smith v Cowell (1830) 6 QBD 75",
+    "Craig v Kanseen"
+  ],
+  "rationaleHighlights": [
+    "Interlocutory orders are intermediate judicial decisions that do not finally dispose of a case but regulate proceedings.",
+    "Ex parte injunctions should be granted only in extreme emergencies and must be strictly time-limited to prevent injustice.",
+    "The court must balance relative hardship, status quo preservation, and adequacy of damages when considering injunctions.",
+    "A plaintiff may apply for an injunction after issuing a writ, but service of notice typically requires prior service of the writ unless leave is obtained.",
+    "Routine appointment of court registrars as receivers in land disputes may not serve the best interests of the parties due to workload and lack of specialized management skills."
+  ],
+  "confidenceNotes": "The source is a judicial commentary rather than a case judgment, so verdict and winning side are inapplicable. Information is drawn directly from the provided text with high confidence, though the document is truncated. Legal keywords and topics reflect core themes in the discussion of interlocutory procedures in Ghanaian civil litigation.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/87 - 88/MISCELLANY-AT-LAW INTERLOCUTORY MATTERS UNDER THE HIGH COURT.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:01:21.168Z",
+    "plainTextLength": 34416
+  }
+}

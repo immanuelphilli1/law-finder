@@ -1,0 +1,68 @@
+{
+  "caseTitle": "REX v OSUMU FAGBAYI",
+  "summary": "The appellant, Osumu Fagbayi, was brought before the High Court in Ibadan for a summary trial on short notice, despite prior notice that the preliminary investigation before the Magistrate had been adjourned to a later date. This resulted in the unavailability of both defense and prosecution witnesses, undermining the fairness of the trial. The appellate court, citing Lord Watson in *In re Dillet* (12 App. Cases 459), held that there had been a disregard of legal process leading to substantial and grave injustice. Consequently, the appeal was allowed, the conviction and sentence were quashed, and a verdict of acquittal was entered, with the appellant discharged.",
+  "legalKeywords": [
+    "fair trial",
+    "summary trial",
+    "adjournment",
+    "witness availability",
+    "legal process",
+    "substantial injustice",
+    "conviction quashed",
+    "verdict of acquittal",
+    "prosecution witnesses",
+    "appellate review",
+    "due process",
+    "criminal procedure",
+    "trial fairness",
+    "discharge of accused",
+    "judicial adjournment"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Fair Trial Rights"
+  ],
+  "verdict": "acquittal",
+  "winningSide": "appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webb",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal appeal",
+  "citations": [
+    "In re Dillet (12 App. Cases 459)"
+  ],
+  "rationaleHighlights": [
+    "Trial conducted at short notice despite adjournment",
+    "Defense and prosecution witnesses unavailable",
+    "Violation of fair trial rights",
+    "Disregard of legal process caused grave injustice",
+    "Conviction quashed due to procedural unfairness",
+    "Verdict of acquittal entered on appeal",
+    "Appellant discharged"
+  ],
+  "confidenceNotes": "High confidence; details are drawn directly from the judgment text, though limited factual background is provided in the source.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX v  OSUMU FAGBAYI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:55:09.506Z",
+    "plainTextLength": 2173
+  },
+  "trialDate": "1938-10-31"
+}

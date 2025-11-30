@@ -1,0 +1,70 @@
+{
+  "caseTitle": "HADMORIS CO. LTD. v. F. Y. KYERE",
+  "summary": "In Hadmoris Co. Ltd. v. F. Y. Kyere, the Court of Appeal of Ghana considered whether interest should have been awarded on the full amount of 54 million cedis claimed in the writ of summons, rather than only on 29 million cedis as ordered by the trial judge. The appellant argued that the trial court erred in limiting interest despite the defendant's conduct effectively admitting liability, including partial payment into court. The Court of Appeal held that under The Courts (Award of Interest) Instrument (LI 1295), interest must be awarded on the entire sum found due, especially where the defendant's actions amounted to an admission of the claim. Relying on precedent and principles of justice, the court ruled that a party who wrongfully withholds funds should not benefit from their use during litigation. Consequently, the appeal succeeded, and the court substituted the interest award to apply to the full 54 million cedis from the date of the writ to the date of judgment at the prevailing bank rate.",
+  "legalKeywords": [
+    "interest award",
+    "civil claim",
+    "writ of summons",
+    "summary judgment",
+    "admissions",
+    "LI 1295",
+    "High Court rules",
+    "bank rate",
+    "payment into court",
+    "judgment on pleadings",
+    "legal proceedings",
+    "monetary claim",
+    "interest calculation",
+    "Court of Appeal",
+    "Ghanaian jurisprudence"
+  ],
+  "topics": [
+    "Interest on Damages",
+    "Civil Procedure",
+    "Judgment Enforcement",
+    "Appellate Review",
+    "Monetary Claims"
+  ],
+  "verdict": "The appeal was allowed. The Court of Appeal set aside the partial interest award and ordered interest on the full amount of 54 million cedis from the date of the writ to the date of judgment at the prevailing bank rate.",
+  "winningSide": "Hadmoris Co. Ltd. (Plaintiff/Appellant)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "N. S. Gbadegbe",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "G. T. Wood (Mrs.)",
+      "role": "concurring"
+    },
+    {
+      "name": "V. Akoto-Bamfo (Mrs.)",
+      "role": "concurring"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Hadmoris Co. Ltd. v. F. Y. Kyere [4/7/02] CA/NO 52/02",
+    "London, Chatham and Dover Railway Co v South Eastern Railway Co [1893] AC 429",
+    "Heloo v Tettey [1992] 2 GLR 112"
+  ],
+  "rationaleHighlights": [
+    "Interest should be awarded on the full amount claimed where the defendant's conduct amounts to an admission of liability.",
+    "The trial judge erred by limiting interest to only part of the claimed amount.",
+    "Under LI 1295, interest is awardable on any sum due to the plaintiff unless excluded by specific rule.",
+    "A party who wrongfully withholds money should not benefit from its use during litigation.",
+    "Payment into court does not negate the obligation to pay interest on the full claim if liability is admitted."
+  ],
+  "confidenceNotes": "High confidence; all details are explicitly stated in the judgment text.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/HADMORIS CO. LTD. v. F. Y. KYERE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:29:01.325Z",
+    "plainTextLength": 6251
+  },
+  "trialDate": "4TH JULY 2002"
+}

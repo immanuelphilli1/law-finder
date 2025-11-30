@@ -1,0 +1,69 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This 1935 appeal to the Privy Council arose from a dispute concerning the recognition of Nyarku Kweku IV as Omanhene (Paramount Chief) of Agona, Ghana. The plaintiffs, representing the Stool of Nsaba and the Oman of Nsaba, sought an injunction to prevent Nyarku Kweku IV, previously the Ohene of Nyarkrome, from exercising authority over Nsaba following his installation as Paramount Chief. The Governor had effectively transferred the paramount stool from Nsaba to Nyarkrome in 1932 under the Native Administration Ordinance. However, the courts below dismissed the action, citing lack of jurisdiction under Section 26 of the Ordinance, which prohibits civil courts from adjudicating on matters relating to the election, installation, deposition, or abdication of paramount or divisional chiefs. The Privy Council upheld this, ruling that the case directly concerned the installation of a paramount chief and thus fell outside judicial review.",
+  "legalKeywords": [
+    "jurisdiction",
+    "paramount chief",
+    "installation",
+    "Native Administration Ordinance",
+    "election dispute",
+    "destitution",
+    "injunction",
+    "customary law",
+    "chieftaincy dispute",
+    "judicial review",
+    "sovereignty",
+    "Governor's authority",
+    "stool family",
+    "Omanhene",
+    "Ohene"
+  ],
+  "topics": [
+    "Chieftaincy Dispute",
+    "Judicial Jurisdiction",
+    "Colonial Law"
+  ],
+  "verdict": "The appeal was dismissed. The Privy Council upheld the decision of the West African Court of Appeal, affirming that the civil courts lacked jurisdiction under Section 26 of the Native Administration Ordinance to adjudicate on the election or installation of a Paramount Chief.",
+  "winningSide": "Respondent (Nyarku Kweku IV, Ohene of Nyarkrome)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "LORD ATKIN",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "LORD TOMLIN"
+    },
+    {
+      "name": "LORD RUSSELL OF KILLOWEN"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Privy Council (on appeal from West African Court of Appeal)",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Privy Council Appeal No. 22 of July 1935",
+    "Native Administration Ordinance, Cap. III, Laws of the Gold Coast",
+    "Section 26, Native Administration Ordinance",
+    "Section 121, Native Administration Ordinance"
+  ],
+  "rationaleHighlights": [
+    "Section 26 of the Native Administration Ordinance explicitly removes jurisdiction from civil courts over disputes concerning the election or installation of a Paramount Chief.",
+    "The plaintiffs' claim directly challenged the installation of Nyarku Kweku IV as Omanhene, a matter deemed non-justiciable under the Ordinance.",
+    "The Governor's 1932 notification confirming the election and installation of Nyarku Kweku IV was accepted as administrative fact, though its legality was not judicially reviewable.",
+    "The absence of formal pleadings limited factual development, but the legal bar under Section 26 was deemed clear and conclusive.",
+    "The Privy Council declined to rule on whether such an action could lie, emphasizing the statutory jurisdictional limit.",
+    "The dispute was characterized as one of sovereign authority within a native administration framework, not a private civil matter.",
+    "The substitution of Kwesi Donkor after Kweku Baa's death did not affect the jurisdictional issue.",
+    "No costs order was made as the respondent did not appear."
+  ],
+  "confidenceNotes": "The summary and analysis are based on the original judgment text. Jurisdictional limitations under colonial-era chieftaincy laws are clearly articulated. The absence of pleadings limits deeper factual insight, but the legal reasoning on jurisdiction is unambiguous. All details are directly derived from the source document.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/KWEKU BAA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:24:43.965Z",
+    "plainTextLength": 6431
+  }
+}

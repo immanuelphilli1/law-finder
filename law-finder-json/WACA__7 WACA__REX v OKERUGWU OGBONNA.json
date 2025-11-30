@@ -1,0 +1,76 @@
+{
+  "caseTitle": "REX v OKERUGWU OGBONNA",
+  "summary": "The appellant, Okerugwu Ogbonna, was charged with cheating under section 421 of the Criminal Code for fraudulently obtaining £3 from Victoria Peter by misrepresenting brass trinkets as gold. The prosecution proved that the appellant used false pretences—claiming the trinkets were valuable gold—to secure the loan. While the facts supported a conviction under section 419 (false pretences), the court held that the conviction under section 421 (cheating) could not stand due to lack of evidence that the appellant had gilded the trinkets or used any trick as required under section 421. The appeal was allowed, the conviction and sentence were set aside, and an acquittal was entered.",
+  "legalKeywords": [
+    "cheating",
+    "false pretences",
+    "section 421",
+    "section 419",
+    "Criminal Code",
+    "fraud",
+    "gilding",
+    "trick",
+    "conviction",
+    "acquittal",
+    "evidence",
+    "misrepresentation",
+    "security",
+    "loan",
+    "appellant",
+    "prosecution",
+    "hard luck story",
+    "trinkets",
+    "brass",
+    "gold"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Fraud",
+    "Appellate Review",
+    "Evidence",
+    "Legal Procedure"
+  ],
+  "verdict": "acquittal",
+  "winningSide": "appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Butler Lloyd",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Brooke",
+      "role": "Justice"
+    },
+    {
+      "name": "Jeffreys",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal appeal",
+  "citations": [
+    "Rex v Okerugwu Ogbonna, WACA/7, 6th November 1941"
+  ],
+  "rationaleHighlights": [
+    "No evidence that appellant gilded the trinkets or ordered the gilding",
+    "Misrepresentation established under section 419 (false pretences)",
+    "Section 421 requires proof of a 'trick' or fraudulent device",
+    "Conviction under section 421 cannot stand without evidence linking appellant to the gilding",
+    "Appeal allowed due to insufficient evidence for cheating charge",
+    "Court expressed disapproval of appellant's conduct despite acquittal",
+    "Acquittal entered despite moral culpability",
+    "Distinction between false pretences and cheating emphasized"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and explicit statements in the judgment. Some contextual details (e.g., exact location within Ghana) are inferred from standard court nomenclature.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/REX v OKERUGWU OGBONNA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:24:06.378Z",
+    "plainTextLength": 2943
+  },
+  "trialDate": "1941-11-06"
+}

@@ -1,0 +1,76 @@
+{
+  "caseTitle": "KASUMU SHOMADE",
+  "summary": "This West Africa Court of Appeal decision from 1936 involved a property dispute over No. 51 Church Street, Lagos. The plaintiffs, Kasumu and Disu Shomade, sued on behalf of their family to set aside a conveyance and mortgage deeds executed by their aunt and her children. They claimed the property belonged to their father, Jinadu Shomade, and not the first defendant. The trial judge dismissed the claim and refused an amendment to plead co-ownership through their grandmother, Ayisatu Ajayi. The appellate court, by majority, held that substantial justice required allowing an alternative claim based on the recitals in the conveyance deed (Exhibit 'B'), which, though partially false, admitted Ayisatu's ownership and intestate death, implying a joint interest passing to Jinadu's descendants. The appeal was allowed, the judgment set aside, and the case remitted for amendment and further trial. Petrides, CJ, dissented, arguing the new ground was not raised on appeal. Costs in the lower court were preserved, with future costs to follow the final outcome, and each party bore their own appellate costs.",
+  "legalKeywords": [
+    "conveyance",
+    "mortgage deed",
+    "amendment of pleadings",
+    "substantial justice",
+    "co-ownership",
+    "foreclosure",
+    "intestate succession",
+    "evidence",
+    "title deeds",
+    "property dispute",
+    "descendants",
+    "alienation of property",
+    "judicial discretion",
+    "alternative claim",
+    "perjury",
+    "costs",
+    "remittal",
+    "pleadings",
+    "family property",
+    "registered deed"
+  ],
+  "topics": [
+    "Property Law",
+    "Civil Procedure",
+    "Succession",
+    "Conveyancing",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed; case remitted for amendment of pleadings and further trial.",
+  "winningSide": "Plaintiffs-Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice, Sierra Leone"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "WACA/3 WACA/KASUMU SHOMADE"
+  ],
+  "rationaleHighlights": [
+    "Substantial justice requires allowing amendment of pleadings in alternative form.",
+    "Original claim failed due to lack of evidence.",
+    "Recitals in Exhibit 'B' support an alternative claim of co-ownership.",
+    "Defendants' admissions imply plaintiffs' potential ownership interest.",
+    "Amendment would not require contradictory evidence or perjury.",
+    "Petrides CJ dissented, arguing grounds were not raised in appeal.",
+    "Case remitted for amendment and further trial.",
+    "Costs order preserved with future costs to abide final outcome."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment text.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/KASUMU SHOMADE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:21:30.303Z",
+    "plainTextLength": 9571
+  },
+  "trialDate": "1936-04-24"
+}

@@ -1,0 +1,71 @@
+{
+  "caseTitle": "REX v KALU FKOHA AND BRAIMOH",
+  "summary": "In Rex v Kalu Fkoha and Braimoh, the West Africa Court of Appeal allowed the appeal against convictions for contempt of court arising from alleged lying and prevarication during a criminal trial. The appellants were sentenced under section 41(1)(b) of the Criminal Procedure Ordinance without being formally charged with or given an opportunity to respond to allegations of perjury, as required by section 42. The court held that a prerequisite for committal under section 41(1)(b) is a finding of perjury, and that section 42 mandates the accused be informed of the charge, given specific assignments of perjury, and allowed to respond both substantively and in mitigation. As these procedures were not followed, the convictions and sentences were set aside. The court ordered judgments of acquittal and discharged the appellants.",
+  "legalKeywords": [
+    "contempt of court",
+    "perjury",
+    "section 41",
+    "section 42",
+    "Criminal Procedure Ordinance",
+    "right to be heard",
+    "procedural fairness",
+    "judicial misconduct",
+    "acquittal",
+    "committal order",
+    "prevarication",
+    "due process",
+    "trial irregularity",
+    "appeal allowed",
+    "conviction quashed"
+  ],
+  "topics": [
+    "criminal law",
+    "procedural fairness",
+    "contempt of court",
+    "perjury",
+    "appellate review"
+  ],
+  "verdict": "Appeal allowed; convictions and sentences quashed; acquittals entered.",
+  "winningSide": "Appellants",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Kalu Fkoha and Braimoh, WACA/7, Lagos, 30th April 1941"
+  ],
+  "rationaleHighlights": [
+    "Conviction under section 41(1)(b) requires a finding of perjury.",
+    "Section 42 mandates that accused must be given opportunity to respond to perjury charge before sentencing.",
+    "No prior intimation of perjury charge was given to appellants.",
+    "Appellants were not informed of specific assignments of perjury.",
+    "Failure to comply with section 42 renders committal orders invalid.",
+    "Appeal allowed due to breach of procedural fairness.",
+    "Convictions and sentences quashed.",
+    "Acquittals ordered and appellants discharged."
+  ],
+  "confidenceNotes": "The case is clearly reported with judicial officers, court, date, and legal reasoning provided. Citation reconstructed based on standard legal format for West Africa Court of Appeal decisions.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/REX v KALU FKOHA AND BRAIMOH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:26:14.306Z",
+    "plainTextLength": 4045
+  },
+  "trialDate": "1941-04-30"
+}

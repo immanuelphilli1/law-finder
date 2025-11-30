@@ -1,0 +1,58 @@
+{
+  "caseTitle": "in Bronya v. Asafo II, High Court,",
+  "summary": "In Bronya v. Asafo II, the High Court at Cape Coast refused an application for summary judgment in a land possession dispute, holding that the applicant failed to comply with the requirements of the newly amended Order 14 of the High Court (Civil Procedure) Rules. Wuaku J. ruled that, under Order 14, r. 2 (1), the applicant must either clearly state the reliefs sought or attach a statement of claim detailing the facts and grounds of the claim. Additionally, the affiant must have personal knowledge of the facts and must swear that the defendant has no defence. The court found that the deponent lacked personal knowledge, rendering the affidavit insufficient. The decision underscores the procedural rigor now required under the amended rules.",
+  "legalKeywords": [
+    "summary judgment",
+    "Order 14",
+    "affidavit",
+    "personal knowledge",
+    "statement of claim",
+    "defence",
+    "civil procedure",
+    "L.I. 1129",
+    "L.N. 140A",
+    "recovery of possession",
+    "farm land",
+    "deponent"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Summary Judgment",
+    "Affidavit Requirements",
+    "Land Law",
+    "Judicial Ruling Interpretation"
+  ],
+  "verdict": "Application for summary judgment refused due to non-compliance with procedural requirements under the amended Order 14.",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Wuaku J.",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Cape Coast",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "[1980] G.L.R.",
+    "[1973] 2 G.L.R. 289, C.A."
+  ],
+  "rationaleHighlights": [
+    "Applicant must set out reliefs clearly or attach a statement of claim.",
+    "Affidavit must be based on personal knowledge of facts.",
+    "Deponent must believe defendant has no defence.",
+    "Non-compliance with Order 14, r. 2 (1) invalidates application.",
+    "New Order 14 imposes stricter procedural requirements than the old rule."
+  ],
+  "confidenceNotes": "The source is a legal commentary summarizing a court decision rather than the full judgment; details are based on judicial interpretation in a reported ruling.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2012/MISCELLANY-AT-LAW APPLICATION FOR SUMMARY JUDGMENT [1980] VO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:46:17.897Z",
+    "plainTextLength": 2039
+  },
+  "trialDate": "1979-06-27"
+}

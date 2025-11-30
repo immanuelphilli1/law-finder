@@ -1,0 +1,69 @@
+{
+  "caseTitle": "QUIST VERSUS ATTORNEY-GENERAL.",
+  "summary": "In Quist v. Attorney-General, the plaintiff filed a petition of right seeking compensation for property damage caused by the Government's Electricity Department, which had excavated a hole near his house that remained open during rainfall, leading to subsidence. The claim was brought under section 3(6) of the Electricity Supply (Control) Ordinance, c. 66, which entitles persons injuriously affected by the exercise of statutory powers to compensation assessed in accordance with the Public Lands Ordinance, c. 134. The defendant argued the claim was statute-barred under both the Public Officers' Protection Ordinance, c. 27, s. 2, and the Public Lands Ordinance, s. 7, and that negligence was required. Ollennu J. held that the Public Officers' Protection Ordinance applies only to personal liability of officers, not the state, and that the limitation period for continuing damage does not begin until the damage ceases. Further, only sections 9 and 10 of the Public Lands Ordinance—governing assessment of compensation—were incorporated by reference, not the three-month claim deadline in section 7. The court emphasized that statutory compensation does not require proof of negligence, distinguishing it from tortious damages. The plaintiff’s claim was therefore valid and not time-barred.",
+  "legalKeywords": [
+    "Petition of Right",
+    "compensation",
+    "damages",
+    "statutory authority",
+    "negligence",
+    "public officers",
+    "Electricity Supply (Control) Ordinance",
+    "Public Lands Ordinance",
+    "Public Officers' Protection Ordinance",
+    "continuing damage",
+    "statutory interpretation",
+    "property damage",
+    "government liability",
+    "procedural bar",
+    "claim limitation period"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Constitutional Law",
+    "Tort Law",
+    "Property Law",
+    "Statutory Interpretation"
+  ],
+  "verdict": "The claim for compensation was upheld as not statute-barred and valid under the Electricity Supply (Control) Ordinance, c. 66, s. 3(6), with no requirement to prove negligence.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana, Eastern Judicial Division, Divisional Court, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Petition of Right",
+  "citations": [
+    "WALR/WLR 2/QUIST v. ATTORNEY-GENERAL.htm",
+    "Electricity Supply (Control) Ordinance, c. 66, s. 3(6)",
+    "Public Officers' Protection Ordinance, c. 27, s. 2",
+    "Public Lands Ordinance, c. 134, ss. 7, 9, 10",
+    "Attorney-General v. Keyser's Royal Hotel Ltd. [1920] A.C. 508",
+    "Tobin v. B. (1864) C.B.N.S. 310",
+    "Adams v. Naylor [1946] A.C. 543",
+    "Royster v. Cavey [1947] 1 K.B. 204",
+    "Green v. Chelsea Waterworks Co. (1894) 70 L.T. 547",
+    "Longhurst v. Metropolitan Water Board [1948] 2 All E.R. 834"
+  ],
+  "rationaleHighlights": [
+    "Statutory compensation under s. 3(6) does not require proof of negligence by public authority.",
+    "Public Officers' Protection Ordinance does not bar claims against the state when liability is not personal.",
+    "Continuing damage tolls the limitation period until cessation of harm.",
+    "Only ss. 9 and 10 of Public Lands Ordinance apply to compensation claims under Electricity Supply Ordinance, not s. 7's time bar.",
+    "Distinction between compensation (restitution) and damages (penalty + restitution) is critical.",
+    "Statutory incorporation must be interpreted narrowly—only 'provisions relating to compensation' are imported."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct judicial reasoning and statutory interpretation. Some citations are truncated but core legal principles are clearly articulated.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/QUIST v. ATTORNEY-GENERAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:25:10.231Z",
+    "plainTextLength": 34764
+  }
+}

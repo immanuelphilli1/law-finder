@@ -1,0 +1,76 @@
+{
+  "caseTitle": "NII OKAIDJA III",
+  "summary": "This Supreme Court of Ghana decision in Nii Okaidja III v. Nii Tettey Ahinakwa II (Civil Appeal No. J4/20/2009, delivered 29th April 2010) addressed the procedural correctness of a civil action challenging the execution of a writ of possession in a chieftaincy dispute. The plaintiffs/respondents had initiated proceedings via a writ of summons seeking to set aside the writ of possession and obtain an injunction, arguing they were not notified as required under Order 43 rule 3(3) of CI 47. The Supreme Court held that the proper remedy for such an irregularity was an application by motion under Order 81 of CI 47, not a new action by writ. The Court found the use of a writ of summons to challenge procedural irregularities in execution to be fundamentally defective, rendering the entire action incompetent. Despite the trial High Court and Court of Appeal having ruled in favor of the respondents, the Supreme Court determined that the improper commencement of the action deprived the lower courts of jurisdiction. It emphasized that such defects could not be cured post-trial, especially where no early application was made to treat the writ as a motion. Consequently, the appeal was allowed, and the judgments of the lower courts were set aside due to the fatal procedural flaw.",
+  "legalKeywords": [
+    "irregular execution",
+    "writ of possession",
+    "Order 43 rule 3(3)",
+    "Order 81 CI 47",
+    "competency of action",
+    "civil procedure",
+    "notice requirement",
+    "chieftaincy dispute",
+    "remedy by motion",
+    "jurisdictional defect"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Execution of Judgment",
+    "Jurisdiction",
+    "Chieftaincy Dispute",
+    "Remedies"
+  ],
+  "verdict": "The appeal was allowed. The judgments of the High Court and Court of Appeal were set aside due to the procedural incompetence of initiating the action by writ instead of motion.",
+  "winningSide": "Defendants/Appellants (Nii Tettey Ahinakwa II and Thomas Okine)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "GBADEGBE, JSC",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "ATUGUBA, JSC",
+      "role": "Presiding"
+    },
+    {
+      "name": "AKUFFO (MS), JSC",
+      "role": "Member"
+    },
+    {
+      "name": "ADINYIRA (MRS), JSC",
+      "role": "Member"
+    },
+    {
+      "name": "AKOTO-BAMFO (MRS), JSC",
+      "role": "Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Davis v Shapely (1830) 1 B & Ad 54",
+    "Rossi v Bailey (1868) LR 3 QB 621",
+    "Turner v Pulman (1848) 2 Exch 513, 154 ER 594",
+    "Re Deadman, Smith v Garland [1971] 2 All ER 101",
+    "Weldon v Neal (1887), 19 Q.B.D. 394",
+    "Halsbury's Laws of England, Vol 17 (4th Ed), para 459"
+  ],
+  "rationaleHighlights": [
+    "The respondents' action was incompetent because they used a writ of summons instead of a motion to challenge an irregular execution.",
+    "Non-compliance with Order 43 rule 3(3) on notice constitutes an irregularity, not illegality, requiring a remedy under Order 81 of CI 47.",
+    "Proceeding by writ rather than motion created a fundamental procedural defect that could not be rectified post-trial.",
+    "The Supreme Court emphasized that amendments cannot defeat pending objections to process.",
+    "The trial court lacked jurisdiction to hear the matter due to improper commencement of proceedings."
+  ],
+  "confidenceNotes": "High confidence; all key details including parties, court level, jurisdiction, and legal reasoning are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/NII OKAIDJA III.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:44:06.609Z",
+    "plainTextLength": 55264
+  },
+  "trialDate": "2009-04-20"
+}

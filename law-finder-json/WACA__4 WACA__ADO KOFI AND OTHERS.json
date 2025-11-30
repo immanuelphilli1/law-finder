@@ -1,0 +1,73 @@
+{
+  "caseTitle": "ADO KOFI AND OTHERS",
+  "summary": "This 1938 West African Court of Appeal decision in Accra addressed an application for special conditional leave to appeal by the defendant-appellant, Opanyin Kwaku Twum, following a judgment in the Divisional Court. Although the appeal was filed just within the time limit and lacked sufficient medical evidence to justify delay, the Court granted leave as it was among the first applications under new rules, refusing to set a precedent. The Court found that seven of eight consolidated claims involved land valued below £100, thus not qualifying for appeal as of right under section 3(1) of the West African Court of Appeal Ordinance (Cap. 5). However, recognizing a potential legislative oversight, the Court exercised its discretionary power under section 8 to entertain the appeal, given that the cases originated from a native tribunal where a full right of appeal would have existed absent transfer. Conditions for appeal were imposed, including payment and security for costs, and costs of the motion were awarded against the appellant.",
+  "legalKeywords": [
+    "special conditional leave to appeal",
+    "West African Court of Appeal Rules 1937",
+    "section 3(1) West African Court of Appeal Ordinance",
+    "section 8 Cap. 5",
+    "consolidated actions",
+    "right of appeal",
+    "delay in filing application",
+    "good cause for delay",
+    "transfer from native tribunal",
+    "legislative oversight",
+    "security for costs",
+    "costs on motion",
+    "appellate jurisdiction",
+    "quantum of claims",
+    "jurisdictional threshold"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Civil Appeals",
+    "Costs in Litigation",
+    "Jurisdiction",
+    "Native Tribunals"
+  ],
+  "verdict": "Special conditional leave to appeal granted under section 8 despite ineligibility under section 3(1) and unjustified delay.",
+  "winningSide": "Defendant-Appellant (partial procedural victory)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Queen's Judge, Gold Coast"
+    },
+    {
+      "name": "Webb",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "West African Court of Appeal Rules, 1937, rule 16",
+    "West African Court of Appeal Ordinance (Cap. 5), s 3(1) and s 8",
+    "Native Administration (Colony) Ordinance (Cap. 76), s 86"
+  ],
+  "rationaleHighlights": [
+    "Appeal does not lie as of right due to value of land claims being below £100 under s 3(1).",
+    "Court exercises discretion under s 8 to entertain appeal due to potential legislative oversight.",
+    "Delay in filing excused due to being an early case under new rules, but not to be precedent.",
+    "Consolidated actions do not aggregate value for jurisdictional threshold.",
+    "Transfer from native tribunal should not deprive party of right to appeal.",
+    "Costs awarded against appellant due to unnecessary proceedings.",
+    "Medical excuse for delay unsupported and disputed, but not fatal this once.",
+    "Conditions imposed for appeal include payment, security, and notice."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on primary source text. Some interpretive elements (e.g., 'legislative oversight') are drawn directly from court reasoning. Case predates modern Ghana but falls within its legal jurisdiction under colonial administration.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/ADO KOFI AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:08:53.230Z",
+    "plainTextLength": 5606
+  },
+  "trialDate": "1938-12-13"
+}

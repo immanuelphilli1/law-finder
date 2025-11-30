@@ -1,0 +1,84 @@
+{
+  "caseTitle": "MUSAH AMADU v MAHAMADU MOHAMMED CIVIL MOTION NO…20TH FEBRU",
+  "summary": "In Musah Amadu v. Mahamadu Mohammed (Supreme Court, 2007), the applicant sought to invoke the supervisory jurisdiction of the Supreme Court under article 132 of the 1992 Constitution to obtain an order of prohibition against Justice Simon Suurbare of the High Court, Tamale, who was set to hear a contempt motion filed by the respondent. The applicant alleged bias due to a perceived friendship between the judge and the respondent’s lawyer, animosity, and unfair judicial conduct. These claims were supported by circumstantial evidence, including an alleged early morning meeting and a phone conversation between the judge and counsel, as well as a prior ruling in a related matter. The Supreme Court, in a unanimous ruling delivered by Dr. Date-Bah JSC, held that the applicant failed to prove the allegations of bias or personal connection on the balance of probabilities. The Court emphasized that while real likelihood of bias is a valid ground for disqualification, it must be substantiated by credible evidence, which was lacking in this case. The application was therefore dismissed summarily.",
+  "legalKeywords": [
+    "supervisory jurisdiction",
+    "prohibition",
+    "judicial bias",
+    "contempt of court",
+    "affidavit evidence",
+    "real likelihood of bias",
+    "circumstantial evidence",
+    "constitutional remedy",
+    "judicial impartiality",
+    "motion to disqualify",
+    "balance of probabilities",
+    "unholy friendship",
+    "animosity",
+    "judicial conduct",
+    "High Court",
+    "Tamale",
+    "applicant",
+    "respondent",
+    "constitutional law",
+    "Ghanaian judiciary"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Judicial Review",
+    "Contempt of Court",
+    "Judicial Bias",
+    "Supervisory Jurisdiction"
+  ],
+  "verdict": "Application dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "W A Atuguba",
+      "role": "Justice"
+    },
+    {
+      "name": "Georgina Wood",
+      "role": "Justice"
+    },
+    {
+      "name": "Dr S K Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "J Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "S K Asiamah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "1992 Constitution of Ghana, article 132"
+  ],
+  "rationaleHighlights": [
+    "The applicant failed to prove allegations of bias or friendship with sufficient evidence.",
+    "Circumstantial evidence, such as alleged early meetings or phone calls, was deemed insufficient to establish bias.",
+    "Previous rulings by the judge do not inherently indicate bias.",
+    "Alleged personal connections (e.g., Abukari Chandiba) were found irrelevant to the judicial impartiality issue.",
+    "Real likelihood of bias must be proven on balance of probabilities, which was not met.",
+    "The Supreme Court will not invoke supervisory jurisdiction without concrete evidence of impropriety.",
+    "Affidavit evidence from both parties was considered, but applicant's was found lacking.",
+    "The motion was dismissed summarily due to lack of merit."
+  ],
+  "confidenceNotes": "The ruling is unanimous and clearly based on constitutional grounds; however, the lack of detailed factual elaboration in the circumstantial evidence supports a moderate confidence in the interpretation of evidentiary insufficiency.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2007A/MUSAH AMADU v   MAHAMADU MOHAMMED CIVIL MOTION NO…20TH FEBRU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:19:01.956Z",
+    "plainTextLength": 4800
+  },
+  "trialDate": "2007-02-20"
+}

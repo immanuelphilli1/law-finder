@@ -1,0 +1,73 @@
+{
+  "caseTitle": "SALOMEY SHORME TETTEH, NII AMON TAFO VRS MARY KORKOR HAYFORD SUBSTITUTED BY STELLA LARBI &COMFORT DE",
+  "summary": "This is a civil land dispute before the Supreme Court of Ghana involving competing claims over land titles issued by the Asere Stool. The plaintiff sought to nullify the defendant's Land Title Certificate (No. GA3929) on grounds of fraud, while the defendant counterclaimed that the plaintiff's indenture was invalid. The High Court initially ruled for the plaintiff, but the Court of Appeal reversed it. The Supreme Court found that the plaintiff had conceded the lands were different, weakening her claim. It stressed the necessity of proper survey instructions when court-ordered surveys are conducted and held that the trial judge erred in relying on inconsistent size measurements. Ultimately, the Supreme Court allowed the appeal, finding the Court of Appeal's decision against the weight of evidence, and restored the High Court’s judgment in favor of the plaintiff.",
+  "legalKeywords": [
+    "land dispute",
+    "title certificate",
+    "fraud",
+    "survey plan",
+    "injunction",
+    "counterclaim",
+    "evidence",
+    "expert testimony",
+    "procedural compliance",
+    "declaratory relief",
+    "property boundaries",
+    "stool land",
+    "lease deed",
+    "registration",
+    "possession"
+  ],
+  "topics": [
+    "Land Law",
+    "Judicial Review",
+    "Evidence Law"
+  ],
+  "verdict": "Appeal allowed; judgment of the Court of Appeal set aside and decision of the High Court restored.",
+  "winningSide": "Plaintiff/Respondent/Appellant (Salomey Shorme Tetteh and Nii Amon Tafo)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Jones Dotse JSC",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Akuffo (Ms) JSC",
+      "role": "member of bench"
+    },
+    {
+      "name": "Date-Bah JSC",
+      "role": "member of bench"
+    },
+    {
+      "name": "Adinyira (Mrs) JSC",
+      "role": "member of bench"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs) JSC",
+      "role": "member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil land dispute",
+  "citations": [
+    "Sasu v White Cross Insurance Co. Ltd [1960] GLR 4",
+    "Darbah & another v Ampah [1989-90] 1 GLR 598 (CA) at 606"
+  ],
+  "rationaleHighlights": [
+    "Plaintiff conceded that her land was different from the defendant's, undermining her claim to nullify the defendant's title.",
+    "Court emphasized the importance of survey instructions in land disputes for accurate expert evidence.",
+    "Trial court erred by focusing on immaterial inconsistencies in survey sizes rather than actual ownership.",
+    "Supreme Court reversed Court of Appeal, restoring High Court judgment based on weight of evidence."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear procedural and evidentiary analysis.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/SALOMEY SHORME TETTEH, NII AMON TAFO    VRS  MARY KORKOR HAYFORD SUBSTITUTED BY STELLA  LARBI &COMFORT DE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:21:25.595Z",
+    "plainTextLength": 31280
+  }
+}

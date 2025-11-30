@@ -1,0 +1,68 @@
+{
+  "caseTitle": "MISCELLANY-AT-LAW PRE-TRIAL—HIGH COURT (CIVIL PROCEDURE) RUL",
+  "summary": "This document is a procedural guide by Da Rocha J. B. (SAG) on pre-trial matters under the High Court (Civil Procedure) Rules, LI 1129, in Ghana. It outlines key civil procedure principles including the proper joinder of parties, requirements for causes of action, and the role of persons under disability—such as infants or mentally incapacitated individuals—who must litigate through a next friend or guardian ad litem. The guide explains the issuance and service of writs, the necessity of appearance, and consequences of default. It also covers representative actions, third-party proceedings for indemnity or contribution, and the court's discretionary powers to manage cases fairly. The emphasis is on ensuring procedural correctness to avoid abuse of court processes and to uphold justice.",
+  "legalKeywords": [
+    "pre-trial procedures",
+    "parties to action",
+    "cause of action",
+    "writ of summons",
+    "appearance",
+    "pleadings",
+    "summons for directions",
+    "next friend",
+    "guardian ad litem",
+    "joinder of parties",
+    "misjoinder",
+    "representative action",
+    "third party proceedings",
+    "service of process",
+    "default of appearance"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Pre-Trial Motions",
+    "Parties in Litigation",
+    "Service of Process",
+    "Legal Capacity"
+  ],
+  "verdict": "Not applicable – the document is a procedural commentary, not a court judgment.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Da Rocha J. B.",
+      "role": "Author (State Attorney General)"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil procedure",
+  "citations": [
+    "Order 15, r 12 (4)",
+    "Geilinger v. Gibbs [1897] 1 Ch. 479",
+    "Yonge v. Toynbee [1910] 1 KB 215",
+    "The Shoesmith [1938] 2 KB 638",
+    "Bonsu v. Bonsu [1971] 2 GLR 242",
+    "Aegis Shipping Co, Ltd v. Volta Line Ltd [1973] 1 GLR 438",
+    "Omane v. Poku [1972] 1 GLR 295",
+    "GIHOC v. Vincenta Publications [1971] 2 GLR 24",
+    "Lartey v. Bannerman [1976] 2 GLR 461",
+    "Robertson v. Akrama II [1973] 1 GLR 445"
+  ],
+  "rationaleHighlights": [
+    "Proper joinder of parties ensures fair adjudication on common questions of law or fact.",
+    "A person under disability must litigate through a next friend or guardian ad litem to protect their interests.",
+    "The court has discretion to add, strike out, or substitute parties to prevent injustice.",
+    "A writ may be renewed to prevent statute-barred claims, but substituted service is often more practical.",
+    "Representative actions bind all class members unless fraud or collusion is proven."
+  ],
+  "confidenceNotes": "The document is a procedural guide authored by Da Rocha J. B. (SAG), not a judicial decision, but reflects authoritative interpretation of civil procedure rules in Ghana. All information is consistent with High Court (Civil Procedure) Rules, LI 1129.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/87 - 88/MISCELLANY-AT-LAW PRE-TRIAL—HIGH COURT (CIVIL PROCEDURE) RUL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:00:38.470Z",
+    "plainTextLength": 32305
+  }
+}

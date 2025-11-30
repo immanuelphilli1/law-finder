@@ -1,0 +1,76 @@
+{
+  "caseTitle": "AFRICAN AUTOMOBILE LIMITED V THE ATTORNEY-GENERAL",
+  "summary": "The Supreme Court of Ghana upheld the lower courts' decision that no valid contract existed between African Automobile Limited and the Attorney-General (representing the Ministry of Information) regarding credit terms for vehicle servicing. The plaintiff claimed a debt with compound interest based on Exhibits A and B, but the court found Exhibit A—an offer letter—required a specific form of acceptance (signed, dated, stamped copy), which was not met. Exhibit B, purportedly accepting the terms, was undated, unsigned, and not on official letterhead, and thus insufficient to form a binding agreement. The court affirmed that the plaintiff proved the principal debt for services rendered between 1994 and 1998, but without a valid contract, compound interest could not apply. Instead, interest was properly awarded at the prevailing commercial banking rate from April 1999, as authorized by CI 52. The Supreme Court found no error in the Court of Appeal's affirmation of the trial court's judgment, emphasizing that contract formation is a legal determination for the court, not a referee, and that findings of fact supported by evidence cannot be overturned on appeal.",
+  "legalKeywords": [
+    "contract formation",
+    "acceptance of offer",
+    "credit agreement",
+    "interest rate",
+    "burden of proof",
+    "evidence",
+    "undated letter",
+    "unsigned document",
+    "commercial interest rate",
+    "post-judgment interest",
+    "referee report",
+    "findings of fact",
+    "appellate review",
+    "rules of natural justice",
+    "collusion"
+  ],
+  "topics": [
+    "Contract Law",
+    "Debt Recovery",
+    "Interest Calculation",
+    "Evidence",
+    "Appellate Procedure"
+  ],
+  "verdict": "Appeal dismissed. The Supreme Court affirmed the lower courts' judgment that no enforceable credit agreement existed, and upheld the award of simple interest at the commercial banking rate on the proven principal debt.",
+  "winningSide": "The Attorney-General (Defendant/Respondent)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Aninakwah JSC"
+    },
+    {
+      "name": "Dotse JSC"
+    },
+    {
+      "name": "Bonnie JSC"
+    },
+    {
+      "name": "Bamfo (Mrs) JSC"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "CI 52",
+    "Exhibit A",
+    "Exhibit B",
+    "Exhibit CW1"
+  ],
+  "rationaleHighlights": [
+    "Exhibit A required a signed, dated, and stamped copy as acceptance, which was not provided.",
+    "Exhibit B was undated, unsigned, and not on official letterhead, thus insufficient to constitute valid acceptance.",
+    "No binding contract was formed; therefore, compound interest from Exhibit A did not apply.",
+    "Interest awarded at prevailing commercial banking rate under CI 52.",
+    "Appellate courts cannot overturn findings of fact supported by evidence.",
+    "Referee's report was not binding on legal questions like contract formation.",
+    "Courts below did not err in rejecting plaintiff's claim for compound interest."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details (parties, judgment, legal reasoning) are explicitly stated in the source. CI 52 is correctly cited as governing post-judgment interest.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/AFRICAN AUTOMOBILE LIMITED  V THE ATTORNEY-GENERAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:39:20.416Z",
+    "plainTextLength": 21112
+  }
+}

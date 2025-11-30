@@ -1,0 +1,77 @@
+{
+  "caseTitle": "NANA YAW NKETSIA VI VRS DR. FIIFI QUAYSON (OSAHENE KATAKYI BUSUMAKURA III )",
+  "summary": "This Supreme Court of Ghana judgment from 1 June 2011 concerns a chieftaincy dispute between Nana Yaw Nketsia VI and Dr. Fiifi Quayson, who claims the stool as Osahene Katakyi Busumakura III. The case originated in the Ahanta Traditional Council, where the petitioner initially won, with the council ruling that the chieftaincy should rotate between two royal families and that it was the petitioner's turn. However, the Western Region House of Chiefs reversed this, and the National House of Chiefs affirmed that reversal. The Supreme Court upheld the National House of Chiefs' decision, holding that the 1963 judgment in A.E. Quayson & Another v Kobina Benuyie, which involved privies of the current parties and concerned the same cause of action, constituted res judicata. The court found that the earlier judgment had conclusively determined that the Akona stool could not be occupied by someone not directly connected to it genealogically, and thus the appellant was estopped from re-litigating the issue. The court also rejected the appellant's argument that the respondent's legal representation was invalid, noting the power of attorney sufficiently covered representation in current and future stool-related cases.",
+  "legalKeywords": [
+    "res judicata",
+    "estoppel by judgment",
+    "chieftaincy dispute",
+    "customary law",
+    "succession to stool",
+    "privies",
+    "tribunal jurisdiction",
+    "perverse decision",
+    "nullity of judgment",
+    "representation in legal proceedings",
+    "customary succession",
+    "judicial precedent",
+    "finality of judgment",
+    "legal capacity",
+    "power of attorney"
+  ],
+  "topics": [
+    "Chieftaincy Law",
+    "Customary Law",
+    "Res Judicata",
+    "Supreme Court Jurisprudence",
+    "Legal Representation"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "GBADEGBE JSC",
+      "role": "Delivered the judgment"
+    },
+    {
+      "name": "ATUGUBA JSC",
+      "role": "Presiding"
+    },
+    {
+      "name": "ANSAH JSC"
+    },
+    {
+      "name": "OWUSU (MS) JSC"
+    },
+    {
+      "name": "AKOTO-BAMFO (MRS) JSC"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Chieftaincy Appeal",
+  "citations": [
+    "A. E. QUAYSON and ANOTHER v KOBINA BENUYIE (1963)",
+    "In Re MENSAH and Sey v Intercontinental Bank (Ghana) Limited (Decd) [2010] SCGLR 118"
+  ],
+  "rationaleHighlights": [
+    "The 1963 judgment constitutes res judicata on the issue of entitlement to the Akona stool.",
+    "The parties or their privies were bound by the prior determination, making re-litigation impermissible.",
+    "The Judicial Committee of the Ahanta Traditional Council's decision was unreasonable and perverse in light of the 1963 judgment.",
+    "The power of attorney granted to the respondent's representative was valid and covered the present case.",
+    "Estoppel by judgment applies where the same cause of action and privies are involved.",
+    "A tribunal's finding contrary to a subsisting judgment from a competent court is not sustainable.",
+    "The personal nature of chieftaincy does not negate the communal and familial interests in the stool.",
+    "The accident preventing the respondent's attendance did not invalidate the proceedings."
+  ],
+  "confidenceNotes": "The summary is based on a detailed judicial reasoning with clear references to precedent and procedural history. The outcome is highly confident due to the explicit application of res judicata and estoppel doctrines, supported by documentary evidence (Exhibit 12) and consistent judicial logic across appellate levels.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/NANA YAW NKETSIA VI  VRS DR. FIIFI QUAYSON  (OSAHENE KATAKYI BUSUMAKURA III ).htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:01:00.317Z",
+    "plainTextLength": 19420
+  },
+  "trialDate": "2009-07-29"
+}

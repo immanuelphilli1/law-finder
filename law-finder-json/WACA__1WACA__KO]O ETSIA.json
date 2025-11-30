@@ -1,0 +1,69 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The case involves a dispute over the jurisdiction of the Divisional Court following a transfer of proceedings by the Provincial Commissioner under section 71 of the Native Administration Ordinance (Cap. Ill). The lower court initially refused to hear the case, ruling that the transfer was invalid because a competent Native Tribunal (the Provincial Council) could have adjudicated the matter, and thus the condition precedent for transfer was not met. On appeal, the West African Court of Appeal reversed this decision, holding that once the Provincial Commissioner exercises discretion under section 71(c), the Divisional Court must proceed to hear the case and cannot question the reasonableness or appropriateness of the transfer. The appeal was allowed, costs awarded, and the case remitted for determination on its merits.",
+  "legalKeywords": [
+    "Native Administration Ordinance",
+    "Provincial Commissioner",
+    "Divisional Court",
+    "jurisdiction transfer",
+    "section 71",
+    "judicial discretion",
+    "Native Tribunal",
+    "reasonableness of administrative action",
+    "Gold Coast legal system",
+    "appellate review"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Jurisdiction",
+    "Appellate Procedure",
+    "Colonial Legal History",
+    "Ghanaian Pre-Independence Law"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendants-Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Deane, C.J.",
+      "role": "President and lead judge"
+    },
+    {
+      "name": "Michelin",
+      "role": "Concurring judge"
+    },
+    {
+      "name": "Sawrey-Cookson",
+      "role": "Concurring judge"
+    },
+    {
+      "name": "Yates",
+      "role": "Lower court judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana (Gold Coast Colony)"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Native Administration Ordinance (Cap. Ill), s 71",
+    "Native Administration Ordinance (Cap. Ill), s 72",
+    "District Commissioners' Ordinance, s 7"
+  ],
+  "rationaleHighlights": [
+    "Section 71(c) grants broad discretion to the Provincial Commissioner to transfer cases from Native Tribunals to the Divisional Court.",
+    "The Divisional Court is obligated under section 72 to hear transferred cases once the transfer is made.",
+    "The reasonableness of the Provincial Commissioner’s transfer decision is not subject to judicial review by the Divisional Court.",
+    "To allow such review would unduly curtail administrative discretion and create unnecessary procedural hurdles.",
+    "The existence of another potentially competent Native Tribunal does not invalidate the transfer if made under statutory authority."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on consistent repetition of key legal reasoning and procedural history in the document. Case name appears with minor typographical variations (e.g., 'Rojo Etsia' vs. 'Ko]o Etsia'), likely due to OCR or transcription error; original likely 'Kojo Etsia'. Date and jurisdiction clearly stated.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/KO]O ETSIA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:45:21.613Z",
+    "plainTextLength": 9171
+  },
+  "trialDate": "1930-05-29"
+}

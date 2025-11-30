@@ -1,0 +1,69 @@
+{
+  "caseTitle": "SARKIS MADI",
+  "summary": "This case originated from a civil dispute in the Supreme Court of the Gambia, where Michael Abdallah sued Sarkis Madi to declare void an agreement that settled a judgment debt of £7,920 9s. 0d. The agreement, dated 19 June 1925, stipulated that upon Madi paying £3,500 and assigning certain debts and a mortgage to Abdallah, the latter would release the outstanding debt and abandon execution. Although the document was signed, it was retained by Abdallah’s solicitor until performance. Madi fulfilled the conditions within two weeks, including arranging payments via third parties and executing the required assignments. The trial court dismissed the claim, finding valid consideration, but the West African Court of Appeal reversed, citing lack of consideration on the face of the document. On appeal to the Privy Council, the judgment was restored in favor of Madi. The Board held that the agreement constituted a valid contract supported by sufficient consideration, including the payment, assignments, and abandonment of appeal, and that these elements collectively satisfied the requirements for accord and satisfaction, thereby barring enforcement of the original judgment.",
+  "legalKeywords": [
+    "accord and satisfaction",
+    "consideration",
+    "contract formation",
+    "misrepresentation",
+    "execution of judgment",
+    "conditional agreement",
+    "release of debt",
+    "assignment of debts",
+    "mortgage transfer",
+    "parole evidence",
+    "appeal abandonment",
+    "privity of contract",
+    "settlement agreement",
+    "promissory note",
+    "cheque payment"
+  ],
+  "topics": [
+    "Contract Law",
+    "Debt Settlement",
+    "Judicial Precedent",
+    "Appeal Procedure",
+    "Execution of Judgment"
+  ],
+  "verdict": "The appeal to the Privy Council was allowed, restoring the trial court's decision that the agreement was valid and enforceable, and that the respondent could not pursue the balance of the judgment debt.",
+  "winningSide": "Appellant (Sarkis Madi)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "LORD TOMLIN",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "LORD BLANESBURGH",
+      "role": "member"
+    },
+    {
+      "name": "SIR GEORGE LOWNDES",
+      "role": "member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "contract dispute",
+  "citations": [
+    "Cumber v. Wane, 1 Strange 426",
+    "Privy Council Appeal No. 35 of 1931"
+  ],
+  "rationaleHighlights": [
+    "The agreement dated 19 June 1925 was valid due to sufficient consideration including payment, assignment of debts, and transfer of mortgage.",
+    "The Privy Council rejected the argument that consideration was lacking under Cumber v. Wane, holding that the assignments and transfers were integral to the settlement.",
+    "The Court found that the conditions in the agreement were fulfilled within a fortnight, creating a binding contract.",
+    "Evidence of the appellant abandoning his appeal supported the existence of additional consideration.",
+    "The respondent was estopped from enforcing the balance of the judgment debt after accepting performance."
+  ],
+  "confidenceNotes": "High confidence; all key details are explicitly stated in the judgment text.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/SARKIS MADI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:17:33.243Z",
+    "plainTextLength": 15724
+  },
+  "trialDate": "1925-06-19"
+}

@@ -1,0 +1,81 @@
+{
+  "caseTitle": "ERNEST ADOFO AND ANOTHER v THE ATTORNEY-GENERAL AND ANOTHE",
+  "summary": "The case involved former employees of the Ghana Cocoa Board (Cocobod) who were retrenched in 1994 and denied terminal benefits under PNDC Law 125, which indemnified the Board from liability. The plaintiffs sought declarations that PNDC Law 125 was unconstitutional, particularly Sections 5 and 6, which barred legal actions related to retrenchment and abated pending suits. Initially filed on behalf of 70 workers, the suit was later amended to represent only the three named plaintiffs. The Supreme Court narrowed the issue to the constitutionality of PNDC Law 125’s restrictions on access to courts. All parties agreed that the core issue was whether these provisions violated the 1992 Constitution. The Court affirmed its exclusive jurisdiction under Article 130(1) and the supremacy of the Constitution under Article 1(2), holding that any law inconsistent with the Constitution is void. It found that Sections 5 and 6 of PNDC Law 125 unjustifiably limited access to justice and were therefore unconstitutional.",
+  "legalKeywords": [
+    "Constitutional Supremacy",
+    "Judicial Review",
+    "Access to Justice",
+    "Unconstitutional Legislation",
+    "Transitional Provisions",
+    "PNDC Law 125",
+    "Employment Termination",
+    "Indemnity Clause",
+    "Right to Remedy",
+    "Separation of Powers",
+    "Fundamental Rights",
+    "Ghana Cocoa Board",
+    "Retrenchment",
+    "Terminal Benefits",
+    "Article 130(1)",
+    "Article 1(2)",
+    "Article 36 Transitional Provisions",
+    "Court Jurisdiction",
+    "Abatement of Actions",
+    "Rule of Law"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Employment Law"
+  ],
+  "verdict": "The Supreme Court declared Sections 5 and 6 of PNDC Law 125 unconstitutional for violating the supremacy of the 1992 Constitution and denying access to the courts.",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Delivered the unanimous judgment"
+    },
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Miss Akuffo, J.S.C."
+    },
+    {
+      "name": "Mrs. Wood, J.S.C."
+    },
+    {
+      "name": "Aninakwah, J.S.C."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Challenge",
+  "citations": [
+    "Sam (No. 2) v Attorney-General [2000] SCGLR 305",
+    "Re Akoto [1961] GLR 523",
+    "Gbedemah v Awoonor-Williams (1969) G & G 442"
+  ],
+  "rationaleHighlights": [
+    "The 1992 Constitution is the supreme law; any inconsistent statute is void to the extent of inconsistency (Article 1(2)).",
+    "The Supreme Court has exclusive original jurisdiction to determine the constitutionality of laws (Article 130(1)).",
+    "Sections 5 and 6 of PNDC Law 125 prevent access to courts, violating constitutional rights to justice and remedy.",
+    "Judicial review is essential to protect individuals and minorities from majoritarian overreach.",
+    "Transitional provisions do not preserve laws that conflict with fundamental constitutional principles.",
+    "Indemnity clauses cannot oust the jurisdiction of the courts where constitutional rights are at stake.",
+    "The doctrine of constitutional supremacy includes the invalidation of pre-constitutional laws that undermine core rights.",
+    "Judges, though unelected, are constitutionally mandated to uphold the rule of law and human rights."
+  ],
+  "confidenceNotes": "The ruling reflects established precedent on constitutional supremacy and judicial review in Ghana. The narrowing of the issue by mutual agreement of counsel strengthens the focus on access to justice, a well-protected constitutional value.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2005A/ERNEST ADOFO AND ANOTHER  v  THE ATTORNEY-GENERAL AND ANOTHE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:30:15.839Z",
+    "plainTextLength": 36826
+  },
+  "trialDate": "2005-04-20"
+}

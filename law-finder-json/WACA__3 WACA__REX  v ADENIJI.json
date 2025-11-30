@@ -1,0 +1,62 @@
+{
+  "caseTitle": "REX v ADENIJI",
+  "summary": "This is a 1937 decision by the West African Court of Appeal concerning the admissibility of evidence of prior uttering of counterfeit coins in a prosecution under section 148(3)(c) of the Criminal Code for possession of moulds used in counterfeiting. The appellants, including Adeniji, challenged the trial judge's decision to admit evidence of previous uttering to establish guilty knowledge. The appellate court held that such evidence was admissible, following the precedent in Reg. v. Weeks, and found no other grounds for appeal. The appeal was accordingly dismissed.",
+  "legalKeywords": [
+    "admissibility of evidence",
+    "counterfeit coins",
+    "guilty knowledge",
+    "possession of moulds",
+    "criminal intent",
+    "previous uttering",
+    "Criminal Code section 148(3)(c)",
+    "appellate review",
+    "evidence law",
+    "relevance of prior conduct"
+  ],
+  "topics": [
+    "criminal law",
+    "evidence",
+    "counterfeiting",
+    "appellate procedure",
+    "Ghana legal history"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Reg. v. Weeks (L. & C. 18, 30 L.J. W.C. 141, 8 Cox. C.C. 455)"
+  ],
+  "rationaleHighlights": [
+    "Evidence of previous uttering of counterfeit coins is admissible to prove guilty knowledge.",
+    "The trial judge correctly admitted prior conduct under the principle in Reg. v. Weeks.",
+    "No other substantial grounds for appeal were found.",
+    "The appeal was dismissed based on the correctness of evidentiary ruling."
+  ],
+  "confidenceNotes": "The document is a clear appellate judgment from the West African Court of Appeal with explicit reasoning; citation accuracy is high.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/REX  v ADENIJI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:11:30.209Z",
+    "plainTextLength": 2459
+  },
+  "trialDate": "1937-05-27"
+}

@@ -1,0 +1,69 @@
+{
+  "caseTitle": "REX V SANNI LADIPO",
+  "summary": "This 1938 West Africa Court of Appeal decision in Rex v. Sanni Ladipo involved an appeal against conviction for slave dealing under section 369(3) of the Criminal Code on three counts. The convictions were based solely on the testimony of accomplices, including the father who gave his three sons into servitude and the sons themselves, who were deemed accomplices as they willingly participated. The court held that the trial judge erred in convicting without corroboration of accomplice testimony, citing R. v. Norris. The convictions and sentences were quashed, and acquittals were entered.",
+  "legalKeywords": [
+    "slave dealing",
+    "accomplice testimony",
+    "corroboration",
+    "Criminal Code",
+    "section 369(3)",
+    "conviction quashed",
+    "acquittal",
+    "trial error",
+    "West Africa Court of Appeal",
+    "R. v. Norris",
+    "judicial warning",
+    "evidence law",
+    "servitude"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence",
+    "Appeal",
+    "Human Rights",
+    "Legal Procedure"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Cor. Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    },
+    {
+      "name": "Baker",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "R. v. Norris (12 Cr. App. Rep. p. 156)",
+    "R. v. Dare (Lagos), 5 W.A.C.A."
+  ],
+  "rationaleHighlights": [
+    "Convictions based solely on uncorroborated accomplice testimony",
+    "Sons and father deemed accomplices due to willing participation",
+    "Trial judge failed to warn jury on accomplice evidence",
+    "Precedent from R. v. Norris applied",
+    "No independent evidence to support conviction",
+    "Legal requirement for corroboration not met",
+    "Acquittal ordered due to evidentiary insufficiency"
+  ],
+  "confidenceNotes": "High confidence; source document provides clear judicial reasoning, names, dates, and citations. Jurisdiction inferred as Ghana based on context and court structure.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX V SANNI LADIPO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:57:22.898Z",
+    "plainTextLength": 2263
+  },
+  "trialDate": "1938-08-12"
+}

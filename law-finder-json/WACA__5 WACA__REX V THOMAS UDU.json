@@ -1,0 +1,74 @@
+{
+  "caseTitle": "REX V THOMAS UDU",
+  "summary": "The case REX v. THOMAS UDU, heard by the West African Court of Appeal on 2nd November 1939, involved an appellant who made a false report to the police in Aba, alleging his brother's death was caused by specific individuals performing rituals. The report, admitted as false by the accused, prompted a police investigation, wasting public resources and exposing innocent individuals to suspicion and arrest. The trial judge initially held that no offence was disclosed under Nigerian law, as common law misdemeanours were not applicable unless codified. The appellate court overturned this, ruling that the act constituted a common nuisance under section 234(f) of the Criminal Code, as it involved an unlawful act causing public inconvenience and prejudice. The court relied on Rex v. Elizabeth Manley to affirm that acts tending to public mischief are indictable. The appeal was allowed, and the conviction upheld.",
+  "legalKeywords": [
+    "common nuisance",
+    "false report to police",
+    "public mischief",
+    "section 234(f) Criminal Code",
+    "wasting police resources",
+    "prejudice to the community",
+    "common law offence",
+    "judicial precedent",
+    "Rex v. Elizabeth Manley",
+    "West African Court of Appeal",
+    "Nigerian criminal law",
+    "misuse of legal process",
+    "criminal intent",
+    "legal duty",
+    "obstruction of public rights"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Public Nuisance",
+    "Judicial Review",
+    "Legal Precedent",
+    "Police Misconduct",
+    "False Allegations"
+  ],
+  "verdict": "Appeal allowed; conviction upheld",
+  "winningSide": "Respondent (Rex)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Butler Lloyd",
+      "role": "Ag. Chief Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    },
+    {
+      "name": "Brooke",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Rex v. Elizabeth Manley (1 K.B. 529)",
+    "Section 234(f) of the Criminal Code",
+    "Section 4 of the Criminal Code Ordinance (Cap. 21)"
+  ],
+  "rationaleHighlights": [
+    "Act of making false police report not warranted by law",
+    "Caused inconvenience by diverting public police resources",
+    "Exposed individuals to unjust suspicion and arrest",
+    "Section 234(f) encompasses public mischief-type acts",
+    "Common law offences not applicable unless codified, but section 234(f) codifies such nuisance",
+    "Precedent from Rex v. Elizabeth Manley affirmed public mischief as indictable",
+    "False reporting tends to prejudice of the community",
+    "Court emphasized protection of public rights and order"
+  ],
+  "confidenceNotes": "High confidence; source document is a formal judicial decision with clear facts, legal reasoning, and citations. Jurisdictional context is West African Court of Appeal, applicable to Ghana during colonial period.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/REX V THOMAS UDU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:41:42.131Z",
+    "plainTextLength": 7909
+  },
+  "trialDate": "1939-11-02"
+}

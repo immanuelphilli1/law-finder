@@ -1,0 +1,79 @@
+{
+  "caseTitle": "ERIC OMAN MENSAH, BENJAMIN OBOUR MENSAH VRS MR. PAT YAWSON",
+  "summary": "This Supreme Court of Ghana decision arose from a civil land dispute between the Mensah brothers (respondents) and Mr. Pat Yawson and George Edusei-Poku (appellants). The respondents claimed title to land in Tudu, Accra, based on ancestral acquisition since 1911, supported by a Land Title Certificate. The appellants contested this, citing a boundary dispute and counterclaiming for title, trespass damages, and cancellation of the Certificate alleging fraud. The trial court and Court of Appeal focused on title, but the Supreme Court identified the core issue as the unresolved boundary. It found the trial judge erred by relying on unverified site plans (Exhibits 1, 2, and CB3) without properly utilizing the court-ordered survey, failing to record her locus in quo visit, and rejecting the surveyor's evidence without reason. The Court of Appeal failed to provide cogent justification for these errors. Consequently, the Supreme Court allowed the appeal, setting aside the lower courts' judgments and ordering a fresh hearing to properly determine the exact boundaries based on admissible evidence.",
+  "legalKeywords": [
+    "boundary dispute",
+    "land title certificate",
+    "declaration of title",
+    "survey evidence",
+    "prima facie evidence",
+    "locus in quo",
+    "counterclaim",
+    "letters of administration",
+    "adverse possession",
+    "title registration",
+    "cancellation of title",
+    "trespass damages",
+    "site plan",
+    "judicial survey",
+    "evidentiary weight"
+  ],
+  "topics": [
+    "Property Law",
+    "Land Disputes",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Survey Law"
+  ],
+  "verdict": "The appeal was allowed. The judgments of the High Court and Court of Appeal were set aside, and a fresh hearing was ordered.",
+  "winningSide": "Appellants (Defendants)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Anin Yeboah",
+      "role": "authoring judge"
+    },
+    {
+      "name": "S. A. Brobbey",
+      "role": "presiding judge"
+    },
+    {
+      "name": "J. Ansa, JSC",
+      "role": "panel member"
+    },
+    {
+      "name": "J. V. M. Dotse",
+      "role": "panel member"
+    },
+    {
+      "name": "V. Akoto-Bamfo (Mrs)",
+      "role": "panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil land dispute",
+  "citations": [
+    "ANANE V. DONKOR [1965] GLR 188",
+    "AKOTO V. KAVEGE [1984-86] 1 GKR 385",
+    "In Re Aryeetey (Deceased) Aryeety v. Okwabi [1987-88] 2 GLR 44 CA"
+  ],
+  "rationaleHighlights": [
+    "The core issue was a boundary dispute, not ownership.",
+    "Failure to properly identify boundaries undermines a claim for declaration of title.",
+    "Land Title Certificate is prima facie, not conclusive, evidence of boundaries.",
+    "The trial judge failed to record notes from the locus in quo visit.",
+    "The court-appointed surveyor did not visit the site, undermining the evidence.",
+    "The Court of Appeal failed to justify the trial judge's findings on boundary."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official Supreme Court judgment text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/ERIC OMAN MENSAH, BENJAMIN OBOUR MENSAH  VRS MR. PAT YAWSON .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:48:26.858Z",
+    "plainTextLength": 12293
+  },
+  "trialDate": "2010-04-15"
+}

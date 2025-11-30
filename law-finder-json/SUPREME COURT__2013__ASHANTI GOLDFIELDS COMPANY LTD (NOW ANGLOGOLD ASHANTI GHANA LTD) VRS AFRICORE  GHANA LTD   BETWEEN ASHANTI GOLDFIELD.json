@@ -1,0 +1,64 @@
+{
+  "caseTitle": "ASHANTI GOLDFIELDS COMPANY LTD (NOW ANGLOGOLD ASHANTI GHANA LTD) VRS AFRICORE GHANA LTD BETWEEN ASHANTI GOLDFIELD",
+  "summary": "In this unreported ruling, Dr. Date-Bah, J.S.C., sitting as a single justice of the Ghanaian Supreme Court, dismissed a motion by Ashanti Goldfields Company Ltd (now AngloGold Ashanti Ghana Ltd) seeking to restrain enforcement of a judgment debt pending appeal. The applicant sought orders to keep $4 million in court investment, allow retention of $1 million by each plaintiff, and prevent enforcement of the balance of the judgment. The core issue was jurisdiction: the Supreme Court held it lacked authority to hear the application because the record of appeal had not yet been transmitted from the lower court. Relying on Rule 16(1) of CI 16 and the precedent in Ampong v Frempong [1965] GLR 350, the Court ruled that jurisdiction over interlocutory matters vests only after transmission of the record. The applicant's reliance on the Court's 'ample powers' and cases like Merchant Bank Ghana Ltd v Similar Ways Ltd was rejected as inapplicable, particularly since no nullity or supervisory jurisdiction was involved. The motion was thus struck out for lack of jurisdiction.",
+  "legalKeywords": [
+    "jurisdiction",
+    "stay of execution",
+    "interlocutory application",
+    "record of appeal",
+    "Supreme Court Rules CI 16",
+    "constitutional interpretation",
+    "inherent powers",
+    "appeal procedure",
+    "judgment debt",
+    "investment of funds",
+    "pendente lite",
+    "nullity",
+    "balance of convenience",
+    "enforcement of judgment",
+    "appellate jurisdiction"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Jurisdiction",
+    "Stay of Execution",
+    "Supreme Court Powers",
+    "Civil Litigation"
+  ],
+  "verdict": "The motion was dismissed for lack of jurisdiction because the record of appeal had not been transmitted to the Supreme Court.",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Presiding Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Ampong v Frempong [1965] GLR 350",
+    "Merchant Bank Ghana Ltd v Similar Ways Ltd Civil Motion J8/38/2011",
+    "Golden Beach Hotels (Gh) Ltd v Packplus International Ltd Civil Motion No J8/23/2012",
+    "In re Yendi Skin Affairs, Yakubu II v Abdulai [1984-86] 2 GLR 231",
+    "Supreme Court Rules, 1996 (CI 16)"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court lacks jurisdiction over interlocutory applications until the record of appeal is transmitted.",
+    "Rule 16(1) of CI 16 clearly ties jurisdiction to transmission of the record.",
+    "The applicant failed to identify a valid jurisdictional basis beyond vague reference to 'ample powers'.",
+    "Prior cases like Merchant Bank are distinguishable due to issues of nullity or lack of jurisdictional challenge.",
+    "The principle in Ampong v Frempong confirms that an appeal is 'entered' only upon receipt of the record by the Supreme Court."
+  ],
+  "confidenceNotes": "The ruling is unreported but delivered by a Supreme Court Justice; citations to prior cases are authoritative. Jurisdictional analysis is thorough and consistent with constitutional and procedural law.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/ASHANTI GOLDFIELDS COMPANY LTD (NOW ANGLOGOLD ASHANTI GHANA LTD) VRS AFRICORE  GHANA LTD   BETWEEN ASHANTI GOLDFIELD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:17:38.677Z",
+    "plainTextLength": 19409
+  },
+  "trialDate": "2013-08-29"
+}

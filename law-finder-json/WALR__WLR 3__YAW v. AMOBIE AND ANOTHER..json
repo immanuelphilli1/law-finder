@@ -1,0 +1,66 @@
+{
+  "caseTitle": "YAW VERSUS AMOBIE AND ANOTHER..",
+  "summary": "In this Ghanaian Court of Appeal case, the plaintiff and first defendant were adjoining landowners whose boundary dispute was referred to customary arbitration before a local chief and elders. Both parties presented their cases, agreed to a site visit, paid 25s. each as a sign of consent, and witnessed the physical demarcation of the boundary. The first defendant later refused to attend the formal pronouncement and demanded a refund, leading to no oral declaration of the award. The plaintiff sought enforcement of the demarcation as a binding award. The Court held that a formal pronouncement was not necessary, as the physical demarcation constituted sufficient publication of the award under customary law. The court emphasized that once parties voluntarily submit to arbitration—evidenced by conduct such as payment and participation—they cannot resile. The appeal was allowed, the Land Court’s decision reversed, and judgment entered in favor of the plaintiff confirming the demarcated boundary.",
+  "legalKeywords": [
+    "res judicata",
+    "customary arbitration",
+    "binding award",
+    "demarcation of boundary",
+    "functus officio",
+    "submission to arbitration",
+    "publication of award",
+    "native law and custom",
+    "arbitral award enforcement",
+    "resile from arbitration"
+  ],
+  "topics": [
+    "Arbitration Law",
+    "Customary Law",
+    "Land Disputes",
+    "Boundary Demarcation",
+    "Res Judicata"
+  ],
+  "verdict": "Appeal allowed; judgment entered for the plaintiff declaring the demarcated boundary as legally binding.",
+  "winningSide": "plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "deciding judge"
+    },
+    {
+      "name": "Korsah C.J.",
+      "role": "concurring judge"
+    },
+    {
+      "name": "Granville Sharp J.A.",
+      "role": "concurring judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Brown v. Vawser, 102 E.R. 954",
+    "Henfree v. Bromley (1805) 6 East 309",
+    "Thompson v. Miller (1867) 15 W.R. 353",
+    "Brooke v. Mitchell (1840) 6 M. & W. 473",
+    "Kwasi v. Larbi [1953] A.C. 164"
+  ],
+  "rationaleHighlights": [
+    "A binding customary arbitration award does not require formal pronouncement if there is an overt act evidencing the decision.",
+    "Demarcation of a boundary in the presence of the parties constitutes sufficient publication of the award.",
+    "Parties cannot resile from arbitration once they have voluntarily submitted to it.",
+    "The arbitrator's opinion on whether an award was made is irrelevant; the court determines this as a question of law.",
+    "Voluntary submission is inferred from conduct such as attending proceedings, paying fees, and agreeing to site visits."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy due to clear judicial reasoning and direct citation of legal principles and precedents.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/YAW v. AMOBIE AND ANOTHER..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:50:33.153Z",
+    "plainTextLength": 13435
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "caseTitle": "KETEKU AND OTHERS VERSUS DZOGBENUKU AND OTHERS.",
+  "summary": "In Keteku and Others v. Dzogbenuku and Others, the Supreme Court of the Gold Coast addressed procedural issues arising from a Native Court's inspection of disputed land. The appellants challenged the lower court's decision granting a declaration of title to the plaintiffs, raising concerns about procedural irregularities and evidentiary sufficiency. The Supreme Court upheld the decision, emphasizing that the judgment adequately resolved the claims. Crucially, the court issued binding directions on proper procedure when Native Courts inspect a locus in quo: parties must be present during inspection; while full panel attendance is desirable, it is not mandatory; any inspection report must be delivered from the bench, not under oath, and must not be subject to cross-examination; a written report with a rough sketch plan highlighting key features should be attached to the record. The court condemned the practice of swearing in and cross-examining court members as contrary to judicial propriety and the appearance of impartiality. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "Native Courts",
+    "locus in quo",
+    "inspection procedure",
+    "procedural fairness",
+    "traditional evidence",
+    "declaration of title",
+    "cross-examination",
+    "judicial conduct",
+    "land dispute",
+    "reporting findings",
+    "sketch plan",
+    "natural justice",
+    "equity and good conscience",
+    "court panel",
+    "evidence admissibility"
+  ],
+  "topics": [
+    "Land Law",
+    "Native Courts",
+    "Procedural Law",
+    "Evidence",
+    "Judicial Conduct"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lingley J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Eastern Judicial Division, Land Court, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Edusei v. Denkye (1947) W.A.C.A. Cyclostyled Reports, February 10, 1947, p. 28",
+    "Tawiah v. Ewudzi (1936) 3 W.A.C.A. 52",
+    "Ampong v. Badoo (1949) W.A.C.A. Cyclostyled Reports, February 28, 1949, p. 64"
+  ],
+  "rationaleHighlights": [
+    "Inspection of locus in quo must include presence of both parties",
+    "Full panel inspection preferred but not mandatory",
+    "Report must be delivered from bench, not under oath",
+    "No cross-examination of court members allowed",
+    "Written report with sketch plan recommended",
+    "Traditional evidence sufficient if uncontradicted",
+    "Trial court's findings upheld due to adequacy"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct reporting of judicial directions and procedural rulings.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/KETEKU AND OTHERS V. DZOGBENUKU AND OTHERS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:06:34.576Z",
+    "plainTextLength": 6258
+  }
+}

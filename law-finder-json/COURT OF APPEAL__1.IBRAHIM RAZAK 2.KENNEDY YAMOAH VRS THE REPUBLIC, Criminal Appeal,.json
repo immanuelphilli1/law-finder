@@ -1,0 +1,68 @@
+{
+  "caseTitle": "1.IBRAHIM RAZAK 2.KENNEDY YAMOAH VRS THE REPUBLIC, Criminal Appeal,",
+  "summary": "The Court of Appeal of Ghana dismissed the appeal against conviction but allowed the appeal against sentence in this armed robbery case. The appellants, Ibrahim Razak and Kennedy Yamoah, were convicted by the High Court for participating in a robbery at West Anaji, Takoradi, on 27 July 2005, where five armed men stole over Gh\u000210 million, cloth, watches, and phones. They were each sentenced to life imprisonment. On appeal, the Court found no bias in the trial judge's reference to their Nigerian nationality, which was confirmed by their own testimony. The alibi defense by the second appellant was thoroughly considered and rejected due to significant inconsistencies in his and his witnesses' statements. Both appellants were properly identified, with the second appellant's identification supported by evidence and his own admission. While the conviction was upheld, the life sentences were deemed unduly harsh and were reduced to 30 years imprisonment on each count, to run concurrently. The Court also upheld the order for deportation to Nigeria upon completion of sentence.",
+  "legalKeywords": [
+    "robbery",
+    "alibi",
+    "identification parade",
+    "bias",
+    "life imprisonment",
+    "deportation",
+    "criminal appeal",
+    "evidence credibility",
+    "sentence reduction",
+    "first degree felony",
+    "Criminal Offences Act 1960 (Act 29)",
+    "Section 149",
+    "Section 296(1)",
+    "real likelihood of bias",
+    "miscarriage of justice"
+  ],
+  "topics": [
+    "criminal law",
+    "appellate review",
+    "sentencing",
+    "evidence",
+    "constitutional rights"
+  ],
+  "verdict": "Conviction upheld; sentence reduced from life imprisonment to 30 years I.H.L. on each count, to run concurrently.",
+  "winningSide": "The Republic (state), partially",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Acquaye, J.A.",
+      "role": "author of judgment"
+    },
+    {
+      "name": "Quaye, J.A.",
+      "role": "presiding"
+    },
+    {
+      "name": "Honyenugah, J.A.",
+      "role": "member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "ADZAKU VRS GALENKU (1974)1 GLR 198"
+  ],
+  "rationaleHighlights": [
+    "Trial judge properly considered and rejected alibi due to material contradictions in testimony.",
+    "No evidence of judicial bias; appellants' Nigerian nationality was supported by their own testimony.",
+    "Identification of both appellants was legally sufficient, including photographic evidence and appellant's own admission.",
+    "Life sentence was legally permissible but deemed excessive; reduced to 30 years I.H.L. as a more proportionate punishment.",
+    "Other individuals identified were part of the identification lineup, not suspects, justifying charging only two."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; all key details (names, dates, legal provisions) are explicitly stated in the judgment. Discrepancies in alibi testimony are directly quoted from the record.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/1.IBRAHIM RAZAK 2.KENNEDY YAMOAH VRS THE REPUBLIC, Criminal Appeal,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:49:33.579Z",
+    "plainTextLength": 13656
+  },
+  "trialDate": "2009-12-10"
+}

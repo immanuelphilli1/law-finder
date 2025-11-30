@@ -1,0 +1,74 @@
+{
+  "caseTitle": "KINGSLEY ADU POKU-MENSAH V YAA MANSAH AND ANOR.",
+  "summary": "This appeal arose from a civil action where Kingsley Adu Poku-Mensah, as customary successor, sought a declaration of his maternal family's title to a property in Kumasi, recovery of possession, accounting of rents, and a perpetual injunction against the defendants. The defendants, including the widow and children of the deceased prior occupant, claimed an inter vivos gift of the property based on payment of GHS 100,000 and schnapps as 'Aseda' at a funeral rite. The Court of Appeal upheld the trial court's judgment in favor of the plaintiff, affirming that the defendants failed to prove the alleged gift, particularly given the implausibility of such a large sum under 1977 economic conditions. The court confirmed the plaintiff's capacity to sue as the duly appointed customary successor, relying on Akan customary law and precedents like Kwan vrs. Nyieni and Amponsah vrs. Kwa Tia. It emphasized that the burden of proof in title disputes rests on the plaintiff, who must establish a credible case, and that weakness in the defendant's case alone cannot sustain relief unless the plaintiff first makes out a prima facie claim.",
+  "legalKeywords": [
+    "family property",
+    "customary succession",
+    "inter vivos gift",
+    "declaration of title",
+    "burden of proof",
+    "capacity to sue",
+    "Akan customary law",
+    "judicial notice",
+    "property dispute",
+    "matrilineal inheritance",
+    "self-acquired property",
+    "caretaker appointment",
+    "power of attorney",
+    "plaintiff standing",
+    "evidence evaluation"
+  ],
+  "topics": [
+    "Property Law",
+    "Customary Law",
+    "Succession",
+    "Civil Procedure",
+    "Evidence"
+  ],
+  "verdict": "The appeal was dismissed. The judgment of the Circuit Court in favor of the plaintiff/respondent was affirmed.",
+  "winningSide": "Plaintiff/Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Anim, J.A.",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Twumasi J.A.",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Owusu-Ansah, J.A.",
+      "role": "panel judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Kingsley Adu Poku-Mensah v Yaa Mansah and Anor. [26/3/2004] CA/No. CA48/2003",
+    "Kwan vrs. Nyieni (1959) GLR 67",
+    "Amponsah vrs. Kwa Tia (1976) 2 GLR 189",
+    "Rufai vrs. Ricketts (1934) 2 WACA 95",
+    "Nartey vrs. Mechanical Lloyd Assembly Plant Ltd. (1987-88) GLRD 86 SC",
+    "Odametey vrs. Clough (1989-90) GLRD I SC"
+  ],
+  "rationaleHighlights": [
+    "The court applied Akan customary law to determine that family property devolves upon intestacy to the matrilineal family.",
+    "The trial judge properly exercised judicial notice that GHS 100,000 in 1977 was an implausibly large sum for 'Aseda,' undermining the defendants' claim of inter vivos gift.",
+    "Capacity to sue on behalf of a family requires either formal authorization or proof of necessity under Kwan vrs. Nyieni.",
+    "The plaintiff succeeded because he proved customary succession and management of the property post-1996.",
+    "An individual may sue for family property only if the head fails to act or family division prevents action.",
+    "The burden of proof in title disputes lies on the plaintiff, who must establish a positive case."
+  ],
+  "confidenceNotes": "The truncated nature of the source document limits full verification of all witness testimonies and documentary evidence, but key legal reasoning and holdings are preserved.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/KINGSLEY ADU POKU-MENSAH V YAA MANSAH AND ANOR..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:23:51.254Z",
+    "plainTextLength": 25084
+  },
+  "trialDate": "2004-03-26"
+}

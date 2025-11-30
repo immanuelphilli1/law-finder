@@ -1,0 +1,92 @@
+{
+  "caseTitle": "CHARLES MATE KOLE, NENE AZAGO KWESITSU I V",
+  "summary": "The plaintiffs challenged the validity of Local Government Instrument (L.I.) 1983, which transferred several electoral areas from the Lower Manya Krobo District in the Eastern Region to the Dangme West District in the Greater Accra Region. They argued that this transfer violated Article 5 of the 1992 Constitution, which safeguards regional boundaries, and that both the Minister and Parliament acted beyond their powers under the Local Government Act and Article 11 of the Constitution. The Supreme Court found that Parliament improperly altered the original L.I. 1983 by changing the number of electoral areas without legal authority, violating Article 11. It emphasized that such instruments can only be approved or annulled, not amended. The Court also highlighted that determining territorial boundaries involves customary chieftaincy law, particularly regarding the Osudoku State, and cautioned against relying solely on maps. Ultimately, the Court declared L.I. 1983 unconstitutional to the extent it altered regional boundaries, affirming the supremacy of the Constitution and the limits of parliamentary and executive power in boundary delineation.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "regional boundaries",
+    "subsidiary legislation",
+    "parliamentary approval",
+    "customary chieftaincy law",
+    "electoral areas",
+    "Local Government Act",
+    "Article 5 Constitution",
+    "Article 11 Constitution",
+    "Article 241 Constitution",
+    "judicial review",
+    "territorial jurisdiction",
+    "gazetted instruments",
+    "unconstitutional alteration",
+    "separation of powers"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Electoral Law",
+    "Customary Law",
+    "Judicial Review"
+  ],
+  "verdict": "The Supreme Court declared L.I. 1983 unconstitutional and void to the extent that it altered regional boundaries by transferring electoral areas from the Eastern Region to the Greater Accra Region, holding that such action violated Article 5 and Article 11 of the 1992 Constitution.",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Dr. Date-Bah, J.S.C."
+    },
+    {
+      "name": "Ansa, J.S.C."
+    },
+    {
+      "name": "Adinyira (Mrs), J.S.C."
+    },
+    {
+      "name": "Dotse, J.S.C."
+    },
+    {
+      "name": "Anin-Yeboah, J.S.C."
+    },
+    {
+      "name": "Baffoe-Bonnie, J.S.C."
+    },
+    {
+      "name": "Gbadebe, J.S.C."
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs), J.S.C."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "L.I. 1983",
+    "C.I. 46 of 2004",
+    "P.N.D.C.L. 26",
+    "P.N.D.C.L. 28",
+    "L.I. 1490",
+    "L.I. 1492",
+    "In Re Akoto (1961) 2 GLR 253, SC",
+    "Mosi v. Bagyina (1963) 1 GLR 337 S.C.",
+    "Napier v. National Business Agency Ltd (1951) 2 All ER 264 C.A."
+  ],
+  "rationaleHighlights": [
+    "Article 5 of the 1992 Constitution protects regional boundaries and cannot be altered by subordinate legislation.",
+    "Parliament lacks authority to amend subsidiary legislation like L.I. 1983; it can only approve or annul it under Article 11.",
+    "The original version of L.I. 1983, which placed disputed areas in the Eastern Region, should have taken effect after 21 sitting days.",
+    "Maps in statutory instruments are not exhaustive; omission does not imply exclusion.",
+    "The Osudoku State's boundaries are governed by customary law, not merely cartographic depictions."
+  ],
+  "confidenceNotes": "The judgment hinges on constitutional interpretation and customary law, with clear judicial reasoning. Some document truncation occurs near the end, but core legal issues and holdings are preserved.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/CHARLES MATE KOLE, NENE AZAGO KWESITSU I V.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:34:26.252Z",
+    "plainTextLength": 21659
+  },
+  "trialDate": "2012-06-13"
+}

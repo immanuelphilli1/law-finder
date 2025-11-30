@@ -1,0 +1,63 @@
+{
+  "caseTitle": "REX v BAUNA OF GEJI",
+  "summary": "The West Africa Court of Appeal, on 17 October 1936, allowed the appeal of Bauna of Geji, who had been convicted of murder. The court held that while the appellant had seriously maltreated an elderly woman who died shortly afterward, the prosecution failed to prove beyond a reasonable doubt that the maltreatment caused or accelerated her death. There was no medical evidence supporting the causal link between the acts and death, and the maltreatment, while serious, was not inherently life-threatening except through shock to an aged person. Additionally, the trial court wrongly admitted inadmissible hearsay evidence. Due to insufficient proof of causation, the conviction was quashed and an acquittal entered.",
+  "legalKeywords": [
+    "murder",
+    "causation",
+    "maltreatment",
+    "medical evidence",
+    "hearsay evidence",
+    "burden of proof",
+    "appellate review",
+    "acquittal",
+    "conviction quashed",
+    "evidence admissibility",
+    "causal link",
+    "reasonable doubt",
+    "trial error"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Evidence Law"
+  ],
+  "verdict": "acquittal",
+  "winningSide": "appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides"
+    },
+    {
+      "name": "Webber",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal appeal",
+  "citations": [
+    "WACA/3 Rex v Bauna of Geji"
+  ],
+  "rationaleHighlights": [
+    "No medical evidence linking maltreatment to death",
+    "Mere likelihood of causation insufficient for conviction",
+    "Hearsay evidence improperly admitted",
+    "Conviction cannot stand without proof of causation",
+    "Appellate court found prosecution failed on essential element"
+  ],
+  "confidenceNotes": "High confidence; details are consistent with formal legal reasoning and procedural standards of the era, though source formatting suggests possible digitization artifact.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/REX v    BAUNA OF GEJI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:14:01.810Z",
+    "plainTextLength": 2146
+  },
+  "trialDate": "1986-10-17"
+}

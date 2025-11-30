@@ -1,0 +1,80 @@
+{
+  "caseTitle": "NII PAUL AYITEY TETTEH SUB ARTHUR HAMMOND ,TETTEH QUARCOO,",
+  "summary": "This consolidated civil appeal before the Supreme Court of Ghana arose from a dispute over the headship of the Onamrokor Adain Family of Accra. The plaintiff, Nii Paul Ayitey Tetteh (later substituted by Arthur Hammond), sued to declare his position as Head of Family since 1994, sought injunctions against B.A. Quarcoo and Jafro Mensah Larkai from claiming headship roles, and invoked judicial estoppel based on a 1980 Court of Appeal judgment that had destooled B.A. Quarcoo. The second suit, brought by B.A. Quarcoo and Larkai, sought to prevent the burial of Ayitey Tetteh as head of the family. The appellants argued that the first suit did not survive Ayitey Tetteh's death and that the consolidation was improper. The Supreme Court held that the action was representative of the family, not purely personal, and thus survived the plaintiff's death. It affirmed that the family, as a customary corporate entity, is distinct from its head and does not die with him. The Court rejected the appellants' claims due to lack of pleaded and proven evidence regarding traditional positions and locus standi, upheld the consolidation, and affirmed the right to bury Ayitey Tetteh as head. The appeal was dismissed.",
+  "legalKeywords": [
+    "headship dispute",
+    "family representation",
+    "actio personalis moritur cum persona",
+    "locus standi",
+    "consolidation of suits",
+    "customary law",
+    "injunction",
+    "estoppel",
+    "burial rights",
+    "traditional authority",
+    "non-survival of personal actions",
+    "representative capacity",
+    "corporate family identity",
+    "judicial estoppel",
+    "Ga customary law"
+  ],
+  "topics": [
+    "Chieftaincy Dispute",
+    "Family Law",
+    "Civil Procedure",
+    "Customary Law",
+    "Injunction"
+  ],
+  "verdict": "Appeal dismissed.",
+  "winningSide": "Respondent (Arthur Hammond, representing Nii Paul Ayitey Tetteh and the Onamrokor Adain Family)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Atuguba J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Date-Bah J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Adinyira J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Owusu J.S.C.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Akrong v. Bulley (1965) GLR 496 S.C.",
+    "Attah v. Aidoo (1968) GLR 362",
+    "Mensah v. Lartey (1963) 2 GLR 92 S.C.",
+    "In re Kwao (Decd); Nartey v. Armah (1989\u001390) 2 GLR 532 S.C.",
+    "B.A. Quarcoo vrs Manye O-Adorkor Allotey & 5 Others (16/12/80)"
+  ],
+  "rationaleHighlights": [
+    "The suit was representative of the Onamrokor Adain Family, thus surviving the plaintiff's death.",
+    "Consolidation of suits was legally valid; the family's cause of action continued despite personal claims not surviving.",
+    "Court rejected the argument that defendants lacked traditional positions to conduct burial.",
+    "Estoppel applied based on prior Court of Appeal judgment (1980) preventing B.A. Quarcoo from claiming headship.",
+    "No merit in appeal due to lack of pleaded evidence on traditional roles and locus standi."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct quotes and structured legal reasoning in the judgment. Some citations are partially truncated but identifiable.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/NII PAUL AYITEY TETTEH  SUB ARTHUR HAMMOND ,TETTEH QUARCOO, .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:03:49.573Z",
+    "plainTextLength": 27537
+  },
+  "trialDate": "2008-04-22"
+}

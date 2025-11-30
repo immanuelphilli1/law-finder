@@ -1,0 +1,67 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "In this 1939 West Africa Court of Appeal case from Accra, the court interpreted Clause 2 of a will concerning \"Ali's land.\" The testator left the land \"in the charge of\" three individuals, mirroring language used in Clause 1 regarding a house where beneficial interest was clearly intended, as evidenced by the direction to divide rents equally. The majority held that the phrase \"in the charge of\" should be interpreted consistently, granting the named individuals beneficial ownership of the land, not a trustee role. This reversed the lower court's finding of partial intestacy. The dissent argued that without explicit disposal directions, the phrase did not convey a beneficial interest. The appeal succeeded on construction grounds, making consideration of limitation statutes unnecessary.",
+  "legalKeywords": [
+    "construction of will",
+    "beneficial interest",
+    "trustee",
+    "intestacy",
+    "prima facie",
+    "ordinary meaning",
+    "testator's intention",
+    "technical words",
+    "partial intestacy",
+    "limitation statute",
+    "Mohammedan law",
+    "real property",
+    "bequest",
+    "executors",
+    "alienation"
+  ],
+  "topics": [
+    "Wills and Trusts",
+    "Property Law",
+    "Succession"
+  ],
+  "verdict": "Appeal allowed; judgment below reversed on the issue of trusteeship; the named legatees are beneficial owners of Ali's land.",
+  "winningSide": "Defendant-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Butler Lloyd",
+      "role": "Ag. Chief Justice, Nigeria"
+    },
+    {
+      "name": "Cor. Webb",
+      "role": "Chief Justice, Sierra Leone"
+    },
+    {
+      "name": "Strother-Stewart",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "probate",
+  "citations": [
+    "WACA/5 WACA/ABlBA ALl.htm",
+    "Real Property Limitation Act, 1833"
+  ],
+  "rationaleHighlights": [
+    "Words \"in charge of\" interpreted consistently across will clauses; beneficial interest inferred from context.",
+    "Clause 1's structure (rent division) indicates beneficial ownership, informing interpretation of Clause 2.",
+    "Majority rejected trust construction due to consistent use of language and testator's evident intent.",
+    "Dissent emphasized technical meaning of \"in charge of\" and absence of disposal directions in Clause 2.",
+    "Statute of Limitations raised but deemed not properly pleaded; not determinative on appeal."
+  ],
+  "confidenceNotes": "High confidence in interpretation due to clear judicial reasoning and direct citation of will clauses; minority dissent noted but majority ruling is definitive.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/ABlBA ALl.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:51:39.403Z",
+    "plainTextLength": 14049
+  },
+  "trialDate": "1939-04-06"
+}

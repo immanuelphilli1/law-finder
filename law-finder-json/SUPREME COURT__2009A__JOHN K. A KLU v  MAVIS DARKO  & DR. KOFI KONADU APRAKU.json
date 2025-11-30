@@ -1,0 +1,80 @@
+{
+  "caseTitle": "JOHN K. A KLU v MAVIS DARKO & DR. KOFI KONADU APRAKU",
+  "summary": "The Supreme Court of Ghana restored the trial court's judgment in favor of the plaintiff, John K. A. Klu, in a land dispute against Mavis Darko and Dr. Kofi Konadu Apraku. The plaintiff had been in continuous and undisturbed possession of Plot No. 234, Block 8, Section 114, La-Bawaleshi (East Legon) since 1980. Although the Court of Appeal had reversed the trial court on the basis that the plaintiff's title was invalid due to the prior destoolment of the Nungua Mantse who granted the land to his vendor (nemo dat quod non habet), the Supreme Court held that the plaintiff's adverse possession for over 12 years under Section 10 of the Limitation Decree, 1972 (NRCD 54), conferred a valid possessory title. This title was protected even against registered interests under Section 18 of the Land Title Registration Law, 1986 (PNDCL 152). The defendants' claim was found to be a simulated transaction based on false evidence. The Supreme Court emphasized that the original stool's title had been extinguished, and the plaintiff's prior possession rendered him the rightful owner. The appeal was allowed, the Court of Appeal's decision set aside, and the trial court's reliefs reinstated.",
+  "legalKeywords": [
+    "adverse possession",
+    "Limitation Decree 1972 (NRCD 54)",
+    "Land Title Registration Law (PNDCL 152)",
+    "nemo dat quod non habet",
+    "bona fide purchaser",
+    "possessory title",
+    "section 10",
+    "section 18",
+    "trespas",
+    "extinguishment of title",
+    "stool land",
+    "destoolment",
+    "Land Development (Protection of Purchasers) Act, 1960 (Act 2)",
+    "prescription",
+    "conclusive evidence of title"
+  ],
+  "topics": [
+    "Land Law",
+    "Adverse Possession",
+    "Title to Land",
+    "Limitation of Actions",
+    "Stool Land Disputes"
+  ],
+  "verdict": "Appeal allowed; judgment of the Court of Appeal set aside; trial court's decision restored in favor of the plaintiff.",
+  "winningSide": "Plaintiff (John K. A. Klu)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "W. A. Atuguba",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "J. Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "S. O. A. Adinyira",
+      "role": "Justice"
+    },
+    {
+      "name": "R. C. Owusu",
+      "role": "Justice"
+    },
+    {
+      "name": "P. Baffoe-Bonnie",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Amegahie v. Okine (1992) 2 GLR 319",
+    "Republic v. Land Title Registrar, Ex parte Boahen II (2001-2002) 1 GLR 42",
+    "Brown v. Quarshigah (2003–2004) 2 SC GLR 930",
+    "GIHOC REFRIGERATION HOUSEHOLD PRODUCTS LTD. V HANNA ASSI (2005–2006) SC GLR 458",
+    "DJIN v. MUSAH BAAKO (2007-2008) SC GLR 686"
+  ],
+  "rationaleHighlights": [
+    "Plaintiff's long possession since 1980 established adverse possession under s.10 of NRCD 54",
+    "Adverse possession confers possessory title even against registered proprietors under s.18 PNDCL 152",
+    "Destoolment of grantor does not defeat plaintiff's title where possession exceeds limitation period",
+    "Defendants' claim was a simulation based on false evidence",
+    "Prior possession prevails over rival claims, especially where original title is extinguished"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy as all information is drawn directly from the Supreme Court judgment with clear references to legal provisions, case law, and court findings.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/JOHN K. A KLU v  MAVIS DARKO  & DR. KOFI KONADU APRAKU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:06:25.429Z",
+    "plainTextLength": 9923
+  },
+  "trialDate": "2009-11-25"
+}

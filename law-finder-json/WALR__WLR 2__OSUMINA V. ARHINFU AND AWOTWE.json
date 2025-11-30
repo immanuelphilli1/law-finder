@@ -1,0 +1,69 @@
+{
+  "caseTitle": "OSUMINA VERSUS ARHINFU AND AWOTWE",
+  "summary": "This 1957 Supreme Court of Ghana decision addressed the unlawful use of a customary oath to obstruct judicial enforcement of land rights. The plaintiff had obtained a favorable judgment in both the Native Court and Land Court, granting him title to two parcels of land. Despite a pending appeal before the West African Court of Appeal, the plaintiff was entitled to immediate possession, as an appeal does not automatically stay execution. The defendant, a town linguist, swore an oath ('Amonoo Kwesida') to prevent the plaintiff from taking possession, prompting new proceedings in a Native Court. The Supreme Court held that this use of the oath was unlawful, as it circumvented existing judgments and violated the principle that res judicata applies between the parties. The court set aside the Native Court's ruling and awarded the plaintiff ₤75 in damages for wrongful interference with his possession, emphasizing the need to uphold judicial authority and protect established rights under native law and custom.",
+  "legalKeywords": [
+    "native law and custom",
+    "oath swearing",
+    "res judicata",
+    "stay of execution",
+    "pendency of appeal",
+    "unlawful interference",
+    "declaration of title",
+    "damages for trespass",
+    "customary judicial procedure",
+    "jurisdiction of native courts",
+    "West African Court of Appeal",
+    "Oman-Kyeame",
+    "breach of peace",
+    "execution of judgment",
+    "land rights",
+    "customary offence",
+    "civil liability",
+    "Supreme Court of Ghana",
+    "Fante Confederacy Native Court",
+    "Land Court"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Appellate Procedure",
+    "Judicial Remedies",
+    "Tort Law"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana, Central Judicial Division, Land Court, Cape Coast",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Yerenchi v. Akuffo (1905) Renner, Vol. 1, Pt. 1, 366",
+    "Inspector-General of Police v. Asare Panyin (1931) D.C. 1929-1931, 64",
+    "Native Courts (Colony) Ordinance, c. 98 of 1951, First Schedule"
+  ],
+  "rationaleHighlights": [
+    "An appeal does not operate as a stay of execution without a court order",
+    "Judgment in favor of a party entitles them to immediate possession of land",
+    "Use of oath to obstruct enforcement of judgment is unlawful",
+    "Res judicata applies to ownership determination between parties",
+    "Native Courts erred in accepting oath as justification",
+    "Flagrant disregard for judicial decisions warrants substantial damages",
+    "Oman-Kyeame has no authority to override court judgments via oath",
+    "Damages awarded even without proof of special loss due to seriousness of interference"
+  ],
+  "confidenceNotes": "High confidence; information is drawn directly from the court's published judgment with clear factual and legal reasoning provided.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/OSUMINA V. ARHINFU AND AWOTWE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:25:32.244Z",
+    "plainTextLength": 8053
+  }
+}

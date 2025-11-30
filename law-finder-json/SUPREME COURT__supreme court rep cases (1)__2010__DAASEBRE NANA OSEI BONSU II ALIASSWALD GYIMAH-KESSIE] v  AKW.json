@@ -1,0 +1,90 @@
+{
+  "caseTitle": "DAASEBRE NANA OSEI BONSU II ALIASSWALD GYIMAH-KESSIE] v AKW",
+  "summary": "The Supreme Court of Ghana, in a judgment delivered on 24th February 2010, allowed the appeal brought by Akwasi Mensah, Ben Ephson, The Daily Dispatch, and Allied News Limited against Daasebre Nana Osei Bonsu II. The case arose from a 2003 article titled 'Mamponghene in 264 million cedis fraud,' which reported on a petition alleging the respondent received money for nominating a queen mother. The High Court had dismissed the libel claim, but the Court of Appeal reversed that decision, awarding damages. The Supreme Court reinstated the High Court’s judgment, holding that the publication constituted fair comment on a matter of public interest. The Court found that the appellants did not act maliciously and that the subject matter—concerning a traditional leader—was inherently of public concern. It emphasized that customary dispute resolution mechanisms, such as those led by the Asantehene, are valid and their proceedings may be reported. The appeal was deemed properly constituted despite a technical error in naming the court in the notice of appeal.",
+  "legalKeywords": [
+    "fair comment",
+    "defamation",
+    "qualified privilege",
+    "public interest",
+    "malice",
+    "pleading",
+    "libel",
+    "customary arbitration",
+    "freedom of expression",
+    "traditional leadership",
+    "judicial correction",
+    "rolled-up plea",
+    "injunction",
+    "damages",
+    "statement of defence",
+    "public figure",
+    "contextual interpretation",
+    "truth as defence",
+    "media law",
+    "appellate jurisdiction"
+  ],
+  "topics": [
+    "Defamation Law",
+    "Freedom of Speech",
+    "Traditional Authority",
+    "Media and Press",
+    "Supreme Court Procedure"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "GBADEGBE, JSC",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "ATUGUBA, JSC",
+      "role": "Presiding"
+    },
+    {
+      "name": "ANSAH, JSC"
+    },
+    {
+      "name": "BAFFOE-BONNIE, JSC"
+    },
+    {
+      "name": "ARYEETEY, JSC"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "SUTHERLAND v STOPES [1925] AC 47",
+    "JONES v KELTON [1963] 3 All ER 952",
+    "LONDON ARTISTS LTD v LITTLER [1969] 3 All ER 193",
+    "LORD v SUNDAY TELEGRAPH [1970] 3 All ER 504",
+    "SLIM v DAILY TELEGRAPH [1968] 1 All ER 497",
+    "THOMAS v BRADBURY, AGNEW & CO. LTD [1906] 2KB 627",
+    "BENNEH v NEW TIMES CORPORATION [1982-83] G.L.R.302",
+    "TURNER v METRO–GOLDWYN MAYER PICTURES LTD [1950]1 All ER 449",
+    "SOUTH HETTON COAL LTD v NORTH-EASTERN NEWS ASSOCIATION LTD [1894]1QB 133",
+    "COHEN V DAILY TELEGRAPH [1968] 2 All ER 407"
+  ],
+  "rationaleHighlights": [
+    "The publication was held to be fair comment on a matter of public interest.",
+    "The respondent, as a traditional leader, was a public figure whose conduct was subject to public scrutiny.",
+    "The petition to the Asantehene placed the facts in the public domain, supporting the defence of fair comment.",
+    "The appellants were found not to have acted maliciously in publishing the article.",
+    "The 'rolled-up plea' in pleadings has become obsolete under current civil procedure rules.",
+    "Customary dispute resolution mechanisms are recognized and may be reported in the public interest.",
+    "Technical errors in the notice of appeal do not invalidate the appeal if substantial justice is served.",
+    "The headline and opening paragraph were deemed comment, not assertion of fact."
+  ],
+  "confidenceNotes": "The summary is based on a complete reading of the provided judgment text. All key legal points, citations, and procedural details are accurately reflected. The verdict and rationale are clearly supported by the court's reasoning.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2010/DAASEBRE NANA OSEI BONSU II ALIASSWALD GYIMAH-KESSIE] v  AKW.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:43:00.224Z",
+    "plainTextLength": 17175
+  },
+  "trialDate": "2007-04-23"
+}

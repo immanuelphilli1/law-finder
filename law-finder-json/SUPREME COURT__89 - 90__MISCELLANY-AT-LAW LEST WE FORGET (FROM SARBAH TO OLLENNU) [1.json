@@ -1,0 +1,68 @@
+{
+  "caseTitle": "MISCELLANY-AT-LAW LEST WE FORGET (FROM SARBAH TO OLLENNU) [1",
+  "summary": "This reflective legal commentary traces the legacy of Ghanaian legal luminaries from John Mensah Sarbah to Nii Amaa Ollennu, emphasizing their roles as jurists, nationalists, and patriots. It highlights Sarbah's foundational work in customary law, his opposition to the 1897 Lands Bill, and the formation of the Aborigines' Rights Protection Society. The piece underscores the historical role of lawyers in defending human rights and the rule of law, citing figures like J.E. Casely Hayford, Dr. J.B. Danquah, and Kwamena Bentsi-Enchill. It critiques contemporary perceptions of lawyers while affirming their societal contributions beyond litigation, including education, publishing, and nation-building. The narrative serves as a reminder of the ethical and public service dimensions of the legal profession in Ghana.",
+  "legalKeywords": [
+    "customary law",
+    "Aborigines' Rights Protection Society",
+    "Lands Bill 1897",
+    "rule of law",
+    "human rights",
+    "legal history",
+    "nationalism",
+    "patriotism",
+    "lawyers in society",
+    "Fanti National Constitution",
+    "Compulsory Letting Law",
+    "jurisprudence",
+    "legal profession",
+    "colonial legislation",
+    "legal education"
+  ],
+  "topics": [
+    "Legal History",
+    "Customary Law",
+    "Rule of Law",
+    "Human Rights",
+    "Nationalism"
+  ],
+  "verdict": "Not applicable – the document is a historical and ethical reflection on the legal profession in Ghana, not a judicial decision.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Mr Justice Samuel Azu Crabbe"
+    },
+    {
+      "name": "Mr Justice Ollennu"
+    },
+    {
+      "name": "Mr Justice E K Ollennu"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "miscellany-at-law",
+  "citations": [
+    "In re Okine",
+    "In re Amponsah",
+    "In re Dumoga",
+    "In re Akoto"
+  ],
+  "rationaleHighlights": [
+    "Sarbah refused a 400-guinea fee for defending indigenous land rights, citing service to nation",
+    "Legal professionals historically central to Ghana's political and social development",
+    "Lawyers trained to defend individual rights, thus naturally oppose authoritarianism",
+    "Sarbah's Fanti Customary Law remains foundational for Ghanaian jurisprudence",
+    "Danquah's legal arguments in detention cases became a legacy despite judicial rejection",
+    "Legal knowledge viewed as a tool for public service, not personal gain"
+  ],
+  "confidenceNotes": "The document is a historical and reflective legal commentary rather than a formal court judgment; citations are referenced but not fully detailed.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/89 - 90/MISCELLANY-AT-LAW LEST WE FORGET (FROM SARBAH TO OLLENNU) [1.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:56:08.094Z",
+    "plainTextLength": 24748
+  }
+}

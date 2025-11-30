@@ -1,0 +1,60 @@
+{
+  "caseTitle": "FREMPONG VERSUS EFFA",
+  "summary": "In Frempong v. Effa, the High Court addressed a land dispute stemming from a prior action where the Aperade Stool's claim to ownership was dismissed, resulting in a nonsuit in favor of the Tarkwa Stool, later confirmed by the Privy Council. In a subsequent suit, the Tarkwahene (Frempong) sought recovery of possession from Effa, a farmer on the land, and damages for trespass, alleging Effa's failure to attorn tenant. The court held that the prior judgment barred the Aperade Stool and its subjects (including Effa) from asserting ownership due to estoppel per rem judicatum, despite the Tarkwa Stool's failure to counterclaim. It affirmed the customary principle requiring occupants to attorn tenant to the declared owner, and upheld the Native Court's judgment. However, a later appeal to the Ghana Court of Appeal set aside the decision due to insufficient evidence linking the disputed land to the prior judgment, emphasizing the need for production of the relevant plan.",
+  "legalKeywords": [
+    "estoppel per rem judicatum",
+    "native law and custom",
+    "declaration of title",
+    "attornment",
+    "res judicata",
+    "counterclaim",
+    "possession of land",
+    "customary tenancy",
+    "nonsuit",
+    "trespass to land"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Res Judicata",
+    "Estoppel",
+    "Tenancy"
+  ],
+  "verdict": "Appeal dismissed at High Court level; later allowed by Court of Appeal on May 17, 1960, and remitted for rehearing due to lack of evidentiary support.",
+  "winningSide": "Plaintiff (Frempong) initially; decision later overturned on appeal",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adumua-Bossman J.",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Central Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "Frempong v. Effa",
+    "Kwesi and Another v. Kwadjo and Another (West African Court of Appeal, February 22, 1944, unreported)",
+    "Kwajo and Another v. Kwesi and Another (West African Court of Appeal, February 17, 1947, unreported)",
+    "Ababio v. Nsemfoo (1947) 12 W.A.C.A. 127"
+  ],
+  "rationaleHighlights": [
+    "Judgment against a plaintiff in a title declaration action creates estoppel against re-litigating ownership.",
+    "Successful defendant who failed to counterclaim is still estopped from being challenged by the original plaintiff.",
+    "Customary law requires occupants to attorn tenant to the declared owner post-adjudication.",
+    "Failure to attorn allows declared owner to enforce rights through legal action.",
+    "Res judicata applies even without formal counterclaim by the successful defendant.",
+    "Proper procedure includes notifying occupants and seeking tenancy agreements.",
+    "Subsequent appeal succeeded due to lack of evidence linking disputed land to prior judgment.",
+    "Evidentiary foundation (e.g., plan) is essential to sustain claim based on prior adjudication."
+  ],
+  "confidenceNotes": "High confidence in core legal principles; lower confidence in final outcome due to subsequent appeal overturning the judgment on evidentiary grounds.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/FREMPONG v. EFFA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:05:09.980Z",
+    "plainTextLength": 10130
+  }
+}

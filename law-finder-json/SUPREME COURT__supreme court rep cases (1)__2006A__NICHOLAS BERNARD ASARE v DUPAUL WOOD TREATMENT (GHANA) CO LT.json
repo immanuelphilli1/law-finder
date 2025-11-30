@@ -1,0 +1,91 @@
+{
+  "caseTitle": "NICHOLAS BERNARD ASARE v DUPAUL WOOD TREATMENT (GHANA) CO LT",
+  "summary": "In Nicholas Bernard Asare v Dupaul Wood Treatment (Ghana) Co Ltd, the Supreme Court of Ghana resolved a dispute between two founding shareholders over shareholding dilution and corporate control. The plaintiff, Asare, claimed he was wrongfully reduced from a 50% to a 10% shareholder and unlawfully removed as a director. The trial court held he had acquiesced to the 10% shareholding, but the Court of Appeal reversed, affirming his status as a 50% shareholder and victim of oppression under Section 218 of the Companies Code 1963. The Supreme Court upheld this, ruling that the new company regulations, which purported to alter shareholding and director appointments, were invalid due to lack of registration and internal inconsistencies (e.g., missing Regulation 56). It confirmed that non-payment for shares does not affect membership and that the unilateral dilution of shares and exclusion from management constituted oppressive conduct. The court emphasized strict compliance with statutory procedures for altering company regulations.",
+  "legalKeywords": [
+    "shareholder rights",
+    "company membership",
+    "oppression of minority shareholder",
+    "Companies Code 1963",
+    "special resolution",
+    "registration of regulations",
+    "alteration of share capital",
+    "fraud on shareholder",
+    "unlawful removal of director",
+    "member status",
+    "pre-incorporation actions",
+    "dividend non-declaration",
+    "director appointment",
+    "class of shares",
+    "forfeiture of shares",
+    "acquiescence",
+    "undue influence",
+    "corporate governance",
+    "judicial review",
+    "civil remedy"
+  ],
+  "topics": [
+    "Corporate Law",
+    "Shareholder Disputes",
+    "Oppression of Minority Shareholders",
+    "Company Registration",
+    "Director Removal"
+  ],
+  "verdict": "The Supreme Court dismissed the appeal and upheld the Court of Appeal’s decision, affirming that Nicholas Bernard Asare remained a 50% shareholder and that the actions of the company and Dr. Kwame Dufour constituted oppression under Section 218 of the Companies Code 1963.",
+  "winningSide": "Plaintiff/Appellant (Nicholas Bernard Asare)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Miss Akuffo",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Mrs. Wood",
+      "role": "Justice"
+    },
+    {
+      "name": "Aninakwah",
+      "role": "Justice"
+    },
+    {
+      "name": "Asiamah",
+      "role": "Justice"
+    },
+    {
+      "name": "Twumasi JA",
+      "role": "Court of Appeal Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Adehyeman Gardens Ltd. v Assibey [2003-2004] SCGLR 1016",
+    "Companies Code 1963 (Act 179)",
+    "Section 30(1)",
+    "Section 185(2)",
+    "Section 218"
+  ],
+  "rationaleHighlights": [
+    "Non-payment for shares does not negate member status under Section 30(1) of the Companies Code.",
+    "New company regulations invalid due to non-registration and internal inconsistencies.",
+    "Reduction of shareholding from 50% to 10% without valid legal basis constitutes oppression under Section 218.",
+    "Removal of director while abroad on course violates Section 185(2).",
+    "Failure to declare dividends and family interference in management support finding of oppression.",
+    "Court of Appeal correctly reversed trial court’s denial of membership and shareholding rights.",
+    "Supreme Court affirms that procedural defects in adopting new regulations render them ineffective."
+  ],
+  "confidenceNotes": "High confidence; all key details are explicitly stated in the judgment, including parties, legal provisions, and court reasoning.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2006A/NICHOLAS BERNARD ASARE v DUPAUL WOOD TREATMENT (GHANA) CO LT.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T18:02:33.913Z",
+    "plainTextLength": 50024
+  },
+  "trialDate": "2005-04-25"
+}

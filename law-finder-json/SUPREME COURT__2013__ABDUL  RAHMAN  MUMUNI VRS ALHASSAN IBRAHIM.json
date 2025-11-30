@@ -1,0 +1,69 @@
+{
+  "caseTitle": "ABDUL RAHMAN MUMUNI VRS ALHASSAN IBRAHIM",
+  "summary": "In this civil appeal before the Supreme Court of Ghana, the court identified evidence of a negotiated settlement in the record where the plaintiff proposed dividing a property into two parts for peaceful resolution, which the defendant had agreed to. Although the settlement was not formally pleaded, the court invoked the doctrine of estoppel and the principle of interest rei publicae ut sit finis litium to uphold the agreement. The court amended the plaintiff's writ to include a claim for enforcement of the settlement and ordered the division of the property: the plaintiff received three uncompleted buildings and four completed ones (including a hall and chamber), while the respondent received the remaining seven completed rooms (also including a hall and chamber). Rents paid into court were to be distributed equally. The decision reflects judicial support for amicable dispute resolution under customary law.",
+  "legalKeywords": [
+    "negotiated settlement",
+    "estoppel",
+    "customary law",
+    "enforcement of agreement",
+    "division of property",
+    "interest rei publicae ut sit finis litium",
+    "civil appeal",
+    "uncompleted buildings",
+    "rent distribution",
+    "alternative claim"
+  ],
+  "topics": [
+    "Property Dispute",
+    "Settlement Enforcement",
+    "Customary Law"
+  ],
+  "verdict": "The negotiated settlement was upheld and enforced by the court with specific allocation of property and equal distribution of rents.",
+  "winningSide": "Both parties, as the court enforced a mutual settlement with equitable distribution",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "W. A. Atuguba",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "J. Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "S. O. A. Adinyira",
+      "role": "Justice"
+    },
+    {
+      "name": "R. C. Owusu",
+      "role": "Justice"
+    },
+    {
+      "name": "J. V. M. Dotse",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "SUPREME COURT/2013/ABDUL RAHMAN MUMUNI VRS ALHASSAN IBRAHIM"
+  ],
+  "rationaleHighlights": [
+    "The court recognized a negotiated settlement despite it not being formally pleaded, in line with public interest in ending litigation.",
+    "Estoppel was applied based on the plaintiff's testimony that both parties agreed to divide the house for peace.",
+    "Customary law principles were used to interpret the reasonable division of property.",
+    "The court amended the writ to include enforcement of the settlement as an alternative claim.",
+    "Rents paid into court were ordered to be distributed equally between the parties."
+  ],
+  "confidenceNotes": "The decision is clearly documented with full judicial signatures and specific reasoning based on evidence of a negotiated settlement. The absence of the respondent does not affect the validity of the court's findings as the settlement was derived from the plaintiff's unchallenged testimony.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/ABDUL  RAHMAN  MUMUNI VRS ALHASSAN IBRAHIM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:18:20.583Z",
+    "plainTextLength": 3236
+  },
+  "trialDate": "2012-09-04"
+}

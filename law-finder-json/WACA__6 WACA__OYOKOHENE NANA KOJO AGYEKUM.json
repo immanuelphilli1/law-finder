@@ -1,0 +1,76 @@
+{
+  "caseTitle": "OYOKOHENE NANA KOJO AGYEKUM",
+  "summary": "This civil appeal before the West Africa Court of Appeal concerned a land boundary dispute between the stools of Acherensua and Kwesiasi in Ashanti, Ghana. The plaintiffs claimed damages for trespass and a declaration of ownership over land in Ahafo, asserting that the boundary was the Kosu River as determined by an executive decision of Chief Commissioner Sir Francis Fuller in 1913. The defendants argued the decision established only a political boundary between the Ahafos and Odumasis. The Court examined Exhibit D, the validated executive decision, and held it clearly resolved a land ownership dispute between Acherensua and Kwesiasi, with the Kosu River as the boundary. The Court found the trespass occurred on Acherensua land and affirmed the Chief Commissioner’s Court judgment, dismissing the appeal. It also allowed an amendment to the writ to include a declaration of ownership and awarded costs.",
+  "legalKeywords": [
+    "trespass",
+    "boundary dispute",
+    "executive decision",
+    "land ownership",
+    "res judicata",
+    "native customary law",
+    "amendment of writ",
+    "declaration of ownership",
+    "Chief Commissioner",
+    "Kosu River",
+    "Acherensua",
+    "Kwesiasi",
+    "Asantehene's Court",
+    "political boundary vs land boundary",
+    "plantation rights",
+    "fishing rights",
+    "rubber collecting",
+    "game and snails",
+    "ferry dues",
+    "Boma village claim",
+    "Odumasi",
+    "Ahafos"
+  ],
+  "topics": [
+    "Land Law",
+    "Boundary Disputes",
+    "Customary Law",
+    "Judicial Interpretation",
+    "Res Judicata"
+  ],
+  "verdict": "Appeal dismissed; plaintiffs awarded damages and declaration of ownership with boundary defined by the Kosu River as per the 1913 executive decision.",
+  "winningSide": "Plaintiffs-Appellants-Respondents (The Stool of Oyok Per Oyokohene Nana Kojo Agyekum and The Stool of Acherensua per Kyeame Kwame Apaw)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Cor Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WACA/6 WACA/OYOKOHENE NANA KOJO AGYEKUM",
+    "The Boundary, Land, Tribute, and Fishery Disputes (Executive Decisions Validation) Ordinance (Cap. 120)"
+  ],
+  "rationaleHighlights": [
+    "The executive decision of 1913 was interpreted as fixing a land boundary between Acherensua and Kwesiasi, not a political division.",
+    "The heading 'Dispute about the ownership of Acherensua Land' confirms the subject matter of the decision.",
+    "Permission required from Chief of Acherensua for cultivation west of Kosu River supports land ownership interpretation.",
+    "Failure to recognize res judicata effect of validated executive decision led to error in lower courts.",
+    "Amendment of writ allowed to reflect true nature of dispute over land boundaries."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy due to direct quotation from official court document and clear judicial reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/OYOKOHENE NANA KOJO AGYEKUM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:59:41.596Z",
+    "plainTextLength": 11753
+  },
+  "trialDate": "1940-11-26"
+}

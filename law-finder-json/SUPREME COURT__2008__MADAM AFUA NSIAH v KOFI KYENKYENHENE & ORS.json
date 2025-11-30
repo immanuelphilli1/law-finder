@@ -1,0 +1,85 @@
+{
+  "caseTitle": "MADAM AFUA NSIAH v KOFI KYENKYENHENE & ORS",
+  "summary": "This is a civil property dispute before the Supreme Court of Ghana concerning House No. AM.9 in Ampabame, Kumasi. The plaintiff, Madam Afua Nsiah, claimed to be the head of her maternal family and sued to declare the house family property devised by her granduncle, Kwabena Asante. She sought recovery of possession and a perpetual injunction. The High Court granted her claims, but the Court of Appeal reversed, citing lack of capacity and insufficient evidence. The Supreme Court upheld the reversal, finding that the plaintiff failed to prove her capacity to sue on behalf of the family. Key witness PW1 (over 100 years old) claimed the house belonged to her, not the plaintiff, undermining the plaintiff's standing. The evidence on compensation payments and funding of the house was inconsistent and largely hearsay. The trial judge improperly amended the plaintiff's capacity under Order 28 r12 without sufficient basis. The Supreme Court affirmed that without proof of authority or representation, the plaintiff could not maintain the suit, especially when the true owner (PW1) made an adverse claim. The appeal was dismissed, affirming the Court of Appeal's judgment.",
+  "legalKeywords": [
+    "capacity to sue",
+    "family property",
+    "customary law",
+    "inheritance",
+    "compensation",
+    "relocation",
+    "evidence",
+    "corroboration",
+    "standing",
+    "property dispute",
+    "self-acquired property",
+    "maternal family",
+    "trial error",
+    "appellate review",
+    "discretion to amend",
+    "hearsay evidence",
+    "traditional evidence",
+    "burden of proof",
+    "judicial precedent",
+    "omnibus ground"
+  ],
+  "topics": [
+    "Property Law",
+    "Customary Law",
+    "Civil Procedure",
+    "Evidence",
+    "Appellate Review"
+  ],
+  "verdict": "The appeal was dismissed. The Supreme Court upheld the Court of Appeal's decision reversing the High Court's judgment in favor of the plaintiff.",
+  "winningSide": "Defendants (Kofi Kyenyenkhene & Others)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "ANINAKWAH, JSC",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "(MRS) WOOD, CJ",
+      "role": "Presiding"
+    },
+    {
+      "name": "BROBBEY, JSC",
+      "role": "Member of bench"
+    },
+    {
+      "name": "ANSAH, JSC",
+      "role": "Member of bench"
+    },
+    {
+      "name": "ASIAMAH, JSC",
+      "role": "Member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "KWAN VRS NYIENI (1959) GLR 62 at 67",
+    "OWUSU VRS AGYEI (1991) 2 GLR 493 at 504-506",
+    "YARTEY V. CONST. & FURNITURE (W.A) LTD",
+    "ABABIO V QUARTEY (1946) 12 WACA 18",
+    "Sarkodie I vs. Boateng II (1977) 2 GLR 343"
+  ],
+  "rationaleHighlights": [
+    "Plaintiff failed to prove her capacity as head of family or representative of the true owner.",
+    "PW1's testimony contradicted plaintiff's claim and asserted her own ownership.",
+    "Court of Appeal correctly found no basis for trial judge's amendment of plaintiff's capacity under Order 28 r12.",
+    "Evidence on compensation and property acquisition was inconsistent and largely hearsay.",
+    "Supreme Court upheld reversal due to lack of credible, corroborative evidence supporting family property claim."
+  ],
+  "confidenceNotes": "The judgment is well-reasoned with clear reference to precedent and evidence evaluation. The Supreme Court affirmed the Court of Appeal's reversal based on lack of capacity and inconsistent evidence.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2008/MADAM AFUA NSIAH v KOFI KYENKYENHENE & ORS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:14:45.747Z",
+    "plainTextLength": 16724
+  },
+  "trialDate": "2006-04-26"
+}

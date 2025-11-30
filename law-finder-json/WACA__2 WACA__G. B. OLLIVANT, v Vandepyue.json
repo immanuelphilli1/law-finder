@@ -1,0 +1,87 @@
+{
+  "caseTitle": "C. A. V ANDERPUYE ...",
+  "summary": "This 1935 West African Court of Appeal decision addressed preliminary objections to an appeal brought by G. B. Ollivant, Ltd against C. A. Vanderpuye. The plaintiff had obtained a judgment of £88 10s in the Police Magistrate's Court, which was reversed by the Divisional Court. The appellant then sought and obtained conditional, later final, leave to appeal to the West African Court of Appeal. The respondent raised two technical objections: that the appeal was not permissible because the original judgment was below £100, and that special leave was improperly granted when ordinary leave should have sufficed. The Court rejected both objections, holding that under Section 4(2) of the West African Court of Appeal Ordinance, an appeal lies as of right when a Divisional Court reverses or materially alters a Magistrate’s decision, irrespective of the claim amount, and that the procedural mechanism of special leave did not bar the appeal. The Court emphasized that technicalities should not obstruct substantial justice and allowed the appeal to proceed on its merits.",
+  "legalKeywords": [
+    "appeal as of right",
+    "preliminary objection",
+    "substantial justice",
+    "conditional leave to appeal",
+    "final leave to appeal",
+    "technical objection",
+    "reversal of judgment",
+    "material alteration",
+    "jurisdictional threshold",
+    "West African Court of Appeal Ordinance",
+    "Divisional Court",
+    "Magistrate's Court",
+    "ex parte application",
+    "procedural compliance",
+    "appellate jurisdiction",
+    "leave to appeal",
+    "special leave",
+    "judgment value",
+    "subject matter in dispute",
+    "Royal Order-in-Council",
+    "conditional terms",
+    "procedural technicality",
+    "appellate procedure",
+    "Ghana legal history",
+    "colonial judiciary",
+    "conditional grant",
+    "appeal conditions",
+    "judicial discretion",
+    "appellate access",
+    "case law distinction"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Civil Litigation",
+    "Legal History",
+    "Judicial Review",
+    "Procedural Law"
+  ],
+  "verdict": "The preliminary objections were overruled and the appeal was allowed to proceed on its merits.",
+  "winningSide": "Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Yates",
+      "role": "Acting Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "West African Court of Appeal Ordinance, 1933 (No. 11 of 1935)",
+    "Koney v Union Trading Company (21st May, 1935, unreported)"
+  ],
+  "rationaleHighlights": [
+    "An appeal lies to the West African Court of Appeal when a Divisional Court reverses or materially alters a Magistrate’s decision, regardless of the claim amount.",
+    "Section 4(2) of the Ordinance creates an appeal as of right in such cases, distinguishing it from Privy Council appeal rules.",
+    "Technical objections will not be permitted to defeat substantial justice.",
+    "The grant of special conditional leave, later made final, was an acceptable procedural route.",
+    "The value of the subject matter is not confined to the original judgment amount when the appeal arises from reversal.",
+    "The cited precedent (Koney) was inapplicable due to different statutory frameworks.",
+    "The Court exercised discretion to hear the appeal on merits despite procedural challenges.",
+    "Ex parte applications for leave are permissible under the appellate framework."
+  ],
+  "confidenceNotes": "The document is a reliable primary source from the West African Court of Appeal with clear judicial reasoning. All details are drawn directly from the judgment, though some formatting issues in the source text were reconciled for clarity.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/G. B. OLLIVANT, v Vandepyue.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:28:57.700Z",
+    "plainTextLength": 4675
+  },
+  "trialDate": "1935-12-10"
+}

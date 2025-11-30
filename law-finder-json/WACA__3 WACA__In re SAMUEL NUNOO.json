@@ -1,0 +1,70 @@
+{
+  "caseTitle": "REX VERSUS JONATHAN ADE OLUJOMOYE AND ANOTHER",
+  "summary": "Samuel Nunoo, a witness at the Assizes in Accra, was sentenced to six months' imprisonment with hard labour for perjury under section 139 of the Criminal Procedure Code. The presiding judge summarily convicted him without recalling witnesses or specifying the exact false statements, citing willful and corrupt perjury. Nunoo appealed on grounds that there was no recorded evidence to justify the conviction and that the charge lacked specificity. The West African Court of Appeal dismissed the appeal, holding that the procedure under section 139 is summary in nature and does not require formal trial processes. Relying on Privy Council precedent in *Chang Hang Kin v. The Judges of the Supreme Court of Hong Kong*, the court ruled that while specifying false statements is desirable, it is sufficient if the accused understands the gist of the accusation. Given that Nunoo’s testimony concerned only one incident—alleged police visitation—and the contradiction with police testimony was clear, the court found he was adequately aware of the charge. The appeal was dismissed, affirming the summary contempt power of the court.",
+  "legalKeywords": [
+    "perjury",
+    "summary conviction",
+    "contempt of court",
+    "Criminal Procedure Code",
+    "section 139",
+    "right to be heard",
+    "judicial discretion",
+    "appeal",
+    "witness testimony",
+    "false statement",
+    "procedural fairness",
+    "Privy Council",
+    "West African Court of Appeal",
+    "hard labour",
+    "imprisonment"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Procedural Law",
+    "Judicial Contempt",
+    "Appeals",
+    "Witness Credibility"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Crown",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "BARTON, J.",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Cor. PETRIDES, C.J.",
+      "role": "Chief Justice, Appeal Court"
+    },
+    {
+      "name": "DOORLY, JJ.",
+      "role": "Judge, Appeal Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "In re W. A. Asare Kisseadoo, Div. Court, 1929-31, 49",
+    "Chang Hang Kin v. The Judges of the Supreme Court of Hong Kong, 25 T.L.R. 381"
+  ],
+  "rationaleHighlights": [
+    "Section 139 allows summary punishment for perjury without full trial procedures",
+    "Accused must be aware of the gist of the charge, even if exact words are not cited",
+    "Opportunity to show cause is essential in summary committal",
+    "Recalling witnesses would undermine the summary nature of the proceeding",
+    "Single-point testimony made the false statement evident to the accused",
+    "Privy Council precedent supports procedural flexibility in contempt cases"
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text. Case predates modern citation standards but references clear legal sources and judicial reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/In re SAMUEL NUNOO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:23:13.408Z",
+    "plainTextLength": 6479
+  },
+  "trialDate": "1936-08-04"
+}

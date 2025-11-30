@@ -1,0 +1,76 @@
+{
+  "caseTitle": "APPAH v. UNILEVER (GH.) LTD.",
+  "summary": "In S. K. Appah v. Unilever (Ghana) Ltd., the Court of Appeal reviewed a High Court ruling that granted an extension of time to appeal after significant delays. The respondent’s claim was dismissed in 1996 for want of prosecution due to repeated absences, while the appellant succeeded on a counterclaim in 1997. The respondent’s new counsel filed an extension application in January 1998—over 21 months late—citing poor performance by prior counsel. The trial judge granted the extension based on the 'chequered nature' of the case without analyzing required legal conditions. The Court of Appeal found the trial judge failed to properly assess whether there were good and substantial reasons for delay or prima facie grounds of appeal, as mandated by C.I. 19, Rules 4 and 5. It emphasized that procedural defaults do not automatically void judgments and that parties must meet statutory conditions for extensions. The appeal was allowed, and the extension order set aside.",
+  "legalKeywords": [
+    "extension of time to appeal",
+    "default judgment",
+    "Order 36 rule 17",
+    "procedural fairness",
+    "abuse of court process",
+    "affidavit requirements",
+    "prima facie grounds",
+    "good and substantial reasons",
+    "jurisdiction to appeal",
+    "void judgment",
+    "burden of proof",
+    "adjournment abuse",
+    "counterclaim",
+    "Court of Appeal Rules C.I.19",
+    "High Court Civil Procedure Rules"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Appellate Law",
+    "Judicial Discretion",
+    "Delay in Litigation",
+    "Judgment Enforcement"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Twumasi, J.A.",
+      "role": "Delivered the judgment"
+    },
+    {
+      "name": "Forster, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Essilfie-Bondzie, J.A.",
+      "role": "Member of the bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "C.I. 19 (Court of Appeal Rules 1997), Rules 4, 5, 9(1)",
+    "Order 36 Rules 16, 17, 18, High Court (Civil Procedure) Rules 1954 (LN 140A)",
+    "Vint v. Hudspith (1885) 29 Ch D. 322",
+    "Amoako Atta IV v. Nuamah (1963) 1 GLR 432",
+    "Mosi v. Bagyina (1963) 1 GLR",
+    "Acheampong v. The Republic (1996-97) SC.GLR.566"
+  ],
+  "rationaleHighlights": [
+    "The application for extension was filed well beyond the three-month statutory limit under C.I.19 Rule 4.",
+    "The trial judge failed to conduct a proper judicial analysis of the affidavit and grounds for extension as required by Rule 5.",
+    "Dismissal for non-prosecution under Order 36 rule 17 is not automatically void if the counterclaim is not immediately heard.",
+    "Parties must first seek relief under Order 36 rule 18 before appealing, though failure to do so does not bar appeal.",
+    "The 'chequered nature' of the case is insufficient justification without specific findings on good cause.",
+    "Precedents like Vint v. Hudspith discourage direct appeals from default judgments to prevent circumventing lower court remedies.",
+    "An order dismissing for want of prosecution may not constitute a 'judgment' in the strict sense, raising appealability concerns.",
+    "The respondent failed to demonstrate good and substantial reasons for the delay or prima facie appealable grounds."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed court record and clear judicial reasoning. Some citations are truncated in the source but identifiable from context and standard legal references in Ghanaian jurisprudence.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/S. K. APPAH v. UNILEVER (GH.) LTD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:06:30.624Z",
+    "plainTextLength": 29561
+  },
+  "trialDate": "1999-07-29"
+}

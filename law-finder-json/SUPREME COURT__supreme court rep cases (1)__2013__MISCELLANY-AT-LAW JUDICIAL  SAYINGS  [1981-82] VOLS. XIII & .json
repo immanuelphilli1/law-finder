@@ -1,0 +1,112 @@
+{
+  "caseTitle": "MISCELLANY-AT-LAW JUDICIAL SAYINGS [1981-82] VOLS. XIII &",
+  "summary": "This compilation from 1981\u001382 presents notable judicial observations from Ghana's superior courts on diverse legal and social issues. Judges addressed the impact of rising cost of living on low-income earners, emphasizing economic hardship as a societal concern. Key legal principles include the necessity for courts to articulate specific demeanour when rejecting witness testimony, the inadmissibility of technical objections that obstruct justice, and the limits of judicial notice. The sanctity of marriage and statutory standards in divorce were reaffirmed, while individual rights and executive accountability were underscored as essential to national stability. The document also highlights that ingratitude, while morally significant, does not constitute a criminal offence, and that official good faith cannot substitute for legal evidence.",
+  "legalKeywords": [
+    "judicial notice",
+    "demeanour of witness",
+    "cost of living",
+    "individual rights",
+    "technical objections",
+    "divorce",
+    "marriage standards",
+    "parent-child relationship",
+    "official good faith",
+    "findings of inquiry",
+    "ingratitude",
+    "injustice",
+    "customary marriage",
+    "wages",
+    "subsistence level"
+  ],
+  "topics": [
+    "Judicial Reasoning",
+    "Human Rights",
+    "Evidence Law",
+    "Family Law",
+    "Legal Ethics"
+  ],
+  "verdict": "Not applicable \u0013 the document is a collection of judicial dicta, not a single case decision.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Osei-Hwere J.",
+      "role": "judge"
+    },
+    {
+      "name": "Taylor J.",
+      "role": "judge"
+    },
+    {
+      "name": "Roger-Korsah J.",
+      "role": "judge"
+    },
+    {
+      "name": "Sarkodie J.",
+      "role": "judge"
+    },
+    {
+      "name": "Edusei J. A.",
+      "role": "judge"
+    },
+    {
+      "name": "Ampiah J.",
+      "role": "judge"
+    },
+    {
+      "name": "Akufo-Addo C.J.",
+      "role": "chief justice"
+    },
+    {
+      "name": "Cecilia Koranteng-Addow J.",
+      "role": "judge"
+    },
+    {
+      "name": "Twumasi J.",
+      "role": "judge"
+    },
+    {
+      "name": "Jiagge J.A.",
+      "role": "judge"
+    },
+    {
+      "name": "Andoh J.",
+      "role": "judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Superior Courts (High Court, Court of Appeal, Supreme Court)",
+    "country": "Ghana"
+  },
+  "caseType": "miscellany-at-law",
+  "citations": [
+    "Adabo v. Ghana Consolidated Diamonds Ltd., High Court, Cape Coast, 19 June 1979, unreported",
+    "Haruna v. The Republic, High Court, Tamale, 8 December 1978; digested in [1980] G.L.R.D. 19",
+    "Mansah v. Donkor, High Court, Kumasi, 11 January 1980; digested in [1980] G.L.R.D. 91",
+    "Danquah v. Danquah [1979] G.L.R. 371",
+    "Quayson v. Attorney-General, Court of Appeal, 20 July 1981; digested in [1981] G.L.R.D. 22",
+    "Armah v. Lands Commission [1979] G.L.R. 79",
+    "State v. General Officer Commanding the Ghana Army; Ex parte Braimah [1967] G.L.R. 192",
+    "Mensah v. The Republic [1979] G.L.R. 523",
+    "Kwakye v. Attorney-General, Supreme Court, 10 November 1981; digested in [1981] G.L.R.D. 87",
+    "Hackman v. Obresi V, High Court, Cape Coast, 25 September 1981; digested in [1981] G.L.R.D. 61"
+  ],
+  "rationaleHighlights": [
+    "Courts must specify the demeanour justifying disbelief of a witness",
+    "Technical objections should not obstruct justice",
+    "Judicial notice requires facts to be notorious or easily verifiable",
+    "Ingratitude is not a criminal ingredient",
+    "Government cannot act on non-existent findings of a commission",
+    "Balance between community protection and individual liberty is essential",
+    "Marriage standards must align with statutory law, not judicial innovation",
+    "Official good faith cannot replace evidentiary proof in criminal matters"
+  ],
+  "confidenceNotes": "The document is a compilation of judicial sayings from various cases and courts in Ghana between 1978 and 1981. While most citations are either reported or digested, some are unreported, which may affect accessibility but not the authenticity of the judicial comments.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2013/MISCELLANY-AT-LAW JUDICIAL  SAYINGS  [1981-82] VOLS. XIII & .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:29:53.206Z",
+    "plainTextLength": 7676
+  },
+  "trialDate": "1979-06-19"
+}

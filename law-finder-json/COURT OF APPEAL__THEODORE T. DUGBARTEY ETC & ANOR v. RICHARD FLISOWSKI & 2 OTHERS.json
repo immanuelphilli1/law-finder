@@ -1,0 +1,69 @@
+{
+  "caseTitle": "THEODORE T. DUGBARTEY ETC & ANOR v. RICHARD FLISOWSKI &",
+  "summary": "This Court of Appeal decision in Ghana arose from a land dispute over a 20.6-acre parcel at Okwenya. The original plaintiff, Theodore T. Dugbartey, sought a declaration of title, damages for trespass, and a perpetual injunction against Richard Flisowski and others. The case expanded when co-plaintiff Samuel Degbor and co-defendant Tetteh Quarshie were joined to represent larger family land interests. However, procedural irregularities emerged: the writ was not amended within the mandatory 14-day period under Order 15 Rule 8 of LI 1129 to reflect the joinder, meaning the added parties were not technically valid participants. Despite this, the Court of Appeal granted a retroactive extension of time to comply, citing the principle of real justice and the absence of prejudice. The trial court had focused exclusively on the co-parties' broader claims, disregarding the original plaintiff's claims. The appellate court found this approach erroneous and emphasized that the case should be decided on its merits. Ultimately, the appeal was allowed in part to correct procedural defects and ensure a fair determination of all claims, particularly those concerning family land rights and title validity.",
+  "legalKeywords": [
+    "land title",
+    "joinder of parties",
+    "procedural compliance",
+    "trespass",
+    "declaration of title",
+    "perpetual injunction",
+    "Order 15 Rule 8",
+    "amendment of writ",
+    "family land dispute",
+    "capacity to sue",
+    "fraud allegations",
+    "recovery of possession",
+    "account of proceeds",
+    "evidence evaluation",
+    "real justice"
+  ],
+  "topics": [
+    "Land Law",
+    "Civil Procedure",
+    "Judicial Discretion",
+    "Family Property",
+    "Appellate Review"
+  ],
+  "verdict": "The appeal was allowed in part; the court granted an extension of time to cure procedural defects in joinder and emphasized the need for the case to be decided on the merits, correcting the trial court's error in submerging the original plaintiff's claims.",
+  "winningSide": "Co-plaintiff respondent (with procedural corrections ordered)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Wood (Mrs.)",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Aryeetey",
+      "role": "Justice"
+    },
+    {
+      "name": "Amonoo-Monney",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "THEODORE T. DUGBARTEY ETC & ANOR v. RICHARD FLISOWSKI & 2 OTHERS [14/10/2002] CA/NO. 41/2001",
+    "Ganda v. Ganda (1989-90) 2 GLR 58",
+    "Kwarteng II v. Klu (1991) 2 GLR 93"
+  ],
+  "rationaleHighlights": [
+    "The co-plaintiff and co-defendant were not validly joined due to non-compliance with Order 15 Rule 8 of LI 1129, rendering their participation procedurally defective.",
+    "Despite procedural defects, the court exercised discretion to extend time for compliance to avoid injustice and multiplicity of litigation.",
+    "The trial judge erred in submerging the original plaintiff's claims by focusing solely on the co-parties' broader claims.",
+    "The appellate court emphasized that real justice requires adjudication on merits where no substantial prejudice arises from procedural lapses."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment with clear citations and factual consistency.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/THEODORE T. DUGBARTEY ETC & ANOR v. RICHARD FLISOWSKI & 2 OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T09:59:14.637Z",
+    "plainTextLength": 56144
+  },
+  "trialDate": "2002-10-14"
+}

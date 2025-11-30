@@ -1,0 +1,69 @@
+{
+  "caseTitle": "SEMINAR ON THE TREATMENT OF OFFENDERS TYPES OF SENTENCES [19",
+  "summary": "This legal commentary by Her Ladyship Mrs. Akoto-Bamfo, delivered as a Circuit Judge and later Justice of the High Court of Ghana, outlines the types of sentences available under Ghanaian criminal law as of 1989–1990. It emphasizes that all sentences must be grounded in statute, with courts prohibited from exceeding prescribed penalties, as established in Republic v Addo [1974] GLR 254. The paper details various sentencing options including death, imprisonment, fines, probation, discharge, recognisance, compensation, and deportation. Mandatory death sentences apply to treason, murder, and aggravated piracy, though they cannot be imposed on juveniles or pregnant women. Imprisonment terms vary by offence classification—first-degree felonies carry life imprisonment, second-degree up to ten years, and misdemeanours up to three years. The commentary critiques outdated fines, lack of updated currency references, and calls for reform, including reclassification of offences, expanded use of non-custodial sentences like communal labour, and improved economic conditions to reduce crime.",
+  "legalKeywords": [
+    "sentencing",
+    "death penalty",
+    "imprisonment",
+    "fines",
+    "probation",
+    "compensation",
+    "recognisance",
+    "habitual offender",
+    "criminal procedure",
+    "judicial discretion",
+    "custodial sentence",
+    "non-custodial sentence",
+    "deportation",
+    "rehabilitation",
+    "criminal reform"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Sentencing Guidelines",
+    "Judicial Discretion",
+    "Penal Reform",
+    "Death Penalty"
+  ],
+  "verdict": "Not applicable – this is a legal commentary, not a court judgment.",
+  "winningSide": "Not applicable – no adversarial parties in a scholarly legal paper.",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Mrs. Akoto-Bamfo",
+      "role": "author (Circuit Judge, later Justice of the High Court)"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court / High Court",
+    "country": "Ghana"
+  },
+  "caseType": "legal commentary",
+  "citations": [
+    "Republic v Addo [1974] GLR 254",
+    "Criminal Code, 1960 (Act 29)",
+    "Courts Act, 1971 (Act 372)",
+    "Courts (Amendment) Law, 1987 (PNDCL 191)",
+    "Criminal Procedure Code, 1960 (Act 30)",
+    "Criminal Procedure Code (Amendment) Law, 1988 (PNDCL 206)",
+    "Criminal Procedure Code (Amendment) Act, 1965 (Act 261)",
+    "Pharmacy and Drugs Act, 1961 (Act 64)",
+    "Punishment of Habitual Criminal Act, 1963 (Act 192)"
+  ],
+  "rationaleHighlights": [
+    "Sentences must be statutorily authorized and within jurisdictional limits.",
+    "Discretion in sentencing must follow principles of reason and justice.",
+    "Death sentence mandatory for treason, murder, and aggravated piracy.",
+    "Fines often outdated and require review due to currency devaluation.",
+    "Probation available for those under supervision with conditions.",
+    "Compensation may be ordered even if it exceeds court's civil jurisdiction.",
+    "Recommendations include reclassification of offences and use of communal labour."
+  ],
+  "confidenceNotes": "The document is a legal commentary rather than a judicial decision, so judge names and verdict details are not applicable. Information is drawn directly from cited statutes and case law.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/89 - 90/SEMINAR ON THE TREATMENT OF OFFENDERS TYPES OF SENTENCES [19.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:15:23.482Z",
+    "plainTextLength": 11105
+  }
+}

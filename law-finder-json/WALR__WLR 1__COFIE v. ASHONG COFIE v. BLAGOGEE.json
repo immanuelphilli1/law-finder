@@ -1,0 +1,64 @@
+{
+  "caseTitle": "COFIE VERSUS BLAGOGEE.",
+  "summary": "The case involves a dispute over land in the 'Brazilian' quarter of Accra, Ghana, where the plaintiff, Cofie, claimed ownership through his father, Cofie Congo, who was granted the land by the Ga Mantse and occupied it for decades. The defendants, Ashong and Blagogee, claimed title via purchase from Nii Azuma III, Head of the Brazilian Community. The court held that the Head lacked authority to transfer 'Brazilian' family lands, as ownership rests with individual families, not the community head. The plaintiff’s long, uninterrupted possession following an original grant established a valid usufructuary title under native law. The plea of estoppel based on non-intervention in prior litigation failed, as mere non-participation does not constitute fraudulent acquiescence. The plaintiff’s claim was upheld, and the defendants’ titles declared invalid.",
+  "legalKeywords": [
+    "declaration of title",
+    "native law and custom",
+    "usufructuary title",
+    "long occupation",
+    "estoppel by conduct",
+    "trespass to land",
+    "recovery of possession",
+    "invalid alienation",
+    "Ga Mantse",
+    "Brazilian community lands",
+    "family ownership",
+    "continuous possession",
+    "prescriptive title",
+    "adverse claim",
+    "interim injunction"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Property Rights",
+    "Estoppel",
+    "Judicial Precedent"
+  ],
+  "verdict": "For the plaintiff",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "van Lare J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Land Court, Eastern Judicial Division",
+    "country": "Ghana"
+  },
+  "caseType": "Land Title Dispute",
+  "citations": [
+    "Nii Azuma III v. Lariki Aruna (Land Court, Eastern Judicial Division, January 13, 1950, unreported)",
+    "Willmott v. Barber (1881) 17 Ch.D. 772",
+    "Amui v. Sabih"
+  ],
+  "rationaleHighlights": [
+    "The Head of the Brazilian Community cannot validly transfer family-owned lands.",
+    "Long, uninterrupted occupation following a grant creates a valid usufructuary title under native law.",
+    "Mere non-intervention in prior litigation does not amount to estoppel.",
+    "Original grant by Ga Mantse through an elder supports legitimacy of possession.",
+    "Defendants built despite warnings and court injunction, acting at their peril.",
+    "Plaintiff’s family cultivated the land for about 30 years, establishing reputed ownership.",
+    "Corroborative evidence from adjoining landowners confirmed boundary markers (neem trees).",
+    "Courts have consistently held that Brazilian lands are family-owned, not communally controlled."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning, cited precedents, and consistent historical context. Truncation in source does not affect core holdings.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/COFIE v. ASHONG COFIE v. BLAGOGEE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:11:56.947Z",
+    "plainTextLength": 17898
+  }
+}

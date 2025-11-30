@@ -1,0 +1,72 @@
+{
+  "caseTitle": "COMMERCIAL BANK PENSIONERS ASSOCIATION v. GHANA",
+  "summary": "The Court of Appeal of Ghana considered an appeal arising from a dispute between the Ghana Commercial Bank Pensioners Association and the Ghana Commercial Bank Ltd over the computation of pension entitlements. The pensioners sought payment based on the bank’s 1987 Board decision to adjust pensions according to current basic salaries and automatic adjustments when salaries change. The trial court had ruled that a 1992 Ministry of Finance circular, which mandated pensions be calculated at 50% of consolidated salary, applied to the bank. The Court of Appeal reversed this, holding that the circular applied only to public servants and not to the bank, a commercial entity. However, the Court found that 'basic salary' should be interpreted as 'consolidated salary' because the former had been effectively abolished since 1991. It was inconsistent for the bank to pay current employees on a consolidated basis while denying the same to pensioners. The Court also addressed procedural irregularities, noting the trial court failed to enter formal judgment, which was later rectified by the Supreme Court’s orders of certiorari and mandamus. The case was ultimately remitted for proper accounting and enforcement consistent with the appellate directives.",
+  "legalKeywords": [
+    "pension rights",
+    "consolidated salary",
+    "basic salary",
+    "automatic adjustment",
+    "public service",
+    "corporate entity",
+    "pension scheme",
+    "breach of contract",
+    "interest on arrears",
+    "referee report",
+    "judicial review",
+    "certiorari",
+    "mandamus",
+    "constitutional interpretation",
+    "commercial bank",
+    "pensioners association",
+    "Board of Directors decision",
+    "Ministry of Finance circular",
+    "Ghana Commercial Bank Decree",
+    "1992 Constitution"
+  ],
+  "topics": [
+    "Pension Law",
+    "Employment Law",
+    "Corporate Law",
+    "Constitutional Law",
+    "Administrative Law"
+  ],
+  "verdict": "The appeal was allowed in part; the Ministry circular was held inapplicable, but the concept of 'basic salary' was interpreted to mean 'consolidated salary,' entitling pensioners to recalculated benefits accordingly.",
+  "winningSide": "Ghana Commercial Bank Pensioners Association (on the issue of salary interpretation), Ghana Commercial Bank Ltd (on the inapplicability of the Ministry circular)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Brobbey, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Twumasi, J.A."
+    },
+    {
+      "name": "Akoto-Bamfor, J.A."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "GHANA COMMERCIAL BANK PENSIONERS ASSOCIATION v. GHANA COMMERCIAL BANK LTD. [11/7/2002] C.A. NO.166/2000",
+    "WUAKU V. ATTORNEY-GENERAL AND ANOTHER [1993-94] 2 GLR 393"
+  ],
+  "rationaleHighlights": [
+    "The Ministry of Finance circular on consolidated salaries did not apply to the Ghana Commercial Bank as it is a commercial entity, not part of the public service.",
+    "The concept of 'basic salary' ceased to exist after the adoption of consolidated salary in 1991, making it illogical to use outdated structures for pension calculations.",
+    "The Court relied on WUAKU v. Attorney-General to affirm that 'basic salary' should be interpreted as 'consolidated salary' in post-1991 contexts.",
+    "The bank's continued use of consolidated salary for current employees but not pensioners was deemed inconsistent and unfair.",
+    "The trial court failed to enter formal judgment, necessitating remittal and later correction via Supreme Court intervention through certiorari and mandamus."
+  ],
+  "confidenceNotes": "The summary is based on a detailed judgment from the Court of Appeal of Ghana, with clear references to legal reasoning, statutory provisions, and prior case law. The truncation of the original text does not affect the core holdings or reasoning presented.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/GHANA COMMERCIAL BANK 11 PENSIONERS ASSOCIATION v. GHANA COMMERCIAL BANK LTD..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:30:48.044Z",
+    "plainTextLength": 22553
+  },
+  "trialDate": "2002-07-11"
+}

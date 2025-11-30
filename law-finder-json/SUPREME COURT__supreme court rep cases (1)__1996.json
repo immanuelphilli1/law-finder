@@ -1,0 +1,39 @@
+{
+  "caseTitle": "supreme court rep cases (1)",
+  "summary": "The provided document does not contain a legal decision or case details from the Supreme Court of Ghana. Instead, it appears to be a homepage or index page for an online legal resource called 'Ghana Law Finder,' which offers a self-help guide to the law, case and subject matter indexing, and contact information. There is no judicial ruling, case analysis, or legal reasoning present in the text.",
+  "legalKeywords": [
+    "Ghana Law Finder",
+    "legal resource",
+    "case index",
+    "subject matter index",
+    "online legal database",
+    "legal library services",
+    "self-help legal guide",
+    "Supreme Court",
+    "case law access",
+    "legal information system"
+  ],
+  "topics": [
+    "Legal Research",
+    "Online Legal Resources",
+    "Ghanaian Law"
+  ],
+  "verdict": "not applicable",
+  "winningSide": "not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "not applicable",
+    "country": "Ghana"
+  },
+  "caseType": "not applicable",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "Low confidence in deriving case-specific insights due to absence of actual case content; the document is an informational webpage, not a judicial decision.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/1996.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:50:03.545Z",
+    "plainTextLength": 295
+  }
+}

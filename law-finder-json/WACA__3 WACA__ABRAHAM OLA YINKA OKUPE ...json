@@ -1,0 +1,70 @@
+{
+  "caseTitle": "ABRAHAM OLA YINKA OKUPE ..",
+  "summary": "This West Africa Court of Appeal decision from 1937 concerned a private application for an information in the nature of quo warranto filed by Abraham Ola Yinka Okupe against Soyebo, the Alaperu of Iperu, challenging his authority to hold the traditional chieftaincy position. The court dismissed the appeal, holding that quo warranto could not lie because the office of Alaperu of Iperu was neither created by nor held under the Crown. The Chief Justice emphasized that the position arose from native custom and was elective by local chiefs and elders, not established under colonial law or the Native Authority Ordinance of 1933. Citing Halsbury and Adanji v. Hunvoo, the court affirmed that such traditional roles constitute mere dignities or honors, not public offices subject to this legal remedy. The decision underscores the jurisdictional limits of common law remedies in relation to indigenous traditional institutions under colonial rule.",
+  "legalKeywords": [
+    "quo warranto",
+    "native custom",
+    "Alaperu of Iperu",
+    "office under the Crown",
+    "elective office",
+    "minor chief",
+    "Native Authority Ordinance",
+    "jurisdictional requirement",
+    "private relator",
+    "constitutional remedy",
+    "traditional leadership",
+    "customary law",
+    "judicial review",
+    "appellate decision",
+    "colonial legal system"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Traditional Leadership",
+    "Judicial Remedies",
+    "Customary Law"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Defendant-Respondent",
+  "prosecutionType": "private",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Halsbury, second edition, vol. 9, page 805, paragraph 1374",
+    "Adanji v. Hunvoo (1 N.L.R. 75)"
+  ],
+  "rationaleHighlights": [
+    "Quo warranto lies only where an office is created by or held under the Crown.",
+    "The Alaperu office is based on native custom and is elective by local chiefs and elders.",
+    "The office is not established or recognized under colonial statutory framework.",
+    "The position was deemed a mere dignity, not a public office subject to quo warranto.",
+    "Precedent from Adanji v. Hunvoo supports non-justiciability of such claims.",
+    "Appellant failed to meet the jurisdictional threshold for the remedy."
+  ],
+  "confidenceNotes": "High confidence; source is a formal court judgment with clear judicial reasoning and cited authority.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/ABRAHAM OLA YINKA OKUPE ...htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:28:19.808Z",
+    "plainTextLength": 3202
+  },
+  "trialDate": "1937-01-22"
+}

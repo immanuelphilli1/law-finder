@@ -1,0 +1,85 @@
+{
+  "caseTitle": "OSU STOOL v UNILEVER (GH) LIMITED",
+  "summary": "The Supreme Court of Ghana dismissed the appeal by the Osu Stool, which challenged the Court of Appeal's decision allowing Nii Nortey Owuo III, the Osu Mantse, to be substituted as the proper representative of the Osu Stool in a land-related civil suit against Unilever (Gh) Limited. The core issue was whether the matter involved a chieftaincy dispute, which would have deprived the High Court of jurisdiction. The Supreme Court held that no genuine chieftaincy issue arose, as the Osu Mantse presented prima facie evidence of his status via an extract from the National Register of Chiefs (exhibit NNOI), which is statutorily recognized under Section 50(8) of the Chieftaincy Act, 1970 (Act 370). The appellant's attempt to rebut this with a PNDC-era letter withdrawing government recognition (exhibit JKI) failed, as such withdrawal affects only statutory functions, not customary status, and the letter lacked the legal formality of an official legislative act. The Court emphasized that the issue was one of statutory and legal interpretation, not indigenous custom, and thus within the jurisdiction of the ordinary courts. It reaffirmed that the occupant of a stool is the proper person to represent it in litigation, citing Akwei v. Awuletey (1960).",
+  "legalKeywords": [
+    "chieftaincy",
+    "jurisdiction",
+    "prima facie evidence",
+    "customary law",
+    "National Register of Chiefs",
+    "government recognition",
+    "Osu Stool",
+    "Osu Mantse",
+    "Mankralo",
+    "land litigation",
+    "subsisting judgment",
+    "transitional provisions",
+    "PNDC",
+    "1992 Constitution",
+    "Section 50(8) Act 370"
+  ],
+  "topics": [
+    "Chieftaincy Law",
+    "Jurisdiction",
+    "Evidence Law",
+    "Customary Law",
+    "Land Litigation"
+  ],
+  "verdict": "The appeal was dismissed.",
+  "winningSide": "Unilever (Gh) Limited / Osu Mantse",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "W. A. Atuguba",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "G. T. Wood",
+      "role": "Justice"
+    },
+    {
+      "name": "Prof. T. M. Ocran",
+      "role": "Justice"
+    },
+    {
+      "name": "J. Aninakwa",
+      "role": "Justice"
+    },
+    {
+      "name": "J. Ansah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "REPUBLIC V. HIGH COURT, KOFORIDUA; EX PARTE BEDIAKO II (1998-99) SCGLR91",
+    "NYAMEKYE V. TAWIAH (1979) GLR 265",
+    "OTU V. OWUODZI (1987-88)1 GLR 156 S.C",
+    "AVADALI & ANOR V. AVADALI II (1992\u001393) GBR 733 S.C",
+    "OFORI ATTA II & ORS VS. BOATENG (1957) 3 WALR 38",
+    "AKWEI V. AWULETEY (1960) GLR 231",
+    "REPUBLIC V. DIRECTOR OF PRISONS; Ex-parte SCHACKLEFORD (1981) GLR 554",
+    "KWAKYE V. ATTORNEY GENERAL (1981) GLR 9 S.C",
+    "YERENCHI VS. AKUFFO (1905) IREN. 362"
+  ],
+  "rationaleHighlights": [
+    "The High Court had jurisdiction because no genuine chieftaincy dispute was involved.",
+    "An extract from the National Register of Chiefs is prima facie evidence of chiefly status under Section 50(8) of Act 370.",
+    "Withdrawal of government recognition does not extinguish customary status as a chief.",
+    "The Court of Appeal correctly assessed legal, not customary, issues.",
+    "A subsisting judgment from a traditional council can be relied upon even if under appeal.",
+    "The Osu Mantse is the proper person to represent the Stool in litigation per Akwei v. Awuletey (1960)."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key elements (jurisdiction, parties, legal reasoning, verdict) are explicitly stated in the judgment. Citations and statutory references are directly quoted.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2006A/OSU STOOL v UNILEVER (GH) LIMITED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:23:08.157Z",
+    "plainTextLength": 15527
+  },
+  "trialDate": "2006-02-04"
+}

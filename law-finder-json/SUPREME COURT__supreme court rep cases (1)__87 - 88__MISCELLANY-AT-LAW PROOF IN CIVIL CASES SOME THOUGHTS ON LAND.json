@@ -1,0 +1,98 @@
+{
+  "caseTitle": "MISCELLANY-AT-LAW PROOF IN CIVIL CASES SOME THOUGHTS ON LAND",
+  "summary": "This legal paper by Justice Amua-Sekyi of the Supreme Court of Ghana examines the standard of proof in civil land suits, particularly actions for declaration of title. While civil cases generally require proof on a balance of probabilities, the courts demand a higher standard in land title cases—effectively proof beyond reasonable doubt—where plaintiffs must rely on the strength of their own case, not the weakness of the defendant's. This principle originates from West African Court of Appeal cases like *J M Kodilinye v Mbanefo Odu* and *Amodu Rufai v Ricketts*, where Webber CJ emphasized that title claims require robust, self-standing evidence. However, three key qualifications exist: (1) where boundaries are unclear, courts may remit for proper demarcation; (2) long, exclusive, and undisturbed possession shifts the burden of proof to the defendant; and (3) even without full title, plaintiffs may secure possession rights if entitled to occupation. The paper clarifies misconceptions about evidentiary standards and underscores the role of possession in land litigation.",
+  "legalKeywords": [
+    "proof beyond reasonable doubt",
+    "balance of probabilities",
+    "declaration of title",
+    "onus of proof",
+    "preponderance of probabilities",
+    "exclusive possession",
+    "long and quiet possession",
+    "burden of proof",
+    "traditional evidence",
+    "land boundaries",
+    "non-suit",
+    "prima facie title",
+    "customary land rights",
+    "evidence in civil cases",
+    "West African Court of Appeal",
+    "Privy Council",
+    "judicial precedent",
+    "standard of proof in land suits",
+    "possession as evidence of title",
+    "boundary demarcation"
+  ],
+  "topics": [
+    "Land Law",
+    "Evidence Law",
+    "Civil Procedure",
+    "Standard of Proof",
+    "Ghanaian Jurisprudence"
+  ],
+  "verdict": "The plaintiff must prove title with strong, independent evidence; failure results in judgment for the defendant, even if the defendant's case is weak.",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Webber CJ",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Kingdon CJ",
+      "role": "Judge"
+    },
+    {
+      "name": "Butler Lloyd J",
+      "role": "Judge"
+    },
+    {
+      "name": "Coussey JA",
+      "role": "Judge"
+    },
+    {
+      "name": "Foster-Sutton P",
+      "role": "Judge"
+    },
+    {
+      "name": "Harragin CJ",
+      "role": "Judge"
+    },
+    {
+      "name": "Adumua-Bossman J",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Land Suit",
+  "citations": [
+    "Abotche Kponuglo v Adja Kodadja (1933) 2 WACA 24",
+    "J M Kodilinye v Mbanefo Odu (1933) 2 WACA 336",
+    "Amodu Rufai v Ricketts and Others (1933) 2 WACA 95",
+    "Nana Darku Frempong II v Nana Owusu Brempong II & Others (1952) 14 WACA 13",
+    "Ededem Archibong V v Ntoe it a (1954) 14 WACA 520",
+    "Kwadzo v Adjei (1944) 10 WACA 274",
+    "Amata v Modekwe (1952) 14 WACA 580",
+    "Ebu v Ababio (1956) 2 WALR 55"
+  ],
+  "rationaleHighlights": [
+    "In title declarations, plaintiff must prove case on its own strength, not defendant's weakness.",
+    "Long, exclusive, quiet possession shifts burden to defendant.",
+    "Unclear boundaries may lead to remittal, not dismissal.",
+    "Possession can serve as prima facie proof of title.",
+    "Non-suit appropriate if no evidence supports boundary claims.",
+    "Courts may grant possession rights even without full title.",
+    "Traditional evidence must be corroborated by possession or documentation.",
+    "Order 39, r 1 does not apply universally in title actions."
+  ],
+  "confidenceNotes": "The source is a scholarly legal paper by a Supreme Court Justice, citing authoritative West African Court of Appeal and Privy Council decisions. While the document is truncated, the core legal principles and case law are clearly articulated and consistent with Ghanaian jurisprudence on land law and evidence.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/87 - 88/MISCELLANY-AT-LAW PROOF IN CIVIL CASES SOME THOUGHTS ON LAND.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:23:54.231Z",
+    "plainTextLength": 17606
+  }
+}

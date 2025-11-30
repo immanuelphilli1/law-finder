@@ -1,0 +1,71 @@
+{
+  "caseTitle": "REX v ISAAC OLATUN]I KUGE",
+  "summary": "The appellant, Isaac Olatunji Kuge, was convicted on one count of stealing under section 390(6) and eleven counts of fraudulent false accounting under section 438(c) of the Criminal Code, and initially sentenced to the maximum penalty of seven years' imprisonment with hard labour on each count, to run concurrently. On appeal, the West African Court of Appeal acknowledged the seriousness of the offences, particularly in relation to the defrauding of native administrations, but found that in the absence of previous convictions and due to the case not being sufficiently flagrant, the maximum sentence was unjustified. Consequently, the appeal against sentence was allowed, the original sentences were quashed, and substituted with four years' imprisonment with hard labour on each count, to run concurrently.",
+  "legalKeywords": [
+    "theft",
+    "fraudulent false accounting",
+    "sentencing",
+    "maximum penalty",
+    "sentence reduction",
+    "hard labour",
+    "concurrent sentences",
+    "previous convictions",
+    "judicial discretion",
+    "criminal code",
+    "appellate review",
+    "native administrations",
+    "deterrence",
+    "flagrant conduct",
+    "appellate remedy"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Sentencing",
+    "Appellate Review",
+    "Fraud",
+    "Theft"
+  ],
+  "verdict": "Conviction upheld, sentence reduced on appeal.",
+  "winningSide": "Appellant (on sentencing issue)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Isaac Olatunji Kuge (WACA, 24 October 1936)"
+  ],
+  "rationaleHighlights": [
+    "The offence is serious and warrants a heavy sentence to deter defrauding of native administrations.",
+    "Absence of previous convictions noted.",
+    "Case not flagrant enough to justify maximum sentence.",
+    "Appellate court exercised discretion to reduce sentence.",
+    "Sentences on twelve counts to run concurrently.",
+    "Four-year sentence imposed as a balanced punitive and corrective measure.",
+    "Judicial emphasis on proportionality in sentencing.",
+    "Recognition of need for deterrence without excessive punishment."
+  ],
+  "confidenceNotes": "The document appears to be a digitized version of a historical West African Court of Appeal decision; citation inferred from filename and content.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/REX v   ISAAC OLATUN]I KUGE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:13:33.033Z",
+    "plainTextLength": 2034
+  },
+  "trialDate": "1986-10-24"
+}

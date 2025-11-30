@@ -1,0 +1,63 @@
+{
+  "caseTitle": "CHIEF SUPERINTENDENT OF POLICE VERSUS CEESAY",
+  "summary": "The appellant, Ceasay, was convicted by a magistrate of theft by a clerk or servant under sections 251 and 257 of the Criminal Code. On appeal, the Supreme Court of the Colony of the Gambia held that the conviction must be quashed because the magistrate failed to allow the accused an opportunity to present a defense, as required by section 169(1) of the Criminal Procedure Code. Although this procedural irregularity was fatal to the conviction, it did not render the trial a nullity because the error would not have been apparent on the formal record of the trial—particularly if, as in England, the record did not include evidence. Since the appellant had been in jeopardy, the principle of autrefois convict barred a retrial. The appeal was allowed, the conviction quashed, the sentence set aside, and the appellant ordered to be released immediately.",
+  "legalKeywords": [
+    "criminal procedure",
+    "right to defense",
+    "trial irregularity",
+    "nullity",
+    "jeopardy",
+    "appeal against conviction",
+    "magistrate's jurisdiction",
+    "autrefois convict",
+    "conviction quashed",
+    "sentence set aside",
+    "Criminal Procedure Code s. 169",
+    "mistrial",
+    "procedural fairness",
+    "record of trial",
+    "opportunity to defend"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appeal",
+    "Procedural Fairness",
+    "Double Jeopardy",
+    "Right to Defense"
+  ],
+  "verdict": "Conviction quashed; sentence set aside.",
+  "winningSide": "Appellant (Ceasay)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Miles J.",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Colony of the Gambia",
+    "country": "Gambia"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Neal [1946] 2 K.B. 590",
+    "33 Cr.App.R. 189",
+    "65 T.L.R. 557",
+    "Halsbury, Simonds ed., Vol. 10, pp. 535-541, paras. 985-993"
+  ],
+  "rationaleHighlights": [
+    "Failure to allow accused to present a defense violates fair trial rights under s. 169(1) of the Criminal Procedure Code.",
+    "Irregularity does not render trial a nullity if not apparent on the formal record.",
+    "Distinction drawn between jurisdictions: Gambia includes evidence in trial record; England does not.",
+    "Accused was in jeopardy, so double jeopardy applies and new trial cannot be ordered.",
+    "Conviction quashed due to fatal procedural error, but not a nullity.",
+    "Test from R. v. Neal applied: whether irregularity is patent on the record."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment, including procedural error and jurisdictional distinction between England and Gambia.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/CHIEF SUPERINTENDENT OF POLICE v. CEESAY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:12:22.621Z",
+    "plainTextLength": 6744
+  }
+}

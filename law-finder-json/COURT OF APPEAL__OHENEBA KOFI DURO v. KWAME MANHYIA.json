@@ -1,0 +1,86 @@
+{
+  "caseTitle": "OHENEBA KOFI DURO v. KWAME MANHYIA",
+  "summary": "The Court of Appeal upheld the High Court's decision in favour of the plaintiff/respondent, Ohenba Kofi Duro, granting him a declaration of title to a 50.59-acre land at Beseho Ahoreye, Aburom, on the basis of unchallenged evidence that the land was gifted to his ancestress by the Kenyasehene. The court affirmed that the land was pledged to the defendant's predecessor for £4.13 and remained redeemable under customary law, despite over 100 years having passed. The defendant failed to present evidence of ownership or how possession was acquired, while the plaintiff provided consistent oral and traditional evidence. The court rejected the argument that lapse of time or failure to remind the pledgee extinguished the pledge, citing established customary law principles that pledges are perpetually redeemable. The appeal was dismissed as being against the weight of evidence.",
+  "legalKeywords": [
+    "customary pledge",
+    "perpetual redeemability",
+    "declaration of title",
+    "burden of proof",
+    "evidence under customary law",
+    "failure to traverse",
+    "estoppel",
+    "oral tradition",
+    "land ownership",
+    "succession to property",
+    "pledge redemption",
+    "native law and custom",
+    "boundary witnesses",
+    "root of title",
+    "interference with land rights",
+    "injunction",
+    "counterclaim dismissal",
+    "proof of possession",
+    "traditional evidence",
+    "judicial precedent"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Pledge and Redemption",
+    "Evidence Law",
+    "Appellate Review",
+    "Property Rights",
+    "Injunction",
+    "Ownership Dispute",
+    "Succession",
+    "Judicial Precedent"
+  ],
+  "verdict": "Appeal dismissed; decision in favour of plaintiff upheld",
+  "winningSide": "Plaintiff/Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Quaye J.A.",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Miss Owusu J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Osei J.A.",
+      "role": "Panel Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "ARMAH VS: ADDOQUAYE (1972) 1GLR 109",
+    "BILLA vrs: SALIFU (1971) 2 GLR 87",
+    "KUMA & ANOR. VS: KOFI & ORS. (1956) 1 WALR 128",
+    "AGBO KOFI vrs. ADDO KOFI (1933) 1 WACA 284",
+    "ADOBIA & ORS. vs; Lassey (1956) 1 WACA 181",
+    "DZANKU VS: KWADWO (1960) GLR 31 CA"
+  ],
+  "rationaleHighlights": [
+    "A party's failure to specifically traverse allegations in pleadings results in deemed admission under Order 19 Rules 14 and 18 of LN 140A/54.",
+    "Under customary law, a land pledge is perpetually redeemable; lapse of time does not bar redemption.",
+    "Failure to remind the pledgee of the pledge over time does not invalidate the pledge if its existence is otherwise proven.",
+    "Where one party proves ownership and explains how the opponent came into possession, and the opponent offers no evidence of title, the former's claim prevails.",
+    "Estoppel was not established merely because the plaintiff did not reference the old pledge during a later redemption transaction.",
+    "The trial court’s factual findings based on credible oral and traditional evidence are entitled to deference on appeal.",
+    "A counterclaim for title fails when unsupported by any evidence, especially when the burden of proof lies on the claimant.",
+    "The principle that 'lapse of time cannot change a pledge into a sale' is well settled in Ghanaian customary law jurisprudence."
+  ],
+  "confidenceNotes": "High confidence in all fields due to clear judicial reasoning, explicit citation of precedent, and unambiguous factual findings in the judgment. All extracted data directly reflect the court's language and legal analysis.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/OHENEBA KOFI DURO v. KWAME MANHYIA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:13:05.793Z",
+    "plainTextLength": 28266
+  },
+  "trialDate": "20TH NOVEMBER, 2003"
+}

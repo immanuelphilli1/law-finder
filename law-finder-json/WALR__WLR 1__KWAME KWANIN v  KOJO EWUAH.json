@@ -1,0 +1,73 @@
+{
+  "caseTitle": "KWAME KWANIN v KOJO EWUAH",
+  "summary": "This civil appeal before the Judicial Committee of the Privy Council concerned a land dispute between two stools in the Gold Coast (now Ghana) over an area of approximately 56 square miles. The appellant, Chief Kwame Kwanin (Obuasi Stool), challenged the Court of Appeal's confirmation of a declaration of title in favor of the respondent, Chief Kojo Ewuah (Nyinawusu Stool), along with damages and an injunction. The Privy Council dismissed the appeal, upholding concurrent findings of fact by the lower courts that the respondent had established title through traditional evidence, effective occupation, and collection of tributes. Two main legal issues were considered: (1) whether a 1917 Native Tribunal judgment created an estoppel; the Privy Council found the land description too vague to support estoppel; and (2) whether the trial was procedurally defective because the assessor’s opinion was not delivered orally in open court. The Council held that no defect was proven on record, noting the absence of a statutory requirement for oral delivery, though it suggested future procedural clarification. The appeal was dismissed.",
+  "legalKeywords": [
+    "assessor opinion",
+    "procedural defect",
+    "estoppel per rem judicatam",
+    "title to land",
+    "concurrent findings of fact",
+    "open court",
+    "trial procedure",
+    "Civil Procedure Ordinance",
+    "Gold Coast",
+    "declaration of title",
+    "trespass damages",
+    "injunction",
+    "native tribunal",
+    "traditional evidence",
+    "effective occupation",
+    "tributes and rents",
+    "survey plan",
+    "judicial review",
+    "appellate review",
+    "prima facie"
+  ],
+  "topics": [
+    "Land Law",
+    "Procedural Law",
+    "Appellate Review",
+    "Estoppel",
+    "Traditional Customary Rights"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent (Chief Kojo Ewuah / Nyinawusu Stool)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lord Radcliffe",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "Lord Somervell of Harrow",
+      "role": "member"
+    },
+    {
+      "name": "Mr. L. M. D. de Silva",
+      "role": "member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Judicial Committee of the Privy Council (on appeal from West African Court of Appeal)",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WALR 1 11",
+    "Dahlikilili Dhalamini and Others v. Rex [1942] A.C. 583"
+  ],
+  "rationaleHighlights": [
+    "No procedural defect apparent where assessor's opinion was recorded in writing and referenced in judgment, even if not delivered orally in open court.",
+    "Estoppel argument failed due to lack of precise identification of land in prior 1917 judgment.",
+    "Concurrent findings of fact by lower courts are binding absent error of law.",
+    "Privy Council declined to intervene on procedural point due to absence of prejudice and lack of statutory requirement for oral delivery of assessor's opinion.",
+    "Suggestion made for reform of Gold Coast civil procedure to clarify delivery of assessors' opinions."
+  ],
+  "confidenceNotes": "High confidence; information directly extracted from the judgment with clear citations and procedural details.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/KWAME KWANIN v  KOJO EWUAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:03:54.442Z",
+    "plainTextLength": 15142
+  }
+}

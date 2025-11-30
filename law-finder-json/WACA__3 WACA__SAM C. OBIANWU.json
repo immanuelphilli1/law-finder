@@ -1,0 +1,65 @@
+{
+  "caseTitle": "SAM C. OBIANWU",
+  "summary": "This appeal from a case stated by the High Court concerned the interpretation of section 9(b) of the Protectorate Courts Ordinance, 1933, which limits the original jurisdiction of the High Court in suits raising issues about 'the title to land or any interest therein' where the suit falls under native court jurisdiction. The West Africa Court of Appeal held that the phrase means 'suits which raise any issue as to the title to land or as to the title to any interest in land', affirming that 'interest therein' refers to an interest in the land itself, not in the title to the land. The court relied on the ordinary meaning of the words and drew an analogy to the English case Rex v. French (1902) 1 K.B. 637, which supported this construction. The appeal was resolved by affirming the proper scope of jurisdiction under the Ordinance.",
+  "legalKeywords": [
+    "title to land",
+    "interest in land",
+    "trespass to land",
+    "injunction",
+    "jurisdiction",
+    "native court",
+    "Protectorate Courts Ordinance",
+    "section 9(b)",
+    "original jurisdiction",
+    "case stated",
+    "appeal",
+    "statutory interpretation"
+  ],
+  "topics": [
+    "Land Law",
+    "Jurisdiction",
+    "Statutory Interpretation",
+    "Native Courts",
+    "Civil Procedure"
+  ],
+  "verdict": "The court interpreted section 9(b) to mean that 'interest therein' refers to an interest in land, not in the title to land, and affirmed the jurisdictional limit on the High Court.",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "The King v. French and Others (1902) 1 K.B. 637",
+    "Protectorate Courts Ordinance, 1933, s 9(b)"
+  ],
+  "rationaleHighlights": [
+    "The phrase 'title to land or any interest therein' means 'title to land or title to any interest in land'.",
+    "The ordinary meaning of the words was adopted as the correct interpretation.",
+    "The English case Rex v. French supported the interpretation that 'interest therein' refers to an interest in land, not in the title to land.",
+    "The court rejected the alternative interpretation that would extend to 'interest in the title to land'."
+  ],
+  "confidenceNotes": "The interpretation is based on a clear judicial analogy to an English precedent and unambiguous statutory language. The court explicitly rejects one interpretation in favor of the other.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/SAM C. OBIANWU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:11:07.238Z",
+    "plainTextLength": 4022
+  },
+  "trialDate": "1936-04-24"
+}

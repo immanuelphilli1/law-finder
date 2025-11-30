@@ -1,0 +1,38 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The provided document does not contain a legal decision or case details. It appears to be a webpage index or directory listing years and subject matter categories related to decisions of the Supreme Court of Ghana, but no substantive content, ruling, or case information is present.",
+  "legalKeywords": [
+    "Supreme Court",
+    "Ghana",
+    "case index",
+    "legal database",
+    "judicial decisions",
+    "court records",
+    "case listing",
+    "judicial directory",
+    "legal research",
+    "case repository"
+  ],
+  "topics": [
+    "Court Administration",
+    "Legal Research"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Administrative Index",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "Low confidence in extracting case-specific insights due to absence of actual case content; the document is purely navigational.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/inter face/INTERFACE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:28:25.335Z",
+    "plainTextLength": 202
+  }
+}

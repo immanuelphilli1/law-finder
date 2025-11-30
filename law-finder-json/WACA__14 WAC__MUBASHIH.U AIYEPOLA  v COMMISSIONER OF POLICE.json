@@ -1,0 +1,67 @@
+{
+  "caseTitle": "MUBASHIH.U AIYEPOLA v COMMISSIONER OF POLICE",
+  "summary": "The appellant was convicted in the Magistrate's Court for an offence under section 516 of the Criminal Code, which required his consent for trial at that level. The Magistrate failed to obtain this consent, rendering the trial a nullity for lack of jurisdiction under section 20(iv) of the Magistrates' Courts Ordinance. On appeal, the Supreme Court declared the trial void and ordered a re-trial. The appellant challenged this, arguing that a re-trial could only follow a reversed finding and sentence, not a trial void ab initio. The West African Court of Appeal upheld the re-trial order, relying on Commissioner of Police v. Ayiku, holding that where a trial is null due to lack of jurisdiction, the appellate court may reverse the finding and sentence as part of the void proceedings and then order a re-trial under section 43(a)(i) of the Magistrates' Courts (Appeals) Ordinance. The court rejected the notion of inherent powers, affirming that appellate authority is strictly statutory.",
+  "legalKeywords": [
+    "appeal",
+    "nullity",
+    "jurisdiction",
+    "re-trial",
+    "Magistrates' Courts Ordinance",
+    "Supreme Court",
+    "criminal procedure",
+    "finding and sentence",
+    "inherent powers",
+    "statutory interpretation"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Jurisdiction",
+    "Nullity of Trial",
+    "Statutory Interpretation"
+  ],
+  "verdict": "Appeal dismissed; re-trial order upheld.",
+  "winningSide": "Commissioner of Police",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Verity, C.J.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Foster-Sutton, P.",
+      "role": "Judge"
+    },
+    {
+      "name": "Coussey, J.A.",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Commissioner of Police v. Ayiku, 5 W.A.C.A. 89",
+    "R. v. Crane, 15 Cr. A.R. 183"
+  ],
+  "rationaleHighlights": [
+    "Trial was a nullity due to lack of jurisdiction under Magistrates' Courts Ordinance.",
+    "Supreme Court's appellate powers are strictly statutory, not inherent.",
+    "Section 43(a)(i) allows re-trial only after reversing finding and sentence.",
+    "Decision in Commissioner of Police v. Ayiku controls the interpretation.",
+    "Court must reverse finding and sentence before ordering re-trial, even in jurisdictional nullity cases.",
+    "No inherent power to order re-trial; authority must derive from statute.",
+    "Order for re-trial upheld based on precedent and statutory construction.",
+    "Failure to obtain accused's consent rendered trial jurisdictionally defective."
+  ],
+  "confidenceNotes": "The case is clearly reported with full judicial reasoning and statutory references. The jurisdiction and court level are explicitly stated, supporting high confidence in accuracy.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/MUBASHIH.U AIYEPOLA  v COMMISSIONER OF POLICE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:34:40.507Z",
+    "plainTextLength": 10876
+  },
+  "trialDate": "1952-10-10"
+}

@@ -1,0 +1,78 @@
+{
+  "caseTitle": "CHAIRMAN, LAGOS EXECUTIVE DEVELOPMENT",
+  "summary": "This case involved a dispute over the distribution of compensation for lands acquired under the Lagos Town Planning Ordinance, 1928, originally belonging to the late Ojo Giwa. The plaintiff, the Lagos Executive Development Board, sought to determine rightful claimants. The core issue was whether a family-arranged partition of property, which deviated from the testator's will, could be upheld. The trial judge found that the partition, agreed upon around 1921 and implemented by 1923, was accepted by all family members, including representatives of minor beneficiaries. The executor, Emanuel Akitayo, ratified the partition despite it differing from the will, and was later removed by consent judgment for technical breach of trust. Jimoh Sunmonu, a grandchild and appellant, challenged the partition as unfair to minors, but provided no evidence. The court dismissed the appeal, holding that the long-standing acceptance, lack of objection, and equitable fairness of the partition rendered it binding. Compensation for No. 2 Ojo Giwa Street was awarded to Memunatu Ashani, who acquired it via mortgage and resale, and for No. 4 to Moshebolatan Ojo Giwa, the builder and occupier. Non-contentious properties were allocated to the Public Trustee and Muniratu Omolabake respectively.",
+  "legalKeywords": [
+    "partition of land",
+    "compensation distribution",
+    "testamentary trust",
+    "executor duties",
+    "minor beneficiaries",
+    "family agreement",
+    "property ownership",
+    "ratification of partition",
+    "public trustee",
+    "customary consent",
+    "equity",
+    "acquisition under ordinance",
+    "mortgage transaction",
+    "title dispute",
+    "undue influence",
+    "beneficiary rights",
+    "trust administration",
+    "relinquishment of trust",
+    "consent judgment",
+    "cross-examination failure"
+  ],
+  "topics": [
+    "Property Law",
+    "Trusts",
+    "Succession",
+    "Equity",
+    "Land Acquisition"
+  ],
+  "verdict": "Appeal dismissed; judgment below varied regarding compensation distribution.",
+  "winningSide": "Memunatu Ashani and Moshebolatan Ojo Giwa",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Cor. Kingdon",
+      "role": "Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Trial Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "property dispute",
+  "citations": [
+    "Lagos Town Planning Ordinance, 1928",
+    "Section 38(1) of the Ordinance"
+  ],
+  "rationaleHighlights": [
+    "Partition agreed upon by family members and ratified by executor despite deviation from will terms.",
+    "Minor beneficiaries' interests deemed protected through family representatives' consent.",
+    "Executor's ratification of partition binding, even if technically a breach of trust.",
+    "Long-standing enjoyment of partitioned shares without objection undermines later challenge.",
+    "Equity favors upholding fair and accepted family arrangements over technical will compliance."
+  ],
+  "confidenceNotes": "High confidence in extraction; source is a judicial decision with clear factual and legal reasoning. Jurisdictional context is colonial-era West Africa with application to Ghanaian legal history via WACA.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/CHAIRMAN, LAGOS EXECUTIVE DEVELOPMENT.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:26:07.742Z",
+    "plainTextLength": 15041
+  },
+  "trialDate": "1937-01-11"
+}

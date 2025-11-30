@@ -1,0 +1,72 @@
+{
+  "caseTitle": "LYDIA ANANE ASAMOAH VRS JENNIS MARFO ALIAS APPIAH KUBI",
+  "summary": "This 2011 Supreme Court of Ghana case, Lydia Anane Asamoah v. Jennis Marfo alias Appiah Kubi, arose from a contract dispute where the plaintiff sought US$130,000 for undelivered second-hand clothing. The High Court entered a default judgment for US$92,600 after the defendant failed to file a defence. The Court of Appeal set aside the judgment due to procedural irregularities, including lack of notice of adjournment from December 13 to 14, 2005, and discrepancies in the awarded amount. The Supreme Court restored the High Court's judgment, clarifying it was a default judgment under Order 13 of CI 47, not a summary judgment, and held that the procedural deviation did not nullify the court's jurisdiction, especially given the defendant's post-judgment admission of debt.",
+  "legalKeywords": [
+    "default judgment",
+    "summary judgment",
+    "procedural irregularity",
+    "adjournment without notice",
+    "liquidated claim",
+    "Order 13 CI 47",
+    "Order 14 CI 47",
+    "miscarriage of justice",
+    "jurisdiction",
+    "estoppel",
+    "service of notice",
+    "civil procedure",
+    "judgment amount discrepancy",
+    "Court of Appeal reversal",
+    "Supreme Court restoration"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Contract Law",
+    "Appellate Review",
+    "Judgment Enforcement"
+  ],
+  "verdict": "Judgment restored in favor of plaintiff",
+  "winningSide": "Plaintiff/Respondent (Lydia Anane Asamoah)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. S.K. Date-Bah",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Jones Dotse"
+    },
+    {
+      "name": "Anin Yeboah"
+    },
+    {
+      "name": "B.T. Aryeetey"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs.)"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Bonsu v. Doe [1984-86] GLR 778 CA",
+    "Shardey v Adamtey and Shardey v Martey & Or (Consolidated) [1972] 2 GLR 380 CA",
+    "Republic v. High Court, Accra; Ex parte Allgate Co. Ltd [2007–08] 2 SCGLR 1041"
+  ],
+  "rationaleHighlights": [
+    "Default judgment under Order 13 CI 47 does not require a defence on merits, only failure to file defence",
+    "Judgment amount must match claim unless amended or admitted; discrepancy here was problematic",
+    "Adjournment without formal notice not fatal if court practice allows carryover to next sitting day",
+    "Post-judgment admission of debt supported enforcement under estoppel principles",
+    "Procedural flaws do not void judgment if no substantial miscarriage of justice"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from Supreme Court judgment text. Some legal principles inferred from cited authorities and procedural context.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/LYDIA ANANE ASAMOAH   VRS  JENNIS MARFO  ALIAS APPIAH KUBI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:03:55.314Z",
+    "plainTextLength": 17268
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "caseTitle": "REX v MENSAH AKOTO",
+  "summary": "The appellant, Mensah Akoto, was convicted of murdering Kpata Yivanyo, his mistress, by strangulation. The prosecution's case relied heavily on unsworn testimony from the victim's two young daughters (aged approximately 34 and 5 years), admitted under section 17(3) of Cap. 206, which permits unsworn evidence from children who understand the duty to tell the truth. The appeal challenged the sufficiency of corroboration required by law for such unsworn testimony. The West Africa Court of Appeal held that while the children's evidence could not corroborate each other, there was ample independent corroboration, particularly in the testimony of Kwasi Dator, the victim's uncle, who recounted the appellant's admission of the death, the suspicious injuries, and his failure to report the death. The trial judge had properly directed the jury to treat the uncles' evidence with caution due to potential ill-will. Medical and circumstantial evidence further supported the conviction. The court found the corroboration sufficient and dismissed the appeal.",
+  "legalKeywords": [
+    "murder",
+    "unsworn evidence",
+    "child witness",
+    "corroboration",
+    "section 17(3) Cap. 206",
+    "infant testimony",
+    "jury instruction",
+    "strangulation",
+    "exhumation",
+    "circumstantial evidence",
+    "credibility assessment",
+    "ill-will",
+    "perjury",
+    "trial fairness",
+    "death conviction"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence Law",
+    "Child Witnesses",
+    "Corroboration",
+    "Murder"
+  ],
+  "verdict": "Appeal dismissed; conviction for murder upheld.",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judging Panel"
+    },
+    {
+      "name": "Graham Paul, C.J., Sierra Leone",
+      "role": "Judging Panel"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v. Manser (25 Cr. App. Rep. 18)",
+    "Rex v. Yanser (25 Cr. App. Rep. 18)"
+  ],
+  "rationaleHighlights": [
+    "Evidence of two infant witnesses (aged 3-5 years) admitted under s.17(3) Cap. 206 without oath",
+    "Held: their evidence required corroboration; one child's testimony cannot corroborate the other",
+    "Kwasi Dator's testimony provided material corroboration: accused admitted victim was dead with neck injury and blood from orifices, failed to report death",
+    "Jury properly warned to treat uncle's evidence with caution due to familial ill-will",
+    "Medical evidence confirmed strangulation; injuries consistent with child witness account",
+    "Burial at night without reporting raised suspicion",
+    "Ample circumstantial and testimonial corroboration found; appeal dismissed"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and explicit statutory reference to Cap. 206, s. 17(3).",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/REX v  MENSAH AKOTO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:29:17.674Z",
+    "plainTextLength": 7348
+  },
+  "trialDate": "1941-06-09"
+}

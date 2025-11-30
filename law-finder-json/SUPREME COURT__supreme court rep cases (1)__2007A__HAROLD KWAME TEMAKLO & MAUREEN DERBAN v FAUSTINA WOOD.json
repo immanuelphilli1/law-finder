@@ -1,0 +1,81 @@
+{
+  "caseTitle": "HAROLD KWAME TEMAKLO & MAUREEN DERBAN v FAUSTINA WOOD",
+  "summary": "The case involved a dispute over the ownership of property (House No. 649/10, Awudome Close, Kaneshie) formerly owned by Sylvia Adoley Garshong, who died intestate in 1987. The plaintiffs, her children, claimed entitlement under the Intestate Succession Law (PNDCL 111), while the defendant, Sylvia’s mother Faustina Wood, claimed beneficial ownership, asserting she financed the property. The High Court ruled in favor of Wood, but the Court of Appeal reversed the decision, holding that Sylvia was the legal owner and that Wood failed to rebut the presumption of beneficial ownership. The Supreme Court upheld the Court of Appeal’s judgment, affirming that the documentary evidence and legal presumptions favored the plaintiffs and that the defendant did not meet the burden of proof to establish beneficial ownership.",
+  "legalKeywords": [
+    "intestate succession",
+    "beneficial ownership",
+    "legal title",
+    "rebuttable presumption",
+    "burden of proof",
+    "evidence",
+    "vesting assent",
+    "letters of administration",
+    "property rights",
+    "trust",
+    "preponderance of probabilities",
+    "agency",
+    "Housing Corporation records",
+    "declaration of title",
+    "injunction"
+  ],
+  "topics": [
+    "Property Law",
+    "Succession Law",
+    "Evidence Law",
+    "Family Law",
+    "Inheritance Dispute"
+  ],
+  "verdict": "The Supreme Court dismissed the appeal and upheld the Court of Appeal's decision in favor of the plaintiffs, affirming their entitlement to the property under intestate succession laws and rejecting the defendant's claim of beneficial ownership due to insufficient evidence.",
+  "winningSide": "Respondents (Plaintiffs: Harold Kwame Temaklo and Maureen Derban)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sophia A.B. Akuffo",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Brobbey",
+      "role": "J.S.C."
+    },
+    {
+      "name": "Dr. Twum",
+      "role": "J.S.C."
+    },
+    {
+      "name": "Ansa",
+      "role": "J.S.C."
+    },
+    {
+      "name": "Aninakwa",
+      "role": "J.S.C."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "Intestate Succession Law, 1984 (PNDCL 111), Section 4(a)",
+    "Evidence Decree, 1975 (NRCD 323), Section 35",
+    "Evidence Decree, 1975 (NRCD 323), Section 20",
+    "Evidence Decree, 1975 (NRCD 323), Section 21"
+  ],
+  "rationaleHighlights": [
+    "Legal ownership standing in Sylvia's name triggered a rebuttable presumption of beneficial ownership under NRCD 323, Section 35.",
+    "The burden was on the defendant to prove, on a balance of probabilities, that she financed the property, which she failed to discharge.",
+    "The Court of Appeal correctly evaluated documentary evidence from the Ghana Housing Corporation and testimony from TDC confirming Sylvia’s employment.",
+    "The High Court’s reliance on personal speculation rather than evidence was legally flawed.",
+    "No evidence established an agency or trust relationship between Sylvia and her mother.",
+    "The defendant’s unilateral change of housing records did not override legal or beneficial ownership.",
+    "The plaintiffs, as children of the intestate deceased, were entitled to the property under PNDCL 111, Section 4(a).",
+    "The appeal was dismissed for being against the weight of evidence."
+  ],
+  "confidenceNotes": "High confidence. The summary and legal analysis are based on clear judicial reasoning and statutory interpretation. The citations are directly referenced in the judgment.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2007A/HAROLD KWAME TEMAKLO & MAUREEN DERBAN v FAUSTINA WOOD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:58:30.435Z",
+    "plainTextLength": 19565
+  }
+}

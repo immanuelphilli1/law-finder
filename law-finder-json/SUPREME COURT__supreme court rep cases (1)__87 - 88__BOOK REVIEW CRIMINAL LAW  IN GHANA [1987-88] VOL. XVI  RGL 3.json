@@ -1,0 +1,69 @@
+{
+  "caseTitle": "BOOK REVIEW CRIMINAL LAW IN GHANA [1987-88] VOL. XVI RGL 3",
+  "summary": "This book review from the 1987-88 Review of Ghana Law highlights Mr. Justice Twumasi's seminal work, 'Criminal Law in Ghana' (1985), as the first comprehensive textbook on substantive criminal law in Ghana since the establishment of the Law School. The 634-page volume systematically covers core criminal offences, including treason, murder, theft, bigamy, contempt, libel, corruption, and economic crimes, while also addressing lesser-included offences like trial by ordeal and slave-dealing. The author draws primarily on local case law and statutory provisions, supplemented by English and Commonwealth authorities where local precedents are lacking. Despite publication delays that excluded recent cases, the work is praised for making the Criminal Code (Act 29) more accessible and for serving as a foundational text for judges, legal practitioners, law students, and law enforcement. A follow-up volume on criminal procedure and evidence is anticipated.",
+  "legalKeywords": [
+    "criminal law",
+    "Ghana",
+    "substantive criminal offences",
+    "Criminal Code Act 29",
+    "treason",
+    "subversion",
+    "murder",
+    "insanity",
+    "stealing",
+    "bigamy",
+    "contempt of court",
+    "criminal libel",
+    "corruption",
+    "extortion",
+    "economic crimes",
+    "offences against currency",
+    "smuggling",
+    "price control",
+    "hoarding",
+    "trial by ordeal",
+    "slave-dealing",
+    "motor offences",
+    "criminal procedure",
+    "criminal evidence"
+  ],
+  "topics": [
+    "criminal law",
+    "legal education",
+    "Ghanaian jurisprudence",
+    "substantive law",
+    "legal publication"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Mr Justice Twumasi",
+      "role": "author"
+    }
+  ],
+  "jurisdiction": {
+    "court": "N/A",
+    "country": "Ghana"
+  },
+  "caseType": "book review",
+  "citations": [
+    "Criminal Law in Ghana, Mr. Justice Twumasi (1985)"
+  ],
+  "rationaleHighlights": [
+    "Fills a long-standing gap in Ghanaian legal literature",
+    "Consolidates scattered criminal offences into one comprehensive text",
+    "Uses local cases with supplementation from English and Commonwealth jurisprudence",
+    "Makes the Criminal Code (Act 29) more accessible and understandable",
+    "Covers both traditional and rarely included offences",
+    "Intended as foundational work for future development in criminal jurisprudence"
+  ],
+  "confidenceNotes": "The document is a book review rather than a judicial decision, so details such as verdict and winning side are not applicable. Information is derived from a descriptive and evaluative text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/87 - 88/BOOK REVIEW CRIMINAL LAW  IN GHANA [1987-88] VOL. XVI  RGL 3.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:27:02.648Z",
+    "plainTextLength": 3868
+  }
+}

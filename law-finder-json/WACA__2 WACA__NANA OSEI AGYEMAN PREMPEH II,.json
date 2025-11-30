@@ -1,0 +1,75 @@
+{
+  "caseTitle": "IN THE MATTER OF THE BEPOSO CONCESSION-CONCESSION ENQUIRY No",
+  "summary": "This 1934 West Africa Court of Appeal decision concerns a concession dispute over the Beposo Lands in Ashanti, Ghana. Herbert Flintoft obtained a 99-year mineral concession from local chiefs in 1931, which was filed and registered in 1932. An initial inquiry on February 27, 1933, resulted in a conditional order for a certificate of validity, but no final order was issued. Nana Kwabena Wusu, Omanhene of Ejisu, first attempted to oppose the concession in August 1933 in his personal capacity, but withdrew the motion. On December 16, 1933, he re-applied to oppose as representative of the Ejisu stool. That motion was adjourned sine die on January 19, 1934, pending resolution of a related land ownership suit. Despite this, a certificate of validity was issued on May 28, 1934, by an acting judge who disregarded the adjournment order. The Court of Appeal held that the final order was invalid because the opposition motion had not been heard, and that the court was bound by the earlier adjournment. The appeal was allowed, the certificate order was set aside, and the matter was remitted for proper adjudication of the opposition motion in accordance with due process and Section 12(2) of the Concessions Ordinance, which requires the court to determine the proper parties.",
+  "legalKeywords": [
+    "concession validity",
+    "opposition to grant",
+    "adjournment sine die",
+    "ex facie order",
+    "Section 14(1) Concessions Ordinance",
+    "Section 12(2) Concessions Ordinance",
+    "Section 27 Concessions Ordinance",
+    "judicial discretion",
+    "party representation",
+    "land ownership dispute",
+    "procedural fairness",
+    "certificate of validity",
+    "due process",
+    "standing to oppose",
+    "successor judge bound by predecessor's order"
+  ],
+  "topics": [
+    "Concessions Law",
+    "Land Rights",
+    "Procedural Justice",
+    "Customary Law",
+    "Judicial Review"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Opposer-Appellant",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Aitken, J."
+    },
+    {
+      "name": "Deane, C.J."
+    },
+    {
+      "name": "Yates, J."
+    },
+    {
+      "name": "Cor, C.J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Concession Enquiry Appeal",
+  "citations": [
+    "Concessions Ordinance, Section 11",
+    "Concessions Ordinance, Section 12(2)",
+    "Concessions Ordinance, Section 14(1)",
+    "Concessions Ordinance, Section 27",
+    "Laws of Ashanti, Cap. 5, Section 11"
+  ],
+  "rationaleHighlights": [
+    "The February 27, 1933 order was not a final order, thus allowing time for opposition.",
+    "The December 16, 1933 motion to oppose was valid as it was filed in representative capacity, distinct from the earlier personal motion.",
+    "The January 19, 1934 adjournment sine die remained binding on successor judges.",
+    "The May 28, 1934 certificate issuance violated procedural fairness by ignoring the pending opposition.",
+    "Section 27 was wrongly relied upon; Section 12(2) requires the court to ascertain proper parties.",
+    "The acting judge lacked authority to bypass the adjourned motion without consent.",
+    "Opposition must be heard before final certificate issuance, per statutory discretion.",
+    "The appeal court emphasized judicial continuity and procedural integrity."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; all details are directly supported by the judgment text. Some truncated content at end of source does not affect core holdings.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/NANA OSEI AGYEMAN PREMPEH II,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:24:30.286Z",
+    "plainTextLength": 23909
+  },
+  "trialDate": "1934-12-03"
+}

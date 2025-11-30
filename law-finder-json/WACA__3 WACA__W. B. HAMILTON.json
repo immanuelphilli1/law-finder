@@ -1,0 +1,68 @@
+{
+  "caseTitle": "W. B. HAMILTON",
+  "summary": "The West Africa Court of Appeal allowed the appeal of W. B. Hamilton against Kofi Mensah, reversing a non-suit judgment in a civil claim for damages due to the wrongful cutting of 103 standing mahogany trees. The appellant argued an oral sale supported by a receipt (Exhibit C) from the defendant's predecessor, which detailed the transaction, including parties, consideration, property description, and signature. The trial judge had applied English law and held the Statute of Frauds unmet due to lack of a written agreement. The appellate court found Exhibit C, if genuine, constituted a sufficient memorandum under section 4 of the Statute of Frauds, satisfying all essential elements. It rejected the notion that the transaction required compliance with the Concessions Ordinance, as the receipt was evidence of a completed sale, not a concession. The court emphasized that the applicability of native law versus English law should be determined at trial based on full evidence, and dismissed the trial judge's skepticism about damages, delay, and partial payment as insufficient grounds to deny legal remedies. The case was remitted for a new trial before a different judge.",
+  "legalKeywords": [
+    "trespass",
+    "growing timber",
+    "Statute of Frauds",
+    "Concessions Ordinance",
+    "oral contract",
+    "memorandum in writing",
+    "native custom",
+    "land interest",
+    "receipt as evidence",
+    "non-suit",
+    "re-trial",
+    "damages",
+    "equity",
+    "jurisdiction",
+    "sale of trees"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Tort Law",
+    "Appellate Procedure",
+    "Customary Law"
+  ],
+  "verdict": "Appeal allowed; judgment of non-suit set aside; case remitted for re-trial.",
+  "winningSide": "Plaintiff-Appellant (W. B. Hamilton)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Yates",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Evans v. Prothero (1852) 21 L.J.c. 378"
+  ],
+  "rationaleHighlights": [
+    "Exhibit C constitutes a sufficient memorandum under the Statute of Frauds due to inclusion of parties, consideration, date, property description, promise, and signature.",
+    "The trial judge erred in applying English law without fully considering native law and custom.",
+    "The plaintiff's delay in cutting trees and partial payment do not invalidate the claim.",
+    "The appeal court did not decide whether English or native law applies; that is for the trial court upon full evidence.",
+    "The non-suit was set aside because the written receipt satisfies the Statute of Frauds requirement."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear legal reasoning and citation.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/W. B. HAMILTON.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:09:34.375Z",
+    "plainTextLength": 7342
+  },
+  "trialDate": "1937-12-14"
+}

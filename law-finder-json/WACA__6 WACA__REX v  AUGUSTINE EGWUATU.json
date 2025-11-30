@@ -1,0 +1,71 @@
+{
+  "caseTitle": "REX v AUGUSTINE EGWUATU",
+  "summary": "The appellant, Augustine Egwuatu, a public servant and interpreter in the Enugu Local Authority, was convicted of official corruption under section 98(1) of the Criminal Code for accepting a bottle of gin from Belo Amadi as a reward for taking him before the Local Authority. The prosecution's case relied on Exhibit C, a 'chit' presented to Belo, which the trial judge deemed evidence that the appellant was acting in discharge of his official duties. However, Exhibit C was marked for identification but not formally tendered or admitted into evidence until after the defense had closed its case, when the court recalled the third prosecution witness to authenticate it. The West Africa Court of Appeal held that this late admission of a foundational document—after the defense had argued there was no case to answer—constituted a serious procedural irregularity. Since the prosecution had not discharged the burden of proving an essential element of the offense (performance of an official duty) at the close of its case, the subsequent introduction of Exhibit C fundamentally altered the case and caused injustice. The appeal was allowed, the conviction and sentence were quashed, and an acquittal was entered.",
+  "legalKeywords": [
+    "official corruption",
+    "public servant",
+    "duties of office",
+    "evidence admissibility",
+    "document tendering",
+    "case to answer",
+    "prosecution burden",
+    "judicial discretion",
+    "recall of witness",
+    "exhibit admission",
+    "procedural injustice",
+    "conviction quashed",
+    "acquittal",
+    "Criminal Code section 98(1)",
+    "trial fairness"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence",
+    "Judicial Procedure",
+    "Public Corruption",
+    "Appellate Review"
+  ],
+  "verdict": "Conviction quashed; acquittal entered.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v. Sullivan (1923) 1 K.B. 47"
+  ],
+  "rationaleHighlights": [
+    "The prosecution failed to tender Exhibit C during its case, creating no case to answer at close of prosecution.",
+    "The trial judge recalled a witness after defense closing to admit a crucial document, altering the case foundation.",
+    "Admitting essential evidence post-defense prejudiced the accused and violated fair trial principles.",
+    "The appellate court found this irregularity resulted in injustice, warranting quashing of conviction.",
+    "An act must be in discharge of official duty to constitute corruption under section 98(1).",
+    "The chit (Exhibit C) was pivotal in establishing the appellant's official duty.",
+    "Judicial recall of witnesses is permissible but must not result in substantive injustice.",
+    "Failure to prove performance of official duty undermines the corruption charge."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and clear procedural irregularity identified.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/REX v  AUGUSTINE EGWUATU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:58:47.807Z",
+    "plainTextLength": 9346
+  },
+  "trialDate": "1940-04-25"
+}

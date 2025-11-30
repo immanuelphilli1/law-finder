@@ -1,0 +1,81 @@
+{
+  "caseTitle": "REPUBLIC v THE NATIONAL HOUSE OF CHIEFS EX-PARTE ODENEHO",
+  "summary": "This Supreme Court of Ghana decision arose from a chieftaincy dispute involving Odeneho Akrofa Krukoko II, who claimed rightful status as Omanhene of the Wassa Fiase Traditional Area. After multiple legal battles, including contempt convictions later overturned, his name was removed from the National Register of Chiefs and replaced with Osagyefo Kwamena Enimil VI. Odeneho sought mandamus to compel the National House of Chiefs to reinstate his name. The High Court granted leave, but the Court of Appeal dismissed the application, citing procedural defects and res judicata from a prior dismissed motion. The Supreme Court allowed the appeal, clarifying that mandamus is founded on demand and refusal, with the limitation period starting from refusal. It held that interlocutory rulings do not bar subsequent actions unless they resolve the merits, and that the Court of Appeal's prior decision in Ex Parte Faibil III was per incuriam. The Court emphasized that Order 59 r.3 applied only to certiorari, not mandamus, and reversed the Court of Appeal’s judgment.",
+  "legalKeywords": [
+    "mandamus",
+    "res judicata",
+    "estoppel",
+    "chieftaincy dispute",
+    "judicial precedent",
+    "demand and refusal",
+    "interlocutory ruling",
+    "extension of time",
+    "National Register of Chiefs",
+    "customary law",
+    "contempt of court",
+    "substituted service",
+    "Order 59 rule 3",
+    "judicial discretion",
+    "per incuriam"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Constitutional Law",
+    "Chieftaincy Disputes",
+    "Judicial Review",
+    "Legal Procedure"
+  ],
+  "verdict": "Appeal allowed. The Supreme Court reversed the Court of Appeal’s decision and reinstated the High Court’s jurisdiction to hear the mandamus application on its merits.",
+  "winningSide": "Appellant (Odeneho Akrofa Krukoko II)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Owusu (Ms)",
+      "role": "Justice"
+    },
+    {
+      "name": "Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "In re Sekyedumase Stool: Nyame v Kese alias Konto [1998-99] SCGLR 476",
+    "Conca Engineering Ltd. v Moses [1984-86] 2 GLR 319",
+    "New Brunswich Railway Co. v British & French Trust Co. Ltd. [1939] AC 1",
+    "Laryea v Oforiwah [1984-86] 2GLR 410",
+    "Republic v High Court, Accra (Commercial Division); Ex parte Hesse [2007-2008] SCGLR 1230",
+    "Dahabieh v SA Turqui & Bros [2001-2002] SCGLR 498",
+    "Rep. v National House of Chiefs & Ors; Ex Parte Faibil III & Ors [1984-86] 2 GLR 731"
+  ],
+  "rationaleHighlights": [
+    "Mandamus requires demand and refusal, with time limit running from refusal, not demand.",
+    "Interlocutory rulings generally do not attract res judicata unless they decide merits.",
+    "Court of Appeal not strictly bound by its own decisions and may depart from per incuriam rulings.",
+    "Order 59 r.3 LN 140A applies to certiorari, not mandamus.",
+    "Prior dismissal of mandamus application without demand-refusal basis does not create issue estoppel."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy due to direct extraction from official Supreme Court judgment text and citation of authoritative legal precedents.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/REPUBLIC  v THE NATIONAL HOUSE OF CHIEFS   EX-PARTE ODENEHO .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:02:32.578Z",
+    "plainTextLength": 92519
+  }
+}

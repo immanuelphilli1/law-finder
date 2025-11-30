@@ -1,0 +1,75 @@
+{
+  "caseTitle": "THE REPUBLIC v THE VICE CHANCELLOR KWAME NKRUMAH UNIVERSITY",
+  "summary": "This Supreme Court of Ghana case involved five Nigerian students (appellants) who were dismissed from Kwame Nkrumah University of Science and Technology (KNUST) following alleged involvement in occultism and violence. The dismissal, carried out by the Vice-Chancellor based on an Interim Report (Exhibit KNUST '3'), was challenged on grounds of violation of university regulations and Article 25 of the 1992 Constitution, which guarantees the right to fair hearing. The appellants argued that no Committee of Enquiry was properly constituted as required under Article 7 of the Students Guide, and they were not given a chance to present their case. The Supreme Court found that the respondent failed to provide any details about the composition, formation, or procedures of the alleged inquiry committee, placing the burden of proof on the university under Section 17(1) of the Evidence Act, 1975 (NRCD 323). The Court held that the dismissal violated principles of administrative fairness and natural justice, as the appellants were denied procedural rights. The appeal was allowed, and the dismissals were quashed.",
+  "legalKeywords": [
+    "judicial review",
+    "procedural fairness",
+    "student dismissal",
+    "committee of inquiry",
+    "burden of proof",
+    "administrative fairness",
+    "university regulations",
+    "constitutional rights",
+    "Article 25 Constitution",
+    "Evidence Act NRCD 323"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Constitutional Law",
+    "Education Law",
+    "Procedural Fairness",
+    "Judicial Review"
+  ],
+  "verdict": "The appeal was allowed. The dismissals of the students were quashed for violating principles of procedural fairness and natural justice.",
+  "winningSide": "Appellants",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Anin Yeboah",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Presiding"
+    },
+    {
+      "name": "Owusu (Ms)",
+      "role": "Justice"
+    },
+    {
+      "name": "Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "judicial review",
+  "citations": [
+    "THE REPUBLIC v THE VICE CHANCELLOR KWAME NKRUMAH UNIVERSITY OF SCIENCE & TECHNOLOGY [2008] GHASC 12",
+    "NIMMO V ALEXANDER COWAN & SONS LTD [1968] AC 107"
+  ],
+  "rationaleHighlights": [
+    "The respondent failed to provide particulars of the Committee of Enquiry, including its composition and terms of reference.",
+    "The Supreme Court emphasized that the burden of proof lies with the party having exclusive knowledge—here, the university.",
+    "Dismissal without compliance with internal procedures violated principles of administrative fairness.",
+    "Exhibit KNUST '3' was insufficient as it lacked details on committee membership or process.",
+    "Lower courts erred in accepting the existence of a committee without scrutinizing its formation or procedure.",
+    "The appellants were not given opportunity to appear before any committee, breaching natural justice.",
+    "Section 17(1) of the Evidence Act 1975 (NRCD 323) was cited to support the burden of proof on the respondent.",
+    "The signature of a security officer on the report without clarification of role undermined its credibility."
+  ],
+  "confidenceNotes": "High confidence; details are drawn directly from the judgment text, including case title, court, judges, and legal reasoning.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2008/THE REPUBLIC v THE VICE CHANCELLOR KWAME NKRUMAH UNIVERSITY .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:48:47.392Z",
+    "plainTextLength": 32308
+  },
+  "trialDate": "2008-11-12"
+}

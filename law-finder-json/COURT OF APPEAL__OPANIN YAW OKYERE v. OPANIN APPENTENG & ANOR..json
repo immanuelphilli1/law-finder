@@ -1,0 +1,78 @@
+{
+  "caseTitle": "OPANIN YAW OKYERE v. OPANIN APPENTENG & ANOR. H1 23",
+  "summary": "The case of Opanin Yaw Okyere v. Opanin Appenteng & Anor. involved a dispute over the ownership and testamentary disposition of land and farm properties in Seniagya, Ashanti, under the will of the late Akua Attaa. The plaintiff claimed that the properties were family assets and sought a declaration, recovery of possession, and an injunction. The second defendant counterclaimed, asserting that the properties were self-acquired by Akua Attaa's immediate family and thus validly disposed of by will. The trial court dismissed the plaintiff's claims, upheld the counterclaim, and entered judgment for the defendants. On appeal, the Court of Appeal addressed procedural and substantive issues, including the timeliness of the judgment, failure to enter default judgment against the first defendant, and the application of the Administration of Estates Act, 1961 (Act 63). The appellate court upheld the trial court's findings, emphasizing the strength of the second defendant's evidence regarding ownership and acts of possession, and found no basis to overturn the decision.",
+  "legalKeywords": [
+    "testamentary capacity",
+    "family property",
+    "acts of ownership",
+    "onus of proof",
+    "interim injunction",
+    "customary succession",
+    "declaration of title",
+    "counterclaim",
+    "credibility of evidence",
+    "Administration of Estates Act",
+    "High Court Civil Procedure Rules",
+    "judgment delay",
+    "default judgment",
+    "land inheritance",
+    "Ekuona clan",
+    "Anima Kokoo family",
+    "property devolution",
+    "self-acquired property",
+    "corroboration",
+    "motions practice"
+  ],
+  "topics": [
+    "Land Law",
+    "Succession Law",
+    "Probate Disputes",
+    "Customary Law",
+    "Civil Procedure"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ansa, J.A."
+    },
+    {
+      "name": "Akoto Bamfo (Mrs.)"
+    },
+    {
+      "name": "Anin-Yeboah, J.J.A."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Ediyie v Honny [1975] 2 GLR 142",
+    "Odoi v Hammond [1971] 1 GLR 375",
+    "Bedu v Agbi [1972] 2 GLR 239",
+    "Kuma v Kuma [1934] 2 WACA 178",
+    "Kodilinye v Odu [1935] 2 WACA 336",
+    "Rickets & Another v Addo & Others [1975] 2 GLR 158",
+    "Oppong Kofi & Another v Fofie [1964] GLR 174"
+  ],
+  "rationaleHighlights": [
+    "The trial judge properly evaluated witness credibility and acts of ownership, finding the second defendant's account more probable.",
+    "The plaintiff failed to prove family ownership through traditional evidence or acts of ownership.",
+    "The counterclaim's inclusion of interim injunction claims was procedurally improper and struck out.",
+    "Delay in judgment delivery did not invalidate the judgment due to the saving clause in Order 7 Rule 2A.",
+    "The Administration of Estates Act, Act 63, was correctly interpreted to affirm devolution of property to personal representatives.",
+    "The plaintiff's inconsistent evidence on family lineage undermined his case.",
+    "The testatrix exercised unchallenged ownership over the properties, supporting her testamentary capacity.",
+    "The appeal was dismissed as it was not against the weight of evidence."
+  ],
+  "confidenceNotes": "The summary and analysis are based on a complete review of the provided judgment text. All key legal issues, holdings, and procedural points have been accurately captured with reference to cited authorities and statutory provisions.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/OPANIN YAW OKYERE v. OPANIN APPENTENG & ANOR..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:10:10.646Z",
+    "plainTextLength": 23124
+  }
+}

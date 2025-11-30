@@ -1,0 +1,72 @@
+{
+  "caseTitle": "BONSU & 2 ORS v. KWADWO MENSAH & ANOTHER",
+  "summary": "This appeal from the Ghana Court of Appeal concerns a dispute over the ownership and nature of a property transaction involving Plot No. 17, Block 111, Ampabame, Kumasi. The appellants claimed the property was family land acquired by Kwame Appiah and developed by Akwasi Obeng, and that Obeng only pledged it to the respondents, not sold it. They sought recovery upon repayment of the pledge sum. The respondents asserted an outright purchase from Obeng, claiming it as his self-acquired property. The trial court dismissed the appellants' claim, declaring the first respondent an equitable owner. On appeal, the court upheld the trial court's finding that the property was Obeng's self-acquired asset, not family property, emphasizing that contributions by family members were insufficient to establish family character. It further held that the appellants failed to prove the transaction was a pledge, noting the improbability of a pledge involving an uncompleted structure and Obeng's lifelong failure to redeem it. The appeal was dismissed.",
+  "legalKeywords": [
+    "customary law pledge",
+    "family property",
+    "self-acquired property",
+    "intestate succession",
+    "PNDCL 111",
+    "burden of proof",
+    "title to land",
+    "equitable ownership",
+    "evidence scrutiny",
+    "property redemption",
+    "land development",
+    "trial court findings",
+    "appeal grounds",
+    "preponderance of evidence",
+    "prima facie case"
+  ],
+  "topics": [
+    "Property Law",
+    "Customary Law",
+    "Succession",
+    "Land Title",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed; trial court judgment upheld",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Owusu Ansa J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Lartey J.A.",
+      "role": "Member of Bench"
+    },
+    {
+      "name": "Anim J.A.",
+      "role": "Member of Bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "OSEI BONSU & 2 ORS v. KWADWO MENSAH & ANOTHER [13/2/2003] CIVIL APPEAL NO. 2/2003",
+    "DUAGBOR VRS AKYEA DJAMSON [1984-86] 1 GLR 697",
+    "ODAMTEY VRS CLOCUH and Anor. [1989-90] 1 GLR p. 14",
+    "MOSES AND OTHERS VRS. ANANE [1989-90] 2 GLR, 694",
+    "GARNET, IN RE GANDY VRS MACAULEY [1885] 31 ch. D p.1"
+  ],
+  "rationaleHighlights": [
+    "Claim against deceased's estate requires strict and convincing evidence",
+    "Family character of property not proven; assistance in development must be substantial",
+    "Uncompleted building unlikely subject of pledge under customary law",
+    "Trial court's finding on self-acquired property upheld due to lack of contrary evidence",
+    "Appellants relied on weakness of respondent's case rather than strength of own"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from court judgment text and consistent legal reasoning. All key details including parties, claims, evidence, and legal principles are explicitly stated in the source.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/OSEI BONSU & 2 ORS v. KWADWO MENSAH & ANOTHER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:10:01.131Z",
+    "plainTextLength": 25435
+  },
+  "trialDate": "2003-02-13"
+}

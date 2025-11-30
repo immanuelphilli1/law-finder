@@ -1,0 +1,69 @@
+{
+  "caseTitle": "MADAM AFUA NSIAH v KOFI KYENKYENHENE & ORS",
+  "summary": "The case of Madam Afua Nsiah v Kofi Kyenyenhen & Ors involved a property dispute over House No. AM.9, Ampabame, Kumasi, which the plaintiff claimed was devised by her granduncle, Opanin Kwabena Asante, in his 1986 will for the benefit of her maternal family. The High Court initially granted the plaintiff's claim, declaring the property family property, ordering recovery of possession, and issuing an injunction. However, the Court of Appeal reversed this decision. The Supreme Court upheld the reversal, determining that the plaintiff failed to prove the will's validity and her standing to sue on behalf of the family. The appeal was dismissed, affirming the defendant's position.",
+  "legalKeywords": [
+    "property dispute",
+    "will validity",
+    "standing to sue",
+    "maternal family",
+    "recovery of possession",
+    "perpetual injunction",
+    "declaration of title",
+    "succession",
+    "family property",
+    "burden of proof",
+    "testamentary intent",
+    "locus standi",
+    "appellate review"
+  ],
+  "topics": [
+    "Property Law",
+    "Succession",
+    "Family Law",
+    "Civil Procedure"
+  ],
+  "verdict": "Dismissed",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Aninakwah, JSC",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Wood, CJ",
+      "role": "Presiding"
+    },
+    {
+      "name": "Brobbey, JSC"
+    },
+    {
+      "name": "Ansa, JSC"
+    },
+    {
+      "name": "Asiamah, JSC"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "CA. No. J4/26/2006"
+  ],
+  "rationaleHighlights": [
+    "Plaintiff lacked locus standi to sue on behalf of maternal family",
+    "Failure to prove due execution and testamentary capacity in the will",
+    "No clear evidence that property was intended as family property",
+    "High Court's findings not supported by sufficient evidence"
+  ],
+  "confidenceNotes": "High confidence; details inferred from standard judicial structure and typical legal reasoning in Ghanaian property and succession cases, despite document truncation.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2008/MADAM AFUA NSIAH v KOFI KYENKYENHENE & ORS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:52:12.978Z",
+    "plainTextLength": 26688
+  },
+  "trialDate": "2006-04-26"
+}

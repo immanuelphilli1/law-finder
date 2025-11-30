@@ -1,0 +1,75 @@
+{
+  "caseTitle": "Adom v. The Republic2, and also",
+  "summary": "The document discusses two key Ghanaian High Court cases, Acquah v. The Republic and Adom v. The Republic, both under the Price Control Decree, 1972 (N.R.C.D. 17), focusing on consumer protection amid widespread shortages and price manipulation. In Acquah, the court upheld a conviction for hoarding rice, interpreting non-display of goods as contributing to public shortage. In Adom, the High Court overturned a conviction for refusing to sell soap, requiring proof that the refusal was at the controlled price. The analysis critiques the latter decision as undermining legislative intent to combat 'kalabule' (profiteering). It also examines the Import and Exports (Special Licence) Regulations, 1980 (L.I. 1248), noting its limited scope and failure to regulate prices effectively, thus failing to alleviate consumer hardship.",
+  "legalKeywords": [
+    "consumer protection",
+    "price control",
+    "hoarding",
+    "kalabule",
+    "N.R.C.D. 17",
+    "L.I. 1248",
+    "refusal to sell",
+    "penal decree",
+    "strict construction",
+    "social legislation",
+    "trade liberalization",
+    "price regulation",
+    "shortage of goods",
+    "controlled price",
+    "judicial interpretation",
+    "economic regulation",
+    "public policy",
+    "criminal liability",
+    "statutory interpretation",
+    "state intervention"
+  ],
+  "topics": [
+    "Consumer Law",
+    "Criminal Law",
+    "Economic Regulation",
+    "Judicial Interpretation",
+    "Administrative Law"
+  ],
+  "verdict": "In Acquah v. The Republic, conviction upheld; in Adom v. The Republic, conviction overturned on appeal.",
+  "winningSide": "Republic in Acquah; Appellant in Adom",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Charles Crabbe J.",
+      "role": "Appellate Judge in Acquah v. The Republic"
+    },
+    {
+      "name": "Osei-Hwere J.",
+      "role": "Appellate Judge in Adom v. The Republic"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Acquah v. The Republic",
+    "Adom v. The Republic",
+    "Price Control Decree, 1972 (N.R.C.D. 17)",
+    "Import and Exports (Special Licence) Regulations, 1980 (L.I. 1248)",
+    "Price Control Decree, 1974 (N.R.C.D. 305)"
+  ],
+  "rationaleHighlights": [
+    "Non-display of goods can constitute hoarding under N.R.C.D. 17.",
+    "Refusal to sell must be at the controlled price to be an offence.",
+    "Price control laws must be strictly construed as penal statutes.",
+    "Legislative intent is to combat kalabule and protect consumers.",
+    "Judicial divergence exists on interpreting consumer protection laws.",
+    "L.I. 1248 fails to regulate prices effectively.",
+    "Trade liberalization policies are undermined by lack of enforcement.",
+    "Courts should interpret consumer laws contra proferentem."
+  ],
+  "confidenceNotes": "The source is a legal commentary rather than a full court judgment, so details are interpretive. However, case names, judges, and legal instruments are cited with specificity, supporting factual reliability. Some content is truncated, limiting completeness.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2012/CONSUMER PROTECTION [1980] VOL. XII RGL 176—181.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:47:27.396Z",
+    "plainTextLength": 17327
+  }
+}

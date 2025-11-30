@@ -1,0 +1,76 @@
+{
+  "caseTitle": "K. BINEY v. REGIMANUEL GRAY LTD. CIVIL APPEAL NO.",
+  "summary": "This Court of Appeal decision in Ghana concerns a civil appeal (No. 31/2002) by Regimanuel Gray Ltd. against a High Court order granting summary judgment to John K. Biney for a refund of part payment for a house purchase. The plaintiff sought US$41,409.50, interest, damages, and costs after terminating the contract due to inability to pay. The High Court granted summary judgment, finding no triable issues. The Court of Appeal, however, held that the defendant had raised legitimate triable issues—including currency of payment, breach of contract, and financial losses—warranting a full trial. The appeal was allowed, the summary judgment set aside, and the case remitted for trial with directions to allow the defendant to defend. Costs on appeal were awarded to the defendant, while costs in the lower court were to abide the result of the rehearing.",
+  "legalKeywords": [
+    "summary judgment",
+    "triable issues",
+    "contract for sale of property",
+    "breach of contract",
+    "refund of part payment",
+    "currency of payment",
+    "Order 14 High Court Rules",
+    "evidence on affidavit",
+    "remittal for trial",
+    "costs in litigation",
+    "contract rescission",
+    "exchange rate",
+    "default judgment",
+    "defence on merit",
+    "counterclaim",
+    "judicial discretion",
+    "delay in payment",
+    "contractual terms",
+    "payment in foreign currency",
+    "Ghanaian civil procedure"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Contract Law",
+    "Property Law",
+    "Appellate Review",
+    "Summary Judgment"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "F. M. Larney",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "A. Essilfie-Bondzie",
+      "role": "Justice"
+    },
+    {
+      "name": "G. M. Quaye",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "[1980] GLR 152",
+    "Gill v. Woodfin (1884) 25 Ch. D. 707"
+  ],
+  "rationaleHighlights": [
+    "Defence was not a sham and raised genuine triable issues",
+    "Defendant entitled to present evidence on oath",
+    "Trial judge erred in dismissing defence as mere delay tactic",
+    "Currency and breach of contract issues require full trial",
+    "Order 14 allows court to consider defence before granting summary judgment",
+    "Defendant's counterclaim adds merit to need for trial",
+    "Appeal court emphasized fair trial and procedural justice",
+    "Remittal ensures determination of case on its merits"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and explicit procedural details from the appellate judgment. All key elements including parties, court, issues, and outcome are directly extracted from the text.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/JOHN K. BINEY v. REGIMANUEL GRAY LTD..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:25:43.361Z",
+    "plainTextLength": 9810
+  }
+}

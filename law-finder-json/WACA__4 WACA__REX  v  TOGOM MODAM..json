@@ -1,0 +1,71 @@
+{
+  "caseTitle": "REX v TOGOM MODAM.",
+  "summary": "In this 1938 West Africa Court of Appeal decision, the appellants Aroboh Mumuna and Magbok IlIa appealed their murder convictions for the killing of Mallam Garuba Katsina. The principal evidence came from Mbom Nwage, an accomplice, whose testimony required corroboration under Section 319 of the Criminal Code. The trial judge acquitted the first accused due to insufficient corroboration but convicted the second and third appellants. On appeal, the court upheld the convictions, finding that the third accused (Magbok IlIa) was sufficiently linked to the crime through the testimony of Yongo, an independent witness who placed him at the scene with the second accused shortly before the murder, engaging in violence. Additionally, the third accused admitted to helping dispose of the body. The court held that this evidence, while not detailing every aspect of the crime, sufficiently and independently associated the accused with the murder, satisfying the legal requirement for corroboration of accomplice testimony. The appeals were dismissed.",
+  "legalKeywords": [
+    "corroboration",
+    "accomplice evidence",
+    "murder",
+    "criminal conviction",
+    "independent witness",
+    "identification with crime",
+    "body disposal",
+    "malice aforethought",
+    "gang crime",
+    "appellate review",
+    "trial judge findings",
+    "evidence sufficiency",
+    "joint judgment",
+    "self-incrimination",
+    "credibility assessment"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence",
+    "Appeal",
+    "Murder",
+    "Corroboration"
+  ],
+  "verdict": "Appeals dismissed; convictions for murder upheld.",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal",
+  "citations": [
+    "WACA/4 WACA/REX v TOGOM MODAM"
+  ],
+  "rationaleHighlights": [
+    "Corroboration must come from independent evidence linking accused to the crime, not merely confirm the crime occurred.",
+    "Admission of involvement in body disposal, combined with presence at scene, supports association with murder.",
+    "Evidence of prior violent act near crime scene strengthens connection to offense.",
+    "Conflicting testimony by accused undermines credibility and supports conviction.",
+    "Multiple accomplice testimony, if corroborated, can sustain conviction.",
+    "Trial judge's factual findings entitled to deference on appeal.",
+    "Conviction upheld where evidence collectively links accused to criminal act.",
+    "Appeal dismissed due to sufficient circumstantial corroboration."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on primary source text; no external contradictions identified.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX  v  TOGOM MODAM..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:59:09.735Z",
+    "plainTextLength": 5327
+  },
+  "trialDate": "1938-01-26"
+}

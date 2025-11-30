@@ -1,0 +1,76 @@
+{
+  "caseTitle": "REX v T. OLUKOLU, EWUSI OF MAKUN, SHAGAMU",
+  "summary": "This 1939 West African Court of Appeal decision in Rex v. T. Olukolu, Ewusi of Makun, Shagamu, concerned an appeal against a conviction for judicial corruption under section 114(1) of the Criminal Code. The appellant was charged with both 'asking' and 'receiving' a bribe, but the trial judge convicted him only for 'corruptly asking' for a bribe, treating the two acts as distinct offences. The appellate court upheld the conviction, ruling that the act of 'asking' constituted a complete offence independent of receipt, and that the trial judge correctly separated the two elements in his reasoning. The court also held that a witness who acted as a government spy in exposing the bribery was not an accomplice requiring corroboration, as his involvement extended only to the actus reus, not the mens rea of the offence. The appeal was dismissed on all grounds, including claims of insufficient evidence, lack of corroboration, judicial misdirection, and alleged prosecutorial entrapment.",
+  "legalKeywords": [
+    "judicial corruption",
+    "bribery",
+    "actus reus",
+    "mens rea",
+    "accomplice",
+    "corroboration",
+    "section 114 Criminal Code",
+    "trial misdirection",
+    "entrapment",
+    "spy witness",
+    "separate offences",
+    "asking vs receiving bribe",
+    "appellate review",
+    "conviction upheld",
+    "evidence sufficiency"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Judicial Ethics",
+    "Evidence Law"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent (Rex)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Butler Lloyd",
+      "role": "Ag. Chief Justice, Nigeria"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    },
+    {
+      "name": "Brooke",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Rex v. George 4 N.L.R. 5",
+    "R. v. Mullins",
+    "R. v. Bickley",
+    "R. v. Heuser 6 C.A.R. 76",
+    "R. v. Richards 4 C.A.R. 161",
+    "R. v. Dinnick 3 C.A.R. 77",
+    "R. v. Wolff 10 C.A.R. 107"
+  ],
+  "rationaleHighlights": [
+    "Asking for a bribe is a separate and complete offence from receiving one under section 114(1) of the Criminal Code.",
+    "The trial judge properly distinguished between 'asking' and 'receiving' and convicted only on the former.",
+    "A witness acting as a government spy who facilitates bribe exposure is not an accomplice requiring corroboration.",
+    "Involvement in the actus reus without sharing mens rea does not make one an accomplice.",
+    "Alleged political conspiracy among prosecution witnesses was considered and rejected by the trial judge.",
+    "The trial judge adequately addressed all defence arguments, including delay and entrapment.",
+    "No misdirection or omission in judicial reasoning was found.",
+    "The conviction was supported by sufficient legal evidence."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and citation of precedent. Case predates modern Ghanaian independence but falls within applicable colonial legal framework still referenced in early Ghanaian jurisprudence.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/REX v  T. OLUKOLU, EWUSI OF MAKUN, SHAGAMU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:40:07.813Z",
+    "plainTextLength": 5926
+  },
+  "trialDate": "1939-05-04"
+}

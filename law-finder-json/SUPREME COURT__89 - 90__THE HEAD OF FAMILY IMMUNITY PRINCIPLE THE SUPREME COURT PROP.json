@@ -1,0 +1,77 @@
+{
+  "caseTitle": "THE HEAD OF FAMILY IMMUNITY PRINCIPLE THE SUPREME COURT PROP",
+  "summary": "In Hansen v Ankrah, the Ghanaian Supreme Court, by a 3-2 majority, upheld the 'head of family immunity principle,' ruling that a family head cannot be sued in court for an account of family property while still in office, despite a duty to account at family meetings. The plaintiffs, heads of two family sections, sought orders compelling the family head to account for mismanaged funds and to preserve assets. The High Court granted interim relief, but the Court of Appeal and then the Supreme Court dismissed the action, citing immunity. The dissent argued for accountability, uniformity in customary law, and the principle that no breach of trust should lack a remedy. The decision highlighted a tension between judicial recognition of social authority and the need for legal accountability. Later in 1985, the PNDC abolished the immunity principle legislatively, ending judicial debate.",
+  "legalKeywords": [
+    "head of family",
+    "immunity principle",
+    "customary law",
+    "accountability",
+    "family property",
+    "fiduciary duty",
+    "interlocutory order",
+    "removal from office",
+    "breach of trust",
+    "judicial precedent",
+    "legal remedy",
+    "family meeting",
+    "stool funds",
+    "judicial discretion",
+    "social contract"
+  ],
+  "topics": [
+    "Customary Law",
+    "Family Law",
+    "Judicial Precedent",
+    "Legal Remedies",
+    "Fiduciary Accountability"
+  ],
+  "verdict": "Appeal dismissed; head of family held immune from suit for accounts while in office.",
+  "winningSide": "Defendant (head of family)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sowah JSC",
+      "role": "majority"
+    },
+    {
+      "name": "Francois JJA",
+      "role": "majority"
+    },
+    {
+      "name": "Mensa Boison JJA",
+      "role": "majority"
+    },
+    {
+      "name": "Apaloo CJ",
+      "role": "dissenting"
+    },
+    {
+      "name": "Taylor JSC",
+      "role": "dissenting"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "customary law / family property dispute",
+  "citations": [
+    "Hansen v Ankrah",
+    "[1989-90] VOL. XVII RGL 361\u000369"
+  ],
+  "rationaleHighlights": [
+    "Head of family immune from court-ordered accounting while in office, per majority",
+    "Duty to account exists at family meetings, enforceable by removal",
+    "Judicial creation of customary law involves policy, not mere recognition",
+    "No wrong should be without remedy, per dissent",
+    "Autonomy of family and continuity in law favored by majority",
+    "Supreme Court may depart from precedent when constitutionally justified"
+  ],
+  "confidenceNotes": "The document is a legal commentary on a Supreme Court decision rather than the full judgment; details are derived from the author's analysis. The case outcome is clear, but some specifics (e.g., exact verdict wording) are inferred.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/89 - 90/THE HEAD OF FAMILY IMMUNITY PRINCIPLE THE SUPREME COURT PROP.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:52:43.189Z",
+    "plainTextLength": 28094
+  }
+}

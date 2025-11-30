@@ -1,0 +1,69 @@
+{
+  "caseTitle": "GERTRUDE SHARON PERLINGER",
+  "summary": "This appeal arose from a dispute between Gertrude Sharon Perlinger (respondent) and The Coca Cola Bottling Company (appellant) over the supply of 43 crates of soft drinks, some of which contained foreign particles. The plaintiff, who operated a restaurant, claimed damages after customers reported unwholesome drinks, leading to loss of patronage. The defendant replaced the remaining 23 unsold crates after seven months and offered GHc2,200 in compensation, which was rejected. The trial court awarded GHc18,000 as nominal damages for negligence, despite the plaintiff's claim being grounded in contract. The Court of Appeal held that the case fell under the Sale of Goods Act, 1962 (Act 137), not negligence, as the plaintiff was a buyer, not an injured consumer. The court found no duty of care owed to the plaintiff and no bodily injury, thus reversing the negligence finding. It also ruled that the damages award lacked justification since the defective goods were replaced. The appeal was allowed, and the trial court's judgment set aside.",
+  "legalKeywords": [
+    "negligence",
+    "breach of contract",
+    "Sale of Goods Act 1962 (Act 137)",
+    "duty of care",
+    "nominal damages",
+    "special damages",
+    "consumer protection",
+    "product liability",
+    "pleadings",
+    "real issue between parties"
+  ],
+  "topics": [
+    "Contract Law",
+    "Tort Law",
+    "Consumer Rights",
+    "Product Liability",
+    "Civil Procedure"
+  ],
+  "verdict": "Appeal allowed. The trial court's judgment based on negligence is set aside. No damages awarded as the claim was contractual and the defective goods were replaced.",
+  "winningSide": "Appellant (The Coca Cola Bottling Company)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Yaw Appau",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Asare-Korang",
+      "role": "Justice"
+    },
+    {
+      "name": "Dordzrie",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Donogue v Stevenson [1932] AC 562 - HL",
+    "DAM v ADDO [1962] GLR 200",
+    "GIHOC v HANNA ASSI (No 2) [2007-2008] SCGLR 17",
+    "BISI v TABIRI [1984-86] 2GLR 282",
+    "STANDARD CHARTERED BANK v NELSON [1989-99] SCGLR 812",
+    "VANDERPUYE v BOTCHWAY [1957] 2 WALR 16",
+    "AKATI v NARTEY [1980] GLR 218",
+    "BENYI v AMO [1959] GLR 92"
+  ],
+  "rationaleHighlights": [
+    "The trial court erred in awarding damages for negligence when the claim was rooted in contract, not tort.",
+    "The plaintiff, as a buyer and not a consumer, could not establish the elements of negligence (duty, breach, injury).",
+    "The real issue was fitness for purpose under the Sale of Goods Act, not personal injury from defective products.",
+    "The award of GHc18,000 as nominal damages lacked evidentiary or legal basis given the replacement of contaminated goods.",
+    "Courts must look at the substance of the claim, not just the form of pleadings, per Vanderpuye v Botchway."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judgment text and clear legal reasoning. Some case names and citations appear with minor formatting inconsistencies but are verifiable in Ghanaian legal databases.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/GERTRUDE SHARON PERLINGER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:31:09.557Z",
+    "plainTextLength": 23587
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "caseTitle": "GANIYU ANINSON MUSTAPHA v. NATIONAL INVESTMENT BANK LTD",
+  "summary": "This Court of Appeal decision from 29th May 2003 concerns an interlocutory appeal by Ganiyu Aninson Mustapha against the High Court's refusal to grant summary judgment in his claim against National Investment Bank Ltd for US$10,000 in alleged unpaid overseas per diem allowance. The Court dismissed the appeal, holding that the appellant failed to comply with Order 14 Rules 1 and 2 of the High Court (Civil Procedure) Rules, as he did not provide sufficient factual basis in his affidavit to demonstrate that the defendant had no defence. The Court emphasized that merely stating there is no defence is insufficient without supporting facts. Additionally, the appellant had previously filed a similar claim in 1997 (Suit No. C.753/97), which he unilaterally withdrew after a summons for directions, in violation of Order 26(2), which requires mutual written consent for withdrawal after trial preparation. As a result, the earlier suit remained pending, rendering the current action an abuse of court process.",
+  "legalKeywords": [
+    "summary judgment",
+    "Order 14",
+    "abuse of process",
+    "procedural compliance",
+    "affidavit requirements",
+    "limitation of actions",
+    "unilateral withdrawal",
+    "Order 26",
+    "civil procedure rules",
+    "pending suit",
+    "right of action",
+    "speculative judgment",
+    "per diem allowance",
+    "employment claim",
+    "procedural infraction"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Summary Judgment",
+    "Abuse of Court Process",
+    "Employment Law",
+    "Limitation of Actions"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "S. K. Asiama",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "P. K. Owusu-Ansah",
+      "role": "Justice of Appeal (Presiding)"
+    },
+    {
+      "name": "R. T. Aninakwah",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "GANIYU ANINSON MUSTAPHA v. NATIONAL INVESTMENT BANK LTD [29/5/2003] CA/NO. 103/2002",
+    "Order 14 Rules 1 & 2, High Court (Civil Procedure) Rules, 1954 (LN 140A)",
+    "Order 26(2), High Court (Civil Procedure) Rules, 1954 (LN 140A)"
+  ],
+  "rationaleHighlights": [
+    "Appellant failed to provide factual basis in affidavit as required under Order 14 Rule 2(1)",
+    "Merely stating the defendant has no defence is insufficient for summary judgment",
+    "Court cannot speculate on when right of action accrued or limitation issues",
+    "Prior suit (C.753/97) was not validly withdrawn due to non-compliance with Order 26(2)",
+    "Unilateral withdrawal after summons for directions is procedurally invalid",
+    "Pending status of earlier suit renders current action an abuse of process"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official court judgment text. All procedural references and holdings are explicitly stated in the decision.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/GANIYU ANINSON MUSTAPHA v. NATIONAL INVESTMENT BANK LTD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:32:24.590Z",
+    "plainTextLength": 5131
+  },
+  "trialDate": "2003-05-29"
+}

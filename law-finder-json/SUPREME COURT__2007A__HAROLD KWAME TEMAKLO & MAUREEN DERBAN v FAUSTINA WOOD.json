@@ -1,0 +1,71 @@
+{
+  "caseTitle": "HAROLD KWAME TEMAKLO & MAUREEN DERBAN v FAUSTINA WOOD",
+  "summary": "In this Ghanaian property dispute, the Supreme Court upheld the Court of Appeal's decision reversing the High Court's grant of ownership to Faustina Wood, the mother of the deceased Sylvia Garshong. The property at issue was purchased in Sylvia's name and remained registered under her name until after her death. The Plaintiffs, Sylvia's children, sought a declaration that the property devolved to them under the Intestate Succession Law, PNDCL 111, and an order compelling the co-administratrix (Madam Wood) to execute a vesting assent. The High Court had ruled in favor of Madam Wood, accepting her claim that she financed the purchase. However, the Court of Appeal reversed this, finding that the legal presumption under NRCD 323, s 35—that the legal owner is also the beneficial owner—had not been rebutted. The Supreme Court affirmed this, holding that the Defendant failed to provide sufficient evidence to prove on a balance of probabilities that she was the true purchaser. The trial judge's reliance on speculation about Sylvia's financial capacity was deemed inadequate to overcome the statutory presumption. Thus, the property rightfully belonged to Sylvia's estate and devolved to her children.",
+  "legalKeywords": [
+    "intestate succession",
+    "beneficial ownership",
+    "legal title",
+    "rebuttable presumption",
+    "evidence",
+    "letters of administration",
+    "vesting assent",
+    "property rights",
+    "trust",
+    "burden of proof"
+  ],
+  "topics": [
+    "Property Law",
+    "Succession Law",
+    "Evidence Law",
+    "Trusts",
+    "Civil Appeals"
+  ],
+  "verdict": "The appeal was dismissed; the decision of the Court of Appeal was upheld, affirming that the property belonged to the estate of Sylvia Garshong and devolved to her children.",
+  "winningSide": "Respondents (Harold Kwame Temaklo and Maureen Derban)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sophia A. B. Akuffo",
+      "role": "Presiding"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "Dr. Twum",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Aninakwa",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "PNDCL 111",
+    "NRCD 323"
+  ],
+  "rationaleHighlights": [
+    "Legal ownership in the name of Sylvia created a rebuttable presumption of beneficial ownership under NRCD 323, s 35.",
+    "Defendant failed to meet the burden of proving that she financed the property purchase.",
+    "Court of Appeal correctly relied on documentary evidence showing Sylvia's employment and income.",
+    "Speculation by trial judge about Sylvia's financial capacity was insufficient to rebut legal presumption.",
+    "Supreme Court upheld Court of Appeal's reversal of High Court decision."
+  ],
+  "confidenceNotes": "The case summary is based on a truncated document; however, all key legal reasoning and outcomes are present in the provided text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2007A/HAROLD KWAME TEMAKLO & MAUREEN DERBAN v FAUSTINA WOOD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:20:03.358Z",
+    "plainTextLength": 19565
+  }
+}

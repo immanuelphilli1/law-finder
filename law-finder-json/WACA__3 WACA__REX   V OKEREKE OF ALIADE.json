@@ -1,0 +1,64 @@
+{
+  "caseTitle": "REX V OKEREKE OF ALIADE",
+  "summary": "The West Africa Court of Appeal heard an appeal against sentences imposed on two appellants, Okereke and Obassi of Alia, who were convicted of possessing and attempting to utter counterfeit coins in the Northern Provinces. Both were originally sentenced to three years of hard labour (LH.L.) by the High Court of Kaduna Division. The appellate court found the sentences not excessive and, considering that the appellants originated from the Southern Provinces—a region where counterfeiting is widespread—deemed it necessary to enhance the sentences to deter the spread of such crimes into the Northern Provinces. The Crown had requested harsher penalties. The court quashed the original sentences and increased them to four years of hard labour for each appellant, to run from the date of conviction.",
+  "legalKeywords": [
+    "appeal against sentence",
+    "counterfeit coins",
+    "uttering counterfeit currency",
+    "sentence enhancement",
+    "tribal origin",
+    "regional crime prevalence",
+    "Northern and Southern Provinces",
+    "LH.L. sentence",
+    "criminal sentencing",
+    "judicial discretion"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Sentencing",
+    "Appeal",
+    "Counterfeiting",
+    "Judicial Deterrence"
+  ],
+  "verdict": "Sentences enhanced from three to four years of hard labour for both appellants.",
+  "winningSide": "Crown (Respondent)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "WACA/3 WACA/REX V OKEREKE OF ALIADE"
+  ],
+  "rationaleHighlights": [
+    "Sentences were not too severe but needed enhancement to deter crime",
+    "Appellants caught with only counterfeit coins, no genuine ones",
+    "Origin from a tribe in Southern Provinces where counterfeiting is common",
+    "Intent to utter in Northern Provinces where such crime is less prevalent",
+    "Judicial intent to prevent spread of counterfeiting",
+    "Enhanced from 3 to 4 years LH.L. for deterrence"
+  ],
+  "confidenceNotes": "The document is a clear appellate judgment from the West Africa Court of Appeal, with identifiable parties, judges, and reasoning. All key elements are present for accurate extraction.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/REX   V OKEREKE OF ALIADE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:16:25.208Z",
+    "plainTextLength": 2268
+  },
+  "trialDate": "1936-01-11"
+}

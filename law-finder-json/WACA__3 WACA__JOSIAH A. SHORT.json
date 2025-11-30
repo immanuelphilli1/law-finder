@@ -1,0 +1,77 @@
+{
+  "caseTitle": "JOSIAH A. SHORT",
+  "summary": "The case involves Josiah A. Short, a licensed druggist in Sierra Leone, charged with failing to maintain a register of dangerous drugs as required under the Dangerous Drugs Rules, 1929. The Police Magistrate discharged him at the close of the prosecution's case, ruling no prima facie case was established. The Attorney-General appealed to the Supreme Court, which directed conviction. On further appeal to the West African Court of Appeal, the direction to convict was set aside. The appellate court held that while the prosecution had made out a prima facie case—based on Short's status as a licensed druggist, his purchase of dangerous drugs for dispensing, prior maintenance of a register, and unaccounted use of the drugs—the Magistrate erred in discharging him without requiring a defence. The case was remitted for full hearing of the defence.",
+  "legalKeywords": [
+    "prima facie case",
+    "dangerous drugs",
+    "licensed druggist",
+    "drug register",
+    "failure to record",
+    "supply of drugs",
+    "dispensing drugs",
+    "regulatory compliance",
+    "criminal charge",
+    "appellate review",
+    "judicial error",
+    "evidentiary standard",
+    "statutory interpretation",
+    "public health regulation",
+    "legal discharge",
+    "prosecution burden",
+    "judicial remittal",
+    "regulatory offence",
+    "personal use defence",
+    "court direction"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Drug Regulation",
+    "Appellate Procedure",
+    "Statutory Interpretation",
+    "Professional Licensing"
+  ],
+  "verdict": "Appeal allowed in part",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Sierra Leone"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Dangerous Drugs Rules, 1929, rule 10(c)",
+    "Dangerous Drugs Ordinance, 1926, Ordinance No. 10 of 1926"
+  ],
+  "rationaleHighlights": [
+    "The phrase 'every person who supplies' includes those carrying on the business of supplying, not just actual suppliers.",
+    "A licensed druggist purchasing dangerous drugs for dispensing is prima facie a supplier under the rules.",
+    "Failure to produce a register and unaccounted use of large quantities supports a prima facie case.",
+    "The prosecution need not prove actual supply to trigger record-keeping duties.",
+    "A magistrate must call for a defence if a prima facie case exists.",
+    "Directing conviction without hearing defence violates fair trial principles.",
+    "The Supreme Court overstepped by ordering conviction pre-trial.",
+    "The appeal court remitted the case for proper trial on merits."
+  ],
+  "confidenceNotes": "High confidence; all information is directly derived from the judgment text, with clear factual and legal reasoning provided by the court.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/JOSIAH A. SHORT.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:21:36.749Z",
+    "plainTextLength": 7593
+  },
+  "trialDate": "1937-03-19"
+}

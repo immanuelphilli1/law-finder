@@ -1,0 +1,73 @@
+{
+  "caseTitle": "A. D. YASKEY",
+  "summary": "The plaintiff-appellant sought leave to appeal against a judgment of the Supreme Court of Sierra Leone and requested permission to proceed in forma pauperis. The West African Court of Appeal held that it had the discretionary power under Section 6A of the West African Court of Appeal (Civil Cases) Ordinance, 1929, to entertain appeals on any terms, including waiving fees. However, following the precedent in Kydd v. Liverpool Watch Committee, the Court ruled that the applicant's monthly pension of £2 10s. must be considered part of his means, disqualifying him from in forma pauperis status as he did not meet the financial threshold. While the full relief was denied, the Court exercised its discretion under Rule 31 to waive court fees and required security of 25 guineas for respondent's costs. The decision underscores the importance of comprehensive means assessment in pauperism applications and the Court’s equitable powers in civil procedure.",
+  "legalKeywords": [
+    "in forma pauperis",
+    "appeal",
+    "pension",
+    "means assessment",
+    "leave to appeal",
+    "court fees",
+    "security for costs",
+    "West African Court of Appeal",
+    "civil procedure",
+    "judicial discretion",
+    "affidavit",
+    "costs",
+    "Rule 30",
+    "Section 6A",
+    "Supreme Court of Sierra Leone"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Appellate Law",
+    "Legal Aid",
+    "Judicial Discretion",
+    "Costs and Fees"
+  ],
+  "verdict": "Application for in forma pauperis denied, but court fees waived and leave to appeal granted subject to conditions including security for costs.",
+  "winningSide": "Defendants-Respondents (partial procedural victory; appeal allowed but with financial safeguards)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Macquarrie",
+      "role": "Acting Chief Justice, Sierra Leone"
+    },
+    {
+      "name": "Berkeley",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Kydd v. Liverpool Watch Committee, 24 T.L.R. 257",
+    "West African Court of Appeal (Civil Cases) Ordinance, 1929, s 6A",
+    "West African Court of Appeal Rules, 1929, r 8",
+    "West African Court of Appeal Rules, 1929, r 30",
+    "West African Court of Appeal Rules, 1929, r 31",
+    "Order 16 rule 22, Rules of the English Supreme Court"
+  ],
+  "rationaleHighlights": [
+    "The Court held it had discretion under s 6A of the West African Court of Appeal (Civil Cases) Ordinance, 1929, to entertain appeals on any terms.",
+    "A pension received by an applicant must be included in assessing financial means for in forma pauperis.",
+    "The applicant’s monthly pension of £2 10s. disqualified him from in forma pauperis status under precedent from Kydd v. Liverpool Watch Committee.",
+    "Although full in forma pauperis was denied, the Court used its discretion to waive court fees under Rule 31.",
+    "The Court emphasized that Rule 30 allows application of prior practice where Rules are silent."
+  ],
+  "confidenceNotes": "High confidence; source is a verbatim court judgment with clear procedural and legal reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/A. D. YASKEY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:53:18.296Z",
+    "plainTextLength": 7141
+  },
+  "trialDate": "0th October 1932"
+}

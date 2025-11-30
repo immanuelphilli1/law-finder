@@ -1,0 +1,69 @@
+{
+  "caseTitle": "SUB MATTER UCSUGC",
+  "summary": "This document compiles summaries of unreported Ghanaian legal cases from 2000–2010, primarily heard by the Supreme Court and Court of Appeal. Key issues include estate administration disputes where res judicata barred relitigation of prior rulings on family entitlement to administer estates. Other cases involve contractual disputes over dealership agreements and property sales, with courts assessing claims for specific performance, wrongful termination, and interpretation of agreements. Administrative law principles were applied in a case involving abuse of judicial process, where the High Court's jurisdiction was challenged post-judgment. Additionally, a military case addressed charges of striking a superior officer and conduct prejudicial to discipline. Procedural aspects such as caveats in estate matters, garnishee proceedings for judgment debts, and the admissibility of party-witnesses were also examined.",
+  "legalKeywords": [
+    "res judicata",
+    "letters of administration",
+    "estate administration",
+    "caveat",
+    "abuse of process",
+    "specific performance",
+    "contract interpretation",
+    "dealership agreement",
+    "wrongful termination",
+    "judicial review",
+    "interest on judgment debt",
+    "court martial",
+    "military discipline",
+    "banking law",
+    "property sale agreement"
+  ],
+  "topics": [
+    "Estate Administration",
+    "Contract Law",
+    "Administrative Law",
+    "Banking Law",
+    "Military Law"
+  ],
+  "verdict": "Varied by case: some appeals dismissed, others partially allowed; trial court decisions upheld or set aside based on legal principles like res judicata, abuse of process, and proper contract interpretation.",
+  "winningSide": "Depends on case: in res judicata matter, respondent prevailed; in dealership termination, plaintiff awarded partial damages; in abuse of process, application dismissed at lower court but under supervisory review.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Torkornoo J."
+    },
+    {
+      "name": "Victor Ofoe J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "ASHIE NEEQUAYE v ADEE KOTEY CIIVIL APPEAL J4/26/2009 10TH FEBRUARY, 2010",
+    "FLORENCE NAADU LARTEY & 3 ORS. v. ABBAN OTOO [21/02/01] C.A. NO. 15/98",
+    "MARY TETTERLEY BILL & 5 ORS AND ROBERT ALEXANDER ATTUGUAYE COLLEY v EMMANUEL ABEKA BIL CIVIL APPEAL NO.J4/7/2004 28TH JUNE, 2006",
+    "THE REPUBLIC v THE HIGH COURT (COMMERCIAL DIVISION) ACCRA EX PARTE THE TRUST BANK LTD AMPOMAH PHOTO LAB LTD & 3 ORS SUIT NO J5/23/2008 12th November 2008",
+    "FRABINA LIMITED, SHELL SERVICE STATION VRS SHELL GHANA LIMITED CIVIL APPEAL NO. J4/31/2009 11TH AUGUST, 2010",
+    "TETTEH AYAA IDDRISU VRS WINFRED OTUAFRO ARYEH TENMOTE AKAKPO CIVIL APPEAL NO.J4/21/2009 5TH MAY, 2010",
+    "DON ACKAH VRS PERGAH TRANSPORT LIMITED BERTHA BADOE SG-SSB CIVIL APPEAL NO. J4/5/2009 21ST APRIL, 2010",
+    "SISMEN NIXON TETTEH VRS THE REPUBLIC CA NO. 3/99 11TH APRIL, 2002",
+    "NOVA COM [TRUNCATED]"
+  ],
+  "rationaleHighlights": [
+    "Res judicata bars relitigation of matters previously decided by a competent court.",
+    "A party may testify as a witness unless legally incompetent.",
+    "High Court retains jurisdiction unless functus officio; cannot re-litigate final judgments of co-ordinate courts.",
+    "Damages for wrongful termination must reflect actual loss and contractual expectations."
+  ],
+  "confidenceNotes": "Multiple case summaries are included in the source document, but full details for some cases are missing due to truncation. Citations and summaries are based on available text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/SUB MATTER UCSUGC.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:47:21.320Z",
+    "plainTextLength": 436168
+  },
+  "trialDate": "2005-07-20"
+}

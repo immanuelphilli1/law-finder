@@ -1,0 +1,80 @@
+{
+  "caseTitle": "PHILIP DIM v THE QUEEN",
+  "summary": "The appellant, Philip Dim, was convicted of murdering his wife by attacking her with a pickaxe-head in the early hours of the morning. He claimed a 'black-out' due to mental illness, asserting he had no memory of the event. The trial judge rejected this defence, finding no supporting medical or testimonial evidence. On appeal, it was argued that the prosecution failed to prove intent, that the judge misdirected himself on the insanity defence, and that the Crown should have led medical evidence on sanity. The West African Court of Appeal dismissed the appeal, holding that intent to murder could be inferred from the violent act, that the burden of proving insanity lies with the defence under Section 27 of the Criminal Code, and that the trial judge was correct in requiring credible evidence to support the 'black-out' claim, which was absent.",
+  "legalKeywords": [
+    "intent to murder",
+    "insanity defence",
+    "black-out",
+    "burden of proof",
+    "mental disease",
+    "criminal responsibility",
+    "presumption of sanity",
+    "section 27 Criminal Code",
+    "section 28 Criminal Code",
+    "natural and probable consequences",
+    "medical evidence",
+    "trial judge misdirection",
+    "Crown not calling evidence",
+    "defence onus",
+    "unreasonable verdict",
+    "motive in murder",
+    "judicial discretion",
+    "appellate review",
+    "West African Court of Appeal",
+    "rejection of alibi",
+    "credibility of accused"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Mental Health and Law",
+    "Appellate Procedure",
+    "Burden of Proof",
+    "Murder Trial"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "The Queen",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Jibowu",
+      "role": "Ag. S.P.J. (Nigeria)"
+    },
+    {
+      "name": "De Comarmond",
+      "role": "Ag. C.J. (Nigeria)"
+    },
+    {
+      "name": "Johnston",
+      "role": "J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Nigeria",
+    "country": "Ghana (under applicable colonial-era law)"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "R. v. Fred de Vere, 2 Cr. A.H. 20",
+    "R. v. Oliver Smith, 6 Cr. A.R. 20",
+    "R. v. Casey, 32 Cr. A.R. 81",
+    "Section 27, Criminal Code",
+    "Section 28, Criminal Code"
+  ],
+  "rationaleHighlights": [
+    "Intent to murder inferred from the use of a lethal weapon in a violent attack",
+    "Presumption of sanity under Section 27 places burden on the accused to prove insanity",
+    "Defence of 'black-out' unsupported by medical or corroborative evidence",
+    "No duty on prosecution to call medical evidence on sanity",
+    "Trial judge justified in disbelieving uncorroborated testimony of accused",
+    "Absence of motive does not equate to insanity",
+    "Appellate court upheld trial judge's credibility assessment",
+    "Fear that 'black-out' defence could be easily feigned without strict evidentiary standards"
+  ],
+  "confidenceNotes": "The decision is confidently reconstructed from the provided text, which appears to be a digitized version of a colonial-era West African Court of Appeal judgment. While the jurisdiction references Nigeria, the inclusion of 'WACA/14 WAC' and the source domain suggest relevance to Ghana's legal history under the shared West African judicial system. All legal principles and citations are directly extracted from the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/PHILIP DIM   v   THE QUEEN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:33:10.452Z",
+    "plainTextLength": 15232
+  }
+}

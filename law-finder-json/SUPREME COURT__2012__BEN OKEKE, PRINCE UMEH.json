@@ -1,0 +1,86 @@
+{
+  "caseTitle": "BEN OKEKE, PRINCE UMEH",
+  "summary": "The appellants, Ben Okeke, Prince Umeh, and Joshua Chuku, were convicted in the Sekondi High Court of conspiracy to commit robbery and robbery under sections 23(1) and 149 of Act 29, and sentenced to 25 years imprisonment on each count, to run concurrently. The Court of Appeal affirmed the conviction and sentence. The appellants appealed to the Supreme Court, raising grounds including non-compliance with sections 187 and 188 of the Criminal and Other Offences (Procedure) Act, 1960 (Act 30), improper amendment of the indictment, misdirection on alibi, failure to take pleas on count 3, error in assessing the time factor between two robberies, and misdirection on reasonable doubt. The Supreme Court found no substantial miscarriage of justice from alleged procedural lapses at committal, noting that statutory statements were taken and considered. The amendment to the indictment was permissible under section 232(1) of Act 30 and no injustice was demonstrated. The court held that the trial judge did not misdirect the jury on alibi or reasonable doubt, and the appellants' failure to give formal alibi notice did not invalidate the trial. The appeal was dismissed.",
+  "legalKeywords": [
+    "robbery",
+    "conspiracy to commit robbery",
+    "alibi",
+    "indictment amendment",
+    "committal proceedings",
+    "section 187 Act 30",
+    "section 131 Act 30",
+    "reasonable doubt",
+    "miscarriage of justice",
+    "criminal procedure",
+    "jury direction",
+    "appellate review",
+    "evidence admissibility",
+    "procedural irregularity",
+    "substantial injustice"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Trial Procedure",
+    "Evidence Law",
+    "Procedural Fairness"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent (The Republic)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Sophia A. B. Akuffo",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Adinyira",
+      "role": "Justice"
+    },
+    {
+      "name": "Owusu",
+      "role": "Justice"
+    },
+    {
+      "name": "Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebo",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Section 23(1) and 149, Act 29",
+    "Section 187, Criminal and Other Offences (Procedure) Act, 1960 (Act 30)",
+    "Section 188, Act 30",
+    "Section 131, Act 30",
+    "Section 232(1), Act 30",
+    "Section 406(1), Act 30",
+    "State v Bisa [1965] GLR 389",
+    "Kwakye v The State [1965] GLR 647",
+    "State v Director of Prisons; Ex Parte Schumann [1966] GLR 703",
+    "Afwireng v The Republic [1972] 1 GLR 270"
+  ],
+  "rationaleHighlights": [
+    "No substantial miscarriage of justice arose from alleged non-compliance with section 187 and 188 of Act 30, as statutory statements were taken and the committal court found sufficient evidence.",
+    "Amendment of the indictment was lawful under section 232(1) of Act 30, and no injustice was demonstrated by the appellants.",
+    "The trial court did not misdirect the jury on alibi; the appellants failed to give formal notice as required by section 131 of Act 30.",
+    "The failure to take pleas on count 3 was not fatal, as the appellants were properly arraigned and the record supports conviction on the charges proved.",
+    "The time factor between the two robberies was adequately considered and did not undermine the prosecution's case.",
+    "The trial judge's summing up was not flawed, and no misdirection on 'reasonable doubt' occurred.",
+    "Evidence supported the conclusion that the appellants were present at both crime scenes, and alibi defence was not properly raised or substantiated."
+  ],
+  "confidenceNotes": "High confidence; all key facts, legal provisions, and judicial reasoning are explicitly stated in the provided text. The judgment is complete in its reasoning, though the original document was truncated, the core holdings and analysis are intact.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/BEN OKEKE, PRINCE UMEH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:39:44.516Z",
+    "plainTextLength": 26078
+  }
+}

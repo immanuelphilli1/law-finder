@@ -1,0 +1,64 @@
+{
+  "caseTitle": "REGINA VERSUS JAGNE AND N'JIE.",
+  "summary": "In Regina v. Jagne and N'Jie, the first accused, Abdoulie Amadou Jagne, a public servant and accounting officer, was charged with stealing a gross sum of \u00023,230 14s. 0d. over several months, while the second accused, Ebrima N'Jie, was charged with aiding and abetting the theft and with a separate count of theft. The court held that under Section 158 of the Criminal Procedure Code, a charge of theft against a public servant may allege a general deficiency without specifying individual misappropriations, provided the aggregate sum and time frame are clear. The evidence showed Jagne maintained cash balances far exceeding his operational needs—reaching over \u000210,000—without justification, and failed to make daily cash statements or enter receipts promptly, indicating systematic misappropriation. The staged incident on May 1, 1956, where N'Jie was caught taking money from the safe, was found to be a fabrication to explain the deficiency. The court ruled that N'Jie could not be convicted as an abettor because his involvement occurred after the theft was complete, making him an accessory after the fact, a distinct offense requiring a separate charge under s.155, which was not laid. Thus, the charge of aiding and abetting failed. The judgment clarifies the limits of joint liability and the procedural validity of aggregate theft charges in public office cases.",
+  "legalKeywords": [
+    "theft",
+    "accessory after the fact",
+    "aiding and abetting",
+    "public servant",
+    "general deficiency",
+    "Criminal Procedure Code",
+    "misappropriation",
+    "fabrication of evidence",
+    "cash book irregularities",
+    "daily cash balance",
+    "Financial Instructions",
+    "criminal charge validity",
+    "conviction requirements",
+    "section 158",
+    "section 155"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Theft",
+    "Accessory After the Fact",
+    "Public Servant Misconduct",
+    "Criminal Procedure"
+  ],
+  "verdict": "The first accused was properly charged and could be convicted of theft based on a general deficiency. The second accused could not be convicted of aiding and abetting as the involvement was post-offense; the charge was defective and required reclassification as accessory after the fact.",
+  "winningSide": "First accused's conviction upheld on proper charge; second accused's aiding and abetting charge dismissed due to legal mischaracterization.",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Miles C.J.",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court of the Protectorate of Gambia",
+    "country": "Gambia"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Tomlin [1954] 2 All E.R. 272",
+    "R. v. Levy [1912] 1 K.B. 158",
+    "Criminal Procedure Code, c. 23, s. 158",
+    "Criminal Procedure Code, c. 23, s. 155",
+    "Criminal Code, c. 21, ss. 252 and 257",
+    "Criminal Code, c. 23, s. 252"
+  ],
+  "rationaleHighlights": [
+    "Section 158 permits charging a public servant with a gross sum in theft cases without specifying individual transactions when tracing is impracticable.",
+    "A person who assists after the commission of theft is an accessory after the fact, not a principal or abettor, and cannot be convicted under s.155 unless charged accordingly.",
+    "The staged theft by the second accused was deemed a fabrication to conceal the prior misappropriation by the first accused.",
+    "Excessive cash balances held by the accused, far beyond operational needs, supported inference of theft.",
+    "Failure to maintain daily cash statements and delayed entries in cash book indicated deliberate concealment."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment with clear textual support.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/REGINA v. JAGNE AND N'JIE..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:24:21.983Z",
+    "plainTextLength": 39436
+  }
+}

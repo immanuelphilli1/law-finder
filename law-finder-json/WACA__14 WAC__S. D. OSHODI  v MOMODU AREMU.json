@@ -1,0 +1,68 @@
+{
+  "caseTitle": "S. D. OSHODI v MOMODU AREMU",
+  "summary": "This 1952 West African Court of Appeal decision arose from a dispute over ownership of land compulsorily acquired by the Lagos Executive Development Board. The appellant, S. D. Oshodi, claimed ownership through a 1940 auction purchase at a judicial sale following a debt judgment against members of the Oloto family. The respondent, Momodu Aremu, claimed title through a chain of assignments originating from a purported 1928 gift of the family land by the then Chief Oloto to Bakare Oseru, a family member. The trial court favored the respondent, but the appellate court reversed, holding that the respondent failed to prove that Lagos native law and custom permitted a chief to unilaterally gift family land to a member without family concurrence. Absent such proof, and with no possession taken by any party in the respondent's chain, the court held the appellant acquired valid title through the judicial sale. The appeal was allowed, costs awarded, and judgment entered for the appellant.",
+  "legalKeywords": [
+    "native law and custom",
+    "family land",
+    "gift inter vivos",
+    "Chief Oloto",
+    "Lagos customary law",
+    "title to land",
+    "judicial sale",
+    "certificate of purchase",
+    "voidable alienation",
+    "concurrence requirement",
+    "burden of proof",
+    "compulsory acquisition",
+    "West African Court of Appeal",
+    "customary land tenure"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Appellate Decision",
+    "Property Rights",
+    "Judicial Sale"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Foster-Sutton",
+      "role": "President"
+    },
+    {
+      "name": "de Comarmond",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Coussey",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Nigeria"
+  },
+  "caseType": "Land Title Dispute",
+  "citations": [
+    "Kwansi Manko and ors. v. Bonso and ors., 3 W.A.C.A. 62"
+  ],
+  "rationaleHighlights": [
+    "The burden was on the respondent to prove that Lagos native law permits a chief to gift family land without family concurrence.",
+    "No evidence or authority was presented to establish such a custom.",
+    "The alleged 1928 gift lacked proof of family concurrence or possession by the donee or successors.",
+    "The judicial sale conveyed whatever interest the judgment debtors (family representatives) held.",
+    "Absence of possession and corroboration undermined the respondent's claim.",
+    "The precedent cited (Kwansi Manko) was distinguishable due to differences in transaction structure and possession."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; the judgment is clear on the reversal of the lower court's decision and the legal reasoning based on burden of proof and customary law. Jurisdictional context is Nigeria under the West African Court of Appeal, though the legal principles may inform Ghanaian customary law.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/S. D. OSHODI  v MOMODU AREMU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:31:32.058Z",
+    "plainTextLength": 9287
+  },
+  "trialDate": "1952-05-15"
+}

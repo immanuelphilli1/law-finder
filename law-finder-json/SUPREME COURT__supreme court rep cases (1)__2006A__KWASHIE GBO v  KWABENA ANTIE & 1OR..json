@@ -1,0 +1,87 @@
+{
+  "caseTitle": "KWASHIE GBO v KWABENA ANTIE & 1OR.",
+  "summary": "This Supreme Court of Ghana decision arose from a long-standing property dispute over House No. 270/9, Accra New Town, originally owned by the respondent, Kwashie Gbo. After the property was sold at public auction in 1987 to Odartey Lamptey, he allegedly sold it back to the respondent using funds contributed by the appellants. The core issue was whether the transaction between the parties constituted a pledge (with the respondent retaining ownership pending repayment) or an outright sale to the second appellant. The trial and appellate courts found in favor of the respondent, characterizing the arrangement as a pledge. The appellants appealed, challenging the admissibility of key documents (Exhibits R1 and R2) due to stamping irregularities and the failure to consider improvements they made to the property. The Supreme Court held that Exhibit R2, though stamped years after execution, was a conveyance under NRCD 175 and properly bore an impressed stamp, rejecting the lower courts' reasoning based on receipt classification under Act 311. However, the Court ultimately upheld the judgment for the respondent, finding insufficient evidence that the transaction was a sale. It also ruled that improvements made by the appellants did not confer ownership rights under the circumstances.",
+  "legalKeywords": [
+    "stamp duty",
+    "conveyance",
+    "receipt",
+    "impressed stamp",
+    "adhesive stamp",
+    "statutory interpretation",
+    "ejusdem generis",
+    "instrument classification",
+    "property transfer",
+    "pledge vs sale",
+    "jurat",
+    "land transaction",
+    "rent accounting",
+    "improvements to property",
+    "burden of proof",
+    "evidence admissibility",
+    "Court of Appeal error",
+    "Supreme Court review",
+    "property redemption",
+    "original owner rights"
+  ],
+  "topics": [
+    "Property Law",
+    "Stamp Duty",
+    "Document Admissibility",
+    "Statutory Interpretation",
+    "Conveyancing"
+  ],
+  "verdict": "The appeal was dismissed. The Supreme Court upheld the lower courts' decision that the transaction was a pledge, not a sale, and affirmed the respondent's right to recover possession and seek an account of rents.",
+  "winningSide": "Respondent (Kwashie Gbo)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Wood (Mrs). J.S.C.",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "Acquah, C.J.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Dr. Twum, J.S.C."
+    },
+    {
+      "name": "Ansa, J.S.C."
+    },
+    {
+      "name": "Aninawah, J.S.C."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Act 311",
+    "NRCD 175",
+    "S. 46 of Act 311",
+    "S. 47 of Act 311",
+    "S. 32 of Act 311",
+    "S. 16 of Act 311",
+    "S. 4 of Interpretation Act, 1960 (Act 4)"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court found that Exhibit R2 bears an impressed stamp, contradicting the Court of Appeal's factual finding and warranting intervention.",
+    "The nature of a document must be determined by reading it as a whole, not piecemeal, to classify it as a receipt or conveyance under Act 311.",
+    "Headings in statutes, though not part of the law, serve as interpretative aids in Ghanaian jurisprudence.",
+    "A document containing a payment acknowledgment does not automatically become a 'receipt' if its primary purpose is conveyance.",
+    "The trial court erred in requiring an adhesive stamp; impressed stamps are appropriate for conveyances under NRCD 175.",
+    "The Appellants failed to prove the transaction was an outright sale rather than a pledge.",
+    "The Court emphasized adherence to statutory definitions within the relevant Act rather than importing definitions from other sources.",
+    "Improvements made by Appellants did not alter ownership where the underlying transaction was deemed a pledge."
+  ],
+  "confidenceNotes": "The document is truncated but contains sufficient information for accurate extraction of key legal elements, including jurisdiction, judges, issues, and reasoning. Citations are drawn directly from statutory references in the judgment.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2006A/KWASHIE GBO v  KWABENA ANTIE & 1OR..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T18:03:03.752Z",
+    "plainTextLength": 33548
+  },
+  "trialDate": "2005-10-04"
+}

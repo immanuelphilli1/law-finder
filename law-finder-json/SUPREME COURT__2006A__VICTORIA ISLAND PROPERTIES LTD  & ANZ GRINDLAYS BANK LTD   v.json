@@ -1,0 +1,77 @@
+{
+  "caseTitle": "VICTORIA ISLAND PROPERTIES LTD & ANZ GRINDLAYS BANK LTD v",
+  "summary": "This Supreme Court of Ghana case, Victoria Island Properties Ltd & ANZ Grindlays Bank Ltd v Standard Chartered Bank Ghana Ltd & E.O. Effiong, concerns an appeal by Standard Chartered Bank (Appellant) against a Court of Appeal judgment holding it liable for the loss of US$82,000 fraudulently transferred from the Plaintiffs’ account. The fraud was executed by the second defendant, E.O. Effiong, who impersonated an officer and directed the transfer to a fictitious account. The Appellant bank paid out the funds despite the recipient having no foreign currency account. The Plaintiffs alleged negligence and conspiracy. The Supreme Court upheld the lower courts' findings of negligence under Section 81 of the Bills of Exchange Act, 1961 (Act 55), rejecting the Appellant’s argument that liability should fall on the co-plaintiff bank. The Court emphasized banks' duty of care in international fund transfers and dismissed the conspiracy claim for lack of evidence.",
+  "legalKeywords": [
+    "negligence",
+    "banking liability",
+    "fraudulent transfer",
+    "duty of care",
+    "international funds transfer",
+    "fictitious account",
+    "section 81 Bills of Exchange Act",
+    "standard of care",
+    "bank-customer relationship",
+    "electronic payment fraud"
+  ],
+  "topics": [
+    "Banking Law",
+    "Civil Liability",
+    "Financial Fraud"
+  ],
+  "verdict": "The Supreme Court dismissed the appeal and upheld the judgment against Standard Chartered Bank Ghana Ltd, affirming its liability for the loss due to negligence in processing the fraudulent transfer.",
+  "winningSide": "Victoria Island Properties Ltd and ANZ Grindlays Bank Ltd (Respondents)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. S. Twum, J.S.C.",
+      "role": "Author of Judgment"
+    },
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Brobbey, J.S.C.",
+      "role": "Member"
+    },
+    {
+      "name": "Dr. Twum, J.S.C.",
+      "role": "Member"
+    },
+    {
+      "name": "Mrs. Adinyira, J.S.C.",
+      "role": "Member"
+    },
+    {
+      "name": "Asiamah, J.S.C.",
+      "role": "Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Bills of Exchange Act, 1961 (Act 55), Section 81",
+    "Court of Appeal Civil Appeal No. J4/5/2006"
+  ],
+  "rationaleHighlights": [
+    "The bank had a statutory duty of care under Section 81 of the Bills of Exchange Act, 1961.",
+    "The Appellant failed to exercise due diligence in verifying the recipient's identity and account legitimacy.",
+    "Payment of a large sum to a customer without a foreign currency account warranted heightened scrutiny.",
+    "The co-plaintiff bank's role did not absolve the Appellant of its independent duty.",
+    "The conspiracy claim was struck out for lack of evidence.",
+    "Modern electronic fund transfers require banks to apply international standards of care.",
+    "Hearsay evidence was admitted due to lack of objection and formed part of the record.",
+    "The legislature intended to protect innocent parties from financial loss due to banking negligence."
+  ],
+  "confidenceNotes": "The summary and keywords are derived directly from the judgment text. While the case involves international fund transfer, the court relied on domestic statute (Act 55), which is accurately reflected. The omission of the second defendant's outcome is due to lack of detail in the provided text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2006A/VICTORIA ISLAND PROPERTIES LTD  & ANZ GRINDLAYS BANK LTD   v.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:21:19.526Z",
+    "plainTextLength": 44598
+  },
+  "trialDate": "2006-05-04"
+}

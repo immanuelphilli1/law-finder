@@ -1,0 +1,73 @@
+{
+  "caseTitle": "ADOMAKO & ANOR. v. MRS. OWUSU-ASIEDU",
+  "summary": "This Court of Appeal case in Ghana, decided on 5th December 2002, involved a dispute over ownership of House No. 29, Block 6, Korle-Gono, Accra. The plaintiffs, Paul and Victoria Adomako, jointly owned the property, but after Paul allegedly gifted his 50% share to the defendant’s late husband, a conflict arose. Despite this alleged gift, the property was registered in the joint names of the plaintiffs. The defendant, Mrs. Owusu-Asiedu, claimed rightful occupation based on the gift. The Circuit Court ruled in favor of the plaintiffs, awarding declaratory relief, possession, and damages. On appeal, the defendant argued errors in law, including mischaracterization of the gift as customary, failure to recognize a deed of gift inter vivos, and procedural issues such as lack of substitution after the first plaintiff’s death. The Court of Appeal dismissed the appeal, holding that the purported deed of gift was not legally valid due to non-compliance with formalities, non-registration under the Land Registry Act, and lack of consideration. The court clarified that the second plaintiff had locus standi via a power of attorney and that the judgment was not against the weight of evidence.",
+  "legalKeywords": [
+    "deed of gift inter vivos",
+    "customary gift",
+    "consideration",
+    "nudum pactum",
+    "Land Registry Act",
+    "registration of property",
+    "locus standi",
+    "power of attorney",
+    "onus probandi",
+    "fraud",
+    "legal interest in land",
+    "seal in deeds",
+    "witness attestation",
+    "period of limitation",
+    "vesting assent"
+  ],
+  "topics": [
+    "Property Law",
+    "Succession and Estate",
+    "Contract Law",
+    "Appellate Procedure",
+    "Land Registration"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Plaintiffs/Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Owusu, JA.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Adinyira, JA"
+    },
+    {
+      "name": "Owusu-Ansah, JA."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Ackun vs. Yanney [1962] 1 GLR 464",
+    "TSEDE and others vrs. NUBUASA and another [1962] 1 GLR 338",
+    "Fletcher v. Fletcher [1844] 4 Have R. 67",
+    "Xenos vs. Wickham [1867] LR 2 HL 296",
+    "Amuzu vs. Oklikah [1998] (Supreme Court)"
+  ],
+  "rationaleHighlights": [
+    "The purported deed of gift was not a valid deed due to lack of witness attestation and failure to indicate on its face that it was intended as a deed.",
+    "A customary gift was not pleaded or proven, and the court found no evidence supporting such a claim.",
+    "Under the Land Registry Act 1962 (Act 122), Section 24(1), unregistered instruments cannot transfer legal interest in land.",
+    "The second plaintiff had locus standi through a valid power of attorney from the deceased first plaintiff.",
+    "Fraud was alleged but not strictly proved, and thus could not invalidate the registration.",
+    "The Circuit Court’s reference to NRCD 323 without citing specific sections was an error, but not sufficient to overturn the judgment.",
+    "The distinction between suing and being sued affects the necessity of producing a vesting assent.",
+    "A deed may create binding obligations without consideration, but only if it meets formal legal requirements."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and citation of legal principles. Some procedural details (e.g., exact status of substitution) may be truncated in the source, but core holdings are clear and consistent with Ghanaian property and contract law.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/PAUL ADOMAKO & ANOR. v. MRS. OWUSU-ASIEDU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:09:36.374Z",
+    "plainTextLength": 17745
+  },
+  "trialDate": "2002-12-05"
+}

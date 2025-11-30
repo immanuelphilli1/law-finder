@@ -1,0 +1,62 @@
+{
+  "caseTitle": "in R. v. Abisa Grunshie1 the sheet",
+  "summary": "This legal commentary discusses the admissibility of confession statements in criminal cases in Ghana, focusing on the precedent set in R. v. Abisa Grunshie, which recommended the presence of an independent civilian witness during the recording of confessions, especially in murder cases. However, in Gyedu v. The Republic, the Court of Appeal clarified that this requirement is a rule of practice, not a binding legal rule. The court acknowledged the practical challenges in rural or illiterate communities where finding literate, independent witnesses is difficult. It upheld the admissibility of confessions even without such witnesses, provided the statements were voluntary. The decision promotes judicial realism and flexibility in evidentiary procedures.",
+  "legalKeywords": [
+    "confession statement",
+    "admissibility",
+    "independent civilian witness",
+    "voluntary statement",
+    "police procedure",
+    "illiteracy",
+    "murder case",
+    "criminal procedure",
+    "evidence law",
+    "judicial realism"
+  ],
+  "topics": [
+    "Evidence",
+    "Criminal Procedure",
+    "Confessions",
+    "Judicial Precedent",
+    "Police Practice"
+  ],
+  "verdict": "The appeal was dismissed; the confession statements were held admissible despite the absence of an independent civilian witness.",
+  "winningSide": "The Republic",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Apaloo C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Edusei J.A.",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Mensa Boison J.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Abisa Grunshie, (1955) 1 W.A.L.R. 36",
+    "Gyedu v. The Republic, [1980] G.L.R.D. 57"
+  ],
+  "rationaleHighlights": [
+    "The Abisa Grunshie rule requiring an independent civilian witness is a practice, not a legal requirement.",
+    "In areas with high illiteracy, obtaining literate witnesses may be impracticable.",
+    "Courts should apply realistic standards in assessing confession admissibility.",
+    "Police should seek literate witnesses when practicable, but absence does not automatically invalidate confession."
+  ],
+  "confidenceNotes": "The source is a legal commentary summarizing case law rather than a full judgment; citations are provided but primary judgment texts are not directly reviewed.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2012/TAKING CONFESSION STATEMENTS [1980] VOL XII RGL 187—188.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:43:53.851Z",
+    "plainTextLength": 2802
+  }
+}

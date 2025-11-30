@@ -1,0 +1,85 @@
+{
+  "caseTitle": "NANA KOFI ANTWI V. v KOBINA ABBEY (TEACHER) ODUPONG ABBEY &",
+  "summary": "In this civil appeal before the Supreme Court of Ghana, the plaintiff, Nana Kofi Antwi V, successfully claimed declaration of title, recovery of possession, damages for trespass, and perpetual injunction over land at Ayensuako. The plaintiff proved sole purchase of the land by his predecessor, Nana Kofi Antwi I (Ofinam), from the Duakwa Stool in 1910 for £465.10, supported by Exhibit A (receipt) and Exhibit B (indenture). The defendants’ claim of joint ownership with Osimpo was rejected due to lack of documentary evidence and factual impossibility (Osimpo died in 1925, after the 1910 sale). The court affirmed the High Court’s jurisdiction, holding the case was fundamentally about land title, not chieftaincy, despite the plaintiff’s status as a chief. The plaintiff also established adverse possession under the Limitation Decree, NRCD 54. The defendants’ appeal was dismissed, with the court upholding the trial court’s verdict in favor of the plaintiff.",
+  "legalKeywords": [
+    "declaration of title",
+    "burden of proof",
+    "joint ownership",
+    "adverse possession",
+    "limitation decree",
+    "trespas",
+    "documentary evidence",
+    "receipt as evidence",
+    "chietaincy jurisdiction",
+    "succession",
+    "enstoolment",
+    "gazettation",
+    "boundary neighbors",
+    "preponderance of probabilities",
+    "confession and avoidance"
+  ],
+  "topics": [
+    "Land Law",
+    "Chieftaincy Jurisdiction",
+    "Adverse Possession",
+    "Burden of Proof",
+    "Trespass"
+  ],
+  "verdict": "Appeal dismissed; trial court's decision in favor of the plaintiff upheld.",
+  "winningSide": "Plaintiff/Respondent (Nana Kofi Antwi V)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ansa, J.S.C.",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "Wood, (Mrs) C.J.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Dotse, J.S.C.",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Anin Yeboah, J.S.C.",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Baffoe-Bonnie, J.S.C.",
+      "role": "Member of Coram"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Akoto II v Kavege [1984-86] 2 GLR 365",
+    "Odoi v Hammond [1971] 2 GLR 375",
+    "Kuma v Kuma (1934) 2 WACA 178",
+    "Kponuglo v Kodadja (1933) 2 WACA 24",
+    "In Re Osu Stool; Ako Nortei II v Nortey Owuo III [2005-2006] SCGLR 628",
+    "Avadali IV v Avadali [1992-93] GBR 733",
+    "Majolagbe v Larbi & Ors [1959] GLR 190"
+  ],
+  "rationaleHighlights": [
+    "Plaintiff met burden of proof for sole ownership via Exhibits A and B showing payment and sale in Ofinam's name only.",
+    "Defendants failed to produce documentary evidence for joint purchase; oral claims contradicted by timeline (Osimpo deceased before alleged sale).",
+    "Court affirmed jurisdiction despite chieftaincy elements, citing In Re Osu Stool: land dispute not a 'cause affecting chieftaincy'.",
+    "Defendants' plea of joint ownership treated as confession and avoidance, shifting burden to them to prove contribution—burden not discharged.",
+    "Adverse possession established under NRCD 54: 12-year limitation period satisfied by unchallenged possession.",
+    "Gazette and National Register extracts deemed sufficient proof of plaintiff’s valid enstoolment for standing to sue.",
+    "Trial court’s findings on title and trespass upheld; appeal dismissed.",
+    "Defendants’ unauthorized felling of 50 palm trees constituted actionable trespass."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy due to direct extraction from official Supreme Court judgment text, including citations, procedural rulings, and evidentiary analysis.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/NANA KOFI ANTWI V. v  KOBINA ABBEY (TEACHER) ODUPONG ABBEY &.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:03:54.817Z",
+    "plainTextLength": 33997
+  },
+  "trialDate": "2009-10-28"
+}

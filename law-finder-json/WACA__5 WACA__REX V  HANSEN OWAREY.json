@@ -1,0 +1,64 @@
+{
+  "caseTitle": "REX V HANSEN OWAREY",
+  "summary": "The appellant, Hansen Owarey, was convicted of murder under section 319 of the Criminal Code for shooting a fellow clerk at a mining camp in Sokoto Province. The incident followed a workplace altercation where the accused was pushed after striking the deceased with a paper draft. He later returned with a loaded shotgun, searched for the deceased, and shot him fatally in the stomach. The defense argued temporary insanity due to intoxication and provocation, but the trial judge held that intoxication did not negate the specific intent required for murder, and no legal provocation was established. The West African Court of Appeal upheld the conviction, affirming that evidence of drunkenness falling short of legal insanity does not rebut the presumption of intent, especially when a deadly weapon is used. The appeal was dismissed.",
+  "legalKeywords": [
+    "murder",
+    "intoxication",
+    "temporary insanity",
+    "provocation",
+    "specific intent",
+    "Criminal Code Section 29",
+    "Section 319",
+    "defence of drunkenness",
+    "insanity defence",
+    "mens rea"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Homicide",
+    "Mental State Defences",
+    "Appellate Review"
+  ],
+  "verdict": "Conviction for murder upheld",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "R. v. Beard [1920] App. Cases 479",
+    "R. v. Meakin 7 C. & P. 297",
+    "R. v. Ridgway (1937)"
+  ],
+  "rationaleHighlights": [
+    "Intoxication is not a defence unless it causes legal insanity such that the accused did not know the act was wrong or what they were doing.",
+    "Use of a deadly weapon (shotgun) clearly indicates malicious intent, which drunkenness cannot negate.",
+    "Evidence of intoxication must show incapacity to form intent, not merely increased propensity to violence.",
+    "Provocation must be immediate and sufficient to deprive self-control; mere quarrel and prior assault do not suffice.",
+    "Section 29(4) of the Criminal Code allows consideration of intoxication in assessing intent, but only if it prevents formation of specific intent."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment with clear factual and legal reasoning provided by the court.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/REX V  HANSEN OWAREY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:44:29.952Z",
+    "plainTextLength": 13928
+  },
+  "trialDate": "1939-02-27"
+}

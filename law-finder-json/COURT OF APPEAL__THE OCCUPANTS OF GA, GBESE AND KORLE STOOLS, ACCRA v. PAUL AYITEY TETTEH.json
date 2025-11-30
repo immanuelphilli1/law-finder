@@ -1,0 +1,66 @@
+{
+  "caseTitle": "OCCUPANTS OF GA, GBESE AND KORLE STOOLS, ACCRA v. PAUL",
+  "summary": "This Court of Appeal decision from Ghana addresses a procedural error in the substitution of a party in a civil case. The original defendant, Paul Ayitey Tetteh, appealed against a High Court order that substituted him with B.A. Quarcoo as the head of the Onamroko-Adain family. The Court of Appeal held that the substitution was improperly granted ex parte without notice to the original defendant, violating Order 52 Rules 3 and 6 of the High Court Civil Procedure Rules (L.N. 140A, 1954). The trial judge failed to ensure proper service and inquiry into the defendant's absence, rendering the substitution order void. The appeal succeeded, the substitution was set aside, and costs were awarded to the appellant.",
+  "legalKeywords": [
+    "substitution of party",
+    "ex parte application",
+    "procedural fairness",
+    "notice requirement",
+    "Order 52 Rule 3",
+    "Order 52 Rule 6",
+    "High Court Civil Procedure Rules",
+    "right to be heard",
+    "judicial error",
+    "motion on notice",
+    "service of process",
+    "vacating court order",
+    "appellate review"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Appellate Law",
+    "Judicial Conduct",
+    "Family Representation",
+    "Legal Costs"
+  ],
+  "verdict": "The appeal succeeded.",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "K. Omari-Sasu",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "P.K. Twumasi",
+      "role": "Justice"
+    },
+    {
+      "name": "J.A. Osei",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "L.N. 140A - The High Court Civil Procedure Rules, 1954, Order 52 Rules 3 and 6"
+  ],
+  "rationaleHighlights": [
+    "The substitution application was improperly made ex parte without notice to the original defendant.",
+    "Order 52 Rule 3 requires notice to affected parties unless urgency justifies ex parte action.",
+    "Order 52 Rule 6 mandates the court to ensure proper notice or adjourn if notice is lacking.",
+    "The trial judge failed to inquire whether the absent defendant was served.",
+    "The formal order incorrectly described the motion as 'on notice' when it was not.",
+    "Procedural fairness was violated, necessitating the setting aside of the substitution."
+  ],
+  "confidenceNotes": "The judgment is clear and well-reasoned, with explicit references to procedural rules and record inconsistencies. All three justices concurred, indicating high confidence in the outcome.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/THE OCCUPANTS OF GA, GBESE AND KORLE STOOLS, ACCRA v. PAUL AYITEY TETTEH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:01:48.858Z",
+    "plainTextLength": 9115
+  }
+}

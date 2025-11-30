@@ -1,0 +1,104 @@
+{
+  "caseTitle": "AND OTHERS VERSUS DABRA AND OLAGA",
+  "summary": "In Ankyrah and Others v. Dabra and Olaga, the plaintiffs sought to recover land sold in execution to Olaga, alleging an oral agreement allowing redemption after three years. The dispute was referred to 'arbitrators' under native custom, but the court held this did not constitute binding customary arbitration due to lack of prior agreement to accept the award. The Court of Appeal also ruled that the Administration (Togoland) Ordinance, c. 112, s. 4(2), which restricts land alienation by natives to non-natives without the Governor's consent, did not void the sale since a court-ordered execution sale is not an alienation 'by a native.' The appeal was dismissed, affirming that customary arbitration requires voluntary submission, prior acceptance of the award, and publication, none of which were fully met here.",
+  "legalKeywords": [
+    "customary arbitration",
+    "native law and custom",
+    "land alienation",
+    "binding award",
+    "oral agreement",
+    "execution sale",
+    "Governor's consent",
+    "Togoland Ordinance",
+    "arbitration vs mediation",
+    "repurchase agreement",
+    "judicial sale",
+    "non-native purchaser",
+    "land redemption",
+    "arbitrator's role",
+    "settlement negotiation",
+    "void conveyance",
+    "native customary law",
+    "land recovery",
+    "prior agreement",
+    "award publication"
+  ],
+  "topics": [
+    "Customary Law",
+    "Land Law",
+    "Arbitration",
+    "Jurisdiction",
+    "Statutory Interpretation"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Korsah J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Ames Ag.J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Wilson C.J.",
+      "role": "Chief Justice (below)"
+    },
+    {
+      "name": "Verity C.J.",
+      "role": "Chief Justice (cited)"
+    },
+    {
+      "name": "van Lare J.",
+      "role": "Judge (obiter)"
+    },
+    {
+      "name": "Akycampong",
+      "role": "Counsel for plaintiffs"
+    },
+    {
+      "name": "Bossman",
+      "role": "Counsel for defendants"
+    },
+    {
+      "name": "Puplampu",
+      "role": "Counsel for defendants"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Ankyrah and Others v. Dabra and Olaga",
+    "Kwasi v. Larbi [1953] A.C. 164",
+    "Efefiorn Eyamba and Others v. Kouri (1937) 3 W.A.C.A. 186",
+    "Gyesiwa v. Mensah (1947) W.A.C.A. Cyclostyled Reports",
+    "Samuel v. Okyi (1947) W.A.C.A. Cyclostyled Reports",
+    "Oyere and Ntirn v. Edumawu and Aduo (1956) 1 W.A.L.R. 278"
+  ],
+  "rationaleHighlights": [
+    "A customary arbitration requires prior agreement to accept the award, which was absent here.",
+    "A court-ordered sale in execution is not an alienation 'by a native' and thus not void under s. 4(2) of the Administration (Togoland) Ordinance.",
+    "The 'arbitrators' acted as mediators seeking compromise, not adjudicators issuing a binding award.",
+    "Payment of fees or informal procedures do not alone establish binding arbitration under native custom.",
+    "The distinction between binding arbitration and non-binding mediation lies in the parties' prior intent to be bound.",
+    "English legal principles on revocation of arbitration agreements were considered but not determinative.",
+    "The award proposing £235 instead of £117 indicated a settlement effort, not a merits-based decision.",
+    "Publication of the award is a necessary element of customary arbitration."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and cited precedents. Some obiter dicta included for context but clearly distinguished.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/ANKRAH AND OTHERS v. DABRA AND OLAGA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:15:14.525Z",
+    "plainTextLength": 14517
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "caseTitle": "A. E. OFON I",
+  "summary": "The appellant, A. E. Ofoni, was the manager of the Asaba branch of the United Africa Co. Ltd., responsible for cash, stock, and accounting records. He was convicted on ten counts relating to financial misconduct, including stealing by a clerk, obtaining money by false pretences, and fraudulent false accounting under the Criminal Code. The West Africa Court of Appeal upheld most convictions but quashed those on count 1 (stealing of ₤304 19s. 11d.) and count 10 (stealing ₤14 9s. 2d. from Onochie). The court held that a general cash deficiency without proof of specific misappropriation was insufficient for conviction under section 390(6). Additionally, the conviction on count 10 was inconsistent with count 9, as the same sum was treated both as fraudulently unrecorded company receipts and as theft from an individual. The court affirmed that the appellant's false claim of having paid the palm oil owners provided evidence of intent to defraud under section 419. Convictions on the remaining eight counts, supported by clear evidence of omissions from accounting records with fraudulent intent, were upheld.",
+  "legalKeywords": [
+    "stealing by clerk",
+    "false pretences",
+    "fraudulent false accounting",
+    "intent to defraud",
+    "inconsistent verdicts",
+    "criminal code",
+    "cash misappropriation",
+    "omission from books",
+    "IOU",
+    "acquittal",
+    "conviction quashed",
+    "appellate review",
+    "trial error",
+    "evidence of intent",
+    "agency relationship",
+    "deficiency in cash",
+    "corporate fiduciary duty",
+    "restitution",
+    "judicial reasoning",
+    "charge amendment"
+  ],
+  "topics": [
+    "criminal law",
+    "appellate review",
+    "fraud",
+    "theft",
+    "accounting fraud"
+  ],
+  "verdict": "Appeal allowed on counts 1 and 10; convictions quashed and acquittals entered. Appeal dismissed on counts 2 to 9; convictions and sentences upheld.",
+  "winningSide": "Respondent (Rex) on counts 2–9; Appellant on counts 1 and 10",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Lloyd Jones, 8 C. & P. 288",
+    "R. v. Wolstenholme, 11 Cox 313"
+  ],
+  "rationaleHighlights": [
+    "Conviction on count 1 quashed because general cash shortage not sufficient to prove specific theft under section 390(6).",
+    "Conviction on count 10 inconsistent with count 9: cannot steal from Onochie what was received as company clerk and omitted from company books.",
+    "Intent to defraud under section 419 supported by appellant's false claim of having paid owners.",
+    "Appellant's own false statement used as evidence of fraudulent intent.",
+    "Trial judge's factual findings on false accounting upheld due to evidentiary support.",
+    "Amendment of charge did not alter legal inconsistency between counts 9 and 10.",
+    "IOU and subsequent judgment do not validate conviction for theft from individual.",
+    "Court emphasized holistic assessment of evidence in fraud cases."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details (charges, rulings, reasoning) are explicitly stated in the judgment. Inconsistencies in verdicts are clearly articulated by the court.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/A. E. OFON I.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:13:04.945Z",
+    "plainTextLength": 7402
+  },
+  "trialDate": "1940-01-16"
+}

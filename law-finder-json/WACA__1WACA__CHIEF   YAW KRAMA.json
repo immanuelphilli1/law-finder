@@ -1,0 +1,70 @@
+{
+  "caseTitle": "CHIEF YAW KRAMA",
+  "summary": "This 1933 West African Court of Appeal case involved Chief Yaw Krampa (later substituted by Isaac Edward Nkrumah) appealing a Divisional Court judgment that partially favored him and the defendant, G. A. Sac Key. The plaintiff sought cancellation of a 1919 deed of conveyance on two alternative grounds: fraud and the assertion that no land had ever been conveyed. The lower court found the deed void due to fraud but also ruled that the land had been sold under native custom, thus dismissing the alternative claim. On appeal, the court held that in the absence of a cross-action, the plaintiff was entitled to full judgment if either claim succeeded, and the court could not enter judgment for the defendant on the failed alternative. Furthermore, under section 58 of the Native Administration Ordinance, the court lacked jurisdiction to determine whether a conveyance occurred under native custom. The appeal was allowed, the portion of the judgment favoring the defendant was set aside, and costs were awarded.",
+  "legalKeywords": [
+    "alternative claims",
+    "fraud",
+    "deed of conveyance",
+    "native custom",
+    "jurisdiction",
+    "cancellation of deed",
+    "cross-action",
+    "judgment",
+    "void conveyance",
+    "representative capacity",
+    "illiterate parties",
+    "witness marks",
+    "deeds registry",
+    "Supreme Court Ordinance",
+    "Native Administration Ordinance"
+  ],
+  "topics": [
+    "Property Law",
+    "Contract Law",
+    "Appellate Procedure",
+    "Customary Law",
+    "Judicial Jurisdiction"
+  ],
+  "verdict": "Appeal allowed; judgment for the defendant on the alternative claim set aside.",
+  "winningSide": "Plaintiff-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Michelin",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Kingdon",
+      "role": "Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Antu v. Buedu, F.C. 1926-29, page 470",
+    "Native Administration Ordinance, s 58",
+    "Supreme Court Ordinance, s 18"
+  ],
+  "rationaleHighlights": [
+    "The plaintiff's claim was based on two alternative grounds: fraud and non-conveyance; success on either ground entitled the plaintiff to judgment.",
+    "The court lacked jurisdiction to enter judgment for the defendant on the alternative claim in the absence of a cross-action.",
+    "Section 58 of the Native Administration Ordinance precluded the court from deciding whether a conveyance occurred under native custom.",
+    "The conveyance was void because the plaintiff's name and witnesses' names were written without their knowledge.",
+    "The Full Court in Antu v. Buedu was applied: no judgment can be entered for the defendant on a failed alternative claim without a cross-action."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details (parties, court, reasoning, outcome) are explicitly stated in the judgment text.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/CHIEF   YAW KRAMA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:50:50.866Z",
+    "plainTextLength": 8054
+  },
+  "trialDate": "1933-05-08"
+}

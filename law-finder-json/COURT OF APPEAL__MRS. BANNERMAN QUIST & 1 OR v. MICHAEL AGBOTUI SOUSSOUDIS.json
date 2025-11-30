@@ -1,0 +1,73 @@
+{
+  "caseTitle": "BANNERMAN QUIST & 1 OR v. MICHAEL AGBOTUI SOUSSOUDIS",
+  "summary": "This appeal arose from a landlord-tenant dispute where the plaintiffs, Mrs. Bannerman Quist and another, sought a 100% increase in rent from the defendant, Michael Agbotui Soussoudis, who had been a statutory tenant since the original agreement expired in 1995. The trial court awarded rent of ₵6 million per annum retroactively from 1995, without following the statutory rent assessment process under the Rent Act, 1963 (Act 220). The Court of Appeal held that the trial court lacked jurisdiction to assess rent, as such power is vested in Rent Officers or the Minister under Sections 10 and 11 of Act 220. The appellate court set aside the rent increase but upheld the plaintiff's right to recover rent at the previous rate of ₵3 million per annum until the tenant vacated in May 1999. The court also rejected the appellant’s claim that the Circuit Court lacked jurisdiction over the monetary amount, citing WOOD VS. DADSON (1976) 2 G.L.R. 185, which affirms that inferior courts have full jurisdiction in landlord-tenant matters regardless of claim size. Allegations of judicial bias due to premature filing of plaintiffs’ address were dismissed as baseless, given that the document referenced testimony from a witness who testified after the alleged filing date. Finally, the defendant’s counter-claim for costs to rebuild a collapsed fence wall was denied because he acted without the landlord’s consent, despite prior notice.",
+  "legalKeywords": [
+    "landlord-tenant relationship",
+    "rent assessment",
+    "Rent Act 1963",
+    "Rent Regulations 1964",
+    "Courts Act 1993",
+    "jurisdiction",
+    "circuit court",
+    "recoverable rent",
+    "statutory tenant",
+    "counter-claim",
+    "judicial bias",
+    "arrears of rent",
+    "executive instrument",
+    "rent magistrate",
+    "maintenance claims"
+  ],
+  "topics": [
+    "Landlord and Tenant Law",
+    "Rent Control",
+    "Appellate Review",
+    "Court Jurisdiction",
+    "Judicial Conduct"
+  ],
+  "verdict": "Appeal allowed in part: rent assessment set aside due to lack of jurisdiction; arrears upheld at prior rate; jurisdictional and bias claims dismissed; counter-claim denied.",
+  "winningSide": "Plaintiffs/Respondents (partial win)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Benin, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Twumasi, J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Aryeetey, J.A.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Civil Division, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "MRS. BANNERMAN QUIST & 1 OR v. MICHAEL AGBOTUI SOUSSOUDIS [27/7/2000] C.A. NO. 134/99",
+    "WOOD VS. DADSON (1976) 2 G.L.R. 185",
+    "Rent Act, 1963 (Act 220)",
+    "Rent Regulations, 1964 (L.I. 369)",
+    "Courts Act, 1993 (Act 459)",
+    "Maintenance of Children Decree, 1977 (S.M.C.D.133)"
+  ],
+  "rationaleHighlights": [
+    "The trial court lacked authority to assess rent; only Rent Officers or the Minister may do so under Act 220.",
+    "Claim for double rent invalid where no formal assessment was conducted under the Rent Act.",
+    "Circuit Court retains jurisdiction over landlord-tenant matters even if claim exceeds general monetary limit, per judicial precedent.",
+    "Filing of address before evidence completion not evidence of bias where date discrepancy explained and content references later testimony.",
+    "Tenant not entitled to recover costs for unauthorized improvements without landlord consent."
+  ],
+  "confidenceNotes": "The summary is based on a detailed appellate judgment with clear legal reasoning and citations. Information extracted is highly reliable as it reflects the court's final determinations on jurisdiction, statutory interpretation, and procedural conduct.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/MRS. BANNERMAN QUIST & 1 OR v. MICHAEL AGBOTUI SOUSSOUDIS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:15:24.599Z",
+    "plainTextLength": 22117
+  },
+  "trialDate": "2000-07-27"
+}

@@ -1,0 +1,72 @@
+{
+  "caseTitle": "KWAKU MENSAH",
+  "summary": "This 1939 West Africa Court of Appeal decision addressed a claim for possession of leasehold land in Kumasi, Ashanti, by Kwaku Mensah against D. A. Cobbina. The central issue was whether the Divisional Court had jurisdiction over a dispute concerning title or right to occupation of land in Ashanti. The Court held that such matters fall under the exclusive jurisdiction of competent native courts under Section 35 of the Native Courts (Ashanti) Ordinance (Cap. 80), and that the Supreme or Divisional Courts lack jurisdiction, even when the land is government-owned and government consent has been obtained for transfer. The judgment of the lower court was set aside, and the case was remitted with directions to refer the parties to a competent native tribunal.",
+  "legalKeywords": [
+    "jurisdiction",
+    "title to land",
+    "right to occupation",
+    "Native Courts",
+    "Supreme Court",
+    "Divisional Court",
+    "Ashanti",
+    "government consent",
+    "land dispute",
+    "customary law",
+    "Courts Ordinance",
+    "Native Courts (Ashanti) Ordinance",
+    "Section 17(b)",
+    "Section 35",
+    "competent tribunal"
+  ],
+  "topics": [
+    "Land Law",
+    "Jurisdiction",
+    "Customary Law"
+  ],
+  "verdict": "The appeal was allowed. The judgment of the Divisional Court was set aside, and the case was remitted for referral to a competent native court.",
+  "winningSide": "Defendant-Appellant (D. A. Cobbina)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Cor. Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Strother-Stewart",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana (then Gold Coast, Ashanti Region)"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Section 17(b), Courts Ordinance (Cap. 4)",
+    "Section 35, Native Courts (Ashanti) Ordinance (Cap. 80)",
+    "Kofi Fofie v. Kwasi Bremang, Ama Asiamah, and Kwesi Amufah (25 November 1936)",
+    "Omanhene Nkyi Ababio v. Kwamin Ackumpong, 6 W.A.C.A."
+  ],
+  "rationaleHighlights": [
+    "Title or right to occupation of land in Ashanti is a matter for native courts under Section 35 of the Native Courts (Ashanti) Ordinance.",
+    "The Divisional Court lacks jurisdiction even if the land is government-owned and government consent for transfer exists.",
+    "No provision in Ashanti Ordinances grants Supreme or Divisional Courts jurisdiction over such land disputes.",
+    "Government is not a party to the dispute and its involvement via consent does not alter jurisdictional rules.",
+    "The proviso exceptions under Section 35 do not apply in this case.",
+    "Native courts may consider relevant documents, including those compliant with English law, so long as valid under Ashanti law.",
+    "The legal framework in Ashanti differs from the Colony, where parties may opt out of native customary law jurisdiction via agreement.",
+    "The case must be referred to a competent native tribunal, and proceedings in the Divisional Court must cease."
+  ],
+  "confidenceNotes": "The decision is clearly grounded in statutory interpretation of colonial-era ordinances. Jurisdictional boundaries between native and colonial courts are well-articulated. The reference to prior precedent (Kofi Fofie) strengthens the legal reasoning. Facts are sparse but sufficient for jurisdictional determination.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/KWAKU MENSAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:46:12.218Z",
+    "plainTextLength": 8619
+  },
+  "trialDate": "1939-04-19"
+}

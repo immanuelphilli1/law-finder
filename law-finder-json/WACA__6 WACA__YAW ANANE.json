@@ -1,0 +1,67 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This 1940 West Africa Court of Appeal decision in *Omanhene Nkyi Ababio v. Kw Am In Ackumpong* addressed jurisdictional and procedural issues arising from a land dispute transferred from a Native Tribunal of the State Council to the Divisional Court. The Court held that while the State Council lacked jurisdiction under Section 48 of the Native Administration Ordinance, the Provincial Commissioner had authority under Section 75 to transfer the case to the Divisional Court. The Divisional Court, possessing jurisdiction under Section 14 of the Courts Ordinance but initially barred from exercising it by Section 17, could validly proceed after the transfer. The appeal was dismissed with directions to give full effect to Schedule III Order 26 of the Courts Ordinance, allowing necessary amendments to pleadings even if altering the capacity in which parties sue. The Court overruled the obiter dictum in *Malm v. Wulff* that restricted such amendments, affirming the Divisional Court's duty to ensure the real issues between parties are properly before it.",
+  "legalKeywords": [
+    "jurisdiction",
+    "transfer of case",
+    "Divisional Court",
+    "Native Administration Ordinance",
+    "Courts Ordinance",
+    "State Council",
+    "tribunal",
+    "amendment of pleadings",
+    "Schedule III Order 26",
+    "obiter dictum",
+    "land dispute",
+    "Provincial Commissioner",
+    "exclusive jurisdiction",
+    "civil cause",
+    "mandatory terms"
+  ],
+  "topics": [
+    "Jurisdiction and Transfer of Cases",
+    "Procedural Amendments in Pleadings",
+    "Native Tribunals and State Councils",
+    "Land Disputes in Customary Law",
+    "Appellate Interpretation of Statutes"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Plaintiff-Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Cor. Kingdon",
+      "role": "Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Malm v. Wulff (III W.A.C.A. 232)"
+  ],
+  "rationaleHighlights": [
+    "The Divisional Court possesses jurisdiction under Section 14 of the Courts Ordinance but cannot exercise it in native land matters without a valid transfer under Section 75.",
+    "The Provincial Commissioner's transfer order enables the Divisional Court to exercise its otherwise dormant jurisdiction.",
+    "Schedule III Order 26 mandates courts to amend pleadings to reflect the real issues, even changing the capacity of parties.",
+    "The State Council is not a Tribunal per se but is treated as one under Section 95(3) of the Native Administration Ordinance for transfer purposes.",
+    "The obiter dictum in Malm v. Wulff restricting amendments is overruled as inconsistent with statutory court rules."
+  ],
+  "confidenceNotes": "High confidence based on clear judicial reasoning and citation of statutory provisions. Document is truncated but contains sufficient core holdings and reasoning for accurate extraction.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/YAW ANANE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:51:57.932Z",
+    "plainTextLength": 18860
+  }
+}

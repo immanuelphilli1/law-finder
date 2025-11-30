@@ -1,0 +1,71 @@
+{
+  "caseTitle": "REX ANTNONY UCHE",
+  "summary": "The appellant, Anthony Uche, was convicted on two counts of defiling a girl under the age of eleven and sentenced to five years' imprisonment with hard labour. The West African Court of Appeal allowed the appeal due to two fundamental errors by the trial judge. First, the judge failed to warn the jury about the need for caution when relying on the evidence of a child of tender years. Second, the judge misdirected the jury by stating there was medical evidence that both the accused and the girl had a gonorrhoeal discharge, when in fact the doctor only speculated about the nature of the discharge and had not conducted microscopic tests to confirm gonorrhoea in either party. The appellate court held that these errors could have led to a wrongful conviction and that a proper direction might have raised a reasonable doubt. Although there was some evidence supporting guilt, the appeal was allowed and the convictions quashed.",
+  "legalKeywords": [
+    "defilement",
+    "child testimony",
+    "medical evidence",
+    "jury misdirection",
+    "trial error",
+    "appeal",
+    "conviction quashed",
+    "tender age",
+    "gonorrhoea",
+    "hard labour",
+    "summing up",
+    "reasonable doubt",
+    "corroborative evidence",
+    "judicial warning",
+    "appellate review"
+  ],
+  "topics": [
+    "criminal law",
+    "appellate procedure",
+    "evidence law",
+    "child protection",
+    "medical evidence"
+  ],
+  "verdict": "Appeal allowed; convictions quashed due to judicial error in jury instructions.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Aitken",
+      "role": "judge"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "judge"
+    },
+    {
+      "name": "Barton",
+      "role": "judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "WACA/2 WACA/REX ANTNONY UCHE"
+  ],
+  "rationaleHighlights": [
+    "Trial judge failed to warn jury about the evidential limitations of testimony from a child of tender age.",
+    "Judge misstated medical evidence by asserting there was confirmation of gonorrhoeal discharge in both parties.",
+    "Actual medical evidence was inconclusive: doctor did not microscopically confirm gonorrhoea in either the girl or the accused.",
+    "Misdirection could have influenced jury to convict.",
+    "Proper instructions might have led to reasonable doubt.",
+    "Appeal allowed due to material errors in judicial directions.",
+    "Convictions unsafe despite some supporting evidence.",
+    "Doctor's failure to conduct microscopic examination noted as significant."
+  ],
+  "confidenceNotes": "The document appears to be a scanned or transcribed judgment with minor formatting issues (e.g., 'ANTNONY UCHE' likely a typo for 'ANTHONY UCHE'). All key legal elements are present and interpretable.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/REX  ANTNONY UCHE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:21:47.234Z",
+    "plainTextLength": 3314
+  },
+  "trialDate": "1935-05-13"
+}

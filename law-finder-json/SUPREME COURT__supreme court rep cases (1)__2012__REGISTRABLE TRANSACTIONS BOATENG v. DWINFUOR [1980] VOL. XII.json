@@ -1,0 +1,70 @@
+{
+  "caseTitle": "BOATENG v. DWINFUOR",
+  "summary": "In Boateng v. Dwinfuor, the plaintiff claimed ownership of a house in Bekwai based on a registered title, seeking possession from the defendant who asserted an earlier oral tenancy agreement with the original owner in 1970. The defendant had repaired the dilapidated house in exchange for rent and claimed rights under customary law. The Court of Appeal held that the Land Registry Act, 1962 (Act 122) does not grant priority to registered instruments over unregistered oral agreements, as 'instrument' under section 36 means a writing, thus excluding parol agreements. However, the analysis argues that the Conveyancing Decree, 1973 (N.R.C.D. 175), particularly sections 4 and 7, renders oral customary land transactions invalid unless recorded in writing, thereby aligning them with registrable instruments. The article contends that the Court overlooked these provisions, which effectively eliminate the exclusion of oral transactions from the registration system by mandating written records for validity, thus potentially altering the outcome regarding the enforceability and priority of the defendant's tenancy.",
+  "legalKeywords": [
+    "land registration",
+    "oral tenancy agreement",
+    "Conveyancing Decree 1973",
+    "Land Registry Act 1962",
+    "customary law",
+    "priority of instruments",
+    "registrable transactions",
+    "parol agreements",
+    "recording of land transactions",
+    "written evidence",
+    "section 26 Act 122",
+    "section 36 Act 122",
+    "section 8 Act 123",
+    "section 7 N.R.C.D. 175",
+    "section 4 N.R.C.D. 175",
+    "customary transfers",
+    "instrument affecting land",
+    "validity of land transactions",
+    "concurrence of minister",
+    "stool land"
+  ],
+  "topics": [
+    "Land Law",
+    "Conveyancing",
+    "Customary Law",
+    "Registration of Deeds",
+    "Priority of Interests in Land",
+    "Oral Agreements in Property Law",
+    "Legal Reforms in Ghana"
+  ],
+  "verdict": "The Court of Appeal ruled in favor of the plaintiff, holding that the registered title under the Land Registry Act, 1962, did not have to yield to the defendant's prior oral tenancy, as oral agreements are not 'instruments' under the Act and thus not entitled to priority.",
+  "winningSide": "plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Anin J.A.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Land Dispute",
+  "citations": [
+    "Boateng v. Dwinfuor [1980] VOL. XII RGL 166–175",
+    "Land Registry Act, 1962 (Act 122)",
+    "Conveyancing Decree, 1973 (N.R.C.D. 175)",
+    "Administration of Lands Act, 1962 (Act 123)",
+    "State Lands Act, 1962 (Act 124)"
+  ],
+  "rationaleHighlights": [
+    "Section 26 of Act 122 grants priority only to registered 'instruments', defined in section 36 as 'any writing affecting land', thus excluding oral agreements.",
+    "The Conveyancing Decree, 1973, particularly section 7(1), renders oral customary grants invalid unless recorded under section 4, thereby requiring written documentation.",
+    "The requirement to record customary transfers under N.R.C.D. 175 effectively brings oral transactions within the scope of registrable instruments.",
+    "The Court failed to consider that N.R.C.D. 175 supersedes the limitations of Act 122 by mandating written records for validity of customary transactions.",
+    "Oral agreements under customary law, though traditionally valid, are now subject to formal recording to be effective, aligning them with the registration system."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct textual analysis of the legal commentary and cited statutes. Some interpretation of judicial intent and legislative effect is inferential but grounded in authoritative legal reasoning presented in the source.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2012/REGISTRABLE TRANSACTIONS BOATENG v. DWINFUOR [1980] VOL. XII.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:45:29.218Z",
+    "plainTextLength": 28121
+  }
+}

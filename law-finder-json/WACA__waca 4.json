@@ -1,0 +1,33 @@
+{
+  "caseTitle": "OTHERS v OPANYIN KW",
+  "summary": "The provided document does not contain the full text of a legal decision but appears to be a table of cases from the West African Court of Appeal (WACA) with case titles listed. There is no detailed judgment, reasoning, or factual background available for analysis. As such, no substantive legal summary or insight can be derived from this excerpt.",
+  "legalKeywords": [
+    "West African Court of Appeal",
+    "case list",
+    "table of cases",
+    "Ghana legal database",
+    "legal index"
+  ],
+  "topics": [
+    "Legal Research",
+    "Court Records"
+  ],
+  "verdict": "N/A",
+  "winningSide": "N/A",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Index of Cases",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "Low confidence due to absence of full case text; only metadata available.",
+  "metadata": {
+    "sourcePath": "WACA/waca 4.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T09:53:24.113Z",
+    "plainTextLength": 3069
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "caseTitle": "OHN AMPONAY OF KPEME",
+  "summary": "This is an appeal before the West Africa Court of Appeal concerning a land dispute between John Amponay and Martin Teyi of Kpeme over alleged trespass by encroachment of a cocoa farm. The native tribunal of Alavanyo found that the defendant had crossed the boundary and awarded the plaintiff one-third of the cocoa crop from the encroached land instead of monetary damages. The Akpini State Council reversed this decision on appeal without taking fresh evidence, a decision upheld by the Provincial Commissioner. The West Africa Court of Appeal held that judgments of native tribunals in land matters, having seen and heard witnesses and viewed the land, should not be overturned unless clearly erroneous. Finding no such error and noting that the reversal was unjustified, the appellate court allowed the appeal, set aside the lower appellate decisions, and restored the original judgment of the native tribunal. Costs were awarded to the appellant.",
+  "legalKeywords": [
+    "trespass",
+    "land dispute",
+    "boundary demarcation",
+    "native tribunal",
+    "appellate review",
+    "damages",
+    "cocoa farm",
+    "customary land law",
+    "evidence evaluation",
+    "judicial deference",
+    "land encroachment",
+    "tribunal jurisdiction",
+    "provincial commissioner",
+    "state council",
+    "restoration of judgment"
+  ],
+  "topics": [
+    "Land Law",
+    "Trespass",
+    "Appellate Procedure",
+    "Customary Law",
+    "Judicial Review"
+  ],
+  "verdict": "Appeal allowed; judgment of the native tribunal restored",
+  "winningSide": "Plaintiff-Appellant (John Amponay)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WACA/3 WACA/OHN AMPONAY OF KPEME"
+  ],
+  "rationaleHighlights": [
+    "Judgment of a native tribunal in land cases should not be reversed unless clearly wrong",
+    "Native tribunal had assessed evidence and viewed land firsthand",
+    "Appellate reversal without fresh evidence unjustified",
+    "Factual findings supported original tribunal's decision",
+    "Principle of deference to local tribunals affirmed",
+    "Appeal allowed and original judgment restored",
+    "Costs awarded to appellant"
+  ],
+  "confidenceNotes": "The document is a clear appellate judgment from the West Africa Court of Appeal with identifiable parties, court composition, and legal reasoning. All key elements are present for accurate extraction.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/OHN AMPONAY OF KPEME.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:17:16.894Z",
+    "plainTextLength": 3908
+  },
+  "trialDate": "1937-04-27"
+}

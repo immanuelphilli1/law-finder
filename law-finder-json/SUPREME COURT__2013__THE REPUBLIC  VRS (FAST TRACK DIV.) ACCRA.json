@@ -1,0 +1,82 @@
+{
+  "caseTitle": "THE REPUBLIC VRS (FAST TRACK DIV.) ACCRA",
+  "summary": "This Supreme Court of Ghana ruling addresses the constitutional issue of whether public funds can be attached in execution of judgment debts against the state. The court held that under Article 293 of the 1992 Constitution, the Republic is liable like a private person, and judgments against it can be enforced without requiring a fiat or petition of right. The applicant's argument that public funds cannot be attached was rejected, with the court emphasizing that such enforcement is essential to uphold the rule of law and ensure state accountability. The decision distinguishes outdated common law doctrines and aligns with modern Commonwealth jurisprudence, particularly citing the Crown Proceedings Act 1947 (UK) and Australian authority in New South Wales v Bardolph. The court affirmed that the validity and enforceability of state obligations, including execution against public funds, must be maintained to protect citizens' rights and the state's creditworthiness.",
+  "legalKeywords": [
+    "rule of law",
+    "state liability",
+    "public funds execution",
+    "constitutional interpretation",
+    "judicial accountability",
+    "government contracts",
+    "parliamentary appropriation",
+    "tort liability of the state",
+    "Crown Proceedings Act",
+    "Article 293"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Public Law",
+    "State Immunity",
+    "Judicial Enforcement",
+    "Rule of Law"
+  ],
+  "verdict": "The Supreme Court rejected the applicant's contention that public funds cannot be attached in execution of judgment debts against the state, affirming the enforceability of judgments under Article 293 of the 1992 Constitution.",
+  "winningSide": "Interested Party (Madam Maud Nongo)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah J.S.C.",
+      "role": "Presiding and Ruling Judge"
+    },
+    {
+      "name": "Atuguba J.S.C.",
+      "role": "Member of Panel"
+    },
+    {
+      "name": "Adinyira (Mrs) J.S.C.",
+      "role": "Member of Panel"
+    },
+    {
+      "name": "Owusu (Ms) J.S.C.",
+      "role": "Member of Panel"
+    },
+    {
+      "name": "Dotse J.S.C.",
+      "role": "Member of Panel"
+    },
+    {
+      "name": "Anin Yeboah J.S.C.",
+      "role": "Member of Panel"
+    },
+    {
+      "name": "Baffoe Bonnie J.S.C.",
+      "role": "Member of Panel"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional",
+  "citations": [
+    "Article 293, 1992 Constitution of Ghana",
+    "Crown Proceedings Act 1947 (UK)",
+    "Churchward v R (1865) LR 1 QB 173",
+    "New South Wales v Bardolph (1934) 52 CLR 455"
+  ],
+  "rationaleHighlights": [
+    "Public funds and government property can be attached in execution of judgment debts to uphold the rule of law.",
+    "Article 293 of the 1992 Constitution abolishes the need for fiat or petition of right, making the state liable like a private person.",
+    "The court rejected the argument that public funds cannot be attached post-judgment, affirming judicial accountability of the state.",
+    "Dicta from Churchward v R were distinguished; the court aligned with Cockburn CJ and Evatt J. supporting enforceability of state contracts.",
+    "The decision reinforces that state immunity does not extend to execution of valid judgments."
+  ],
+  "confidenceNotes": "High confidence in constitutional interpretation and cited authorities; truncated source text limits full verification of lower court details.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/THE REPUBLIC  VRS (FAST TRACK DIV.) ACCRA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:07:34.154Z",
+    "plainTextLength": 34428
+  },
+  "trialDate": "2012-05-24"
+}

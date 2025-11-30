@@ -1,0 +1,70 @@
+{
+  "caseTitle": "A THE PRIVY COUNCl 16TH OCTOBER 1936.",
+  "summary": "This Privy Council appeal from the West African Court of Appeal concerned a civil action by the United African Company against its former agent for negligence and breach of contract, specifically under a 1933 agreement making him liable for deficiencies due to his act, neglect, or default. The trial judge improperly allowed witnesses (Acquah and Carr), who were convicted of falsifying books, to allege the defendant had committed fraud or felony by taking the missing £7,816—despite no such claims being pleaded. The judge then nonsuited the plaintiffs, citing the rule in Smith v. Selwyn requiring prosecution or excuse for non-prosecution before basing civil claims on felony. The Privy Council held this was erroneous: the claim was properly one in negligence, no fraud was pleaded, and thus the felony rule did not apply. They found the plaintiffs had reasonable excuse for non-prosecution, as police and law officers declined charges due to insufficient evidence. The Council emphasized the defendant must be treated as innocent and the case decided on the pleaded civil grounds. Though liability for negligence was evident, the matter was adjourned to determine the proper quantum of damages, as the prior proceedings had not fairly addressed this issue.",
+  "legalKeywords": [
+    "negligence",
+    "breach of contract",
+    "pleadings",
+    "fraud",
+    "felony",
+    "public policy",
+    "non-prosecution",
+    "abuse of process",
+    "civil liability",
+    "evidence admissibility",
+    "judicial error",
+    "Smith v. Selwyn rule",
+    "due process",
+    "contractual duties",
+    "default"
+  ],
+  "topics": [
+    "Contract Law",
+    "Civil Procedure",
+    "Evidence",
+    "Judicial Conduct",
+    "Public Policy"
+  ],
+  "verdict": "Appeal allowed in part; remitted for assessment of damages on basis of negligence.",
+  "winningSide": "United African Company, Limited (respondents)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "LORD MAUGHAM",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "LORD SALVESEN",
+      "role": "member"
+    },
+    {
+      "name": "SIR LANCELOT SANDERSON",
+      "role": "member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "Smith v. Selwyn, [1914] 3 K.B. 58"
+  ],
+  "rationaleHighlights": [
+    "Charges of fraud or felony must be pleaded and cannot be introduced mid-trial via witness testimony.",
+    "Trial judge erred in allowing unpleaded criminal allegations to influence judgment.",
+    "Non-prosecution was justified due to insufficient evidence as determined by police and law officers.",
+    "Rule in Smith v. Selwyn does not apply where no criminal charge was properly before the court.",
+    "Defendant must be presumed innocent; civil liability must be assessed on pleaded grounds only.",
+    "Court of Appeal and Privy Council found plaintiffs proved negligence case but remitted quantum of damages.",
+    "Adjournment granted to assess damages on proper basis without prejudice."
+  ],
+  "confidenceNotes": "High confidence in extraction; source is a Privy Council judgment with clear procedural and factual details. Truncation does not affect core holdings.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/A THE PRIVY COUNCl 16TH OCTOBER 1936..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:35:54.217Z",
+    "plainTextLength": 16848
+  },
+  "trialDate": "16TH OCTOBER 1936"
+}

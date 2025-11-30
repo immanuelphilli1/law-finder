@@ -1,0 +1,71 @@
+{
+  "caseTitle": "ADEBIYI MAJEKODUNMI v THE QUEEN",
+  "summary": "The appellant, Adebiyi Majekodunmi, a solicitor, was convicted alongside two Post Office employees for conspiring to tamper with postal matter, specifically to backdate a letter under Section 576 of the Criminal Code. He appealed on three grounds: (1) that as a non-employee, he could not conspire to commit an offence under Section 163, which applies only to postal workers; (2) that the deposition of a government witness, Eric Parr, and associated exhibits were improperly admitted; and (3) that the verdict was unreasonable due to insufficient evidence. The West Africa Court of Appeal held that a person can be liable for conspiracy even if they cannot personally commit the substantive offence, citing established legal principles. It further ruled that the deposition was properly admitted under Sections 34 and 114 of the Evidence Ordinance, as the witness's absence was justified by the Gazette and procedural safeguards were followed. However, the court found that the circumstantial evidence did not exclusively point to guilt, and due to conflicts and discrepancies in the prosecution's case, the conviction could not stand. The appeal was allowed, and the conviction quashed.",
+  "legalKeywords": [
+    "conspiracy",
+    "tampering with postal matter",
+    "circumstantial evidence",
+    "deposition",
+    "Evidence Ordinance",
+    "Criminal Code",
+    "section 163",
+    "section 576",
+    "section 34",
+    "section 114",
+    "Criminal Procedure Ordinance",
+    "presumption of authenticity",
+    "admissibility of evidence",
+    "cross-examination",
+    "government witness absence"
+  ],
+  "topics": [
+    "criminal law",
+    "evidence",
+    "conspiracy",
+    "appellate review",
+    "procedural fairness"
+  ],
+  "verdict": "Conviction quashed on appeal due to insufficient certainty in circumstantial evidence.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Foster-Sutton",
+      "role": "President"
+    },
+    {
+      "name": "De Comarmond",
+      "role": "Acting Chief Justice (Nigeria)"
+    },
+    {
+      "name": "Coussey",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v. Crossman and Leyland-Ex parte Chetwynd, 24 T.L.R. 517",
+    "Regina v. Whitchurch (1890), 24 Q.B.D. 422",
+    "Mulcahy v. R. (1868), L.R. 3 H.L. 317",
+    "Rex v. Plummer (1902), 2 K.B. 348",
+    "Homo Maliek v. R., Lagos No. 119 of 1953"
+  ],
+  "rationaleHighlights": [
+    "Conspiracy liability extends to outsiders even if they cannot personally commit the substantive offence.",
+    "Depositions are admissible under sections 34 and 114 of the Evidence Ordinance if procedural requirements are met.",
+    "Conviction must not be based on mere suspicion; guilt must be the only reasonable inference from circumstantial evidence.",
+    "The agreement itself, not the completion of the illegal act, constitutes the core of conspiracy."
+  ],
+  "confidenceNotes": "High confidence; all key details such as jurisdiction, parties, legal reasoning, and procedural facts are clearly stated in the judgment. The case is well-documented with statutory references and authoritative case law.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/ADEBIYI MAJEKODUNMI  v   THE QUEEN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:45:58.526Z",
+    "plainTextLength": 22425
+  },
+  "trialDate": "1952-05-05"
+}

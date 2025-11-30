@@ -1,0 +1,77 @@
+{
+  "caseTitle": "GEORGINA NAA AHINEY AMARTEY VRS-MRS. WINIFRED IDDRISU CIVIL",
+  "summary": "This is a civil appeal before the Supreme Court of Ghana concerning the validity of a 'Further Defence to Reply and Counterclaim' filed by the defendant on December 18, 2000, in a land dispute. The plaintiff had initially filed suit claiming title to land at Tesano, Accra, but later discontinued the action. The defendant proceeded with a counterclaim based on the contested pleading. The trial court, per Kusi-Appouh J, upheld the pleading, citing implied court sanction and failure of prior counsel to object. The Court of Appeal reversed, holding the pleading was filed without leave and was procedurally invalid. The Supreme Court affirmed the Court of Appeal, ruling that procedural compliance is mandatory; a pleading not authorized by the High Court Civil Procedure Rules cannot be validated by implied consent or failure to object. The Court emphasized that Superior Courts are courts of record, and the absence of a recorded ruling on November 9, 2000, negated claims of prior judicial approval. Thus, the counterclaim and its trial were deemed a nullity.",
+  "legalKeywords": [
+    "civil procedure",
+    "counterclaim",
+    "leave of court",
+    "pleadings",
+    "res judicata",
+    "nullity",
+    "estoppel",
+    "appellate review",
+    "High Court rules",
+    "Court of record",
+    "interlocutory injunction",
+    "amendment of pleadings",
+    "trespas",
+    "land title",
+    "procedural irregularity"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Land Law",
+    "Appellate Jurisdiction",
+    "Pleadings",
+    "Counterclaim"
+  ],
+  "verdict": "The Supreme Court dismissed the appeal, upholding the Court of Appeal's decision that the 'Further Defence to Reply and Counterclaim' was procedurally invalid and that the subsequent trial on the counterclaim was a nullity.",
+  "winningSide": "Plaintiff/Appellant/Respondent (Georgina Naa Ahiney Amartey)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dotse, J.S.C.",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "Date-Bah, J.S.C.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Ansa, J.S.C.",
+      "role": "Member of Bench"
+    },
+    {
+      "name": "Adinyira, J.S.C.",
+      "role": "Member of Bench"
+    },
+    {
+      "name": "B. Bonnie, J.S.C.",
+      "role": "Member of Bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Achoro vrs. Akanfela [1996-97] SCGLR 207",
+    "Thomas vrs. Thomas [1947] A.E.R. 582",
+    "Akufo Addo vrs. Cathline [1992] IGLR 377",
+    "Ntiri & ANR v. Essien & ANR [2001-2002] SCGLR 451"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court held that the validity of a pleading depends on compliance with procedural rules, not on implied consent or failure to object.",
+    "A process not authorized by the rules of court cannot be validated by leave or acquiescence.",
+    "The absence of a recorded ruling renders any claim of prior judicial sanction unreliable, as Superior Courts are courts of record."
+  ],
+  "confidenceNotes": "The case details are drawn from an unreported Supreme Court of Ghana judgment, and the absence of a formal ruling record on November 9, 2000, introduces some procedural ambiguity. However, the Supreme Court's reasoning on procedural validity is clear and authoritative.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/GEORGINA NAA AHINEY AMARTEY  VRS-MRS. WINIFRED IDDRISU CIVIL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:08:57.106Z",
+    "plainTextLength": 20138
+  },
+  "trialDate": "2007-04-26"
+}

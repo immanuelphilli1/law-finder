@@ -1,0 +1,83 @@
+{
+  "caseTitle": "NANA SARPONG GYAMFI, KRONTIHENE, AKYAWKROM AND ASENUA, ASHAN",
+  "summary": "In this 2000 Supreme Court of Ghana case, Nana Sarpong Gyamfi, the Krontihene of Akyawkrom and Asenua, brought an action against Nana Kwaku Dakore II (also known as Kwaku Okyere), the Gyasehene, seeking a declaration that the defendant was disqualified from holding chieftaincy office due to a prior conviction for an offence involving moral turpitude. The defendant had been convicted in 1986 by the Circuit Court, Kumasi, and his appeal was dismissed by the High Court in 1990. The plaintiff argued that under Article 275 of the 1992 Constitution, such a conviction disqualified him from being a chief. However, the Supreme Court held that although the claim was framed constitutionally, its substance involved a chieftaincy matter, over which the court lacks original jurisdiction pursuant to Section 66 of the Chieftaincy Act 1971 (Act 370). The court therefore declined jurisdiction, affirming that such disputes must be resolved by the appropriate traditional councils and regional houses of chiefs.",
+  "legalKeywords": [
+    "original jurisdiction",
+    "moral turpitude",
+    "disqualification of chief",
+    "Article 275",
+    "Chieftaincy Act 1971",
+    "constitutional interpretation",
+    "judicial jurisdiction",
+    "enstoolment",
+    "conviction",
+    "traditional leadership"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Chieftaincy Dispute",
+    "Judicial Jurisdiction",
+    "Disqualification of Public Officer",
+    "Moral Turpitude"
+  ],
+  "verdict": "The Supreme Court declined jurisdiction, ruling that the matter falls under chieftaincy law and must be adjudicated by traditional judicial bodies, not the Supreme Court.",
+  "winningSide": "Defendant (by default, as the court refused to hear the case on jurisdictional grounds)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Edward Wiredu",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Mrs. J Bamford-Addo",
+      "role": "Justice"
+    },
+    {
+      "name": "Ampiah",
+      "role": "Justice"
+    },
+    {
+      "name": "Adjabeng",
+      "role": "Justice"
+    },
+    {
+      "name": "Acquah",
+      "role": "Justice"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Justice"
+    },
+    {
+      "name": "Ms. Akuffo",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Article 275, Constitution of Ghana, 1992",
+    "Chieftaincy Act 1971 (Act 370), Section 66"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court lacks concurrent original jurisdiction over chieftaincy matters under Section 66 of Act 370.",
+    "Article 275 disqualifies individuals convicted of moral turpitude from holding chieftaincy positions.",
+    "The plaintiff's claim, though framed constitutionally,实质ually affects chieftaincy and must be heard by a traditional council.",
+    "The defendant was convicted in 1986 and appeals were dismissed, confirming the conviction.",
+    "The Asantehene refused to forward the defendant's nomination due to prior conviction.",
+    "The National House of Chiefs does not recognize the defendant as a registered chief.",
+    "The court reaffirmed principles from Baffour Kwame Fante Aduamoa II v. Nana Gyakorang Adu Twum II.",
+    "The court declined jurisdiction, emphasizing proper adjudicative hierarchy in chieftaincy disputes."
+  ],
+  "confidenceNotes": "The court explicitly declined jurisdiction based on statutory and constitutional provisions; all key facts are directly quoted or clearly derived from the judgment.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2000A/NANA SARPONG GYAMFI, KRONTIHENE, AKYAWKROM AND ASENUA, ASHAN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:48:11.995Z",
+    "plainTextLength": 5978
+  },
+  "trialDate": "9TH FEBRUARY, 2000"
+}

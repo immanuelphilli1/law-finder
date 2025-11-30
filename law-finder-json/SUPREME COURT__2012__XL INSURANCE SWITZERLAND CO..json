@@ -1,0 +1,89 @@
+{
+  "caseTitle": "XL INSURANCE SWITZERLAND CO.",
+  "summary": "This Supreme Court of Ghana decision in XL Insurance Switzerland Co. v. Gemini Maritime Services & Ghana Ports & Harbours Authority (2012) addressed whether an order setting aside a writ of summons was final or interlocutory, and whether time to appeal could be extended. The appellants, insurers and commodity traders, sued for damages arising from alleged negligence and breach of contract. The High Court dismissed the writ for non-compliance with section 92(2) of PNDC Law 160, which requires prior notice before suing the Ghana Ports & Harbours Authority. The appellants obtained an ex parte extension of time to appeal, but the Court of Appeal dismissed the appeal as filed out of time, holding the order was interlocutory and the extension invalid. The Supreme Court affirmed that the order was interlocutory under the 'order approach' long established in Ghanaian law, meaning the appeal was subject to a 21-day limit under Rule 9(1)(a) of C.I. 19. It held that the exception for time extension in Rule 9(1)(b) applies only to final decisions, rejecting grammatical arguments based on punctuation. The Court also upheld the constitutionality of section 92(2) of PNDC Law 160.",
+  "legalKeywords": [
+    "interlocutory order",
+    "final order",
+    "extension of time to appeal",
+    "constitutional challenge",
+    "PNDC Law 160",
+    "section 92(2)",
+    "Court of Appeal Rules C.I. 19",
+    "rule 9(1)",
+    "jurisdiction",
+    "writ of summons",
+    "procedural compliance",
+    "negligence",
+    "breach of contract",
+    "Ghana Ports and Harbours Authority",
+    "Alverstone test",
+    "order approach",
+    "application approach",
+    "Interpretation Act 2009 (Act 792)",
+    "punctuation in statutory interpretation",
+    "right to appeal"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Appellate Jurisdiction",
+    "Constitutional Law",
+    "Administrative Law",
+    "Maritime Law"
+  ],
+  "verdict": "The appeal was dismissed. The Supreme Court upheld the Court of Appeal's decision that the order setting aside the writ was interlocutory, the extension of time was null, and section 92(2) of PNDC Law 160 is constitutional.",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Baffoe-Bonnie, J.S.C.",
+      "role": "author of judgment"
+    },
+    {
+      "name": "Akuffo, (Ms) JSC",
+      "role": "member of bench"
+    },
+    {
+      "name": "Date-Bah, JSC",
+      "role": "member of bench"
+    },
+    {
+      "name": "Ansa, JSC",
+      "role": "member of bench"
+    },
+    {
+      "name": "Bamfo, (Mrs) JSC",
+      "role": "member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "Axes Co Ltd v. Opoku",
+    "Pomaa v Fosuhene [1987-88] 1 GLR 244",
+    "State Gold Mining Corporation v Sissala [1971] 1 GLR 359",
+    "Atta Kwadwo v Badu [1977] 1 GLR 1",
+    "Tawiah v Brako [1973] 1 GLR 483",
+    "Okudjeto v Irani Brothers [1975] 1 GLR 96",
+    "Karletse-Panin v Nuro [1979] GLR 194",
+    "Republic v High Court (Fast Track Division); Ex parte State Housing Co Ltd (No.2) [2009] SCGLR 185",
+    "Halle and Sonns S.A v Bank of Ghana and Another Civil Motion No J7/11/2010 (unreported)"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court applied the 'order approach' to determine finality, following established Ghanaian jurisprudence.",
+    "An order setting aside a writ of summons for non-compliance with PNDC Law 160, s.92(2) is interlocutory, not final.",
+    "Rule 9(1) of C.I. 19 does not permit extension of time for interlocutory appeals; only final decisions may have time extended.",
+    "The semi-colon in Rule 9(1) does not extend the exception clause to interlocutory appeals.",
+    "The Court upheld the constitutionality of section 92(2) of PNDC Law 160."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct quotes from the judgment and consistent legal reasoning. Some citations are unreported but referenced authoritatively within the decision.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/XL INSURANCE SWITZERLAND CO..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:19:41.599Z",
+    "plainTextLength": 33851
+  },
+  "trialDate": "2012-07-04"
+}

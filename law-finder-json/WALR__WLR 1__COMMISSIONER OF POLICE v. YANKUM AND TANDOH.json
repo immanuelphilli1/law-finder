@@ -1,0 +1,80 @@
+{
+  "caseTitle": "COMMISSIONER OF POLICE VERSUS YANKUM AND",
+  "summary": "In Commissioner of Police v. Yankum and Tandoh, the West African Court of Appeal upheld the power of an appellate court to alter a conviction to a cognate, lesser offense under section 333(1)(a)(ii) of the Criminal Procedure Code, provided the accused had the opportunity to defend against the substituted charge. The appellants were originally convicted under sections 372 and 170(1) of the Criminal Code for obstructing and assaulting a public officer, but the Divisional Court substituted convictions under section 21(3) of the Native Courts (Colony) Ordinance for assaulting or obstructing a Native Court bailiff. The appeal challenged the appellate court's authority to make such a substitution. The Court held that such power is permissible when the offense is cognate, not more serious, and within the original court’s jurisdiction, and when the accused is not prejudiced. It emphasized that the alteration must not amount to a new or distinct charge. The appeals were dismissed, affirming the substituted convictions.",
+  "legalKeywords": [
+    "appellate court power",
+    "conviction alteration",
+    "cognate offence",
+    "lesser included offence",
+    "section 333 Criminal Procedure Code",
+    "section 151 Criminal Procedure Code",
+    "Native Courts Ordinance",
+    "obstruction of public officer",
+    "assault on bailiff",
+    "jurisdiction of magistrate court",
+    "error of form not substance",
+    "right to fair defence",
+    "prosecution proof",
+    "appellate review standards",
+    "legal misapplication",
+    "conviction for uncharged offence",
+    "West African Court of Appeal",
+    "Gold Coast legal history"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Judicial Powers",
+    "Legal Interpretation",
+    "Colonial Ghana Jurisprudence"
+  ],
+  "verdict": "Appeals dismissed",
+  "winningSide": "Commissioner of Police",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "President"
+    },
+    {
+      "name": "Korsah C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Baker Ag.J.A.",
+      "role": "Acting Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Criminal Procedure Code, c. 10, s. 333(1)(a)(ii)",
+    "Criminal Procedure Code, c. 10, s. 151(2)",
+    "Criminal Code, c. 9, s. 372",
+    "Criminal Code, c. 9, s. 170(1)",
+    "Native Courts (Colony) Ordinance, c. 98, s. 21(3)",
+    "Indian Criminal Procedure Code, s. 423",
+    "Sohoni, Code of Criminal Procedure, 13th ed., p. 903",
+    "Ratanlal's Criminal Code, 7th ed., p. 342"
+  ],
+  "rationaleHighlights": [
+    "Appellate court may alter conviction to a cognate, lesser offense if the accused had a chance to defend against the facts underlying it.",
+    "Alteration of finding must not prejudice the accused and must be for an offense of a similar nature.",
+    "Conviction cannot be changed to a more serious offense or one requiring a separate charge.",
+    "Magistrate's court has jurisdiction over summary offenses under Native Courts Ordinance.",
+    "Error in charging is one of form, not substance, if the factual basis is the same.",
+    "Section 333(1)(a)(ii) must be read with section 151(2) to allow conviction for minor proven offenses.",
+    "Indian CPC s. 423 jurisprudence is persuasive authority in Gold Coast law.",
+    "The substituted offense must be within the original court’s competence to try."
+  ],
+  "confidenceNotes": "The decision is clearly reported with full judicial reasoning, citation of statutory provisions, and reference to authoritative legal texts. The facts, issues, and holding are well-documented, supporting high confidence in accuracy.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/COMMISSIONER OF POLICE v. YANKUM AND TANDOH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:10:44.552Z",
+    "plainTextLength": 8292
+  }
+}

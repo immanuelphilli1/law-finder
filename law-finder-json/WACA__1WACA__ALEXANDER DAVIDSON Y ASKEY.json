@@ -1,0 +1,92 @@
+{
+  "caseTitle": "ALEXANDER DAVIDSON Y ASKEY",
+  "summary": "This case involved a dispute over the validity of the Amaw Tributaries Concession Zone 1, a diamond mining lease granted in 1926 by Nana Sir Ofori Atta and Kofi Dakwa over land in Topiramang, Akyem Abuakwa, to Richard Raymont Came. The African Selection Trust Ltd., Came's former employer, opposed the issuance of a Certificate of Validity under the Concessions Ordinance, alleging that Came obtained the concession through improper means: (1) by breaching his employment contract and using confidential information, and (2) by procuring the grantors to violate a prior covenant giving the Trust first refusal on adjacent land. The lower court, per Michelin J., held that 'improper means' under s 12(3) of the Ordinance applied only to misconduct against the native grantors, not third parties, and that the prior covenant was void for infringing the rule against perpetuities. On appeal, the West African Court of Appeal unanimously affirmed. Deane CJ and Aitkin J. held that s 12(3) must be construed narrowly to acts against grantors, and that the English Court of Appeal’s prior judgment—finding Came breached his service contract but did not procure the covenant’s breach due to lack of notice—was binding. The Court emphasized that even if the covenant were breached, it would not invalidate the concession under local law. The Trust’s remedies were limited to damages in England, not invalidation of the concession. The decision underscores the jurisdictional limits of concession validity proceedings and the primacy of native grantors’ interests under colonial mining law.",
+  "legalKeywords": [
+    "concession validity",
+    "improper means",
+    "breach of contract",
+    "breach of covenant",
+    "confidential information",
+    "fiduciary duty",
+    "rule against perpetuities",
+    "uncertainty in contract",
+    "prospecting rights",
+    "native land rights",
+    "trustee claim",
+    "damages for breach",
+    "injunction",
+    "declaratory relief",
+    "foreign judgment effect",
+    "res judicata",
+    "collateral litigation",
+    "employee duty",
+    "conflict of interest",
+    "mining concession",
+    "certificate of validity"
+  ],
+  "topics": [
+    "Concession Law",
+    "Contract Law",
+    "Mining Law",
+    "Equity",
+    "Conflict of Laws"
+  ],
+  "verdict": "Appeal dismissed; Certificate of Validity upheld.",
+  "winningSide": "Claimant-Respondent (Richard Raymont Came) and Grantors-Respondents",
+  "prosecutionType": "private",
+  "judges": [
+    {
+      "name": "Deane, C.J.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Aitkin, J.",
+      "role": "Judging Panel"
+    },
+    {
+      "name": "Michelin, J.",
+      "role": "Lower Court Judge"
+    },
+    {
+      "name": "Scrutton, L.J.",
+      "role": "English Court of Appeal"
+    },
+    {
+      "name": "Slesser, L.J.",
+      "role": "English Court of Appeal"
+    },
+    {
+      "name": "Greer, L.J.",
+      "role": "English Court of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Concession validity dispute with elements of breach of contract and covenant",
+  "citations": [
+    "Concessions Ordinance, s 12(3)",
+    "Concessions Ordinance, s 6",
+    "Concessions Ordinance, s 11",
+    "Topiramang Blocks 1/3 Concession (22 Jan 1923)",
+    "Amaw Tributaries Concession Zone 1 (15 Nov 1926)"
+  ],
+  "rationaleHighlights": [
+    "Section 12(3) of the Concessions Ordinance limits 'improper means' to actions against grantors, not third parties.",
+    "West African Court of Appeal treats English Court of Appeal decisions as binding when involving same parties and issues.",
+    "Breach of employee contract does not invalidate concession if grantors are satisfied.",
+    "Covenant claimed by Selection Trust void for uncertainty, not perpetuities.",
+    "Procurement of covenant breach by claimant not grounds for invalidating concession under local law.",
+    "Foreign litigation outcomes do not expand local remedies for same conduct.",
+    "Party not directly injured (non-native, non-competing) has limited standing in concession validation."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; some document truncation noted but key holdings and legal reasoning preserved.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/ALEXANDER DAVIDSON Y ASKEY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:52:20.437Z",
+    "plainTextLength": 54749
+  },
+  "trialDate": "1933-11-20"
+}

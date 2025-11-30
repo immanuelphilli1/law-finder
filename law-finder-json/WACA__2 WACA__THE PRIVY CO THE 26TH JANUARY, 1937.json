@@ -1,0 +1,66 @@
+{
+  "caseTitle": "THE PRIVY CO THE 26TH JANUARY, 1937",
+  "summary": "In this Privy Council preliminary judgment delivered on 26th January 1937, the appellant, an agent for a British company in the Gold Coast Colony (now Ghana), was found liable for damages due to negligence in breach of an agency agreement. The appellant failed to properly supervise employees, verify cash balances, check ledgers, or detect frauds committed by subordinates Acquah and Carr, resulting in a loss of £7,816. The Privy Council held that the appellant's failure to perform his contractual duties—such as checking trial balances, verifying bank deposits via counterfoil slips, and reconciling cash—constituted negligence. While the initial judgment awarded £7,816, the Privy Council reduced the sum to £7,216, finding that the fraud of £600 on 3rd November 1930 should have been detected promptly, but subsequent losses were attributable to the appellant’s continued dereliction of duty. The case underscores the duty of care expected of commercial agents in colonial West Africa.",
+  "legalKeywords": [
+    "breach of contract",
+    "negligence",
+    "agency agreement",
+    "duty of care",
+    "commercial agent",
+    "fraud",
+    "supervisory liability",
+    "damages reduction",
+    "contractual liability",
+    "fiduciary duty"
+  ],
+  "topics": [
+    "Commercial Law",
+    "Agency Law",
+    "Contractual Liability",
+    "Judicial Review",
+    "Colonial Legal System"
+  ],
+  "verdict": "reduced damages",
+  "winningSide": "respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "LORD MAUGHAM",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "LORD SALVESEN",
+      "role": "panel member"
+    },
+    {
+      "name": "SIR LANCELOT SANDERSON",
+      "role": "panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Privy Council",
+    "country": "United Kingdom (on appeal from Gold Coast Colony, now Ghana)"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "WACA/2 WACA/THE PRIVY COUNCIL THE 26TH JANUARY, 1937"
+  ],
+  "rationaleHighlights": [
+    "The appellant certified trial balances as accurate without actually verifying them, constituting a breach of duty.",
+    "Failure to reconcile cash in the safe with the cash book over a prolonged period demonstrated gross negligence.",
+    "Absence of pass-book did not excuse failure to verify bank deposits through interbranch statements or direct inquiry.",
+    "Counterfoil pay-in slips were either missing or fraudulently altered, and the appellant failed to detect obvious discrepancies.",
+    "The Privy Council concluded that reasonable scrutiny would have uncovered the initial £600 fraud shortly after 3 November 1930.",
+    "Subsequent losses were deemed attributable to the appellant’s ongoing failure to supervise.",
+    "Reduction of damages from £7,816 to £7,216 reflected the portion of loss that should have been discovered earlier.",
+    "The appellant’s reliance on subordinates without oversight amounted to a lack of ordinary care required under the agency contract."
+  ],
+  "confidenceNotes": "The source document is a preliminary judgment from the Privy Council, a high-level appellate body, which lends strong authority to the reasoning and outcome. The factual findings are based on trial evidence and cross-examination, enhancing reliability. However, the text is truncated at the end, potentially omitting final cost rulings or procedural details. Despite this, the core legal analysis and verdict are fully articulated.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/THE PRIVY CO THE 26TH JANUARY, 1937.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:15:50.656Z",
+    "plainTextLength": 15576
+  },
+  "trialDate": "26TH JANUARY, 1937"
+}

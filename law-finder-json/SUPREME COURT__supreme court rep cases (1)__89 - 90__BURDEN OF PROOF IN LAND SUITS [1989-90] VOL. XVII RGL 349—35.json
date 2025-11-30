@@ -1,0 +1,89 @@
+{
+  "caseTitle": "BURDEN OF PROOF IN LAND SUITS [1989-90] VOL. XVII RGL 349—35",
+  "summary": "This legal analysis examines the burden of proof in land title disputes in Ghana, focusing on the controversial assertion in Banga v Djanie that a higher standard—akin to criminal proof beyond reasonable doubt—applies in such civil cases. The Court of Appeal, per Francois JSC, held that a plaintiff must meet a heightened burden when seeking a declaration of title, relying on the Kodilinye v Odu principle that success must be based on the strength of the plaintiff's case, not the weakness of the defence. However, this view is critically assessed against statutory law, particularly sections 10–12 of the Evidence Decree, 1975 (NRCD 323), which establishes the standard civil burden as proof on a balance of probabilities. The article argues that Francois JSC's position may have been decided per incuriam, failing to consider the statutory framework. It highlights that Mante v Botwe and Ricketts v Addo support the application of the standard civil burden, and Odametey v Clocuh clarifies that the Kodilinye principle only bars reliance on defence weaknesses when the plaintiff has wholly failed to make a case. Ultimately, the prevailing legal standard remains proof on a preponderance of probabilities, with the strength and weaknesses of both sides weighed in determining title.",
+  "legalKeywords": [
+    "burden of proof",
+    "land title",
+    "preponderance of probabilities",
+    "proof beyond reasonable doubt",
+    "Kodilinye principle",
+    "declaration of title",
+    "traditional evidence",
+    "possession and user",
+    "estoppel",
+    "civil procedure"
+  ],
+  "topics": [
+    "Land Law",
+    "Evidence Law",
+    "Burden of Proof",
+    "Judicial Precedent",
+    "Civil Procedure"
+  ],
+  "verdict": "The article concludes that despite judicial dicta suggesting a higher burden, the statutory standard of proof in civil land cases remains the preponderance of probabilities under NRCD 323; the Kodilinye principle does not elevate the burden but governs how evidence is assessed.",
+  "winningSide": "Plaintiff (in cases where preponderance of probabilities is met and defence weaknesses are considered appropriately)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Francois JSC",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Ampiah JA",
+      "role": "Justice of the Court of Appeal"
+    },
+    {
+      "name": "Lamptey JA",
+      "role": "Justice of the Court of Appeal"
+    },
+    {
+      "name": "Essiem JJA",
+      "role": "Justice of the Court of Appeal"
+    },
+    {
+      "name": "Taylor JSC",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Wuaku JJSC",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Amissah JA",
+      "role": "Justice of the Court of Appeal"
+    },
+    {
+      "name": "Adade JSC",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court and Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Banga v Djanie",
+    "Adzo v Tay",
+    "Kodilinye v Odu (1935) 2 WACA 336",
+    "Kponuglo v Kodadja",
+    "Mante v Botwe",
+    "Ricketts v Addo",
+    "Odametey v Clocuh",
+    "Nartey v Mechanical Lloyd Assembly Plant Ltd."
+  ],
+  "rationaleHighlights": [
+    "The article debates whether a higher standard of proof applies in land cases, with conflicting judicial opinions.",
+    "Francois JSC asserted a 'higher burden' akin to criminal standard, but this may conflict with NRCD 323.",
+    "Section 11(4) of NRCD 323 establishes preponderance of probabilities as standard in civil cases, including land disputes.",
+    "The Kodilinye principle requires plaintiffs to win on the strength of their own case, not defendant weaknesses, but Ricketts v Addo clarifies this does not elevate the burden of proof.",
+    "Odametey v Clocuh confirms that if plaintiff makes even a weak case, weaknesses in defence can be relied upon."
+  ],
+  "confidenceNotes": "The analysis is based on appellate court decisions and statutory interpretation of NRCD 323; the debate over burden of proof standards remains jurisprudentially significant.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/89 - 90/BURDEN OF PROOF IN LAND SUITS [1989-90] VOL. XVII RGL 349—35.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:19:54.273Z",
+    "plainTextLength": 23314
+  }
+}

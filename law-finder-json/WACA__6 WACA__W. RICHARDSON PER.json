@@ -1,0 +1,71 @@
+{
+  "caseTitle": "CHIEF THOMAS W. RICHARDSON VERSUS THOMAS",
+  "summary": "This 1940 West Africa Court of Appeal decision from Accra involved a land dispute between J. W. Richardson and Thomas Eshun in Agona Swedru, Gold Coast (now Ghana). The case originated in the Paramount Tribunal of the Agona State, where the plaintiff’s claim for trespass damages was dismissed. On appeal to the Provincial Commissioner’s Court, the judgment was reversed, awarding nominal damages. The West Africa Court of Appeal found both the original trial and appeal unsatisfactory due to complex legal questions involving English-language documents and disputes over precise land measurements without adequate survey evidence. The appeal court set aside both judgments and remitted the case for a de novo hearing before the Native Tribunal, strongly recommending transfer to the Divisional Court under Section 75 of the Native Administration Ordinance (Cap. 76) due to the legal complexity.",
+  "legalKeywords": [
+    "land dispute",
+    "trespass",
+    "boundary demarcation",
+    "Native Tribunal",
+    "Provincial Commissioner",
+    "Divisional Court",
+    "survey evidence",
+    "de novo hearing",
+    "jurisdictional transfer",
+    "document interpretation",
+    "costs allocation",
+    "appellate review",
+    "Native Administration Ordinance",
+    "legal unsuitability",
+    "evidentiary insufficiency"
+  ],
+  "topics": [
+    "Property Law",
+    "Appellate Procedure",
+    "Native Jurisdiction",
+    "Land Survey",
+    "Judicial Review"
+  ],
+  "verdict": "Appeal allowed; both lower court judgments set aside; case remitted for de novo hearing with strong recommendation for transfer to Divisional Court.",
+  "winningSide": "Appellant (Plaintiff-Respondent J. W. Richardson)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Stewart",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Gold Coast (Ghana)"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Section 75, Native Administration Ordinance (Cap. 76)"
+  ],
+  "rationaleHighlights": [
+    "Native Tribunal ill-equipped to handle complex document interpretation in English.",
+    "Dispute centered on exact land measurements requiring professional survey, which was absent initially.",
+    "Provincial Commissioner's Court heard parts of the appeal with different presiding officers, undermining procedural fairness.",
+    "Surveyor Ocran was not examined, and Wood was inadequately questioned, leading to evidentiary deficiencies.",
+    "Judgment of Native Tribunal showed confusion in handling measurement-based conclusions.",
+    "Case involves legal complexities unsuitable for Native or Provincial Commissioner’s Court.",
+    "Divisional Court deemed most appropriate forum, though transfer must be initiated under statutory provisions.",
+    "Costs in higher courts to be borne by each party; prior costs in Native Tribunal to abide final outcome."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed appellate reasoning and clear procedural history. Some formatting issues in source text (e.g., repetition, truncation) do not affect core legal holdings.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/W. RICHARDSON PER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:52:10.951Z",
+    "plainTextLength": 15120
+  },
+  "trialDate": "1940-05-30"
+}

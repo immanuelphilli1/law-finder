@@ -1,0 +1,65 @@
+{
+  "caseTitle": "KWABENA ODURO OF NSAWAM v DANIEL FHANCIS DAVIS",
+  "summary": "In this 1952 West Africa Court of Appeal case, Kwabena Odur of Nsawam (judgment creditor) obtained a judgment against Daniel Fhancis Davis (judgment debtor), who was ordered to pay in monthly instalments. After Davis defaulted on two instalments, the creditor executed a writ for the full balance, leading to the seizure and sale of Davis's battery charging plant by a licensed auctioneer to a third party. Davis successfully sued to set aside the sale as unlawful and claimed damages. The Court of Appeal upheld the trial court's decision, ruling that execution for the full balance without a court order specifying the arrears was wrongful under Order 43, rule 6 of the Civil Procedure Rules. The court also found the awarded damages—£140 special and £200 general—to be justified and not excessive, citing Flint v. Lovell. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "execution by instalments",
+    "wrongful execution",
+    "order 43 rule 6",
+    "civil procedure rules",
+    "damages assessment",
+    "judgment debt enforcement",
+    "stay of execution",
+    "court order requirement",
+    "unlawful sale",
+    "special damages",
+    "general damages"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Execution of Judgments",
+    "Damages",
+    "Debt Enforcement"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Foster-Sutton",
+      "role": "President"
+    },
+    {
+      "name": "Coussey",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Acolatse",
+      "role": "Acting Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Flint v. Lovell (1915) 1 K.B. 360",
+    "Order 40, rule 8, Civil Procedure Rules",
+    "Order 43, rule 6, Civil Procedure Rules"
+  ],
+  "rationaleHighlights": [
+    "An order for payment by instalments replaces the original decree, creating a debt that accrues over time rather than a lump sum immediately due.",
+    "Execution cannot issue for the full balance without a court order specifying the arrears under Order 43, rule 6.",
+    "The execution in this case was wrongful because it lacked prior court authorization for the full amount.",
+    "The sale of the charging plant was therefore unlawful.",
+    "Special damages were supported by unchallenged evidence.",
+    "General damages were not so excessive as to constitute an erroneous estimate under appellate principles from Flint v. Lovell."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text, including procedural history, legal reasoning, and outcome.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/KWABENA ODURO OF NSAWAM v DANIEL FHANCIS DAVIS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:37:07.192Z",
+    "plainTextLength": 9738
+  }
+}

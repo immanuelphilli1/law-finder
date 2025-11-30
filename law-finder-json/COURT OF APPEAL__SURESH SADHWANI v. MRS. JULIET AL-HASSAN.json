@@ -1,0 +1,77 @@
+{
+  "caseTitle": "SURESH SADHWANI v. MRS. JULIET AL-HASSAN",
+  "summary": "In Suresh Sadhwani v. Mrs. Juliet Al-Hassan (CA No. 13/99, 20/10/1999), the Court of Appeal of Ghana dismissed a preliminary objection by the respondent challenging the appellant's late filing of submissions, finding that the respondent failed to comply with procedural rules requiring prior notice. The court proceeded to consider the merits of the appeal, which concerned the trial judge's refusal to grant summary judgment in a debt recovery case. The appellant argued that the respondent's uncontroverted undertaking to pay established liability, but the Court upheld the trial judge's finding that triable issues existed, including whether the undertakings were voluntary or made under the appellant's dictation, and whether partial payment had been made. The court emphasized that summary judgment should not be granted where there is a bona fide defence raising factual disputes requiring viva voce evidence and cross-examination. The decision reaffirmed that trial judges must not assess the merits of defences at the summary judgment stage, preserving the defendant's right to a full trial.",
+  "legalKeywords": [
+    "summary judgment",
+    "trial judge",
+    "pleadings",
+    "bona fide defence",
+    "undertaking",
+    "triable issues",
+    "procedural compliance",
+    "preliminary objection",
+    "affidavit evidence",
+    "viva voce evidence",
+    "cross-examination",
+    "debt recovery",
+    "voluntary acknowledgement",
+    "procedural delay",
+    "leave to defend",
+    "appellate procedure",
+    "civil procedure",
+    "Court of Appeal Rules CI 19",
+    "Rule 16",
+    "Rule 20"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Debt Recovery",
+    "Appellate Law",
+    "Summary Judgment",
+    "Pleadings and Defences"
+  ],
+  "verdict": "Dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Wood, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Brobbey, J.A."
+    },
+    {
+      "name": "Aryeetey, J.A."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Codd v. Delap (1905) 92 L.T.H.L.",
+    "Jones v. Stone (1984) A.C. 122",
+    "Lynde v. Waithman (1985) 2 Q.B. 180",
+    "Pearson v. Fane 5 T.L.R. 323",
+    "Ray v. Baker (1897) 4 Ex. D. 283",
+    "Wilson v. Smith (1980) G.L.R. 152"
+  ],
+  "rationaleHighlights": [
+    "The respondent's failure to give three clear days' notice of a preliminary objection under Rule 16(1) of CI 19 justified refusing to entertain it.",
+    "The undertakings to pay were contested as not voluntary but made at the appellant's dictation, raising a triable issue of fact.",
+    "Disputes over partial payment and quantum of debt require viva voce evidence and cross-examination.",
+    "Summary judgment should not be used to assess the merits of conflicting affidavits or resolve factual disputes.",
+    "A defendant need only show a bona fide defence, not a guaranteed successful one, to defeat summary judgment.",
+    "The trial judge properly exercised discretion in granting unconditional leave to defend.",
+    "Procedural rules must be followed by both parties to ensure fairness and access to justice."
+  ],
+  "confidenceNotes": "The summary is based on a truncated but substantial portion of the judgment, with clear articulation of procedural and substantive issues. Key holdings on summary judgment and procedural compliance are well-supported by cited authorities and judicial reasoning. Minor uncertainty exists due to document truncation near the end, but core reasoning and outcome are intact.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/SURESH SADHWANI v. MRS. JULIET AL-HASSAN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:02:52.148Z",
+    "plainTextLength": 18287
+  }
+}

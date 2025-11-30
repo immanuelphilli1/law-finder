@@ -1,0 +1,71 @@
+{
+  "caseTitle": "THE UNITED AFRICA CO. LTD",
+  "summary": "This 1940 West Africa Court of Appeal decision involved a claim by The United Africa Co. Ltd. against Paul Jazzar, who acted as surety for John Naoum, a produce buyer who died while indebted to the company. The plaintiff sought £141 1s. 6d. under a guarantee agreement dated 3rd January 1938. The defendant argued that non-disclosure of Naoum's pre-existing debit balances (approximately £12 in November 1937 and £90 in January 1938) invalidated the guarantee. The court rejected this, holding that a guarantee does not require full disclosure unless there is fraud or misrepresentation, and the surety had the duty to inquire about the risk. Since the surety knew that debit balances were a normal part of the business relationship and could have examined the ledger, non-disclosure did not discharge his liability. The appeal was dismissed, affirming the trial court’s judgment for the plaintiff.",
+  "legalKeywords": [
+    "guarantee",
+    "suretyship",
+    "non-disclosure",
+    "misrepresentation",
+    "default",
+    "indebtedness",
+    "contract of guarantee",
+    "liability",
+    "dishonesty",
+    "fraud",
+    "business custom",
+    "floating debit",
+    "overdraft",
+    "statute of frauds",
+    "uberrima fides"
+  ],
+  "topics": [
+    "Contract Law",
+    "Guarantee and Suretyship",
+    "Commercial Law",
+    "Disclosure Obligations",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Plaintiff-Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "London General Omnibus Co. Ltd. v. Holloway [1912] 2 K.B. 72"
+  ],
+  "rationaleHighlights": [
+    "A contract of suretyship is not void for non-disclosure unless it amounts to misrepresentation or fraud.",
+    "The surety has a duty to inquire into the principal debtor's financial position if uncertain.",
+    "Debit balances were a normal incident of the produce buyer's business, known to the surety.",
+    "The guarantee covered future defaults, and Naoum's death-triggered final accounting constituted the actionable default.",
+    "The surety could have inspected the ledger and was not misled by silence.",
+    "Knowledge of business practices negates claims of unfair surprise in guarantee obligations.",
+    "Restriction of liability to £200 showed the surety accepted the risk with safeguards.",
+    "The trial judge correctly held non-disclosure of existing debit balances did not invalidate the guarantee."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text, including names, amounts, legal reasoning, and citation.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/THE UNITED AFRICA CO. LTD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:55:24.447Z",
+    "plainTextLength": 11713
+  },
+  "trialDate": "1940-05-30"
+}

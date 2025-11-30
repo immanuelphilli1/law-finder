@@ -1,0 +1,79 @@
+{
+  "caseTitle": "THE REPUBLIC V HIGH COURT,ACCRA, EX-PARTE;GHANA MEDICAL ASSOCIATION,CHRIS",
+  "summary": "The Ghana Medical Association (GMA) applied to the Supreme Court for judicial review of a High Court judge's decision to proceed with hearing an interlocutory injunction and substantive matter in a case involving a labor dispute and alleged human rights violations. The GMA argued that the High Court lacked jurisdiction because the plaintiff, Chris Archmann-Akumey, improperly invoked the court's authority via a writ of summons instead of a motion supported by affidavit as required under constitutional human rights procedures. Additionally, the GMA contended that only the National Labour Commission (NLC) could initiate proceedings on labor disputes in essential services, and that the judge exhibited bias by indicating he would rule on the injunction if the plaintiff had capacity. The Supreme Court dismissed the application, holding that the supervisory jurisdiction under Article 132 of the 1992 Constitution applies only to manifest errors going to jurisdiction or fundamental flaws, and found no such error here. It ruled that civil proceedings may validly commence by writ under CI 47, Order 2, and that the judge’s statements did not demonstrate bias but reflected a logical sequence of rulings. The Court emphasized that mere anticipation of a ruling order does not equate to predetermination.",
+  "legalKeywords": [
+    "jurisdiction",
+    "judicial review",
+    "prohibition",
+    "natural justice",
+    "bias",
+    "supervisory jurisdiction",
+    "constitutional interpretation",
+    "human rights enforcement",
+    "labor dispute",
+    "High Court procedure",
+    "Article 132 Constitution",
+    "Order 2 Rule 2 CI 47",
+    "excess of jurisdiction",
+    "error on the face of the record",
+    "ultra vires"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Labor Law",
+    "Civil Procedure",
+    "Judicial Conduct"
+  ],
+  "verdict": "Application dismissed",
+  "winningSide": "High Court / Respondent (Chris Archmann-Akumey)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ansa JSC",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Date-Bah JSC",
+      "role": "Member"
+    },
+    {
+      "name": "Dotse JSC",
+      "role": "Member"
+    },
+    {
+      "name": "Bonnie JSC",
+      "role": "Member"
+    },
+    {
+      "name": "Bamfo (Mrs) JSC",
+      "role": "Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Motion for Judicial Review",
+  "citations": [
+    "Republic v Court of Appeal; ex parte Tsatsu Tsikata [2005-2006] SCGLR 612"
+  ],
+  "rationaleHighlights": [
+    "Supervisory jurisdiction under Article 132 applies only to manifest, fundamental errors affecting jurisdiction or rendering decisions nullities.",
+    "Commencement of civil proceedings by writ is permissible under Order 2 Rule 2 of CI 47, even in human rights matters.",
+    "The National Labour Commission does not have exclusive jurisdiction to initiate all labor-related litigation.",
+    "A judge's statement on procedural sequencing does not constitute bias or predetermination.",
+    "No error of law was found on the face of the record to justify intervention.",
+    "The application was deemed premature since no final ruling had been issued by the High Court.",
+    "The Supreme Court reaffirmed that procedural fairness must be assessed objectively, not based on speculative bias.",
+    "The court upheld the principle that parties may choose appropriate legal remedies without being restricted to a single procedural path."
+  ],
+  "confidenceNotes": "The summary is based on a detailed analysis of the full ruling, including arguments from both parties and the court's legal reasoning. All key legal principles and procedural points are accurately represented with reference to cited rules and precedents.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/THE REPUBLIC  V  HIGH COURT,ACCRA, EX-PARTE;GHANA MEDICAL  ASSOCIATION,CHRIS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:20:23.513Z",
+    "plainTextLength": 36410
+  },
+  "trialDate": "2012-08-05"
+}

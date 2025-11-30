@@ -1,0 +1,86 @@
+{
+  "caseTitle": "REPUBLIC VRS HIGH",
+  "summary": "The Supreme Court of Ghana dismissed Al-Hassan Limited's application for certiorari and prohibition against a High Court judge's ruling that set aside its supplementary affidavit in an interlocutory injunction motion. The applicant argued that the ruling violated the rules of natural justice, particularly audi alteram partem and judicial bias. The Supreme Court held that both parties were heard before the decision was made, and the judge acted within his discretionary powers under the Civil Procedure Rules. The Court emphasized that mere erroneous judicial discretion, absent jurisdictional error or fundamental breach of natural justice, is not grounds for certiorari. The proper remedy for such grievances is appeal, not prerogative writs. The distinction between appeal and certiorari was reaffirmed as essential to judicial discipline, with supervisory jurisdiction exercised only in cases of fundamental legal error or clear bias.",
+  "legalKeywords": [
+    "certiorari",
+    "prohibition",
+    "natural justice",
+    "audi alteram partem",
+    "nemo judex in causa sua",
+    "judicial bias",
+    "supervisory jurisdiction",
+    "prerogative writs",
+    "interlocutory injunction",
+    "Civil Procedure Rules",
+    "High Court discretion",
+    "appeal vs certiorari",
+    "jurisdictional error",
+    "fundamental error",
+    "Supreme Court jurisdiction"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Constitutional Law",
+    "Civil Procedure",
+    "Judicial Review",
+    "Remedies"
+  ],
+  "verdict": "Application dismissed",
+  "winningSide": "Respondent (High Court)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adinyira (Mrs.)",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebe",
+      "role": "Justice"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs.)",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Motion",
+  "citations": [
+    "The Republic v. Circuit Court Accra; Ex parte Appiah [1982-83] GLR 129",
+    "The Republic v. High Court Accra; Ex parte Agbesi Awusu II (No.2) [2003-2004] 2 SCGLR 907",
+    "Aboagye v. Ghana Commercial Bank [2001-2002] SCGLR 796",
+    "Awuni v West African Examination Council [2003-2004] 1 SCGLR 471",
+    "The Republic v. High Court Accra; Ex parte CHRAJ [2003-2004] 1 SCGLR 312",
+    "The Republic v. Court of Appeal, Accra; Ex parte Tsatsu Tsikata [2005-2006] SCGLR 612",
+    "The Republic v. High Court (Commercial Division) Accra; Ex parte The Trust Bank Ltd. [2009] SCGLR 164",
+    "The Republic v. High Court Accra; Ex parte Industrialization Fund For Development Countries [2003-2004] SCGLR 348"
+  ],
+  "rationaleHighlights": [
+    "Certiorari requires fundamental error or breach of natural justice, not mere legal error",
+    "Both parties were heard before the High Court's decision, satisfying audi alteram partem",
+    "Judicial discretion under Order 81 C.I. 47 was properly exercised",
+    "Improper exercise of discretion is appealable, not certiorariable",
+    "Supreme Court exercises supervisory jurisdiction sparingly and only for fundamental non-jurisdictional errors",
+    "The remedy for dissatisfaction with a ruling within jurisdiction is appeal, not prerogative writ",
+    "Distinction between appeal and certiorari must be punitively maintained to prevent abuse",
+    "Setting aside a supplementary affidavit does not per se indicate judicial bias"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct textual evidence from the Supreme Court ruling. All legal principles, citations, and procedural details are explicitly stated in the judgment. The case is unreported but internally consistent and doctrinally sound.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/AL-HASSAN LIMITED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:52:48.902Z",
+    "plainTextLength": 24152
+  },
+  "trialDate": "2010-11-17"
+}

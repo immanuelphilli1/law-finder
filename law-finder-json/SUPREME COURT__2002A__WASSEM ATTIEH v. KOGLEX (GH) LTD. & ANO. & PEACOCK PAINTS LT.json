@@ -1,0 +1,88 @@
+{
+  "caseTitle": "WASSEM ATTIEH v. KOGLEX (GH) LTD. & ANO. & PEACOCK PAINTS LT",
+  "summary": "In Wassem Attieh v. Koglex (Gh) Ltd & Ano. & Peacock Paints Ltd, the Supreme Court of Ghana addressed an application by judgment-debtors to stay execution of a 2001 judgment, set aside the award of interest at the prevailing bank rate, and substitute it with a fixed 4% post-judgment interest. The plaintiff objected, arguing the application was procedurally invalid under Supreme Court Rules. The Court held that a cause remains pending post-judgment until full satisfaction, citing English and local precedents, and affirmed its jurisdiction under Rule 5 of the Supreme Court Rules, 1996 (C.I. 16), which permits procedural flexibility where no express rule applies. The Court rejected the argument that dismissal of a review application extinguishes the matter, emphasizing that unsatisfied judgments remain pending and subject to further judicial intervention.",
+  "legalKeywords": [
+    "judgment debt",
+    "interest on judgment",
+    "stay of execution",
+    "Rule 5 Supreme Court Rules",
+    "pending cause",
+    "post-judgment interest",
+    "jurisdiction",
+    "procedural validity",
+    "review of judgment",
+    "satisfaction of judgment",
+    "civil procedure",
+    "appellate jurisdiction",
+    "court powers",
+    "final judgment",
+    "execution of judgment"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Judicial Remedies",
+    "Interest on Judgments",
+    "Supreme Court Jurisdiction",
+    "Post-Judgment Relief"
+  ],
+  "verdict": "Application allowed in principle; court affirmed jurisdiction to hear the matter.",
+  "winningSide": "Defendants/Judgment-Debtors (on jurisdictional issue)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adzoe, J.S.C.",
+      "role": "Delivered leading judgment"
+    },
+    {
+      "name": "Ampiah, J.S.C.",
+      "role": "Member of panel"
+    },
+    {
+      "name": "Kpegah, J.S.C.",
+      "role": "Member of panel"
+    },
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Member of panel"
+    },
+    {
+      "name": "Afreh, J.S.C.",
+      "role": "Member of panel"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Motion",
+  "citations": [
+    "Amoabima v. Badu (1957) 2 WALR 214",
+    "Smurthwaite v. Hanney [1894] AC 494",
+    "Ghassoub v. Dizengoff (W.A) [1962] 2 GLR 133",
+    "Mosi v. Bagyina (1963) 1 GLR 337",
+    "Vanderpuije v. Akwei (1971) 1 GLR 242",
+    "Howell v. Bowers (1835) 2 C.M.&R. 621",
+    "Salt v. Cooper (1881) 16 Ch.D 544",
+    "Re Clagett’s Estate; Fordham v. Clagett (1882) 20 Ch.D. 637",
+    "Awoonor Renner v. Thensu (1930) 1 WACA 77",
+    "Agbemabiase v. Dzisam (1973) 1 GLR 291"
+  ],
+  "rationaleHighlights": [
+    "A cause remains pending until judgment is fully satisfied, allowing further proceedings.",
+    "Rule 5 of the Supreme Court Rules permits the court to prescribe procedure where none is expressly provided.",
+    "Dismissal of a review application does not terminate the court's jurisdiction over the matter.",
+    "Unsatisfied judgments are considered pending suits, preserving the court’s supervisory powers.",
+    "The award of interest at bank rate was not void, but its modification is within judicial discretion.",
+    "Precedents from English and West African courts support ongoing jurisdiction post-judgment.",
+    "The court retains broad powers to manage judgments until execution.",
+    "Procedural rules must not defeat substantive justice."
+  ],
+  "confidenceNotes": "The summary is based on a truncated document; however, the core legal reasoning and holdings on jurisdiction and pending causes are fully captured. The final disposition on the interest rate modification is not visible in the excerpt, but the jurisdictional ruling is clear.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2002A/WASSEM ATTIEH v. KOGLEX (GH) LTD. & ANO. & PEACOCK PAINTS LT.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:37:52.040Z",
+    "plainTextLength": 26967
+  },
+  "trialDate": "19TH FEBRUARY, 2003"
+}

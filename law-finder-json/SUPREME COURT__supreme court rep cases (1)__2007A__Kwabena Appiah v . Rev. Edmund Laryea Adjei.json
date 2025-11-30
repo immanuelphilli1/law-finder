@@ -1,0 +1,79 @@
+{
+  "caseTitle": "Kwabena Appiah v . Rev. Edmund Laryea Adjei",
+  "summary": "The Supreme Court of Ghana allowed the Appellant's appeal against the Court of Appeal's decision to grant a stay of execution of a judgment debt. The original judgment arose from a land sale where the Respondent, Rev. Edmund Laryea Adjei, sold a plot to the Appellant, Kwabena Appiah, for GHS 120 million, despite having previously sold it to another party. After obtaining a summary judgment for refund plus interest, the Appellant agreed to settlement terms for instalment payments, which the Respondent failed to honor. The Respondent later sought to vary the settlement and obtained a stay of execution from the Court of Appeal, though he had not appealed the original judgment. The Supreme Court held that the High Court's refusal to vary the settlement was not an executable order and thus could not be stayed. It condemned the Respondent's bad faith, breach of undertakings, and misuse of judicial process, especially given his status as a clergyman, and set aside the stay to allow immediate execution of the judgment.",
+  "legalKeywords": [
+    "stay of execution",
+    "summary judgment",
+    "terms of settlement",
+    "functus officio",
+    "breach of contract",
+    "land sale",
+    "judicial misconduct",
+    "appeal",
+    "execution of judgment",
+    "bad faith",
+    "equity",
+    "jurisdiction",
+    "instalment payment",
+    "refund",
+    "undertaking"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Appellate Procedure",
+    "Judicial Conduct",
+    "Execution of Judgment"
+  ],
+  "verdict": "Appeal allowed; stay of execution set aside.",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sophia A. B. Akuffo",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "S. A. Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "R. T. Aninakwah",
+      "role": "Justice"
+    },
+    {
+      "name": "Sophia O. A. Adinyira",
+      "role": "Justice"
+    },
+    {
+      "name": "S. K. Asiamah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "N. B. Landmark Ltd v. Lakiani, [2001-2002] SCGLR 318"
+  ],
+  "rationaleHighlights": [
+    "The Court of Appeal erred in granting a stay of execution because the High Court's refusal to vary the settlement terms was not an executable order.",
+    "The Respondent had not appealed the original summary judgment, so there was no valid basis to stay execution of the judgment debt.",
+    "The Respondent acted in bad faith, having breached all payment undertakings and failed to make timely payments.",
+    "The equities favored the Appellant, as the debt arose from the Respondent's inability to deliver land already sold to another party.",
+    "The Respondent, a Reverend, was condemned for abusing judicial processes and engaging in unethical conduct.",
+    "The Supreme Court emphasized that only executable orders can be stayed, and no such order existed here.",
+    "The appeal before the Court of Appeal concerned jurisdiction, not the judgment debt itself.",
+    "The Respondent's conduct was described as vexatious and manipulative of the judicial system."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details (parties, judgment, reasoning) are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2007A/Kwabena Appiah v . Rev. Edmund Laryea Adjei.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:58:14.815Z",
+    "plainTextLength": 13669
+  },
+  "trialDate": "2006-04-28"
+}

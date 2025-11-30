@@ -1,0 +1,71 @@
+{
+  "caseTitle": "IN THE MATTER OF CYRIL BUNTING ROGERS",
+  "summary": "This 1941 West Africa Court of Appeal decision addressed an appeal by Cyril Bunting Rogers Wright, a legal practitioner whose name was struck off the Sierra Leone Supreme Court roll by the Acting Chief Justice for professional misconduct. The misconduct included charging an improper 10% commission on a recovered sum after already being paid a fixed fee, deducting unauthorized costs, and proposing a champertous agreement to share equally in the proceeds of a speculative lawsuit with his client. The court upheld the finding of misconduct, confirming that the Acting Chief Justice had jurisdiction under Section 53 of the Supreme Court Ordinance, 1932, and that the agreement was indeed champertous. However, it found the penalty of being struck off the roll excessive and substituted a one-year suspension, with part of the period already served counting toward the suspension. The appellant had expressed regret and refunded the disputed amounts.",
+  "legalKeywords": [
+    "champertous agreement",
+    "professional misconduct",
+    "legal practitioner discipline",
+    "Acting Chief Justice jurisdiction",
+    "Supreme Court Ordinance",
+    "section 21",
+    "section 53",
+    "Legal Practitioners Disciplinary Committee",
+    "suspension from practice",
+    "striking off the roll",
+    "unauthorized fees",
+    "costs deduction",
+    "judicial appointment",
+    "governor's appointment",
+    "disciplinary proceedings"
+  ],
+  "topics": [
+    "Legal Ethics",
+    "Judicial Authority",
+    "Professional Discipline",
+    "Champerty",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed in part; order varied",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "Graham Paul, C.J., Sierra Leone",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Appeal against disciplinary action",
+  "citations": [
+    "Legal Practitioners (Disciplinary Committee) Ordinance, 1938 (No. 24 of 1938)",
+    "Supreme Court Ordinance (No. 39 of 1932)"
+  ],
+  "rationaleHighlights": [
+    "Acting Chief Justice has full authority of the substantive Chief Justice under Section 53",
+    "Agreement to share litigation proceeds equally constitutes champerty",
+    "Proposed fee arrangement was not merely a fee suggestion but part of a broader speculative agreement",
+    "Refund of disputed amounts and expression of regret considered mitigating",
+    "Striking off the roll deemed excessive; one-year suspension substituted",
+    "Prior agreement to share proceeds confirmed the dishonorable nature of conduct",
+    "Jurisdiction upheld based on valid gubernatorial appointment"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct textual evidence from the judgment. All details are explicitly stated in the source document.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/IN THE MATTER OF  CYRIL BUNTING ROGERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:34:19.239Z",
+    "plainTextLength": 9010
+  },
+  "trialDate": "1941-03-06"
+}

@@ -1,0 +1,81 @@
+{
+  "caseTitle": "MARTlN NORTEI CODJOE",
+  "summary": "This 1935 West Africa Court of Appeal decision in Accra dismissed an appeal by Martin Nortei Codjoe and others, who sought a declaration of title to two plots of land at Nsawam and Achimota, claiming they were family property of the late Awo Afieye. The defendants, children of J.W. Kwatchey, asserted the lands were self-acquired by their father. The Supreme Court had dismissed the plaintiffs' claims, finding that the Achimota land was purchased with Kwatchey’s personal funds and that minimal family use (such as erecting a small shelter) did not convert it into family property. Similarly, the Nsawam land was deemed personal property, as the alleged ₤100 contribution by the family was intended for cocoa trading, not land purchase, and there was no agreement to make it family property. The appellate court found no merit in claims of judicial bias due to prior proceedings, upheld the trial judge's factual findings, and ruled that the judgment was consistent with native law and custom, which requires clear agreement and purpose for converting personal property into family property. The appeal was dismissed.",
+  "legalKeywords": [
+    "declaration of title",
+    "native law and custom",
+    "family property",
+    "personal property",
+    "land ownership",
+    "weight of evidence",
+    "appellate review",
+    "corroboration",
+    "self-help",
+    "conversion of property",
+    "corroborative evidence",
+    "judicial bias",
+    "influence of prior proceedings",
+    "burden of proof",
+    "oral evidence",
+    "customary law",
+    "land use",
+    "building materials",
+    "mango trees",
+    "tenancy rights"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Appellate Procedure",
+    "Property Rights",
+    "Family Property"
+  ],
+  "verdict": "Appeal dismissed; trial court's decision upholding individual ownership of land affirmed.",
+  "winningSide": "Defendants-Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Webber",
+      "role": "C.J."
+    },
+    {
+      "name": "Kingdon",
+      "role": "C.J."
+    },
+    {
+      "name": "Strother-Stewart",
+      "role": "J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Kwatchey v. Bright Davies and Others",
+    "Tmnatey v. Mate Kole, P.C. 1926-29 p.178",
+    "Chief Ntiaro and Others v. Ibolc Etok Akpam and Others Nigeria Law Reports Vol. 3 p. 9",
+    "Macaulay v. Tukuru, Full Court Judgment, N.L.R. Vol. 1, p. 37",
+    "Sam. N. Forster Okai v Kwame Asare and Others (Suit No. 1195, 18th June, 1935)",
+    "Redwar's Comments"
+  ],
+  "rationaleHighlights": [
+    "The trial judge was not improperly influenced by prior proceedings not formally in evidence, as findings were based on oral testimony.",
+    "An appellate court may reassess factual findings but will not overturn them unless perverse or unsupported.",
+    "Use of personal land by family members (e.g., erecting small shelters) does not convert it into family property under native custom.",
+    "Property acquired with personal funds remains personal even if family members later use it.",
+    "Mere contribution of labor or materials without agreement for joint ownership does not alter title.",
+    "Presumption of family ownership can be rebutted by proof of individual acquisition.",
+    "Appellate court upheld trial judge’s credibility assessments and factual conclusions.",
+    "Insufficient evidence to prove that land at Nsawam was purchased as family property."
+  ],
+  "confidenceNotes": "The document is a full judgment from the West Africa Court of Appeal with detailed reasoning; citations are explicitly referenced in the text.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/MARTlN NORTEI CODJOE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:24:28.550Z",
+    "plainTextLength": 23557
+  },
+  "trialDate": "1935-12-11"
+}

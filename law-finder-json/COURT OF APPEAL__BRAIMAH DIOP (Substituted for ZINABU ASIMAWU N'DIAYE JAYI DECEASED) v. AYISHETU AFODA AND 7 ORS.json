@@ -1,0 +1,70 @@
+{
+  "caseTitle": "JAYI DECEASED) v. AYISHETU AFODA AND 7 ORS",
+  "summary": "This Court of Appeal of Ghana decision, delivered on December 12, 2002, in the case of Braimah Diop (substituted for the deceased Zinabu Asimawu N'Diaye Jayi) v. Ayishetu Afoda and 7 Others, concerned a property dispute over House No. D.714/4 at Okaishie, Accra. The appellant challenged the trial court's declaration that the respondent and co-plaintiff had valid title to the property. The core issue was whether the testator's will effectively devised the entire property to the granddaughter, Zinabu, and whether she validly transferred ownership, including reversionary interest, to the co-plaintiff. The Court upheld the trial court's judgment, finding that the will conveyed full ownership of the four-room house at Granville Avenue (identified as D.802/1) to Zinabu for life, with reversion to her children. The appellants' claims of partial ownership, prior sale, and fraudulent land registration were rejected due to lack of credible evidence and prior findings of forgery. The appeal was dismissed.",
+  "legalKeywords": [
+    "will construction",
+    "testamentary disposition",
+    "life interest",
+    "reversionary interest",
+    "nemo dat quod non habet",
+    "fraud in land registration",
+    "forged receipt",
+    "letters of administration",
+    "vesting assent",
+    "property ownership",
+    "title to land",
+    "Court of Appeal Ghana",
+    "evidence of fraud",
+    "pending litigation disclosure",
+    "property devolution"
+  ],
+  "topics": [
+    "Probate Law",
+    "Property Law",
+    "Succession Law",
+    "Land Title Registration",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adinyira (Mrs.) J.A.",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Owusu (Miss.) J.A.",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Owusu Ansah J.A.",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "BRAIMAH DIOP v. AYISHETU AFODA AND 7 ORS [12/12/2002] C.A. NO. 100/2001"
+  ],
+  "rationaleHighlights": [
+    "The phrase 'House No. D.802/1-Four rooms at Granville Avenue' in the will was interpreted as referring to a four-room house, not a portion of a larger house.",
+    "The appellants' title deed was found fictitious and their claim of purchase was invalidated by a prior criminal finding of forgery.",
+    "No evidence supported a partition of the land; thus, the testator's devise of 'all my property' included the entire parcel.",
+    "The co-plaintiff validly acquired both life and reversionary interests through documented purchases.",
+    "The land title certificate was not obtained by fraud, as the appellants failed to prove concealment or material misrepresentation.",
+    "The trial judge's findings were supported by overwhelming evidence and not against the weight thereof.",
+    "The appellants lacked standing to challenge the reversionary interest, which passed to the testator's granddaughter's son."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning, explicit reference to exhibits, and reliance on prior findings of fact and criminal proceedings. All key determinations were uncontested on appeal.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/BRAIMAH DIOP (Substituted for ZINABU ASIMAWU N'DIAYE JAYI DECEASED) v. AYISHETU AFODA AND 7 ORS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:42:32.928Z",
+    "plainTextLength": 12704
+  },
+  "trialDate": "2002-12-12"
+}

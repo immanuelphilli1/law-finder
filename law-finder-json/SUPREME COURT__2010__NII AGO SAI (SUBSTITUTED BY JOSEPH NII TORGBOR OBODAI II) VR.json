@@ -1,0 +1,86 @@
+{
+  "caseTitle": "NII AGO SAI (SUBSTITUTED BY JOSEPH NII TORGBOR OBODAI II) VR",
+  "summary": "This Supreme Court of Ghana decision resolves a civil land dispute over Obgojo lands in Accra, determining whether allodial title belongs to the Labadi Stool or to the Anahor and Dzirase families. The appellant, Nii Ago Sai (substituted by Joseph Nii Torgbor Obodai II), claimed title through settlement and demonstrated continuous acts of ownership, including granting leases to third parties—such as Top Construction Co. Ltd.—which were formally registered (Exhibits 1A, 2A, 3A). The respondent, Nii Kpobi Tettey Tsuru III, asserted title by conquest on behalf of the Labadi Stool, relying on historical tradition dating to 1690 and precedents like Owusu v. Manche of Labadi. However, the Court found that while the Labadi Stool holds allodial title over certain lands by conquest, it had acquiesced in the appellant’s family’s open and uninterrupted exercise of ownership, including alienation to non-stool members, thereby losing its claim through estoppel and operation of section 10(1) and 10(6) of the Limitation Decree 1972 (NRCD 54). The Court emphasized that mere long-term occupation is not proof of ownership unless accompanied by adverse acts inconsistent with the stool’s title. Given the appellant’s documented grants, physical development, and corroboration from independent witnesses—including the chief of Ashalley Botwe—the Court concluded that the Anahor and Dzirase families held allodial title. The appeal was allowed, restoring the trial court’s judgment in favor of the appellant.",
+  "legalKeywords": [
+    "allodial title",
+    "customary land tenure",
+    "conquest",
+    "settlement",
+    "acts of ownership",
+    "estoppel",
+    "traditional evidence",
+    "registered lease",
+    "stool land",
+    "limitation decree",
+    "adverse possession",
+    "grant to strangers",
+    "acquiescence",
+    "boundary recognition",
+    "documentary evidence"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Tenure",
+    "Allodial Title",
+    "Estoppel",
+    "Limitation of Actions"
+  ],
+  "verdict": "Appeal allowed; allodial title declared in favor of the appellant (Joseph Nii Torgbor Obodai II, representing the Anahor and Dzirase families).",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "W. A. Atuguba",
+      "role": "Presiding Justice, delivered lead judgment"
+    },
+    {
+      "name": "Annan JSC",
+      "role": "Concurring Justice"
+    },
+    {
+      "name": "Owusu (Ms) JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Dotse JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie JSC",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil land title dispute",
+  "citations": [
+    "Bimpong v. Bawuah (1991) 2 GLR 20 C.A.",
+    "Owusu v. Manche of Labadi (1933) I WACA 278",
+    "Nartey v. Mechanical Lloyd Assembly Plant Ltd (1987-88) 2 GLR 314 S.C.",
+    "Hammond v. Odoi [1982-83] GLR 1215",
+    "Adjeibi-Kojo v Bonsie (1957) 3 WALR 257",
+    "In re Adjancote Acquisition; Klu v Agyemang II (1983) GLR 852 C.A.",
+    "Ofori v Appiah and others [1987-88] 2 GLR 583 C.A.",
+    "GIHOC Refrigeration Household Ltd v Hanna Assi (2005-2008) SC GLR 686"
+  ],
+  "rationaleHighlights": [
+    "Long occupation alone is insufficient to prove allodial title without proof of adverse possession and acts of ownership.",
+    "Grants of land to strangers by ancestors of the appellant, especially when registered, constitute strong acts of ownership.",
+    "Acquiescence by the La Stool in grants made by the Obgojo families results in estoppel and loss of title under customary and statutory law.",
+    "Documentary evidence (exhibits 1A, 2A, 3A) strengthens claim over traditional oral claims.",
+    "The Limitation Decree 1972 (NRCD 54), particularly sections 10(1) and 10(6), applies to bar stale claims where title has been exercised openly.",
+    "A stool cannot reclaim allodial title after passively allowing private alienation of land to third parties.",
+    "Recent acts of ownership are a reliable test for resolving conflicting traditional claims.",
+    "The boundary chief's testimony supports the appellant’s factual control of the land."
+  ],
+  "confidenceNotes": "High confidence based on explicit judicial reasoning, direct citation of precedent, and unchallenged documentary evidence including registered leases.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/NII AGO SAI (SUBSTITUTED BY JOSEPH NII TORGBOR OBODAI II) VR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:44:57.730Z",
+    "plainTextLength": 134141
+  },
+  "trialDate": "2010-03-24"
+}

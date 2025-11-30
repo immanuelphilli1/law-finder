@@ -1,0 +1,70 @@
+{
+  "caseTitle": "IBRAHIM RAZAK, KENNEDY YEMOAH V THE REPUBLIC",
+  "summary": "The appellants, Ibrahim Razak and Kennedy Yemoah, were convicted by the High Court for three counts of armed robbery committed on July 27, 2005, in West Anaji, Takoradi, involving the use of force and threats to steal property from three households. They were identified through police-conducted identification parades and oral testimony from prosecution witnesses who described physical features such as low haircuts and fair complexion. The Court of Appeal upheld the convictions but reduced the life sentences to 30 years, citing proportionality. The Supreme Court dismissed the further appeal, finding no merit in the grounds of doubtful identification or alibi, and affirmed that the prosecution had proven identity beyond reasonable doubt.",
+  "legalKeywords": [
+    "robbery",
+    "identification parade",
+    "mistaken identity",
+    "alibi",
+    "beyond reasonable doubt",
+    "life imprisonment",
+    "30 years imprisonment",
+    "criminal appeal",
+    "evidence of identity",
+    "deterrence"
+  ],
+  "topics": [
+    "criminal law",
+    "appellate review",
+    "evidence",
+    "sentencing",
+    "identification"
+  ],
+  "verdict": "Appeal dismissed; convictions upheld, sentence reduced to 30 years imprisonment.",
+  "winningSide": "The Republic",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Ansa JSC",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Akuffo (Ms) JSC",
+      "role": "member of bench"
+    },
+    {
+      "name": "Date-Bah JSC",
+      "role": "member of bench"
+    },
+    {
+      "name": "Bonnie JSC",
+      "role": "member of bench"
+    },
+    {
+      "name": "Bamfo (Mrs) JSC",
+      "role": "member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R v Turnbull [1977] QB 224",
+    "Adu Boahene v The Republic [1972] 1 GLR 70"
+  ],
+  "rationaleHighlights": [
+    "Conviction upheld due to reliable identification via parade and consistent witness testimony.",
+    "Sentence reduced from life to 30 years on grounds of proportionality despite gravity of crime.",
+    "Appellate court emphasized that identification must be scrutinized carefully in cases based on eyewitness accounts.",
+    "Non-identification of second appellant in first parade was explained by subsequent identification and corroborative features."
+  ],
+  "confidenceNotes": "The judgment is well-reasoned with clear reference to precedent and factual analysis. The Supreme Court upheld the lower courts' findings on identity and alibi, indicating strong evidentiary support.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/IBRAHIM RAZAK, KENNEDY YEMOAH  V THE REPUBLIC.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:31:29.151Z",
+    "plainTextLength": 30348
+  }
+}

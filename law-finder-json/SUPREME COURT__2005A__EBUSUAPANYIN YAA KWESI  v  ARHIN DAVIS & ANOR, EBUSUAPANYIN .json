@@ -1,0 +1,79 @@
+{
+  "caseTitle": "EBUSUAPANYIN YAA KWESI v ARHIN DAVIS & ANOR, EBUSUAPANYIN",
+  "summary": "The case of Ebusuapanyin Yaa Kwesi v Arhin Davis & Anor involved a land dispute over ownership and possession of a parcel of land at Anagye, Ghana. The plaintiff, claiming to be the head of the Basia Aya’s Ebiradze Family, sought a declaration of title, damages for trespass, an order to quash a lease, and a perpetual injunction. The defendants relied on a 1912 judgment and prior litigation to argue estoppel, asserting that the plaintiff's ancestor had admitted selling the land. The High Court dismissed the plaintiff's claim, finding failure to prove title and applying issue estoppel. The Court of Appeal upheld this decision, emphasizing admissions by predecessors as binding. The Supreme Court affirmed, holding that the plaintiff failed to discharge the burden of proof and that prior judicial admissions created issue estoppel, barring relitigation of ownership.",
+  "legalKeywords": [
+    "issue estoppel",
+    "burden of proof",
+    "title to land",
+    "admission against interest",
+    "hearsay evidence",
+    "perpetual injunction",
+    "trespass damages",
+    "root of title",
+    "successors in title",
+    "evidence decree",
+    "surveyor's plan",
+    "judicial admission",
+    "land litigation",
+    "family ownership",
+    "proprietary interest"
+  ],
+  "topics": [
+    "Land Law",
+    "Estoppel",
+    "Civil Procedure",
+    "Evidence Law",
+    "Supreme Court Jurisprudence"
+  ],
+  "verdict": "Dismissed",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lartey, J.S.C.",
+      "role": "Presiding Judge delivering judgment"
+    },
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Member of panel"
+    },
+    {
+      "name": "Dr. Twum, J.S.C.",
+      "role": "Member of panel"
+    },
+    {
+      "name": "Dr. Date-Bah, J.S.C.",
+      "role": "Member of panel"
+    },
+    {
+      "name": "Aninakwa, J.S.C.",
+      "role": "Member of panel"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "NKYI XI v. KUMAH [1959] G.L.R. 281",
+    "KPONUGLO & ORS. V. KODDADJA 2 W.A.C.A. 24",
+    "ADWUBENG v. DOMFEH [1996-97] S.C.G.L.R. 660"
+  ],
+  "rationaleHighlights": [
+    "Plaintiff failed to discharge burden of proving superior title",
+    "Admissions by ancestor in 1912 proceedings constituted issue estoppel",
+    "Prior judicial findings barred relitigation of ownership",
+    "Failure to produce survey plan weakened plaintiff's claim",
+    "Estoppel applied based on statement against proprietary interest",
+    "Defendants' root of title traced through historical judgments"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed court record and consistent legal reasoning across judicial levels.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2005A/EBUSUAPANYIN YAA KWESI  v  ARHIN DAVIS & ANOR, EBUSUAPANYIN .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:31:08.928Z",
+    "plainTextLength": 25845
+  },
+  "trialDate": "2004-10-04"
+}

@@ -1,0 +1,72 @@
+{
+  "caseTitle": "KWESI ENIMIL O BORTOGINA VILLAGE, v KWESI TUAKYI AND ANOTH",
+  "summary": "This 1952 West Africa Court of Appeal decision in Ghana addressed a contempt of court ruling against Kwesi Enimil, who remained in possession of disputed land after a Writ of Possession was executed. The lower court had found him in contempt for failing to vacate the Bortogina lands following a judgment affirmed on 3rd February 1950. However, the appellate court allowed the appeal, holding that the appellant reasonably believed, based on an undertaking by the respondents' counsel during final leave proceedings on 22nd June 1950, that no further steps would be taken to enforce possession until the outcome of the Privy Council appeal was known. The court emphasized that contempt proceedings are strictissimi juris and that a reasonable mistake, especially where status quo was maintained and no actual possession taken by the respondents, negated contempt. The fine and costs were ordered to be repaid, and the appeal costs awarded to the appellant.",
+  "legalKeywords": [
+    "contempt of court",
+    "writ of possession",
+    "undertaking by counsel",
+    "stay of execution",
+    "conditional leave to appeal",
+    "final leave to appeal",
+    "status quo",
+    "reasonable mistake",
+    "Privy Council",
+    "native customary law",
+    "delivery of possession",
+    "liberty of the subject",
+    "strictissimi juris",
+    "waiver of contempt",
+    "judicial undertaking"
+  ],
+  "topics": [
+    "Contempt of Court",
+    "Appeals",
+    "Land Disputes",
+    "Judicial Remedies",
+    "Legal Procedure"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Foster-Sutton",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Coussey",
+      "role": "Justice"
+    },
+    {
+      "name": "Korsah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal, Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "WACA/14",
+    "20/51"
+  ],
+  "rationaleHighlights": [
+    "Contempt proceedings are strictissimi juris and affect personal liberty.",
+    "An undertaking by opposing counsel can create a reasonable belief that enforcement is stayed.",
+    "Technical legal possession does not equate to actual occupation.",
+    "A reasonable mistake in interpreting court-related assurances negates contempt.",
+    "Status quo maintained during appeal supports non-enforcement interpretation.",
+    "Conditional and final leave to appeal context informs party expectations.",
+    "No intention to defy court order was demonstrated by appellant.",
+    "Equity favored mutual cost-bearing given settlement and circumstances."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on original court transcript and consistent judicial reasoning. Case predates modern citation standards but is well-documented within historical legal records of the Gold Coast.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/KWESI ENIMIL O BORTOGINA VILLAGE,  v  KWESI TUAKYI AND ANOTH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:35:12.513Z",
+    "plainTextLength": 9165
+  },
+  "trialDate": "1950-02-23"
+}

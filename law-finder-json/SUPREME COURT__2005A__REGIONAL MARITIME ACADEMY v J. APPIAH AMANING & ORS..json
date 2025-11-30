@@ -1,0 +1,80 @@
+{
+  "caseTitle": "REGIONAL MARITIME ACADEMY v J. APPIAH AMANING & ORS.",
+  "summary": "The Supreme Court of Ghana in Regional Maritime Academy v J. Appiah Amaning & Ors. (2005) reversed the Court of Appeal's majority decision and restored the High Court's judgment in favor of the Regional Maritime Academy. The plaintiffs, former employees of the Academy, were retrenched in 1995 and claimed entitlement to end-of-service benefits calculated at two and a half months' salary per year of service, based on alleged agreements reached through union negotiations. The Supreme Court held that the Academy, as an international institution governed by P.N.D.C.L. 33, operates under the autonomous authority of its Board of Governors, which has exclusive power to determine employee conditions of service and financial obligations. The Court found no binding agreement approved by the Board, noting that negotiations involving the Principal and Ministry officials did not amount to enforceable commitments without Board ratification. Reliance was placed on precedents emphasizing that negotiation outcomes are not binding absent formal acceptance. The appeal was allowed, affirming that the plaintiffs' claims lacked legal foundation under the Academy's statutory and international framework.",
+  "legalKeywords": [
+    "retrenchment",
+    "end-of-service benefits",
+    "collective bargaining",
+    "Board of Governors",
+    "autonomy",
+    "international status",
+    "binding agreement",
+    "negotiation",
+    "severance pay",
+    "conditions of service",
+    "statutory interpretation",
+    "employee rights",
+    "union representation",
+    "ratification",
+    "contractual effect"
+  ],
+  "topics": [
+    "Labor Law",
+    "Administrative Law",
+    "Public Institutions",
+    "Supreme Court Jurisprudence",
+    "Employment Rights"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendant/Respondent/Appellant (Regional Maritime Academy)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lartey, J.S.C.",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Miss Akuffo, J.S.C.",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Ansa, J.S.C.",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Aninakwa, J.S.C.",
+      "role": "Member of Coram"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "P.N.D.C.L. 33",
+    "Obeng v. Mframah [1987-88] 1 G.L.R. 548, C.A.",
+    "Zogli v. Ganyo [1977] 1 G.L.R. 298",
+    "Nartey-Tokoli v. Volta Aluminium Co. Ltd. [1987-88] 2 G.R.L. 533, C.A.",
+    "Koglex Ltd. v. Field [1998-99] S.C.G.L.R. 451"
+  ],
+  "rationaleHighlights": [
+    "The Board of Governors of RMA has exclusive authority over employee conditions and financial decisions.",
+    "Negotiations without Board approval do not create binding obligations.",
+    "The Academy's international status and autonomy limit domestic labor agreements.",
+    "A principal's commitment without delegation is unenforceable against the institution.",
+    "Precedent holds that negotiated terms require formal acceptance to be binding."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official Supreme Court judgment text. All legal principles and case references are explicitly stated in the source document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2005A/REGIONAL MARITIME ACADEMY v J. APPIAH AMANING & ORS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:28:58.432Z",
+    "plainTextLength": 16205
+  },
+  "trialDate": "2004-04-20"
+}

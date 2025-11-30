@@ -1,0 +1,79 @@
+{
+  "caseTitle": "PATRICK BARKERS-WOODE v NANA FITZ",
+  "summary": "In this 2006 Supreme Court of Ghana decision, the court reviewed a dispute over the construction and ownership of a building near Achimota, Accra. The plaintiff, Patrick Barkers-Woode, claimed he paid 14 million cedis for a contractor, Nana Fitz, to build a house on his land, with the final 3 million cedis due upon completion. When the defendant demanded the balance after roofing was done, the plaintiff refused, asserting the work was incomplete. The defendant claimed the building was complete, the contract was rescinded, and partial refund offered. The trial judge found for the plaintiff, determining the building was not completed. The Court of Appeal reversed this, but the Supreme Court restored the trial judge’s decision, holding that appellate courts cannot overturn supported findings of fact, particularly those involving witness credibility and demeanor. The Supreme Court emphasized the principle that where a trial judge’s factual conclusions are backed by evidence, an appellate court must not interfere, even if it might have interpreted the evidence differently.",
+  "legalKeywords": [
+    "appellate review",
+    "findings of fact",
+    "credibility of witnesses",
+    "trial judge discretion",
+    "contract completion",
+    "oral contract",
+    "rescission of contract",
+    "balance of payment",
+    "caretaker occupation",
+    "evidence evaluation"
+  ],
+  "topics": [
+    "Contract Law",
+    "Appellate Procedure",
+    "Property Dispute",
+    "Evidence Law",
+    "Judicial Review"
+  ],
+  "verdict": "The Supreme Court allowed the Plaintiff's appeal, set aside the judgment of the Court of Appeal, and restored the judgment of the trial High Court.",
+  "winningSide": "Plaintiff/Respondent (Patrick Barkers-Woode)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Presiding Judge delivering judgment"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Aninakwah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Mrs. Akoto-Bamfo",
+      "role": "Justice of the Court of Appeal (referenced)"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Zanyo v Fofie [1992] GLR 475",
+    "Re Reed (A Debtor); Ex parte The Debtor v. Official Receiver [1979] 2 All E.R. 22",
+    "Gross v. Lewis Hillman Ltd. [1969] 3 W.L.R. 787",
+    "Adorkor v. Gatsi [1966] G.L.R. 31",
+    "Dompreh v Adu 1984-86 1 GLR 655"
+  ],
+  "rationaleHighlights": [
+    "Appellate courts must defer to trial judges' findings of fact when supported by evidence, especially regarding witness credibility.",
+    "The Supreme Court emphasized that appellate courts should not substitute their own perception of evidence for that of the trial judge who observed witnesses firsthand.",
+    "The Court of Appeal erred by reversing specific factual findings rather than inferences, which is impermissible under settled Ghanaian jurisprudence.",
+    "Placing a caretaker in an unfinished building does not necessarily imply completion; it may reflect a desire to protect a substantial financial investment.",
+    "The trial judge's finding that the building was incomplete was supported by credible evidence and should not have been overturned."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct quotations from judgment and clear identification of judicial reasoning.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2006A/PATRICK BARKERS-WOODE v NANA FITZ.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:22:18.073Z",
+    "plainTextLength": 29473
+  },
+  "trialDate": "8TH NOVEMBER  2006"
+}

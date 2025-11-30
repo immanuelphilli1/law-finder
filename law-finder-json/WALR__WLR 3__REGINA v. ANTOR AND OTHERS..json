@@ -1,0 +1,70 @@
+{
+  "caseTitle": "REGINA VERSUS ANTOR",
+  "summary": "The appellants were convicted of conspiring to prepare to attack with armed force under sections 49(1) and 342 of the Criminal Code. On appeal, the Court of Appeal quashed the convictions of the first two appellants due to procedural irregularities in the handling of jury verdicts. The jury initially returned mixed verdicts: unanimous for some, and majority splits (4-3 and 5-2) for others. Instead of accepting or properly completing the majority verdicts as required by section 298 of the Criminal Procedure Code, the trial judge allowed the jury to return for further deliberations after they requested directions. The appellate court held this was illegal, as once a majority verdict is declared, no further judicial directions may be given. The court emphasized that verdicts in joint trials must be taken at the same time and clarified that 'preparing to attack with armed force' is a substantive offence under section 342, separable from the actual attack.",
+  "legalKeywords": [
+    "jury trial",
+    "majority verdict",
+    "unanimous verdict",
+    "conspiracy",
+    "preparing to attack with armed force",
+    "Criminal Procedure Code",
+    "directions to jury",
+    "joint trial",
+    "verdict irregularity",
+    "section 298",
+    "section 342",
+    "section 49",
+    "criminal appeal",
+    "judge's direction",
+    "retrial"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Jury Trial Procedure",
+    "Appeal",
+    "Conspiracy",
+    "Majority Verdict"
+  ],
+  "verdict": "Convictions of first two appellants quashed due to procedural illegality; other verdicts not challenged on this ground.",
+  "winningSide": "Appellants (first two)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Korsah C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Granville Sharp J.A.",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Ollennu J.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Oreasey (1953) 37 Cr.App.R. 179",
+    "R. v. Walhein (1952) 36 Cr.App.R. 167",
+    "R. v. Philpot (1912) 7 Cr.App.R. 140",
+    "Criminal Procedure Code, c. 9, ss. 294, 295, 298",
+    "Criminal Code, c. 9, ss. 49(1), 342"
+  ],
+  "rationaleHighlights": [
+    "Distinction between lack of unanimity and agreed disagreement is legally significant under ss. 294–298.",
+    "Judge erred in allowing further deliberations after majority verdicts were announced.",
+    "Verdicts in joint trials must be taken simultaneously for all accused.",
+    "Section 342 creates two distinct offences: 'attacking' and 'preparing to attack' with armed force."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear references to statutory provisions and case law.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/REGINA v. ANTOR AND OTHERS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:54:30.036Z",
+    "plainTextLength": 22389
+  }
+}

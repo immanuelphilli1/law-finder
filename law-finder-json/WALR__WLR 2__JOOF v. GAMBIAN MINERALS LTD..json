@@ -1,0 +1,65 @@
+{
+  "caseTitle": "JOOF VERSUS GAMBIAN MINERALS LTD.",
+  "summary": "In Joof v. Gambia Minerals Ltd., the plaintiff, a carpenter, suffered severe hand injuries from a circular saw at work due to the absence of a safety guard, resulting in the amputation of three fingers and 42.5% disability. The defendant admitted negligence but raised two defenses: contributory negligence and prior compensation under the Workmen's Compensation Ordinance, c. 93, s. 25(1)(b), which they argued barred the common law claim. The court rejected the statutory bar defense because the prior 'judgment' was issued against the company's manager, not the employer entity itself, and procedural rules under the Ordinance were not followed. On merits, the court found the plaintiff 25% contributorily negligent under the Laws of England (Application) Ordinance, c. 1, s. 11, reducing general damages from £1,600 to £1,200. Special damages amounted to £107 14s. The decision affirms strict compliance with statutory procedures and allows common law claims where procedural defects invalidate prior compensation proceedings.",
+  "legalKeywords": [
+    "contributory negligence",
+    "common law remedy",
+    "Workmen's Compensation Ordinance",
+    "statutory bar",
+    "industrial injury",
+    "employer liability",
+    "procedural compliance",
+    "judgment against employer",
+    "negligence",
+    "damages assessment",
+    "guard removal",
+    "circular saw accident",
+    "disability compensation",
+    "strict construction",
+    "Rules of Court"
+  ],
+  "topics": [
+    "Employment Law",
+    "Tort Law",
+    "Workers' Compensation",
+    "Judicial Procedure",
+    "Personal Injury"
+  ],
+  "verdict": "For the plaintiff",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Miles C.J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court of the Protectorate of the Gambia",
+    "country": "Gambia"
+  },
+  "caseType": "Civil Tort / Employment Injury",
+  "citations": [
+    "Workmen's Compensation Ordinance, c. 93, s. 25(1)(b)",
+    "Laws of England (Application) Ordinance, c. 1, s. 11",
+    "Workmen's Compensation (Rules of Court) Rules, 1941, Rule 10(1)",
+    "Workmen's Compensation (Rules of Court) Rules, 1941, Rule 15(1)"
+  ],
+  "rationaleHighlights": [
+    "Judgment against manager, not employer, fails to trigger s. 25(1)(b) bar.",
+    "Procedural non-compliance with Workmen's Compensation Rules invalidates prior proceedings.",
+    "Employer negligent in requiring work with unguarded saw.",
+    "Plaintiff 25% contributorily negligent for hand placement during operation.",
+    "General damages reduced proportionally under English law principles.",
+    "Special damages include lost wages and medical travel costs.",
+    "Strict construction applied to statutory bar provisions.",
+    "Familiarity with hazard contributed to plaintiff's lapse in caution."
+  ],
+  "confidenceNotes": "High confidence; all data directly extracted from judgment text. Case originates from Gambia, not Ghana as initially suggested in query, corrected based on document header and content.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/JOOF v. GAMBIAN MINERALS LTD..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:29:19.289Z",
+    "plainTextLength": 15322
+  }
+}

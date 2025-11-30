@@ -1,0 +1,66 @@
+{
+  "caseTitle": "COMM P V KWAKU KLU AND OTHERS",
+  "summary": "This 1938 West Africa Court of Appeal decision in Accra involved fifty-eight individuals charged with unlawful assembly under section 346 of Cap. 29 for actions on October 24, 1937, at Krachikrom. The Magistrate convicted fifty-four, while four were later acquitted. Although the charge was unlawful assembly, the Magistrate's judgment recorded a conviction for riot, an uncharged offense. The Supreme Court dismissed appeals by all fifty-eight. On further appeal, the West Africa Court of Appeal struck out the appeals of the four unconvicted individuals and corrected the legal error in the convictions of the remaining fifty-four by altering the finding to 'guilty of the offence charged' under sections 319 and 326 of Cap. 10, while upholding the original sentences of a fine of £5 or three months' imprisonment.",
+  "legalKeywords": [
+    "unlawful assembly",
+    "riot",
+    "conviction error",
+    "section 346 Cap 29",
+    "section 319 Cap 10",
+    "section 326 Cap 10",
+    "appellate correction",
+    "West Africa Court of Appeal",
+    "criminal procedure",
+    "alteration of finding",
+    "Ghana legal history",
+    "Magistrate's court error"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Legal Error Correction",
+    "Colonial Ghana Jurisprudence"
+  ],
+  "verdict": "Conviction altered to match charge; sentence upheld",
+  "winningSide": "Respondent",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Yates",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "section 346 Cap 29",
+    "section 319 Cap 10",
+    "section 326 Cap 10"
+  ],
+  "rationaleHighlights": [
+    "Conviction for riot was invalid as it was not the charge brought",
+    "Appellate court has power to correct form of judgment under Cap 10",
+    "Substance of guilt upheld despite mislabeling",
+    "Appeals of unconvicted accused dismissed for lack of standing",
+    "Sentences confirmed as appropriate"
+  ],
+  "confidenceNotes": "High confidence; details are clearly stated in the judgment, including charges, legal provisions, and appellate reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/COMM P V KWAKU KLU AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:03:42.406Z",
+    "plainTextLength": 3468
+  },
+  "trialDate": "1938-05-30"
+}

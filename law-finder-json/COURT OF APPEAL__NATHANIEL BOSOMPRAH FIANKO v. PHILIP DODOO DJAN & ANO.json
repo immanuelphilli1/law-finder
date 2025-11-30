@@ -1,0 +1,78 @@
+{
+  "caseTitle": "NATHANIEL BOSOMPRAH FIANKO v. PHILIP DODOO DJAN & ANO.",
+  "summary": "This Court of Appeal decision in Ghana concerns a civil dispute over ownership of a property between the appellant, Nathaniel Bosomprah Fianko, and the respondents, Philip Dodoo Djan and another. The appellant relied on documentary evidence, including a title deed, building permit, and rate receipts in his deceased father's name, to claim ownership. The respondents argued that the father was only a bare legal owner, with beneficial ownership belonging to the co-respondent, who funded the property. The court upheld the High Court's dismissal of the appellant's claim, emphasizing that the father's and his children's conduct—regularly handing over rental income to the co-respondent—constituted a declaration against interest and established estoppel by conduct under section 26 of the Evidence Decree, NRCD 175. The court rejected the argument that the co-respondent, as a mere witness to the deed, was estopped under section 25, clarifying that a witness is not a party to the instrument. The appellate court found no misappreciation of evidence and affirmed that concurrent factual findings by lower courts should not be disturbed absent a clear error. The appeal was dismissed.",
+  "legalKeywords": [
+    "estoppel by conduct",
+    "documentary evidence",
+    "oral evidence",
+    "successors in interest",
+    "presumption of truth",
+    "beneficial ownership",
+    "bare legal owner",
+    "title deed",
+    "rent payment as conduct",
+    "family property dispute",
+    "Evidence Decree NRCD 175",
+    "section 25",
+    "section 26",
+    "concurrent findings",
+    "appellate intervention",
+    "misappreciation of evidence",
+    "declaration against interest",
+    "witness not party",
+    "equity",
+    "fraudulent claim"
+  ],
+  "topics": [
+    "Property Law",
+    "Evidence Law",
+    "Estoppel",
+    "Appellate Procedure",
+    "Family Law"
+  ],
+  "verdict": "Appeal dismissed; High Court judgment upholding respondents' ownership affirmed.",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Gbadegbe",
+      "role": "author"
+    },
+    {
+      "name": "Essilfie-Bondzie",
+      "role": "concurrence"
+    },
+    {
+      "name": "Anin-Yeboah",
+      "role": "concurrence"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Swiss African Trading Co. Ltd vrs. Aryee [1961] 1 GLR. 184",
+    "Achoro and Another vrs. Akanfela [1996-97] SCGLR.209",
+    "Owners of the \"P. Caland\" and Freight vrs. Glamorgan Steamship [1893] AC.207"
+  ],
+  "rationaleHighlights": [
+    "Subsequent conduct (rent turnover) outweighs documentary evidence in determining beneficial ownership.",
+    "A witness to a deed is not a party to it and cannot be estopped under section 25 of NRCD 175.",
+    "Estoppel by conduct under section 26 defeats presumptions from documents when actions contradict them.",
+    "Courts must examine surrounding circumstances in family property disputes.",
+    "Concurrent factual findings by lower courts are not easily overturned on appeal.",
+    "Failure to question father during lifetime supports inference that he was not true owner.",
+    "Beneficial ownership can lie apart from legal title, especially in familial contexts.",
+    "Appellate court will not interfere unless there is a clear error causing miscarriage of justice."
+  ],
+  "confidenceNotes": "The judgment is clear and well-reasoned, with consistent agreement among all three justices. The legal analysis is thorough, particularly on estoppel and documentary vs. oral evidence. All key details such as parties, court, and legal principles are explicitly stated in the text.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/NATHANIEL BOSOMPRAH FIANKO v. PHILIP DODOO DJAN & ANO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:13:28.632Z",
+    "plainTextLength": 14617
+  },
+  "trialDate": "2004-02-26"
+}

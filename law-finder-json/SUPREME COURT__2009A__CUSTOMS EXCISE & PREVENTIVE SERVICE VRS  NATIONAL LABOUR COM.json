@@ -1,0 +1,87 @@
+{
+  "caseTitle": "CUSTOMS EXCISE & PREVENTIVE SERVICE VRS NATIONAL LABOUR COM",
+  "summary": "The Supreme Court of Ghana, in Customs Excise & Preventive Service v. National Labour Commission (2009), determined that the Labour Act, 2003 (Act 651) applies to the Customs, Excise and Preventive Service (CEPS), affirming CEPS workers' right to unionize. The plaintiff sought a declaration that the application of the Labour Act to CEPS was unconstitutional under Article 24(4) and that a 1987 Collective Bargaining Certificate was void. The Court rejected these claims, holding that CEPS was not included in the list of excluded security agencies under the Labour Act and that Parliament had previously declined to classify CEPS as a security service. The decision emphasized constitutional protections for workers' rights to form or join trade unions, subject only to lawful and necessary restrictions for national security. The Court also clarified that parliamentary debates, while informative, cannot override the clear text of legislation.",
+  "legalKeywords": [
+    "Labour Act 2003",
+    "Article 24(4)",
+    "Collective Bargaining Certificate",
+    "unionization",
+    "national security",
+    "public order",
+    "Constitution of Ghana",
+    "Security and Intelligence Agencies Act",
+    "para-military services",
+    "expressio unius est exclusio alterius",
+    "judicial interpretation",
+    "statutory construction",
+    "workers' rights",
+    "trade union",
+    "jurisdiction",
+    "original jurisdiction",
+    "constitutional interpretation",
+    "Parliamentary Debates",
+    "public service",
+    "right to association"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Labour Law",
+    "Judicial Review",
+    "Statutory Interpretation",
+    "Public Service Employment"
+  ],
+  "verdict": "The claims of the plaintiff were dismissed.",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ansa, J.S.C."
+    },
+    {
+      "name": "Adinyira, J.S.C."
+    },
+    {
+      "name": "Dotse, J.S.C."
+    },
+    {
+      "name": "Anin Yeboah, J.S.C."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional and Labour Law",
+  "citations": [
+    "Mensima v. Attorney-General (1996-97) SC GLR 676",
+    "New Patriotic Party v Attorney-General (Ciba Case) (1996-97) SC GLR 729",
+    "Sam (No. 2) v Attorney-General (2000) SC GLR 305",
+    "Adofo v. Attorney-General & Cocobod (2005–2006) SC GLR 42",
+    "Republic v. High Court, Accra, Ex parte Attorney-General (Delta Foods Case) (1998-99) SC GLR 595",
+    "Okwan and others v. Amankwa II (1991) IGLR 123 C.A",
+    "State v. General Officer Commanding the Ghana Army, Ex parte Barimah (1967) GLR 192 C.A",
+    "New Patriotic Party v. Attorney-General (31st December Case) (1993-94) 2 GLR 35"
+  ],
+  "rationaleHighlights": [
+    "The Labour Act 2003 (Act 651) applies to CEPS as it is not listed among the excluded services such as the Armed Forces, Police, Prisons, or specified Security and Intelligence Agencies.",
+    "Section 235 of PNDCL 330 does not impose the same liabilities as the Police Service Act, so CEPS officers are not barred from joining trade unions.",
+    "Parliament’s failure in 1996 to reclassify CEPS as a security service, despite debate, supports the interpretation that CEPS remains a civilian public service.",
+    "The maxim expressio unius est exclusio alterius applies: the specific exclusion of certain services in the Labour Act implies inclusion of others like CEPS.",
+    "Article 24(4) allows restrictions on unionization only if prescribed by law and necessary for national security, which was not demonstrated in this case.",
+    "Parliamentary debates are admissible as interpretive aids but cannot override the clear language of a statute.",
+    "The plaintiff’s original action was properly brought before the Supreme Court given its exclusive jurisdiction over constitutional matters.",
+    "The 1987 Collective Bargaining Certificate remains valid as there is no constitutional or statutory bar to its application to CEPS."
+  ],
+  "confidenceNotes": "The summary and analysis are based on a truncated document; however, the key holdings, reasoning, and citations are sufficiently present to support high-confidence extraction. The missing portion appears to be the conclusion of the judgment, but the core legal reasoning and outcome are intact.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/CUSTOMS EXCISE & PREVENTIVE SERVICE VRS  NATIONAL LABOUR COM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:10:03.565Z",
+    "plainTextLength": 81493
+  },
+  "trialDate": "2009-02-04"
+}

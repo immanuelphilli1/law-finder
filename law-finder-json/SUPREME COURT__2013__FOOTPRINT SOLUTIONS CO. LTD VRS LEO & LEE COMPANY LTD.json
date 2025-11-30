@@ -1,0 +1,77 @@
+{
+  "caseTitle": "FOOTPRINT SOLUTIONS CO. LTD VRS LEO & LEE COMPANY LTD",
+  "summary": "The Supreme Court of Ghana dismissed an appeal challenging the Court of Appeal's decision to grant a stay of proceedings in a commercial dispute between Footprint Solutions Co. Ltd (Appellant) and Leo & Lee Company Ltd (Respondent). The case originated from a claim for recovery of GHC 20,000 paid for a faulty printer, with the Respondent seeking a change of venue from Kumasi to Accra based on the contract's execution location. After the High Court denied the venue change, the Respondent appealed and filed for a stay of proceedings before the High Court granted summary judgment in favor of the Appellant. The Court of Appeal granted the stay, which the Appellant challenged as invalid due to the finality of the summary judgment. The Supreme Court upheld the stay, ruling it was properly granted under Rule 27A of C.I. 19 because the interlocutory appeal on venue was pending when the application was filed. The Court emphasized the inherent jurisdiction of appellate courts to manage proceedings and prevent injustice, even after final judgment, provided execution had not been completed. It also ordered the Respondent to expedite the appeal on the summary judgment to resolve the underlying dispute.",
+  "legalKeywords": [
+    "stay of proceedings",
+    "interlocutory appeal",
+    "summary judgment",
+    "inherent jurisdiction",
+    "change of venue",
+    "Court of Appeal Rules",
+    "final judgment",
+    "execution of judgment",
+    "contract performance",
+    "forum conveniens",
+    "prima facie evidence",
+    "record of appeal",
+    "procedural fairness",
+    "commercial dispute",
+    "jurisdictional challenge"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Appellate Jurisdiction",
+    "Commercial Law",
+    "Contract Law",
+    "Judicial Remedies"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "J. B. Akamba",
+      "role": "Delivered leading judgment"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Concurred with reasons"
+    },
+    {
+      "name": "Date-Bah",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Baffoe Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "Benin",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "C.I. 19 (Court of Appeal Rules, 1996)",
+    "Republic v Committee of Inquiry (R.T. Briscoe Ghana) Ltd Ex parte R.T. Briscoe (Ghana) Ltd [1976] 1 G.L.R. 166",
+    "Acheampong v Asare-Manu [1976] 1 G.L.R. 28"
+  ],
+  "rationaleHighlights": [
+    "The Court of Appeal had jurisdiction to grant a stay under Rule 27A as the interlocutory appeal on venue was pending when the application was filed.",
+    "A final judgment does not extinguish the court's ability to stay proceedings if execution has not occurred and the action remains pending.",
+    "The inherent jurisdiction of the Court of Appeal allows it to manage proceedings to prevent injustice.",
+    "Prima facie evidence (search report) showed the Appellant was aware of the stay application before seeking summary judgment.",
+    "The appeal against summary judgment should be prioritized to give purpose to the interlocutory appeal on venue."
+  ],
+  "confidenceNotes": "The summary is based on a complete judgment text with clear holdings and reasoning. All key elements including parties, procedural history, legal issues, and dispositions are explicitly stated in the source.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/FOOTPRINT SOLUTIONS CO. LTD VRS LEO & LEE COMPANY LTD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:13:04.293Z",
+    "plainTextLength": 16571
+  }
+}

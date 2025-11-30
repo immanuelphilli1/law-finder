@@ -1,0 +1,85 @@
+{
+  "caseTitle": "INTELSAT GLOBAL SALES AND VR NETWORK COMPUTER SYSTEM LTD 20TH DECEMBER, 2011",
+  "summary": "This Supreme Court ruling addresses the jurisdictional validity of an appeal from a High Court decision refusing to set aside the registration of a foreign judgment. The central issue was whether the appeal, filed beyond the 21-day limit, was a nullity due to the interlocutory nature of the order. The court held that if an order is a nullity—particularly for violating Section 17 of the Bodies Corporate (Official Liquidation) Act, 1963 (Act 180)—the lapse of time does not deprive the court of jurisdiction to review it. Relying on the foundational principle from Mosi v. Bagyina, the court reaffirmed that a judgment void ab initio remains void indefinitely and may be set aside at any time. The ruling underscores that jurisdictional defects cannot be cured by procedural timelines, and such void orders are unenforceable regardless of when they are challenged.",
+  "legalKeywords": [
+    "nullity",
+    "jurisdiction",
+    "final order",
+    "interlocutory order",
+    "Bodies Corporate (Official Liquidation) Act",
+    "Act 180",
+    "stay of execution",
+    "foreign judgment",
+    "secured creditor",
+    "void ab initio",
+    "appellate jurisdiction",
+    "time limits",
+    "liquidation",
+    "civil proceedings",
+    "procedural breach"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Judicial Review",
+    "Insolvency and Liquidation",
+    "Appellate Jurisdiction",
+    "Nullity of Judgments"
+  ],
+  "verdict": "The application for stay of execution was not entertained due to lack of jurisdiction stemming from a potentially null order, but the court affirmed its power to address jurisdictional nullities regardless of time.",
+  "winningSide": "The court ruled in favor of upholding jurisdictional principles, effectively supporting the respondent's position that the appeal process could not proceed due to the nullity issue.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Atuguba, JSC",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Akuffo, JSC",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Adinyira, JSC",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Gbadegbe, JSC",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Akoto-Bamfo, JSC",
+      "role": "Panel Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Mosi v. Bagyina (1963) 1 GLR 637 S.C.",
+    "Republic v. High Court (Fast Track Division) Accra; Ex parte Speedline Stevedoring Co. Ltd (2007-2008) 1 SCGLR 102",
+    "Republic v. Commissioner for Local Government; Ex parte Nii Amar II (1975) 2 GLR 122",
+    "Ghassoub v. Dizengoff (W.A.) (1962) 2 GLR 133 SC",
+    "Okomfo Afuah v. Sarbah (1974) 1 GLR 147",
+    "Pioneer Construction Products Ltd. v. Faddol (1974) 1 G.L.R. 76",
+    "Bozson v. Altrincham UDC (1903) 1 K.B. 547",
+    "Haron bin Mohd Zaid v. Central Securities (Holdings) Bhd (1982) 2 All ER 481",
+    "Atta Kwadwo v. Badu (1977) 1 GLR 1 C.A.",
+    "Pomaa v. Fosuhene (1987-88) 1 GLR 244 S.C."
+  ],
+  "rationaleHighlights": [
+    "An order that is void ab initio can be challenged at any time, regardless of procedural time limits.",
+    "Jurisdictional nullity overrides time-based objections to appeals.",
+    "Section 17 of Act 180 prohibits civil proceedings against a company in official liquidation, except by secured creditors.",
+    "The principle in Mosi v. Bagyina affirms that time cannot validate a void judgment.",
+    "The court emphasized that a void decision remains void for all time and may be set aside by any competent court."
+  ],
+  "confidenceNotes": "The ruling is clear and well-reasoned, with consistent reliance on binding precedents from the Supreme Court of Ghana and the Privy Council. The legal principles on nullity and jurisdiction are firmly established.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/INTELSAT GLOBAL SALES AND VR NETWORK COMPUTER SYSTEM LTD    20TH DECEMBER, 2011.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:04:57.378Z",
+    "plainTextLength": 56515
+  },
+  "trialDate": "2011-01-08"
+}

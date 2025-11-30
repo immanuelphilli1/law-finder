@@ -1,0 +1,77 @@
+{
+  "caseTitle": "AFRICAN PRESS LIMITED v THE QUEEN",
+  "summary": "The African Press Limited appealed against a conviction for printing a seditious libel, arguing that the publication was lawful criticism under exceptions in section 50(2) of the Criminal Code. The West Africa Court of Appeal upheld the conviction, finding that while criticism of the Macpherson Constitution and administrative officers did not inherently bring the Governor or Government into contempt, the article's primary effect was to incite hostility and raise disaffection among inhabitants of Nigeria. The court emphasized that the article failed to specify defects or propose remedies, instead portraying administrative officers as hidden enemies of national freedom, thus falling outside protected criticism. The appeal was dismissed.",
+  "legalKeywords": [
+    "sedition",
+    "seditious libel",
+    "discontent",
+    "disaffection",
+    "administrative officers",
+    "Macpherson Constitution",
+    "Criminal Code",
+    "lawful criticism",
+    "constitutional criticism",
+    "government contempt",
+    "nationalists",
+    "freedom struggle",
+    "public warning",
+    "judicial interpretation",
+    "trial error",
+    "appeal dismissal",
+    "colonial governance",
+    "press freedom",
+    "legal exceptions",
+    "publication intent"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Sedition",
+    "Freedom of Expression",
+    "Constitutional Law",
+    "Colonial Legal History"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "The Queen",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Coussey, J.A.",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "Foster-Sutton, P.",
+      "role": "President"
+    },
+    {
+      "name": "De Comarmond, Ag. C.J. (Nigeria)",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "West Africa Court of Appeal, Accra, 17th April 1952",
+    "Criminal Code, s 50",
+    "Criminal Code, s 51(c)"
+  ],
+  "rationaleHighlights": [
+    "Criticism of the Macpherson Constitution does not equate to contempt of the Governor personally.",
+    "Inveighing against administrative officers does not constitute bringing the Government into contempt.",
+    "The article was intended to incite hostility, not to remedy defects.",
+    "No specific errors or defects were identified for reform.",
+    "The publication risked causing disaffection among both the public and administrative officers.",
+    "The exceptions under s 50(2)(ii) and (iii) do not apply due to lack of constructive intent.",
+    "The article's tone and content were inflammatory rather than corrective.",
+    "The appeal was dismissed based on the seditious tendency to raise discontent."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment text.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/AFRICAN PRESS LIMITED v THE QUEEN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:45:33.959Z",
+    "plainTextLength": 7908
+  }
+}

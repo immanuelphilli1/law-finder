@@ -1,0 +1,86 @@
+{
+  "caseTitle": "NANA ADD DAKO II",
+  "summary": "This 1936 West Africa Court of Appeal decision in Nana Add Dako II v. District Commissioner Birrim concerned a constitutional challenge to Ordinance No.3 of 1935, which established stool treasuries in Asamangkese and Akwatia. The plaintiffs, traditional leaders and stools, claimed the ordinance was ultra vires the Legislative Council and repugnant to English law, seeking a declaration of invalidity and an injunction. The Divisional Court ordered parts of the statement of claim struck out and required amendment to specify the grounds of repugnancy and ultra vires. On appeal, the WACA upheld the order, affirming that courts may strike out irrelevant or prejudicial matter under Order 26, Rule 1 of the General Procedure Rules to ensure a fair trial. The court emphasized that plaintiffs must particularize claims of unconstitutionality and that the validity of legislation is judged by legal competence, not policy necessity. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "ultra vires",
+    "repugnancy to English law",
+    "pleadings",
+    "striking out",
+    "amendment of pleadings",
+    "fair trial",
+    "prejudice in litigation",
+    "constitutional validity",
+    "ordinance",
+    "Legislative Council",
+    "stool treasury",
+    "injunction",
+    "jurisdiction",
+    "procedural fairness",
+    "Gold Coast",
+    "Asamangkese",
+    "Akwatia",
+    "customary institution",
+    "colonial law",
+    "Order 26 Rule 1",
+    "Order 25 Section 3"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Civil Procedure",
+    "Customary Law",
+    "Judicial Review"
+  ],
+  "verdict": "Appeal dismissed with costs assessed at £15 15s.",
+  "winningSide": "Defendants-Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Yates",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Ordinance No.3 of 1935",
+    "Order 26, Rule 1, General Procedure Rules",
+    "Order 25, Section 3, General Procedure Rules",
+    "Order 19, Rule 27, English Annual Practice",
+    "Golding v. Wharton & Co, (1876), 1 Q.B.D. 374",
+    "Rassam v. Budge (1893), 9 Q.B. 571",
+    "Liardet v. Hammond Electric Light Co., 31 W.R. 710",
+    "Madge v. Penge U.D.C., 85 L.J. Ch. 814 (C.A.), 32 Times Rep. 354, 417",
+    "London, Mayor, etc., of v. Horner (1914), 111 L.T. 512 (C.A.)",
+    "Doctrine of Ultra Vires, by J. A. Street, Proposition 189"
+  ],
+  "rationaleHighlights": [
+    "The court upheld the striking out of pleadings containing irrelevant, embarrassing, or prejudicial matter to ensure fair trial.",
+    "Plaintiffs must specify how an ordinance is ultra vires and repugnant to English law when challenging its validity.",
+    "Courts may not assess the necessity of an ordinance for 'peace, order, and good government' but only its legal validity.",
+    "Defendants are not required to respond to immaterial allegations that create unnecessary issues.",
+    "Order 26, Rule 1 empowers courts to amend pleadings to eliminate statements that prejudice fair trial.",
+    "The appeal was dismissed because the struck-out content was irrelevant to the core legal issue.",
+    "The principle of ultra vires was central to the constitutional challenge.",
+    "The court deferred to procedural discretion unless serious injustice or a question of principle arises."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text with clear citation to legal provisions and case law.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/NANA ADD DAKO II.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:17:41.934Z",
+    "plainTextLength": 6090
+  },
+  "trialDate": "1936-05-15"
+}

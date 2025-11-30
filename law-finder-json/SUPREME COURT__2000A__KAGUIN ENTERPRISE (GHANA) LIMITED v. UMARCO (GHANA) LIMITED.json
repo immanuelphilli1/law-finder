@@ -1,0 +1,90 @@
+{
+  "caseTitle": "KAGUIN ENTERPRISE (GHANA) LIMITED v. UMARCO (GHANA) LIMITED",
+  "summary": "The Supreme Court of Ghana considered a dispute over ownership and right to delivery of imported rice, where the bill of lading listed the consignee as 'TO ORDER' and the plaintiffs, Kaguin Enterprise, were listed only in the 'notify address' field. The trial court ruled for the plaintiffs, but the Court of Appeal reversed, holding that Kaguin Enterprise lacked title since they were not named consignees. The Supreme Court restored the trial court's judgment, emphasizing that the bill of lading is not conclusive and that extrinsic evidence, including the sales invoice and conduct of the parties, demonstrated that Kaguin Enterprise were the intended recipients and importers of the goods. The Court held that the bill of lading, while a document of title, must be interpreted alongside other contractual documents and that the plaintiffs had acquired constructive possession through endorsement and delivery of the bill of lading, entitling them to the goods.",
+  "legalKeywords": [
+    "bill of lading",
+    "document of title",
+    "consignee",
+    "notify address",
+    "constructive possession",
+    "parol evidence rule",
+    "CIF contract",
+    "shipping law",
+    "transfer of property",
+    "endorsement",
+    "symbolic delivery",
+    "importer",
+    "contractual relationship",
+    "extrinsic evidence",
+    "commercial law",
+    "maritime law",
+    "sale of goods",
+    "right to delivery",
+    "carrier liability",
+    "ownership of goods"
+  ],
+  "topics": [
+    "Commercial Law",
+    "Shipping and Maritime Law",
+    "Contract Law",
+    "Evidence Law",
+    "Property Rights",
+    "Supreme Court Jurisprudence"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Plaintiffs/Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ampiah, J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Adjabeng, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Acquah, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Ms. Akuffo, J.S.C.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "C.I.L.E.V. v. Black Star Line Limited and Anor. (1968) G.L.R 485",
+    "Sanders Brothers v. Macleanco [1883] 11 Q.B.D. 327",
+    "Chitty on Contracts, 27th Edition",
+    "Paul Todd, Cases and Materials on Bill of Lading",
+    "Charley and Giles, Shipping Law, 8th Edition",
+    "E.R. Hardy Ivamy, Case Book on Shipping Law, 4th Edition"
+  ],
+  "rationaleHighlights": [
+    "The bill of lading is a document of title and its endorsement transfers constructive possession of the goods.",
+    "The 'notify address' is distinct from the 'consignee', but extrinsic evidence can establish the true recipient.",
+    "The parol evidence rule allows for external evidence when the written document is not the full agreement.",
+    "Kaguin Enterprise, as importers, had a contractual relationship with the shipper evidenced by the invoice.",
+    "The conduct of the parties, including payment for clearing and warehousing, supported their claim to ownership.",
+    "The bill of lading's 'TO ORDER' consignee allows transferability, and endorsement to the plaintiff validated their claim.",
+    "The plaintiffs were not mere agents but had a proprietary interest in the goods.",
+    "Justice requires consideration of the entire transaction, not just the face of the bill of lading."
+  ],
+  "confidenceNotes": "High confidence; information extracted directly from judicial reasoning and cited authorities. Case details are consistent with standard Ghanaian civil procedure and commercial law principles.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2000A/KAGUIN ENTERPRISE (GHANA) LIMITED v. UMARCO (GHANA) LIMITED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:52:19.044Z",
+    "plainTextLength": 79954
+  },
+  "trialDate": "12TH JULY, 2000"
+}

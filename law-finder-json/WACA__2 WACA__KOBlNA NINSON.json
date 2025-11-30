@@ -1,0 +1,69 @@
+{
+  "caseTitle": "KOBlNA NINSON",
+  "summary": "This Privy Council appeal from the Gold Coast Colony (modern-day Ghana) concerned a land dispute between Koibina Ninson (appellant) and Adjuah Aduwah (respondent). The action was initially mischaracterized as trespass, but the Privy Council clarified it was an ejectment action, placing the burden on the plaintiff to prove title. The respondent had not been in possession since 1918, when her son was ejected by the appellant's predecessor, Yaw Kyei, who then cultivated the land. The respondent later offered pacification money and rent, implicitly recognizing the appellant's title. Despite the Full Court's restoration of a Native Tribunal judgment in her favor based on a questionable admission of possession, the Privy Council found that the Provincial Commissioner alone correctly understood the case. The appeal was allowed, the Full Court's judgment set aside, and the Provincial Commissioner's dismissal of the claim restored, as the plaintiff failed to prove her title and had acquiesced in the defendant's possession for over nine years.",
+  "legalKeywords": [
+    "trespass",
+    "ejectment",
+    "possession",
+    "title to land",
+    "native tribunal",
+    "provincial commissioner",
+    "full court",
+    "burden of proof",
+    "admission in evidence",
+    "prolonged absence",
+    "cultivation",
+    "family land",
+    "customary land tenure",
+    "appeal"
+  ],
+  "topics": [
+    "land law",
+    "property rights",
+    "appellate review",
+    "customary tenure",
+    "evidence"
+  ],
+  "verdict": "Appeal allowed; Full Court judgment set aside, Provincial Commissioner's judgment restored.",
+  "winningSide": "Appellant (Koibina Ninson)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lord Blanesburgh",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "Lord Tomlin",
+      "role": "member"
+    },
+    {
+      "name": "Sir George Lowndes",
+      "role": "member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Privy Council (on appeal from Gold Coast Colony Supreme Court)",
+    "country": "Ghana"
+  },
+  "caseType": "property dispute",
+  "citations": [
+    "Privy Council Appeal No. 140 of 1929",
+    "Gold Coast, Full Court Reports, 1926-29, p. 465"
+  ],
+  "rationaleHighlights": [
+    "Action misclassified as trespass instead of ejectment",
+    "Plaintiff failed to prove title despite long prior possession",
+    "Defendant's family in continuous, peaceful possession since 1918",
+    "Admission of possession by defendant was inconsistent and likely erroneous",
+    "Provincial Commissioner correctly identified nature of action",
+    "Delay in action unreasonably explained by illness",
+    "Offer to pay rent acknowledged, undermining claim of ownership"
+  ],
+  "confidenceNotes": "High confidence in factual extraction; source is a formal judgment with clear procedural history and findings.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/KOBlNA NINSON.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:25:22.480Z",
+    "plainTextLength": 11005
+  }
+}

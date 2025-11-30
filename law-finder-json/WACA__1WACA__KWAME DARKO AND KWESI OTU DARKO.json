@@ -1,0 +1,77 @@
+{
+  "caseTitle": "REX. VERSUS KWAME DARKO",
+  "summary": "The appellants, Kwame Darko and Kwesi Otu Darko, were initially convicted of the murder of Yerima Kotokoli and Mama Kotokoli. The West African Court of Appeal, considering a report from the trial judge indicating a potential miscarriage of justice and noting serious inconsistencies in the Crown's evidence, substituted the murder verdicts with manslaughter. The court emphasized the existence of the Crown's common law right to 'stand by' jurors, despite silence in the Criminal Procedure Ordinance. Additionally, a motion by local chiefs during the trial likely influenced the jury, contributing to an unfair atmosphere. The appellants were sentenced to three and four years' imprisonment respectively, with hard labour, to run concurrently from the date of original conviction.",
+  "legalKeywords": [
+    "manslaughter",
+    "murder",
+    "miscarriage of justice",
+    "Crown right to stand by jurors",
+    "Common Law",
+    "verdict substitution",
+    "trial judge report",
+    "jury influence",
+    "provocation",
+    "Criminal Procedure Ordinance",
+    "peremptory challenge",
+    "challenge for cause",
+    "R. v. Parry",
+    "R. v. Geach",
+    "R. v. Scranton",
+    "R. v. Frank Rive",
+    "locus-in-quo",
+    "sentencing",
+    "hard labour",
+    "concurrent sentences"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Jury Trial",
+    "Legal History",
+    "Common Law Application"
+  ],
+  "verdict": "manslaughter",
+  "winningSide": "appellants",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Hall",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Michelin",
+      "role": "Justice"
+    },
+    {
+      "name": "Sawrey-Cookson",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal appeal",
+  "citations": [
+    "R. v. Parry, 7 C. and P. 836",
+    "R. v. Geach, 9 C. and P. 499",
+    "R. v. Scranton, 15 Cr. App. R. 110",
+    "R. v. Frank Rive, 20 Cr. App. R. 23"
+  ],
+  "rationaleHighlights": [
+    "The Crown retains the common law right to 'stand by' jurors despite statutory silence.",
+    "The trial judge's report suggested a miscarriage of justice due to jury attitude.",
+    "A motion by local chiefs during trial likely prejudiced the jury.",
+    "Serious inconsistencies in the Crown's evidence undermined the murder convictions.",
+    "The court found great provocation, reducing the offence to manslaughter.",
+    "Verdict substitution was justified under appellate authority and principles of justice."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text, with clear citations and factual reporting.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/KWAME DARKO AND KWESI OTU DARKO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:49:33.437Z",
+    "plainTextLength": 8087
+  },
+  "trialDate": "1931-08-25"
+}

@@ -1,0 +1,76 @@
+{
+  "caseTitle": "KOFI ANANE v KWASI BRAFO",
+  "summary": "This 1952 West Africa Court of Appeal decision in Kofi Anane v. Kwasi Brafo addresses jurisdictional limits between the Supreme Court and Native Courts in Ashanti, Ghana, concerning succession disputes. The appellant, Kofi Anane, obtained letters of administration for the estate of Kwaku Sampaney (alias Kwasi Brafo) and sued the respondent to recover personal property, claiming both as administrator and as successor under native customary law. The trial court halted proceedings, referring the matter to the Native Court under section 35 of the Native Courts (Ashanti) Ordinance, which grants Native Courts jurisdiction over succession matters. The appellant argued that his grant of administration established his status as successor and that the Supreme Court had concurrent jurisdiction under section 14 of the Courts Ordinance. The appellate court rejected this, affirming that a grant of administration does not equate to being the customary law successor and that disputes over succession must be resolved by Native Courts. The appeal was dismissed, upholding the principle that even where jurisdiction exists, the Supreme Court must refrain from exercising it in civil matters falling under Native Court jurisdiction per section 17 of the Courts Ordinance.",
+  "legalKeywords": [
+    "jurisdiction",
+    "succession",
+    "letters of administration",
+    "native customary law",
+    "Native Courts",
+    "Supreme Court",
+    "civil procedure",
+    "property recovery",
+    "chattels",
+    "concurrent jurisdiction",
+    "section 14 Courts Ordinance",
+    "section 17 Courts Ordinance",
+    "section 35 Native Courts Ordinance",
+    "customary law successor",
+    "Hagan v. Adum",
+    "Ababio v. Ackumpong",
+    "remittal to Native Court",
+    "dispute over succession",
+    "administrator vs successor",
+    "Ashanti legal system"
+  ],
+  "topics": [
+    "Jurisdiction",
+    "Succession Law",
+    "Customary Law",
+    "Court Procedure",
+    "Property Rights"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey",
+      "role": "Justice"
+    },
+    {
+      "name": "Foster-Sutton",
+      "role": "President"
+    },
+    {
+      "name": "Manyo-Plange",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal, Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Hagan v. Adum, 5 W.A.C.A. 35 (P.C.)",
+    "Ababio v. Ackumpong, 6 W.A.C.A. 173"
+  ],
+  "rationaleHighlights": [
+    "A grant of letters of administration does not establish or preclude a person's status as successor under native customary law.",
+    "Where a plaintiff claims as successor under customary law, the issue of succession must be determined by the Native Court.",
+    "Section 17 of the Courts Ordinance prohibits the Supreme Court from exercising jurisdiction in civil matters within the jurisdiction of Native Courts under section 35.",
+    "The Supreme Court has jurisdiction under section 14 but is barred from exercising it in this case by section 17.",
+    "The trial judge correctly referred the matter to the Native Court for determination of succession.",
+    "The claimant bears the burden of proving succession when asserting rights under customary law.",
+    "Precedents such as Hagan v. Adum and Ababio v. Ackumpong support the remittal of succession disputes to Native Courts."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from the court judgment text. All legal principles, citations, and procedural details are explicitly stated in the source document.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/KOFI ANANE  v  KWASI BRAFO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:38:23.403Z",
+    "plainTextLength": 8851
+  },
+  "trialDate": "1952-01-08"
+}

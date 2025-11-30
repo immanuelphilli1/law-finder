@@ -1,0 +1,66 @@
+{
+  "caseTitle": "J. K. APREKU GOMOA RURAL BANK v. KOJO OFFEI GYESIYAA MINTAH",
+  "summary": "This appeal arose from a civil suit in which the Gomoa Rural Bank sought to recover a loan of ₵2 million advanced to the deceased, Joseph Kweku Gyesi, secured by a simple equitable pledge of three vehicles. After the cheque deposited by Gyesi was dishonoured, the bank claimed he became indebted. The trial court found in favour of the bank, dismissing the defendants' counter-claim for damages and recovery of one of the pledged vehicles (GN 4625), which had been detained for eight months. The defendants, administrators of the estate, appealed, challenging the authenticity of the pledge document and the lawfulness of the vehicle's seizure. The Court of Appeal upheld the decision, finding that the trial judge correctly relied on witness testimony confirming the deceased’s acknowledgment of the debt and execution of the pledge. The court rejected the handwriting expert’s testimony as unreliable and found no evidence of unlawful arrest or assault. It also ruled that the proposed amendment to the defense failed due to lack of formal court ruling. The appeal was dismissed, affirming the High Court’s judgment.",
+  "legalKeywords": [
+    "indebtedness",
+    "equitable pledge",
+    "detention of vehicle",
+    "breach of contract",
+    "handwriting expert",
+    "counter-claim",
+    "appellate review",
+    "amendment of pleadings",
+    "conversion",
+    "settlement agreement"
+  ],
+  "topics": [
+    "Debt Recovery",
+    "Security Interest",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Pleadings"
+  ],
+  "verdict": "Appeal dismissed; judgment of the High Court affirmed.",
+  "winningSide": "Plaintiffs/Respondents (Gomoa Rural Bank)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "A. Essilfie-Bondzie",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "P. K. Owusu-Ansah",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "P. K. Twumasi",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Atade vs. Ladzekpo (1981) GLR 218",
+    "Nkansah vs. Adjebeng and Another (1961) GLR 465",
+    "Tackie & ors vs. The State (1964) GLR p. 262 SC",
+    "Phipson on Evidence (9th edition), p. 403"
+  ],
+  "rationaleHighlights": [
+    "The trial court's findings were supported by credible witness testimony and documentary evidence.",
+    "The appellate court upheld the trial court's factual findings, emphasizing that such findings should not be disturbed without clear error.",
+    "The signature on the pledge document was deemed authentic based on witness testimony, despite a handwriting expert's challenge.",
+    "The vehicle detention was justified as part of a settlement effort to sell the asset and settle the debt.",
+    "The amendment to the defense was deemed ineffective due to lack of formal ruling by the trial court."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy as all information is drawn directly from the court judgment. Citations are explicitly referenced in the text.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/J. K. APREKU GOMOA RURAL BANK v. KOJO OFFEI GYESIYAA MINTAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:27:15.748Z",
+    "plainTextLength": 13620
+  },
+  "trialDate": "13TH MARCH 2000"
+}

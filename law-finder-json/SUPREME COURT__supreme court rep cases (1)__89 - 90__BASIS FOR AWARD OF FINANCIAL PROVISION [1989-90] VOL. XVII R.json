@@ -1,0 +1,90 @@
+{
+  "caseTitle": "Ribeiro v Ribeiro2 in reserved",
+  "summary": "In Ribeiro v Ribeiro, the Supreme Court of Ghana delivered a split decision (3-2) on the interpretation of the Matrimonial Causes Act, 1971 (Act 367), particularly regarding the court's power to rescind property dispositions made to defeat financial claims and to award financial provision. The wife, Barbara Ribeiro, successfully obtained a decree of divorce and sought financial relief, including property reassignment and maintenance. The High Court ordered the husband, Charles Ribeiro, to convey 'Haulage House' to her and pay �150,000, citing his transfer of the property to his new wife during proceedings as a bad-faith attempt to defeat her claim. The Court of Appeal upheld this decision. The Supreme Court affirmed the lower courts' rulings by majority, recognizing broad judicial discretion under sections 20 and 26 of Act 367. However, two justices dissented, arguing that courts lack authority to transfer property in which the spouse holds no title and that financial provision should be limited to monetary awards.",
+  "legalKeywords": [
+    "financial provision",
+    "Matrimonial Causes Act",
+    "property disposition",
+    "spousal maintenance",
+    "judicial discretion",
+    "fraudulent transfer",
+    "domestic contribution",
+    "lump sum award",
+    "marital property",
+    "equitable distribution",
+    "bad faith",
+    "rescission",
+    "section 26",
+    "section 20",
+    "proprietary interest",
+    "conduct of parties",
+    "economic contribution",
+    "non-financial contribution",
+    "divorce settlement",
+    "court jurisdiction"
+  ],
+  "topics": [
+    "Family Law",
+    "Property Rights",
+    "Judicial Discretion",
+    "Divorce Proceedings",
+    "Financial Relief"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "wife",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Amua-Sekyi JSC",
+      "role": "majority"
+    },
+    {
+      "name": "Adade JSC",
+      "role": "majority"
+    },
+    {
+      "name": "Ofori-Boateng JA",
+      "role": "majority"
+    },
+    {
+      "name": "François JSC",
+      "role": "dissenting"
+    },
+    {
+      "name": "Wuaku JSC",
+      "role": "dissenting"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Ribeiro v Ribeiro",
+    "Matrimonial Causes Act, 1971 (Act 367)",
+    "Cobb v Cobb",
+    "Pettitt v Pettitt",
+    "Achiampong v Achiampong",
+    "Hofman v Hofman",
+    "Wachtel v Wachtel",
+    "Matrimonial Causes Act, 1973 (UK)"
+  ],
+  "rationaleHighlights": [
+    "Court may rescind property transfers made in bad faith to defeat financial claims",
+    "Non-financial contributions (e.g., homemaking) justify financial provision",
+    "Discretion under Act 367 includes property conveyance, not just monetary awards",
+    "Dissent argued courts cannot transfer property without proprietary interest",
+    "Affluent spouse may be required to provide housing as part of financial relief",
+    "English precedents inform but do not bind Ghanaian interpretation",
+    "Transfer during proceedings with continued control indicates fraudulent intent",
+    "Legislative clarity needed on scope of financial provision powers"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and cited statutes. Some interpretive divergence noted in dissenting opinions.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/89 - 90/BASIS FOR AWARD OF FINANCIAL PROVISION [1989-90] VOL. XVII R.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:20:24.122Z",
+    "plainTextLength": 44623
+  }
+}

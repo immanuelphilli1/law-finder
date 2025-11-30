@@ -1,0 +1,76 @@
+{
+  "caseTitle": "SYLVIA GREGORY",
+  "summary": "In this Ghanaian civil appeal, Sylvia Gregory, an African American woman, claimed ownership interest in a house at H/No. AV.31/3, Ankaful, Cape Coast, constructed on land owned by Nana Kwesi Tandoh IV and Bridget Hanson, a married couple. Gregory contributed financially to the construction and cohabited with the defendants, believing she had an ownership stake, especially after the first defendant allegedly proposed marriage. When relations soured, she sued for conveyance of the land, injunction, and equitable relief. The High Court upheld the defendants' ownership, granted their counterclaim for recovery of possession, but ordered assessment of Gregory's financial contribution for reimbursement. The Court of Appeal affirmed, finding her contribution insignificant and no valid marriage or trust. The Supreme Court dismissed her appeal, holding that the statutory declaration acknowledging her contribution was wrongly excluded but did not warrant overturning the factual findings, and that equitable doctrines like estoppel and resulting trust did not apply. The verdict emphasized that land ownership prevails absent clear legal or equitable title.",
+  "legalKeywords": [
+    "resulting trust",
+    "equitable estoppel",
+    "contribution to property",
+    "property ownership",
+    "statutory declaration",
+    "joint occupancy",
+    "family dispute",
+    "unmarried cohabitation",
+    "injunction",
+    "recovery of possession",
+    "monetary contribution",
+    "land ownership",
+    "appellate review",
+    "miscarriage of justice",
+    "equity"
+  ],
+  "topics": [
+    "Property Law",
+    "Equity",
+    "Family Dispute",
+    "Appellate Law",
+    "Ownership Dispute"
+  ],
+  "verdict": "Appeal dismissed; judgment of the Court of Appeal affirmed.",
+  "winningSide": "Defendants/Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dotse",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "Wood (Mrs.)",
+      "role": "Chief Justice, Presiding"
+    },
+    {
+      "name": "Owusu (Ms.)",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Gbadebe",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs.)",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "I.B. Clement vrs Andrews Annietey, Suit No. TS 2/2000, Sekondi High Court, 4th June 2003"
+  ],
+  "rationaleHighlights": [
+    "Ownership of land confers ownership of structures (cuius est solum, eius est usque ad coelum).",
+    "No resulting trust arose due to lack of substantial contribution.",
+    "Statutory declaration by one defendant was improperly rejected but did not alter outcome.",
+    "Equitable estoppel failed due to absence of clear representation inducing detrimental reliance.",
+    "Monetary compensation for contributions was considered equitable despite loss of ownership claim."
+  ],
+  "confidenceNotes": "The case is unreported but sourced directly from a Supreme Court file; factual consistency across lower courts strengthens reliability.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/SYLVIA GREGORY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:42:45.573Z",
+    "plainTextLength": 55183
+  },
+  "trialDate": "2010-05-12"
+}

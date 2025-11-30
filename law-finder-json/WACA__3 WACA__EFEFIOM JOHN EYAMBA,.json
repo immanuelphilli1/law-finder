@@ -1,0 +1,69 @@
+{
+  "caseTitle": "EFEFIOM JOHN EYAMBA,",
+  "summary": "The plaintiffs-appellants, members of the Eyamba family and a Syrian lessee, appealed a High Court decision dismissing their claim for possession of land in Calabar and removal of buildings erected by the defendant-respondent. The land was leased under the Native Lands Acquisition Ordinance to the third plaintiff, who defaulted on a judgment debt, leading to a judicial sale under a writ of Fi. Fa. The defendant purchased the property at auction and received a certificate of purchase. The West Africa Court of Appeal held that the third plaintiff lost his right to the unexpired lease term through the judicial sale, and the other plaintiffs lacked locus standi as they were not proper parties to sue without the Etubom, trustee of Eyamba land. The court rejected the argument that sections 3 and 4 of the Ordinance invalidated the sale, noting the transaction involved an alien-to-alien transfer, not acquisition from a native. The plaintiffs failed to prove superior title or right of entry at the time of the writ. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "land possession",
+    "judicial sale",
+    "locus standi",
+    "leasehold rights",
+    "execution order",
+    "Native Lands Acquisition Ordinance",
+    "certificate of purchase",
+    "right of entry",
+    "alien land ownership",
+    "title transfer"
+  ],
+  "topics": [
+    "Property Law",
+    "Land Tenure",
+    "Appellate Procedure",
+    "Judicial Sale",
+    "Locus Standi"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Defendant-Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Petrides",
+      "role": "C.J."
+    },
+    {
+      "name": "Kingdon",
+      "role": "C.J."
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Native Lands Acquisition Ordinance, Cap. 89 of Laws of Nigeria",
+    "Exhibit \"J\"",
+    "Exhibit \"F\"",
+    "Exhibit \"E\""
+  ],
+  "rationaleHighlights": [
+    "The third plaintiff lost his right to enjoy the lease due to judicial sale.",
+    "First, second, and fourth plaintiffs lacked locus standi.",
+    "Section 3 of the Ordinance does not apply as the defendant acquired rights from an alien, not a native.",
+    "Defendant's purchase was valid under the terms of the sale and certificate.",
+    "Plaintiffs could not recover based on weakness of defendant's title.",
+    "Family consent evidenced by Exhibit E undermined plaintiffs' claims.",
+    "Appeal dismissed as plaintiffs had no right of entry at time of writ.",
+    "Costs awarded against appellants due to lack of merit and conduct."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy as all information is derived directly from the judgment text and cited exhibits.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/EFEFIOM JOHN EYAMBA,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:25:18.255Z",
+    "plainTextLength": 10727
+  },
+  "trialDate": "1937-06-10"
+}

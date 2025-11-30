@@ -1,0 +1,71 @@
+{
+  "caseTitle": "SALAWU ATUNDE v THE COMMISSIONER OF POLICE",
+  "summary": "The appellant, Salawu Atunde, was convicted alongside a co-accused, Lamidi Alabi, for stealing 70 bundles of fishing twine. The prosecution established that 17 bundles were found in a shop linked to the appellant, who admitted possessing six bundles entrusted to him by the co-accused. The Magistrate did not discharge the co-accused at the close of the prosecution case, nor confirm that the appellant was informed of his rights under section 287(1)(a) of the Criminal Procedure Ordinance. The appellant gave sworn evidence but was not cross-examined, and was immediately convicted with minimal reasoning. On appeal, the West African Court of Appeal found procedural irregularities—including failure to ensure the co-accused was discharged before the defense and lack of confirmation that the appellant was informed of his right to call witnesses. Although the irregularities did not clearly affect the outcome, a bare possibility of prejudice existed. The appeal was allowed, the conviction quashed, and a re-trial ordered.",
+  "legalKeywords": [
+    "criminal procedure",
+    "right to defense",
+    "magistrate's duties",
+    "co-accused",
+    "cross-examination",
+    "trial irregularities",
+    "reasons for judgment",
+    "procedural compliance",
+    "re-trial",
+    "conviction quashed",
+    "evidence admissibility",
+    "defendant's rights",
+    "oral evidence",
+    "judicial reasoning",
+    "appellate review"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Fair Trial Rights"
+  ],
+  "verdict": "The appeal was allowed, the conviction was quashed, and a re-trial was ordered due to procedural irregularities that created a bare possibility of prejudice.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "de Comarmond",
+      "role": "Ag. Chief Justice, Nigeria"
+    },
+    {
+      "name": "Bairamian",
+      "role": "Justice"
+    },
+    {
+      "name": "Johnston",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Nigeria",
+    "country": "Ghana"
+  },
+  "caseType": "criminal appeal",
+  "citations": [
+    "Criminal Procedure Ordinance, Sections 245, 286, 287(1)(a), 288",
+    "Magistrates' Courts (Appeals) Ordinance, Section 21(3)",
+    "Valentine Esiaba v. Commissioner of Police, W.A.C.A. 3122"
+  ],
+  "rationaleHighlights": [
+    "Section 287(1)(a) requires informing an unrepresented defendant of his rights, though non-compliance does not automatically vitiate trial if rights were effectively exercised.",
+    "The Magistrate failed to discharge the co-accused before the defense opened, creating potential prejudice.",
+    "No record showed the appellant was asked if he had witnesses, contrary to procedural safeguards.",
+    "Although the appellant gave evidence, the lack of clarity on procedural compliance raised fairness concerns.",
+    "The Magistrate's reasoning for conviction was minimal and insufficient under section 245, though not automatically invalidating.",
+    "Section 21(3) of the Magistrates' Courts (Appeals) Ordinance anticipates transmission of reasons on appeal.",
+    "A bare possibility of prejudice, combined with Crown Counsel’s concession, warranted a re-trial.",
+    "The appeal was allowed not because of proven injustice, but to uphold the integrity of the trial process."
+  ],
+  "confidenceNotes": "High confidence in factual extraction based on explicit judicial reasoning and citation of statutory provisions. Jurisdictional context reflects colonial-era West African Court of Appeal handling cases from multiple jurisdictions including Ghana. The mention of 'WACA/14' and 'WAC/SALAWU ATUNDE' aligns with archival naming conventions.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/SALAWU ATUNDE  v  THE COMMISSIONER OF POLICE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:29:40.534Z",
+    "plainTextLength": 10934
+  },
+  "trialDate": "1952-08-19"
+}

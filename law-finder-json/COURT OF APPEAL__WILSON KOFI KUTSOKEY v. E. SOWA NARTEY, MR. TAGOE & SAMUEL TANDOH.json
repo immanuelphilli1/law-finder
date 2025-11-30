@@ -1,0 +1,63 @@
+{
+  "caseTitle": "WILSON KOFI KUTSOKEY v. E. SOWA NARTEY, MR. TAGOE &",
+  "summary": "This appeal arose from a conflict between two orders issued by coordinate courts in Ghana. Samuel Tandoh, the appellant and highest bidder at a court-ordered public auction of a property belonging to Edmund Kwami Kutsokey, was lawfully granted possession of the property by Circuit Court Judge Kwadwo Owusu on July 9, 2003, and was put into physical possession on August 7, 2003. Subsequently, Wilson Kofi Kutsokey, the plaintiff and relative of the judgment debtor, filed a separate suit challenging the auction and obtained an interim injunction from Circuit Court Judge Anthony Oppong on September 9, 2003, restraining Tandoh from ejecting him. Tandoh moved to vacate the injunction, arguing it contravened the prior possession order. The motion was denied on October 22, 2003. On appeal, the Court of Appeal held that the injunction was improperly granted in the face of a valid, subsisting order from a coordinate court. The lower court judge admitted being misled by the non-disclosure of the prior order. The Court ruled that such an injunction constituted an abuse of process and undermined judicial coherence. Consequently, the appeal was allowed, the ruling refusing to vacate the injunction was quashed, and the interim injunction was vacated.",
+  "legalKeywords": [
+    "interim injunction",
+    "abuse of court process",
+    "public auction sale",
+    "certificate of purchase",
+    "order of possession",
+    "repossess",
+    "coordinate jurisdiction",
+    "vacate injunction",
+    "bona fide purchaser",
+    "judicial misconduct"
+  ],
+  "topics": [
+    "Property Law",
+    "Civil Procedure",
+    "Injunctions",
+    "Judicial Orders",
+    "Court Auction"
+  ],
+  "verdict": "The appeal was allowed. The ruling of the Circuit Court dated 22nd October, 2003, was quashed, and the interim injunction granted on 9th September, 2003, was vacated.",
+  "winningSide": "Co-Defendant/Appellant (Samuel Tandoh)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "S. T. Farkye",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "K. Tweneboah-Koduah",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "S. K. Asiamah",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WILSON KOFI KUTSOKEY v. E. SOWA NARTEY, MR. TAGOE & SAMUEL TANDOH [2/04/04] H1/97/2004"
+  ],
+  "rationaleHighlights": [
+    "The interim injunction was granted while a prior order of possession was in effect, creating a conflict between coordinate courts.",
+    "The granting judge admitted being misled due to non-disclosure of the prior possession order.",
+    "A coordinate court cannot issue an injunction that subverts a valid existing order of another coordinate court.",
+    "The plaintiff abused court process by seeking an injunction instead of appealing or reviewing the original order.",
+    "The appeal was allowed because the injunction undermined the finality and authority of the earlier judicial decision."
+  ],
+  "confidenceNotes": "All information is derived directly from the provided judgment text. Case details, parties, and legal reasoning are explicitly stated.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/WILSON KOFI KUTSOKEY v. E. SOWA NARTEY, MR. TAGOE & SAMUEL TANDOH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T09:58:22.344Z",
+    "plainTextLength": 8560
+  },
+  "trialDate": "2004-04-02"
+}

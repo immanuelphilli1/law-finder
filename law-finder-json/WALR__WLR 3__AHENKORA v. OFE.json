@@ -1,0 +1,74 @@
+{
+  "caseTitle": "AHENKORA VERSUS OFE",
+  "summary": "In Ahenkora v. Ofe, the Court of Appeal of Ghana considered the validity of a writ of certiorari challenging the Governor-General's confirmation of a committee of inquiry's report regarding a chieftaincy dispute. The committee had found that the predecessor of the respondent had not been validly destooled, a finding confirmed by the Governor-General. The applicant successfully obtained certiorari in the lower court, which was challenged on appeal. The Court held that the committee of inquiry performed a judicial function, and the Governor-General's act in confirming its report was judicial, not administrative, and thus subject to judicial review. The 'final and conclusive' language in the State Councils Ordinance did not oust the courts' supervisory jurisdiction. The Supreme Court possesses a distinct supervisory jurisdiction over both civil and criminal matters, exercisable through prerogative writs like certiorari, which cannot be easily excluded by statute. A State Council, when performing judicial functions, is an inferior tribunal subject to certiorari. The charges raised a constitutional dispute, validating the Governor-General's appointment of the committee and its findings.",
+  "legalKeywords": [
+    "certiorari",
+    "prerogative writs",
+    "judicial review",
+    "ultra vires",
+    "natural justice",
+    "State Council",
+    "Governor-General",
+    "constitutional dispute",
+    "committee of inquiry",
+    "supervisory jurisdiction",
+    "customary law",
+    "common law",
+    "administrative act",
+    "judicial act",
+    "jurisdiction"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Judicial Review",
+    "Chieftaincy Disputes",
+    "Prerogative Writs"
+  ],
+  "verdict": "Appeal dismissed; the writ of certiorari was properly issued as the Governor-General's decision, though labeled final, remained subject to judicial review for jurisdictional errors and breaches of natural justice.",
+  "winningSide": "Applicant (Ahenkora)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "van Lare",
+      "role": "Ag.C.J."
+    },
+    {
+      "name": "Granville Sharp",
+      "role": "J.A."
+    },
+    {
+      "name": "Adumua-Bossman",
+      "role": "J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "State Councils (Southern Ghana) Ordinance, c. 8 of 1952, s. 8",
+    "Courts Ordinance, c. 4 of 1951, s. 88",
+    "R v. St. Edmundsbury and Ipswich Diocese, ex p. White [1948] 1 K.B. 195",
+    "R. v. Woodhouse [1906] 2 K.B. 501",
+    "Goldack v. Shore [1950] 1 K.B. 708",
+    "The Resident, Ibadan Province and Another v. Lagunja (1954) 14 W.A.C.A. 549",
+    "In re State Council of Wassaw and Enimil (1934) Selected Judgments of Divisional Courts, 1931-1937, 61",
+    "In re Member of Nii Adjei Onano: La Manche of Ga State Council (1956) West African Court of Appeal, May 15, 1956, unreported"
+  ],
+  "rationaleHighlights": [
+    "Committee of inquiry under State Councils Ordinance performs judicial function",
+    "Governor-General's decision subject to judicial review despite 'final and conclusive' language",
+    "Supreme Court has supervisory jurisdiction distinct from civil/criminal jurisdictions",
+    "State Council is inferior tribunal amenable to certiorari",
+    "Strong presumption against ousting judicial review by statute"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and multiple authoritative citations. Dissenting opinion noted but majority view clearly established.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/AHENKORA v. OFE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:18:08.835Z",
+    "plainTextLength": 70561
+  }
+}

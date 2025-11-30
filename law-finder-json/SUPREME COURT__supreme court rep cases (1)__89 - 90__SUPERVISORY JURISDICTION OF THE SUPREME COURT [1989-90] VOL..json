@@ -1,0 +1,82 @@
+{
+  "caseTitle": "SUPERVISORY JURISDICTION OF THE SUPREME COURT [1989-90] VOL.",
+  "summary": "This legal analysis discusses the supervisory jurisdiction of the Supreme Court of Ghana under Article 119 of the 1979 Constitution, which empowers the Court to issue prerogative writs such as certiorari, mandamus, prohibition, habeas corpus, and quo warranto over all courts and adjudicating bodies. The article examines key cases including Republic v High Court Registrar, Ex parte Yiadom, and Republic v High Court, Ex parte Quarcoo and Puplampu I, clarifying that while the Supreme Court has broad supervisory powers, applicants must first seek leave before filing for a prerogative order and cannot maintain parallel proceedings in lower courts. Although Ex parte Puplampu I initially imposed a six-month time limit for applications, this was later questioned in Ex parte Darke XII, where it was held that no strict time limit exists under the Supreme Court Rules, though delay may affect the discretionary grant of relief.",
+  "legalKeywords": [
+    "supervisory jurisdiction",
+    "prerogative writs",
+    "certiorari",
+    "leave to apply",
+    "High Court",
+    "Supreme Court",
+    "constitutional law",
+    "judicial review",
+    "procedural delay",
+    "jurisdictional error",
+    "error of law",
+    "Court of Appeal",
+    "customary law",
+    "chieftaincy dispute",
+    "appeal vs certiorari",
+    "practice direction",
+    "discretionary remedy",
+    "finality of judgment",
+    "parallel proceedings",
+    "time limitation"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Judicial Review",
+    "Supreme Court Procedure",
+    "Prerogative Writs",
+    "Ghanaian Jurisprudence"
+  ],
+  "verdict": "The Supreme Court affirmed its supervisory jurisdiction but emphasized procedural requirements such as obtaining prior leave and avoiding duplicative proceedings.",
+  "winningSide": "The Court upheld procedural discipline, dismissing applications that failed to comply with leave and timing requirements.",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Amua-Sekyi JSC",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Wuaku JSC",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Osei-Hwere JSC",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional and Administrative Law",
+  "citations": [
+    "Republic v High Court Registrar, Kumasi; Ex parte Yiadom [1984-86] GLRD 132",
+    "Republic v High Court, Accra; Ex parte Quarcoo (1991) G.L.R",
+    "Republic v High Court, Accra; Ex parte Puplampu I (1991) G.L.R",
+    "Republic v High Court Accra; Ex parte Darke XII (1992) GLR",
+    "Constitution of Ghana, 1979, Art 119",
+    "Constitution of Ghana, 1992, Art 132",
+    "High Court (Civil Procedure) Rules, 1954 (LN 140A), Order 59, r 3",
+    "Practice Direction, 15 June 1981"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court has supervisory jurisdiction over all courts and tribunals in Ghana.",
+    "Prerogative writs may be issued to correct jurisdictional errors or errors of law apparent on the face of the record.",
+    "Applicants must obtain prior leave before filing for a supervisory order.",
+    "Parallel proceedings in lower courts and the Supreme Court for similar relief are not permitted.",
+    "While no strict time limit is codified, unreasonable delay may lead to refusal of relief.",
+    "The six-month rule from Ex parte Puplampu I was later doubted in Ex parte Darke XII.",
+    "Applicants may choose between appeal and certiorari but cannot pursue both simultaneously.",
+    "Finality of judgments and avoidance of conflicting decisions are key policy considerations."
+  ],
+  "confidenceNotes": "The source is a well-documented legal commentary citing authoritative cases and constitutional provisions. However, some case details are derived from secondary digests rather than full judgments, which may affect granularity. The postscript indicates evolving jurisprudence on time limits, suggesting some procedural uncertainty at the time.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/89 - 90/SUPERVISORY JURISDICTION OF THE SUPREME COURT [1989-90] VOL..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:14:46.322Z",
+    "plainTextLength": 11637
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "caseTitle": "ADABLA, v GBEVLO AGAMA,",
+  "summary": "The document titled 'WACA/wac6.htm' is a case index listing various decisions from the West African Court of Appeal, including both civil and criminal matters, primarily from Ghana. It does not contain the full text of any judgment, but rather serves as a reference guide with case names and parties involved. No legal reasoning, verdicts, or judicial commentary is provided in the excerpt.",
+  "legalKeywords": [
+    "case index",
+    "legal database",
+    "Ghana law",
+    "WACA",
+    "table of cases"
+  ],
+  "topics": [
+    "Legal Index",
+    "Case List",
+    "West African Court of Appeal"
+  ],
+  "verdict": "Not available",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "unknown",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The provided document does not contain a full legal decision or judgment. It appears to be a table of cases from the West African Court of Appeal (WACA) with case titles only, lacking substantive details such as facts, reasoning, verdict, or judicial analysis. As such, the information is insufficient to extract meaningful legal insights.",
+  "metadata": {
+    "sourcePath": "WACA/wac6.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T09:53:52.197Z",
+    "plainTextLength": 3387
+  }
+}

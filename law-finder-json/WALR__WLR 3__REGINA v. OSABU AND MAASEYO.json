@@ -1,0 +1,73 @@
+{
+  "caseTitle": "REGINA VERSUS OSABU",
+  "summary": "The appellants, Osabu and Maaseyo, were jointly convicted of murder based solely on circumstantial evidence and their cross-incriminatory statements. The prosecution's case against Maaseyo (the second appellant) was weak, and her voluntary statement actually explained away suspicious circumstances. Despite this, the trial judge wrongly rejected her 'no case' submission. This led her to testify and adopt her statement, which in turn seriously incriminated Osabu. The Court of Appeal held that where there is no evidence to support a 'no case' submission, its rejection is a legal error, and subsequent evidence cannot cure the defect. As Maaseyo's statement should not have been admitted, and its use prejudiced Osabu, both convictions were unsafe. The court emphasized the importance of proper prosecutorial strategy in joint trials.",
+  "legalKeywords": [
+    "criminal law",
+    "evidence",
+    "circumstantial evidence",
+    "no case submission",
+    "prima facie case",
+    "appellate review",
+    "admissibility of statements",
+    "joint trial",
+    "jury directions",
+    "miscarriage of justice",
+    "prosecution strategy",
+    "co-accused statements",
+    "corroboration",
+    "self-incrimination",
+    "legal error"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence",
+    "Appellate Procedure",
+    "Joint Trial",
+    "Miscarriage of Justice"
+  ],
+  "verdict": "Convictions quashed; appeals allowed due to legal error in rejecting 'no case' submission and resulting prejudice.",
+  "winningSide": "Appellants",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "van Lare",
+      "role": "Ag.C.J."
+    },
+    {
+      "name": "Granville Sharp",
+      "role": "J.A."
+    },
+    {
+      "name": "Adumua-Bossman",
+      "role": "J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Abbott [1955] 2 Q.B. 497",
+    "R. v. Akinpelu Ajani (1936) 3 W.A.C.A. 3",
+    "Eregie v. Inspector-General of Police (1954) 14 W.A.C.A. 453",
+    "R. v. Power [1919] 1 K.B. 572",
+    "R. v. Cohen and Bateman (1909) 73 J.P. 352",
+    "Danso and Whenton v. The King (1950) 13 W.A.C.A. 16"
+  ],
+  "rationaleHighlights": [
+    "Rejection of 'no case' submission constitutes legal error if no evidence exists at that stage.",
+    "Subsequent evidence not part of 'all the evidence' when 'no case' should have succeeded.",
+    "Admission of co-accused's statement after wrongful denial of 'no case' prejudiced first appellant.",
+    "Directions to jury on mutually inculpatory statements required caution.",
+    "Prosecution should decide early whom to charge to avoid evidentiary complications.",
+    "Distinction drawn between insubstantial evidence and no evidence at all."
+  ],
+  "confidenceNotes": "High confidence; the judgment is detailed and reasoning is clearly articulated with reference to binding and persuasive authorities.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/REGINA v. OSABU AND MAASEYO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:53:11.901Z",
+    "plainTextLength": 27443
+  }
+}

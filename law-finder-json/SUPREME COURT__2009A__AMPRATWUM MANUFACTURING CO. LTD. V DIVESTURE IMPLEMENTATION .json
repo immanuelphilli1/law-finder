@@ -1,0 +1,84 @@
+{
+  "caseTitle": "AMPRATWUM MANUFACTURING CO. LTD. V DIVESTURE IMPLEMENTATION",
+  "summary": "The case involved Ampatwum Manufacturing Co. Ltd. (Appellant) seeking compensation of 436 million old Ghana cedis for structural improvements made to a warehouse leased from GIHOC Footwear Company Limited, which was later divested by the Divestiture Implementation Committee (DIC). The High Court initially ruled for the Appellant, but the Court of Appeal set aside the judgment, holding that the DIC was not the proper defendant. The Supreme Court upheld this procedural point but found the Court of Appeal should have substituted the Attorney-General as the proper party under Order 4 Rule 5 of CI 47. On the merits, the Supreme Court dismissed the claim, ruling no unjust enrichment occurred because the improvements were for the tenant’s benefit, did not increase rent, and the property was sold as a cloakroom without valuation uplift. The appellant failed to offset improvement costs against rent or claim compensation earlier.",
+  "legalKeywords": [
+    "unjust enrichment",
+    "divestiture",
+    "tenant improvements",
+    "proper party to sue",
+    "substitution of parties",
+    "Order 4 Rule 5 CI 47",
+    "State Proceedings Act (Act 51)",
+    "temporary structures",
+    "compensation for improvements",
+    "tenancy agreement",
+    "Government agency liability",
+    "equitable remedy",
+    "non-joinder of parties",
+    "valuation of property",
+    "DIC functions"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Property Law",
+    "Equity"
+  ],
+  "verdict": "The appeal was dismissed. The Supreme Court held that while the Court of Appeal erred in not substituting the Attorney-General as the proper defendant, the Appellant failed to establish a claim for unjust enrichment as the improvements were for its own benefit and did not enhance the property value.",
+  "winningSide": "Divestiture Implementation Committee (as the state entity, properly represented by the Attorney-General)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "P. Baffoe-Bonnie",
+      "role": "Presiding Justice delivering judgment"
+    },
+    {
+      "name": "W. A. Atuguba",
+      "role": "Justice concurring"
+    },
+    {
+      "name": "S. A. B. Akuffo (Ms)",
+      "role": "Justice concurring"
+    },
+    {
+      "name": "K. Anin",
+      "role": "Justice concurring"
+    },
+    {
+      "name": "J. Dotse",
+      "role": "Justice concurring"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "PNDCL 326",
+    "State Proceedings Act (Act 51), Section 10(2)",
+    "Order 4 Rule 5 of CI 47",
+    "Quagraine v Adams [1981] GLR 601",
+    "Letang v Cooper [1965] 1 Q.B. 232",
+    "Paul Nuako and 133 Others v DIC Suit No. E.3/9/2004",
+    "The Republic v High Court, Accra Ex parte Attorney-General (Delta Foods Ltd) [1999-2000] I GLR 255",
+    "Buobuh v Minister of Interior [1973] 2 GLR 304"
+  ],
+  "rationaleHighlights": [
+    "The DIC is a mere advisory body without power to sue or be sued; proper defendant in state proceedings is the Attorney-General per Article 88(5) of the 1992 Constitution.",
+    "Order 4 Rule 5 of CI 47 allows substitution of parties; Court of Appeal erred in dismissing rather than substituting the Attorney-General.",
+    "No unjust enrichment: improvements were for tenant’s benefit, did not increase rent, and were not claimed during tenancy.",
+    "The property was valued and sold as a cloakroom (26 million cedis each), not reflecting any uplift from the temporary structures.",
+    "Equitable claims require clean hands; the tenant enjoyed six years of benefit without compensation claims or rent offsets.",
+    "The tenant failed to demand compensation earlier or negotiate rent reduction, weakening its claim.",
+    "Improvements may have diminished property value, requiring new owner to reconvert the space.",
+    "The advisory role of DIC in divestiture does not create liability for tenant claims."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct quotes from the judgment text. Some names were corrected based on standard judicial titles and known records (e.g., 'Anin' from likely 'Ansa'); truncated end of document did not affect core holdings.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/AMPRATWUM MANUFACTURING CO. LTD. V DIVESTURE IMPLEMENTATION .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:10:46.333Z",
+    "plainTextLength": 15637
+  },
+  "trialDate": "2009-02-04"
+}

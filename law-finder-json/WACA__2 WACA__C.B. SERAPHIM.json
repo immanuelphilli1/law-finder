@@ -1,0 +1,67 @@
+{
+  "caseTitle": "C.B. SERAPHIM",
+  "summary": "This 1935 West Africa Court of Appeal decision in Ghana (then Gold Coast) reviewed the conviction of C.B. Seraphim under section 4(6) of the Gold Mining Products Protection Ordinance Cap. 6/j. The court upheld two convictions but overturned the conviction for carrying on a goldsmith business without a license. The appellate judges found that the definition of a goldsmith required being a worker/dealer in non-mining gold or a seller of gold articles, but there was no evidence the appellant sold such items. Crucially, the prosecution's case relied on proving the gold was a 'mining product,' which contradicted the basis for the goldsmith charge. The court held that the Police Magistrate erred in assuming unassayed gold was not a mining product after rejecting the defense's similar claim, creating mutually inconsistent convictions. As a result, the goldsmith conviction and sentence were annulled.",
+  "legalKeywords": [
+    "conviction",
+    "goldsmith",
+    "gold mining product",
+    "Ordinance Cap. 6/j",
+    "section 4(6)",
+    "assay",
+    "prosecution",
+    "licensing",
+    "mutual inconsistency",
+    "appellate review",
+    "evidence",
+    "possession",
+    "Gold Coast",
+    "unassayed gold",
+    "legal definition"
+  ],
+  "topics": [
+    "criminal law",
+    "appellate review",
+    "evidence",
+    "licensing",
+    "mining regulation"
+  ],
+  "verdict": "Partially allowed: two convictions upheld, one conviction for unlicensed goldsmith activity overturned due to evidentiary and logical inconsistency.",
+  "winningSide": "Respondent (Inspector-General of Police) on two counts; Appellant partially successful on the goldsmith charge.",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice, Sierra Leone"
+    },
+    {
+      "name": "Strother-Stewart",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "WACA/2 WACA/C.B. SERAPHIM"
+  ],
+  "rationaleHighlights": [
+    "The conviction for carrying on a goldsmith business cannot stand due to lack of evidence that the appellant sold gold-manufactured articles.",
+    "The prosecution inconsistently argued that the gold was a mining product while simultaneously supporting a charge based on non-mining gold.",
+    "The assumption by the Police Magistrate that unassayed gold was not a mining product was unjustified after rejecting the defense's claim on the same point.",
+    "Convictions are mutually inconsistent, undermining the legal basis for the goldsmith charge."
+  ],
+  "confidenceNotes": "The document is a clear appellate judgment from the West Africa Court of Appeal with identifiable judges and date; however, the original source formatting is degraded, which may affect precision.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/C.B. SERAPHIM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:32:23.954Z",
+    "plainTextLength": 3120
+  },
+  "trialDate": "1935-11-29"
+}

@@ -1,0 +1,89 @@
+{
+  "caseTitle": "DR. JACOB EMMANUEL OPPONG & THE ATTORNEY GENERAL, THE JUSTIC",
+  "summary": "Dr. Jacob Emmanuel Oppong, former Deputy Chairman of the National Commission for Civic Education (NCCE), was removed from office in 1999 following an investigation by the Justice George K. Acquah Committee into alleged 'stated misbehaviour' under Articles 146(1) and 236 of the 1992 Constitution. He filed a suit in the Supreme Court under its exclusive original jurisdiction (Article 130(1)(a)) seeking declarations that the removal standards were unconstitutionally applied, that the procedure was flawed, and requesting nullification of his removal, reinstatement, and damages. The Supreme Court, per Justice Bamford-Addo, held that the case was实质ially one for reinstatement and appeal of a committee's findings, not a genuine constitutional interpretation issue. It ruled that such matters fall outside the Court’s original jurisdiction and must instead be pursued via appeal to the Court of Appeal under Article 280(2), which treats adverse inquiry reports as High Court judgments. The preliminary objection was upheld, and the action was dismissed for lack of jurisdiction.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "original jurisdiction",
+    "removal from office",
+    "stated misbehaviour",
+    "judicial review",
+    "appeal",
+    "committee of inquiry",
+    "Supreme Court jurisdiction",
+    "NCCE",
+    "High Court Judge removal procedure",
+    "constitutional standards",
+    "reinstatement",
+    "unlawful removal",
+    "infirmity of body or mind",
+    "incompetence",
+    "President's powers",
+    "Chief Justice duties",
+    "prima facie case",
+    "recommendations binding",
+    "constitutional enforcement"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Judicial Procedure",
+    "Public Office",
+    "Appeals",
+    "Separation of Powers"
+  ],
+  "verdict": "The Supreme Court dismissed the plaintiff's action, holding it lacked original jurisdiction as the case amounted to an improper attempt to appeal the findings of a committee of inquiry directly to the Supreme Court.",
+  "winningSide": "Defendants (Attorney General and the Justice George K. Acquah Committee)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Joyce Bamford-Addo",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "D.K. Afreh",
+      "role": "Justice"
+    },
+    {
+      "name": "S.G. Baddoo",
+      "role": "Justice"
+    },
+    {
+      "name": "Dr. S. Twum",
+      "role": "Justice"
+    },
+    {
+      "name": "Adzoe",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Article 130(1), 1992 Constitution",
+    "Article 146(1), 1992 Constitution",
+    "Article 236, 1992 Constitution",
+    "Article 295(1), 1992 Constitution",
+    "Article 278, 1992 Constitution",
+    "Article 280(2), 1992 Constitution",
+    "Baffour Kwame Fante Aduamoah II v. Nana Gyakorang Adu Twum II, Suit No. 3/94 (2000)",
+    "Nana Sarpong Gyamfi v. Nana Kwaku Dakore II, Writ No. 1/99 (2000)",
+    "Tait v. Ghana Airways Corporation (1970) 2G&G 527",
+    "In Re: Special Tribunal Ex-Parte Akosah [1980] GLR 592 CA"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court lacks original jurisdiction over claims that are essentially for reinstatement and damages, even if couched as constitutional interpretation.",
+    "A matter involving challenge to findings of a committee of inquiry must be appealed to the Court of Appeal under Article 280(2), not brought directly to the Supreme Court.",
+    "The phrase 'stated misbehaviour' is not inherently ambiguous and does not require Supreme Court interpretation in this context.",
+    "Invoking the Supreme Court’s original jurisdiction to bypass lower courts undermines the judicial hierarchy and proper appellate process."
+  ],
+  "confidenceNotes": "The ruling is clear and consistent with established precedent on the limits of the Supreme Court's original jurisdiction. The constitutional provisions and case law are accurately cited and applied.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2003A/DR. JACOB EMMANUEL OPPONG & THE ATTORNEY GENERAL, THE JUSTIC.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:37:41.125Z",
+    "plainTextLength": 34275
+  },
+  "trialDate": "19TH MARCH, 2003"
+}

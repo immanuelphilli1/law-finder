@@ -1,0 +1,69 @@
+{
+  "caseTitle": "KOFI AMOKWANDOH",
+  "summary": "The plaintiff, Kofi Amokwandoh, leased family-owned land in Winneba to the United Africa Company Limited (successor to African and Eastern Trade Corporation) in 1923. After several years of rent payments, the lessee stopped paying at the request of Adjuah Attah, who claimed to be the head of the family and rightful recipient of the rents. She was joined as a co-defendant. The Police Magistrate and Divisional Court held that the land was family property and the plaintiff had leased it on behalf of the family. On appeal, the West African Court of Appeal (Deane CJ dissenting) reversed, holding that the lease did not explicitly state the plaintiff was contracting on behalf of the family, so he must be treated as the individual lessor. The court ruled that parol evidence could not be used by the lessee to dispute the lessor's title, and Adjuah Attah, though properly joined, could not override the written lease terms. The appeal was allowed, restoring the plaintiff's right to possession and mesne profits.",
+  "legalKeywords": [
+    "lease",
+    "family property",
+    "parol evidence",
+    "native land",
+    "joinder of parties",
+    "lessor title",
+    "mesne profits",
+    "Native Tribunal",
+    "contract interpretation",
+    "agent and principal",
+    "estoppel",
+    "re-entry clause",
+    "rent payment",
+    "head of family",
+    "supreme court rules"
+  ],
+  "topics": [
+    "Land Law",
+    "Contract Law",
+    "Evidence Law",
+    "Family Property",
+    "Appellate Procedure"
+  ],
+  "verdict": "Appeal allowed with costs. Judgment of lower courts set aside. Plaintiff entitled to possession and mesne profits.",
+  "winningSide": "Plaintiff-Appellant (Kofi Amokwandoh)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Deane",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Yates",
+      "role": "Judge"
+    },
+    {
+      "name": "Police Magistrate at Winneba",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Burgess v. Wickham, 3 B. & S. 690",
+    "Wake v. Harrop, 1 H.C. 202"
+  ],
+  "rationaleHighlights": [
+    "Parol evidence is admissible to show that a native lessor contracted as agent for the family, even if the lease does not explicitly state representative capacity.",
+    "The term 'family' in the lease's definition of 'lessor' supports the interpretation that the lessor acted on behalf of the family.",
+    "A tenant cannot dispute the landlord's title, but third parties (e.g., head of family) may challenge the lessor's individual title.",
+    "Joinder of Adjuah Attah was proper under court rules to avoid multiplicity of suits and ensure complete justice.",
+    "Native land is presumed to be family property unless clearly shown otherwise."
+  ],
+  "confidenceNotes": "The document is truncated near the end, but key holdings and facts are preserved. The judgment is clear on admissibility of parol evidence and joinder, though the final portion of Deane CJ's reasoning is missing.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/KOFI AMOKWANDOH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:46:14.248Z",
+    "plainTextLength": 21673
+  },
+  "trialDate": "1932-05-17"
+}

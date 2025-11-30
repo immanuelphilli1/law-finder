@@ -1,0 +1,72 @@
+{
+  "caseTitle": "BERNARD NII OKAI TAGOE VRS THE REPUBLIC",
+  "summary": "In this 2010 Court of Appeal decision from Ghana, Bernard Nii Okai Tagoe appealed his 1990 murder conviction for the death of Nii Ardey Sackey, arguing the verdict was unreasonable based on the evidence. The prosecution's case relied heavily on the eyewitness testimony of Elizabeth Mawushie Commey (PW4), who initially claimed amnesia but later described the appellant hitting the deceased's head against a canoe. The appellant claimed self-defense, stating the deceased attacked him first with a metal spoon and bit him, leading to a mutual struggle where both fell into a canoe. Medical evidence on the cause of death was inconclusive, with no direct pathological examination presented. The trial judge failed to properly reconcile the appellant's account with the prosecution's version when instructing the jury on intent, creating a misdirection. The Court of Appeal found this failure significant, as intent is crucial to distinguishing murder from manslaughter, and the lack of corroboration for key prosecution claims weakened the conviction.",
+  "legalKeywords": [
+    "murder",
+    "manslaughter",
+    "intent",
+    "self-defence",
+    "unlawful harm",
+    "jury misdirection",
+    "eyewitness testimony",
+    "corroboration",
+    "post-mortem evidence",
+    "reasonable doubt",
+    "Criminal Code Act 29",
+    "provocation",
+    "burden of proof",
+    "appellate review",
+    "verdict unreasonableness"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Jury Instructions",
+    "Medical Evidence"
+  ],
+  "verdict": "Conviction quashed",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "A. Asare Korang",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Marful-Sau",
+      "role": "Justice"
+    },
+    {
+      "name": "W.H.K. Addo",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Senе & Anor v. The Republic (1977) 1 GLR 434",
+    "Criminal Code 1960 (Act 29), Sections 11(1), 11(2), 38, 39"
+  ],
+  "rationaleHighlights": [
+    "The trial judge misdirected the jury by failing to juxtapose the appellant's testimony with the prosecution's version when assessing intent.",
+    "Intent to kill is essential to murder and must be inferred from circumstances, but the judge improperly assumed the appellant's actions matched the prosecution's narrative.",
+    "The only eyewitness did not see the start of the fight, and the appellant never admitted to striking the deceased's head against the canoe.",
+    "Medical evidence was weak, as the post-mortem report was presented by a non-pathologist who did not examine the body.",
+    "The prosecution failed to disprove self-defence or establish intent beyond reasonable doubt.",
+    "No other witnesses were called despite many allegedly present during the fight, undermining reliability.",
+    "Falling into the canoe could have caused the fatal head injury, supporting accidental or non-intentional harm.",
+    "The conviction was based on insufficient and uncorroborated evidence, rendering the verdict unreasonable."
+  ],
+  "confidenceNotes": "The summary is based on a truncated document; however, the available text provides sufficient detail on the grounds of appeal, key testimonies, legal reasoning, and the appellate court's findings. The outcome is clearly indicated by the court's strong criticism of the trial judge's misdirection and the insufficiency of evidence to support a murder conviction.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/BERNARD NII OKAI TAGOE VRS THE REPUBLIC.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:42:10.002Z",
+    "plainTextLength": 16623
+  },
+  "trialDate": "2010-06-03"
+}

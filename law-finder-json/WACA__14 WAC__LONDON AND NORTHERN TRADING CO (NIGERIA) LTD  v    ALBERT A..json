@@ -1,0 +1,71 @@
+{
+  "caseTitle": "LONDON AND NORTHERN TRADING CO (NIGERIA) LTD v ALBERT A.",
+  "summary": "The appellant company advanced £200 to the respondent for the purchase of a lorry, which the respondent agreed would remain under lien until repayment. The company later seized the lorry without consent, believing it had a legal right to do so, but this was a mistaken and unlawful detention. Before the plaintiff filed his statement of claim, the police seized the lorry from the company under a magistrate’s order for use as an exhibit in criminal proceedings against the respondent. The trial court ordered the company to return the lorry or pay its value, along with compensation for tools and damages. The West Africa Court of Appeal held that since the company lost possession of the lorry through no voluntary or wrongful act of its own—due to lawful police action—it could not be compelled to return the lorry. The appeal was allowed on this point. However, the company remained liable for the tools and log unlawfully detained and was ordered to return them or pay their value, along with general and special damages.",
+  "legalKeywords": [
+    "lien",
+    "unlawful detention",
+    "conversion",
+    "wrongful taking",
+    "police seizure",
+    "possession",
+    "tort",
+    "damages",
+    "statement of claim",
+    "trial court judgment",
+    "appellate review",
+    "property rights",
+    "security interest",
+    "civil liability",
+    "recovery of goods"
+  ],
+  "topics": [
+    "Tort Law",
+    "Property Law",
+    "Appellate Procedure",
+    "Lawful vs Unlawful Detention",
+    "Police Seizure of Property"
+  ],
+  "verdict": "Appeal allowed in part",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "de Comarmond",
+      "role": "Ag. Chief Justice"
+    },
+    {
+      "name": "Foster-Sutton",
+      "role": "President"
+    },
+    {
+      "name": "Coussey",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal, Nigeria",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "WACA/14"
+  ],
+  "rationaleHighlights": [
+    "The unlawful detention ended when police took possession under lawful authority.",
+    "The appellant could not be ordered to return goods no longer in its possession through no fault of its own.",
+    "No claim of ownership was made by the appellant, only a claim of lien.",
+    "The respondent did not allege conversion, limiting the scope of liability.",
+    "The police would have seized the lorry regardless of who possessed it, negating continued liability for detention.",
+    "The appellant remained liable for items (jack, tools, log) still under its control at time of seizure.",
+    "The trial court erred in ordering return of goods beyond the defendant's control.",
+    "Appellate court corrected the remedy to reflect actual possession and fault."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text. Jurisdiction is attributed to Ghana as per source context, though the court sat in Nigeria under the West Africa Court of Appeal system applicable to British West African territories including Ghana (then Gold Coast).",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/LONDON AND NORTHERN TRADING CO (NIGERIA) LTD  v    ALBERT A..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:38:16.311Z",
+    "plainTextLength": 8529
+  },
+  "trialDate": "1952-06-09"
+}

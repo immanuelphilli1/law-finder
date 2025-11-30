@@ -1,0 +1,114 @@
+{
+  "caseTitle": "MISCELLANY-AT-LAW PROOF IN CIVIL CASES SOME THOUGHTS ON LAND",
+  "summary": "This legal commentary by Justice Amua-Sekyi of the Ghanaian Supreme Court examines the standard of proof in civil land cases, particularly actions for declaration of title. While civil cases generally require proof on a balance of probabilities, the author argues that Ghanaian courts demand a higher standard—akin to proof beyond reasonable doubt—for title declarations. The plaintiff must rely on the strength of their own case, not the weakness of the defendant's. Key cases like J M Kodilinye v Mbanefo Odu establish this principle. However, three qualifications exist: (1) if land boundaries are unclear, the plaintiff may be non-suited; (2) long, exclusive, and quiet possession creates a prima facie title, shifting the burden to the defendant; and (3) if title is unproven but possession is established, courts may grant a right of occupancy instead of dismissing the claim. The article draws on West African Court of Appeal, Privy Council, and Ghanaian case law to clarify evidentiary standards in land disputes.",
+  "legalKeywords": [
+    "proof in civil cases",
+    "standard of proof",
+    "balance of probabilities",
+    "preponderance of probabilities",
+    "proof beyond reasonable doubt",
+    "declaration of title",
+    "onus of proof",
+    "land suits",
+    "possession of land",
+    "exclusive possession",
+    "long and quiet possession",
+    "traditional evidence",
+    "boundaries of land",
+    "non-suit",
+    "strength of own case",
+    "weakness of opponent's case",
+    "prima facie title",
+    "burden of proof",
+    "customary land law",
+    "title to land",
+    "trespass",
+    "injunction",
+    "West African Court of Appeal",
+    "Privy Council",
+    "Evidence Decree 1975 (NRCD 323)",
+    "Order 39 rule 1",
+    "Order 40 rule 1",
+    "Gold Coast Courts Ordinance",
+    "Nigerian Supreme Court Rules"
+  ],
+  "topics": [
+    "Land Law",
+    "Evidence",
+    "Civil Procedure",
+    "Standard of Proof",
+    "Customary Law"
+  ],
+  "verdict": "The article concludes that while a higher standard of proof applies to land title declarations, established possession can shift the burden and lead to favorable rulings even with weak traditional evidence.",
+  "winningSide": "Depends on strength of own case or proof of long possession",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Amua-Sekyi K E",
+      "role": "Author/Justice"
+    },
+    {
+      "name": "Webber CJ",
+      "role": "Judge"
+    },
+    {
+      "name": "Kingdon CJ",
+      "role": "Judge"
+    },
+    {
+      "name": "Butler Lloyd J",
+      "role": "Judge"
+    },
+    {
+      "name": "Dean CJ",
+      "role": "Judge"
+    },
+    {
+      "name": "Foster-Sutton P",
+      "role": "Judge"
+    },
+    {
+      "name": "Coussey J",
+      "role": "Judge"
+    },
+    {
+      "name": "Harragin CJ",
+      "role": "Judge"
+    },
+    {
+      "name": "Adumua-Bossman J",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Abotche Kponuglo v Adja Kodadja (1933) 2 WACA 24",
+    "J M Kodilinye v Mbanefo Odu (1933) 2 WACA 336",
+    "Amodu Rufai v Ricketts and Others (1933) 2 WACA 95",
+    "Nana Darku Frempong II v Nana Owusu Brempong II & Others (1952) 14 WACA 13",
+    "Ededem Archibong V v Ntoe it a (1954) 14 WACA 520",
+    "Kwadzo v Adjei (1944) 10 WACA 274",
+    "Amata v Modekwe (1952) 14 WACA 580",
+    "Abinah v Kennedy [(1921) FC'20-'21, 211]",
+    "Aidoo v Adjei [1976] 1 GLR 431, CA",
+    "Kwaku Dua III v Kwamin Tandoh (1926) PC 1874\t1928, 109"
+  ],
+  "rationaleHighlights": [
+    "In land title declarations, plaintiff must prove case on strength of own evidence, not weakness of opponent's.",
+    "Proof beyond reasonable doubt is effectively required in title declarations, though termed differently.",
+    "Long, exclusive, quiet possession shifts burden of proof to defendant to disprove title.",
+    "Unclear land boundaries may lead to non-suit even with satisfactory title evidence.",
+    "Courts may grant possession rights even if full title is unproven."
+  ],
+  "confidenceNotes": "The document is a legal commentary by a Supreme Court Justice and cites numerous authoritative cases from the West African Court of Appeal, Privy Council, and Ghanaian courts. However, the source file appears truncated, potentially omitting concluding sections. All extracted information is consistent with the provided text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/87 - 88/MISCELLANY-AT-LAW PROOF IN CIVIL CASES SOME THOUGHTS ON LAND.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:00:49.037Z",
+    "plainTextLength": 17606
+  }
+}

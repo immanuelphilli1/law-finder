@@ -1,0 +1,67 @@
+{
+  "caseTitle": "NCHIRAHENE KOJO ADO",
+  "summary": "This case involved an appeal before the West African Court of Appeal concerning an application to set aside an ex-parte order authorizing the withdrawal of money from court following a sale in execution under a Fi Fa. The appellant, S. Agyeman, challenged the sale of property in which he held only an equity of redemption due to a prior legal mortgage to Mary Joseph. One ground of challenge was that the notice of sale improperly purported to sell the whole property. The trial judge had previously ruled that the entire interest, free of the mortgage, was intended to and did pass to the purchaser. This decision was upheld on prior appeal, which found no irregularity sufficient to set aside the sale. The current appeal sought to challenge the disbursement of surplus funds. The appellate court held that the appellant was estopped from re-litigating the nature of the estate sold, as the issue had already been decided against him in prior proceedings. Consequently, the court affirmed the trial judge's order authorizing payment of £844 4s. 0d. to the execution-creditor's solicitor for remittance to the mortgagee, and dismissed the appeal with costs.",
+  "legalKeywords": [
+    "execution sale",
+    "equity of redemption",
+    "legal estate",
+    "notice of sale",
+    "estoppel",
+    "Fi Fa",
+    "mortgage",
+    "irregularity in sale",
+    "judgment-debtor",
+    "auctioneer",
+    "payment out of court",
+    "res judicata",
+    "conclusive finding",
+    "mortgagee rights",
+    "sheriff's sale"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Property Law",
+    "Mortgages",
+    "Execution of Judgments",
+    "Estoppel"
+  ],
+  "verdict": "Appeal dismissed with costs assessed at £23 19s. 0d.",
+  "winningSide": "Respondents (including execution-creditor O. W. J. Groszmann and mortgagee Mary Joseph)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Yates",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Everest & Strode on Estoppel, 2nd Ed., p. 56"
+  ],
+  "rationaleHighlights": [
+    "The whole interest in the property, free of mortgage, was intended to be and was sold.",
+    "Irregularity in notice of sale did not invalidate the sale as no damage was caused.",
+    "Appellant estopped from re-litigating issue previously decided against him.",
+    "Court upheld trial judge's order authorizing payment out of court funds.",
+    "Previous appellate decision silent on estate passed, but finding on sale binding."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment, including parties, court level, reasoning, and outcome.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/NCHIRAHENE KOJO ADO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:01:20.118Z",
+    "plainTextLength": 5187
+  }
+}

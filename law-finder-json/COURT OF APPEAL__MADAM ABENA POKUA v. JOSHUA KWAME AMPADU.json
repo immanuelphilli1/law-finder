@@ -1,0 +1,68 @@
+{
+  "caseTitle": "ABENA POKUA v. JOSHUA KWAME AMPADU",
+  "summary": "In this civil appeal, Madam Abena Pokua (respondent) sued Joshua Kwame Ampadu (appellant) for damages after he demolished a building in which she claimed to operate a mattress business. She alleged a 10-year lease from Kwaku Baah (P.W.1), the nephew and customary successor of the late co-owner Kwaku Wadie. The Court of Appeal found that P.W.1 lacked legal authority to grant the lease without consent from the other estate administrators and the co-owner, rendering the lease invalid under the principle 'nemo dat quod non habet'. The court also noted inconsistencies in testimony, lack of corroboration for the business, and failure to prove earnings. The Circuit Court’s judgment in favor of the plaintiff was set aside, and the appeal was allowed due to insufficient evidentiary support.",
+  "legalKeywords": [
+    "lease agreement",
+    "letters of administration",
+    "joint ownership",
+    "nemo dat quod non habet",
+    "unlawful possession",
+    "demolition",
+    "estate administration",
+    "tenant rights",
+    "appellate review",
+    "burden of proof",
+    "customary succession",
+    "property rights",
+    "third-party interest",
+    "consent of co-owners",
+    "invalid lease"
+  ],
+  "topics": [
+    "Property Law",
+    "Lease Agreements",
+    "Estate Administration",
+    "Appellate Procedure",
+    "Tort Law"
+  ],
+  "verdict": "The appeal was allowed; the Circuit Court's judgment was set aside due to lack of legal authority for the lease and insufficient evidence supporting the plaintiff's claims.",
+  "winningSide": "Defendant/Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "A. Essilfie-Bondzie",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "D. K. Afreh",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "B. T. Aryeetey",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "BARCLAYS BANK GHANA LIMITED v. SAKARI SC GLR 639 at 641"
+  ],
+  "rationaleHighlights": [
+    "The lease granted by P.W.1 was invalid as he lacked authority without consent of co-administrators and co-owner.",
+    "The principle 'nemo dat quod non habet' applies: one cannot transfer greater rights than they possess.",
+    "No physical partition of the property per Exhibit C, so no exclusive control by either party.",
+    "Plaintiff failed to prove lawful tenancy or monthly earnings of ₵3 million.",
+    "Appellate court can re-evaluate findings based on documents and undisputed facts."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details are explicitly stated in the judgment. The application of 'nemo dat quod non habet' and the invalidity of the lease are clearly articulated by the court.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/MADAM ABENA POKUA v. JOSHUA KWAME AMPADU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:18:19.028Z",
+    "plainTextLength": 11888
+  },
+  "trialDate": "2000-03-23"
+}

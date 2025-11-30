@@ -1,0 +1,75 @@
+{
+  "caseTitle": "rexvABDUL HASSAN SARD",
+  "summary": "The West African Court of Appeal heard an appeal by Abdul Hassan Sard, who had been convicted of murder by the Supreme Court of Sierra Leone. The appellant raised eleven grounds of appeal, grouped into three main issues: lack of jurisdiction, misreception of evidence, and misdirection of the jury. The Court rejected the jurisdictional challenge, holding that the Circuit Court had valid jurisdiction to try the case despite the accused being a non-native charged with a capital offense against a native. Regarding misdirection, the Court found no fatal error in the trial judge's instructions to the jury, noting that while the summing-up was summary, it was adequate and did not improperly restrict the jury's consideration of manslaughter or self-defense. However, the Court found that material hearsay evidence—specifically, testimony about the appellant's alleged confession to a chief regarding his motive for killing—was improperly admitted. Although the trial judge instructed the jury to ignore this evidence, the Court determined its prejudicial effect warranted setting aside the murder conviction. Nevertheless, under section 5(2) of the West African Court of Appeal (Criminal Offences) Ordinance, the Court substituted a conviction for manslaughter and sentenced the appellant to seven years' imprisonment with hard labour.",
+  "legalKeywords": [
+    "murder",
+    "manslaughter",
+    "jurisdiction",
+    "inadmissible evidence",
+    "hearsay",
+    "confession",
+    "misdirection",
+    "self-defense",
+    "motive",
+    "trial by jury",
+    "circuit court",
+    "supreme court",
+    "capital offence",
+    "non-native",
+    "native",
+    "West African Court of Appeal Ordinance"
+  ],
+  "topics": [
+    "criminal law",
+    "appellate procedure",
+    "evidence law",
+    "jurisdiction",
+    "jury instructions"
+  ],
+  "verdict": "Conviction for murder quashed; conviction for manslaughter substituted.",
+  "winningSide": "Appellant (partial win on verdict, but convicted of lesser offense)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Webber",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Strother Stewart",
+      "role": "Justice"
+    },
+    {
+      "name": "Brooke",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v. Deana (25 T.L.R. p. 399)",
+    "Rex v. Betsy Taylor (11 Cr. App. R. p. 41)",
+    "Rex v. West (4 Cr. App. 479)",
+    "West African Court of Appeal (Criminal Offences) Ordinance, Ordinance 10 of 1929, s. 5(2)",
+    "Ordinance 40 of 1932, para 36",
+    "Criminal Procedure Ordinance No. 38 of 1932, para 10"
+  ],
+  "rationaleHighlights": [
+    "Conviction for murder quashed due to admission of inadmissible hearsay evidence regarding motive",
+    "Court exercised power under s.5(2) of WA CA Ordinance to substitute conviction for manslaughter",
+    "Jurisdiction of Circuit Court upheld despite procedural arguments",
+    "No fatal misdirection in jury instructions found",
+    "Confession while in custody not automatically inadmissible",
+    "Hearsay evidence about accused's statement to chief was improperly admitted"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed appellate judgment and clear legal reasoning. Some document truncation occurs but key holdings and reasoning are preserved.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/rexvABDUL HASSAN SARD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:13:20.049Z",
+    "plainTextLength": 21071
+  },
+  "trialDate": "1935-04-16"
+}

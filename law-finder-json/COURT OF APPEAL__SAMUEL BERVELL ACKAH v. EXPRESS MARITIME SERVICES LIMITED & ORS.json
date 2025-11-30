@@ -1,0 +1,81 @@
+{
+  "caseTitle": "SAMUEL BERVELL ACKAH v. EXPRESS MARITIME SERVICES",
+  "summary": "This Court of Appeal ruling from Ghana addresses an application for a stay of execution of orders issued by the High Court, Tema, which had appointed a receiver/manager for Express Maritime Services Limited and restrained all four directors from acting as such. The Court of Appeal granted the stay, holding that the High Court's orders were improperly made. The plaintiff had not claimed the appointment of a receiver or an injunction against directors in his writ or statement of claim, and the Companies Code, Act 179, which governs the company, does not authorize such orders in the absence of a winding-up proceeding or a claim properly before the court. The Court emphasized that section 217 of Act 179 allows injunctions only against the company, not its directors, and section 237 applies only during winding up, which was not occurring. The appointment of the court registrar as receiver/manager of a specialized stevedoring company was also questioned due to lack of relevant expertise. The Court concluded that the High Court overstepped its discretion under Order 50 r.7 of the High Court Rules by not adhering to the statutory framework, and that the orders were executory and thus subject to a stay pending appeal.",
+  "legalKeywords": [
+    "receiver appointment",
+    "injunction",
+    "Companies Code Act 179",
+    "interlocutory order",
+    "stay of execution",
+    "equitable powers",
+    "corporate governance",
+    "directors' authority",
+    "status quo",
+    "court discretion",
+    "winding up",
+    "secured creditors",
+    "floating charge",
+    "section 217",
+    "section 237",
+    "section 7",
+    "section 180",
+    "Order 50 rule 7",
+    "High Court rules",
+    "contempt of court"
+  ],
+  "topics": [
+    "Corporate Law",
+    "Civil Procedure",
+    "Injunctions",
+    "Stay of Execution",
+    "Judicial Discretion"
+  ],
+  "verdict": "The application for stay of execution of the High Court's ruling and orders was granted by the Court of Appeal.",
+  "winningSide": "Defendants/Appellants (Express Maritime Services Limited & others)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "F. M Lartey",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "J. B. Akamba",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "J. A. Osei",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "COLEBOURNE VRS. COLEBOURNE 1876 1 ch. D. 690",
+    "BUNZU & ANOR VRS. ABBEYMAN FAMILY STOOL [1992 - 93] GBR",
+    "BOYEFIO VRS NTHC PROPERTIES LTD [1996 - 97] SC GLR 531",
+    "ASCHKAR VRS KARAM [1972] 1 GLR 1",
+    "Truman & Co. vrs. Red grave (1881) 18 Ch. D. 547",
+    "Mensah vrs Ghana Football Association & Ors. (1989-90) GLR 1"
+  ],
+  "rationaleHighlights": [
+    "The High Court's appointment of a receiver/manager and injunction against directors was not authorized under the Companies Code (Act 179).",
+    "No claim for receiver or injunction was made in the writ or statement of claim, making the orders procedurally improper.",
+    "Section 217 of Act 179 limits injunctions to acts by the company, not its directors.",
+    "Section 237 applies only when a company is being wound up, which was not the case here.",
+    "The appointment of the Registrar as receiver/manager raised concerns about competence in managing a specialized stevedoring business.",
+    "The impugned orders were executory and enforceable by contempt, justifying a stay.",
+    "The Companies Code provides a complete framework; resorting to general equitable powers under section 7 is inappropriate where the Code prescribes specific procedures.",
+    "Preserving the status quo pending appeal is more appropriate than drastic interim measures."
+  ],
+  "confidenceNotes": "All information extracted directly from the provided judgment text. Citations, judges, and legal reasoning are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/SAMUEL BERVELL ACKAH v. EXPRESS MARITIME SERVICES LIMITED & ORS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:04:38.345Z",
+    "plainTextLength": 12278
+  },
+  "trialDate": "2003-01-23"
+}

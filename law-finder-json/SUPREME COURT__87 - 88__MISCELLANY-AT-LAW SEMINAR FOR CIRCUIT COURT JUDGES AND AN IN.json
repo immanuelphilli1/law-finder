@@ -1,0 +1,69 @@
+{
+  "caseTitle": "MISCELLANY-AT-LAW SEMINAR FOR CIRCUIT COURT JUDGES AND AN IN",
+  "summary": "This document compiles lectures delivered at a 1987 judicial seminar for circuit court judges and newly appointed magistrates in Ghana. Chief Justice Sowah emphasizes that writing judgments is the most critical function of a judge, requiring clarity, brevity, and accuracy. He stresses the importance of mastering the English language, adopting a clear and effective writing style, and properly settling issues before trial to avoid irrelevant cross-examination. Judges are reminded to base findings on credible evidence, apply binding precedents correctly, and avoid verbosity. The document also includes illustrative personal injury awards from 1987–1988, showing how damages were calculated in fatal and non-fatal road accident cases.",
+  "legalKeywords": [
+    "judgment writing",
+    "legal language",
+    "judicial style",
+    "finding of facts",
+    "application of law",
+    "stare decisis",
+    "cross-examination",
+    "damages for personal injury",
+    "court procedure",
+    "judicial training",
+    "evidence evaluation",
+    "legal clarity",
+    "breach of privilege",
+    "witness demeanor",
+    "legal research"
+  ],
+  "topics": [
+    "Judicial Writing",
+    "Legal Language",
+    "Court Procedure",
+    "Evidence",
+    "Damages"
+  ],
+  "verdict": "Not applicable – the text is a training guide, not a court decision.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Sowah E N P",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Asare-Kwapong J",
+      "role": "Judge"
+    },
+    {
+      "name": "Lutterodt J",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Various Lower Courts and High Court",
+    "country": "Ghana"
+  },
+  "caseType": "judicial seminar / legal guidance",
+  "citations": [
+    "AHIATI v AHIAKPAH (Asare-Kwapong J, Ho, 16 November 1987)",
+    "AKWELEY v SMITH (Lutterodt J, Accra, 4 March 1988)"
+  ],
+  "rationaleHighlights": [
+    "Judges must write clear, brief, and accurate judgments reflecting sound reasoning.",
+    "Language and style are critical tools for effective judicial communication.",
+    "Issues must be clearly settled before evidence is heard to prevent abuse of process.",
+    "Findings of fact must be unequivocal before applying the law.",
+    "Superior court precedents bind lower courts under the doctrine of stare decisis."
+  ],
+  "confidenceNotes": "The document is not a judicial decision but a compilation of lectures and case examples from a judicial training seminar. Citations are illustrative examples provided within the text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/87 - 88/MISCELLANY-AT-LAW SEMINAR FOR CIRCUIT COURT JUDGES AND AN IN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:59:58.095Z",
+    "plainTextLength": 69942
+  },
+  "trialDate": "1981-12-31"
+}

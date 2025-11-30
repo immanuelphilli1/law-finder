@@ -1,0 +1,67 @@
+{
+  "caseTitle": "KWAMIN AKYIN",
+  "summary": "This 1936 West Africa Court of Appeal case arose from a land dispute between Kwamin Akyin (plaintiff) and Essie Egymah (defendant) over alleged trespass on land known as Kwabor Kudu. The native tribunal initially ruled in favor of the plaintiff, but the Commissioner on appeal reversed the decision, citing that it was against the weight of evidence. The West Africa Court of Appeal allowed the plaintiff's appeal, restoring the native tribunal's judgment. The court held that the native tribunal had properly focused on the issue of ownership rather than trespass, consistent with native law and custom. It emphasized that appellate courts should not disturb factual findings of native tribunals without very clear proof of error, particularly on matters within their specialized knowledge. The Commissioner was found to have erred by re-evaluating witness credibility—particularly that of Rockson—and by overlooking evidence of the plaintiff's constructive possession, including the defendant's violation of an oath and the cutting of the plaintiff's palm trees. The court reaffirmed the principle that the form of action in native tribunals should not be overly scrutinized if the core issue is clear.",
+  "legalKeywords": [
+    "trespass to land",
+    "ownership",
+    "possession",
+    "native tribunal",
+    "weight of evidence",
+    "native law and custom",
+    "constructive possession",
+    "appeal",
+    "fact-finding",
+    "witness credibility"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Review",
+    "Native Tribunals",
+    "Ownership vs Possession",
+    "Trespass"
+  ],
+  "verdict": "Appeal allowed; judgment of the native tribunal restored.",
+  "winningSide": "Plaintiff-Respondent-Appellant (Kwamin Akyin)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Webber",
+      "role": "Chief Justice, Sierra Leone"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Yates",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Ohene Kwesi Abuagyi 11 v. Ohene Amua Gyebu",
+    "Nthah v. Bennieh (1930)"
+  ],
+  "rationaleHighlights": [
+    "The native tribunal focused on ownership, not trespass, and this approach was upheld.",
+    "The court emphasized that form of action should not be stressed if the issue is clear.",
+    "Findings of native tribunals on matters within their expertise should not be disturbed without clear proof of error.",
+    "The Commissioner erred by reweighing evidence and favoring a witness whose testimony the native tribunal had rejected.",
+    "Evidence of cutting palm trees and oath violation supported plaintiff's claim of ownership.",
+    "No fresh evidence was presented on appeal, limiting the Commissioner's grounds for reversal.",
+    "Constructive possession by the plaintiff was inferred from acts of ownership.",
+    "The appeal was allowed based on deference to native tribunal's factual findings."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details (parties, judges, jurisdiction, rationale) are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/KWAMIN AKYIN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:20:37.188Z",
+    "plainTextLength": 6108
+  },
+  "trialDate": "1936-05-15"
+}

@@ -1,0 +1,69 @@
+{
+  "caseTitle": "REPUBLIC v. THE CIRCUIT COURT",
+  "summary": "This Court of Appeal decision in Ghana concerns an appeal against the High Court's refusal to grant the prerogative writs of certiorari and mandamus. The appellant, Ransford Akwei Bulley, sought to quash a Circuit Court ruling that denied him leave to amend his pleadings and to compel the trial judge to apply court rules. The Court of Appeal held that certiorari would only lie if the refusal to amend resulted in a denial of justice, which must be evident from the official record, not from extraneous affidavit evidence. The appellant failed to present a proper certified record demonstrating such a denial. The court emphasized that supervisory jurisdiction is limited to reviewing errors apparent on the record and does not permit re-evaluation of evidence. Finding that the High Court judge correctly applied the law and that the Circuit Court's decision was within its discretionary powers, the Court of Appeal dismissed the appeal, affirming the importance of procedural rigor in applications for prerogative relief.",
+  "legalKeywords": [
+    "certiorari",
+    "mandamus",
+    "prerogative writs",
+    "error of law on the face of the record",
+    "amendment of pleadings",
+    "jurisdiction",
+    "record",
+    "denial of justice",
+    "procedural fairness",
+    "supervisory jurisdiction",
+    "High Court rules",
+    "affidavit evidence",
+    "judicial discretion",
+    "Circuit Court",
+    "leave to amend"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Civil Procedure",
+    "Judicial Review"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "The Republic and the Circuit Court",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "S. GBADEGBE",
+      "role": "authoring judge"
+    },
+    {
+      "name": "E. ESSILFIE-BONDZIE",
+      "role": "concurring judge"
+    },
+    {
+      "name": "ANIN YEBOAH",
+      "role": "concurring judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appellate",
+  "citations": [
+    "General Medical Council v Spackman [1943] AC 627",
+    "Republic v High Court, Sekondi Ex parte Abuna II and Others [1992] 1 GLR 532",
+    "Rex v Nat Bell Liquors Ltd. [1922] 2 AC 128"
+  ],
+  "rationaleHighlights": [
+    "Certiorari requires error apparent on the record, not proven by extraneous affidavits.",
+    "Refusal to allow amendment must result in denial of justice to warrant certiorari.",
+    "Superior courts exercise supervision, not review, over inferior courts.",
+    "The 'record' must consist of certified documents forming part of court proceedings.",
+    "Appellant failed to provide a proper record showing denial of justice.",
+    "Trial judge's discretion in procedural matters is respected if legally sound."
+  ],
+  "confidenceNotes": "The case is clearly reported with full judicial reasoning and citations. The jurisdiction, parties, and procedural history are explicitly stated. The ruling hinges on well-established principles of administrative and procedural law, particularly regarding certiorari and the use of the 'record.'",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/THE REPUBLIC v. THE CIRCUIT COURT A CAPTAIN BRIMPONG EX-PARTE RANSFORD AKWEI BULLEY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:00:34.349Z",
+    "plainTextLength": 32278
+  },
+  "trialDate": "2004-02-12"
+}

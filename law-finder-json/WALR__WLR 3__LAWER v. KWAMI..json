@@ -1,0 +1,54 @@
+{
+  "caseTitle": "LAWER VERSUS KWAMI.",
+  "summary": "In Lawer v. Kwami, the plaintiff sought a declaration of title to land historically owned by his family, which had permitted Vanderpuye to occupy it for farming under a licence. The defendant claimed absolute ownership by purchase from Vanderpuye, asserting he had been in long occupation and had planted permanent trees. The defendant admitted the plaintiff's family's original ownership. The court held that once original title was admitted, the burden shifted to the defendant to prove lawful transfer, which he failed to do. Vanderpuye held only a licence, thus could not convey legal title. The defendant, as a sub-licensee, became a trespasser upon revocation of the licence. The court rejected estoppel, ruling that occupation under licence was not inconsistent with the plaintiff's title. The appeal was dismissed, affirming the Native Court's declaration of title in favour of the plaintiff.",
+  "legalKeywords": [
+    "declaration of title",
+    "burden of proof",
+    "licence",
+    "revocation of licence",
+    "equitable estoppel",
+    "acquiescence",
+    "trespass",
+    "native custom",
+    "on proof of title",
+    "admission of ownership"
+  ],
+  "topics": [
+    "Land Law",
+    "Estoppel",
+    "Burden of Proof",
+    "Licence",
+    "Trespass"
+  ],
+  "verdict": "Appeal dismissed; declaration of title upheld in favour of the plaintiff.",
+  "winningSide": "plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "Kuma v. Kuma (1938) 5 W.A.C.A. 4"
+  ],
+  "rationaleHighlights": [
+    "Where defendant admits plaintiff's original title, burden shifts to defendant to prove divestment.",
+    "A licensee cannot transfer a greater interest than he holds.",
+    "Occupancy under licence becomes trespass upon revocation.",
+    "Estoppel requires occupation inconsistent with true owner's title.",
+    "Customary transactions do not require written deeds, but proof of transfer is still required."
+  ],
+  "confidenceNotes": "High confidence; all key elements (facts, holding, reasoning) are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/LAWER v. KWAMI..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:01:53.081Z",
+    "plainTextLength": 7838
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "caseTitle": "ERIC ANNAN OGOE",
+  "summary": "The appellants, Eric Annan Ogoe and Richard Marcus Ogoe, were convicted in the Magistrate's Court at Tarkwa for aiding and abetting Kweku Jackson in keeping a common gaming house under sections 46(1) and 442 of Cap. 29. They were fined £20 or sentenced to three months' imprisonment with hard labour. The Divisional Court dismissed their appeal, but the West Africa Court of Appeal allowed the appeal due to insufficient evidence. The prosecution relied solely on a police sergeant's testimony that people were playing a game called 'Iudo' for money, without establishing whether it was a game of chance or skill, or that the premises were used for profit through gaming. The court held that the evidence failed to prove the essential elements of the offence, particularly the provision of facilities for games of chance for gain. Consequently, the convictions were overturned and the appellants acquitted.",
+  "legalKeywords": [
+    "abetment",
+    "gaming house",
+    "criminal conviction",
+    "insufficient evidence",
+    "appeal allowed",
+    "game of chance",
+    "Criminal Code Ordinance",
+    "police evidence",
+    "aiding and abetting",
+    "lawful authority",
+    "betting",
+    "gain",
+    "prosecution burden",
+    "judicial reversal",
+    "acquittal"
+  ],
+  "topics": [
+    "criminal law",
+    "evidence sufficiency",
+    "appeal",
+    "gaming offence",
+    "abetment"
+  ],
+  "verdict": "Appeal allowed; convictions reversed; appellants acquitted",
+  "winningSide": "Appellants",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "C.J."
+    },
+    {
+      "name": "Petrides",
+      "role": "C.J."
+    },
+    {
+      "name": "Webber",
+      "role": "C.J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "WACA/3 WACA/ERIC ANNAN OGOE"
+  ],
+  "rationaleHighlights": [
+    "No evidence that the game 'Iudo' was a game of chance or skill",
+    "No proof that the building was used for gain via gaming",
+    "Lack of description or definition of the game played",
+    "Convictions based solely on police sergeant's observation without supporting detail",
+    "Failure by prosecution to establish essential elements of the offence"
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment text.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/ERIC ANNAN OGOE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:24:48.280Z",
+    "plainTextLength": 3140
+  },
+  "trialDate": "1937-04-08"
+}

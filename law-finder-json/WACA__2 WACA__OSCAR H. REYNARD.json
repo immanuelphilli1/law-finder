@@ -1,0 +1,76 @@
+{
+  "caseTitle": "OSCAR H. REYNARD",
+  "summary": "This 1934 West African Court of Appeal decision in Accra involved a dispute between Oscar H. Reynard (plaintiff-appellant) and William P. Allan (defendant-respondent) over a financial arrangement concerning land development in Upper Wassaw. The plaintiff claimed repayment of £800 17s. 8d., part of a total advance of £945 17s. 8d., which the defendant admitted owing only £145 of, arguing the remainder was a failed partnership investment. The trial judge ruled for the defendant, but the appellate court allowed the appeal, finding overwhelming documentary evidence—receipts and account statements—showing the funds were loans, not partnership contributions. The court emphasized that the defendant’s own signed receipts described payments as 'loans' and that the plaintiff received half the produce as interest, consistent with a loan agreement. The appellate court rejected the trial judge’s skepticism about the lack of oral corroboration, noting the strength of written admissions, and found the defendant’s version of a partnership implausible and commercially unreasonable. Judgment was entered for the plaintiff on the full claim.",
+  "legalKeywords": [
+    "partnership",
+    "loan agreement",
+    "documentary evidence",
+    "admission by conduct",
+    "burden of proof",
+    "appellate review",
+    "creditor-debtor relationship",
+    "oral testimony",
+    "judgment reversal",
+    "financial contribution",
+    "business venture",
+    "receipt as evidence",
+    "account stated",
+    "inference from documents",
+    "security for loan",
+    "interest in kind",
+    "trial judge error",
+    "corroborative evidence",
+    "commercial reasonableness",
+    "appellate jurisdiction"
+  ],
+  "topics": [
+    "Contract Law",
+    "Evidence Law",
+    "Appellate Procedure",
+    "Debt Recovery",
+    "Partnership Disputes"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Deane",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Kingdon",
+      "role": "Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "WACA/2 WACA/OSCAR H. REYNARD",
+    "The Glannibanta LR. 1 Prob. Div. 283"
+  ],
+  "rationaleHighlights": [
+    "Defendant's receipts explicitly described payments as 'loans', constituting binding admissions",
+    "Account statements were signed and certified as correct by the defendant",
+    "Defendant failed to produce any document referencing a partnership",
+    "Plaintiff received half the produce as return, consistent with loan interest",
+    "Defendant leased land for £3,000 and £500/year without accounting to plaintiff",
+    "Trial judgment was internally inconsistent in favoring defendant while ordering payment to plaintiff",
+    "Appellate court emphasized documentary over oral evidence in commercial disputes"
+  ],
+  "confidenceNotes": "High confidence; decision is well-documented with direct citations to receipts, account statements, and judicial reasoning. The reversal was based on clear documentary evidence and logical inconsistencies in the trial court's judgment.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/OSCAR H. REYNARD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:23:02.633Z",
+    "plainTextLength": 35533
+  },
+  "trialDate": "1934-05-15"
+}

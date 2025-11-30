@@ -1,0 +1,73 @@
+{
+  "caseTitle": "KWABENA AGYEKUM v. NEW TIMES CORPORATION, CIVIL APPEAL",
+  "summary": "Kwabena Agyekum, a former supervisor at New Times Corporation, was dismissed in 1978 following his arrest by a state action unit. He filed a civil action in 1985 seeking reinstatement, damages for wrongful dismissal, specific performance for end-of-service benefits, return of his seized vehicle (AG 1195), and release of alleged illegal profits from the car's sale. The trial court dismissed his claims, and he appealed to the Court of Appeal. The appellate court held that the claims for wrongful dismissal, trespass, and related reliefs were statute-barred under NRCD 54 (Limitation Decree 1972), as more than six years had elapsed between the cause of action and the filing of the suit. The court found no evidence of fraud or concealment to justify the delay. The equitable claims for specific performance regarding end-of-service benefits, return of the vehicle, and illegal profits were also dismissed, as damages would be an adequate remedy and the plaintiff had unreasonably delayed. The appeal was accordingly dismissed.",
+  "legalKeywords": [
+    "wrongful dismissal",
+    "statute barred",
+    "specific performance",
+    "limitation decree",
+    "breach of contract",
+    "equitable remedy",
+    "fraud concealment",
+    "laches",
+    "reinstatement",
+    "trespass",
+    "hire purchase agreement",
+    "damages adequacy"
+  ],
+  "topics": [
+    "Employment Law",
+    "Limitation of Actions",
+    "Equitable Remedies",
+    "Contract Law",
+    "Tort Law"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Owusu-Ansah",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Rose Owusu",
+      "role": "Panel Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "NRCD 54",
+    "Ayinah v. Badu [1963] 1 GLR 86",
+    "Hansan v. Baako Hasa [1972] 2 GLR 469",
+    "Ankrah v. Ofosu [1963] 1 GLR 101",
+    "Quaye v. Mariama [1961] GLR 93",
+    "Flirt v. Brandon (1803) 1 Ves 159",
+    "Stickney v. Keeble [1915] AC 386",
+    "Pollard v. Clayton (1855) 1 K & J 462",
+    "Tamplin v. James [1980] 15 Ch D 215"
+  ],
+  "rationaleHighlights": [
+    "Claims were statute-barred under NRCD 54 as filed over six years after cause of action arose",
+    "No evidence of fraud or concealment to suspend limitation period",
+    "Equitable remedies like specific performance require timely action; laches barred relief",
+    "Damages were adequate for monetary claims, making specific performance inappropriate",
+    "Trial judge properly exercised discretion in dismissing equitable claims"
+  ],
+  "confidenceNotes": "The document is truncated but contains sufficient information on the core legal issues, judgment, and reasoning. Key holdings on limitation and equitable remedies are clearly stated. Citation of local and English authorities supports analysis. Confidence is high despite truncation.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/KWABENA AGYEKUM v. NEW TIMES CORPORATION,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:23:09.812Z",
+    "plainTextLength": 17210
+  },
+  "trialDate": "1978-01-20"
+}

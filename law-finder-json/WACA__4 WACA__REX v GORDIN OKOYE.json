@@ -1,0 +1,68 @@
+{
+  "caseTitle": "REX v GORDIN OKOYE",
+  "summary": "In Rex v Gordin Okoye, the West Africa Court of Appeal allowed an appeal against a conviction for perjury under section 118 of the Criminal Code. The appellant had been convicted by the High Court of the Enugu-Onitsha Division and sentenced to six months of hard labour. The appellate court found the conviction unsustainable due to insufficient evidence. First, the alleged perjurious testimony was not clearly set out in the particulars, and the certified record of proceedings did not definitively corroborate that the appellant made the statements in question. Second, the evidence offered to prove the falsity of the statements was inadequate: no witness testified from personal knowledge, and reliance on a Native Court record and co-witnesses' prior testimony amounted to inadmissible hearsay regarding the truth of the statements. The court emphasized that such records are admissible only for proving that statements were made, not their veracity. Consequently, the conviction and sentence were quashed, and an acquittal was entered.",
+  "legalKeywords": [
+    "perjury",
+    "insufficient evidence",
+    "hearsay evidence",
+    "record of proceedings",
+    "corroboration",
+    "Native Court record",
+    "appellate review",
+    "acquittal",
+    "criminal conviction",
+    "testimony"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence",
+    "Appeal",
+    "Perjury",
+    "Hearsay"
+  ],
+  "verdict": "Conviction quashed, acquittal entered",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Gordin Okoye",
+    "section 118 of the Criminal Code",
+    "section 47A of the Protectorate Courts Ordinance"
+  ],
+  "rationaleHighlights": [
+    "Exact words of alleged perjury not specified in particulars",
+    "Record failed to corroborate the alleged false testimony",
+    "No direct evidence to prove falsity of statement",
+    "Native Court record not admissible for truth of contents",
+    "Hearsay evidence insufficient to support conviction",
+    "Certified record admissible only for statements, not their truth",
+    "Conviction cannot stand on ambiguous interpretation",
+    "Crown counsel conceded lack of evidence"
+  ],
+  "confidenceNotes": "High confidence; details are drawn directly from the judgment text, including procedural and evidentiary reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX v GORDIN OKOYE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:54:10.681Z",
+    "plainTextLength": 3247
+  },
+  "trialDate": "1938-05-10"
+}

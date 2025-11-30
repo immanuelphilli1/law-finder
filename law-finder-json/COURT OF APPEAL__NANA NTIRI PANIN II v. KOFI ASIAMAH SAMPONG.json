@@ -1,0 +1,71 @@
+{
+  "caseTitle": "OF THE COURT OF APPEAL VERSUS KOFI ASIAMAH SAMPONG",
+  "summary": "This appeal concerned the refusal of the Circuit Court, Mpraeso, to grant an interlocutory injunction to restrain the defendant from constructing on land claimed by the plaintiff. The Court of Appeal held that the trial judge, while correctly articulating the legal test from American Cyanamid v. Ethicon Ltd., misapplied it by failing to recognize that the plaintiff, who had prior possession, faced irreparable injury due to the alteration of the land's character through construction. The defendant's potential financial loss from delayed building could be compensated by damages, whereas the plaintiff's loss could not. The appellate court emphasized the equitable power under Order 50 rule 7(2) to impose conditions, such as an undertaking for damages, to balance the parties' interests. Consequently, the appeal was allowed, and an injunction was granted to restrain the defendant from further construction pending final determination of the title dispute.",
+  "legalKeywords": [
+    "interlocutory injunction",
+    "equitable discretion",
+    "irreparable injury",
+    "Order 50 rule 7(2)",
+    "undertaking as to damages",
+    "construction on disputed land",
+    "balance of convenience",
+    "adequate compensation by damages",
+    "preservation of status quo",
+    "chancery principles",
+    "civil dispute",
+    "land rights",
+    "plaintiff's possession",
+    "defendant's building activities",
+    "final determination of title"
+  ],
+  "topics": [
+    "Injunctions",
+    "Land Disputes",
+    "Equity",
+    "Civil Procedure",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed; interlocutory injunction granted to restrain construction on disputed land pending final determination of the action.",
+  "winningSide": "Plaintiff/Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "GBADEGBE",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "TWENEBOA-KODUA",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "ADDO",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "American Cyanamid v. Ethicon Ltd. (1975) A.C 398"
+  ],
+  "rationaleHighlights": [
+    "The trial court misapplied the law despite correctly stating the legal principles.",
+    "The plaintiff had prior possession of the land, which favored injunctive relief.",
+    "The defendant's continued construction risked altering the character of the disputed land.",
+    "The plaintiff would suffer irreparable harm if the injunction were denied.",
+    "The court emphasized the importance of imposing conditions under Order 50 rule 7(2) to ensure equity.",
+    "Damages would adequately compensate the defendant if the plaintiff ultimately lost the case.",
+    "The appellate court restored fairness by granting the injunction to preserve the status quo.",
+    "Equitable principles from Chancery law were invoked to balance competing interests."
+  ],
+  "confidenceNotes": "The judgment is clear and well-reasoned, with explicit reference to legal principles and case law. The outcome is strongly supported by the court's analysis of equitable discretion and procedural fairness.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/NANA NTIRI PANIN II v. KOFI ASIAMAH SAMPONG.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:14:11.767Z",
+    "plainTextLength": 9474
+  },
+  "trialDate": "2004-03-05"
+}

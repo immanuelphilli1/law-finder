@@ -1,0 +1,35 @@
+{
+  "caseTitle": "supreme court rep cases (1)",
+  "summary": "The document titled 'GHANA LAW FINDER' is not a judicial decision but rather a homepage or portal for a legal resource platform. It offers a self-help guide to the law, including a case and subject matter index, and provides contact information (tonykaddy@yahoo.co.uk). It references the 'REVIEW OF GHANA LAW 1981' and credits 'Legal Library Services' with a copyright from 2003. There is no case content, ruling, or judicial analysis present in the document.",
+  "legalKeywords": [
+    "Ghana Law Finder",
+    "legal resource",
+    "case index",
+    "subject matter index",
+    "legal library",
+    "self-help legal guide"
+  ],
+  "topics": [
+    "Legal Research",
+    "Legal Resource Portal",
+    "Case Index"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "unknown",
+    "country": "Ghana"
+  },
+  "caseType": "unknown",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The provided document does not contain a legal decision or case content; it appears to be a homepage or index for a legal resource website. No substantive case information is available for extraction.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2013/TEMP.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:28:01.166Z",
+    "plainTextLength": 297
+  }
+}

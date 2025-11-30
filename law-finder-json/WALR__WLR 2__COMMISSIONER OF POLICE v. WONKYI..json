@@ -1,0 +1,69 @@
+{
+  "caseTitle": "COMMISSIONER OF POLICE VERSUS WONKYI.",
+  "summary": "The case Commissioner of Police v. Wonkyi (1956) involved an unregistered medical practitioner convicted under the Medical Practitioners and Dentists Ordinance, c. 69, s. 20, for falsely assuming the title of a medical practitioner and receiving payment for medical practice, along with a charge of fraud by false pretence under the Criminal Code, s. 293. The Supreme Court of the Gold Coast quashed the convictions due to duplicity in the charges and the trial magistrate's failure to assess the appellant's mens rea or honest belief in his right to use the title 'Doctor of Naturopathy'. The court emphasized that the offence of assuming a medical title requires wilful and false intent, which must be proven as a question of fact. The acquittal was ordered, but the judgment cautioned against future misuse of medical titles.",
+  "legalKeywords": [
+    "medical practitioner",
+    "unregistered practitioner",
+    "false assumption of title",
+    "mens rea",
+    "duplicity in charges",
+    "honest belief",
+    "Medical Practitioners and Dentists Ordinance",
+    "Criminal Code",
+    "fraud by false pretence",
+    "bona fide belief",
+    "judicial error",
+    "trial court direction",
+    "sign-boards",
+    "naturopathy",
+    "wilful conduct",
+    "legal conviction",
+    "appeal",
+    "acquittal",
+    "jurisdiction",
+    "Gold Coast"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Medical Regulation",
+    "Legal Procedure",
+    "Judicial Review",
+    "Professional Licensing"
+  ],
+  "verdict": "Convictions quashed and accused acquitted",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Benson J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Wilson v. Inyang [1951] 2 All E.R. 237",
+    "Younghusband v. Lufig [1949] 2 All E.R. 72",
+    "Commissioner of Police v. Larsen (1951) W.A.C.A."
+  ],
+  "rationaleHighlights": [
+    "Charges were duplicitous, combining two distinct offences under s. 20",
+    "Mens rea required for falsely assuming a medical title",
+    "Trial magistrate failed to assess accused's honest belief",
+    "Conviction under s. 293 invalid due to incomplete findings",
+    "Use of title 'Doctor of Naturopathy' not automatically fraudulent if bona fide",
+    "Open practice and displayed diplomas relevant to intent",
+    "English Medical Act, 1858, cited as interpretive guide",
+    "Warning issued against future misuse of titles"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and cited precedents. Case reflects colonial-era legal framework of Gold Coast (now Ghana).",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/COMMISSIONER OF POLICE v. WONKYI..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:36:06.739Z",
+    "plainTextLength": 8556
+  }
+}

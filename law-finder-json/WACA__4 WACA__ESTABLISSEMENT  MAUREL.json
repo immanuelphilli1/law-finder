@@ -1,0 +1,79 @@
+{
+  "caseTitle": "ESTABLISSEMENT MAUREL",
+  "summary": "This case involved a dispute over title to land at 50 Dobson Street, Bathurst, Gambia, following a mortgage executed by Musa M'Boob, who held the property as trustee for a group of beneficiaries under a 1928 Crown grant. That grant included a covenant requiring government consent for any assignment and a proviso allowing re-entry upon breach. In 1936, M'Boob executed a legal mortgage to Establissements Maurel et Prom without obtaining the required consent. The Gambian government declared the grant forfeited, cancelled the duplicate, and later re-granted the land to the original beneficiaries. The mortgagee sought to sell the property, but the court held the mortgage void due to the breach of covenant and lack of consent. The court upheld the validity of restraints on alienation in Crown land grants under the Public Lands (Grants and Dispositions) Ordinance, 1902, distinguishing colonial law from English common law. Re-entry by the government was found through official communications and the subsequent re-grant. While estoppel bound M'Boob due to a prior court order, it did not affect the rights of the other beneficiaries who were not parties to those proceedings.",
+  "legalKeywords": [
+    "land title",
+    "mortgage validity",
+    "restraint on alienation",
+    "forfeiture",
+    "qualified fee simple",
+    "government consent",
+    "re-entry",
+    "covenant breach",
+    "estoppel",
+    "trustee duties",
+    "public lands ordinance",
+    "colonial land law",
+    "fee simple",
+    "equitable mortgage",
+    "legal mortgage"
+  ],
+  "topics": [
+    "Property Law",
+    "Land Tenure",
+    "Mortgage Law",
+    "Trusts",
+    "Estoppel"
+  ],
+  "verdict": "The claim by the Legal Adviser and beneficiaries was upheld. The mortgage was declared void, and the land confirmed as the property of the beneficiaries under the new grant. The mortgagee's attempt to sell the property was invalidated.",
+  "winningSide": "Respondents (The Legal Adviser of The Gambia and others)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Cor. Kingdon",
+      "role": "Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Justice"
+    },
+    {
+      "name": "Webb",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Gambia"
+  },
+  "caseType": "property",
+  "citations": [
+    "(1888) 38 Ch. D. 176",
+    "(1882) 21 Ch. D. 838",
+    "(1888) 60 L. T. 74",
+    "5 Times Heps. 641",
+    "5 B. and C. 308",
+    "(1875) 20 Eq. Cases 180",
+    "(1889) 15 V.L.R. 638",
+    "Bush v. Watkin (1851) 14 Beav. 425",
+    "Jones v. Carter (1846) 15 M. & W. 718",
+    "Baylis v. Le Gros (1858) 144 R.R. 840"
+  ],
+  "rationaleHighlights": [
+    "A restraint on alienation in a Crown land grant is valid under the Public Lands (Grants and Dispositions) Ordinance, 1902, despite general English law principles.",
+    "The Governor had authority to impose conditions on land grants, creating a qualified fee simple.",
+    "Failure to obtain government consent for assignment triggered forfeiture under the covenant.",
+    "Government re-entry was established through official letters and cancellation of the grant.",
+    "The subsequent grant to the original beneficiaries confirmed reversion of title to the Crown.",
+    "Estoppel applied to Musa M'Boob due to a prior court order, but did not bind non-party beneficiaries.",
+    "The mortgage was void for breach of covenant and lack of consent."
+  ],
+  "confidenceNotes": "The document is a reported judgment from the West Africa Court of Appeal with full procedural and legal reasoning. All key facts and holdings are explicitly stated, though the end of the document is truncated. Core legal conclusions remain intact.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/ESTABLISSEMENT  MAUREL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:03:19.249Z",
+    "plainTextLength": 25005
+  },
+  "trialDate": "1938-03-17"
+}

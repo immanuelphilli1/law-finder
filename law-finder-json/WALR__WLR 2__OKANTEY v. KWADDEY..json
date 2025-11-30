@@ -1,0 +1,55 @@
+{
+  "caseTitle": "OKANTEY VERSUS KWADDEY.",
+  "summary": "In Okantey v. Kwaddhey, the plaintiff claimed title to a plot of stool land in Osu, Accra, based on a 1939 customary grant, but the land had already been conveyed to the Government in September 1939 under a deed that included a clause for possible re-conveyance if no longer needed. The plaintiff argued he acquired a contingent reversionary interest under that clause. However, the court held that such a future interest violated the rule against perpetuities because vesting was not guaranteed within 21 years of a life in being. Furthermore, the Accra Town (Lands) Ordinance, effective October 1940, vested the land absolutely and indefeasibly in the government, extinguishing any residual interest. Since no divestment order had been issued before the plaintiff filed suit in March 1956, he held no enforceable interest. The defendant, though possibly holding defective title, was in possession and not counterclaiming, so the plaintiff’s claim failed. Judgment was entered for the defendant.",
+  "legalKeywords": [
+    "land conveyancing",
+    "rule against perpetuities",
+    "compulsory acquisition",
+    "reversionary interest",
+    "customary land tenure",
+    "defective title",
+    "equitable interest",
+    "vesting of land",
+    "stool land",
+    "government ordinance"
+  ],
+  "topics": [
+    "Land Law",
+    "Property Rights",
+    "Government Acquisition",
+    "Customary Law",
+    "Equity"
+  ],
+  "verdict": "Judgment for the defendant",
+  "winningSide": "defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "van Lare J",
+      "role": "presiding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Eastern Judicial Division, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "In re Thompson, Thompson v. Thompson [1906] 2 Ch.D. 199",
+    "In re Atkinson and Horsell's Contract [1912] 2 Ch.D. 1",
+    "Accra Town (Lands) Ordinance, c. 87 of 1951, s. 2(1) and (2)"
+  ],
+  "rationaleHighlights": [
+    "The re-conveyance clause in the 1939 deed violated the rule against perpetuities because the interest might never vest within 21 years after a life in being.",
+    "The Accra Town (Lands) Ordinance, s. 2(1), vested the land absolutely in the government, extinguishing any residual reversionary interest.",
+    "The plaintiff could not succeed based on weakness in the defendant's title; he had to prove his own valid claim, which he failed to do.",
+    "No divestment under s. 2(2) of the Ordinance had occurred before the action was filed, so no interest could pass to the plaintiff."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key legal points, jurisdiction, and reasoning are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/OKANTEY v. KWADDEY..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:25:44.032Z",
+    "plainTextLength": 11947
+  }
+}

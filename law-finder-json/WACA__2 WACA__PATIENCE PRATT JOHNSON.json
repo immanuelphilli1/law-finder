@@ -1,0 +1,74 @@
+{
+  "caseTitle": "PATIENCE PRATT JOHNSON",
+  "summary": "In this 1935 West African Court of Appeal case, Patience Pratt Johnson, an 86-year-old widow, appealed the lower court's decision upholding a deed of conveyance transferring one of her properties to her medical adviser, J. A. Williams. The appellant argued the transaction was procured through undue influence due to the fiduciary relationship between doctor and patient. The trial court found no fiduciary relationship, characterizing the parties' connection as quasi mother-son, and held the gift was spontaneous. The appellate court disagreed, holding that the doctor-patient relationship created a presumption of undue influence, which the respondent failed to rebut. Key factors included the doctor’s dominant role in arranging legal advice, his presence during execution of the deed, and the return of a partial payment. The appeal was allowed, setting aside the conveyance.",
+  "legalKeywords": [
+    "undue influence",
+    "fiduciary relationship",
+    "doctor-patient relationship",
+    "deed of conveyance",
+    "presumption of undue influence",
+    "rebuttal of presumption",
+    "independent legal advice",
+    "confidential relationship",
+    "transaction set aside",
+    "burden of proof",
+    "appellate review",
+    "weight of evidence",
+    "spontaneous gift",
+    "property transfer",
+    "medical adviser"
+  ],
+  "topics": [
+    "Equity and Trusts",
+    "Contract Law",
+    "Medical Law",
+    "Appellate Procedure",
+    "Property Law"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Strother Stewart",
+      "role": "Justice"
+    },
+    {
+      "name": "Macquarrie",
+      "role": "Justice"
+    },
+    {
+      "name": "Brooke",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "WACA/2 WACA/PATIENCE PRATT JOHNSON",
+    "Macauley v. Tukuru, Nigeria Law Reports Vol. I, p. 35",
+    "Coughlan v. Cumberland, L.R. 1898 1 Ch. 704",
+    "Colonial Securities Trust Co. v. Masley"
+  ],
+  "rationaleHighlights": [
+    "A doctor-patient relationship creates a presumption of undue influence in property transactions.",
+    "The burden lies on the recipient to rebut the presumption of undue influence.",
+    "The respondent failed to prove the transaction was a spontaneous gift, given his control over the conveyancing process.",
+    "The presence of the doctor during the execution of the deed undermined the independence of the transaction.",
+    "The solicitor’s advice was insufficient to confirm the donor fully understood the consequences.",
+    "The appellate court may re-evaluate factual inferences even when the trial judge saw the witnesses.",
+    "Returning part payment and countermanding rent orders indicated the donor’s lack of continued assent.",
+    "The best and income-generating property being gifted raised suspicion about the transaction’s legitimacy."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and consistent alignment across concurring judgments. Jurisdictional context is colonial-era West Africa, with reference to English and Nigerian precedents.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/PATIENCE PRATT JOHNSON.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:22:07.031Z",
+    "plainTextLength": 14052
+  },
+  "trialDate": "1935-04-16"
+}

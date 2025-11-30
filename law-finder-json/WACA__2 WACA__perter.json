@@ -1,0 +1,58 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This case, heard by the West African Court of Appeal, involves two civil matters: one concerning Chief Eyo Eyo Ita and members of the King Eyo III House, and another involving Peter O. Ezeani and 16 others versus Nneli Ezene and others. The judgment notes that the appeal should be dismissed as against the 26th defendant who was not convicted. Chief Justices Kingdon and Webber, along with Judge Butler-Lloyd, concurred in the decision. The document is poorly preserved, with limited legible content, but indicates procedural resolution based on absence of conviction for one defendant.",
+  "legalKeywords": [
+    "appeal",
+    "conviction",
+    "defendant",
+    "plaintiff",
+    "civil dispute",
+    "judicial concurrence",
+    "court dismissal",
+    "legal procedure",
+    "West African Court of Appeal",
+    "judgment"
+  ],
+  "topics": [
+    "Civil Litigation",
+    "Appeal Procedure",
+    "Judicial Concurrence"
+  ],
+  "verdict": "Appeal dismissed as against the 26th defendant.",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler-Lloyd",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WACA/2 WACA/perter.htm"
+  ],
+  "rationaleHighlights": [
+    "Appeal dismissed in case of 26th defendant due to lack of conviction",
+    "Judges concurred in decision",
+    "Case involves multiple plaintiffs and defendants"
+  ],
+  "confidenceNotes": "The document appears to be a fragmented and poorly formatted extract from a West African Court of Appeal decision, possibly involving two separate cases. Information is limited and some parts are illegible or corrupted.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/perter.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:13:30.185Z",
+    "plainTextLength": 1232
+  }
+}

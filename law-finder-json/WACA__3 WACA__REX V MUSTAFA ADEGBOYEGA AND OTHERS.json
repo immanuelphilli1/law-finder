@@ -1,0 +1,88 @@
+{
+  "caseTitle": "REX V MUSTAFA ADEGBOYEGA AND OTHERS",
+  "summary": "The West Africa Court of Appeal allowed the appeal of Mustafa Adegboyega and others, quashing their convictions for coining offences under sections 148(3)(c), 148(3)(d), and 152(3) of the Criminal Code. The appellants were charged with possession of counterfeit silver coins, a mould, and coining tools at Otu-Jeremi on 8 November 1936. The court found that the prosecution failed to call four witnesses who had testified at the preliminary inquiry, contrary to the established practice requiring material witnesses to be made available for cross-examination. Additionally, the court ruled that evidence of a bundle of counterfeiting materials (Ex. 'A') seized at Otan on 7 November was irrelevant and prejudicial, as there was no sufficient connection between the accused and that seizure. Although the court accepted that the appellant was likely present at the Otu-Jeremi raid, it held that the evidence did not sufficiently prove he controlled the room where the apparatus was found. Consequently, the convictions were overturned due to insufficient evidence and procedural unfairness.",
+  "legalKeywords": [
+    "coining offences",
+    "possession of counterfeit coins",
+    "possession of mould",
+    "possession of tools",
+    "sufficiency of evidence",
+    "preliminary inquiry",
+    "trial procedure",
+    "prosecution obligations",
+    "cross-examination",
+    "evidentiary relevance",
+    "prejudicial evidence",
+    "criminal conviction",
+    "appellate review",
+    "quashing conviction",
+    "intent to utter",
+    "control of premises",
+    "witness availability",
+    "prosecutorial discretion",
+    "judicial reasoning",
+    "appellate judgment"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Evidence",
+    "Prosecutorial Conduct",
+    "Fair Trial"
+  ],
+  "verdict": "Appeal allowed; convictions quashed due to insufficient evidence and procedural irregularities.",
+  "winningSide": "Appellants",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Butler-Lloyd",
+      "role": "Ag. Chief Justice"
+    },
+    {
+      "name": "Brooke",
+      "role": "Justice"
+    },
+    {
+      "name": "Martindale",
+      "role": "Justice"
+    },
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v. Dora Harris, 1927, 2 K.B.D. 587",
+    "R. v. Simmonds, 1 C. & P. 84",
+    "R. v. Beezley, 4 C. & P. 220",
+    "R. v. Bull, 9 C. & P. 22",
+    "R. v. Vincent, 9 C. & P. 91",
+    "R. v. Barley, 2 Cox 191",
+    "Archbold, 29th ed., p. 494-495",
+    "9 Halsbury (2nd ed.), para. 232"
+  ],
+  "rationaleHighlights": [
+    "Prosecution failed to call material witnesses from preliminary inquiry, undermining fairness.",
+    "Evidence of items seized at Otan (Ex. 'A') was irrelevant and prejudicial to charges related to Otu-Jeremi.",
+    "No sufficient link established between accused and Exhibit 'A'.",
+    "Insufficient evidence that accused controlled the room where coining apparatus was found.",
+    "Convictions quashed due to lack of cogent evidence and procedural impropriety."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment, including legal reasoning, procedural irregularities, and evidentiary insufficiency.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/REX V MUSTAFA ADEGBOYEGA AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:15:19.401Z",
+    "plainTextLength": 6303
+  },
+  "trialDate": "1937-08-27"
+}

@@ -1,0 +1,61 @@
+{
+  "caseTitle": "KWESI-WILLIAM v. ACCRA MUNICIPAL COUNCIL.",
+  "summary": "Kwesi-William, employed by Accra Municipal Council as a market toll collector, was dismissed following a deficiency of £10 14s. 0d. discovered during a surprise audit on November 7, 1953. He claimed the loss resulted from a scuffle on November 4, during which 107 market tickets were stolen, and asserted he verbally reported the incident to superiors and later submitted a written report. The Council’s investigation committee found his explanation unsatisfactory, particularly given a prior similar deficiency and the delayed submission of the written report. The plaintiff argued wrongful dismissal, asserting inadequate inquiry and failure to follow civil service disciplinary procedures. The court held that in the absence of specific municipal employment regulations, the common law of master and servant applied. It found the Council had good cause for dismissal due to conduct inconsistent with faithful service, and no obligation to apply civil service General Orders or act judicially in the administrative sense. The claim was dismissed with costs.",
+  "legalKeywords": [
+    "wrongful dismissal",
+    "master and servant",
+    "due discharge of duties",
+    "conduct inconsistent",
+    "fraud",
+    "deficiency in accounts",
+    "disciplinary procedure",
+    "common law",
+    "employment contract",
+    "judicial review",
+    "summary dismissal",
+    "municipal employee",
+    "market toll collector",
+    "employee investigation",
+    "notice of dismissal"
+  ],
+  "topics": [
+    "Employment Law",
+    "Administrative Dismissal",
+    "Contract of Service"
+  ],
+  "verdict": "Dismissal upheld; claim for wrongful dismissal dismissed with costs to defendant.",
+  "winningSide": "Accra Municipal Council",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dennison J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Eastern Judicial Division, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "employment",
+  "citations": [
+    "Clouston and Co. Ltd. v. Corry [1906] A.C. 122",
+    "Ex parte Fry [1954] 2 All E.R. 118",
+    "General Medical Council v. Spackman [1942] 2 All E.R. 150"
+  ],
+  "rationaleHighlights": [
+    "No specific municipal employment regulations existed; common law applies.",
+    "Second instance of financial deficiency undermined plaintiff's credibility.",
+    "Employer not bound by civil service General Orders in absence of statutory adoption.",
+    "Council conducted thorough inquiry and acted on reasonable grounds.",
+    "Delay in submitting written report raised suspicion about explanation.",
+    "Conduct inconsistent with faithful service justified dismissal under common law.",
+    "No duty on municipal council to act 'judicially' in dismissal akin to judicial review standards."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed court record and direct judicial reasoning. Case predates modern Ghanaian Constitution but applies common law principles still relevant.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/KWESI-WILLIAM v. ACCRA MUNICIPAL COUNCIL..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:27:45.376Z",
+    "plainTextLength": 14344
+  }
+}

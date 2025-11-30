@@ -1,0 +1,74 @@
+{
+  "caseTitle": "In re ABAKA, DECEASED.",
+  "summary": "In this 1957 Ghanaian probate case, the High Court considered the validity of a will drawn in English form by James Kofi Abaka, deceased. The will spanned four pages, with only the first page containing the testator's and witnesses' signatures. Adumua-Bossman J. held that the document, being in English form, was governed by the Wills Act, 1837, and the Wills Act Amendment Act, 1852, which require a will to be signed at its foot or end. As only the first page met these formalities, probate was granted solely for that portion. The remaining three pages, lacking signatures, were deemed defectively executed and excluded. The court affirmed two categories of valid wills in Ghana: those compliant with English law and those valid under native customary law (e.g., oral nuncupative wills). However, since this was not a customary will, native rules did not apply. The ruling emphasized strict compliance with statutory formalities for written wills and highlighted the distinction between written and customary testamentary dispositions. A postscript noted that the intestate successors and intended beneficiaries had reached an equitable customary agreement on estate distribution, which the court appended to its judgment.",
+  "legalKeywords": [
+    "probate",
+    "wills",
+    "customary will",
+    "Wills Act 1837",
+    "testamentary disposition",
+    "nuncupative will",
+    "attestation",
+    "signature requirement",
+    "intestacy",
+    "native custom",
+    "execution of will",
+    "probate jurisdiction",
+    "Courts Ordinance",
+    "formalities of will",
+    "beneficiaries",
+    "witnesses",
+    "equitable distribution",
+    "legal formalism",
+    "English law application",
+    "Ghanaian succession law"
+  ],
+  "topics": [
+    "Probate Law",
+    "Wills and Testaments",
+    "Customary Law",
+    "Succession",
+    "Legal Formalities"
+  ],
+  "verdict": "Probate granted only for the first page of the will; remainder rejected due to non-compliance with signature requirements under the Wills Act, 1837.",
+  "winningSide": "Executors (limited grant of probate on first page)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adumua-Bossman J.",
+      "role": "presiding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Central Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "probate",
+  "citations": [
+    "Wills Act, 1837",
+    "Wills Act Amendment Act, 1852",
+    "Courts Ordinance, c. 4, s. 17",
+    "Courts Ordinance, c. 4, s. 87(1)",
+    "Ocran v. Bandafoo (1873)",
+    "In re Archer (1871)",
+    "In re Anstee [1893]",
+    "Summey v. Yohuno and Others (1960)"
+  ],
+  "rationaleHighlights": [
+    "Two types of wills admissible: those under English law and those under native custom.",
+    "Document intended as English-style will, thus subject to Wills Act, 1837.",
+    "Requirement that will be signed 'at the foot or end thereof' not met beyond first page.",
+    "Only first page validly executed and admitted to probate.",
+    "Subsequent pages lacked signatures and attestation, hence invalid.",
+    "Customary wills require declaration in presence of family members and acceptance via drink-giving.",
+    "Court distinguished written English-form wills from oral customary dispositions.",
+    "Judicial warning issued on need for legal advice in estate planning."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct judicial reasoning and cited authorities. Editorial notes provide contextual clarification but do not override the court's holding.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/In re ABAKA, DECEASED..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:04:51.446Z",
+    "plainTextLength": 12474
+  }
+}

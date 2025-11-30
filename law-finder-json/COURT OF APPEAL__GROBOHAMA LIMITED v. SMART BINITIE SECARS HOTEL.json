@@ -1,0 +1,68 @@
+{
+  "caseTitle": "GROBOHAMA LIMITED v. SMART BINITIE SECARS HOTEL",
+  "summary": "In this Ghanaian civil appeal, Grobohama Limited (respondent) sued Smart Binitie Secars Hotel (appellant) for payment of USD 175,648 and related interest, based on agreements the appellant claimed were entered into under economic duress. The appellant counterclaimed for a declaration that the agreements were void and sought their cancellation, while also applying for an interlocutory injunction to prevent registration of a deed of assignment. After the High Court refused joinder of the Chief Registrar of Lands, it ordered the Registrar to register the deed—despite the pending counterclaim—while restraining disposal of the property until final determination. The Court of Appeal held that the High Court judge exceeded her jurisdiction by making a substantive order on the deed's registration without a hearing, thereby prejudging an issue central to the counterclaim. The appellate court found the order incompetent and void, emphasizing that the judge was only tasked with deciding whether to strike out the injunction motion, not to resolve underlying property rights. The appeal was allowed and the registration order set aside.",
+  "legalKeywords": [
+    "economic duress",
+    "interlocutory injunction",
+    "joinder",
+    "deed of assignment",
+    "land registration",
+    "counterclaim",
+    "jurisdiction",
+    "procedural fairness",
+    "balance of justice",
+    "void order",
+    "civil appeal",
+    "caveat",
+    "duress",
+    "property rights",
+    "judicial overreach"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Civil Procedure",
+    "Appellate Review",
+    "Judicial Conduct"
+  ],
+  "verdict": "The appeal was allowed; the High Court's order directing registration of the deed of assignment was declared null and void for lack of jurisdiction.",
+  "winningSide": "appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "A. Asare Korang",
+      "role": "author"
+    },
+    {
+      "name": "P. K. Owusu-Ansah",
+      "role": "concurrence"
+    },
+    {
+      "name": "G. M. Quaye",
+      "role": "concurrence"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "GROBOHAMA LIMITED v. SMART BINITIE SECARS HOTEL [27/2/2003] CIVIL APPEAL NO. 51/2001"
+  ],
+  "rationaleHighlights": [
+    "The High Court exceeded its jurisdiction by ordering registration of a deed subject to a pending counterclaim challenging its validity.",
+    "The judge improperly acted without hearing evidence on the validity of the deed.",
+    "The order to register the deed prejudged the outcome of the counterclaim.",
+    "The court failed to strike out the injunction motion as requested, instead making substantive orders beyond its mandate.",
+    "Judicial duty to remain impartial was compromised by premature action favoring one party."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment with clear textual support.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/GROBOHAMA LIMITED v. SMART BINITIE SECARS HOTEL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:29:38.899Z",
+    "plainTextLength": 9223
+  },
+  "trialDate": "2003-02-27"
+}

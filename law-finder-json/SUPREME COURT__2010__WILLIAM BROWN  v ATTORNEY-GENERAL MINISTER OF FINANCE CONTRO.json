@@ -1,0 +1,87 @@
+{
+  "caseTitle": "WILLIAM BROWN v ATTORNEY-GENERAL MINISTER OF FINANCE CONTRO",
+  "summary": "In William Brown v. Attorney-General, Minister of Finance, and Controller & Accountant-General (Supreme Court, Ghana, 2010), the plaintiff, a retired Deputy Auditor-General and President of the Audit Service Pensioners Association, challenged executive interference in the financial autonomy of the Ghana Audit Service. He argued that administrative expenses, including salaries, pensions, and gratuities determined by the Audit Service Board in consultation with the Public Services Commission, are constitutionally charged to the Consolidated Fund under Articles 178(1)(a), 179(2)(b), 187(14), 189(2), and 189(3) of the 1992 Constitution and are not subject to parliamentary approval, executive review, or budgetary ceilings. The Supreme Court held that such expenses are not subject to ministerial reduction, parliamentary debate, or approval, affirming the financial independence of the Audit Service. It ruled that the practice of the Minister of Finance reviewing down estimates, imposing budget ceilings, requiring financial clearance for recruitment, and paying pensions through the Social Security Fund instead of the Consolidated Fund was unconstitutional. The Court emphasized that while the executive manages national finances, it cannot override constitutionally mandated charges, and the independence of the Audit Service extends to financial matters essential to its autonomy.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "financial autonomy",
+    "separation of powers",
+    "judicial review",
+    "rule of law",
+    "independence of audit service",
+    "consolidated fund",
+    "administrative expenses",
+    "pensions and gratuities",
+    "executive overreach",
+    "parliamentary approval",
+    "constitutional charges",
+    "public finance management",
+    "judicial independence",
+    "rule of law",
+    "checks and balances",
+    "constitutional supremacy",
+    "public service commission",
+    "audit service board",
+    "constitutional litigation"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Public Finance",
+    "Separation of Powers",
+    "Judicial Review",
+    "Administrative Law"
+  ],
+  "verdict": "Constitutional violation found",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Wood (Mrs), CJ",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Dr. Date-Bah, JSC",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Owusu (Ms), JSC",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Dotse, JSC",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Anin Yeboah, JSC",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Petition",
+  "citations": [
+    "1992 Constitution of Ghana, Articles 178(1)(a)",
+    "1992 Constitution of Ghana, Article 179(2)(b)",
+    "1992 Constitution of Ghana, Article 187(14)",
+    "1992 Constitution of Ghana, Article 189(2)",
+    "1992 Constitution of Ghana, Article 189(3)"
+  ],
+  "rationaleHighlights": [
+    "Administrative expenses of the Audit Service are constitutionally charged to the Consolidated Fund and do not require parliamentary approval.",
+    "The Minister of Finance cannot reduce or impose budget ceilings on constitutionally mandated charges.",
+    "The Audit Service Board has exclusive authority to determine conditions of service in consultation with the Public Services Commission.",
+    "Subjecting Audit Service estimates to executive review undermines constitutional independence.",
+    "Payment of pensions from the Social Security Fund instead of the Consolidated Fund violates constitutional provisions.",
+    "Recruitment and payroll placement cannot be conditioned on ministerial financial clearance.",
+    "Parliamentary hearings on constitutionally charged expenditures are for information only, not approval.",
+    "The financial autonomy of the Audit Service is essential to its functional independence."
+  ],
+  "confidenceNotes": "The judgment is based on a clear interpretation of constitutional provisions, particularly Articles 178, 179, 187, and 189. The Court's reasoning aligns with principles of separation of powers and institutional independence. All justices concurred, indicating high judicial consensus.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/WILLIAM BROWN  v ATTORNEY-GENERAL MINISTER OF FINANCE CONTRO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:40:00.573Z",
+    "plainTextLength": 166905
+  }
+}

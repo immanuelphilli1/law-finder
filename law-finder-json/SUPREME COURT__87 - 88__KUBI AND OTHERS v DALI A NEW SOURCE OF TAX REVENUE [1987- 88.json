@@ -1,0 +1,62 @@
+{
+  "caseTitle": "KUBI AND OTHERS v DALI",
+  "summary": "In Kubi v Dali, a trader injured in a vehicular accident was awarded damages for special damages, loss of goods, loss of actual and future earnings, permanent incapacity, pain and suffering, and loss of amenities. The Court of Appeal upheld the trial court's findings but identified an error in not deducting income tax from the awards for loss of actual earnings (GHC 13,000) and future earnings (GHC 180,000). Following the principle established in British Transport Commission v Gourley, the court held that damages should reflect net, not gross, income, as the plaintiff would have been liable to pay tax had she continued earning. Since precise tax assessment was impracticable, the court estimated the tax at one-third of the total earnings-related damages and ordered GHC 64,333 to be paid to the Commissioner of Income Tax. This decision marked a significant shift in Ghanaian jurisprudence by formally recognizing tax liability as a factor in assessing compensatory damages.",
+  "legalKeywords": [
+    "damages for loss of earnings",
+    "income tax deduction in damages",
+    "negligence",
+    "compensation",
+    "tax liability",
+    "future earnings",
+    "actual earnings",
+    "tort law",
+    "principle of restitutio in integrum",
+    "judicial discretion in awarding damages"
+  ],
+  "topics": [
+    "Tax Law",
+    "Tort Law",
+    "Damages",
+    "Income Tax",
+    "Judicial Reasoning"
+  ],
+  "verdict": "The appeal was dismissed on the issue of quantum, but the court corrected the damages by requiring a tax deduction based on estimated liability.",
+  "winningSide": "Plaintiff (on liability), but with adjustment to damages in favor of tax authority",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Abban JA",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "Mills, J.E.A.",
+      "role": "author of commentary"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Kubi v Dali",
+    "British Transport Commission v Gourley [1956] AC 185, HL",
+    "Fairholme v Firth and Brown Ltd",
+    "M'Daid v Clyde Navigation Trustees",
+    "Billingham v Hughes"
+  ],
+  "rationaleHighlights": [
+    "Damages for loss of earnings must be reduced by the income tax the plaintiff would have paid if not injured.",
+    "Failure to deduct tax puts the plaintiff in a better financial position than if no injury occurred.",
+    "The trial judge erred by not considering tax liability; correction made by estimating one-third deduction.",
+    "English precedent in British Transport Commission v Gourley supports tax deduction in damages.",
+    "Estimation of tax is acceptable even if not mathematically precise."
+  ],
+  "confidenceNotes": "The case analysis is based on a published legal commentary in the Review of Ghana Law, which accurately reports the Court of Appeal's judgment and references authoritative English precedents. The details of the damages, judicial reasoning, and tax implications are clearly articulated.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/87 - 88/KUBI AND OTHERS v DALI A NEW SOURCE OF TAX REVENUE [1987- 88.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:03:03.634Z",
+    "plainTextLength": 22952
+  }
+}

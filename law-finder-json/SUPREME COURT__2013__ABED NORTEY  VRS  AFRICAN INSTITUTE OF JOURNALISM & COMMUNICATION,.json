@@ -1,0 +1,73 @@
+{
+  "caseTitle": "ABED NORTEY VRS AFRICAN INSTITUTE OF JOURNALISM & COMMUNICATION,",
+  "summary": "In this 2013 Supreme Court of Ghana ruling, Abed Nortey applied for an interlocutory injunction to restrain the defendants from dealing with land pending appeal. The court, per Justice A. A. Benin sitting singly, dismissed the application as incompetent because the Supreme Court had not yet been seized with the appeal—since the record of appeal had not been transmitted—making it improper to file directly in the Supreme Court under Rule 16(1) of C.I. 16. The court held that such applications must first be made to the lower court under Rule 20(2). The ruling was later overturned on May 17, 2013, by a full bench comprising Justices G. T. Wood (Mrs), Anin Yeboah, and J. B. Akamba, following a review application filed on April 23, 2013.",
+  "legalKeywords": [
+    "injunction pending appeal",
+    "stay of execution",
+    "interlocutory injunction",
+    "record of appeal transmission",
+    "competence of application",
+    "Supreme Court Rules",
+    "C.I. 16",
+    "Rule 16(1)",
+    "Rule 20(2)",
+    "jurisdictional competence",
+    "appeal procedure",
+    "civil procedure",
+    "land dispute",
+    "dealing with property during appeal",
+    "affidavit in support"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Injunction",
+    "Appeal",
+    "Jurisdiction",
+    "Land Law"
+  ],
+  "verdict": "Application dismissed with costs of GHC1,000.00 against the applicant; later overturned on review.",
+  "winningSide": "2nd and 3rd defendants/respondents (initially), though the ruling was later overturned",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "A. A. Benin",
+      "role": "Single Justice"
+    },
+    {
+      "name": "G. T. Wood (Mrs)",
+      "role": "Presiding Justice on review"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice on review"
+    },
+    {
+      "name": "J. B. Akamba",
+      "role": "Justice on review"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "SUPREME COURT/2013/ABED NORTEY VRS AFRICAN INSTITUTE OF JOURNALISM & COMMUNICATION",
+    "C.I. 16, Rule 16(1)",
+    "C.I. 16, Rule 20(2)"
+  ],
+  "rationaleHighlights": [
+    "Application dismissed due to lack of competence under Rule 16(1) as the Supreme Court was not yet seized with the appeal.",
+    "Rule 20(2) requires interlocutory applications to be first made to the lower court before being brought to the Supreme Court.",
+    "The court emphasized that timing of record transmission determines jurisdiction.",
+    "The initial ruling was later overturned on review, indicating procedural reconsideration."
+  ],
+  "confidenceNotes": "The ruling was later overturned on review, which affects the precedential value of the initial decision.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/ABED NORTEY  VRS  AFRICAN INSTITUTE OF JOURNALISM & COMMUNICATION,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:18:08.273Z",
+    "plainTextLength": 7040
+  },
+  "trialDate": "2013-04-15"
+}

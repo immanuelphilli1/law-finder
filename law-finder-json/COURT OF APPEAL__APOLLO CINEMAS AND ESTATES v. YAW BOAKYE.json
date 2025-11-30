@@ -1,0 +1,77 @@
+{
+  "caseTitle": "APOLLO CINEMAS AND ESTATES v. YAW BOAKYE",
+  "summary": "This Court of Appeal judgment from Ghana, delivered on January 17, 2002, concerns an interlocutory appeal by Apollo Cinemas and Estates against a High Court ruling that refused an interlocutory injunction to restrain Yaw Boakye from constructing on disputed land. The appellant claimed ownership, title, and possession of the land, alleging that the respondent unlawfully demolished an existing building and began construction. The Court of Appeal found that the trial court misapplied its discretion by failing to preserve the status quo, noting that the balance of convenience favored the appellant, as irreparable harm could not be adequately compensated by damages. The appeal was allowed, the lower court's ruling was set aside, and an interlocutory injunction was granted pending final determination of the case.",
+  "legalKeywords": [
+    "interlocutory injunction",
+    "balance of convenience",
+    "status quo",
+    "discretion",
+    "appellate review",
+    "ownership dispute",
+    "possession",
+    "trespass",
+    "irreparable harm",
+    "judicial discretion",
+    "demolition",
+    "building rights",
+    "compensation in damages",
+    "rival claims",
+    "trial court error"
+  ],
+  "topics": [
+    "Property Law",
+    "Injunctions",
+    "Appellate Procedure",
+    "Land Disputes",
+    "Judicial Discretion"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "N. S. Gbadegebe",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "A. Essilfie-Bondzie",
+      "role": "Presiding Justice, concurred"
+    },
+    {
+      "name": "V. Akoto-Bamfor",
+      "role": "Justice of Appeal, concurred"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal (Interlocutory)",
+  "citations": [
+    "Re O (infants) {1971} 2 All ER 744",
+    "Crenstil v Crenstil [1962] 2 GLR 171",
+    "Texaco Ltd v Mulberry Filling Station Ltd {1972} 1 All ER 513",
+    "Aslatt Southampton Corpn. (1880) 16 Ch D 143",
+    "Hubbard v Vosper {1972} 1 All ER 1023",
+    "American Cyanamid Co v Ethicon Ltd {1975} 1 All ER 504",
+    "Hampstead and Suburban Properties v Diomedous {1968} 3 All ER 545"
+  ],
+  "rationaleHighlights": [
+    "The trial court erred in exercising judicial discretion by not preserving the status quo.",
+    "The balance of convenience favored granting the injunction to prevent irreparable harm.",
+    "Damages would not adequately compensate the appellant if the construction proceeded.",
+    "The respondent had not clearly established ownership or right to develop.",
+    "The demolition and construction activities threatened the appellant's asserted rights.",
+    "Appellate courts must correct improper or unjust discretionary rulings.",
+    "Each case must be decided based on fairness, justice, and common sense.",
+    "The court has a duty to protect rights pending final determination."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and citation of established legal principles. All details extracted directly from the judgment text.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/APOLLO CINEMAS AND ESTATES v. YAW BOAKYE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:45:43.180Z",
+    "plainTextLength": 10389
+  },
+  "trialDate": "2002-01-17"
+}

@@ -1,0 +1,81 @@
+{
+  "caseTitle": "THE REPUBLIC v. THE HIGH COURT, ACCRA, MRS GRACE SARFO & 2 O",
+  "summary": "This Supreme Court of Ghana case involved an application for certiorari to quash an interim injunction order issued by the High Court in a dispute over the administration of the estate of the late Kofi Safo. The High Court had appointed the Chief Registrar as Manager and Receiver of a property and directed the company (Lims Company Ltd., allegedly 100% owned by the deceased) to submit financial reports and cease commercial activities. The Supreme Court held that a company has a separate legal personality from its shareholders under Salomon v. Salomon, and thus the High Court exceeded its jurisdiction by interfering with the internal management of the company, which rests with its directors. Although the issue of share ownership was disputed, the court emphasized that the administrators of the estate hold shares in trust but do not gain managerial authority. However, as the applicants had already obtained a variation of the contested order—restoring directorial control with court supervision—the Supreme Court found the matter effectively resolved and dismissed the application as moot.",
+  "legalKeywords": [
+    "certiorari",
+    "jurisdiction",
+    "interim injunction",
+    "limited liability company",
+    "legal personality",
+    "letters of administration",
+    "shareholding",
+    "estate administration",
+    "directors' authority",
+    "natural justice",
+    "corporate entity",
+    "trust",
+    "beneficiaries",
+    "company law",
+    "Salomon principle"
+  ],
+  "topics": [
+    "Company Law",
+    "Probate and Estate Administration",
+    "Judicial Review",
+    "Interim Injunctions",
+    "Legal Personality"
+  ],
+  "verdict": "The application for certiorari was dismissed as the contested order had been varied and was no longer in force.",
+  "winningSide": "The Republic (Applicants' application dismissed)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "A.K.B. Ampiah",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Kpegah",
+      "role": "Justice"
+    },
+    {
+      "name": "Acquah",
+      "role": "Justice"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Justice"
+    },
+    {
+      "name": "Akuffo",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Salomon v. Salomon and Company [1897] AC 22",
+    "Anisminic Limited vs. Foreign Compensation etc. [1969] 2 AG 147 at 171",
+    "R v. Northumberland Compensation Appeal Tribunal, Ex-parte Shew (1952) 1 K.B. 338"
+  ],
+  "rationaleHighlights": [
+    "An incorporated company has a separate legal personality from its shareholders.",
+    "Ownership of shares does not equate to ownership of the company itself.",
+    "The court's initial order interfered with the company’s internal management, which is reserved for directors.",
+    "Certiorari is available where a court acts without jurisdiction or violates principles of natural justice.",
+    "The variation of the original order rendered the application moot.",
+    "The administrators hold shares in trust for beneficiaries but do not assume managerial control of the company.",
+    "Disputes over share ownership must be resolved at trial, not through interim injunctions.",
+    "The Supreme Court dismissed the application as the contested order was no longer in force."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and cited authorities.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2000A/THE REPUBLIC v. THE HIGH COURT, ACCRA, MRS GRACE SARFO & 2 O.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:45:29.214Z",
+    "plainTextLength": 9190
+  },
+  "trialDate": "2000-02-16"
+}

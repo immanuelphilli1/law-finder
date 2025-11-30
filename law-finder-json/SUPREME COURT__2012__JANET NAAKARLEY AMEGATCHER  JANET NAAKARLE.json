@@ -1,0 +1,97 @@
+{
+  "caseTitle": "JANET NAAKARLEY AMEGATCHER JANET NAAKARLE",
+  "summary": "The Supreme Court of Ghana, in Janet Naakarley Amegatcher v. Attorney-General & Others (2012), addressed the proper parties in civil proceedings against the state under Article 88(5) of the 1992 Constitution. The plaintiff challenged the constitutionality of newly created District Assemblies. The Court held that while Article 88(5) designates the Attorney-General as the nominal defendant in all civil proceedings against the state, a purposive interpretation is required to uphold constitutional principles such as separation of powers and institutional autonomy. The Court ruled that independent constitutional bodies like the Electoral Commission and CHRAJ may sue or be sued in their own names to avoid conflicts of interest, especially when their interests diverge from the Executive. However, in this case, since there was no demonstrated conflict between the Attorney-General and Parliament or the Minister of Local Government, and no independent cause of action against the Electoral Commission, those parties were struck out. The decision affirmed a nuanced, context-sensitive application of Article 88(5), balancing textual clarity with constitutional values.",
+  "legalKeywords": [
+    "Article 88(5)",
+    "separation of powers",
+    "constitutional interpretation",
+    "purposive interpretation",
+    "institutional autonomy",
+    "Attorney-General",
+    "judicial review",
+    "original jurisdiction",
+    "constitutional bodies",
+    "conflict of interest",
+    "State proceedings",
+    "literal interpretation",
+    "organic constitution",
+    "checks and balances",
+    "independent institutions",
+    "joinder of parties",
+    "Supreme Court ruling",
+    "Ghanaian jurisprudence",
+    "constitutional litigation",
+    "State liability"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Judicial Review",
+    "Separation of Powers",
+    "Role of Attorney-General",
+    "Institutional Autonomy"
+  ],
+  "verdict": "The Supreme Court struck out the Speaker of Parliament and the Minister of Local Government as improper parties, retaining only the Attorney-General as the proper defendant.",
+  "winningSide": "Attorney-General",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "W. A. Atuguba",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "S. A. B. Akuffo",
+      "role": "Justice"
+    },
+    {
+      "name": "Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "Owusu",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin-Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebe",
+      "role": "Justice"
+    },
+    {
+      "name": "Akoto-Bamfo",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Challenge",
+  "citations": [
+    "Republic v. High Court, Accra; Ex parte Attorney-General (1998-99) SCGLR 595",
+    "Tuffour v. Attorney-General (1980) GLR 634",
+    "Nartey v. Attorney-General & Justice Adade [1996-97] SCGLR 63",
+    "J.H. Mensah v. Attorney-General (1996-97) SCGLR 220",
+    "Commission on Human Rights & Administrative Justice v. Attorney-General (No.1) (1998-99) SCGLR 871",
+    "R v. Therens [1985] 1 SCR 613",
+    "Reference by the Head of State (1989) LRC 671 S.C."
+  ],
+  "rationaleHighlights": [
+    "Article 88(5) must be interpreted purposively, not literally, to preserve constitutional principles.",
+    "Independent constitutional bodies may sue or be sued in their own names to avoid conflicts of interest.",
+    "The Attorney-General, as a political appointee, should not represent institutions with potentially opposing interests.",
+    "Separation of powers and institutional autonomy are core constitutional values.",
+    "No conflict was shown between the Attorney-General and Parliament in this case.",
+    "The Minister of Local Government was a manifestly wrong party.",
+    "Precedent supports direct suits against bodies like CHRAJ and the Electoral Commission.",
+    "Courts may grant leave for other state organs to be sued independently in specific cases."
+  ],
+  "confidenceNotes": "The ruling is based on clear judicial reasoning and multiple precedents. The summary reflects the full bench's consensus and detailed constitutional analysis.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/JANET NAAKARLEY AMEGATCHER  JANET NAAKARLE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:31:04.194Z",
+    "plainTextLength": 16221
+  }
+}

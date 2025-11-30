@@ -1,0 +1,76 @@
+{
+  "caseTitle": "DEXTER EDDIE JOHNSON",
+  "summary": "Dexter Eddie Johnson was convicted of the 2004 murder of John Kragness by a jury at the Fast Track High Court, Accra, based on circumstantial evidence. The appellant was acquitted of conspiracy to commit murder by the trial judge, who directed the jury accordingly, yet was convicted of murder and sentenced to death. He appealed both conviction and sentence, arguing that the conviction was unsafe due to inconsistent verdicts, lack of proper jury directions on circumstantial evidence, admission of inadmissible hearsay, and unlawful search leading to the recovery of a toll ticket. On sentencing, he challenged the mandatory death penalty under section 46 of the Criminal Code, 1960 (Act 29) as violating constitutional protections against inhuman treatment (Article 15(2)), arbitrary deprivation of life (Article 13(1)), and the right to a fair trial (Article 19(1)) of the 1992 Constitution. The Court of Appeal dismissed his appeal, prompting this further appeal to the Supreme Court of Ghana.",
+  "legalKeywords": [
+    "murder",
+    "circumstantial evidence",
+    "mandatory death penalty",
+    "constitutional rights",
+    "fair trial",
+    "right to life",
+    "inhuman treatment",
+    "appeal against conviction",
+    "hearsay evidence",
+    "search and seizure",
+    "alibi defense",
+    "jury trial",
+    "conspiracy to commit murder",
+    "constitutional interpretation",
+    "criminal procedure"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Constitutional Law",
+    "Appellate Procedure",
+    "Human Rights",
+    "Evidence"
+  ],
+  "verdict": "The appeal was pending determination at the time of the document; no final verdict from the Supreme Court is recorded in the provided text.",
+  "winningSide": "The Republic (respondent) at trial and Court of Appeal level",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "S.K. Date-Bah",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "R.C. Owusu (Ms)",
+      "role": "Justice"
+    },
+    {
+      "name": "J. Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin-Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "B.T. Aryeetey",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "1992 Constitution of Ghana, art. 15(2)",
+    "1992 Constitution of Ghana, art. 13(1)",
+    "1992 Constitution of Ghana, art. 19(1)",
+    "Criminal Code, 1960 (Act 29), s. 46"
+  ],
+  "rationaleHighlights": [
+    "Conviction based solely on circumstantial evidence without proper jury direction raises miscarriage of justice concerns.",
+    "Admission of hearsay evidence and toll ticket obtained via questionable search may have prejudiced the defense.",
+    "Mandatory death penalty under s. 46 Criminal Code challenged as unconstitutional under Articles 13(1), 15(2), and 19(1) of the 1992 Constitution."
+  ],
+  "confidenceNotes": "The truncated nature of the document limits access to full reasoning and evidence, but key legal arguments and procedural history are preserved.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/DEXTER EDDIE JOHNSON.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:06:46.025Z",
+    "plainTextLength": 279959
+  }
+}

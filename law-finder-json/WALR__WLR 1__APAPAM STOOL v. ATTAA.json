@@ -1,0 +1,71 @@
+{
+  "caseTitle": "STOOL VERSUS ATTAA",
+  "summary": "The Apapam Stool appealed a Land Court decision that had reversed a Native Court judgment granting it a declaration of title to land occupied by Attaa, successor to Agya Mfodjo. The Native Court had recognized the stool's ownership and ordered compensation to the defendant for improvements. The Land Court dismissed the claim, citing estoppel due to the stool's 20-year failure to demand tribute (a sheep annually). The West African Court of Appeal held that non-demand for customary tribute did not constitute estoppel, as it did not amount to fraudulent encouragement. It emphasized that customary tenancy allows cultivation and improvements without transferring ownership. The appeal was allowed, the Land Court's judgment set aside, and the Native Court's decision restored.",
+  "legalKeywords": [
+    "customary tenancy",
+    "declaration of title",
+    "estoppel",
+    "homage",
+    "land dispute",
+    "native law and custom",
+    "prescriptive title",
+    "tribute",
+    "alienation of land",
+    "appellate review",
+    "burden of proof",
+    "mesne profits",
+    "customary law",
+    "overlordship",
+    "occupational tenancy"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Estoppel",
+    "Appellate Procedure",
+    "Title to Land"
+  ],
+  "verdict": "Appeal allowed; Land Court judgment set aside; Native Court judgment restored.",
+  "winningSide": "Apapam Stool",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ames Ag.J.A.",
+      "role": "judging"
+    },
+    {
+      "name": "Coussey P.",
+      "role": "concurring"
+    },
+    {
+      "name": "Korsah J.A.",
+      "role": "concurring"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "Muffat v. Kpeshie (1952) W.A.C.A. Cyclostyled Reports, December 1951-July 1952, p. 38",
+    "Abakah Nthah v. Anguah Bennieh [1931] A.C. 72",
+    "Bruku v. Oeansey (1953) W.A.C.A. Cyclostyled Reports, September 1952-September 1953, p. 100",
+    "Willmott v. Barber (1880) 15 Ch.D. 96",
+    "Makata v. Ahorli and Others (1956) 1 W.A.L.R. 169"
+  ],
+  "rationaleHighlights": [
+    "Tribute under customary tenancy is not rent in English law sense; non-demand does not create prescriptive title.",
+    "Estoppel not established because failure to demand tribute did not amount to encouragement or fraud.",
+    "Appellate court affirmed Native Court's factual findings were supported by evidence.",
+    "No valid appeal by co-defendant due to lack of notice of appeal.",
+    "Customary tenancy permits cultivation and improvements without vesting ownership."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and clear procedural history.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/APAPAM STOOL v. ATTAA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:14:23.200Z",
+    "plainTextLength": 13759
+  }
+}

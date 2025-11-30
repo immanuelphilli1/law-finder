@@ -1,0 +1,65 @@
+{
+  "caseTitle": "REX V MAMA TIMBUKTU",
+  "summary": "In Rex v. Mama Timbuktu, the appellant was convicted of murder for killing Akwesi, who was assisting a native policeman in an unlawful arrest. The trial judge directed the jury that the offense could not be reduced to manslaughter, though he allowed consideration of justifiable homicide. The West African Court of Appeal held that the question of manslaughter should have been left to the jury, given the appellant's reasonable fear of being seized for sacrifice. Finding that the trial error likely affected the outcome, the Court substituted the murder conviction with a verdict of guilty of manslaughter under section 11(2) of the West African Court of Appeal Ordinance and sentenced the appellant to three years' imprisonment with hard labor from February 24, 1937.",
+  "legalKeywords": [
+    "murder",
+    "manslaughter",
+    "justifiable homicide",
+    "unlawful arrest",
+    "jury direction",
+    "trial error",
+    "self-defense",
+    "appellate substitution",
+    "hard labor",
+    "sentencing"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Homicide",
+    "Jury Instructions",
+    "Sentencing"
+  ],
+  "verdict": "Guilty of manslaughter (substituted for murder)",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "West African Court of Appeal Ordinance, s 11(2)"
+  ],
+  "rationaleHighlights": [
+    "The trial judge erred in withdrawing the question of manslaughter from the jury.",
+    "The appellant had reasonable fear of being seized for sacrifice during an unlawful arrest.",
+    "The circumstances warranted consideration of manslaughter due to provocation or mitigation.",
+    "The Court exercised its power under s 11(2) to substitute a verdict.",
+    "A verdict of manslaughter was deemed more appropriate than murder.",
+    "The jury should have been allowed to decide between murder, manslaughter, or justifiable homicide.",
+    "The Court imposed a three-year sentence with hard labor."
+  ],
+  "confidenceNotes": "The source document is a scanned judgment with some formatting issues, but key legal reasoning and outcome are clearly stated.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/REX V MAMA TIMBUKTU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:15:06.240Z",
+    "plainTextLength": 2825
+  },
+  "trialDate": "1937-04-25"
+}

@@ -1,0 +1,84 @@
+{
+  "caseTitle": "OPANIN KWABENA AGYEI v OPANIN KWADWO WIREDU",
+  "summary": "The Supreme Court of Ghana resolved a chieftaincy dispute over the Suhyen Stool in New Juaben, Eastern Region, concerning whether the elevation of the Odikro Stool to a Divisional Mponua Stool in 1954 created a new stool owned by the Ekuona clan or was a continuation of the original Asona-owned stool. The court held that the elevation did not create a new stool, as the black Stool—symbolizing ownership—remained with the Asona clan since its creation in 1915. The court rejected claims of estoppel or conclusive presumption under NRCD 323, finding no evidence that the Asona clan intentionally allowed the Ekuona clan to believe they owned the stool. The appeal by the Ekuona defendants was dismissed, affirming the Asona clan's ownership.",
+  "legalKeywords": [
+    "chietaincy dispute",
+    "stool ownership",
+    "black Stool",
+    "Mponua Stool",
+    "Odikro",
+    "New Juaben",
+    "Asona clan",
+    "Ekuona clan",
+    "estoppel",
+    "conclusive presumption",
+    "Evidence Decree NRCD 323",
+    "acquiescence",
+    "matrilineal succession",
+    "traditional leadership",
+    "judicial review",
+    "customary law",
+    "gift of stool",
+    "reign elevation",
+    "destoolment",
+    "queen mother Stool"
+  ],
+  "topics": [
+    "Chieftaincy Law",
+    "Customary Land and Stool Tenure",
+    "Evidence and Presumptions",
+    "Appellate Review"
+  ],
+  "verdict": "Dismissed",
+  "winningSide": "Plaintiffs/Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Prof. T.M. Ocran",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Miss Akuffo",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Dr. Twum",
+      "role": "Justice"
+    },
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "Aninakwa",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Chieftaincy Appeal",
+  "citations": [
+    "Evidence Decree, NRCD 323, Sections 24–29",
+    "Nartey v. Mechanical Lloyd Assembly Plant (1987/88) GLR 314"
+  ],
+  "rationaleHighlights": [
+    "A stool, once created, does not die or become new upon elevation in status.",
+    "The black Stool symbolizes ownership, and only the Asona clan created and held it.",
+    "Mere occupancy by the Ekuona clan does not equate to ownership.",
+    "No conclusive presumption under NRCD 323 arose due to lack of intentional conduct by Asona clan.",
+    "The Asona clan consistently asserted their title when permitting non-Asona occupants.",
+    "Estoppel not established as there was no deliberate conduct inducing belief in Ekuona ownership.",
+    "The elevation to Mponua status was administrative, not a creation of a new stool.",
+    "Precedent in Nartey distinguished due to absence of analogous acquiescence."
+  ],
+  "confidenceNotes": "High confidence in factual and legal accuracy based on detailed judicial reasoning, citation of authoritative sources (e.g., Assimeng, Ofori-Boateng), and clear alignment with Ghanaian customary and evidence law. The truncated end of the document does not affect core holdings.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2006A/OPANIN KWABENA AGYEI v OPANIN KWADWO WIREDU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T18:02:03.256Z",
+    "plainTextLength": 22043
+  },
+  "trialDate": "2005-02-02"
+}

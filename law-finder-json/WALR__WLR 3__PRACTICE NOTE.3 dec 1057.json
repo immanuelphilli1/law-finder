@@ -1,0 +1,67 @@
+{
+  "caseTitle": "PRACTICE NOTE.3 dec 1057",
+  "summary": "This 1957 Practice Note from the Ghanaian Court of Appeal addressed a procedural error in juvenile court proceedings where infants under seven were improperly 'charged' with being deserted by their parents. The court clarified that the correct procedure under s. 72(1)(a) of the Courts Ordinance, c. 4 of 1951, requires a police officer to bring the child before the juvenile court with a sworn information alleging desertion, and to present evidence to support the claim. The court emphasized that parents, if known, must be given notice of the hearing to ensure their right to attend and participate. The failure to notify the father until after a 'fit person' order and financial obligation were imposed was criticized as procedurally flawed. The Court of Appeal issued binding guidance to standardize proper procedure in child protection cases.",
+  "legalKeywords": [
+    "infants",
+    "juveniles in need of care and protection",
+    "juvenile court",
+    "procedure",
+    "fit person order",
+    "desertion",
+    "sworn information",
+    "notice to parents",
+    "Courts Ordinance",
+    "magistrates",
+    "police procedure",
+    "child welfare",
+    "due process",
+    "hearing rights",
+    "service of notice"
+  ],
+  "topics": [
+    "Juvenile Law",
+    "Child Protection",
+    "Procedural Law",
+    "Family Law",
+    "Judicial Procedure"
+  ],
+  "verdict": "The appeal highlighted a procedural irregularity; the Court of Appeal issued corrective guidance on proper procedure for bringing juveniles in need of care before the court.",
+  "winningSide": "State (procedural correction directed to law enforcement and courts)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "van Lare",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Granville Sharp",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Smith",
+      "role": "Justice (delivering judgment)"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Courts Ordinance, c. 4 of 1951, s. 72(1)(a)"
+  ],
+  "rationaleHighlights": [
+    "Charging infants with being deserted is legally absurd and procedurally incorrect.",
+    "Proper procedure requires a police officer to bring the child before the juvenile court under s. 72(1)(a) of the Courts Ordinance with a sworn information.",
+    "Notice must be given to parents if known, to allow them to attend the hearing.",
+    "Failure to notify parents before making a fit person order undermines procedural fairness.",
+    "The father was only informed after the order and financial claim, which is contrary to fair process."
+  ],
+  "confidenceNotes": "The document is a practice note from the Court of Appeal of Ghana, citing statutory provisions and judicial reasoning; factual accuracy is high.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/PRACTICE NOTE.3 dec 1057.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:56:29.241Z",
+    "plainTextLength": 2495
+  }
+}

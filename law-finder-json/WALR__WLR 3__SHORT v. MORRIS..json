@@ -1,0 +1,64 @@
+{
+  "caseTitle": "SHORT VERSUS MORRIS.",
+  "summary": "In SHORT v. MORRIS, the plaintiff, a native of Sierra Leone, sought specific performance of an agreement for the sale of land in Cape Coast, Ghana. The defendant, a Ghanaian native, and her brother had signed a memorandum acknowledging receipt of £97 as an advance on the sale of their property, with the price to be agreed upon between £850 and £1,000. The court held that no concluded contract existed because the parties had not reached agreement on the price. Furthermore, the memorandum did not satisfy the Statute of Frauds, 1677, s. 4, as it failed to contain all material terms, particularly a fixed or ascertainable price. The plaintiff’s claim was dismissed, and judgment was entered for the defendant.",
+  "legalKeywords": [
+    "specific performance",
+    "Statute of Frauds",
+    "sale of land",
+    "memorandum in writing",
+    "contract formation",
+    "agreement on price",
+    "native law and custom",
+    "English law application",
+    "ad idem",
+    "unenforceable contract",
+    "offer and acceptance",
+    "counter-offer",
+    "jurisdiction",
+    "Courts Ordinance",
+    "concluded agreement"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Legal Procedure",
+    "Statutory Interpretation",
+    "Jurisdiction and Applicable Law"
+  ],
+  "verdict": "dismissed",
+  "winningSide": "defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adumua-Bossman J.",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Central Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil claim for specific performance",
+  "citations": [
+    "Kaney v. U.T.G., Ltd. (1934) 2 W.A.C.A. 188",
+    "George v. Afari and Another (1929) Div.Ct. 1926-1929, 195",
+    "Lever v. Koffler (1901) 1 Ch. 543"
+  ],
+  "rationaleHighlights": [
+    "No concluded contract existed due to lack of agreement on price.",
+    "The memorandum did not satisfy the Statute of Frauds, s. 4, as it omitted essential terms.",
+    "A native of Sierra Leone is not considered a 'native' under s. 87(1) of the Courts Ordinance, so English law applied.",
+    "The offer of £1,000 was not kept open for acceptance, and no indication of firm offer was present.",
+    "Oral acceptance could not cure the lack of a valid written memorandum.",
+    "The plaintiff failed to prove ad idem on all material terms.",
+    "The defendant rejected the plaintiff’s subsequent offer to pay £1,000.",
+    "The transaction was governed by English law, not native customary law."
+  ],
+  "confidenceNotes": "The decision is well-reasoned and consistent with English contract law principles and colonial-era statutory interpretation in Ghana. The citation of binding authorities enhances reliability.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/SHORT v. MORRIS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:51:55.078Z",
+    "plainTextLength": 8764
+  }
+}

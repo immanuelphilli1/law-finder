@@ -1,0 +1,78 @@
+{
+  "caseTitle": "RICHARD WORGBAH v. GHANA ROBBER PRODUCTS LTD",
+  "summary": "In Richard Worghbah v. Ghana Robber Products Ltd, the Court of Appeal of Ghana set aside a Circuit Court judgment due to lack of jurisdiction. The plaintiff, a security officer dismissed after a theft incident at work, had claimed either reinstatement or �20 million in compensation for wrongful dismissal. The Court of Appeal held that because the claimed compensation exceeded the Circuit Court's statutory jurisdictional limit of �10 million under Section 41(1)(a)(i) of the Courts Act 1993 (Act 459), the Circuit Court lacked jurisdiction to hear the matter, regardless of the final award amount. The court emphasized that jurisdiction is determined by the amount claimed in the writ, not the damages awarded, and that such jurisdictional issues—being questions of law—can be raised for the first time on appeal. Consequently, the appeal succeeded, the Circuit Court's judgment was vacated, and no costs were ordered.",
+  "legalKeywords": [
+    "jurisdiction",
+    "wrongful dismissal",
+    "Circuit Court",
+    "Courts Act 1993",
+    "Act 459",
+    "liquidated sum",
+    "reinstatement",
+    "compensation",
+    "appeal",
+    "nullity",
+    "general damages",
+    "statutory limit",
+    "personal action",
+    "contract",
+    "tort"
+  ],
+  "topics": [
+    "Employment Law",
+    "Jurisdiction",
+    "Appellate Procedure",
+    "Wrongful Dismissal",
+    "Civil Procedure"
+  ],
+  "verdict": "The appeal was granted; the Circuit Court's judgment was vacated due to lack of jurisdiction.",
+  "winningSide": "Defendant/Appellant (Ghana Robber Products Ltd)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "WOOD, JA",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "FARKYE, JA",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "OWUSU ANSAH, JA",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "S.41 of the Courts Act 1993 (Act 459)",
+    "S.14 of Act 459",
+    "Akuffo Addo v. Quanshie ldun [1968] GLR 667",
+    "AG Lavendoswky and Base Group [1971] 2 GLR",
+    "Food Specialties Ltd v. Ramia [1989-90] 2 GLR",
+    "Eboe v. Eboe [1961] 1 GLR 324",
+    "HAUSA VRS. DAWUDA [1961] 2 GLR 550",
+    "DISTRICT COURT GD 1, DUNKWA-ON-OFFIN, EX-PARTE: OWUSU [1991] 1 GLR 136"
+  ],
+  "rationaleHighlights": [
+    "The Circuit Court lacked jurisdiction because the claimed compensation of �20 million exceeded the statutory limit of �10 million under S.41(1)(a)(i) of Act 459.",
+    "Jurisdiction is determined by the amount claimed in the writ, not the amount awarded.",
+    "Jurisdictional issues, being questions of law, can be raised for the first time on appeal.",
+    "The claim for compensation was an alternate relief, not ancillary, and thus subject to jurisdictional limits.",
+    "The trial court's assumption of jurisdiction was erroneous, rendering the judgment a nullity.",
+    "Because of the jurisdictional defect, it was unnecessary to rule on the other grounds of appeal.",
+    "Lower courts derive jurisdiction only from statutory grant; exceeding such limits invalidates proceedings.",
+    "The appellate court has the authority to raise and decide jurisdictional issues sua sponte."
+  ],
+  "confidenceNotes": "All information is directly extracted from the judgment text. Jurisdictional analysis and legal principles are clearly articulated by the justices.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/RICHARD WORGBAH v. GHANA ROBBER PRODUCTS LTD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:07:14.205Z",
+    "plainTextLength": 17042
+  },
+  "trialDate": "2002-02-07"
+}

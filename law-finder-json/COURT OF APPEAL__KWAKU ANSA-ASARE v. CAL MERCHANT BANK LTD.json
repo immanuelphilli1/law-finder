@@ -1,0 +1,68 @@
+{
+  "caseTitle": "ANSA-ASARE v. CAL MERCHANT BANK LTD.",
+  "summary": "In Kwaku Ansa-Asare v. CAL Merchant Bank Ltd., the Court of Appeal of Ghana refused the applicant bank's request for a stay of execution of a High Court judgment awarding fees to the respondent lawyer. The bank argued that the sum was large and that it would be more economically beneficial to retain the funds during the appeal. However, the respondent asserted he had performed the contracted legal work, including organizing two auction sales, and was financially capable of refunding the amount if the appeal succeeded. The court, satisfied by the affidavit evidence and arguments, concluded the respondent could refund the sum if necessary. The application for stay was thus refused, conditioned on the respondent filing a written undertaking with the Registrar to refund the full amount within seven days should the appeal succeed.",
+  "legalKeywords": [
+    "stay of execution",
+    "appeal",
+    "refund undertaking",
+    "judgment enforcement",
+    "legal fees",
+    "auction sales",
+    "civil procedure",
+    "undertaking to refund",
+    "execution of judgment",
+    "appellant",
+    "respondent",
+    "High Court judgment",
+    "civil litigation",
+    "bank dispute",
+    "legal services rendered"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Contract Law",
+    "Legal Fees",
+    "Appeals",
+    "Execution of Judgment"
+  ],
+  "verdict": "Application for stay of execution refused.",
+  "winningSide": "Respondent (Kwaku Ansa-Asare)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "J. B. Akamba",
+      "role": "Delivered Ruling"
+    },
+    {
+      "name": "Lartey, J.A.",
+      "role": "Concurred"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs.)",
+      "role": "Concurred"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil",
+  "citations": [
+    "KWAKU ANSA-ASARE v. CAL MERCHANT BANK LTD. [16/1/2003] CM. 237/2002"
+  ],
+  "rationaleHighlights": [
+    "Applicant sought stay of execution pending appeal, citing risk of non-refund and investment benefit.",
+    "Respondent opposed, asserting financial capacity to refund and having performed legal work.",
+    "Court found Respondent capable of refunding; required written undertaking within 7 days.",
+    "Dispute over fee amount to be resolved on appeal.",
+    "Application for stay refused with condition."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment text.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/KWAKU ANSA-ASARE v. CAL MERCHANT BANK LTD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:22:19.017Z",
+    "plainTextLength": 3387
+  },
+  "trialDate": "2003-01-16"
+}

@@ -1,0 +1,62 @@
+{
+  "caseTitle": "AXD OTHERS VERSUS NYIMFA AND OTHERS",
+  "summary": "In Nunoo and Others v. Nyimfa and Others, the plaintiffs sought specific performance of an agreement to execute a lease over Apam Stool land. The agreement, made during a concession inquiry, provided for a new lease to be drafted and approved by the parties, with the plaintiffs remaining in possession pending execution. The High Court held that the agreement was complete and enforceable as a binding contract supported by consideration, despite clause 9 requiring final approval of the lease draft. It was not a 'concession' under the Concessions Ordinance, c. 136, as it did not constitute a grant or demise of land. Nor was it a 'disposal' under the Local Government Ordinance, c. 64, s. 75, as it did not transfer an interest in land for valuable consideration at that stage. However, the court found that because the agreement allowed the plaintiffs to remain in possession pending execution of the formal lease, it amounted to a purported alienation of stool property under the State Councils (Southern Ghana) Ordinance, c. 8 of 1952, s. 16, which required state council consent. As such consent was not obtained, the agreement was declared null and void. The court also held that where an agreement to convey land is subject to statutory consents, there is an implied term that both parties must take steps to obtain those consents, and a party cannot rely on the absence of consent if they have not sought it.",
+  "legalKeywords": [
+    "specific performance",
+    "agreement for lease",
+    "stool land",
+    "concession",
+    "State Councils Ordinance",
+    "Local Government Ordinance",
+    "alienation of stool property",
+    "implied term",
+    "consent requirement",
+    "contract enforceability"
+  ],
+  "topics": [
+    "Land Law",
+    "Contract Law",
+    "Customary Law",
+    "Statutory Interpretation",
+    "Ghanaian Jurisprudence"
+  ],
+  "verdict": "Agreement declared null and void",
+  "winningSide": "defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adumua-Bossman J.",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Central Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Action for Specific Performance",
+  "citations": [
+    "Nunoo and Others v. Nyimfa and Others (1956) 2 W.A.L.R. 161",
+    "Concessions Ordinance, c. 136",
+    "Local Government Ordinance, c. 64, s. 75",
+    "State Councils (Southern Ghana) Ordinance, c. 8 of 1952, s. 16",
+    "Winn v. Bull (1877) 7 Ch.D. 29",
+    "Rossiter v. Miller (1878) 3 App.Cas. 1124",
+    "Branca v. Cabarro [1947] K.B. 854"
+  ],
+  "rationaleHighlights": [
+    "The agreement was a complete and enforceable contract supported by consideration, despite clause 9 requiring approval of the final lease draft.",
+    "The agreement did not constitute a 'concession' under the Concessions Ordinance as it did not effect a grant or demise of land.",
+    "It was not a 'disposal' under the Local Government Ordinance requiring local council concurrence.",
+    "However, allowing continued possession amounted to a de facto alienation of stool property under the State Councils Ordinance.",
+    "Absence of state council consent rendered the agreement null and void under s. 16.",
+    "An implied term exists requiring both parties to seek necessary statutory consents for conveyance.",
+    "A party cannot rely on lack of consent if they have not taken steps to obtain it."
+  ],
+  "confidenceNotes": "The summary is based on a detailed judicial analysis with clear statutory references and case law. The outcome hinges on precise interpretation of colonial-era ordinances in Ghana, particularly regarding stool land governance. The ruling reflects established principles of contract and customary land law.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/NUNOO AXD OTHERS V. NYIMFA AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:57:45.263Z",
+    "plainTextLength": 27759
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "caseTitle": "HAJAARA FARMS LTD VRS SOCIETE GENERALE- SOCIAL SECURITY BANK",
+  "summary": "In this 2012 Supreme Court of Ghana decision, Hajaara Farms Ltd sued Societe Generale-Social Security Bank for wrongful detention and disposal of ten Renault tractors imported under a loan agreement. The bank seized all tractors upon arrival, released five under new terms, and later sold all ten without the company's consent. The High Court found the bank liable in tort for conversion, discharged the company from repaying the loan due to the bank's fundamental breach, and awarded damages. The Court of Appeal upheld this. The Supreme Court reviewed whether concurrent liability in contract and tort justified both debt discharge and damages, noting the absence of the loan agreement in evidence. While recognizing concurrent liability as valid under modern law (citing Henderson v Merrett), the Court expressed concern over double compensation and emphasized equity, unconscionability, and the commercial implications of forfeiting loan repayment rights due to procedural breaches.",
+  "legalKeywords": [
+    "conversion",
+    "concurrent liability",
+    "contractual breach",
+    "wrongful detention",
+    "forfeiture",
+    "equity",
+    "repudiation",
+    "chattels",
+    "loan agreement",
+    "bank-customer relationship",
+    "tort",
+    "contract",
+    "limitation of actions",
+    "restitution",
+    "commercial law"
+  ],
+  "topics": [
+    "Contract Law",
+    "Tort Law",
+    "Banking Law",
+    "Commercial Law",
+    "Equity"
+  ],
+  "verdict": "The Supreme Court set aside the lower courts' judgment on the issue of discharging the loan obligation, holding that the company could not be absolved from repayment while also claiming full damages for conversion, as this would result in double recovery. The matter was remitted for determination of appropriate compensation consistent with principles of equity and non-forfeiture.",
+  "winningSide": "Societe Generale-Social Security Bank (partial victory on remittal of damages and repayment issue)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Presiding Judge delivering judgment"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Anin",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Bonnie",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Akoto Bamfo (Mrs.)",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Henderson v Merrett Syndicates Ltd [1994] 3 All E.R. 506",
+    "Bean v Wade (1885) 2 TLR 157",
+    "Groom v Crocker [1939] 1 KB 194",
+    "Bagot v Stevens Scanlan & Co Ltd [1966] 1 QB 197",
+    "J Bracconot et Cie v Cie des Messageries Maritimes (The Sindh) [1975] 1 Lloyd's Rep 372"
+  ],
+  "rationaleHighlights": [
+    "The bank could not produce the original loan agreement, undermining its claim of contractual rights.",
+    "The trial judge held that the bank's unlawful seizure of tractors constituted fundamental breach, discharging the company from repayment obligations.",
+    "The Supreme Court questioned the principle of awarding double compensation through both discharge of debt and damages for conversion.",
+    "Concurrent liability in contract and tort is recognized, but must not lead to unjust enrichment.",
+    "Equity and unconscionability are central where forfeiture-like outcomes arise from contractual breaches."
+  ],
+  "confidenceNotes": "All information is derived directly from the provided judgment text. Citations are explicitly mentioned in the document. Key facts, legal reasoning, and outcomes are clearly stated by the presiding judge.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/HAJAARA FARMS LTD   VRS SOCIETE GENERALE- SOCIAL SECURITY BANK.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:32:00.516Z",
+    "plainTextLength": 79342
+  }
+}

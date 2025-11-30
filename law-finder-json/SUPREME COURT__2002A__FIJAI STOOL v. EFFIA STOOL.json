@@ -1,0 +1,77 @@
+{
+  "caseTitle": "FIJAI STOOL v. EFFIA STOOL",
+  "summary": "This Supreme Court of Ghana decision, delivered on 3rd July 2002, dismissed an appeal by Effia Stool against the demarcation of boundary lands in favor of Fijai Stool. The original dispute was adjudicated by the Stool Lands Boundaries Settlement Commission, whose decision was upheld by the Appeal Tribunal. Effia Stool appealed, arguing that the trial Commissioner erred in law by dismissing their traditional and documentary evidence and using inappropriate language. The Supreme Court confirmed that while the trial Commissioner's phrasing—calling Effia’s exhibits a 'pile or heap of waste papers in a dustbin'—was unjustified and unprofessional, it did not result in a miscarriage of justice. The court reaffirmed that the evidence, particularly the survey and traditional proof, overwhelmingly supported Fijai Stool’s claim. The Appeal Tribunal had independently evaluated the evidence and found Fijai’s case more convincing. The Supreme Court upheld concurrent factual findings, declined to substitute its own assessment, and dismissed the appeal.",
+  "legalKeywords": [
+    "boundary dispute",
+    "stool land",
+    "traditional evidence",
+    "documentary evidence",
+    "standard of proof",
+    "appellate review",
+    "factual findings",
+    "compensation claims",
+    "survey instructions",
+    "overt acts of ownership",
+    "miscarriage of justice",
+    "judicial language",
+    "rehearing on appeal",
+    "burden of proof",
+    "tribunal decision"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Customary Law"
+  ],
+  "verdict": "The appeal by Effia Stool was dismissed. The Supreme Court upheld the decision of the Appeal Tribunal, affirming the boundary demarcation in favor of Fijai Stool based on the preponderance of evidence.",
+  "winningSide": "Fijai Stool",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Mrs. J. Bamford-Addo",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Amiah, J.S.C."
+    },
+    {
+      "name": "Kpegah, J.S.C."
+    },
+    {
+      "name": "Adjahben, J.S.C."
+    },
+    {
+      "name": "Adzoe, J.S.C."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "Mamudu Wangara v Gyato Wangara (1982 - 1983) GLR 639 Holding 1",
+    "Akuffo Addo v. Catheline (1992) 1 GLR p.377 holding 3",
+    "Bissi & Others v. Tabire alias Asare (1987-88) 1 GLR 360 SC Holding 1",
+    "Achoro v. Akoufela (1996-97) SC GLR 209",
+    "Koglex Ltd. (No.2) v Field (2002) SC GLR 179"
+  ],
+  "rationaleHighlights": [
+    "The trial Commissioner’s inappropriate language did not cause a miscarriage of justice.",
+    "The Appeal Tribunal independently evaluated evidence and correctly upheld the lower decision.",
+    "Fijai Stool’s evidence, including traditional and survey proof, was more convincing.",
+    "Documentary exhibits by Effia Stool did not advance their claim and some even supported Fijai’s case.",
+    "Concurrent findings of fact by two lower tribunals are entitled to strong deference on appeal.",
+    "The appellate court may rehear evidence but will not substitute findings absent clear error.",
+    "Effia Stool failed to file required survey instructions, weakening its position.",
+    "Overt acts of ownership and compensation history were insufficient to prove boundary claims."
+  ],
+  "confidenceNotes": "High confidence in all fields. The decision is clearly articulated with explicit judicial reasoning, cited precedents, and named justices. The outcome, reasoning, and legal principles are well-documented in the judgment text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2002A/FIJAI STOOL v. EFFIA STOOL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:39:54.779Z",
+    "plainTextLength": 62376
+  },
+  "trialDate": "3RD JULY 2002"
+}

@@ -1,0 +1,79 @@
+{
+  "caseTitle": "DON ACKAH VRS PERGAH TRANSPORT",
+  "summary": "This Supreme Court of Ghana decision in Don Ackah v. Pergah Transport Limited & Ors. (2010) concerns a property dispute where the plaintiff claimed he purchased a house in the defendant's company name with an agreement for future transfer after securing a bank bid. The High Court initially ruled for the plaintiff, but the Court of Appeal reversed, ordering only repayment of GH\u000220,000 with interest. The Supreme Court upheld the Court of Appeal's decision, finding the plaintiff failed to discharge the burden of proof under Sections 10 and 11 of the Evidence Act, particularly by not calling Mr. Thompson, the bank's Managing Director, who was central to the alleged agreement. The court emphasized that an appeal is a re-hearing, allowing appellate courts to independently assess evidence, and held that the plaintiff's failure to corroborate his testimony with a material witness was fatal to his claim.",
+  "legalKeywords": [
+    "burden of proof",
+    "evidence",
+    "appeal",
+    "re-hearing",
+    "privity of contract",
+    "corroboration",
+    "witness credibility",
+    "property dispute",
+    "contractual agreement",
+    "appellate review",
+    "simple interest",
+    "title deed",
+    "loan agreement",
+    "demeanor of witnesses",
+    "failure to call material witness"
+  ],
+  "topics": [
+    "Property Law",
+    "Contract Law",
+    "Evidence Law",
+    "Appellate Procedure"
+  ],
+  "verdict": "The appeal was dismissed. The Supreme Court upheld the Court of Appeal's decision, which had set aside the High Court's judgment in favor of the plaintiff. The court found that the plaintiff failed to discharge the burden of proof, particularly by not calling Mr. Thompson to corroborate his claims, rendering his evidence insufficient.",
+  "winningSide": "Defendants/Appellants (Pergah Transport Limited, Bertha Badoe, and SG-SSB Bank)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adinyira (Mrs)",
+      "role": "Presiding Judge authoring judgment"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Akuffo (Ms)",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Aryeetey",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs)",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "[2005-2006] SCGLR 1039",
+    "[2003-2004] SCGLR 920",
+    "[2000] SCGLR 175",
+    "[2005-2006] SCGLR 458",
+    "[1959] GLR 190",
+    "[1972] 2 GLR 13"
+  ],
+  "rationaleHighlights": [
+    "Appellate court has duty to assess whether burden of proof was discharged, even on 'weight of evidence' grounds",
+    "Failure to call Mr. Thompson, a material witness, was fatal to plaintiff's case",
+    "An appeal is by way of re-hearing, allowing appellate court to make independent findings of fact",
+    "Trial court's credibility findings are not binding if unsupported by evidence"
+  ],
+  "confidenceNotes": "High confidence in extracted data as all key elements (facts, legal reasoning, verdict) are clearly stated in the judgment. Citations and procedural history are explicitly referenced.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/DON ACKAH    VRS PERGAH TRANSPORT.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:50:08.206Z",
+    "plainTextLength": 24538
+  },
+  "trialDate": "2007-12-13"
+}

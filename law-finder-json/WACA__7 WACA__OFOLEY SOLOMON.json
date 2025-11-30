@@ -1,0 +1,67 @@
+{
+  "caseTitle": "OFOLEY SOLOMON",
+  "summary": "This case involved a dispute over whether properties devised under the will of William Adjabeng Solomon were self-acquired or family property. The plaintiff, Ofoley Solomon, as head of the Nee Adjabeng Ankrah family, initially filed in the Divisional Court, which declined jurisdiction, referring the matter to the Ga Manche Tribunal. That tribunal ruled the properties were family assets and confirmed Emmanuel Obeng Ankrah as family head. Subsequently, the Divisional Court ordered payment of funds collected by a court-appointed receiver to the family head. An executor appealed, arguing the Divisional Court lacked jurisdiction after referral. The West African Court of Appeal dismissed the appeal, holding that the Divisional Court retained authority to make consequential orders under its inherent powers, citing Fritz v. Hobson, and affirming that non-final orders carry an implied liberty to apply for further relief.",
+  "legalKeywords": [
+    "jurisdiction",
+    "family property",
+    "executor",
+    "receiver",
+    "declaration",
+    "Will",
+    "testator",
+    "Ga Manche Tribunal",
+    "Divisional Court",
+    "order for payment",
+    "self-acquired property",
+    "head of family",
+    "proceeds of property",
+    "Court's inherent power",
+    "in gremio liberty"
+  ],
+  "topics": [
+    "Probate Law",
+    "Customary Law",
+    "Jurisdiction",
+    "Trusts and Estates",
+    "Civil Procedure"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Respondent (Emmanuel Obeng Ankrah as head of family)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "M'Carthy, J.",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Fritz v. Hobson (1880) 14 Ch. 542 p. 561"
+  ],
+  "rationaleHighlights": [
+    "Divisional Court retains jurisdiction to make ancillary orders despite referral to a customary tribunal.",
+    "An order appointing a receiver is not final and implies a subsequent order for payment.",
+    "Courts have inherent power to make orders necessary for justice under Order 5 Rule 2.",
+    "All court orders carry in gremio liberty to apply for further directions."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment text, including jurisdictional reasoning, parties, and procedural history.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/OFOLEY SOLOMON.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:30:58.712Z",
+    "plainTextLength": 6962
+  },
+  "trialDate": "1941-12-16"
+}

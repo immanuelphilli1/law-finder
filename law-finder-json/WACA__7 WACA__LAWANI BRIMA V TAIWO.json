@@ -1,0 +1,76 @@
+{
+  "caseTitle": "LAWANI BRIMA V TAIWO",
+  "summary": "This 1941 West Africa Court of Appeal decision involved a dispute over customary land rights in Ghana. The defendants-appellants, descendants of a domestic servant of the plaintiffs-respondents' ancestor, had been granted customary permission to occupy family land. They later leased the property to a third party for thirty years without the plaintiffs' consent. The plaintiffs sought a declaration that the defendants had forfeited their customary rights due to misbehaviour. The defendants initially claimed fee simple ownership and raised defences of long possession, laches, and the Real Property Limitation Act 1874, but abandoned the title claim. The trial court and the appellate court held that leasing the land under a claim of ownership constituted a direct challenge to the overlord's rights, amounting to misbehaviour and resulting in forfeiture. The court emphasized that not every lease leads to forfeiture, but each case must be assessed on its facts. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "family property",
+    "customary law",
+    "forfeiture",
+    "misbehaviour",
+    "overlord rights",
+    "lease without consent",
+    "alienation",
+    "native law and custom",
+    "long possession",
+    "stale claim",
+    "laches",
+    "acquiescence",
+    "defence of title",
+    "stranger lease",
+    "thirty years lease",
+    "domestic descendant",
+    "Real Property Limitation Act 1874",
+    "declaration of rights",
+    "appellate decision",
+    "joint judgment"
+  ],
+  "topics": [
+    "Customary Law",
+    "Land Tenure",
+    "Forfeiture of Rights",
+    "Leasehold Interests",
+    "Appellate Procedure"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Plaintiffs-Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Real Property Limitation Act 1874"
+  ],
+  "rationaleHighlights": [
+    "Leasing family property to a stranger for 30 years without consent constitutes misbehaviour and forfeiture of customary rights.",
+    "The act of leasing under a claim of ownership directly challenges the overlord's rights.",
+    "Not every lease constitutes alienation or misbehaviour; each case must be judged on its facts.",
+    "The defence of title was abandoned in the lower court and not pursued on appeal.",
+    "The Real Property Limitation Act 1874, laches, acquiescence, and long possession were pleaded but not determinative.",
+    "The court rejected a broad rule that all leases entail forfeiture, emphasizing the need to assess the challenge to overlord rights.",
+    "The plaintiffs were entitled to a declaration of forfeiture based on the appellants' conduct.",
+    "The appeal was dismissed with costs."
+  ],
+  "confidenceNotes": "The case summary is derived directly from the provided text, which appears to be a digitized version of a published judgment. All key details (parties, court, judges, holding) are explicitly stated. The jurisdiction and legal context are clear, though the formatting is degraded.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/LAWANI BRIMA V TAIWO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:32:39.398Z",
+    "plainTextLength": 4609
+  },
+  "trialDate": "1941-05-08"
+}

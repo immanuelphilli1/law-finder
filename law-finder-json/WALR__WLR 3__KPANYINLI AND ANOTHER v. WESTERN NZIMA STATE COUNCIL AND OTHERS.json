@@ -1,0 +1,64 @@
+{
+  "caseTitle": "KPANYINLI AND ANOTHER VERSUS WESTERN NZIMA STATE COUNCIL",
+  "summary": "This case involved an application for a writ of mandamus to compel the Western Nzima State Council to hear and determine a constitutional dispute after it had dismissed the matter on a plea of res judicata. The High Court held that the State Council's ruling on res judicata was an interlocutory order, not a final judgment, and that the substantive constitutional issue remained pending. Following the reversal of the Council's decision by the Appeal Commissioner appointed by the Governor-General, the matter was still sub judice and required determination on the merits. The Court emphasized the peremptory duty of State Councils under the State Councils (Southern Ghana) Ordinance, s. 5, to hear and determine matters within their jurisdiction, and granted the writ of mandamus to ensure the continuation of proceedings.",
+  "legalKeywords": [
+    "mandamus",
+    "jurisdiction",
+    "State Councils",
+    "res judicata",
+    "interlocutory order",
+    "constitutional matter",
+    "customary law",
+    "appeal commissioner",
+    "functus officio",
+    "sub judice",
+    "Governor-General",
+    "plea",
+    "determination",
+    "dispute resolution",
+    "judicial body"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Constitutional Law",
+    "Customary Law",
+    "Judicial Review",
+    "Mandamus"
+  ],
+  "verdict": "The application for a writ of mandamus was granted, requiring the State Council to hear and determine the constitutional matter.",
+  "winningSide": "Applicants (Kpanyinli and another)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Acolatse J",
+      "role": "presiding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Western Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "State Councils (Southern Ghana) Ordinance, c. 8 of 1952, s. 5",
+    "State Councils (Southern Ghana) Ordinance, s. 11",
+    "State Councils (Southern Ghana) Ordinance, s. 12"
+  ],
+  "rationaleHighlights": [
+    "The State Council has a peremptory duty to hear and determine constitutional matters within its jurisdiction.",
+    "A ruling on res judicata is an interlocutory order, not a final judgment.",
+    "Reversal of a State Council's interlocutory decision revives the matter for hearing on the merits.",
+    "Mandamus lies to compel a tribunal to perform its statutory duty to adjudicate.",
+    "The State Council remains seized of the matter unless finally disposed of.",
+    "Appeal against an interlocutory ruling suspends proceedings pending appellate decision.",
+    "A tribunal is not functus officio where the substantive issue remains undetermined.",
+    "Denial of rehearing after reversal on appeal constitutes a denial of justice."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment and editorial note.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/KPANYINLI AND ANOTHER v. WESTERN NZIMA STATE COUNCIL AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:03:28.287Z",
+    "plainTextLength": 9151
+  }
+}

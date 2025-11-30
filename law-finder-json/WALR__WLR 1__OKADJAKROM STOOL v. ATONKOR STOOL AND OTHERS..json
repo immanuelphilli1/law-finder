@@ -1,0 +1,76 @@
+{
+  "caseTitle": "OKADJAKROM STOOL VERSUS ATONKOR STOOL AND OTHERS.",
+  "summary": "The case involved a long-standing boundary dispute between the Okadjakrom Stool and the Atonkor Stool over land known as Kafetonku. In 1940, Atonkor sued Okadjakrom for trespass and a declaration that a 1922 compromise boundary (the 'purple line') was valid. The Native Court ruled in favor of Okadjakrom, allowing them to retain possession of the disputed land, but made no formal declaration of boundary or title. In 1951, Okadjakrom initiated a new action seeking a declaration of title, pleading res judicata based on the 1940 judgment. The Land Court upheld this plea, but the decision was appealed. The West African Court of Appeal held that the 1940 judgment did not constitute res judicata for title or boundary because the court had not adjudicated on ownership or formally declared a boundary. The absence of customary boundary rites and the subsequent attempts to demarcate confirmed that the issue remained unresolved. Thus, the plea of res judicata failed, and the appellant was not estopped from contesting title.",
+  "legalKeywords": [
+    "res judicata",
+    "stool land",
+    "boundary dispute",
+    "declaration of title",
+    "native court",
+    "trespass",
+    "customary law",
+    "land demarcation",
+    "judicial precedent",
+    "estoppel",
+    "procedural default",
+    "counterclaim",
+    "jurisdictional error",
+    "land ownership",
+    "tribal authority",
+    "sovereign land",
+    "adjudication",
+    "final judgment",
+    "property rights",
+    "customary boundary rites"
+  ],
+  "topics": [
+    "Land Law",
+    "Res Judicata",
+    "Customary Law",
+    "Boundary Disputes",
+    "Stool Land"
+  ],
+  "verdict": "Appeal allowed; the 1940 judgment did not constitute res judicata as no formal declaration of boundary or title was made.",
+  "winningSide": "Atonkor Stool",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ames Ag.J.A.",
+      "role": "Judging Officer"
+    },
+    {
+      "name": "Jackson Ag.J.A.",
+      "role": "Judging Officer"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "W.A.C.A., February 25, 1956",
+    "Kwasi v. Kwadjo, W.A.C.A., February 22, 1944",
+    "Kwadjo and Another v. Kwasi, W.A.C.A., February 27, 1947",
+    "Ntiaro v. Akpan, III N.L.R. 9",
+    "Outram v. Morewood (1803) 3 East 345"
+  ],
+  "rationaleHighlights": [
+    "A judgment for the defendant in a boundary dispute without a formal declaration of boundary or title does not constitute res judicata for ownership claims.",
+    "Res judicata applies only where the court has adjudicated on the substantive issue of ownership or boundary.",
+    "Failure to perform customary rites (e.g., cutting the boundary) renders administrative boundary proposals ineffective.",
+    "Subsequent attempts to demarcate boundaries indicate that prior judgment did not settle the boundary.",
+    "A party cannot invoke res judicata to claim title when no such declaration was made in the original judgment."
+  ],
+  "confidenceNotes": "High confidence; details are consistent across judicial reasoning and procedural history.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/OKADJAKROM STOOL v. ATONKOR STOOL AND OTHERS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:59:09.812Z",
+    "plainTextLength": 20429
+  }
+}

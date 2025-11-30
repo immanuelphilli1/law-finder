@@ -1,0 +1,93 @@
+{
+  "caseTitle": "SUMAILA BIELBIEL VRS. ADAMU DARAMANI, THE ATTORNEY GEN",
+  "summary": "In this 2012 Supreme Court of Ghana ruling, the court addressed the procedural issue of which party should open oral testimony in a case concerning whether Adamu Daramani, a Member of Parliament, held British citizenship at the time of his election and swearing-in. The court distinguished between the 'burden of persuasion' and the 'burden of producing evidence' under the Evidence Act 1975 (NRCD 323), noting that while the burden of persuasion remained on the plaintiff, the evidential burden could shift to the defendant. The court initially considered allowing the first defendant to open due to the evidential burden on him regarding his citizenship status, but withdrew the offer after defense counsel objected. The court emphasized that the right to open is a privilege, not a compulsion, citing Lord Denman CJ in Mercer v Whall. Ultimately, the court unanimously invited the plaintiff to open his case, affirming that the defendant's refusal did not alter the legal burden of proof.",
+  "legalKeywords": [
+    "burden of proof",
+    "evidential burden",
+    "burden of persuasion",
+    "right to open",
+    "constitutional petition",
+    "citizenship",
+    "parliamentary eligibility",
+    "election petition",
+    "common law",
+    "Evidence Act",
+    "NRCD 323",
+    "Lord Denman CJ",
+    "Mercer v Whall",
+    "case management",
+    "judicial discretion"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Election Law",
+    "Burden of Proof",
+    "Judicial Procedure",
+    "Citizenship"
+  ],
+  "verdict": "The court ruled that the plaintiff, Sumaila Bielbiel, should open his case, after withdrawing its initial invitation to the first defendant to do so.",
+  "winningSide": "Plaintiff (procedural stage)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "S. K. Date-Bah",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "J. Ansan",
+      "role": "Justice"
+    },
+    {
+      "name": "S. O. Adinyira",
+      "role": "Justice"
+    },
+    {
+      "name": "R. C. Owusu",
+      "role": "Justice"
+    },
+    {
+      "name": "J. V. M. Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "P. Baffoe-Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "N. S. Gbadebe",
+      "role": "Justice"
+    },
+    {
+      "name": "V. Akoto-Bamfo",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Evidence Act 1975 (NRCD 323)",
+    "Mercer v Whall (1845) 114 ER 1318"
+  ],
+  "rationaleHighlights": [
+    "Distinction between 'burden of persuasion' and 'burden of producing evidence' under Ghanaian law",
+    "Right to open the case may shift based on incidence of evidential burden",
+    "Offer to defendant to open case was a privilege, not an obligation",
+    "Court affirmed efficient case management as motivation",
+    "Defendant's refusal to open does not shift legal burden of proof",
+    "Plaintiff ultimately invited to open case"
+  ],
+  "confidenceNotes": "The ruling focuses on procedural aspects of burden of proof and does not reach a final verdict on the merits of the case, which may affect downstream classification.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/SUMAILA BIELBIEL  VRS. ADAMU DARAMANI, THE ATTORNEY GEN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:21:07.942Z",
+    "plainTextLength": 7870
+  }
+}

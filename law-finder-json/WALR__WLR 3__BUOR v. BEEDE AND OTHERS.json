@@ -1,0 +1,71 @@
+{
+  "caseTitle": "BUOR VERSUS BEEDE",
+  "summary": "In Buor v. Beede and Others, the plaintiff sought to redeem a plot of stool land pledged by his predecessor to the first defendant. The key issue was whether the original transaction was a pledge or an outright sale, and whether alienation of a determinable estate in stool land to a stranger without stool consent rendered the transaction void ab initio or merely voidable. The High Court, per Ollennu J., held that the transaction was a pledge, not a sale, based on witness testimony and customary law. Even if it had been a sale, such alienation without consent would be voidable at the suit of the stool, not void from inception. The court rejected estoppel by acquiescence, finding the stool unaware of any infringement of its rights despite 30 years of occupation, and no evidence of improvements by the defendants. The appeal was dismissed, upholding the Native Court’s decision in favor of the plaintiff.",
+  "legalKeywords": [
+    "stool land",
+    "determinable estate",
+    "alienation",
+    "consent of stool",
+    "voidable transaction",
+    "estoppel by acquiescence",
+    "pledge",
+    "customary law",
+    "reversionary rights",
+    "assignability of pledge",
+    "family land",
+    "native court",
+    "redemption of land",
+    "usufructuary rights",
+    "equitable estoppel",
+    "title to land",
+    "improvement of land",
+    "burden of proof",
+    "contemporaneous document",
+    "rebuttable evidence"
+  ],
+  "topics": [
+    "Customary Land Law",
+    "Pledge and Security Interests",
+    "Estoppel in Land Transactions",
+    "Alienation of Stool Land",
+    "Judicial Review of Native Court Decisions"
+  ],
+  "verdict": "The appeal was dismissed; the decision of the Native Court in favor of the plaintiff was upheld.",
+  "winningSide": "plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "Land dispute involving customary tenure and pledge",
+  "citations": [
+    "Bayaidee v. Mensah (1878) F.C.L. 171",
+    "Essien v. Duncan (1956) 2 W.A.L.R. 155",
+    "Ommen v. Adjei and Another (1956) 2 W.A.L.R. 275",
+    "Halsbury, Simonds ed., Vol. 14, p. 640, para. 1180",
+    "Danquah, Akan Laws and Customs, p. 206"
+  ],
+  "rationaleHighlights": [
+    "The original transaction was determined to be a pledge, not a sale, based on credible witness testimony and conduct of the parties.",
+    "Alienation of a determinable estate in stool land to a stranger without stool consent is voidable, not void ab initio.",
+    "Estoppel by acquiescence does not arise where the stool lacked knowledge of the alienation.",
+    "A pledge carries the right to possession and is assignable, but cannot convey a greater interest than held.",
+    "A contemporaneous document describing a sale is rebuttable evidence and not conclusive.",
+    "No estoppel arose due to absence of improvements or detrimental reliance by the defendants.",
+    "The burden of proving a sale rested on the defendants, which they failed to meet.",
+    "Customary law principles were applied analogously to family land alienation cases."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and citation of authority. Truncation occurs at end of original text but does not affect core holdings.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/BUOR v. BEEDE AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:09:36.820Z",
+    "plainTextLength": 15204
+  }
+}

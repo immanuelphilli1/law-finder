@@ -1,0 +1,71 @@
+{
+  "caseTitle": "SPEEDLINE STEVEDORING CO. LTD. v. GABRIEL DANIEL",
+  "summary": "This Court of Appeal decision in Speedline Stevedoring Co. Ltd. v. Gabriel Daniel (2004) addressed whether a company could sue former court-appointed receivers and managers for misappropriation of funds after their stewardship ended. The appellant, Gabriel Daniel, argued that under section 239 of the Companies Code, 1963 (Act 179), the plaintiff lacked capacity to sue as receivers were officers of the court, not the company. The Court dismissed the appeal, holding that while receivers act as officers of the court during their appointment and are accountable to it, this does not immunize them from tortious liability for misconduct such as conversion of company assets. The claim was not for breach of fiduciary duty as agents of the company but for independent tortious acts occurring during their management, which the company could pursue post-receivership. The Court affirmed that the constitutional rights of shareholders to seek redress for loss of corporate assets remain intact despite the temporary court control.",
+  "legalKeywords": [
+    "receivers and managers",
+    "section 239 Companies Code",
+    "court officers",
+    "tortious liability",
+    "conversion",
+    "corporate capacity to sue",
+    "judicial control",
+    "misappropriation of funds",
+    "shareholder rights",
+    "post-receivership liability",
+    "court appointment",
+    "agency relationship",
+    "directors' authority",
+    "injunction",
+    "certiorari"
+  ],
+  "topics": [
+    "Corporate Law",
+    "Insolvency",
+    "Judicial Remedies",
+    "Appellate Jurisdiction",
+    "Tort Law"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Plaintiff/Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "B. T. Aryeetey",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "E. K. Piesare",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Asare-Korang",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "SPEEDLINE STEVEDORING CO. LTD. v. GABRIEL DANIEL [30/01/2004] CA 20/2003",
+    "L.P. Arthur (Insurance Ltd.) v. Sisson and Others [1966] 2 All E. R. 1003"
+  ],
+  "rationaleHighlights": [
+    "Receivers appointed by court are officers of the court and act under its direction per section 239 of Act 179",
+    "Appointment as receiver does not extinguish the company's separate legal personality",
+    "Post-receivership, company can sue for torts like conversion independent of court accountability",
+    "Section 239 does not grant immunity from civil liability for misappropriation",
+    "Shareholders retain constitutional right to pursue recovery of corporate assets",
+    "Action was not for breach of fiduciary duty but for tortious conversion of funds",
+    "Certiorari by Supreme Court had already invalidated ultra vires court orders appointing directors"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official court transcript. All legal principles and citations are explicitly stated in the judgment. Some procedural details (e.g., full names of all judges) are confirmed in the document header and signature block.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/SPEEDLINE STEVEDORING CO. LTD. v. GABRIEL DANIEL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:02:56.859Z",
+    "plainTextLength": 11517
+  },
+  "trialDate": "2004-01-30"
+}

@@ -1,0 +1,67 @@
+{
+  "caseTitle": "REX V WUSENI",
+  "summary": "The appellant, Wuseni, was convicted of murder in the Circuit Court of the Protectorate of Sierra Leone before a judge and two assessors under Section 43 of the Protectorate Courts Jurisdiction Ordinance, 1932. On appeal, the main legal issue concerned the trial judge's failure to direct the assessors that the prosecution must prove guilt beyond reasonable doubt. The West Africa Court of Appeal held that such a direction was immaterial because, under Section 43(3), the decision rests exclusively with the judge, who is presumed to know the legal standard. The court distinguished Rex v. Annan, where the trial judge appeared to rely on improperly guided assessors. Here, no such reliance was evident, and the conviction was upheld.",
+  "legalKeywords": [
+    "trial with assessors",
+    "reasonable doubt",
+    "misdirection",
+    "criminal conviction",
+    "burden of proof",
+    "appellate review",
+    "Section 43",
+    "Protectorate Courts Jurisdiction Ordinance",
+    "judicial discretion",
+    "tribunal of fact"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Burden of Proof",
+    "Trial by Assessors",
+    "Judicial Misdirection"
+  ],
+  "verdict": "Conviction for murder upheld.",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Lane",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Sierra Leone"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Lawrence v. The King, Law Reports A.C. 1933, p. 699",
+    "Rex v. Annan (Gold Coast F.C. 1926-29)"
+  ],
+  "rationaleHighlights": [
+    "Trial by judge with assessors differs fundamentally from jury trial.",
+    "Section 43(3) vests decision-making exclusively in the judge.",
+    "Absence of direction on reasonable doubt to assessors is immaterial where judge is aware of legal standard.",
+    "Distinction drawn from Rex v. Annan based on judge's reliance on assessor opinions.",
+    "Principle from Lawrence v. The King applies to tribunals of fact, but assessors do not decide in this context.",
+    "No evidence that omission affected the outcome of the case.",
+    "Appeal court will not interfere where judge's decision is independent.",
+    "Conviction upheld due to judicial independence in decision-making."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment and citation context is clear.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/REX V   WUSENI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:43:21.738Z",
+    "plainTextLength": 4218
+  },
+  "trialDate": "1939-03-13"
+}

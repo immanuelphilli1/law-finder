@@ -1,0 +1,74 @@
+{
+  "caseTitle": "ESHUN v. OKO QUARTEY & NII AYITTEY AGBOFU II",
+  "summary": "This Court of Appeal case from Ghana involves a land dispute between John Eshun (plaintiff/respondent) and Oko Quartey and Nii Ayittey Agbofu II (defendants/appellants). The plaintiff claimed ejectment and damages for trespass over a plot allegedly licensed to him by the Ghana Railway Corporation. The defendants asserted customary ownership through a 24-year uninterrupted possession and a grant from the Ashong Kwaku family. The Court of Appeal found that the plaintiff failed to prove his licence predated the litigation, with key documents produced post-litigation. It held that as an exclusive licensee, the plaintiff lacked locus standi to sue in his own name, citing Heap v. Hartley. The trial court erred in placing the burden on the defendant to join the Railway Corporation and in failing to properly assess conflicting oral evidence. The appeal was allowed, the judgment set aside, and the plaintiff's claim dismissed due to lack of standing and insufficient evidence.",
+  "legalKeywords": [
+    "land dispute",
+    "ejectment",
+    "trespass",
+    "customary law",
+    "allodial title",
+    "licence",
+    "locus standi",
+    "evidence",
+    "constitutional law",
+    "possession",
+    "grant",
+    "counterclaim",
+    "procedural fairness",
+    "judicial reasoning",
+    "property rights",
+    "Railway Corporation",
+    "traditional ownership",
+    "statutory declaration",
+    "Conveyancing Decree",
+    "oath against oath"
+  ],
+  "topics": [
+    "Property Law",
+    "Land Tenure",
+    "Customary Law",
+    "Appellate Review",
+    "Locus Standi"
+  ],
+  "verdict": "Appeal allowed; trial court judgment set aside; plaintiff's claim dismissed.",
+  "winningSide": "Defendants/Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lartey",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Aryeetey",
+      "role": "Judging Judge"
+    },
+    {
+      "name": "Piesare",
+      "role": "Judging Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "JOHN ESHUN v. OKO QUARTEY & NII AYITTEY AGBOFU II [3/4/2003] CA 35/2001",
+    "Heap v. Hartley, 42 C.D. 461, C.A."
+  ],
+  "rationaleHighlights": [
+    "Plaintiff's licence post-dated the writ and lacked evidential value",
+    "Defendant's long possession unchallenged for 24 years",
+    "Plaintiff failed to prove prior written or oral permission from Railway Corporation",
+    "Exclusive licensee lacks locus standi to sue in own name",
+    "Trial court misdirected on burden of joining third party"
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment with clear textual support.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/JOHN ESHUN v. OKO QUARTEY & NII AYITTEY AGBOFU II.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:25:55.374Z",
+    "plainTextLength": 22367
+  },
+  "trialDate": "2003-04-03"
+}

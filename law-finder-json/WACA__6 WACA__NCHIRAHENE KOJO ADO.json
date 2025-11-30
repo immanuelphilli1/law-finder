@@ -1,0 +1,71 @@
+{
+  "caseTitle": "Kodwo Nkoom v. Kwamin Etsiaku",
+  "summary": "This 1940 West African Court of Appeal decision in Kumasi involved a claim by Nchirahene Kojo Ado, the plaintiff-respondent, to assert ultimate ownership of land occupied for 200 years by Buoyemhene Kojo Wusu, the defendant-appellant. The court reaffirmed the test from Kodwo Nkoom v. Kwamin Etsiaku (1922) F.C. 22, holding that expenditure on land improvements or litigation does not estop the true owner from asserting title unless such expenses were incurred under a genuine belief of ownership. The court found insufficient evidence that the defendant believed he was the owner or that his expenditures—such as building a motor road or litigating—were made on that basis. Native customary law was clear that ultimate ownership remained with the original owner, and the defendant could not rely on equitable estoppel under English law to defeat that right. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "ownership claim",
+    "equitable estoppel",
+    "native customary law",
+    "land improvement",
+    "litigation expenses",
+    "burden of proof",
+    "200 years occupation",
+    "right of ownership",
+    "customary land tenure",
+    "West African Court of Appeal",
+    "Kodwo Nkoom v Kwamin Etsiaku",
+    "Chief Commissioner's Court",
+    "belief in ownership",
+    "costs award",
+    "jurisdictional remittal"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Estoppel",
+    "Appellate Procedure",
+    "Legal Costs"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Plaintiff-Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petriddes",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Bannerman",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Kodwo Nkoom v. Kwamin Etsiaku (1922) F.C. 22"
+  ],
+  "rationaleHighlights": [
+    "Expenditure on land does not create estoppel without belief in ownership",
+    "Native custom preserves ultimate ownership with original owner",
+    "Defendant's road construction served occupiers' interests, not ownership claim",
+    "Litigation expenses not tied to defense of title in disputed land",
+    "English estoppel doctrine not applicable to override native ownership principles",
+    "Burden of proving estoppel not met by defendant",
+    "Customary knowledge of ownership limits belief inference",
+    "Assistant Chief Commissioner's factual findings upheld on appeal"
+  ],
+  "confidenceNotes": "High confidence; source is a formal appellate judgment with clear reasoning, citation to precedent, and detailed factual and legal analysis. Jurisdiction and parties are explicitly identified.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/NCHIRAHENE KOJO ADO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:01:51.738Z",
+    "plainTextLength": 6368
+  },
+  "trialDate": "1940-02-24"
+}

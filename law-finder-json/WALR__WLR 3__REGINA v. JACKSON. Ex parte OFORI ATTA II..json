@@ -1,0 +1,77 @@
+{
+  "caseTitle": "REGINA VERSUS JACKSON.",
+  "summary": "This 1958 Court of Appeal decision in Ghana addressed an application by the Okyenhene of Akyem Abuakwa for a writ of prohibition to halt proceedings by a Stool Boundaries Settlement Commissioner. The core issue was a breach of natural justice, specifically the audi alteram partem rule, as the Commissioner refused counsel's request to cross-examine the principal witness, Nene Mate Kole of Manya Krobo, on historical diaries and records used in the inquiry. Additionally, the Commissioner was accused of pre-judging issues in the Manya Krobo boundary inquiry based on findings from the Akwamu inquiry, where Akyem Abuakwa was not a party. The Court found that denying cross-examination and prior hearing constituted a serious departure from natural justice, warranting the grant of a writ of prohibition to prevent further unjust proceedings.",
+  "legalKeywords": [
+    "prohibition",
+    "natural justice",
+    "audi alteram partem",
+    "cross-examination",
+    "quasi-judicial",
+    "excess of jurisdiction",
+    "jurisdiction",
+    "remedy",
+    "tribunal",
+    "due process",
+    "judicial review",
+    "writ",
+    "evidence",
+    "fair hearing",
+    "prejudgment",
+    "procedural fairness",
+    "administrative law",
+    "Ghanaian jurisprudence",
+    "Stool Boundaries Settlement Ordinance",
+    "High Court"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Constitutional Law",
+    "Procedural Fairness",
+    "Judicial Review",
+    "Land and Boundary Disputes"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Okyenhene of Akyem Abuakwa (appellant)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Korsah C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Granville Sharp J.A.",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Ollennu J",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Administrative and Constitutional Law",
+  "citations": [
+    "R. v. Wandsworth Justices, ex p. Read [1924] 1 K.B. 281",
+    "R. v. North, ex p. Oakey [1927] 1 K.B. 491",
+    "Halsbury's Laws of England (3rd ed.), Vol. 11, p. 64"
+  ],
+  "rationaleHighlights": [
+    "Denial of cross-examination violates natural justice",
+    "Tribunal must allow parties to be heard before deciding issues",
+    "Use of evidence from one inquiry to prejudge another is improper",
+    "Pre-judgment on contested land without hearing all parties is a jurisdictional flaw",
+    "Rules of natural justice apply to quasi-judicial bodies",
+    "Prohibition is an appropriate remedy for breach of fair hearing",
+    "Affidavit evidence is admissible in prohibition applications",
+    "Failure to serve notice on a contiguous party undermines procedural fairness"
+  ],
+  "confidenceNotes": "The decision is clearly reported with direct quotes from the judgment and cited authorities, indicating high factual reliability. All key elements—parties, issues, reasoning, and outcome—are explicitly stated in the source.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/REGINA v. JACKSON. Ex parte OFORI ATTA II..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:53:22.404Z",
+    "plainTextLength": 8972
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "caseTitle": "PEARSON EDUCATION LIMITED - - - DEFANDENT VRS MORGAN ADZEI - - -",
+  "summary": "This 2011 Supreme Court of Ghana decision in Pearson Education Limited v. Morgan Adzei centered on a chieftaincy dispute over the rightful occupant of the Akona stool in Takoradi. The appellant, claiming through the Amoa Ekua royal line, initiated proceedings before the Ahanta Traditional Council seeking to nullify the respondent's nomination and installation. The Council initially ruled in favor of the appellant, declaring it was the turn of the Adwoa Amoanu line to succeed. However, on appeal, the Western Region House of Chiefs reversed this decision, which was later affirmed by the National House of Chiefs. The Supreme Court ultimately upheld the reversal, holding that the 1963 judgment in A.E. Quayson v. Kobina Benuyie had already conclusively determined the succession rights to the stool, involving privies of the current parties. The Court found the Ahanta Traditional Council's 2004 decision to be perverse and unreasonable as it contradicted the earlier binding judgment. The doctrine of res judicata and estoppel by judgment barred the relitigation of the same issue. Additionally, the Court rejected the appellant's argument that the respondent's representation was invalid, affirming the attorney's broad authority to represent both the individual and the stool. The appeal was dismissed, confirming the respondent's valid installation as Osahene Katakyi Busumakura III.",
+  "legalKeywords": [
+    "res judicata",
+    "estoppel by judgment",
+    "chieftaincy dispute",
+    "privies",
+    "succession rights",
+    "customary law",
+    "tribunal jurisdiction",
+    "perverse decision",
+    "representative capacity",
+    "stool ownership",
+    "procedural fairness",
+    "binding precedent",
+    "judicial review",
+    "legal representation",
+    "customary succession"
+  ],
+  "topics": [
+    "Chieftaincy Law",
+    "Res Judicata",
+    "Supreme Court Jurisprudence",
+    "Customary Succession",
+    "Legal Estoppel"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Date-Bah JSC",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Dotse JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin-Yeboah JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Aryeetey JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs) JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadegbe JSC",
+      "role": "Delivered Judgment"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "A.E. Quayson and Another v Kobina Benuyie (1963)",
+    "In Re Mensah and Sey v Intercontinental Bank (Ghana) Limited (Decd) [2010] SCGLR 118"
+  ],
+  "rationaleHighlights": [
+    "The 1963 judgment conclusively determined the succession rights to the Akona stool between the families involved.",
+    "The doctrine of res judicata barred the relitigation of the same cause of action involving privies.",
+    "The Ahanta Traditional Council's 2004 decision was perverse as it contradicted the binding 1963 judgment.",
+    "Estoppel by judgment applied because no evidence was presented to overturn the prior decision.",
+    "The power of attorney granted to the respondent's representative was valid and covered both personal and stool interests.",
+    "The Supreme Court upheld the National House of Chiefs' affirmation of the Western Region House of Chiefs' reversal.",
+    "No reasonable tribunal could have reached a different conclusion given the precedent.",
+    "The respondent's installation was confirmed as lawful and valid."
+  ],
+  "confidenceNotes": "The summary is based on a detailed judicial opinion with clear citation to precedent and procedural history. The key legal doctrines are explicitly applied by the court, and the judges' roles are clearly stated in the document. The case is a reported Supreme Court decision, ensuring high factual reliability.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/PEARSON EDUCATION LIMITED  VRS  MORGAN ADZEI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:59:41.012Z",
+    "plainTextLength": 19369
+  },
+  "trialDate": "2009-07-29"
+}

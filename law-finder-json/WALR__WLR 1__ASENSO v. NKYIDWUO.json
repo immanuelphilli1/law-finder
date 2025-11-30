@@ -1,0 +1,70 @@
+{
+  "caseTitle": "ASENSO VERSUS NKYIDWUO",
+  "summary": "In Asenso v. Nkyidwuo, the West African Court of Appeal upheld the reallocation of stool land from the defendant to the plaintiff after the defendant, a stranger to the Juaben Stool, refused to enter into a tribute agreement and neglected the land for over ten years. The court found that the defendant's conduct constituted abandonment, justifying forfeiture and re-granting of the land under customary law. It affirmed that Native Courts may admit documentary evidence that materially clarifies disputes, even if inadmissible in higher courts. The appeal was dismissed, affirming the plaintiff's valid customary tenancy.",
+  "legalKeywords": [
+    "customary tenancy",
+    "abandonment",
+    "forfeiture",
+    "native law and custom",
+    "tribute agreement",
+    "stool land",
+    "stranger grantee",
+    "documentary evidence",
+    "Native Courts",
+    "land dispute",
+    "cocoa cultivation",
+    "local government ordinance",
+    "waiver by conduct",
+    "evidence admissibility",
+    "customary procedure"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Evidence"
+  ],
+  "verdict": "Appeal dismissed; original grant to plaintiff upheld",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Korsah J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Ames Ag.J.A.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "(1956) 1 W.A.L.R. 243",
+    "Sarbah, Fanti Customary Law, 1st ed., p. 56",
+    "Amuabimaa and Another v. Badu and Others (1956) 1 W.A.L.R. 227"
+  ],
+  "rationaleHighlights": [
+    "Refusal to enter into tribute agreement + long-term neglect = abandonment",
+    "Stool entitled to reallocate land after abandonment",
+    "No strict rules of evidence in Native Courts",
+    "Abandonment may be inferred from conduct over time",
+    "Documentary evidence admissible if materially relevant",
+    "Customary law must be reasonably applied, not applied sweepingly",
+    "Stranger grantees must comply with lawful stool demands",
+    "Tenure rights not preserved indefinitely without engagement"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct quotes from the judgment and clear procedural history. Citation of Sarbah and editorial note support legal reasoning.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/ASENSO v. NKYIDWUO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:13:44.740Z",
+    "plainTextLength": 10607
+  }
+}

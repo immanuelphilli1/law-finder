@@ -1,0 +1,73 @@
+{
+  "caseTitle": "JOSEPH NKRUMAH v. AKUA YEBOAH",
+  "summary": "This Court of Appeal decision from Ghana, delivered on 28th May 2004, concerns a land dispute between Joseph Nkrumah (plaintiff/respondent) and Akua Yeboah (defendant/appellant) over customary land in Sayerano, Sefwi. The plaintiff claimed title as the customary successor to his uncle, with the land included in a 1995 family property inventory (Exhibit 'B'). The defendant contested this, asserting her father independently owned the land and was not part of the plaintiff’s family, thus rejecting claims of inheritance. Two customary arbitrations before the Sayerano chief and elders ruled in favor of the plaintiff, with the second award being deemed valid and binding by the trial judge. The Circuit Court granted the plaintiff all reliefs, including a declaration of title and GH¢1 million in trespass damages. The defendant appealed, arguing the trial judge failed to assess the legal effect of customary arbitration, distinguish enforcement from resubmission, and differentiate arbitration from adjudication. The Court of Appeal upheld the trial court’s findings, affirming that a valid customary arbitration award has res judicata effect and is binding, dismissing the appeal due to lack of merit and procedural deficiencies in the grounds raised.",
+  "legalKeywords": [
+    "customary arbitration",
+    "res judicata",
+    "declaration of title",
+    "land dispute",
+    "succession",
+    "estoppel",
+    "trespass damages",
+    "Omanhene jurisdiction",
+    "traditional court",
+    "binding award",
+    "customary law",
+    "family property",
+    "intervivos gift",
+    "Abusa tenancy",
+    "jurisdictional challenge"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Arbitration",
+    "Succession",
+    "Appellate Procedure"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Plaintiff/Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Aninakwah",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Aryeetey",
+      "role": "Presiding"
+    },
+    {
+      "name": "Quaye",
+      "role": "Panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Suka v. Glavee (1991) 1 GLR 194",
+    "Zabrama v. Segbedzi (1991) 2 GLR 221",
+    "Essilfie v. Anafo VI (1993/4) 2 GLR 6"
+  ],
+  "rationaleHighlights": [
+    "A valid customary arbitration award is binding and operates as res judicata, equivalent to a court judgment.",
+    "Parties who voluntarily submit to customary arbitration are estopped from relitigating the same issue.",
+    "The trial judge properly evaluated the merits, including familial relationships and land status.",
+    "No legal distinction exists between 'enforcement' of an award and resubmission to traditional authority in this context.",
+    "The appellant’s grounds failed to meet procedural requirements under Court of Appeal rules.",
+    "The trial court correctly confirmed the arbitration award and granted reliefs accordingly.",
+    "Defendant’s appeal to the Omanhene did not nullify the binding effect of the initial arbitration.",
+    "Customary law issues regarding inheritance were raised but not sufficiently canvassed for determination."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judgment text. Some portions were truncated, but key legal reasoning and outcome are fully captured. Jurisdictional and procedural details align with Ghanaian legal practice.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/JOSEPH NKRUMAH v. AKUA YEBOAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:25:00.581Z",
+    "plainTextLength": 20327
+  },
+  "trialDate": "2004-05-28"
+}

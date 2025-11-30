@@ -1,0 +1,102 @@
+{
+  "caseTitle": "CENTRE FOR PUBLIC INTEREST LAW VRS THE ATTORNEY - GENERAL",
+  "summary": "The Centre for Public Interest Law sued the Attorney-General, challenging the constitutionality of the Master Facility Agreement between Ghana and the China Development Bank. The plaintiff sought declarations that the President breached constitutional obligations under Articles 40(a), 57(3), 58(1)-(4), 73, and 108, as well as Section 18(7) of the Petroleum Revenue Management Act, 2011 (Act 815), by submitting the agreement to Parliament without compliance. It was alleged that the agreement's requirement to use 60% of funds for Chinese contractors was discriminatory and prejudicial to Ghana’s economy, and that charging oil revenues for 15 years violated Act 815. The Supreme Court held that the agreement fell within international affairs under Article 73, and the 60% provision did not exclusively disadvantage Ghana, as it applied to contractors, not citizens, and did not preclude local participation. The Court found the action partly premature but admissible under the quia timet principle. It upheld the constitutionality of the loan, noting executive discretion in international agreements and the separation of powers. Claims relating to presidential removal were struck out as mischievous, and the judiciary affirmed its power to review executive actions within constitutional limits.",
+  "legalKeywords": [
+    "constitutional review",
+    "executive power",
+    "international agreement",
+    "separation of powers",
+    "judicial review",
+    "quia timet",
+    "treaty ratification",
+    "public interest litigation",
+    "loan agreement",
+    "administrative discretion",
+    "national interest",
+    "discriminatory clause",
+    "Petroleum Revenue Management Act",
+    "Article 73 Constitution",
+    "Article 58(2)"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "International Agreements",
+    "Judicial Review",
+    "Executive Authority",
+    "Public Finance",
+    "Separation of Powers"
+  ],
+  "verdict": "dismissed",
+  "winningSide": "defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Atuguba, Ag. C.J.",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Akuffo (Ms), J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Dr. Date-Bah, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Adinyira (Mrs), J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin-Yeboah, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebe, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs.) J.S.C.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Petition",
+  "citations": [
+    "Chokolingo v. Attorney-General of Trinidad and Tobago (1981) 1 All ER 244",
+    "Kwakye v. Attorney-General (1981) GLR 944",
+    "New Patriotic Party v. National Democratic Congress and Others (2000) SCGLR 461",
+    "Canada (Minister of Justice) v. Burns (2001) 5 LRC 19",
+    "Ghana Bar Association v. Attorney-General (Abban Case) (2003-2004) 1 SCGLR 250",
+    "Okudjeto Ablakwa v. Attorney-General & Obetsebi-Lamptey (2011) SCGLR 986"
+  ],
+  "rationaleHighlights": [
+    "The Master Facility Agreement falls under international affairs per Article 73 of the 1992 Constitution.",
+    "The 60% clause benefits Chinese contractors, not exclusively citizens, and does not preclude Ghanaian participation.",
+    "The quia timet principle allows courts to hear cases on imminent constitutional breaches.",
+    "Judicial review of executive action is permissible within constitutional limits.",
+    "Claims tied to presidential removal are mischievous and require the special procedure under Article 69.",
+    "The loan agreement is constitutionally sustainable given national development needs and global economic realities.",
+    "The separation of powers limits judicial interference in executive discretion on international financing.",
+    "No violation of Section 18(7) of Act 815 was found, as oil proceeds were not charged under the agreement."
+  ],
+  "confidenceNotes": "High confidence; all information derived directly from the judgment text, with clear attribution of reasoning and legal principles. Some peripheral details may be truncated due to document incompleteness, but core holdings and reasoning are intact.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/CENTRE FOR PUBLIC INTEREST LAW  VRS THE ATTORNEY - GENERAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:37:17.599Z",
+    "plainTextLength": 22566
+  },
+  "trialDate": "2012-10-17"
+}

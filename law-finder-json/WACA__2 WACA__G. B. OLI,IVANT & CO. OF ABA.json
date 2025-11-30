@@ -1,0 +1,76 @@
+{
+  "caseTitle": "G. B. OLI,IVANT & CO. OF ABA",
+  "summary": "This 1934 West African Court of Appeal decision involved a claim by G. B. Ollivant & Co. against Effioms Transport and E. M. Effiom for ₤205 14s. 10d. under a hire-purchase agreement, or alternatively based on an acknowledged account. The appellants argued that a novation had occurred, substituting the original debtor (Effioms Transport) with a newly incorporated entity, Effioms Transport and Engineering Co., Ltd., with the consent of all parties. The appellate court found that the plaintiffs' conduct—amending their books, accepting payments, and rendering accounts to the new company—demonstrated clear assent to the novation. As novation is a complete defense, the trial court’s judgment in favor of the plaintiffs was overturned. The appeal was allowed, and judgment entered for the defendants with costs.",
+  "legalKeywords": [
+    "novation",
+    "hire-purchase agreement",
+    "privity of contract",
+    "account stated",
+    "clerical error",
+    "consent to contract variation",
+    "corporate incorporation",
+    "successor liability",
+    "debt acknowledgment",
+    "alternative claims",
+    "appellate review",
+    "evidence inference",
+    "judicial reasoning",
+    "contract substitution",
+    "creditor conduct"
+  ],
+  "topics": [
+    "Contract Law",
+    "Debt Recovery",
+    "Corporate Law"
+  ],
+  "verdict": "The appeal was allowed. The original judgment in favor of the plaintiffs was set aside, and judgment was entered for the defendants (appellants) with costs in both the appellate and lower courts.",
+  "winningSide": "Defendants - Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Deane, C.J., Gold Coast",
+      "role": "Concurring Judge"
+    },
+    {
+      "name": "Webber, C.J., Sierra Leone",
+      "role": "Concurring Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "West Africa"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Exhibit C",
+    "Exhibit D2",
+    "Exhibit D3",
+    "Exhibit E",
+    "Exhibit F",
+    "Exhibit G",
+    "Exhibit H",
+    "Exhibit K"
+  ],
+  "rationaleHighlights": [
+    "Novation requires consent of all parties and, if proven, is a complete defense.",
+    "The plaintiffs' actions—updating their records to include 'and Co.', accepting payments from the new company, and issuing statements to it—demonstrated implied consent to the novation.",
+    "The new company acknowledged the debt, made payments, and accepted statements, confirming its assent.",
+    "Documentary evidence outweighed the lack of formal pleadings or trial-level reasoning.",
+    "A clerical error in the writ (naming 'G. B. Ollivant & Co.' instead of 'Ltd.') was corrected and did not affect standing.",
+    "The appellate court was in as good a position as the trial judge to infer consent from documentary conduct.",
+    "The origin of the debt in the hire-purchase agreement did not preclude its valid transfer via novation.",
+    "The trial judge’s failure to provide reasoning necessitated a de novo evaluation of the evidence by the appellate court."
+  ],
+  "confidenceNotes": "The summary and classification are based on a detailed analysis of the provided judgment text. The presence of clear documentary exhibits and explicit judicial reasoning supports high confidence in the accuracy of the extracted information. The jurisdiction and court structure reflect the historical West African Court of Appeal system active in 1934.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/G. B. OLI,IVANT & CO. OF ABA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:29:45.147Z",
+    "plainTextLength": 10378
+  },
+  "trialDate": "1934-08-24"
+}

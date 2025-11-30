@@ -1,0 +1,87 @@
+{
+  "caseTitle": "NANA AMUA GYEBU XV VRS MONDIAL VENEER (GH) LTD CIVIL APPEAL",
+  "summary": "This is a civil land dispute before the Supreme Court of Ghana concerning the alleged encroachment by Mondial Veneer (Gh) Ltd on 29 acres of stool land beyond a 61-acre parcel originally leased in 1993. After the enstoolment of Nana Amua Gyebu XV in 2001, he discovered the defendant's expansion and initiated proceedings seeking declaration of title, recovery of possession, damages for trespass, and a perpetual injunction. The trial court ruled in favor of the plaintiff, a decision largely upheld by the Court of Appeal, which only reduced the awarded damages and costs. The Supreme Court dismissed the appellant's appeal, affirming that the appellant failed to meet the burden of proof under the Evidence Act (N.R.C.D 323) to establish a valid purchase of the additional land. Key deficiencies included reliance on a self-serving statutory declaration, failure to produce primary witnesses such as J.B. Eshun (who collected payment), and inconsistencies in the documentary evidence. The Court emphasized that concurrent findings of fact by two lower courts are not lightly disturbed and found no miscarriage of justice. The rectification of damages by the appellate court was deemed lawful and reasonable.",
+  "legalKeywords": [
+    "burden of proof",
+    "concurrent findings of fact",
+    "documentary evidence",
+    "evidence act",
+    "land dispute",
+    "statutory declaration",
+    "stool land",
+    "trespass",
+    "second appellate court",
+    "rectification of judgment",
+    "perpetual injunction",
+    "general damages",
+    "special damages",
+    "recovery of possession",
+    "declaration of title"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Customary Law",
+    "Tort Law"
+  ],
+  "verdict": "The appeal was dismissed. The judgment of the Court of Appeal, which affirmed the trial court's decision in favor of the respondent with reduced damages and costs, was upheld.",
+  "winningSide": "Nana Amua Gyebu XV (Respondent)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Wood (Mrs).",
+      "role": "Chief Justice (Presiding)"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Dotse",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Yeboah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Aryeetey",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Achoro v Akanfela [1996-97] SCGLR 209",
+    "Koglex Ltd (No. 2) v Field [2000] SCGLR 175",
+    "Ntiri v Essien [2001-2002] SCGLR 459",
+    "Sarkodie v F K A Co Ltd [2009] SCGLR 79",
+    "Jass Co Ltd v Appau [2009] SCGLR 266",
+    "Awuku-Sao v Ghana Supply Co Ltd [2009] SCGLR 713",
+    "Thakur Harihar Buksh v Thakur Umon Parshad (1886) LR 141A7",
+    "Allen v Quebec Warehouse Co (1886) 12 App Cas 101",
+    "Robins v National Trust Co [1927] AC 515",
+    "Duah v. Yorkwa [1993-94] 1 G.L.R 217"
+  ],
+  "rationaleHighlights": [
+    "The appellant failed to discharge the burden of proof regarding the alleged purchase of additional 29 acres.",
+    "The Court of Appeal correctly scrutinized the appellant's self-serving statutory declaration with suspicion.",
+    "Failure to call material witnesses like J.B. Eshun, despite knowing he was dead, raised adverse inferences.",
+    "The statutory declaration contradicted trial evidence by referring to a single 90-acre grant instead of two separate grants.",
+    "Concurrent findings of lower courts can only be overturned if there is a clear error or miscarriage of justice.",
+    "The Supreme Court upheld the lower courts' findings due to lack of credible evidence supporting the appellant's claim.",
+    "Rectification of damages by the Court of Appeal was within its jurisdiction and based on reasonableness.",
+    "The trial judge’s rejection of secondary evidence in favor of primary evidence was legally sound."
+  ],
+  "confidenceNotes": "The summary is based on a detailed judgment from the Supreme Court of Ghana with clear factual and legal reasoning. All key elements including parties, issues, evidence, and legal principles are explicitly stated in the source text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/NANA AMUA GYEBU XV  VRS MONDIAL VENEER (GH) LTD CIVIL APPEAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:45:05.921Z",
+    "plainTextLength": 22323
+  }
+}

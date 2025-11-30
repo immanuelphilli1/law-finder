@@ -1,0 +1,97 @@
+{
+  "caseTitle": "MADAM AKOSUA DUFIE & OR v MADAM AMMA FOSUA & OR",
+  "summary": "This Supreme Court of Ghana decision in Civil Appeal No. J4/25/2006, delivered on 27th July 2009, concerned an estate dispute over ownership of a house and two cocoa farms between family members. The plaintiffs claimed the properties were family assets, while the defendants asserted they were self-acquired by their late father/husband. The High Court and Court of Appeal ruled in favor of the plaintiffs, relying heavily on oral testimony from key witnesses (PW1 and PW5). However, the Supreme Court overturned this, emphasizing that concurrent findings of fact cannot be reversed lightly unless strong legal or factual reasons exist—which were present here. The Court found that documentary evidence (Exhibits 2 and 4), including a 1958 development permit application and payment receipts, strongly contradicted the plaintiff's claim that the house was completed in 1955. Given colonial building regulations requiring permits, construction before 1958 was implausible. The Court also noted inconsistencies in witness testimony, particularly regarding who managed the store and farm, and whether family members contributed to cultivation. It held that documentary evidence should prevail over oral accounts under established precedent, and that the plaintiff’s later connection of utilities to the house did not confer co-ownership but at most a claim for restitution. The cocoa farms were determined to be self-acquired, as cultivation began before the plaintiff left for Britain and was primarily managed by the defendant's late father with minimal family involvement. The Supreme Court thus allowed the appeal, finding the lower courts erred in failing to critically assess these contradictions.",
+  "legalKeywords": [
+    "concurrent findings of fact",
+    "documentary evidence",
+    "oral evidence",
+    "estate dispute",
+    "property ownership",
+    "development permit",
+    "cocoa farms",
+    "family property",
+    "self-acquired property",
+    "restitution in equity",
+    "building regulations",
+    "allocation note",
+    "exhibits",
+    "credibility of witnesses",
+    "faulty recollection",
+    "appellate review",
+    "burden of proof",
+    "colonial land administration",
+    "Asantehene's Lands Office",
+    "tenancy",
+    "proceeds of sale",
+    "cultivation",
+    "financial contribution",
+    "house construction",
+    "land acquisition",
+    "evidential weight",
+    "judicial scrutiny",
+    "cross-examination",
+    "ownership claim",
+    "equitable claim"
+  ],
+  "topics": [
+    "Property Law",
+    "Evidence Law",
+    "Appellate Procedure",
+    "Estate Dispute",
+    "Family Property"
+  ],
+  "verdict": "Appeal allowed. Decision of the Court of Appeal and High Court set aside. The disputed house and cocoa farms determined to be self-acquired properties of the defendants' late father, not family property.",
+  "winningSide": "Defendants/Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Wood (Mrs)",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Adinyira (Mrs)",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Dotse",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Atadi v Ladzekpo [1981] GLR 218 CA",
+    "Republic v Nana Akuamoah Boateng II, Ex parte Dansoah (1982-83) 2 GLR 913 S.C.",
+    "Guardian Assurance v Kyat Trading Store (1972) 2 GLR 48 C.A.",
+    "Ahiabley v Dorgah (1984-86) 2 GLR 537 C.A."
+  ],
+  "rationaleHighlights": [
+    "Documentary evidence (Exhibits 2 and 4) showing 1958 development permit applications contradicts plaintiff's claim that house was completed in 1955.",
+    "Appellate court emphasized that documentary evidence should prevail over oral testimony per Atadi v Ladzekpo and Ahiabley v Dorgah.",
+    "Courts below failed to adequately assess credibility of key witnesses (PW1 and PW5), whose testimonies contained inconsistencies.",
+    "No credible evidence that plaintiff financed cocoa farms; cultivation and management were primarily by defendant's late father.",
+    "Connection of utilities by plaintiff’s family does not establish co-ownership but may support restitution claim.",
+    "Long idle period of alleged 1955 house until tenancy began in 1964 undermines plaintiff’s timeline.",
+    "Proceeds from plaintiff’s store allegedly used both for house construction and farm financing, creating contradictory claims.",
+    "Supreme Court found lower courts erred in upholding concurrent findings without addressing material documentary contradictions."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy due to reliance on direct judicial reasoning and cited exhibits; minor uncertainty regarding full context due to document truncation.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/MADAM AKOSUA DUFIE  & OR v    MADAM AMMA FOSUA & OR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:04:55.328Z",
+    "plainTextLength": 84211
+  },
+  "trialDate": "2006-04-25"
+}

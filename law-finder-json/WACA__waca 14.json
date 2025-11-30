@@ -1,0 +1,33 @@
+{
+  "caseTitle": "ABDUL L. JABER v MOHAMED",
+  "summary": "The provided document does not contain a legal decision or case details. It is a table of cases from the West African Court of Appeal (WACA), listing case titles and parties involved, but no substantive legal analysis, facts, or rulings are present. Therefore, no legal insights or verdicts can be extracted.",
+  "legalKeywords": [
+    "West African Court of Appeal",
+    "case list",
+    "Ghana legal database",
+    "table of cases",
+    "legal index"
+  ],
+  "topics": [
+    "Legal Research",
+    "Court Records"
+  ],
+  "verdict": "N/A",
+  "winningSide": "N/A",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Index of Cases",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "Low confidence in extracting case-specific insights due to absence of full case texts; data limited to a list of case titles.",
+  "metadata": {
+    "sourcePath": "WACA/waca 14.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T09:53:37.043Z",
+    "plainTextLength": 2835
+  }
+}

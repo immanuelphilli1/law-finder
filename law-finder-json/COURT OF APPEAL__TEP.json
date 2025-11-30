@@ -1,0 +1,34 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The provided document is not a judicial decision but rather a homepage for 'Ghana Law Finder,' an online legal resource portal. It offers a self-help guide to the law, case and subject matter indexing, and contact information. No actual case details, legal reasoning, or court judgment is present in the text.",
+  "legalKeywords": [
+    "Ghana Law Finder",
+    "legal library",
+    "self-help legal guide",
+    "case index",
+    "legal portal"
+  ],
+  "topics": [
+    "Legal Research",
+    "Online Legal Portal",
+    "Court of Appeal"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "unknown",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The provided document does not contain a legal decision, case details, or judicial content. It appears to be a homepage or portal for a legal resource website (Ghana Law Finder) with no actual court judgment or case information.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/TEP.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:01:14.265Z",
+    "plainTextLength": 287
+  }
+}

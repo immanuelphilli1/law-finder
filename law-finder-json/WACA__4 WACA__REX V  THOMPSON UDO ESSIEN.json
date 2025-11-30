@@ -1,0 +1,68 @@
+{
+  "caseTitle": "REX V THOMPSON UDO ESSIEN",
+  "summary": "In Rex v Thompson Udo Essien (WACA/4, 10th August 1938), the West Africa Court of Appeal allowed an appeal against a murder conviction by the High Court of Calabar-Aba Division. The appellant was convicted of murdering Akpan Akpan Udo Iko and sentenced to death, but the appellate court quashed the conviction and entered a verdict of acquittal. The court found that the prosecution failed to call three key witnesses—survivors of the alleged attack on the appellant—who were essential to evaluating the appellant's claim of self-defense. The Crown had a duty to call these material witnesses, especially since the appellant had named them and taken police to their mother's house. The evidence presented was deemed insufficient to prove guilt beyond reasonable doubt. A 300-yard trail of blood from the appellant's house to the deceased's house supported the appellant's account that he was attacked first and wounded the deceased while defending himself. The trial judge's rejection of this possibility based on unsupported conjecture was criticized, particularly without medical evidence to assess the deceased's capacity to move after injury. The court also noted that all prosecution witnesses were family members of the deceased, whose testimony should have been treated with caution. Given that the appellant's version was consistent and plausible, and aligned with the justification under section 286 of the Criminal Code (self-defense), the court held that he should have been acquitted.",
+  "legalKeywords": [
+    "murder",
+    "self-defense",
+    "insufficient evidence",
+    "duty of Crown to call witnesses",
+    "reasonable doubt",
+    "voluntary report to authorities",
+    "credibility of witnesses",
+    "cross-examination",
+    "judicial conjecture",
+    "trail of blood evidence"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appeal",
+    "Murder",
+    "Self-Defense",
+    "Evidence Law"
+  ],
+  "verdict": "Conviction quashed; acquittal entered.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Thompson Udo Essien, WACA/4, 10th August 1938",
+    "Criminal Code, sec. 319",
+    "Criminal Code, sec. 286"
+  ],
+  "rationaleHighlights": [
+    "Crown failed to call three essential witnesses who were material to the defense's claim of self-defense.",
+    "Evidence showed a 300-yard trail of blood from appellant's house to deceased's house, supporting appellant's version.",
+    "Court criticized judicial conjecture about victim's ability to walk 300 yards without medical evidence.",
+    "Family members of deceased testified for prosecution, raising concerns about bias.",
+    "Appellant consistently maintained self-defense claim to chief, police, and magistrate.",
+    "Inconsistencies in witness testimony not properly weighed, especially given witness's frightened state.",
+    "No blood trail from prosecution's alleged crime scene to collapse site undermines their version.",
+    "Defense entitled to benefit of reasonable doubt where prosecution fails to disprove self-defense."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear references to evidence, legal provisions, and judicial reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX V  THOMPSON UDO ESSIEN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:56:34.814Z",
+    "plainTextLength": 9783
+  },
+  "trialDate": "1938-08-10"
+}

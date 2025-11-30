@@ -1,0 +1,58 @@
+{
+  "caseTitle": "ENNIMAH VERSUS KANGAH.",
+  "summary": "In Ennimah v. Kangah, the plaintiff, a lessor of land, brought an action in a Native Court 'C' against the defendant who claimed a right to tribute from the land and had sworn the 'Ehanu' oath to enforce it. The plaintiff sought damages and required the defendant to show cause for demanding tribute. While the Native Court 'C' declined jurisdiction over the damages claim, it adjudicated on the second claim regarding the oath. On appeal, the Supreme Court of the Gold Coast held that despite the procedural form involving an oath, the real issue was the defendant's claim to tribute based on alleged overlordship over the land—making it a land-related matter. Under the Native Courts (Colony) Ordinance, Native Court 'C' lacked jurisdiction over land cases. Therefore, the court declared the proceedings before the Native Court 'C' and all subsequent appellate proceedings null and void due to lack of jurisdiction.",
+  "legalKeywords": [
+    "jurisdiction",
+    "land dispute",
+    "native courts",
+    "tribute",
+    "oath procedure",
+    "ownership of land",
+    "overlordship",
+    "nullity",
+    "procedural jurisdiction",
+    "true nature of claim"
+  ],
+  "topics": [
+    "jurisdiction",
+    "land law",
+    "native courts",
+    "customary law",
+    "procedural nullity"
+  ],
+  "verdict": "The appeal was allowed in favor of the plaintiff; the proceedings before Native Court 'C' and the Native Appeal Court were declared a nullity due to lack of jurisdiction.",
+  "winningSide": "plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Windsor-Aubrey J.",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Western Judicial Division, Land Court, Sekondi",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Native Courts (Colony) Ordinance, c. 98 of 1951, First Schedule",
+    "Second Schedule to the Native Courts (Colony) Ordinance (c. 98)"
+  ],
+  "rationaleHighlights": [
+    "The true nature of the dispute, not the form of the claim, determines jurisdiction.",
+    "A claim involving tribute based on overlordship over land constitutes a land matter.",
+    "Native Court C lacks jurisdiction over land-related cases under the Ordinance.",
+    "Use of oath procedure does not change the substantive nature of the underlying dispute.",
+    "Proceedings before a court without jurisdiction are a nullity.",
+    "Both claims实质ially related to land and thus outside Native Court C's authority.",
+    "Court must look beyond pleadings to the real issue between parties.",
+    "Claim to a share of proceeds from land implicates ownership or overlordship rights."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment and procedural history is clear.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/ENNIMAH v. KANGAH..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:35:20.454Z",
+    "plainTextLength": 5821
+  }
+}

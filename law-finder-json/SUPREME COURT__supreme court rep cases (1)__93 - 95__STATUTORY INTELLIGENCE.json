@@ -1,0 +1,57 @@
+{
+  "caseTitle": "STATUTORY INTELLIGENCE",
+  "summary": "The provided document is not a judicial decision but a statutory citator listing amendments, repeals, and substitutions to various Ghanaian laws, ordinances, acts, and decrees between 1940 and 1994. It details legislative changes made primarily through subsequent enactments such as PNDCLs, Acts, and LIs, covering areas including pensions, corporations, criminal law, health, elections, and taxation. No case analysis, court reasoning, or judicial verdict is present, as the content serves as a reference tool for tracking statutory developments in Ghanaian law.",
+  "legalKeywords": [
+    "statutory amendment",
+    "repeal",
+    "legislative revision",
+    "Ghanaian law",
+    "PNDCL",
+    "Act",
+    "Decree",
+    "LI",
+    "legal citator",
+    "ordinance",
+    "legislative update",
+    "statutory interpretation",
+    "law reform",
+    "judicial reference",
+    "legal research"
+  ],
+  "topics": [
+    "Statutory Law",
+    "Legislative History",
+    "Legal Research",
+    "Ghana Legal System"
+  ],
+  "verdict": "not applicable",
+  "winningSide": "not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "not applicable",
+    "country": "Ghana"
+  },
+  "caseType": "not applicable",
+  "citations": [
+    "PNDCL 323",
+    "Act 462",
+    "PNDCL 257",
+    "PNDCL 332",
+    "Act 489",
+    "PNDCL 249",
+    "PNDCL 308",
+    "PNDCL 250",
+    "PNDCL 275",
+    "PNDCL 307"
+  ],
+  "rationaleHighlights": [],
+  "confidenceNotes": "High confidence that this is a legislative reference document rather than a court decision. No judicial content found.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/93 - 95/STATUTORY INTELLIGENCE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:11:06.105Z",
+    "plainTextLength": 86845
+  },
+  "trialDate": "1991-01-01"
+}

@@ -1,0 +1,68 @@
+{
+  "caseTitle": "KWESI FAABAN",
+  "summary": "This is a civil appeal before the West Africa Court of Appeal concerning a land boundary dispute between two families in Essikuma Breman, Ghana. The plaintiff, Kwesi Faaban, claimed ownership of land based on an arbitral award by A. F. E. Fieldgate, which awarded him the disputed land marked yellow on Exhibit 'A'. The defendant, A. C. Mansu, appealed the trial court's judgment enforcing the award, arguing that the arbitration was void due to lack of jurisdiction, as the award effectively found that the defendant owned no adjoining land, thus failing to delineate a boundary as required by the submission. The appellate court agreed with the appellant that the trial judge misinterpreted the award—confirming that the arbitrator did find the defendant had no claim to any land in the area. However, the court held that the failure to establish a boundary did not invalidate the arbitration, as the jurisdiction arose from the dispute over land ownership, and the arbitrator properly decided the only issue before him. The court emphasized that allowing a party to nullify arbitration by failing to prove their claim would encourage abuse. Thus, the award was upheld as valid and binding. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "arbitration",
+    "jurisdiction",
+    "boundary dispute",
+    "land ownership",
+    "adjoining lands",
+    "award validity",
+    "res judicata",
+    "submission to arbitration",
+    "land title",
+    "declaration of boundaries",
+    "void for jurisdiction",
+    "equity",
+    "costs",
+    "oral evidence",
+    "plan interpretation"
+  ],
+  "topics": [
+    "Land Law",
+    "Arbitration Law",
+    "Boundary Disputes",
+    "Jurisdiction",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Plaintiff-Respondent (Kwesi Faaban)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WACA/6 WACA/KWESI FAABAN"
+  ],
+  "rationaleHighlights": [
+    "The arbitration remains valid even if the defendant failed to prove ownership of any adjoining land.",
+    "An arbitrator's award is not void for lack of jurisdiction merely because it does not demarcate a boundary when one party's claim is entirely rejected.",
+    "The award must be interpreted in light of the submission and the plan, which contemplated potential boundaries.",
+    "A party cannot render arbitration nugatory by deliberately weakening their own case.",
+    "The trial judge misinterpreted the award, but the appellate court upheld its validity on broader legal grounds."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from the judgment text; all details are explicitly stated or clearly implied in the source document.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/KWESI FAABAN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:03:51.157Z",
+    "plainTextLength": 11036
+  },
+  "trialDate": "1940-06-04"
+}

@@ -1,0 +1,70 @@
+{
+  "caseTitle": "ABRAHAM ESSEL",
+  "summary": "This Privy Council appeal from the Gold Coast Colony concerns a dispute over title to the Agissu lands. The appellant, Abraham Essel, acted as caretaker for Charles Barnes Acquah, who acquired the land in 1881 via a sheriff's sale following a judgment against Abina Owoodoowa, and later devised it to his daughter, Sarah Quagrainie. The respondent, Rebecca Davis, claimed ownership based on a 1893 certificate of purchase allegedly transferring Abina's interest. The Privy Council held that the 1881 title was valid and consistent with Acquah's long-standing possession and successful trespass actions, while the 1893 certificate lacked credibility due to absence of evidence that Abina retained any interest, failure of Davis to testify, and the likelihood that the 1893 transaction was a nominal purchase by Acquah through his niece as nominee. The Council set aside the Supreme Court's judgment in favor of Davis and restored the Provincial Commissioner's dismissal of her claim.",
+  "legalKeywords": [
+    "land title",
+    "certificate of purchase",
+    "conveyance",
+    "estoppel",
+    "tribal land",
+    "caretaker",
+    "trespass",
+    "will",
+    "deed of gift",
+    "execution of decree",
+    "reversion of land",
+    "judicial admission",
+    "nominee",
+    "sheriff's sale",
+    "succession"
+  ],
+  "topics": [
+    "Land Title Dispute",
+    "Succession and Wills",
+    "Conveyancing",
+    "Judicial Precedent",
+    "Colonial Law"
+  ],
+  "verdict": "The appeal was allowed. The judgment of the Supreme Court of the Gold Coast Colony was set aside, and the judgment of the Provincial Commissioner dismissing the respondent's claim was restored.",
+  "winningSide": "Appellant (Abraham Essel, representing the estate of Charles Barnes Acquah and Sarah Quagrainie)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "LORD WARRINGTON OF CLYFFE",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "LORD BLANESBURGH",
+      "role": "panel member"
+    },
+    {
+      "name": "SIR CHARLES SARGANT",
+      "role": "panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Privy Council (on appeal from Gold Coast Colony)",
+    "country": "Ghana"
+  },
+  "caseType": "property dispute",
+  "citations": [
+    "PRIVY COUNCIL APPEAL No. 36 OF 1928",
+    "Supreme Court of the Gold Coast Colony, 9th July 1927"
+  ],
+  "rationaleHighlights": [
+    "Priority of title based on earlier valid transaction (1881) over later disputed certificate (1893)",
+    "No evidence that land reverted to Abina after 1881 sale",
+    "Certificate of 1893 could not validly convey Abina's interest if she had none",
+    "Acquah's possession and litigation history support his ownership",
+    "Failure of respondent to testify weakens her claim",
+    "Counsel's statement in 1911 action not binding on non-client"
+  ],
+  "confidenceNotes": "The document is truncated at the end, but key holdings and facts are preserved. The Privy Council's reasoning is clear despite the truncation.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/ABRAHAM ESSEL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:34:16.164Z",
+    "plainTextLength": 15671
+  },
+  "trialDate": "15TH NOVEMBER, 1929"
+}

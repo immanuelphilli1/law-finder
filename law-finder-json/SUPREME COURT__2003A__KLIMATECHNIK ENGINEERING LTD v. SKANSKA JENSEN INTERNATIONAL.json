@@ -1,0 +1,85 @@
+{
+  "caseTitle": "KLIMATECHNIK ENGINEERING LTD v. SKANSKA JENSEN INTERNATIONAL",
+  "summary": "This Supreme Court of Ghana case, KLIMATECHNIK ENGINEERING LTD v. SKANSKA JENSEN INTERNATIONAL (CIVIL APPEAL NO. 9/2000, 23rd July 2003), arose from a dispute over unpaid HVAC subcontract work at the Golden Tulip Hotel. The plaintiff, a Cypriot engineering firm, performed over 90% of the work based on initialled draft terms and meeting minutes (Exhibit G), but the formal subcontract (Exhibit H) was never executed. The defendant terminated the engagement for failure to provide a performance bond, a clause in the unexecuted draft. The High Court and Court of Appeal found the termination unlawful, as the binding agreement was limited to Exhibit G, which did not require a bond. The courts awarded the plaintiff USD 224,533.29 on a quantum meruit basis for services rendered. The Supreme Court upheld these decisions, rejecting the defendant's counterclaim as unsubstantiated and affirming the validity of a foreign currency award in a restitution claim. The appeal was dismissed, reinforcing that substantial performance entitles a party to reasonable compensation even without a final signed contract.",
+  "legalKeywords": [
+    "contract formation",
+    "quantum meruit",
+    "draft subcontract",
+    "performance bond",
+    "condition precedent",
+    "unlawful termination",
+    "binding agreement",
+    "evidence evaluation",
+    "foreign currency award",
+    "arbitration clause",
+    "jurisdiction",
+    "counterclaim dismissal",
+    "subcontracting",
+    "construction law",
+    "civil engineering contract",
+    "HVAC works",
+    "termination of contract",
+    "breach of contract",
+    "reasonable remuneration",
+    "non-execution of formal contract"
+  ],
+  "topics": [
+    "Contract Law",
+    "Restitution and Unjust Enrichment",
+    "Construction Law",
+    "Appellate Review",
+    "Termination of Contract"
+  ],
+  "verdict": "Appeal dismissed; judgment in favor of the plaintiff upheld.",
+  "winningSide": "KLIMATECHNIK ENGINEERING LTD (Respondent)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Seth Twum",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "Mrs. Bamford-Addo",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Afreh",
+      "role": "Justice"
+    },
+    {
+      "name": "Baddoo",
+      "role": "Justice"
+    },
+    {
+      "name": "Prof. Kludze",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "CIVIL APPEAL NO. 9/2000",
+    "SUPREME COURT OF GHANA 2003"
+  ],
+  "rationaleHighlights": [
+    "The only binding contract was the minutes of meeting (Exhibit G), not the draft subcontract (Exhibit H).",
+    "Performance bond was not a condition precedent under Exhibit G; thus, termination on that ground was unlawful.",
+    "Claimant entitled to quantum meruit for services rendered despite lack of formal contract.",
+    "Counterclaim dismissed as a 'sham' due to lack of credible evidence.",
+    "Award in USD upheld as appropriate given the international nature of the contract.",
+    "Appellate courts correctly applied principles of contract and restitution law.",
+    "Failure to execute formal contract did not negate obligation to pay for work done.",
+    "Court had jurisdiction despite alleged arbitration clause."
+  ],
+  "confidenceNotes": "The case details are drawn directly from the official judgment document of the Supreme Court of Ghana, ensuring high factual accuracy. All key facts, legal arguments, and rulings are explicitly stated in the text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2003A/KLIMATECHNIK ENGINEERING LTD v. SKANSKA JENSEN INTERNATIONAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:36:30.953Z",
+    "plainTextLength": 43647
+  },
+  "trialDate": "23RD JULY, 2003"
+}

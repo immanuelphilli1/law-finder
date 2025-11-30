@@ -1,0 +1,72 @@
+{
+  "caseTitle": "DAVID INNER v IGUMA ARUEGBON",
+  "summary": "In this West African Court of Appeal case from 1952, the appellant, Iguma Aruegbon, was found liable for malicious prosecution after fabricating a theft charge against the respondent, David Inner, to compel her return to Benin City. The court held that the appellant initiated the prosecution without reasonable and probable cause, knowing the charge was false, as the respondent had been living in Lagos since 1947 and could not have committed the alleged theft in 1949. The prosecution was deemed a deliberate abuse of legal process to facilitate service of an adultery summons by the respondent's husband. The trial judge's award of damages was upheld on appeal, with the appellate judges emphasizing the clear evidence of malice and procedural abuse.",
+  "legalKeywords": [
+    "malicious prosecution",
+    "reasonable and probable cause",
+    "abuse of legal process",
+    "false charge",
+    "initiation of prosecution",
+    "trumped-up charge",
+    "knowledge of falsity",
+    "influence on police",
+    "civil liability",
+    "tort law",
+    "Criminal Procedure Code",
+    "warrant issuance",
+    "judicial discretion",
+    "damages award",
+    "appellate review"
+  ],
+  "topics": [
+    "Tort Law",
+    "Criminal Procedure",
+    "Judicial Misconduct",
+    "Family Law Interface",
+    "Legal Ethics"
+  ],
+  "verdict": "Appeal dismissed; lower court's finding of malicious prosecution upheld",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey, J.A.",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Foster-Sutton, P",
+      "role": "Concurring"
+    },
+    {
+      "name": "de Comarmond, Ag. C.J.",
+      "role": "Concurring"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Nigeria",
+    "country": "Ghana (applicable law context)"
+  },
+  "caseType": "Civil Appeal (Tort - Malicious Prosecution)",
+  "citations": [
+    "Danby v. Beardsley, 43 L.T.R. 603",
+    "Pandit Tewari v. Sardar Bhagat Singh and anoy., 24 T.L.R. 884"
+  ],
+  "rationaleHighlights": [
+    "Appellant knowingly made a false charge with no basis in fact.",
+    "Prosecution was initiated by appellant through deliberate reporting to police and magistrate.",
+    "Absence of reasonable and probable cause established by evidence.",
+    "Malicious intent inferred from purpose of reuniting respondent with husband for adultery summons.",
+    "Abuse of legal process found despite technical compliance with procedural rules.",
+    "Reliance on Pandit Tewari case affirming liability even when prosecution not technically conducted by complainant.",
+    "Distinction from Danby v. Beardsley due to lack of genuine belief in accusation.",
+    "Damages upheld as justified; suggestion that higher award would have been appropriate."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and explicit findings of fact. Jurisdictional context reflects colonial-era West African legal system with application of English common law principles. Case is historically significant for establishing standards in malicious prosecution within the region.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/DAVID INNER v  IGUMA ARUEGBON.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:41:10.621Z",
+    "plainTextLength": 6923
+  },
+  "trialDate": "1952-05-06"
+}

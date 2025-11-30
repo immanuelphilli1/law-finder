@@ -1,0 +1,70 @@
+{
+  "caseTitle": "AND ANOTHER VERSUS GADRI AND ANOTHER",
+  "summary": "In Azametsi and Another v. Gadri and Another, the Court of Appeal of Ghana held that an arbitration award concerning ownership of the Ziwe creek could not bind the plaintiffs' family (Aweku family) because the individuals who participated in the arbitration—Egui Tsidi and Dakohu Damawu—lacked authority to represent the family. The plaintiffs had appointed these men as caretakers during their absence, but they were not shown to be family members or authorized agents for litigation or arbitration over family property. The court reaffirmed that only the head of a family or a properly accredited representative can bind the family in matters concerning family property, including arbitration. Since the plaintiffs' family was neither a party nor privy to the arbitration before the Paramount Chief, the award did not estop them from asserting exclusive title. The appeal was dismissed, restoring the trial Native Court's decision recognizing the Aweku family's absolute ownership.",
+  "legalKeywords": [
+    "arbitration",
+    "family property",
+    "estoppel",
+    "representation",
+    "authority to litigate",
+    "privy",
+    "usufructuary right",
+    "head of family",
+    "native court",
+    "title declaration",
+    "fishing rights",
+    "paramount chief",
+    "agency",
+    "land dispute",
+    "Ghanaian customary law"
+  ],
+  "topics": [
+    "Customary Law",
+    "Land and Property Rights",
+    "Arbitration and ADR",
+    "Family Law",
+    "Native Courts"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "van Lare",
+      "role": "Ag.C.J."
+    },
+    {
+      "name": "Granville Sharp",
+      "role": "J.A."
+    },
+    {
+      "name": "Adumua-Bossman",
+      "role": "J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "WALR 3",
+    "WLR 3"
+  ],
+  "rationaleHighlights": [
+    "Only the head of a family or authorized representative can bind the family in litigation or arbitration over family property.",
+    "Agents or caretakers without express authority cannot represent a family in matters of title.",
+    "An arbitration award does not bind non-parties or those not in privity with the parties.",
+    "The plaintiffs' family was not bound by the award as they were neither parties nor privies.",
+    "Presumption of usufructuary rights does not extend to ownership claims.",
+    "Native courts' findings on title upheld when supported by evidence.",
+    "No obligation to remit for further findings where record supports necessary inferences."
+  ],
+  "confidenceNotes": "High confidence based on clear judicial reasoning and consistent application of customary law principles regarding family representation and arbitration.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/AZAMETSI AND ANOTHER v. GADRI AND ANOTHER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:11:05.894Z",
+    "plainTextLength": 9147
+  }
+}

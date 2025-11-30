@@ -1,0 +1,76 @@
+{
+  "caseTitle": "COMFORT ABLA AGBOSU v. CAPTAIN CHARLES BOAFO",
+  "summary": "In Comfort Abla Agbosu v. Captain Charles Boafo, a 1999 Court of Appeal decision in Ghana, the plaintiff, Comfort Abla Agbosu, sued on her own behalf and on behalf of her children for a declaration of title, recovery of possession, damages for trespass, and a perpetual injunction over land in Gbejirmanya-Somanya. The land had been sold by her late husband, Seth Kwabla Agbosu, to the defendant, Captain Charles Boafo, who claimed to have acquired legal title after a registry search showed the deceased as sole owner. The High Court ruled in favor of the plaintiff, declaring the sale null and void. On appeal, the defendant challenged the standard of proof, the credibility of evidence from interested parties, and the trial court’s findings on joint ownership. The Court of Appeal upheld the High Court’s judgment, affirming that the standard of proof in civil land cases is the balance of probabilities, not beyond reasonable doubt. It found that the plaintiff and her children had contributed financially and in kind to the land acquisition and development, and that the deceased’s act of accepting schnapps from the plaintiff symbolized consent to their use and possession. The court rejected the defendant’s claim of indefeasible title, holding he had constructive knowledge of the plaintiff’s interest, and confirmed the plaintiff’s joint beneficial ownership despite the legal title being in the deceased’s name alone.",
+  "legalKeywords": [
+    "declaration of title",
+    "joint ownership",
+    "beneficial interest",
+    "standard of proof",
+    "balance of probabilities",
+    "constructive knowledge",
+    "estoppel",
+    "presumption of ownership",
+    "trespas",
+    "indefeasibility of title",
+    "evidence in land disputes",
+    "burden of proof",
+    "customary marriage",
+    "consent to building",
+    "symbolic gift"
+  ],
+  "topics": [
+    "Land Law",
+    "Property Rights",
+    "Succession",
+    "Family Law",
+    "Appellate Review"
+  ],
+  "verdict": "The appeal was dismissed; the decision of the High Court in favor of the plaintiff was upheld.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Benin, J.A.",
+      "role": "Delivered the judgment"
+    },
+    {
+      "name": "Forster, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Afreh, J.A.",
+      "role": "Member of the bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Banga v. Djanie (1989–90) 1 G.L.R. 510",
+    "Adwubeng v. Domfeh (1996–97) SC G.L.R. 660",
+    "Khoury v. Choitel (1964) GLR 100",
+    "Odoteye v. Odoteye (1984–86) 1 G.L.R. 519",
+    "Quartey v. Martey (1959) G.L.R. 377",
+    "Gyamerah v. Buor (1962) 1 GLR 196",
+    "Tormekpey v. Ahiable (1975) 2 G.L.R. 432"
+  ],
+  "rationaleHighlights": [
+    "The standard of proof in civil land cases is the balance of probabilities, not beyond reasonable doubt.",
+    "Contributions by a wife and children to land acquisition and development can establish beneficial joint ownership.",
+    "Symbolic acts, such as accepting schnapps, can constitute consent to building and possession.",
+    "A purchaser with constructive knowledge of an existing interest cannot claim indefeasible title.",
+    "The totality of a witness's testimony must be considered, not isolated statements.",
+    "Evidence from interested parties, if credible, can support a claim.",
+    "Presumption of sole ownership under legal title can be rebutted by evidence of joint contribution.",
+    "A trial court may rely on the preponderance of evidence even if some witnesses are interested parties."
+  ],
+  "confidenceNotes": "The summary is based on a truncated document; however, the core reasoning, issues, and outcome are clearly articulated in the available portion. Key legal principles and citations are consistently referenced, supporting high factual accuracy.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/COMFORT ABLA AGBOSU v. CAPTAIN CHARLES BOAFO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:39:17.906Z",
+    "plainTextLength": 49787
+  }
+}

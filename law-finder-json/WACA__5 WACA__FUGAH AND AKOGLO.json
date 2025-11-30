@@ -1,0 +1,70 @@
+{
+  "caseTitle": "AWUMEE GBEDEMAH VERSUS AMAKLOE, CHIEF ATTIPOE",
+  "summary": "This 1939 West African Court of Appeal decision in Fugah and Akoglo v. Amakloe, Chief Attipoe, addressed a motion for final leave to appeal to the Privy Council concerning the sufficiency of a bond executed by the appellants. The appellants were required to execute a bond binding on the Klevie Tribe, but instead executed it in their personal capacity without purporting to act as tribal representatives. The Court held that the bond was not binding on the tribe and refused permission to amend and re-execute it, as the respondent had no opportunity to assess the validity of the alleged authority from the tribe. The appellants had legal representation and were deemed responsible for failing to comply with the court's prior order. Final leave to appeal was therefore denied, and the respondent was awarded costs.",
+  "legalKeywords": [
+    "bond execution",
+    "tribal liability",
+    "personal liability",
+    "leave to appeal",
+    "amendment of pleadings",
+    "authority to sue",
+    "appellate procedure",
+    "costs award",
+    "West African Court of Appeal",
+    "Privy Council appeal",
+    "procedural fairness",
+    "judicial discretion",
+    "legal representation",
+    "procedural default"
+  ],
+  "topics": [
+    "Appellate Law",
+    "Procedural Law",
+    "Tribal Law",
+    "Contract Law",
+    "Costs and Fees"
+  ],
+  "verdict": "Final leave to appeal refused",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Petrides",
+      "role": "Justice"
+    },
+    {
+      "name": "Webb",
+      "role": "Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Acting Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "WACA/5 Fugah and Akoglo (3rd April 1939)"
+  ],
+  "rationaleHighlights": [
+    "Bond executed in personal capacity only",
+    "No representation as tribal agents",
+    "Amendment denied for procedural unfairness",
+    "Appellants had legal counsel",
+    "Respondent lacked opportunity to challenge authority",
+    "Compliance with court order not met",
+    "Final leave refused due to procedural deficiency",
+    "Costs awarded to respondent"
+  ],
+  "confidenceNotes": "High confidence; source is a clear judicial decision transcript with named parties, judges, and reasoning. Jurisdiction and procedural context are well-documented.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/FUGAH AND AKOGLO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:48:05.910Z",
+    "plainTextLength": 3451
+  },
+  "trialDate": "1939-04-03"
+}

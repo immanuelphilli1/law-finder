@@ -1,0 +1,85 @@
+{
+  "caseTitle": "FOUNDING SPECIFIC PERFORMANCE ON LICENCE, UNJUST ENRICHMENT",
+  "summary": "The article critically examines the Ghanaian case Quagraine v. Adams, where the plaintiff, informally adopted by the defendant's mother, was denied specific performance of a promise to convey land despite building a six-bedroom house on it in reliance. The Court of Appeal upheld the trial court’s finding of no enforceable contract but awarded compensation based on doctrines of licence, unjust enrichment, and proprietary estoppel. The author argues that equitable principles, particularly equitable licence supported by consideration, should have justified specific performance. The discussion explores the nature of licences, distinguishing bare, contractual, and irrevocable forms, and references English and Australian jurisprudence to highlight tensions between common law and equity, especially in cases involving payment for access or use of land. The plaintiff’s reliance and substantial expenditure warranted stronger equitable protection than mere damages.",
+  "legalKeywords": [
+    "specific performance",
+    "equitable licence",
+    "proprietary estoppel",
+    "unjust enrichment",
+    "trespass",
+    "contractual licence",
+    "licence coupled with grant",
+    "reliance",
+    "compensation",
+    "restitution",
+    "breach of promise",
+    "improvements on land",
+    "family arrangement",
+    "reliance interest",
+    "equity",
+    "Statute of Frauds",
+    "injunction",
+    "revocation of licence",
+    "estoppel",
+    "implied contract"
+  ],
+  "topics": [
+    "Equity and Trusts",
+    "Land Law",
+    "Contract Law",
+    "Family Law",
+    "Remedies"
+  ],
+  "verdict": "Compensation awarded in lieu of specific performance",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Jiagge",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Mensa-Boison",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Edusei",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Ollennu",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Quagraine v. Adams",
+    "Thompson v. Park",
+    "Timber & Transport Sawmilling Co., Ltd. v. Kataban Timbers Co., Ltd.",
+    "Wood v. Leadbitter",
+    "Hurst v. Picture Theatres Ltd.",
+    "Frogley v. Earl of Lovelace",
+    "Cowell v. Rosehill Racecourse Co., Ltd."
+  ],
+  "rationaleHighlights": [
+    "Plaintiff built house in reliance on defendant's promise to convey land",
+    "No enforceable contract found, but compensation awarded based on equitable doctrines",
+    "Licence used as defence to trespass, not as basis for specific performance",
+    "Equity protects paid licensee from revocation of permission",
+    "Court failed to consider equitable licence as ground for specific performance",
+    "Unjust enrichment and proprietary estoppel cited to justify compensation",
+    "Reliance and substantial expenditure support stronger equitable remedy",
+    "Tension between common law and equity in licence revocation cases"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed legal analysis and cited case law; some doctrinal arguments reflect author's scholarly opinion rather than binding precedent.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2013/FOUNDING SPECIFIC PERFORMANCE ON LICENCE, UNJUST ENRICHMENT .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:33:56.668Z",
+    "plainTextLength": 93349
+  }
+}

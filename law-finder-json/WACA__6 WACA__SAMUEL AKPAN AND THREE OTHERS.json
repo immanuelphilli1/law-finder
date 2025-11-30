@@ -1,0 +1,73 @@
+{
+  "caseTitle": "SAMUEL AKPAN AND THREE OTHERS",
+  "summary": "In this 1940 West Africa Court of Appeal decision, three appellants were convicted of possession of apparatus for making counterfeit coins under section 148(3)(c) of the Criminal Code. They appealed, challenging the admissibility and weight of evidence given by Samuel Akpan, an accomplice who pleaded guilty but was not sentenced before testifying for the prosecution. The court held that while it is preferable to sentence an accomplice before allowing them to testify, failure to do so does not necessitate quashing a conviction if the trial judge adequately warns himself on the need for corroboration and sufficient corroborative evidence exists. The court found that the trial judge had properly directed himself on corroboration and that there was sufficient corroboration in law—stronger for the third appellant and minimal but adequate for the first and second. The appeals were dismissed, following the precedent in Rex v. Robert Smith.",
+  "legalKeywords": [
+    "accomplice testimony",
+    "corroboration",
+    "conviction upheld",
+    "counterfeit coins",
+    "criminal procedure",
+    "pleading guilty",
+    "prosecution witness",
+    "sentencing",
+    "trial fairness",
+    "appellate review",
+    "judicial warning",
+    "evidence law",
+    "criminal code",
+    "section 148(3)(c)",
+    "joint trial",
+    "self-incrimination",
+    "judicial discretion",
+    "appellate court"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence",
+    "Appellate Procedure",
+    "Corroboration",
+    "Accomplice Testimony"
+  ],
+  "verdict": "Conviction upheld; appeals dismissed.",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    },
+    {
+      "name": "Brooke",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v. Robert Smith, 18 Criminal Appeal Reports p.19",
+    "R. v. Robert S, 18 Crim. App. Rep. p.19"
+  ],
+  "rationaleHighlights": [
+    "Accomplice not sentenced before testifying does not automatically invalidate conviction.",
+    "Judge must adequately warn himself on need for corroboration.",
+    "Sufficient corroboration found for all appellants.",
+    "Conviction under section 148(3)(c) of the Criminal Code upheld.",
+    "Rex v. Robert Smith precedent applied.",
+    "Appeals dismissed due to proper judicial handling of evidence."
+  ],
+  "confidenceNotes": "High confidence; details are clearly stated in the judgment, including legal reasoning, corroboration assessment, and procedural history.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/SAMUEL AKPAN AND THREE OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:55:51.524Z",
+    "plainTextLength": 3592
+  },
+  "trialDate": "1940-07-20"
+}

@@ -1,0 +1,77 @@
+{
+  "caseTitle": "PEKI STOOL VRS. TSITO AWUDOME",
+  "summary": "This Supreme Court of Ghana decision concerns a land dispute between the Peki Stool and the Tsito Awudome Stool over parcels of land, originally litigated in 1957 and later referred to the Stool Lands Boundary Settlement Commission. Following the repeal of the Commission via the Stool Lands Boundary Settlement (Repeal) Act, 2000 (Act 587), the case was transferred to the High Court. The central issue was whether the transferred proceedings required mandatory adoption of prior evidence or allowed the parties to opt for a de novo trial. The Supreme Court held that Act 587 did not abrogate the common law rule granting parties the right to choose; absent explicit statutory language, the established procedure of the High Court must apply. Since the Tsito Stool opposed adoption, the trial had to proceed de novo. The appeal was allowed, overturning the Court of Appeal’s affirmation of mandatory adoption.",
+  "legalKeywords": [
+    "jurisdiction",
+    "interlocutory appeal",
+    "Stool Land Boundary Settlement Commission",
+    "Act 587",
+    "NRCD 172",
+    "adoption of proceedings",
+    "de novo trial",
+    "prohibition",
+    "certiorari",
+    "tribal land dispute",
+    "transfer of cases",
+    "vested rights",
+    "statutory interpretation",
+    "common law rule",
+    "court procedure"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Statutory Interpretation",
+    "Customary Law",
+    "Judicial Review"
+  ],
+  "verdict": "The appeal was allowed. The Supreme Court held that the Court of Appeal erred in upholding the mandatory adoption of proceedings from the Stool Lands Boundary Settlement Commission. The case must proceed de novo in the High Court as the parties did not agree to adopt prior proceedings.",
+  "winningSide": "Tsito Awudome Stool",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "S. A. Brobbey",
+      "role": "authoring judge"
+    },
+    {
+      "name": "G. T. Wood",
+      "role": "presiding judge"
+    },
+    {
+      "name": "S. K. Date-Bah",
+      "role": "concurring judge"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "concurring judge"
+    },
+    {
+      "name": "P. Baffoe-Bonnie",
+      "role": "concurring judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "[1967] GLR 548",
+    "[1928] 1 K.B. 776"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court held that Act 587 did not abrogate the common law rule allowing parties to choose between adopting prior proceedings or starting a trial de novo.",
+    "The phrase \"case and proceedings\" in Act 587 does not imply mandatory adoption of evidence; such a change to vested rights requires explicit statutory language.",
+    "Parliament did not clearly intend to override established High Court procedures when repealing NRCD 172.",
+    "The Supreme Court’s prior advice to consider adopting proceedings was obiter dictum and not binding.",
+    "The appeal succeeded because the Court of Appeal erred in upholding the mandatory adoption of proceedings."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details (parties, judges, jurisdiction, legal reasoning) are explicitly stated in the document. Citations are directly quoted.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/PEKI STOOL VRS. TSITO AWUDOME.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:03:28.133Z",
+    "plainTextLength": 11923
+  },
+  "trialDate": "2009-02-26"
+}

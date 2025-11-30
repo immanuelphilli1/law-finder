@@ -1,0 +1,66 @@
+{
+  "caseTitle": "JALLOW VERSUS JALLOW.",
+  "summary": "In Jallow v. Jallow, a divorced husband claimed half the value of buildings erected on land owned solely by his wife prior to marriage, funded from joint marital earnings. The Supreme Court of the Colony of the Gambia held that the legal maxim 'quicquid plantatur solo, solo cedit' (whatever is planted on the soil becomes part of the soil) applied, and the exception in equity—where a builder mistakenly believes they own the land and the true owner fails to correct them—did not arise because the husband knew the land belonged to his wife. The court emphasized that awareness of defective title bars equitable relief, and the spousal relationship does not alter this principle. The plaintiff's claim failed, and the defendant's counterclaim for cattle was also dismissed due to insufficient evidence. Judgment was entered for the defendant on the claim and the counterclaim was dismissed, both with costs.",
+  "legalKeywords": [
+    "land improvements",
+    "husband and wife",
+    "joint funds",
+    "quicquid plantatur solo, solo cedit",
+    "equity",
+    "reimbursement",
+    "presumption of advancement",
+    "divorce",
+    "property ownership",
+    "building on another's land",
+    "laches",
+    "valuable improvements",
+    "joint earnings",
+    "counterclaim",
+    "cattle dispute"
+  ],
+  "topics": [
+    "Property Law",
+    "Family Law",
+    "Equity",
+    "Land Improvements",
+    "Divorce"
+  ],
+  "verdict": "Judgment for the defendant on the claim; counterclaim dismissed.",
+  "winningSide": "defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Miles J.",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Colony of the Gambia",
+    "country": "Gambia"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Kenney v. Brown (1796) 3 Ridg.Par.Cas. 462",
+    "Ramsden v. Dyson (1866) L.R. 1 H.L. 129",
+    "Attorney-General to the Prince of Wales v. Collom [1916] 2 K.B. 193",
+    "Thornley v. Thornley [1893] 2 Ch. 229",
+    "Dunbar v. Dunbar [1909] 2 Ch. 639"
+  ],
+  "rationaleHighlights": [
+    "The maxim 'quicquid plantatur solo, solo cedit' applies unless the builder mistakenly believes the land is theirs and the true owner acquiesces.",
+    "Plaintiff was aware the land belonged to his wife; thus, no equity arises from improvements.",
+    "Expenditure from joint funds during marriage does not entitle husband to reimbursement upon divorce.",
+    "Husband-wife relationship does not alter general property law principles in this context.",
+    "No fraud or laches by the defendant wife.",
+    "Burden of proof for reimbursement lies on the claimant spouse.",
+    "Counterclaim failed due to lack of evidence, identification, and valuation of cattle.",
+    "Presumption of advancement may alternatively bar recovery by husband."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and cited authorities. Editorial note suggests alternative legal basis but does not alter outcome.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/JALLOW v. JALLOW..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:30:51.644Z",
+    "plainTextLength": 8264
+  }
+}

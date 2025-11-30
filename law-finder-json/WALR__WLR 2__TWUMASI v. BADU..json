@@ -1,0 +1,72 @@
+{
+  "caseTitle": "TWUMASI VERSUS BADU.",
+  "summary": "In Twumasi v. Badu, the West African Court of Appeal upheld the Land Court's decision that no valid customary arbitration had occurred between the parties over a land dispute. The plaintiff, claiming re-entry rights due to a subtenant's default, had contested an award made by a third party whom the defendant approached after the plaintiff repossessed the land. Although the third party conducted hearings and issued an award, the Court found no evidence of a prior agreement by the plaintiff to be bound by the decision. The Court emphasized that for customary arbitration to be binding, there must be both voluntary submission and a clear agreement to accept the arbitrator's decision as final—distinctions not met here. The appeal was dismissed, affirming that the absence of such agreement rendered the so-called 'arbitration' merely a non-binding attempt at negotiated settlement under native customary law.",
+  "legalKeywords": [
+    "customary arbitration",
+    "native law and custom",
+    "binding award",
+    "voluntary submission",
+    "agreement to be bound",
+    "settlement negotiation",
+    "land dispute",
+    "tenancy agreement",
+    "re-entry right",
+    "arbitration validity",
+    "Native Customary Law",
+    "Land Court",
+    "Native Court",
+    "reference to third party",
+    "stamping fee"
+  ],
+  "topics": [
+    "Customary Law",
+    "Arbitration",
+    "Land Law",
+    "Civil Procedure",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed; decision of the Land Court upheld, finding no valid customary arbitration due to lack of prior agreement to be bound.",
+  "winningSide": "Plaintiff (Twumasi)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Verity Ag.J.A.",
+      "role": "deciding judge"
+    },
+    {
+      "name": "Coussey P.",
+      "role": "concurring judge"
+    },
+    {
+      "name": "Korsah C.J.",
+      "role": "concurring judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Ankrah and Others v. Dabra and Olaga [1956] 1 W.A.L.R. 89",
+    "Ayafie v. Banyea (1884) Fanti Law Report 38",
+    "Gyesiwa v. Mensah (1947) W.A.C.A. Cyclostyled Judgments, 1947, p.45"
+  ],
+  "rationaleHighlights": [
+    "Distinction between binding arbitration and negotiation for settlement hinges on prior agreement to be bound.",
+    "No evidence of plaintiff's express or implied agreement to accept third party's decision as binding.",
+    "Voluntary submission and agreement to abide by award are essential for valid customary arbitration.",
+    "Land Court correctly found no valid arbitration due to lack of binding agreement.",
+    "Award not binding where parties did not agree in advance to be bound by decision.",
+    "Conduct such as payment of 'stamping fee' insufficient to prove agreement to be bound.",
+    "Native Court erred in treating award as binding without establishing prior agreement.",
+    "Customary arbitration requires publication of award, prior agreement, and voluntary submission."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key elements (jurisdiction, judges, rationale) are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/TWUMASI v. BADU..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:22:47.554Z",
+    "plainTextLength": 10183
+  }
+}

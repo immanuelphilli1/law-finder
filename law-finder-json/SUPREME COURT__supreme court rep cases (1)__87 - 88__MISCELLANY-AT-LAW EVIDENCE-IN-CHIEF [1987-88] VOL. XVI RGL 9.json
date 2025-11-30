@@ -1,0 +1,62 @@
+{
+  "caseTitle": "MISCELLANY-AT-LAW EVIDENCE-IN-CHIEF [1987-88] VOL. XVI RGL 9",
+  "summary": "This legal commentary discusses the conduct and challenges of examination-in-chief in Ghanaian court proceedings, emphasizing the importance of clear, chronological storytelling by witnesses under counsel's controlled guidance. It critiques common pitfalls such as leading questions, counsel dominating testimony, and judicial overreach during evidence presentation. The paper highlights that while relevant evidence should be admitted per Section 51 of the Evidence Decree, 1975 (NRCD 323), judges must avoid premature skepticism or dismissal of testimony as 'untrue' during examination-in-chief. It advocates for judicial restraint, proper witness management, and a focus on fairness over adversarial performance, citing comparative insights from common law jurisdictions.",
+  "legalKeywords": [
+    "examination-in-chief",
+    "leading questions",
+    "relevance of evidence",
+    "witness testimony",
+    "Evidence Decree 1975",
+    "judicial conduct",
+    "admissibility of evidence",
+    "trial procedure",
+    "counsel ethics",
+    "fact-finding",
+    "adversarial system",
+    "chronological narrative",
+    "judicial discretion",
+    "truth ascertainment",
+    "cross-examination strategy"
+  ],
+  "topics": [
+    "Evidence Law",
+    "Trial Advocacy",
+    "Judicial Role",
+    "Legal Procedure",
+    "Witness Examination"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Legal Commentary / Discussion Paper",
+  "citations": [
+    "Evidence Decree, 1975 (NRCD 323), Section 51",
+    "The Commentary on the Evidence Decree, 1975, p. 32",
+    "Jones v National Coal Board [1957] 2 QB 55",
+    "Well and Truly Tried by Hon Mr. Justice R W Fox (1982)",
+    "Jesting Pilate by Sir Owen Dixon (1965)",
+    "The Judge (1979) lecture by Lord Devlin",
+    "The Technique of Persuasion by Sir David Napley (1st ed, 1970)",
+    "The Lawyer's Treasury - 'The Trial of Cases' by Emory R. Buckner"
+  ],
+  "rationaleHighlights": [
+    "Relevant evidence should be admitted unless excluded by policy-based rules",
+    "Judges should not prematurely dismiss testimony as unbelievable during examination-in-chief",
+    "Counsel must guide witnesses without dominating their testimony",
+    "Truth-finding is constrained by procedural and resource limitations in adversarial systems",
+    "Chronological narrative enhances clarity in witness testimony",
+    "Judicial interference can confuse witnesses and disrupt trial fairness"
+  ],
+  "confidenceNotes": "High confidence in content accuracy based on internal consistency and citation of legal instruments; however, the document is a scholarly commentary, not a judicial decision, limiting case-specific factual claims.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/87 - 88/MISCELLANY-AT-LAW EVIDENCE-IN-CHIEF [1987-88] VOL. XVI RGL 9.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:24:48.632Z",
+    "plainTextLength": 27071
+  }
+}

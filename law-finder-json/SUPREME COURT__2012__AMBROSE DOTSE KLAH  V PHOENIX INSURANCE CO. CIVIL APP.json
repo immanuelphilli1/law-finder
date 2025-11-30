@@ -1,0 +1,87 @@
+{
+  "caseTitle": "AMBROSE DOTSE KLAH V PHOENIX INSURANCE CO. CIVIL APP",
+  "summary": "This Supreme Court of Ghana decision from 2012 concerns the appeal by Ambrose Dotse Klah against the Court of Appeal's reversal of a severance award granted by the High Court. The appellant, formerly Chief Accountant at Phoenix Insurance Company, was summarily dismissed in 2005 and subsequently filed a claim for wrongful dismissal, defamation, and severance benefits totaling GH¢701,128,000. The High Court ruled in his favor, awarding severance and general damages, but the Court of Appeal upheld the wrongful dismissal finding while quashing the severance award due to lack of evidentiary proof. The Supreme Court affirmed the Court of Appeal’s decision, holding that despite the claim being pleaded, the appellant failed to discharge the burden of proof under the Evidence Act, 1975 (sections 10 and 11), as no evidence was led to substantiate the severance amount. The court emphasized that pleadings alone cannot substitute for evidence, especially when denied by the opposing party, and that technical adherence to procedural rules is essential for justice according to law.",
+  "legalKeywords": [
+    "severance award",
+    "wrongful dismissal",
+    "burden of proof",
+    "pleadings",
+    "evidence",
+    "substantial justice",
+    "technicalities in law",
+    "defamation",
+    "employment benefits",
+    "Court of Appeal reversal",
+    "Supreme Court affirmation",
+    "Evidence Act 1975",
+    "material facts",
+    "denial in pleadings",
+    "proof by evidence",
+    "judicial discretion",
+    "declaration of unlawfulness",
+    "injunction",
+    "general damages",
+    "special damages"
+  ],
+  "topics": [
+    "Employment Law",
+    "Civil Procedure",
+    "Evidence Law",
+    "Appellate Review",
+    "Insurance Law"
+  ],
+  "verdict": "Dismissed",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Akoto-Bamfo (Mrs) JSC",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Date-Bah JSC",
+      "role": "Member"
+    },
+    {
+      "name": "AnsaH JSC",
+      "role": "Member"
+    },
+    {
+      "name": "Dotse JSC",
+      "role": "Member"
+    },
+    {
+      "name": "Bonnie JSC",
+      "role": "Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Hammond v Odoi 1982-83 GLR 1215",
+    "Accra-Tema City Council v Ntim 1969 CC 62",
+    "Whittaker v Nanka Bruce 1994-95 GLR 784",
+    "Majolagbe v Larbi 1959 GLR 190",
+    "Khoury v Ritcher"
+  ],
+  "rationaleHighlights": [
+    "Pleadings must be supported by evidence when denied by the opposing party.",
+    "A party asserting a claim bears the burden of proof under the Evidence Act, 1975.",
+    "Courts cannot base decisions on unproven averments, even if unchallenged in cross-examination.",
+    "Technical compliance with procedural rules is essential for justice according to law.",
+    "The Court of Appeal correctly reversed the severance award due to lack of evidence.",
+    "Assertions in pleadings do not become proven facts without evidentiary support.",
+    "Justice must be done according to law, not merely in substance.",
+    "Amendment of pleadings is required to introduce new issues or claims."
+  ],
+  "confidenceNotes": "The summary and analysis are based on a detailed judicial opinion from the Supreme Court of Ghana with clear articulation of legal principles, citations, and reasoning. All key elements including parties, issues, holdings, and rationale are explicitly stated in the text, ensuring high factual accuracy.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/AMBROSE DOTSE KLAH  V PHOENIX INSURANCE CO. CIVIL APP.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:39:00.772Z",
+    "plainTextLength": 22034
+  }
+}

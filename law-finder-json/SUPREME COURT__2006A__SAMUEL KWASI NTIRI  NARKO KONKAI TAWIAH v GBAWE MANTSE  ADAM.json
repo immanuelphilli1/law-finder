@@ -1,0 +1,77 @@
+{
+  "caseTitle": "SAMUEL KWASI NTIRI NARKO KONKAI TAWIAH v GBAWE MANTSE ADAM",
+  "summary": "This Supreme Court of Ghana case, decided on 18th October 2006, arose from a land dispute over a parcel at Chuim, Odorkor, involving claims of title, trespass, and possession. The plaintiff, Samuel Kwasi Ntiri, claimed ownership via a 1977 conveyance from the Asere Mantse, while the defendants, Gbawe Mantse and Adam Kwatei Quartey, asserted the land was part of Gbawe family land and raised estoppel based on a prior 1961 High Court judgment. The trial court granted the plaintiff’s claims, but the Court of Appeal partially allowed the defendants’ appeal, criticizing the trial judge for relying on an ineffective court-appointed surveyor and improperly delegating judicial functions by ordering post-judgment surveying. The Supreme Court ultimately reviewed whether the trial court’s actions constituted a miscarriage of justice, particularly regarding procedural irregularities and failure to address estoppel. The case underscores the importance of proper evidence, judicial oversight in land surveys, and the binding effect of prior judgments in customary land disputes.",
+  "legalKeywords": [
+    "land title",
+    "trespass",
+    "customary law",
+    "estoppel",
+    "survey evidence",
+    "judicial delegation",
+    "procedural irregularity",
+    "possession",
+    "conveyance",
+    "court-appointed surveyor",
+    "res judicata",
+    "boundary dispute",
+    "customary ownership",
+    "judicial misconduct",
+    "evidence evaluation"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Appellate Review",
+    "Judicial Procedure",
+    "Property Dispute"
+  ],
+  "verdict": "The Supreme Court upheld the Court of Appeal's partial allowance of the appeal, setting aside the trial court's judgment due to procedural flaws and improper delegation of judicial authority.",
+  "winningSide": "Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Twum, J.S.C.",
+      "role": "Delivered the judgment"
+    },
+    {
+      "name": "Miss Akuffo, J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Dr. Date-Bah, J.S.C.",
+      "role": "Member of the bench"
+    },
+    {
+      "name": "Ansa, J.S.C.",
+      "role": "Member of the bench"
+    },
+    {
+      "name": "Aninakwah, J.S.C.",
+      "role": "Member of the bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Kwatia Asuansah Owoo-Papafio vrs. Amadu Wangara & Others (Suit No. 107/1961)",
+    "CIVIL APPEAL NO. J4/29/2004"
+  ],
+  "rationaleHighlights": [
+    "The trial court improperly delegated judicial function by ordering a surveyor to define the land post-judgment without cross-examination.",
+    "The court-appointed surveyor was incapacitated by senility, rendering his evidence incomprehensible.",
+    "The trial judge failed to address the appellants' plea of estoppel per rem judicatam based on a prior 1961 judgment.",
+    "The judgment was based on uncertain boundaries, violating the requirement for certainty in land claims.",
+    "The Co-Plaintiff's claim introduced procedural irregularities not properly consolidated."
+  ],
+  "confidenceNotes": "High confidence; information extracted directly from court judgment text with clear procedural and factual details. Some document truncation occurred but key reasoning and outcome are preserved.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2006A/SAMUEL KWASI NTIRI  NARKO KONKAI TAWIAH v GBAWE MANTSE  ADAM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:22:17.533Z",
+    "plainTextLength": 27566
+  },
+  "trialDate": "2004-04-29"
+}

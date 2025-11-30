@@ -1,0 +1,60 @@
+{
+  "caseTitle": "REX V DURUIBE AND PAUL MBAM",
+  "summary": "This 1938 West Africa Court of Appeal decision arose from convictions in the Enugu-Onitsha Judicial Division, where Chief Duruibe was convicted under section 114 of the Criminal Code for judicial corruption, and Paul Mbam, a court clerk, was convicted under section 115 for accepting a reward to influence a Native Tribunal. The appeal court dismissed Duruibe's appeal, finding sufficient evidence for his conviction. However, it allowed Mbam's appeal, quashing his conviction due to insufficient evidence linking the bribe to actual or intended inducement of the tribunal. The court emphasized that mere acceptance of a reward is not enough under section 115 without proof of intent to influence, and that the so-called corroboration from accomplice testimony and documentary records (summons counterfoil and court book) failed to substantiate the charge. The judgment also criticized the trial judge's reliance on inadmissible 'evidence of system' related to an uncharged count involving a separate bribe demand.",
+  "legalKeywords": [
+    "judicial corruption",
+    "bribery",
+    "section 114 Criminal Code",
+    "section 115 Criminal Code",
+    "uncorroborated accomplice evidence",
+    "evidence of system",
+    "misdirection in law",
+    "Native Tribunal",
+    "inducement to forbear",
+    "documentary evidence"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Judicial Misconduct",
+    "Appellate Review",
+    "Evidence Law",
+    "Corroboration"
+  ],
+  "verdict": "Appeal allowed for second appellant; conviction quashed and acquittal entered. Appeal dismissed for first appellant.",
+  "winningSide": "Second Appellant (Paul Mbam)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria"
+    },
+    {
+      "name": "Carey"
+    },
+    {
+      "name": "Graham Paul"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Rex v Duruibe and Paul Mbam (WACA, 16 August 1938)"
+  ],
+  "rationaleHighlights": [
+    "Conviction under s.115 requires proof of intent to induce or influence a tribunal, not merely acceptance of money.",
+    "Uncorroborated accomplice testimony is insufficient for conviction.",
+    "Documentary evidence (summons counterfoil, court record) did not prove forbearance or inducement.",
+    "Use of 'evidence of system' from an uncharged offence constitutes misdirection.",
+    "Trial judge erred in treating non-prosecution as proof of corrupt influence without supporting evidence."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text, with clear attribution of reasoning and legal standards applied by the appellate court.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX V  DURUIBE AND PAUL MBAM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:56:54.468Z",
+    "plainTextLength": 10946
+  },
+  "trialDate": "1938-08-16"
+}

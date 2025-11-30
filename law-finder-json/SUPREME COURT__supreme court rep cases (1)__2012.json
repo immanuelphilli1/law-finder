@@ -1,0 +1,48 @@
+{
+  "caseTitle": "supreme court rep cases (1)",
+  "summary": "The provided document does not contain a judicial decision or case law from the Supreme Court of Ghana. Instead, it is a table of contents from the Review of Ghana Law (1981–1982), listing various legal articles, book reviews, and scholarly commentaries on topics such as customary law, land law, judicial administration, and legal policy. There is no case analysis, verdict, or judicial reasoning present in the text. As such, no legal decision can be summarized, and no winning party or prosecution type can be identified.",
+  "legalKeywords": [
+    "customary law",
+    "stool lands",
+    "jurisdiction",
+    "chancery matters",
+    "land use policy",
+    "legal aid",
+    "judicial control",
+    "title registration",
+    "consumer protection",
+    "unjust enrichment",
+    "specific performance",
+    "ouster clauses",
+    "locus standi",
+    "matrimonial causes",
+    "legal technicalities"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Judicial Administration",
+    "Legal Reform",
+    "Consumer Protection"
+  ],
+  "verdict": "not applicable",
+  "winningSide": "not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "academic commentary",
+  "citations": [
+    "[1981-82] Vols. XIII & XIV RGL"
+  ],
+  "rationaleHighlights": [],
+  "confidenceNotes": "Low confidence in case extraction due to absence of actual court judgment; content is purely bibliographic and academic in nature.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2012.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:47:35.477Z",
+    "plainTextLength": 3185
+  }
+}

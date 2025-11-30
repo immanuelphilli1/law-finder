@@ -1,0 +1,67 @@
+{
+  "caseTitle": "IN THE MATTER OF THE ESTATE OF JAMES TAYLOR, DECEASED",
+  "summary": "In Rex v Yaw Tekyi (WACA/7, 11th June 1941), the appellant was convicted of murder after killing his wife upon discovering her in circumstances strongly suggesting recent adultery. He appealed, arguing that these circumstances constituted 'extreme provocation' under Section 234(3) of the Criminal Code, which includes 'an act of adultery committed in the view of the accused.' The West Africa Court of Appeal rejected this interpretation, holding that 'in the view of' must be given its natural meaning—requiring actual witnessing of the act—and not mere suspicion or circumstantial inference. The court emphasized that legislative intent would have been explicit if a broader interpretation was intended. Consequently, the conviction for murder was upheld and the appeal dismissed.",
+  "legalKeywords": [
+    "murder",
+    "manslaughter",
+    "extreme provocation",
+    "adultery",
+    "section 234(3) Criminal Code",
+    "interpretation of statute",
+    "self-help",
+    "conviction",
+    "appeal dismissed",
+    "natural meaning",
+    "criminal law",
+    "provocation defense",
+    "judicial reasoning",
+    "appellate decision",
+    "Ghana legal history"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Homicide",
+    "Statutory Interpretation",
+    "Provocation Defense",
+    "Family Law"
+  ],
+  "verdict": "Appeal dismissed; murder conviction upheld.",
+  "winningSide": "Respondent (Rex)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Graham Paul, C.J., Sierra Leone",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Yaw Tekyi, WACA/7, 11th June 1941"
+  ],
+  "rationaleHighlights": [
+    "The phrase 'in the view of' in Section 234(3) must be given its natural and ordinary meaning.",
+    "Circumstantial evidence suggesting recent adultery does not satisfy the requirement of witnessing the act 'in the view of' the accused.",
+    "The legislature could have broadened the provision but did not; courts will not extend it by interpretation.",
+    "Appeal dismissed due to lack of legal basis for reclassifying murder as manslaughter."
+  ],
+  "confidenceNotes": "High confidence; details are drawn directly from the official judgment text with clear attribution of court, parties, and legal reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/REX v YAW TEKYI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:24:00.515Z",
+    "plainTextLength": 2547
+  },
+  "trialDate": "11TH JUNE, 1941"
+}

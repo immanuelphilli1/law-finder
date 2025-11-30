@@ -1,0 +1,68 @@
+{
+  "caseTitle": "BOOK REVIEW THE DISCIPLINE OF LAW [1981-82] VOLS. XIII & XIV",
+  "summary": "This document is a book review of Lord Denning's 'The Discipline of Law' (1979), originally published in the Review of Ghana Law 1981–82. The review highlights Denning's advocacy for legal reform to align 19th-century legal principles with 20th-century social realities. It outlines his judicial philosophy across seven key areas: construction of documents, misuse of ministerial powers, locus standi, abuse of group powers, the High Trees case and promissory estoppel, negligence, and the doctrine of precedent. Denning is portrayed as a progressive judge who favored purposive interpretation, expanded access to justice, and judicial activism within the Court of Appeal. The review also emphasizes his clear, engaging writing style, courtroom advocacy advice, and influence on modern English law, particularly in negligence and administrative law. Though not a Ghanaian case, it reflects legal principles relevant to common law jurisdictions.",
+  "legalKeywords": [
+    "judicial precedent",
+    "negligence",
+    "locus standi",
+    "ministerial powers",
+    "contract construction",
+    "abuse of power",
+    "doctrine of consideration",
+    "legal reform",
+    "ouster clauses",
+    "prerogative power",
+    "barrister's privilege",
+    "language in law",
+    "social necessity in law"
+  ],
+  "topics": [
+    "legal reform",
+    "judicial precedent",
+    "contract law",
+    "administrative law",
+    "tort law"
+  ],
+  "verdict": "The book is positively reviewed as a significant contribution to legal literature, reflecting Lord Denning's reformist judicial philosophy and accessible legal writing.",
+  "winningSide": "judicial reform and progressive interpretation of law",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Lord Denning M.R.",
+      "role": "Author and judicial figure discussed"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "United Kingdom"
+  },
+  "caseType": "book review",
+  "citations": [
+    "[1951] 1 All E.R. 426",
+    "[1954] 1 All E.R. 822",
+    "[1967] 2 All E.R. 1260",
+    "[1968] A.C. 997",
+    "[1975] 1 All E.R. 152",
+    "[1978] 3 W.L.R. 736",
+    "[1977] 2 All E.R. 182",
+    "[1971] 2 All E.R. 1380",
+    "[1951] 2 K.B. 215",
+    "[1964] A.C. 465"
+  ],
+  "rationaleHighlights": [
+    "Law must evolve to meet 20th-century social needs",
+    "Judges should interpret documents based on intent, not strict construction",
+    "Courts retain power to review decisions despite ouster clauses",
+    "Locus standi should be granted based on applicant's interest",
+    "Doctrine of consideration remains essential in contract formation",
+    "Negligence principles have been significantly developed by modern judges",
+    "Legal language and courtroom demeanor are crucial for effective advocacy"
+  ],
+  "confidenceNotes": "The document is a book review, not a judicial decision, so case details are derived from cited authorities within the reviewed work. Jurisdiction and judges refer to the author and context of the cited cases, not a Ghanaian ruling.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2013/BOOK REVIEW THE DISCIPLINE OF LAW [1981-82] VOLS. XIII & XIV.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:35:43.631Z",
+    "plainTextLength": 8416
+  }
+}

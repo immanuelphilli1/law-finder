@@ -1,0 +1,77 @@
+{
+  "caseTitle": "AWULAE ATTIBRUKUSU III",
+  "summary": "This Supreme Court of Ghana case involved a land dispute between Awulae Attibrukusu III, the Omanhene of Lower Axim Traditional Area, and members of the Ewoku Nvaviley Family. The plaintiff claimed allodial title over 15 square miles of land and sought recovery of possession, damages for trespass, and an injunction against the defendants, as well as the setting aside of a 1984 Statutory Declaration made by the predecessor of the first defendant. The High Court dismissed the claim, recognizing the defendants' possessory or usufructuary interest coexisting with the plaintiff's allodial title. The Court of Appeal allowed the appeal, finding that the defendants had denied the plaintiff's allodial title by ceasing tribute payments and alienating portions of the land, thus warranting forfeiture. The Supreme Court upheld the Court of Appeal’s decision, ruling that the defendants’ conduct—particularly the refusal to pay tribute and unauthorized alienation of land—constituted a denial of allegiance, justifying forfeiture subject to due inquiry. The court stressed the importance of customary obligations in maintaining possessory rights under customary law.",
+  "legalKeywords": [
+    "allodial title",
+    "usufructuary interest",
+    "customary land tenure",
+    "tribal stool lands",
+    "forfeiture of land",
+    "statutory declaration",
+    "tort of trespass",
+    "recovery of possession",
+    "perpetual injunction",
+    "traditional leadership",
+    "land dispute",
+    "determinable interest",
+    "homage and tribute",
+    "Kundum Festival",
+    "alienation of stool land"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Appellate Procedure",
+    "Traditional Authority",
+    "Trespass"
+  ],
+  "verdict": "The Supreme Court dismissed the defendants' appeal and upheld the Court of Appeal's decision in favor of the plaintiff, affirming the forfeiture of the defendants' possessory interest due to denial of allegiance and non-payment of tribute, subject to due inquiry.",
+  "winningSide": "Plaintiff/Appellant (Awulae Attibrukusu III, Omanhene of Lower Axim Traditional Area)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Aryeetey, JSC",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "Brobbey, JSC",
+      "role": "Presiding"
+    },
+    {
+      "name": "Dr. Date-Bah, JSC",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Adinyira (Mrs), JSC",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Baffoe-Bonnie, JSC",
+      "role": "Member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "AWUAH VRS. ADUTUTU [1987-88] 2GLR 191 at 193",
+    "Koglex [No. 2] v. Field [2000] SCGLR 175"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court emphasized that denial of allegiance and non-payment of tribute by subject families can lead to forfeiture of usufructuary rights.",
+    "A statutory declaration made during pending litigation was deemed an attempt to mislead the public and undermine allodial title.",
+    "Appellate courts must assess the weight of evidence when reviewing factual findings, not introduce new grounds for decision.",
+    "Customary obligations like tribute during festivals are key indicators of recognition of allodial ownership.",
+    "Forfeiture of land requires due inquiry and opportunity for the occupant to be heard before enforcement."
+  ],
+  "confidenceNotes": "The case involves well-documented customary land tenure principles in Ghana, with clear appellate reasoning. The Supreme Court's reversal is based on established legal doctrine regarding allodial and usufructuary interests.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/AWULAE ATTIBRUKUSU III.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:51:44.875Z",
+    "plainTextLength": 52504
+  },
+  "trialDate": "2009-04-27"
+}

@@ -1,0 +1,77 @@
+{
+  "caseTitle": "SACKEY VERSUS ASHONG",
+  "summary": "In Sackey v. Ashong, the plaintiff sought recovery of possession of a property in Accra, alleging fraudulent misrepresentation and breach of lease terms. The trial court ruled in her favor, citing equitable fraud, failure to agree on initial repair costs as a condition precedent, and breach of an implied repair covenant. On appeal, the West African Court of Appeal reversed, holding that there was no evidence of equitable fraud and that the plaintiff was estopped by her conduct from denying consent to the defendant's occupation. The court found that the defendant's substantial repairs and continued possession constituted part performance, rendering the agreement enforceable under the principles in Richardson v. Gifford and Walsh v. Lonsdale. It further ruled that the absence of a proviso for re-entry in the proposed lease terms meant that breach of the repair covenant did not entitle the landlord to possession. The appeal was allowed, and the order for possession set aside.",
+  "legalKeywords": [
+    "landlord and tenant",
+    "agreement for lease",
+    "part performance",
+    "covenant to repair",
+    "equitable fraud",
+    "condition precedent",
+    "re-entry",
+    "Statute of Frauds",
+    "implied covenant",
+    "lease terms",
+    "repair costs",
+    "possession",
+    "estoppel",
+    "fraudulent misrepresentation",
+    "monthly tenancy",
+    "structural repairs",
+    "decorations",
+    "rent assessment",
+    "forfeiture",
+    "quiet enjoyment"
+  ],
+  "topics": [
+    "Landlord and Tenant",
+    "Contract Law",
+    "Equity",
+    "Property Law",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed; order for possession set aside",
+  "winningSide": "Defendant (Ashong)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Korsah J.A.",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Ames Ag.J.A.",
+      "role": "Acting Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Hodgkinson v. Crowe (1875) 10 Ch.App. 622",
+    "In re Anderton and Milner's Contract (1890) 45 Ch.D. 476",
+    "Richardson v. Gifford (1834) 1 Ad. & El. 52",
+    "Walsh v. Lonsdale (1882) L.R. 21 Ch.D. 9",
+    "Halsbury, Hailsham ed., Vol. 20, pp. 62 and 63, para. 67",
+    "Halsbury, Hailsham ed., Vol. 20, pp. 36 and 37, para. 43"
+  ],
+  "rationaleHighlights": [
+    "No equitable fraud found; plaintiff's conduct estopped denial of consent",
+    "Repairs constituted part performance, creating enforceable agreement",
+    "Breach of repair covenant does not entitle landlord to re-entry absent express proviso",
+    "Letter of 19 Sept 1950 not a concluded agreement but acts of part performance binding",
+    "Cost disagreement on repairs not a condition precedent to lease formation"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed appellate judgment and clear legal reasoning. Some editorial notes included but clearly distinguished.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/SACKEY v. ASHONG.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:51:30.079Z",
+    "plainTextLength": 26412
+  }
+}

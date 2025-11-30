@@ -1,0 +1,84 @@
+{
+  "caseTitle": "NII ODAI AYIKU IV v THE ATTORNEY-GENERAL & WOR-NII BORTELAB",
+  "summary": "This Supreme Court of Ghana decision addressed the jurisdictional limits of the High Court in chieftaincy matters. The appellant, Nii Odai Ayiku IV, sought declarations that Executive Instrument E.I. 18—prohibiting him from acting as Mantse of Nungua—was null and void, that it could not destool him without judicial process, and that he remained the lawful chief. A default judgment was entered in his favor when the Attorney-General failed to appear. However, Wor-Nii Bortelabi Borkety Laweh XIV, the current chief, successfully applied to set aside the judgment, arguing it affected his chieftaincy rights. The High Court and later the Court of Appeal upheld the setting aside, ruling the matter involved chieftaincy, over which the High Court lacked jurisdiction under Chieftaincy Act, 1971 (Act 370). The Supreme Court affirmed this, holding that the reliefs sought required determination of chieftaincy issues such as destoolment and rightful enstoolment, which are outside the High Court's jurisdiction. The Court emphasized that even void judgments may be challenged at any time by affected parties under established principles.",
+  "legalKeywords": [
+    "jurisdiction",
+    "chieftaincy",
+    "executive instrument",
+    "destoolment",
+    "High Court",
+    "default judgment",
+    "locus standi",
+    "prohibition instrument",
+    "public order",
+    "traditional authority",
+    "judicial process",
+    "ex parte judgment",
+    "Order 36 rule 18",
+    "L.N. 140A",
+    "Act 370",
+    "E.I. 18",
+    "Nungua Mantse",
+    "Ga Traditional Area",
+    "enstoolment",
+    "tribal leadership"
+  ],
+  "topics": [
+    "Jurisdiction",
+    "Chieftaincy Disputes",
+    "Executive Instruments",
+    "Default Judgment",
+    "Traditional Leadership"
+  ],
+  "verdict": "Appeal dismissed. The Supreme Court upheld the Court of Appeal's decision that the High Court lacked jurisdiction to determine the matter, as it involved chieftaincy issues.",
+  "winningSide": "The Attorney-General and Wor-Nii Bortelabi Borkety Laweh XIV",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Owusu (Ms)",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Atuguba",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Ansa",
+      "role": "panel judge"
+    },
+    {
+      "name": "Adinyira (Mrs)",
+      "role": "panel judge"
+    },
+    {
+      "name": "Aryeetey",
+      "role": "panel judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "LAMPTEY VRS HAMMOND [1987-88] 1 GLR 327",
+    "GBAGO VRS OWUSU [1972]2 GLR 252",
+    "MOSI VRS BAGYINA [1963] 1 GLR 337",
+    "Brobbey J.S.C., The Law of Chieftaincy in Ghana"
+  ],
+  "rationaleHighlights": [
+    "The High Court lacked jurisdiction to adjudicate on matters affecting chieftaincy under Act 370.",
+    "Reliefs sought inherently involved chieftaincy issues requiring determination of destoolment and rightful chief.",
+    "Default judgment was void ab initio due to lack of jurisdiction.",
+    "A person injuriously affected by a judgment may apply to set it aside under Lamprey vrs Hammond.",
+    "Executive Instruments affecting chieftaincy cannot be challenged in High Court if they implicate chieftaincy disputes."
+  ],
+  "confidenceNotes": "High confidence in jurisdictional and chieftaincy law analysis based on consistent precedent and statutory interpretation.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/NII ODAI AYIKU IV  v THE ATTORNEY-GENERAL & WOR-NII BORTELAB.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:44:26.916Z",
+    "plainTextLength": 39532
+  },
+  "trialDate": "2010-02-17"
+}

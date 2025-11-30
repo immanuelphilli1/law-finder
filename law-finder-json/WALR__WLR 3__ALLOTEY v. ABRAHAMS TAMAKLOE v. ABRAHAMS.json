@@ -1,0 +1,66 @@
+{
+  "caseTitle": "ALLOTEY VERSUS ABRAHAMS TAMAKLOE",
+  "summary": "This consolidated civil action involved disputes over title to Sempe Stool land in Ghana, where plaintiffs sought recovery of possession, declarations of title, and damages for trespass. The defendant challenged the validity of land conveyances executed by the Sempe Mantse in 1946, claiming he was the Stool Father whose consent was required, and that he had acquired ownership by paying the stool's debts. The court held that under native custom, payment of stool debts does not confer ownership or subrogation rights. It further found that the defendant was not the Stool Father and, even if he held an office, his prolonged non-participation in stool affairs estopped him from challenging transactions conducted without his consent. The conveyances, executed by the Mantse with some elders and linguists and stating consent of relevant parties, were upheld as valid, especially given evidence of actual consent. The 1948 Native Court judgment relied on by the defendant was deemed ineffective as it post-dated the conveyance and had no retroactive effect. The court also ruled that Native Courts lack jurisdiction to issue perpetual injunctions or compel accounting of stool funds. Due to the defendant's repeated contempt of court in similar matters, exemplary damages were awarded.",
+  "legalKeywords": [
+    "native custom",
+    "stool land",
+    "conveyance",
+    "consent",
+    "burden of proof",
+    "estoppel",
+    "exemplary damages",
+    "trespass",
+    "voidable conveyance",
+    "family head",
+    "stool occupant",
+    "elders",
+    "subrogation",
+    "injunction",
+    "accountability",
+    "customary law",
+    "land rights",
+    "prima facie validity",
+    "retroactive effect",
+    "ultra vires",
+    "judicial process"
+  ],
+  "topics": [
+    "land law",
+    "customary law",
+    "conveyancing",
+    "native courts",
+    "estoppel"
+  ],
+  "verdict": "The plaintiffs' claims were upheld. The conveyances were declared valid, possession awarded, and exemplary damages granted due to the defendant's contempt of judicial authority.",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "Quarm v. Yankah and Another (1930) 1 W.A.C.A. 80",
+    "Agbloe and Others v. Sappor (1947) 12 W.A.C.A. 187",
+    "Abude v. Onano (1946) 12 W.A.C.A. 102"
+  ],
+  "rationaleHighlights": [
+    "Conveyance of stool land requires consent of stool occupant or family head; absence on face of deed is prima facie invalid but curable by extrinsic evidence.",
+    "One who pays stool debts is not subrogated to ownership of stool property under native custom.",
+    "Stool office-holder who abstains from administration is estopped from challenging validity of conveyances made without their concurrence.",
+    "Native Court lacks power to issue perpetual injunctions or order accounting of stool moneys; such orders are ultra vires."
+  ],
+  "confidenceNotes": "High confidence; judgment is detailed with clear findings on custom, burden of proof, and validity of conveyances. Obiter dicta on Native Court powers are also clearly stated.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/ALLOTEY v. ABRAHAMS TAMAKLOE v. ABRAHAMS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:17:24.611Z",
+    "plainTextLength": 27562
+  }
+}

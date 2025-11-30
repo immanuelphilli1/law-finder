@@ -1,0 +1,72 @@
+{
+  "caseTitle": "COP v WALTER LOEB",
+  "summary": "The appellant, Walter Loeb, was convicted by the District Magistrate's Court at Nsawam for stealing £130 from his employers, Messrs. W. Bartholomew & Company, Limited, under section 271(1) of Cap. 9. Instead of a conventional sentence, he was bound over in his own recognizance in the sum of £10 to be of good behaviour and to appear for sentence if called upon within 12 months. He appealed to the Supreme Court under section 313(b) of Cap. 10, which was dismissed. He then appealed to the West Africa Court of Appeal. The Court held that no appeal lay under section 313(1) of the Criminal Procedure Code because the order did not fall within any of the four categories listed—specifically, it was not an order for payment of a penalty of at least five pounds, the doing or not doing of an act (with default imprisonment and hard labour), imprisonment, or corporal punishment. The Court clarified that 'conviction or order' must be read such that the conviction must be followed by one of the specified orders to trigger a right of appeal. Additionally, the Court noted that the binding over order was legally defective under section 78(4) of the Criminal Code, which requires a specified term of imprisonment in default, and could only have been valid under section 79(1)(b) if made without a conviction. The appeal was dismissed for lack of jurisdiction.",
+  "legalKeywords": [
+    "appeal",
+    "conviction",
+    "binding over",
+    "recognizance",
+    "good behaviour",
+    "sentence",
+    "Criminal Procedure Code",
+    "Criminal Code",
+    "Supreme Court",
+    "District Magistrate",
+    "section 313",
+    "section 78",
+    "section 79"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Sentencing",
+    "Binding Over",
+    "Statutory Interpretation"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent (Commissioner of Police)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Strother-Stewart",
+      "role": "Justice"
+    },
+    {
+      "name": "Fuad",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Section 313(1)(b) of the Criminal Procedure Code (Cap. 10)",
+    "Section 78(4) of the Criminal Code (Cap. 9)",
+    "Section 79(1)(b) of the Criminal Code (Cap. 9)",
+    "Section 34 of the Interpretation Ordinance (Cap. 1)"
+  ],
+  "rationaleHighlights": [
+    "Section 313(1)(b) does not cover binding over in recognizance without a default penalty of imprisonment with hard labour.",
+    "The phrase 'conviction or order' must be read conjunctively with the listed penalties to limit appeal rights.",
+    "An appeal lies only if the conviction is followed by one of the specified orders under subsections (a)-(d).",
+    "The order made did not meet the requirements of section 313(1)(b) as it involved only a monetary recognizance without an act other than payment or surety.",
+    "The binding over order was legally flawed because it failed to specify a term of imprisonment in default, contrary to section 78(4) of the Criminal Code.",
+    "Such an order could only be valid under section 79(1)(b) if made without proceeding to conviction.",
+    "No right of appeal existed under section 313 where the order did not fall within any of the enumerated categories.",
+    "The appeal was dismissed at both the Supreme Court and West Africa Court of Appeal levels due to lack of statutory basis."
+  ],
+  "confidenceNotes": "High confidence; all information is directly drawn from the judgment text with clear statutory references and judicial reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/COP v WALTER LOEB.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:09:06.957Z",
+    "plainTextLength": 5468
+  },
+  "trialDate": "1940-02-02"
+}

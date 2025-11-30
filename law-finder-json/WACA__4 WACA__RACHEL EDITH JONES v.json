@@ -1,0 +1,68 @@
+{
+  "caseTitle": "RACHEL EDITH JONES v",
+  "summary": "In this West Africa Court of Appeal decision from 1938, Rachel Edith Jones, a married woman and beneficiary under the will of Josiah Byron Macaulay, sued the executors and trustees of the estate, along with her husband, seeking execution of the trusts, conveyance of her undivided share in a Freetown plot, and an account of rents and profits. The will explicitly provided that any property devolving on a female beneficiary would be her sole and separate property, independent of her husband's control. The trial court ordered conveyance of her interest and dismissed the trustees' counterclaim for possession and mesne profits. The appellate court upheld this decision, affirming that where land is held in trust for a married woman for her separate use, she has the right to require conveyance of the legal estate. It further held that as a tenant in common in fee, the respondent had unity of possession, and in the absence of any claim by co-tenants, her possession was lawful. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "trusts",
+    "separate property",
+    "married woman",
+    "tenancy in common",
+    "conveyance",
+    "executors and trustees",
+    "will interpretation",
+    "mesne profits",
+    "equitable estate",
+    "reimbursement",
+    "real property",
+    "minority of devisee",
+    "rents and profits",
+    "legal estate",
+    "beneficiaries"
+  ],
+  "topics": [
+    "Trust Law",
+    "Property Law",
+    "Women's Rights",
+    "Succession",
+    "Equity"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Plaintiff-Respondent (Rachel Edith Jones)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webb",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Williams Real Property 22nd Edition p. 320",
+    "Appleton v. Rowley L.R. 8 Eq. at p. 142"
+  ],
+  "rationaleHighlights": [
+    "Lands were limited in trust for the wife in fee for her separate use, entitling her to demand conveyance of the legal estate.",
+    "The wife, as tenant in common in fee, had unity of possession with other co-tenants.",
+    "No co-beneficiary claimed possession or rent share, justifying dismissal of counterclaim.",
+    "Trustees could not reimburse unauthorized expenditures from trust income without accountability."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and cited authority.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/RACHEL EDITH JONES v.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:00:40.367Z",
+    "plainTextLength": 7090
+  },
+  "trialDate": "1938-03-25"
+}

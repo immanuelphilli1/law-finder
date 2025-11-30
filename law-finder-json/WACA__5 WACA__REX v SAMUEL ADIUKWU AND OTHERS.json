@@ -1,0 +1,68 @@
+{
+  "caseTitle": "REX v SAMUEL ADIUKWU AND OTHERS",
+  "summary": "This consolidated appeal from the High Court arose from the joint trial of four accused persons who had been separately indicted and committed for trial. The first three were charged with conspiracy, preparation for coining, and possession of counterfeit coins, while the fourth faced separate charges of counterfeiting, preparation, and possession. Despite separate indictments, they were tried together. The West African Court of Appeal held that the joint trial of separately indicted defendants was a nullity due to lack of jurisdiction, citing Rex v. Crane and other authorities. The court emphasized that such a misjoinder constitutes a fundamental procedural defect, which the court must notice even if not raised by the parties. Consequently, the convictions and sentences were declared void and expunged. Under section 11(5) of the West African Court of Appeal Ordinance, the court ordered new trials before the High Court. Although only the fourth accused appealed, the benefit of the decision extended to all defendants in relation to the impugned trial.",
+  "legalKeywords": [
+    "misjoinder",
+    "nullity",
+    "lack of jurisdiction",
+    "venire de novo",
+    "consolidated cases",
+    "separate indictments",
+    "simultaneous trial",
+    "criminal procedure",
+    "appeal",
+    "retrial"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Trial Jurisdiction",
+    "Misjoinder of Charges",
+    "Nullity of Proceedings"
+  ],
+  "verdict": "Convictions declared null and void; retrial ordered.",
+  "winningSide": "Appellant (Richard Onwusamaonye) and co-accused",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Butler Lloyd",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    },
+    {
+      "name": "Brooke",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v. Crane, 15 C.A.R. 23",
+    "Rex v. Charles Dennis and Henry Parker, 18 C.A.R. 39",
+    "Rex v. Macdonnell, 20 C.A.R. 163"
+  ],
+  "rationaleHighlights": [
+    "Defendants indicted separately cannot be tried jointly.",
+    "A joint trial without joint indictment constitutes a mistrial.",
+    "The court has a duty to notice a manifest want of jurisdiction, even if not raised by parties.",
+    "Proceedings lacking jurisdiction are a legal nullity.",
+    "Section 11(5) of the West African Court of Appeal Ordinance allows for a new trial.",
+    "Verdicts and sentences were expunged from the record.",
+    "Benefit of the decision extends to non-appellants.",
+    "Consolidation of separate cases without proper basis invalidates the trial."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text with clear legal reasoning and citations.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/REX v SAMUEL ADIUKWU AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:39:33.054Z",
+    "plainTextLength": 5170
+  },
+  "trialDate": "1939-10-20"
+}

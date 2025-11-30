@@ -1,0 +1,82 @@
+{
+  "caseTitle": "FKA COMPANY LTD v EFFAH SARKODIE",
+  "summary": "In FKA Company Ltd v Effah Sarkodie, the Supreme Court of Ghana dismissed the appellant's appeal challenging the lower courts' rulings in favor of the respondent in a land dispute. The plaintiff, FKA Company Ltd, claimed title to approximately 95.194 acres at New Weija-Accra, acquired via customary grant in 1980 by its managing director from the Weija Stool, with formal documentation updated in 1998 when the company was incorporated. The defendant claimed ownership through grants from the Ngleshie Amanfro Stool and later the Weija Stool. The court found that the plaintiff’s prior customary acquisition divested the Weija Stool of any further interest, rendering subsequent grants invalid under the principle of nemo dat quod non habet. Crucially, an independent surveyor confirmed that 85% of the land claimed by the defendant fell within the plaintiff’s cadastral plan. The court also relied on prior unchallenged judgments affirming the plaintiff’s title and a letter of consent to sublet signed by Weija authorities. The defendant’s arguments, including alleged inconsistencies in testimony and the corporate entity distinction under Salomon v Salomon, were rejected. The Supreme Court upheld the findings of the lower courts, affirming that the plaintiff had established title by preponderance of probabilities.",
+  "legalKeywords": [
+    "customary land tenure",
+    "declaration of title",
+    "recovery of possession",
+    "trespass",
+    "perpetual injunction",
+    "nemo dat quod non habet",
+    "preponderance of probabilities",
+    "burden of proof",
+    "cadastral plan",
+    "survey evidence",
+    "corporate succession",
+    "separate legal entity",
+    "collusion",
+    "caretaker arrangement",
+    "inconsistencies in testimony"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Corporate Law",
+    "Evidence",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed; judgment in favor of FKA Company Ltd upheld.",
+  "winningSide": "FKA Company Ltd",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "G. T. Wood",
+      "role": "Chief Justice (Presiding)"
+    },
+    {
+      "name": "Adzoe",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Anin-Ampah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Asiamah",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil land dispute",
+  "citations": [
+    "Tuakwa v Bosom [2001-2002] SCGLR 61",
+    "DOVIE & DOVIE v ADABANU [2005-2006] SCGLR 905",
+    "EFFISAH v ANSAH [2005-2006] SCGLR 943",
+    "Hammond v Odoi [1982-83] 2 GLR 1215",
+    "Salomon v Salomon [1897] AC 22",
+    "Manche Anege Akwei v Manche Kojo Ababio IV (Accra Water Works Acquisition) dated 24th July 1948",
+    "Full Court judgment dated 1924"
+  ],
+  "rationaleHighlights": [
+    "An effective customary conveyance divests the grantor of any further interest in the land.",
+    "The preponderance of evidence, including survey reports and judicial admissions, favored the plaintiff.",
+    "The defendant's grant from the Weija Stool was invalid as the land had already been conveyed in 1980.",
+    "Minor inconsistencies in testimony do not undermine a party's case if the core facts are corroborated.",
+    "The corporate plaintiff could succeed to the rights of its managing director under customary law."
+  ],
+  "confidenceNotes": "High confidence; all key facts and legal principles are clearly stated in the judgment with supporting citations and evidence.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2008/FKA COMPANY LTD v EFFAH SARKODIE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:15:23.014Z",
+    "plainTextLength": 26690
+  },
+  "trialDate": "2008-10-27"
+}

@@ -1,0 +1,70 @@
+{
+  "caseTitle": "BIE AKPUBA VERSUS ABEL IKOLO, AGBAGARA",
+  "summary": "In this 1937 West African Court of Appeal decision, the appellants (Abel Ikolo and others) appealed a magistrate's award of damages to the plaintiffs (Maxwell Ono and another) for assault and false imprisonment. The appellants argued that the magistrate lacked jurisdiction under Section 32 of the Protectorate Courts Ordinance, 1933, because the incident occurred on land subject to a pending Native Court proceeding. The Court rejected this argument, holding that the magistrate retained jurisdiction because the case involved serious assault and illegal detention, not merely a land dispute or ejection of trespassers. The Court emphasized that the issue of land title was not raised by the plaintiffs' pleadings and did not affect the Native Court proceedings. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "assault and battery",
+    "false imprisonment",
+    "jurisdiction",
+    "ouster of jurisdiction",
+    "tort",
+    "land dispute",
+    "magistrate's court",
+    "Native Court",
+    "pending litigation",
+    "proviso interpretation",
+    "title to land",
+    "tortious liability",
+    "original jurisdiction",
+    "civil wrong",
+    "appellate jurisdiction"
+  ],
+  "topics": [
+    "Tort Law",
+    "Jurisdiction",
+    "Appellate Procedure",
+    "Land Law"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Plaintiffs-Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Reg v. Butler, Pearson, 22 L.T.R. 126",
+    "Section 32, Protectorate Courts Ordinance, 1933",
+    "Section 46, 24 & 25 Victoria C.100"
+  ],
+  "rationaleHighlights": [
+    "The magistrate's jurisdiction was not ousted because the case involved serious assault and false imprisonment, not a land title dispute.",
+    "The location of the assault (on disputed land) did not deprive the court of jurisdiction where title was not in issue.",
+    "The proviso to Section 32 only excludes jurisdiction when title to land is actually in issue, not merely alleged.",
+    "The plaintiffs did not raise title as an issue in their pleadings, so no jurisdictional bar applied.",
+    "The English case Reg v. Butler was distinguished due to broader statutory language in the UK statute.",
+    "The pending Native Court proceedings on land title were unaffected by the tort claims adjudicated here."
+  ],
+  "confidenceNotes": "High confidence. The source document provides a clear joint judgment with reasoning, parties, and legal basis. Jurisdictional context is specific to the West African Court of Appeal under colonial legal framework. All extracted data is directly supported by the text.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/MAXWELL ONO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:20:30.331Z",
+    "plainTextLength": 4828
+  },
+  "trialDate": "1937-10-19"
+}

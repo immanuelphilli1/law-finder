@@ -1,0 +1,67 @@
+{
+  "caseTitle": "REGINA VERSUS AKIWUMI AND BANNERMAN.",
+  "summary": "In Regina v. Akiwumi and Bannerman, ex parte Dako, the West Africa Court of Appeal considered whether an order by a Divisional Court enlarging the time for an application for certiorari was appealable. The appellants sought to appeal from an order by Windsor-Aubrey J. that extended the time for applying to quash a magistrate's order for the sale of property due to unpaid rates. The respondent raised a preliminary objection that the Court of Appeal lacked jurisdiction. The court held that the order enlarging time was not a 'final judgment or decision' under s. 3(1) of the Court of Appeal Ordinance, as it did not determine any claim respecting property or civil rights. It further held that the order was not 'interlocutory' under s. 3(3) because no suit or matter was pending at the time. The appeal was therefore dismissed for lack of jurisdiction.",
+  "legalKeywords": [
+    "appeal",
+    "enlargement of time",
+    "jurisdiction",
+    "interlocutory order",
+    "final judgment",
+    "certiorari",
+    "Court of Appeal Ordinance",
+    "divisional court",
+    "prerogative writ",
+    "civil right",
+    "property rights",
+    "procedural fairness",
+    "statutory interpretation",
+    "leave to appeal",
+    "preliminary objection"
+  ],
+  "topics": [
+    "Appellate Jurisdiction",
+    "Procedural Law",
+    "Judicial Review",
+    "Time Extensions",
+    "Certiorari"
+  ],
+  "verdict": "Appeal dismissed for lack of jurisdiction.",
+  "winningSide": "Respondent",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "van Lare",
+      "role": "Ag.C.J."
+    },
+    {
+      "name": "Granville Sharp",
+      "role": "J.A."
+    },
+    {
+      "name": "Adumua-Bossman",
+      "role": "J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "R. v. Ashford (Kent) Justices, ex parte Bichley [1955] 2 All E.R. 327",
+    "R. v. Jackson (1956) West African Court of Appeal, unreported"
+  ],
+  "rationaleHighlights": [
+    "An order enlarging time is independent of the substantive matter and constitutes a final order on the application before the court.",
+    "Such an order does not constitute a 'final judgment or decision' under s. 3(1) because no claim respecting property or civil rights has yet been adjudicated.",
+    "The order is not interlocutory under s. 3(3) because there were no pending proceedings at the time.",
+    "The court lacks jurisdiction where the appeal does not fall within s. 3(1) or s. 3(3) of the Court of Appeal Ordinance."
+  ],
+  "confidenceNotes": "High confidence in jurisdictional and statutory interpretation analysis; the court's reasoning is clear and consistent with precedent.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/REGINA v. AKIWUMI AND BANNERMAN. Ex parte DAKO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:59:47.655Z",
+    "plainTextLength": 8573
+  }
+}

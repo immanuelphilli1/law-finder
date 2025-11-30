@@ -1,0 +1,75 @@
+{
+  "caseTitle": "OPANIN YAW OKYERE (DECEASED) SUBSTITUTED BY YAW PEPRAH SUING AS HEAD OF ANIMA KORKOR FAMILY OF SENIAGYA, ASANTE",
+  "summary": "This Supreme Court of Ghana decision addresses the devolution of a deceased person's estate and the rights of beneficiaries prior to the grant of vesting assent. The court held that upon death, whether testate or intestate, the estate vests in the executor or personal representative until a vesting assent is granted, at which point beneficiaries gain legal title. Until then, beneficiaries lack locus standi over the estate. However, recognizing potential abuse or neglect by executors, the court affirmed that beneficiaries or family members may bring legal action based on their 'expectant interest' to protect the estate from dissipation or misuse. Such actions may include compelling the executor to act or seeking court appointment of a new administrator. This equitable principle applies to both testate and intestate estates, ensuring protection of inheritance rights even before formal vesting.",
+  "legalKeywords": [
+    "devolution of estate",
+    "vesting assent",
+    "beneficiary rights",
+    "executor duties",
+    "expectant interest",
+    "testate succession",
+    "intestate succession",
+    "locus standi",
+    "equity",
+    "family property",
+    "customary law",
+    "probate",
+    "estate administration",
+    "dissipation of estate",
+    "counterclaim"
+  ],
+  "topics": [
+    "Inheritance Law",
+    "Probate and Estate Administration",
+    "Equity and Trusts",
+    "Family Property Disputes",
+    "Legal Standing"
+  ],
+  "verdict": "The appeal was dismissed, affirming the lower courts' findings that the properties in question were self-acquired by the testatrix and validly devised. However, the Supreme Court provided important clarifications on beneficiary rights and equitable remedies in estate administration.",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "S. A. Brobbey",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "Adinyira (Mrs.)",
+      "role": "Justice"
+    },
+    {
+      "name": "Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "Aryeetey",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "CIVIL APPEAL J4/17/2008"
+  ],
+  "rationaleHighlights": [
+    "Beneficiaries have no legal title or locus standi until vesting assent is granted.",
+    "Beneficiaries may act on expectant interest to protect estate from dissipation.",
+    "Executor inaction or abuse may justify court intervention for estate protection.",
+    "Court emphasizes equity in estate administration.",
+    "Clarification provided to prevent absurdity in legal interpretation."
+  ],
+  "confidenceNotes": "The document appears to be truncated, particularly in the section of Date-Bah JSC's judgment, limiting full contextual understanding. However, key legal principles and case details are preserved in the available text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/OPANIN YAW OKYERE (DECEASED) SUBSTITUTED BY YAW PEPRAH SUING AS HEAD OF ANIMA KORKOR FAMILY OF SENIAGYA, ASANTE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:59:40.012Z",
+    "plainTextLength": 31804
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "caseTitle": "THE REPUBLIC v THE AUTOMATED FAST TRACK HIGH COURT EX-PARTE",
+  "summary": "The Supreme Court of Ghana granted an application by the Republic to quash garnishee proceedings and related orders issued by the Automated Fast Track High Court. The court found that the garnishee order of 24th April 2008 and its subsequent variation on 20th June 2008 were invalid due to non-compliance with Order 47, Rule 3(1)(b) of the High Court Civil Procedure Rules (C.I. 47), which requires service of the order to show cause on the judgment debtor at least seven days before the hearing, unless otherwise directed by the court. Since no such direction was given and service was not effected, the proceedings were deemed a jurisdictional nullity. The court did not rule on whether the trial judge had lost judicial capacity upon elevation to the Court of Appeal, as the procedural defect alone sufficed to invalidate the orders.",
+  "legalKeywords": [
+    "garnishee proceedings",
+    "jurisdictional nullity",
+    "service of process",
+    "Order 47 Rule 3",
+    "functus officio",
+    "natural justice",
+    "certiorari",
+    "High Court Civil Procedure Rules",
+    "judicial capacity",
+    "quashing of orders"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Civil Procedure",
+    "Judicial Review"
+  ],
+  "verdict": "The application succeeded. The garnishee order of 24th April 2008 and the subsequent order of 20th June 2008 were quashed for lack of jurisdiction due to failure to serve the judgment debtor as required by Order 47, Rule 3(1)(b) of C.I. 47.",
+  "winningSide": "The Republic (Applicant)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "W. A. Atuguba",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "S. A. B. Sophia Akuffo",
+      "role": "Justice"
+    },
+    {
+      "name": "J. Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "S. O. A. Adinyira",
+      "role": "Justice"
+    },
+    {
+      "name": "P. Baffoe-Bonnie",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "citations": [
+    "Republic v. District Magistrate, Accra; Ex parte Adio (1972) 2 GLR 125",
+    "Vasquez v. Quarshie (1968) GLR 62",
+    "Republic v. High Court, Bolgatanga, Ex-parte Hawa Yakubu (2001-2002) SCGLR 53"
+  ],
+  "rationaleHighlights": [
+    "Failure to serve the judgment debtor with the garnishee order to show cause violated Order 47, Rule 3(1)(b) of C.I. 47.",
+    "Non-service constitutes a jurisdictional error, rendering the proceeding a nullity.",
+    "A court lacks jurisdiction to proceed when a party is not notified, violating audi alteram partem.",
+    "The defect in service alone invalidated the garnishee order and its variation, making further inquiry unnecessary."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on explicit court reasoning and cited procedural rules. No ambiguity in outcome or legal basis.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2008/THE REPUBLIC v THE AUTOMATED FAST TRACK HIGH COURT EX-PARTE .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:13:04.371Z",
+    "plainTextLength": 12177
+  },
+  "trialDate": "2008-11-19"
+}

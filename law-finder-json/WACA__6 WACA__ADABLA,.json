@@ -1,0 +1,68 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This 1940 West Africa Court of Appeal decision arose from a land boundary dispute between members of the Anyigbe Tribe and defendants from Frevieh and Avegomeh. The case originated in the Native Tribunal of Ada, which non-suited the plaintiff. The Provincial Commissioner's Court reversed that decision after taking additional evidence, including a survey and site view. On initial appeal, the West Africa Court of Appeal set aside the Provincial Commissioner's judgment due to non-compliance with s 77(1) of the Native Administration Ordinance. The Privy Council remitted the case, holding the Court had discretion to hear the appeal. Upon rehearing, the Court confirmed jurisdiction, found the Native Tribunal trial unfair due to unconsidered viewer reports, and criticized the Provincial Commissioner for overruling factual findings based on partially heard evidence. The appeal was allowed, the lower court judgments were set aside, and the case was remitted for a de novo hearing before the Native Tribunal. The Court also disapproved of the practice of one person testifying under another's name, citing perjury risks.",
+  "legalKeywords": [
+    "land dispute",
+    "boundary dispute",
+    "native tribunal",
+    "appellate procedure",
+    "rehearing de novo",
+    "jurisdiction",
+    "leave to appeal",
+    "evidence",
+    "perjury",
+    "procedural fairness"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Native Tribunals",
+    "Procedural Fairness",
+    "Evidence Law"
+  ],
+  "verdict": "Appeal allowed; judgment of Provincial Commissioner's Court set aside; case remitted for de novo hearing in Native Tribunal; judgment of Native Tribunal not revived.",
+  "winningSide": "Plaintiff-Appellant (Adabla, on behalf of the Anyigbe Tribe)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "Graham Paul, C.J., Sierra Leone",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "Native Administration Ordinance (No. 18 of 1927), s 77(1)",
+    "Native Administration Ordinance, s 83(1)",
+    "Ordinance No. 18 of 1935"
+  ],
+  "rationaleHighlights": [
+    "Provincial Commissioner improperly overruled Native Tribunal on factual grounds using evidence not fully heard.",
+    "Section 77(1) compliance confirmed after remittal; appeal jurisdiction upheld.",
+    "Practice of one person testifying under another's name disapproved as perjury risk.",
+    "Trial in Native Tribunal deemed unfair due to unconsidered viewer report.",
+    "Appellate partial rehearing criticized; de novo hearing required.",
+    "Judgment of Provincial Commissioner set aside; Native Tribunal judgment not revived.",
+    "Case remitted for de novo hearing before Native Tribunal.",
+    "Costs to be borne by each party in higher courts; all costs in Native Tribunal to abide final outcome."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on primary court document; citations and procedural history clearly stated.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/ADABLA,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:12:16.788Z",
+    "plainTextLength": 11171
+  },
+  "trialDate": "1940-06-06"
+}

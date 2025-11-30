@@ -1,0 +1,67 @@
+{
+  "caseTitle": "IN THE MATTER OF THE ESTATE OF FREDERICK AKINDELE SOMEFUN-Deceased",
+  "summary": "This West Africa Court of Appeal decision from 1941 concerns the distribution of the estate of Frederick Adetindele Somefun, who died intestate and was survived by issue from a statutory marriage under the Marriage Ordinance and a widow and children from a customary marriage. The central issue was whether the estate should pass to the statutory issue or to the customary family. The Court held that under section 36 of the Marriage Ordinance, the personal property of an intestate who is the issue of a statutory marriage must be distributed according to the English law of intestacy, which recognizes only monogamous unions, to the exclusion of native law or custom. Consequently, the widow and children from the customary marriage were excluded from succession. The trial judge was affirmed in revoking the grant to the Administrator-General and issuing a new grant to the statutory issue.",
+  "legalKeywords": [
+    "intestate succession",
+    "Letters of Administration",
+    "Marriage Ordinance",
+    "customary marriage",
+    "personal property distribution",
+    "English law application",
+    "section 36",
+    "native law and custom",
+    "revocation of grant",
+    "polygamous union"
+  ],
+  "topics": [
+    "intestate succession",
+    "customary vs statutory marriage",
+    "application of English law in colonial courts",
+    "probate administration",
+    "exclusion of customary heirs"
+  ],
+  "verdict": "The appeal was dismissed; the trial judge's decision favoring the statutory issue was upheld.",
+  "winningSide": "The surviving issue of the deceased's statutory marriage under the Marriage Ordinance",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Baker",
+      "role": "Justice"
+    },
+    {
+      "name": "Brooke",
+      "role": "Justice"
+    },
+    {
+      "name": "Jeffreys",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "probate and succession",
+  "citations": [
+    "Marriage Ordinance, Chapter 68",
+    "Ordinance No. 47 of 1933",
+    "section 36 of the Marriage Ordinance",
+    "section 35 of the Marriage Ordinance",
+    "Ordinance of 1884, section 41"
+  ],
+  "rationaleHighlights": [
+    "Section 36 mandates distribution of intestate estate according to English law, excluding native law or custom",
+    "English law contemplates monogamous marriage, thus excluding widows and children from customary marriages",
+    "Customary marriages are saved under section 35 but do not affect succession rights under section 36",
+    "The term 'issue of a marriage under the Ordinance' limits succession rights to those from statutory marriages",
+    "The Administrator-General's grant was correctly challenged in favor of statutory heirs"
+  ],
+  "confidenceNotes": "The decision is based on a clear statutory interpretation of colonial-era ordinances, with explicit judicial reasoning. Citations are directly referenced in the text.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/IN THE MATTER OF THE ESTATE OF FREDERICK AKINDELE SOMEFUN-.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:34:05.010Z",
+    "plainTextLength": 5197
+  },
+  "trialDate": "1941-05-10"
+}

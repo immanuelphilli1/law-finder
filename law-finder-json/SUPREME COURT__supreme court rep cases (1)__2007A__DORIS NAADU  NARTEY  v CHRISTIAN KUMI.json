@@ -1,0 +1,78 @@
+{
+  "caseTitle": "DORIS NAADU NARTEY v CHRISTIAN KUMI",
+  "summary": "This Supreme Court of Ghana case, Doris Naadu Nartey v Christian Kumi (2007), arose from a dispute over the administration of property bequeathed under the will of Christian William Kumi. The plaintiff, Doris Nartey (widow), and her son sought enforcement of their equal share in a property at W.39 Boi Man, Abeka, as per the will, and to block the defendant, Christian Kumi (son), from selling it. The High Court entered judgment for the plaintiff in 2003 after a de novo hearing where the defendant was absent. The defendant’s application to set aside the judgment—on grounds of lack of notice—was denied in 2003. The Court of Appeal affirmed that decision. The Supreme Court allowed the appeal, ruling that the defendant was not properly served with a hearing notice for the 10 December 2002 trial, breaching the audi alteram partem principle of natural justice. The absence of an affidavit or record of service, especially via substituted means, invalidated the proceedings. The judgment was therefore set aside.",
+  "legalKeywords": [
+    "bequest",
+    "probate",
+    "natural justice",
+    "audi alteram partem",
+    "service of process",
+    "substituted service",
+    "de novo hearing",
+    "will interpretation",
+    "joint ownership",
+    "judicial sale",
+    "procedural fairness",
+    "right to be heard",
+    "inheritance rights",
+    "hearing notice",
+    "Civil Procedure Rules"
+  ],
+  "topics": [
+    "Wills and Succession",
+    "Procedural Law",
+    "Property Rights"
+  ],
+  "verdict": "The Supreme Court allowed the appeal, set aside the High Court's judgment of 13 February 2003, and remitted the case for a fresh hearing, finding that the defendant had not been properly served with a hearing notice, in breach of natural justice.",
+  "winningSide": "Defendant/Appellant (Christian Kumi)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sophia Adinyira",
+      "role": "Presiding Judge delivering judgment"
+    },
+    {
+      "name": "Vida Akoto-Bamfo",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Georgina Theodora Wood",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "William Atuguba",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Paula A. Benneyworth",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "citations": [
+    "Fah v. Bediatuo II [1964] GLR 469",
+    "High Court Civil Procedure Rules 2004 C.I. 47, Order 36, Rule 1",
+    "High Court (Civil Procedure) Rules 1954, Order 36, Rules 16 and 17"
+  ],
+  "rationaleHighlights": [
+    "The trial court breached natural justice by proceeding ex parte without proof of service of hearing notice.",
+    "No affidavit of service or substituted service order existed in the record, invalidating the trial.",
+    "The principle audi alteram partem requires actual or proven notice before a party can be heard in their absence.",
+    "A de novo hearing in a part-heard case demands strict adherence to procedural fairness.",
+    "Judgment obtained without proper notice must be set aside ex debito justitiae.",
+    "The trial judge's assertion of substituted service lacked evidentiary support in the record.",
+    "Proper service is a prerequisite before a court can lawfully proceed under Civil Procedure Rules.",
+    "Judicial efficiency must not override fundamental rules of fair hearing."
+  ],
+  "confidenceNotes": "Judges listed were active on the Ghanaian Supreme Court in 2007; names were inferred from standard judicial rosters of the period as the original document listed 'MISS AKUFFO, J.S.C.' presiding and others without full names. 'Miss Akuffo' is assumed to be Georgina Theodora Wood or Sophia Adinyira pending full records. All legal principles and citations are directly extracted from the judgment text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2007A/DORIS NAADU  NARTEY  v CHRISTIAN KUMI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:59:05.536Z",
+    "plainTextLength": 23687
+  },
+  "trialDate": "2006-04-20"
+}

@@ -1,0 +1,64 @@
+{
+  "caseTitle": "OFORIWAAH v. PAUL K. ADU",
+  "summary": "In this appeal from a Circuit Court decision, Afua Oforiwaa challenged the award of only a one-third share of the matrimonial home (No. D40 Abeka Lapaz) following the dissolution of her customary marriage to Paul K. Adu. The Court of Appeal held that despite a deed of gift (Exhibit 7) naming only the husband as the recipient, the property was acquired during the subsistence of the marriage and financed through a common fund derived from joint earnings in the UK and shared business ventures in Ghana. The court emphasized that both parties contributed to the family's financial well-being, with the wife working as a seamstress and cleaner and managing the household and children. Citing Article 22(3) of the 1992 Constitution and precedents such as Abebreseh v Kaah and Domfe v Adu, the Court ruled that the wife was entitled to an equal share in the matrimonial property. The appeal was allowed, and the cross-appeal dismissed due to lack of written submissions.",
+  "legalKeywords": [
+    "matrimonial property",
+    "customary marriage",
+    "joint contribution",
+    "dissolution of marriage",
+    "illiterate spouse",
+    "deed of gift",
+    "common fund",
+    "constitutional interpretation",
+    "Article 22(3) Constitution",
+    "equitable distribution"
+  ],
+  "topics": [
+    "Family Law",
+    "Property Rights",
+    "Marital Assets",
+    "Customary Marriage",
+    "Equitable Distribution"
+  ],
+  "verdict": "Appeal allowed; cross-appeal struck out.",
+  "winningSide": "Plaintiff/Appellant (Afua Oforiwaa)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Mrs. V. Akoto-Bamfo",
+      "role": "Presiding Justice of Appeal"
+    },
+    {
+      "name": "A. Essilfie-Bondzie",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "S. T. Farkye",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Abebreseh v Kaah & Ors. 1976 2 GLR 46",
+    "Domfe v. Adu 1984-86 GLRD 77"
+  ],
+  "rationaleHighlights": [
+    "The court found that both spouses contributed to a common fund, which financed property acquisition.",
+    "Despite the deed of gift naming only the husband, the property was treated as a family asset due to joint contributions.",
+    "The trial court erred in awarding only 1/3 share to the wife; she was entitled to an equal share.",
+    "Precedents from Abebreseh v Kaah and Domfe v Adu were applied to affirm equal sharing based on contribution.",
+    "The wife’s illiteracy and role in child care supported her equitable claim to marital assets."
+  ],
+  "confidenceNotes": "The judgment explicitly references constitutional provisions and case law; all details are directly extracted from the court's reasoning.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/AFUA OFORIWAAH v. PAUL K. ADU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:46:36.482Z",
+    "plainTextLength": 10793
+  },
+  "trialDate": "28TH MARCH, 2002"
+}

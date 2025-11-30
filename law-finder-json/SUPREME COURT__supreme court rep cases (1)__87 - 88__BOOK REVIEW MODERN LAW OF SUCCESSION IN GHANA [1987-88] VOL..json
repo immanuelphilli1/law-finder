@@ -1,0 +1,59 @@
+{
+  "caseTitle": "BOOK REVIEW MODERN LAW OF SUCCESSION IN GHANA [1987-88] VOL.",
+  "summary": "This document is a book review of 'Modern Law of Succession in Ghana' by A.K.P. Kludze, published in 1988, assessing its value for legal practitioners and law students. The review highlights the book's comprehensive coverage of wills, intestate succession, customary and statutory laws, including analysis of the Intestate Succession Law, 1985 (PNDCL 111), and marriage ordinances. It commends Kludze's critical engagement with prior scholarship and judicial decisions, his suggestions for legal reform, and his distinction between 'practised' and 'judicial' customary law. The reviewer notes several thought-provoking arguments, such as questioning the applicability of English law principles in Ghana and proposing amendments to inheritance rules. However, the review also identifies shortcomings, including typographical errors, omissions (e.g., on estate administration and registration under PNDCL 112), and overly lengthy discussions on certain theoretical points. Despite these flaws, the book is highly recommended for its scholarly depth and practical relevance.",
+  "legalKeywords": [
+    "succession law",
+    "intestate succession",
+    "customary law",
+    "Wills Act 1971",
+    "PNDCL 111",
+    "testate succession",
+    "marriage ordinance",
+    "nuncupative will",
+    "legal reform",
+    "judicial customary law",
+    "practised customary law",
+    "adoption in customary law",
+    "domicile",
+    "insolvent estates",
+    "estate administration"
+  ],
+  "topics": [
+    "Book Review",
+    "Succession Law",
+    "Customary Law",
+    "Statutory Interpretation",
+    "Legal Scholarship"
+  ],
+  "verdict": "The book is favorably reviewed with critical observations.",
+  "winningSide": "Author (A.K.P. Kludze)",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Book Review / Legal Commentary",
+  "citations": [
+    "Parker v Felgate (1883)",
+    "Coleman v Shang (1959)",
+    "Re Lartey [1972] 2 GLR 488",
+    "Awotwi v Abadoo [1977] 2 GLR 375",
+    "The Law of Testate and Intestate Succession (Ollennu, 1966)",
+    "Ewe Law of Property (Kludze, 1973)"
+  ],
+  "rationaleHighlights": [
+    "The book effectively challenges established legal views and invites re-evaluation of succession doctrines.",
+    "Kludze's critique of PNDCL 111 is grounded, fair, and offers practical reform suggestions.",
+    "Questions the continued applicability of English colonial statutes in independent Ghana.",
+    "Highlights inconsistencies in statutory treatment of commorientes and privileged wills.",
+    "Emphasizes the need for clarity on adoption and family structure under customary law."
+  ],
+  "confidenceNotes": "High confidence in summary and legal themes; no actual court decision analyzed—source is a scholarly book review. Jurisdiction inferred from context (Ghanaian law). Case type and verdict interpreted based on review tone and structure.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/87 - 88/BOOK REVIEW MODERN LAW OF SUCCESSION IN GHANA [1987-88] VOL..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:27:25.564Z",
+    "plainTextLength": 13190
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "caseTitle": "IN THE MATTER OF ORDER No",
+  "summary": "The appellant, Ohene of Abodom, sought a writ of certiorari to quash Order No. 30 of 1932 made by the Governor under section 121 of the Native Administration Ordinance, which dealt with the constitutional relationship between a Divisional Chief and the Paramount Chief under native customary law. The West African Court of Appeal dismissed the appeal, holding that the Governor was acting in an executive capacity, not a judicial one, and thus certiorari was not available. Furthermore, the court affirmed that section 35 of the Ordinance expressly barred judicial review of such matters, preserving the separation between customary political structures and judicial oversight.",
+  "legalKeywords": [
+    "writ of certiorari",
+    "executive act",
+    "judicial act",
+    "jurisdiction",
+    "Native Administration Ordinance",
+    "section 121",
+    "section 35",
+    "Governor's order",
+    "constitutional relations",
+    "customary law",
+    "inferior jurisdiction",
+    "supervisory jurisdiction",
+    "administrative decision",
+    "rule nisi",
+    "quashing order"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Constitutional Law",
+    "Customary Law",
+    "Judicial Review",
+    "Separation of Powers"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Respondent (Attorney-General representing the Governor)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J. Nigeria",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Michelin, J.",
+      "role": "concurring judge"
+    },
+    {
+      "name": "Webber, J.",
+      "role": "concurring judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "administrative law",
+  "citations": [
+    "Thomas Harrison Odonkor v. Konar Emmanuel Mate Kole and others, P.c. 1874-1928, 37"
+  ],
+  "rationaleHighlights": [
+    "The Governor's action under section 121 was executive, not judicial, so certiorari does not lie.",
+    "Section 35 of the Native Administration Ordinance expressly bars court jurisdiction over such matters.",
+    "The court cannot inquire into political and constitutional relations under native customary law.",
+    "Certiorari only applies to judicial or quasi-judicial acts, not executive decisions.",
+    "No inferior jurisdiction was created by the Governor's exercise of statutory power."
+  ],
+  "confidenceNotes": "High confidence; the decision is clearly articulated with explicit legal reasoning and citation to precedent.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/OHENE OF ABODOM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:41:00.965Z",
+    "plainTextLength": 5060
+  },
+  "trialDate": "1933-05-08"
+}

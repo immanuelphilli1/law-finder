@@ -1,0 +1,82 @@
+{
+  "caseTitle": "MISCELLANY-AT-LAW EXECUTION [1987-88] VOL. XVI RGL 53—60",
+  "summary": "This legal commentary by Enoch D Kom, a Barrister-at-Law, discusses various procedural aspects of execution of judgments under Ghanaian civil procedure, focusing on remedies and applications available to judgment-debtors and judgment-creditors. It outlines key methods including stay of execution (both for default judgments and pending appeal), interpleader proceedings under Order 57, setting aside auction sales under Order 51 Rule 18, garnishee orders under Order 45, summons to show cause under Order 69, writs of possession and delivery under Orders 47 and 48, and attachment for contempt under Orders 42, 44, and 59. The author emphasizes judicial discretion in balancing hardships, the importance of timely applications, and the need for summary disposal of interpleader claims to prevent delay. Key authorities cited include A T Lutterodt v Mensah Nyarko, Joseph v Jebeile, and Mosi v Bagyina, among others.",
+  "legalKeywords": [
+    "execution of judgment",
+    "stay of execution",
+    "interpleader summons",
+    "setting aside auction sale",
+    "garnishee order",
+    "writ of possession",
+    "attachment for contempt",
+    "Order 57",
+    "Order 51 Rule 18",
+    "Order 45",
+    "Order 69",
+    "Order 44",
+    "Order 59",
+    "default judgment",
+    "appeal pending execution",
+    "judicial discretion",
+    "summary disposal",
+    "contempt of court",
+    "hardship balancing",
+    "judgment-debtor rights"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Judgment Enforcement",
+    "Garnishment",
+    "Contempt of Court",
+    "Appeals",
+    "Interpleader",
+    "Property Execution"
+  ],
+  "verdict": "Not applicable – this is a legal commentary, not a case decision.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Adade JSC",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Not specified",
+      "role": "Trial Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Legal Commentary / Procedural Analysis",
+  "citations": [
+    "A T Lutterodt v Mensah Nyarko [1984-86] GLRD 34, CA",
+    "Joseph v Jebeile [1963] 1 GLR 387, SC",
+    "Abudulai v Agyei [1976] 1 GLR 185",
+    "Monk v Bartram [1891] 1 QB 346, CA",
+    "Wilson v Church (No 2) (1879) 12 ChD 454",
+    "Becker v Earl's Court, Ltd (1911) 56 SJ 206, CA",
+    "Atkins v Great Western RY Co (1886) 2 TLR 400",
+    "Wootton v Sievier (1913) 30 TLR 165",
+    "RT Briscoe v Amponsah (1969) CC 100, CA",
+    "Agati v Agbenaku [1978] 1 GLR 14, CA"
+  ],
+  "rationaleHighlights": [
+    "The court must balance hardship to the judgment-debtor against the risk of depriving the judgment-creditor of the fruits of litigation when considering stay of execution pending appeal.",
+    "A stay may be granted if the judgment-creditor is outside the jurisdiction or is a 'man of straw' to prevent appeal from being nugatory.",
+    "Interpleader claims can be disposed of summarily under Order 57 r 8 where documents show the claim is genuine or a delay tactic.",
+    "An auction sale can be set aside only if there was material irregularity causing substantial injury, and application must be made within 21 days.",
+    "Garnishee orders allow attachment of debts owed to the judgment-debtor by third parties.",
+    "Imprisonment for debt is disfavored due to human rights concerns and requires proof of fraudulent intent or wilful default.",
+    "Writs of possession require service on parties not present at trial or third-party possessors.",
+    "Contempt proceedings differ based on whether the violating court has inherent contempt powers (Order 44) or not (Order 59)."
+  ],
+  "confidenceNotes": "High confidence in procedural rules and cited cases as they are drawn directly from Ghanaian civil procedure rules and reported decisions. The absence of a specific case decision means the summary reflects doctrinal analysis rather than a judicial outcome.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/87 - 88/MISCELLANY-AT-LAW EXECUTION [1987-88] VOL. XVI RGL 53—60.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:24:38.260Z",
+    "plainTextLength": 16392
+  }
+}

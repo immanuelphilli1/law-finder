@@ -1,0 +1,88 @@
+{
+  "caseTitle": "DAASEBRE ASARE BAAH III & OTHERS v THE ATTORNEY-GENERAL",
+  "summary": "In this constitutional case, Daasebre Asare Baah III and others, representing Paramount Chiefs and communities in the Volta Region, challenged the legality of the creation of the Biakoye District under Executive Instrument (E.I.) 11 of 2007 and the establishment of its District Assembly under Legislative Instrument (L.I.) 1910 of 2008. The plaintiffs argued that the President violated Section 1 of the Local Government Act, 1993 (Act 462), by failing to direct the Electoral Commission to conduct a study and submit recommendations before declaring the new district. They further contended that naming Nkonya Ahenkro as the district capital, contrary to a prior gazette notification and a memorandum among chiefs designating Worawora, was arbitrary and violated constitutional principles of decentralisation and due process under Articles 240, 241, and 296 of the 1992 Constitution. The Supreme Court emphasized its exclusive jurisdiction under Articles 2(1) and 130(1)(b) to review legislative and executive actions for constitutional compliance. It reaffirmed the presumption of constitutionality and the principle of severability, requiring specific and clear allegations of unconstitutionality. While the Court acknowledged procedural flaws, particularly the lack of a study by the Electoral Commission, it stressed that vague or general claims could not sustain invalidation. The judgment underscores the necessity for precise legal challenges in constitutional litigation and the high threshold for overturning state actions.",
+  "legalKeywords": [
+    "judicial review",
+    "constitutional supremacy",
+    "ultra vires",
+    "severability",
+    "executive power",
+    "local government",
+    "Electoral Commission",
+    "district creation",
+    "due process",
+    "decentralisation",
+    "gazette notification",
+    "paramount chiefs",
+    "traditional areas",
+    "administrative law",
+    "nullity"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Judicial Review",
+    "Local Government",
+    "Separation of Powers"
+  ],
+  "verdict": "The Supreme Court found that the plaintiffs had not sufficiently particularized all alleged constitutional breaches, limiting the scope of judicial review. While the failure to direct the Electoral Commission to conduct a study under Section 1 of Act 462 was a serious procedural defect, the Court did not issue a blanket nullification of E.I. 11 of 2007 or L.I. 1910 of 2008, emphasizing the need for precise allegations and the principle of severability. The outcome reflects a cautious judicial approach to invalidating executive and legislative instruments.",
+  "winningSide": "The Attorney-General and the Electoral Commission (defendants), as the plaintiffs' claims were not fully upheld due to insufficient particularization of constitutional breaches.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Wood (Mrs)",
+      "role": "Chief Justice (Presiding)"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice, Supreme Court"
+    },
+    {
+      "name": "Owusu (Ms)",
+      "role": "Justice, Supreme Court"
+    },
+    {
+      "name": "Dotse",
+      "role": "Justice, Supreme Court"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice, Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional review",
+  "citations": [
+    "1992 Constitution of Ghana, art. 1(2)",
+    "1992 Constitution of Ghana, art. 2(1)",
+    "1992 Constitution of Ghana, art. 130",
+    "1992 Constitution of Ghana, art. 240",
+    "1992 Constitution of Ghana, art. 241",
+    "1992 Constitution of Ghana, art. 296",
+    "Local Government Act, 1993 (Act 462), s. 1",
+    "Republic v Yebbi & Avalifo [2000] SCGLR 149",
+    "R. M. D. Charmabaugwalla v. Union of India, AIR 1957 SC 628",
+    "DPP v Hutchinson [1990] 2 AC 783"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court has exclusive original jurisdiction under Articles 2(1) and 130(1)(b) to review whether an enactment exceeds constitutional or statutory authority.",
+    "Article 1(2) establishes constitutional supremacy; any inconsistent law is void to the extent of inconsistency.",
+    "The President violated Section 1 of Act 462 by failing to direct the Electoral Commission to conduct a study before declaring Biakoye District via E.I. 11 of 2007.",
+    "The naming of Nkonya Ahenkro as capital contradicted prior gazette notification and a memorandum among chiefs agreeing on Worawora, violating principles of decentralisation and due process under Articles 240, 241, and 296.",
+    "Courts must clearly identify alleged constitutional breaches; general allegations are insufficient for invalidation.",
+    "The principle of severability allows invalid parts of legislation to be struck down while preserving valid portions, provided they are operationally independent.",
+    "There is a strong presumption of constitutionality; unconstitutionality must be clearly proven beyond doubt.",
+    "The plaintiffs failed to sufficiently particularize all alleged constitutional breaches, limiting the Court's ability to review them comprehensively."
+  ],
+  "confidenceNotes": "High confidence; all key facts, legal provisions, and judicial reasoning are explicitly stated in the judgment. Citations are directly referenced in the text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2010/DAASEBRE ASARE BAAH III & OTHERS v  THE ATTORNEY-GENERAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:42:23.686Z",
+    "plainTextLength": 40200
+  },
+  "trialDate": "2010-02-18"
+}

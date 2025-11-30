@@ -1,0 +1,74 @@
+{
+  "caseTitle": "OTHERS v. OPANIN KWADWO WOROSA",
+  "summary": "This Court of Appeal decision from May 11, 2000, concerns a chieftaincy dispute between the Kralongo and Petelli Royal Families of the Banda Traditional Area in Ghana over the rotatory succession to the Paramount Stool. The Brong Ahafo Regional House of Chiefs, affirmed by the National House of Chiefs and the Supreme Court, ruled that the stool rotates between the two families and ordered the Kralongo Family to hand over the Black Stool to the Petelli Family by November 15, 1988. Despite this, the Kralongo Family retained possession and in 1997 enstooled Osabarima Okokyeredom Kwadwo Sito I as Paramount Chief. The appellant, Opanin Kwadwo Fordjour, sought contempt proceedings against the respondent for disregarding court orders. The High Court failed to rule on contempt, prompting an appeal. The Court of Appeal held that the respondent’s enstoolment and public conduct as chief, despite knowledge of the court orders, constituted contempt, emphasizing that even non-parties can be liable for undermining judicial authority.",
+  "legalKeywords": [
+    "contempt of court",
+    "chieftaincy dispute",
+    "rotatory succession",
+    "Black Stool",
+    "paramount chief",
+    "customary law",
+    "enstoolment",
+    "judicial order",
+    "non-party liability",
+    "Supreme Court decision",
+    "House of Chiefs",
+    "possession of stool",
+    "judicial authority",
+    "customary ascension",
+    "tribal leadership"
+  ],
+  "topics": [
+    "Chieftaincy Law",
+    "Contempt of Court",
+    "Customary Succession",
+    "Judicial Enforcement",
+    "Ghanaian Constitutional Law"
+  ],
+  "verdict": "The Court of Appeal allowed the appeal, holding that the respondent was in contempt of court for being enstooled and acting as Paramount Chief despite court orders requiring the Black Stool to be handed over to the Petelli Family.",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Essilfie-Bondzie",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Twumasi",
+      "role": "Justice"
+    },
+    {
+      "name": "Farkye",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "United Telephone Co. vs. Dale (1884) 25 Ch D 778",
+    "Seaward vrs. Paterson (1897) 1 Ch 545",
+    "Interim Executive Committee of Apostolic Divine Church of Ghana vs. Interim Executive Council and others (No. 2) (1984-86) 2 GLR p. 181",
+    "Republic vs. Moffat, Ex parte Allotey (1971) 2 GLR p. 391"
+  ],
+  "rationaleHighlights": [
+    "The Banda Paramount Stool rotates between the Kralongo and Petelli Royal Families.",
+    "The Supreme Court had affirmed that the Petelli Family was entitled to the stool after the death of Nana Dwuru II.",
+    "The mandatory order to hand over the Black Stool by November 15, 1988, was not complied with.",
+    "The respondent, though not a direct party to the original suit, was aware of the court orders and thus could be held in contempt.",
+    "Enstoolment and public conduct as chief while the stool remained unlawfully held constituted disrespect to the court’s authority.",
+    "The death of Nana Worosa did not reset the succession; the Petelli Family retained the right to the stool.",
+    "Customary law requires possession of the Black Stool for valid enstoolment, which the Kralongo Family lacked authority to perform.",
+    "Contempt applies to non-parties who knowingly assist in violating court orders."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed court record, direct citations, and clear judicial reasoning. Some truncation in source text does not affect core holdings.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/OPANIN KWADWO WOROSA @ KWODWO KUMA (SUB. BY KWADWO FORDJOUR) AND 2 OTHERS. v OSABARIMA OKOKYEREDOM KWADWO SITO I AND 2 OTHERS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:11:07.177Z",
+    "plainTextLength": 16229
+  },
+  "trialDate": "11TH MAY, 2000"
+}

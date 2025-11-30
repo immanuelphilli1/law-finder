@@ -1,0 +1,28 @@
+{
+  "name": "law-finder-ai",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "start": "tsx src/process-law-finder.ts",
+    "start:case-extraction": "python3 src/extract_case_titles.py",
+    "start:trial-date-extraction": "python3 src/extract_trial_dates.py"
+  },
+  "dependencies": {
+    "@ai-sdk/openai": "^0.0.42",
+    "ai": "^3.3.13",
+    "dotenv": "^16.4.5",
+    "glob": "^11.0.0",
+    "html-to-text": "^9.0.5",
+    "p-limit": "^6.1.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/glob": "^8.1.0",
+    "@types/html-to-text": "^9.0.4",
+    "@types/node": "^22.7.4",
+    "tsx": "^4.19.1",
+    "typescript": "^5.6.3"
+  }
+}

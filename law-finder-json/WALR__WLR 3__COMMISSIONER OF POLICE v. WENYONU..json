@@ -1,0 +1,62 @@
+{
+  "caseTitle": "COMMISSIONER OF POLICE VERSUS WENYONU.",
+  "summary": "The Court of Appeal of Ghana allowed an appeal by Police Sergeant Joseph Wenyonu, who had been convicted of neglect of duty under the Police Force Ordinance, s. 20. The charge stated only that the appellant was 'guilty of neglect of duty' on the same date and place as a separate, dismissed charge of aiding and abetting theft. The court held that the particulars of the offence failed to provide reasonable information about which duty was neglected, in violation of s. 111(1) and (3) of the Criminal Procedure Code. Relying on R. v. Bandoh, the court ruled that the discretion to uphold a conviction despite procedural defects cannot be exercised when the accused lacks adequate notice of the charge. The conviction was quashed, a verdict of not guilty entered, and any fine paid ordered to be repaid.",
+  "legalKeywords": [
+    "criminal law",
+    "statement of charge",
+    "particulars of offence",
+    "neglect of duty",
+    "miscarriage of justice",
+    "discretion to quash conviction",
+    "Criminal Procedure Code",
+    "Police Force Ordinance",
+    "reasonable information",
+    "appeal"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Legal Procedure",
+    "Judicial Discretion",
+    "Appeal",
+    "Police Conduct"
+  ],
+  "verdict": "Conviction quashed; verdict of not guilty entered.",
+  "winningSide": "Appellant (Joseph Wenyonu)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Korsah C.J."
+    },
+    {
+      "name": "van Lare J.A."
+    },
+    {
+      "name": "Granville Sharp J.A."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Bandoh (1944) 10 W.A.C.A. 190",
+    "Criminal Procedure Code, c. 10, ss. 111 (1) and (3)",
+    "Police Force Ordinance, c. 37 of 1951, s. 20",
+    "Police Force Ordinance, s. 4"
+  ],
+  "rationaleHighlights": [
+    "The charge failed to specify which duty was neglected, violating s. 111(1) and (3) of the Criminal Procedure Code.",
+    "The court cannot exercise discretion to uphold a conviction where the accused lacked reasonable information about the charge.",
+    "Reliance on R. v. Bandoh established precedent for insufficient particulars invalidating a charge.",
+    "Magistrate acquitted on first count, showing no relation-back of particulars.",
+    "No technical terms required, but ordinary language must convey nature of charge clearly."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct court text and clear legal reasoning.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/COMMISSIONER OF POLICE v. WENYONU..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:06:05.601Z",
+    "plainTextLength": 9202
+  }
+}

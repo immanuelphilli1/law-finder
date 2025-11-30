@@ -1,0 +1,69 @@
+{
+  "caseTitle": "OFEM ODEY, ETC",
+  "summary": "This appeal originated from a suit commenced in the Native Court of Olulumo, where the parties appeared in their individual capacities as shown in the original writ of summons. The case was transferred to the High Court of Enugu under section 25(1)(c) of the Native Courts Ordinance No. 44 of 1933. In the High Court, the heading of the suit was altered to reflect that the parties were acting in representative capacities, though no formal amendment to the writ was made. The plaintiff alleged representative capacity in the statement of claim, while the defendant initially denied it, citing the original writ. However, during trial, both counsel and the court proceeded on the assumption that the parties were in representative capacities, despite the absence of any amendment. The West Africa Court of Appeal held that, given the uncertainty over whether such an amendment could have been legally permitted under the Ordinance, and in light of the binding precedent in Malm v Wulf, the trial could not be validated by mere assumption. Consequently, the entire trial was declared a nullity, the judgment and costs order were set aside, and each party was ordered to bear their own costs.",
+  "legalKeywords": [
+    "amendment of pleadings",
+    "representative capacity",
+    "native court",
+    "jurisdiction transfer",
+    "nullity of trial",
+    "privity of contract",
+    "section 25 Native Courts Ordinance",
+    "procedural irregularity",
+    "court jurisdiction",
+    "writ of summons",
+    "statement of claim",
+    "statement of defence",
+    "judgment binding tribe",
+    "procedural assumption",
+    "appellate review"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Jurisdiction",
+    "Appellate Law",
+    "Native Courts",
+    "Legal Representation"
+  ],
+  "verdict": "The appeal was allowed in terms of setting aside the judgment; the trial was declared a nullity.",
+  "winningSide": "Plaintiff-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Malm v Wulf, 11 W.A.C.A. Reports p. 232"
+  ],
+  "rationaleHighlights": [
+    "The original writ showed parties in personal capacity, not representative.",
+    "No formal amendment was made under section 25(1)(c) of the Native Courts Ordinance.",
+    "Court below assumed representative capacity without legal basis.",
+    "It is doubtful whether amendment would have been permissible even if requested.",
+    "Trial treated as nullity due to fundamental procedural defect.",
+    "Judgment set aside; each party bears own costs."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear textual evidence from the judgment; no ambiguous or missing procedural details affecting core findings.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/OFEM ODEY, ETC.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:01:07.512Z",
+    "plainTextLength": 6392
+  },
+  "trialDate": "1940-04-27"
+}

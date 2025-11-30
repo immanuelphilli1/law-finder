@@ -1,0 +1,74 @@
+{
+  "caseTitle": "PRUDENTIAL BANK LTD. v. TELECITY COMPANY LTD AND ANOTHER",
+  "summary": "This Court of Appeal case in Ghana involved Prudential Bank Ltd. appealing against a summary judgment granted in its favor by the High Court against Telecity Company Ltd. and another defendant. The core dispute centered on two debts: one in US Dollars ($60,149.91) and another in Ghana Cedis (¢49,857,467). The appellant argued that the summary judgment was improperly granted because triable issues existed. The Court of Appeal allowed the appeal in part. It held that the summary judgment on the Dollar debt was inappropriate because the appellant presented evidence (Exhibit 3) showing full payment, and the bank's unilateral conversion of a USD deposit into Cedis at its own exchange rate to offset the Cedi debt raised genuine triable issues regarding set-off, mandate, and exchange rates. However, the appeal failed regarding the Cedi debt. The appellant's defense—that it should not pay because a bank official demanded a personal loan of ¢40 million—was dismissed as implausible and potentially based on an illegal bribe. The court applied the principle *ex turpi causa non oritur actio*, refusing to allow a party to benefit from its own wrongdoing. The case was remitted for trial on the Dollar claim, while the summary judgment on the Cedi debt was upheld.",
+  "legalKeywords": [
+    "summary judgment",
+    "triable issues",
+    "set off",
+    "ex turpi causa non oritur actio",
+    "illegality defense",
+    "bank overdraft",
+    "debt recovery",
+    "currency conversion",
+    "mandate",
+    "bribery",
+    "collateral security",
+    "mortgage deed",
+    "affidavit",
+    "exchange rate",
+    "legal entity"
+  ],
+  "topics": [
+    "Banking Law",
+    "Civil Procedure",
+    "Debt Recovery",
+    "Summary Judgment",
+    "Illegality in Contract"
+  ],
+  "verdict": "Appeal allowed in part: summary judgment on USD debt set aside and remitted for trial; summary judgment on Cedi debt upheld.",
+  "winningSide": "Prudential Bank Ltd. (on the Cedi debt claim)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "S. A. Brobbey",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Afreh J.A.",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Baddoo J.A.",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Jacobs v. Booths Distillery Co. (1901) 85 LT 262",
+    "Jones v. Stone (1894) AC 122",
+    "Schandorf v. Zeini [197] 2 GLR 418, CA",
+    "St John Shipping Corporation v. Joseph Rank Ltd. [1957] 1 QB 267 at 288"
+  ],
+  "rationaleHighlights": [
+    "Summary judgment inappropriate where triable issues exist, even if defense unlikely to succeed",
+    "Defendant's claim of full payment in USD raised genuine triable issue requiring trial",
+    "Court rejected Cedi debt defense as sham due to lack of evidence and implausibility",
+    "Alleged bribe payment cannot form basis of legal defense under ex turpi causa principle",
+    "Conversion of USD payment to settle Cedi debt without consent created disputed mandate issue",
+    "Defendant failed to serve or substantiate claim against bank official, weakening defense",
+    "Business logic undermined defendant's claim of lending money while simultaneously borrowing same amount",
+    "Case remitted for trial on USD debt; Cedi debt judgment upheld"
+  ],
+  "confidenceNotes": "High confidence in extracted data as all key elements (judges, jurisdiction, verdict) are explicitly stated in the document. Legal principles and citations are directly quoted.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/PRUDENTIAL BANK LTD. v. TELECITY COMPANY LTD AND ANOTHER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:08:33.035Z",
+    "plainTextLength": 19147
+  },
+  "trialDate": "2001-02-08"
+}

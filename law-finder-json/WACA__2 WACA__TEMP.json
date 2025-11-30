@@ -1,0 +1,34 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The provided text is not a legal decision but rather a header or homepage for 'Ghana Law Finder', an online legal resource portal. It offers a self-help guide to the law, including a case and subject matter index. The page indicates it is part of a legal library service and provides contact information (tonykaddy@yahoo.co.uk). There is no judicial content, ruling, or case analysis present in the excerpt.",
+  "legalKeywords": [
+    "Ghana Law Finder",
+    "legal resource",
+    "self-help guide",
+    "case index",
+    "legal library"
+  ],
+  "topics": [
+    "Legal Research",
+    "Online Legal Resource",
+    "Case Index"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "unknown",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The provided document does not contain a legal decision or case details; it appears to be a website header or navigation page for a legal resource portal.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/TEMP.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:15:37.288Z",
+    "plainTextLength": 297
+  }
+}

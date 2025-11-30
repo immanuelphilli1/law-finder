@@ -1,0 +1,95 @@
+{
+  "caseTitle": "TSATSU TSIKATA v. THE CHIEF JUSTICE & ATTORNEY GENERA",
+  "summary": "The case of Tsatsu Tsikata v. The Chief Justice & Attorney-General (Writ No. 6/2002, Supreme Court of Ghana, 2002) centered on constitutional challenges to a Practice Direction issued by the Acting Chief Justice on 10th January 2001, which mandated the empaneling of at least seven or eleven justices in constitutional matters and reviews. The plaintiff, a citizen and litigant in a prior case, sought declarations that the Practice Direction was unconstitutional, infringing on Articles 125(4), 128(1), 128(2), and 133(2) of the 1992 Constitution. He also challenged the Chief Justice’s role in constituting benches in a case where he was a party, raising bias concerns under natural justice. The Supreme Court dismissed preliminary objections, affirming the binding precedent in Akufo-Addo v. Quashie-Idun and Kuenyehia v. Archer, which uphold the Chief Justice’s statutory duty to empanel benches regardless of personal interest, absent legal bias. The Court held that mere party status does not disqualify the Chief Justice from administrative functions and that the Attorney-General is constitutionally empowered to represent the Chief Justice in official capacity suits under Article 88(5). The core constitutional issues regarding the Practice Direction were not resolved in this judgment, as the ruling focused on preliminary procedural objections.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "separation of powers",
+    "judicial review",
+    "natural justice",
+    "bias",
+    "Chief Justice powers",
+    "empaneling of judges",
+    "Practice Direction",
+    "Article 125",
+    "Article 128",
+    "Article 133",
+    "Article 88",
+    "Article 144",
+    "Article 2",
+    "Article 130",
+    "judicial independence",
+    "Supreme Court jurisdiction",
+    "original jurisdiction",
+    "declaratory relief",
+    "injunction",
+    "constitutional litigation",
+    "judicial discretion",
+    "rule of law",
+    "constitutional supremacy",
+    "judicial ethics",
+    "procedural fairness",
+    "standing",
+    "public officer liability",
+    "constitutional challenge",
+    "judicial administration"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Judicial Administration",
+    "Separation of Powers",
+    "Natural Justice",
+    "Supreme Court Procedures"
+  ],
+  "verdict": "Preliminary objections dismissed",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Amplah, J.S.C.",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Acquah, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Akuffo (Ms)",
+      "role": "Justice"
+    },
+    {
+      "name": "Lampert",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Petition",
+  "citations": [
+    "Akufo-Addo & Ors. v. Quashie-Idun & Ors. (1968) GLR 67",
+    "Kuenyehia & Ors. v. Archer & Ors. (1993-94) 2 GLR 525"
+  ],
+  "rationaleHighlights": [
+    "The Chief Justice retains the authority to empanel benches even when a party to the case, absent legal bias.",
+    "Allegation of bias does not equate to inability to perform official functions under Article 144(6).",
+    "The decision in Akufo-Addo v. Quashie-Idun remains binding precedent.",
+    "The Attorney-General is constitutionally mandated to represent the Chief Justice in official capacity suits under Article 88(5).",
+    "Separation of powers does not bar executive representation of judicial officers in civil litigation.",
+    "Natural justice (nemo judex in causa sua) does not automatically disqualify the Chief Justice from administrative duties.",
+    "The plaintiff failed to demonstrate legal bias necessary to disqualify the Chief Justice.",
+    "The Court emphasized institutional continuity and adherence to precedent."
+  ],
+  "confidenceNotes": "The summary is based on a truncated document; however, the available text contains sufficient information to determine the procedural posture, key arguments, and the court's rulings on the preliminary objections. The core constitutional issues were not adjudicated in this judgment.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2002A/TSATSU TSIKATA v. THE CHIEF JUSTICE & ATTORNEY GENERA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:38:10.916Z",
+    "plainTextLength": 23653
+  },
+  "trialDate": "18TH MAY, 2002"
+}

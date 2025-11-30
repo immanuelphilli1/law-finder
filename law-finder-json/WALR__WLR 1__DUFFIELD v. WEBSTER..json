@@ -1,0 +1,70 @@
+{
+  "caseTitle": "DUFFIELD VERSUS WEBSTER.",
+  "summary": "In Duffield v. Webster, the Supreme Court of the Colony of the Gambia struck out a writ of defamation for insufficient particulars. The plaintiff alleged libel in an unspecified letter from February 1956 and slander involving imputations about professional irresponsibility, but failed to provide details such as dates, specific words, or recipients. The court held that a defamation writ must contain sufficient particulars to inform the defendant of the case they must meet, especially under Gambian rules which emphasize early specificity due to the general absence of mandatory pleadings. Citing Collins v. Jones, the court emphasized that a plaintiff cannot maintain a defamation claim based on mere suspicion or without knowledge of the actual defamatory words. The writ was dismissed with costs, reflecting the necessity of concrete allegations in defamation actions.",
+  "legalKeywords": [
+    "defamation",
+    "libel",
+    "slander",
+    "writ",
+    "particulars",
+    "pleadings",
+    "striking out",
+    "alternative claims",
+    "speculative action",
+    "R.S.C. Ord. 5 r.1",
+    "notice to produce",
+    "subpoena duces tecum",
+    "fishing expedition",
+    "publication",
+    "verbal imputation",
+    "judicial discretion",
+    "summary hearing",
+    "sufficient detail",
+    "claim identification",
+    "defendant's right to notice"
+  ],
+  "topics": [
+    "Defamation Law",
+    "Civil Procedure",
+    "Pleading Standards",
+    "Judicial Discretion",
+    "Commonwealth Jurisprudence"
+  ],
+  "verdict": "Writ struck out",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Miles J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Colony of the Gambia",
+    "country": "Gambia"
+  },
+  "caseType": "Civil Defamation",
+  "citations": [
+    "Collins v. Jones [1955] 2 W.L.R. 813",
+    "Philipps v. Philipps (1878) 4 Q.B.D. 134",
+    "Guest v. Iraq Petroleum Co. Ltd. (unreported, May 7, 1954)",
+    "Harris v. Warn (1819) 4 C.P.D. 125"
+  ],
+  "rationaleHighlights": [
+    "A defamation writ must specify the defamatory words or content with reasonable certainty.",
+    "The plaintiff cannot rely on speculation or suspicion to sustain a libel claim.",
+    "Defendant must be informed of the exact case they are required to answer.",
+    "Gambian rules require greater particularity in writs due to limited use of formal pleadings.",
+    "Claims in the alternative are permissible but must still meet pleading standards.",
+    "Failure to identify publication details renders the writ insufficient.",
+    "The court will not assist a plaintiff in constructing a case through discovery.",
+    "Describing the claim as a 'fishing expedition' justified striking it out."
+  ],
+  "confidenceNotes": "High confidence; all information is directly derived from the provided judgment text, including procedural context, legal reasoning, and cited authorities.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/DUFFIELD v. WEBSTER..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:09:57.554Z",
+    "plainTextLength": 10050
+  }
+}

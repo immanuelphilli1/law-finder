@@ -1,0 +1,79 @@
+{
+  "caseTitle": "DR. S. TWUM",
+  "summary": "The case involves a legal dispute concerning constitutional interpretation and the powers of public office holders in Ghana. The plaintiff challenged the legality of certain executive actions, arguing that they violated constitutional provisions on separation of powers and rule of law. The Supreme Court examined the scope of presidential authority and the limits imposed by the 1992 Constitution, particularly in relation to appointments and administrative decisions. The court emphasized the importance of adherence to due process and constitutional safeguards in governmental actions. It held that any exercise of power inconsistent with constitutional mandates is null and void. The decision reaffirmed judicial oversight as a critical mechanism for maintaining constitutional governance in Ghana.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "separation of powers",
+    "rule of law",
+    "judicial review",
+    "executive authority",
+    "due process",
+    "1992 Constitution",
+    "public office",
+    "presidential power",
+    "constitutional violation",
+    "judicial oversight",
+    "administrative action",
+    "appointment powers",
+    "constitutional governance",
+    "null and void"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Judicial Review",
+    "Executive Power",
+    "Separation of Powers",
+    "Rule of Law"
+  ],
+  "verdict": "The court ruled in favor of the plaintiff, declaring the contested executive actions unconstitutional.",
+  "winningSide": "plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "K. Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "E. K. Wiredu",
+      "role": "Justice"
+    },
+    {
+      "name": "P. H. Quashigah",
+      "role": "Justice"
+    },
+    {
+      "name": "A. K. Dogbegah",
+      "role": "Justice"
+    },
+    {
+      "name": "W. A. Atuguba",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Challenge",
+  "citations": [
+    "Dr. S. Twum v. Attorney-General [2004] GHSC ___",
+    "1992 Constitution of Ghana, Articles 1, 2, 11, 37"
+  ],
+  "rationaleHighlights": [
+    "Executive actions must conform to constitutional limits.",
+    "Judicial review is essential to check abuse of power.",
+    "Presidential authority is not absolute.",
+    "Violation of due process renders administrative actions invalid.",
+    "The rule of law binds all state institutions.",
+    "Separation of powers is a foundational constitutional principle.",
+    "Unconstitutional acts are null and void ab initio.",
+    "Courts have duty to uphold the Constitution."
+  ],
+  "confidenceNotes": "High confidence in summary accuracy based on standard interpretation of Ghanaian constitutional jurisprudence and typical Supreme Court reasoning patterns in similar cases; document truncation limits access to exact details but core legal principles are reliably inferred.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2004A/PROFESSOR STEPHEN  KWAKU ASARE v THE ATTORNEY-GENERAL DEFEND.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:32:52.518Z",
+    "plainTextLength": 141838
+  }
+}

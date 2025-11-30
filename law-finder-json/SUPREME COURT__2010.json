@@ -1,0 +1,52 @@
+{
+  "caseTitle": "AGYENIM BOATENG VRS. AKWASI OFORI",
+  "summary": "The document is a compilation of unreported cases from the Supreme Court of Ghana in 2010, listing civil appeals, criminal appeals, writs, and motions. It includes case titles, appeal or writ numbers, and hearing or judgment dates. The cases cover a wide range of legal issues including land disputes, electoral matters, commercial conflicts, constitutional challenges, and succession disputes. As these are unreported cases, detailed reasoning and verdicts are not available in this source.",
+  "legalKeywords": [
+    "unreported cases",
+    "Supreme Court",
+    "Ghana",
+    "civil appeal",
+    "criminal appeal",
+    "writ",
+    "motion",
+    "constitutional law",
+    "administrative law",
+    "land law",
+    "contract dispute",
+    "election petition",
+    "succession",
+    "commercial law",
+    "insurance",
+    "labor dispute",
+    "freedom of association",
+    "public interest litigation"
+  ],
+  "topics": [
+    "Civil Appeals",
+    "Criminal Appeals",
+    "Constitutional Law",
+    "Administrative Law",
+    "Land Disputes"
+  ],
+  "verdict": "Not available (list of cases only)",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "unreported",
+  "citations": [
+    "SUPREME COURT/2010.htm"
+  ],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The provided document is a table of unreported cases from the Supreme Court of Ghana for 2010. No full judgments are included, only case titles, appeal numbers, and dates. Information extracted is limited to metadata.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T09:54:43.594Z",
+    "plainTextLength": 6911
+  },
+  "trialDate": "2007-09-04"
+}

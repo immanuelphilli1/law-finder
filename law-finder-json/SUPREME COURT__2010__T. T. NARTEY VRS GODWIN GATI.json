@@ -1,0 +1,90 @@
+{
+  "caseTitle": "T. T. NARTEY VRS GODWIN GATI",
+  "summary": "The Supreme Court of Ghana issued a unanimous ruling in response to a reference from a Magistrate's Court on whether Section 30 of the Legal Profession Act, 1960 (Act 32) is inconsistent with Article 17(1) of the 1992 Constitution, which guarantees equality before the law. The Court held that Article 17(1) does not require absolute equality but permits reasonable differentiation if such classification bears a rational relationship to a legitimate legislative objective. The Court emphasized that only the Supreme Court has the authority to interpret the Constitution under its original jurisdiction, while lower courts apply clear constitutional provisions. Drawing from Indian constitutional jurisprudence, particularly on Article 14, the Court clarified that not all differential treatment constitutes unlawful discrimination. The ruling affirms that Parliament may enact laws that treat different classes differently, provided they do not violate the specific prohibited grounds in Article 17(2) and serve a constitutional purpose.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "equality before law",
+    "freedom from discrimination",
+    "article 17 constitution",
+    "section 30 act 32",
+    "legal fees recovery",
+    "reasonable classification",
+    "discrimination grounds",
+    "parliamentary power",
+    "judicial reference"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Legal Profession",
+    "Equality and Non-Discrimination",
+    "Supreme Court Jurisdiction",
+    "Statutory Interpretation"
+  ],
+  "verdict": "The Court interpreted Article 17 of the 1992 Constitution to allow for reasonable classification and differentiation under the law, affirming that Section 30 of Act 32 does not inherently violate constitutional equality principles if applied within a justifiable legislative framework.",
+  "winningSide": "The constitutional validity of Section 30 of Act 32 was upheld in principle, subject to compliance with Article 17's anti-discrimination framework.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "Akuffo (Ms)",
+      "role": "Presiding"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Owusu (Ms)",
+      "role": "Justice"
+    },
+    {
+      "name": "Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebe",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional interpretation",
+  "citations": [
+    "Republic v Special Tribunal; Ex parte Akosah [1980] GLR 592",
+    "Bimpong-Buta v General Legal Council [2003-2004] SCGLR 1200",
+    "K. Thimmappa v Chairman, Central Board of Directors AIR 2001 SC 467",
+    "Kedar Narh Bajoria v State of W.B. AIR 1953 SC 404"
+  ],
+  "rationaleHighlights": [
+    "Article 17(1) must be read with other subsections; equality does not mean identical treatment for all",
+    "Differentiation in law is permissible if it has a rational relation to a legitimate legislative objective",
+    "The Indian constitutional approach to equality under Article 14 informs Ghana's interpretation of Article 17",
+    "Lower courts apply the Constitution; only the Supreme Court interprets or enforces it under original jurisdiction",
+    "Discrimination is not unlawful per se if not based on prohibited grounds under Article 17(2)"
+  ],
+  "confidenceNotes": "The ruling is unanimous and delivered by the full bench of the Supreme Court, indicating high authority. The truncation of the final section does not affect the core constitutional interpretation.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/T. T. NARTEY VRS GODWIN GATI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:42:48.004Z",
+    "plainTextLength": 26461
+  },
+  "trialDate": "2010-01-06"
+}

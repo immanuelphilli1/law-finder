@@ -1,0 +1,35 @@
+{
+  "caseTitle": "supreme court rep cases (1)",
+  "summary": "The provided document is not a judicial decision but rather a homepage or index for a legal resource platform titled 'Ghana Law Finder'. It offers a self-help guide to the law, including a case and subject matter index, and provides contact information. There is no substantive legal ruling, case analysis, or court judgment present in the text.",
+  "legalKeywords": [
+    "Ghana Law",
+    "legal resource",
+    "case index",
+    "subject matter index",
+    "legal library"
+  ],
+  "topics": [
+    "Legal Research",
+    "Case Index",
+    "Legal Education",
+    "Ghana Law"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "unknown",
+    "country": "Ghana"
+  },
+  "caseType": "unknown",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The provided document does not contain a legal decision, case summary, or judicial content. It appears to be a homepage or index for a legal resource website with no actual case details.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/1997.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:49:57.915Z",
+    "plainTextLength": 295
+  }
+}

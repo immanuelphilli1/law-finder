@@ -1,0 +1,61 @@
+{
+  "caseTitle": "JOHN VERSUS FARAGE.",
+  "summary": "In John v. Farage, an action for damages for breach of an implied warranty of fitness in a contract of hire, the plaintiff hired a lorry from the defendant for three months starting December 2, 1955. The plaintiff returned the lorry after seven days, claiming it was defective and unsuitable for use due to repeated breakdowns. The court held that in a contract of hire, the bailor has an implied obligation to ensure the chattel is reasonably fit for its intended purpose, constituting an implied warranty. However, the plaintiff failed to prove the lorry was unfit, as his evidence was vague and unsupported. The mechanic testified only to faulty headlight bulbs, a minor issue. Crucially, the lorry was subsequently hired to a third party and operated without incident for four months, with no evidence of repairs. Thus, the plaintiff's claim failed, and judgment was entered for the defendant with costs.",
+  "legalKeywords": [
+    "contract of hire",
+    "bailment",
+    "implied warranty of fitness",
+    "breach of contract",
+    "chattel",
+    "reasonable fitness",
+    "hiring agreement",
+    "defective condition",
+    "failure to prove",
+    "total failure of consideration",
+    "oral contract",
+    "burden of proof",
+    "warranty breach",
+    "use of vehicle",
+    "mechanic testimony"
+  ],
+  "topics": [
+    "Contract Law",
+    "Tort Law",
+    "Bailment",
+    "Implied Terms",
+    "Fitness for Purpose"
+  ],
+  "verdict": "Judgment for the defendant",
+  "winningSide": "defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Miles J.",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Colony of the Gambia",
+    "country": "Gambia"
+  },
+  "caseType": "Civil Action for Damages",
+  "citations": [
+    "Sutton v. Temple (1843) 12 M. & W. 50; 52 E.R. 1108"
+  ],
+  "rationaleHighlights": [
+    "In a contract of hire, the bailor provides an implied warranty that the chattel is reasonably fit for its intended purpose.",
+    "The plaintiff bears the burden of proving the item was unfit for use.",
+    "Vague and uncorroborated testimony from a non-expert witness is insufficient to establish breach.",
+    "The continued successful use of the lorry by a third party undermines claims of unfitness.",
+    "Minor defects, such as faulty headlight bulbs, do not justify termination of a hire contract.",
+    "No evidence of repairs between hires supports the conclusion that the lorry was functional.",
+    "There was no total failure of consideration, so advance payment was not recoverable."
+  ],
+  "confidenceNotes": "High confidence; all key facts, holdings, and legal principles are explicitly stated in the judgment. Jurisdiction is Gambia, not Ghana, despite the source file location—this may indicate a cataloging error.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/JOHN v. FARAGE..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:30:04.686Z",
+    "plainTextLength": 6644
+  }
+}

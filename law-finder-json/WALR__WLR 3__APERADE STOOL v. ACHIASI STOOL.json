@@ -1,0 +1,75 @@
+{
+  "caseTitle": "APERADE STOOL VERSUS ACHIASI STOOL",
+  "summary": "This appeal arose from a decision by the Reserve Settlement Commissioner in favor of Achiasi Stool regarding ownership of Block I within the Bemu River Forest Reserve. Aperade Stool had previously litigated a broader claim to land including Block I, which was dismissed by the Privy Council due to insufficiently defined boundaries and lack of precise evidence. The Commissioner held that Aperade were estopped by the prior judgment from asserting title to Block I. On appeal, the Court of Appeal considered whether res judicata or estoppel applied. The majority held that since the subject-matter (Block I) was only a part of the earlier claim, there was no identity of subject-matter required for estoppel per rem judicatum. Granville Sharp J.A. emphasized that the evidence needed to prove the current claim differed from that in the prior case. Ollennu J. dissented, arguing that allowing piecemeal litigation after a full adverse judgment would undermine finality. The appeal challenged the exclusion of new documentary evidence, which the Commissioner rejected as barred by the earlier decision. The core legal issue centered on the interpretation of 'identity of subject-matter' in res judicata.",
+  "legalKeywords": [
+    "estoppel",
+    "res judicata",
+    "identity of subject-matter",
+    "title to land",
+    "boundary dispute",
+    "stool land",
+    "Privy Council",
+    "evidence admissibility",
+    "settlement inquiry",
+    "forestry reserve",
+    "adjudication",
+    "juridical identity",
+    "physical identity",
+    "claim splitting",
+    "finality of judgment"
+  ],
+  "topics": [
+    "Land Law",
+    "Res Judicata",
+    "Estoppel",
+    "Customary Law",
+    "Appellate Procedure"
+  ],
+  "verdict": "The appeal was allowed in part; the Court of Appeal held that res judicata did not apply due to lack of identity of subject-matter, reversing the Commissioner's finding of estoppel.",
+  "winningSide": "Aperade Stool",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "van Lare",
+      "role": "Ag.C.J."
+    },
+    {
+      "name": "Granville Sharp",
+      "role": "J.A."
+    },
+    {
+      "name": "Ollennu",
+      "role": "J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Ado v. Wusu (1938) 4 W.A.C.A. 96",
+    "Kodilinye v. Odu (1935) 2 W.A.C.A. 336",
+    "Brandlyn v. Ord (1738) 1 Atk. 571",
+    "Fulness, Withy & Co., Ltd. v. Hall (J. & E.), Ltd. (1909) 25 T.L.R. 233",
+    "New Brunswick Ry. v. British and French Trust Corpn. [1939] A.C. 1",
+    "Re Hilton, ex parte March (1892) 67 L.T. 594",
+    "Hoystead v. Commissioner of Taxation [1926] A.C. 155",
+    "Long v. Gowlett [1923] 2 Ch. 177",
+    "Outram v. Morewood (1803) 3 East 346"
+  ],
+  "rationaleHighlights": [
+    "For res judicata to apply, there must be identity of subject-matter, interpreted as essential or absolute sameness.",
+    "The test for identity is whether the evidence required to establish both claims is the same.",
+    "Ollennu J. dissented, arguing that juridical identity includes parts comprehended within a prior claim to prevent endless litigation.",
+    "The land in Block I was only a part of the previously litigated area, so no res judicata arose.",
+    "Documents not presented in prior litigation were excluded due to estoppel concerns, though not formally admitted."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and clear procedural history. Dissenting opinion by Ollennu J. adds nuance but does not undermine core findings.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/APERADE STOOL v. ACHIASI STOOL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:13:46.510Z",
+    "plainTextLength": 39353
+  }
+}

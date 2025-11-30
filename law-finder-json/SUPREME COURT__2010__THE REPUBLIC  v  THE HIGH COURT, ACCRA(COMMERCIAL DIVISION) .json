@@ -1,0 +1,83 @@
+{
+  "caseTitle": "THE REPUBLIC v THE HIGH COURT, ACCRA(COMMERCIAL DIVISION)",
+  "summary": "The Supreme Court of Ghana considered whether Justice Tanko Amadu of the Commercial Division had jurisdiction to hear a contempt application after the legal vacation period had ended. The contempt arose from enforcement of a writ of possession related to an estate dispute. Although the judge had been authorized to sit during the 2008 legal vacation (August–September), he ruled on the contempt matter on 20 October 2008—after his vacation mandate lapsed and without formal transfer of the case to his division. The Court held that he was not properly seized of the matter at that time, as the case was originally filed in a different division. While certiorari is discretionary, the Court emphasized that parties must object promptly to jurisdictional defects. The ruling reaffirmed the importance of statutory compliance, judicial discipline, and the Chief Justice’s role in case transfers to prevent forum shopping and maintain judicial order.",
+  "legalKeywords": [
+    "jurisdiction",
+    "contempt of court",
+    "certiorari",
+    "legal vacation",
+    "judicial authority",
+    "Chief Justice",
+    "divisional jurisdiction",
+    "forum shopping",
+    "judicial misconduct",
+    "procedural fairness",
+    "separation of powers",
+    "rule of law",
+    "judicial administration",
+    "vacation judge",
+    "transfer of cases"
+  ],
+  "topics": [
+    "Judicial Jurisdiction",
+    "Contempt of Court",
+    "Certiorari",
+    "Legal Vacation",
+    "Judicial Administration"
+  ],
+  "verdict": "The Supreme Court allowed the application for certiorari, quashing the contempt ruling by Justice Tanko Amadu on the grounds of lack of jurisdiction after the legal vacation period.",
+  "winningSide": "The Republic (Applicant)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ansa, J.S.C."
+    },
+    {
+      "name": "Baffoe-Bonnie, J.S.C."
+    },
+    {
+      "name": "Aryeetey, J.S.C."
+    },
+    {
+      "name": "Gbadebe, J.S.C."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Republic v. High Court, Ex parte Yalley (Gyane & Ottor Interested Parties) [2007-2008] SC GLR 512",
+    "R v Imer London Quarter Session; Ex parte D’souza (1970) AII ER 481",
+    "R v. Williams; Ex parte Phillips (1914) IK B608",
+    "Wiredu v Mim Timber Co Ltd. (1963) 2 GLR 167 S.C",
+    "Republic v. High Court, Kumasi; Ex parte Ackaah (1995-1996) I GLR 270 S.C",
+    "Imperial Chemical Industries plc v. Colmer (Inspector of Taxes) (1996) 2 AII ER 23 H.L",
+    "Republic v. High Court, Cape Coast; Ex parte Marwan Kort. (1998-99) SC GLR 833",
+    "Soro v Frans (2005-2006) SC GLR 1003",
+    "The Republic v. High Court Judge (Fast Track Division) Accra; Ex parte Quaye & Anor (Yovonoo & Ors Interested Parties) (2005-2006) SC GLR 660"
+  ],
+  "rationaleHighlights": [
+    "A judge of the Commercial Division lacked jurisdiction to hear a contempt case filed in another division after the legal vacation ended.",
+    "Jurisdictional authority derived from vacation appointment does not extend beyond the vacation period without formal transfer.",
+    "Objection to lack of jurisdiction must be timely raised to invoke certiorari, even when jurisdiction is lacking.",
+    "Judicial divisions exist for administrative convenience but do not erase jurisdictional boundaries without proper transfer.",
+    "Unregulated transfer of cases risks forum shopping and undermines judicial integrity.",
+    "Statutory interpretation must reflect real-world application to prevent chaos in the judiciary.",
+    "The Chief Justice’s authority to transfer cases is a critical safeguard against improper forum selection.",
+    "Discretionary remedies like certiorari require demonstration of prejudice and procedural diligence."
+  ],
+  "confidenceNotes": "The ruling is well-reasoned and cites multiple precedents, indicating high confidence in the legal analysis. The jurisdictional issue is clearly grounded in statutory interpretation and prior case law.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/THE REPUBLIC  v  THE HIGH COURT, ACCRA(COMMERCIAL DIVISION) .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:41:46.134Z",
+    "plainTextLength": 19804
+  },
+  "trialDate": "2010-02-03"
+}

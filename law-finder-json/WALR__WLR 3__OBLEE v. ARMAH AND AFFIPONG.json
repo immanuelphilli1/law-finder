@@ -1,0 +1,61 @@
+{
+  "caseTitle": "OBLEE VERSUS ARMAH AND AFFIPONG",
+  "summary": "In this civil action for declaration of title, damages for trespass, and injunction over stool land in Accra, the plaintiff, a subject of the James Town Stool, claimed a grant of land made approximately 40 years prior, supported by evidence of long possession through farming and building. The defendants asserted later grants from the stool. The court held that hearsay evidence by the plaintiff's son regarding the original grant was inadmissible since the plaintiff could have testified personally. It affirmed that stool subjects generally may occupy vacant stool land without formal consent, except where the land is urban outskirt land ripe for development, which requires an express grant. The court rejected the defendants' claim that building on land granted for farming constituted forfeiture, ruling that use is not restricted by the original purpose. A grant by the stool without the concurrence of an existing occupant is void. Despite prior compulsory acquisition under the Accra Town (Lands) Ordinance, the plaintiff, as lawful occupant who did not claim compensation, retained standing to sue all parties except the government. The claims of the defendants, based on later grants, were dismissed.",
+  "legalKeywords": [
+    "hearsay evidence",
+    "traditional evidence",
+    "stool land",
+    "native law and custom",
+    "possessory title",
+    "forfeiture",
+    "customary land tenure",
+    "land grant",
+    "outskirt land",
+    "compulsory acquisition",
+    "urban land development",
+    "rights of stool subject",
+    "building on stool land",
+    "farming rights",
+    "reversion to stool"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Evidence Law",
+    "Property Rights",
+    "Stool Land Tenure"
+  ],
+  "verdict": "The plaintiff's claim to the land was upheld. The court declared his title, granted damages for trespass, and issued an injunction against the defendants. The defendants' claims, based on subsequent grants, were dismissed.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Danquah v. Wuta Ofei and Bonne (1956) 2 W.A.L.R. 185",
+    "Asher v. Whitlock (1865) L.R. 1 Q.B. 1",
+    "Sandar v. Parbati (1889) 5 T.L.R. 683"
+  ],
+  "rationaleHighlights": [
+    "Hearsay evidence not admissible as traditional where direct evidence is available.",
+    "Stool subjects may occupy vacant stool land without express consent unless it is urban outskirt land ripe for development.",
+    "Use of stool land is not restricted to farming even if originally granted for that purpose.",
+    "Grant of stool land to a subject without their consent is a nullity.",
+    "Plaintiff in possession pre-acquisition can maintain action despite statutory vesting in government."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and clear citation of precedent.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/OBLEE v. ARMAH AND AFFIPONG.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:57:52.101Z",
+    "plainTextLength": 27914
+  }
+}

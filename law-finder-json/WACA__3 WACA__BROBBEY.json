@@ -1,0 +1,66 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This is an appeal from an administration suit in which the plaintiff-appellant sought Letters of Administration over the estate of his deceased uncles, Ado-Kwabu and Ardu Yaw, but was opposed by a caveat filed by the defendant, Yaw Kyere, who had already inherited the property under a death-bed declaration recognized by native customary law. The plaintiff had previously brought a claim before the Kumasihene Native Tribunal in 1934, seeking judicial relief, an account of property dealings, and an injunction against the defendant. The native tribunal found that the defendant inherited the property in accordance with a valid death-bed declaration confirmed by a 'great oath' and attested in accordance with native custom, and dismissed the plaintiff's claim. No appeal was taken. In 1935, the plaintiff initiated the administration suit, which the lower court dismissed based on the prior decision of the native tribunal, holding the matter res judicata and the plaintiff estopped by record. On appeal, the West Africa Court of Appeal upheld the ruling, affirming that the native tribunal was competent, the issues were identical, and the judgment constituted a final determination under native law. The appeal was dismissed.",
+  "legalKeywords": [
+    "res judicata",
+    "native customary law",
+    "succession",
+    "Letters of Administration",
+    "caveat",
+    "estoppel by record",
+    "death-bed declaration",
+    "injunction",
+    "account of property dealings",
+    "competent native court"
+  ],
+  "topics": [
+    "Succession Law",
+    "Customary Law",
+    "Res Judicata",
+    "Probate Disputes",
+    "Judicial Estoppel"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Caveator-Respondent (Yaw Kyere)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "WEBBER, C.J., SIERRA LEONE",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "KINGDON, c.J., NIGERIA",
+      "role": "Concurring Judge"
+    },
+    {
+      "name": "PETRIDES, C.J., GOLD COAST",
+      "role": "Concurring Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Appeal",
+  "citations": [
+    "WACA/3 WACA/BROBBEY.htm"
+  ],
+  "rationaleHighlights": [
+    "The issue of succession was already adjudicated by a competent native tribunal.",
+    "The native court's decision based on a death-bed declaration confirmed by 'great oath' is binding.",
+    "No appeal was filed from the native tribunal's decision, reinforcing finality.",
+    "The same facts were at issue in both proceedings, satisfying res judicata.",
+    "The caveator did not rely on an English will but on native customary law.",
+    "The native tribunal had jurisdiction over the matter under customary law.",
+    "The lower court correctly applied estoppel by record.",
+    "The appeal court affirms dismissal on grounds of legal finality and jurisdiction."
+  ],
+  "confidenceNotes": "High confidence; source is a verbatim court judgment with clear procedural history and judicial reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/BROBBEY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:26:44.836Z",
+    "plainTextLength": 4974
+  },
+  "trialDate": "1936-12-01"
+}

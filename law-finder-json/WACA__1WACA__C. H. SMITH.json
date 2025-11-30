@@ -1,0 +1,70 @@
+{
+  "caseTitle": "C. H. SMITH",
+  "summary": "This 1932 West African Court of Appeal decision from Accra concerned a civil action by C. H. Smith against Societe Commerciale de l'Ouest Africain for unpaid commission on debt recoveries. The Circuit Court had dismissed the claim, deeming the commission agreements champertous and unenforceable. On appeal, the court reversed the decision, holding that the agreements did not constitute champerty or maintenance under English common law as applied in Ashanti. The judges emphasized that while English common law applied via the Supreme Court Ordinance, the absence of criminal liability under the Criminal Code did not render such contracts legally permissible. Crucially, the plaintiff acted as an authorized agent in debt recovery, with no officious intermeddling or risk to justice. The agreements were thus enforceable, and the appeal was allowed, with judgment entered for the plaintiff for £3 plus costs.",
+  "legalKeywords": [
+    "champerty",
+    "maintenance",
+    "common law",
+    "contract enforceability",
+    "public policy",
+    "illegal contract",
+    "commission agreement",
+    "debt recovery",
+    "Ashanti legal jurisdiction",
+    "Supreme Court Ordinance",
+    "Criminal Code",
+    "tort",
+    "restraint of trade",
+    "agent representation",
+    "equity"
+  ],
+  "topics": [
+    "contract law",
+    "legal ethics",
+    "debt collection",
+    "common law application",
+    "colonial jurisprudence"
+  ],
+  "verdict": "Appeal allowed; judgment reversed; plaintiff awarded £3 with costs in lower court.",
+  "winningSide": "Plaintiff-Appellant (C. H. Smith)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Horne J.",
+      "role": "appellate judge"
+    },
+    {
+      "name": "Deane, C.J. The Gold Coast Colony",
+      "role": "chief justice"
+    },
+    {
+      "name": "Macquarrie J.",
+      "role": "appellate judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "(1892) 2 Q.B. 724",
+    "(1919) A.C. 368",
+    "(1908) 1 K.B. 1014",
+    "(1896) 2 Ch. 437"
+  ],
+  "rationaleHighlights": [
+    "Agreements not champertous as plaintiff acted as authorized agent without improper interference",
+    "Champerty laws apply in Ashanti via Supreme Court Ordinance despite no criminal liability under Criminal Code",
+    "Court emphasized civil illegality based on public policy, not criminal punishment",
+    "No evidence of special damage or obstruction of justice"
+  ],
+  "confidenceNotes": "The case is well-reasoned with clear judicial analysis; citations are authoritative and contextually relevant. Jurisdictional application of English common law is explicitly addressed.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/C. H. SMITH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:52:00.228Z",
+    "plainTextLength": 17011
+  },
+  "trialDate": "1932-05-28"
+}

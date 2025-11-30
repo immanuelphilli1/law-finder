@@ -1,0 +1,39 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The provided document does not contain a legal decision or case details but appears to be a homepage or index page for an online legal resource called 'Ghana Law Finder.' It offers a self-help guide to the law, including case and subject matter indices, and references unreported cases of the Supreme Court of Ghana from 2010. No judicial reasoning, parties, or rulings are present in the text.",
+  "legalKeywords": [
+    "Ghana Law Finder",
+    "legal resource",
+    "case index",
+    "unreported cases",
+    "Supreme Court",
+    "legal library",
+    "self-help legal guide",
+    "subject matter index",
+    "online legal database",
+    "copyright notice"
+  ],
+  "topics": [
+    "Legal Research",
+    "Court Resources",
+    "Supreme Court of Ghana"
+  ],
+  "verdict": "not applicable",
+  "winningSide": "not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "administrative page",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "Low confidence in extracting case-specific insights due to absence of actual case content; the document is an informational webpage, not a judicial decision.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2010/temp.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:39:28.094Z",
+    "plainTextLength": 311
+  }
+}

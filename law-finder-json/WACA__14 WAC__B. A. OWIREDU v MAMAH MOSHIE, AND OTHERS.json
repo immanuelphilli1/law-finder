@@ -1,0 +1,72 @@
+{
+  "caseTitle": "B. A. OWIREDU v MAMAH MOSHIE, AND OTHERS",
+  "summary": "This was a civil land dispute before the West African Court of Appeal, Gold Coast, concerning the alienation of family land belonging to the Effia Stool. The appellants claimed leasehold rights over land in Effia Zongo based on a 1948 lease granted by Chief Brempong Yaw III. The respondents, including Mamah Moshie (in possession) and Petteh Esson (head of the Effia Stool family), challenged the lease's validity, asserting that the family had not consented to the alienation and that the land had previously been leased to Moshie by the Chief's predecessor. The appellants argued that the family had delegated all land alienation authority to the Chief upon his installation. However, the court held that under Fanti Customary Law, the consent of the head and principal members of the family (Ebusuafu) and the approval of the Paramount Chief (overlord of the Effia Stool) were mandatory for any valid alienation of Stool land. Citing Sarbah's Fanti Customary Law and the precedent in Mary Barnes v. Chief Quasie Atta, the court found that the lease to the appellants lacked these essential consents and was therefore not binding on the Stool family. The appeal was dismissed, upholding the trial court's decision.",
+  "legalKeywords": [
+    "Native Law and Custom",
+    "Fanti Customary Law",
+    "alienation of family land",
+    "consent of family head and principal members",
+    "approval of Paramount Chief",
+    "unauthorized lease",
+    "Stool land",
+    "land tenure",
+    "customary land rights",
+    "lease validity",
+    "family property",
+    "land dispute",
+    "headman",
+    "overlord",
+    "mesne profits"
+  ],
+  "topics": [
+    "Customary Law",
+    "Land Tenure",
+    "Family Property",
+    "Lease Validity",
+    "Judicial Precedent"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Korsah, J.",
+      "role": "deciding judge"
+    },
+    {
+      "name": "Foster-Sutton, P.",
+      "role": "concurring"
+    },
+    {
+      "name": "Coussey, J.",
+      "role": "concurring"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "Mary Barnes v. Chief Quasie Atta, 17th July, 1871",
+    "Sarbah, Fanti Customary Law, pp. 78-9, p. 109"
+  ],
+  "rationaleHighlights": [
+    "Consent of head and principal members of the family is required for alienation of family land under Fanti Customary Law.",
+    "Approval of the Paramount Chief (overlord) is also required for alienation of Stool land.",
+    "A lease granted without such consent and approval is not binding on the Stool family.",
+    "The Stool family had not delegated full authority to the Chief to alienate land.",
+    "Prior recognition of defendant as tenant by the family undermines plaintiffs' claim.",
+    "Precedent from Mary Barnes v. Chief Quasie Atta supports the necessity of family concurrence.",
+    "Sarbah's Fanti Customary Law confirms that neither head nor senior members alone can alienate family property.",
+    "Trial court's finding supported by evidence and customary law."
+  ],
+  "confidenceNotes": "High confidence; case facts and legal principles are clearly stated with direct citations to authority.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/B. A. OWIREDU v MAMAH MOSHIE, AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:43:32.680Z",
+    "plainTextLength": 7038
+  },
+  "trialDate": "1952-01-10"
+}

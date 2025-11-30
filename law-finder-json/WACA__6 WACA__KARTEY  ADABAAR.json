@@ -1,0 +1,70 @@
+{
+  "caseTitle": "KARTEY ADABAAR",
+  "summary": "The case involved a dispute over the possession of Adutor Creek in Ghana, claimed by the Adabaar Family through their head, Plaintiff-Appellant Karthey Adabaar, against Defendants-Respondents Asafohene Amusu and Numgu Sekpe. The central issue was the interpretation of a 1926 lease agreement granting the creek 'for a fishery period of five years,' contingent on the Volta River flooding the creek sufficiently for fishing. The Plaintiff argued the lease was for five calendar years, while the Defendants maintained it lasted until five viable fishing seasons occurred. The West Africa Court of Appeal upheld the lower court’s decision, agreeing that the lease term depended on five flooding seasons, not fixed years. The court found that by the time the writ was issued in March 1935, only four fishing seasons had occurred, meaning the lease was still valid. Thus, the Defendants' possession was lawful, and the appeal was dismissed with costs.",
+  "legalKeywords": [
+    "lease interpretation",
+    "customary land tenure",
+    "fishing rights",
+    "creek ownership",
+    "adjudication of traditional property rights",
+    "tribal stewardship",
+    "property possession",
+    "injunction",
+    "flood-dependent lease",
+    "Ghanaian customary law",
+    "Ewe customary law",
+    "paramount chief jurisdiction",
+    "lease expiration",
+    "amphibious land use",
+    "succession of caretakers"
+  ],
+  "topics": [
+    "Property Law",
+    "Customary Law",
+    "Appellate Decision"
+  ],
+  "verdict": "The appeal was dismissed. The Defendants-Respondents lawfully held possession under the valid lease, which had not expired at the time of the writ's issuance in March 1935, as only four of the required five fishing seasons had occurred.",
+  "winningSide": "Defendants-Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Strother-Stewart",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "WACA/6 WACA/KARTEY ADABAAR",
+    "Suit No. 56/1934 (Asafohene Gbadavu v. Twani Degbezah)"
+  ],
+  "rationaleHighlights": [
+    "The phrase 'a fishery period of five years' refers to five functional fishing seasons enabled by flooding, not five fixed calendar years.",
+    "Seasons with insufficient flooding are not counted toward the five-season term.",
+    "The lease remained valid at the time of the writ (March 1935) because only four qualifying fishing seasons had occurred.",
+    "The caretaker (Gbadavu) had recognized authority to lease, supported by precedent and family acquiescence.",
+    "Defendants had a lawful defense based on an unexpired lease.",
+    "The Trial Judge’s oversight regarding the writ date was corrected on appeal using factual evidence from the record.",
+    "Historical flooding data and witness testimony were pivotal in determining lease duration.",
+    "Traditional stewardship roles in Ewe customary law were respected in the court's interpretation."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct judicial reasoning and explicit citation of evidence. The interpretation of 'fishery period' aligns with prior precedent (Suit No. 56/1934), reinforcing legal consistency.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/KARTEY  ADABAAR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:05:33.796Z",
+    "plainTextLength": 10263
+  },
+  "trialDate": "1940-03-11"
+}

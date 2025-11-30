@@ -1,0 +1,70 @@
+{
+  "caseTitle": "CARETAKER KABINA NEMMI",
+  "summary": "This is an appeal from the decision of the Commissioner of the Western Province dismissing an appeal by Caretaker Kabina Nemmi against a judgment of the State Council of Western Nzima in favor of Caretaker Ediay. The core issue was whether the appeal was properly before the Provincial Commissioner given that notice of appeal was served on the respondent over six months after the original judgment, in breach of the six-month time limit under section 76(3) of the Native Administration Ordinance (Cap. III, 1928). Although conditional leave to appeal was eventually granted by the State Council, the initial ex parte application and delayed service of notice rendered the appeal out of time. The West Africa Court of Appeal held that 'notice of appeal' must be served on the respondent within the statutory period and that ex parte motions do not satisfy this requirement. Relying on Ohene Moore v. Akesseh Tayee and Egyir Ababio v. Kwadwo Tsia, the Court ruled that the Provincial Commissioner had no jurisdiction to hear the appeal due to the procedural default, and thus affirmed the dismissal of the appeal.",
+  "legalKeywords": [
+    "appeal",
+    "notice of appeal",
+    "conditional leave",
+    "jurisdiction",
+    "ex parte",
+    "State Council",
+    "Provincial Commissioner",
+    "Native Administration Ordinance",
+    "time limit",
+    "technicality",
+    "statutory interpretation",
+    "by-law validity",
+    "procedural compliance",
+    "leave to appeal",
+    "six months rule"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Jurisdiction",
+    "Procedural Law",
+    "Native Administration Ordinance",
+    "Time Limits for Appeal"
+  ],
+  "verdict": "Appeal dismissed with costs",
+  "winningSide": "Defendant-Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Doorly",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "Kingdon",
+      "role": "President"
+    },
+    {
+      "name": "Petrides",
+      "role": "judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Ohene Moore v. Akesseh Tayee (2 W.A.C.A. 43)",
+    "Egyir Ababio v. Kwadwo Tsia and others (3 W.A.C.A. 110)"
+  ],
+  "rationaleHighlights": [
+    "Application did not constitute valid 'Notice of Appeal' under section 76(1) of the Native Administration Ordinance",
+    "Ex parte applications do not satisfy the requirement to 'give notice of appeal'",
+    "No jurisdiction where notice is out of time, and no power to extend time under the statute",
+    "State Council bound by same procedural rules as Paramount Chief's Tribunal",
+    "Provincial Commissioner lacked jurisdiction due to procedural default",
+    "Court bound by statute even in hard cases"
+  ],
+  "confidenceNotes": "High confidence; case details are clearly documented with direct references to legal provisions and prior case law.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/CARETAKER KABINA NEMMI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:09:45.995Z",
+    "plainTextLength": 9248
+  },
+  "trialDate": "1940-03-11"
+}

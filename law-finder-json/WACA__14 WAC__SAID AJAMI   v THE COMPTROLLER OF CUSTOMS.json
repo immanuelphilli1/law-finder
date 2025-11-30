@@ -1,0 +1,66 @@
+{
+  "caseTitle": "SAID AJAMI v THE COMPTROLLER OF CUSTOMS",
+  "summary": "This appeal before the West African Court of Appeal concerned the admissibility of expert testimony regarding the legal tender status of French Colonial Franc Notes. The appellant, Said Ajami, was penalized by the Comptroller of Customs for attempting to export the notes from Nigeria, prohibited under the Exchange Control and Customs Ordinances. The Comptroller relied on the testimony of Greenway, Manager of Barclays Bank, Kano, with 32 years of banking experience (24 in Nigeria), who stated the notes were legal tender in French West Africa. Though no formal averment was made under section 245 of the Customs Ordinance, the court held that Greenway’s extensive experience and role as a manager of an authorized foreign exchange dealer provided him with 'peculiar means of knowledge' and public duties requiring expertise, satisfying the 'specially skilled' standard under section 56 of the Evidence Ordinance. The court affirmed the lower courts’ decisions, dismissing the appeal with costs.",
+  "legalKeywords": [
+    "expert witness",
+    "foreign law",
+    "legal tender",
+    "Evidence Ordinance",
+    "section 56",
+    "Customs Ordinance",
+    "Exchange Control Ordinance",
+    "banking experience",
+    "prima facie qualification",
+    "peculiar means of knowledge"
+  ],
+  "topics": [
+    "Evidence Law",
+    "Customs Law",
+    "Expert Testimony",
+    "Foreign Currency Regulation",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "The Comptroller of Customs",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Verity, C.J.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Jibowu, Ag. S.P.J.",
+      "role": "Judge"
+    },
+    {
+      "name": "Coussey, J.",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Vander Danekt v. Thellussan, 137 E.R. 727",
+    "Shand v. Kidd, 52 E.R. 476",
+    "Sussex Peerage Case, 8 E.R. 1034"
+  ],
+  "rationaleHighlights": [
+    "The witness's 24 years of banking experience in Nigeria provided peculiar means of knowledge on foreign currency.",
+    "As manager of an authorized foreign currency dealer, the witness had public duties requiring familiarity with legal tender status.",
+    "Section 56 of the Evidence Ordinance allows expert opinion if the witness is specially skilled through experience or office.",
+    "The question of legal tender was treated as a practical banking fact rather than an abstract legal issue.",
+    "No cross-examination of the witness supported the admissibility of his testimony.",
+    "Precedent from the Sussex Peerage Case affirmed that office-holders may be presumed experts due to their duties."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and direct citation of legal provisions and precedents.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/SAID AJAMI   v THE COMPTROLLER OF CUSTOMS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:30:06.875Z",
+    "plainTextLength": 11553
+  },
+  "trialDate": "1952-02-19"
+}

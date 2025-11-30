@@ -1,0 +1,90 @@
+{
+  "caseTitle": "THE REP VRS THE HIGH COURT, AC EX CONCORD MEDIA LTD ,ALFRED OGBAMEY, GHANA PORTS & HARBOURS AUTHORITY BEN OWUSU MENSAH",
+  "summary": "The Supreme Court of Ghana dismissed an application for an order of prohibition sought by Concord Media Ltd and Alfred Ogbasey to prevent the High Court, Accra—specifically Justice Benson—from continuing to hear a defamation suit (Suit No. BD 6/2007) brought by Ghana Ports & Harbours Authority and Ben Owusu Mensah. The applicants alleged judicial bias and prejudice, citing remarks by the judge calling their petition 'bogus' and describing Ogbasey as 'cantankerous.' They also objected to the judge swearing an affidavit in response, arguing it compromised impartiality. The Supreme Court found the allegations unproven on balance of probabilities, noting the court record from December 14, 2009, contradicted the claims as counsel was present. The Court emphasized that judges should not swear affidavits in such matters and reaffirmed the standard of proof in civil proceedings for bias claims, ultimately dismissing the application.",
+  "legalKeywords": [
+    "judicial bias",
+    "prohibition",
+    "supervisory jurisdiction",
+    "judicial impropriety",
+    "affidavit",
+    "cross-examination",
+    "standard of proof",
+    "Evidence Act NRCD 323",
+    "contempt of court",
+    "impartiality",
+    "judicial conduct",
+    "Republic v High Court",
+    "Ex parte application",
+    "bias allegations",
+    "trial judge affidavit",
+    "record of proceedings",
+    "fair trial",
+    "judicial review",
+    "alleged prejudice",
+    "disqualification of judge"
+  ],
+  "topics": [
+    "Judicial Conduct",
+    "Constitutional Law",
+    "Procedural Fairness",
+    "Supervisory Jurisdiction",
+    "Defamation"
+  ],
+  "verdict": "Application dismissed",
+  "winningSide": "Respondent (High Court, Accra)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Anin Yeboah JSC",
+      "role": "Presiding Justice, delivered ruling"
+    },
+    {
+      "name": "Jones Dotse JSC",
+      "role": "Concurring opinion"
+    },
+    {
+      "name": "Gbadegbe JSC",
+      "role": "Concurring opinion"
+    },
+    {
+      "name": "Brobbey JSC",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Aryeetey JSC",
+      "role": "Member of Coram"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Motion (Application for Prohibition)",
+  "citations": [
+    "Republic v High Court, Accra, Ex parte Appenten & Anor [2005–2006] SCGLR 18",
+    "Republic v High Court, Ex parte Mobil Oil (Ghana) Ltd [2005–2006] SCGLR 312",
+    "Republic v High Court, Denu, Ex-parte Agbesi Awusu II [2003–2004] SCGLR 864",
+    "Attorney-General v Sallah [1970] CC 54",
+    "O'Reilly v Mackman [1983] 2 AC 237",
+    "R v Secretary of State for the Home Department, ex parte Khawaja [1984] AC 74",
+    "Florence v Lawson [1851] 17 LT 260"
+  ],
+  "rationaleHighlights": [
+    "Allegations of bias were not proven on balance of probabilities.",
+    "The court record from December 14, 2009, contradicted the applicant's claim that counsel was absent.",
+    "A judge should not swear an affidavit in response to allegations; the registrar should act on behalf of the court.",
+    "The presumption of regularity in judicial proceedings supports the authenticity of court records.",
+    "Mere allegations without credible evidence do not justify intervention via prohibition.",
+    "Judges must avoid conduct that creates an appearance of bias or prejudice.",
+    "The burden of proof in such applications remains on the applicant, even when affidavits are used.",
+    "Cross-examination may be allowed in contested judicial review matters, but was not requested here."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from the court's ruling, concurring opinions, and cited legal standards. All key details including parties, allegations, procedural history, and legal reasoning are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/THE REP VRS THE HIGH COURT, AC   EX   CONCORD MEDIA LTD ,ALFRED OGBAMEY, GHANA PORTS & HARBOURS AUTHORITY BEN OWUSU MENSAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:57:55.170Z",
+    "plainTextLength": 17719
+  },
+  "trialDate": "2010-05-17"
+}

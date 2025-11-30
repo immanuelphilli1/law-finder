@@ -1,0 +1,78 @@
+{
+  "caseTitle": "DORIS NAADU NARTEY v CHRISTIAN KUMI",
+  "summary": "In this civil appeal before the Supreme Court of Ghana, the defendant/appellant, Christian Kumi, challenged the lower court's refusal to set aside a judgment entered in favor of the plaintiff/respondent, Doris Naadu Nartey, concerning the ownership and distribution of a property bequeathed under the will of their late father, Christian William Kumi. The plaintiff sought a declaration of equal shares, judicial sale, and an injunction against alienation of House No. W.39 Boi Man at Abeka. The High Court entered judgment for the plaintiff after a de novo hearing in the defendant's absence, despite claims of non-service of hearing notice. The Supreme Court found that there was no evidence of service or substituted service of the hearing notice as required by law, constituting a breach of the rule of natural justice, audi alteram partem. Consequently, the Supreme Court held that the trial judge ought to have set aside the judgment and remitted the matter for a fair hearing.",
+  "legalKeywords": [
+    "natural justice",
+    "audi alteram partem",
+    "service of notice",
+    "hearing notice",
+    "substituted service",
+    "procedural fairness",
+    "will interpretation",
+    "probate",
+    "real estate",
+    "beneficiaries",
+    "judicial sale",
+    "injunction",
+    "civil procedure",
+    "adjournment",
+    "de novo hearing"
+  ],
+  "topics": [
+    "Probate and Succession",
+    "Property Law",
+    "Civil Procedure",
+    "Natural Justice",
+    "Judicial Review"
+  ],
+  "verdict": "The Supreme Court allowed the appeal, set aside the judgment of the High Court dated 13/2/2003, and ordered that the matter be remitted to the High Court for a fresh hearing.",
+  "winningSide": "Defendant/Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sophia Adinyira",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Miss Akuffo",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Brobbey",
+      "role": "panel judge"
+    },
+    {
+      "name": "Ansa",
+      "role": "panel judge"
+    },
+    {
+      "name": "Asiamah",
+      "role": "panel judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "[1964] GLR 469",
+    "High Court Civil Procedure Rules 2004 C.I. 47 Order 36 rule 1",
+    "Order 36 rr. 16 and 17 of High Court (Civil Procedure) Rules 1954"
+  ],
+  "rationaleHighlights": [
+    "Defendant was not served with hearing notice, violating natural justice.",
+    "No affidavit of service or substituted service order found in record.",
+    "Trial judge erred in proceeding without proof of service.",
+    "Judgment set aside due to breach of audi alteram partem rule.",
+    "Court emphasized duty to follow rules even amid efforts to reduce delays."
+  ],
+  "confidenceNotes": "The judgment hinges on procedural fairness and service of notice; absence of affidavit of service is critical. Citation of Fah v. Bediatuo II supports the principle that proof of service is required.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2007A/DORIS NAADU  NARTEY  v CHRISTIAN KUMI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:20:25.923Z",
+    "plainTextLength": 23687
+  },
+  "trialDate": "2006-04-20"
+}

@@ -1,0 +1,66 @@
+{
+  "caseTitle": "AH VERSUS FORFIE",
+  "summary": "In this civil land title dispute, the Judicial Committee of the Privy Council considered whether a judgment delivered by a judicial officer who lacked jurisdiction could be reviewed and validated. The presiding officer, Mr. Spooner, delivered a judgment on May 10, 1949, but his appointment had been rescinded effective that date. After being reappointed from June 23 to June 30, 1949, he reviewed his earlier decision on June 29, declaring the initial judgment void for lack of jurisdiction and reissuing it in identical terms. The West African Court of Appeal held both judgments nullities. The Privy Council reversed, holding that (1) a judgment given without jurisdiction is still a 'judgment' subject to review under Order 42 of the Courts Ordinance; (2) a judicial officer may review sua sponte, without a party's application; and (3) courts possess inherent power to set aside judgments lacking jurisdiction. Thus, the June 29 judgment was valid as it was issued during a period of lawful appointment.",
+  "legalKeywords": [
+    "review of judgment",
+    "jurisdiction",
+    "nullity",
+    "inherent powers of court",
+    "Courts Ordinance",
+    "judicial appointment",
+    "conditional leave to appeal",
+    "final leave to appeal",
+    "appellate tribunal",
+    "power to rehear"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Jurisdiction",
+    "Judicial Review",
+    "Nullity of Judgment",
+    "Inherent Powers of Court"
+  ],
+  "verdict": "The appeal was allowed; the judgment of June 29, 1949, was held not to be a nullity and was reinstated.",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lord Reid",
+      "role": "Appellate Judge"
+    },
+    {
+      "name": "Lord Somervell of Harrow",
+      "role": "Appellate Judge"
+    },
+    {
+      "name": "Mr. L. M. D. de Silva",
+      "role": "Delivered Judgment"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Judicial Committee of the Privy Council",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "[1943] K.B. 256",
+    "Courts Ordinance, c. 4 of 1951, Second Schedule, Order 42",
+    "Order 41, r. 1, Third Schedule to the Courts Ordinance",
+    "Courts Ordinance, c. 4 of 1951, Second Schedule, Order 42",
+    "Craig v. Kanssen [1943] K.B. 256"
+  ],
+  "rationaleHighlights": [
+    "A judgment given without jurisdiction is still a 'judgment' for purposes of review under Order 42.",
+    "Courts have inherent power to set aside judgments delivered without jurisdiction.",
+    "A judicial officer may review a judgment sua sponte, without party application.",
+    "Multiple appointments to preside over a court can coexist; later appointment prevails if conflict arises.",
+    "Conditional leave to appeal does not bar review; only final leave triggers the bar in Order 41."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text with clear citation to legal provisions and case law.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/SElF AH v. FORFIE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:52:18.776Z",
+    "plainTextLength": 16251
+  }
+}

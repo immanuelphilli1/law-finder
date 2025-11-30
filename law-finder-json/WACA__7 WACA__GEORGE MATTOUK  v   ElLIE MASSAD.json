@@ -1,0 +1,72 @@
+{
+  "caseTitle": "IN THE MATTER OF THE ESTATE OF JAMES TAYLOR, DECEASED",
+  "summary": "In this 1941 West Africa Court of Appeal case, George Mattouk sued Elie Massad for damages arising from the alleged seduction and carnal knowledge of Mattouk's daughter, Mary, who was nearly seventeen at the time. The Kumasi Divisional Court awarded Mattouk £1,200 in damages, which Massad appealed. The Court of Appeal allowed the appeal, finding that the trial judge erred in accepting the uncorroborated testimony of the girl, whose account of two rapes was deemed manifestly incredible and lacking in any corroborative evidence. The appellate court emphasized that while demeanor is important, it cannot override the implausibility of the testimony when no other circumstances support credibility. The judgment criticized the trial judge for failing to analyze the details of the girl’s story and for substituting an unsupported finding of seduction despite the plaintiff’s case being based solely on allegations of rape.",
+  "legalKeywords": [
+    "seduction",
+    "corroboration",
+    "demeanour of witness",
+    "uncorroborated testimony",
+    "rape",
+    "appellate review",
+    "trial judge findings",
+    "weight of evidence",
+    "credibility assessment",
+    "judicial discretion",
+    "evidence evaluation",
+    "burden of proof",
+    "sexual assault",
+    "damages",
+    "appellate intervention"
+  ],
+  "topics": [
+    "Family Law",
+    "Evidence Law",
+    "Appellate Procedure",
+    "Sexual Offences",
+    "Civil Damages"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendant-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Graham Paul",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Kingdok",
+      "role": "Justice"
+    },
+    {
+      "name": "Petludes",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Colonial Securities Trust Co. v. Massey (1896) 1 Q.B. 38",
+    "Coghlan v. Cumberland (L.R. 1898) 1 Ch. 704",
+    "Rex v. Graham (4 Cr. App. Rep. 218)"
+  ],
+  "rationaleHighlights": [
+    "The girl's testimony stood alone with no corroboration whatsoever.",
+    "The trial judge failed to analyze or summarize the details of the girl's story.",
+    "The appellate court found the account of two rapes in open settings implausible and inherently incredible.",
+    "Demeanor alone cannot sustain a finding when the testimony is manifestly perjured.",
+    "The trial judge improperly substituted a finding of seduction despite the absence of supporting evidence.",
+    "The Court of Appeal has a duty to re-examine facts and may differ from the trial judge when credibility is undermined by internal inconsistencies.",
+    "No evidence suggested a consensual or seductive relationship—only force was alleged.",
+    "The judgment emphasized that appellate courts must not abdicate their responsibility merely because of witness demeanor."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from the judgment text. Some procedural details may be inferred due to document truncation, but core holdings and reasoning are clearly stated.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/GEORGE MATTOUK  v   ElLIE MASSAD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:34:30.241Z",
+    "plainTextLength": 42683
+  }
+}

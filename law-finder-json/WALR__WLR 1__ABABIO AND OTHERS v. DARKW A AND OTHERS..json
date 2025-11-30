@@ -1,0 +1,72 @@
+{
+  "caseTitle": "AND OTHERS VERSUS DARKW A AND OTHERS.",
+  "summary": "In Ababio and Others v. Darkwa and Others, the plaintiffs claimed title to a tract of forest land allegedly purchased from the Akanteng Stool in 1913, with a deed of conveyance executed in 1927. The deed was signed by the Odikro of Akanteng as vendor and the Omanhene of Akyem Abuakwa as consenting party. The defendants, in possession as tenants of the Asamankese Stool, contested the sale, asserting the land belonged to the Asamankese Stool and that Akanteng lacked authority to sell it. The court held that under native customary law, a valid transfer of forest land required public demarcation and customary rites such as the 'Cutting of Guaha,' which were absent. The land was found to be Asamankese Stool land, and the Akanteng Stool had no power to alienate it. The consent of the paramount stool (Akyem Abuakwa) was not necessary for such alienation. The plaintiffs failed to prove a valid conveyance or ownership, and the appeal was dismissed with judgment entered for the defendants.",
+  "legalKeywords": [
+    "native law and custom",
+    "sale of stool land",
+    "title transfer",
+    "customary rites",
+    "public demarcation",
+    "alienation of land",
+    "paramount stool consent",
+    "forest land",
+    "deed of conveyance",
+    "evidence of sale",
+    "occupation and cultivation",
+    "stool land ownership",
+    "Asamankese Stool",
+    "Akanteng Stool",
+    "Akyem Abuakwa"
+  ],
+  "topics": [
+    "Customary Law",
+    "Land Tenure",
+    "Stool Land",
+    "Title Transfer",
+    "Native Law"
+  ],
+  "verdict": "Appeal dismissed; judgment for the defendants.",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Korsah J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Ames Ag.J.A.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Asamankese Arbitration (1929) Divisional Court 1926-1929, 220",
+    "Kodilinye v. Odu (1935) 2 W.A.C.A. 336",
+    "Abinabina Stool v. Nkasawura Stool (1956) 1 W.A.L.R. 247"
+  ],
+  "rationaleHighlights": [
+    "Customary rites such as 'Cutting of Guaha' are required to validate sale of forest land.",
+    "Mere assertion of ownership without occupation or cultivation does not confer title sufficient for alienation.",
+    "Land was established as Asamankese Stool land; Akanteng Stool lacked authority to convey.",
+    "Consent of paramount stool (Akyem Abuakwa) not required for alienation of Asamankese land.",
+    "Absence of customary formalities renders deed of conveyance invalid for title transfer.",
+    "Plaintiff's failure to prove title results in judgment for defendant.",
+    "Delay in executing deed (1913 sale, 1927 document) raises suspicion and undermines credibility.",
+    "Unoccupied land cannot be validly sold by subordinate stool without superior stool's involvement."
+  ],
+  "confidenceNotes": "High confidence; all key details such as jurisdiction, parties, judges, and legal principles are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/ABABIO AND OTHERS v. DARKW A AND OTHERS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:19:06.791Z",
+    "plainTextLength": 11559
+  }
+}

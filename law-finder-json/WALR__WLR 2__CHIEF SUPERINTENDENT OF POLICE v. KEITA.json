@@ -1,0 +1,70 @@
+{
+  "caseTitle": "FISCIAN VERSUS TETTER",
+  "summary": "In Fiscian v. Tetteh, the plaintiff (Fiscian, head of the Aruna family) sought a declaration of title to land previously adjudicated in a prior suit where the defendant (Tetteh) had successfully obtained title against Anna Tetteh, who had purchased the land from the Aruna family. The Aruna family refunded the purchase price to Anna Tetteh and attempted to re-litigate the title. The court held that because the family's title had been put in issue through their grantee's litigation and a final judgment was rendered against her, they were estopped from denying the defendant's title. The court emphasized that refunding the purchase price did not restore the right to re-litigate. Additionally, it was held that under native customary law, the right to grant title to portions of 'Brazilian' lands in Accra belongs to the constituent family in occupation of that area, and that the original grant from the Ga Chiefs vested collective title in the Brazilian community, with individual possessory rights arising through cultivation or permission.",
+  "legalKeywords": [
+    "estoppel",
+    "declaration of title",
+    "land tenure",
+    "native customary law",
+    "grantor liability",
+    "reversionary interest",
+    "family land",
+    "successor in title",
+    "joinder of parties",
+    "possessory title",
+    "determinable estate",
+    "alienation of land",
+    "refunding purchase price",
+    "litigation standing",
+    "customary land ownership"
+  ],
+  "topics": [
+    "Land Law",
+    "Estoppel",
+    "Customary Law",
+    "Title to Land",
+    "Family Property"
+  ],
+  "verdict": "The appeal was dismissed; the defendant's title was upheld based on estoppel against the plaintiff's family.",
+  "winningSide": "Defendant (Tetteh)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Korsah C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Coussey P.",
+      "role": "President"
+    },
+    {
+      "name": "Verity Ag.J.A.",
+      "role": "Acting Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Fiscian v. Nelson and Baksmaty (1946) 12 W.A.C.A. 21",
+    "Oofie v. Ashong and Another (1956) 1 W.A.L.R. 82"
+  ],
+  "rationaleHighlights": [
+    "A grantor's title, once put in issue through their grantee's litigation, cannot be re-litigated by the grantor after refunding purchase money.",
+    "The Aruna family's interest was estopped due to prior adjudication against their grantee.",
+    "Native law allows grantors to be joined in land suits to protect reversionary or adjacent interests.",
+    "Title to 'Brazilian' lands in Accra vests in the constituent family occupying the area under native custom.",
+    "The Ga Chiefs' grant to the Brazilian community vested collective title, with individual possessory rights arising through occupation or cultivation.",
+    "Non-farmers could occupy land with elders' permission under customary tenure.",
+    "The refund of purchase price does not revive a defeated title for re-litigation."
+  ],
+  "confidenceNotes": "The case document appears incomplete, particularly in the latter sections, which may affect full contextual understanding. However, core legal reasoning and outcome are clearly stated.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/CHIEF SUPERINTENDENT OF POLICE v. KEITA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:37:59.554Z",
+    "plainTextLength": 10791
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "caseTitle": "MATHEW KWAME SABBAH v THE REPUBLIC",
+  "summary": "The Supreme Court of Ghana reviewed the appeal of Mathew Kwame Sabbah, who was convicted of murder by the Court of Appeal, which had upheld the High Court's verdict. The appellant argued that the trial judge misdirected the jury by failing to instruct on the defences of provocation and self-defence, leading to a miscarriage of justice. The prosecution's case relied on eyewitness testimony that the appellant ambushed and fatally attacked the deceased and injured two others. The appellant claimed self-defence and provocation, asserting the deceased attacked him first. The Supreme Court found that the trial judge's summing up was inadequate, particularly in failing to address provocation and providing only a cursory reference to self-defence. However, upon evaluating the evidence—including the appellant's inconsistent statements, the autopsy report showing multiple severe wounds, and the fact that attacks continued after the deceased fell—the Court concluded that the force used was excessive and not reasonably necessary. Thus, self-defence failed. While provocation was not addressed by the trial judge, the Court held that even if properly directed, a reasonable jury could still have convicted based on the totality of evidence. The appeal was dismissed.",
+  "legalKeywords": [
+    "murder",
+    "manslaughter",
+    "self-defence",
+    "provocation",
+    "jury misdirection",
+    "criminal appeal",
+    "excessive force",
+    "justifiable harm",
+    "summing up",
+    "miscarriage of justice",
+    "Criminal Code Act 29",
+    "Section 32",
+    "Section 37",
+    "Section 52",
+    "Section 53"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appeal",
+    "Jury Trial",
+    "Self-Defence",
+    "Provocation"
+  ],
+  "verdict": "Appeal dismissed; conviction for murder upheld.",
+  "winningSide": "The Republic",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Sophia Adinyira (Mrs)",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "Atuguba, JSC",
+      "role": "Presiding"
+    },
+    {
+      "name": "Ansa, JSC",
+      "role": "Member"
+    },
+    {
+      "name": "Anin Yeboah, JSC",
+      "role": "Member"
+    },
+    {
+      "name": "Baffoe-Bonnie, JSC",
+      "role": "Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Quartey v. The Republic [1999-2000]2 GLR 201",
+    "Kuo-Den alias Sobti v. The Republic [1989-90] 2GLR 203",
+    "The Republic v. Zinitege [1993-94] GLR 213",
+    "Yeboah v. State [1967] GLR 513",
+    "Republic v. Zinitege [1993-94] 1GLR 1"
+  ],
+  "rationaleHighlights": [
+    "The trial judge failed to properly direct the jury on self-defence and entirely omitted directions on provocation, constituting a misdirection.",
+    "The appellant's use of force was excessive and not reasonably necessary, negating self-defence.",
+    "Multiple post-fall injuries indicated the attack continued after any threat ended.",
+    "The defence of provocation was raised by evidence but not addressed in jury instructions.",
+    "Autopsy findings supported prosecution witnesses' account of excessive slashing.",
+    "The Court applied the test of whether a reasonable jury, if properly directed, could still convict."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment with clear textual support.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/MATHEW KWAME SABBAH v THE REPUBLIC.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:04:30.908Z",
+    "plainTextLength": 18318
+  },
+  "trialDate": "2004-01-20"
+}

@@ -1,0 +1,80 @@
+{
+  "caseTitle": "YAA ANTWI VRS N.T.H.C.",
+  "summary": "This Supreme Court of Ghana case involved a dispute over whether a letter from the defendant, N.T.H.C., offering the plaintiff, Yaa Antwi, the opportunity to purchase a company house constituted a binding contract. The plaintiff, formerly the head of the Legal Department, received a letter on 17 January 2005 stating she was being given the 'first offer' to buy House No. 4 Plateau Close at a fixed price of US$70,307, payable within six months, with a request to indicate interest in writing by 31 January 2005. She responded on that date accepting the offer and requesting bank details for payment. The defendant later withdrew the offer in November 2005, citing a need to house new management. The trial court held the letter was an invitation to treat, not an offer, and dismissed the claim. The Court of Appeal reversed, finding a valid contract. The Supreme Court upheld the Court of Appeal, ruling that the letter was a definite and final offer, not an invitation to treat, because it contained all essential terms—identified property, price, and payment period. The plaintiff's acceptance formed a binding contract. The court emphasized that the word 'proposed' did not negate the offer's definiteness when read in context, and the request for written indication was merely a mode of acceptance. The defendant’s withdrawal after acceptance was invalid. The court affirmed specific performance as a remedy, concluding a contract had been formed.",
+  "legalKeywords": [
+    "offer",
+    "invitation to treat",
+    "acceptance",
+    "contract formation",
+    "specific performance",
+    "intention to create legal relations",
+    "definiteness of terms",
+    "communication of acceptance",
+    "contract law",
+    "property sale",
+    "employment relationship",
+    "revocation of offer",
+    "legal certainty",
+    "Chitty on Contracts",
+    "Ghanaian jurisprudence"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Offer and Acceptance",
+    "Specific Performance",
+    "Supreme Court Jurisprudence"
+  ],
+  "verdict": "The Supreme Court upheld the Court of Appeal's decision that a binding contract was formed between the parties, reversing the trial court's dismissal. The defendant's withdrawal of the offer after acceptance was deemed invalid.",
+  "winningSide": "Plaintiff/Appellant (Yaa Antwi)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Date-Bah",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Akuffo",
+      "role": "Justice"
+    },
+    {
+      "name": "Adinyira",
+      "role": "Justice"
+    },
+    {
+      "name": "Owusu",
+      "role": "Justice"
+    },
+    {
+      "name": "Dotse",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Gibson v Manchester City Council [1979] 1 All ER 972",
+    "Fofie v Zanyo [1992] 2 GLR 475"
+  ],
+  "rationaleHighlights": [
+    "The letter dated 17 January 2005 constituted a definite offer because it specified the property, price, and payment period.",
+    "An offer must be final and definite; mere invitations to treat do not allow acceptance to form a contract.",
+    "The use of 'proposed' in the letter did not negate its status as an offer when read in full context.",
+    "The plaintiff's response was a valid acceptance, forming a binding contract upon communication.",
+    "The defendant's withdrawal of the offer after acceptance was ineffective and constituted a breach of contract.",
+    "The Supreme Court reversed the trial court and affirmed the Court of Appeal’s finding of a valid contract.",
+    "The case distinguished Gibson v Manchester City Council on grounds of definiteness and finality.",
+    "Specific performance was an appropriate remedy given the unique subject matter of the property."
+  ],
+  "confidenceNotes": "The judgment is well-reasoned and directly addresses the contractual nature of the communication. The Supreme Court's analysis of 'offer' versus 'invitation to treat' is definitive, citing authoritative sources like Chitty on Contracts and binding precedents.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/YAA ANTWI  VRS  N.T.H.C..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:54:36.199Z",
+    "plainTextLength": 30346
+  },
+  "trialDate": "2008-12-04"
+}

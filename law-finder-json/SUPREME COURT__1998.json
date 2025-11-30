@@ -1,0 +1,34 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The provided document is not a judicial decision but rather a homepage or index page for the Ghana Law Finder, a legal library service offering access to case law and subject matter indices. It includes a copyright notice and contact information but contains no details about a specific court case, judgment, or legal proceedings. As such, no case summary, verdict, or judicial reasoning can be derived from this document.",
+  "legalKeywords": [
+    "Ghana Law",
+    "legal library",
+    "case index",
+    "legal research",
+    "self-help legal guide"
+  ],
+  "topics": [
+    "Legal Research",
+    "Legal Publishing",
+    "Ghana Law"
+  ],
+  "verdict": "No verdict available; document is not a court decision.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "unknown",
+    "country": "Ghana"
+  },
+  "caseType": "unknown",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The provided document does not contain a legal decision or case details; it appears to be a website homepage or index for a legal library service in Ghana. No substantive case information is available for extraction.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/1998.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T09:56:17.600Z",
+    "plainTextLength": 295
+  }
+}

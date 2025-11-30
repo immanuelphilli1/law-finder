@@ -1,0 +1,70 @@
+{
+  "caseTitle": "L. A. CARDOSO",
+  "summary": "In this 1938 West Africa Court of Appeal decision, the appellants (executors of J.H. Doherty's estate) challenged a lower court judgment granting the respondent, L.A. Cardoso, a declaration of lifetime residence on estate property and an injunction against its sale. The appeal was allowed and a judgment of non-suit entered. The appellate court held that the lower court erred in granting relief without ensuring the order was consistent with the executors' fiduciary duties, noting absence of evidence regarding the will or estate's financial position. Additionally, the court found no valid consideration for the 1935 letter promising lifetime residence, as the plaintiff's claim was based on the deceased's wishes, not legal consideration. The argument of forbearance as consideration emerged only in cross-examination and was not pleaded, making it impermissible. The judgment was set aside on both procedural and substantive grounds.",
+  "legalKeywords": [
+    "executors",
+    "fiduciary duty",
+    "valuable consideration",
+    "injunction",
+    "declaration",
+    "non-suit",
+    "pleadings",
+    "forbearance",
+    "breach of trust",
+    "will",
+    "estate administration",
+    "statute of limitations",
+    "letter agreement",
+    "mortgage",
+    "residence rights"
+  ],
+  "topics": [
+    "Contract Law",
+    "Trusts and Fiduciary Duties",
+    "Probate and Estate Administration",
+    "Civil Procedure",
+    "Equity"
+  ],
+  "verdict": "Appeal allowed; judgment of non-suit entered",
+  "winningSide": "Appellants (Executors of the Estate of J.H. Doherty)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "WACA/4 WACA/L. A. CARDOSO"
+  ],
+  "rationaleHighlights": [
+    "Court must ensure orders to executors align with fiduciary duties",
+    "No evidence of compliance with fiduciary obligations",
+    "Pleadings did not support claim of valuable consideration",
+    "Plaintiff's new argument in cross-examination contradicted pleadings",
+    "Failure to present will or estate financial status left court uninformed",
+    "Letter lacked mention of consideration",
+    "Judgment set aside on fundamental grounds not raised in appeal"
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the provided judgment text.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/L. A. CARDOSO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:01:46.471Z",
+    "plainTextLength": 8464
+  },
+  "trialDate": "1938-05-19"
+}

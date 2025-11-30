@@ -1,0 +1,89 @@
+{
+  "caseTitle": "DANIEL ROCKSON v GHANA FOOTBALL",
+  "summary": "In Daniel Rockson v. Ghana Football Association, the plaintiff, a supporter of Tema Youth Football Club, sought a declaration that certain provisions in the GFA's statutes—specifically Article 17.1.11.1–6—which restricted members and supporters from accessing courts and threatened expulsion for legal action, were unconstitutional under Chapter Five of the 1992 Constitution. The Supreme Court dismissed the suit for lack of jurisdiction, holding that the GFA is a voluntary association and its statutes are private agreements, not 'Laws of Ghana' under Article 11 of the Constitution. Therefore, they are not subject to constitutional review by the Supreme Court under Articles 2(1) and 130(1). The Court emphasized that enforcement of fundamental rights falls under the High Court’s jurisdiction per Article 33(1), and the plaintiff had not sufficiently identified specific constitutional rights infringed. The Court also noted that alternative dispute resolution mechanisms in private agreements do not completely bar court access, especially where natural justice is violated. The preliminary objection was upheld, and the action dismissed.",
+  "legalKeywords": [
+    "constitutional jurisdiction",
+    "fundamental human rights",
+    "private association",
+    "Ghana Football Association",
+    "statutes",
+    "alternative dispute resolution",
+    "rule of law",
+    "public policy",
+    "constitutional interpretation",
+    "enactment",
+    "voluntary association",
+    "jurisdictional objection",
+    "High Court jurisdiction",
+    "Supreme Court jurisdiction",
+    "constitutional challenge",
+    "arbitration",
+    "natural justice",
+    "constitutional enforcement",
+    "GFA statutes",
+    "constitutional void"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Jurisdiction",
+    "Fundamental Rights",
+    "Sports Law",
+    "Private Associations"
+  ],
+  "verdict": "The Supreme Court dismissed the plaintiff's action for lack of jurisdiction, upholding the defendant's preliminary objection.",
+  "winningSide": "Ghana Football Association",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "S. O. A. Adinyira (Mrs)",
+      "role": "Presiding"
+    },
+    {
+      "name": "S. A. B. Akuffo (Ms)",
+      "role": "Justice"
+    },
+    {
+      "name": "R. C. Owusu (Ms)",
+      "role": "Justice"
+    },
+    {
+      "name": "P. Baffoe-Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "B. T. Aryeetey",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Edusei (No. 2) v. Attorney-General [1998-99] SCGLR 729",
+    "Federation of Youth Association of Ghana v. Public Universities & Others, Suit No. Writ J1/51/2009",
+    "New Patriotic Party v. Inspector-General of Police [1993-94] 2GLR 459",
+    "Mensima v. Attorney-General [1996-97] SCGLR 67",
+    "New Patriotic Party v. Attorney-General (CIBA CASE) [1996-97] SCGLR 729",
+    "Adjei-Ampofo v. Accra Metropolitan Assembly & Attorney-General (No1) [2007-2008] SCGLR 611"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court lacks jurisdiction to interpret or enforce provisions of private association statutes like those of the GFA.",
+    "Only 'Laws of Ghana' as defined under Article 11 of the 1992 Constitution are subject to constitutional review by the Supreme Court under Articles 2(1) and 130(1).",
+    "The GFA is a voluntary association, and its statutes are private agreements, not enactments under the Constitution.",
+    "Challenges to private dispute resolution mechanisms must be pursued in forums other than the Supreme Court.",
+    "The plaintiff failed to specify which constitutional rights under Chapter Five were violated, weakening the claim.",
+    "Alternate dispute resolution mechanisms do not entirely oust access to courts, especially where natural justice is breached.",
+    "The High Court, not the Supreme Court, has jurisdiction over enforcement of fundamental human rights under Article 33(1).",
+    "The case does not meet the threshold for public interest litigation requiring Supreme Court intervention."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment with clear textual support.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2010/DANIEL ROCKSON v  GHANA FOOTBALL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:41:49.944Z",
+    "plainTextLength": 10665
+  },
+  "trialDate": "24TH FEBRUARY, 2010"
+}

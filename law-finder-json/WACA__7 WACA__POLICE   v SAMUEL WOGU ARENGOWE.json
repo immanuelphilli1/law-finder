@@ -1,0 +1,67 @@
+{
+  "caseTitle": "POLICE v SAMUEL WOGU ARENGOWE",
+  "summary": "This 1941 West Africa Court of Appeal decision addressed whether a Magistrate's Court established under Ordinance No. 45 of 1933 had jurisdiction to hear a charge under section 22 of the Medical Practitioners and Dentists Ordinance No. 20 of 1934. The accused, Samuel Wogu Arengowe, initially pleaded guilty before a Magistrate who believed he lacked jurisdiction and remitted the case to the Supreme Court. A direction under section 10(3) of the Protectorate Courts Ordinance led to the case being assigned to a Supreme Court Judge in Lagos. A plea of autrefois convict was raised, referencing R v. Chinaka (1937), where it was previously held that Magistrates lacked such jurisdiction. The Appeal Court rejected this reasoning, clarifying that a Magistrate's original jurisdiction is statutory and independent of the High Court's appellate jurisdiction. The Court held that section 33 of the Protectorate Courts Ordinance, as amended, granted Magistrates authority over summary criminal trials, and no provision excluded offences under section 22 of Ordinance No. 20 of 1934. Thus, the Court affirmed that Magistrates did have jurisdiction.",
+  "legalKeywords": [
+    "jurisdiction",
+    "Magistrate's Court",
+    "Medical Practitioners and Dentists Ordinance",
+    "autrefois convict",
+    "original jurisdiction",
+    "appellate jurisdiction",
+    "statutory interpretation",
+    "summary trial",
+    "criminal charge",
+    "Protectorate Courts Ordinance",
+    "case stated",
+    "legal precedent",
+    "R v. Chinaka"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Jurisdiction",
+    "Legal Procedure",
+    "Statutory Interpretation",
+    "Appellate Review"
+  ],
+  "verdict": "The Magistrate's Court had jurisdiction to hear the charge under section 22 of the Medical Practitioners and Dentists Ordinance No. 20 of 1934.",
+  "winningSide": "Respondent",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Cor. Brooke",
+      "role": "Justice"
+    },
+    {
+      "name": "Francis",
+      "role": "Justice"
+    },
+    {
+      "name": "Jeffreys",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Medical Practitioners and Dentists Ordinance No. 20 of 1934",
+    "Protectorate Courts Ordinance No. 45 of 1933",
+    "R v. Chinaka (1937)"
+  ],
+  "rationaleHighlights": [
+    "Magistrate's original jurisdiction is statutory and independent of High Court's appellate jurisdiction.",
+    "Section 33 of the Protectorate Courts Ordinance grants Magistrates authority over summary criminal trials.",
+    "No statutory provision excludes section 22 offences from Magistrate's jurisdiction.",
+    "The reasoning in R v. Chinaka was flawed in linking appellate and original jurisdiction."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on primary source text and clear judicial reasoning. Jurisdictional context reflects colonial-era legal framework applicable to Ghana at the time.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/POLICE   v SAMUEL WOGU ARENGOWE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:30:03.450Z",
+    "plainTextLength": 4370
+  },
+  "trialDate": "1941-10-23"
+}

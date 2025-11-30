@@ -1,0 +1,66 @@
+{
+  "caseTitle": "ATWERE RIVER ESTATES VRSKWASHIE OPEI (SUB. BY NAI KOFI PARBI)",
+  "summary": "In this 2002 Court of Appeal decision from Ghana, the appellant, Kwashie Opei (substituted by Nai Kofi Parbi), challenged the validity of a 70-year lease agreement with Atwere River Estates over 600 acres of family land in the Awutu Traditional Area. The appellant claimed the lease was only for 10 years and was obtained by fraud and unconscionability, particularly due to non-disclosure of the full term and unilateral insertion of rent terms. The trial court dismissed the counterclaim, upheld the lease, awarded damages, and ordered renegotiation of rent through an umpire. The Court of Appeal affirmed the trial court’s findings, holding that the respondent discharged the burden of proving the illiterate appellant understood the document, as it was properly read and interpreted in Twi and Ga. The court found the appellant’s evidence uncorroborated and insufficient to overturn the lease, rejecting claims of fraud and non est factum. The damages and equitable intervention were upheld as lawful and reasonable.",
+  "legalKeywords": [
+    "lease agreement",
+    "fraud in contract",
+    "unconscionability",
+    "illiterates protection",
+    "non est factum",
+    "burden of proof",
+    "evidence corroboration",
+    "customary land",
+    "recovery of possession",
+    "equitable remedy",
+    "appellate review",
+    "oral agreement",
+    "document interpretation",
+    "rent revision",
+    "declaratory relief"
+  ],
+  "topics": [
+    "Contract Law",
+    "Land Law",
+    "Equity",
+    "Appellate Procedure",
+    "Customary Law"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Mrs. Wood, J.A."
+    },
+    {
+      "name": "Mrs. Akoto-Bamfor, J.A"
+    },
+    {
+      "name": "Owusu-Ansah, J.A"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Yakubu II v Abadulai 1984-1986 GLR 241",
+    "Zambrama v Segbedzi 1991 2 GLR 221"
+  ],
+  "rationaleHighlights": [
+    "The trial judge properly evaluated conflicting evidence and gave valid reasons for preferring the respondent's version.",
+    "The lease document was read, interpreted, and explained in local languages (Twi and Ga) to the illiterate appellant, satisfying Section 4 of the Illiterates Protection Ordinance.",
+    "The appellant's uncorroborated testimony was insufficient to rebut the credible, corroborated evidence supporting the 70-year lease term.",
+    "The appellate court affirmed that findings of fact are not disturbed unless unsupported by evidence or against the weight of evidence.",
+    "The trial court acted within its equitable powers in ordering rent renegotiation despite upholding the lease's validity."
+  ],
+  "confidenceNotes": "The summary is based on a truncated document, but all key legal issues, holdings, and reasoning are present in the available text. The outcome and rationale are clearly stated, and citations are verifiable.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/ATWERE RIVER ESTATES  VRSKWASHIE OPEI (SUB. BY NAI KOFI PARBI).htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:44:02.881Z",
+    "plainTextLength": 24072
+  },
+  "trialDate": "2002-05-09"
+}

@@ -1,0 +1,55 @@
+{
+  "caseTitle": "KWEKU KODIEH ..",
+  "summary": "This 1930 West African Court of Appeal decision involved an application for conditional leave to appeal to the Privy Council. The judgment awarded the plaintiffs-respondents a sum of £491 5s. 6d., which included interest. The appellant sought to include costs to exceed the £500 threshold required for appeal, but the court held that where an appeal is limited by the value of the matter in dispute, costs cannot be counted toward meeting the minimum amount. The court dismissed the application with costs, following precedents such as Doorga Chowdry v. Ramanauth Chowdry and Great Western Ry. of Canada v. Braid.",
+  "legalKeywords": [
+    "appeal",
+    "leave to appeal",
+    "Privy Council",
+    "judgment debt",
+    "costs",
+    "amount in controversy",
+    "threshold value",
+    "conditional leave",
+    "West African Court of Appeal",
+    "Rule 3",
+    "Order in Council",
+    "interest",
+    "application dismissed"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Costs in Litigation",
+    "Judgment Enforcement"
+  ],
+  "verdict": "Application dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Young",
+      "role": "Acting Chief Justice of Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Doorga Chowdry v. Ramanauth Chowdry 8 Moo. 3rd app. 262",
+    "Great Western Ry. of Canada v. Braid, 1 Moo. P.C. (N.S.) 101"
+  ],
+  "rationaleHighlights": [
+    "Costs cannot be included to meet the appeal threshold when the underlying judgment is below the required value",
+    "Precedent establishes that only the substantive amount in dispute counts toward appeal eligibility",
+    "Application for leave to appeal dismissed where threshold not met"
+  ],
+  "confidenceNotes": "High confidence; information derived directly from judgment text and consistent with legal principles on appeal thresholds.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/KWEKU KODIEH ...htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:43:54.600Z",
+    "plainTextLength": 2223
+  },
+  "trialDate": "1930-10-30"
+}

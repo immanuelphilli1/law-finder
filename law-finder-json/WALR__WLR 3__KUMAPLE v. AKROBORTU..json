@@ -1,0 +1,70 @@
+{
+  "caseTitle": "KUMAPLE VERSUS AKROBORTU.",
+  "summary": "In this land dispute, the plaintiff claimed damages for trespass based on a grant from the male branch of the Titili family. The defendant, from the female branch (Akrobortu family), argued that a prior Native Court judgment established joint ownership of the land between the two branches and that the sale was invalid without their consent. The High Court upheld the Native Appeal Court's decision, ruling that the earlier judgment conferred a legal estate—not merely an equitable interest—on the defendant's family. Under Regulation 40 of the Native Courts (Southern Ghana) Procedure Regulations, 1945, the Native Court had the authority to issue an unrequested order regarding land sharing. The court held that the plaintiff bore the burden of proving that the land sold was within the portion allocated to the male branch following partition, which he failed to do. Consequently, the sale was invalid, and the plaintiff's claim failed.",
+  "legalKeywords": [
+    "native customary law",
+    "trespass to land",
+    "burden of proof",
+    "joint ownership",
+    "partition of land",
+    "alienation of family property",
+    "bona fide purchaser",
+    "equitable interest",
+    "legal estate",
+    "jurisdiction of native courts",
+    "order not sought by parties",
+    "Native Courts Procedure Regulations",
+    "title to land",
+    "female branch of family",
+    "male branch of family",
+    "Anlo Native Appeal Court",
+    "Keta Native Court",
+    "grant of land",
+    "validity of sale",
+    "notice"
+  ],
+  "topics": [
+    "land law",
+    "customary law",
+    "jurisdiction",
+    "property rights",
+    "family law"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "Native Courts (Southern Ghana) Procedure Regulations, 1945, reg. 40",
+    "Native Courts (Southern Ghana) Ordinance, c. 98, s. 15",
+    "Regulation 23",
+    "Regulation 41"
+  ],
+  "rationaleHighlights": [
+    "Native Court had jurisdiction to make an order not sought by parties under Regulation 40",
+    "Defendant's family had a legal estate, not merely an equitable interest, in the land",
+    "Alienation by one branch of a family without consent of the other is invalid",
+    "Plaintiff bore the burden of proving that the land sold fell within the portion allocated to the male branch",
+    "No evidence was presented by the plaintiff to establish demarcation or partition",
+    "Judgment interpreted as declaring joint ownership of land by male and female branches of the Titili family",
+    "Sale by male branch alone was void in relation to the undivided interest of the female branch",
+    "Plaintiff failed to discharge the onus of proving valid title"
+  ],
+  "confidenceNotes": "The judgment is clear and well-reasoned, with explicit reference to applicable regulations and customary law principles. The interpretation of the Native Court's jurisdiction and the nature of the interest created is definitive.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/KUMAPLE v. AKROBORTU..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:03:15.638Z",
+    "plainTextLength": 11320
+  }
+}

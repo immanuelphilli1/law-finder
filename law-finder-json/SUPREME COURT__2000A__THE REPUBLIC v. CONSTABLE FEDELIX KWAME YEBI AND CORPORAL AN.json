@@ -1,0 +1,85 @@
+{
+  "caseTitle": "THE REPUBLIC v. CONSTABLE FEDELIX KWAME YEBI AND CORPORAL AN",
+  "summary": "The Supreme Court of Ghana ruled on the constitutional jurisdiction of Regional Tribunals in criminal matters, specifically whether they could try cases involving the theft of a political party's funds. The accused, Constable F. K. Yebi and Corporal A. K. Avalifo, challenged the tribunal's jurisdiction, arguing that Article 143(1) of the 1992 Constitution limits Regional Tribunals to trying offences against the state or public interest. The prosecution relied on Section 24(1) of the Courts Act 1993 (Act 459), which grants Regional Tribunals concurrent jurisdiction with the High Court in all criminal matters. The Supreme Court held that Section 24(1) is inconsistent with Article 143(1) and therefore null and void under Article 1(2) of the Constitution. It affirmed that not all crimes are automatically against the state or public interest, and stealing from a political party does not meet that threshold. The ruling reinforced hierarchical judicial precedent by affirming the binding nature of Court of Appeal decisions unless overturned.",
+  "legalKeywords": [
+    "jurisdiction",
+    "constitutional interpretation",
+    "Regional Tribunal",
+    "offence against the state",
+    "public interest",
+    "Courts Act 1993",
+    "Article 143(1)",
+    "Article 1(2)",
+    "null and void",
+    "precedent",
+    "appellate jurisdiction",
+    "original jurisdiction",
+    "constitutional supremacy",
+    "separation of powers",
+    "judicial review",
+    "criminal jurisdiction",
+    "political party funds",
+    "theft",
+    "constitutional inconsistency",
+    "binding precedent"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Criminal Jurisdiction",
+    "Judicial Precedent",
+    "Separation of Powers",
+    "Supreme Court Ruling"
+  ],
+  "verdict": "The Supreme Court ruled that Regional Tribunals lack jurisdiction over ordinary criminal cases not involving the state or public interest, and that Section 24(1) of Act 459 is unconstitutional.",
+  "winningSide": "Defendants",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Acquah, J.S.C.",
+      "role": "Delivered the ruling"
+    },
+    {
+      "name": "Ampiah, J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Kpegah, J.S.C.",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Adjabeng, J.S.C.",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Ms. Akuffo, J.S.C.",
+      "role": "Member of Coram"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Criminal Jurisdiction",
+  "citations": [
+    "Article 143(1), 1992 Constitution of Ghana",
+    "Article 1(2), 1992 Constitution of Ghana",
+    "Article 136(5), 1992 Constitution of Ghana",
+    "Section 24(1), Courts Act 1993 (Act 459)",
+    "Jonathan Dey v. The Republic, CA 16/97 (unreported)"
+  ],
+  "rationaleHighlights": [
+    "Section 24(1) of Act 459 conflicts with Article 143(1) of the Constitution by expanding Regional Tribunal jurisdiction beyond offences against the state or public interest.",
+    "The framers of the Constitution intended Regional Tribunals to handle only specific serious crimes like economic crimes, treason, and narcotics, not all criminal matters.",
+    "The word 'and' in 'offences against the state and public interest' was interpreted as conjunctive, requiring both elements, though the Court acknowledged contextual exceptions.",
+    "The decision in Jonathan Dey v. The Republic is binding on lower courts under Article 136(5), reinforcing vertical precedent.",
+    "Not all crimes are inherently against the state; theft from a private entity like a political party does not qualify as an offence against public interest."
+  ],
+  "confidenceNotes": "The document is a complete ruling with clear citations, reasoning, and judicial consensus. The outcome is highly reliable due to explicit constitutional analysis and reference to binding precedent.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2000A/THE REPUBLIC v. CONSTABLE FEDELIX KWAME YEBI AND CORPORAL AN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:46:31.969Z",
+    "plainTextLength": 26266
+  },
+  "trialDate": "2000-04-12"
+}

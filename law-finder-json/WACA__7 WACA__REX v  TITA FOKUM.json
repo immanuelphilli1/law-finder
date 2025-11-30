@@ -1,0 +1,71 @@
+{
+  "caseTitle": "REX v TITA FOKUM",
+  "summary": "This case involved an appeal from the High Court of the Calabar-Aba Judicial Division, where the appellant, Tita Fokum, was convicted following an order of transfer issued by a District Officer after the Native Court had already convicted and sentenced him. The West Africa Court of Appeal held that under the amended Native Courts Ordinance (No. 8 of 1938), such transfer orders could no longer be made after judgment or sentence. Since the transfer order was made on 17th October 1940—after the amendment— it was invalid. Consequently, the Court ruled that the High Court lacked jurisdiction, rendering all subsequent proceedings a nullity. The appeal was allowed, the conviction was quashed, and an order was made for the refund of the fine paid by the appellant.",
+  "legalKeywords": [
+    "appeal",
+    "conviction quashed",
+    "nullity",
+    "order of transfer",
+    "Native Courts Ordinance",
+    "amending ordinance",
+    "jurisdictional error",
+    "post-sentence transfer",
+    "procedural irregularity",
+    "judicial review",
+    "criminal procedure",
+    "High Court",
+    "District Officer",
+    "statutory interpretation",
+    "legal remedy"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Jurisdiction",
+    "Statutory Interpretation",
+    "Procedural Fairness"
+  ],
+  "verdict": "Appeal allowed; conviction quashed; proceedings declared a nullity",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Baker",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "WACA/7 WACA/REX v TITA FOKUM",
+    "Native Courts Ordinance No. 44 of 1933",
+    "Amending Ordinance No. 16 of 1936",
+    "Amending Ordinance No. 8 of 1938"
+  ],
+  "rationaleHighlights": [
+    "Order of transfer made after conviction, contrary to Ordinance No. 8 of 1938",
+    "Amendment removed authority to transfer after sentence",
+    "District Officer lacked jurisdiction to transfer post-conviction",
+    "High Court proceedings declared a nullity due to lack of valid transfer",
+    "Conviction quashed and fine ordered to be refunded"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and specific statutory references.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/REX v  TITA FOKUM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:28:51.277Z",
+    "plainTextLength": 2652
+  },
+  "trialDate": "1941-01-25"
+}

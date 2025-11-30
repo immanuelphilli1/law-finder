@@ -1,0 +1,69 @@
+{
+  "caseTitle": "THE RULE IN ANGU V ATTAH",
+  "summary": "This legal commentary critically examines the rule in Angu v Attah, which required customary law in Ghana to be proven as a fact until it achieved judicial notoriety through repeated judicial recognition. The author argues that the 1960 legislative abolition of the rule, driven by nationalist sentiment, misunderstood the rule's purpose: it was not to classify customary law as foreign, but to prescribe an objective method of proof analogous to foreign law. Despite statutory changes under the Courts Act, 1971 (Act 372), the practical need for evidentiary verification remains due to the persistent diversity of Ghana's customary systems. The article demonstrates that courts inconsistently applied the rule even during its enforcement period, sometimes imposing matrilineal succession principles without sufficient local precedent. The author concludes that the abolition has caused distortions in justice administration and that the original rule's methodological rigor remains necessary.",
+  "legalKeywords": [
+    "customary law",
+    "judicial notice",
+    "foreign law",
+    "proof of custom",
+    "Angu v Attah",
+    "indigenous law",
+    "Courts Act 1971",
+    "Act 372",
+    "matrilineal succession",
+    "patrilineal succession",
+    "Ga Mashi",
+    "nationalism and law",
+    "legal analogy",
+    "statutory abolition",
+    "uniformity of customary law"
+  ],
+  "topics": [
+    "Customary Law",
+    "Judicial Notice",
+    "Legal History",
+    "Statutory Interpretation",
+    "Nationalism and Law"
+  ],
+  "verdict": "The rule in Angu v Attah was mischaracterized by nationalists; its abolition was symbolic and ineffective, and its methodological foundation remains relevant for fair adjudication of diverse customary laws.",
+  "winningSide": "The principle of requiring proof of customary law until judicially noticed",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Smith J",
+      "role": "Judge in Hughes v Davies and Another"
+    },
+    {
+      "name": "Privy Council",
+      "role": "Appellate court in Angu v Attah and Ankrah v Aryeh"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Angu v Attah",
+    "Hughes v Davies and Another",
+    "Ankrah v Aryeh",
+    "Sackey v Okantah",
+    "Sackeyfio v Tagoe",
+    "Amarfio v Ayorkor",
+    "Larinde and Ors v Akifo and Ors"
+  ],
+  "rationaleHighlights": [
+    "The rule in Angu v Attah required proof of customary law until it became judicially noticed through consistent decisions.",
+    "The analogy between customary law and foreign law was methodological, not ontological.",
+    "The 1960 legislative abolition of the rule was symbolic and ineffective, as proof mechanisms persist.",
+    "Judges, even Ghanaian ones, may lack familiarity with all ethnic customs, necessitating evidentiary standards.",
+    "Courts inconsistently applied the rule, sometimes relying on scholars like Sarbah despite lack of local authority."
+  ],
+  "confidenceNotes": "The document is a legal commentary rather than a direct court judgment, but it extensively analyzes judicial treatment of the rule in Angu v Attah and cites key cases and statutes with high accuracy. Citations are drawn from authoritative sources including the Privy Council and West African Court of Appeal.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/87 - 88/THE RULE IN ANGU V ATTAH REVISITED [1987-88] VOL. XVI  RGL 2.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:20:56.071Z",
+    "plainTextLength": 32064
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "caseTitle": "REX v PETER MBA",
+  "summary": "The appellant, Peter Mba, was convicted in the High Court for publishing defamatory matter knowing it to be false under section 375 of the Criminal Code, following a letter he wrote alleging misconduct by a school headmaster. The West African Court of Appeal quashed the conviction because the trial judge failed to make the necessary finding that Mba knew the statements were false. The appellate court also declined to substitute a conviction for the lesser offence of publishing defamatory matter under section 375, as the issue of conditional privilege under section 379 was not properly adjudicated. The trial court had prematurely ruled the communication privileged without identifying the specific statutory basis, and the prosecution had not had a proper opportunity to rebut privilege. The court emphasized that Nigerian law, not English common law, governed the analysis. Due to the procedural errors and lack of proper findings, the appeal was allowed and an acquittal was ordered.",
+  "legalKeywords": [
+    "defamation",
+    "criminal libel",
+    "conditional privilege",
+    "malice",
+    "publication",
+    "trial error",
+    "appellate review",
+    "verdict substitution",
+    "Criminal Code",
+    "West African Court of Appeal Ordinance"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Defamation",
+    "Appellate Procedure",
+    "Judicial Error",
+    "Privilege"
+  ],
+  "verdict": "Conviction quashed; acquittal entered.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "West African Court of Appeal Ordinance, 1933, s 11(2)",
+    "Criminal Code, s 375",
+    "Criminal Code, s 379"
+  ],
+  "rationaleHighlights": [
+    "No finding by trial judge that appellant knew the defamatory matter was false, as required under s 375.",
+    "Conviction quashed due to lack of essential element for conviction.",
+    "Appellate court declined to substitute verdict under s 11(2) due to procedural confusion on privilege.",
+    "Trial judge incorrectly applied English law principles instead of Nigerian Criminal Code.",
+    "Defence failed to specify paragraph of s 379 under which privilege was claimed.",
+    "Judge prematurely ruled communication privileged without final determination.",
+    "Exaggeration alone not sufficient for criminal liability without proof of knowledge of falsity.",
+    "Case remanded with direction for acquittal."
+  ],
+  "confidenceNotes": "High confidence; all key details (jurisdiction, parties, legal reasoning) are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/REX  v PETER MBA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:15:47.408Z",
+    "plainTextLength": 10155
+  },
+  "trialDate": "1937-06-11"
+}

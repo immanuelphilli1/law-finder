@@ -1,0 +1,70 @@
+{
+  "caseTitle": "REX v EMANUEL ADEBOW ALE AND FIVE OTHERS",
+  "summary": "The appellants were convicted in the Supreme Court for stealing and receiving stolen gin from a Customs Warehouse. The first three were convicted of both stealing under section 390(4)(c) and receiving under section 427 of the Criminal Code, while the last three were convicted only of receiving. On appeal, the West Africa Court of Appeal held that the trial judge did not misdirect the jury by failing to warn them about accomplice testimony, as the co-accused's statements did not materially prejudice each other and the rule on corroboration applies only to prosecution witnesses. The court found sufficient evidence of guilty knowledge based on suspicious circumstances, including sale below market price, unusual packaging, and indirect payment. It affirmed that assisting in disposal of stolen goods constitutes receiving under section 427. The court also ruled that the wife of an accused could not be called without her husband's application under section 8(2). The redundant convictions for both stealing and receiving were quashed due to the alternative nature of the charges, with sentences reduced accordingly. The appeals against conviction were dismissed, but sentences for the last three appellants were reduced to eighteen months' hard labour.",
+  "legalKeywords": [
+    "stealing",
+    "receiving stolen property",
+    "corroboration",
+    "accomplice testimony",
+    "guilty knowledge",
+    "misdirection",
+    "redundant verdict",
+    "section 427 Criminal Code",
+    "section 390(4)(c)",
+    "joint trial",
+    "hard labour",
+    "warehouse breaking",
+    "larceny",
+    "material witness",
+    "section 8(2) Criminal Code"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence",
+    "Appellate Procedure",
+    "Theft",
+    "Corroboration"
+  ],
+  "verdict": "Convictions for receiving upheld; convictions for stealing quashed due to redundant verdicts; sentences reduced for last three appellants",
+  "winningSide": "Crown (partial; convictions upheld on receiving, but some sentences reduced and stealing convictions quashed)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Butler Lloyd",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Brooke",
+      "role": "Justice"
+    },
+    {
+      "name": "Jeffreys",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Barnes and Richards, 27 C.A.R. 154",
+    "R. v. Mallam Mahamado, W.A.C.A. (unreported), 23rd March, 1940"
+  ],
+  "rationaleHighlights": [
+    "No need for corroboration warning as co-accused statements did not materially prejudice others",
+    "Guilty knowledge inferred from suspicious circumstances: price, packaging, payment method, and quantity",
+    "Assisting in disposal of stolen goods constitutes receiving under section 427",
+    "Wife of accused could not be called without husband's application under section 8(2)",
+    "Double conviction on alternative counts constitutes error; only one conviction should stand",
+    "Subsidiary role of last three appellants justified reduced sentence"
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details are explicitly stated in the judgment. Citation formatting follows standard legal style based on context.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/REX v EMANUEL ADEBOW ALE AND FIVE OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:27:54.307Z",
+    "plainTextLength": 10625
+  },
+  "trialDate": "1941-11-06"
+}

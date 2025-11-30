@@ -1,0 +1,80 @@
+{
+  "caseTitle": "GERTRUDE AGYEKUM & AMADU BABA v. AMADU BABA & ALHAJI ABUBAK",
+  "summary": "This Supreme Court of Ghana ruling addressed an application by Gertrude Agyekum and Amadu Baba to amend their statement of case in a review application filed in 1998, over three years after the original motion and affidavit. The applicants sought to correct an omission regarding the statutory basis under section 93(2) of the Administration of Estates Act, 1961 (Act 63), arguing the original judgment was given per incuriam. The respondents objected on grounds that the statement of case was incompetent due to late filing and that Supreme Court rules do not permit amendment of such documents without express provision. The court held that non-compliance with Rule 56(1) of C.I. 16 rendered the application incompetent and that no waiver had been requested. It emphasized that review jurisdiction is exceptional, not a substitute for appeal, and must be based on fundamental error causing a gross miscarriage of justice. The court found the applicants' allegations insufficient and noted a prior binding judgment on the same property sale. Given the prolonged litigation—spanning over two decades—the court refused the amendment and struck out the review application, affirming the finality of judgments and the importance of procedural compliance.",
+  "legalKeywords": [
+    "review application",
+    "amendment of statement of case",
+    "non-compliance with rules",
+    "inherent jurisdiction",
+    "per incuriam",
+    "bona fide purchaser",
+    "section 93(2) Administration of Estates Act",
+    "litigation finality",
+    "waiver of procedural default",
+    "judicial misconduct",
+    "procedural incompetence",
+    "res judicata",
+    "certified copy of judgment",
+    "grounds for review",
+    "incompetent filing"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Judicial Review",
+    "Property Law",
+    "Appellate Jurisdiction",
+    "Finality of Judgments"
+  ],
+  "verdict": "The application for review was struck out due to procedural non-compliance and lack of merit.",
+  "winningSide": "Respondents (Amadu Baba & Alhaji Abubakari)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "E. K. Wiredu",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "G. K. Acquah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "S. A. B. Akuffo",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "D. K. Afreh",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Seth Twum",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Mechanical Lloyd Assembly Plant vs. Nartey (1987-88) 2 GLR 598",
+    "Republic vrs. High Court, Kumasi; ex parte Atumfuwa, (2000) SCGLR 72"
+  ],
+  "rationaleHighlights": [
+    "The application for amendment was rejected because the statement of case was filed over three years late and no request was made to waive non-compliance.",
+    "Rule 56(1) of C.I. 16 requires a statement of case to accompany the motion and affidavit; failure to comply is a bar unless waived.",
+    "The court emphasized that review jurisdiction is exceptional, not an appellate route or second chance.",
+    "The plaintiffs failed to demonstrate a fundamental error or miscarriage of justice warranting review.",
+    "The existence of a prior binding judgment (Suit No. 174/80) rendered the review futile.",
+    "Litigation must come to an end; this case had already spanned over twenty years.",
+    "The claim of unavailability of the judgment copy did not excuse non-compliance with filing rules.",
+    "Mere criticism of a judgment is insufficient to justify a review."
+  ],
+  "confidenceNotes": "High confidence; all key details such as jurisdiction, parties, judges, and procedural history are clearly stated in the document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2003A/GERTRUDE AGYEKUM & AMADU BABA v. AMADU BABA  & ALHAJI ABUBAK.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:37:05.132Z",
+    "plainTextLength": 14953
+  },
+  "trialDate": "15TH JANUARY 2003"
+}

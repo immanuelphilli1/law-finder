@@ -1,0 +1,73 @@
+{
+  "caseTitle": "FRANCISCO CANFAILLA",
+  "summary": "This 1939 West African Court of Appeal decision involved a dispute over a construction contract between Francisco Canfailla (plaintiff-respondent) and Najib Joseph Chahin (defendant-appellant) for the erection of a building in Accra, Ghana. The contract, valued at £1,675, specified construction standards that materially deviated from those required by the Building Permit issued under the Accra Building Regulations, 1930. The trial court awarded damages for breach of contract, but the appellate court reversed the decision, holding that the contract was illegal because it violated statutory building regulations and was therefore unenforceable. The court emphasized that a contract to perform work in contravention of a legal enactment is void, citing Stevens v. Gourley. Additionally, the court ruled that the plaintiff could not recover for demolition work under a breach of contract claim, especially since the writ could not be amended at that stage to support a quantum meruit claim. The appeal was allowed, judgment for the plaintiff was set aside, and judgment was entered for the defendant with costs.",
+  "legalKeywords": [
+    "breach of contract",
+    "illegal contract",
+    "public policy",
+    "unenforceable agreement",
+    "building regulations",
+    "construction law",
+    "damages",
+    "void contract",
+    "statutory compliance",
+    "work and labour",
+    "demolition",
+    "contract interpretation",
+    "enforcement of contract",
+    "Accra Building Regulations 1930",
+    "Stevens v Gourley"
+  ],
+  "topics": [
+    "Contract Law",
+    "Construction Law",
+    "Illegality in Contracts",
+    "Appellate Procedure",
+    "Building Permits"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Strother-Stewart",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Stevens v. Gourley (141 English Reports 752)",
+    "Accra Building Regulations, 1930",
+    "Leake on Contracts, 6th Edition, p. 564"
+  ],
+  "rationaleHighlights": [
+    "Contract to build in violation of statutory regulations is illegal and unenforceable",
+    "Court cannot assist a plaintiff whose cause of action arises from an illegal agreement",
+    "Specifications in contract must comply with building permit requirements",
+    "Builder cannot recover under breach of contract if contract is void",
+    "Demolition costs not recoverable under current writ as no quantum meruit claim was made",
+    "Amendment of writ not permitted at appellate stage",
+    "Extra cost of compliance falls on contractor only if contract allows",
+    "Public policy bars enforcement of illegal construction contracts"
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text with clear citations and factual consistency.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/FRANCISCO CANFAILLA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:48:31.763Z",
+    "plainTextLength": 10528
+  },
+  "trialDate": "1939-04-19"
+}

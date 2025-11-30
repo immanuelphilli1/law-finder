@@ -1,0 +1,63 @@
+{
+  "caseTitle": "NOKU OF YUSA",
+  "summary": "The appellant, Noku of Yusa, was initially acquitted of the murder of Ayir due to insufficient evidence linking his actions to the victim's death. Subsequently, he was charged and convicted of committing an act intended to cause grievous harm under section 332(1) of the Criminal Code, based on the same underlying acts. He appealed, arguing that the conviction violated the principle of 'autrefois acquit' since he had already been acquitted on the murder charge. The West Africa Court of Appeal dismissed the appeal, holding that because the murder charge required proof of unlawful killing—which was not established—the accused was never in jeopardy for the lesser offense of causing grievous harm during the first trial. Therefore, the plea of 'autrefois acquit' could not succeed. The court clarified that the identity of facts alone does not bar a subsequent prosecution; rather, the key test is whether the first acquittal necessarily involved an acquittal on the second charge. Since it did not, the conviction was upheld.",
+  "legalKeywords": [
+    "autrefois acquit",
+    "double jeopardy",
+    "grievous harm",
+    "murder charge",
+    "section 332 Criminal Code",
+    "section 58 Criminal Procedure Ordinance",
+    "unlawful killing",
+    "intent to cause harm",
+    "same facts",
+    "lesser included offence"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Double Jeopardy",
+    "Appeal"
+  ],
+  "verdict": "Appeal dismissed; conviction for causing grievous harm upheld.",
+  "winningSide": "Crown",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v. Noku of Yusa",
+    "10 C.A.R. 81 (William Barron case)"
+  ],
+  "rationaleHighlights": [
+    "Acquittal on murder charge does not bar prosecution for grievous harm if the latter was not part of the original jeopardy.",
+    "Section 58 C.P.O. does not allow conviction for a lesser offense unless the accused was actually in jeopardy for it.",
+    "The test for 'autrefois acquit' is whether the first acquittal necessarily implies acquittal on the second charge.",
+    "No proof of death means no part of the murder charge could be established.",
+    "Same factual basis does not automatically invoke double jeopardy protection.",
+    "The Court emphasized that causing grievous harm was not a lesser-included offense under the murder charge in this context."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and explicit references to statutory provisions and precedent.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/NOKU OF YUSA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:01:40.478Z",
+    "plainTextLength": 6422
+  },
+  "trialDate": "1940-10-26"
+}

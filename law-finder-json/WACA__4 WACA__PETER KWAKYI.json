@@ -1,0 +1,68 @@
+{
+  "caseTitle": "PETER KWAKYI",
+  "summary": "In this 1938 West Africa Court of Appeal case from Ghana, Peter Kwakyi (plaintiff-respondent) sued Kojo Bandoh (defendant-appellant) for malicious prosecution following criminal charges over a land dispute. Kwakyi had taken crops from land awarded to him by the Asantehene's Court but was prosecuted for stealing and unlawful damage. He was convicted in the Native Court, with sentences later reduced by the District Commissioner. On appeal to the Magistrate's Court, only the theft conviction was quashed on the grounds of 'claim of right,' while the damage conviction remained intact. Kwakyi then won damages for malicious prosecution in the Supreme Court, but the decision was reversed on appeal. The appellate court held that Kwakyi failed to prove the proceedings ended in his favour, failed to disprove reasonable and probable cause, and failed to prove malice. The appeal was allowed, the lower court's judgment set aside, and the claim dismissed with costs.",
+  "legalKeywords": [
+    "malicious prosecution",
+    "reasonable and probable cause",
+    "termination in favour",
+    "native custom",
+    "criminal prosecution",
+    "land dispute",
+    "appellate review",
+    "burden of proof",
+    "claim of right",
+    "damages"
+  ],
+  "topics": [
+    "Tort Law",
+    "Criminal Law",
+    "Land Law",
+    "Appellate Procedure",
+    "Malicious Prosecution"
+  ],
+  "verdict": "Appeal allowed; judgment for plaintiff set aside; claim dismissed with costs.",
+  "winningSide": "Defendant-Appellant",
+  "prosecutionType": "private",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Webb",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Addison's Law of Torts, 8th Edition, p. 249",
+    "section 103 Cap. 29 Volume 1 of the Laws of the Gold Coast Colony, 1928",
+    "section 93 Cap. 29 Volume 1 of the Laws of the Gold Coast Colony, 1928"
+  ],
+  "rationaleHighlights": [
+    "Plaintiff failed to prove termination of criminal proceedings in his favour",
+    "Conviction for unlawful damage was not overturned",
+    "Reasonable and probable cause existed for prosecution",
+    "Native Court conviction supported defendant's position",
+    "No express finding of malice by trial judge",
+    "Defendant's actions aligned with customary expectations",
+    "Point of law on stealing not easily understandable by layperson",
+    "Civil remedy preferred over criminal prosecution"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed court record and clear appellate reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/PETER KWAKYI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:00:34.617Z",
+    "plainTextLength": 12205
+  },
+  "trialDate": "1938-12-05"
+}

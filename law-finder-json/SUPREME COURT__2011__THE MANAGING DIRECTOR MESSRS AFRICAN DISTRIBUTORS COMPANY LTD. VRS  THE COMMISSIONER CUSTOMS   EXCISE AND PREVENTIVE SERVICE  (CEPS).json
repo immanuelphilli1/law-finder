@@ -1,0 +1,87 @@
+{
+  "caseTitle": "THE MANAGING DIRECTOR MESSRS AFRICAN DISTRIBUTORS COMPANY LTD. VRS THE COMMISSIONER CUSTOMS EXCISE AND PREVENTIVE SERVICE (CEPS)",
+  "summary": "The Supreme Court of Ghana reviewed an appeal arising from a default judgment entered by the High Court in favor of the plaintiff, African Distributors Company Ltd., against the Commissioner of Customs, Excise and Preventive Service (CEPS). The plaintiff claimed $130,000 for undelivered second-hand clothing, but the High Court awarded $92,600 without any prior admission or amended pleading. The Court of Appeal set aside the judgment due to procedural irregularities, including lack of notice of adjournment from December 13 to 14, 2005, and the unexplained reduction in the awarded sum. The Supreme Court upheld the Court of Appeal's decision, holding that a default judgment must reflect the exact amount claimed unless amended or admitted, and that the procedural flaws constituted a miscarriage of justice. The appeal was dismissed, affirming the need for strict adherence to civil procedure rules.",
+  "legalKeywords": [
+    "default judgment",
+    "summary judgment",
+    "liquidated claim",
+    "procedural irregularity",
+    "miscarriage of justice",
+    "Order 13 rule 1 CI 47",
+    "Order 14 CI 47",
+    "Order 81 rule 1(1) CI 47",
+    "estoppel",
+    "service of notice",
+    "judgment amount discrepancy",
+    "civil procedure",
+    "High Court Civil Procedure Rules",
+    "jurisdiction",
+    "adjournment by court clerk",
+    "retrial",
+    "appeal grounds",
+    "costs award",
+    "public holiday practice",
+    "Entry of Judgment",
+    "statement of defence"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Judgment",
+    "Appeal",
+    "Procedural Fairness",
+    "Ghanaian Judiciary"
+  ],
+  "verdict": "Appeal dismissed; Court of Appeal's setting aside of the High Court judgment upheld.",
+  "winningSide": "Commissioner of Customs, Excise and Preventive Service (Respondent)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Anin Yeboah JSC",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "Wood (Mrs) CJ",
+      "role": "Presiding"
+    },
+    {
+      "name": "Adinyira (Mrs) JSC",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Dotse JSC",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Aryeetey JSC",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Gyaesayor J.A.",
+      "role": "Court of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "BONSU V. DOE [1984] GLR 325",
+    "SHARDEY V ADAMTEY AND SHARDEY V MARTEY & OR (CONSOLIDATED) [1972] 2 GLR 380 CA",
+    "REPUBLIC V. HIGH COURT, ACCRA; EX PARTE ALLGATE CO. LTD [2007\b08] 2 SCGLR 1041"
+  ],
+  "rationaleHighlights": [
+    "Judgment was a default judgment under Order 13 CI 47, not a summary judgment under Order 14.",
+    "Discrepancy between claim amount ($130,000) and judgment amount ($92,600) without prior admission or amendment invalidates judgment.",
+    "Failure to serve notice of adjourned hearing raised procedural concerns but did not nullify jurisdiction.",
+    "Court of Appeal correctly found miscarriage of justice due to irregularities.",
+    "Practice of calling over cases on next sitting day after non-sitting is acceptable."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from court judgment text and consistent procedural references.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/THE MANAGING DIRECTOR MESSRS AFRICAN DISTRIBUTORS COMPANY LTD. VRS  THE COMMISSIONER CUSTOMS   EXCISE AND PREVENTIVE SERVICE  (CEPS).htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:58:17.842Z",
+    "plainTextLength": 17906
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "caseTitle": "BUSHIE ENTERPRISE v. THE PROJECT MANAGER, NORELEC GHANA",
+  "summary": "This appeal arose from a construction contract dispute between Bushie Enterprise (sub-contractor) and Norelec Ghana (contractor) over the excavation and erection of 221 steel towers for a 34.5 KV electricity transmission line. The respondent claimed the appellants breached the contract by unilaterally reducing the number of towers from 221 to 42 and terminating work without proper notice under Clauses 1.7 and 3.1 of the agreement. The trial court found in favor of the respondent, holding the termination was wrongful. On appeal, the Court of Appeal held that the trial judge erred in focusing solely on Clause 1.7, which requires notice and default, while failing to consider Clause 2.1, which permits the contractor to reduce the scope of work without termination. The appellate court found that the appellants lawfully exercised their rights under Clause 2.1 to reduce the work, and the respondent accepted this by initialling the revised scope and performing accordingly. Thus, there was no breach of contract, and the judgment of the lower court was set aside.",
+  "legalKeywords": [
+    "breach of contract",
+    "termination of contract",
+    "sub-contractor",
+    "contractual discretion",
+    "notice requirement",
+    "unilateral variation",
+    "contract interpretation",
+    "damages",
+    "excavation works",
+    "electricity transmission project"
+  ],
+  "topics": [
+    "Contract Law",
+    "Construction Law",
+    "Appellate Review",
+    "Breach of Contract",
+    "Contract Interpretation"
+  ],
+  "verdict": "The appeal was allowed. The judgment of the lower court was set aside. The respondent's claim for breach of contract was dismissed.",
+  "winningSide": "Defendants/Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Aryeetey, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Akoto-Bamfor, J.A."
+    },
+    {
+      "name": "Asare-Korang, J.A."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Contract Dispute",
+  "citations": [
+    "BUSHIE ENTERPRISE v. THE PROJECT MANAGER, NORELEC GHANA & NORLEC GHANA [26/03/2004] CA NO. H1/44/2004"
+  ],
+  "rationaleHighlights": [
+    "Clause 1.7 required prior notice and proof of default before termination, which appellants failed to provide",
+    "Trial judge erred by narrowly interpreting Clause 1.7 without considering Clause 2.1",
+    "Clause 2.1 allowed unilateral reduction of scope without termination",
+    "Appellants lawfully reduced work scope under Clause 2.1",
+    "Respondent accepted new arrangement by initialling and performing under it"
+  ],
+  "confidenceNotes": "The source document is a full judgment from the Court of Appeal of Ghana, providing high factual reliability. All details are drawn directly from the judgment text.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/BUSHIE ENTERPRISE v. THE PROJECT MANAGER, NORELEC GHANA & NORLEC GHANA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:41:47.057Z",
+    "plainTextLength": 19777
+  },
+  "trialDate": "2004-03-26"
+}

@@ -1,0 +1,78 @@
+{
+  "caseTitle": "T H E R E P U B L I C v NANA OSEI BONSU ll, MAMPONGHENE",
+  "summary": "This Supreme Court of Ghana case arose from a chieftaincy dispute over the installation of Nana Yaa Adwubi as Mamponghemaa (queenmother) of Asante Mampong. The appellants, supporters of a rival nominee, obtained an injunction from the Ashanti Regional House of Chiefs to restrain the installation, but the respondents proceeded with the enstoolment on 29 February 2000. The High Court convicted the respondents for contempt, but the Court of Appeal overturned the conviction. The Supreme Court upheld the Court of Appeal's decision, holding that the enstoolment had already occurred on 7 February 2000—prior to the injunction—based on affidavits from key traditional authorities (Krontihene, Akwamuhene, Abusuapanin) who affirmed that the customary process in Asante Mampong was complete upon nomination, acceptance, and public introduction. The Court rejected the appellants' claim that physical seating and regalia transfer were essential, citing Republic v Sito l; Ex parte Fordjour. It also found that the trial judge erred in relying on Nana Afua Saka’s affidavit, which was discredited by evidence showing she had ceased to be acting queenmother in 1994, not 2000. The Supreme Court emphasized that customary law varies by community and must be determined by credible local authorities, affirming that the respondents’ actions did not constitute contempt.",
+  "legalKeywords": [
+    "customary law",
+    "chieftaincy",
+    "enstoolment",
+    "queenmother",
+    "contempt of court",
+    "affidavit evidence",
+    "constitutional interpretation",
+    "Ashanti custom",
+    "House of Chiefs",
+    "judicial review",
+    "nomination",
+    "installation",
+    "stool regalia",
+    "kingmakers",
+    "traditional authority"
+  ],
+  "topics": [
+    "Customary Law",
+    "Chieftaincy Disputes",
+    "Contempt of Court",
+    "Judicial Review",
+    "Constitutional Interpretation"
+  ],
+  "verdict": "Appeal dismissed; decision of the Court of Appeal allowing the appeal against contempt conviction is upheld.",
+  "winningSide": "Respondents (Nana Osei Bonsu II, Busuapanin Alex Osei Bonsu, and Nana Yaa Adwubi)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Brobbey, J.S.C.",
+      "role": "author of judgment"
+    },
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "presiding"
+    },
+    {
+      "name": "Mrs. Wood, J.S.C.",
+      "role": "member of bench"
+    },
+    {
+      "name": "Ansa, J.S.C.",
+      "role": "member of bench"
+    },
+    {
+      "name": "Mrs. Adinyira, J.S.C.",
+      "role": "member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional and chieftaincy",
+  "citations": [
+    "Republic v Sito l; Ex parte Fordjour [2001-2002] SCGLR 322",
+    "1992 Constitution of Ghana, art. 11(3)",
+    "Chieftaincy Act, 1971 (Act 370)"
+  ],
+  "rationaleHighlights": [
+    "Customary law is community-specific under art. 11(3) of the 1992 Constitution.",
+    "Enstoolment may be valid even without physical seating on a stool or possession of regalia.",
+    "Affidavit evidence from traditional authorities outweighed uncorroborated claims.",
+    "Trial court erred in relying on discredited witness who falsely claimed prior acting role.",
+    "Court of Appeal correctly overturned contempt conviction due to insufficient proof."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct judicial reasoning and cited legal authorities. Some document truncation near the end, but key holdings and evidence are preserved.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2007A/T H E     R E P U B L I C v  NANA OSEI BONSU ll, MAMPONGHENE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:18:39.983Z",
+    "plainTextLength": 26963
+  },
+  "trialDate": "2007-01-14"
+}

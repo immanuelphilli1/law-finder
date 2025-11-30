@@ -1,0 +1,85 @@
+{
+  "caseTitle": "THE REPUBLIC VRS THE HIGH COURT, SEKONDI EX-PARTE NICHOLAS",
+  "summary": "The Republic, on behalf of a plaintiff bank, applied to the Supreme Court of Ghana to suspend the Court of Appeal's order requiring payment of half the judgment debt (Gh\u0003150,000) as a condition for staying execution of the High Court's judgment pending appeal. The applicant argued that the respondents were impecunious and unlikely to refund the amount if the appeal succeeded. The Supreme Court dismissed the application, holding it lacked jurisdiction under rule 20 of CI 16 to interfere with the Court of Appeal's conditional stay order. It emphasized that the applicant had not first reapplied to the Court of Appeal as required by procedure, and reaffirmed that judgments merely confirmed on appeal remain orders of the lower court, not subject to stay in the Supreme Court. The Court explicitly overruled NDK Financial Services Ltd v Yiadom Construction & Electrical Works [2007-2008] 1 SCGLR 93 as per incuriam.",
+  "legalKeywords": [
+    "stay of execution",
+    "appeal",
+    "judgment debt",
+    "Court of Appeal",
+    "Supreme Court Rules CI 16",
+    "rule 20",
+    "interlocutory application",
+    "jurisdiction",
+    "procedural compliance",
+    "affirmed judgment",
+    "execution process",
+    "conditional stay",
+    "impecunious party",
+    "prospects of success",
+    "waiver of benefit"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Stay of Execution",
+    "Jurisdiction",
+    "Civil Appeals",
+    "Supreme Court Rules"
+  ],
+  "verdict": "Application dismissed for lack of jurisdiction and non-compliance with procedural requirements under rule 20(2) of CI 16.",
+  "winningSide": "The High Court, Sekondi and Court of Appeal (respondents)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "W. A. Atuguba",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "S. O. A. Adinyira",
+      "role": "Justice"
+    },
+    {
+      "name": "R. C. Owusu",
+      "role": "Justice"
+    },
+    {
+      "name": "P. Baffoe-Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "J. Ansah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Anang Sowah v Adams, MJ8/2/2009",
+    "Takyi v Ghassoub (Ghana) Ltd [1987-88] 2 GLR 452",
+    "Dhalomal v Puplampu [1984-86] 1 GLR 341",
+    "Republic v High Court, Accra; Ex parte Asakum Engineering & Construction Ltd [1993-94] 2 GLR 643",
+    "Ababio v Mensah [1989-90] 1 GLR 560",
+    "Asare v The Republic [1968] GLR 37",
+    "Aidoo v Commissioner of Police (No 2) [1964] GLR 344",
+    "NDK Financial Services Ltd v Yiadom Construction & Electrical Works [2007-2008] 1 SCGLR 93",
+    "Republic v Duffour; Ex parte Asare [2007-2008] 1 SCGLR 394",
+    "Mosi v Bagyina [1963] 1 GLR 337"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court lacks jurisdiction to suspend or reverse a conditional stay of execution granted by the Court of Appeal under rule 20(1) of CI 16.",
+    "Applicant failed to first reapply to the Court of Appeal after appealing, as required by rule 20(2), making the application premature.",
+    "A judgment confirmed on appeal remains the order of the lower court and cannot be subject to stay of execution in the Supreme Court.",
+    "The Court overruled NDK Financial Services Ltd v Yiadom per incuriam, reaffirming that affirmed orders belong to the trial court.",
+    "Conditional stay terms are for the beneficiary's personal benefit and may lapse on non-compliance, but do not create enforceable obligations against them."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official court document with clear judicial reasoning and cited authorities.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/THE REPUBLIC  VRS THE HIGH COURT, SEKONDI EX-PARTE NICHOLAS .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:59:56.119Z",
+    "plainTextLength": 13403
+  },
+  "trialDate": "2009-03-30"
+}

@@ -1,0 +1,78 @@
+{
+  "caseTitle": "AHENFIE CLOTH SELLERS ASSOCIATION PER THE PRESIDENT JOANA EW",
+  "summary": "The Supreme Court of Ghana considered whether the Ahenfie Cloth Sellers Association, which lent money to its member Philomena Mensah with guarantors, was operating as an unlicensed moneylender contrary to the Moneylenders Ordinance, Cap 176. The loan of 300 million old cedis (GH\u000230,000) was to be repaid at GH\u0002900 weekly over 52 weeks, totaling GH\u000246,800\u0003an effective interest rate of 52%, including 29% passed from the bank. The defendants argued the transaction was illegal and unconscionable. The court held that under section 3 of Cap 176, a rebuttable presumption arises when money is lent for repayment of a larger sum. The plaintiff failed to displace this presumption by proving its exemption under section 29(c), which applies only to entities whose primary business is not moneylending. Despite claims of providing 'friendly assistance,' the high interest rate and structured repayment indicated a profit-driven lending operation. The court found the association was functioning as an unlicensed moneylender, rendering the transaction illegal and unenforceable under Cap 176. The appeal was allowed, overturning lower courts' judgments in favor of the plaintiff.",
+  "legalKeywords": [
+    "money lending",
+    "usury",
+    "interest rate",
+    "loan recovery",
+    "unconscionable terms",
+    "moneylenders ordinance",
+    "non-bank financial institutions",
+    "association liability",
+    "guarantor liability",
+    "rebuttable presumption",
+    "statutory exemption",
+    "friendly assistance",
+    "commercial loan",
+    "credit regulation",
+    "financial association"
+  ],
+  "topics": [
+    "Contract Law",
+    "Financial Regulation",
+    "Consumer Protection",
+    "Statutory Interpretation",
+    "Appellate Review"
+  ],
+  "verdict": "The appeal was allowed. The transaction was declared illegal and unenforceable under the Moneylenders Ordinance, Cap 176, due to the plaintiff operating as an unlicensed moneylender. The lower courts' judgments were overturned.",
+  "winningSide": "Defendants/Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Brobbey",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Owusu (Ms)",
+      "role": "Justice"
+    },
+    {
+      "name": "Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "Aryeetey",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Yeboah v Bofour [1971] 2 GLR 199",
+    "Ayiwah v Badu [1963] 1 GLR 96",
+    "Dua v Afriyie [1971] 1 GLR 260"
+  ],
+  "rationaleHighlights": [
+    "The court applied a rebuttable presumption under Cap 176: lending money at interest creates a presumption of moneylending activity.",
+    "The plaintiff association failed to prove its exemption under section 29(c) because lending was not ancillary but central to its operations.",
+    "A 52% effective interest rate was deemed excessive and indicative of moneylending, not benevolent assistance.",
+    "The source of funds (bank loan) does not determine legality; the primary business objective does.",
+    "Pre-2008 transactions remain governed by Cap 175 and Cap 176 despite repeal by Act 774."
+  ],
+  "confidenceNotes": "The case relies heavily on statutory interpretation of Cap 176 and precedent; all key facts and legal principles are clearly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/AHENFIE CLOTH SELLERS ASSOCIATION PER THE PRESIDENT JOANA EW.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:53:35.093Z",
+    "plainTextLength": 55572
+  },
+  "trialDate": "2010-07-04"
+}

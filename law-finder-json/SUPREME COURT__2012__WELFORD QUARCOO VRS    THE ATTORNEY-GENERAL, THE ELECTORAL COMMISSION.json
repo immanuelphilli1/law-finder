@@ -1,0 +1,88 @@
+{
+  "caseTitle": "WELFORD QUARCOO VRS THE ATTORNEY-GENERAL, THE ELECTORAL COMMISSION",
+  "summary": "In Welford Quarcoo v. The Attorney-General & The Electoral Commission (2012), the plaintiff challenged the constitutionality of several provisions of the Local Government Act, 1993 (Act 462), particularly those empowering the President to create districts and municipalities by executive instrument and to direct the Electoral Commission. The plaintiff argued that such powers violated Articles 241(2), 106(1), and 45 of the 1992 Constitution by undermining parliamentary sovereignty and public participation. The Supreme Court dismissed the suit, relying on its contemporaneous decision in Naakarley Amegatcher v. Attorney-General, which upheld the constitutionality of the same provisions, affirming that legislative delegation to the executive in this context was lawful.",
+  "legalKeywords": [
+    "constitutionality",
+    "executive power",
+    "parliamentary sovereignty",
+    "delegated legislation",
+    "judicial precedent",
+    "public participation",
+    "local government",
+    "district creation",
+    "separation of powers",
+    "judicial review",
+    "subsidiary legislation",
+    "presidential instrument",
+    "legislative instrument",
+    "Article 241",
+    "Article 106",
+    "Article 45",
+    "sovereignty of the people",
+    "unconstitutional delegation",
+    "judicial restraint",
+    "constitutional interpretation"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Local Government",
+    "Separation of Powers",
+    "Judicial Precedent"
+  ],
+  "verdict": "The plaintiff's action was dismissed.",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "S.K. Date-Bah",
+      "role": "Presiding Justice, delivered judgment"
+    },
+    {
+      "name": "W.A. Atuguba"
+    },
+    {
+      "name": "S.A.B. Akuffo"
+    },
+    {
+      "name": "S.O.A. Adinyira"
+    },
+    {
+      "name": "Anin-Yeboah"
+    },
+    {
+      "name": "N.S. Gbadegbe"
+    },
+    {
+      "name": "V. Akoto-Bamfo"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Challenge",
+  "citations": [
+    "Naakarley Amegatcher v. Attorney-General and Electoral Commission (Suit No. J1/8/2012)",
+    "Okane & Ors v. Electoral Commission and the Attorney-General",
+    "Nii Tetteh Opremreh v. The Electoral Commission and the Attorney-General"
+  ],
+  "rationaleHighlights": [
+    "The Court relied on its contemporaneous decision in Naakarley Amegatcher, which upheld the constitutionality of the challenged provisions.",
+    "Delegation of district creation power to the President under Act 462 was deemed lawful and consistent with the Constitution.",
+    "The Court rejected the argument that such delegation undermines parliamentary sovereignty and public participation.",
+    "Executive instruments (E.I. 80, 81, 82) for creating districts and municipalities were upheld as valid.",
+    "The plaintiff's purposive interpretation favoring enhanced public participation was not accepted.",
+    "The judgment emphasized that the President's role in introducing financial bills and assenting to legislation provides sufficient executive-legislative balance.",
+    "The Court found no violation of Articles 241(2), 106(1), or 45 of the 1992 Constitution.",
+    "The dismissal was based on binding precedent, leaving no discretion for a different outcome."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from the official court document. All legal holdings, parties, and citations are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/WELFORD QUARCOO VRS    THE ATTORNEY-GENERAL, THE ELECTORAL COMMISSION.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:19:42.725Z",
+    "plainTextLength": 9180
+  },
+  "trialDate": "2012-01-27"
+}

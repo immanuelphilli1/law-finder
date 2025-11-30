@@ -1,0 +1,63 @@
+{
+  "caseTitle": "DECEASED. ANSAH VERSUS ANKRAH.",
+  "summary": "In this 1958 Ghanaian High Court case, the plaintiff, a Fanti man, sought letters of administration to the estate of his deceased uncle, Kofi Eburahim, claiming appointment as successor by family custom. The defendant, a niece, opposed, arguing no valid appointment occurred and that the issue should be referred to a Native Court. The court held that the High Court retains jurisdiction over succession disputes even when native custom is involved, especially where such customs are well-established in precedent, making referral unnecessary. It clarified that letters of administration are granted to the person appointed by the immediate family under custom and apply only to the deceased’s self-acquired property. The 'family' for succession purposes was defined as the matrilineal lineage tracing back from the deceased’s closest maternal ancestor, not the wider family group. The court rejected referral due to external interference risks and the crystallized nature of applicable customary law.",
+  "legalKeywords": [
+    "succession",
+    "intestacy",
+    "letters of administration",
+    "native custom",
+    "self-acquired property",
+    "family property",
+    "matrilineal inheritance",
+    "Fanti customary law",
+    "appointment of administrator",
+    "jurisdiction",
+    "Native Court referral",
+    "customary succession",
+    "immediate family",
+    "wider family",
+    "caretaker"
+  ],
+  "topics": [
+    "Succession Law",
+    "Customary Law",
+    "Probate Administration",
+    "Jurisdiction",
+    "Matrilineal Inheritance"
+  ],
+  "verdict": "The court retained jurisdiction and proceeded to determine the matter, rejecting the defendant's application for referral to a Native Court.",
+  "winningSide": "The plaintiff's application was not dismissed; the court assumed jurisdiction and impliedly upheld the plaintiff's right to proceed with the claim for letters of administration.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adumua-Bossman J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Central Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "succession and probate",
+  "citations": [
+    "Amene v. Amanor (1931) 1 W.A.C.A. 126",
+    "Angu v. Attah (1916) Judgments of Privy Council on Appeal from the Gold Coast, 1874-1928, 43",
+    "Villars v. Baffoe (1909) Renner's Reports, Vol. I, Pt. II, 549",
+    "Larkai v. Amorkor and Others (1933) 1 W.A.C.A. 323",
+    "Tamakloe and Others v. Attipoe and Tamakloe and Others, High Court, Eastern Judicial Division, November 7, 1951, unreported"
+  ],
+  "rationaleHighlights": [
+    "The High Court retains jurisdiction over succession matters despite Native Courts' authority; referral is unnecessary where customary principles are well-established.",
+    "Letters of administration are granted to the person customarily appointed as successor by the immediate family, or one entitled to prior consideration.",
+    "The grant applies only to self-acquired property, not family property administered by the deceased.",
+    "In Fanti matrilineal custom, the 'family' for succession includes those tracing descent from the deceased’s closest maternal ancestor.",
+    "Referral to Native Court was declined due to risk of external influence and because customary law on succession is already crystallized in precedent."
+  ],
+  "confidenceNotes": "The decision is well-reasoned with clear reliance on precedent and customary law principles. The judge explicitly rejects referral to Native Court based on established jurisprudence, indicating high judicial confidence.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/In re EBURAHIM, DECEASED. ANSAH v. ANKRAH..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:04:40.731Z",
+    "plainTextLength": 25432
+  }
+}

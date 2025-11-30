@@ -1,0 +1,75 @@
+{
+  "caseTitle": "DOKU KUGBLAWE OF AWUNAGA",
+  "summary": "This 1931 West African Court of Appeal decision dismissed an appeal by Doku Kugblawe, who sought to have a judgment from the Native Tribunal of Anlo declared a nullity. The Divisional Court had previously ruled against him, holding it lacked jurisdiction. The Appellant argued the Native Tribunal was improperly constituted and its proceedings violated natural justice. The appellate court affirmed that Native Tribunals possess exclusive original jurisdiction over land disputes between natives under the Native Administration Ordinance, a jurisdiction expressly removed from the Supreme and Divisional Courts. The court held that such judgments could not be challenged in a Divisional Court via an independent action for nullity, especially after the Appellant failed to pursue a timely appeal to the Provincial Commissioner. The court emphasized that statutory appeal mechanisms must be followed and cannot be circumvented, confirming the lower court's judgment.",
+  "legalKeywords": [
+    "Native Tribunal",
+    "jurisdiction",
+    "land dispute",
+    "natural justice",
+    "customary law",
+    "Supreme Court",
+    "Divisional Court",
+    "Provincial Commissioner",
+    "exclusive jurisdiction",
+    "nullity",
+    "appeal",
+    "fraud",
+    "public policy",
+    "trespass",
+    "Native Administration Ordinance"
+  ],
+  "topics": [
+    "Land Law",
+    "Jurisdiction",
+    "Appellate Procedure",
+    "Native Tribunals",
+    "Customary Law"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Defendant-Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Michelin, J.",
+      "role": "appellate judge"
+    },
+    {
+      "name": "Deane, C.J.",
+      "role": "appellate judge"
+    },
+    {
+      "name": "Sawrey-Cookson, J.",
+      "role": "appellate judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Nagai Kassa v. Awah II",
+    "The Attorney-General v. Hotham, 24 R.R. 21",
+    "Padstow Total Loss and Collision Assurance Association, in re Bryant 20 Ch.D. 137",
+    "Koyo Pon v. Atta Fua, F.C. 1926-29 522",
+    "Asa1ite v. Tchinbuah, F.C. 1926-29 406",
+    "Ntah v. Bennieh (17-11-30)"
+  ],
+  "rationaleHighlights": [
+    "Native Tribunals have exclusive jurisdiction over land disputes between natives under the Native Administration Ordinance.",
+    "A Divisional Court cannot set aside a judgment of a Native Tribunal in land cases as it lacks jurisdiction over such matters.",
+    "Irregularities in tribunal proceedings must be challenged via appeal, not a separate action in Divisional Court.",
+    "The Plaintiff-Appellant lost the right to appeal by delay and cannot circumvent this by seeking nullity.",
+    "The judgment emphasized statutory exclusivity and the finality of tribunal decisions subject to prescribed appeals.",
+    "Analogized attempting to set aside a Native Tribunal's judgment to challenging a foreign court's decision due to statutory separation of jurisdiction.",
+    "The Full Court in Asa1ite v. Tchinbuah overruled the precedent in Nagai Kassa v. Awah II regarding jurisdiction to declare nullity."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details (jurisdiction, rationale, parties, outcome) are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/DOKU KUGBLAWE OF AWUNAGA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:50:22.165Z",
+    "plainTextLength": 12711
+  },
+  "trialDate": "1931-11-09"
+}

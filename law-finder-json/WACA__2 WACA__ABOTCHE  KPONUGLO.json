@@ -1,0 +1,81 @@
+{
+  "caseTitle": "ABOTCHE KPONUGLO",
+  "summary": "This Privy Council appeal from the Gold Coast Colony (modern-day Ghana) concerned a land dispute over 'Bunya land' between the Head Chief of Tafi Atome (respondent) and the Head Chief of Djokpee and his subjects (appellants). The respondent claimed damages for trespass and an injunction after the appellants cut down a tree on the land. The Supreme Court initially ruled for the appellants, finding their claim by conquest and traditional evidence superior, and that the respondent lacked exclusive possession. The West African Court of Appeal reversed, relying on German colonial maps and alleged acts of possession. The Privy Council restored the original judgment, holding that the German maps were unreliable due to their small scale and inaccuracies, and that partial use (farming, fish traps, roads) did not establish title to the entire tract. The Council emphasized the weight of traditional evidence and the trial judge's credibility findings, particularly rejecting the significance of an alleged arbitration and the 'Mahoon incident' due to lack of corroborative evidence. The appeal was allowed, affirming appellants' title.",
+  "legalKeywords": [
+    "land title",
+    "trespass",
+    "traditional evidence",
+    "possession",
+    "boundary dispute",
+    "prima facie evidence",
+    "German maps",
+    "arbitration",
+    "fetishes",
+    "fishing rights",
+    "farming rights",
+    "evidence credibility",
+    "colonial law",
+    "customary law",
+    "onus of proof"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Evidence Law",
+    "Colonial Jurisprudence",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed; judgment in favor of the appellants (Abotche Kponuglo and others) restored.",
+  "winningSide": "Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "LORD ALNESS",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "LORD THANKERTON",
+      "role": "Panel Member"
+    },
+    {
+      "name": "LORD ALNESS",
+      "role": "Panel Member"
+    },
+    {
+      "name": "SIR LANCELOT SANDERSON",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Gardiner Smith J.",
+      "role": "Court of Appeal"
+    },
+    {
+      "name": "Hall",
+      "role": "Acting Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Privy Council on appeal from West African Court of Appeal and Supreme Court of the Gold Coast Colony",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "PRIVY COUNCIL APPEAL No. 123 OF 1931",
+    "WACA/2 WACA/ABOTCHE KPONUGLO"
+  ],
+  "rationaleHighlights": [
+    "Traditional evidence favored appellants' claim by conquest over respondent's claim by gift.",
+    "German maps were given undue weight by Court of Appeal but deemed unreliable due to scale and inaccuracies.",
+    "Evidence of partial farming, roads, fish traps, and timbering insufficient to prove exclusive possession.",
+    "Arbitration award disregarded due to appellants' withdrawal and lack of physical boundary.",
+    "Chief Justice's credibility assessment on 'Mahoon incident' upheld despite respondent's argument.",
+    "Court of Appeal erred in minimizing traditional evidence and overemphasizing 'existing facts'."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; document is a formal judgment with clear judicial reasoning, though partially truncated. Key conclusions are preserved.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/ABOTCHE  KPONUGLO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:34:14.665Z",
+    "plainTextLength": 16597
+  }
+}

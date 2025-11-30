@@ -1,0 +1,71 @@
+{
+  "caseTitle": "A.L. E. ALAWUSA v LYDIA ADE ODUSOTE",
+  "summary": "This appeal arose from a conviction for indecent assault under section 360 of the Criminal Code, following a magistrate's trial where the appellant, A.L.E. Alawusa, was found guilty of shaving the pubic hair of his wife, Lydia Ade Odusote, married under native law and custom. The High Court upheld the conviction but corrected a clerical error in the charge. On further appeal to the West African Court of Appeal, the court held that while the act constituted an assault, it could not properly be characterised as indecent due to the marital relationship. The court rejected the argument that a husband cannot commit indecent assault on his wife by analogy to marital rape, but emphasized that cultural context and the nature of spousal relations affected the characterization. Consequently, the conviction for indecent assault was set aside and a verdict of common assault under section 351 of the Criminal Code was substituted, with a sentence of six weeks' imprisonment with hard labour imposed.",
+  "legalKeywords": [
+    "indecent assault",
+    "husband and wife",
+    "common assault",
+    "clerical error",
+    "native law and custom",
+    "criminal code",
+    "verdict substitution",
+    "assault",
+    "marital rights",
+    "judicial amendment"
+  ],
+  "topics": [
+    "criminal law",
+    "family law",
+    "sexual offences",
+    "appellate procedure",
+    "marital rights"
+  ],
+  "verdict": "Verdict of guilty of indecent assault under s 360 substituted with guilty of common assault under s 351 of the Criminal Code.",
+  "winningSide": "Respondent (conviction upheld in modified form)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Butler Lloyd",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Brooke",
+      "role": "Justice"
+    },
+    {
+      "name": "Jeffreys",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "West African Court of Appeal Ordinance, s 11(2)",
+    "Criminal Code, s 360",
+    "Criminal Code, s 351",
+    "Criminal Code, s 353",
+    "Criminal Code, s 172(1)",
+    "Criminal Code, s 58(1)"
+  ],
+  "rationaleHighlights": [
+    "An assault by a husband on his wife cannot be characterised as indecent solely due to marital relationship",
+    "Indecent assault is not a lesser form of rape; the 'greater includes the less' argument rejected",
+    "Native cultural context considered in assessing the nature of the act",
+    "Court has power to amend clerical errors in charge under s 172(1)",
+    "Verdict substituted under s 11(2) of West African Court of Appeal Ordinance",
+    "Common assault conviction appropriate under s 351 where indecent assault not proven",
+    "Husband shaving wife's pubic hair constitutes assault but not indecent assault",
+    "Accessory liability possible even within marriage for sexual offences"
+  ],
+  "confidenceNotes": "All information is drawn directly from the provided judgment; citations and legal provisions are explicitly referenced in the text.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/A.L. E. ALAWUSA v   LYDIA ADE ODUSOTE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:37:57.769Z",
+    "plainTextLength": 4291
+  },
+  "trialDate": "1941-11-06"
+}

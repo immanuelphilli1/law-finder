@@ -1,0 +1,39 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The document titled 'GHANA LAW FINDER' is not a judicial decision but a digital index or homepage for a legal resource platform. It offers a self-help guide to Ghanaian law, featuring a case and subject matter index, and promotes easy access to legal information. It includes a copyright notice (2003) and contact information (tonykaddy@yahoo.co.uk). There is no case content, ruling, or judicial analysis present.",
+  "legalKeywords": [
+    "Ghana Law Finder",
+    "legal library",
+    "case index",
+    "subject matter index",
+    "legal research",
+    "self-help legal guide",
+    "copyright",
+    "online legal resource",
+    "law review",
+    "legal database"
+  ],
+  "topics": [
+    "Legal Research",
+    "Legal Database",
+    "Ghana Law"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "unknown",
+    "country": "Ghana"
+  },
+  "caseType": "unknown",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The provided document does not contain a legal decision or case content. It appears to be a homepage or index for a legal resource database with no substantive judicial ruling.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/91- 92/TEMP.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:37:49.915Z",
+    "plainTextLength": 291
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "caseTitle": "KWABENA ABOAGYE VRS THE CONTROLLER & ACCOUNTANT GENERAL THE ATTORNEY-GENERAL",
+  "summary": "Kwabena Aboagye, a former public servant, appealed for the declaration that his service was continuous from 1966 to 2002 for pension purposes under Cap 30. He had worked in various government agencies until his termination in 1979 due to reorganization. In 2005, a letter from the Head of the Civil Service's representative condoned his break in service from 1971 to 1980, making his service continuous from 1966 to 1980 for pension purposes. The plaintiff claimed this condonation extended to 2002, but the trial court and Supreme Court held that the letter unambiguously limited the period to 1980. The court rejected his application for review, ruling that any error in the administrative letter must be corrected by the executive, not the judiciary. The Supreme Court upheld the lower courts' decisions, affirming entitlement only to pension benefits from 1966 to 1980.",
+  "legalKeywords": [
+    "condonation of break in service",
+    "pension rights",
+    "public service employment",
+    "retirement benefits",
+    "continuous service",
+    "pension calculation",
+    "statute of limitations",
+    "judicial review",
+    "civil service",
+    "Ghana Education Service"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Pension Law",
+    "Public Service Employment",
+    "Judicial Review",
+    "Civil Procedure"
+  ],
+  "verdict": "The appeal was dismissed. The Supreme Court affirmed that the plaintiff's pensionable service was limited to the period 1966–1980 as per the condonation letter, and no extension to 2002 was legally justified.",
+  "winningSide": "Defendants/Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. S. K. Date-Bah",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin",
+      "role": "Justice"
+    },
+    {
+      "name": "Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "Akoto-Bamfo",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Civil Appeal No. J4/31/2011",
+    "High Court (Civil Procedure) Rules 2004 (CI 47)",
+    "Pensions and Social Security (Amendment) Act 1975 (SMCD 8)",
+    "Cap 30"
+  ],
+  "rationaleHighlights": [
+    "The condonation letter dated 12th April 2005 explicitly limited service continuity to 1966–1980, not 2002.",
+    "The trial court correctly relied on documentary evidence rather than plaintiff's assertions.",
+    "A review cannot be used to correct alleged errors in administrative documents; that responsibility lies with the issuing authority.",
+    "The plaintiff failed to provide proof of opting to remain under Cap 30 after 1975 amendments."
+  ],
+  "confidenceNotes": "The case details are drawn directly from the official court judgment; all key facts, legal arguments, and rulings are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/KWABENA ABOAGYE  VRS THE CONTROLLER & ACCOUNTANT GENERAL THE ATTORNEY-GENERAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:28:18.175Z",
+    "plainTextLength": 42067
+  }
+}

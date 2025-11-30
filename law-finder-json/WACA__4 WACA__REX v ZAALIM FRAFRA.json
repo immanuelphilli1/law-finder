@@ -1,0 +1,71 @@
+{
+  "caseTitle": "REX v ZAALIM FRAFRA",
+  "summary": "The appellant, Zaanim Frafra, was initially convicted of murder for shooting the deceased during an incident where the deceased and others attempted to remove the appellant's wife from his custody to dissolve the marriage over an unpaid dowry debt. The West African Court of Appeal considered whether this act constituted a 'violent assault and battery' under section 234(4) of the Criminal Code, which could reduce the crime to manslaughter due to extreme provocation. While the Chief Justice dissented, finding insufficient evidence of violence, Justices Yates and Strother-Stewart held that forcibly removing a wife in such circumstances amounted to sufficient provocation. The Court invoked its power under section 11(2) of the West African Court of Appeal Ordinance to substitute the verdict from murder to guilty of manslaughter and sentenced the appellant to five years’ imprisonment with hard labour.",
+  "legalKeywords": [
+    "manslaughter",
+    "murder",
+    "provocation",
+    "violent assault and battery",
+    "section 234(4) Criminal Code",
+    "section 11(2) West African Court of Appeal Ordinance",
+    "extreme provocation",
+    "misdirection of assessors",
+    "spousal custody",
+    "customary marriage",
+    "dowry dispute",
+    "self-help remedy",
+    "trial error",
+    "appellate intervention",
+    "hard labour"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appeal",
+    "Homicide"
+  ],
+  "verdict": "Guilty of Manslaughter (substituted on appeal)",
+  "winningSide": "Appellant (Zaanim Frafra)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Petrides",
+      "role": "Presiding Judge, Chief Justice (dissenting)"
+    },
+    {
+      "name": "Yates",
+      "role": "Justice"
+    },
+    {
+      "name": "Strother-Stewart",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "section 221 of the Criminal Code",
+    "section 234(4) of the Criminal Code",
+    "section 11(2) of the West African Court of Appeal Ordinance"
+  ],
+  "rationaleHighlights": [
+    "The attempted forcible removal of a wife to dissolve a marriage over a debt constitutes a provoking act.",
+    "The trial judge misdirected the assessors by requiring proof that the appellant had 'no other means of saving the woman's life,' which raised the threshold for manslaughter.",
+    "Even slight evidence of physical contact ('they caught hold of me') can support a finding of violent assault in cultural context.",
+    "The Court exercised statutory authority to substitute a manslaughter verdict despite lack of full evidentiary consensus.",
+    "Cultural and tribal norms were considered in evaluating the reasonableness of the appellant's response.",
+    "The dissent argued that absence of explicit testimony on violence rendered the misdirection immaterial.",
+    "The majority held the misdirection was material and likely affected the outcome.",
+    "The final judgment reflects appellate correction of legal error in jury instructions."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on consistent judicial reasoning and clear statutory references. Discrepancies in interpretation of 'violence' reflect legitimate judicial divergence rather than ambiguity in source.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX v ZAALIM FRAFRA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:53:59.102Z",
+    "plainTextLength": 8026
+  },
+  "trialDate": "1938-05-04"
+}

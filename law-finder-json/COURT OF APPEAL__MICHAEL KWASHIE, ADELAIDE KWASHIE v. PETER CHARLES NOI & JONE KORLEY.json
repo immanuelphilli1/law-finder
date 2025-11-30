@@ -1,0 +1,73 @@
+{
+  "caseTitle": "ADELAIDE KWASHIE v. PETER CHARLES NOI & JONE KORLEY",
+  "summary": "The appellants, Michael Kwashie and Adelaide Kwashie, challenged the validity of their late father's will, which devised a house in Osu, Accra (House No. F390/1) to his second wife and her children. They claimed ownership as beneficiaries under a 1984 conveyance (Exhibit B), asserting they financially contributed to the construction of the house from the UK. The High Court dismissed their claim and the respondents' counterclaim. On appeal, the Court of Appeal upheld the decision, ruling that Exhibit B did not effect a valid customary gift due to lack of required formalities: absence of publicity, failure to present 'drink' or token payment as acceptance, and no delivery of possession. The court found the appellants' financial contributions, while acknowledged, insufficient to perfect a customary gift or override the father's testamentary rights. The will remained valid, and the appellants' claim to title and injunction was dismissed.",
+  "legalKeywords": [
+    "customary gift",
+    "conveyance",
+    "tenants in common",
+    "will",
+    "land tenure",
+    "deed of gift",
+    "publicity",
+    "acceptance",
+    "possession",
+    "Conveyancing Decree 1973",
+    "N.R.C.D. 175",
+    "executors",
+    "counterclaim",
+    "declaration of title",
+    "injunction"
+  ],
+  "topics": [
+    "Property Law",
+    "Succession",
+    "Customary Law",
+    "Land Tenure",
+    "Wills and Estates"
+  ],
+  "verdict": "The appeal was dismissed. The decision of the High Court was upheld. The conveyance (Exhibit B) did not create a valid transfer of interest in land under customary law. The will devising the property to the second wife and her children remained effective.",
+  "winningSide": "Defendants/Respondents (Peter Charles Noi & John Korley, executors of the will)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Aryeetey, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Aninakwah, J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Quaye, J.A.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Sese v. Sese [1984-86] 2 G.L.R. 78 C.A.",
+    "Majolagbe v. Larbi & Ors. (1959) G.L.R. 190",
+    "Beatrice N. Asare vrs. Teing & anor. [1960] G.L.R. 155",
+    "Effuah Kwekuwah v. Effuah Nahenna (1938) 4 W.A.C.A. 165",
+    "Nii Amaa Ollennu, Principles of Customary Land Law in Ghana (2nd Edition)"
+  ],
+  "rationaleHighlights": [
+    "A customary gift of land requires publicity, acceptance, and delivery/possession under Ghanaian law.",
+    "Financial contributions by children to a parent's building project do not automatically confer ownership or invalidate a will.",
+    "A written document (Exhibit B) purporting to transfer land as a customary gift must still comply with customary law formalities.",
+    "The trial court correctly found no evidence of customary compliance (e.g., presentation of 'drink', public declaration, or possession).",
+    "Section 4(1) of N.R.C.D. 175 requires oral customary grants to be in writing and certified, but does not override customary requirements.",
+    "The appellants failed to prove their contributions were intended as consideration for a transfer rather than familial support."
+  ],
+  "confidenceNotes": "The decision hinges on established principles of customary land law in Ghana, with clear reliance on precedent and statutory provisions. The court's reasoning is consistent with prior jurisprudence on customary gifts and conveyancing formalities.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/MICHAEL KWASHIE, ADELAIDE KWASHIE v. PETER CHARLES NOI & JONE KORLEY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:16:53.388Z",
+    "plainTextLength": 19190
+  },
+  "trialDate": "2004-06-11"
+}

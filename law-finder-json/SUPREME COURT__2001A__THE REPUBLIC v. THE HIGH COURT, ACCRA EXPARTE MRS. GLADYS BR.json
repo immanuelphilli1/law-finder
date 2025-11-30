@@ -1,0 +1,79 @@
+{
+  "caseTitle": "THE REPUBLIC v. THE HIGH COURT, ACCRA EXPARTE MRS. GLADYS BR",
+  "summary": "The Supreme Court of Ghana granted certiorari to quash the High Court of Accra's judgment and orders in a consolidated suit involving ownership and management of Speedline Stevedoring Company Ltd. The High Court had relied on findings from a prior Circuit Court case in which Mr. Dolphyne was declared a shareholder and director, but those declarations had been set aside by the Supreme Court due to lack of jurisdiction under the Companies Code 1963 (Act 179). The Supreme Court held that the High Court could not rely on an invalidated judgment as res judicata. It further ruled that the claims related to pre-incorporation conduct, governed by Section 13 of Act 179, which provides that such contracts do not bind the company unless adopted post-incorporation. The High Court’s orders—reassigning management, altering signatories, and directing payment of legal fees—were found to exceed the reliefs sought and the court’s jurisdiction. The decision reaffirmed the principle that only the High Court has jurisdiction over company matters and emphasized the limits of judicial authority in corporate administration.",
+  "legalKeywords": [
+    "certiorari",
+    "res judicata",
+    "pre-incorporation contract",
+    "jurisdiction",
+    "fraud",
+    "company law",
+    "estoppel",
+    "declaration",
+    "injunction",
+    "receiver and manager",
+    "shareholder",
+    "director",
+    "Companies Code 1963",
+    "Act 179",
+    "Act 372"
+  ],
+  "topics": [
+    "Company Law",
+    "Judicial Review",
+    "Res Judicata",
+    "Jurisdiction",
+    "Pre-incorporation Contracts"
+  ],
+  "verdict": "Certiorari granted; High Court proceedings and orders of 12th May 2000 and 19th January 2001 quashed.",
+  "winningSide": "The Republic (applicant)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Acquah",
+      "role": "author"
+    },
+    {
+      "name": "Bamford-Addo",
+      "role": "presiding"
+    },
+    {
+      "name": "Atuguba",
+      "role": "member"
+    },
+    {
+      "name": "Akuffo",
+      "role": "member"
+    },
+    {
+      "name": "Lamptey",
+      "role": "member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "judicial review",
+  "citations": [
+    "Dolphyne vrs. Speedline Stevedoring (1996-97) SC GLR 514",
+    "Spencer-Bower and Turner's Res Judicata (2nd Ed) p. 9",
+    "Asiama vrs. Adjabeng (1971) 2 GLR 17A CA",
+    "Re Northumberland Avenue Hotel Co. (1886) 33 Ch. D. 16"
+  ],
+  "rationaleHighlights": [
+    "The High Court erred in relying on a Circuit Court judgment whose declarations were set aside by the Supreme Court for lack of jurisdiction.",
+    "A judgment that has been overturned cannot operate as res judicata.",
+    "The Supreme Court affirmed that only the High Court has jurisdiction over company matters under Act 372 and the Companies Code 1963.",
+    "Contracts made before incorporation do not bind the company unless adopted after incorporation under Section 13 of Act 179.",
+    "The High Court exceeded its authority by reorganizing company management and ordering payments not sought by any party."
+  ],
+  "confidenceNotes": "High confidence; all key details including jurisdiction, parties, legal reasoning, and outcome are clearly stated in the judgment text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2001A/THE REPUBLIC v. THE HIGH COURT, ACCRA EXPARTE MRS. GLADYS BR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:41:24.465Z",
+    "plainTextLength": 20347
+  },
+  "trialDate": "2001-05-08"
+}

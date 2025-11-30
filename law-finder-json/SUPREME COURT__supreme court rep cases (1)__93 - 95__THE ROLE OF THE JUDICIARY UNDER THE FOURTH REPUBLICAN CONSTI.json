@@ -1,0 +1,76 @@
+{
+  "caseTitle": "THE ROLE OF THE JUDICIARY UNDER THE FOURTH REPUBLICAN CONSTI",
+  "summary": "This document is a lecture delivered by Mr. Enoch D. Kom, analyzing the role and independence of the judiciary under Ghana's Fourth Republican Constitution (1992). It emphasizes the constitutional entrenchment of judicial power, citing Article 125(3), which vests final judicial authority solely in the judiciary, free from executive or legislative interference. The lecture highlights key safeguards including judicial independence (Article 127), security of tenure, legal immunity, and the prohibition on Parliament altering court judgments (Article 107). It references landmark cases such as Mekkaoui v Minister of Internal Affairs and State v Otchere to illustrate past challenges to judicial independence. The Supreme Court is granted exclusive original jurisdiction over constitutional interpretation and enforcement under Article 130(1), and citizens are constitutionally empowered to defend the Constitution under Article 3. The lecture concludes that while the doctrine of separation of powers is not strictly applied due to executive-legislative overlap, the judiciary remains fully separated and empowered as a check on arbitrary power.",
+  "legalKeywords": [
+    "judicial independence",
+    "separation of powers",
+    "constitutional interpretation",
+    "fundamental human rights",
+    "judicial power",
+    "checks and balances",
+    "rule of law",
+    "supervisory jurisdiction",
+    "security of tenure",
+    "judicial immunity",
+    "constitutional enforcement",
+    "exclusive original jurisdiction",
+    "habeas corpus",
+    "certiorari",
+    "mandamus"
+  ],
+  "topics": [
+    "Judicial Independence",
+    "Constitutional Law",
+    "Separation of Powers",
+    "Human Rights",
+    "Rule of Law"
+  ],
+  "verdict": "The judiciary under the 1992 Constitution is constitutionally independent and holds exclusive final judicial power, with robust mechanisms to prevent interference from other branches of government.",
+  "winningSide": "The Judiciary / Constitutional Order",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Sir Arku Korsah",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "van Lare",
+      "role": "Justice"
+    },
+    {
+      "name": "Akiwumi",
+      "role": "Justice"
+    },
+    {
+      "name": "Akufo-Addo",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Mekkaoui v Minister of Internal Affairs",
+    "State v Otchere",
+    "Republic v Director-General of Prisons; Ex parte Nti",
+    "In re Akoto",
+    "In re Dumoga"
+  ],
+  "rationaleHighlights": [
+    "Judicial power is exclusively vested in the judiciary under Article 125(3) of the 1992 Constitution",
+    "Courts have supervisory jurisdiction over all lower adjudicating authorities under Article 141",
+    "Parliament cannot alter court decisions under Article 107",
+    "Judges enjoy security of tenure and immunity from suit under Articles 127 and 146",
+    "Supreme Court has exclusive original jurisdiction over constitutional matters under Article 130(1)",
+    "Citizens have a constitutional right to defend the Constitution under Article 3"
+  ],
+  "confidenceNotes": "The document is a lecture discussing constitutional principles and judicial independence in Ghana, referencing key cases and constitutional provisions. While it does not present a single court decision, it analyzes multiple cases and constitutional articles with high factual consistency.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/93 - 95/THE ROLE OF THE JUDICIARY UNDER THE FOURTH REPUBLICAN CONSTI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:09:41.616Z",
+    "plainTextLength": 22349
+  }
+}

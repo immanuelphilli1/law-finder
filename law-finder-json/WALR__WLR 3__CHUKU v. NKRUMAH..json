@@ -1,0 +1,62 @@
+{
+  "caseTitle": "CHUKU VERSUS NKRUMAH.",
+  "summary": "In Chuku v. Nkrumah, the plaintiff sued the defendant for slander after being called a 'rascal thief' during a dispute over a trade transaction. The Tarkwa/Abosso Native Court awarded the plaintiff �20 in damages, but the Magistrate's Court reversed the decision on appeal. The High Court, on further appeal, reinstated the Native Court's judgment. Sarkodee-Adoo J. held that calling someone a 'rascal thief' constitutes an imputation of a crime punishable by corporeal punishment and is therefore actionable per se, requiring no proof of special damage. The court distinguished between defamatory statements implying criminal guilt and mere vulgar abuse, ruling that the latter only applies if words are spoken in the heat of passion without consideration. The court found that the defendant failed to prove such circumstances, and the plaintiff had successfully proven the claim. Authorities including Webb v. Beavan and Amoah v. Djabi were cited to support the principle that general accusations of criminality are actionable. The appeal was allowed with costs.",
+  "legalKeywords": [
+    "defamation",
+    "slander",
+    "imputation of crime",
+    "actionable per se",
+    "special damage",
+    "vulgar abuse",
+    "heat of passion",
+    "corporeal punishment",
+    "reputation",
+    "false statement"
+  ],
+  "topics": [
+    "Defamation",
+    "Slander",
+    "Freedom of Speech",
+    "Reputation",
+    "Judicial Review"
+  ],
+  "verdict": "The appeal was allowed, the Magistrate's Court decision was overturned, and the Native Court's judgment in favor of the plaintiff was restored.",
+  "winningSide": "Plaintiff (Chuku)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sarkodee-Adoo J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Western Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Cheetham v. Bannerman (1881) Fanti Law Report 23",
+    "Webb v. Beavan (1883) 11 Q.B.D. 609",
+    "Amoah v. Djabi (1926) Divisional Court 1926-1929, 43",
+    "Marks v. Samuel [1904] 2 K.B. 287",
+    "Hulton & Co. v. Jones [1910] A.C. 20"
+  ],
+  "rationaleHighlights": [
+    "Calling someone a 'rascal thief' imputes commission of a crime punishable by corporeal punishment",
+    "Such imputation is actionable per se without proof of special damage",
+    "Words are not excused as vulgar abuse unless spoken in heat of passion without consideration",
+    "Hearers' reasonable understanding determines legal effect, not speaker's intent",
+    "Native Court's factual finding on credibility accepted by High Court",
+    "Precedent from English and local case law applied",
+    "Slander involving criminality does not require specification of the offence",
+    "Restoration of Native Court judgment affirms plaintiff's right to damages"
+  ],
+  "confidenceNotes": "High confidence; all details are explicitly stated in the judgment with clear legal reasoning and cited authorities.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/CHUKU v. NKRUMAH..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:08:03.298Z",
+    "plainTextLength": 5602
+  },
+  "trialDate": "1957-09-30"
+}

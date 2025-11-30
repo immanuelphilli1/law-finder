@@ -1,0 +1,82 @@
+{
+  "caseTitle": "THE REPUBLIC VRS HIGH COURT, ACCRA EX-PARTE. FARID DANIEL SALLOUM, FAWZI DANIEL SALLOUM FAUAD DANIEL SALLOUM",
+  "summary": "The Supreme Court of Ghana considered an appeal against a High Court decision that set aside, ex parte, the execution of a writ of possession. The applicants, Farid Daniel Salloum and others, had obtained a judgment for ejectment and rent recovery against John Wilson Akoto (Jnr). During execution, Charles Senyo Coker, who was not a party to the original suit but claimed an interest in the property, applied ex parte to set aside the writ, citing a prior injunction and lack of service. The High Court granted the application without notifying the applicants. The Supreme Court held that the ex parte setting aside of execution violated the audi alteram partem principle, as the applicants were directly affected and no exceptional circumstances justified the lack of notice. It emphasized that suppression of material facts and denial of a fair hearing in execution proceedings constitutes a breach of natural justice, rendering the order a nullity. The Court quashed the High Court's decision, affirming that procedural rules cannot override fundamental constitutional rights.",
+  "legalKeywords": [
+    "supervisory jurisdiction",
+    "certiorari",
+    "audi alteram partem",
+    "natural justice",
+    "ex parte application",
+    "inherent jurisdiction",
+    "writ of possession",
+    "execution of judgment",
+    "non-service of process",
+    "jurisdictional nullity",
+    "procedural irregularity",
+    "joinder of parties",
+    "interlocutory injunction",
+    "suppression of material facts",
+    "Order 19 Rule 3 CI 47",
+    "Order 81 CI 47"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Judicial Review",
+    "Natural Justice",
+    "Execution of Judgments",
+    "Ex Parte Applications"
+  ],
+  "verdict": "The Supreme Court quashed the High Court's ex parte order setting aside the writ of possession on grounds of breach of natural justice and audi alteram partem.",
+  "winningSide": "Applicants (Farid Daniel Salloum, Fawzi Daniel Salloum, Fauad Daniel Salloum, Jacob Daniel Salloum)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah JSC",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Dotse JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Yeboah JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Aryeetey JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs) JSC",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Republic v High Court, Accra, Ex-Parte Allgate Co. Ltd (Amalgamated Bank Ltd Interested Party) [2007-2008] SCGLR 1041",
+    "In re Kumi (Dec’d), Kumi v Nartey [2007-2008] SCGLR 723",
+    "Amoako v Hansen [1987-88] 2 GLR 26",
+    "R v Kensington Income Tax Commissioners, Ex parte Princess Edmond de Polignac [1917] 1 KB 486 CA",
+    "R v Accra District Court Magistrate, Ex parte Kuma [1968] GLR 955",
+    "Leedo v Bank of the North [1998] 7 SCNJ 328"
+  ],
+  "rationaleHighlights": [
+    "The High Court erred in granting an ex parte order to set aside execution without notice to the judgment creditors, violating audi alteram partem.",
+    "An application to set aside execution affecting a party's rights must be on notice, especially when no urgency or irreparable harm is shown.",
+    "Suppression of material facts, including prior court orders, undermines the legitimacy of ex parte applications.",
+    "Breach of natural justice renders proceedings a nullity, particularly where non-compliance affects jurisdiction.",
+    "Order 81 CI 47 cannot cure fundamental breaches of constitutional rights to fair hearing and due process."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct quotes from the judgment and established precedents cited.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/THE REPUBLIC VRS HIGH COURT, ACCRA  EX-PARTE. FARID DANIEL SALLOUM, FAWZI DANIEL SALLOUM  FAUAD DANIEL SALLOUM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:55:52.365Z",
+    "plainTextLength": 52049
+  },
+  "trialDate": "2011-03-16"
+}

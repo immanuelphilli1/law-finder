@@ -1,0 +1,77 @@
+{
+  "caseTitle": "FATTOU N'JIE .",
+  "summary": "This 1931 West African Court of Appeal decision in *Fattou N'jie v. Richard James Hall* centered on whether the plaintiff, Fattou N'jie, acquired ownership of property at No. 56 Leman Street, Bathurst, through adverse possession under the Limitation Acts of 1833 and 1874. The plaintiff had been placed in rent-free occupation of the property by Richard Calvert Hall in 1913 and remained there continuously after his 1922 death. The lower court dismissed her claim, ruling her possession was permissive and not adverse. The appellate court reversed, holding that under the Limitation Acts, a tenancy at will becomes possessory title after twelve years, regardless of permissive origin, provided possession is uninterrupted. The court declared the plaintiff the legal owner based on statutory limitation, emphasizing that adverse intent is unnecessary under the Acts. The judgment clarified the application of English limitation statutes in the Gambia and affirmed the extinguishment of the landlord’s title after the statutory period.",
+  "legalKeywords": [
+    "tenancy at will",
+    "limitation acts",
+    "adverse possession",
+    "statutory limitation",
+    "permissive possession",
+    "property ownership",
+    "continuous possession",
+    "title extinguishment",
+    "rent-free tenancy",
+    "executor liability",
+    "landlord and tenant",
+    "exclusive possession",
+    "Gambia law",
+    "West African Court of Appeal",
+    "possession without rent",
+    "declaration of title",
+    "inheritance rights",
+    "property deed",
+    "cohabitation and property",
+    "legal possession"
+  ],
+  "topics": [
+    "Property Law",
+    "Landlord and Tenant",
+    "Limitation of Actions",
+    "Ownership Claims",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Plaintiff-Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Gardiner-Smith, J."
+    },
+    {
+      "name": "Turbett, Acting J."
+    },
+    {
+      "name": "Tew, C.J. Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "The Colonial Securities Trust Company v. Massey (1896) 1 Q.B. 34",
+    "Khoo Sit Hoh v. Lim Thean Tong (1912) A.C. 323",
+    "Lynes v. Snaith (1899) 1 Q.B. 486",
+    "3 & 4 William IV c.27",
+    "37 & 38 Vict. c.57"
+  ],
+  "rationaleHighlights": [
+    "Tenancy at will converts to ownership under Limitation Acts after 12 years, regardless of permissive origin.",
+    "Statute of Limitation runs from one year after tenancy commencement or termination, whichever is earlier.",
+    "Adverse possession not required under 3 & 4 William IV c.27; permissive possession suffices after statutory period.",
+    "Continuous, uninterrupted possession since 1913 meant title vested by 1926.",
+    "Executor could not reclaim property after statutory title extinguished landlord's interest.",
+    "Cohabitation does not negate exclusive possession or tenancy status.",
+    "Documentary title not conclusive where statutory possession has matured.",
+    "Court relied on Darby and Bosanquet’s Statutes of Limitations to interpret statutory intent."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on primary judicial text; some jurisdictional ambiguity (Gambia vs. Ghana citation) resolved by recognizing West African Court of Appeal's regional role; all legal principles drawn directly from judgments.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/FATTOU N'JIE ..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:48:36.386Z",
+    "plainTextLength": 11162
+  },
+  "trialDate": "1931-03-28"
+}

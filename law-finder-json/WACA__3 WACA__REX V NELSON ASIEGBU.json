@@ -1,0 +1,71 @@
+{
+  "caseTitle": "REX V NELSON ASIEGBU",
+  "summary": "This 1937 West African Court of Appeal decision involved an appeal against conviction on two counts of fraudulent false accounting. The court acknowledged that the counts were duplicitous but found no miscarriage of justice due to the appellant's admission of the acts and representation by counsel at trial. Relying on Section 10(1) of Ordinance No. 47 of 1933 and following the precedent in Rex v. Thompson, the court upheld the convictions and dismissed the appeal, determining that the procedural defect did not prejudice the appellant.",
+  "legalKeywords": [
+    "fraudulent false accounting",
+    "duplicity",
+    "miscarriage of justice",
+    "Section 10(1)",
+    "West African Court of Appeal Ordinance",
+    "proviso",
+    "appellate review",
+    "conviction upheld",
+    "procedural defect",
+    "admission of guilt",
+    "Rex v. Thompson",
+    "Crown representation",
+    "trial prejudice",
+    "appellate discretion",
+    "English criminal precedent"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Legal Drafting",
+    "Judicial Precedent"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Rex v. Thompson, 9 Criminal Appeal Reports 252",
+    "West African Court of Appeal Ordinance No. 47 of 1933, Section 10(1)"
+  ],
+  "rationaleHighlights": [
+    "The counts were duplicitous but did not cause a miscarriage of justice.",
+    "The appellant admitted the acts both at trial and on appeal.",
+    "Counsel was present at trial, so any objection should have been raised below.",
+    "Precedent from Rex v. Thompson supported use of the proviso.",
+    "Section 10(1) allowed the court to uphold the conviction despite defect.",
+    "No prejudice was demonstrated by the appellant.",
+    "The case was deemed factually aligned with English appellate practice.",
+    "The Crown's request to apply the proviso was accepted."
+  ],
+  "confidenceNotes": "High confidence; source is a formal court judgment with clear attribution of legal reasoning, judges, and citation to precedent. All key elements are explicitly stated.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/REX V NELSON ASIEGBU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:14:48.917Z",
+    "plainTextLength": 2681
+  },
+  "trialDate": "1937-01-06"
+}

@@ -1,0 +1,76 @@
+{
+  "caseTitle": "THE REPUBLIC v THE HIGH COURT, ACCRA EX-PARTE PAA KWESI",
+  "summary": "The Supreme Court of Ghana was called upon to review an application for certiorari to quash an order of the High Court, Accra, which had issued a bench warrant for the arrest of the applicant, Paa Kwesi Yalley, in contempt proceedings. The core issue was whether the High Court had jurisdiction to hear the matter after it was transferred from another judge without the formal authorisation of the Chief Justice under Section 104 of the Courts Act, 1993 (Act 459), as amended. The applicant argued that the transfer was invalid and that the resulting orders were null and void. The Supreme Court emphasized the importance of statutory compliance, particularly Section 104, which reserves the power to transfer cases exclusively to the Chief Justice. It found that the registrar and parties had engaged in forum shopping, undermining judicial integrity. The Court held that no judge or registrar can transfer a case without the Chief Justice's formal order, and any proceedings conducted without such authority lack jurisdiction and are therefore void.",
+  "legalKeywords": [
+    "jurisdiction",
+    "certiorari",
+    "contempt of court",
+    "transfer of cases",
+    "Chief Justice",
+    "judicial misconduct",
+    "forum shopping",
+    "null and void orders",
+    "Court Act 1993 (Act 459)",
+    "Courts (Amendment) Act 2002 (Act 620)",
+    "supervisory jurisdiction",
+    "bench warrant",
+    "procedural irregularity",
+    "case management",
+    "concurrent jurisdiction"
+  ],
+  "topics": [
+    "Judicial Review",
+    "Constitutional Law",
+    "Procedural Law",
+    "Contempt of Court",
+    "Jurisdiction"
+  ],
+  "verdict": "The Supreme Court granted the application for certiorari, quashing the orders of the High Court made on 22nd January 2007 for lack of jurisdiction due to improper transfer of the case.",
+  "winningSide": "The Republic (on behalf of the applicant, Paa Kwesi Yalley)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Mrs. Wood, C.J.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Kpegah, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Mrs. Adinyira, J.S.C.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "judicial review",
+  "citations": [
+    "THE REPUBLIC v THE HIGH COURT, ACCRA EX-PARTE PAA KWESI YALLEY (2008)"
+  ],
+  "rationaleHighlights": [
+    "The High Court acted without jurisdiction by hearing a case transferred without the Chief Justice's seal and authorisation.",
+    "A registrar cannot unilaterally transfer a case from one judge to another without an order from the Chief Justice under Section 104 of Act 459.",
+    "Orders made without proper jurisdiction are null and void.",
+    "Forum shopping by parties and court officials undermines judicial integrity.",
+    "Section 104 of Act 459 must be strictly followed to ensure transparency and accountability in case transfers."
+  ],
+  "confidenceNotes": "The document appears to be truncated, but key details including parties, court, judges, and legal issue are present and consistent with Supreme Court records.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2008/THE REPUBLIC v THE HIGH COURT, ACCRA    EX-PARTE  PAA KWESI .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:49:01.677Z",
+    "plainTextLength": 34101
+  },
+  "trialDate": "2008-05-21"
+}

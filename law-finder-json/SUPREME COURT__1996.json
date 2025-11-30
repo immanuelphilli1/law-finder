@@ -1,0 +1,39 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The provided document does not contain a legal decision or judicial ruling. It appears to be a homepage or index page for an online legal resource called 'Ghana Law Finder,' which offers access to case law and subject matter indices for legal research purposes. There is no case content, judgment, or court analysis present in the text provided.",
+  "legalKeywords": [
+    "Ghana Law Finder",
+    "legal research",
+    "case index",
+    "subject matter index",
+    "online legal resource",
+    "legal library",
+    "judicial decisions",
+    "law review",
+    "case law database",
+    "legal information system"
+  ],
+  "topics": [
+    "Legal Research",
+    "Case Law Access",
+    "Online Legal Database"
+  ],
+  "verdict": "not applicable",
+  "winningSide": "not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "not applicable",
+    "country": "Ghana"
+  },
+  "caseType": "not applicable",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "Low confidence in extracting case-specific insights due to absence of actual case content; source appears to be a website index rather than a judicial decision.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/1996.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T09:56:43.594Z",
+    "plainTextLength": 295
+  }
+}

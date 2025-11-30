@@ -1,0 +1,82 @@
+{
+  "caseTitle": "MISCELLANY-AT-LAW FINDING AND EVALUATION OF FACTS IN CIVIL A",
+  "summary": "This Ghanaian legal commentary emphasizes the critical role of trial judges in making explicit and proper findings of primary facts in civil actions, which form the foundation for correct application of law. The trial judge, acting as both fact-finder and legal arbiter, must resolve conflicting evidence, assess witness credibility using statutory criteria (including demeanour, consistency, bias, and opportunity to observe), and avoid reliance on subjective impressions alone. The article cites key cases such as Quaye v Mariamu and Reindorf v Amadu to illustrate that appellate courts will not lightly overturn factual findings, particularly when based on observed witness demeanour, but may intervene where findings lack evidentiary support or overlook material contradictions. It stresses that findings must be sufficiently detailed to resolve all material issues, especially in land and traditional evidence cases, and that evaluation of established facts should be a logical, objective process. The commentary warns against overreliance on demeanour, citing examples of credible but false testimony, and underscores the importance of documentary and physical evidence in correcting erroneous factual conclusions.",
+  "legalKeywords": [
+    "finding of facts",
+    "evaluation of evidence",
+    "credibility of witness",
+    "primary facts",
+    "inference",
+    "demeanour",
+    "burden of proof",
+    "trial judge",
+    "appellate court",
+    "traditional evidence",
+    "possession of land",
+    "documentary evidence",
+    "cross-examination",
+    "subjective assessment",
+    "objective evaluation"
+  ],
+  "topics": [
+    "Evidence Law",
+    "Judicial Reasoning",
+    "Appellate Review",
+    "Witness Credibility",
+    "Fact-Finding in Civil Cases"
+  ],
+  "verdict": "The article does not report a single verdict but concludes that judgments failing to make proper findings of fact are unsatisfactory and subject to reversal or retrial on appeal.",
+  "winningSide": "N/A",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Van Lare JSC",
+      "role": "appellate judge"
+    },
+    {
+      "name": "Korsah CJ",
+      "role": "chief justice"
+    },
+    {
+      "name": "Sarkodee Addo JSC",
+      "role": "supreme court judge"
+    },
+    {
+      "name": "Azu Crabbe JSC",
+      "role": "supreme court judge (dissenting)"
+    },
+    {
+      "name": "da Rocha B J",
+      "role": "author of commentary"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Quaye v Mariamu [1961] GLR 93",
+    "Addison v A/S Norway Cement Export Ltd [1973] 2 GLR 151",
+    "Adjin & Co v Kumaning [1982-83] GLRD 13",
+    "Reindorf v Amadu [1962] 1 GLR 508",
+    "Appiah v Takyi [1982-83] GLRD 1"
+  ],
+  "rationaleHighlights": [
+    "A trial judge must make clear findings on primary facts before applying the law.",
+    "Findings must be based on evidence properly before the court.",
+    "Appellate courts defer to trial court's factual findings, especially where witness demeanour is involved.",
+    "Credibility assessment must go beyond demeanour to include consistency, bias, and corroboration.",
+    "Documentary or physical evidence can outweigh oral testimony in evaluation.",
+    "Failure to make specific findings on material facts renders a judgment unsatisfactory.",
+    "Evaluation of facts is a logical, objective process distinct from fact-finding.",
+    "Professional witnesses may appear credible but lack reliability."
+  ],
+  "confidenceNotes": "The document is a legal commentary rather than a full judgment, so some fields are inferred from context. Jurisdiction and judges are generalized based on the Ghanaian legal system and cited cases.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/87 - 88/MISCELLANY-AT-LAW FINDING AND EVALUATION OF FACTS IN CIVIL A.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:01:34.554Z",
+    "plainTextLength": 19347
+  }
+}

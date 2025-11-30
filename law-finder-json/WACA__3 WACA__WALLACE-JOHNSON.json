@@ -1,0 +1,63 @@
+{
+  "caseTitle": "WALLACE-JOHNSON",
+  "summary": "The appellant, I.T.A. Wallace-Johnson, appealed his conviction for sedition from the Supreme Court. The West Africa Court of Appeal upheld the conviction, ruling that while the Secretary for Native Affairs' opinion on the article's intent was wrongly admitted, his expert opinion on public reaction was admissible. The court found the erroneous evidence to be of minor importance and not affecting the trial's outcome. The seditious nature of the words was deemed clear, and all elements of the offence were proven. The appeal was dismissed.",
+  "legalKeywords": [
+    "sedition",
+    "admissibility of evidence",
+    "expert witness",
+    "opinion evidence",
+    "trial irregularity",
+    "government criticism",
+    "Gold Coast",
+    "publication",
+    "judicial review",
+    "appellate decision"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence",
+    "Freedom of Expression",
+    "Colonial Law",
+    "Appellate Procedure"
+  ],
+  "verdict": "Conviction upheld",
+  "winningSide": "Rex (State)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Justice"
+    },
+    {
+      "name": "Yates",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "WACA/3 WACA/WALLACE-JOHNSON.htm"
+  ],
+  "rationaleHighlights": [
+    "Expert opinion on public reaction to publications is admissible.",
+    "Opinion on the intent or object of an article is inadmissible.",
+    "Wrongful admission of minor evidence does not warrant quashing conviction.",
+    "Seditious words were clearly established.",
+    "Chief Justice properly directed assessors on the issue of sedition."
+  ],
+  "confidenceNotes": "High confidence; source is a formal appellate judgment with clear judicial reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/WALLACE-JOHNSON.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:09:22.154Z",
+    "plainTextLength": 3527
+  },
+  "trialDate": "1936-12-01"
+}

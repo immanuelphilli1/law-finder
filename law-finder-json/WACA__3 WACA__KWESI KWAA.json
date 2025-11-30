@@ -1,0 +1,70 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This appeal before the West Africa Court of Appeal on 24 April 1937 arose from a civil action in the native Tribunal of Ayeldu, where Kwesi Kwaa sought to set aside a prior judgment awarding him ancestral land to Kofi Kwakwa on grounds of lack of jurisdiction, irregularity, mistake, and fraud. The native tribunal dismissed the claim, but the Provincial Commissioner's Court allowed the appeal, declaring the original judgment a nullity due to jurisdictional overreach. The West Africa Court of Appeal reversed this decision, holding that a judgment regularly obtained cannot be impeached in a subsequent action solely because the subject land was later found outside the tribunal's jurisdiction. It emphasized that only superior courts can quash judgments via certiorari for excess of jurisdiction and that lower tribunals lack inherent power to set aside their own valid judgments. The appeal was allowed, the Provincial Commissioner’s judgment was set aside, and the original judgment of the Ayeldu Tribunal was restored.",
+  "legalKeywords": [
+    "jurisdiction",
+    "fraud",
+    "irregularity",
+    "native tribunal",
+    "judgment impeachment",
+    "certiorari",
+    "provincial commissioner",
+    "land dispute",
+    "ancestral land",
+    "appeal",
+    "nullity",
+    "excess of jurisdiction",
+    "Chancery suit",
+    "rehearing",
+    "mandamus"
+  ],
+  "topics": [
+    "civil procedure",
+    "jurisdiction",
+    "appellate review",
+    "land law",
+    "judicial authority"
+  ],
+  "verdict": "Appeal allowed; judgment of the Provincial Commissioner set aside and judgment of the native Tribunal of Ayeldu restored.",
+  "winningSide": "Defendant-Respondent-Appellant (Kofi Kwakwa)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "92 English Reports, 817",
+    "18 Halsbury, section 543",
+    "9 Halsbury, paragraph 8"
+  ],
+  "rationaleHighlights": [
+    "A judgment regularly obtained cannot be set aside in a subsequent action based on lack of jurisdiction discovered later.",
+    "No authority supports impeaching a judgment on jurisdictional grounds in a separate action after final determination.",
+    "Only irregularly obtained judgments may be set aside by a lower tribunal.",
+    "Superior courts may quash judgments via certiorari if jurisdiction was exceeded.",
+    "The action was misconceived as the Ayeldu Tribunal had no power to revisit its own final judgment."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text with clear citation to legal authorities and court hierarchy.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/KWESI KWAA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:19:45.538Z",
+    "plainTextLength": 5392
+  },
+  "trialDate": "1937-04-24"
+}

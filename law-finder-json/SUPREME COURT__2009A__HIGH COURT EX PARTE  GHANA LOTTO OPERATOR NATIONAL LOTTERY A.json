@@ -1,0 +1,80 @@
+{
+  "caseTitle": "HIGH COURT EX PARTE GHANA LOTTO OPERATOR NATIONAL LOTTERY A",
+  "summary": "This Supreme Court of Ghana ruling addresses the validity of a case transfer conducted without a formal written order from the Chief Justice under section 104 of the Courts Act, 1993 (Act 459). The applicant, Ghana Lotto Operators Association, sought to quash proceedings and a ruling by Justice Ofori-Atta in Fast Track 2 High Court, arguing he lacked jurisdiction because no official transfer order existed from Justice Asante, who had previously handled the matter. The court examined the scope of the Chief Justice’s transfer powers, referencing prior cases like Osei v. The Republic (1968) and Akainyah v. The Republic. While one line of authority held that a judge is only 'seised' upon commencement of hearing, the court rejected this, affirming that a judge becomes seised once a case is listed. However, it emphasized that any transfer by telephonic or electronic means must be immediately confirmed in writing per s.104(3), otherwise it is void. As there was no evidence of such authorization or exceptional urgency, the proceedings before Ofori-Atta J were deemed without jurisdiction. The application for certiorari was granted, quashing the impugned rulings due to lack of proper transfer under the law.",
+  "legalKeywords": [
+    "transfer of cases",
+    "Chief Justice powers",
+    "jurisdiction",
+    "seised of a case",
+    "pending proceedings",
+    "section 104 Courts Act 1993",
+    "certiorari",
+    "abuse of process",
+    "constitutional interpretation",
+    "judicial authority"
+  ],
+  "topics": [
+    "Judicial Transfer of Cases",
+    "Jurisdictional Authority",
+    "Constitutional Law",
+    "Administrative Law",
+    "Procedural Fairness"
+  ],
+  "verdict": "The application for certiorari was granted; the proceedings and ruling by Justice Ofori-Atta were quashed for lack of jurisdiction due to absence of a valid transfer order under section 104 of the Courts Act, 1993.",
+  "winningSide": "Applicant (Ghana Lotto Operators Association)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Atuguba, JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Date-Bah, JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa, JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Adinyira (Mrs), JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Owusu, JSC",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional and Administrative Law",
+  "citations": [
+    "Osei v. The Republic (1968) GLR 704 C.A.",
+    "Akainyah v. The Republic [1968] G.L.R. 548",
+    "Asare v. The Republic [1968] G.L.R. 37",
+    "Durston v. O’Keefe (1974) I WLR 775",
+    "Darke IX v. Darke IV (1984-86) IGLR 481 S.C.",
+    "Republic v. Fast Track High Court Accra, Ex parte Daniel (2003-2004) ISC GLR 364",
+    "Price v. Humpries (1958) 2 Q.B. 353",
+    "Ababio v. Tutu (1962) IGLR 489",
+    "Republic v. Ada Traditional Council Ex parte Nene Okunno II (1971) IGLR 412",
+    "Shardey v. Adamptey and Shardey v. Martey (1972) 2 GLR 380 C.A."
+  ],
+  "rationaleHighlights": [
+    "The Chief Justice has broad administrative power under s.104(1)-(3) of the Courts Act, 1993 (Act 459) to transfer cases at any stage without party application.",
+    "A judge is considered seised of a case when it is listed before them, not only after hearing has commenced.",
+    "Oral transfers via electronic communication are valid only if immediately confirmed in writing per s.104(3).",
+    "Absence of formal transfer order rendered Ofori-Atta J's ruling jurisdictionally defective.",
+    "Principle from Price v. Humpries applies: procedural defects must be objected to promptly to be actionable."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct quotes from the judgment and established legal principles in Ghanaian jurisprudence.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/HIGH COURT EX PARTE  GHANA LOTTO OPERATOR NATIONAL LOTTERY A.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:07:46.218Z",
+    "plainTextLength": 30369
+  },
+  "trialDate": "2009-02-11"
+}

@@ -1,0 +1,74 @@
+{
+  "caseTitle": "DR. OWUSU AFRIYIE AKOTO",
+  "summary": "This is a 2011 Supreme Court of Ghana decision in a matrimonial dispute between Dr. Owusu Afriyie Akoto (Appellant) and Adwoa Abrefi Akoto (Respondent), who married in 1974 and converted to a monogamous marriage in England in 1976. After the marriage broke down in 1997, both parties filed divorce petitions. The Respondent sought dissolution of marriage, declarations of joint beneficial ownership of properties in Ghana and the UK, custody of the minor child, maintenance, and a lump sum settlement. She succeeded in both the High Court and Court of Appeal. The Appellant appealed to the Supreme Court, challenging (1) the jurisdiction of Ghanaian courts over immovable properties in the UK, (2) the award of company-owned properties to the Respondent despite her not being a shareholder, and (3) the alleged excessiveness of the financial settlement. The Supreme Court upheld the lower courts' decisions, affirming jurisdiction under section 33 of the Matrimonial Causes Act, 1971 (Act 367) based on the presence of assets in Ghana and equitable principles. It also recognized the court's power to grant beneficial interests in company-held properties in matrimonial disputes and found the financial award just and not excessive.",
+  "legalKeywords": [
+    "jurisdiction",
+    "matrimonial property",
+    "lex situs",
+    "equity",
+    "dissolution of marriage",
+    "financial provision",
+    "separate legal entity",
+    "limited liability company",
+    "cross-petition",
+    "custody",
+    "maintenance",
+    "lump sum settlement",
+    "conflict of laws",
+    "choice of law",
+    "domestic law lex fori"
+  ],
+  "topics": [
+    "Family Law",
+    "Property Law",
+    "Conflict of Laws",
+    "Equity",
+    "Corporate Law"
+  ],
+  "verdict": "The appeal was dismissed. The decisions of the High Court and Court of Appeal were upheld.",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Akuffo (Ms), J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin-Yeboah, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebe, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs), J.S.C.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Matrimonial Causes Act, 1971 (Act 367), sections 33 and 35"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court upheld the jurisdiction of Ghanaian courts to determine financial provisions in divorce cases involving foreign immovable property under equity and section 33 of Act 367.",
+    "The court affirmed that a spouse may be granted beneficial interest in properties held by a company even if not a shareholder, based on equitable principles.",
+    "The financial settlement in foreign currency was upheld as not excessive given the circumstances of the case."
+  ],
+  "confidenceNotes": "The document is truncated but contains sufficient information on the judgment, parties, court composition, and legal issues. Key details such as verdict and reasoning are preserved.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/DR. OWUSU AFRIYIE AKOTO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:06:41.921Z",
+    "plainTextLength": 29200
+  },
+  "trialDate": "2011-02-23"
+}

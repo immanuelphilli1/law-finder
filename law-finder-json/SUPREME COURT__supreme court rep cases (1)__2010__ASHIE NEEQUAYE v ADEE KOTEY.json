@@ -1,0 +1,79 @@
+{
+  "caseTitle": "ASHIE NEEQUAYE v ADEE KOTEY",
+  "summary": "The Supreme Court of Ghana upheld the lower courts' rulings in a property dispute between the family of Moses Neequaye and Clifford Cudjoe. The plaintiff, having obtained Letters of Administration for Moses Neequaye's estate, sought declarations that Plot 218 in East Christianborg was originally allocated to Moses and that Clifford Cudjoe held it in trust. The defendant argued res judicata, lack of capacity, and statute-barred claims. The Court held that the prior dismissal for lack of capacity did not bar relitigation once capacity was acquired, that the defendant lacked locus standi to challenge the plaintiff's representative capacity concerning Dina Neequaye's estate, and that the claim was not statute-barred as no adverse claim arose during Moses Neequaye's lifetime. The appeal was dismissed, affirming the plaintiff's right to pursue the claim.",
+  "legalKeywords": [
+    "res judicata",
+    "capacity to sue",
+    "letters of administration",
+    "customary law",
+    "trust",
+    "statute of limitations",
+    "property rights",
+    "family property",
+    "representative capacity",
+    "locus standi",
+    "declaratory relief",
+    "head of family",
+    "estate administration",
+    "concurrent findings",
+    "appellate review"
+  ],
+  "topics": [
+    "Property Law",
+    "Succession",
+    "Civil Procedure",
+    "Trusts",
+    "Customary Law"
+  ],
+  "verdict": "Appeal dismissed; lower court decisions upheld.",
+  "winningSide": "Plaintiff/Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "BAFFOE-BONNIE",
+      "role": "authoring judge"
+    },
+    {
+      "name": "AKUFFO (MS)",
+      "role": "panel member"
+    },
+    {
+      "name": "ADINYIRA (MRS)",
+      "role": "panel member"
+    },
+    {
+      "name": "OWUSU (MS)",
+      "role": "panel member"
+    },
+    {
+      "name": "ARYEETEY",
+      "role": "panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Achoro and Another v Akanfela and Another [1996-97]SCGLR 209",
+    "Nyame and Tarzan Transport [1973] IGLR 8 CA 9",
+    "In re Sekyedumase Stol: Nyame v Kese alias Konto [1998-99]SCGLR 476",
+    "Dahabieh v SA Turqui & Bros [2001-2002]SCGLR 498",
+    "Kwan vs Nyieni and another 1959 GLR 59",
+    "Nsiah v. UTC (1959) GLR 79"
+  ],
+  "rationaleHighlights": [
+    "Res judicata does not apply because the prior judgment was on lack of capacity, not on the merits.",
+    "Plaintiff acquired capacity via Letters of Administration to relitigate the claim.",
+    "Defendant lacks locus standi to challenge plaintiff's capacity regarding Dina Neequaye's estate.",
+    "Limitation period does not begin to run merely upon death; requires adverse claim or inconsistent act."
+  ],
+  "confidenceNotes": "High confidence in extracted details; all information is directly supported by the judgment text. Case involves clear legal reasoning on res judicata, capacity, and limitation, with explicit judicial citations.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2010/ASHIE NEEQUAYE v ADEE KOTEY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:43:26.223Z",
+    "plainTextLength": 17150
+  }
+}

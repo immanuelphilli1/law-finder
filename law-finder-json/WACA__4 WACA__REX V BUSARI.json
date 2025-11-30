@@ -1,0 +1,74 @@
+{
+  "caseTitle": "REX V BUSARI",
+  "summary": "This 1938 West African Court of Appeal decision arose from a case stated by Graham Paul, J. of the High Court in Ibadan, concerning the admissibility of a medical report in a summary trial for manslaughter. The accused, Busari, was charged with the manslaughter of Ashawande. The trial judge refused to admit a post-mortem report under Section 76A(1) of the Criminal Procedure Ordinance, interpreting the phrase 'or in any summary trial' as excluding summary trials before the High Court. He expressed concern that admitting such reports without the possibility of cross-examination would create an anomalous evidentiary regime. The Crown appealed the evidentiary ruling. The West African Court of Appeal held that the phrase 'or in any summary trial' in Section 76A(1) includes summary trials before the High Court. However, the Court clarified that 'shall be receivable' means the report is admissible but not mandatory; the trial judge retains discretion to exclude it if better evidence is available or for other valid reasons. The appeal was allowed in terms of the legal principle, though the accused had already been discharged.",
+  "legalKeywords": [
+    "manslaughter",
+    "summary trial",
+    "medical report",
+    "evidence admissibility",
+    "cross-examination",
+    "Criminal Procedure Ordinance",
+    "prima facie evidence",
+    "statutory interpretation",
+    "judicial discretion",
+    "post-mortem examination",
+    "coroner's inquest",
+    "committal order",
+    "West African Court of Appeal",
+    "legislative intent",
+    "evidentiary rules"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence Law",
+    "Appellate Procedure",
+    "Statutory Interpretation"
+  ],
+  "verdict": "Appeal allowed on the legal question",
+  "winningSide": "Crown (Appellant)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Trial Judge (Case Stater)"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana (then Gold Coast, British West Africa)"
+  },
+  "caseType": "Criminal Appeal (Case Stated)",
+  "citations": [
+    "Section 325 Criminal Code",
+    "Section 76A Criminal Procedure Ordinance",
+    "Section 76B Criminal Procedure Ordinance",
+    "Section 30 Interpretation Ordinance"
+  ],
+  "rationaleHighlights": [
+    "The phrase 'or in any summary trial' in Section 76A(1) must be given its ordinary meaning, which includes trials before the High Court.",
+    "The Court rejected a restrictive interpretation that would exclude High Court summary trials.",
+    "'Shall be receivable' was interpreted as 'may be received,' preserving judicial discretion.",
+    "The trial judge's concern about unfairness was addressed by affirming the judge's power to reject the report if better evidence is available.",
+    "The decision emphasized legislative intent and the importance of consistent statutory interpretation."
+  ],
+  "confidenceNotes": "High confidence. The source is a formal court judgment with clear procedural history, legal reasoning, and definitive ruling. All extracted information is directly supported by the text.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX V BUSARI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:57:46.954Z",
+    "plainTextLength": 9095
+  },
+  "trialDate": "1938-01-12"
+}

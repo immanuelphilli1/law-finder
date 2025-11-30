@@ -1,0 +1,64 @@
+{
+  "caseTitle": "OMOSANYA A. WYNDHAM",
+  "summary": "In this appeal before the West African Court of Appeal, the lower court had invalidated a mortgage sale on the grounds that the registered money-lender failed to describe himself as such in the mortgage deed, allegedly breaching section 4(1)(b) and (c) of the Money-lenders Ordinance, Cap. 129 of 1924. The appellate court reversed the decision, holding that merely omitting the word 'money-lender' did not amount to using a name or description other than the registered one. The court emphasized that the mortgagee used his correct name and address, thus complying with the law. Citing R. v. Tugwell, it ruled that a total omission of description is not an inaccurate description. The court found no basis for invalidating the transaction, as no deception was involved and solicitors are expected to exercise due diligence regardless. The appeal was allowed, the sale was restored, and costs were awarded to the appellant.",
+  "legalKeywords": [
+    "money-lenders ordinance",
+    "mortgage deed",
+    "illegal transaction",
+    "statutory compliance",
+    "description requirement",
+    "breach of statute",
+    "validity of sale",
+    "registered money lender",
+    "omission of title",
+    "legal description"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Statutory Interpretation",
+    "Mortgage Law",
+    "Financial Regulation"
+  ],
+  "verdict": "Appeal allowed; sale under mortgage declared valid.",
+  "winningSide": "Defendant-Appellant (Percival H. Bka Vo Jones)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Berkeley, J.",
+      "role": "deciding judge"
+    },
+    {
+      "name": "Kingdon, C.J. Nigeria",
+      "role": "concurring judge"
+    },
+    {
+      "name": "Macquarrie, Acting C.J. Sierra Leone",
+      "role": "concurring judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Sierra Leone"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Money-lenders Ordinance, Cap. 129 of 1924, s 4",
+    "R. v. Tugwell, L.R. 3 Q.B. 704"
+  ],
+  "rationaleHighlights": [
+    "Omission of the word 'money-lender' in a mortgage deed does not constitute an incorrect description, but a total omission, which does not breach s 4(1) of the Money-lenders Ordinance.",
+    "No deception occurred; parties were aware of the mortgagee's status.",
+    "Statutory penalty under s 4(2) would not apply for mere omission of occupational description.",
+    "Reference to R. v. Tugwell supports that failure to provide description is not inaccurate description.",
+    "Sale under mortgage is valid where registered money-lender uses correct name and address."
+  ],
+  "confidenceNotes": "High confidence; decision is clearly articulated with direct statutory interpretation and judicial reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/OMOSANYA A. WYNDHAM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:40:03.121Z",
+    "plainTextLength": 5735
+  },
+  "trialDate": "0th October 1932"
+}

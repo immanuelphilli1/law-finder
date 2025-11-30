@@ -1,0 +1,55 @@
+{
+  "caseTitle": "DZA VERSUS KOMLA.",
+  "summary": "The Supreme Court of the Gold Coast allowed an appeal from a decision of the Asogli Native Court in a land dispute, ordering a trial de novo by a different panel. The court emphasized that Native Courts have a duty to critically assess oral evidence given on oath, including witness demeanour, rather than relying predominantly on a physical view of the land. The judgment criticized the common practice of basing decisions on site inspections without proper evaluation of testimonial credibility. The court held that judgments must explicitly state which evidence is accepted or rejected and why, and that insufficient analysis of oral testimony undermines the integrity of the decision-making process. Costs in the appellate court were disallowed, and costs from the first trial were to abide the result of the retrial.",
+  "legalKeywords": [
+    "Native Courts",
+    "oral evidence",
+    "witness credibility",
+    "assessment of evidence",
+    "trial de novo",
+    "land dispute",
+    "boundary marks",
+    "court view of land",
+    "judgment reasoning",
+    "demeanour of witnesses"
+  ],
+  "topics": [
+    "Evidence Law",
+    "Judicial Procedure",
+    "Land Law"
+  ],
+  "verdict": "Appeal allowed; judgment set aside; order for new trial (trial de novo).",
+  "winningSide": "Appellant (Plaintiff in the original action)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lingley J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Eastern Judicial Division, Land Court, Accra",
+    "country": "Ghana (then Gold Coast)"
+  },
+  "caseType": "Appeal from Native Court decision in a land dispute",
+  "citations": [
+    "DZA v. Komla, WALR 1"
+  ],
+  "rationaleHighlights": [
+    "Native Courts must assess the value of oral evidence rather than relying solely on visual inspection of land.",
+    "Judgment must specify accepted and rejected evidence with reasons.",
+    "Viewing the land is helpful but should not override witness demeanour and testimony.",
+    "Capacity to point out boundary marks does not alone determine truthfulness.",
+    "Failure to assess evidence properly warrants a new trial.",
+    "If credibility cannot be determined, plaintiff fails to prove case.",
+    "Panel should form independent conclusions on witness reliability.",
+    "Ordering trial de novo by a different panel ensures fair reassessment."
+  ],
+  "confidenceNotes": "High confidence; information is directly extracted from the reported judgment with clear judicial reasoning and procedural outcome.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/DZA v. KOMLA..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:09:23.559Z",
+    "plainTextLength": 3747
+  }
+}

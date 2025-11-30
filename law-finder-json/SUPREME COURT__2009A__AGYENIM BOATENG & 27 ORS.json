@@ -1,0 +1,85 @@
+{
+  "caseTitle": "AGYENIM BOATENG & 27 ORS",
+  "summary": "In this 2009 Supreme Court of Ghana ruling, 28 members of the Kejetia Traders Association (Mighty 18), led by Agyenim-Boateng, applied for an order of contempt against S.K. Boateng (Chairman) and Evelyn Akuffo Oduro (Manageress, National Investment Bank, Kumasi) for allegedly violating a stay of execution by withdrawing GH\u0002392,062.90 in compensation funds. The funds were held in trust following a property acquisition dispute. The applicants claimed the 1st Respondent withdrew the money after being served with a motion for stay of execution. However, the court found that the motion was filed on 28th July 2008, while the bulk of withdrawals occurred between 6th and 20th June 2008, prior to any stay application. The 1st Respondent's earlier affidavit stating he withdrew funds after service was corrected as a genuine mistake, supported by a bank statement (Exhibit KA7). The court held that contempt requires wilful disobedience of a clear court order, proven beyond reasonable doubt, which the applicants failed to establish. Therefore, the application for contempt was dismissed.",
+  "legalKeywords": [
+    "contempt of court",
+    "stay of execution",
+    "wilful disobedience",
+    "compensation funds",
+    "National Investment Bank",
+    "judicial order compliance",
+    "civil contempt",
+    "procedural incompetence",
+    "specific performance",
+    "execution of judgment",
+    "bank withdrawal",
+    "quasi-criminal standard",
+    "burden of proof",
+    "interim injunction",
+    "motion to set aside",
+    "order of court",
+    "judicial restraint",
+    "appeal process",
+    "court process service",
+    "prima facie case"
+  ],
+  "topics": [
+    "Contempt of Court",
+    "Stay of Execution",
+    "Civil Procedure",
+    "Judicial Orders",
+    "Compensation Funds"
+  ],
+  "verdict": "The application for contempt was dismissed due to lack of wilful disobedience and absence of a court order at the time of withdrawal.",
+  "winningSide": "S.K. Boateng and Evelyn Akuffo Oduro (Respondents)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dotse",
+      "role": "Presiding Judge delivering the ruling"
+    },
+    {
+      "name": "Wood (Mrs)",
+      "role": "Chief Justice (Presiding)"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Republic v High Court Accra; Ex Parte Laryea Mensah, [1998-99] SCGLR 360",
+    "Agbleta v The Republic [1977] 1 GLR 445",
+    "Kangah v Kyere [1979] GLR 458",
+    "Re Effiduase Stool Affairs (No 2) Republic vrs Numapau, President of the National House of Chiefs and others, Ex-parte Ameyaw II No. 2 [1998-99] SCGLR 639",
+    "Republic vrs. SITO I Ex-parte Fordjour [2001\u00132002] SCGLR 322"
+  ],
+  "rationaleHighlights": [
+    "The applicants failed to prove beyond reasonable doubt that the respondents committed wilful contempt.",
+    "The 1st Respondent's affidavit error was deemed inadvertent and corrected with documentary evidence.",
+    "All major withdrawals occurred before the stay of execution was filed, thus no court order was violated.",
+    "Contempt requires a clear, unambiguous court order and knowledge of its terms by the respondent.",
+    "The burden of proof in contempt cases is criminal standard: beyond reasonable doubt."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct quotations from the judgment and consistent procedural timeline.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/AGYENIM BOATENG & 27 ORS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:11:42.507Z",
+    "plainTextLength": 17611
+  },
+  "trialDate": "2009-03-04"
+}

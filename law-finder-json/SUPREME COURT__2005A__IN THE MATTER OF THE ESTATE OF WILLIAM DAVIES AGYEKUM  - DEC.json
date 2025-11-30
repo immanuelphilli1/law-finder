@@ -1,0 +1,74 @@
+{
+  "caseTitle": "IN THE MATTER OF THE ESTATE OF WILLIAM DAVIES AGYEKUM - DECEASED 1",
+  "summary": "The Supreme Court of Ghana dismissed the appeal challenging the validity of a will attributed to William Davies Agyekum. The appellants alleged forgery and contested the Court of Appeal's affirmation of the High Court’s decision on due execution. The core issue was whether the trial judge erred in relying on witness testimony and a handwriting expert's report without adequately justifying the preference of evidence. The Supreme Court held that the trial judge made a crucial finding of fact—that the will was duly executed in the presence of attesting witnesses on 7th May 1985—based on credible oral testimony. This finding rendered the conflicting expert opinions on handwriting secondary. The court emphasized that fact-finders are not bound to rely on handwriting experts and may independently assess the genuineness of signatures. The appellants' misidentification of a witness was noted as an unfair tactic. The Supreme Court upheld the lower courts' decisions, affirming the will's authenticity and due execution under Section 2(3) of the Wills Act, 1971 (Act 360).",
+  "legalKeywords": [
+    "will execution",
+    "due execution",
+    "handwriting expert",
+    "forgery allegation",
+    "balance of probabilities",
+    "attesting witnesses",
+    "Section 2(3) Wills Act",
+    "evidence evaluation",
+    "credibility of witnesses",
+    "Supreme Court precedent",
+    "testator's signature",
+    "opinion evidence",
+    "fact-finder discretion",
+    "civil appeal",
+    "burden of proof"
+  ],
+  "topics": [
+    "Probate Law",
+    "Wills and Estates",
+    "Evidence Law"
+  ],
+  "verdict": "The appeal was dismissed. The decision of the Court of Appeal upholding the validity of the will was affirmed. The Supreme Court found no legal error in the lower courts' conclusions regarding the due execution and authenticity of the will.",
+  "winningSide": "Defendants/Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "W. A. Atuguba",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Dr. S. Twum"
+    },
+    {
+      "name": "Prof. M. Ocran"
+    },
+    {
+      "name": "F. M. Lartey"
+    },
+    {
+      "name": "R. T. Aninakwa"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal (Probate)",
+  "citations": [
+    "Wills Act 1971 (Act 360), Section 2(3)",
+    "Evidence Decree, 1975 (NRCD 323)"
+  ],
+  "rationaleHighlights": [
+    "The trial judge made a 'crucial finding' on due execution based on attesting witnesses' credibility, not expert opinion.",
+    "Fact-finders may independently assess signature authenticity without reliance on handwriting experts.",
+    "Conflicting expert opinions do not override factual findings supported by oral testimony.",
+    "The appellants operated under a misapprehension that forgery disputes require decisive expert evidence.",
+    "The trial judge properly exercised discretion in evaluating evidence on the balance of probabilities.",
+    "Attempts to discredit a witness based on passport details were deemed unethical and irrelevant.",
+    "The Court of Appeal correctly upheld the High Court’s judgment as legally sound.",
+    "The will was found to be duly executed in compliance with statutory requirements."
+  ],
+  "confidenceNotes": null,
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2005A/IN THE MATTER OF THE ESTATE OF WILLIAM DAVIES AGYEKUM  - DEC.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:30:00.508Z",
+    "plainTextLength": 6743
+  },
+  "trialDate": "2004-04-27"
+}

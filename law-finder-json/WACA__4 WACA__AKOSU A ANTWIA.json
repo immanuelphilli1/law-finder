@@ -1,0 +1,62 @@
+{
+  "caseTitle": "AKOSU A ANTWIA",
+  "summary": "In this civil appeal before the West African Court of Appeal, Akosu A Antwia, representing herself and her family, challenged the dismissal of her claim for a share of monies from Asuom Stool lands. The Native Tribunal had dismissed the claim due to lack of evidence showing her family's entitlement as stool heirs. The Provincial Commissioner allowed the appeal but failed to assess damages or remit the case for assessment. The WACA held that the Provincial Commissioner's judgment was unsatisfactory and reinstated the Native Tribunal's decision, finding no error in its factual conclusions. The appeal was dismissed, costs were awarded to the appellants in both appellate courts.",
+  "legalKeywords": [
+    "stool land",
+    "native tribunal",
+    "provincial commissioner",
+    "damages assessment",
+    "constitutional issue",
+    "stool heirs",
+    "revenue sharing",
+    "appeal",
+    "findings of fact",
+    "costs"
+  ],
+  "topics": [
+    "Land Tenure",
+    "Customary Law",
+    "Appellate Procedure",
+    "Stool Property",
+    "Damages"
+  ],
+  "verdict": "Appeal dismissed; judgment of the Native Tribunal restored.",
+  "winningSide": "Defendants-Respondents-Appellants (Kofi Ahunu and Adjoa Boaehema)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webb",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "WACA/4 WACA/AKOSU A ANTWIA"
+  ],
+  "rationaleHighlights": [
+    "The Provincial Commissioner erred in allowing the appeal without assessing damages or referring back for assessment.",
+    "The Native Tribunal properly dismissed the claim due to lack of evidence supporting plaintiff's status as stool heirs.",
+    "The constitutional issue raised was not part of the original claim and should not have been the basis for overturning the decision.",
+    "The plaintiff's claim depended on proving heirship and prior sharing of stool revenue, which was not established."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on primary source text; no external contradictions identified.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/AKOSU A ANTWIA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:07:41.693Z",
+    "plainTextLength": 5018
+  },
+  "trialDate": "1938-12-08"
+}

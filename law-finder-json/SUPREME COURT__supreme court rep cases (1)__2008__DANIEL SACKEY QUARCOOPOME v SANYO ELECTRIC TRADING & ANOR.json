@@ -1,0 +1,78 @@
+{
+  "caseTitle": "DANIEL SACKEY QUARCOOPOME v SANYO ELECTRIC TRADING & ANOR",
+  "summary": "The Supreme Court of Ghana allowed the appeal filed by Daniel Sackey Quarcoopome against Sanyo Electric Trading & Another, reversing the Court of Appeal's decision that had overturned a High Court award of GHS 350 million in quantum meruit for services rendered as a director from 1974 to 2001. The plaintiff claimed he was orally appointed by the first defendant, a Japanese company, as its representative on the board of the second defendant, Ghana Sanyo Electrical Mfg. Co. Ltd., with remuneration parity. Although Exhibit C indicated his appointment, the court found no evidence of prior written consent or compliance with the company’s regulations under the Companies Code 1963 (Act 179), particularly sections 181 and 272, rendering his appointment invalid. The Court of Appeal had wrongly held that quantum meruit was barred by section 194, which governs director remuneration by shareholder resolution. The Supreme Court clarified that quantum meruit is a common law remedy applicable where no valid contract or statutory appointment exists, especially when services were rendered and accepted. It reinstated the High Court’s award, emphasizing equity and the unjust enrichment of the company.",
+  "legalKeywords": [
+    "quantum meruit",
+    "director appointment",
+    "Companies Code 1963",
+    "oral contract",
+    "breach of contract",
+    "section 181",
+    "section 194",
+    "section 272",
+    "unpaid remuneration",
+    "casual vacancy",
+    "written consent",
+    "corporate governance",
+    "benefit received",
+    "common law remedy",
+    "statutory compliance"
+  ],
+  "topics": [
+    "Contract Law",
+    "Corporate Law",
+    "Equity",
+    "Director Remuneration",
+    "Supreme Court Jurisprudence"
+  ],
+  "verdict": "Appeal allowed; judgment of the Court of Appeal set aside and the High Court's award of GHS 350,000,000.00 in quantum meruit reinstated.",
+  "winningSide": "Plaintiff/Respondent (Daniel Sackey Quarcoopome)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ansa, JSC",
+      "role": "authoring judgment"
+    },
+    {
+      "name": "Akuffo (Ms), J.S.C",
+      "role": "coram"
+    },
+    {
+      "name": "Brobbey, J.S.C",
+      "role": "coram"
+    },
+    {
+      "name": "Adinyira (Mrs), J.S.C",
+      "role": "coram"
+    },
+    {
+      "name": "Asiamah, J.S.C",
+      "role": "coram"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Companies Code 1963, Act 179, s 194",
+    "Companies Code 1963, Act 179, s 181",
+    "Companies Code 1963, Act 179, s 272"
+  ],
+  "rationaleHighlights": [
+    "The plaintiff rendered services as a de facto director for 27 years, benefiting the company.",
+    "No valid appointment under Companies Code due to lack of written consent and regulatory compliance.",
+    "Quantum meruit applies where formal contract or statutory appointment is defective or absent.",
+    "Court of Appeal erred in equating service with statutory directorship.",
+    "Remuneration claim allowed on equitable grounds despite invalid oral agreement."
+  ],
+  "confidenceNotes": "The judgment is well-reasoned with clear reference to statutory provisions and evidence. The Supreme Court's reversal of the Court of Appeal is based on consistent interpretation of the Companies Code and common law principles of quantum meruit.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2008/DANIEL SACKEY QUARCOOPOME v SANYO ELECTRIC TRADING & ANOR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:54:38.783Z",
+    "plainTextLength": 27352
+  },
+  "trialDate": "2008-11-12"
+}

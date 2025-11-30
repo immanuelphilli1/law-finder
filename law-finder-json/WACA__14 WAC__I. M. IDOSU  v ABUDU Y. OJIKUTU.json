@@ -1,0 +1,65 @@
+{
+  "caseTitle": "I. M. IDOSU v ABUDU Y. OJIKUTU",
+  "summary": "In this West African Court of Appeal decision, the appellant (judgment-creditor) challenged the Supreme Court's reversal of a Magistrate's refusal to admit a third party, Abudu Y. Ojikutu, into garnishee proceedings. Ojikutu claimed beneficial entitlement to funds being garnished from the judgment-debtor's Army contracts, asserting an assignment. The Magistrate dismissed his application on technical grounds—filing one motion for three suits and premature affidavit—and awarded excessive costs. The Supreme Court reversed, ordering Ojikutu's inclusion and reducing costs. The Court of Appeal upheld this, holding that section 87 of the Sheriffs Ordinance does not bar the court from admitting third-party claims when known, and that equitable principles require inquiry into such claims. The refusal based on technicalities and the high costs were deemed unjust.",
+  "legalKeywords": [
+    "garnishee proceedings",
+    "third-party claim",
+    "assignment of debt",
+    "procedural fairness",
+    "equity",
+    "costs award",
+    "ex parte order",
+    "judgment enforcement",
+    "Magistrate's Court",
+    "section 87 Sheriffs Ordinance",
+    "section 67 Civil Procedure Ordinance"
+  ],
+  "topics": [
+    "Garnishee Proceedings",
+    "Third-Party Claims",
+    "Judicial Discretion",
+    "Costs",
+    "Equity"
+  ],
+  "verdict": "Appeal dismissed. The decision of the Supreme Court admitting the respondent into the garnishee proceedings and reducing costs was upheld.",
+  "winningSide": "Respondent (Abudu Y. Ojikutu)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey, J.A.",
+      "role": "Delivered Judgment"
+    },
+    {
+      "name": "Foster-Sutton, P.",
+      "role": "Panel Member"
+    },
+    {
+      "name": "De Comarmond, A.G.C.J. (Nigeria)",
+      "role": "Panel Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil",
+  "citations": [
+    "Kojo Pon v. Atta Fua; Privy Council Appeal No. 48 of 1925",
+    "Roberts v. Death, 1881, Q.B.D. 319"
+  ],
+  "rationaleHighlights": [
+    "Section 87 does not limit the court's power to admit third-party claims if the claim comes to its knowledge by any means",
+    "Court has equitable duty to withhold garnishee order absolute when third party has reasonable claim",
+    "Technical defects in application should not override substantial justice",
+    "Awarding excessive costs against non-party was unjust and improper",
+    "Magistrate erred in refusing to admit respondent despite evidence of beneficial interest"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from court document; some text truncation noted but key holdings preserved.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/I. M. IDOSU  v ABUDU Y. OJIKUTU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:40:30.775Z",
+    "plainTextLength": 16365
+  },
+  "trialDate": "1952-05-27"
+}

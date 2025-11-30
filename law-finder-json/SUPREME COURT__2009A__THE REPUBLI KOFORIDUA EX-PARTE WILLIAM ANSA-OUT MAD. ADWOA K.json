@@ -1,0 +1,79 @@
+{
+  "caseTitle": "THE REPUBLI KOFORIDUA EX-PARTE WILLIAM ANSA-OUT MAD. ADWOA K",
+  "summary": "The Republic, on the application of William Ansah-Otu and Mad. Adwoa Kwafoa, sought an order of certiorari from the Supreme Court of Ghana to quash a High Court ruling that granted an interlocutory injunction in favor of Koans Building Solutions Limited in a land dispute. The applicants argued that the High Court committed an error of law apparent on the face of the record by failing to require the interested party to give an undertaking to pay damages as mandated by Order 25, r 9(1) and (2) of the High Court (Civil Procedure) Rules, 2004 (CI 47), since the application was opposed. The Supreme Court held that while the trial court did err by not enforcing the mandatory requirement, the error was a procedural irregularity, not a jurisdictional defect, and thus not sufficient to warrant certiorari. Furthermore, the applicants had taken a fresh step by applying for a review of the injunction, which under Order 81, r 2(2) barred them from later challenging the irregularity. Consequently, the application was dismissed.",
+  "legalKeywords": [
+    "certiorari",
+    "error of law",
+    "interlocutory injunction",
+    "jurisdiction",
+    "High Court Civil Procedure Rules",
+    "Order 25",
+    "Order 81",
+    "undertaking as to damages",
+    "constitutional review",
+    "judicial discretion",
+    "procedural irregularity",
+    "nullity",
+    "supervisory jurisdiction",
+    "specific performance",
+    "ex parte application"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Civil Procedure",
+    "Judicial Review",
+    "Injunctions",
+    "Land Law"
+  ],
+  "verdict": "The application for an order of certiorari was dismissed.",
+  "winningSide": "The Republic (on behalf of the High Court and Koans Building Solutions Limited)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "J. Anin Yeboah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "J. Ansah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Adinyira",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Dotse",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Republic v High Court, Accra; Ex parte Commission on Human Rights and Administrative Justice [2003-2004] 1 SCGLR 312",
+    "Okofo Estates Ltd v Modern Signs Ltd [1996-97] SCGLR 224",
+    "Republic v High Court; Ex parte Eastwood [1995-96] 1 GLR 689",
+    "Republic v Akyem Abuakwa Traditional Council; Ex parte Sakyiraa II [1977] 2 GLR 115"
+  ],
+  "rationaleHighlights": [
+    "Non-compliance with mandatory procedural rules constitutes a mere irregularity, not a jurisdictional defect.",
+    "An error of law must go to jurisdiction or render the decision a nullity to warrant certiorari.",
+    "Order 25, r 9(1) and (2) requires an undertaking as to damages when an injunction is opposed, but its breach is curable under Order 81.",
+    "Applicants' pursuit of a review after the alleged irregularity barred their certiorari application.",
+    "A purposive interpretation of procedural rules is encouraged, but does not override clear mandatory requirements in this instance."
+  ],
+  "confidenceNotes": "The document is a full Supreme Court ruling with clear judicial reasoning, citations, and procedural details. All extracted information is directly supported by the text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/THE REPUBLI KOFORIDUA EX-PARTE WILLIAM ANSA-OUT MAD. ADWOA K.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:01:22.956Z",
+    "plainTextLength": 19459
+  },
+  "trialDate": "2009-02-11"
+}

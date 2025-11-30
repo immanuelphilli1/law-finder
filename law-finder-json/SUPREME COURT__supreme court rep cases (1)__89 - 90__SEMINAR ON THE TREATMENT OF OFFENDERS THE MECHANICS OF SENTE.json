@@ -1,0 +1,65 @@
+{
+  "caseTitle": "SEMINAR ON THE TREATMENT OF OFFENDERS THE MECHANICS OF SENTE",
+  "summary": "This 1989–90 seminar paper by Nyavor Eric analyzes the mechanics of sentencing in Ghana, particularly under the Public Tribunals established by PNDCL 24 and later PNDCL 78. It outlines three dominant theories of punishment—retributive, deterrent/preventive, and reformative—and observes that Ghanaian tribunals and courts predominantly applied retributive and deterrent approaches, especially for serious economic and drug-related offenses. The paper highlights the wide sentencing discretion granted to Public Tribunals, including the power to impose death sentences, minimum three-year imprisonment terms, communal labor, and forfeiture of illicitly acquired property. Special circumstances allow for reduced sentences under Section 16(3) of PNDCL 78. However, the analysis criticizes the overreliance on custodial sentences, leading to severe prison overcrowding (e.g., Sunyani Prison holding 669 inmates in a 400-capacity facility). It further notes that prisons have failed as reform institutions and instead function as criminal networks. Examples include a high-profile 'banker-to-banker' case where deterrence backfired, and prison officers smuggling contraband. The author calls for a dynamic, socially responsive sentencing policy that balances justice with rehabilitation.",
+  "legalKeywords": [
+    "sentencing",
+    "punishment theories",
+    "retributive justice",
+    "deterrent theory",
+    "reformative theory",
+    "public tribunals",
+    "PNDCL 78",
+    "juvenile offenders",
+    "custodial sentences",
+    "prison decongestion",
+    "white-collar crime",
+    "drug trafficking",
+    "timber fraud",
+    "communal labour",
+    "fines"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Sentencing Policy",
+    "Judicial Discretion",
+    "Prison Reform",
+    "Public Tribunals"
+  ],
+  "verdict": "The paper concludes that while Public Tribunals exercised broad and often deterrent-focused discretion in sentencing, the overuse of imprisonment has undermined reform goals and created systemic prison crises.",
+  "winningSide": "State prosecution through Public Tribunals",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Salmond J",
+      "role": "referenced jurist"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Public Tribunals / Supreme Court (contextual)",
+    "country": "Ghana"
+  },
+  "caseType": "sentencing policy analysis",
+  "citations": [
+    "PNDCL 24",
+    "PNDCL 78",
+    "Principles of Sentencing (2nd ed) by D A Thomas, pp. 35-37",
+    "Hunt (1958) The Times, November 26"
+  ],
+  "rationaleHighlights": [
+    "Sentencing discretion must align with moral and social objectives.",
+    "Deterrence is prioritized for economic and drug-related crimes.",
+    "Special circumstances allow deviation from minimum sentences under PNDCL 78.",
+    "Prisons have become criminal training grounds rather than reform centers.",
+    "Judicial bias and informal methods (e.g., dice) have influenced sentencing.",
+    "Public Tribunals had broader discretion than traditional courts.",
+    "Socio-economic context shapes sentencing policy.",
+    "Overuse of imprisonment has led to severe prison congestion."
+  ],
+  "confidenceNotes": "The document is a seminar paper discussing sentencing mechanics in Ghana during the late 1980s, referencing statutory provisions and judicial attitudes. While not a formal court judgment, it reflects authoritative legal discourse on sentencing practices under the PNDC regime.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/89 - 90/SEMINAR ON THE TREATMENT OF OFFENDERS THE MECHANICS OF SENTE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:16:07.974Z",
+    "plainTextLength": 19496
+  }
+}

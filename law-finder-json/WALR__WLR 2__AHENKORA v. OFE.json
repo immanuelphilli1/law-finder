@@ -1,0 +1,62 @@
+{
+  "caseTitle": "AHENKORA VERSUS OFE.",
+  "summary": "The applicant, Ahenkora, challenged the Governor's confirmation of a committee of enquiry's recommendation to re-enstool a previously destooled chief. The committee had been appointed under s. 8(1) of the State Councils (Colony and Southern Togoland) Ordinance, c. 8 of 1952, to investigate charges against Ahenkora that could justify his destoolment. However, the committee exceeded its terms of reference by recommending the re-enstoolment of the former chief—a matter not within its mandate. The Supreme Court held that the Governor's powers under the Ordinance are limited to intervening in pending disputes and do not permit overturning completed decisions. Furthermore, the committee was bound by its terms of reference, and both the committee and the Governor acted ultra vires by making and confirming a recommendation outside their jurisdiction. The court granted certiorari to quash the proceedings and the Governor's confirmation, affirming the court's supervisory role over statutory tribunals.",
+  "legalKeywords": [
+    "certiorari",
+    "ultra vires",
+    "State Councils Ordinance",
+    "committee of enquiry",
+    "constitutional matter",
+    "destoolment",
+    "re-enstoolment",
+    "jurisdiction",
+    "natural justice",
+    "prerogative writ",
+    "excess of jurisdiction",
+    "Governor's powers",
+    "terms of reference",
+    "inferior tribunal",
+    "statutory interpretation"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Constitutional Law",
+    "Judicial Review",
+    "Chieftaincy Disputes",
+    "Prerogative Writs"
+  ],
+  "verdict": "The application for certiorari was granted; the committee's findings and the Governor's confirmation were quashed.",
+  "winningSide": "Applicant (Ahenkora)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Windsor-Aubrey J.",
+      "role": "presiding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Quansah and Another v. Tagoe and Others (1956) 2 W.A.L.R. 90",
+    "R. v. St. Edmundsbury and Ipswich Diocese, ex parte White [1947] 2 All E.R. 170, C.A.",
+    "R. v. Fulham, Hammersmith and Kensington Rent Tribunal, ex parte Zurek [1951] 1 All E.R. 482",
+    "In re Heaphy and Lalor v. Bland"
+  ],
+  "rationaleHighlights": [
+    "The Governor's powers under s. 8(1) are limited to pending disputes and do not allow reversal of a State Council's decision.",
+    "A committee of enquiry is bound by its terms of reference and cannot exceed them.",
+    "The committee and Governor acted ultra vires by recommending and confirming re-enstoolment beyond the scope of inquiry.",
+    "Certiorari lies against State Councils and committees as they are statutory bodies administering part of Ghanaian common law.",
+    "An order declared 'final and conclusive' is still subject to judicial review if it is illegal or made without jurisdiction."
+  ],
+  "confidenceNotes": "The judgment is clear and well-reasoned, with direct reference to statutory provisions and precedent. The court's authority to issue certiorari is firmly established in the context of excess of jurisdiction.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/AHENKORA v. OFE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:46:01.223Z",
+    "plainTextLength": 11102
+  }
+}

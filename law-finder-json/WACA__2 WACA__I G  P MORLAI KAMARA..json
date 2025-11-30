@@ -1,0 +1,74 @@
+{
+  "caseTitle": "INSPECTOR-GENERAL OF POLICE. VERSUS MORLAI KAMARA.",
+  "summary": "The West Africa Court of Appeal held that section 11 of the English Summary Jurisdiction Act of 1848, which imposes a six-month time limit for prosecuting petty offenses, does not apply in the Gold Coast (now Ghana). The court reasoned that the colonial legislature had enacted local ordinances—such as the Supreme Court Ordinance, Criminal Procedure Ordinance, and Commissioners Ordinance—that comprehensively governed criminal procedure, effectively replacing the English statute. The omission of the six-month time limit in these local laws indicated a deliberate legislative decision that it was unsuitable for local conditions. Furthermore, section 15 of the Supreme Court Ordinance specified that procedural matters must be governed solely by local laws or court rules, excluding the application of external statutes. Therefore, the Court concluded that criminal procedure in Police Magistrates' and District Commissioners' Courts was regulated entirely by local law, and there was no basis to invoke English statutes of general application.",
+  "legalKeywords": [
+    "criminal procedure",
+    "summary jurisdiction",
+    "colonial ordinance",
+    "statutory interpretation",
+    "jurisdiction",
+    "time limit for prosecution",
+    "applicable law",
+    "local courts",
+    "Supreme Court Ordinance",
+    "Criminal Procedure Ordinance",
+    "Commissioners Ordinance",
+    "English statute",
+    "procedural law",
+    "substantive law",
+    "legislative intent"
+  ],
+  "topics": [
+    "criminal procedure",
+    "statutory interpretation",
+    "colonial law",
+    "jurisdiction",
+    "applicable law"
+  ],
+  "verdict": "Section 11 of the Summary Jurisdiction Act of 1848 does not apply to the Colony.",
+  "winningSide": "Inspector-General of Police",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Cor. Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Aitken",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal procedure",
+  "citations": [
+    "Summary Jurisdiction Act of 1848",
+    "Supreme Court Ordinance",
+    "Criminal Procedure Ordinance",
+    "Commissioners Ordinance"
+  ],
+  "rationaleHighlights": [
+    "The Summary Jurisdiction Act of 1848 is procedural, not substantive, and does not automatically apply to colonial courts.",
+    "Local ordinances have adopted most provisions of the 1848 Act except the six-month time limit, indicating legislative intent to exclude it.",
+    "The colonial legislature replaced the English Act with local laws tailored to local conditions.",
+    "Section 15 of the Supreme Court Ordinance limits procedural governance to local laws and court rules.",
+    "Police Magistrates' and District Commissioners' Courts derive authority from local statutes, not English law.",
+    "The six-month prosecution limit is unsuitable for local circumstances.",
+    "English statutes of general application do not apply where local laws provide comprehensive regulation.",
+    "The court emphasizes autonomy of colonial legal procedure from English statutory frameworks."
+  ],
+  "confidenceNotes": "The decision is clearly grounded in statutory interpretation of colonial-era ordinances and the inapplicability of English statutes to local courts.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/I G  P MORLAI KAMARA..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:27:15.472Z",
+    "plainTextLength": 3397
+  },
+  "trialDate": "1934-11-20"
+}

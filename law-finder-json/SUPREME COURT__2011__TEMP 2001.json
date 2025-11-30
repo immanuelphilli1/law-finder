@@ -1,0 +1,35 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The document titled 'UNREPORTED CASES OF THE SUPREME COURT OF GHANA 2011' appears to be a webpage or file placeholder, likely from an online legal repository. It contains only copyright and navigational information, with no substantive case details, parties, judgment, or legal reasoning. As such, no meaningful legal analysis or insight can be derived from the provided content.",
+  "legalKeywords": [
+    "unreported case",
+    "Supreme Court",
+    "Ghana",
+    "legal database",
+    "case placeholder"
+  ],
+  "topics": [
+    "Legal Database",
+    "Court Records",
+    "Unreported Case",
+    "Supreme Court"
+  ],
+  "verdict": "No verdict available",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "unreported",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The provided document appears to be a webpage header or placeholder from the Supreme Court of Ghana's unreported cases for 2011, containing no actual case details, judgment, or legal content. As such, factual extraction is not possible.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/TEMP 2001.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:58:29.510Z",
+    "plainTextLength": 213
+  }
+}

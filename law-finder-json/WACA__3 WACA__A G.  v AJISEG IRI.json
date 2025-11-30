@@ -1,0 +1,73 @@
+{
+  "caseTitle": "A G. v AJISEG IRI",
+  "summary": "This appeal from a judgment against sureties on a bond for a licensed auctioneer arose under the Sales by Auction Ordinance. The defendants, M. A. Ajisegiri and A. W. Olukolu, were sureties for J. A. Williams, who sold property at John Street to Oduntan without authority from the mortgagees after an abortive auction. Oduntan obtained judgment against Williams for misrepresentation and recovery of money paid, which remained unsatisfied. The Attorney-General sued the sureties on the bond alleging non-compliance with the Ordinance. The trial court held that Williams breached section 22 by selling privately after an abortive auction and ruled against the sureties. On appeal, the West African Court of Appeal allowed the appeal, holding that section 22 does not prohibit such a sale if proper authority is obtained, and no breach was established. It further held that section 9, requiring a bond for faithful discharge of office, was not breached as the bond was in prescribed form and no statutory violation was proven. The court emphasized that the sureties were not liable absent a demonstrated breach of the Ordinance's provisions.",
+  "legalKeywords": [
+    "surety",
+    "bond",
+    "auctioneer",
+    "Sales by Auction Ordinance",
+    "section 9",
+    "section 22",
+    "private contract",
+    "faithful discharge",
+    "breach of duty",
+    "deceit",
+    "unauthorized sale",
+    "aborted auction",
+    "judgment recovery",
+    "licensing authority",
+    "fidelity bond"
+  ],
+  "topics": [
+    "Contract Law",
+    "Suretyship",
+    "Auction Law",
+    "Statutory Interpretation",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed with costs. Judgment set aside and entered for appellants.",
+  "winningSide": "Defendants-Appellants",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J.",
+      "role": "Judge"
+    },
+    {
+      "name": "Carey, J.",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "WACA/3 WACA/A G. v AJISEGIRI",
+    "Sales by Auction Ordinance, s 9",
+    "Sales by Auction Ordinance, s 22"
+  ],
+  "rationaleHighlights": [
+    "Section 22 does not prohibit private sale after failed auction if proper authority is obtained",
+    "Mere employment as auctioneer does not authorize private sale, but additional authority can validate it",
+    "No breach of section 22 found since the provision was permissive, not prohibitive",
+    "Bond condition tied to compliance with all provisions of the Ordinance",
+    "No evidence that auctioneer violated any specific provision of the Ordinance",
+    "Sureties not liable where no actual breach of statutory duty is proven",
+    "Trial judge erred in holding sureties liable based on dishonest conduct not linked to statutory breach",
+    "Appeal allowed due to lack of statutory foundation for liability"
+  ],
+  "confidenceNotes": "The document appears to be a scanned or transcribed judgment from the West African Court of Appeal, though the jurisdictional context (Nigeria vs. Ghana) requires careful handling. The citation format is inferred from file name and content.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/A G.  v AJISEG IRI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:28:44.897Z",
+    "plainTextLength": 6320
+  },
+  "trialDate": "1937-11-03"
+}

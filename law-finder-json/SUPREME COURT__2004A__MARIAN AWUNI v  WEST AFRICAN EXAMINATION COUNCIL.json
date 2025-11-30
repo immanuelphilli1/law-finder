@@ -1,0 +1,76 @@
+{
+  "caseTitle": "IN THE MATTER OF AN APPLICATION UNDER ARTICLE 33 OF THE CONSTITUTION 1992 A N D IN THE MATTER OF AN APPLICATION BY DANIEL AWUNI PER HIS NEXT FRIEND",
+  "summary": "This is a constitutional case heard by the Supreme Court of Ghana on 21st July 2004, arising from an application under Article 33 of the 1992 Constitution. The appellant, Marian Awuni, brought the case on behalf of Daniel Awuni, her son, as his next friend, against the West African Examinations Council (WAEC). The case was appealed from the Court of Appeal, which had previously ruled against the appellant. The Supreme Court allowed the appeal, with the judgment initially reserved and later delivered. The matter was contested purely on legal grounds, both substantive and procedural, concerning the rights of a student in relation to a public examination body. The core issue involved the enforcement of fundamental rights, particularly in the context of education and examination fairness. The court's decision to allow the appeal underscores the importance of procedural fairness and constitutional protections in dealings between individuals and statutory bodies.",
+  "legalKeywords": [
+    "constitutional rights",
+    "education",
+    "examination",
+    "fundamental human rights",
+    "judicial review",
+    "procedural fairness",
+    "applicant as next friend",
+    "public examination body",
+    "right to education",
+    "student rights",
+    "WAEC",
+    "appeal allowed",
+    "High Court",
+    "Court of Appeal",
+    "judgment reserved"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Human Rights",
+    "Education Law",
+    "Judicial Review",
+    "Student Rights"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kpegah",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Akuffo",
+      "role": "Justice"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "Twum",
+      "role": "Justice"
+    },
+    {
+      "name": "Date-Bah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Article 33, Constitution of Ghana, 1992"
+  ],
+  "rationaleHighlights": [
+    "Appeal allowed based on legal grounds",
+    "Case centered on application under Article 33 of the 1992 Constitution",
+    "Dispute involved rights of a student in relation to WAEC",
+    "Proceedings challenged on substantive and procedural legal grounds",
+    "Judgment reserved and later delivered"
+  ],
+  "confidenceNotes": "The document appears to be truncated; however, key details such as the court, parties, judges, and constitutional basis are present and sufficient for a reliable summary.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2004A/MARIAN AWUNI v  WEST AFRICAN EXAMINATION COUNCIL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:33:21.196Z",
+    "plainTextLength": 289934
+  },
+  "trialDate": "2004-07-21"
+}

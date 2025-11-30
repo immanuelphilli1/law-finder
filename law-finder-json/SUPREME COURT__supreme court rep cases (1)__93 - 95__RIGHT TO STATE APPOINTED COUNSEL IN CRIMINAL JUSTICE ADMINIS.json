@@ -1,0 +1,69 @@
+{
+  "caseTitle": "RIGHT TO STATE APPOINTED COUNSEL IN CRIMINAL JUSTICE ADMINIS",
+  "summary": "This legal analysis examines the right to state-appointed counsel in Ghana's criminal justice system under the 1992 Constitution. It argues that despite constitutional guarantees—particularly Article 14(2), Article 19(2), and the mandatory legal aid provision in Article 294—Ghanaian courts have maintained a conservative, colonial-era approach that limits access to counsel for indigent accused persons, except in capital cases like murder. The paper highlights that the right to counsel during pre-trial custody is essential for a fair trial and should be guaranteed regardless of an individual's economic status. It references landmark cases such as Okorie v The Republic, Republic v Akosah, and Marhaba v The Republic, where breaches of the right to counsel affected admissibility of confessions. The author asserts that failure to assign state-appointed counsel in cases involving constitutional rights renders proceedings a nullity, and calls for judicial recognition of international democratic principles from U.S. and U.K. jurisprudence to uphold human dignity and fair trial rights.",
+  "legalKeywords": [
+    "right to counsel",
+    "state-appointed counsel",
+    "fair trial",
+    "legal aid",
+    "pre-trial rights",
+    "indigent accused",
+    "constitutional rights",
+    "Article 14",
+    "Article 19",
+    "Article 294",
+    "personal liberty",
+    "adversarial system",
+    "Miranda v Arizona",
+    "Gideon v Wainwright",
+    "confession admissibility"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Criminal Procedure",
+    "Human Rights",
+    "Legal Aid",
+    "Fair Trial"
+  ],
+  "verdict": "The paper concludes that under the 1992 Constitution, particularly Article 294, indigent accused persons are entitled as of right to state-appointed counsel during both pre-trial and trial stages, and that failure to provide such counsel violates fundamental human rights and renders proceedings constitutionally defective.",
+  "winningSide": "The constitutional rights of the accused",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Azu Crabbe CJ",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Taylor J",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Interpretation",
+  "citations": [
+    "Okorie alias Ozuzu v The Republic",
+    "Republic v Akosah",
+    "Marhaba v The Republic",
+    "Miranda v Arizona, 384 U.S. 436 (1966)",
+    "Gideon v Wainwright, 372 U.S. 335 (1963)",
+    "Powell v Alabama, 287 U.S. 45 (1932)",
+    "Betts v Brady, 316 U.S. 455 (1942)"
+  ],
+  "rationaleHighlights": [
+    "Article 294 of the 1992 Constitution mandates legal aid in constitutional proceedings, making state-appointed counsel a right, not a privilege.",
+    "The right to counsel during pre-trial custody is fundamental to preventing miscarriages of justice.",
+    "International jurisprudence from the U.S. and U.K. supports extending legal aid to indigent accused in serious cases.",
+    "Failure to inform an accused of their right to counsel renders confessions inadmissible.",
+    "Economic status should not determine access to justice under a democratic constitutional order."
+  ],
+  "confidenceNotes": "The source is an academic legal analysis citing constitutional provisions and case law; however, it does not report a specific judgment but rather interprets constitutional obligations. Therefore, citations reflect jurisprudential references used in the analysis, not a single court decision.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/93 - 95/RIGHT TO STATE APPOINTED COUNSEL IN CRIMINAL JUSTICE ADMINIS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:11:02.829Z",
+    "plainTextLength": 66950
+  }
+}

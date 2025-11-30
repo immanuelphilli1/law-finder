@@ -1,0 +1,69 @@
+{
+  "caseTitle": "DUVAT AND HAQUIN",
+  "summary": "This civil appeal before the West African Court of Appeal arose from a judgment in the Supreme Court of the Gambia, where the defendant, Louis Orcel (operator of the Barthurst Ferry Company), was absolved of liability for the loss of a motor car owned by Huchard and later assigned to the plaintiffs, Duvat and Haquin. The car capsized while being ferried across the River Gambia. The plaintiffs appealed on grounds of alleged judicial error regarding negligence, common carrier status, and Act of God. The Court dismissed the appeal. It held that the motion for leave to appeal was timely, as the filing date—not the hearing date—constituted the application. Crucially, the assignment of the right of action occurred after the suit was filed and without notice to the defendant, rendering the plaintiffs' claim invalid under section 25(6) of the Judicature Act, 1873. Additionally, the plaintiffs failed to allege or prove that the defendant was a common carrier, so the higher standard of liability did not apply. Even assuming such status, the loss was due to an Act of God—severe weather conditions—and the defendant took reasonable steps to mitigate risk. No evidence of negligence in loading or navigation was established, and the plaintiffs failed to prove the value of the car. Thus, the appeal was dismissed with costs.",
+  "legalKeywords": [
+    "assignment of right of action",
+    "notice to debtor",
+    "common carrier",
+    "onus of proof",
+    "negligence",
+    "Act of God",
+    "conditional leave to appeal",
+    "motion filing date",
+    "bailee liability",
+    "statutory interpretation",
+    "judgment date",
+    "appellate procedure",
+    "pleading requirements",
+    "evidence of value",
+    "waiver of objection"
+  ],
+  "topics": [
+    "Contract Law",
+    "Tort Law",
+    "Appellate Procedure",
+    "Property Law",
+    "Maritime Law"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Defendant-Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Gardiner-Smith",
+      "role": "Justice"
+    },
+    {
+      "name": "Turbett",
+      "role": "Acting Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "Genet v. Schumacher, Sierra Leone Law Reports, p. 113",
+    "Gladstone Bob Manuel 0- Ors. v. Gualwr Bob Manuel 0- Ors., 3 Nigeria L.R. 96",
+    "Nugent v. Smith",
+    "Judicature Act, 1873, s. 25(6)",
+    "West African Court of Appeal Order-in-Council, 1928, Rule 10",
+    "Supreme Court Ordinance (Gambia), Order 23, r. 3"
+  ],
+  "rationaleHighlights": [
+    "The date of filing the motion for conditional leave to appeal is the effective date of application, not the hearing date.",
+    "No cause of action existed due to assignment after suit initiation without notice to the debtor.",
+    "Plaintiffs failed to plead or prove defendant was a common carrier; thus, standard of ordinary care applied.",
+    "Loss attributed to Act of God due to violent weather; no sufficient evidence of negligence in navigation or stowage.",
+    "Appellants failed to provide evidence of the car's value, undermining damages claim."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text with clear attribution.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/DUVAT AND HAQUIN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:49:59.497Z",
+    "plainTextLength": 31357
+  },
+  "trialDate": "1931-03-28"
+}

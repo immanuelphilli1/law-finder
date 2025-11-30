@@ -1,0 +1,64 @@
+{
+  "caseTitle": "REX JOSEOH WILLIAM",
+  "summary": "The case involves an appeal against a conviction for manslaughter under section 325 of the Criminal Code, where the appellant, Joseph William, was charged in a single count with causing the deaths of three persons. The West Africa Court of Appeal allowed the appeal, holding that the conviction could not stand because the charge combined multiple alleged offences in one count, which is impermissible under legal principles. The court also found that the evidence showed the appellant was attempting to avoid a child, Victoria, who suddenly ran into the road, and thus his actions did not amount to criminal negligence as required for manslaughter. The Crown did not support the conviction, and the court emphasized that criminal negligence must involve a reckless disregard for human life, which was not present here.",
+  "legalKeywords": [
+    "manslaughter",
+    "criminal negligence",
+    "single count rule",
+    "retrial",
+    "reckless disregard",
+    "excessive speed",
+    "Criminal Code section 325",
+    "West Africa Court of Appeal",
+    "evidence evaluation",
+    "legal error",
+    "acquittal",
+    "conviction quashed"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Negligence",
+    "Procedural Fairness"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Barton, J.",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Cor. Butler-Lloyd, Acting C.J."
+    },
+    {
+      "name": "Aitken, J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Rex v Joseph William, WACA/2 WACA/REX JOSEPH WILLIAM (15 May 1935)"
+  ],
+  "rationaleHighlights": [
+    "A single count cannot charge multiple separate offences",
+    "Conviction invalid due to improper joinder of charges",
+    "Defendant's attempt to avoid a child negates criminal negligence",
+    "Crown did not support the conviction",
+    "No reckless disregard for life established",
+    "Speed not proven excessive at time of incident",
+    "Judgment based on legal error and evidentiary insufficiency"
+  ],
+  "confidenceNotes": "High confidence; information derived directly from primary source document with clear judicial reasoning and procedural details.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/REX  JOSEOH WILLIAM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:21:25.490Z",
+    "plainTextLength": 2710
+  },
+  "trialDate": "1935-05-15"
+}

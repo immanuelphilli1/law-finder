@@ -1,0 +1,77 @@
+{
+  "caseTitle": "OPARE YEBOAH & 8 ORS VRS BARCLAYS BANK GHANA LIMITED",
+  "summary": "This Supreme Court of Ghana decision arose from the summary dismissal of eight employees of Barclays Bank Ghana Limited, who were also union executives, following an alleged illegal strike on November 14, 2007. The employees were dismissed effective January 11, 2008, under Article 17 of the Collective Bargaining Agreement (CBA), without prior suspension under Article 15. They challenged the dismissal, arguing that the bank violated procedural requirements, including the need to suspend first under Article 15 and provide a one-month notice period. The Supreme Court upheld the Court of Appeal’s decision, ruling that Articles 15 and 17 of the CBA operate independently and that the bank had unlimited discretion to invoke Article 17 directly when serious misconduct was proven. The Court found that the employees were given written notice outlining the charges, had the opportunity to reply, and that the dismissals were lawful under the CBA and consistent with Article 23 of the 1992 Constitution and Section 63 of the Labour Act, 2003 (Act 651). The appeal was dismissed.",
+  "legalKeywords": [
+    "summary dismissal",
+    "collective bargaining agreement",
+    "Labour Act 2003",
+    "article 23 Constitution",
+    "natural justice",
+    "suspension",
+    "proven serious misconduct",
+    "grievance procedure",
+    "industrial action",
+    "unfair labor practice",
+    "judicial review",
+    "employment termination",
+    "procedural fairness",
+    "right to reply",
+    "union representation"
+  ],
+  "topics": [
+    "labor law",
+    "employment termination",
+    "collective bargaining",
+    "constitutional rights",
+    "judicial review"
+  ],
+  "verdict": "Appeal dismissed; summary dismissal upheld as lawful under the CBA and national labor law.",
+  "winningSide": "Barclays Bank Ghana Limited",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Wood (Mrs)",
+      "role": "Chief Justice (Presiding)"
+    },
+    {
+      "name": "Owusu (Ms)",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Dotse",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Gbadebe",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs)",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "labor and employment",
+  "citations": [
+    "Boateng vrs. Volta Aluminum Company Limited (1984-86) 1 GLR 733 at 738",
+    "Presbyterian Hospital vrs. Boateng (1984-86) 2GLR 381"
+  ],
+  "rationaleHighlights": [
+    "Articles 15 and 17 of the CBA are independent and not conjunctive; no obligation to suspend before summary dismissal.",
+    "Summary dismissal valid when misconduct is proven, not merely suspected.",
+    "No requirement under CBA to provide one month's notice before dismissal; dismissal effective from date of notice if no reply received.",
+    "Appellants failed to demonstrate victimization or procedural breach violating natural justice.",
+    "Court upheld employer's discretion to invoke Article 17 directly based on clear misconduct."
+  ],
+  "confidenceNotes": "The judgment relies heavily on interpretation of the Collective Bargaining Agreement (CBA) and prior case law; all key facts and legal reasoning are clearly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/OPARE YEBOAH & 8 ORS   VRS BARCLAYS BANK GHANA LIMITED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:43:29.047Z",
+    "plainTextLength": 44454
+  },
+  "trialDate": "2010-09-04"
+}

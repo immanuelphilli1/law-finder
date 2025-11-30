@@ -1,0 +1,77 @@
+{
+  "caseTitle": "WILLIAM BAETA v. AFREDEC LIMITED, STEPHEN ASARE",
+  "summary": "In this Court of Appeal decision, Dr. William Baeta, the judgment creditor, sought enforcement of a 1994 judgment against Afredec Limited, the judgment debtor. The property in dispute, House Number J.856/5 Mile 11, Nungua, Accra, was attached in May 1997. Stephen Asare, the applicant, claimed ownership through a 1997 agreement with Mrs. Clocanus Mensah, the company's Managing Director, supported by Exhibit 2(A), which referenced two cheques dated August 1997 for payment. However, the court found the agreement invalid because the cheques were issued after the May 1997 attachment, and no specific property details or site plan were included, failing to meet conveyancing requirements under NRCD 175. The court also dismissed a later claim of purchase from the Nungua Stool in 1998 as an afterthought. The transactions were deemed fraudulent attempts to obstruct execution. The applicant failed to demonstrate a likelihood of success on appeal, and thus the application for stay of execution was dismissed.",
+  "legalKeywords": [
+    "interpleader",
+    "execution of judgment",
+    "attachment of property",
+    "burden of proof",
+    "fraudulent transaction",
+    "title to property",
+    "stay of execution",
+    "conveyancing",
+    "cheque payment",
+    "Nungua Traditional Council",
+    "consent judgment",
+    "managing director",
+    "property dispute",
+    "real estate",
+    "legal ownership",
+    "documentary evidence",
+    "appeal likelihood",
+    "balance of hardship",
+    "civil motion",
+    "court ruling"
+  ],
+  "topics": [
+    "Property Law",
+    "Civil Procedure",
+    "Judgment Enforcement",
+    "Fraud",
+    "Interpleader"
+  ],
+  "verdict": "Application for stay of execution dismissed.",
+  "winningSide": "Dr. William Baeta (Plaintiff/Judgment Creditor)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "A. Essilfie-Bondzie",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "P.K. Twumasi",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "P.K. Owusu-Ansah",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "LEMANU v. DUALA (YAKUBU) (Claimant) [1962] 1 G.L.R. 60",
+    "Conveyancing Decree [1973] (NRCD) 175 Sections 1(i) and 2"
+  ],
+  "rationaleHighlights": [
+    "Applicant failed to prove ownership prior to attachment.",
+    "Agreement lacked specific property description and site plan.",
+    "Payment cheques were dated after attachment date.",
+    "Subsequent purchase from Nungua Stool occurred after attachment.",
+    "Transactions deemed fraudulent to frustrate execution.",
+    "Burden of proof not met under interpleader rules.",
+    "Stay of execution requires likelihood of success on appeal.",
+    "Court upheld dismissal of interpleader summons."
+  ],
+  "confidenceNotes": "The judgment is clear and well-reasoned with direct reference to legal principles and documentary evidence. The court's conclusion on fraud is based on timing discrepancies and lack of specificity in the agreement.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/DR. WILLIAM BAETA v. AFREDEC LIMITED, STEPHEN ASARE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:36:14.219Z",
+    "plainTextLength": 5334
+  },
+  "trialDate": "2000-04-04"
+}

@@ -1,0 +1,76 @@
+{
+  "caseTitle": "ARTHUR v. JOHN HECTOR ANSAH & NAOMI OWUSU",
+  "summary": "In Ruth Arthur v. John Hector Ansah & Naomi Owusu, the Ghanaian Court of Appeal upheld the High Court's ruling that a customary marriage between Ruth Arthur and John Hector Ansah remained legally valid and subsisting despite a subsequent ordinance marriage between Ansah and Naomi Owusu in 1998. The court found that the customary marriage had not been properly dissolved according to Akan customary law, which requires a formal process involving both families, libation, and the application of kaolin. The appellant failed to provide satisfactory evidence that these procedures were followed. Although the parties had separated and lived apart for years, the court emphasized that legal dissolution requires adherence to prescribed formalities. The ordinance marriage was declared null and void, and the appeal was dismissed, affirming that a marriage cannot be dissolved informally or by mere abandonment.",
+  "legalKeywords": [
+    "customary marriage",
+    "ordinance marriage",
+    "bigamy",
+    "dissolution of marriage",
+    "burden of proof",
+    "conjugal rights",
+    "family law",
+    "evidence",
+    "divorce procedure",
+    "dowry",
+    "libation",
+    "kaolin",
+    "marriage banns",
+    "appellate review",
+    "natural death of marriage"
+  ],
+  "topics": [
+    "Family Law",
+    "Customary Law",
+    "Marriage and Divorce",
+    "Appellate Procedure",
+    "Evidence Law"
+  ],
+  "verdict": "Appeal dismissed; ordinance marriage declared null and void due to subsisting customary marriage.",
+  "winningSide": "Plaintiff/Respondent (Ruth Arthur)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "P. K. Owusu-Ansah",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "R. C. Owusu",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "S. Y. Anim",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "family law",
+  "citations": [
+    "Darkwa vrs. Denteh 1972 2 GLR 303 CA",
+    "In Re Yendi Skin Affairs: Yakubu vrs. Abdulai (No.2) 1984-86 2 GLR 239 SC",
+    "Log & Lumber Ltd. vrs. Oppong 1977 2 GLR 263 CA",
+    "Praka vrs. Ketewa 1964 GLR 423 SC",
+    "Kyiafi vrs. Wono 1967 GLR 463 CA",
+    "John Mensah Sarba's Fanti Customary Law 3rd Edition p.52"
+  ],
+  "rationaleHighlights": [
+    "Customary marriage dissolution requires formal procedure including family meeting, libation, and kaolin application.",
+    "Burden of proof for dissolution lies with the party alleging it.",
+    "Failure to follow customary procedure renders dissolution invalid.",
+    "Marriage remains legally valid even if de facto ended without formalities.",
+    "Appellate court defers to trial judge's factual findings when supported by evidence.",
+    "False declaration of marital status ('single') on ordinance marriage invalidates subsequent marriage if prior marriage subsists.",
+    "Publication of banns ineffective where intended party was unaware due to limited posting.",
+    "Legal formalities cannot be bypassed by mutual abandonment of marital duties."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on explicit judicial reasoning and cited authorities.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/RUTH ARTHUR v. JOHN HECTOR ANSAH & NAOMI OWUSU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:06:38.891Z",
+    "plainTextLength": 14782
+  },
+  "trialDate": "2003-07-31"
+}

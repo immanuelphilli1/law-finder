@@ -1,0 +1,69 @@
+{
+  "caseTitle": "DISU AKINYEMI OSHODI",
+  "summary": "This civil appeal before the West African Court of Appeal arose from a land dispute involving the sale of realty and a plea of acquiescence. The third defendant sought to introduce documentary evidence showing that the plaintiff's family had previously acquiesced in the sale of other properties by their Arotas to third parties. The trial court rejected this evidence, mistakenly believing that the Court of Appeal had already decided there was no acquiescence. The appellate court clarified that it had only held the first defendant failed to prove acquiescence, not that the issue was legally foreclosed. Citing the Privy Council decision in Oshodi v. Balogun, the court held that such evidence, while of slight weight, was admissible. The appeal was allowed, the judgment and costs set aside, and the case remitted for a full hearing of all relevant evidence on acquiescence, with the appellant awarded costs in the appeal.",
+  "legalKeywords": [
+    "acquiescence",
+    "evidence admissibility",
+    "remitting case",
+    "plea of defence",
+    "sale of realty",
+    "appellate review",
+    "judicial misunderstanding",
+    "documentary evidence",
+    "civil procedure",
+    "land dispute",
+    "third-party purchaser",
+    "Privy Council precedent",
+    "relevance of evidence",
+    "amendment of pleadings",
+    "standard of acquiescence"
+  ],
+  "topics": [
+    "Land Law",
+    "Evidence",
+    "Civil Procedure",
+    "Appellate Law",
+    "Acquiescence"
+  ],
+  "verdict": "Appeal allowed; case remitted for rehearing with directions to admit relevant evidence on acquiescence.",
+  "winningSide": "Appellant (Kaliatu Imoru and others)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "Disu Akinyemi Oshodi v. Kaliatu Imoru & Ors",
+    "Oshodi v. Balogun and Others (Privy Council Appeal No. 46 of 1934)"
+  ],
+  "rationaleHighlights": [
+    "The trial judge misunderstood the appellate court's prior decision, wrongly believing acquiescence had been ruled out as a matter of law.",
+    "Evidence of acquiescence in sales of other properties was admissible, though of limited weight, per Privy Council precedent.",
+    "The lower court erred by excluding evidence not on grounds of inadmissibility but based on a misreading of appellate findings.",
+    "The appellate court emphasized that all relevant evidence must be heard when a plea is properly pleaded and permitted.",
+    "The appeal was allowed to ensure a full and fair hearing on the issue of acquiescence."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment text, including procedural history, legal reasoning, and outcome.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/DISU  AKINYEMI OSHODI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:03:15.337Z",
+    "plainTextLength": 5753
+  },
+  "trialDate": "1938-05-18"
+}

@@ -1,0 +1,73 @@
+{
+  "caseTitle": "COP v BENJAMIN FRANK ASAMOH",
+  "summary": "The appellant, Benjamin Frank Asamoah, chairman of the African American Trade Corporation, took possession of two consignments of cocoa (70 and 60 bags) intended for the Trading Association of the Gold Coast, which had been consigned by the Ahamansu Farmers Union. He signed the consignment notes and stored the cocoa in a warehouse he had hired, openly disclosing its location. Convicted of stealing under section 270(1) of Cap. 9, the District Magistrate sentenced him to 18 months' imprisonment. The Divisional Court dismissed his appeal, finding evidence of dishonest appropriation. On further appeal, the West African Court of Appeal allowed the appeal, holding that there was no evidence the appellant appropriated the cocoa to his own use or acted with dishonest intent. The court emphasized the lack of findings on whether the act constituted 'appropriation' under section 32(2) of the Criminal Code and acquitted the appellant due to insufficient evidence to support the conviction for stealing.",
+  "legalKeywords": [
+    "stealing",
+    "dishonest appropriation",
+    "mens rea",
+    "Criminal Code Cap. 9",
+    "section 270",
+    "section 32(2)",
+    "section 27",
+    "appropriation",
+    "benefit of ownership",
+    "conviction quashed",
+    "insufficient evidence",
+    "appellate review",
+    "Gold Coast law",
+    "theft",
+    "intent to deprive"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Theft and Stealing",
+    "Statutory Interpretation",
+    "Mens Rea",
+    "Property Law"
+  ],
+  "verdict": "Appeal allowed; conviction quashed",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Justice"
+    },
+    {
+      "name": "Webb",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Section 270(1) of Cap. 9",
+    "Section 27 of the Criminal Code",
+    "Section 32(2) of the Criminal Code"
+  ],
+  "rationaleHighlights": [
+    "No evidence the appellant converted the cocoa to his own use",
+    "Appellant openly stored the cocoa and disclosed its location",
+    "Taking possession was arguably for corporate marketing purposes under existing agreement",
+    "No findings of fact on whether 'appropriation' under section 32(2) occurred",
+    "Prosecution did not argue statutory definition of appropriation at trial",
+    "Conviction based on assumption not supported by evidence",
+    "Appellate court refused to interpret law on undeveloped factual record"
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text. Case predates modern Ghana but falls under its legal jurisdiction as Gold Coast. Terminology and spelling (e.g., 'Asamoah' vs. 'Asamoh') are normalized based on context.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/COP v  BENJAMIN FRANK ASAMOH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:06:12.535Z",
+    "plainTextLength": 9247
+  },
+  "trialDate": "1938-12-17"
+}

@@ -1,0 +1,79 @@
+{
+  "caseTitle": "GEORGE A. LARBI v. S.S.N.I.T.",
+  "summary": "This is a civil appeal before the Ghana Court of Appeal concerning the termination of George A. Larbi by SSNIT. The appellant challenged the dismissal on grounds including improper constitution of the disciplinary committee, lack of authority in the termination letter, and inadmissibility of the rules of service (Exhibit 2). The trial court dismissed his claim for declaration, reinstatement, and damages. On appeal, the court upheld the trial judge's discretion in allowing amendment of pleadings to include Exhibit 2, finding no manifest injustice. It held that objections to the document's authenticity, lack of seal, or stamp duty were not raised during trial and thus could not be raised on appeal. The court also rejected an estoppel argument, noting it was not pleaded. Ultimately, the appeal was dismissed, affirming that procedural irregularities did not invalidate the termination where substantive rights were protected and no miscarriage of justice occurred.",
+  "legalKeywords": [
+    "termination of employment",
+    "wrongful dismissal",
+    "disciplinary procedure",
+    "amendment of pleadings",
+    "estoppel",
+    "rules of service",
+    "admissibility of evidence",
+    "judicial discretion",
+    "procedural fairness",
+    "reinstatement",
+    "damages",
+    "appellate procedure",
+    "fraudulent document",
+    "common seal",
+    "stamp duty",
+    "cogency of evidence",
+    "primary evidence rule",
+    "misdirection in law",
+    "judicial review",
+    "employment law"
+  ],
+  "topics": [
+    "Employment Law",
+    "Appellate Procedure",
+    "Judicial Discretion",
+    "Document Admissibility",
+    "Estoppel"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "SSNIT (Respondent)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Wood, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Benin, J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Afreh, J.A.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Ballmoos vrs: Mensah 1984-86 I GLR.725",
+    "Nkrumah vrs: Serwah & Ors. 1984-86 1 GLR. 190",
+    "Yeboah vrs: Barfuor 1971 2 GLR. 199 CA",
+    "Social Security Bank Ltd. vrs: Agyarkwa 1991, 2 GLR.192 C.A.",
+    "S.(9) SS (4) of the Social Security Law, 1991 PNDCL.247",
+    "S.3 Social Security Law, 1991 PNDCL.247",
+    "S.9(1) Social Security Law, 1991 PNDCL.247"
+  ],
+  "rationaleHighlights": [
+    "Appellate court will not interfere with trial judge's discretion unless exercised on wrong principles or causing manifest injustice",
+    "Failure to object to document tender at trial precludes raising admissibility issues on appeal",
+    "Estoppel must be pleaded to be considered by the court",
+    "Rules of service need not bear common seal to be valid under PNDCL 247",
+    "Late filing of respondent's written submission does not bar hearing if time extension granted"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from court judgment text. All legal references, parties, and procedural details are explicitly stated in the source document.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/MISS SUSAN DOWKOR FOR MICHAEL AMAFU-DEI FOR RESPONDENT.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:16:08.815Z",
+    "plainTextLength": 25342
+  },
+  "trialDate": "1999-10-28"
+}

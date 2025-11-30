@@ -1,0 +1,79 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This Supreme Court of Ghana ruling addressed a preliminary objection challenging the court's jurisdiction to hear an appeal arising from an election petition. The appellant, Samuel Nyimakan, had been declared unqualified for election as Member of Parliament for Wulensi Constituency by the High Court, a decision upheld by the Court of Appeal. The respondent, Fuseini Zakaria, moved to dismiss the appeal to the Supreme Court, arguing that such constitutional election petitions do not fall within the Supreme Court’s appellate jurisdiction under Article 131(1)(a) of the 1992 Constitution. The Supreme Court rejected this argument, holding that the phrase 'civil or criminal cause or matter' in Article 131(1)(a) includes proceedings like election petitions, which are classified as 'matters' under civil procedure rules. The Court emphasized that the nature of the proceeding—whether civil or criminal in character—determines jurisdiction, not the fact that it involves constitutional interpretation. It further held that the High Court's broad jurisdiction under Article 140(1) encompasses all matters, and the Supreme Court’s appellate role cannot be narrowly construed to exclude constitutional disputes. The motion to dismiss was therefore overruled, affirming the Supreme Court’s jurisdiction to hear the appeal.",
+  "legalKeywords": [
+    "election petition",
+    "appellate jurisdiction",
+    "constitutional interpretation",
+    "jurisdiction of Supreme Court",
+    "civil cause or matter",
+    "High Court jurisdiction",
+    "Court of Appeal",
+    "standing to sue",
+    "constitutional rights",
+    "electoral integrity"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Election Law",
+    "Appellate Jurisdiction",
+    "Judicial Interpretation",
+    "Separation of Powers"
+  ],
+  "verdict": "The Supreme Court overruled the preliminary objection and held that it has jurisdiction to hear the appeal.",
+  "winningSide": "Appellant (Samuel Nyimakan)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Dr. S. Twum",
+      "role": "Delivering Ruling"
+    },
+    {
+      "name": "Wiredu, C.J.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Acquah, J.S.C.",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Akuffo (Ms), J.S.C.",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Afreh, J.S.C.",
+      "role": "Member of Coram"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional/Election Petition",
+  "citations": [
+    "1992 Constitution of Ghana, Article 99",
+    "Representation of the People Law 1992 (PNDCL 284)",
+    "Article 140(1) and (2)",
+    "Article 137(1)",
+    "Article 131(1)(a)",
+    "Amoako Tuffour v. Attorney-General (1980) GLR 637",
+    "Vandepuije v Akwei (1971) 1GLR 242",
+    "Moore v Kennard 10 Q.B.D. 290",
+    "Re Credit Co. 11 Ch. D. 250"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court has appellate jurisdiction over election petitions if they constitute a 'civil cause or matter' under Article 131(1)(a), regardless of their constitutional nature.",
+    "The classification of a proceeding as 'constitutional' does not exclude it from being a 'civil cause or matter' within the meaning of the Constitution.",
+    "An election petition is a 'matter' as defined under Order 1 Rule 1 of the High Court (Civil Procedure) Rules, not a traditional 'cause' between plaintiff and defendant.",
+    "The phrase 'civil or criminal cause or matter' in Article 131(1)(a) is distinct from 'civil and criminal matters' in Article 140(1), indicating a narrower scope for Supreme Court appeals.",
+    "The Supreme Court rejected the argument that constitutional matters fall outside its appellate jurisdiction as being inconsistent with the framers' intent and textual interpretation."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct citation of constitutional provisions, case law, and procedural history from the Supreme Court ruling.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2003A/INTHEM~1.HTM",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:36:50.815Z",
+    "plainTextLength": 40135
+  },
+  "trialDate": "2003-01-15"
+}

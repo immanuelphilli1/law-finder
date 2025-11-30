@@ -1,0 +1,78 @@
+{
+  "caseTitle": "ABINABINA STOOL VERSUS NKASAWURA STOOL",
+  "summary": "The case of Abinabina Stool v. Nkasawura Stool, heard by the West African Court of Appeal in 1956, involved a dispute over land title between two stools in the Gold Coast (now Ghana). The plaintiff sought a declaration of title and damages for trespass, asserting that their predecessors first occupied the land and granted it to the defendant's predecessors under a tribute agreement. The trial court dismissed the claim, finding insufficient evidence to support the plaintiff's traditional account and noting the defendant's long, undisputed possession. On appeal, the court upheld the decision, ruling that payment of tribute alone does not establish ownership and that the plaintiff failed to discharge the burden of proof. The court also rejected reliance on prior litigation not involving the defendant, holding it inadmissible for estoppel or proof of title. The judgment emphasized that a plaintiff must prove their own title, not rely on the defendant's weakness.",
+  "legalKeywords": [
+    "declaration of title",
+    "traditional evidence",
+    "burden of proof",
+    "tribute payment",
+    "customary land tenure",
+    "estoppel",
+    "possession as evidence",
+    "first occupation",
+    "customary tenancy",
+    "judicial precedent",
+    "land dispute",
+    "oral tradition",
+    "evidentiary value",
+    "onset of proof",
+    "customary law",
+    "land ownership",
+    "tribal migration",
+    "judgment in rem",
+    "admissibility of evidence",
+    "customary rights"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Evidence Law",
+    "Appellate Review",
+    "Stool Land Disputes"
+  ],
+  "verdict": "dismissed",
+  "winningSide": "defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "President"
+    },
+    {
+      "name": "Baker Ag.J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "van Lare J.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "Kodilinye v. Jibanefo Odl1 (1935) 2 W.A.C.A. 336",
+    "Kobina Angu v. Oudjoe Attah (1916)",
+    "Bokitsi Concession Enquiry (1902)",
+    "Benner v. Fanti Consolidated Mines Ltd. (1919)"
+  ],
+  "rationaleHighlights": [
+    "Payment of tribute is not conclusive evidence of land ownership or customary tenancy.",
+    "Plaintiff must prove title by strength of own case, not defendant's weakness.",
+    "Prior judgment not binding if defendant was not a party.",
+    "Long, undisputed possession supports defendant's claim.",
+    "Traditional evidence must be reliable and corroborated.",
+    "Estoppel not established without knowledge of prior litigation.",
+    "Trial judge's factual findings upheld on appeal.",
+    "Burden of proof in land cases remains on plaintiff."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and citation of precedent. Some document truncation occurs but key holdings and reasoning are preserved.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/ABINABINA STOOL v. NKASAWURA STOOL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:19:34.380Z",
+    "plainTextLength": 21152
+  }
+}

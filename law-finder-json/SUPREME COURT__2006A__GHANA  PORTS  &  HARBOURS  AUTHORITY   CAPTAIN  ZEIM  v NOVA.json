@@ -1,0 +1,91 @@
+{
+  "caseTitle": "GHANA PORTS & HARBOURS AUTHORITY CAPTAIN ZEIM v NOVA",
+  "summary": "This Supreme Court of Ghana case, decided on 15th November 2006, involved a civil appeal by the Ghana Ports and Harbours Authority and Captain Zeim against Nova Complex Ltd, concerning the beaching of the MV Nova VIII at Paradise Beach. The plaintiff claimed the beaching was negligent or unlawful, while the defendants argued it was a lawful exercise of statutory duty due to the vessel listing and posing a maritime hazard. The High Court and Court of Appeal found for the plaintiff, holding the beaching was erroneous and awarding damages. The Supreme Court, however, found fault with the Court of Appeal's reasoning, particularly its reliance on an alleged mistaken identity of the vessel (MV Nova VIII vs. MV Nova VII) as the basis for rebutting the presumption of regularity in official duties. The Supreme Court held that the lower courts failed to properly address the core issue: whether the listing was severe enough to justify beaching under statutory safety powers. It concluded that the evidence supported the defendants' position that the action was taken in good faith under statutory duty, and thus reversed the finding of liability, dismissing the plaintiff's claim.",
+  "legalKeywords": [
+    "negligence",
+    "statutory duty",
+    "presumption of regularity",
+    "rebuttable presumption",
+    "maritime safety",
+    "beaching of vessel",
+    "evidence act",
+    "official conduct",
+    "civil liability",
+    "burden of proof",
+    "res gestae",
+    "admission against interest",
+    "judicial error",
+    "appellate review",
+    "sovereign function",
+    "ports authority",
+    "maritime law",
+    "wrongful interference",
+    "damages",
+    "loss of use",
+    "charter party",
+    "market value",
+    "insured value",
+    "expert evidence",
+    "court findings",
+    "pleadings",
+    "judicial discretion",
+    "procedural fairness",
+    "fact-finding",
+    "appellate jurisdiction"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Maritime Law",
+    "Tort Law",
+    "Evidence Law",
+    "Judicial Review"
+  ],
+  "verdict": "Appeal allowed; liability reversed and plaintiff's claim dismissed",
+  "winningSide": "Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Mrs. Wood, J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Brobbey, J.S.C."
+    },
+    {
+      "name": "Ansa, J.S.C."
+    },
+    {
+      "name": "Aninakwah, J.S.C."
+    },
+    {
+      "name": "Mrs. Adinyira, J.S.C."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Evidence Act, 1975 (NRCD 323)",
+    "Section 37"
+  ],
+  "rationaleHighlights": [
+    "The core issue was whether the vessel's listing justified beaching under statutory duty, not mistaken identity.",
+    "The Court of Appeal erred in treating mistaken beaching as rebuttal of the presumption of regularity.",
+    "The presumption under Section 37 of the Evidence Act applies to official statutory actions.",
+    "The defendants acted within their statutory mandate to ensure maritime safety.",
+    "Findings that the vessel listed contradicted the conclusion of unlawful beaching.",
+    "The pleadings focused on the lawfulness of the action, not misidentification.",
+    "Appellate courts must address issues as framed by the pleadings and evidence.",
+    "Good faith performance of statutory duty negates negligence."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from the judgment text. Some legal keywords inferred from context and standard legal doctrine applicable in Ghanaian jurisprudence.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2006A/GHANA  PORTS  &  HARBOURS  AUTHORITY   CAPTAIN  ZEIM  v NOVA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:25:09.657Z",
+    "plainTextLength": 61057
+  },
+  "trialDate": "2006-11-15"
+}

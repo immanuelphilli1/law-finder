@@ -1,0 +1,81 @@
+{
+  "caseTitle": "YAW TAWIAH v. OPANIN KWADWO BAAH & ORS.",
+  "summary": "The case revolves around the interpretation of clause 13 of the will of Isaac Ottie (deceased), which states that 'Kwadwo Kwako is to inherit me and all the properties which I have not devised must go to him.' The plaintiff, Yaw Tawiah, argued that Kwadwo Kwako (appellant) was appointed as the customary successor and thus should hold the residuary estate in trust for the family. The trial court relied on extrinsic evidence from the lawyer who drafted the will, concluding that the gift was personal. The Court of Appeal majority reversed, holding that Kwadwo Kwako took the estate as a customary successor bound to hold it in trust for the family. The Supreme Court ultimately held that the language of the will was clear, that 'inherit' meant personal inheritance, and that extrinsic evidence should not have been admitted, thereby overturning the Court of Appeal's decision.",
+  "legalKeywords": [
+    "will construction",
+    "testamentary intention",
+    "extrinsic evidence",
+    "customary successor",
+    "residuary estate",
+    "inheritance under will",
+    "golden rule of interpretation",
+    "family property",
+    "trustee",
+    "personal devise",
+    "latent ambiguity",
+    "arm-chair principle",
+    "Wills Act, 1971 (Act 360)",
+    "testator's intention",
+    "Ghanaian customary law"
+  ],
+  "topics": [
+    "Probate and Succession",
+    "Interpretation of Wills",
+    "Customary Law"
+  ],
+  "verdict": "The Supreme Court ruled that the appellant, Kwadwo Kwako, took the residuary estate under clause 13 of the will in his personal capacity, not as a customary successor, and that the Court of Appeal erred in relying on the circumstances surrounding the testator's wishes and in admitting extrinsic evidence. The appeal was allowed, and the trial court’s decision was effectively reinstated.",
+  "winningSide": "Appellants (defendants/respondents in the lower courts), particularly Kwadwo Kwako",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "T.K. Adzoe",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "Bamford-Addo",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Ampiah",
+      "role": "Justice"
+    },
+    {
+      "name": "Kpegah",
+      "role": "Justice"
+    },
+    {
+      "name": "Lamptey",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Mensah (decd): Barnich v. Mensah (1978) 1 GLR 226",
+    "Doe D. Hiscocks v. Hiscocks (1839) 5 M & W 363",
+    "In re Ofner: Samuel v. Ofner (1909) 1 Ch. 60",
+    "Ahorklui v. Ahorklui (Ollenu, P.C.L.L.G. p. 212)",
+    "Khoury & Ors. v. Tamakloe (1950) DC (Land) 1948-51"
+  ],
+  "rationaleHighlights": [
+    "The court must interpret a will based on the express words used, not extrinsic evidence, under the golden rule.",
+    "Extrinsic evidence is inadmissible except in cases of latent ambiguity or for identification under the arm-chair principle.",
+    "The word 'inherit' in the will denotes personal acquisition, not customary succession.",
+    "A customary successor holds property in trust for the family and does not personally own it.",
+    "The testator's use of 'inherit' instead of 'customary successor' indicates a personal devise.",
+    "The Court of Appeal erred in allowing evidence of family appointment and testator's wishes.",
+    "Title to self-acquired property under customary law vests in the family, not the individual successor.",
+    "The trial judge's reliance on the lawyer's testimony was improper and violated testamentary interpretation principles."
+  ],
+  "confidenceNotes": "The decision is based on well-established principles of will interpretation in Ghanaian law. The Supreme Court explicitly rejects extrinsic evidence where the will's language is clear, affirming the primacy of textual analysis. The distinction between personal inheritance and customary succession is central and consistently applied.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2001A/YAW TAWIAH v. OPANIN KWADWO BAAH & ORS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:40:29.533Z",
+    "plainTextLength": 30072
+  },
+  "trialDate": "12TH DECEMBER, 2001"
+}

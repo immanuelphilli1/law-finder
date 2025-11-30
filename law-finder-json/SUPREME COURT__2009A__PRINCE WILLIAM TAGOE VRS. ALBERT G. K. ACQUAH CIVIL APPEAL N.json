@@ -1,0 +1,75 @@
+{
+  "caseTitle": "PRINCE WILLIAM TAGOE VRS. ALBERT G. K. ACQUAH CIVIL APPEAL N",
+  "summary": "This is a civil appeal before the Supreme Court of Ghana concerning the refusal by the Court of Appeal to grant a stay of execution in a property dispute. The respondent, Prince William Tagoe, had obtained a judgment from the Circuit Court at Tema for recovery of rent arrears and ejectment of the appellant, Albert G. K. Acquah, from property H/No. 12/N2 C2 in Tema. The appellant claimed ownership based on an alleged agreement with the respondent and a third party to transfer the property in exchange for assistance in traveling abroad. The trial court upheld the respondent's ownership and lease agreement (Exhibit 1, 15/10/1981). The appellant appealed the judgment and sought a stay of execution at the Court of Appeal, which was refused. He then appealed that refusal to the Supreme Court. The Supreme Court held that it would not interfere with the Court of Appeal’s discretionary decision unless it was shown to be improperly exercised. The appellant failed to demonstrate any misapplication of law or improper consideration of facts. The court cited precedents emphasizing that stays are granted only when there are arguable legal issues or where refusal would nullify the appeal. The appeal was dismissed.",
+  "legalKeywords": [
+    "stay of execution",
+    "discretion",
+    "rent arrears",
+    "property ownership",
+    "lease agreement",
+    "PNDCL 5",
+    "Interpretation Act section 8(1)",
+    "appellate review",
+    "ejectment",
+    "civil appeal"
+  ],
+  "topics": [
+    "Property Law",
+    "Appellate Procedure",
+    "Rent Arrears",
+    "Stay of Execution",
+    "Ownership Dispute"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent (Prince William Tagoe)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Anin Yeboah",
+      "role": "Presiding Judge (delivering judgment)"
+    },
+    {
+      "name": "S. A. Brobbey",
+      "role": "Justice (concurring)"
+    },
+    {
+      "name": "J. Ansan",
+      "role": "Justice (concurring)"
+    },
+    {
+      "name": "S. O. A. Adinyira",
+      "role": "Justice (concurring)"
+    },
+    {
+      "name": "J. V. M. Dotse",
+      "role": "Justice (concurring)"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "DZOBO V AGBEBLEWU [1991] IGLR 294",
+    "JOSEPH V JEBEILE [1963] IGLR 387 SC",
+    "CRESNSTIL V CRENSTIL [1962]2 GLR 171 SC",
+    "BLUNT V BLUNT [1943] AC 517",
+    "BALLOOS V MENSAH [1984-86] 1 GLR 724 CA"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court held that it would not substitute its discretion for that of the Court of Appeal in granting a stay of execution.",
+    "The appellant failed to demonstrate that the Court of Appeal exercised its discretion improperly or based on incorrect legal principles.",
+    "The court reaffirmed that a stay is granted only where there are arguable points of law or where refusal would render any future appeal meaningless.",
+    "The argument regarding PNDCL 5’s effect on ownership was raised but not sufficient to overturn the lower courts’ discretion.",
+    "Appellate intervention is warranted only if discretion was exercised on wrong material, misunderstanding of law, or ignoring relevant evidence."
+  ],
+  "confidenceNotes": "High confidence; details directly extracted from official Supreme Court judgment document with clear judicial reasoning and citation of precedent.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/PRINCE WILLIAM TAGOE VRS. ALBERT G. K. ACQUAH CIVIL APPEAL N.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:02:57.095Z",
+    "plainTextLength": 6042
+  },
+  "trialDate": "2008-04-24"
+}

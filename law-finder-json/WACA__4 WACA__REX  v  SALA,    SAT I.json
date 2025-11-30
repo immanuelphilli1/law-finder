@@ -1,0 +1,62 @@
+{
+  "caseTitle": "REX v SALA, SAT I",
+  "summary": "In Rex v Sala, Sat I, an appeal from a High Court murder conviction, the West Africa Court of Appeal upheld the decision despite the absence of the deceased's body. The appellants were convicted under section 319 of the Criminal Code for the murder of a child named Hardo. The court emphasized that while there was no direct evidence of the corpse, the circumstantial evidence pointing to the child's death was sufficiently strong to justify the conviction. The appellate judges—Kingdon C.J., Butler Lloyd, and Carey—held that such evidence met the required standard of proof, and therefore dismissed the appeals. The ruling underscores the legal principle that murder convictions can be sustained on compelling circumstantial evidence even when the corpus delicti is not physically established.",
+  "legalKeywords": [
+    "murder",
+    "circumstantial evidence",
+    "corpus delicti",
+    "criminal conviction",
+    "appellate review",
+    "standard of proof",
+    "death of victim",
+    "criminal code section 319",
+    "West Africa Court of Appeal",
+    "no body murder case"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence",
+    "Murder",
+    "Appellate Procedure",
+    "Circumstantial Evidence"
+  ],
+  "verdict": "Conviction upheld on appeal",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Sala, Sat I, WACA/4, 6th Jan. 1938"
+  ],
+  "rationaleHighlights": [
+    "No direct evidence of the deceased's body was found.",
+    "Circumstantial evidence must be strong to prove death in absence of corpus delicti.",
+    "Court found circumstantial evidence sufficient to conclude the child Hardo was dead.",
+    "Appeals dismissed based on strength of indirect evidence."
+  ],
+  "confidenceNotes": "The case relies solely on circumstantial evidence due to absence of corpus delicti; appellate court found it sufficiently compelling to uphold conviction.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX  v  SALA,    SAT I.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:59:50.776Z",
+    "plainTextLength": 1843
+  },
+  "trialDate": "1938-01-06"
+}

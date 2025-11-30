@@ -1,0 +1,66 @@
+{
+  "caseTitle": "GEORGINA LUTTERODT",
+  "summary": "This 1934 West Africa Court of Appeal decision concerns an appeal by Mensah Solomon against a Provincial Commissioner's refusal to stay execution of a judgment from the Ga Manche Tribunal. The Tribunal had ruled in 1930 that Georgina Lutterodt and another were entitled to one-third of the estate of Abraham Augustus Lutterodt. The defendant applied for a review under section 84(1) of the Native Administration Ordinance, but prior to the review hearing, obtained an order from the Provincial Commissioner halting the case. The Court held that this order was void because it failed to comply with section 71(1), which requires a transfer to another tribunal when halting proceedings. As a result, the review remained valid, and execution of the original judgment was stayed pending final determination of the review. The Court emphasized that an order halting proceedings without transfer denies justice and is unlawful.",
+  "legalKeywords": [
+    "execution of judgment",
+    "tribunal review",
+    "section 71 Native Administration Ordinance",
+    "section 84 Native Administration Ordinance",
+    "stay of execution",
+    "provincial commissioner powers",
+    "void administrative order",
+    "transfer of cases",
+    "Magna Carta",
+    "customary law succession",
+    "estate distribution",
+    "jurisdiction of tribunals"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Native Customary Law",
+    "Judicial Review"
+  ],
+  "verdict": "The appeal was upheld. The Provincial Commissioner's order was declared void, and execution of the original judgment was stayed pending the outcome of the Tribunal's review process.",
+  "winningSide": "Defendant-Appellant (Mensah Solomon)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Deane, C.J., Gold Coast",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "St. John Yates, J."
+    },
+    {
+      "name": "Graham Paul, J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "Section 71(1) of the Native Administration Ordinance",
+    "Section 84(1) of the Native Administration Ordinance",
+    "Magna Carta"
+  ],
+  "rationaleHighlights": [
+    "An order halting a tribunal hearing must be accompanied by a transfer to another competent tribunal under section 71(1); otherwise, it is void.",
+    "A Provincial Commissioner lacks authority to indefinitely suspend proceedings without ensuring continuation elsewhere.",
+    "The original judgment remains subject to review; thus, execution must be stayed until the review is concluded.",
+    "Allowing unilateral suspension of proceedings without transfer would deny access to justice, violating fundamental legal principles like those in Magna Carta.",
+    "The defendant’s own actions in obtaining an incomplete order caused undue delay, but the procedural defect rendered the order invalid.",
+    "The review process initiated under section 84(1) remains in force despite the improper intervention.",
+    "Courts must interpret statutory provisions (like section 71) as an integrated whole to preserve legal coherence.",
+    "No costs were awarded due to the appellant's role in creating procedural delay through an invalid order."
+  ],
+  "confidenceNotes": "The document is a clear judicial opinion from the West Africa Court of Appeal with full reasoning. All details including judges, dates, statutes, and procedural history are explicitly stated. Attribution of roles and citations is highly reliable.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/GEORGINA  LUTTERODT.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:28:39.334Z",
+    "plainTextLength": 7983
+  },
+  "trialDate": "1934-11-28"
+}

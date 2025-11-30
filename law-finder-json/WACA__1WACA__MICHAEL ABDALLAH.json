@@ -1,0 +1,65 @@
+{
+  "caseTitle": "MICHAEL ABDALLAH",
+  "summary": "In Michael Abdallah v. S.J.S. Barlatt (WACA, October 1931), the plaintiff-appellant sued to recover \u0001,156 from the defendant-respondent, a solicitor, who had received money on the plaintiff's behalf. The defendant claimed a right to retain the funds under a written agreement entitling him to 2.5% of claims filed plus 10% of amounts recovered. While the trial judge accepted the defendant's version of the agreement, the West African Court of Appeal held that the 10% recovery clause constituted champerty—an illegal agreement where a solicitor financially benefits from litigation proceeds. Citing common law principles, the court ruled such agreements are void as they amount to unlawful maintenance and undermine judicial integrity. Notably, the court exercised its authority *proprio motu* to invalidate the agreement despite no formal plea of illegality at trial, emphasizing that enforcing such a contract would contravene public policy. The appeal was allowed, judgment entered for the plaintiff for \u0001,156 with costs in the appellate court, but no order was made on costs in the lower court due to the unraised issue.",
+  "legalKeywords": [
+    "champerty",
+    "illegality",
+    "legal practitioners",
+    "agreement",
+    "maintenance",
+    "public policy",
+    "solicitor-client agreement",
+    "void contract",
+    "secondary evidence",
+    "proprietary motive",
+    "professional misconduct",
+    "litigation funding"
+  ],
+  "topics": [
+    "Contract Law",
+    "Legal Ethics",
+    "Appellate Procedure",
+    "Public Policy",
+    "Champerty and Maintenance"
+  ],
+  "verdict": "Appeal allowed; judgment for plaintiff for \u0001,156 with appellate costs.",
+  "winningSide": "Plaintiff-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Deane",
+      "role": "Chief Justice, The Gold Coast Colony"
+    },
+    {
+      "name": "McRoberts",
+      "role": "Acting Chief Justice, Sierra Leone"
+    },
+    {
+      "name": "Sawrey-Cookson",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "(1919) 2 K.B. 562",
+    "Neville v. London' Express' Newspaper Ld. (1919) A.C. 368"
+  ],
+  "rationaleHighlights": [
+    "An agreement where a solicitor receives a percentage of amounts recovered is champertous and unenforceable.",
+    "Champerty undermines impartiality and offends public policy by giving the solicitor a financial stake in litigation.",
+    "The court may raise illegality sua sponte when the agreement itself is inherently illegal.",
+    "The solicitor cannot retain funds under an illegal agreement even if not challenged at trial.",
+    "The appeal succeeded because the champertous agreement was the foundation of the defendant's defense."
+  ],
+  "confidenceNotes": "High confidence; facts are clearly stated in judgment with direct legal reasoning and authoritative citations.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/MICHAEL ABDALLAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:43:18.404Z",
+    "plainTextLength": 8440
+  }
+}

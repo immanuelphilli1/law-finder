@@ -1,0 +1,84 @@
+{
+  "caseTitle": "ANNA VICTORIA BART Vs NANA EGYEI FOAH",
+  "summary": "This 2011 Supreme Court of Ghana decision in Anna Victoria Bart Plange v. Nana Egyei Foah centered on a land ownership dispute over a parcel at Momofra Akyenim in the Central Region. The plaintiff claimed ancestral ownership dating to the 19th century, while the defendant admitted prior ownership by the plaintiff's family but asserted a valid 1944 purchase by his ancestors, documented by a registered deed (No. 273A/1945). The trial High Court dismissed the plaintiff's claim, finding insufficient evidence to prove boundaries or disprove the sale, and ruled in favor of the defendant’s counterclaim. The Court of Appeal affirmed, and the Supreme Court upheld this decision, emphasizing the credibility of the defendant's ancient document under Section 130(2) of the Evidence Act, NRCD 323, and the lack of corroborative evidence from the plaintiff to support fraud allegations. The defendant's long possession and the probative value of the registered deed were pivotal in affirming title.",
+  "legalKeywords": [
+    "land ownership",
+    "title to land",
+    "deed of conveyance",
+    "ancient document",
+    "burden of proof",
+    "fraud allegation",
+    "hearsay evidence",
+    "possession of land",
+    "counterclaim",
+    "estoppel",
+    "registered deed",
+    "Evidence Act NRCD 323",
+    "adverse possession",
+    "family property",
+    "ancestral land",
+    "alienation of land",
+    "capacity to alienate",
+    "corroborative evidence",
+    "judicial precedent",
+    "civil procedure"
+  ],
+  "topics": [
+    "Property Law",
+    "Land Dispute",
+    "Supreme Court Judgment",
+    "Evidence Law",
+    "Family Inheritance"
+  ],
+  "verdict": "The appeal was dismissed; the decision of the Court of Appeal affirming the High Court's judgment in favor of the defendant was upheld.",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "GBADEGBE, JSC",
+      "role": "Delivering the judgment"
+    },
+    {
+      "name": "ATUGUBA, JSC",
+      "role": "Presiding"
+    },
+    {
+      "name": "AKUFFO (MS), JSC",
+      "role": "Member of the bench"
+    },
+    {
+      "name": "ANIN-YEBOAH, JSC",
+      "role": "Member of the bench"
+    },
+    {
+      "name": "AKOTO-BAMFO (MRS), JSC",
+      "role": "Member of the bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Mary Conduah v Adzaye",
+    "Evidence Act, NRCD 323, Section 130(2)"
+  ],
+  "rationaleHighlights": [
+    "The defendant's registered deed from 1944 qualified as an ancient document under Section 130(2) of the Evidence Act, enhancing its credibility.",
+    "The plaintiff failed to provide corroborative evidence to support his claim or allegations of fraud.",
+    "The trial court properly evaluated evidence and found the defendant's version more credible.",
+    "Long and uninterrupted possession by the defendant supported the claim of ownership.",
+    "The burden of proof was not discharged by the plaintiff regarding boundaries and ancestral gift for cultivation.",
+    "The Court of Appeal had no reason to disturb the trial court's findings.",
+    "Estoppel was considered based on a prior judgment but did not alter the outcome.",
+    "The defendant's ancestors paid consideration and obtained a duly executed and registered conveyance."
+  ],
+  "confidenceNotes": "The summary is based on a complete review of the provided judgment text. All key legal points, parties, and reasoning are accurately reflected with high confidence. The case is unreported but sourced from an official Supreme Court record.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/ANNA VICTORIA BART Vs NANA EGYEI FOAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:08:25.514Z",
+    "plainTextLength": 25795
+  }
+}

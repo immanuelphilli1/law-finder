@@ -1,0 +1,70 @@
+{
+  "caseTitle": "ECOBANK GH. LTD. v. CONFIDENCE LINE LTD., DANIEL ROBERT",
+  "summary": "The Court of Appeal in Accra, Ghana, delivered a judgment in the case of Ecobank Ghana Ltd. v. Confidence Line Ltd., Daniel Robert Ofei, and the Bank of Ghana, concerning a disputed financial transaction involving the transfer of FFR 465,120 to Togo. The plaintiff bank claimed it had authority to transfer funds to settle both a new and pre-existing debt owed by the first defendant to a supplier in Togo. While the trial court upheld the transaction as authorized under the credit agreement, the appellate court found that the evidence did not support the conclusion that the funds—particularly the amount for the prior debt—were properly credited to the supplier’s account. The central issue was whether the transfer was authorized and regular under banking practice, and whether interest could be charged on undischarged amounts. The Court of Appeal determined that the transfer for the existing debt lacked clear authorization and was irregular, especially since the Bank of Ghana later ordered its reversal. The court emphasized that interest could only accrue on actually disbursed funds, which had not occurred in this case due to non-crediting of the beneficiary’s account.",
+  "legalKeywords": [
+    "banking law",
+    "credit facility",
+    "authorisation",
+    "fraud",
+    "repatriation",
+    "interest accrual",
+    "overdraft agreement",
+    "security mortgage",
+    "financial regulation",
+    "appellate review"
+  ],
+  "topics": [
+    "Banking and Finance",
+    "Contract Law",
+    "Appellate Procedure",
+    "Monetary Transactions",
+    "Regulatory Compliance"
+  ],
+  "verdict": "Appeal allowed in part",
+  "winningSide": "Plaintiff/Appellant (Ecobank Ghana Ltd.)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Benin, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ansa, J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebo, J.A.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Exhibit E",
+    "Exhibit 1",
+    "Exhibit N",
+    "Exhibit 5, 5A, 5B",
+    "Exhibit 26"
+  ],
+  "rationaleHighlights": [
+    "The transfer of FFR 465,120 for an existing debt lacked explicit authorization in the original offer letter (Exhibit E).",
+    "Although Exhibit 1 modified terms to include payment of prior debt, no evidence showed actual crediting of funds to the supplier’s account.",
+    "The trial court’s finding that funds were credited was not supported by bank statements from Togo.",
+    "A fax from Ecobank Togo (Exhibit N) claimed crediting, but lacked corroboration via official advice or account statements.",
+    "The Bank of Ghana ordered repatriation, indicating regulatory irregularity in the transfer.",
+    "Interest was improperly charged on non-disbursed funds, contrary to contractual terms.",
+    "The plaintiff failed to explain the discrepancy between transfer and crediting, raising accountability concerns.",
+    "Defendants did not dispute authorization in principle but challenged execution and proof of payment."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; some reasoning inferred from partial text due to truncation, but key holdings on authorization, disbursement, and interest are clearly supported.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/ECOBANK GH. LTD. v. CONFIDENCE LINE LTD., DANIEL ROBERT OFFEI, BANK OF GHANA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:35:18.868Z",
+    "plainTextLength": 34473
+  },
+  "trialDate": "2001-01-25"
+}

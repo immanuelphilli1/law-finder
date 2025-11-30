@@ -1,0 +1,94 @@
+{
+  "caseTitle": "FEDERATION OF YOUTH ASSOCIATIONOF GHANA",
+  "summary": "The Federation of Youth Associations of Ghana (FEDYAG) brought an action before the Supreme Court of Ghana challenging the fee-paying policy of public universities as unconstitutional, arguing it violated the right to equal educational opportunities under Article 25 of the 1992 Constitution. The plaintiff contended that the policy allowed wealthier but less qualified students to gain admission over more qualified indigent applicants, thereby undermining constitutional guarantees. The defendants, including public universities and state education bodies, argued that the fee-paying policy did not diminish merit-based admissions and that revenues generated were reinvested to expand access and support scholarships. The Court held that Article 25(1) guarantees equal educational opportunities but is qualified by institutional capacity and the need for progressive realization. It found that the fee-paying policy, if implemented without reducing merit-based quotas and used to enhance educational access, does not contravene the Constitution. The judgment emphasized the state's obligation under Article 38 to provide educational facilities subject to available resources.",
+  "legalKeywords": [
+    "right to education",
+    "equal educational opportunities",
+    "constitutional interpretation",
+    "fee-paying policy",
+    "non-discrimination",
+    "public universities",
+    "merit-based admission",
+    "progressive realization",
+    "state obligation",
+    "cost-sharing in education",
+    "access to higher education",
+    "affirmative action",
+    "funding of education",
+    "tertiary education policy",
+    "constitutional rights"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Education Law",
+    "Human Rights",
+    "Administrative Law",
+    "Access to Justice"
+  ],
+  "verdict": "The Supreme Court dismissed the plaintiff's claim, ruling that the fee-paying policy of public universities does not violate the 1992 Constitution provided it does not undermine merit-based admissions and is used to expand educational access.",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adinyira (Mrs.)",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "Atuguba",
+      "role": "JSC (Presiding)"
+    },
+    {
+      "name": "Akuffo (Ms)",
+      "role": "JSC"
+    },
+    {
+      "name": "Brobbey",
+      "role": "JSC"
+    },
+    {
+      "name": "Ansa",
+      "role": "JSC"
+    },
+    {
+      "name": "Owusu (Ms)",
+      "role": "JSC"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "JSC"
+    },
+    {
+      "name": "Gbadebe",
+      "role": "JSC"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs.)",
+      "role": "JSC"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "1992 Constitution of Ghana, art. 25",
+    "Edusei (No.2) v. Attorney General (1998-99) SCGLR 753",
+    "Universal Declaration of Human Rights, art. 26"
+  ],
+  "rationaleHighlights": [
+    "Article 25(1) of the 1992 Constitution guarantees equal educational opportunities but is subject to institutional capacity and progressive implementation.",
+    "The fee-paying policy does not violate constitutional rights if it does not reduce the quota for merit-based admissions.",
+    "Revenue from fee-paying students is used to expand access and support scholarships, aligning with the state's duty under Article 38.",
+    "The Constitution allows for cost-sharing in education due to resource constraints.",
+    "Equal access must be based on merit and institutional capacity, not financial ability alone."
+  ],
+  "confidenceNotes": "The judgment is from the Supreme Court of Ghana and directly interprets constitutional provisions; citations are explicitly referenced in the text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/FEDERATION OF YOUTH ASSOCIATIONOF GHANA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:05:47.544Z",
+    "plainTextLength": 73530
+  },
+  "trialDate": "2009-05-01"
+}

@@ -1,0 +1,80 @@
+{
+  "caseTitle": "KOWUS MOTORS v CHECK POINT GH. LTD. 7 ORS",
+  "summary": "The Supreme Court of Ghana dismissed the appeal filed by Kowus Motors on the grounds that the company lacked locus standi to initiate the action. At the time the suit was commenced, Kowus Motors had already ceased to exist due to a statutory merger under the Transfer of Shares and Merger (Kowus Motors, Kaasbohrer Ghana Limited and Ghana Assembly Plant) Decree, 1979 (AFRCD 60), which merged it into Automotive and Technical Services Limited (ATS). Despite the subsequent repeal of AFRCD 60 by the Statute Law Revision Act, 1997 (Act 543), the repeal did not automatically revive the company’s legal existence. The Court held that an action brought by a non-existent corporate entity is a nullity, citing both local and English authorities. The respondents’ late-raised point of law was entertained under an exception to procedural rules because it raised a substantial legal issue determinable without additional evidence. The appeal was dismissed.",
+  "legalKeywords": [
+    "locus standi",
+    "corporate existence",
+    "merger",
+    "nullity of action",
+    "limitation period",
+    "corporate capacity",
+    "dissolution",
+    "transfer of shares",
+    "legal personality",
+    "statutory repeal",
+    "procedural technicality"
+  ],
+  "topics": [
+    "Corporate Law",
+    "Procedural Law",
+    "Judicial Review",
+    "Legal Standing",
+    "Merger and Acquisition"
+  ],
+  "verdict": "The appeal was dismissed on the grounds that the plaintiff lacked legal capacity to sue due to prior dissolution by statutory merger.",
+  "winningSide": "Defendants/Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "W. A. Atuguba",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Dr. S. K. Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "J. Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "S. O. A. Adinyira (Mrs)",
+      "role": "Justice"
+    },
+    {
+      "name": "J. V. M. Dotse",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "A–G v. FAROE ATLANTIC CO. LTD. [2005–2006] SCGLR 271",
+    "Edusei v. Diners Club Suisse S.A. (1982–83) GLR 809",
+    "Republic v. High Court, Accra; Ex parte Attorney-General (Delta Foods Case) (1998–99) SCGLR 614",
+    "Ghana Industrial Holding Corporation v Vincenta Publications [1971] 2 GLR 24",
+    "Mussey v Darko [1977] 1 GLR 147",
+    "Ghana Ports & Harbours Authority v Issoufou [1991] 1 GLR 500",
+    "Kimon Compania Naviera SARP v Volta Lines Ltd [1973] 1 GLR 140",
+    "Wadad Haddad Fisheries v State Insurance Corporation [1973] 1 GLR 501",
+    "International Bulk Shipping and Services Ltd. v Minerals and Metals Trading Corp of India [1996] 1 All ER 1017"
+  ],
+  "rationaleHighlights": [
+    "An action brought by a company that ceased to exist prior to commencement is a legal nullity.",
+    "Merger under AFRCD 60 extinguished the legal identity of Kowus Motors, which became part of Automotive and Technical Services Limited.",
+    "Repeal of AFRCD 60 by Act 543 did not revive the defunct company’s legal status.",
+    "Courts cannot entertain suits by non-existent legal entities, even if the issue is raised for the first time on appeal, when the question is substantial and requires no further evidence.",
+    "Substitution of parties cannot cure a nullity where the original plaintiff never legally existed at the time of filing."
+  ],
+  "confidenceNotes": "High confidence in the accuracy of factual details as they are drawn directly from the Supreme Court's judgment and supported by authoritative legal citations.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2008/KOWUS MOTORS v  CHECK POINT GH. LTD. 7 ORS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:15:01.468Z",
+    "plainTextLength": 15431
+  },
+  "trialDate": "2008-10-05"
+}

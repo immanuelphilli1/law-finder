@@ -1,0 +1,73 @@
+{
+  "caseTitle": "ANKUJEH AND 99 OTHERS v. GTP",
+  "summary": "In Simon Ankujeh and 99 Others v. GTP, the applicants sought leave to adduce fresh evidence in the Court of Appeal during an ongoing appeal concerning end-of-service benefits. The fresh evidence aimed to establish that senior and junior staff were employed under different conditions of service, contradicting their consistent position in the High Court that all staff shared the same conditions. The Court of Appeal dismissed the application, citing Court of Appeal Rules (CI 19, rules 26 and 31), and relying on Sasu v. Amua-Sekyi, which holds that appellate courts must base decisions on evidence before the trial court. Introducing contradictory fresh evidence would transform the appellate court into a court of first instance. The court emphasized that the pending appeal concerned statutory interpretation of NLCD 157, ss.34 and 35, and NLCD 342, not service conditions, rendering the proposed evidence irrelevant to the legal issue at hand.",
+  "legalKeywords": [
+    "fresh evidence",
+    "Court of Appeal Rules",
+    "CI 19",
+    "statutory interpretation",
+    "end of service benefits",
+    "severance benefits",
+    "appellate procedure",
+    "contradictory evidence",
+    "NLCD 157",
+    "NLCD 342",
+    "conditions of service",
+    "amendment of pleadings",
+    "interest of justice",
+    "oral examination",
+    "affidavit evidence"
+  ],
+  "topics": [
+    "Labor Law",
+    "Appellate Procedure",
+    "Employment Benefits",
+    "Judicial Evidence"
+  ],
+  "verdict": "Application dismissed",
+  "winningSide": "Respondent (GTP)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "S. A. Brobbey",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Mrs. G. T. Wood",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "P. K. Twumasi",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Motion",
+  "citations": [
+    "Sasu v. Amua-Sekyi [1987-88] 1 GLR 294",
+    "Court of Appeal Rules, 1997 (CI 19), rules 26 and 31",
+    "NLCD 157, ss.34 and 35",
+    "NLCD 342"
+  ],
+  "rationaleHighlights": [
+    "Appellate courts must decide based on evidence before the trial court.",
+    "Fresh evidence cannot contradict the original case presented at trial.",
+    "Introducing new contradictory evidence transforms the appellate court into a court of first instance.",
+    "The core issue was statutory interpretation, not service conditions, making the evidence irrelevant.",
+    "Amendment of pleadings was speculative and not yet effected.",
+    "Rule 31 cannot override the limitations imposed by Rule 26 on fresh evidence.",
+    "Allowing the application would undermine procedural fairness and finality.",
+    "The applicants' change in position created internal inconsistency in their case."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and citation of applicable rules and precedent. All details are directly extracted from the judgment text.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/SIMON ANKUJEH AND 99 OTHERS v. GTP.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:03:48.979Z",
+    "plainTextLength": 7761
+  },
+  "trialDate": "2000-05-04"
+}

@@ -1,0 +1,77 @@
+{
+  "caseTitle": "OF THE COURT OF APPEAL VERSUS ARHIN DAVIS & NORTEY",
+  "summary": "This Court of Appeal judgment from Ghana affirms the High Court's dismissal of a land title claim brought by Ebusuapanin Yaa Kwasi and later joined by Ebusuapanin Kwamina Badu against Arhin Davis and Nortey. The plaintiffs claimed ownership of land in Anagye, asserting ancestral possession and a prior arbitration award. The 1st defendant, Arhin Davis, relied on a 1912 judgment (LTC Davis v. Norweh) where the plaintiffs’ ancestress, Araba Ayah, testified to having sold the land at auction to his grandfather, L.T.C. Davis. The Court upheld the doctrine of estoppel per rem judicatam, holding that the plaintiffs, as successors-in-title to Araba Ayah, were bound by her prior judicial admission. Exhibits 1 (certified 1912 judgment) and 2 (1927 certified plan) were authenticated under section 146 of the Evidence Decree and deemed admissible. The Court rejected arguments that the trial was a nullity due to the late joinder of the 3rd defendant, noting he became a co-defendant and did not prejudice the plaintiffs. It also found no error in the trial judge’s reliance on the 1912 judgment or failure to require production of a certificate of purchase, as the judicial record confirmed its issuance. The 1st defendant’s capacity to sue was affirmed under Davis v. Randull (1963), recognizing Sierra Leonean familial succession in Ghanaian property. Ultimately, the appeal was dismissed, with the Court reinforcing the binding effect of prior judicial admissions in land disputes.",
+  "legalKeywords": [
+    "estoppel per rem judicatam",
+    "issue estoppel",
+    "land title dispute",
+    "hearsay evidence",
+    "admission against interest",
+    "family land ownership",
+    "inheritance rights",
+    "Sierra Leonean descent",
+    "traditional land tenure",
+    "evidence authentication",
+    "ancient documents",
+    "survey plan",
+    "judicial precedent",
+    "cross-examination rights",
+    "procedural fairness"
+  ],
+  "topics": [
+    "land ownership",
+    "estoppel",
+    "evidence law",
+    "inheritance",
+    "procedural fairness"
+  ],
+  "verdict": "Appeal dismissed; High Court judgment affirmed.",
+  "winningSide": "Defendants/Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Twumasi, J.A.",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Wood, J.A.",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Akoto-Bamfor, J.A.",
+      "role": "panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "LTC Davis vrs. Norweh (1912)",
+    "Parker vrs. Arabah Aryah",
+    "Davis v. Randull (1963) 1 GLR 382",
+    "Halsburys Laws of England 3rd Edition Vol. 15",
+    "Evidence Decree 1975 (NRCD 373)",
+    "section 117–118",
+    "section 146 of the Evidence Decree 1975 (NRCD 323)"
+  ],
+  "rationaleHighlights": [
+    "Exhibits 1 and 2 (1912 judgment and 1927 certified plan) authenticated under section 146 of the Evidence Decree and deemed genuine due to age, custody, and lack of suspicion.",
+    "Statement by ancestress Araba Ayah that she sold the land constituted an admission against proprietary interest, binding on her descendants under sections 117–118 of NRCD 373.",
+    "Plaintiff estopped despite not being party to 1912 suit because he claims through Baya Ayah, whose testimony bound successors.",
+    "Trial judge properly admitted evidence; no miscarriage of justice from non-production of certificate of purchase, as judicial record confirmed its existence.",
+    "3rd defendant’s late joinder did not vitiate trial; his testimony inadvertently strengthened defendant’s case.",
+    "1st defendant had capacity to sue as heir under Sierra Leonean-Ghanaian succession principles affirmed in Davis v. Randull (1963).",
+    "Multiple judgments (including Parker v. Arabah Aryah) reinforced estoppel against plaintiffs’ claims.",
+    "Surveyor Andrew Essien’s testimony confirmed identity and location of disputed land at Kotokobun."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed court record, authenticated exhibits, and consistent judicial reasoning. Some document truncation noted but key holdings preserved.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/EBUSUAPANIN YAA KWASI &  EBUSUAPANIN KWAMINA BADU v. ARHIN DAVIS & NORTEY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:35:45.620Z",
+    "plainTextLength": 16375
+  },
+  "trialDate": "2002-11-28"
+}

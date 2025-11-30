@@ -1,0 +1,69 @@
+{
+  "caseTitle": "KWASI TUTU ALIAS EMMANUEL TUTU BOAKYE v KWAME DAPAA,",
+  "summary": "In this 1952 West African Court of Appeal case from the Gold Coast (Ghana), the appellant, Kwasi Tutu alias Emmanuel Tutu Boakye, challenged a lower court judgment entered in favor of the respondent, Kwame Dapaa, in a dispute over the alleged fraudulent sale of land. The lower court had ordered pleadings without recording reasons, contrary to Order 25, rules 1 and 2, and entered judgment when the defendant failed to file a defence. The appellate court held that the order for pleadings was a nullity due to non-compliance with mandatory procedural rules, particularly the failure to record reasons. Although the defendant did not inform the court of his inability to understand English, the court emphasized adherence to legal rights. The real issue was the authenticity of the deed, not land ownership, so jurisdiction was proper. The appeal was allowed, and the case was remitted for retrial.",
+  "legalKeywords": [
+    "pleadings",
+    "jurisdiction",
+    "forgery",
+    "deed of sale",
+    "summary trial",
+    "Order 25 rule 1",
+    "Order 25 rule 2",
+    "nullity",
+    "customary law",
+    "declaration of title",
+    "cancellation of sale",
+    "illiteracy",
+    "procedural compliance",
+    "interests of justice",
+    "ex parte judgment"
+  ],
+  "topics": [
+    "procedural law",
+    "property law",
+    "jurisdiction",
+    "appeal",
+    "fraud"
+  ],
+  "verdict": "Appeal allowed; judgment set aside; case remitted for retrial.",
+  "winningSide": "Appellant (Kwasi Tutu alias Emmanuel Tutu Boakye)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Manyo-Plange",
+      "role": "judge"
+    },
+    {
+      "name": "Foster-Sutton",
+      "role": "president"
+    },
+    {
+      "name": "Coussey",
+      "role": "judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Adu Kofi v. Chief Kwesi'Brentuo, 10 W.A.C.A. 92"
+  ],
+  "rationaleHighlights": [
+    "The real issue was the genuineness of the deed, not ownership of land, so the court had jurisdiction.",
+    "Order for pleadings was a nullity due to failure to record reasons as required by Order 25, rule 1.",
+    "Defendant did not understand English, implicating concerns under Order 25, rule 2.",
+    "Despite defendant's inaction, legal rights must be upheld.",
+    "The case was simple (fraudulent cancellation), not complex, so pleadings were unnecessary.",
+    "Appeal allowed and case remitted for retrial to ensure procedural fairness."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment, including procedural violations and jurisdictional analysis.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/KWASI TUTU ALIAS EMMANUEL TUTU BOAKYE  v KWAME DAPAA,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:35:32.778Z",
+    "plainTextLength": 11242
+  },
+  "trialDate": "1952-01-14"
+}

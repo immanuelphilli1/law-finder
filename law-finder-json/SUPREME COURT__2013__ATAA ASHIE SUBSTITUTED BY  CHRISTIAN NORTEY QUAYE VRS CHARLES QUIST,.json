@@ -1,0 +1,71 @@
+{
+  "caseTitle": "ATAA ASHIE SUBSTITUTED BY CHRISTIAN NORTEY QUAYE VRS CHARLES QUIST,",
+  "summary": "This Supreme Court of Ghana decision addresses a civil appeal concerning the timeliness and jurisdictional validity of an appeal against a High Court judgment. The appellant sought to challenge a 2004 default judgment that had been upheld on a counterclaim, arguing it was obtained by fraud and based on a cancelled land title, and that he was not notified of proceedings. The Court of Appeal dismissed the appeal as out of time, holding that the High Court lacked jurisdiction to grant an extension of time after 22 months. The Supreme Court affirmed this, emphasizing that appeals are creatures of statute and must comply strictly with procedural rules, including time limits. It clarified that while void judgments can be challenged at any time under Mosi v. Bagyina, the proper procedural vehicle must be used, and an untimely appeal cannot be revived by alleging fraud. The appellant had previously failed to appeal the dismissal of his motion to set aside the judgment, thereby accepting its finality. The Supreme Court upheld the Court of Appeal's dismissal, reinforcing that jurisdiction cannot be assumed over an out-of-time appeal, regardless of the merits.",
+  "legalKeywords": [
+    "appeal",
+    "extension of time",
+    "void judgment",
+    "fraud",
+    "jurisdiction",
+    "procedural compliance",
+    "counterclaim",
+    "default judgment",
+    "Court of Appeal Rules",
+    "Land Title Registry"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Judicial Fraud",
+    "Land Title Dispute",
+    "Procedural Compliance",
+    "Jurisdiction"
+  ],
+  "verdict": "The appeal was dismissed. The Supreme Court upheld the Court of Appeal's ruling that the appeal was filed out of time and that the High Court lacked jurisdiction to grant an extension of time. The default judgment remained valid due to procedural non-compliance by the appellant.",
+  "winningSide": "Respondent (Charles Quist)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Benin, J.S.C.",
+      "role": "Presiding Judge delivering judgment"
+    },
+    {
+      "name": "Dr. Date-Bah, J.S.C.",
+      "role": "Member of the Coram"
+    },
+    {
+      "name": "Anin Yeboah, J.S.C.",
+      "role": "Member of the Coram"
+    },
+    {
+      "name": "Baffoe Bonnie, J.S.C.",
+      "role": "Member of the Coram"
+    },
+    {
+      "name": "Akamba, J.S.C.",
+      "role": "Member of the Coram"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Mosi v. Bagyina (1963) 1 G.L.R. 337 S.C",
+    "Nye v. Nye (1964) G.L.R 95",
+    "Nye v. Nye (1967) G.L.R 76"
+  ],
+  "rationaleHighlights": [
+    "An appeal filed out of time without valid extension is incompetent, regardless of the merits.",
+    "A judgment alleged to be void must be challenged through appropriate procedural mechanisms within statutory timeframes.",
+    "Courts lack jurisdiction to hear appeals filed beyond statutory limits, even if based on fraud.",
+    "The Mosi v. Bagyina principle does not override procedural rules for filing appeals."
+  ],
+  "confidenceNotes": "The judgment is from the Supreme Court of Ghana and directly addresses procedural and jurisdictional issues in appellate practice. Citations are explicitly referenced and authoritatively interpreted.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/ATAA ASHIE SUBSTITUTED BY  CHRISTIAN NORTEY QUAYE VRS CHARLES QUIST,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:17:35.806Z",
+    "plainTextLength": 16712
+  }
+}

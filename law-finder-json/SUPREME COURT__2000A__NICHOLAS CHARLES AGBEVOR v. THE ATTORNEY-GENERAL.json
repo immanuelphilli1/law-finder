@@ -1,0 +1,78 @@
+{
+  "caseTitle": "NICHOLAS CHARLES AGBEVOR v. THE ATTORNEY-GENERAL",
+  "summary": "In Nicholas Charles Agbevor v. The Attorney-General (Supreme Court, 2000), the plaintiff, a 2nd Deputy Judicial Secretary, challenged his removal from the Judicial Service by the President based on alleged incompetence. The Supreme Court held that the President's action violated Articles 151 and 127 of the 1992 Constitution, which vest exclusive authority to remove judicial officers in the Chief Justice following due process and safeguard judicial independence. The Court ruled that the plaintiff qualified as a judicial officer under Article 161(b), and thus his removal by the President was unconstitutional. The Court further criticized the Judicial Council for improperly recommending the removal, breaching its constitutional duty to protect judicial independence.",
+  "legalKeywords": [
+    "judicial independence",
+    "removal of judicial officer",
+    "Article 151",
+    "Article 127",
+    "judicial officer definition",
+    "unconstitutional removal",
+    "President's powers",
+    "Judicial Council",
+    "due process",
+    "administrative autonomy",
+    "redeployment",
+    "misbehavior and incompetence",
+    "constitutional interpretation",
+    "separation of powers",
+    "judicial appointment"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Judiciary",
+    "Administrative Law",
+    "Public Service Discipline"
+  ],
+  "verdict": "The removal of the plaintiff by the President was declared unconstitutional and null and void.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "E.K. Wiredu",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Kpegah"
+    },
+    {
+      "name": "E.D.K. Adjahbeng"
+    },
+    {
+      "name": "Atuguba"
+    },
+    {
+      "name": "S.A.B. Akuffo",
+      "role": "Justice (Ms.)"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Challenge",
+  "citations": [
+    "Article 151(1), Constitution of Ghana",
+    "Article 127(1), Constitution of Ghana",
+    "Article 161, Constitution of Ghana",
+    "Judicial Service Regulations, L.I. 319, Section 28(2)"
+  ],
+  "rationaleHighlights": [
+    "The President lacks constitutional authority to remove judicial officers; only the Chief Justice may do so under Article 151.",
+    "The definition of 'judicial officer' includes deputies where they perform judicial administrative functions.",
+    "Removal for incompetence without due process violates constitutional safeguards.",
+    "Article 127 ensures judicial administrative autonomy from executive interference.",
+    "The Judicial Council acted unconstitutionally by recommending the removal to the President.",
+    "Provisions in pre-constitutional laws must be read subject to constitutional supremacy under Article 11(6).",
+    "The plaintiff was entitled to a hearing before removal, which was not granted.",
+    "The redeployment was a disciplinary measure, thus constituting removal in substance."
+  ],
+  "confidenceNotes": "The judgment is clear and unambiguous, with strong constitutional reasoning. All justices concurred, indicating high internal consistency. The ruling reinforces judicial independence and limits executive overreach.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2000A/NICHOLAS CHARLES AGBEVOR v. THE ATTORNEY-GENERAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:47:38.099Z",
+    "plainTextLength": 28440
+  },
+  "trialDate": "12TH JULY 2000"
+}

@@ -1,0 +1,89 @@
+{
+  "caseTitle": "RICHARD ODUM BORTIER DANIEL QUAYE VS.THE ELECTORAL COMMISSION OF GHANA, THE ATTORNEY GENERAL",
+  "summary": "The plaintiffs sought declarations and orders requiring the Electoral Commission of Ghana to demarcate constituency boundaries in accordance with the egalitarian principle of fair representation under Article 47(3) and (4) of the 1992 Constitution, emphasizing population equality. They challenged the EC's past practices, including assigning fixed weights to population and land size and ensuring each district has a constituency, as leading to malapportionment. The Supreme Court dismissed the case, holding that the proper legal avenue for challenging boundary demarcation is via the tribunal established under Article 48 of the Constitution, not the Supreme Court's original jurisdiction. The plaintiffs were advised to pursue their claims before the newly constituted demarcation tribunal.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "electoral boundaries",
+    "fair representation",
+    "malapportionment",
+    "democratic principles",
+    "Electoral Commission",
+    "Article 47",
+    "Article 48",
+    "population quota",
+    "judicial review",
+    "original jurisdiction",
+    "tribunal appeal",
+    "constitutional remedy",
+    "locus standi",
+    "boundary demarcation"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Election Law",
+    "Judicial Review"
+  ],
+  "verdict": "The case was dismissed on the grounds that the plaintiffs should have pursued their challenge through the tribunal mechanism under Article 48 of the Constitution, not the Supreme Court’s original jurisdiction.",
+  "winningSide": "Defendants (Electoral Commission of Ghana and Attorney General)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "S. A. B. Akuffo (Ms.)",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "W. A. Atuguba",
+      "role": "Justice"
+    },
+    {
+      "name": "S. A. Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "J. Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "S. O. Adinyira (Mrs.)",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "P. Baffoe-Bonne",
+      "role": "Justice"
+    },
+    {
+      "name": "N. S. Gbadegbe",
+      "role": "Justice"
+    },
+    {
+      "name": "V. Akoto-Bamfo (Mrs.)",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Challenge",
+  "citations": [
+    "Article 47, Constitution of Ghana, 1992",
+    "Article 48, Constitution of Ghana, 1992"
+  ],
+  "rationaleHighlights": [
+    "The plaintiffs' challenge relates to boundary demarcation, which is subject to a specific constitutional remedy under Article 48.",
+    "Article 48 establishes a tribunal as the first appellate body for such disputes, followed by the Court of Appeal.",
+    "The Supreme Court cannot exercise original jurisdiction where the Constitution prescribes a specific dispute resolution mechanism.",
+    "The plaintiffs were advised to file their claims before the newly constituted demarcation tribunal."
+  ],
+  "confidenceNotes": "High confidence; all information is directly derived from the official judgment text and constitutional provisions cited therein.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/RICHARD ODUM BORTIER   DANIEL QUAYE VS.THE ELECTORAL COMMISSION  OF GHANA, THE ATTORNEY GENERAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:22:11.907Z",
+    "plainTextLength": 12289
+  }
+}

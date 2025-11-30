@@ -1,0 +1,34 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The document titled 'GHANA LAW FINDER' is not a judicial decision but a self-help legal resource guide providing access to case and subject matter indices. It references the West African Law Reports and offers library services, but contains no case details, judgment, or legal analysis. As such, no judicial insights or rulings can be extracted.",
+  "legalKeywords": [
+    "Ghana",
+    "law",
+    "legal library",
+    "case index",
+    "West African Law Reports"
+  ],
+  "topics": [
+    "Legal Research",
+    "Case Index",
+    "Law Library"
+  ],
+  "verdict": "No verdict available; document is not a case decision.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "unknown",
+    "country": "Ghana"
+  },
+  "caseType": "unavailable",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The provided document does not contain a legal decision or case content. It appears to be a homepage or index for a legal database or library service, with no substantive case information.",
+  "metadata": {
+    "sourcePath": "WALR/T TEM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T09:53:02.362Z",
+    "plainTextLength": 304
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "caseTitle": "OBENG AKESSE (ODAUHENE OF OTWERESO) .",
+  "summary": "This 1935 West Africa Court of Appeal decision in Accra involved consolidated cross-actions between the Stool of Otwereso, represented by Odauhene Obeng Akesse, and the Stool of Adjobue, represented by Odikro Takie Ababio, over disputed land between their villages. The land dispute had significant implications due to differing paramount chiefs' jurisdictions. The trial court granted the plaintiff a declaration of title and injunction, which the defendant appealed, arguing the judgment was against the weight of evidence. The appellate court upheld the trial judge's findings, accepting the credibility of the plaintiff's evidence, including the swearing of an oath that initiated the dispute and explained non-interference with cocoa farms established by the defendant's people in the last twenty years. The court emphasized deference to the trial judge's assessment of witness credibility while asserting its role in drawing independent inferences from proven facts, ultimately dismissing the appeal.",
+  "legalKeywords": [
+    "declaration of title",
+    "injunction",
+    "weight of evidence",
+    "appellate review",
+    "customary land tenure",
+    "stool land",
+    "boundary dispute",
+    "native tribunal jurisdiction",
+    "oath swearing",
+    "cocoa farm possession",
+    "paramount chief jurisdiction",
+    "cross-actions",
+    "consolidated actions",
+    "non-acquiescence",
+    "long possession"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Customary Law",
+    "Injunctions",
+    "Evidence Law"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Plaintiff-Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Cor Deane",
+      "role": "Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Land Dispute",
+  "citations": [
+    "WACA/2/1935",
+    "Obeng Akesse v. OdiKro Takie Ababio (1935) WACA"
+  ],
+  "rationaleHighlights": [
+    "Appellate court must defer to trial judge's credibility findings but may independently assess inferences from facts.",
+    "Long possession by defendant's people on disputed land was recent and not acquiesced in by plaintiff.",
+    "Swearing of an oath marked the beginning of the dispute and justified non-action by plaintiff's people.",
+    "Native tribunal lacked jurisdiction due to inter-chiefdom dispute, preventing earlier resolution.",
+    "Plaintiff provided sufficient evidence to prove customary title, while defendant failed to substantiate claim.",
+    "Cocoa farming by defendant's people did not establish adverse possession due to contested nature from outset.",
+    "Boundary determination had implications for paramount chiefs' jurisdictional boundaries.",
+    "Court found no reason to overturn trial judge's factual conclusions based on evidence."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on primary source document from Ghana Law Finder. Some procedural details may be abbreviated in the original text, but core holdings and parties are clearly identified.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/OBENG AKESSE (ODAUHENE OF  OTWERESO) ..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:23:46.252Z",
+    "plainTextLength": 5469
+  },
+  "trialDate": "1935-05-21"
+}

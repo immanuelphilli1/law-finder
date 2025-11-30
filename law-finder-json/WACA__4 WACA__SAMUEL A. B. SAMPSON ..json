@@ -1,0 +1,69 @@
+{
+  "caseTitle": "SAMUEL A. B. SAMPSON .",
+  "summary": "This appeal arose from a judgment by the Divisional Court of the Central Province, which declared a writ of possession issued by the Provincial Commissioner's Court null and void for lack of jurisdiction. The writ had been issued in favor of Abraham Essell based on a Privy Council judgment. Samuel A. B. Sampson, as administrator of Rebecca Davis's estate, sought to set aside the writ on grounds of fraud and lack of jurisdiction. The West African Court of Appeal held that the Divisional Court lacked jurisdiction because the plaintiff had an alternative and more appropriate remedy: moving the issuing court (Provincial Commissioner's Court) to recall the writ, a motion which was already pending. The Court emphasized that where a remedy exists within the original court and an appeal lies to the West African Court of Appeal under Section 86 of the Native Administration (Colony) Ordinance, a collateral action in another court is impermissible. The appeal was allowed, the lower court's judgment was set aside, and the plaintiff's claim was dismissed.",
+  "legalKeywords": [
+    "jurisdiction",
+    "writ of possession",
+    "fraud",
+    "Native Administration Ordinance",
+    "provincial commissioner",
+    "divisional court",
+    "appeal",
+    "motion to recall",
+    "ultra vires",
+    "customary law",
+    "land dispute",
+    "judicial remedy",
+    "stay of execution",
+    "null and void",
+    "appellate review"
+  ],
+  "topics": [
+    "jurisdiction",
+    "land law",
+    "writ of possession",
+    "appellate procedure",
+    "fraud in legal proceedings"
+  ],
+  "verdict": "Appeal allowed; judgment of the Divisional Court set aside; plaintiff's claim dismissed.",
+  "winningSide": "Defendant-Appellant (Abraham Essell)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "Webb, C.J., Sierra Leone",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Cole v. Langford (1898) Q.B. 36",
+    "J. A. C. Mansu v. Kwarnin Etsiaku, West African Court of Appeal 13th May, 1936",
+    "Essie Nkumah v. J. T. Arthur (unreported, 4th July 1936)"
+  ],
+  "rationaleHighlights": [
+    "Divisional Court lacked jurisdiction to set aside a writ issued by the Provincial Commissioner's Court",
+    "Plaintiff had a pending and more appropriate remedy via motion in the issuing court",
+    "Appeal allowed due to lack of jurisdiction, not merits of fraud claim",
+    "Refusal to recall writ is appealable under Section 86 of Native Administration (Colony) Ordinance"
+  ],
+  "confidenceNotes": "High confidence in jurisdictional analysis; citation of unreported case noted but not binding.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/SAMUEL A. B. SAMPSON ..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:53:58.074Z",
+    "plainTextLength": 9548
+  },
+  "trialDate": "1938-11-28"
+}

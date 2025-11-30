@@ -1,0 +1,65 @@
+{
+  "caseTitle": "IN THE MATTER OF JOSEPH EDWARD BINEY (DECEASED), FREDERICK EMMANUEL EKUBAN, JOSEPH EMANUEL ADDO, JOSEPH ALPHEUS VINCENT CANN AND JOHN SAMUEL AKYIANU, & Co",
+  "summary": "This 1939 West African Court of Appeal decision addressed a motion to approve sureties for an appeal to the Privy Council. The appellant, Kwami Baisie, sought to vary an order requiring service of notice on all respondents, having only served one respondent and one solicitor. The court held that under the West African Court of Appeal Rules (1937), service on a party's solicitor is not equivalent to service on the party itself, and strict compliance with service requirements was necessary. As the condition of service on all respondents was not met, the application was refused with costs assessed at £1 10s. 6d.",
+  "legalKeywords": [
+    "service of notice",
+    "sureties",
+    "appeal to Privy Council",
+    "West African Court of Appeal Rules",
+    "conditional leave to appeal",
+    "motion to approve sureties",
+    "strict compliance",
+    "respondent service",
+    "procedural requirement",
+    "appellate procedure",
+    "security for costs",
+    "non-compliance",
+    "judicial order",
+    "costs assessment"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Civil Procedure",
+    "Legal Formalities",
+    "Service of Process"
+  ],
+  "verdict": "Application refused",
+  "winningSide": "Respondents",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Cor. Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Acting Chief Justice, Nigeria"
+    },
+    {
+      "name": "Strother-Stewart",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "West African Court of Appeal Rules (1937)"
+  ],
+  "rationaleHighlights": [
+    "Service on solicitor not equivalent to service on party",
+    "Strict compliance with court orders required",
+    "Rules do not permit substituted service by default",
+    "Conditional leave subject to full compliance",
+    "Notice must be served on all respondents"
+  ],
+  "confidenceNotes": "High confidence; information directly extracted from primary legal document with clear judicial reasoning and procedural context.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/IN M JOSEPH EDWARD BINEY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:47:23.967Z",
+    "plainTextLength": 3408
+  }
+}

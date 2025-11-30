@@ -1,0 +1,87 @@
+{
+  "caseTitle": "EBUSUAPANIN KOFI ASIEDU v. EBUSUAPANIN KWEKU APPIAH,",
+  "summary": "The Supreme Court of Ghana upheld the plaintiff's paramount or allodial title to the land known as MPREBUA in Breman Asikuma, affirming that the defendant's land (ABINA) was part of the plaintiff's larger parcel. While the Court of Appeal had granted the defendant usufructuary rights over portions he occupied, the Supreme Court found this determination unsatisfactory due to lack of clear findings on specific occupied areas and duration. The court dismissed the appeal on title but remitted the case to the trial court for fresh evidence to properly delineate areas of occupation and determine valid usufructuary interests. The Supreme Court also declined to uphold estoppel based on a 1980 settlement document (Exhibit 'A'), emphasizing the need for probative evidence on recent possession. No damages or injunction were ultimately awarded.",
+  "legalKeywords": [
+    "allodial title",
+    "usufructuary title",
+    "trespass",
+    "recovery of possession",
+    "declaration of title",
+    "estoppel",
+    "traditional evidence",
+    "recent acts of possession",
+    "boundary evidence",
+    "land dispute",
+    "paramount title",
+    "rent payment",
+    "undisturbed occupation",
+    "injunction",
+    "damages for trespass",
+    "settlement agreement",
+    "arbitration",
+    "probative value",
+    "remit for fresh evidence",
+    "boundary owners"
+  ],
+  "topics": [
+    "Land Law",
+    "Property Rights",
+    "Appellate Procedure",
+    "Customary Law",
+    "Injunction"
+  ],
+  "verdict": "Appeal dismissed on title; case remitted for fresh evidence on occupation",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ampiah",
+      "role": "Delivered Judgment"
+    },
+    {
+      "name": "Bamford-Addo",
+      "role": "Justice"
+    },
+    {
+      "name": "Adjabeng",
+      "role": "Justice"
+    },
+    {
+      "name": "Acquah",
+      "role": "Justice"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "CA. No. 12/98",
+    "Exhibit 'A'",
+    "Exhibit '2'",
+    "Exhibit '4'"
+  ],
+  "rationaleHighlights": [
+    "Plaintiff proved superior title through traditional and boundary evidence",
+    "Defendant's land ABINA was part of plaintiff's MPREBUA land",
+    "Recent acts of possession favored plaintiff",
+    "Exhibit 'A' (1980 settlement) lacked probative value for estoppel",
+    "No clear findings on occupied areas necessitated remittal",
+    "Usufructuary title granted by lower court deemed unsatisfactory",
+    "Fresh evidence required to identify valid occupations",
+    "Injunction and damages claims failed due to insufficient proof"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct judicial text; some inferential synthesis used to clarify procedural outcomes and legal reasoning.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2001A/EBUSUAPANIN KOFI ASIEDU v. EBUSUAPANIN KWEKU APPIAH,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:44:36.071Z",
+    "plainTextLength": 7699
+  },
+  "trialDate": "7TH FEBRUARY, 2001"
+}

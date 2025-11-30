@@ -1,0 +1,104 @@
+{
+  "caseTitle": "NII ODAI AYIKU IV v THE ATTORNEY-GENERAL & WOR-NII BORTELAB",
+  "summary": "The case of Nii Odai Ayiku IV v The Attorney-General & Wor-Nii Bortelabi Borketey Laweh XIV involved a chieftaincy dispute concerning the validity of Executive Instrument E.I. 18 of 1983, which prohibited Nii Odai Ayiku IV from acting as Mantse of Nungua. The plaintiff, claiming to be the lawful chief enstooled in 1958, challenged the instrument on grounds that the factual basis for his destoolment in 1967 was false. A default judgment was entered in his favor by the High Court in 2001 when the Attorney-General failed to appear. However, the judgment was later set aside in 2005 by Asamoah J., who ruled that the High Court lacked jurisdiction over chieftaincy matters under Act 370 of 1971. The Court of Appeal upheld this decision in 2008, and the Supreme Court affirmed it, holding that the reliefs sought inherently involved a chieftaincy issue, thus falling outside the jurisdiction of the High Court. The court emphasized that any matter requiring evidence on enstoolment, destoolment, or succession is a chieftaincy cause, which must be adjudicated by a Chieftaincy Tribunal, not a regular court.",
+  "legalKeywords": [
+    "jurisdiction",
+    "chieftaincy",
+    "destoolment",
+    "executive instrument",
+    "High Court",
+    "default judgment",
+    "void judgment",
+    "locus standi",
+    "prohibition instrument",
+    "enstoolment",
+    "public order",
+    "tribunal",
+    "judicial review",
+    "ex parte",
+    "prima facie",
+    "succession",
+    "customary law",
+    "constitutional law",
+    "separation of powers",
+    "legal standing",
+    "procedural fairness",
+    "affidavit evidence",
+    "appellate review",
+    "nullity",
+    "state immunity",
+    "traditional authority",
+    "judicial error",
+    "procedural jurisdiction",
+    "substantive rights",
+    "executive action"
+  ],
+  "topics": [
+    "Chieftaincy Disputes",
+    "Judicial Jurisdiction",
+    "Executive Instruments",
+    "Default Judgment",
+    "Constitutional Law",
+    "Customary Law",
+    "Separation of Powers",
+    "Legal Standing",
+    "Judicial Review",
+    "Procedural Fairness"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondents",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Owusu (Ms)",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Adinyira (Mrs)",
+      "role": "Justice"
+    },
+    {
+      "name": "Aryeetey",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "E.I. 18 of 1983",
+    "Lamprey vrs Hammond [1987-88] 1 GLR 327",
+    "Gbago vrs Owusu [1972] 2 GLR 252",
+    "Mosi vrs Bagyina [1963] 1 GLR 337",
+    "Chieftaincy Act, 1971 (Act 370)",
+    "Brobbey J.S.C., The Law of Chieftaincy in Ghana"
+  ],
+  "rationaleHighlights": [
+    "The High Court lacked jurisdiction to determine matters affecting chieftaincy under Act 370.",
+    "Reliefs seeking declarations on chieftaincy status inherently involve chieftaincy causes.",
+    "A judgment entered without jurisdiction is a nullity and can be set aside at any time.",
+    "The applicant had locus standi to challenge a judgment that injuriously affected his chieftaincy position.",
+    "Evidence regarding enstoolment or destoolment triggers classification as a chieftaincy matter.",
+    "Executive Instruments relating to chieftaincy must be challenged through appropriate tribunals, not regular courts.",
+    "The separation between judicial and traditional authority systems must be respected.",
+    "Default judgments do not confer validity on jurisdictionally incompetent proceedings."
+  ],
+  "confidenceNotes": "High confidence in all fields; information directly extracted from judgment text with clear citation to laws, cases, and procedural history.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2010/NII ODAI AYIKU IV  v THE ATTORNEY-GENERAL & WOR-NII BORTELAB.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:42:06.262Z",
+    "plainTextLength": 39532
+  },
+  "trialDate": "2010-02-17"
+}

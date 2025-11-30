@@ -1,0 +1,67 @@
+{
+  "caseTitle": "NANA SIR OFORI ATTA, OMANHENE",
+  "summary": "This case involved a dispute over the validity of the Amaw Tributaries Concession Zone 1, a diamond mining lease granted in 1926 by Nana Sir Ofori Atta and Kofi Dakwa over land in Topiramang, Akyem Abuakwa, to Richard Raymont Came. The African Selection Trust Ltd., Came's former employer, opposed the grant of a Certificate of Validity under the Concessions Ordinance, alleging that Came obtained the concession through improper means: (1) by breaching his employment contract and using confidential information, and (2) by procuring the grantors to violate a prior covenant giving the Trust first refusal on adjacent land. The West African Court of Appeal upheld the lower court's decision to issue the certificate, ruling that 'improper means' under section 12(3) of the Ordinance refers only to misconduct against the native grantors, not third parties. The court also held that the English Court of Appeal’s prior judgment—which found Came liable for breach of contract but not for procuring breach of covenant—was binding. It further held that even if the covenant had been breached, this would not invalidate the concession. The covenant itself was not void for perpetuities but was void for uncertainty, per Scrutton L.J. Ultimately, the appeal was dismissed, and the Certificate of Validity was affirmed.",
+  "legalKeywords": [
+    "concession validity",
+    "improper means",
+    "breach of contract",
+    "covenant",
+    "confidential information",
+    "fiduciary duty",
+    "rule against perpetuities",
+    "uncertainty in contract",
+    "prospecting rights",
+    "native land rights",
+    "Certificate of Validity",
+    "fraudulent acquisition",
+    "third-party opposition",
+    "binding precedent",
+    "English Court of Appeal"
+  ],
+  "topics": [
+    "contract law",
+    "mining law",
+    "property law",
+    "concession rights",
+    "judicial precedent"
+  ],
+  "verdict": "Appeal dismissed; Certificate of Validity upheld",
+  "winningSide": "Claimant-Respondent (Richard Raymont Came) and Grantors-Respondents",
+  "prosecutionType": "private",
+  "judges": [
+    {
+      "name": "Deane",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Aitkin",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "concession validity dispute",
+  "citations": [
+    "Concessions Ordinance, s 12(3)",
+    "Concessions Ordinance, s 6",
+    "Topiramang Blocks 1/3 Concession (1923)",
+    "Amaw Tributaries Concession Zone 1 (1926)"
+  ],
+  "rationaleHighlights": [
+    "Section 12(3) of the Concessions Ordinance applies only to improper means used against grantors, not third parties",
+    "West African Court of Appeal bound by English Court of Appeal decisions on same issues between same parties",
+    "Breach of employee contract does not invalidate concession under Ordinance",
+    "Covenant not void for perpetuities but void for uncertainty",
+    "Procurement of breach of covenant not sufficient to deny Certificate of Validity"
+  ],
+  "confidenceNotes": "High confidence; details are consistent across judicial statements and factual recitals. Some document truncation occurs but key holdings and legal reasoning are preserved.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/NANA SIR OFORI ATTA, OMANHENE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:42:10.715Z",
+    "plainTextLength": 51512
+  },
+  "trialDate": "1933-11-20"
+}

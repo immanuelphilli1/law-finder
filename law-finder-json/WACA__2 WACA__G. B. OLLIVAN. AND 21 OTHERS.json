@@ -1,0 +1,79 @@
+{
+  "caseTitle": "G. B. OLLIVAN. AND 21 OTHERS",
+  "summary": "This civil appeal before the West Africa Court of Appeal in Accra (1934) involved a dispute over land title derived from the will of J. E. Mettle. The plaintiffs, including G. B. Ollivant & Co., Ltd., relied on a devise to Mettle's children as the basis of their lessors' title. The defendants-appellants challenged the sufficiency of proof of the will and the identity of the twenty plaintiffs as rightful devisees. The court held that the failure to give statutory notice under s 64 of the Court of Probate Act, 1857, was waived by the defendants' failure to object when the probate was admitted. The court also allowed evidence from the surviving attesting witness to cure any defect, finding the will valid. Regarding the identity of the devisees, the court upheld the trial judge's reliance on Aryeetey's credible testimony as a close family associate and court-appointed receiver, noting no contradictory evidence. The court rejected the argument that jurisdiction was ousted by the Native Administration Ordinance, affirming its authority to determine the issue. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "probate",
+    "will",
+    "devise",
+    "attesting witness",
+    "notice of intention",
+    "proof of title",
+    "customary law",
+    "jurisdiction",
+    "testamentary disposition",
+    "real estate",
+    "waiver",
+    "evidence",
+    "children of deceased",
+    "receiver and manager",
+    "lease",
+    "native administration",
+    "Court of Probate Act",
+    "section 64",
+    "section 43",
+    "section 59"
+  ],
+  "topics": [
+    "Probate Law",
+    "Property Law",
+    "Evidence Law",
+    "Succession Law",
+    "Jurisdiction"
+  ],
+  "verdict": "Appeal dismissed with costs to the respondents.",
+  "winningSide": "Plaintiffs-Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Graham Paul",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Yates",
+      "role": "Acting Chief Justice, Gold Coast"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Hilliard v. Eiffe, L.R. 7 M.L. 39",
+    "Barraclough v. Greenhough, 18 L.R. 2 Q.B. 612",
+    "Court of Probate Act, 1857, s 64",
+    "Native Administration Ordinance (Gold Coast), ss 43, 59"
+  ],
+  "rationaleHighlights": [
+    "Defendants waived right to notice under s 64 by failing to object when probate was tendered.",
+    "Court admitted evidence from attesting witness to cure technical defect.",
+    "Witness Aryeetey's testimony sufficiently proved identity of devisees as 'children living at death'.",
+    "Sections 43 and 59 of Native Administration Ordinance did not bar court jurisdiction.",
+    "No contradictory evidence was presented by defendants.",
+    "Lease by administrators without legal authority held invalid against plaintiffs.",
+    "Appellants' objection deemed purely technical with no substantive challenge to will's validity.",
+    "Court emphasized fairness and substance over procedural formality."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and direct citation of statutory and case law.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/G. B. OLLIVAN. AND 21 OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:29:31.539Z",
+    "plainTextLength": 13455
+  },
+  "trialDate": "1933-10-03"
+}

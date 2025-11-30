@@ -1,0 +1,81 @@
+{
+  "caseTitle": "ASANTE v. NANA YAW BOAKYEM, (SUB. BY ERIC O. BAIDOO)",
+  "summary": "This Court of Appeal judgment from Ghana, delivered on June 18, 2002, concerns a land dispute over approximately 70.91 acres at Senchi in the Eastern Region. The plaintiff, Seth Asante, claimed title based on a 1950 purchase by his late father, Kwame Amoaforo, from Isaac Mensavi Dugbatey, later evidenced in writing in 1960 with consent from the Omanhene of Akwamu Traditional Area. The plaintiff further claimed that the land was gifted to him and his siblings by his father’s customary successor, Kwaku Osei. The High Court had granted the plaintiff a declaration of title, damages for trespass, and a perpetual injunction. On appeal, the Court of Appeal allowed the appeal, holding that the plaintiff lacked capacity to sue because the alleged gift of land by the customary successor was invalid under Akan customary law. The court emphasized that upon the intestate death of Amoaforo, the land became family property, and any gift required consent from the family head and elders, along with public 'aseda' (customary acceptance), which were absent. Additionally, the court found the judgment below against the weight of evidence, as the plaintiff failed to prove root of title through Dugbatey or call key witnesses, including stool authorities or boundary owners. The appeal was allowed, and the lower court’s judgment was set aside.",
+  "legalKeywords": [
+    "customary law",
+    "declaration of title",
+    "intestate succession",
+    "gift inter vivos",
+    "capacity to sue",
+    "land dispute",
+    "evidential burden",
+    "stool property",
+    "trespass",
+    "perpetual injunction",
+    "Akan customary law",
+    "family property",
+    "root of title",
+    "aseda",
+    "burden of proof",
+    "customary successor",
+    "matrilineal family",
+    "publicity in gift",
+    "consent of family head",
+    "Omanhene consent"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Appellate Review",
+    "Succession",
+    "Property Rights"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendants-Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "K. Omari-Sasu",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Owusu-Ansah",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Amonoo-Monney",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal (Land Title and Trespass)",
+  "citations": [
+    "ASARE v. Kumorji (S.C) [2000] 298",
+    "Ogbame–Tetteh v. Ogbame–Tetteh [1993-94] 1 GLR 353",
+    "Odametey v. Clocuh [1989-90] 1 GLR 14",
+    "Amarfio v. Ayorkor 14 WACA 554",
+    "Mills v. Addy [1958] 3 WALR 357",
+    "Kwakye v Tuba and Others [1961] GLR (Part II) 535"
+  ],
+  "rationaleHighlights": [
+    "The plaintiff lacked capacity to sue because the customary successor could not validly gift family land without consent of the family head and elders.",
+    "A gift of land under Akan customary law requires public 'aseda' and family approval, which were absent.",
+    "The judgment was against the weight of evidence as the plaintiff failed to prove root of title through Dugbatey.",
+    "No witness from the Amoaforo family or stool authorities was called to confirm the gift.",
+    "The land, if acquired by Amoaforo, became family property upon his intestate death, not personal property to be disposed of unilaterally.",
+    "The plaintiff failed to call boundary owners or Dugbatey’s vendors, weakening his evidential burden.",
+    "The trial court erred in treating the gift as valid without scrutiny of customary law requirements.",
+    "The appeal was allowed primarily due to failure to meet customary law standards for inter vivos gifts of land."
+  ],
+  "confidenceNotes": "The summary and analysis are based on a complete reading of the provided judgment text. All legal principles and case references are accurately extracted from the court's reasoning. The outcome is clearly stated in the judgment, with strong emphasis on customary law requirements under Ghanaian jurisprudence.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/SETH ASANTE v. NANA YAW BOAKYEM, (SUB. BY ERIC O. BAIDOO) OPANIN KWAME ATIA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:05:05.713Z",
+    "plainTextLength": 15797
+  },
+  "trialDate": "18TH JUNE 2002"
+}

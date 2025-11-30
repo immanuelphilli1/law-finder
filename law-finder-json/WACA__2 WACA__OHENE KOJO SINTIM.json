@@ -1,0 +1,68 @@
+{
+  "caseTitle": "OHENE KOJO SINTIM",
+  "summary": "This case involved a dispute over the sale of land by a sub-chief (Odikro) of Akroso without the knowledge or consent of the plaintiff-appellant, Ohene Kojo Sintim, the Divisional Chief of Mansu and overlord under native law. The plaintiff sought to set aside the sale and obtain an injunction to prevent interference with possession. The West Africa Court of Appeal held that under established native custom, no land subject to a dominant stool can be alienated without the overlord's consent. The court ruled that the onus of proving such consent rested with the defendants (purchasers), who failed to discharge it. Key deficiencies included lack of accredited agents from the dominant stool at the sale, absence of the overlord's signature on the receipt (which was issued four years later), and no formal conveyance of the land. The appeal was allowed, the lower court's judgment reversed, and the original decision of the Native Tribunal restored.",
+  "legalKeywords": [
+    "native law and custom",
+    "land alienation",
+    "overlordship",
+    "onus of proof",
+    "sub-chief",
+    "consent",
+    "customary law",
+    "sale of land",
+    "injunction",
+    "stool land",
+    "divisional chief",
+    "paramount tribunal",
+    "provincial commissioner",
+    "accredited agents",
+    "conveyance"
+  ],
+  "topics": [
+    "land law",
+    "customary law",
+    "appeal",
+    "evidence",
+    "injunction"
+  ],
+  "verdict": "Appeal allowed; judgment of the Provincial Commissioner reversed and decision of the Native Tribunal restored.",
+  "winningSide": "Plaintiff-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Yates",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    },
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "WACA/2 WACA/OHENE KOJO SINTIM"
+  ],
+  "rationaleHighlights": [
+    "Under native law and custom, a sub-chief cannot alienate land without the consent of the overlord.",
+    "The onus of proof that consent was obtained lies with the purchasers (respondents), not the overlord.",
+    "No evidence showed that the alleged agents were accredited by the overlord to conduct the sale.",
+    "The receipt for purchase was signed four years later by the sub-chief, not the overlord, and lacked witnesses from the dominant stool.",
+    "No conveyance of the disputed land to the respondents was ever executed, unlike in other confirmed sales."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear legal reasoning and procedural history.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/OHENE KOJO SINTIM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:23:48.476Z",
+    "plainTextLength": 10114
+  },
+  "trialDate": "1934-11-24"
+}

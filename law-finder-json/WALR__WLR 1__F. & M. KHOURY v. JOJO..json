@@ -1,0 +1,73 @@
+{
+  "caseTitle": "F. & M. KHOURY VERSUS JOJO.",
+  "summary": "In F. & M. Khoury v. Jojo, the West African Court of Appeal held that the defendant, a trustee of an insolvent estate, was grossly negligent in failing to safeguard valuable personal effects belonging to the estate during a period of anticipated civil unrest, despite having insured his own goods against such risks but not the trust property. The court further found that the defendant's purchase of a trust property at public auction was fraudulent and void, as there was no evidence of a valid conveyance to the deceased's sister, and a trustee cannot legally purchase trust property. The defendant was ordered to account for the value of the missing trinkeys and to reconvey the property to the estate, along with accounting for rental income received since 1948.",
+  "legalKeywords": [
+    "trustee duties",
+    "negligence",
+    "gratuitous bailee",
+    "fraudulent transaction",
+    "prohibited purchase by trustee",
+    "reconveyance of property",
+    "duty of care",
+    "civil commotion",
+    "insurance of trust property",
+    "accountability of trustee",
+    "voidable transaction",
+    "estate administration",
+    "letters of administration",
+    "public auction",
+    "rental profits"
+  ],
+  "topics": [
+    "Trust Law",
+    "Fiduciary Duty",
+    "Property Law",
+    "Estate Administration",
+    "Fraud in Trust Transactions"
+  ],
+  "verdict": "Appeal allowed in part; defendant held liable for negligence and fraudulent purchase",
+  "winningSide": "Plaintiffs (creditors)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "President"
+    },
+    {
+      "name": "Korsah J.A.",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Jibowu Ag.J.A.",
+      "role": "Acting Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Coggs v. Bernard (1703) 2 Ld.Raym. 909",
+    "Hatch v. Hatch, 32 E.R. 615",
+    "Ex parte Lacey (1802) 6 Ves. 625",
+    "Dorman v. Jenkins, III E.R. 99"
+  ],
+  "rationaleHighlights": [
+    "A trustee, as a gratuitous bailee, owes a duty of care and is liable for gross negligence in safeguarding trust property.",
+    "The defendant’s failure to insure or secure the trinkets despite foreseeing civil unrest constitutes gross negligence.",
+    "A trustee cannot purchase trust property, even at public auction, without full disclosure and dissolution of the trust relationship.",
+    "The alleged conveyance to the deceased's sister was not proven and deemed a fraud to justify an illegal purchase.",
+    "The transaction was tainted by conflict of interest and opportunity for abuse, warranting reconveyance.",
+    "The defendant must account for rental profits derived from the wrongfully acquired property.",
+    "The court rejected the lower court's finding of no gross negligence, emphasizing the heightened duty during foreseeable risk.",
+    "Legal principle: Purchases by trustees are voidable at the beneficiary's option, regardless of apparent fairness."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text, including names, holdings, citations, and legal reasoning. Truncation at the end does not affect key conclusions.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/F. & M. KHOURY v. JOJO..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:10:29.832Z",
+    "plainTextLength": 15913
+  }
+}

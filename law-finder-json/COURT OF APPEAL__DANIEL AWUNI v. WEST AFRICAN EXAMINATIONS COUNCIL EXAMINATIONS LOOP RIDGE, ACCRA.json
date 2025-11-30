@@ -1,0 +1,76 @@
+{
+  "caseTitle": "DANIEL AWUNI v. WEST AFRICAN EXAMINATIONS COUNCIL",
+  "summary": "The Court of Appeal in Daniel Awuni v. West African Examinations Council (2002) reviewed a High Court decision that had granted declaratory relief to 13 students whose SSSCE 2000 results were cancelled and who were barred for three years due to alleged examination malpractice. The applicants, represented by a next friend, argued that the cancellation and ban violated their fundamental rights and that they were denied natural justice, as they were never questioned or given a hearing. The High Court had ruled in their favor, ordering the release of results and lifting the ban. On appeal, the Court of Appeal held that the High Court lacked jurisdiction because the applicants improperly invoked Article 33(1) of the 1992 Constitution via an Originating Motion on Notice, which was procedurally flawed. The court emphasized that no clear fundamental right was violated and that proper legal procedures, such as filing a writ, should have been followed. Consequently, the appeal was allowed, and the High Court's judgment was set aside.",
+  "legalKeywords": [
+    "fundamental human rights",
+    "natural justice",
+    "audi alteram partem",
+    "procedural irregularity",
+    "jurisdiction",
+    "declaratory relief",
+    "originating motion",
+    "Article 33(1) Constitution",
+    "examination malpractice",
+    "quasi-judicial function",
+    "WAEC regulations",
+    "cancellation of results",
+    "ban on examination",
+    "due process",
+    "constitutional interpretation",
+    "High Court procedure",
+    "Court of Appeal",
+    "public interest",
+    "contractual terms",
+    "student rights"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Education Law",
+    "Procedural Law",
+    "Human Rights"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Respondent (West African Examinations Council)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Owusu-Ansah, JA",
+      "role": "Presiding Judge delivering judgment"
+    },
+    {
+      "name": "Essilfie-Bondzie, JA",
+      "role": "Member of the bench"
+    },
+    {
+      "name": "Aryeetey, JA",
+      "role": "Member of the bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional and Administrative Appeal",
+  "citations": [
+    "L’Air Liquide (Ghana) Ltd vs. Anning and others 1991 1 GLR 460",
+    "Wood v Wood 1 Stra 557",
+    "Ridge vs Baldwin 1964 AC 40",
+    "R v. University of Cambridge 1723 1 st 537"
+  ],
+  "rationaleHighlights": [
+    "The High Court lacked jurisdiction because the Originating Motion on Notice was procedurally improper for enforcing constitutional rights under Article 33(1).",
+    "No clear fundamental human right was identified as being violated to justify invoking Article 33(1).",
+    "The applicants failed to follow proper legal procedure by not filing a writ as required under Order 2 Rule 1 of the High Court (Civil Procedure) Rules.",
+    "The court emphasized adherence to procedural rules over convenience, even if delayed justice might result.",
+    "The WAEC's quasi-judicial function in enforcing examination regulations was acknowledged, but the appeal focused on procedural defects in the lower court."
+  ],
+  "confidenceNotes": "The summary is based on a complete reading of the provided judgment text. All key legal points, parties, and procedural issues are accurately reflected. The outcome and reasoning are clearly derived from the court's analysis.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/DANIEL AWUNI v. WEST AFRICAN EXAMINATIONS COUNCIL EXAMINATIONS LOOP RIDGE, ACCRA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:38:50.037Z",
+    "plainTextLength": 23911
+  },
+  "trialDate": "5TH DECEMBER, 2002"
+}

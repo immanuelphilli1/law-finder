@@ -1,0 +1,74 @@
+{
+  "caseTitle": "TETTEH AYAA IDDRISU V WINFRED OTUAFRO ARYEH TENMOTE AKAKPO C",
+  "summary": "This is a civil appeal before the Supreme Court of Ghana concerning a land dispute between Tetteh Ayaa Iddrisu (Respondent) and Winfred Otuafro Aryeh and Tenmote Akakpo (Appellants). The core issue was the enforceability of an agreement dated 29th September 1993 (Exhibit C), under which the Appellants allegedly agreed to pay rent for using the Respondent's land. The High Court and Court of Appeal upheld the agreement, ordering enforcement and a survey to determine encroached plots. The Supreme Court dismissed the appeal, affirming that the Appellants failed to prove economic duress, as they did not show catastrophic consequences or take steps to void the agreement. The claim of forgery regarding the Respondent's title deed (Exhibit 1) was rejected for lack of pleading in the trial court, making the evidence inadmissible. The Court also held that the Appellants could not claim ownership merely due to the Respondent's evidentiary weakness, emphasizing that a counterclaim must be proven on its own merits. The appeal, based solely on the omnibus ground that the judgment was against the weight of evidence, failed due to insufficient factual and legal support.",
+  "legalKeywords": [
+    "duress",
+    "forgery",
+    "title to land",
+    "burden of proof",
+    "counterclaim",
+    "weight of evidence",
+    "economic duress",
+    "enforceability of agreement",
+    "omnibus ground of appeal",
+    "positive evidence",
+    "preponderance of probabilities",
+    "voluntary contract",
+    "admissibility of evidence",
+    "pleading requirements",
+    "survey plan"
+  ],
+  "topics": [
+    "Land Law",
+    "Contract Enforcement",
+    "Appellate Procedure",
+    "Duress",
+    "Forgery"
+  ],
+  "verdict": "Appeal dismissed; judgment in favor of the Respondent upheld.",
+  "winningSide": "Tetteh Ayaa Iddrisu (Respondent)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Brobbey, JSC",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ansa, JSC"
+    },
+    {
+      "name": "Dotse, JSC"
+    },
+    {
+      "name": "Yeboah, JSC"
+    },
+    {
+      "name": "Baffoe-Bonnie, JSC"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "[1992] 1 GLR 377 SC",
+    "[1987-88] 1GLR 165",
+    "[1979] 3 ALL ER 65",
+    "[1993] 1 AC 366"
+  ],
+  "rationaleHighlights": [
+    "Appellant failed to prove duress as no catastrophic consequences were demonstrated and no steps were taken to void the agreement promptly.",
+    "Claim of forgery was not upheld because it was not pleaded in the High Court, rendering related evidence inadmissible.",
+    "Appellant cannot succeed on counterclaim merely because respondent's case was weak; must prove own case on preponderance of probabilities.",
+    "Omnibus ground of 'judgment against weight of evidence' allows appellate review of entire record, but cannot introduce new issues not supported by pleadings or evidence."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key elements (judges, jurisdiction, verdict) are explicitly stated. Legal principles are drawn from clear judicial reasoning and cited authorities.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/TETTEH AYAA IDDRISU V WINFRED OTUAFRO ARYEH TENMOTE AKAKPO C.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:42:08.231Z",
+    "plainTextLength": 16933
+  },
+  "trialDate": "2009-04-21"
+}

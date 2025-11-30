@@ -1,0 +1,83 @@
+{
+  "caseTitle": "CHANDIRAM VERSUS MENSAH AND ANOTHER.",
+  "summary": "In this 1958 Court of Appeal decision, the court considered the nature of the estate acquired by D. T. Chandiram when he purchased land from Holomah at a sale under a writ of fi. fa. Holomah had earlier created an equitable mortgage in favor of Barclays Bank by depositing title deeds. Before attachment on September 25, 1954, the deeds were sent to the Bank of the Gold Coast (later Ghana Commercial Bank) to hold on behalf of Barclays Bank. After attachment, the Bank paid off Holomah’s debt to Barclays and received a purported legal mortgage from Holomah on October 27, 1954. The Court held that this mortgage was null and void under Order 43, rule 7, as it was an alienation during attachment without court leave. Thus, the legal estate remained in Holomah, and Chandiram, as purchaser, acquired the full legal estate. The court rejected the appellants’ claim that Chandiram only acquired an equity of redemption, affirming the trial court’s declaration of title, award of damages, mesne profits, and possession to Chandiram. The decision was later reversed by the Privy Council in 1960.",
+  "legalKeywords": [
+    "equitable mortgage",
+    "legal mortgage",
+    "attachment",
+    "writ of fi. fa.",
+    "equity of redemption",
+    "title deeds",
+    "incumbrance",
+    "Barclays Bank",
+    "Ghana Commercial Bank",
+    "Holomah",
+    "Chandiram",
+    "Mensah",
+    "alienation during attachment",
+    "Order 43 rule 7",
+    "mortgage void",
+    "custody of deeds",
+    "transfer of interest",
+    "beneficial interest",
+    "mesne profits",
+    "declaration of title",
+    "recovery of possession",
+    "trespass damages",
+    "judgment debtor",
+    "purchaser in execution",
+    "right to reconveyance",
+    "Privy Council reversal"
+  ],
+  "topics": [
+    "Mortgage Law",
+    "Property Law",
+    "Execution of Judgment",
+    "Equity and Trusts",
+    "Banking Law"
+  ],
+  "verdict": "The appeal was dismissed. The trial court's decision in favor of Chandiram was upheld, granting him declaration of title, recovery of possession, damages for trespass, and mesne profits.",
+  "winningSide": "Chandiram (respondent/purchaser)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Korsah C.J."
+    },
+    {
+      "name": "van Lare J.A.",
+      "role": "author of judgment"
+    },
+    {
+      "name": "Granville Sharp J.A."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WALR 3/CHANDIRAM v. MENSAH AND ANOTHER",
+    "Dadzie v. Kojo and Another (1940) 6 W.A.C.A. 139",
+    "Order 43, rule 7, Supreme Court (Civil Procedure) Rules, 1954",
+    "Order 43, rule 11, Supreme Court (Civil Procedure) Rules, 1954",
+    "Wharton's Law Lexicon, 14th ed., p. 669"
+  ],
+  "rationaleHighlights": [
+    "A mortgage requires a pre-existing debt; mere custody of title deeds does not create a mortgage.",
+    "A legal mortgage executed after attachment is void under Order 43, rule 7.",
+    "The purchaser at a fi. fa. sale acquires the legal estate if it was vested in the judgment debtor.",
+    "No transfer of mortgage interest occurred without formal assignment from Barclays Bank.",
+    "The Ghana Commercial Bank could not claim an equitable mortgage by paying off another bank's debt without intent to assume the security.",
+    "The legal estate remained in Holomah at the time of sale, so Chandiram acquired full legal title.",
+    "An equity of redemption is the right to reclaim property upon repayment, not a freehold interest.",
+    "The trial court correctly rejected the defense that Chandiram bought only an equity of redemption."
+  ],
+  "confidenceNotes": "The summary is based on a detailed appellate judgment with clear legal reasoning. The Privy Council later reversed the decision, but the reversal is noted editorially and does not affect the accuracy of the Court of Appeal's original holdings as presented in the source.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/CHANDIRAM v. MENSAH AND ANOTHER..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:08:42.346Z",
+    "plainTextLength": 17387
+  }
+}

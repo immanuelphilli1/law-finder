@@ -1,0 +1,77 @@
+{
+  "caseTitle": "CHIEF EYO EYO ITA",
+  "summary": "This 1935 West Africa Court of Appeal decision involved a civil claim by Chief Eyo Eyo Ita and members of the King Eyo III House of Creek Town against Etubom Okon Efa Asido and others for property damage arising from a riot. The plaintiffs sought ₤1,935 11s. 11d in special damages, but the High Court dismissed the claim, finding the evidence unreliable. The central issue on appeal was whether certified copies of criminal convictions related to the same acts should have been admitted as presumptive proof of liability in the civil suit. The appellate court held that such convictions are admissible not only to prove the fact of conviction but also as presumptive evidence of the commission of the underlying criminal acts, citing Re Crippen (1911) and Mash v. Darley (1914). Since the trial judge had excluded this evidence—relying on outdated legal authority—the Court of Appeal ruled that a miscarriage of justice had occurred and remitted the case for retrial.",
+  "legalKeywords": [
+    "criminal conviction",
+    "civil proceedings",
+    "presumptive proof",
+    "evidence admissibility",
+    "riot",
+    "property damage",
+    "re-trial",
+    "West Africa Court of Appeal",
+    "Best on Evidence",
+    "Re Crippen",
+    "Mash v. Darley",
+    "judicial error",
+    "special damages",
+    "burden of proof",
+    "conviction in civil claims",
+    "evidence law",
+    "legal precedent",
+    "appellate review",
+    "judicial discretion",
+    "case remittal"
+  ],
+  "topics": [
+    "Evidence Law",
+    "Civil Liability",
+    "Criminal Convictions in Civil Cases",
+    "Appellate Procedure",
+    "Property Damage Claims"
+  ],
+  "verdict": "Case remitted for re-trial",
+  "winningSide": "Plaintiff-Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Cor. Kingdon",
+      "role": "Judge"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler-Lloyd",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Re Crippen (1911) P. p. 108",
+    "Mash v. Darley (1914) 1 K.B."
+  ],
+  "rationaleHighlights": [
+    "Criminal convictions can serve as presumptive proof of wrongdoing in civil proceedings",
+    "Exclusion of certified criminal records was erroneous under current law",
+    "Reliance on outdated legal texts led to incorrect evidentiary ruling",
+    "Absence of updated legal resources disadvantaged the trial judge",
+    "Presumption from conviction applies beyond claims arising directly from crime"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and cited precedents. Jurisdictional context is colonial-era West Africa Court of Appeal with application to Ghanaian legal matters.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/CHIEF EYO EYO ITA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:32:23.127Z",
+    "plainTextLength": 5995
+  }
+}

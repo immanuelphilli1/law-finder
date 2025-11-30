@@ -1,0 +1,74 @@
+{
+  "caseTitle": "REX v JOSEPH YESUFU ALIAS OBAIGA",
+  "summary": "In Rex v Joseph Yesufu Alias Obaiaga, the West Africa Court of Appeal reviewed the appellant's conviction on multiple counts including receiving stolen property and preparation for coining under section 14B(3) of the Criminal Code. The appellant was convicted of receiving stolen goods valued at five shillings and sentenced to two years' hard labour, and separately convicted of possessing a mould resembling a Nigerian silver shilling, receiving an eight-year concurrent sentence. On appeal, the court upheld the conviction for receiving stolen property but found insufficient evidence to support the coining charge, quashing that conviction. The trial judge had expressed doubt about whether the accused placed the mould in his pocket, particularly noting its weight and the lack of immediate detection. The appellate court emphasized that the accused was not obligated to explain the item's presence and that circumstantial evidence—including bellows, tools, and charcoal—was inconclusive, especially given the appellant's claim to be a goldsmith. The court reduced the sentence for receiving stolen property from two years to six months, deeming the original punishment excessive for such a minor offence.",
+  "legalKeywords": [
+    "receiving stolen property",
+    "preparation for coining",
+    "insufficient evidence",
+    "benefit of the doubt",
+    "sentence reduction",
+    "conviction quashed",
+    "search and seizure",
+    "circumstantial evidence",
+    "criminal intent",
+    "mould for coin production",
+    "hard labour",
+    "appellate review",
+    "trial error",
+    "possession of incriminating items",
+    "goldsmith defense"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Sentencing",
+    "Evidence",
+    "Theft and Related Offences"
+  ],
+  "verdict": "Conviction for receiving stolen property upheld; conviction for preparation for coining quashed due to insufficient evidence.",
+  "winningSide": "Appellant on the coining charge; Respondent (Crown) on the receiving charge with reduced sentence.",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Yates",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Butler-Lloyd",
+      "role": "Acting C.J."
+    },
+    {
+      "name": "Aitken",
+      "role": "Justice"
+    },
+    {
+      "name": "Barton",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Joseph Yesufu Alias Obaiaga, WACA/2 WACA/REX v JOSEPH YESUFU ALIAS OBAIGA"
+  ],
+  "rationaleHighlights": [
+    "Conviction for preparation for coining quashed due to insufficient evidence.",
+    "Trial judge expressed doubt about how the mould entered the accused's pocket.",
+    "Appellant's trade as a goldsmith undermined conclusive inference of guilt.",
+    "Sentence for receiving stolen goods reduced from two years to six months due to trivial value (five shillings).",
+    "Accused entitled to benefit of the doubt where evidence is inconclusive.",
+    "Discovery of tools alone not sufficient to prove criminal intent.",
+    "No requirement for accused to explain presence of item if not admitted as theirs.",
+    "Search conducted during custody did not invalidate proceedings."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and explicit statements from the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/REX  v  JOSEPH YESUFU ALIAS OBAIGA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:21:19.394Z",
+    "plainTextLength": 3836
+  }
+}

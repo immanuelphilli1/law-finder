@@ -1,0 +1,57 @@
+{
+  "caseTitle": "POLICE VERSUS OWUSU.",
+  "summary": "The appellant, a police corporal, was convicted of extortion, a felony under the Criminal Code, in the Magistrate's Court at Saltpond. During the hearing, the magistrate proceeded in the appellant's absence while a prosecution witness testified, relying on s. 166(1) of the Criminal Procedure Code. The Supreme Court of the Gold Coast held that while courts may proceed in the accused's absence for misdemeanours, doing so in a felony case constitutes a jurisdictional irregularity. Such a defect cannot be cured under s. 355 of the Code, which only applies to non-jurisdictional errors. Citing R. v. Sylvanus Samuels, the court ruled the conviction and sentence were void ab initio and quashed the conviction, discharging the appellant.",
+  "legalKeywords": [
+    "criminal procedure",
+    "jurisdiction",
+    "irregularity",
+    "misdemeanour",
+    "felony",
+    "accused absence",
+    "extortion",
+    "Criminal Code",
+    "Criminal Procedure Code",
+    "conviction quashed",
+    "ab initio invalidity",
+    "procedural error"
+  ],
+  "topics": [
+    "criminal law",
+    "procedural fairness",
+    "jurisdiction",
+    "right to be present",
+    "appellate review"
+  ],
+  "verdict": "Conviction quashed and appellant discharged due to jurisdictional irregularity from proceeding in absence of accused on felony charge.",
+  "winningSide": "Appellant (Owusu)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Manyo-Plange J.",
+      "role": "presiding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Central Judicial Division, Divisional Court, Cape Coast",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Sylvanus Samuels (1938) 4 W.A.C.A. 183",
+    "R. v. Smith (1817) Russ. & Ry. 339",
+    "R. v. Gee and Others (1936) 25 Cr.App.R. 198"
+  ],
+  "rationaleHighlights": [
+    "Section 166(1) of the Criminal Procedure Code allows proceedings in absence of accused only for misdemeanours, not felonies.",
+    "Absence of accused during hearing for a felony charge constitutes a jurisdictional defect.",
+    "Jurisdictional irregularities cannot be cured under s. 355 of the Criminal Procedure Code.",
+    "The entire conviction is vitiated ab initio due to lack of jurisdiction."
+  ],
+  "confidenceNotes": "High confidence; the judgment is clear on jurisdictional error and cites binding precedent from the West African Court of Appeal.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/COMMISSIONER OF POLICE v. OWUSU..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:36:56.110Z",
+    "plainTextLength": 3202
+  }
+}

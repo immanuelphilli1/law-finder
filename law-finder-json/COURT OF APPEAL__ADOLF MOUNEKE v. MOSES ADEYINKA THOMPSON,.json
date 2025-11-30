@@ -1,0 +1,67 @@
+{
+  "caseTitle": "MOUNEKE v. MOSES ADEYINKA THOMPSON,",
+  "summary": "This Court of Appeal decision in Ghana concerns an application by Moses Adeyinka Thompson, the defendant/applicant, for an extension of time to appeal and a stay of execution following a High Court judgment delivered on 28th May 1999. The applicant had first filed a motion in the lower court on 30th September 1999, which remained undecided until 22nd December 1999, when it was dismissed. Subsequently, on 23rd December 1999, he filed a repeat application in the Court of Appeal. The respondent challenged the application as out of time and incompetent under Rule 9(7) of CI 19, which bars applications for extension of time beyond six months from the date of judgment. The Court held that despite delays in the lower court, the six-month time limit under Rule 9(7) is strict and not extendable. The applicant’s failure to file within this period rendered the appeal application incompetent, and the motion was dismissed.",
+  "legalKeywords": [
+    "extension of time to appeal",
+    "stay of execution",
+    "Rule 9(7) CI 19",
+    "Rule 28 CI 19",
+    "Court of Appeal jurisdiction",
+    "timeliness of appeal",
+    "failure to decide",
+    "refusal of application",
+    "appellate procedure",
+    "statutory time limit",
+    "judicial discretion",
+    "procedural compliance",
+    "Ghanaian civil procedure"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Civil Litigation",
+    "Judicial Timeliness",
+    "Procedural Law"
+  ],
+  "verdict": "Application dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "P.K. Owusu-Ansah",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "S.K. Brobbey",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "G.T. Wood (Mrs.)",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Motion",
+  "citations": [
+    "CI 19, Rule 9(7)",
+    "CI 19, Rule 9(8)",
+    "CI 19, Rule 28"
+  ],
+  "rationaleHighlights": [
+    "Rule 9(7) imposes a strict six-month limit for extension applications, which cannot be circumvented by lower court delays.",
+    "The word 'fails' in Rule 9(8) refers to inaction, while 'refuses' denotes a formal denial.",
+    "Applicants must monitor time limits independently of lower court inaction.",
+    "No unlimited period should be allowed, as it would defeat procedural efficiency.",
+    "Filing after six months renders the application incompetent, regardless of lower court delay."
+  ],
+  "confidenceNotes": "The ruling is based on a clear interpretation of CI 19 rules, with unanimous agreement among the justices. The facts are straightforward, and the legal principles are well-established in Ghanaian civil procedure.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/ADOLF MOUNEKE v. MOSES ADEYINKA THOMPSON,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:47:43.889Z",
+    "plainTextLength": 9219
+  },
+  "trialDate": "2000-04-11"
+}

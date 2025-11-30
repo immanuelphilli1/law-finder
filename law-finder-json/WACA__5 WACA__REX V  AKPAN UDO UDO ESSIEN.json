@@ -1,0 +1,77 @@
+{
+  "caseTitle": "REX V AKPAN UDO UDO ESSIEN",
+  "summary": "In this 1939 West African Court of Appeal case, Akpan Udo Udo Essien appealed his murder conviction for the killing of Udo Udo Umoren. The appellant was identified as the person who sold the victim's bicycle shortly after the attack. Although the trial judge incorrectly characterized the appellant's post-arrest statement as a 'complete confession,' the appellate court found overwhelming evidence of guilt, including the appellant's own statement implicating himself in the crime, blood-stained clothing, and a dying declaration identifying the assailants. The court concluded that the mischaracterization did not affect the verdict, as the evidence was conclusive, and dismissed the appeal.",
+  "legalKeywords": [
+    "murder",
+    "confession",
+    "dying declaration",
+    "misdirection",
+    "evidence",
+    "appellate review",
+    "voluntary statement",
+    "criminal implication",
+    "trial error",
+    "overwhelming evidence",
+    "bloodstains",
+    "bicycle theft",
+    "co-perpetrator",
+    "cautioned statement",
+    "corroboration",
+    "burden of proof",
+    "judicial finding",
+    "criminal code section 319",
+    "West African Court of Appeal Rules Rule 47",
+    "appellant in person"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Confession Admissibility",
+    "Murder Trial"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Rex v Akpan Udo Udo Essien, WACA/5, 3rd March 1939",
+    "Criminal Code s 319"
+  ],
+  "rationaleHighlights": [
+    "Trial judge mischaracterized statement as 'complete confession' but error was not material",
+    "Appellant's statement implicated him in the crime despite not admitting direct perpetration",
+    "Dying declaration corroborated by circumstantial evidence",
+    "Blood-stained clothing linked appellant to the crime",
+    "Overwhelming prosecution evidence rendered misdirection harmless",
+    "No serious defence was presented at trial",
+    "Finding of guilt was inevitable regardless of error",
+    "Burden on appellant to show probable effect of misdirection not met"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on primary source document with clear judicial reasoning and cited evidence.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/REX V  AKPAN UDO UDO ESSIEN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:42:48.884Z",
+    "plainTextLength": 8596
+  },
+  "trialDate": "1939-03-03"
+}

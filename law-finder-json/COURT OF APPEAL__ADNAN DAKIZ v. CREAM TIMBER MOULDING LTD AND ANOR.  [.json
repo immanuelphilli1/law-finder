@@ -1,0 +1,73 @@
+{
+  "caseTitle": "DAKIZ v. CREAM TIMBER MOULDING LTD AND ANOR.",
+  "summary": "This appeal arose from a ruling by the High Court, Sekondi, which granted a motion by the defendants to correct the interest amount stated in the Entry of Judgment following a consent judgment in favor of the plaintiff. The plaintiff, a former employee, had obtained a consent judgment for $15,000 and interest, plus costs, after the defendants failed to honor a 1996 agreement to settle unpaid entitlements. The defendants later challenged the interest calculation, claiming overstatement, and succeeded in having the High Court rule that the debt was fully paid. The Court of Appeal considered whether the High Court had jurisdiction to correct the judgment entry post-consent judgment. It held that while courts have inherent power and authority under Order 28 Rule 11 of the High Court (Civil Procedure) Rules to correct clerical mistakes or accidental omissions, they cannot vary the terms of a consent judgment, which requires a fresh action if based on fraud or mistake. The appellate court found that the correction went beyond clerical error and effectively varied the judgment, which was impermissible. Thus, the appeal was allowed, and the High Court’s ruling set aside.",
+  "legalKeywords": [
+    "consent judgment",
+    "clerical mistake",
+    "judgment correction",
+    "inherent jurisdiction",
+    "execution of judgment",
+    "interest calculation",
+    "civil procedure",
+    "Order 28 Rule 11",
+    "fraud or mistake",
+    "settlement agreement"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Judgment Enforcement",
+    "Consent Judgment",
+    "Interest Calculation",
+    "Legal Remedies"
+  ],
+  "verdict": "The Court of Appeal allowed the appeal, holding that the High Court lacked jurisdiction to vary the consent judgment under the guise of correcting an entry, as the correction involved substantive re-evaluation rather than a clerical error.",
+  "winningSide": "Plaintiff/Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Anim, J.A.",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Omari Sasu, J.A.",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Kusi-Appouh (Mrs), J.",
+      "role": "panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "AUK PHARMACEUTICAL vs. S.S. (1992) 1 GRL 562",
+    "HALTON vrs. HARRIS (1892) AC 547",
+    "MENSAH & ORS. vrs. ADU & ORS. (1972) GLR 218",
+    "de LASALA vrs. de LASALA (1980) A C 546",
+    "OWUSU vrs. KUMAH (1984-86) 2 ALL ER 29",
+    "ORUKUMKPOR & ORS. vrs. ITEBU & ORS. (1955) 15 WACA 39",
+    "OTU vrs. SOKODE (1969) CC 66",
+    "NORA STORES vrs. UNION INDUSTRIES (Ghana) Ltd. 1969 C.C. 123"
+  ],
+  "rationaleHighlights": [
+    "A consent judgment cannot be varied by the same court except through a fresh action based on fraud or mistake.",
+    "The High Court has inherent power to correct clerical errors or accidental slips in judgments under Order 28 Rule 11.",
+    "Correction of an entry of judgment is permissible if it does not alter the substance of the consent judgment.",
+    "The trial court erred in re-evaluating the merits of the judgment under the guise of correction.",
+    "An application to correct figures must not amount to a collateral attack on a final judgment.",
+    "The distinction between correcting an entry and varying a settlement is crucial.",
+    "Functus officio limits a court's ability to revisit its final decisions.",
+    "Payments made post-judgment do not justify substantive correction of a consent judgment."
+  ],
+  "confidenceNotes": "The case details are drawn directly from the provided judgment text, with citations and procedural history clearly stated. The summary reflects the appellate court's reasoning and the legal principles applied.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/ADNAN DAKIZ v. CREAM TIMBER MOULDING LTD AND ANOR.  [.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:47:17.588Z",
+    "plainTextLength": 19140
+  },
+  "trialDate": "2004-03-26"
+}

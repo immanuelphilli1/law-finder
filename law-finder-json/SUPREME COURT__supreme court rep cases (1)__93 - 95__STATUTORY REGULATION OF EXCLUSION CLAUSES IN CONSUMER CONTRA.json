@@ -1,0 +1,58 @@
+{
+  "caseTitle": "STATUTORY REGULATION OF EXCLUSION CLAUSES IN CONSUMER CONTRA",
+  "summary": "This legal analysis examines the statutory regulation of exclusion clauses in consumer contracts under Ghanaian law, focusing on the Sale of Goods Act, 1962 (Act 137) and the Hire Purchase Decree, 1974 (NRCD 292). It highlights how these laws limit the ability of sellers and owners to exclude liability for defective goods or breach of implied terms, particularly in consumer transactions. The document emphasizes that exclusion clauses are only valid if properly brought to the buyer's attention and their effect clearly explained, especially to illiterate consumers, as demonstrated in Ashitey v Ghana Industrial Holding Corporation. It also discusses judicial interpretations of 'ordinary course of business' from English cases like Spencer Trading Co. Ltd v Devon and Ashington Piggeries Ltd v Christopher Hill Ltd, which have been influential in expanding seller liability. The analysis further notes that while section 76 of Act 137 allows parties to vary contractual terms, such variations cannot override mandatory statutory protections, as confirmed in Donkor v Motor Parts Trading Company and Donkor v Owona Farkye Brothers Transport. Additionally, NRCD 292 imposes strict formalities and implied terms in hire-purchase agreements, prohibiting oppressive clauses and ensuring hirer protection. Overall, Ghanaian courts have taken a vigilant approach to prevent the misuse of exclusion clauses, especially in contexts involving inequality of bargaining power.",
+  "legalKeywords": [
+    "exclusion clauses",
+    "consumer protection",
+    "Sale of Goods Act",
+    "Hire Purchase Decree",
+    "implied terms",
+    "statutory regulation",
+    "unconscionable clauses",
+    "notice requirement",
+    "illiteracy",
+    "contractual liability",
+    "merchantable quality",
+    "fundamental breach",
+    "third-party rights",
+    "bargaining power",
+    "private sale"
+  ],
+  "topics": [
+    "Consumer Law",
+    "Contract Law",
+    "Statutory Interpretation",
+    "Exclusion Clauses",
+    "Hire-Purchase Agreements"
+  ],
+  "verdict": "The analysis concludes that statutory provisions and judicial interpretations in Ghana effectively restrict the enforceability of exclusion clauses in consumer contracts, prioritizing consumer protection over contractual freedom.",
+  "winningSide": "Consumers / Purchasers",
+  "prosecutionType": "civil",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Spencer Trading Company Ltd v Devon",
+    "Ashington Piggeries Ltd v Christopher Hill Ltd",
+    "Ashitey v Ghana Industrial Holding Corporation",
+    "Donkor v Motor Parts Trading Company",
+    "Donkor v Owona Farkye Brothers Transport"
+  ],
+  "rationaleHighlights": [
+    "Exclusion clauses in consumer contracts are strictly regulated to protect weaker parties.",
+    "Sellers must bring exclusion clauses to the buyer's notice and make their effect clear, especially for illiterate consumers.",
+    "Courts interpret 'in the ordinary course of business' broadly to extend seller liability.",
+    "Parties cannot contract out of statutory protections that are fundamental to consumer rights.",
+    "Hire-purchase agreements are subject to stricter formalities and implied terms for hirer protection."
+  ],
+  "confidenceNotes": "The document is an academic or analytical commentary on Ghanaian case law and statutes rather than a verbatim court decision. However, it references actual cases and statutory provisions with sufficient detail for reliable extraction. Some case details are paraphrased, and the full judgments are not provided.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/93 - 95/STATUTORY REGULATION OF EXCLUSION CLAUSES IN CONSUMER CONTRA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:10:47.736Z",
+    "plainTextLength": 80456
+  }
+}

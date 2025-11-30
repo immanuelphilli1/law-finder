@@ -1,0 +1,63 @@
+{
+  "caseTitle": "MEND IE UDO AKPAN INYANG",
+  "summary": "The appellant, Mendie Udo Akpan Inyang, was convicted of the murders of two women under section 319 of the Criminal Code and sought leave to appeal. The West African Court of Appeal, sitting in Lagos on January 21, 1939, refused the application, deeming the case clear and the conviction valid. However, the court emphasized that while trying an accused for multiple murders in a single trial is not fatal to the conviction, it is procedurally preferable to try an individual for no more than one murder per trial, citing R. v. Davies (26 Cr. App. Rep. 95) as authority.",
+  "legalKeywords": [
+    "murder",
+    "Criminal Code",
+    "section 319",
+    "trial procedure",
+    "multiple charges",
+    "appeal",
+    "conviction",
+    "leave to appeal",
+    "West African Court of Appeal",
+    "R. v. Davies",
+    "joint trial",
+    "prosecution"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Trial Jurisprudence"
+  ],
+  "verdict": "Conviction upheld",
+  "winningSide": "Respondent",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "R. v. Davies, 26 Cr. App. Rep. 95"
+  ],
+  "rationaleHighlights": [
+    "Case was clear and conviction valid",
+    "Multiple murder charges in one trial not fatal",
+    "Preference for single-murder trials",
+    "Procedural correctness emphasized",
+    "Leave to appeal denied"
+  ],
+  "confidenceNotes": "High confidence; source is a formal court decision with clear judicial reasoning and citation.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/MEND IE UDO AKPAN INYANG.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:45:55.868Z",
+    "plainTextLength": 1910
+  },
+  "trialDate": "1939-01-21"
+}

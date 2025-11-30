@@ -1,0 +1,76 @@
+{
+  "caseTitle": "FISCIAN VERSUS TETTER",
+  "summary": "This 1956 West African Court of Appeal decision in Fiscian v. Tetter addressed a land title dispute involving the Aruna family and the Brazilian community in Accra, Ghana. The plaintiff, Fiscian, sought a declaration of title to land previously litigated in Joseph Tetteh v. Anna Tetteh, where the defendant (Tetter) had successfully obtained title against Anna Tetteh, a grantee of the Aruna family. The court held that the Aruna family was estopped from re-litigating the title because their interest had been put in issue in the prior suit, even though they were not formal parties. The refund of purchase money to Anna Tetteh did not revive the family's right to sue. The court emphasized that under native customary law, a grantor may be bound by litigation involving their grantee when the title derived from them is challenged. The judgment also included obiter dicta on land tenure among the Brazilian community, noting that original title vested in the community as a whole under Ga customary law, with individual possessory rights arising through occupation and approval by community elders.",
+  "legalKeywords": [
+    "estoppel",
+    "title to land",
+    "native customary law",
+    "grantor and grantee",
+    "re-litigation",
+    "possessory title",
+    "declaration of title",
+    "land tenure",
+    "family representation",
+    "judicial precedent",
+    "Ga law",
+    "Brazilian community land",
+    "recovery of possession",
+    "joinder of parties",
+    "customary occupation",
+    "successor in title",
+    "alienation of land",
+    "reversionary rights",
+    "absolute title",
+    "determinable estate"
+  ],
+  "topics": [
+    "Land Law",
+    "Estoppel",
+    "Customary Law",
+    "Property Rights",
+    "Appellate Decision"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Korsah C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Coussey P.",
+      "role": "President"
+    },
+    {
+      "name": "Verity Ag.J.A.",
+      "role": "Acting Judge of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Gold Coast (Ghana)"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Fiscian v. Nelson and Baksmaty (1946) 12 W.A.C.A. 21",
+    "Oofie v. Ashong and Another (1956) 1 W.A.L.R. 82"
+  ],
+  "rationaleHighlights": [
+    "The Aruna family was estopped from denying the defendant's title as their interest was put in issue in prior litigation involving their grantee.",
+    "Refunding purchase money did not revive the family's right to re-litigate title.",
+    "Original title to Brazilian lands vested in the community collectively under Ga customary law.",
+    "Individual possessory title could arise through occupation with community approval.",
+    "Grantors may be bound by judgments in suits involving grantees when their title is at stake.",
+    "The trial judge erred in relying on occupation through farming as the sole basis for title.",
+    "Judgments in related cases supported the validity of title derived from G. A. Nelson.",
+    "The defendant's title, derived from G. A. Nelson's nephew, was superior to all except the community."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from the judgment text, including names, dates, legal principles, and court holdings. All key elements are explicitly stated in the source document.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/FISCIAN v. TETTER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:34:29.953Z",
+    "plainTextLength": 14892
+  }
+}

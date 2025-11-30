@@ -1,0 +1,84 @@
+{
+  "caseTitle": "THE REPUBLIC VRS THE HIGH COURT, ACCRA -PARTE",
+  "summary": "The Supreme Court of Ghana, exercising its supervisory jurisdiction under Article 132 of the 1992 Constitution, granted an order of certiorari to quash a High Court ruling of 29 March 2011 that had committed Dr. Ernest Asiedu Osafu Alex Aboagye to prison for contempt of court. The contempt order was based on the applicant's failure to comply with a prior judgment of 26 January 2009, which the Supreme Court found to be fundamentally flawed. That earlier judgment, entered in default under Order 13 rule 6(2) of CI 47, included a declaratory order made without affording the defendant an opportunity to be heard, thereby violating the constitutional right to fair hearing under Article 14(1) and the principles of natural justice (audi alteram partem). The Supreme Court held that such a breach renders the proceedings a nullity, and since the contempt order depended on this defective judgment, it could not stand. The Court emphasized that violations of fundamental rights, especially the right to be heard, cannot be remedied under procedural rules like Order 81 of CI 47 and necessitate supervisory intervention.",
+  "legalKeywords": [
+    "certiorari",
+    "contempt of court",
+    "personal liberty",
+    "jurisdiction",
+    "audi alteram partem",
+    "declaratory judgment",
+    "due process",
+    "natural justice",
+    "fundamental human rights",
+    "constitutional interpretation",
+    "default judgment",
+    "procedural fairness",
+    "Supreme Court supervisory jurisdiction",
+    "Article 14",
+    "Order 13 rule 6"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Judicial Review",
+    "Contempt of Court",
+    "Fundamental Human Rights",
+    "Procedural Fairness"
+  ],
+  "verdict": "The application for certiorari was granted; the High Court's ruling of 29 March 2011 committing the applicant to prison for contempt was quashed due to lack of jurisdiction arising from a prior violation of the right to fair hearing.",
+  "winningSide": "The Republic (Applicant/Interested Party Dr. Ernest Asiedu Osafu Alex Aboagye)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "N. S. Gbadegbe",
+      "role": "Delivered the ruling"
+    },
+    {
+      "name": "Dr. S. K. Date-Bah",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "R. C. Owusu (Ms.)",
+      "role": "Justice"
+    },
+    {
+      "name": "J. Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "P. Baffoe-Bonnie",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Article 132, 1992 Constitution of Ghana",
+    "Article 14(1), 1992 Constitution of Ghana",
+    "Article 12(1), 1992 Constitution of Ghana",
+    "Order 13 rule 6(2), High Court (Civil Procedure) Rules, 2004 (CI 47)",
+    "Order 81, CI 47",
+    "METZGER v DEPARTMENT OF HEALTH & SOCIAL SECURITY [1977] 3 All ER 444",
+    "WELLESTEINER v MOIR [1974] 3 ALL ER 217",
+    "THE REPUBLIC v THE HIGH COURT, ACCRA; EX PARTE SALLOUM & ORS (Unreported, Suit No. J5/4/2011, 16 March 2011)",
+    "THE REPUBLIC v THE COURT OF APPEAL & OR EX PARTE GHANA CHARTERED INSTITUTE OF BANKERS (Unreported, Suit No. J5/21/2011, 22 June 2011)"
+  ],
+  "rationaleHighlights": [
+    "The High Court's 26 January 2009 declaratory judgment was made without affording the defendant an opportunity to be heard, violating audi alteram partem.",
+    "A breach of natural justice, particularly the right to a fair hearing, renders judicial proceedings a nullity.",
+    "Contempt order of 29 March 2011 was based on a fundamentally flawed prior judgment and thus lacked legal foundation.",
+    "The Supreme Court exercised its supervisory jurisdiction under Article 132 to quash the contempt ruling.",
+    "Procedural defects in granting default declaratory relief cannot be cured under Order 81 of CI 47 when fundamental rights are violated."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct textual evidence from the Supreme Court ruling, including citations, procedural details, and constitutional references.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/THE REPUBLIC  VRS THE HIGH COURT, ACCRA -PARTE  DR. ERNEST ASIEDU  OSAFO ALEX ABOAGYE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:56:34.172Z",
+    "plainTextLength": 14389
+  },
+  "trialDate": "2011-04-13"
+}

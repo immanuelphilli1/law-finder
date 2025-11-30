@@ -1,0 +1,89 @@
+{
+  "caseTitle": "DR. CLEMENT APAAKVRS. THE ELECTORAL COMMISSION THE ATTORNEY-GENERAL",
+  "summary": "The Supreme Court of Ghana, in a unanimous decision, ruled that the Minister for Local Government lacked constitutional authority to create electoral areas, a power exclusively vested in the Electoral Commission under Article 45(b) of the 1992 Constitution. The Court declared that certain Legislative Instruments (LIs), including LI 1843, which purported to divide local government areas into electoral areas, were unconstitutional and void to the extent they infringed on the Electoral Commission's mandate. While the Court granted declarations that the LIs were made in contravention of the Constitution and were null and void in part, it qualified the injunction against conducting elections by allowing the use of electoral areas if they coincided with those lawfully established by the Electoral Commission. The judgment emphasized the need for clear legislative language that respects constitutional demarcation of powers.",
+  "legalKeywords": [
+    "Electoral Commission",
+    "Article 45(b)",
+    "Local Government Act 1993 (Act 462)",
+    "Legislative Instruments",
+    "unconstitutional",
+    "ultra vires",
+    "judicial declaration",
+    "separation of powers",
+    "electoral boundaries",
+    "constitutional interpretation",
+    "jurisdiction",
+    "judicial review",
+    "enabling power",
+    "void ab initio",
+    "statutory interpretation"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Electoral Law",
+    "Administrative Law",
+    "Separation of Powers",
+    "Judicial Review"
+  ],
+  "verdict": "Plaintiff's action succeeded with qualification",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. S.K. Date-Bah",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "W.A. Atuguba",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "S.O.A. Adinyira (Mrs.)",
+      "role": "Justice"
+    },
+    {
+      "name": "R.C. Owusu (Ms.)",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin-Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "N.S. Gbadegbe",
+      "role": "Justice"
+    },
+    {
+      "name": "V. Akoto-Bamfo (Mrs.)",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Challenge",
+  "citations": [
+    "Article 45(b), 1992 Constitution of Ghana",
+    "Local Government Act 1993 (Act 462)",
+    "LI 1843",
+    "C.I. 46 (Representation of the People (Parliamentary Constituencies) Instrument, 2004)"
+  ],
+  "rationaleHighlights": [
+    "The Electoral Commission has exclusive constitutional authority to demarcate electoral boundaries under Article 45(b).",
+    "The Minister for Local Government does not have power to create electoral areas.",
+    "Language in Legislative Instruments suggesting such power is ultra vires and unconstitutional.",
+    "Ambiguities in statutory drafting must be resolved against the executive and in favor of constitutional clarity.",
+    "Existing electoral areas may still be used if lawfully designated by the Electoral Commission, despite flawed ministerial references.",
+    "The Court invalidated only the portions of the Instruments that purported to create electoral areas.",
+    "A qualified injunction was issued to prevent disruption of lawful elections.",
+    "The judgment reinforces constitutional supremacy and separation of powers."
+  ],
+  "confidenceNotes": "High confidence based on explicit admissions by the first defendant and clear textual analysis of constitutional provisions.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/DR. CLEMENT APAAKVRS.  THE  ELECTORAL COMMISSION THE ATTORNEY-GENERAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:33:59.904Z",
+    "plainTextLength": 9370
+  }
+}

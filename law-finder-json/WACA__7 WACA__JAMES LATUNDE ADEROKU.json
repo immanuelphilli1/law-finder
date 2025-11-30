@@ -1,0 +1,63 @@
+{
+  "caseTitle": "JAMES LATUNDE ADEROKU",
+  "summary": "This West Africa Court of Appeal decision involved a mortgagee in possession dispute where the appellant, James Latunde Aderoku, challenged the quantum of compensation awarded for the respondents' (United Africa Company Limited) occupation of his mortgaged property at Plot 13D, Zaria. The trial court had awarded �272 10s 0d and ordered reconveyance. On appeal, the court held that mortgagees must account for all rents received during their possession, except where quiet possession was not granted. The appeal was allowed in part: the court affirmed the trial judge's determination of a fair average monthly rent at �7 and upheld the disallowance of rent for January to March 15th, 1933, due to lack of quiet possession. However, it ruled that the appellant was entitled to rent for the 31-month period from March 15th, 1935, to October 14th, 1937, increasing the award by �211. The judgment was accordingly varied to �489 10s 0d, with costs awarded to the appellant.",
+  "legalKeywords": [
+    "mortgagee in possession",
+    "accounting for rents",
+    "quiet possession",
+    "use and occupation",
+    "reconveyance",
+    "fair average rent",
+    "offset of rent",
+    "appeal allowed",
+    "judgment varied",
+    "West Africa Court of Appeal"
+  ],
+  "topics": [
+    "Property Law",
+    "Mortgage Law",
+    "Rent and Occupation",
+    "Appellate Review",
+    "Equity"
+  ],
+  "verdict": "Appeal allowed in part; judgment varied to increase award from �272 10s 0d to �489 10s 0d.",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Chaplin v. Young 55 E.R. 395"
+  ],
+  "rationaleHighlights": [
+    "Mortgagees must account for all rents received during possession.",
+    "No credit for rent where quiet possession was not granted.",
+    "Trial judge's rent assessment upheld despite possible error in evidence interpretation.",
+    "Appellant entitled to additional rent for 31 months post-entitlement to possession.",
+    "Appeal allowed to correct undercompensation in original judgment."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy due to clear judicial reasoning and citation of established precedent.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/JAMES LATUNDE ADEROKU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:33:51.759Z",
+    "plainTextLength": 7446
+  },
+  "trialDate": "1941-05-05"
+}

@@ -1,0 +1,70 @@
+{
+  "caseTitle": "CONVEYANCER'S CONFUSION [1980] VOL. XII RGL 53—66",
+  "summary": "This legal commentary critiques the confusion in Ghana's conveyancing and stamp duty system arising from the interplay of the Stamp Act, 1965 (Act 311), the Land Registry Act, 1962 (Act 122), and the Conveyancing Decree, 1973 (N.R.C.D. 175). The author highlights the lack of clear policy behind stamp duty rates, exacerbated by currency reforms that led to complex and surreptitiously increased duties. The responsibility for stamp duty assessment lies with the Commissioner of Income Tax, creating challenges for conveyancers due to non-legal personnel making assessments without regard to legal principles. Courts often ignore insufficiency of stamps, focusing only on omission, and appeals are procedurally burdensome. The Land Registry system in Ghana records deeds but does not guarantee title, unlike true title registration systems. Post-1962, registration affects instrument validity under Act 122, but uncertainty persists due to conflicting applications and inadequate statutory warranties. The author calls for strict statutory interpretation to bring clarity and predictability to the system.",
+  "legalKeywords": [
+    "stamp duty",
+    "conveyancing",
+    "land registration",
+    "instrument",
+    "ad valorem duty",
+    "deed registration",
+    "title investigation",
+    "assessment appeal",
+    "statutory interpretation",
+    "revenue law",
+    "property law",
+    "legal effect of documents",
+    "priority of instruments",
+    "validity of conveyance",
+    "customary land sale"
+  ],
+  "topics": [
+    "Tax Law",
+    "Property Law",
+    "Legal Procedure",
+    "Statutory Interpretation",
+    "Land Registration"
+  ],
+  "verdict": "The article concludes that the current legal and administrative framework creates significant uncertainty for conveyancers and calls for reform through clear statutory interpretation and systemic improvements.",
+  "winningSide": "The argument favors legal practitioners and calls for systemic reform to benefit clarity and fairness in conveyancing.",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Rawlatt J.",
+      "role": "referenced judge"
+    },
+    {
+      "name": "Taunton J.",
+      "role": "referenced judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "legal commentary",
+  "citations": [
+    "[1980] VOL. XII RGL 53",
+    "Stamp Act, 1965 (Act 311)",
+    "Land Registry Act, 1962 (Act 122)",
+    "Conveyancing Decree, 1973 (N.R.C.D. 175)",
+    "Stamp Act (Amendment) Decree, 1975 (N.R.C.D. 355)",
+    "Martin v. I.R.C",
+    "Eastern National Omnibus Co. v. I.R.C.",
+    "Morley v. Hall"
+  ],
+  "rationaleHighlights": [
+    "Ambiguity in stamp duty rates due to currency changes and poor legislative drafting",
+    "Lack of judicial guidance on stamp sufficiency in civil proceedings",
+    "Distinction between registration of deeds vs. registration of title",
+    "Need for strict statutory interpretation in stamp duty matters",
+    "Procedural hardship in appealing stamp assessments"
+  ],
+  "confidenceNotes": "The document is a legal commentary, not a judicial decision; therefore, case details are derived from statutory references and judicial dicta cited within the text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2012/CONVEYANCER'S CONFUSION [1980] VOL. XII RGL 53—66.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:47:17.286Z",
+    "plainTextLength": 37819
+  }
+}

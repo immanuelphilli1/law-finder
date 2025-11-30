@@ -1,0 +1,67 @@
+{
+  "caseTitle": "WAYA VERSUS BYROUTHY",
+  "summary": "In WAYA v. BYROUTHY, the High Court of Ghana held that the defendant, Byrouthy, wrongfully seized and sold a lorry belonging to the plaintiff, Waya. The lorry had been purchased by Waya on credit from Wilson, with no fixed instalment terms. Wilson seized the lorry for non-payment, but the court found this seizure unlawful as ownership had passed to Waya upon delivery. Byrouthy later paid the outstanding balance to Wilson on Waya's behalf and obtained a receipt, but Wilson had no ownership to transfer. A subsequent hire-purchase agreement, signed by the illiterate Waya via thumbprint, was unenforceable because Byrouthy lacked title to the vehicle and failed to prove the document was read and interpreted to Waya. The court ruled the seizure constituted conversion, awarding Waya damages for the value of the lorry and loss of earnings.",
+  "legalKeywords": [
+    "sale of goods",
+    "credit sale",
+    "hire-purchase agreement",
+    "illiteracy and contract",
+    "nemo dat quod non habet",
+    "conversion",
+    "seizure of goods",
+    "property transfer",
+    "oral agreement",
+    "written agreement",
+    "burden of proof",
+    "general property",
+    "unlawful seizure",
+    "trover",
+    "mesne profits"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Consumer Rights",
+    "Remedies",
+    "Evidence Law"
+  ],
+  "verdict": "Judgment for the plaintiff",
+  "winningSide": "plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adumua-Bossman J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Central Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Action for Conversion and Unlawful Seizure",
+  "citations": [
+    "Koney v. Union Trading Co., Ltd. (1934) 2 W.A.C.A. 188",
+    "Tarling v. Baxter (1827) 6 B. & C. 360",
+    "Kwamin v. Kufuor",
+    "McEntire and Another v. Orossley Bros., Ltd. [1895] A.C. 457",
+    "Kofi v. Mensah (1930) 1 W.A.C.A. 76",
+    "Sei v. Ojori (1926)"
+  ],
+  "rationaleHighlights": [
+    "Ownership passed to Waya upon delivery; no agreement retained title with Wilson.",
+    "No fixed instalments agreed; thus, no default justifying seizure.",
+    "Wilson had no property to transfer to Byrouthy; nemo dat applies.",
+    "Hire-purchase agreement unenforceable due to lack of title and illiteracy.",
+    "Party relying on document signed by illiterate must prove it was read and interpreted.",
+    "Seizure constituted conversion; defendant liable for value and loss of use.",
+    "Damages awarded based on loss of earnings over 79 working days.",
+    "Plaintiff's version of events preferred due to credibility and consistency."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and clear citation of legal principles. Case is well-documented with direct quotes from judgment and referenced authorities.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/WAYA v. BYROUTHY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:51:25.461Z",
+    "plainTextLength": 14100
+  }
+}

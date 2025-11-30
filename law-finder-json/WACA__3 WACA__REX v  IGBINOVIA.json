@@ -1,0 +1,67 @@
+{
+  "caseTitle": "REX v IGBINOVIA",
+  "summary": "The appellant was charged under sections 148(3)(c) and 152(3) of the Criminal Code for possession without lawful authority and intent to utter, respectively. The charges lacked full particulars—specifically, 'possession without lawful authority' and 'guilty knowledge or intent to utter' were not clearly set out. The court held that while such omissions would invalidate convictions in trials upon information (per Rex v. Harvey), they do not vitiate summary trials provided the accused receives adequate notice of the charges. The court found the appellant had sufficient notice and was clearly guilty on the merits. The appeal was dismissed.",
+  "legalKeywords": [
+    "summary trial",
+    "adequate notice",
+    "insufficient particulars",
+    "conviction validity",
+    "charged elements",
+    "Rex v. Harvey",
+    "criminal code",
+    "possession",
+    "intent to utter",
+    "guilty knowledge",
+    "lawful authority",
+    "excuse",
+    "accused rights",
+    "procedural defect",
+    "vitiating error"
+  ],
+  "topics": [
+    "Criminal Procedure",
+    "Legal Sufficiency of Charges",
+    "Summary Trial",
+    "Notice to Accused",
+    "Appellate Review"
+  ],
+  "verdict": "Conviction upheld; appeal dismissed.",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v. Harvey, II Cox 662"
+  ],
+  "rationaleHighlights": [
+    "Insufficient particulars in a summary trial do not invalidate a conviction if the accused had adequate notice.",
+    "Unlike trials upon information, summary trials allow for procedural flexibility.",
+    "The court distinguished Rex v. Harvey due to the summary nature of the trial.",
+    "The appellant was found clearly guilty on the merits."
+  ],
+  "confidenceNotes": "The source document is brief and lacks detailed procedural or factual context, but key legal holdings and jurisdictional information are clearly stated.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/REX v  IGBINOVIA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:13:13.036Z",
+    "plainTextLength": 2222
+  },
+  "trialDate": "1986-10-16"
+}

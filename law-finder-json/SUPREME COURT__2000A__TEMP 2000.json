@@ -1,0 +1,33 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The provided document does not contain a legal decision or case details. It appears to be a placeholder or index page for unreported cases of the Supreme Court of Ghana from the year 2000, with no substantive content regarding a specific case, parties, judgment, or legal reasoning.",
+  "legalKeywords": [
+    "Supreme Court",
+    "Ghana",
+    "unreported cases",
+    "2000",
+    "legal database"
+  ],
+  "topics": [
+    "Court Documentation",
+    "Case Reporting"
+  ],
+  "verdict": "N/A",
+  "winningSide": "N/A",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Administrative/Document Index",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "Low confidence in deriving case-specific insights due to absence of actual case content; metadata suggests it is a directory or copyright notice rather than a judicial decision.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2000A/TEMP 2000.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:46:28.367Z",
+    "plainTextLength": 214
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "caseTitle": "BOOK REVIEW CRIMINAL PROCEDURE IN GHANA [1981-82] VOLS. XIII",
+  "summary": "This book review, published on 14 December 1982, evaluates 'Criminal Procedure in Ghana' by A. N. E. Amissah, a comprehensive legal treatise addressing the complexities of Ghana's criminal procedure law following numerous amendments to the 1960 Criminal Procedure Code (Act 30). The author, a retired Justice of Appeal and former Director of Public Prosecutions, systematically presents the law from the reporting of an offence through to trial, appeals, and reviews. The review highlights the book’s clarity, accuracy, and utility for legal professionals and scholars. It notes a significant omission: the lack of discussion on judicial review of military tribunals established under A.F.R.C. Decrees, particularly in light of constitutional transitional provisions such as section 15(2) of the 1979 Constitution. The reviewer also acknowledges Amissah’s impartial treatment of controversial judicial decisions, including his own in the Ohene-Djan murder trial, where he accepted a plea to manslaughter under section 239(2) of the Code, a move that sparked public and judicial debate.",
+  "legalKeywords": [
+    "criminal procedure",
+    "judicial review",
+    "military tribunal",
+    "plea of guilty",
+    "appeal",
+    "constitutional transition",
+    "section 239",
+    "section 324",
+    "High Court jurisdiction",
+    "certiorari",
+    "reserved questions",
+    "revisions",
+    "superior courts",
+    "Attorney-General",
+    "police powers",
+    "indictment",
+    "charge sheet",
+    "trial process",
+    "punishment",
+    "Ghana Book Award"
+  ],
+  "topics": [
+    "Legal Scholarship",
+    "Criminal Law",
+    "Judicial Review",
+    "Military Tribunals",
+    "Constitutional Law"
+  ],
+  "verdict": "The book is highly recommended as a definitive resource on Ghanaian criminal procedure.",
+  "winningSide": "Author / Legal Scholarship",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "A. N. E. Amissah",
+      "role": "Author and Former Justice"
+    },
+    {
+      "name": "Taylor J.",
+      "role": "High Court Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Book Review / Legal Commentary",
+  "citations": [
+    "Watara v. The Republic [1974] 2 G.L.R. 24",
+    "Republic v. Special Tribunal; Ex parte Forson [1980] G.L.R.D. 63"
+  ],
+  "rationaleHighlights": [
+    "The book resolves confusion caused by amendments to the Criminal Procedure Code.",
+    "Section 324 was repealed but courts still cited it, showing need for authoritative texts.",
+    "Author treats his own controversial rulings objectively.",
+    "Omission of analysis on judicial review of military tribunals under transitional constitution is noted.",
+    "Book praised for structure, clarity, and relevance to common law jurisdictions."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on explicit citations, clear context, and authoritative source (legal review). Some interpretive elements regarding omissions are based on reviewer's opinion.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2013/BOOK REVIEW CRIMINAL PROCEDURE IN GHANA [1981-82] VOLS. XIII.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:36:33.214Z",
+    "plainTextLength": 8462
+  },
+  "trialDate": "1982-11-10"
+}

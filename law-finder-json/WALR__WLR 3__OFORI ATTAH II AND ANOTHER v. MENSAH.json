@@ -1,0 +1,62 @@
+{
+  "caseTitle": "ANOTHER VERSUS MENSAH",
+  "summary": "In this 1957 Ghanaian land dispute, the High Court allowed an appeal from a Native Court decision that dismissed a claim by the Paramount Chief (Omanhene) and an Odikro to recover possession of stool land. The Native Court had ruled the Paramount Chief lacked locus standi, asserting only the state council could sue on state land. Ollennu J. held that where a paramount stool creates a sub-stool and vests it with land, a residual interest remains in the paramount stool by native custom, supporting its standing to sue. The court affirmed that the occupant of the paramount stool, acting with the state council’s consent, is the proper person to litigate on behalf of the state. The decision clarified that statutory management controls over stool land do not divest traditional ownership or alter standing to sue, and emphasized that title remains with the stool. The appeal was allowed, and the case was ordered for rehearing.",
+  "legalKeywords": [
+    "stool land",
+    "native law and custom",
+    "locus standi",
+    "paramount stool",
+    "residual interest",
+    "state council",
+    "land title",
+    "litigation standing",
+    "customary law",
+    "land recovery",
+    "Omanhene",
+    "native courts",
+    "statutory management",
+    "title vesting",
+    "family property"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Jurisdiction and Standing",
+    "Stool Land Ownership",
+    "Native Courts"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "Land dispute / Civil appeal",
+  "citations": [
+    "WALR 3/OFORI ATTAH II AND ANOTHER v. MENSAH"
+  ],
+  "rationaleHighlights": [
+    "A paramount stool retains a residual interest in land vested in a sub-stool it created, by native custom.",
+    "The occupant of the paramount stool (Omanhene) is the proper person to sue on behalf of the state, with council consent.",
+    "State councils may sue only where no paramount stool exists.",
+    "Statutory management of stool land does not transfer ownership or litigation rights.",
+    "Native courts erred in dismissing the claim without evidence on standing.",
+    "Joint plaintiffs cannot be dismissed solely on alleged lack of interest without trial.",
+    "Title to stool land remains with the stool, not local authorities.",
+    "Customary principles govern litigation rights over stool land, unaffected by recent legislation."
+  ],
+  "confidenceNotes": "High confidence; information is drawn directly from the court's reasoning and factual account of native custom and statutory interpretation.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/OFORI ATTAH II AND ANOTHER v. MENSAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:57:24.687Z",
+    "plainTextLength": 7917
+  }
+}

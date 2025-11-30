@@ -1,0 +1,69 @@
+{
+  "caseTitle": "REGINA VERSUS GRUMAH.",
+  "summary": "In Regina v. Grumah, the appellant was initially found unfit to plead due to mental illness but was later tried for murder after a psychiatrist deemed him fit. He admitted killing the deceased but claimed he acted under an insane delusion that the victim was about to kill him. The trial judge failed to adequately distinguish between self-defence and the defence of insane delusion in his jury instructions. The West African Court of Appeal held that an insane delusion—defined as a false, unshakable belief caused by mental disease—could negate criminal responsibility under section 52(2) of the Criminal Code, c. 9 of 1951. Given the lack of proper direction to the jury, the court substituted the verdict of guilty with a special verdict of 'guilty but insane' under section 137 of the Criminal Procedure Code, c. 10 of 1951, and ordered the appellant detained at the Accra Mental Hospital during Her Majesty's pleasure.",
+  "legalKeywords": [
+    "insanity",
+    "insane delusion",
+    "mental disease",
+    "false belief",
+    "unfit to plead",
+    "guilty but insane",
+    "special verdict",
+    "Criminal Code",
+    "Criminal Procedure Code",
+    "self-defence",
+    "jury direction",
+    "medical evidence",
+    "psychiatric evaluation",
+    "delusion",
+    "fitness to plead"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Insanity Defence",
+    "Jury Instructions",
+    "Mental Health Law",
+    "Appellate Review"
+  ],
+  "verdict": "Special verdict of guilty but insane substituted for guilty verdict.",
+  "winningSide": "Appellant (on appeal)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Korsah C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Verity Ag.J.A.",
+      "role": "Acting Judge of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Criminal Code, c. 9 of 1951, s. 52(2)",
+    "Criminal Procedure Code, c. 10 of 1951, s. 137"
+  ],
+  "rationaleHighlights": [
+    "An insane delusion is a false belief induced by mental disease and unshakable by facts.",
+    "No adequate jury direction distinguishing self-defence from insane delusion.",
+    "Appellant may have acted under an insane delusion that the deceased would kill him.",
+    "Verdict of guilty but insane substituted due to insufficient jury guidance.",
+    "Section 52(2) Criminal Code applies where delusion renders accused unfit for punishment.",
+    "Detention ordered at Mental Hospital during Her Majesty's pleasure."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment and editorial note.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/REGINA v. GRUMAH. ..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:24:20.877Z",
+    "plainTextLength": 7112
+  }
+}

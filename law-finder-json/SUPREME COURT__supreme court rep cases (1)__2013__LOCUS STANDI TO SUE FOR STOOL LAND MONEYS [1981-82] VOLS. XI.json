@@ -1,0 +1,74 @@
+{
+  "caseTitle": "Gyamfi v. Owusu1 arose after stool",
+  "summary": "The case of Gyamfi v. Owusu addressed the issue of locus standi to sue for compensation from stool land revenues in Ghana. The plaintiffs, representing the stool community, sued three individuals and the omanhene (paramount chief) for money received from the government for allegedly acquired stool lands. The Court of Appeal held that under the Administration of Lands Act, 1962 (Act 123), only state officers—specifically the Minister—had the legal authority to collect revenue from stool lands, thereby excluding private individuals, including chiefs, from suing for such moneys. The court also rejected the argument that the constitutional provision declaring stool lands held 'in trust' created enforceable common law trusts allowing beneficiaries to sue for an account. Additionally, it was found that the state had not validly acquired the land due to procedural failures under relevant statutes, meaning no compensation was legally payable. Despite sympathizing with the plaintiffs' position, the court allowed the appeal but ordered the disputed funds to remain in court pending lawful acquisition and proper disbursement through official channels.",
+  "legalKeywords": [
+    "locus standi",
+    "stool land",
+    "compensation",
+    "customary law",
+    "Administration of Lands Act",
+    "revenue",
+    "constructive trust",
+    "money had and received",
+    "chief accountability",
+    "state acquisition",
+    "land acquisition procedure",
+    "trust beneficiary",
+    "constitutional provision",
+    "public officer",
+    "private action"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Constitutional Law",
+    "Public Finance",
+    "Judicial Remedies"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Charles Crabbe J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Archer J.S.C.",
+      "role": "Concurring Judge"
+    },
+    {
+      "name": "Mensa Boison J.A.",
+      "role": "Judging Panel"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Gyamfi v. Owusu",
+    "Kwan v. Nyieni [1959] G.L.R. 67",
+    "Administration of Lands Act, 1962 (Act 123)",
+    "Constitution of Ghana, 1969, Article 164",
+    "Constitution of Ghana, 1979, Article 190",
+    "Republic v. Saffour II",
+    "P.N.D.C.L. 42"
+  ],
+  "rationaleHighlights": [
+    "Only state officers can sue for stool land revenue under Act 123, s.17(1)",
+    "Constitutional 'trust' language does not create enforceable common law trusts",
+    "State failed to validly acquire land under applicable statutes",
+    "Chief cannot be sued for account of stool funds absent removal from office",
+    "Plaintiffs lacked locus standi despite wrongful payment to defendants",
+    "Funds ordered to remain in court to prevent unjust enrichment"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and cited statutes. Some interpretive nuances exist regarding trust enforceability and potential mandamus relief, but core holdings are clear.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2013/LOCUS STANDI TO SUE FOR STOOL LAND MONEYS [1981-82] VOLS. XI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:32:25.307Z",
+    "plainTextLength": 14814
+  }
+}

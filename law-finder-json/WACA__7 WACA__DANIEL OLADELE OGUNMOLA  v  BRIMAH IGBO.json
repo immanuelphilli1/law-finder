@@ -1,0 +1,82 @@
+{
+  "caseTitle": "DANIEL OLADELE OGUNMOLA v BRIMAH IGBO",
+  "summary": "This 1941 West African Court of Appeal decision involved an appeal by Daniel Oladele Ogunmola against Brimah Igbo, where conditional leave to appeal required a bond of twenty-five guineas to secure costs. The appellant filed a bond for twenty-five pounds instead, leading to non-compliance with the condition. The court held that such non-compliance was fatal, rendering the appeal not properly before the court. However, citing the Privy Council's decision in Kojo Pon v. Atta Fua, the court emphasized the importance of substantial justice and noted that technical defects should not bar appeals where procedural rules allow flexibility. The appeal was struck out without prejudice to the appellant's right to perfect the appeal, and the respondent was awarded seven guineas in costs.",
+  "legalKeywords": [
+    "conditional leave to appeal",
+    "bond for costs",
+    "non-compliance with condition",
+    "substantial justice",
+    "technical defect",
+    "appeal struck out",
+    "West African Court of Appeal",
+    "Privy Council",
+    "procedural compliance",
+    "Gold Coast Colony",
+    "Supreme Court Rules",
+    "Order 53",
+    "section 8 WA CA",
+    "jurisdictional requirement",
+    "costs security",
+    "remittal",
+    "adjournment for compliance",
+    "Registrar's acceptance",
+    "authority to execute bond",
+    "Full Court decision",
+    "appellate procedure"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Costs in Civil Litigation",
+    "Procedural Compliance",
+    "Substantial Justice vs Technicalities",
+    "Legal Bonds and Security"
+  ],
+  "verdict": "Appeal struck out due to non-compliance with conditions for leave, but without prejudice to perfecting the appeal.",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Cor. Brooke",
+      "role": "Justice"
+    },
+    {
+      "name": "Francis",
+      "role": "Justice"
+    },
+    {
+      "name": "Jeffreys",
+      "role": "Justice"
+    },
+    {
+      "name": "Baker",
+      "role": "Justice (joint judgment)"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana (then Gold Coast Colony)"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Adeseye v. Leigh (unreported), Full Court 1933",
+    "Kojo Pon v. Atta Fua, P.C. No 48 of 1925"
+  ],
+  "rationaleHighlights": [
+    "Non-compliance with a condition for leave to appeal is fatal to the appeal's admissibility.",
+    "Section 8 of the West African Court of Appeal Act provides broader discretion than prior rules.",
+    "Courts should prioritize substantial justice over technical defects.",
+    "The Court had power to adjourn to allow correction of the bond defect.",
+    "Registrar's acceptance of an irregular bond supports leniency.",
+    "Privy Council precedent emphasizes flexibility in colonial appellate rules.",
+    "Appeal not heard due to procedural default, but appellant may refile.",
+    "Respondent awarded costs despite technical outcome."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear textual evidence from the judgment. All names, legal principles, citations, and procedural outcomes are explicitly stated in the source document.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/DANIEL OLADELE OGUNMOLA  v  BRIMAH IGBO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:35:10.009Z",
+    "plainTextLength": 4317
+  },
+  "trialDate": "1941-10-27"
+}

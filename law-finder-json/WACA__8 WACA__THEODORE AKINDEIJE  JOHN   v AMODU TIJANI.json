@@ -1,0 +1,79 @@
+{
+  "caseTitle": "THEODORE AKINDEIJE JOHN v AMODU TIJANI",
+  "summary": "This West African Court of Appeal decision resolves a procedural conflict regarding interpleader claims under Order 45 rule 25 of the Supreme Court Rules. The case arose when a claimant (plaintiff) sought release of land attached under a writ of Fi Fa, having proved possession. The core issue was whether the judgment creditor (defendant) could introduce evidence that the judgment debtor held superior title to the land. The Court held that Order 45 rule 25 is designed to protect possessory interests, and unless the judgment creditor properly pleads that the claimant holds the property in trust for, or pays rent to, the debtor, evidence of the debtor's title is inadmissible. The Court criticized the prevailing practice of treating such claims as separate suits, emphasizing that claims should be adjudicated within the original suit to ensure the judgment debtor remains a party. On the pleadings, which did not allege trust or rent, the defendant could not prove the debtor's title, and the claimant was entitled to release of the property.",
+  "legalKeywords": [
+    "interpleader",
+    "possessory interest",
+    "Order 45 rule 25",
+    "writ of Fi Fa",
+    "execution creditor",
+    "judgment debtor",
+    "claimant possession",
+    "title to land",
+    "stool land",
+    "burden of proof",
+    "amendment of pleadings",
+    "trust possession",
+    "rent payment",
+    "procedural irregularity",
+    "case stated",
+    "Supreme Court Rules",
+    "Chief Registrar Circular 1293/76",
+    "family land",
+    "attachment of property",
+    "civil procedure"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Property Law",
+    "Execution of Judgments",
+    "Possession vs Title",
+    "Interpleader"
+  ],
+  "verdict": "The Court ruled that, based on the current pleadings, the defendant could not introduce evidence of the judgment debtor's title to override the plaintiff's proven possession.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Judge stating the case"
+    },
+    {
+      "name": "Francis",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WACA/8",
+    "Ognnmola v. Igbo No. 38/41",
+    "Lawuni v. Lubo No. 5/41",
+    "Apatira v. Igbo No. 82/41"
+  ],
+  "rationaleHighlights": [
+    "Order 45 rule 25 protects possessory interest, not title disputes",
+    "Evidence of judgment debtor's superior title inadmissible if not pleaded properly",
+    "Judgment creditor must plead and prove that claimant holds property in trust for debtor",
+    "Burden of proof lies on judgment creditor when challenging possession under trust or rent",
+    "Circular No. 1293/76 misrepresents proper procedure under rule 25",
+    "Claim should be handled within original suit, not as separate action",
+    "Pleadings must clearly allege trust or rent to override possession",
+    "Failure to properly plead trust or title bars admission of such evidence"
+  ],
+  "confidenceNotes": "The case is clearly reported with full judicial reasoning and procedural history. The citation of prior inconsistent rulings and resolution by the WACA enhances reliability.",
+  "metadata": {
+    "sourcePath": "WACA/8 WACA/THEODORE AKINDEIJE  JOHN   v AMODU TIJANI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:19:50.117Z",
+    "plainTextLength": 8597
+  },
+  "trialDate": "25TH FEBRUARY, 1942"
+}

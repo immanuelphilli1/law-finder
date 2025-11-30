@@ -1,0 +1,76 @@
+{
+  "caseTitle": "THE TRUST BANK LIMITED VRS G.K. APPIAH & SONS LIMITED,",
+  "summary": "The Trust Bank Limited appealed to the Supreme Court of Ghana against the Court of Appeal's affirmation of the High Court's dismissal of its claim for approximately 544 million in unpaid banking facilities owed by G.K. Appiah & Sons Limited and related parties. The lower courts dismissed the suit primarily on the grounds of *res judicata*, holding that the same cause of action had already been finally determined in a prior suit (AB1/2003), where the bank had obtained summary judgment and a final order. Although the bank later discontinued AB1/2003 with liberty to file a fresh action, the Supreme Court upheld that the prior final judgment barred the current suit. The court reasoned that once a final judgment is entered, discontinuance with liberty does not nullify the res judicata effect. The appeal was dismissed, affirming that the doctrine of res judicata applies to prevent multiplicity of actions on the same cause, even when a party seeks to re-litigate after a formal discontinuance.",
+  "legalKeywords": [
+    "res judicata",
+    "estoppel",
+    "discontinuance of suit",
+    "leave to discontinue",
+    "abuse of process",
+    "summary judgment",
+    "civil procedure",
+    "banking dispute",
+    "fraud allegation",
+    "jurisdiction",
+    "final judgment",
+    "appeal",
+    "High Court Commercial Division",
+    "Court of Appeal",
+    "Supreme Court"
+  ],
+  "topics": [
+    "Res Judicata",
+    "Civil Procedure",
+    "Banking Law",
+    "Appeal",
+    "Discontinuance of Action"
+  ],
+  "verdict": "Appeal dismissed.",
+  "winningSide": "Defendants/Respondents (G.K. Appiah & Sons Limited and others)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Mrs. Wood",
+      "role": "Chief Justice (Presiding)"
+    },
+    {
+      "name": "Dotse",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Yeboah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Gbadebo",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Mrs. Akoto-Bamfo",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "AB1/2003",
+    "J4/51/2010"
+  ],
+  "rationaleHighlights": [
+    "The appeal was limited to the orders against the three respondents, not the entire decision.",
+    "The trial and appellate courts upheld the plea of estoppel per rem judicatam based on a prior suit (AB1/2003) involving the same parties and facts.",
+    "The appellant had discontinued suit AB1/2003 with liberty to file a fresh action, but the court found this did not negate res judicata due to final judgment already entered.",
+    "The Supreme Court affirmed that a court may not ignore a valid final judgment even if a later discontinuance was granted.",
+    "The discontinuance with liberty did not revive the right to sue where the cause of action had already been finally determined."
+  ],
+  "confidenceNotes": "The document is truncated but contains sufficient information from the judgment to extract key details about the case, parties, legal reasoning, and outcome. The core legal issue (res judicata) and court's stance are clearly stated.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/THE TRUST BANK LIMITED  VRS G.K. APPIAH & SONS LIMITED,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:55:19.417Z",
+    "plainTextLength": 27311
+  }
+}

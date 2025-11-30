@@ -1,0 +1,75 @@
+{
+  "caseTitle": "M. K. HINA WI & CO. VERSUS BASSIL.",
+  "summary": "In M. K. Hina Wi & Co. v. Bassil, the plaintiff landlord sought to enforce a rent increase from £66 13s. 4d. to £92 per month, as determined by the Accra Rent Assessment Committee under the Rent Control Ordinance, 1952, during the currency of existing leases expiring in 1959 and 1964. The defendant tenant refused to pay the increased amount, arguing that contractual rent terms remained binding until lease termination. The Court of Appeal held that the Ordinance did not empower the Committee to override freely negotiated contractual rents during the lease term. The standard rent set under the Ordinance serves only as a maximum limit, not an enforceable minimum, and does not abrogate existing lease agreements. Therefore, the landlord could not recover the excess rent or obtain possession for non-payment of the increased amount. The decision emphasized that statutory provisions affecting vested contractual rights require clear legislative intent, which was absent here. The appeal was allowed, overturning the Land Court’s judgment.",
+  "legalKeywords": [
+    "rent control",
+    "standard rent",
+    "contractual tenancy",
+    "Rent Assessment Committee",
+    "statutory interpretation",
+    "vested rights",
+    "common law",
+    "lease agreement",
+    "non-payment of rent",
+    "equitable relief",
+    "judicial discretion",
+    "legislative intent",
+    "tenancy at will",
+    "recovery of possession",
+    "administrative authority"
+  ],
+  "topics": [
+    "Landlord and Tenant Law",
+    "Rent Regulation",
+    "Statutory Interpretation",
+    "Contract Law",
+    "Property Law",
+    "Appellate Decision",
+    "Ghanaian Case Law",
+    "Equitable Relief",
+    "Administrative Law",
+    "Judicial Precedent"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Korsah C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "van Lare",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Granville Sharp",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "WALR/WLR 3/M. K. Hina Wi & Co. v. Bassil",
+    "Amah v. Picas (1954) 2 W.A.L.R. 79",
+    "Noshie v. Amarteifio (1947) 12 W.A.C.A. 115",
+    "Mansour v. C.F.A.O. (1956) 2 W.A.L.R. 77"
+  ],
+  "rationaleHighlights": [
+    "The Rent Control Ordinance does not abrogate existing contractual tenancies; clear legislative intent is required to override common law rights.",
+    "The standard rent fixed by the Committee acts as a ceiling, not a floor, and cannot override agreed contractual rent during the lease term.",
+    "An administrative body like the Rent Assessment Committee cannot unilaterally alter or void freely negotiated contracts.",
+    "Enforcement of increased rent during a fixed-term lease violates the principle of sanctity of contract.",
+    "Equitable relief against re-entry for non-payment of unauthorized rent increases should be granted where the tenant has lawfully refused excess payment."
+  ],
+  "confidenceNotes": "High confidence; all key facts, holdings, and legal principles are explicitly stated in the judgment. Dissent by Korsah C.J. noted but majority view clearly established.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/M. K. HINA WI & CO. v. BASSIL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:01:38.836Z",
+    "plainTextLength": 63319
+  }
+}

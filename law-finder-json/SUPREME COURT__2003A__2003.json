@@ -1,0 +1,33 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The provided source file contains only a webpage header from the unreported cases of the Supreme Court of Ghana for 2003, with no substantive case information, facts, or judicial reasoning. As a result, no meaningful legal analysis or summary can be derived from the content supplied.",
+  "legalKeywords": [
+    "unreported case",
+    "Supreme Court",
+    "Ghana",
+    "legal database",
+    "case document"
+  ],
+  "topics": [
+    "Court Documentation",
+    "Legal Database"
+  ],
+  "verdict": "Not available due to incomplete document",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "unreported",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The provided document appears to be a webpage header or placeholder rather than the full text of a legal decision. As such, critical details such as case title, facts, judgment, and reasoning are missing, limiting the accuracy of extraction.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2003A/2003.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:37:35.661Z",
+    "plainTextLength": 213
+  }
+}

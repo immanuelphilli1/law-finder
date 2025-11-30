@@ -1,0 +1,68 @@
+{
+  "caseTitle": "MARTILDA DARL WILLIAMS",
+  "summary": "The appeal concerned garnishee proceedings involving ₤7 7s. 0d. held in court as proceeds of execution from a writ of Pi Pa issued for the respondent, Mumni Ayinde. The appellant, E. J. Alex Taylor, sought to attach the funds through a motion in a suit to which he was not a party. The West Africa Court of Appeal held that money in custodia legis belongs to the defendant and can only be attached by a creditor who has obtained judgment and follows proper execution procedures. The appeal was dismissed because the appellant's motion was incompetent, and the respondent was awarded costs of half a guinea.",
+  "legalKeywords": [
+    "garnishee proceedings",
+    "custodia legis",
+    "execution of writ",
+    "creditor rights",
+    "motion incompetence",
+    "proceeds of execution",
+    "judgment creditor",
+    "attachment of funds",
+    "West Africa Court of Appeal",
+    "original suit",
+    "judicial custody",
+    "proper legal procedure"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Debt Enforcement",
+    "Appellate Law",
+    "Court Jurisdiction",
+    "Execution of Judgment"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Defendant-Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "WACA/4 WACA/MARTILDA DARL WILLIAMS"
+  ],
+  "rationaleHighlights": [
+    "Money in custodia legis is treated as property of the defendant",
+    "Only a judgment creditor can attach funds held in court",
+    "A non-party cannot initiate attachment via motion in an unrelated suit",
+    "Proper legal process requires initiating a separate suit for execution",
+    "The original court correctly dismissed the incompetent motion",
+    "Appellate court did not assess merits, only procedural validity",
+    "Dismissing the appeal maintains procedural integrity",
+    "Award of costs affirms procedural sanction"
+  ],
+  "confidenceNotes": "High confidence; information is directly extracted from the judgment text with clear procedural and jurisdictional context. Case predates modern Ghana's independence but falls under Gold Coast jurisdiction, relevant to Ghanaian legal history.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/MARTILDA DARL WILLIAMS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:01:55.424Z",
+    "plainTextLength": 2455
+  },
+  "trialDate": "1938-05-13"
+}

@@ -1,0 +1,76 @@
+{
+  "caseTitle": "REX v NAFONGE YEKUN OF BABA I",
+  "summary": "The appellant, Nafonge Yekun of Baba I, was convicted in the High Court of receiving stolen property, a decision later appealed to the West African Court of Appeal. The appeal challenged the jurisdiction and procedural validity of the trial, arguing that the case was improperly transferred from the Ndop Native Court without a valid order under section 25(1)(c) of the Native Courts Ordinance. The District Officer's directive to \"re-try by me\" did not constitute a lawful transfer to the Magistrate's Court. Additionally, the appellant was not informed of his right under section 33 of the Protectorate Courts Ordinance (as amended) to elect trial in the High Court, rendering the Magistrate's trial void ab initio. The High Court further erred by adopting the incomplete Magistrate's proceedings instead of conducting a de novo trial. The Court of Appeal held that all proceedings were void due to lack of jurisdiction and procedural defects, allowed the appeal, and directed a verdict of acquittal under section 10(2) of the West African Court of Appeal Ordinance.",
+  "legalKeywords": [
+    "receiving stolen property",
+    "jurisdiction",
+    "void ab initio",
+    "transfer of case",
+    "Native Court",
+    "Magistrate's Court",
+    "High Court",
+    "double jeopardy",
+    "right to trial",
+    "procedural irregularity",
+    "statutory interpretation",
+    "section 33 Protectorate Courts Ordinance",
+    "section 25 Native Courts Ordinance",
+    "de novo trial",
+    "miscarriage of justice"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Jurisdiction",
+    "Procedural Fairness",
+    "Statutory Interpretation"
+  ],
+  "verdict": "Appeal allowed; conviction and sentence quashed; judgment of acquittal entered.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Nafonge Yekun of Baba I",
+    "Sule Akesse v Fatumo",
+    "West African Court of Appeal, 22nd November 1935",
+    "Section 427, Criminal Code",
+    "Section 25(1)(c), Native Courts Ordinance No. 44 of 1933",
+    "Ordinance No. 16 of 1936, Section 8",
+    "Section 33, Protectorate Courts Ordinance No. 45 of 1933",
+    "Ordinance No. 15 of 1936, Section 7",
+    "West African Court of Appeal Ordinance, Section 10(2)"
+  ],
+  "rationaleHighlights": [
+    "No valid transfer order under section 25(1)(c) of Native Courts Ordinance",
+    "Trial void ab initio due to failure to inform accused of right to elect trial court under section 33",
+    "High Court improperly adopted Magistrate's proceedings instead of retrying de novo",
+    "Amendment by Ordinance No. 16 of 1936 overruled Sule Akesse v Fatumo",
+    "Conviction quashed and acquittal ordered under West African Court of Appeal Ordinance, section 10(2)"
+  ],
+  "confidenceNotes": "All information is drawn directly from the judgment text. Jurisdictional and procedural details are clearly stated. The overruling of Sule Akesse v Fatumo is explicitly confirmed by statutory amendment.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX  v   NAFONGE YEKUN  OF BABA I.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:00:22.659Z",
+    "plainTextLength": 12750
+  },
+  "trialDate": "1938-01-07"
+}

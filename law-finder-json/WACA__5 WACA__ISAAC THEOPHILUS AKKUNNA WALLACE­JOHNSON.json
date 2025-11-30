@@ -1,0 +1,79 @@
+{
+  "caseTitle": "ISAAC THEOPHILUS AKKUNNA WALLACE­JOHNSON",
+  "summary": "This case involved an appeal by Isaac Theophilus Akkunna Wallace-Johnson against his conviction for publishing and possessing seditious materials under section 330 of the Gold Coast Criminal Code. The appellant had authored an article criticizing colonial rule, accusing European administrators of using deceit, force, and oppressive laws to subjugate Africans. The Judicial Committee of the Privy Council upheld the conviction, ruling that the statutory definition of 'seditious intention' in the Gold Coast Criminal Code did not require proof of incitement to violence or extrinsic evidence of intent. The Court emphasized that the words themselves, if expressive of hostility toward the government, were sufficient to constitute sedition. It rejected reliance on English common law precedents, affirming that the Code was a comprehensive and autonomous statement of law tailored to colonial conditions. The appeal was dismissed, affirming the lower courts' decisions.",
+  "legalKeywords": [
+    "sedition",
+    "seditious intention",
+    "Criminal Code",
+    "Gold Coast Colony",
+    "freedom of expression",
+    "judicial interpretation",
+    "statutory construction",
+    "incitement to violence",
+    "extrinsic evidence",
+    "government criticism",
+    "colonial law",
+    "press freedom",
+    "constitutional rights",
+    "legal defense",
+    "appellate review"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Freedom of Speech",
+    "Colonial Law",
+    "Appellate Jurisdiction",
+    "Statutory Interpretation"
+  ],
+  "verdict": "Appeal dismissed; conviction for seditious publication and possession upheld.",
+  "winningSide": "The King (Crown/State)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Viscount Caldecote",
+      "role": "Lord Chancellor"
+    },
+    {
+      "name": "Lord Thankerton",
+      "role": "Lord of the Judicial Committee"
+    },
+    {
+      "name": "Lord Alness",
+      "role": "Lord of the Judicial Committee"
+    },
+    {
+      "name": "Lord Romer",
+      "role": "Lord of the Judicial Committee"
+    },
+    {
+      "name": "Sir George Rankin",
+      "role": "Lord of the Judicial Committee"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Judicial Committee of the Privy Council (on appeal from West African Court of Appeal)",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "3 W.A.C.A. p. 104",
+    "R. v. Burns (16 Cox c.c. 355)",
+    "Russell on Crime (9th edition) pp. 89-96",
+    "Digest of Criminal Law (7th edition), articles 123-126"
+  ],
+  "rationaleHighlights": [
+    "The law of sedition is defined in the Gold Coast Criminal Code, not by English or Scottish precedents.",
+    "Seditious intention is determined by the words themselves, not requiring extrinsic evidence.",
+    "Incitement to violence is not a required element under section 330 of the Criminal Code.",
+    "The article targeted the colonial government and its laws, falling within prohibited seditious expression.",
+    "The Code was intended to be a complete and self-contained statement of sedition law in the colony."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; all key details (parties, charges, court, outcome) are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/ISAAC THEOPHILUS AKKUNNA WALLACE­JOHNSON.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:47:20.304Z",
+    "plainTextLength": 13206
+  },
+  "trialDate": "1936-10-13"
+}

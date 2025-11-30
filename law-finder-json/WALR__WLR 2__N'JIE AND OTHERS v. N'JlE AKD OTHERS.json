@@ -1,0 +1,63 @@
+{
+  "caseTitle": "N'JIE AND OTHERS VERSUS N'J",
+  "summary": "This 1956 High Court of the Protectorate of the Gambia case involved a claim for recovery of possession of land formerly owned by Ousman N'Jie Modji, who died intestate. The plaintiffs included his widow and three daughters, while the first defendant was his ward, Samba N'Jie, who had occupied the land since 1941 under a tenancy-at-will. The court held that under native law and custom, the widow had no proprietary interest in the land, which passed to the children. The claim against the first defendant was time-barred under the Limitation Acts of 1833 and 1874 due to twelve years of uninterrupted possession. However, the claims succeeded against the other defendants—grantees of the first defendant—because their tenancies-at-will had not run the requisite twelve-year limitation period. The res judicata defence failed because prior native tribunal proceedings involved only the widow, not the daughters, who claimed independently.",
+  "legalKeywords": [
+    "limitation of actions",
+    "tenancy at will",
+    "native law and custom",
+    "succession intestate",
+    "res judicata",
+    "possessory title",
+    "prescriptive title",
+    "widow's interest",
+    "land recovery",
+    "grant by tenant",
+    "tribunal decision",
+    "Commissioner's revision",
+    "adverse possession",
+    "customary succession",
+    "privy to party"
+  ],
+  "topics": [
+    "Land Law",
+    "Succession Law",
+    "Limitation Periods",
+    "Native Customary Law",
+    "Res Judicata"
+  ],
+  "verdict": "The claim by the widow was dismissed; the claims by the daughters succeeded against the second, third, and fourth defendants but failed against the first defendant.",
+  "winningSide": "Defendants (partially), with Samba N'Jie prevailing on limitation grounds, but losing as to portions granted to others.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Miles J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court of the Protectorate of the Gambia",
+    "country": "Gambia"
+  },
+  "caseType": "Civil Land Dispute",
+  "citations": [
+    "Fatou N'Jie v. Hall (1931) 1 W.A.C.A. 100",
+    "Limitation Acts, 1833 and 1874"
+  ],
+  "rationaleHighlights": [
+    "Under native law, land of an intestate passes to children, excluding the widow.",
+    "A tenancy-at-will triggers the 12-year limitation period from one year after commencement.",
+    "Samba N'Jie acquired possessory title over the portion he occupied due to long possession.",
+    "Grantees of a tenant-at-will do not acquire enforceable interests against the true owner.",
+    "The res judicata defence failed because the daughters were not parties or privies in the prior action.",
+    "The native tribunal’s decision was reversed on revision, but did not bind non-parties.",
+    "The daughters succeeded in recovering land from grantees whose possession was less than 12 years.",
+    "The widow lacked standing to claim as she held no interest under customary law."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and clear procedural history. Jurisdictional context is Gambia, not Ghana, despite source presentation; citation to West African Court of Appeal confirms regional legal framework.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/N'JIE AND OTHERS v. N'JlE AKD OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:27:21.224Z",
+    "plainTextLength": 12239
+  }
+}

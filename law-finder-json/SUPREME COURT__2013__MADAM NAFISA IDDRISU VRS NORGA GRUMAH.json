@@ -1,0 +1,82 @@
+{
+  "caseTitle": "MADAM NAFISA IDDRISU VRS NORGA GRUMAH",
+  "summary": "This Supreme Court of Ghana decision in Madam Nafisa Iddrisu v. Norga Grumah (Civil Appeal No. J4/21/2012, 24th May 2013) centers on a land dispute arising from a failed property transaction. The appellant, Norga Grumah, had his land (No. G20, Sabonjida, Tamale) compulsorily acquired by the State in 1994 for road construction, receiving full compensation. He later sold the unutilized portion to the respondent, Madam Nafisa Iddrisu, who paid GH\u000400.00. The Lands Commission invalidated the sale, asserting state ownership under the principle of nemo dat quod non habet. The respondent then obtained a lease from the Commission, but the appellant refused to vacate. Litigation ensued. The Supreme Court upheld concurrent lower court findings that the land was part of the compulsorily acquired property, vested in the State. It held that the original owner has only a contingent right to re-acquire unused land under Article 20(6) of the 1992 Constitution, which does not confer absolute title or power to convey. The Court of Appeal’s order compelling the appellant to assign the property to the respondent was overturned as legally flawed and risking unjust enrichment, especially since the respondent had already been compensated monetarily. The Supreme Court emphasized that until constitutional conditions for re-acquisition are met, neither the original owner nor the State holds absolute title, and no valid conveyance can occur.",
+  "legalKeywords": [
+    "compulsory acquisition",
+    "nemo dat quod non habet",
+    "first option to re-acquire",
+    "contingent ownership",
+    "constitutional right",
+    "property rights",
+    "Lands Commission",
+    "eminent domain",
+    "title perfection",
+    "unjust enrichment",
+    "vested interest",
+    "public purpose",
+    "lease cancellation",
+    "deed of assignment",
+    "failure of consideration"
+  ],
+  "topics": [
+    "Land Law",
+    "Constitutional Law",
+    "Property Rights",
+    "Compulsory Acquisition",
+    "Judicial Review"
+  ],
+  "verdict": "The Supreme Court allowed the appeal, set aside the Court of Appeal's order compelling the appellant to execute a deed of assignment in favor of the respondent, and affirmed that the disputed property remained vested in the State following compulsory acquisition.",
+  "winningSide": "Appellant (Norga Grumah)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Wood (Mrs.)",
+      "role": "Chief Justice, Presiding"
+    },
+    {
+      "name": "Dotse",
+      "role": "JSC"
+    },
+    {
+      "name": "Yeboah",
+      "role": "JSC"
+    },
+    {
+      "name": "Benin",
+      "role": "JSC"
+    },
+    {
+      "name": "Akamba",
+      "role": "JSC"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Achoro v Akanfela [1996-97] SCGLR 209",
+    "Obrasiwa v Otu [1996-7] SCGLR 618",
+    "Obeng v Assemblies of God Church [2010] SCGLR 300",
+    "Gregory v Tandoh [2010] SCGLR 971",
+    "Agyenim-Boateng v Ofori and Yeboah [2010] SCGLR 861",
+    "Mensah v Mensah [2012] SCGLR 611",
+    "P.S. Investment Ltd v Central Regional Development Corporation and Others [2012] SCGLR 611"
+  ],
+  "rationaleHighlights": [
+    "The disputed land fell within the compulsorily acquired property and thus remained state property.",
+    "The appellant lacked capacity to convey title as the original owner only has a contingent right to re-acquire unused land.",
+    "The Court of Appeal erred in ordering the appellant to execute a new assignment, which would result in unjust enrichment of the respondent.",
+    "Absolute ownership reverts to the original owner only upon fulfillment of constitutional conditions for re-acquisition.",
+    "Concurrent findings of fact by lower courts are binding unless no legal basis supports them."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and citation of constitutional provisions and precedents.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/MADAM NAFISA IDDRISU VRS NORGA GRUMAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:11:55.238Z",
+    "plainTextLength": 24691
+  },
+  "trialDate": "2012-04-21"
+}

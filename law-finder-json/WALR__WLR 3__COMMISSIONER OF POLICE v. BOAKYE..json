@@ -1,0 +1,62 @@
+{
+  "caseTitle": "POLICE VERSUS BOAKYE.",
+  "summary": "In Commissioner of Police v. Boakye, the appellant was initially charged with conspiracy to steal, falsifying accounts, and stealing. During trial, the charges were amended: the conspiracy charge was particularized, and the stealing charge was replaced with aiding and abetting an unknown person in stealing. The Magistrate failed to call for a fresh plea after the amendment, contrary to section 172(1) of the Criminal Procedure Code. The appellant was acquitted on the conspiracy charge (due to being charged only with a named co-accused who was discharged) but convicted on aiding and abetting. On appeal, the High Court held that the failure to take a fresh plea was not fatal absent a miscarriage of justice, which did not occur given defence counsel's acceptance of the amendment. It also ruled that acquittal on the conspiracy charge did not preclude conviction on aiding and abetting, as the legal elements and evidence differed. The appeal was dismissed.",
+  "legalKeywords": [
+    "criminal law",
+    "appeals",
+    "amendment of charge",
+    "failure to plead",
+    "section 172",
+    "Criminal Procedure Code",
+    "miscarriage of justice",
+    "conspiracy",
+    "aiding and abetting",
+    "acquittal",
+    "conviction",
+    "evidence",
+    "legal distinction",
+    "joined charges",
+    "prosecution"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appeals",
+    "Amendment of Charges",
+    "Conspiracy",
+    "Aiding and Abetting"
+  ],
+  "verdict": "Appeal dismissed; conviction for aiding and abetting stealing upheld.",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Smith J",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Ashanti Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Commissioner of Police v. Bonsu and Others (1957) 2 W.A.L.R. 334",
+    "R. v. Eronini (1953) 14 W.A.C.A. 366",
+    "Commissioner of Police v. Williams (1948) W.A.C.A. Cyclostyled Reports, May-July 1948, p. 54",
+    "R. v. Beach and Owens unreported: C.L.R., Oct., 1957"
+  ],
+  "rationaleHighlights": [
+    "Omission to take a fresh plea after charge amendment is not automatically fatal; test is whether there was a miscarriage of justice.",
+    "Acquittal on a conspiracy charge does not bar conviction on aiding and abetting if the alleged co-conspirators differ.",
+    "The facts and evidence required to prove conspiracy with a named person differ from those needed to prove aiding and abetting an unknown person.",
+    "Defence counsel confirmed no prejudice from the amendment and waived need for adjournment.",
+    "Court distinguished R. v. Beach and Owens based on factual differences in the scope of the conspiracy and aiding charges."
+  ],
+  "confidenceNotes": "High confidence; all key elements (jurisdiction, judges, charges, legal reasoning) are explicitly stated in the source text.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/COMMISSIONER OF POLICE v. BOAKYE..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:07:11.660Z",
+    "plainTextLength": 8759
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "caseTitle": "W. J. GROSZMANN",
+  "summary": "The West African Court of Appeal dismissed an application for leave to appeal to the Privy Council on the grounds that it was filed out of time. The appellant, O. S. Agyeman, sought leave to appeal in forma pauperis, but the Court reaffirmed its prior holding in Amelia Ahulu v. John Akotey that it lacked the authority to grant such leave. Furthermore, the Court stated that even if it had the power, the affidavit submitted did not provide sufficient grounds to exercise discretion in favor of the appellant. The application was therefore refused on both procedural and substantive grounds.",
+  "legalKeywords": [
+    "leave to appeal",
+    "in forma pauperis",
+    "out of time application",
+    "judgment-debtor",
+    "appellate procedure",
+    "Privy Council",
+    "affidavit",
+    "motion",
+    "application refused",
+    "procedural grounds"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Civil Procedure",
+    "Legal Aid and Indigency",
+    "Judgment-Debtors",
+    "Privy Council Appeals"
+  ],
+  "verdict": "Application for leave to appeal refused.",
+  "winningSide": "Respondent (W. J. Groszmann)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Acting Chief Justice, Nigeria"
+    },
+    {
+      "name": "Strother-Stewart",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Amelia Ahulu v. John Akotey"
+  ],
+  "rationaleHighlights": [
+    "Application was filed out of time.",
+    "Court previously ruled it lacks power to grant leave to appeal in forma pauperis.",
+    "Even if such power existed, the affidavit presented did not justify granting leave."
+  ],
+  "confidenceNotes": "The document is a clear appellate judgment from the West African Court of Appeal, with a definitive ruling on procedural grounds. All key elements are explicitly stated.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/W. J. GROSZMANN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:38:25.500Z",
+    "plainTextLength": 1733
+  },
+  "trialDate": "1939-04-13"
+}

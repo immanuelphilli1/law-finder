@@ -1,0 +1,67 @@
+{
+  "caseTitle": "COMMERCIAL BANK PENSIONS ASSOCIATION v. GHANA COMMERCIAL",
+  "summary": "In this Court of Appeal ruling, the plaintiff/respondent, Ghana Commercial Bank Pensions Association, sought a stay of execution of a writ of sequestration issued by the High Court following a judgment from June 2002. The original judgment declared that the plaintiffs were entitled to pension rights under the bank's 1987 Board decision. However, on appeal, the Court of Appeal had previously ruled on 11th July 2002—based on a Supreme Court remit—that the parties must first negotiate the percentage of consolidated salary to be used for pension calculations, citing an internal review mechanism. The respondent attempted enforcement via sequestration before this condition was met. The appellants argued that enforcement was premature. The Court found that the negotiation order was not obiter but a binding directive arising from a substantive ground of appeal, and thus the High Court erred in issuing the writ. Consequently, the Court granted the stay of execution pending appeal, emphasizing the existence of serious legal issues to be resolved.",
+  "legalKeywords": [
+    "stay of execution",
+    "writ of sequestration",
+    "pension rights",
+    "appeal",
+    "obiter dictum",
+    "negotiation of percentage",
+    "consolidated salary",
+    "Board of Directors decision",
+    "submission to judgment",
+    "internal mechanism",
+    "pension entitlements",
+    "civil procedure",
+    "enforcement of judgment",
+    "appellate discretion",
+    "condition precedent"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Pension Law",
+    "Appellate Law",
+    "Judgment Enforcement",
+    "Contract Interpretation"
+  ],
+  "verdict": "The application for a stay of execution of the writ of sequestration was granted.",
+  "winningSide": "Defendant/Appellant (Ghana Commercial Bank)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "S.O. Adinyira (Mrs.)",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "V. Akoto-Bamfo (Mrs.)",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "K. Tweneboah-Kodua",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "GHANA COMMERCIAL BANK PENSIONS ASSOCIATION v. GHANA COMMERCIAL BANK [12/2/2003] CM/NO. 399/2002"
+  ],
+  "rationaleHighlights": [
+    "The Court of Appeal held that its prior order requiring the parties to negotiate the pension percentage was an essential condition precedent and not obiter.",
+    "The High Court erred in granting a writ of sequestration before compliance with the appellate order.",
+    "Since serious issues remain for determination on appeal, the Court exercised its discretion to grant a stay of execution.",
+    "The appeal arose from interpretation of 'current basic salary' and 'automatic adjustment of pension' in a Board decision."
+  ],
+  "confidenceNotes": "All information is derived directly from the provided judgment text; no external sources were used. Factual accuracy is high as per the document.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/GHANA COMMERCIAL BANK 123PENSIONS ASSOCIATION v. GHANA COMMERCIAL BANK NO 2.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:30:15.488Z",
+    "plainTextLength": 4798
+  },
+  "trialDate": "2003-02-12"
+}

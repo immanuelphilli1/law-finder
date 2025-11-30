@@ -1,0 +1,78 @@
+{
+  "caseTitle": "REX VCHIPI CHIGERI",
+  "summary": "The West African Court of Appeal allowed the appeal of Chipi Chigeri, quashing his convictions for coining offences under sections 148(3)(c), 148(3)(d), and 152(3) of the Criminal Code. The court found that the prosecution failed to call four material witnesses from the preliminary inquiry, contrary to the established practice of making such witnesses available for cross-examination. Additionally, the admission of evidence regarding the seizure of counterfeiting materials (Exhibit 'A') at a different location and time—Otan on 7 November 1936—was deemed irrelevant and prejudicial, as it lacked a sufficient link to the charges related to events at Otu-Jeremi on 8 November. Although there was evidence of the appellant's presence at the scene, the court held that the evidence did not sufficiently establish his control over the room where the coining apparatus was found, rendering the convictions unsustainable.",
+  "legalKeywords": [
+    "coining offences",
+    "possession of counterfeit coins",
+    "possession of tools for counterfeiting",
+    "sufficiency of evidence",
+    "admissibility of evidence",
+    "prejudicial evidence",
+    "witness availability",
+    "cross-examination rights",
+    "criminal procedure",
+    "appellate review",
+    "conviction quashed",
+    "prosecution obligations",
+    "link between evidence and charge",
+    "control over premises",
+    "preliminary inquiry witnesses"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Counterfeiting",
+    "Prosecutorial Conduct"
+  ],
+  "verdict": "Appeal allowed and convictions quashed",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Butler-Lloyd",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana (Gold Coast)"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Rex v. Dora Harris, 1927, 2 K.B.D. 587",
+    "R. v. Simmonds, 1 C. & P. 84",
+    "R. v. Beezley, 4 C. & P. 220",
+    "R. v. Bull, 9 C. & P. 22",
+    "R. v. Vincent, 9 C. & P. 91",
+    "R. v. Barley, 2 Cox 191",
+    "Archbold, 29th ed., p. 494-495",
+    "Halsbury, 2nd ed., para 232"
+  ],
+  "rationaleHighlights": [
+    "Prosecution failed to call material witnesses from preliminary inquiry, undermining fair trial rights.",
+    "Evidence of items seized at Otan on 7 November was irrelevant to charges arising from events at Otu-Jeremi on 8 November.",
+    "Admission of Exhibit 'A' was prejudicial and lacked probative connection to the accused's alleged offences.",
+    "Resemblance evidence alone insufficient to link accused to seized materials.",
+    "Presence at scene established, but insufficient evidence of control over the room containing coining apparatus.",
+    "Convictions could not be sustained due to lack of cogent evidence on key elements of the offence.",
+    "Prosecution has duty to make available witnesses from preliminary inquiry for cross-examination.",
+    "Appellate court exercised discretion to quash conviction based on procedural and evidentiary flaws."
+  ],
+  "confidenceNotes": "The decision is clearly based on procedural and evidentiary grounds with strong reliance on English legal authorities applicable in the colonial Gold Coast. The court's reasoning is consistent with contemporaneous standards of criminal procedure in British jurisdictions.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/REX VCHIPI CHIGERI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:14:36.576Z",
+    "plainTextLength": 6090
+  },
+  "trialDate": "1937-10-18"
+}

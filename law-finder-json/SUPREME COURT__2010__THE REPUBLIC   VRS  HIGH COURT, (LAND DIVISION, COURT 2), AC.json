@@ -1,0 +1,91 @@
+{
+  "caseTitle": "REPUBLIC VRS HIGH",
+  "summary": "The Republic, on ex-parte application by Al-Hassan Limited, sought certiorari and prohibition from the Supreme Court to quash a High Court (Land Division) ruling that set aside a supplementary affidavit filed in support of an interlocutory injunction application in a land dispute against Thaddeus Sory. The applicant alleged breach of natural justice, particularly audi alteram partem, and judicial bias. The Supreme Court dismissed the application, holding that both parties were heard before the High Court's decision, which fell within judicial discretion under Order 81 of C.I. 47. The Court emphasized that certiorari is not a substitute for appeal and is only available for fundamental or jurisdictional errors, not mere disagreements with discretionary rulings. It reaffirmed that supervisory jurisdiction is exercised sparingly and only where there is a clear breach of natural justice or fundamental error. The applicant retained the right to be heard on the pending injunction motion through other procedural means, and no actual bias was demonstrated. The distinction between appeal and certiorari was underscored as essential to proper judicial process.",
+  "legalKeywords": [
+    "certiorari",
+    "prohibition",
+    "supervisory jurisdiction",
+    "natural justice",
+    "audi alteram partem",
+    "nemo iudex in causa sua",
+    "interlocutory injunction",
+    "supplementary affidavit",
+    "prerogative writs",
+    "appeal vs certiorari",
+    "judicial bias",
+    "High Court Civil Procedure Rules",
+    "Order 25",
+    "Order 81",
+    "C.I. 47",
+    "Article 132 Constitution",
+    "procedural fairness",
+    "discretionary jurisdiction",
+    "fundamental error",
+    "jurisdictional error"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Civil Procedure",
+    "Judicial Review",
+    "Land Law"
+  ],
+  "verdict": "Application for certiorari and prohibition dismissed.",
+  "winningSide": "High Court (Respondent)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Adinyira (Mrs)",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebe",
+      "role": "Justice"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs)",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "The Republic v. Circuit Court Accra; Ex parte Appiah [1982-83] GLR 129",
+    "The Republic v. High Court Accra; Ex parte Agbesi Awusu II (No.2) [2003-2004] 2SCGLR 907",
+    "Aboagye v. Ghana Commercial Bank [2001-2002] SCGLR 796",
+    "Awuni v West African Examination Council [2003-2004] 1SCGLR 471",
+    "The Republic v. High Court Accra; Ex parte CHRAJ [2003-2004] 1 SCGLR 312",
+    "The Republic v. Court of Appeal, Accra; Ex parte Tsatsu Tsikata [2005-2006] SCGLR 612",
+    "The Republic v. High Court (Commercial Division) Accra; Ex parte The Trust Bank Ltd. [2009] SCGLR 164",
+    "The Republic v. High Court Accra; Ex parte Industrialization Fund For Development Countries [2003-2004] SCGLR 348"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court emphasized that certiorari is not a substitute for appeal and is only available for fundamental errors or breaches of natural justice.",
+    "The High Court judge did not breach audi alteram partem as both parties were heard before the ruling on the affidavit.",
+    "The setting aside of the supplementary affidavit was within judicial discretion under Order 81 of C.I. 47 and did not amount to jurisdictional error.",
+    "The Court reaffirmed that supervisory jurisdiction is sparingly exercised and only where there is a clear, fundamental non-jurisdictional error.",
+    "The applicant still had opportunity to present its case on the interlocutory injunction, so no prejudice was established.",
+    "Judicial bias was not proven; mere disagreement with a ruling does not constitute bias.",
+    "The distinction between appeal and certiorari must be punitively maintained to prevent abuse of process.",
+    "The Supreme Court waived a procedural irregularity regarding late filing under Rule 79 of C.I. 16, showing procedural leniency in appropriate cases."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct quotes from the judgment and consistent legal reasoning.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/THE REPUBLIC   VRS  HIGH COURT, (LAND DIVISION, COURT 2), AC.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:41:49.861Z",
+    "plainTextLength": 23944
+  },
+  "trialDate": "2010-11-17"
+}

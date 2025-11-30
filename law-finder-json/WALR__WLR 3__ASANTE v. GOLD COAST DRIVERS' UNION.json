@@ -1,0 +1,75 @@
+{
+  "caseTitle": "ASANTE VERSUS GOLD COAST DRIVERS'",
+  "summary": "This case involved an appeal from a Magistrate's Court decision that reversed a Native Court judgment in a claim for damages for breach of an alleged tenancy agreement. The plaintiff sought to enforce an oral agreement to let three rooms at a fixed monthly rent against the Gold Coast Drivers' Union, an unincorporated association sued by its business name. The High Court held that the Native Court lacked jurisdiction for two reasons: first, tenancy agreements for houses or rooms are not recognized under native customary law and thus fall under English law pursuant to the proviso to section 15(b) of the Native Courts (Southern Ghana) Ordinance, 1951; second, an unincorporated association sued by its business name does not qualify as a 'person or class of persons' under section 10 of the Ordinance. The court relied on authoritative sources including Sarbah’s Fanti Customary Law and prior decisions such as Bey v. Abadoo and Vanderpuye v. Plange to confirm that leasing of rooms is a transaction introduced by European influence and unknown to native custom. Consequently, the appeal was allowed, and the Native Court's jurisdiction was found to be ousted.",
+  "legalKeywords": [
+    "Native Courts",
+    "jurisdiction",
+    "tenancy agreement",
+    "English law",
+    "native customary law",
+    "unincorporated association",
+    "breach of contract",
+    "land tenure",
+    "customary law",
+    "legal personality",
+    "proviso to section 15(b)",
+    "oral agreement",
+    "lease",
+    "house rental",
+    "appellate review",
+    "statutory interpretation",
+    "legal formalities",
+    "equitable principles",
+    "part performance",
+    "covenant of title"
+  ],
+  "topics": [
+    "Jurisdiction",
+    "Customary Law",
+    "Contract Law",
+    "Property Law",
+    "Legal Personality"
+  ],
+  "verdict": "Appeal allowed; Native Court lacked jurisdiction to hear the case due to the application of English law and the improper naming of the defendant.",
+  "winningSide": "Defendants (Gold Coast Drivers' Union)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adumua-Bossman J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Central Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Native Courts (Southern Ghana) Ordinance, c. 98 of 1951, s. 15 (b)",
+    "Native Courts (Southern Ghana) Ordinance, c. 98 of 1951, s. 10",
+    "Oudjo Adjare v. Gustav Dei Annang, W.A.C.A., December 3, 1946",
+    "Bey v. Abadoo (1885) F.C.L. 132",
+    "Basel Mission Factory v. Bruce (1899) F.L.R. 99",
+    "Amonoo v. Abakuma (1871) F.C.L. 157",
+    "Agbo Xofi v. Addo Xofi (1933) 1 W.A.C.A. 284",
+    "Johnson and Another v. Golightly (1924) Divisional Court 1921-25, 88",
+    "Vanderpuye v. Plange and Others (1942) 8 W.A.C.A. 170"
+  ],
+  "rationaleHighlights": [
+    "Tenancy agreements for houses or rooms are not recognized under native customary law and must be governed by English law.",
+    "Native Courts lack jurisdiction where obligations are regulated exclusively by English law unless parties agree otherwise.",
+    "An unincorporated association sued by its business name does not constitute a 'person or class of persons' under section 10 of the Native Courts Ordinance.",
+    "The proviso to section 15(b) ousts Native Court jurisdiction when English law governs the transaction.",
+    "Historical and textual analysis from Sarbah’s Fanti Customary Law confirms absence of room/house leasing in native custom.",
+    "Precedent cases like Bey v. Abadoo and Johnson v. Golightly affirm application of English law to lease-like transactions.",
+    "Vanderpuye v. Plange applied similar reasoning to covenants of title, reinforcing the principle.",
+    "Appeal allowed due to lack of jurisdiction in the Native Court."
+  ],
+  "confidenceNotes": "High confidence in jurisdictional and legal reasoning based on authoritative references to statutory provisions, case law, and scholarly texts such as Sarbah's Fanti Customary Law.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/ASANTE v. GOLD COAST DRIVERS' UNION.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:12:06.248Z",
+    "plainTextLength": 14608
+  }
+}

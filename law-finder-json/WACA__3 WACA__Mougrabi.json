@@ -1,0 +1,63 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This 1936 West Africa Court of Appeal decision in Mougrabi v. Mansour arose from an unlawful attachment of the plaintiff's goods in Kumasi. The Divisional Court had awarded the plaintiff �400 in special damages and �50 in general damages after finding the attachment illegal. The Appeal Court allowed the appeal, holding that the plaintiff was not entitled to the claimed special damages because no goods were missing, and that loss of reputation, treated as special damage, must be specifically pleaded and was not properly claimed. The court further ruled that loss of profits was due to a valid court injunction, not the defendant's unlawful act, and thus not compensable. The case was remitted for reassessment of general damages limited to �300, considering depreciation of goods and deprivation of use of property, with costs of the first trial to be taxed afresh.",
+  "legalKeywords": [
+    "unlawful attachment",
+    "special damages",
+    "general damages",
+    "loss of reputation",
+    "strict proof of damage",
+    "interim injunction",
+    "court order enforcement",
+    "damage assessment",
+    "remittal for reassessment",
+    "liability for illegal proceedings"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Damages",
+    "Injunctions",
+    "Property Rights",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Yates",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Mayne on Damages, 10th Edition, pp. 553 et seq."
+  ],
+  "rationaleHighlights": [
+    "Attachment was illegal as no valid legal basis existed under applicable rules",
+    "Special damages for missing goods not allowed as none were proven missing",
+    "Loss of reputation constitutes special damage requiring specific pleading",
+    "Loss of profits attributable to court order, not defendant's act, hence not compensable",
+    "General damages allowed for deprivation of use and depreciation, subject to reassessment"
+  ],
+  "confidenceNotes": "High confidence based on clear judicial reasoning and explicit findings in the judgment. All key facts and legal principles are directly stated in the source text.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/Mougrabi.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:17:32.128Z",
+    "plainTextLength": 12114
+  },
+  "trialDate": "1936-04-30"
+}

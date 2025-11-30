@@ -1,0 +1,73 @@
+{
+  "caseTitle": "APPOLUS AKWUE v COMMISSIONER OF POLICE",
+  "summary": "This case, decided by the West African Court of Appeal, addressed the jurisdiction of a third-grade magistrate under sections 20 and 21 of the Magistrates' Courts Ordinance. The central issue was whether a third-grade magistrate was required to inform the appellant of his right to be tried in the Supreme Court for charges carrying a maximum penalty of a £50 fine or six months' imprisonment. The court held that such notice was not required because the offence fell within the category that a third-grade magistrate could try without the accused's consent, as the maximum penalty did not exceed two years' imprisonment or a £200 fine. While a third-grade magistrate may try such offences, their sentencing power is limited to a maximum of three months' imprisonment or a £25 fine. The court affirmed the prevailing interpretation of the Ordinance, emphasizing the distinction between trial jurisdiction and sentencing authority, and answered the referred question in the negative.",
+  "legalKeywords": [
+    "jurisdiction",
+    "summary trial",
+    "Magistrates' Courts Ordinance",
+    "criminal procedure",
+    "sentencing limits",
+    "third grade magistrate",
+    "right to trial by higher court",
+    "consent to summary trial",
+    "statutory interpretation",
+    "indictable offences",
+    "offence penalties",
+    "appellate opinion",
+    "case stated",
+    "proviso application",
+    "criminal jurisdiction limits"
+  ],
+  "topics": [
+    "criminal law",
+    "judicial procedure",
+    "magistrates",
+    "sentencing",
+    "appellate review"
+  ],
+  "verdict": "The appeal was dismissed; the magistrate was not required to inform the appellant of the right to trial in the Supreme Court.",
+  "winningSide": "Commissioner of Police",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Foster-Sutton",
+      "role": "President"
+    },
+    {
+      "name": "De Comarmond",
+      "role": "Acting Chief Justice (Nigeria)"
+    },
+    {
+      "name": "Coussey",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Magistrates' Courts Ordinance, sections 20 and 21",
+    "Magistrates' Courts (Appeals) Ordinance (Cap. 123)",
+    "W.A.C.A. No. 3782"
+  ],
+  "rationaleHighlights": [
+    "A third-grade magistrate can try offences punishable by up to two years' imprisonment or £200 fine without the accused's consent, but cannot impose a sentence exceeding £25 or three months' imprisonment.",
+    "For offences with higher penalties, the accused must consent to trial by a third-grade magistrate, though sentencing remains capped.",
+    "The court upheld the prevailing interpretation of section 21(b) of the Magistrates' Courts Ordinance.",
+    "The magistrate was not required to inform the appellant of the right to trial in the Supreme Court because the maximum penalty for the offence did not exceed the threshold requiring such notice under section 20(1)(c).",
+    "The case was decided based on a 'case stated' procedure, seeking appellate opinion on a point of law.",
+    "The decision emphasizes statutory limits on magisterial sentencing regardless of trial jurisdiction.",
+    "The ruling clarifies that jurisdiction to try and power to sentence are distinct under the Ordinance.",
+    "The court answered the referred question in the negative, affirming the lower court's approach."
+  ],
+  "confidenceNotes": "The judgment is clear and directly addresses the statutory interpretation of jurisdictional limits for Magistrates of the third grade. The court's affirmation of the prevailing legal construction in the Northern Provinces adds contextual reliability.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/APPOLUS AKWUE  v COMMISSIONER OF POLICE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:44:10.174Z",
+    "plainTextLength": 8435
+  },
+  "trialDate": "1952-05-05"
+}

@@ -1,0 +1,75 @@
+{
+  "caseTitle": "MADAM AKOSUA AGYENTOA",
+  "summary": "This Supreme Court of Ghana case, decided on 31st March 2004, involved a property dispute over House No. O.T.77A in Kumasi. The appellant, Madam Akosua Agyentoa, purchased the entire house from Elizabeth Victoria Mensah, who had inherited her brother Daniel Owusu's share after his 1959 intestate death under pre-1985 customary law. The respondents, Daniel Owusu's children, had occupied two rooms rent-free since 1975. The District and High Courts ruled in favor of the appellant, but the Court of Appeal partially reversed, recognizing the children's inheritance rights under PNDC Law 111 (1985). The Supreme Court affirmed that the will created a tenancy in common, and PNDC Law 111, which grants inheritance rights to children, applied retroactively to this pending case. Thus, the respondents were entitled to their father's half-share, making the appellant's ownership limited to the other half. The appeal was dismissed in part and succeeded in part.",
+  "legalKeywords": [
+    "intestate succession",
+    "tenancy in common",
+    "joint tenancy",
+    "will interpretation",
+    "property inheritance",
+    "customary law",
+    "PNDC Law 111",
+    "ejection",
+    "letters of administration",
+    "real property",
+    "succession rights",
+    "ownership transfer",
+    "rent-free occupation",
+    "appellate review",
+    "statutory retroactivity"
+  ],
+  "topics": [
+    "Property Law",
+    "Succession Law",
+    "Wills and Estates",
+    "Customary Law",
+    "Statutory Interpretation"
+  ],
+  "verdict": "The appeal was dismissed in part and succeeded in part; the Supreme Court affirmed the Court of Appeal's decision that the respondents are entitled to their father's half-share of the property under PNDC Law 111.",
+  "winningSide": "Respondents (Diana Owusu and Daniel Owusu)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Mrs. Bamford Addo",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "W. A. Atuguba"
+    },
+    {
+      "name": "Mrs. G. T. Wood"
+    },
+    {
+      "name": "S. G. Baddoo"
+    },
+    {
+      "name": "Dr. S. Twum"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Biney v. Biney (1974) 1GLR 318",
+    "Bata Shoe Co Ltd v. Roura and Forgas (1964) GLR 190",
+    "Eshun v. Jonfia (1984-86) GLR D P.13",
+    "Manu v. Kuma (1963) 1 GLR 464"
+  ],
+  "rationaleHighlights": [
+    "The word 'absolutely' in the will created a tenancy in common, not joint tenancy.",
+    "Under pre-1985 customary law, children had no automatic inheritance rights; successor was next of kin.",
+    "PNDC Law 111 (1985) changed succession law to include children as heirs, applying retroactively to pending cases.",
+    "Respondents entitled to father's half-share due to statutory change.",
+    "Appellant could only sell her portion; sale of entire property was invalid."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed court judgment and clear citation of legal precedents and statutory provisions.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2004A/MADAM AKOSUA AGYENTOA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:33:28.907Z",
+    "plainTextLength": 9913
+  },
+  "trialDate": "2004-03-31"
+}

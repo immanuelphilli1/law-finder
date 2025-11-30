@@ -1,0 +1,77 @@
+{
+  "caseTitle": "EBUSUA PANYIN KWA KAKRABA OF THE ROYAL AWENADZE FAMILY",
+  "summary": "This Supreme Court of Ghana judgment in Civil Appeal No. J4/50/2010, delivered on 18th April 2012, concerns a dispute over the headship of the Royal Adwenadzi family of Edukrom and ownership of associated stool lands. The appellant, Ebusua Panyin Kwa Kakraba, claimed to be the rightful head based on customary succession and burial rites performed for his predecessor, seeking a declaration of authority over family lands. The respondent, Kwesi Bo, contested this, asserting his branch (Edu Abekwa) were original settlers and rightful custodians. The High Court found no valid appointment of a head after Kwesi Bo and barred alienation of land until a proper head was appointed. The Court of Appeal affirmed the dismissal of the appellant's claim, declared title in favor of the respondent's section and the Edukrom stool, and set aside the injunction. The Supreme Court upheld the Court of Appeal's decision, finding the appellant failed to prove his headship, the application of precedent (HANNA ASSI No. 2) was correct, and the trial judge improperly issued an injunction without a formal application or hearing. The appeal was dismissed.",
+  "legalKeywords": [
+    "customary land tenure",
+    "headship dispute",
+    "family land",
+    "stool land",
+    "burden of proof",
+    "estoppel per rem judicata",
+    "interlocutory injunction",
+    "succession",
+    "alienation of land",
+    "jurisdiction",
+    "cross-appeal",
+    "declaration of title",
+    "procedural grounds",
+    "customary rites",
+    "funeral expenses"
+  ],
+  "topics": [
+    "Customary Law",
+    "Land Tenure",
+    "Judicial Precedent",
+    "Appellate Procedure",
+    "Injunction"
+  ],
+  "verdict": "Appeal dismissed; decision of the Court of Appeal affirmed.",
+  "winningSide": "Respondent (Kwesi Bo and Edu Abekwa section of the Royal Adwenadzi family)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Anin Yeboah",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Adinyira (Mrs.)",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Rose Owusu",
+      "role": "panel judge"
+    },
+    {
+      "name": "Dotse",
+      "role": "panel judge"
+    },
+    {
+      "name": "Gbadebe",
+      "role": "panel judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "HANNA ASSI (No. 2) v GHIHOC REFRIDGERATION & HOUSEHOLD PRODUCTS LTD [2007-2008] SCGLR 16",
+    "BEACHAMP (EARL) V MANDRESFIELD [1872] LR 8 CP 245",
+    "Chieftaincy Act (Act 370) of 1971, s 27"
+  ],
+  "rationaleHighlights": [
+    "Appellant failed to discharge burden of proving he was overall head of family",
+    "Court of Appeal properly applied HANNA ASSI (No. 2) precedent in declaring title",
+    "Trial judge erred in issuing injunction without hearing parties",
+    "Cross-appeal properly allowed as it concerned discharge of improper injunction",
+    "No valid appointment of head after Kwesi Bo; leadership vacuum affirmed"
+  ],
+  "confidenceNotes": "High confidence in extracted details; all key elements (parties, court, judgment, reasoning) are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/EBUSUA PANYIN KWA KAKRABA  OF THE ROYAL AWENADZE FAMILY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:34:02.792Z",
+    "plainTextLength": 15893
+  }
+}

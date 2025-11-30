@@ -1,0 +1,87 @@
+{
+  "caseTitle": "A.K.A IBOMAN VRS THE REPUBLIC",
+  "summary": "The appellant, Kwaku Frimpong a.k.a Iboman, was convicted by the High Court for conspiracy to commit robbery and robbery, alongside three others, based on eyewitness testimony, a confession statement admitted after a mini-trial, and recovery of stolen property. The Court of Appeal dismissed his appeal, and he further appealed to the Supreme Court of Ghana. He challenged the evaluation of evidence, the admissibility of his confession, the sufficiency of circumstantial evidence, and the severity of his 65-year sentence with hard labour. The Supreme Court upheld the conviction, finding the prosecution had proven the essential elements of both offences beyond reasonable doubt, relying on credible eyewitness accounts, corroborative police investigation, and legally admissible confession. The court rejected arguments about missing witnesses and insufficient linkage, affirming that quality, not quantity, of evidence matters. The sentence was also upheld as proportionate to the gravity of the armed robbery.",
+  "legalKeywords": [
+    "robbery",
+    "conspiracy to commit robbery",
+    "confession statement",
+    "circumstantial evidence",
+    "evidence admissibility",
+    "Supreme Court of Ghana",
+    "sentence mitigation",
+    "burden of proof",
+    "eyewitness testimony",
+    "post-offence conduct",
+    "Criminal Code Act 29",
+    "Evidence Act NRCD 323",
+    "standard of proof",
+    "miscarriage of justice",
+    "possession of stolen property"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Review",
+    "Evidence Law",
+    "Sentencing",
+    "Confession Admissibility"
+  ],
+  "verdict": "Conviction and sentence upheld",
+  "winningSide": "Republic",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Jones Dotse JSC",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Brobbey JSC",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Adinyira (Mrs) JSC",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Owusu (Ms) JSC",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Gbadebo JSC",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Bosso v Republic [2009] SCGLR 420",
+    "Dogbe v Republic [1975] 1 GLR 118",
+    "Gligah & Anr v the Republic [2010] SCGLR 870",
+    "Tettey v Republic [2001-2002] SCGLR",
+    "Dexter Johnson v Republic [2011] SCGLR 601",
+    "Behome v Republic [1979] GLR 112",
+    "State v Boahene [1963] 2 GLR 554",
+    "State v Otchere & Others [1963] 2 GLR 463",
+    "Azametsi v The Republic [1974] 1 GLR 228 CA"
+  ],
+  "rationaleHighlights": [
+    "Eyewitness testimony from victims (PW1 and PW2) directly linked the appellant to the robbery.",
+    "The appellant's confession, admitted after a mini-trial, was deemed voluntary and credible.",
+    "The recovery of stolen property (a DVD player) from the appellant's house provided strong corroborative evidence.",
+    "The court held that the prosecution met the burden of proof with quality evidence, not requiring all possible witnesses.",
+    "Mere possession of stolen goods, combined with other evidence, can support a robbery conviction.",
+    "The appellant's role as a getaway driver and his post-offence conduct (changing number plates, hiding the car) demonstrated active participation and guilt.",
+    "The 65-year sentence was upheld as justified by the seriousness of the armed robbery.",
+    "The Supreme Court found no miscarriage of justice in the lower courts' evaluation of the defence."
+  ],
+  "confidenceNotes": "High confidence. The summary and data are derived directly from the provided Supreme Court judgment text. All key facts, legal principles, citations, and the final disposition are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/KWAKU FRIMPONG, A.K.A IBOMAN  VRS THE REPUBLIC.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:29:43.188Z",
+    "plainTextLength": 89269
+  },
+  "trialDate": "2010-05-03"
+}

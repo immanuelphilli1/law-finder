@@ -1,0 +1,76 @@
+{
+  "caseTitle": "OPANIN KWEKU ENU (SUBSTITUTED BY KOJO TUAKWA) v. KWEKU BOSO",
+  "summary": "The Supreme Court of Ghana allowed the appeal filed by Opain Kweku Enu (substituted by Kojo Tuakwa) against Kweku Bosom, reversing the Court of Appeal's judgment that upheld the trial court's decision to maintain the status quo ante in a land title dispute. The appellant claimed declaration of title, recovery of possession, and perpetual injunction over two parcels of land in Gwira Akyinimu, asserting ancestral settlement by Kwesi Gwira, while the respondent claimed ownership through ancestral lineage from the Adwenadze family of Bantama. The Supreme Court found that the trial judge and the Court of Appeal failed to properly apply the rules of evidence, particularly regarding the burden of proof under the Evidence Decree, NRCD 323, which requires a preponderance of probabilities. The trial court's conclusion that the respondent’s family owned the land was unsupported by evidence, as the respondent failed to establish any genealogical link to Kwesi Gwira. The Supreme Court emphasized that appellate courts must conduct a thorough review of evidence in civil appeals, especially where the weight of evidence is challenged, and held that the appellant’s long possession and the lack of proof by the respondent warranted a finding in favor of the appellant.",
+  "legalKeywords": [
+    "burden of proof",
+    "preponderance of probabilities",
+    "declaration of title",
+    "evidence evaluation",
+    "appellate review",
+    "customary land ownership",
+    "genealogical evidence",
+    "status quo ante",
+    "estoppel by acquiescence",
+    "long possession as title",
+    "tribunal of fact",
+    "civil appeal rehearing",
+    "rules of evidence",
+    "customary tenure",
+    "ancestral ownership"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Customary Law",
+    "Evidence Law",
+    "Property Rights"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sophia Akuffo",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Wiredu",
+      "role": "Ag. Chief Justice"
+    },
+    {
+      "name": "Kpegah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Adjahbeng",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Odonkor vrs. Amartei, [1992-93] part 1 GBR, 59",
+    "Evidence Decree, 1975 (NRCD 323), Section 12"
+  ],
+  "rationaleHighlights": [
+    "The trial court erred in concluding that the respondent's family owned the land without any evidentiary basis linking them to the founder Kwesi Gwira.",
+    "The Court of Appeal failed in its duty to reassess the evidence on a preponderance of probabilities, as required in civil appeals.",
+    "The appellant's long, undisturbed possession and the recognition by neighboring landowners supported his claim.",
+    "The trial judge improperly inferred the truth of the respondent's version solely from the origin of Tseasewa, which is a non-sequitur under the Evidence Decree.",
+    "An appellate court must evaluate the entire record in cases where the decision is alleged to be against the weight of evidence."
+  ],
+  "confidenceNotes": "The judgment is based on a clear application of statutory law (NRCD 323) and binding precedent (Odonkor v Amartei). The factual findings are strongly supported by the lack of genealogical evidence from the respondent and the consistency of the appellant's lineage. The reversal is well-reasoned and aligns with established principles of civil procedure and evidence law in Ghana.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2000A/OPANIN KWEKU ENU (SUBSTITUTED BY  KOJO TUAKWA) v. KWEKU BOSO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:47:15.542Z",
+    "plainTextLength": 17139
+  }
+}

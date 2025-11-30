@@ -1,0 +1,94 @@
+{
+  "caseTitle": "OHIN MOORE (PER ABUA KOJO)",
+  "summary": "This 1932 West African Court of Appeal decision from Ghana (then Gold Coast Colony) centered on whether an appeal could proceed when the appellant failed to pay court-ordered costs before obtaining leave to appeal. The Native Tribunal had ruled in favor of the defendant and ordered the plaintiff to pay costs. The plaintiff obtained leave to appeal without having paid those costs, contrary to section 77(2) of the Native Administration Ordinance. The Provincial Commissioner allowed the appeal after the costs were later paid, setting aside the Tribunal’s judgment. The West African Court of Appeal, by majority, held that non-compliance with the statutory precondition rendered the appeal a nullity, as leave granted without payment of costs was ultra vires. The appeal was upheld, the Provincial Commissioner’s judgment set aside, and the original Tribunal decision restored.",
+  "legalKeywords": [
+    "appeal jurisdiction",
+    "costs payment",
+    "section 77 Native Administration Ordinance",
+    "ultra vires",
+    "conditional leave to appeal",
+    "statutory precondition",
+    "nullity",
+    "procedural compliance",
+    "appellate procedure",
+    "jurisdictional defect",
+    "Gold Coast legal history",
+    "West African Court of Appeal",
+    "procedural irregularity",
+    "leave to appeal",
+    "final leave",
+    "conditional leave",
+    "tribunal jurisdiction",
+    "provincial commissioner",
+    "native customary law",
+    "substantial justice",
+    "technicality in law",
+    "judicial review",
+    "appeal validity",
+    "statutory interpretation",
+    "court procedure",
+    "appeal conditions",
+    "costs deposit",
+    "appeal nullity",
+    "ordinance compliance",
+    "appellate power"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Jurisdiction",
+    "Costs in Litigation",
+    "Statutory Interpretation",
+    "Legal History",
+    "Colonial Law",
+    "Ghanaian Judiciary",
+    "Native Tribunals",
+    "Procedural Law",
+    "Judicial Authority"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendant-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Deane",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Justice"
+    },
+    {
+      "name": "Howes",
+      "role": "Justice (dissenting)"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Native Administration Ordinance, section 77(2)",
+    "Kojo Pan v. Atta Fua (P.C. 1874-1928, page 95)",
+    "In re Dickinson Ex p. Rosenthal, 20 Ch.D. 315",
+    "West African Court of Appeal Ordinance, 1929, section 8"
+  ],
+  "rationaleHighlights": [
+    "Section 77(2) of the Native Administration Ordinance mandates payment of costs before leave to appeal can be granted.",
+    "Leave granted without prior payment of costs is void and of no legal effect.",
+    "The Provincial Commissioner lacked jurisdiction to hear an appeal not properly before the court.",
+    "The court cannot disregard statutory preconditions under the guise of doing substantial justice.",
+    "No power exists for the Provincial Commissioner to cure a jurisdictional defect after the fact.",
+    "Failure to comply with a statutory condition precedent renders the appeal a nullity.",
+    "The appeal was a 'pseudo appeal' and could not be entertained by the higher court.",
+    "The absence of implementing regulations does not excuse non-compliance with clear statutory language."
+  ],
+  "confidenceNotes": "The summary and analysis are based on a truncated but substantially complete judgment. Key holdings and reasoning are clearly articulated in the majority opinions. The dissent adds context but does not alter the final outcome. All cited legal provisions and case references are treated as accurate within the document.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/OHIN MOORE (PER ABUA KOJO).htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:40:36.151Z",
+    "plainTextLength": 31085
+  },
+  "trialDate": "1932-11-14"
+}

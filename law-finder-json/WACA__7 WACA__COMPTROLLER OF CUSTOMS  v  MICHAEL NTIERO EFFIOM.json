@@ -1,0 +1,68 @@
+{
+  "caseTitle": "COMPTROLLER OF CUSTOMS v MICHAEL NTIERO EFFIOM",
+  "summary": "The West Africa Court of Appeal addressed four legal questions arising from a customs prosecution in Ghana. It held that the trial judge correctly refused to allow the Comptroller of Customs to amend charges after trial began, as the application amounted to a prohibited substitution of charges. The court also affirmed that amending particulars was improper because they described smuggling rather than the charged offence of possession of prohibited imports. The refusal to convict on an uncharged offence—possession of twelve tierce of tobacco—was upheld, as the proven offence was not part of the original charge. Finally, the court ruled that the trial judge misinterpreted Regulation 6 of the Customs Ordinance Cap. 130 by applying it to territorial waters (Man-of-War Bay), when it only applies to inland waters, rendering the seizure unlawful.",
+  "legalKeywords": [
+    "amendment of charges",
+    "substitution of charges",
+    "particulars of charge",
+    "conviction on uncharged offence",
+    "inland waters",
+    "territorial waters",
+    "Customs Ordinance",
+    "prohibited import",
+    "smuggling",
+    "seizure legality"
+  ],
+  "topics": [
+    "criminal procedure",
+    "customs law",
+    "statutory interpretation",
+    "constitutional law",
+    "prosecutorial conduct"
+  ],
+  "verdict": "Appeal allowed in part; seizure declared unlawful due to incorrect interpretation of 'inland waters'.",
+  "winningSide": "Appellant (Michael Ntiero Effiom)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "WACA/7",
+    "Customs Ordinance Cap. 130",
+    "Regulations No. 33 of 1929"
+  ],
+  "rationaleHighlights": [
+    "Amending charges after trial commenced is impermissible if it amounts to substitution.",
+    "Particulars describing a different offence (smuggling) than the charge (possession) render the charge bad.",
+    "Conviction cannot be based on an offence not charged, unless it is a lesser included offence.",
+    "Regulation 6 applies only to inland waters, not territorial waters.",
+    "Misinterpretation of 'inland' vs 'territorial' waters invalidated the seizure.",
+    "Court upheld procedural fairness and statutory interpretation.",
+    "Prosecution cannot amend defective charges mid-trial to cure fundamental mismatches.",
+    "Judicial clarity on limits of prosecutorial discretion post-trial commencement."
+  ],
+  "confidenceNotes": "High confidence; details are drawn directly from the court's joint opinion and procedural context.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/COMPTROLLER OF CUSTOMS  v  MICHAEL NTIERO EFFIOM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:35:36.421Z",
+    "plainTextLength": 3499
+  },
+  "trialDate": "1941-05-01"
+}

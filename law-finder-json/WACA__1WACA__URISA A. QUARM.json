@@ -1,0 +1,67 @@
+{
+  "caseTitle": "URISA A. QUARM",
+  "summary": "This appeal before the West African Court of Appeal involved a land sale dispute concerning stool land in Dutch Sekondi, Ghana. The plaintiff-appellant, Urisa A. Quarm, paid £400 for a plot via a deed allegedly executed by the Stool of Dutch Sekondi, Kwesi Miyewden (an occupant with equity), and others. When Quarm sought possession, Miyewden denied involvement, and a prior judgment found the transaction fraudulent due to forged signatures. Quarm then sued the current Omanhene (Chief) representing the Stool and Ephraim, a key figure in the sale, to recover the purchase money. The trial judge dismissed the claim, wrongly framing it as improperly pleaded. The appellate court reversed, holding that the Stool, as a corporation sole, is liable for acts of its agents acting within authority. The court ruled that a deed is sufficiently executed by the Chief and the Linguist, and the plaintiff, a bona fide purchaser, was entitled to recover the money upon total failure of consideration. The fraud must be imputed to the Stool, as the other parties were innocent. The claim for 'money had and received' was valid, and the Stool could not evade liability by alleging internal fraud by its agents.",
+  "legalKeywords": [
+    "stool land",
+    "conveyance",
+    "fraud",
+    "forgery",
+    "onus of proof",
+    "bona fide purchaser",
+    "corporation sole",
+    "native customary law",
+    "agent liability",
+    "execution of deed",
+    "linguist",
+    "chief",
+    "council",
+    "land sale",
+    "money had and received"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Contract Law",
+    "Fraud and Misrepresentation",
+    "Agency Law"
+  ],
+  "verdict": "Appeal allowed; plaintiff entitled to recover £400 and damages due to failure of consideration and fraud attributable to the Stool's agents.",
+  "winningSide": "Plaintiff-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Deane",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Howes",
+      "role": "Trial Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "WACA/1WACA/URISA A. QUARM",
+    "Sarbah, Fanti Customary Law, p. 57"
+  ],
+  "rationaleHighlights": [
+    "A Stool is a corporation sole like the Crown and continues beyond individual occupants.",
+    "Deed of conveyance of stool land is valid if signed by Chief and Linguist.",
+    "Burden of proving forgery lies on the party alleging it and must be strictly proved.",
+    "Plaintiff is a bona fide purchaser without any imputed fraud.",
+    "Stool cannot escape liability for acts of its agents acting within authority, even if agents defrauded the Stool itself.",
+    "Failure to take possession does not amount to fraud or estoppel where plaintiff relied on deed.",
+    "Claim for money had and received is valid upon total failure of consideration."
+  ],
+  "confidenceNotes": "High confidence in extraction; source is a judicial decision with clear factual and legal reasoning. Truncation at end does not affect key holdings.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/URISA A. QUARM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:38:34.638Z",
+    "plainTextLength": 20683
+  },
+  "trialDate": "1930-11-10"
+}

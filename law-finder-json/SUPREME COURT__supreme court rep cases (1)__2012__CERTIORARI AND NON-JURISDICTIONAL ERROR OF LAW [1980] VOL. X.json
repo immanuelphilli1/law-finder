@@ -1,0 +1,110 @@
+{
+  "caseTitle": "In the case of Republic v. Special",
+  "summary": "The case Republic v. Special Tribunal; Ex parte Forson (1980) involved an application for certiorari to quash a conviction by a Special Tribunal established under the Armed Forces Revolutionary Council (Special Tribunal and Other Matters) Decree, 1979 (A.F.R.C.D. 23). The applicant, Forson, was convicted on two counts: obtaining an advantage through public office and acts intended to sabotage Ghana's economy, based on the Archer Committee report. He challenged the conviction on grounds of lack of jurisdiction, excess of jurisdiction, and error of law, particularly the admission of hearsay evidence. The core legal issue was whether section 7(2) of A.F.R.C.D. 23, which barred courts from questioning any decision of the Special Tribunal, effectively ousted the High Court’s supervisory jurisdiction under article 126 of the 1979 Constitution. Taylor J. dismissed the preliminary objection that the High Court lacked jurisdiction, conducting an extensive review of case law. However, the analysis concludes that despite the broad language of the ouster clause, the High Court retains jurisdiction to intervene where a tribunal acts without jurisdiction, exceeds its powers, or breaches natural justice. The article critiques Taylor J.'s failure to distinguish between partial and complete ouster clauses and notes that non-jurisdictional errors of law cannot be reviewed under complete ouster clauses, aligning with the Anisminic principle later affirmed by the Privy Council and House of Lords.",
+  "legalKeywords": [
+    "certiorari",
+    "ouster clause",
+    "supervisory jurisdiction",
+    "error of law",
+    "jurisdiction",
+    "natural justice",
+    "prerogative writs",
+    "High Court",
+    "Special Tribunal",
+    "A.F.R.C.D. 23",
+    "Anisminic principle",
+    "constitutional law",
+    "judicial review",
+    "habeas corpus",
+    "prohibition",
+    "quo warranto",
+    "mandamus",
+    "constitutional interpretation",
+    "administrative tribunal",
+    "nullity",
+    "hearsay evidence",
+    "exclusive jurisdiction",
+    "non-jurisdictional error",
+    "tribunal procedure",
+    "constitutional ouster",
+    "rule of law",
+    "judicial independence",
+    "statutory interpretation",
+    "finality of decisions"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Judicial Review",
+    "Criminal Procedure",
+    "Legal History"
+  ],
+  "verdict": "Application for certiorari dismissed",
+  "winningSide": "Special Tribunal",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Taylor J.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "van Lare Ag. C.J.",
+      "role": "Appellate Judge"
+    },
+    {
+      "name": "Granville Sharp J.A.",
+      "role": "Appellate Judge"
+    },
+    {
+      "name": "Korsah C.J.",
+      "role": "Appellate Judge"
+    },
+    {
+      "name": "Ollennu J.",
+      "role": "Appellate Judge"
+    },
+    {
+      "name": "Lord Denning M.R.",
+      "role": "Judicial Commentator"
+    },
+    {
+      "name": "Lord Reid",
+      "role": "Judicial Commentator"
+    },
+    {
+      "name": "Lord Diplock",
+      "role": "Judicial Commentator"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional and Administrative Law",
+  "citations": [
+    "Republic v. Special Tribunal; Ex parte Forson (1980)",
+    "Ahenkora v. Ofe",
+    "Mbrah v. Donkor",
+    "Anisminic Ltd. v. Foreign Compensation Commission [1969] 2 A.C. 147",
+    "South East Asia Fire Bricks v. Non-Metallic Mineral Products Manufacturing Employees Union",
+    "In re A Company"
+  ],
+  "rationaleHighlights": [
+    "Section 7(2) of A.F.R.C.D. 23 constitutes a complete ouster clause but does not bar review for lack of jurisdiction, excess of jurisdiction, or breach of natural justice.",
+    "Errors of law on the face of the record that are non-jurisdictional cannot be reviewed under a complete ouster clause.",
+    "The High Court retains supervisory jurisdiction over tribunals even when statutory finality is declared, following the Anisminic principle.",
+    "Distinction between partial and complete ouster clauses is critical in determining the scope of judicial review.",
+    "Admission of hearsay evidence alone, without jurisdictional defect, does not justify certiorari where ouster clause applies.",
+    "Tribunals must operate within statutory limits; decisions beyond jurisdiction are nullities.",
+    "Parliamentary intent to oust jurisdiction must be explicit and is strictly construed.",
+    "Judicial review preserves the rule of law against arbitrary exercise of power."
+  ],
+  "confidenceNotes": "The source is a published legal commentary from The Ghana Law Reports, referencing primary case law and constitutional provisions. While the full judgment of Taylor J. is not provided, the analysis is based on authoritative summaries and citations to binding precedents, including local and Commonwealth jurisprudence. Confidence in accuracy is high due to the scholarly tone, detailed referencing, and consistency with established principles of administrative law.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2012/CERTIORARI AND NON-JURISDICTIONAL ERROR OF LAW [1980] VOL. X.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:47:51.570Z",
+    "plainTextLength": 26315
+  },
+  "trialDate": "1980-05-19"
+}

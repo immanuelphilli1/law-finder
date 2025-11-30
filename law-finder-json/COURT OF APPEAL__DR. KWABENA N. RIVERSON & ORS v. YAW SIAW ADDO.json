@@ -1,0 +1,74 @@
+{
+  "caseTitle": "KWABENA N. RIVERSON & ORS v. YAW SIAW ADDO",
+  "summary": "This Court of Appeal case arose from a land dispute between the administrators of Opanin Yaw Koranteng's estate (plaintiffs/appellants) and Yaw Siaw Addo (defendant/respondent). The plaintiffs sought a declaration of title, accounting of rents, injunction, and recovery of possession of stores at Agona Swedru. The High Court dismissed their claim, favoring the defendant's assertion that his father, Kwame Addo, purchased the land and gifted it to him. The Court of Appeal allowed the appeal, finding that the trial judge misdirected himself on the burden of proof, incorrectly requiring the plaintiffs to prove title beyond reasonable doubt instead of by a preponderance of probabilities as mandated by the Evidence Decree NRCD 323. The appellate court emphasized the legal weight of the Deed of Assignment (Exhibit B) in the name of Yaw Koranteng and Kwame Addo's affidavit confirming the transfer, rejecting the trial judge's unsupported inference of a deceptive name change. The judgment underscores that documentary evidence and correct legal principles must govern land title disputes.",
+  "legalKeywords": [
+    "declaration of title",
+    "burden of proof",
+    "preponderance of probabilities",
+    "deed of assignment",
+    "gift inter vivos",
+    "affidavit of ownership",
+    "customary law",
+    "land dispute",
+    "estoppel",
+    "acts of ownership",
+    "receipt as evidence",
+    "documentary evidence",
+    "misdirection in law",
+    "appellate review",
+    "weight of evidence"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Succession",
+    "Customary Law"
+  ],
+  "verdict": "Appeal allowed; trial court judgment set aside due to misdirection on burden of proof and improper evaluation of documentary evidence.",
+  "winningSide": "Plaintiffs/Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Akoto-Bamfo, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Lartey, J.A.",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Dotse, J.A.",
+      "role": "Panel Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil land dispute",
+  "citations": [
+    "Kponuglo vrs. Kodaja 1933 2 WACA 24",
+    "Adorkor vrs. Akatsi 1966/GLR.31",
+    "Domfeh vrs. Adu 1984-86 GLR.655",
+    "Koglex vrs. Field 2000 SC.GLR. 175",
+    "Kyiafi vrs. Wono 1967 GLR.463",
+    "Fofie vrs. Zanyo 1992 2 GLR.475",
+    "Adwubeng vrs. Domfeh (1996-97) SC. 670"
+  ],
+  "rationaleHighlights": [
+    "Trial judge erred in applying 'beyond reasonable doubt' standard; civil cases require 'preponderance of probabilities' per Evidence Decree NRCD 323.",
+    "Deed of Assignment (Exhibit B) in name of Yaw Koranteng is strong legal evidence of title.",
+    "Affidavit by Kwame Addo acknowledging Koranteng as rightful owner after payment supports transfer.",
+    "Judge improperly inferred deception without clear evidence, undermining documentary proof.",
+    "Appellate court can re-evaluate inferences from facts, especially when only one conclusion is tenable."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct judicial reasoning and cited authorities.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/DR. KWABENA N. RIVERSON & ORS v. YAW SIAW ADDO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:36:28.116Z",
+    "plainTextLength": 24318
+  },
+  "trialDate": "2004-05-21"
+}

@@ -1,0 +1,73 @@
+{
+  "caseTitle": "BARCLAYS (GH) LIMITED v. GENERAL DEVELOPMENT CO.",
+  "summary": "In Barclays (GH) Limited v. General Development Co., the Court of Appeal upheld a summary judgment granted by the High Court in favor of Barclays (GH) Limited, a creditor, against General Development Co., which defaulted on loan repayments totaling ₵5,154,243,371.48. The defendant entered a conditional appearance but failed to take further steps or oppose the plaintiff’s Order 14 summons for summary judgment, despite proper service. The court found no evidence of a triable defence and affirmed that the plaintiff had sufficiently proved its claim through attached documents, including the debenture deed and mortgage. The appeal, based on alleged non-production of documents, was dismissed as the notice to produce was never served, and the defendant’s inaction constituted negligence and lack of good faith. The judgment emphasized that courts will not assist indolent parties who ignore legal processes.",
+  "legalKeywords": [
+    "summary judgment",
+    "Order 14",
+    "conditional appearance",
+    "debenture deed",
+    "mortgage charge",
+    "default in payment",
+    "no defence",
+    "affidavit evidence",
+    "stay of proceedings",
+    "leave to appeal out of time",
+    "good faith",
+    "liquidated claim",
+    "equity aids the vigilant",
+    "set aside judgment",
+    "procedural default"
+  ],
+  "topics": [
+    "Banking Law",
+    "Debt Recovery",
+    "Mortgage Enforcement",
+    "Summary Judgment Procedure",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Plaintiff/Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "P.K. Owusu-Ansah",
+      "role": "Delivered leading judgment"
+    },
+    {
+      "name": "K. Omari-Sasu",
+      "role": "Concurred"
+    },
+    {
+      "name": "Osei",
+      "role": "Concurred"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Duncan v. Kwaoko Ltd. 1981 3 GLR 476",
+    "Renault Vehicles v. Ashanti Engineering 1991 1 GLR 443",
+    "Dede II v. Ansah and others 1980 GLR"
+  ],
+  "rationaleHighlights": [
+    "Defendant failed to oppose summary judgment despite proper service",
+    "No triable issue or defence raised by the defendant",
+    "Conditional appearance lapsed due to inaction",
+    "Documents supporting claim were properly attached and unchallenged",
+    "Appeal based on non-production of documents failed due to non-service of notice",
+    "Principle that 'equity aids the vigilant, not the indolent' applied",
+    "Defendant's conduct viewed as delay tactic and lacking in good faith",
+    "Judgment affirmed under Order 14 rules for liquidated claims"
+  ],
+  "confidenceNotes": "High confidence; all key facts, legal principles, and procedural history are clearly documented in the judgment text.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/BARCLAYS (GH) LIMITED v. GENERAL DEVELOPMENT CO..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:44:31.331Z",
+    "plainTextLength": 11209
+  },
+  "trialDate": "2004-01-21"
+}

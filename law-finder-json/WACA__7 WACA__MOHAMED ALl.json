@@ -1,0 +1,68 @@
+{
+  "caseTitle": "MOHAMED ALl",
+  "summary": "This case involved a civil appeal before the West African Court of Appeal concerning a dispute over unpaid salary under a contract of employment. The plaintiff, Mohamed Ali, claimed a difference between the salary he alleged was due and the amount paid by the defendants, L. Ambrosini Limited. The trial judge based his decision on an unsigned, undated, and unstamped copy of an agreement with a third party, Auerbacher, which the appellate court held should not have been admitted and had no evidential value. The appellate court found that the trial judge misdirected himself by failing to recognize that successive salary reductions—from £12 to £10, then £8, and finally £6 per month—were communicated by the employer and accepted by the plaintiff, as evidenced by his conduct and pleadings. The court rejected the notion that these were arbitrary deductions, noting they were tied to performance. The appeal was allowed, judgment was entered for the defendants, and costs were awarded at thirty guineas.",
+  "legalKeywords": [
+    "contract of employment",
+    "termination of employment",
+    "admissibility of evidence",
+    "salary reduction",
+    "unstamped document",
+    "unsigned document",
+    "judicial misdirection",
+    "civil appeal",
+    "employment dispute",
+    "evidential value",
+    "authorization letter",
+    "costs award"
+  ],
+  "topics": [
+    "Employment Law",
+    "Evidence",
+    "Contract Law",
+    "Appeal",
+    "Judicial Misdirection"
+  ],
+  "verdict": "Appeal allowed; judgment entered for the defendants-appellants.",
+  "winningSide": "Defendants-appellants (L. Ambrosini Limited)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Butler Lloyd",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Brooke",
+      "role": "Justice"
+    },
+    {
+      "name": "Jeffreys",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WACA/7 WACA/MOHAMED ALI"
+  ],
+  "rationaleHighlights": [
+    "The unsigned, undated, and unstamped document was inadmissible and lacked evidential value.",
+    "The trial judge erred in finding no termination or re-engagement at a lower salary.",
+    "Salary reductions were supported by evidence and not arbitrary.",
+    "Authorization letter showed initial salary terms.",
+    "Appellate court found misdirection in law by the trial judge.",
+    "Appeal allowed; judgment entered for the appellants.",
+    "Costs assessed at thirty guineas.",
+    "Plaintiff accepted prior salary reductions through conduct and pleadings."
+  ],
+  "confidenceNotes": "The document is a reported judgment from the West African Court of Appeal, with clear judicial reasoning and outcome. All details are drawn directly from the provided text.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/MOHAMED ALl.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:32:08.184Z",
+    "plainTextLength": 3622
+  },
+  "trialDate": "1941-11-08"
+}

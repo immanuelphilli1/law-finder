@@ -1,0 +1,58 @@
+{
+  "caseTitle": "MISCELLANY-AT-LAW RE-EXAMINATION AND ADDRESSES [1987-88] VOL",
+  "summary": "This legal commentary by Sam Okudzeto discusses procedural aspects of trial practice in Ghana, focusing on re-examination of witnesses, judicial powers during trial, and the structure of final addresses. Re-examination is limited to clarifying points from cross-examination and must not be leading or introduce new issues without court permission. The court retains discretion under Section 69 and 73 of the Evidence Decree to control witness examination. Judges may question witnesses or call new ones in the interest of justice, especially in criminal cases, but must avoid bias. In civil cases, judicial calls for witnesses require party consent or lack of objection. The commentary highlights a historical case where rebuttal evidence was wrongly denied after a surprise expert testimony, leading to appellate reversal. Final addresses follow specific sequencing rules under the Criminal Procedure Code, with the prosecution usually having the last word. The piece critiques declining standards in oral advocacy and the growing use of written submissions, which may undermine procedural fairness.",
+  "legalKeywords": [
+    "re-examination of witness",
+    "cross-examination",
+    "final address",
+    "judicial discretion",
+    "rebuttal evidence",
+    "summary trial",
+    "prosecution closing argument",
+    "defence closing speech",
+    "judicial intervention",
+    "Evidence Decree NRCD 323",
+    "Criminal Procedure Code Act 30"
+  ],
+  "topics": [
+    "Evidence Law",
+    "Trial Procedure",
+    "Judicial Powers",
+    "Advocacy Practice",
+    "Rebuttal Evidence"
+  ],
+  "verdict": "Not applicable; this is a procedural commentary, not a case decision.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court / High Court (referenced procedurally)",
+    "country": "Ghana"
+  },
+  "caseType": "procedural commentary",
+  "citations": [
+    "Evidence Decree, 1975 (NRCD 323)",
+    "Section 69, Evidence Decree",
+    "Section 73(1) & (2), Evidence Decree",
+    "Section 175, Criminal Procedure Code, 1960 (Act 30)",
+    "Section 273 & 274, Criminal Procedure Code, 1960 (Act 30)",
+    "R v Liddle (1928) 21 Cr App R 3",
+    "R v Maton (1933) 24 Cr App R 95",
+    "R v Harris [1927] 2 KB 587",
+    "R v Cleghorn [1967] 2 QB 54",
+    "R v Sullivan [1923] 1 KB 47"
+  ],
+  "rationaleHighlights": [
+    "Re-examination must relate only to issues raised in cross-examination and cannot introduce new matters without court leave.",
+    "Judges have discretion to question witnesses but must not conduct examination on behalf of a party.",
+    "Evidence in rebuttal may be allowed if unforeseen evidence emerges, such as in the Bigsby v Hollis example.",
+    "Final addresses allow parties to summarize facts and law; the prosecution typically has the last word unless the defence does not call evidence."
+  ],
+  "confidenceNotes": "High confidence; source is a legal commentary by Sam Okudzeto citing statutory provisions and case law from Ghana and UK jurisdictions. No direct court judgment is presented, but procedural rules are authoritatively referenced.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/87 - 88/MISCELLANY-AT-LAW RE-EXAMINATION AND ADDRESSES [1987-88] VOL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:00:09.105Z",
+    "plainTextLength": 13522
+  }
+}

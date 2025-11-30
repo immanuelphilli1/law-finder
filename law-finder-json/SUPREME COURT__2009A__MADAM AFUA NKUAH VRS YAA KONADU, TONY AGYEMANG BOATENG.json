@@ -1,0 +1,71 @@
+{
+  "caseTitle": "MADAM AFUA NKUAH VRS YAA KONADU, TONY AGYEMANG BOATENG",
+  "summary": "This Supreme Court of Ghana case, decided on 11th February 2009, involved a property dispute over a single room in a house at Old Amakom, Kumasi. The appellant, Madam Afua Nkuah, claimed ownership through a 1954 assignment of interest from Kwabena Bio to her grand uncle, Yaw Mensah. After Yaw Mensah's death in 1957, the property was administered and the disputed room allocated to her. The High Court ruled in her favor, but the Court of Appeal reversed the decision, citing lack of capacity due to absence of a vesting assent under post-1961 laws. The Supreme Court overturned this, holding that the Administration of Estates Act 1961 (Act 63) and Land Registry Act 1962 (Act 122) did not apply retroactively to a 1957 estate administration. It emphasized that the appellant sued in her personal capacity over a gifted portion of property, not as a representative, and thus did not require a vesting assent. The appeal was allowed, and the High Court’s judgment restored.",
+  "legalKeywords": [
+    "property dispute",
+    "assignment of interest",
+    "vesting assent",
+    "lack of capacity",
+    "retroactive application of law",
+    "letters of administration",
+    "beneficiary rights",
+    "real estate litigation",
+    "title to property",
+    "procedural capacity"
+  ],
+  "topics": [
+    "Property Law",
+    "Succession Law",
+    "Civil Procedure",
+    "Appellate Jurisdiction",
+    "Legal Capacity"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Anin Yeboah",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "G. T. Wood (Mrs.)",
+      "role": "Chief Justice, concurred"
+    },
+    {
+      "name": "S. A. Brobbey",
+      "role": "Justice, concurred"
+    },
+    {
+      "name": "J. Ansah",
+      "role": "Justice, concurred"
+    },
+    {
+      "name": "P. Baffoe-Bonnie",
+      "role": "Justice, concurred"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "CONNEY V BENTUM WILLIAMS [1984-86] GLR 310 CA"
+  ],
+  "rationaleHighlights": [
+    "The Court of Appeal erred in applying Act 63 and Act 122 retroactively to a 1957 estate administration.",
+    "The appellant sued in her personal capacity, not as a representative, so no vesting assent was required.",
+    "The claim concerned only a single room gifted to her, not the entire property title.",
+    "Procedural rules (Order 3 Rule 4, LN 140 A of 1954) were not violated as no representative capacity was claimed.",
+    "The Conney v Bentum Williams precedent was inapplicable due to different factual and temporal circumstances."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and explicit citation of procedural rules and statutes. Case details are consistent with Ghanaian property and succession law.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/MADAM AFUA NKUAH VRS YAA KONADU, TONY AGYEMANG BOATENG.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:05:10.856Z",
+    "plainTextLength": 11727
+  },
+  "trialDate": "2008-09-04"
+}

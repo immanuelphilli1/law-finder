@@ -1,0 +1,70 @@
+{
+  "caseTitle": "BISIRIYU SHOAGA v THE KING",
+  "summary": "The appellant, Bisiriyu Shoaga, was convicted in the Supreme Court on two counts: breaking into a building and stealing a tyre, and stealing multiple motor car tyres. On appeal to the West African Court of Appeal, questions of witness credibility were not interfered with, as the trial judge had properly assessed demeanor and reliability. The court raised two procedural points: first, whether the appellant's name was properly added to the charge after the prosecution's case, and second, whether the trial judge erred in not inviting counsel to recall witnesses. Relying on Section 165 of the Criminal Procedure Ordinance, the court held that while an accused must be allowed to recall or cross-examine witnesses when a charge is amended, there is no duty to inform defense counsel of this right if the accused is legally represented, as counsel is presumed to know the law. The court found no prejudice and upheld the conviction. The second count was also upheld based on sufficient factual findings, particularly the trial judge's acceptance of co-accused Gamba’s evidence implicating the appellant. The appeal was dismissed.",
+  "legalKeywords": [
+    "criminal procedure",
+    "amendment of charge",
+    "recall of witnesses",
+    "right to cross-examine",
+    "Counsel representation",
+    "section 165",
+    "procedural fairness",
+    "conviction upheld",
+    "appellate review",
+    "trial irregularity",
+    "informed rights",
+    "legal representation",
+    "judicial discretion",
+    "witness credibility",
+    "factual finding"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Legal Representation",
+    "Witness Testimony",
+    "Charge Amendment"
+  ],
+  "verdict": "Conviction upheld on both counts.",
+  "winningSide": "The Crown",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Verity, C.J. (Nigeria)",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Jibowu, Ag. S.P.J. (Nigeria)",
+      "role": "Justice"
+    },
+    {
+      "name": "Coussey, J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "West African Court of Appeal, Nigeria, Lagos, 4th February, 1952",
+    "Criminal Procedure Ordinance, Section 165",
+    "Chapter 43 of the Criminal Procedure Ordinance"
+  ],
+  "rationaleHighlights": [
+    "Section 165 requires accused to be allowed to recall/cross-examine witnesses if charge is amended.",
+    "When accused is represented, court need not inform counsel of this right; assumption that counsel is aware.",
+    "Failure to recall witnesses does not invalidate conviction if counsel had opportunity.",
+    "Trial judge's credibility assessment upheld on appeal.",
+    "Sufficient factual basis found for conviction on second count.",
+    "Appeal dismissed due to lack of procedural and factual error."
+  ],
+  "confidenceNotes": "The case originates from the West African Court of Appeal, applying laws relevant to the region including Ghana; citation to Section 165 is central to the procedural ruling.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/BISIRIYU SHOAGA  v  THE KING.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:42:43.875Z",
+    "plainTextLength": 6415
+  },
+  "trialDate": "1952-02-04"
+}

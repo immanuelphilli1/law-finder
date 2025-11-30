@@ -1,0 +1,63 @@
+{
+  "caseTitle": "AMAH VERSUS PICAS.",
+  "summary": "In this 1956 decision by the Supreme Court of the Gold Coast (now Ghana), the court held that a landlord could recover the difference between a contractual rent and a higher standard rent assessed by the Rent Assessment Committee under the Rent Control Ordinance, c. 2 of 1952, even during the term of an existing lease. The plaintiff landlord had leased property to the defendant for 15 years at 20 per month. In 1952, the Rent Assessment Committee reassessed the standard rent at 45 per month from October 1, 1952. The defendant initially paid the increased amount but later refused, arguing the lease terms capped rent at 20. The court rejected this, ruling that Section 5(3)(a) of the Ordinance made the standard rent binding 'notwithstanding any lease to the contrary,' distinguishing Ghana's law from English rent restriction statutes which only set maximum limits. The claim for 405 in arrears was granted.",
+  "legalKeywords": [
+    "Rent Control Ordinance",
+    "standard rent",
+    "contractual tenancy",
+    "Rent Assessment Committee",
+    "section 5(3)(a)",
+    "section 7(1)",
+    "landlord and tenant",
+    "lease variation",
+    "statutory rent",
+    "rent increase",
+    "legal obligation to pay",
+    "judicial interpretation",
+    "Gold Coast jurisprudence",
+    "binding standard rent"
+  ],
+  "topics": [
+    "Landlord and Tenant Law",
+    "Rent Control",
+    "Statutory Interpretation"
+  ],
+  "verdict": "The court ruled in favor of the plaintiff (landlord), holding that the standard rent assessed by the Rent Assessment Committee was legally enforceable despite the lower contractual rent in the lease, and entered judgment for 405 with costs.",
+  "winningSide": "Plaintiff (landlord)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Wilson C.J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Eastern Judicial Division, Land Court, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil",
+  "citations": [
+    "Amateifio v. Noshie (1947) W.A.C.A. Cyclostyled Reports, January-February, 1947, p. 9",
+    "Field v. Gover [1944] 1 K.B. 200",
+    "Smith v. Lloyd (1923) 92 L.T.-K.B. 877; 130 L.T. 20",
+    "Newell v. Crayford Cottage Society [1922] 1 K.B. 656",
+    "Rent Control Ordinance, c. 2 of 1952, ss. 5(3)(a) and 7(1)"
+  ],
+  "rationaleHighlights": [
+    "Section 5(3)(a) of the Rent Control Ordinance states the standard rent 'shall be the standard rent of such premises notwithstanding any lease to the contrary,' making it binding.",
+    "The Ordinance applies to both statutory and contractual tenancies, including existing leases.",
+    "The right to apply for rent assessment under Section 7(1) is available to both landlords and tenants under active leases.",
+    "Unlike English rent restriction laws, the Gold Coast Ordinance permits upward adjustment of rent during a lease term.",
+    "The defendant's payment of increased rent for a year indicated initial acceptance of the Committee's decision.",
+    "Authorities cited from English law (Field v. Gover, Smith v. Lloyd, Newell v. Crayford) were deemed inapplicable due to differing legislative frameworks.",
+    "The Ordinance is designed to protect both landlords and tenants, not just tenants.",
+    "The argument that the standard rent is unenforceable during a lease lacks statutory or authoritative support."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear textual reporting of legal reasoning, statutory provisions, and case citations. The judgment is presented in full with no apparent omissions affecting core holdings.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/AMAH v. PICAS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:43:27.746Z",
+    "plainTextLength": 8021
+  }
+}

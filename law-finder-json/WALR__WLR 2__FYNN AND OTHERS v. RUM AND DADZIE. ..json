@@ -1,0 +1,63 @@
+{
+  "caseTitle": "OTHERS VERSUS RUM AND DADZIE.",
+  "summary": "This 1957 Supreme Court of Ghana case involved a dispute over the ownership and control of family land known as Abramadzie, belonging to the Odumna family, which had branches in Moree, Queen Anne's Point (Ekon), and Cape Coast. The head of the Moree branch attempted to dispose of part of the land without the consent of the other branches. The defendant argued that the Cape Coast and Ekon branches had severed family ties and thus lost their rights. The Native Court ruled in favor of the defendant, declaring him the absolute owner. On appeal, the Supreme Court held that mere disaffection does not sever family ties; formal acts such as partition or a public declaration are required. It found no evidence of such acts and emphasized that the head of the family holds property in trust, requiring consent from principal members of all branches for valid disposition. The appeal was allowed, the Native Court's judgment was set aside, and a declaration was issued affirming the collective ownership and shared control of the land.",
+  "legalKeywords": [
+    "Native Law and Custom",
+    "Severance of family ties",
+    "Family property",
+    "Partition of property",
+    "Consent of principal members",
+    "Customary land tenure",
+    "Head of family as trustee",
+    "Abandonment of family rights",
+    "Formal declaration of severance",
+    "Ancestral property",
+    "Family elders",
+    "Land dispute",
+    "Customary law",
+    "Disposal of family land",
+    "Reconciliation"
+  ],
+  "topics": [
+    "Family Law",
+    "Customary Law",
+    "Land Law",
+    "Property Rights",
+    "Severance of Family Ties"
+  ],
+  "verdict": "Appeal allowed; judgment of the Native Court set aside; declaration issued in favor of the plaintiffs affirming collective family ownership and requirement of consent for land dealings.",
+  "winningSide": "Plaintiffs (Fynn and others)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana, Central Judicial Division, Land Court, Cape Coast",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Sackey v. Okantah (1916) Divisional and Full Court Judgments, 1919, p. 88",
+    "Okaikor v. Opare and Mensah (1956) 1 W.A.L.R. 275",
+    "Amoabimaa and Another v. Badu and Others (1956) 1 W.A.L.R. 227"
+  ],
+  "rationaleHighlights": [
+    "Disagreement alone does not sever family ties; clear and unequivocal acts are required.",
+    "Partition of family property is a requisite for effective severance.",
+    "Head of family holds property in trust and cannot dispose of it without consent of principal members.",
+    "Formal declaration is needed for a branch to abandon family rights.",
+    "Election of family head by all sections implies their continued rights in family property.",
+    "Native Court misdirected itself by recognizing absolute rights in the head without consent.",
+    "Appeal allowed because ancestral property rights remained intact for all branches."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key elements are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/FYNN AND OTHERS v. RUM AND DADZIE. ..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:33:47.039Z",
+    "plainTextLength": 10944
+  }
+}

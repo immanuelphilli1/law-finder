@@ -1,0 +1,92 @@
+{
+  "caseTitle": "THE REPUBLIC v. HIGH COURT, ACCRA",
+  "summary": "The Supreme Court of Ghana dismissed an application for review filed by Ayishetu Afoda and Mama Jima Afoda, who had been found guilty of contempt by the High Court for reoccupying a property after a writ of possession was executed. The applicants argued that the writ was invalid due to a pending application for stay of execution pending appeal. The Supreme Court reaffirmed the principle that orders of a court of competent jurisdiction must be obeyed even if allegedly erroneous or improvidently made, and that disobedience cannot be justified by claiming the order was void. Citing numerous authorities including Russel vrs. East Anglian Railway Co. and The Republic vrs. Brew, the Court emphasized that the proper remedy is to challenge the order through formal legal channels such as appeal or application for setting aside, not through self-help. The Court dismissed the review application to uphold the authority of judicial processes and prevent litigants from unilaterally determining the validity of court orders.",
+  "legalKeywords": [
+    "contempt of court",
+    "obedience to court orders",
+    "stay of execution",
+    "certiorari",
+    "prohibition",
+    "void orders",
+    "injunction",
+    "jurisdiction",
+    "public policy",
+    "due administration of justice",
+    "receiver",
+    "writ of possession",
+    "self-help",
+    "appeal",
+    "inherent jurisdiction"
+  ],
+  "topics": [
+    "Contempt of Court",
+    "Judicial Authority",
+    "Appeal and Stay of Execution",
+    "Rule of Law",
+    "Public Policy"
+  ],
+  "verdict": "Application for review dismissed.",
+  "winningSide": "The Republic / Respondent",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kpegah",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Adjebeng",
+      "role": "Justice"
+    },
+    {
+      "name": "Acquah",
+      "role": "Justice"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Justice"
+    },
+    {
+      "name": "Akuffo",
+      "role": "Justice"
+    },
+    {
+      "name": "Lamptey",
+      "role": "Justice"
+    },
+    {
+      "name": "Adzoe",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "contempt of court",
+  "citations": [
+    "Russel vrs. East Anglian Railway Co. (1850) 42 E.R. 201",
+    "McFoy vrs. U.A.C. (1962) A.C. 152",
+    "Mosi vrs. Bagyina (1963) 1 G.L.R. 337",
+    "Kumnipah vrs. Ayirebi (1987-88) 1 G.L.R. 265",
+    "The Republic vrs. Brew (1992) 1 G.L.R. 14",
+    "Baah v. Baah (1973) 2 GLR 8",
+    "Walker v. City of Birmingham, 388 U.S. 301"
+  ],
+  "rationaleHighlights": [
+    "An order of a court of competent jurisdiction must be obeyed regardless of perceived invalidity.",
+    "Disobedience cannot justify claims of error or lack of jurisdiction.",
+    "Proper remedy is to seek formal setting aside via legal process, not self-help.",
+    "Sanctity of court orders is essential for public order and justice.",
+    "Litigants cannot unilaterally determine validity of court processes.",
+    "Long-standing authorities affirm non-justiciability of disobedience based on alleged nullity.",
+    "Review dismissed to reinforce institutional authority of courts.",
+    "Danger of empowering private actors to override judicial authority emphasized."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key elements (facts, legal principles, citations, verdict) are explicitly stated in the ruling.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2001A/THE REPUBLIC v. HIGH COURT, ACCRA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:41:44.006Z",
+    "plainTextLength": 14433
+  }
+}

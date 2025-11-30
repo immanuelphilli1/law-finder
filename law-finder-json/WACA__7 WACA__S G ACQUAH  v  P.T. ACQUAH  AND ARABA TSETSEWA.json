@@ -1,0 +1,71 @@
+{
+  "caseTitle": "S G ACQUAH v P.T. ACQUAH AND ARABA TSETSEWA",
+  "summary": "This 1941 West Africa Court of Appeal decision in Ghana (then Gold Coast) concerned a civil trespass action over a cocoa plantation at Asuantsi, Abura. The plaintiff, S.G. Acquah, sued for damages after defendants removed cocoa from a plantation he claimed under his father Joseph Dobson Acquah's will. The native tribunal found the plantation was Joseph's self-acquired property, validly devised by will, and that the defendants had trespassed. The Provincial Commissioner reversed, but the WACA restored the native tribunal's judgment. The appellate court held that the native tribunal's factual findings—particularly that Joseph was the personal owner, that family labor did not make it family property, and that the will referred to the disputed farm—were supported by evidence and should not be disturbed absent clear error. The court emphasized the exclusive original jurisdiction of native tribunals in land matters under native tenure and the presumption of individual ownership when established by personal effort.",
+  "legalKeywords": [
+    "trespass",
+    "native tenure",
+    "family property",
+    "self-acquired property",
+    "will",
+    "probate",
+    "cocoa plantation",
+    "land ownership",
+    "hearsay evidence",
+    "exclusive jurisdiction",
+    "domestic labor",
+    "boundary marks",
+    "stool land",
+    "devisee",
+    "appellate review"
+  ],
+  "topics": [
+    "Land Law",
+    "Succession",
+    "Trespass",
+    "Native Jurisdiction",
+    "Appellate Review"
+  ],
+  "verdict": "Judgment in favor of the plaintiff-respondent/appellant (S.G. Acquah) restored on appeal; the defendants' appeal dismissed.",
+  "winningSide": "Plaintiff (S.G. Acquah)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "Bannerman, J.",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "2 W.A.C.A. I",
+    "Ahakah Nthah v. Anguah Bennieh, 2 W.A.C.A. I",
+    "Araba Tsetsewa v J. D. Acquah and another (unreported)"
+  ],
+  "rationaleHighlights": [
+    "Native tribunal's factual findings entitled to deference under colonial law",
+    "Hearsay evidence rejected in determining ownership",
+    "Assistance by family domestics does not convert individual property into family property",
+    "Existence of boundary marks supports separate ownership",
+    "Will validly disposes of property despite family claims",
+    "Provincial Commissioner erred in reversing native tribunal without clear proof of error"
+  ],
+  "confidenceNotes": "High confidence in extracted details due to clear judicial reasoning and citation of authority; minor uncertainty regarding full name spelling (e.g., 'Doh6on' likely 'Dobson') based on context.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/S G ACQUAH  v  P.T. ACQUAH  AND ARABA TSETSEWA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:23:53.247Z",
+    "plainTextLength": 16837
+  },
+  "trialDate": "1941-12-24"
+}

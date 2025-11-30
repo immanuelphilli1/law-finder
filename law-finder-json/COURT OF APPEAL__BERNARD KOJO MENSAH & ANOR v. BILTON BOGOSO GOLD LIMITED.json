@@ -1,0 +1,76 @@
+{
+  "caseTitle": "BERNARD KOJO MENSAH & ANOR v. BILTON BOGOSO GOLD LIMITED",
+  "summary": "The Court of Appeal upheld the High Court's finding that Bernard Kojo Mensah and another were employees of Bilton Bogoso Gold Limited under a contract of service, not independent contractors of Emanet Services. Despite the absence of formal appointment letters, the court relied on documentary evidence including a testimonial (Exh. G), payroll records (Exh. A), and a dismissal letter (Exh. B) to confirm the employment relationship. Applying the Ready Mixed Concrete test, the court found that the appellants exercised control over the respondents, remunerated them directly, and subjected them to company rules. The dismissal was ruled wrongful because the company failed to justify the termination or allow the respondents to respond to allegations of negligence. The appeal was dismissed, affirming the award of damages for wrongful dismissal.",
+  "legalKeywords": [
+    "wrongful dismissal",
+    "contract of service",
+    "employee vs independent contractor",
+    "control test",
+    "employment relationship",
+    "burden of proof",
+    "testimonial as evidence",
+    "summary dismissal",
+    "security personnel",
+    "payroll records",
+    "workplace negligence",
+    "dismissal justification",
+    "documentary evidence",
+    "witness credibility",
+    "prior inconsistent statement"
+  ],
+  "topics": [
+    "Employment Status",
+    "Wrongful Dismissal",
+    "Contract of Service",
+    "Burden of Proof",
+    "Documentary Evidence"
+  ],
+  "verdict": "Appeal dismissed; respondents' status as employees confirmed and dismissal ruled wrongful.",
+  "winningSide": "Plaintiffs/Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Wood (Mrs.) JA",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Omari-Sasu JA",
+      "role": "Justice"
+    },
+    {
+      "name": "Rose Owusu JA",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Employment Law / Wrongful Dismissal",
+  "citations": [
+    "BERNARD KOJO MENSAH & ANOR v. BILTON BOGOSO GOLD LIMITED [30/05/2002] CA/NO. 193/2000",
+    "Ready Mixed Concrete v. Minister of Pensions and National Insurance (1968) 2 Q.B. 515",
+    "Argent v. Minister of Social Security (1968) 3 ALL E.R. 208",
+    "Global Plant Ltd. v. Secretary of State for Health and Social Security (1972) 1 Q.B. 139",
+    "Construction Training Board v. Labour Force Ltd. (1973) 3 AII E.R. 220",
+    "Asia v. VA Yeduvor and Another (1987-88) 1 GLR 175",
+    "Majo Lagbe v. Larbei",
+    "Zabrama Segbezi (1991) 2 GLR 221",
+    "Nartey v. Botwe (1989-90) 1 GLR"
+  ],
+  "rationaleHighlights": [
+    "The court applied the Ready Mixed Concrete test for determining a contract of service, focusing on remuneration, control, and consistency with employment.",
+    "Documentary evidence such as payroll records (Exh. A), testimonial (Exh. G), and dismissal letter (Exh. B) were pivotal in establishing employment status.",
+    "The employer failed to produce Emanet Services to corroborate their claim that respondents were independent contractors.",
+    "The testimonial issued by the company stating the plaintiff was employed directly was found credible despite attempts to discredit it.",
+    "Dismissal was deemed wrongful due to lack of justification and failure to allow respondents to respond to allegations of negligence."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and documentary evidence cited in the judgment.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/BERNARD KOJO MENSAH & ANOR v. BILTON BOGOSO GOLD LIMITED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:42:39.423Z",
+    "plainTextLength": 17918
+  },
+  "trialDate": "2002-05-30"
+}

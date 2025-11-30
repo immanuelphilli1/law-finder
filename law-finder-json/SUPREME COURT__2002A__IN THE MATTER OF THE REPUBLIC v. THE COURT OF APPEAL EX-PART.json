@@ -1,0 +1,77 @@
+{
+  "caseTitle": "IN THE MATTER OF THE REPUBLIC : PLAINTIFF VRS",
+  "summary": "The Ghanaian Supreme Court reviewed a decision by the Court of Appeal that nullified a High Court judgment due to the trial judge's failure to formally record the judgment in the Record Book after the defendant bank submitted to judgment on a pension claim. The Supreme Court held that the 'Judgment After Trial' filed by the plaintiffs, which was not contested and acted upon by all parties, constituted sufficient evidence that judgment had been pronounced. It ruled that the omission to record the judgment in the Record Book was a mere procedural irregularity, not a jurisdictional defect, and that the Court of Appeal erred in quashing all subsequent proceedings. The Court emphasized that under Order 36 r.24 of L.N. 140A, a judge need only 'direct' judgment, not personally enter it, and that the Court of Appeal should have used its powers under Rules 31 and 32 to rectify the defect rather than remit the case for a retrial. The Supreme Court quashed the Court of Appeal's decision and restored the validity of the original judgment and all consequent processes.",
+  "legalKeywords": [
+    "certiorari",
+    "mandamus",
+    "judgment",
+    "submission to judgment",
+    "record of proceedings",
+    "judicial review",
+    "procedural irregularity",
+    "functus officio",
+    "estoppel",
+    "pension rights",
+    "interpretation of judgment",
+    "Court of Appeal Rules",
+    "High Court Rules",
+    "evidence decree",
+    "presumption of regularity"
+  ],
+  "topics": [
+    "Judicial Procedure",
+    "Pension Rights",
+    "Procedural Irregularity",
+    "Judicial Review",
+    "Supreme Court Jurisprudence"
+  ],
+  "verdict": "The Supreme Court granted the application for certiorari, quashing the decision of the Court of Appeal, and held that the omission to record the judgment in the Record Book did not invalidate the 'Judgment After Trial' or subsequent proceedings.",
+  "winningSide": "Ghana Commercial Bank Pensioners Association (Applicant)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Afreh, J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Bamford-Addo, J.S.C."
+    },
+    {
+      "name": "Kpegah, J.S.C."
+    },
+    {
+      "name": "Adjahben, J.S.C."
+    },
+    {
+      "name": "Atuguba, J.S.C."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional and Judicial Review",
+  "citations": [
+    "Republic v. Court of Appeal, Ex-Parte Ghana Commercial Bank Pensioners Association (2002)",
+    "Holtby v. Hodgson (1889) 24 Q.B.D 103",
+    "Millensted v. Grosvenor House (Park Lane) Ltd [1937] 1 K.B 717",
+    "Court of Appeal Rules 1997 (C.I.19), Rules 31 and 32",
+    "High Court (Civil Procedure) Rules, 1996 (L.N. 140A), Order 36 r.24, Order 41 r.1",
+    "Evidence Decree, 1975 (NRCD 323), s. 37"
+  ],
+  "rationaleHighlights": [
+    "The absence of a recorded judgment in the Record Book is a procedural irregularity, not a nullity.",
+    "A 'Judgment After Trial' validly entered constitutes strong evidence that judgment was pronounced.",
+    "The Court of Appeal erred in treating the omission to record the judgment as voiding all subsequent proceedings.",
+    "The Supreme Court emphasized that judges need only 'direct' judgment, not personally enter it.",
+    "The Court of Appeal failed to exercise its powers under Rules 31 and 32 to cure the defect."
+  ],
+  "confidenceNotes": "The case is well-documented with clear procedural history and authoritative citations. The Supreme Court's reasoning is based on established principles of civil procedure and judicial record-keeping.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2002A/IN THE MATTER OF THE REPUBLIC v. THE COURT OF APPEAL EX-PART.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:40:12.921Z",
+    "plainTextLength": 15792
+  },
+  "trialDate": "2002-05-29"
+}

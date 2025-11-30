@@ -1,0 +1,73 @@
+{
+  "caseTitle": "FRANCIS YANKEY v. KOFI YANKEY & OR.",
+  "summary": "This is a civil appeal from the Circuit Court, Takoradi, concerning a dispute over ownership and possession of House Number 93/1, Kojokrom. The plaintiffs, siblings of the defendant, claimed the property was built for the second plaintiff as a gift from their stepfather, Nana Panyin Ye Na, in recognition of her service, with the first plaintiff constructing it. The defendant claimed he purchased the land in 1950 and built the house himself, allowing the first plaintiff to reside as a licensee. The trial court found in favor of the plaintiffs, awarding recovery of the house and rent arrears. On appeal, the defendant challenged the judgment on multiple grounds, including the first plaintiff's capacity to sue, the joinder of the second plaintiff, and the evaluation of evidence. The Court of Appeal upheld the trial court's decision, ruling that the second plaintiff was properly joined under Order 15 rule 6 of LI 1129 to protect her legal interest, and that the issue of capacity was raised too late for the defendant to challenge. The court found the evidence, particularly the testimony of the linguist (PW1), credible in supporting the gift and purpose of the property. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "capacity to sue",
+    "joinder of parties",
+    "gift of land",
+    "recovery of property",
+    "perpetual injunction",
+    "rent arrears",
+    "interpleader summons",
+    "misjoinder",
+    "non-joinder",
+    "legal interest in land",
+    "traditional gift",
+    "libation",
+    "linguist testimony",
+    "burden of proof",
+    "evaluation of evidence"
+  ],
+  "topics": [
+    "Property Law",
+    "Family Dispute",
+    "Gift of Land",
+    "Civil Procedure",
+    "Evidence Law"
+  ],
+  "verdict": "Appeal dismissed; trial court judgment affirmed.",
+  "winningSide": "Plaintiffs (Kofi Yankey & Others)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "F. M. Lartey",
+      "role": "Presiding Justice of Appeal"
+    },
+    {
+      "name": "J. Ansa",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Addo",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Sarkodee I vs. Boateng II (1982-83) G.L.R 715",
+    "Chapman vs. Ocloo & Another (1957) WALR 84",
+    "Sokpui II & others v Tay Agbozo III & others (1951) 13 WACA, 241",
+    "Gurtner v. Circuit & Anor [1968] 2 Q.B. 587",
+    "Amon vs. Raphael Tuck & Sons Limited (1956) 1 Q.B. 357",
+    "Aegis Shipping Co. Ltd (1973) 1 GLR 438"
+  ],
+  "rationaleHighlights": [
+    "The second plaintiff was properly joined to protect her legal rights, under Order 15 rule 6 of LI 1129.",
+    "The issue of the first plaintiff's capacity was raised too late, denying him opportunity to prove it.",
+    "PW1's testimony as linguist supported the gift of the plot by the chief for the second plaintiff's benefit.",
+    "Defendant failed to produce evidence of ownership or prior documentation despite long possession claims.",
+    "The trial judge properly evaluated evidence and dismissed the counterclaim."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed court judgment with clear procedural and evidentiary analysis.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/FRANCIS YANKEY v. KOFI YANKEY & OR..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:33:54.514Z",
+    "plainTextLength": 13024
+  },
+  "trialDate": "2004-02-29"
+}

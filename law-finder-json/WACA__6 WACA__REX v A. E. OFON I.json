@@ -1,0 +1,64 @@
+{
+  "caseTitle": "REX v A. E. OFON I",
+  "summary": "The appellant, A. E. Ofon I, was the manager of the Asaba branch of the United Africa Co. Ltd., responsible for cash, stock, and accounting. He was convicted on ten counts including stealing, obtaining money by false pretences, and fraudulent false accounting under the Criminal Code. The West Africa Court of Appeal upheld most convictions but quashed those on count 1 (stealing a general deficiency of \u0001304 19s. 11d.) and count 10 (stealing \u000114 9s. 2d. from Onochie). The court held that a general cash shortage without proof of specific misappropriation was insufficient for conviction under s.390(6). Additionally, the conviction for stealing from Onochie was inconsistent with the conviction for false accounting regarding the same transaction involving \u000133 9s. 2d., of which \u000114 9s. 2d. was a part. The appellant's false assertion that he had paid the palm oil owners was deemed evidence of intent to defraud, supporting the false pretences conviction. The appeal was allowed on counts 1 and 10, resulting in acquittals; the remaining eight convictions were upheld.",
+  "legalKeywords": [
+    "stealing by clerk or servant",
+    "false pretences",
+    "fraudulent false accounting",
+    "intent to defraud",
+    "inconsistent verdicts",
+    "criminal code",
+    "general deficiency in cash",
+    "omission from cash book",
+    "amendment of charge",
+    "acquittal"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Theft",
+    "Fraud",
+    "Accounting Fraud",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed on counts 1 and 10; convictions quashed and acquittals entered. Remaining convictions upheld.",
+  "winningSide": "Partial victory for appellant; prosecution successful on eight counts",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Lloyd Jones, 8 C. & P. 288",
+    "R. v. Wolstenholme, 11 Cox 313"
+  ],
+  "rationaleHighlights": [
+    "General deficiency not sufficient to prove specific theft under s.390(6).",
+    "Conviction for stealing from Onochie inconsistent with conviction for false accounting on same sum.",
+    "Appellant's false claim of payment provided evidence of intent to defraud.",
+    "IOU issued to Onochie does not alter legal characterization of the funds.",
+    "Trial judge's factual findings on false accounting upheld based on evidence."
+  ],
+  "confidenceNotes": "High confidence in extraction; all details are explicitly stated in the judgment with clear legal reasoning and factual findings.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/REX v A. E. OFON I.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:57:54.269Z",
+    "plainTextLength": 7188
+  },
+  "trialDate": "1940-01-16"
+}

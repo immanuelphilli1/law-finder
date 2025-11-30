@@ -1,0 +1,41 @@
+{
+  "caseTitle": "ABlBA ALl v ALJHAJI MAMA ALl",
+  "summary": "The provided document does not contain a full legal decision or judgment but appears to be a webpage index listing cases from the West African Court of Appeal (WACA), specifically referencing case titles and a legal resource platform called 'Ghana Law Finder'. There is no detailed factual background, legal reasoning, or judicial analysis available in the excerpt to derive a substantive summary of any specific case. The content serves as a navigational tool for legal research with links or references to case names and administrative information.",
+  "legalKeywords": [
+    "West African Court of Appeal",
+    "Ghana Law Finder",
+    "case index",
+    "legal research",
+    "appellate jurisdiction",
+    "colonial case law",
+    "Nigerian cases",
+    "judicial precedent",
+    "case citation",
+    "legal database"
+  ],
+  "topics": [
+    "Legal Research",
+    "Case Indexing",
+    "Appellate Court"
+  ],
+  "verdict": "unknown",
+  "winningSide": "unknown",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "unknown",
+  "citations": [
+    "WACA/8"
+  ],
+  "rationaleHighlights": [],
+  "confidenceNotes": "Low confidence in deriving case-specific insights due to absence of full judgment text; metadata extracted from navigational/index content only.",
+  "metadata": {
+    "sourcePath": "WACA/8 waca.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T09:54:21.809Z",
+    "plainTextLength": 737
+  }
+}

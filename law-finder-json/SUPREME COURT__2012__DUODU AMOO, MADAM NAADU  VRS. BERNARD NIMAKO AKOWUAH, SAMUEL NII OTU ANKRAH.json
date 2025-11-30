@@ -1,0 +1,77 @@
+{
+  "caseTitle": "DUODU AMOO, MADAM NAADU VRS. BERNARD NIMAKO AKOWUAH, SAMUEL NII OTU ANKRAH",
+  "summary": "This Supreme Court of Ghana case centered on the validity of a property sale conducted under a writ of execution to satisfy a judgment debt. The appellants, Bernard Nimako Akowuah and Samuel Nii Otu Ankrah, challenged the lower courts' rulings that voided the auction sale of property (H/No B182/12, Odorkor, Accra) owned by Adjin Okwabi, the late father of respondent Madam Naadu. The core issue was whether the judgment debt owed by Joshua Kpakpo Allotey (nephew of Adjin Okwabi and cousin of the respondent) had been fully paid before the execution and sale. The trial court and Court of Appeal found that the debt was paid in full by January 31, 1989, rendering the subsequent sale on June 12, 1989, void. The Supreme Court affirmed this, citing Karimu v Ghassoub, holding that once a judgment debt is paid, the legal basis for execution ceases. Additionally, the courts found serious irregularities in the bail bond documentation (Exhibit F2), where Adjin Okwabi’s name was substituted for an original surety without proper execution (lacking his thumbprint as an illiterate), making the suretyship unenforceable. The Supreme Court upheld the lower courts’ findings, dismissing the appeal and affirming that the sale was void and conferred no title to the purchaser.",
+  "legalKeywords": [
+    "execution of judgment",
+    "void sale",
+    "surety liability",
+    "bail bond irregularities",
+    "payment of judgment debt",
+    "bona fide purchaser",
+    "illiterate execution",
+    "amended entry of judgment",
+    "concurrent findings",
+    "writ of fi.fa",
+    "property auction",
+    "judicial process irregularity"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Property Law",
+    "Contract Law",
+    "Judicial Enforcement"
+  ],
+  "verdict": "The Supreme Court dismissed the appeal, affirming the lower courts' decisions that the auction sale was void due to full prior payment of the judgment debt and irregularities in the bail bond documentation. The respondent's title to the property was upheld.",
+  "winningSide": "Plaintiffs/Respondents (Duodu Amoo and Madam Naadu)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Anin Yeboah",
+      "role": "Presiding Justice delivering judgment"
+    },
+    {
+      "name": "Wood (Mrs.)",
+      "role": "Chief Justice, Presiding"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice, Supreme Court"
+    },
+    {
+      "name": "Owusu (Ms.)",
+      "role": "Justice, Supreme Court"
+    },
+    {
+      "name": "Bonnie",
+      "role": "Justice, Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Karimu v Ghassoub [1970] CC 104 CA",
+    "Achoro v Akanfela [1996–7] SCGLR 209",
+    "Obrasiwa II & Ors v Otu & Ors [1996–7] SCGLR 618",
+    "Kwabena v Aninkora & Or [1964] GLR 299 SC",
+    "Zabrama v Segbedzi [1991] 2 GLR 221 CA",
+    "Boakyem v Ansah [1963] 2 GLR 223",
+    "Waya v Byrouthy [1958] 3 WALR 413"
+  ],
+  "rationaleHighlights": [
+    "Full payment of judgment debt before auction renders execution void ab initio.",
+    "Serious irregularities in bail bond execution (altered names, missing thumbprint) invalidate surety liability.",
+    "An illiterate's assent to a document requires proof it was read and interpreted in their language.",
+    "Concurrent factual findings by lower courts are binding unless demonstrably unsupported by evidence.",
+    "A purchaser cannot acquire title through execution on a debt already satisfied."
+  ],
+  "confidenceNotes": "The summary and extractions are based on a complete analysis of the provided judgment text. All cited cases and legal principles are directly referenced in the judgment. The confidence in the accuracy of the extracted information is high, as the source document is a formal judicial decision with clear reasoning and citations.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/DUODU AMOO, MADAM NAADU  VRS. BERNARD NIMAKO AKOWUAH, SAMUEL NII OTU ANKRAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:33:46.021Z",
+    "plainTextLength": 18487
+  }
+}

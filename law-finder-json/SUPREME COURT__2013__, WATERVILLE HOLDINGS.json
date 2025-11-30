@@ -1,0 +1,93 @@
+{
+  "caseTitle": ", WATERVILLE HOLDINGS",
+  "summary": "This Supreme Court of Ghana case arose from the government's failed procurement process for rehabilitating football stadia ahead of the 2008 African Cup of Nations. Waterville Holdings (BVI) Ltd, having been assigned rights by Vamed Engineering, entered into agreements with the Government of Ghana in April 2006 for the rehabilitation of Ohene Djan, El Wak, and Baba Yara stadia. However, these contracts contained conditions precedent—such as cabinet and parliamentary approval under Article 181(5) of the Constitution and establishment of an escrow account—that were never fulfilled, rendering the contracts ineffective. Despite this, the government allowed Waterville access to sites, where it performed demolition and site clearance. The government later terminated the agreements and transferred work to subcontractors, who compensated Waterville for certified work. Waterville then claimed additional pre-financing costs directly from the government. A third party, Alfred Woyome, claimed entitlement to compensation despite not being a contracting party. The court examined issues of contract formation, assignment, locus standi, and compliance with constitutional financial procedures.",
+  "legalKeywords": [
+    "contract formation",
+    "conditions precedent",
+    "assignment of rights",
+    "public procurement",
+    "government contracts",
+    "termination of contract",
+    "restitution",
+    "locus standi",
+    "cabinet approval",
+    "parliamentary approval",
+    "pre-contractual obligations",
+    "damages for breach",
+    "third-party claims",
+    "legal opinion",
+    "escrow account"
+  ],
+  "topics": [
+    "Government Contracts",
+    "Public Procurement",
+    "Contract Law",
+    "Constitutional Law",
+    "Restitution"
+  ],
+  "verdict": "The court held that the contracts were not legally enforceable due to unmet conditions precedent, particularly the absence of cabinet and parliamentary approval as required by Article 181(5) of the Constitution. While Waterville was entitled to compensation for work executed and certified by BIC, its broader claims for pre-financing costs failed due to the inchoate nature of the agreement. Third-party claims by Alfred Woyome were dismissed for lack of locus standi.",
+  "winningSide": "Attorney General (Government of Ghana)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah JSC",
+      "role": "Presiding"
+    },
+    {
+      "name": "Ansa JSC",
+      "role": "Member"
+    },
+    {
+      "name": "Adinyira (Mrs) JSC",
+      "role": "Member"
+    },
+    {
+      "name": "Owusu (Ms) JSC",
+      "role": "Member"
+    },
+    {
+      "name": "Dotse JSC",
+      "role": "Member"
+    },
+    {
+      "name": "Anin Yeboah JSC",
+      "role": "Member"
+    },
+    {
+      "name": "Baffoe-Bonnie JSC",
+      "role": "Member"
+    },
+    {
+      "name": "Gbadebe JSC",
+      "role": "Member"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs) JSC",
+      "role": "Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "contract dispute",
+  "citations": [
+    "SUPREME COURT/2013/WATERVILLE HOLDINGS.htm",
+    "Public Procurement Act, 2003 (Act 663)",
+    "Article 181(5), Constitution of Ghana"
+  ],
+  "rationaleHighlights": [
+    "The contracts did not become effective due to non-fulfillment of conditions precedent under Clause 17, including lack of cabinet and parliamentary approval.",
+    "Government's payment via restitution bypassed constitutional requirements under Article 181(5).",
+    "Third-party claim by Alfred Woyome lacked locus standi as he was not a party to the contract.",
+    "Work executed before termination was valued and compensated through subcontractors.",
+    "Purported assignment from Vamed to Waterville raised questions about legitimacy of second defendant's standing."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear references to contracts, letters, and legal provisions.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/, WATERVILLE HOLDINGS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:18:50.807Z",
+    "plainTextLength": 100082
+  }
+}

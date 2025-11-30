@@ -1,0 +1,55 @@
+{
+  "caseTitle": "CHIEF SUPERINTENDENT OF POLICE VERSUS CAMARA.",
+  "summary": "The appellant, convicted of cattle theft in the Magistrate's Court of the Western Division of the Gambia, was sentenced to six months' imprisonment with hard labour and recommended for deportation as an alien under the Deportation (Aliens) Ordinance. On appeal, the High Court upheld the conviction due to sufficient evidence, including eyewitness identification and the appellant's prior convictions. However, the court set aside the recommendation for deportation because the prosecution failed to allege or prove the appellant's status as an alien, which is a legal requirement under the Ordinance unless admitted by the accused. The Chief Justice reiterated that alien status must be formally addressed during trial if deportation is sought.",
+  "legalKeywords": [
+    "deportation",
+    "alien status",
+    "criminal conviction",
+    "cattle theft",
+    "recommendation for deportation",
+    "evidence requirement",
+    "prosecution burden",
+    "immigration law",
+    "criminal procedure",
+    "West Africa"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Immigration",
+    "Deportation",
+    "Evidence",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal against conviction and sentence dismissed; recommendation for deportation set aside.",
+  "winningSide": "Appellant on the issue of deportation",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Miles C.J.",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court of the Protectorate of the Gambia",
+    "country": "Gambia"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Deportation (Aliens) Ordinance, c. 59",
+    "Repatriation of Convicted Aliens Ordinance, 1949, s. 24",
+    "Criminal Code, ss. 252, 255"
+  ],
+  "rationaleHighlights": [
+    "Alien status must be alleged and proven unless admitted.",
+    "No evidence was presented on the appellant's alien status.",
+    "Recommendation for deportation set aside due to lack of evidence.",
+    "Conviction upheld based on eyewitness identification and prior record."
+  ],
+  "confidenceNotes": "High confidence; facts and legal reasoning are clearly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/CHIEF SUPERINTENDENT OF POLICE v. CAMARA..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:38:43.808Z",
+    "plainTextLength": 3629
+  }
+}

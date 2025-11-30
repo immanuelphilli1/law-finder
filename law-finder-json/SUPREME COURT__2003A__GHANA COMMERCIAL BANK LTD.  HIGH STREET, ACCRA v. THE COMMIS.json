@@ -1,0 +1,74 @@
+{
+  "caseTitle": "GHANA COMMERCIAL BANK LTD. HIGH STREET, ACCRA v. THE COMMIS",
+  "summary": "The Supreme Court of Ghana upheld the enforcement of a CHRAJ decision that found the Ghana Commercial Bank's termination of a manager's employment to be discriminatory and a violation of fundamental human rights under Article 17 of the 1992 Constitution. The manager was dismissed for granting a loan without authorization, while others who approved larger unauthorized loans faced no consequences. The Court held that such disparate treatment constituted discrimination, violating the constitutional right to equality. It affirmed that CHRAJ has jurisdiction over such complaints in private enterprises when fundamental rights are at issue, and that constitutional principles override common law contract doctrines. The Bank's appeal, which challenged the legality and enforceability of CHRAJ's decision, was dismissed.",
+  "legalKeywords": [
+    "discrimination",
+    "fundamental human rights",
+    "termination of employment",
+    "CHRAJ",
+    "constitutional interpretation",
+    "unfair treatment",
+    "enforcement of CHRAJ decision",
+    "equal protection",
+    "violation of Article 17",
+    "right to fair labor practices"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Employment Law",
+    "Human Rights",
+    "Administrative Justice",
+    "Discrimination"
+  ],
+  "verdict": "Appeal dismissed; enforcement of CHRAJ's decision upheld.",
+  "winningSide": "Commissioner for Human Rights and Administrative Justice (CHRAJ)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Brobbey, J.S.C.",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Ampiah, J.S.C.",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "panel member"
+    },
+    {
+      "name": "Mrs. Wood, J.S.C.",
+      "role": "panel member"
+    },
+    {
+      "name": "Baddoo, J.S.C.",
+      "role": "panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Bannerman-Menson v. Ghana Employers Association [1996-97] SGLR 417",
+    "Bank of Ghana v. Nyarko 1973 2 GLR 275, CA",
+    "Aryee v. State Construction Corporation 1984 1 GLR 424, CA",
+    "Tsatsu Tsikata v. The Attorney General"
+  ],
+  "rationaleHighlights": [
+    "CHRAJ has constitutional authority under Article 216 and 218 to investigate human rights violations, including in private enterprises.",
+    "Termination of employment was discriminatory under Article 17 due to inconsistent application of bank rules.",
+    "Statutory human rights principles prevail over common law contract principles in constitutional matters.",
+    "Failure to explain differential treatment supports inference of discrimination.",
+    "CHRAJ's enforcement of its decision is valid when grounded in constitutional human rights violations."
+  ],
+  "confidenceNotes": "The truncated nature of the document affects completeness, but core reasoning and outcome are intact.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2003A/GHANA COMMERCIAL BANK LTD.  HIGH STREET, ACCRA v. THE COMMIS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:36:44.974Z",
+    "plainTextLength": 59681
+  },
+  "trialDate": "29TH JANUARY, 2003"
+}

@@ -1,0 +1,76 @@
+{
+  "caseTitle": "BOAKYE v. ANANE ASARE",
+  "summary": "This Court of Appeal case involves Kwame Boakye (respondent) and Anane Asare (appellant), concerning a land dispute where the parties reached an arbitration-based settlement during a pending appeal. Despite agreeing to discontinue the appeal, Asare proceeded without informing the court or Boakye, obtained a favorable judgment, and later harvested Boakye’s crops. The trial court found fraud but declined to set aside the appellate judgment, citing precedent requiring fraud directly on the court. The Court of Appeal reversed, holding that non-disclosure of the compromise constituted fraud on both the opposing party and the court, warranting setting aside the original appellate decision under principles from Barclays Bank DCO v Heward-Mills (1964 GLR 332). The appeal was allowed, emphasizing public policy favoring dispute settlement and judicial integrity.",
+  "legalKeywords": [
+    "fraud on the court",
+    "arbitration",
+    "compromise agreement",
+    "settlement",
+    "abuse of process",
+    "concealment",
+    "estoppel",
+    "default judgment",
+    "judicial integrity",
+    "public policy",
+    "dispute resolution",
+    "Court of Appeal",
+    "High Court",
+    "land dispute",
+    "non-disclosure",
+    "contract breach",
+    "equity",
+    "procedural fairness",
+    "judgment setting aside",
+    "cocoa crops"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Fraud",
+    "Land Law"
+  ],
+  "verdict": "The Court of Appeal allowed the appeal, finding that the original judgment was obtained by fraud due to non-disclosure of a binding settlement. The prior appellate decision in favor of the respondent was set aside.",
+  "winningSide": "Defendant/Appellant (Anane Asare)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "G. T. Wood (Mrs.)",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "D. K. Afreh",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "S. A. Brobbey",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "Barclays Bank DCO v Heward-Mills [1964] GLR 332",
+    "Thorme v Smith [1947] K.B. 307",
+    "Gbadago v Tsili (1955) 2 WALR II",
+    "Awuah v Adututu and Another [1987-88] 2 G.L.R. 191"
+  ],
+  "rationaleHighlights": [
+    "Non-disclosure of a binding compromise during a pending appeal constitutes fraud on the court.",
+    "Judgments obtained through concealment of material facts, even without false evidence, can be set aside.",
+    "Public policy supports enforcement of settlements and discourages abuse of legal process.",
+    "A party breaching a settlement agreement by pursuing litigation acts contrary to equity and contract principles.",
+    "Courts should not allow their processes to be used to perpetrate illegality or breach of contract.",
+    "Estoppel arises when a party voluntarily relinquishes a claim through arbitration or settlement.",
+    "Fraudulent conduct includes misleading the court by omission, not only by affirmative misrepresentation.",
+    "The Court of Appeal recognized its earlier dismissal of a fraud application did not bar subsequent civil remedies."
+  ],
+  "confidenceNotes": "All factual and legal details are directly derived from the judgment text. Citations and judicial reasoning are accurately reflected. The outcome and rationale are clearly stated in the justices' opinions.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/KWAME BOAKYE v. ANANE ASARE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:22:03.551Z",
+    "plainTextLength": 13550
+  }
+}

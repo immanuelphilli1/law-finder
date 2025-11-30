@@ -1,0 +1,73 @@
+{
+  "caseTitle": "ADJETEY AGBOSU AND 5 ORS. v. EBENEZER NIKOI KOTEI & ORS.",
+  "summary": "This Court of Appeal judgment from Ghana, delivered on 30th May 2002 in case CA 137/2000, involved a land dispute between the Adjetey Agbosu and Okpalor Sowah Din families (plaintiffs/respondents) and Ebenezer Nikoi Kotey, representing the Ashaley Botwe Family (defendant/appellant). The plaintiffs challenged the validity of a 1976 Statutory Declaration (AC4345/76, reg. 761/77) registered by the Ashaley Botwe Family, claiming it encroached on their ancestral lands. The High Court had ruled in favor of the plaintiffs, granting declarations of title, cancellation of the declaration, and injunctions. On appeal, the Court of Appeal overturned the decision primarily due to the plaintiffs’ lack of legal capacity to sue. The plaintiffs, who claimed to be principal elders or family heads, failed to prove their authority or headship, especially after a late amendment to their pleadings post-trial. Additionally, they did not present a surveyor’s plan to demarcate the specific land in dispute, undermining their claim. The appellate court held that the trial judge erred in allowing the amendment and in failing to rule on the capacity issue, ultimately dismissing the appeal and setting aside the High Court’s judgment.",
+  "legalKeywords": [
+    "capacity to sue",
+    "locus standi",
+    "family property",
+    "statutory declaration",
+    "land encroachment",
+    "head of family",
+    "representative capacity",
+    "amendment of pleadings",
+    "burden of proof",
+    "oral evidence",
+    "surveyor's plan",
+    "demarcation of land",
+    "trespass to land",
+    "injunction",
+    "declaration of title",
+    "procedural injustice",
+    "bona fides",
+    "judicial discretion",
+    "civil procedure",
+    "land registration"
+  ],
+  "topics": [
+    "Land Law",
+    "Family Law",
+    "Civil Procedure",
+    "Appellate Review",
+    "Property Rights"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendant/Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Essilfie-Bondzie, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Farkye, J.A."
+    },
+    {
+      "name": "Ansa, J.A."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "KWAN vrs NYIENI AND ANOTHER (1959) G.L.R. 67CA",
+    "Chapman Vrs Ocloo and Kporhanu (1957) 3.W.A.L.R. 84",
+    "YORMENU Vrs AWUTE and OTHERS (1987-88) G.L.R. 9"
+  ],
+  "rationaleHighlights": [
+    "Plaintiffs lacked capacity to sue as they failed to prove headship or express family authority.",
+    "Late amendment to pleadings after close of evidence was an injustice and failed to cure defect.",
+    "No surveyor’s plan was presented to demarcate the claimed land, undermining specificity of claim.",
+    "Trial judge erred in not addressing the capacity issue in the judgment.",
+    "Family property claims generally require action by the head of family unless in jeopardy and head refuses to act."
+  ],
+  "confidenceNotes": "High confidence; information is directly extracted from the judgment text with clear citations and procedural details provided.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/ADJETEY AGBOSU AND 5 ORS. v. EBENEZER NIKOI KOTEI & ORS.1.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:47:35.494Z",
+    "plainTextLength": 46839
+  },
+  "trialDate": "2002-05-30"
+}

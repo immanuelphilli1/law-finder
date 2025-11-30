@@ -1,0 +1,89 @@
+{
+  "caseTitle": "KWABENA ADDO v ADWOA ANYOWUO & 2 ORS",
+  "summary": "The case of Kwabena Addo v Adwoa Anyowuo & 2 Ors involved a dispute over ownership of House No. C325/15 Alajo, Accra. The plaintiff claimed the property was gifted to him by his late uncle, S.K. Opoku, and that he financed its construction. The defendants, S.K. Opoku’s widow and daughters, counterclaimed that the house was self-acquired property of the deceased and passed to them upon his death. The High Court initially ruled for the defendants, but the Court of Appeal reversed the decision. The Supreme Court, noting missing records affecting the evidence, ultimately upheld the Court of Appeal’s judgment, emphasizing that the plaintiff proved his case on the strength of his own evidence, consistent with the standard of proof in land title cases. The court also addressed the applicability of PNDC Law 111 on intestate succession under matrilineal systems.",
+  "legalKeywords": [
+    "declaration of title",
+    "recovery of possession",
+    "burden of proof",
+    "standard of proof",
+    "matrilineal inheritance",
+    "PNDC Law 111",
+    "trespas",
+    "perpetual injunction",
+    "appellate review",
+    "evidence evaluation",
+    "corroboration",
+    "land ownership",
+    "succession",
+    "civil procedure",
+    "counterclaim",
+    "witness credibility",
+    "inherited property",
+    "property dispute",
+    "judicial scrutiny",
+    "re-hearing on appeal"
+  ],
+  "topics": [
+    "Land Law",
+    "Succession Law",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Family Property Dispute"
+  ],
+  "verdict": "The Supreme Court upheld the Court of Appeal's decision in favor of the plaintiff, Kwabena Addo.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Twum",
+      "role": "Delivered leading judgment"
+    },
+    {
+      "name": "Mrs. Wood",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "Prof. Ocran",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Nkrumah v. Ataa (1972) 2 GLR 13",
+    "Kodilinye v. Mbanefo Odu (1935) 2 WACA 336",
+    "Banga vrs Djanie (1989-90) 1 GLR 510",
+    "Ricket v. Addo (1975) 2 GLR 158",
+    "Moses and others v. Anane (1989-90) 2 GLR 660",
+    "In re Garnett; Gandy v. Macauley (1885) 31 Ch.D 1"
+  ],
+  "rationaleHighlights": [
+    "The plaintiff succeeded on the strength of his own case, not the weakness of the defendant's.",
+    "The standard of proof in land title cases requires a high measure of proof, though not necessarily beyond reasonable doubt.",
+    "The Court of Appeal has the authority to re-evaluate witness credibility on re-hearing.",
+    "Missing records were later supplied and accepted into the record.",
+    "PNDC Law 111 on intestate succession was considered but did not override the plaintiff's proven title.",
+    "Judges must evaluate evidence with an open mind, not 'utmost suspicion'.",
+    "The principle in Kodilinye v. Odu remains central in land title disputes.",
+    "The deceased's relocation to Obo and delegation of supervision supported the plaintiff's control of construction."
+  ],
+  "confidenceNotes": "The summary is based on a partially truncated document, but key holdings, parties, and legal principles are clearly stated in the available text. The outcome and reasoning are confidently derived from the judge's detailed analysis.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2005A/KWABENA ADDO v ADWOA ANYOWUO & 2 ORS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:29:46.832Z",
+    "plainTextLength": 35585
+  },
+  "trialDate": "2005-10-17"
+}

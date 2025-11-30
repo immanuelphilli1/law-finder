@@ -1,0 +1,75 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "In this 1933 West African Court of Appeal case from the Gold Coast (modern-day Ghana), Addo Kofi appealed a decision by the Provincial Commissioner upholding a Native Tribunal's ruling that certain lands known as the Dove lands were pledged, not sold, by the plaintiff's ancestor to the defendant's ancestor in 1869 for 6s. 6d. The Tribunal ordered the land be returned upon repayment of that sum. The defendant argued the land was sold and that a prior 1927 judgment constituted res judicata or estoppel. The Court dismissed the appeal, affirming that under native customary law, a pledge does not expire with time and repayment entitles the pledgor to recovery. It held that concurrent factual findings by the Native Tribunal and Provincial Commissioner were valid and should not be overturned where supported by evidence. The 1927 judgment involved different parties and issues and thus did not create res judicata or estoppel. The Court also ruled that possession alone does not prove sale under customary law, and the absence of evidence on the price tradition (guaha or ntrimma) weakened the sale claim. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "native customary law",
+    "land pledge",
+    "res judicata",
+    "estoppel",
+    "concurrent findings of fact",
+    "sale of land",
+    "recovery of pledged land",
+    "provincial commissioner",
+    "native tribunal",
+    "traditional land tenure",
+    "evidence under customary law",
+    "possession",
+    "cocoa farm rights",
+    "ancestral land rights",
+    "English law vs customary law"
+  ],
+  "topics": [
+    "Customary Law",
+    "Land Law",
+    "Appellate Procedure",
+    "Res Judicata",
+    "Evidence Law"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Plaintiff-Respondent (Agbo Kofi)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Horne, J.",
+      "role": "judge"
+    },
+    {
+      "name": "Macquarrie, J.",
+      "role": "judge"
+    },
+    {
+      "name": "Michelin, Acting C.J.",
+      "role": "chief justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil land dispute",
+  "citations": [
+    "Redwar",
+    "Sarbah",
+    "Halsbury Vol. 13, p. 330, para. 463",
+    "Yao Kofi v. Agbo Kofi (1927)",
+    "West African Court of Appeal decision of 20 June 1930"
+  ],
+  "rationaleHighlights": [
+    "Pledge of land under native customary law does not lapse over time; repayment entitles pledgor to recovery.",
+    "Concurrent findings of fact by Native Tribunal and Provincial Commissioner, if supported by evidence, should not be disturbed.",
+    "Judgment in earlier case (1927) does not establish res judicata or estoppel due to differing parties and issues.",
+    "Possession alone insufficient to prove sale under customary law.",
+    "English law principles not binding where native customary law applies.",
+    "Rejection of prior tribunal evidence was unnecessary but not prejudicial to outcome.",
+    "No compelling evidence of sale; tradition of price not established.",
+    "Order for amicable settlement of defendant's cocoa farm rights upheld."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct judicial reasoning and citation of authorities; some minor OCR issues (e.g., 'os. 6d', 'judgmel1t') do not affect core holdings.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/ADDO KOFI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:53:22.026Z",
+    "plainTextLength": 8570
+  },
+  "trialDate": "1933-05-23"
+}

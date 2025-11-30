@@ -1,0 +1,90 @@
+{
+  "caseTitle": "OPANIN KWABENA BOAKYE v. FRANCIS MANU",
+  "summary": "The Supreme Court of Ghana dismissed an application for review filed by Opanin Kwabena Boakye against Francis Manu, holding that the application did not meet the required threshold for review jurisdiction. The Court emphasized that review is not an appeal and is only permissible under exceptional circumstances demonstrating a miscarriage of justice. The issues raised were found to be a rehash of those previously considered by the Ordinary Bench, with no new grounds warranting review. All justices concurred with the dismissal.",
+  "legalKeywords": [
+    "review jurisdiction",
+    "miscarriage of justice",
+    "Supreme Court Rules 1996",
+    "C.I.16 Rule 54",
+    "judicial precedent",
+    "application for review",
+    "exceptional circumstances",
+    "rehash of arguments",
+    "judicial discretion",
+    "concurring opinion",
+    "Ghanaian jurisprudence",
+    "superior court procedure",
+    "finality of judgment",
+    "legal standing",
+    "judicial consistency",
+    "court procedure",
+    "appellate standards",
+    "judicial economy",
+    "legal merit",
+    "judicial reasoning"
+  ],
+  "topics": [
+    "Supreme Court Procedure",
+    "Review of Judgment",
+    "Judicial Reasoning",
+    "Ghanaian Civil Litigation"
+  ],
+  "verdict": "dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "E. K. Wiredu",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Mrs. J. Bamford-Addo",
+      "role": "Justice"
+    },
+    {
+      "name": "A.K.B. Ampiah",
+      "role": "Justice"
+    },
+    {
+      "name": "E.D.K. Adjebeng",
+      "role": "Justice"
+    },
+    {
+      "name": "G. K. Acquah",
+      "role": "Justice"
+    },
+    {
+      "name": "W. A. Atuguba",
+      "role": "Justice"
+    },
+    {
+      "name": "S. A. B. Akuffo",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Application for Review",
+  "citations": [
+    "C.I.16 Rule 54"
+  ],
+  "rationaleHighlights": [
+    "Review is not an appeal and limited to exceptional circumstances",
+    "No miscarriage of justice demonstrated",
+    "Raised issues were already considered by the Ordinary Bench",
+    "Arguments were a rehash of prior submissions",
+    "Preference for minority opinion does not justify review",
+    "Finality of judicial decisions must be respected",
+    "Concurrence by all justices affirms procedural correctness"
+  ],
+  "confidenceNotes": "High confidence; all details extracted directly from the ruling text, including judge names, procedural posture, and legal reasoning.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2000A/OPANIN KWABENA BOAKYE v. FRANCIS MANU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:47:05.525Z",
+    "plainTextLength": 3235
+  },
+  "trialDate": "2000-10-18"
+}

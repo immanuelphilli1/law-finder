@@ -1,0 +1,85 @@
+{
+  "caseTitle": "THE REPUBLIC VRS FAST TRACK HIGH COURT, ACCRA EX-PARTE SIAN",
+  "summary": "This Supreme Court of Ghana ruling addressed an application by Sian Goldfields Limited seeking to quash a judgment from the Fast Track High Court, Accra, delivered in favor of Aurex Management and Investment AG/SA Ltd. The core issue stemmed from a prior Court of Appeal decision that nullified an earlier suit due to a defective power of attorney. The applicant argued that the High Court judge violated audi alteram partem, lacked jurisdiction, and improperly proceeded despite a pending stay application at the Court of Appeal. The Supreme Court dismissed the application, holding that the power of attorney in the fresh suit (AC 158/2007) was distinct from the one previously invalidated, thus the trial judge did not overrule the Court of Appeal. It affirmed that declaring proceedings a nullity does not void the writ itself unless jurisdiction is the issue, and that the trial judge’s jurisdiction remained intact as the stay application was not properly brought to the court's attention. The Court emphasized that errors in following precedent are appealable, not grounds for certiorari.",
+  "legalKeywords": [
+    "jurisdiction",
+    "audi alteram partem",
+    "power of attorney",
+    "nullity",
+    "procedural fairness",
+    "supervisory jurisdiction",
+    "stay of proceedings",
+    "Court of Appeal",
+    "estoppel",
+    "fresh writ",
+    "capacity to sue",
+    "procedural irregularity",
+    "binding precedent",
+    "adjournment discretion",
+    "fraud",
+    "locus standi",
+    "constitutional law",
+    "civil procedure",
+    "judicial discretion",
+    "appellate review"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Judicial Review",
+    "Jurisdiction",
+    "Power of Attorney",
+    "Supervisory Jurisdiction"
+  ],
+  "verdict": "The application was dismissed for want of merit.",
+  "winningSide": "Fast Track High Court, Accra (respondent)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Anin Yeboah",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "S. A. Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "J. Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "S. O. A. Adinyira (Mrs)",
+      "role": "Justice"
+    },
+    {
+      "name": "J. V. M. Dotse",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "MAHAMA v SOLI [1976] 2GLR 99",
+    "HAIGGI v COMMONWEALTH HAULAGE [1963] 1GLR 276",
+    "BUABENG v FORKUO & OR [1970] CC 59 CA",
+    "REPUBLIC v HIGH COURT ACCRA, EX PARTE COMMISSIONER FOR HUMAN RIGHTS AND ADMINISTRATIVE JUSTICE [2003-24] SCGLR 312",
+    "REPUBLIC V HIGH COURT, ACCRA EX PARTE INDUSTRIALIZATION FUND FOR DEVELOPING COUNTRIES [2003-2004] SCGLR 348",
+    "BARCLAYS BANK D.C.O V HEWARD-MILLS [1969] CC 132 CA"
+  ],
+  "rationaleHighlights": [
+    "The trial judge did not overrule the Court of Appeal as the power of attorney in the fresh suit was factually different.",
+    "A declaration of proceedings as null and void does not invalidate the writ unless jurisdiction is challenged.",
+    "Failure to follow binding precedent does not equate to lack of jurisdiction but is correctable on appeal.",
+    "The trial judge's jurisdiction was not suspended by a pending stay application not properly communicated to the court."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official Supreme Court ruling with clear judicial reasoning and citation of legal authorities.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/THE REPUBLIC VRS FAST TRACK HIGH COURT, ACCRA EX-PARTE SIAN .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:59:02.929Z",
+    "plainTextLength": 14595
+  },
+  "trialDate": "2009-08-05"
+}

@@ -1,0 +1,64 @@
+{
+  "caseTitle": "DR. VERSUS FRANCIS K. MENSAH AND ROXANA KIM B. MIEZAH",
+  "summary": "This Court of Appeal judgment in Ghana addresses a probate dispute over the validity of a 1989 will allegedly executed by the late Dr. Blay Miezah. The plaintiffs, as executors, successfully argued for the will's validity in the High Court, while the defendants claimed it was forged and counterclaimed for the validity of a prior 1988 will. The Court of Appeal held that the trial court's jurisdiction was strictly limited to the validity of the 1989 will, and it erred in law by adjudicating on the 1988 will and a nuncupative will (Exhibit 16), which were outside the framed issue. The court reaffirmed that the burden initially lies with the propounders of a will to establish due execution, after which the burden shifts to the opponents to prove forgery beyond reasonable doubt. It further ruled that the defendants had no legal basis to counterclaim for probate, as such matters require a separate petition. Numerous exhibits were found irrelevant, and procedural non-compliance with C.I. 19 was noted. Ultimately, the appeal was allowed in part, with the trial court's overreach corrected, though the core finding on the 1989 will’s validity was implicitly upheld by the reasoning.",
+  "legalKeywords": [
+    "Will validity",
+    "Solemn form probate",
+    "Burden of proof",
+    "Forgery",
+    "Due execution",
+    "Attestation",
+    "Presumption of regularity",
+    "Nuncupative will",
+    "Counter-claim jurisdiction",
+    "Probate procedure"
+  ],
+  "topics": [
+    "Probate Law",
+    "Wills and Succession",
+    "Burden of Proof",
+    "Judicial Procedure",
+    "Forgery Allegations"
+  ],
+  "verdict": "Appeal allowed in part; trial court's judgment on the 1988 Will and nuncupative will set aside due to lack of jurisdiction and procedural error.",
+  "winningSide": "Plaintiffs (Respondents) on the core issue of 1989 Will validity, though Appellants succeeded on grounds of legal error regarding scope of trial",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lamprey, J.A.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Probate Dispute",
+  "citations": [
+    "Johnson v. Maja (1951) 13 WACA 290",
+    "State v. Anane Fiadzoe (1961) 1 G.L.R. 416",
+    "State v. Ali Kasena (1962) 1 G.L.R. 144",
+    "Adwabeng v. Domfeh (1996-97) SCGLR 660",
+    "Henry Agyekum & Another v. Harriet Martey Civil Appeal No. 140/97 (18th March, 1999)",
+    "In re Cole (deceased) Codjoe v. Cole (1977) 2 G.I.R. 309",
+    "Norga v. Khadijatu (1984-86) 1 G.L.R. 443",
+    "Yankah v. Administrator-General (1971) 2 G.L.R. 186",
+    "Republic v. High Court, Accra Ex-Parte: Dr. John Kells (8th February 1994) Suit No. CM.4093"
+  ],
+  "rationaleHighlights": [
+    "The trial court was limited to determining the validity of the 1989 Will per prior order; it lacked jurisdiction to compare it with the 1988 Will.",
+    "The plaintiffs, as executors, had the initial burden to prove due execution of the 1989 Will under Act 360, Section 2.",
+    "Once a prima facie case of due execution was established, the burden shifted to the defendants to prove forgery beyond reasonable doubt under NRCD 323, Section 13(1).",
+    "The trial judge erred in law by considering the validity of the 1988 Will and exhibit '16' (nuncupative will), which fell outside the scope of the issue framed for trial.",
+    "The appellants' counterclaim regarding the 1988 Will was improperly dismissed because they lacked standing to counterclaim for probate; proper procedure required a separate petition.",
+    "The court emphasized adherence to procedural rules (C.I. 19) and criticized the parties for introducing irrelevant documents and misapplying legal procedure."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct judicial reasoning and citation of statutory provisions (Act 360, L.I. 1515, NRCD 323). Some exhibits and arguments were deemed irrelevant by the court, reinforcing focus on core legal issues.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/DR. JOHN R. KELLS JOSEPH K WHAJAH v. DR. EBENEZER A. ADJEI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:36:46.072Z",
+    "plainTextLength": 227741
+  },
+  "trialDate": "1999-11-18"
+}

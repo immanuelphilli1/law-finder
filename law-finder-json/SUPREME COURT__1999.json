@@ -1,0 +1,37 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The provided document does not contain a legal decision or case details but appears to be a homepage or index page for an online legal resource called 'Ghana Law Finder.' It includes a title, a brief description of services, and copyright information. There is no substantive judicial content, ruling, or case law to analyze or summarize.",
+  "legalKeywords": [
+    "Ghana Law Finder",
+    "legal resource",
+    "online legal database",
+    "case index",
+    "legal library",
+    "self-help legal guide",
+    "subject matter index",
+    "copyright notice",
+    "legal information service"
+  ],
+  "topics": [
+    "Legal Research",
+    "Online Legal Resources"
+  ],
+  "verdict": "not applicable",
+  "winningSide": "not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "not applicable",
+    "country": "Ghana"
+  },
+  "caseType": "not applicable",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "Low confidence in deriving legal insights due to absence of actual case content; source appears to be a website homepage.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/1999.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T09:56:18.489Z",
+    "plainTextLength": 295
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "caseTitle": "Antu v. Ohene Kweku Buedu (F.C.",
+  "summary": "This West Africa Court of Appeal decision from 1936 concerned a dispute over the estate of Joseph Duker Biney, alias Ohene Yamua Ansah, the late Ohene of Arkra. The plaintiff, Yamuah IV, claimed succession to the personal property of the deceased as head of the royal stool, seeking surrender of assets or ₤9,600 in the alternative. The deceased had amassed wealth through a private mercantile business in Saltpond, continuing this activity after enstoolment with the consent of his elders. He made a will disposing of his self-acquired property to his wives, children, and immediate family, which the appellant initially renounced probate of, leading to the respondent being granted letters of administration with the will annexed. The central issue was whether, under native customary law, all property of an Ohene automatically becomes stool property upon death unless explicitly earmarked as private. The court dismissed the appeal, holding that the deceased's property remained private due to clear separation, continuous personal management, and the custom of the Arkran people as testified by the Omanhene of Ekumfi. Relying on Sarbah’s principles and distinguishing Kofi Antu v. Ohene Kweku Buedu, the court affirmed that self-acquired property may be validly disposed of by will under customary law.",
+  "legalKeywords": [
+    "customary law",
+    "stool property",
+    "self-acquired property",
+    "testamentary disposition",
+    "probate",
+    "letters of administration",
+    "native law",
+    "Ohene",
+    "estate administration",
+    "will interpretation",
+    "family property",
+    "succession",
+    "Gold Coast",
+    "personal exertion",
+    "business acumen"
+  ],
+  "topics": [
+    "Customary Law",
+    "Probate and Succession",
+    "Stool vs. Private Property",
+    "Testamentary Disposition",
+    "Ghanaian Legal History"
+  ],
+  "verdict": "Appeal dismissed.",
+  "winningSide": "Defendant-Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Yates, J.",
+      "role": "delivered judgment"
+    },
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "concurred"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "concurred"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "probate and customary law",
+  "citations": [
+    "Kofi Antu v. Ohene Kweku Buedu (F.C. 1926-9, p. 474)",
+    "Sarbah, F.T., Native Law and Customs of the Gold Coast (2nd ed.), pp. 60, 99"
+  ],
+  "rationaleHighlights": [
+    "The deceased's property was self-acquired through personal business efforts and not merged with stool property.",
+    "Customary law of the Arkran people permits an Ohene to retain and dispose of private property independently.",
+    "The deceased continued residing in Saltpond and operated a private business with acquiescence of elders.",
+    "No use of stool resources in private business; instead, personal funds were used to benefit the stool and community.",
+    "Testamentary disposition of self-acquired property is valid under native customary law, per Sarbah."
+  ],
+  "confidenceNotes": "High confidence; judgment is clear and supported by authoritative legal texts and judicial findings of fact.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/YAMUAH IV, OHENE OF ARKRA ..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:09:18.479Z",
+    "plainTextLength": 6650
+  },
+  "trialDate": "1936-05-07"
+}

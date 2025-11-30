@@ -1,0 +1,84 @@
+{
+  "caseTitle": "MADAM MASH AGBESHIE , MR RICHARD AGBESHIE VRS MADAM AMINA AM",
+  "summary": "This Supreme Court of Ghana civil appeal centered on a property dispute over House No. 49E/12 in Nima, Accra. The plaintiffs, Madam Mash Agbeshie and Mr. Richard Agbeshie, administrators of the estate of Madam Axorlushie Zomade, claimed they inherited the entire house after Zomade purchased it from the defendant, Madam Amina Amorkor. They sought declaration of title, recovery of possession, rent accounting, and damages. The defendant denied selling the whole house, asserting she only sold the frontage for shops and that her mother originally owned the property. A prior Circuit Court judgment in Suit No. CCL 73/96 (Fofo Rukiya Laryea v Amina Amorkor) had already determined that the house was built by Abena Rahmatu and that rooms were distributed among her daughters under Islamic law, awarding only rooms 5 and 6 to Fofo Rukiya Laryea (the co-defendant). The Supreme Court held that the doctrine of estoppel per rem judicatam applied, binding the current parties as privies to the earlier suit. It affirmed the Court of Appeal’s reversal of the High Court’s judgment, finding that neither party had validly acquired the entire house and that the plaintiffs' claim to full ownership was unsupported by the prior binding decision and defective documentation.",
+  "legalKeywords": [
+    "res judicata",
+    "estoppel per rem judicatam",
+    "privity",
+    "declaration of title",
+    "recovery of possession",
+    "account of rent",
+    "sale of property",
+    "leasehold assignment",
+    "letters of administration",
+    "successor in title",
+    "burden of proof",
+    "weight of evidence",
+    "documentary evidence",
+    "tenancy agreement",
+    "inheritance",
+    "property dispute",
+    "judicial precedent",
+    "binding judgment",
+    "privies",
+    "Circuit Court judgment"
+  ],
+  "topics": [
+    "Property Law",
+    "Res Judicata",
+    "Succession",
+    "Real Estate Dispute",
+    "Judicial Precedent"
+  ],
+  "verdict": "The appeal was dismissed. The Supreme Court upheld the Court of Appeal’s decision overturning the High Court’s judgment in favor of the plaintiffs. It affirmed that the prior Circuit Court judgment in Suit No. CCL 73/96 limited ownership rights to specific rooms and that the doctrine of res judicata bound the parties. Thus, the plaintiffs' claim to the entire house failed.",
+  "winningSide": "Defendant and co-defendant (Amina Amorkor and Fofo Rukyea Laryea)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ansa, JSC",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Wood (Mrs), CJ",
+      "role": "presiding"
+    },
+    {
+      "name": "Brobbey, J.S.C",
+      "role": "member of bench"
+    },
+    {
+      "name": "Anin Yeboah, J.S.C",
+      "role": "member of bench"
+    },
+    {
+      "name": "Baffoe-Bonnie, J.S.C",
+      "role": "member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Dahabie v S.A. Turqui & Bros. [2001-2002] SCGLR 498",
+    "Gariba Dintie v Luweri Kanton, unreported, SC",
+    "Asare v Dzeny [1976] 1 GLR 473",
+    "Bedu v Agbi [1972] 2 GLR"
+  ],
+  "rationaleHighlights": [
+    "The doctrine of res judicata applies not only to parties but also to their privies, including successors in title.",
+    "The Circuit Court's prior judgment in Suit No. CCL 73/96 allocated only two rooms (5 and 6) of the house to Fofo Rukiya Laryea and did not confer ownership of the entire house.",
+    "The plaintiffs, as successors in title to Madam Zomade, are bound by the earlier Circuit Court decision due to privity.",
+    "The Court of Appeal correctly overturned the High Court’s judgment which erroneously awarded title to the whole house, contrary to the weight of evidence.",
+    "Documentary exhibits (B, C, D, E) supporting the sale were found defective by the Court of Appeal, undermining the plaintiffs' claim."
+  ],
+  "confidenceNotes": "The judgment is well-reasoned with clear reference to precedent and evidence. The Supreme Court's analysis of res judicata and privity is definitive, though the document is truncated before full disposition of all grounds.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/MADAM MASH AGBESHIE , MR RICHARD AGBESHIE VRS MADAM AMINA AM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:05:03.273Z",
+    "plainTextLength": 19166
+  },
+  "trialDate": "2009-02-11"
+}

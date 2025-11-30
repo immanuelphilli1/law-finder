@@ -1,0 +1,68 @@
+{
+  "caseTitle": "CHI.EF OKPAHAEKE OF NDIAKAEME, V OBIDEKE",
+  "summary": "This consolidated civil appeal before the West Africa Court of Appeal concerned the ownership of land in Okigwi District and whether prior Native Court judgments (cases 66/1933 and 67/1933 from Uruala Native Court) constituted res judicata in favor of the appellants. The Court held that both judgments had been suspended by Assistant District Officer Mr. Leeming in June 1933 and were never reinstated. Although the cases were later combined and evidence was taken from the Amala of Ndizuogu, the Native Court did not deliver a final judgment, noting the matter remained confusing. A subsequent order by another officer claiming to uphold the judgment referred only to the Amala's opinion, not a formal judgment. A later attempt to transfer the case de novo was declared a nullity, but the appellate court clarified this did not restore the original suspended judgments. The Court also criticized the trial judge for requiring proof of the identity of the land, which was an agreed fact in the pleadings, and suggested the res judicata issue should have been decided as a preliminary point. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "res judicata",
+    "native court judgment",
+    "land ownership",
+    "suspension of judgment",
+    "jurisdiction",
+    "pleadings",
+    "identity of land",
+    "Amala",
+    "de novo hearing",
+    "nullity of proceedings"
+  ],
+  "topics": [
+    "Land Law",
+    "Res Judicata",
+    "Native Courts",
+    "Appellate Procedure",
+    "Judicial Review"
+  ],
+  "verdict": "Appeal dismissed with costs assessed at 100 guineas.",
+  "winningSide": "Plaintiffs-Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "WACA/7",
+    "Native Courts Ordinance (Cap. 5)",
+    "Ordinance No. 12 of 1930"
+  ],
+  "rationaleHighlights": [
+    "Judgments in cases 66/1933 and 67/1933 were suspended and never reinstated.",
+    "Orders by Assistant District Officer Mr. Leeming effectively suspended the judgments pending further inquiry.",
+    "The Native Court's final pronouncement did not constitute a final judgment and thus cannot operate as res judicata.",
+    "Mr. Jones' order to 'uphold judgment' referred to Amala opinion, not formal judgments.",
+    "Acting Resident's transfer order was declared a nullity on prior appeal.",
+    "Court erred in requiring proof of land identity, which was an agreed fact in pleadings.",
+    "Question of res judicata should have been decided as a preliminary point of law.",
+    "Appeal dismissed due to lack of final, binding judgment in favor of appellants."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/CHI.EF OKPAHAEKE OF NDIAKAEME, V OBIDEKE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:36:17.833Z",
+    "plainTextLength": 7281
+  },
+  "trialDate": "1941-05-08"
+}

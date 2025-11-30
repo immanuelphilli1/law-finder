@@ -1,0 +1,88 @@
+{
+  "caseTitle": "THE REPUBLIC VERSUS HIGH COURT, FAST TRACK 1, ACCRA ...",
+  "summary": "This is a ruling by the Supreme Court of Ghana in a constitutional and administrative law matter concerning the legality of an interim injunction granted by the Fast Track High Court, Accra. The National Lottery Authority (NLA), as applicant, sought certiorari to quash an injunction that allowed private lotto operators—aggrieved by the NLA's enforcement of the National Lotto Act, 2006 (Act 722)—to continue operating pending appeal. The Supreme Court held that Act 722, which outlawed private lotto operations unless operators transitioned under its framework, had rendered such activities illegal after 30 March 2007. The Court found that the High Court judge committed an error of law by granting an injunction that effectively authorized ongoing illegality, thereby exceeding judicial jurisdiction. Emphasizing legislative supremacy and the duty of courts to uphold statutes, the Court quashed the injunction, ruling it ultra vires and contrary to public policy. The decision reaffirms that judicial discretion cannot be used to permit breaches of statutory law.",
+  "legalKeywords": [
+    "constitutionality",
+    "statutory interpretation",
+    "interim injunction",
+    "ultra vires",
+    "judicial discretion",
+    "error of law",
+    "certiorari",
+    "status quo ante",
+    "common law vs statute",
+    "judicial restraint",
+    "public policy",
+    "legislative supremacy",
+    "fundamental rights",
+    "procedural fairness",
+    "jurisdictional limits"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Injunctions",
+    "Statutory Interpretation",
+    "Judicial Review"
+  ],
+  "verdict": "The application for certiorari was granted; the interim injunction issued by the Fast Track High Court on 1st April 2009 was quashed.",
+  "winningSide": "National Lottery Authority (Applicant)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Atuguba, JSC",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Date-Bah, JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa, JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin Yeboah, JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie, JSC",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Ghana Lotto Operators Association & Others v National Lottery Authority (2007-2008) SCGLR 1088",
+    "Regina v Sarpong (1960) GLR 15 C.A.",
+    "Mosi v Bagyina (1963) 1 GLR 337 S.C.",
+    "Republic v District Magistrate Accra, ex parte Adio (1972) 2GLR 125 C.A.",
+    "Okomfo Afuah v Sarbah (1974) 1 GLR 147",
+    "Adjei v The Republic (1977) 1 GLR 156",
+    "Agbeko v The Republic (1977) 1 GLR 408",
+    "Addai v Donkor (1972) 1 GLR 209 C.A.",
+    "Attorney-General v Emmerson (1890) 24 QBD 56 C.A.",
+    "Akufo-Addo v Quarshie-Idun (1968) GLR 667 C.A.(Full Bench)"
+  ],
+  "rationaleHighlights": [
+    "The National Lotto Act, 2006 (Act 722) was upheld as constitutional by the Supreme Court, rendering private lotto operations illegal after 30 March 2007.",
+    "The High Court lacked jurisdiction to grant an interim injunction allowing continued illegal operation of private lotto businesses.",
+    "Courts must not assist parties in committing illegal acts, even under the guise of preserving the status quo.",
+    "An injunction that permits breach of statute is ultra vires and constitutes an error of law apparent on the face of the record.",
+    "Judicial discretion must be exercised within the bounds of statutory law and cannot override clear legislative prohibitions.",
+    "The principle that courts are servants of the legislature was reaffirmed, emphasizing statutory supremacy.",
+    "The interim injunction was quashed for being contrary to public policy and the constitutional order.",
+    "The decision reinforces that no court can grant immunity from the consequences of breaching an Act of Parliament."
+  ],
+  "confidenceNotes": "The case details are drawn directly from a Supreme Court of Ghana ruling with clear citations and judicial reasoning. All information is highly reliable as it comes from an official judicial document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/THE REPUBLICv HIGH COURT, FAST 1 CRA  EX-PARTE NATI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:57:20.917Z",
+    "plainTextLength": 18458
+  },
+  "trialDate": "2009-05-22"
+}

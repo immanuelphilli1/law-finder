@@ -1,0 +1,74 @@
+{
+  "caseTitle": "TEXTILE PRINTING CO. LTD. v. SIMON ANKUJEAH & 99 ORS",
+  "summary": "In this Court of Appeal decision, the appellant, Ghana Textile Printing Co. Ltd., challenged a High Court ruling that awarded severance pay to 100 former employees from the date each commenced employment up to 31st December 1990, based on claims that the collective agreement violated NLCD.342. The respondents, declared redundant in 1994, had been paid under a collective agreement providing two months’ basic pay per year of service from 1961. The trial court found the awards unlawful and ordered enhanced compensation. The Court of Appeal reversed, holding that paragraph 34(2) of NLCD.342 does not mandate a specific severance formula but only requires consideration of past service when determining diminution in employment terms. Thus, the collective agreement was valid. The court also rejected a preliminary objection to the appeal's admissibility, ruling that failure to file submissions under Rule 20(1) of C.I.125 does not automatically strike out an appeal. The appeal was allowed, and the trial court’s judgment set aside.",
+  "legalKeywords": [
+    "severance pay",
+    "redundancy",
+    "collective agreement",
+    "statutory interpretation",
+    "diminution in terms of employment",
+    "Labour Decree",
+    "NLCD.342",
+    "NLCD.157",
+    "estoppel",
+    "statute barred",
+    "judicial discretion",
+    "appeal procedure",
+    "rule 20 C.I.125",
+    "mandatory provision",
+    "contractual entitlement",
+    "employment law",
+    "restructuring",
+    "compensation",
+    "past service",
+    "accumulated benefits"
+  ],
+  "topics": [
+    "Employment Law",
+    "Statutory Interpretation",
+    "Appeal Procedure",
+    "Severance Pay",
+    "Collective Agreement"
+  ],
+  "verdict": "Appeal allowed; trial court judgment set aside.",
+  "winningSide": "Appellant (Ghana Textile Printing Co. Ltd.)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Mrs. Wood, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Twumasi, J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Brobbey, J.A.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "NLCD.342",
+    "NLCD.157",
+    "Sam v. Comptroller of Customs and Excise (1971) 1 GLR 289",
+    "Kuenyehia & Ors v. Archer and Ors (1992-93) GLR 1260"
+  ],
+  "rationaleHighlights": [
+    "The court held that paragraph 34(2) of NLCD.342 does not prescribe a mandatory formula for severance pay but guides eligibility by requiring consideration of past service and benefits.",
+    "Article 36 of the collective agreement was not void for inconsistency with NLCD.342, as the decree does not fix quantum of compensation.",
+    "The appeal was not struck out despite late filing, as non-compliance with procedural rules does not automatically extinguish an appeal under C.I.125."
+  ],
+  "confidenceNotes": "The judgment is well-reasoned with clear statutory interpretation; citations are directly referenced in the text.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/GHANA TEXTILE PRINTING CO. LTD. v. SIMON ANKUJEAH & 99 ORS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:29:50.528Z",
+    "plainTextLength": 65693
+  },
+  "trialDate": "2000-07-06"
+}

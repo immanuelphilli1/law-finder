@@ -1,0 +1,69 @@
+{
+  "caseTitle": "C MM OF P VARMAH QUARSHIE",
+  "summary": "This 1939 West Africa Court of Appeal decision in Accra, Ghana, involved an appeal against a conviction for stealing by Armaah Quarshie. The court addressed the admissibility of two confessions: the first, made to a corporal without a caution and while the appellant believed he was under arrest, was deemed inadmissible. However, the second, a written statement (Exhibit 'D') given at the police charge office after proper cautioning, was upheld as voluntary and admissible, despite the prior uncautioned admission. The court found no coercion or inducement and noted the appellant's active cooperation, including implicating co-accused and leading police to stolen property. The visit to Labadi beach, where stolen items were found, was considered consistent with the appellant's conduct and did not prejudice the case unfairly. The appellant's trial explanation for his presence at the beach was deemed unconvincing. The court distinguished the present case from cited precedents and affirmed the conviction.",
+  "legalKeywords": [
+    "admissibility of confession",
+    "voluntariness of statement",
+    "police caution",
+    "self-incrimination",
+    "corroboration of evidence",
+    "appellate review",
+    "criminal procedure",
+    "right against coercion",
+    "evidence law",
+    "Ghanaian criminal law",
+    "West Africa Court of Appeal"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence",
+    "Appeals",
+    "Police Procedure",
+    "Confession Law"
+  ],
+  "verdict": "Appeal dismissed, conviction affirmed",
+  "winningSide": "Respondent",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Cor. Strother-Stewart",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Woolhouse Bannerman",
+      "role": "Justice"
+    },
+    {
+      "name": "M'Carthy",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Rex v. Ajege and Kigbo (2 W.A.C.A. p. 353)",
+    "Rex v. Kofa Radom and Ors. (2 W.A.C.A. p. 390)",
+    "Rex v. Akinpelu and Ors. (3 W.A.C.A. p. 4)"
+  ],
+  "rationaleHighlights": [
+    "First admission inadmissible due to lack of caution and belief of arrest",
+    "Second written statement upheld as voluntary and properly cautioned",
+    "No threat or inducement influenced the confession",
+    "Appellant voluntarily cooperated, implicating others and aiding recovery of stolen goods",
+    "Visit to crime scene corroborated by evidence and undermined appellant's testimony",
+    "Appellant's trial explanation was unconvincing",
+    "Precedents distinguished on factual grounds",
+    "Conviction supported by corroborated confession and conduct"
+  ],
+  "confidenceNotes": "High confidence; source is a formal appellate judgment with clear reasoning, named judges, citations, and procedural details. Factual accuracy is strong based on internal consistency and legal formality.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/C MM OF P VARMAH QUARSHIE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:49:48.089Z",
+    "plainTextLength": 5481
+  },
+  "trialDate": "1939-10-12"
+}

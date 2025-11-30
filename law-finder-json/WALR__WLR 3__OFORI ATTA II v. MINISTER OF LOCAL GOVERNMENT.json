@@ -1,0 +1,63 @@
+{
+  "caseTitle": "OFORI ATTA II VERSUS MINISTER OF",
+  "summary": "In OFORI ATTA II v. MINISTER OF LOCAL GOVERNMENT (1958), the High Court of Ghana's Eastern Judicial Division considered an application for an interim injunction by Nana Ofori Atta II, the Omanhene and President of the Akyem Abuakwa State Council. The case arose after the government issued the Paramount Chiefs (Recognition) (Partial Revocation) Instrument, 1957, and a June 6, 1958 press release stating he would cease exercising functions as a Paramount Chief. A subsequent letter from the Government Agent directed the Council to appoint someone other than the Okyenhene to authorize documents. The court held that despite the respondent's admission of the applicant’s legal rights, the government's actions constituted a real and imminent threat to those rights. The court granted the interim injunction to preserve the status quo pending final determination of the originating summons, emphasizing that even admitted rights require protection against threatened interference by state agents.",
+  "legalKeywords": [
+    "interim injunction",
+    "legal rights",
+    "Paramount Chief",
+    "customary law",
+    "government interference",
+    "status quo",
+    "originating summons",
+    "prerogative power",
+    "constitutional recognition",
+    "judicial review",
+    "affidavit evidence",
+    "executive action",
+    "native custom",
+    "stool land",
+    "public official"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Constitutional Law",
+    "Chieftaincy Disputes",
+    "Injunctions",
+    "Separation of Powers"
+  ],
+  "verdict": "Interim injunction granted",
+  "winningSide": "Applicant (Nana Ofori Atta II)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional and Administrative Law",
+  "citations": [
+    "Attorney-General v. Long Eaton Urban District Council [1915] 1 Ch. 124",
+    "Attorney-General for the Dominion of Canada v. Ritchie Contracting and Supply Co., Ltd. and Others [1919] A.C. 999"
+  ],
+  "rationaleHighlights": [
+    "An interim injunction may be granted even when legal rights are admitted, if there is a real threat of violation.",
+    "Government press releases and official letters can constitute actionable threats to legal rights.",
+    "The state cannot use undisclosed powers to override customary leadership roles.",
+    "Acts by government agents must not undermine constitutionally and customarily recognized offices.",
+    "Preservation of the status quo is essential during judicial proceedings involving public office.",
+    "The mere denial of intent to interfere does not negate the need for injunctive relief.",
+    "Direction to bypass a recognized chief in official matters implies de facto removal from office.",
+    "Courts must protect traditional institutions from executive overreach."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on primary source document; minor truncation in original text does not affect core holdings or procedural outcome.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/OFORI ATTA II v. MINISTER OF LOCAL GOVERNMENT.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:57:06.317Z",
+    "plainTextLength": 15896
+  }
+}

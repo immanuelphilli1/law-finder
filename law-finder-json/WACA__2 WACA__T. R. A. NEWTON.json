@@ -1,0 +1,64 @@
+{
+  "caseTitle": "T. R. A. NEWTON",
+  "summary": "This is a civil appeal before the West Africa Court of Appeal, Accra, from a Divisional Court judgment in favor of the defendant, J. Laud Apponsah, in a land trespass case. The plaintiff, T. R. A. Newton, claimed damages for the defendant building on his land at Agona Swedru. The Court held that the burden of proof lay with the plaintiff, who failed to prove that the defendant encroached on his property. A consent order referring the matter to a Provincial Surveyor was not binding because the surveyor could not make a definite finding on encroachment. The surveyor's report noted only a 'considerable similarity' between areas when one plan was rotated, which was insufficient to establish identity. The plaintiff's conveyance was found unreliable for fixing boundaries, and his evidence of user and occupation was minimal and contradicted by Abba Assaniwah, whom the trial judge credited. The appellate court found no error in the reception of evidence or in law, and concluded the appeal was without merit.",
+  "legalKeywords": [
+    "trespass to land",
+    "burden of proof",
+    "evidence admissibility",
+    "surveyor's report",
+    "consent order",
+    "cross-examination",
+    "user and occupation",
+    "boundary dispute",
+    "inadmissible hearsay",
+    "judicial discretion"
+  ],
+  "topics": [
+    "Property Law",
+    "Evidence",
+    "Appeal",
+    "Land Dispute",
+    "Survey and Boundaries"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Aitken",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WACA/2 WACA/T. R. A. NEWTON"
+  ],
+  "rationaleHighlights": [
+    "The burden of proof was on the plaintiff, who failed to prove trespass.",
+    "The surveyor's report was inconclusive and could not establish identity of land areas.",
+    "Evidence from cross-examination based on hearsay did not render the entire testimony inadmissible.",
+    "The trial judge's on-site inspection supported the defendant's possession.",
+    "Plaintiff's conveyance was deemed useless for determining boundaries.",
+    "Defendant prevailed due to weakness of plaintiff's case, not need to prove title."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/T. R. A. NEWTON.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:15:48.642Z",
+    "plainTextLength": 10591
+  },
+  "trialDate": "1934-11-20"
+}

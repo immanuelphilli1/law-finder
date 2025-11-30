@@ -1,0 +1,86 @@
+{
+  "caseTitle": "ROJO METTLE NUNOO ,SQUADRON LEADER (RTD) CLEND SOWU & KOFI P",
+  "summary": "In this 2008 Supreme Court of Ghana decision, the plaintiffs—Rojo Mettle Nunoo, Squadron Leader (Rtd) Clend Sowu, and Kofi Portuphy—sought declarations and orders compelling the Electoral Commission to publish full, detailed results of the December 2004 Presidential Election in the Ghana Gazette, including constituency-level and polling station data. They argued that the Commission's publication of only the 'Declaration of President Elect Instrument, 2004' (CI 49), which named John Agyekum Kufuor as winner without detailed results, failed to meet constitutional obligations under Article 63(9) and violated principles of transparency under Article 45. The Commission contended it had fulfilled its duty under Article 63(9) with the minimal declaration. The Supreme Court held that Article 63(9) requires only a declaration under the Chairman's hand and seal stating the elected candidate, and does not mandate inclusion or simultaneous publication of detailed results. The Court further ruled that the plaintiffs' action was not an election petition under Article 64(1), so the 21-day challenge period did not apply. It emphasized that the validity of the election is distinct from the validity of the declaration, and that supporting evidence need only be available in the public domain, as ensured by Article 49. Thus, the Commission had constitutionally discharged its duty.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "election declaration",
+    "prima facie evidence",
+    "judicial review",
+    "separation of powers",
+    "public accountability",
+    "electoral transparency",
+    "time limitation for petitions",
+    "constitutional duty",
+    "gazette publication",
+    "voter turnout",
+    "valid votes",
+    "electoral commission powers",
+    "presidential election",
+    "constitutional instrument"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Election Law",
+    "Judicial Review",
+    "Separation of Powers",
+    "Transparency and Accountability"
+  ],
+  "verdict": "The Supreme Court ruled in favor of the Electoral Commission, holding that it had fulfilled its constitutional duty under Article 63(9) by publishing the Declaration of President Elect Instrument, 2004 (CI 49), and dismissed the plaintiffs' claims.",
+  "winningSide": "The Electoral Commission (Defendant)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "Akuffo",
+      "role": "Presiding"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Adinyira",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional interpretation",
+  "citations": [
+    "Article 63(9), 1992 Constitution of Ghana",
+    "Article 64(1), 1992 Constitution of Ghana",
+    "Article 45, 1992 Constitution of Ghana",
+    "Article 49, 1992 Constitution of Ghana",
+    "CI 49 (Declaration of President Elect Instrument, 2004)",
+    "Section 2, Electoral Commission Act, 1993 (Act 451)",
+    "Presidential Elections (Amendment) Act, 1996",
+    "CI 15"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court held that the Electoral Commission fulfilled its constitutional duty under Article 63(9) by issuing a declaration stating the elected candidate, signed by the Chairman and under the Commission's seal.",
+    "The Court ruled that the plaintiffs' action was not an election petition under Article 64(1), hence the 21-day time limit did not apply.",
+    "A declaration under Article 63(9) does not require inclusion of detailed polling results; such evidence need only be available in the public domain.",
+    "The Court emphasized that the validity of the election is distinct from the validity of the declaration.",
+    "Transparency concerns were acknowledged, but not deemed constitutionally mandatory in the form of the declaration.",
+    "The literal and purposive interpretation of Article 63(9) supported the Commission's minimalistic declaration.",
+    "The Court found no constitutional requirement for simultaneous publication of full results in the Gazette.",
+    "The plaintiffs' request for detailed polling station data was not granted as it exceeded constitutional obligations."
+  ],
+  "confidenceNotes": "High confidence; all information derived directly from the court's judgment and constitutional provisions cited therein.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2008/ROJO METTLE NUNOO ,SQUADRON LEADER (RTD) CLEND SOWU & KOFI P.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:52:11.584Z",
+    "plainTextLength": 22130
+  },
+  "trialDate": "2008-07-31"
+}

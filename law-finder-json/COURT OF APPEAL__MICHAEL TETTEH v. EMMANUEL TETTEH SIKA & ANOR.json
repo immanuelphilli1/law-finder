@@ -1,0 +1,70 @@
+{
+  "caseTitle": "MICHAEL TETTEH v. EMMANUEL TETTEH SIKA & ANOR.",
+  "summary": "This is an appeal from a Circuit Court judgment in a personal injury case arising from a motor vehicle accident during communal labour in Saisi, Odumase-Krobo. The plaintiff, Michael Tetteh, sustained serious injuries including urethral damage requiring a catheter after falling from a tipper truck (GR 9617D) owned by the second defendant and driven by the first defendant. He claimed damages for negligence, which the defendants denied, alleging he voluntarily jumped from the moving vehicle. The trial court found in favour of the plaintiff, awarding general and special damages. On appeal, the Court of Appeal upheld the finding of negligence and liability but set aside the award for past loss of earnings due to insufficient evidence that the plaintiff was actively earning as a driver (his licence had expired two years prior). However, the court recognized future loss of earnings and substituted an award based on the minimum daily wage for 12 months. The appeal was otherwise dismissed, with the court exercising discretion under CI 19 Rule 63 to consider additional grounds despite procedural non-compliance, as the respondent had already addressed them.",
+  "legalKeywords": [
+    "negligence",
+    "communal labour",
+    "personal injury",
+    "motor vehicle accident",
+    "loss of earnings",
+    "appellate review",
+    "judicial notice",
+    "damages",
+    "civil liability",
+    "evidence evaluation",
+    "tipper truck",
+    "catheter injury",
+    "road safety",
+    "driver responsibility",
+    "medical expenses"
+  ],
+  "topics": [
+    "Personal Injury",
+    "Negligence",
+    "Appellate Procedure",
+    "Damages",
+    "Employer Liability"
+  ],
+  "verdict": "Appeal partially allowed: award for past loss of earnings set aside; substituted with award for future loss of earnings at minimum wage for 12 months. All other aspects of the trial court's judgment upheld.",
+  "winningSide": "Plaintiff/Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Owusu-Ansah, JA",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Benin, JA",
+      "role": "Presiding"
+    },
+    {
+      "name": "Twumasi, JA",
+      "role": "Member of panel"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Mumuni vs. Zakaria & anor. 1992 1 GLR 208",
+    "Reindof vs. Amadu 1962 1 GLR",
+    "Reynard vs. Allan 1934 WACA 52 at 53",
+    "POPVIC vs. DERK 1961 VR 413 at 422"
+  ],
+  "rationaleHighlights": [
+    "The trial judge properly evaluated conflicting evidence and preferred the plaintiff's credible testimony over the defendants' implausible denial.",
+    "The appellate court upheld the finding of negligence based on the uncontrollable movement of the truck and failure to secure the door.",
+    "Additional grounds of appeal were admitted despite procedural irregularity under Rule 63 (waiver of non-compliance) as no injustice occurred.",
+    "Award for past loss of earnings was set aside due to lack of evidence of income, but future loss was recognized at minimum wage for 12 months."
+  ],
+  "confidenceNotes": "The case details are drawn directly from a Court of Appeal judgment document. All facts, legal reasoning, and outcomes are explicitly stated in the source. The truncation at the end does not affect the core findings or verdict.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/MICHAEL TETTEH v. EMMANUEL TETTEH SIKA & ANOR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:16:06.173Z",
+    "plainTextLength": 15596
+  },
+  "trialDate": "13TH APRIL 2000"
+}

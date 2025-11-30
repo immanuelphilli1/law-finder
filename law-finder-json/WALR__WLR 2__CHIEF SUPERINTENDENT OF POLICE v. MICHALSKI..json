@@ -1,0 +1,63 @@
+{
+  "caseTitle": "CHIEF SUPERINTENDENT OF POLICE VERSUS MICHALSKI.",
+  "summary": "This 1956 Gambian Supreme Court decision, Chief Superintendent of Police v. Michalski, interpreted the term 'special reasons' under section 48(2) of the Motor Traffic Ordinance, c. 155. The respondent was convicted of driving under the influence of drink and fined, but the magistrate did not disqualify him from driving, citing his employment duties as a 'special reason.' The court held that 'special reasons' must relate to the circumstances of the offence itself, not to personal or occupational hardships of the offender. Relying on the English precedent Whittall v. Kirby [1947] K.B. 194, the court ruled that inconvenience to the employer or the risk of job loss does not constitute a 'special reason' justifying non-disqualification. The appeal was allowed, and the case was remitted for imposition of a mandatory disqualification of at least twelve months.",
+  "legalKeywords": [
+    "special reasons",
+    "driving under influence",
+    "disqualification",
+    "Motor Traffic Ordinance",
+    "mitigating circumstances",
+    "section 48(2)",
+    "hardship to offender",
+    "employment duties",
+    "judicial discretion",
+    "precedent",
+    "Whittall v Kirby",
+    "Gambia Supreme Court",
+    "case stated",
+    "mandatory penalty",
+    "road traffic offence"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Traffic Law",
+    "Judicial Interpretation",
+    "Sentencing",
+    "Legal Precedent"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Chief Superintendent of Police",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Miles J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Colony of Gambia",
+    "country": "Gambia"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Motor Traffic Ordinance, c. 155, s. 48",
+    "Whittall v. Kirby [1947] K.B. 194"
+  ],
+  "rationaleHighlights": [
+    "'Special reasons' must be related to the offence, not the offender",
+    "Hardship or job loss does not justify avoiding disqualification",
+    "Precedent from English law applied",
+    "Mitigating factors must arise from offence circumstances",
+    "Legislative intent supports mandatory disqualification",
+    "Employment duties are not a 'special reason'",
+    "Appeal court cannot remit unless case is amended",
+    "Discretion must align with statutory purpose"
+  ],
+  "confidenceNotes": "High confidence; source is a clear judicial decision with cited precedent and unambiguous holding. Jurisdictional context is colonial Gambia, but legal reasoning follows English precedent closely.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/CHIEF SUPERINTENDENT OF POLICE v. MICHALSKI..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:38:26.885Z",
+    "plainTextLength": 5718
+  }
+}

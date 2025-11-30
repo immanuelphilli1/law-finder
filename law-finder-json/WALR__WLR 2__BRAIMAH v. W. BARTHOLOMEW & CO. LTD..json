@@ -1,0 +1,71 @@
+{
+  "caseTitle": "BRAIMAH VERSUS W. BARTHOLOMEW & CO. LTD.",
+  "summary": "In Braimah v. W. Bartholomew & Co. Ltd., the plaintiff, a divorced husband, claimed half the value of improvements (buildings and fruit trees) made on land owned solely by his former wife prior to marriage. The improvements were funded from joint earnings during the marriage. The court held that the legal maxim 'quicquid plantatur solo, solo cedit' applied, meaning improvements become part of the land and belong to the landowner. The exception for equitable relief does not apply where the builder is aware of the title defect, as the plaintiff was. The marital relationship did not alter this principle, and no precedent supported recovery in such circumstances. The plaintiff's claim failed, and the defendant’s counterclaim for cattle was also dismissed due to lack of evidence.",
+  "legalKeywords": [
+    "quicquid plantatur solo, solo cedit",
+    "equitable relief",
+    "joint funds",
+    "marital property",
+    "improvements on land",
+    "defect in title",
+    "conscious builder",
+    "reimbursement of expenditure",
+    "Halsbury's Laws of England",
+    "Ramsden v. Dyson",
+    "Kenney v. Brown",
+    "Attorney-General to Prince of Wales v. Collom",
+    "presumption of advancement",
+    "land ownership",
+    "divorce and property",
+    "equity and laches",
+    "valuation of improvements",
+    "fruit trees as fixtures",
+    "joint earnings",
+    "spousal claims"
+  ],
+  "topics": [
+    "Property Law",
+    "Family Law",
+    "Equity",
+    "Landlord and Tenant",
+    "Marital Property Rights"
+  ],
+  "verdict": "The plaintiff's claim failed; judgment was entered for the defendant on the claim, and the counterclaim was dismissed.",
+  "winningSide": "defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Miles J",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "civil property dispute",
+  "citations": [
+    "Ramsden v. Dyson (1866) L.R. 1 H.L. 129",
+    "Attorney-General to Prince of Wales v. Collom [1916] 2 K.B. 193",
+    "Kenney v. Brown (1796) 3 Ridg.Par.Cas. 462",
+    "Thornley v. Thornley [1893] 2 Ch. 229",
+    "Dunbar v. Dunbar [1909] 2 Ch. 639"
+  ],
+  "rationaleHighlights": [
+    "The maxim 'quicquid plantatur solo, solo cedit' applies unless the builder mistakenly believes they own the land and the true owner acquiesces in the error.",
+    "A builder who knowingly constructs on another’s land cannot claim reimbursement, even if funds are joint.",
+    "Marital status does not create an exception to the general rule on improvements.",
+    "The burden of proving entitlement to reimbursement lies with the spouse claiming it.",
+    "No evidence supported the counterclaim for cattle, especially regarding ownership and value.",
+    "Joint ownership of funds used for improvements does not confer ownership of the improvements on the non-landowning spouse.",
+    "Equity will not assist a party who voluntarily invests in another’s property with full knowledge of title.",
+    "The presumption of advancement between spouses may bar recovery of contributions to the other’s property."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and cited authorities. Some peripheral details (e.g., exact valuation) are secondary to the core legal holding.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/BRAIMAH v. W. BARTHOLOMEW & CO. LTD..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:39:31.643Z",
+    "plainTextLength": 8520
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "caseTitle": "MR. SAMUEL OKUDZETO ABLAKWA VRS DR. EDWARD KOFI OMANE BOAMAH VRS THE ATTORNEY-GENERAL, HON. JAKE OTANKA OBETSEBI-LAMPTEY",
+  "summary": "This is a review application before the Supreme Court of Ghana, filed by Mr. Samuel Okudzeto Ablakwa and Dr. Edward Kofi Omane Boamah, seeking to overturn a May 22, 2012 judgment concerning the interpretation of Articles 20(5) and (6) of the 1992 Constitution on state property. The applicants argued that exceptional circumstances and a fundamental error in constitutional interpretation resulted in a miscarriage of justice. They primarily sought for the Court to depart from its prior decision in Nii Kpobi Tetteh Tsuru III v Attorney-General [2011] SCGLR 1042, which held that land acquired before the 1992 Constitution remained unaffected by its provisions. The Court, per Dr. Date-Bah, JSC, dismissed the application, emphasizing that a review is not an appeal and requires proof of a fundamental error, not mere disagreement. The applicants had not previously urged the Court to depart from precedent during the original hearing, weakening their case. Additionally, they abandoned their claim of newly discovered evidence. The Court held that following a binding precedent does not constitute error and that no exceptional circumstances justifying review were established. Atuguba, JSC, concurred, noting that the applicants failed to provide evidence on the terms of land acquisition and that their argument did not engage with key constitutional nuances under Article 36(8). The application was dismissed as unmeritorious.",
+  "legalKeywords": [
+    "review application",
+    "miscarriage of justice",
+    "fundamental error",
+    "constitutional interpretation",
+    "Article 20(5) and (6)",
+    "public property",
+    "Supreme Court Rules CI 16 Rule 54",
+    "finality of judgment",
+    "departure from precedent",
+    "Article 129(3)",
+    "Article 36(8)",
+    "state property",
+    "reversionary interest",
+    "due diligence",
+    "per incuriam"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Judicial Review",
+    "Property Rights",
+    "Supreme Court Procedure",
+    "Precedent"
+  ],
+  "verdict": "The review application was dismissed.",
+  "winningSide": "The Respondents (Attorney-General and Hon. Jake Otanka Obetsebi-Lamptey)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. S. K. Date-Bah",
+      "role": "Presiding Judge on Review Motion"
+    },
+    {
+      "name": "W. A. Atuguba",
+      "role": "Justice"
+    },
+    {
+      "name": "J. Ansan",
+      "role": "Justice"
+    },
+    {
+      "name": "S. O. A. Adinyira (Mrs.)",
+      "role": "Justice"
+    },
+    {
+      "name": "R. C. Owusu (Ms.)",
+      "role": "Justice"
+    },
+    {
+      "name": "J. V. M. Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebe",
+      "role": "Justice"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs.)",
+      "role": "Justice"
+    },
+    {
+      "name": "Akamba",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional review",
+  "citations": [
+    "Nii Kpobi Tetteh Tsuru III v Attorney-General [2011] SCGLR 1042",
+    "Gihoc Refrigeration & Household Products (No. 1) v Hanna Assi [2007-2008] SCGLR 1",
+    "Afranie v Quarcoo [1992] 2GLR 561",
+    "Mechanical Lloyd Assembly Plant v Nartey [1987-88] 2 GLR 598",
+    "Bisi and Others v Kwayie [1987-88] 2 GLR 295",
+    "Nasali v Addy [1987-88] 2GLR 286",
+    "Ababio v Mensah (No.2) [1989-90] 1 GLR 573",
+    "Quartey v Central Services Co. Ltd. [1996–97] SCGLR 398",
+    "Pianim (No. 3) v Ekwam [1996-97] SCGLR 431",
+    "Koglex (Gh) Ltd. v Attieh [2001-2002] SCGLR 947"
+  ],
+  "rationaleHighlights": [
+    "Review applications require exceptional circumstances leading to miscarriage of justice, not mere disagreement with judgment.",
+    "Supreme Court judgments are final and not subject to appeal; review is not a substitute for appeal.",
+    "Failure to raise a request to depart from precedent during original hearing weakens review application.",
+    "No fundamental error found in following binding precedent in Nii Kpobi Tetteh Tsuru III.",
+    "Applicants abandoned claim of new evidence, leaving no valid ground for review.",
+    "Public interest in state-held land governed by Articles 20(5) and 36(8), not automatic reversion under Article 20(6).",
+    "Lack of evidence on terms of land acquisition undermined applicants' position.",
+    "Court emphasized that improvement of law is not equivalent to correction of error."
+  ],
+  "confidenceNotes": "High confidence in extracted details as all information is directly cited from the official court document with clear judicial reasoning and named authorities.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/MR. SAMUEL OKUDZETO ABLAKWA VRS DR. EDWARD KOFI OMANE BOAMAH  VRS THE ATTORNEY-GENERAL, HON. JAKE OTANKA OBETSEBI-LAMPTEY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:09:37.524Z",
+    "plainTextLength": 16185
+  }
+}

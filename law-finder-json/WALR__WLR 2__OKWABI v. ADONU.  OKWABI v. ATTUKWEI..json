@@ -1,0 +1,77 @@
+{
+  "caseTitle": "OKWABI VERSUS ADONU.",
+  "summary": "In this consolidated case from the West African Court of Appeal, the plaintiff, Okwabi, the duly appointed successor under native custom of the late Numo Kortey Kofi, sought damages for trespass, injunction, ejectment, and a declaration of title against defendants Adonu and Attukwei. The central issue was whether land purchased with money earned from the joint labor of Kortey Kofi and his son, Nii Attukwei, should be considered jointly owned or solely the property of the testator. The testator had devised the land via will to his maternal family, excluding Attukwei. The defendant Attukwei claimed joint ownership or that the land had been attached to a stool he occupied, but the trial court and appellate court rejected these claims due to lack of strong evidence. The appellate court upheld the trial court’s decision, affirming the will’s validity and the plaintiff’s title, dismissing the appeal with costs.",
+  "legalKeywords": [
+    "native law and custom",
+    "succession",
+    "testator",
+    "joint efforts",
+    "trust",
+    "will",
+    "maternal family",
+    "land ownership",
+    "trespass",
+    "ejectment",
+    "injunction",
+    "declaration of title",
+    "family labor",
+    "property presumption",
+    "stool land",
+    "jurisdiction",
+    "tenancy",
+    "rent payment",
+    "evidence standard",
+    "customary appointment"
+  ],
+  "topics": [
+    "Property Law",
+    "Succession Law",
+    "Customary Law",
+    "Trusts",
+    "Land Tenure"
+  ],
+  "verdict": "The appeal was dismissed. The courts upheld the testator's will and confirmed the plaintiff's title to the land. The claims of joint ownership or stool attachment by the defendants were rejected.",
+  "winningSide": "The plaintiff, Okwabi, representing the maternal family of the deceased testator.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "President"
+    },
+    {
+      "name": "Korsah C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Verity Ag.J.A.",
+      "role": "Acting Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "OKWABI v. ADONU",
+    "OKWABI v. ATTUKWEI",
+    "WALR/WLR 2/OKWABI v. ADONU. OKWABI v. ATTUKWEI."
+  ],
+  "rationaleHighlights": [
+    "No presumption of trust arises merely from a son working with his father.",
+    "Strong evidence is required to prove joint ownership or trust from joint labor proceeds.",
+    "The testator's will clearly devised the land to his maternal family.",
+    "The alleged creation of a stool by an external chief lacked jurisdictional authority.",
+    "The defendant failed to provide evidence of financial contribution to land purchase.",
+    "Tenancy under the son, not the testator, was invalidated due to lack of title.",
+    "Family customs supported the plaintiff’s appointment as successor.",
+    "Actions by the defendant in interfering with tenants constituted trespass."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; source is a clear judicial decision with attributed reasoning. Some formatting artifacts (e.g., 'pg 269') were ignored. Case predates modern Ghana’s republic but falls under its legal continuity.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/OKWABI v. ADONU.  OKWABI v. ATTUKWEI..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:25:40.844Z",
+    "plainTextLength": 8235
+  }
+}

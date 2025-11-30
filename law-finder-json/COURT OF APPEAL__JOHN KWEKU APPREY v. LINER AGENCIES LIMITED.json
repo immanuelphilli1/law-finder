@@ -1,0 +1,70 @@
+{
+  "caseTitle": "KWEKU APPREY v. LINER AGENCIES LIMITED",
+  "summary": "This is an appeal from a High Court judgment awarding GHS 30 million in damages to John Kweku Apprey, a casual labourer who lost the use of his right eye after being struck by a wooden plank at work in 1996. The Court of Appeal dismissed the appeal, holding that the trial, though procedurally irregular in parts, did not amount to a mistrial. The appellant, Liner Agencies Limited, had failed to appear initially, leading to judgment in default. Although it later filed a motion to set aside the judgment, the motion was struck out for non-prosecution. The appellate court found that the medical report tendered by the plaintiff was sufficient for assessing damages even without the doctor's oral testimony. It affirmed that employers owe a duty of care to all workers, including casual labourers, under the Factories, Offices and Shops Act, 1970 (Act 328), and that the defence of non-employment was invalid. The court upheld the damages as reasonable and rejected the argument that abridgement of time rendered proceedings void, noting the appellant participated fully in later hearings.",
+  "legalKeywords": [
+    "default judgment",
+    "assessment of damages",
+    "employer duty of care",
+    "casual labourer",
+    "personal injury",
+    "medical report",
+    "vicarious liability",
+    "Workmen Compensation Act",
+    "Factories Act",
+    "procedural fairness",
+    "motion to set aside",
+    "excessive damages",
+    "cross-examination",
+    "abridgement of time",
+    "litigation procedure"
+  ],
+  "topics": [
+    "Employment Law",
+    "Personal Injury",
+    "Civil Procedure",
+    "Damages",
+    "Duty of Care"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent (John Kweku Apprey)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adinyira (Mrs.) J.A.",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Piesare J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Asiamah J.A.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "JOHN KWEKU APPREY v. LINER AGENCIES LIMITED [18/6/2004] SUIT NO. H1/137/2004",
+    "Wilson & Clyde Coal Co., Ltd. vrs. English [1938] A.C. 57",
+    "Issah vrs. Mim Timber Co. Ltd. [1980] GLR 430",
+    "Korley vrs. State Construction Corporation [1982-83] GLR 576"
+  ],
+  "rationaleHighlights": [
+    "Failure to call the medical officer did not cause a miscarriage of justice as the medical report was sufficiently clear.",
+    "Defence that the plaintiff was a casual labourer does not absolve employer of duty of care under Act 328.",
+    "Damages of GHS 30 million were not excessive given 50% permanent disability and total loss of sight in one eye.",
+    "Abridgement of time was procedurally flawed but did not nullify proceedings due to subsequent participation."
+  ],
+  "confidenceNotes": "The document is a full appellate judgment with clear procedural history, cited legal principles, and reasoning. All key fields are extractable with high confidence.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/JOHN KWEKU APPREY v. LINER AGENCIES LIMITED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:25:29.362Z",
+    "plainTextLength": 26985
+  },
+  "trialDate": "2004-06-18"
+}

@@ -1,0 +1,67 @@
+{
+  "caseTitle": "KOMEY VERSUS KORROR.",
+  "summary": "In Komey v. Korror (1958), the High Court of Ghana's Eastern Judicial Division ruled that a stool cannot lawfully forfeit a determinable estate granted for building purposes without first providing the grantee with due notice and opportunities to remedy the breach. The plaintiff had been granted usufructuary rights to Asere Stool land in 1946 but did not build. In 1952, the caretaker re-granted the same land to the defendant without properly notifying the plaintiff or allowing him time to comply with the building condition. The court held that native custom required at least two warnings and a chance to build before forfeiture, rendering the re-grant invalid. The plaintiff's title was upheld, and the defendant's entry constituted trespass, entitling the plaintiff to damages of £25.",
+  "legalKeywords": [
+    "stool land",
+    "forfeiture",
+    "determinable estate",
+    "native custom",
+    "usufructuary interest",
+    "breach of condition",
+    "notice requirement",
+    "customary law",
+    "land grant",
+    "re-grant",
+    "trespass",
+    "building condition",
+    "reasonable time",
+    "due process",
+    "possession",
+    "title declaration",
+    "elders consultation",
+    "linguist testimony",
+    "customary forfeiture",
+    "land rights"
+  ],
+  "topics": [
+    "Customary Land Law",
+    "Forfeiture of Land",
+    "Native Law and Custom",
+    "Trespass to Land",
+    "Stool Land Grants"
+  ],
+  "verdict": "The plaintiff's claim was upheld.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "Land Dispute / Customary Law",
+  "citations": [
+    "WALR 3/KOMEY v. KORROR"
+  ],
+  "rationaleHighlights": [
+    "Forfeiture of stool land requires prior notice and opportunity to remedy breach.",
+    "Custom mandates consultation with grantee before forfeiture.",
+    "Failure to build within a reasonable time may justify forfeiture.",
+    "Re-grant without due process violates native custom.",
+    "Two warnings are required under Asere Stool custom.",
+    "Forfeiture without compliance is invalid and does not affect original title.",
+    "Defendant's occupation constituted trespass.",
+    "Plaintiff entitled to damages for unlawful entry."
+  ],
+  "confidenceNotes": "High confidence; judgment clearly based on established native custom as testified by the stool linguist and interpreted by the presiding judge.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/KOMEY v. KORROR..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:03:40.114Z",
+    "plainTextLength": 7750
+  }
+}

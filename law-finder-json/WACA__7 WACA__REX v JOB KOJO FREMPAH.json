@@ -1,0 +1,67 @@
+{
+  "caseTitle": "REX v JOB KOJO FREMPAH",
+  "summary": "Job Kojo Fremfah, the appellant, was charged with murder after killing Kwame Bandahene, a member of the public assisting a police constable in making a warrantless arrest for an alleged rape. The appellant had fled after being charged before a chief, who reported the matter to the police. During the arrest attempt, the appellant used a cutlass to kill Bandahene. At trial, the judge directed the assessors on the legal standards for self-defence and excessive force. The assessors unanimously found the appellant guilty of murder, a verdict supported by the trial judge's finding that the deceased did not attack or use unnecessary force. The West African Court of Appeal upheld the conviction, finding no reason to overturn the factual conclusions and affirming that the killing during resistance to a lawful arrest constituted murder.",
+  "legalKeywords": [
+    "murder",
+    "self-defence",
+    "unlawful arrest",
+    "police assistance",
+    "resisting arrest",
+    "use of force",
+    "cutlass",
+    "warrantless arrest",
+    "assessors",
+    "appellate review"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Homicide",
+    "Self-Defence",
+    "Police Powers",
+    "Appellate Review"
+  ],
+  "verdict": "Guilty of Murder",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "Bannerman, J.",
+      "role": "Judge"
+    },
+    {
+      "name": "Doorly, J.",
+      "role": "Trial Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "WACA/7 WACA/REX v JOB KOJO FREMPAH"
+  ],
+  "rationaleHighlights": [
+    "Appellant killed a civilian assisting police during a lawful warrantless arrest.",
+    "Trial judge correctly directed assessors on self-defence and excessive force.",
+    "No evidence deceased attacked or used unnecessary force.",
+    "Killing during resistance to lawful arrest constitutes murder.",
+    "Appellate court upheld trial court's factual findings."
+  ],
+  "confidenceNotes": "The source document is a verbatim court decision from the West African Court of Appeal, ensuring high factual reliability. All details are directly extracted from the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/REX v JOB KOJO FREMPAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:27:05.094Z",
+    "plainTextLength": 4039
+  },
+  "trialDate": "1941-12-17"
+}

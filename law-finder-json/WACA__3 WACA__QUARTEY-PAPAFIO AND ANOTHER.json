@@ -1,0 +1,63 @@
+{
+  "caseTitle": "QUARTEY-PAPAFIO AND ANOTHER",
+  "summary": "This appeal before the West Africa Court of Appeal concerned a dispute over land in Ussher Town, Accra, previously sold under a writ of fieri facias (fi. fa.) to S. S. Laryea following a judgment in favor of J. P. Allotey-Hammond. The original defendants, Quartey-Papafio and Adjomoku, had lost in the Asere Divisional Tribunal and Ga Manche's Tribunal, though the latter's judgment was later quashed by the Court of the Commissioner, Eastern Province for lack of jurisdiction over the land. However, before that ruling, Allotey-Hammond had executed the judgment, leading to the land's sale to Laryea. The respondents then sued Laryea in the Ga Manche's Tribunal and were awarded possession and mesne profits. The West Africa Court of Appeal reversed this decision, holding that Laryea acquired a good title through the court-authorized execution sale, even though he failed to produce a certificate of purchase or receipt. Relying on Bodukuma v. Abaka, the court held that such a certificate is evidential but not essential where the sale is otherwise proven. The appeal was allowed, and Laryea's costs were awarded.",
+  "legalKeywords": [
+    "execution sale",
+    "writ of fi. fa.",
+    "certificate of purchase",
+    "good title",
+    "possession of land",
+    "native tribunal",
+    "jurisdiction",
+    "mesne profits",
+    "Court of Provincial Commissioner",
+    "appeal"
+  ],
+  "topics": [
+    "Property Law",
+    "Execution Sale",
+    "Land Title",
+    "Appellate Jurisdiction",
+    "Native Tribunals"
+  ],
+  "verdict": "Appeal allowed; judgment of lower courts reversed.",
+  "winningSide": "Defendants-Appellants (Laryea and another)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Bodukuma v. Abaka (Div. Court, 1926-29, 124)"
+  ],
+  "rationaleHighlights": [
+    "A purchaser at an execution sale acquires a good title even without a certificate of purchase if the sale was conducted under court process.",
+    "The certificate of purchase is evidential, not conclusive, and the entire execution proceedings may be examined to determine what was sold.",
+    "The property was undisputedly sold under a writ of fi. fa. and purchased by Laryea, who took possession.",
+    "The jurisdiction of the native court was not challenged, validating the execution process.",
+    "Failure to produce a receipt or certificate does not invalidate a title where the sale and purchase are admitted."
+  ],
+  "confidenceNotes": "The absence of the lower tribunal judgments introduces minor uncertainty, but the appellate reasoning is clear and consistent with established precedent on execution sales.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/QUARTEY-PAPAFIO AND ANOTHER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:16:30.825Z",
+    "plainTextLength": 6171
+  },
+  "trialDate": "1936-12-18"
+}

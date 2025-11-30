@@ -1,0 +1,67 @@
+{
+  "caseTitle": "AKOSUA OTWIWA",
+  "summary": "The plaintiffs, Akosua Otwiwa and Albert Kwatia, brought a claim for trespass damages before the Tribunal of Krontihene, which ruled against them. Upon appeal to the Tribunal of the Paramount Chief of Akwapim, the appeal was dismissed, despite the tribunal being irregularly constituted across hearings, with varying membership and the inclusion of the Krontihene—whose original decision was under appeal—among the appellate members. This violated the principle that no one should sit in judgment on their own decision. The Provincial Commissioner’s Court also dismissed a further appeal. The West Africa Court of Appeal allowed the appeal, declaring the proceedings before the Paramount Chief’s Tribunal a nullity due to procedural irregularities. The judgments and cost orders of both the Paramount Chief’s Tribunal and the Provincial Commissioner’s Court were set aside. The appeal from the Krontihene’s Tribunal is remitted for rehearing before a properly constituted tribunal. No order on costs was made in the Court of Appeal, though the respondent was awarded taxable costs in the Provincial Commissioner’s Court.",
+  "legalKeywords": [
+    "trespass",
+    "damages",
+    "appeal",
+    "procedural irregularity",
+    "nullity",
+    "tribunal constitution",
+    "bias",
+    "rule against self-judgment",
+    "appellate jurisdiction",
+    "costs",
+    "rehearing",
+    "customary courts"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Tort Law",
+    "Judicial Ethics",
+    "Customary Law"
+  ],
+  "verdict": "Appeal allowed. Proceedings before the Paramount Chief's Tribunal declared a nullity. Judgment set aside. Matter remitted for rehearing.",
+  "winningSide": "Plaintiffs-Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Yates, J.",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "WACA/3 WACA/AKOSUA OTWIWA"
+  ],
+  "rationaleHighlights": [
+    "The Tribunal of the Paramount Chief was inconsistently constituted across sittings, undermining procedural fairness.",
+    "Inclusion of the Krontihene in the appellate tribunal violated the principle that no one should sit in appeal on their own judgment.",
+    "Recent precedents support the invalidation of such irregular proceedings.",
+    "The appeal from the lower tribunal remains pending and must be reheard by a properly constituted body.",
+    "No costs awarded in the Court of Appeal due to the novelty of the procedural point raised.",
+    "Respondent retained costs in the Provincial Commissioner’s Court as they were successful there on the issues argued.",
+    "Future costs in the Paramount Chief’s Tribunal are reserved to its discretion after rehearing.",
+    "Fundamental procedural fairness outweighs finality in this case."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on explicit judicial reasoning in the provided text. Dates and names are consistent with colonial-era judicial structures in Ghana. The case reflects established principles of natural justice, particularly the rule against bias (nemo judex in causa sua).",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/AKOSUA OTWIWA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:27:50.931Z",
+    "plainTextLength": 4421
+  },
+  "trialDate": "1987-12-17"
+}

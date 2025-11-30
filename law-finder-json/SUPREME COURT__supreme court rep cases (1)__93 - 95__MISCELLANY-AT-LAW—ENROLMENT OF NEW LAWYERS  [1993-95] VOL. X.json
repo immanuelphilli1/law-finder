@@ -1,0 +1,70 @@
+{
+  "caseTitle": "MISCELLANY-AT-LAW—ENROLMENT OF NEW LAWYERS [1993-95] VOL. X",
+  "summary": "The document records a 1993 enrolment ceremony at the Ghana School of Law where 78 new lawyers were admitted, marked by a speech from the Chief Justice emphasizing the importance of high moral character, adherence to professional ethics, and the evolving legal landscape under Ghana's new 1992 Constitution and the Courts Act, 1993 (Act 459). The Chief Justice highlighted the growth of legal education in Ghana since 1958, the need for lawyers to engage in rural community tribunals, and the significance of legal aid. The document also includes the Ghana Bar Association's 1994 annual conference proceedings, featuring remarks by the Bar President on judicial independence, professional standards, and regional legal cooperation, alongside concerns about government relations and the rule of law.",
+  "legalKeywords": [
+    "enrolment of lawyers",
+    "moral character",
+    "professional ethics",
+    "Ghana School of Law",
+    "Courts Act 1993",
+    "Constitution of Ghana",
+    "legal profession",
+    "pupilage",
+    "community tribunals",
+    "legal aid",
+    "disciplinary action",
+    "General Legal Council",
+    "Bar Association",
+    "judicial independence",
+    "rule of law",
+    "legal education",
+    "admission requirements",
+    "constitutional law",
+    "human rights",
+    "rural legal practice"
+  ],
+  "topics": [
+    "Legal Profession",
+    "Judicial Reform",
+    "Legal Education",
+    "Professional Ethics",
+    "Constitutional Law"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Philip Edward Nii Kwei Archer",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Ghana School of Law / Public Ceremony",
+    "country": "Ghana"
+  },
+  "caseType": "Administrative / Professional Ceremony",
+  "citations": [
+    "Courts Act, 1993 (Act 459)",
+    "Legal Profession Act, 1960 (Act 32)",
+    "Kuenyehia v Archer, Supreme Court, 25 May 1993 (unreported)"
+  ],
+  "rationaleHighlights": [
+    "Enrolment requires both academic qualification and good moral character.",
+    "Lawyers must uphold ethical standards and may face disciplinary action for misconduct.",
+    "The new Constitution and Courts Act necessitate updated legal knowledge and engagement with human rights.",
+    "Community tribunals in rural districts offer opportunities for legal practice.",
+    "Legal education in Ghana has reduced reliance on foreign training.",
+    "The Bar Association emphasizes cooperation with the judiciary despite past disagreements.",
+    "Regional legal collaboration, especially with Togo, is encouraged.",
+    "Legal aid is essential for constitutional rights and access to justice."
+  ],
+  "confidenceNotes": "The source is a published legal review document from a reputable Ghanaian legal repository, containing official speeches and conference proceedings. Information is factual and contextually accurate, though some case citations are marked as unreported.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/93 - 95/MISCELLANY-AT-LAW—ENROLMENT OF NEW LAWYERS  [1993-95] VOL. X.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:11:21.168Z",
+    "plainTextLength": 49705
+  },
+  "trialDate": "1993-10-01"
+}

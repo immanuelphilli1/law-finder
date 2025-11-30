@@ -1,0 +1,68 @@
+{
+  "caseTitle": "ARABA TSETSEWA v JOSEPH DOBSON ACQUAH",
+  "summary": "This West Africa Court of Appeal decision from 1941 concerned a dispute over the ownership of six properties in Cape Coast, Ghana, originally developed by three brothers—Charles, John, and Joseph Acquah. The plaintiff, Araba Tsetsewa, as head of the family, claimed the properties were family property under Fanti customary law. The defendants, executors and beneficiaries of Joseph’s will, argued that Joseph, as the last surviving joint owner, could dispose of the properties via his will under English law principles of survivorship. The Court held that Fanti customary law applied, and there was a strong presumption in favor of family property where property is acquired through family labor and contributions. The evidence from the defendants failed to rebut this presumption. Thus, the appeal was allowed, the lower court’s judgment was set aside, and the plaintiff was granted a declaration of title to the properties as family property.",
+  "legalKeywords": [
+    "family property",
+    "Fanti customary law",
+    "joint ownership",
+    "testamentary disposition",
+    "presumption of family ownership",
+    "survivorship",
+    "native law and custom",
+    "property contribution",
+    "joint labor",
+    "real property devolution",
+    "self-acquired property",
+    "English law",
+    "will validity",
+    "beneficiary rights",
+    "land tenure"
+  ],
+  "topics": [
+    "Customary Law",
+    "Property Law",
+    "Succession"
+  ],
+  "verdict": "The appeal was allowed. The judgment of the Provincial Commissioner's Court was set aside. The plaintiff was granted a declaration of title to the properties as family property.",
+  "winningSide": "Plaintiff-Appellant (Araba Tsetsewa and family)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "Bannerman, J.",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "citations": [
+    "George Hagan and others v. Araba Tanuah, 5 WACA.C 35",
+    "Fawcett v. Odamtten, Full Court Reports 1926/29 pp. 339-343",
+    "Sarbah, Fanti Customary Law (2nd Edition), pp. 88-89",
+    "Redwar's Comments on the Gold Coast Ordinances, pp. 79-81"
+  ],
+  "rationaleHighlights": [
+    "A strong presumption exists under Fanti customary law that property developed with family labor and contributions is family property.",
+    "English law of survivorship does not override native customary law in matters of family property among the Fanti.",
+    "The contributions of family members in labor and materials supported the classification of the properties as family assets.",
+    "Joseph Acquah could not make a valid testamentary disposition of the entire properties because they were not his individual property.",
+    "The lower court erred by applying English law while disregarding applicable native law and custom."
+  ],
+  "confidenceNotes": "The decision is well-reasoned and grounded in authoritative sources of Fanti customary law, including Sarbah and Redwar. The court explicitly rejects the application of English survivorship principles in favor of indigenous legal norms, reinforcing the primacy of customary law in family property disputes among the Fanti people.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/ARABA TSETSEWA v JOSEPH DOBSON ACQUAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:36:46.839Z",
+    "plainTextLength": 15071
+  },
+  "trialDate": "1941-12-24"
+}

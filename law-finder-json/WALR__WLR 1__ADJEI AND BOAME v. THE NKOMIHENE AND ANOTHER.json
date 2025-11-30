@@ -1,0 +1,71 @@
+{
+  "caseTitle": "ADJEI AND BOAME VERSUS THE NKOMIHENE AND ANOTHER",
+  "summary": "In Adjei and Boame v. The Nkomihene and Another, the plaintiffs—chiefs within the Volta River Federation—were arrested and prosecuted for insulting behavior toward a chief after presenting a memorandum to the State Council asserting their equal status and challenging the authority of the Nkomihene. The prosecution was initiated by the defendants, one of whom presided over the Native Court that convicted the plaintiffs. The convictions were later quashed on appeal. The West African Court of Appeal held that the prosecution was malicious, lacking reasonable and probable cause, particularly due to the conflict of interest and procedural impropriety. The trial judge's finding of lawful and bona fide prosecution was overturned, and the case was remitted for assessment of damages.",
+  "legalKeywords": [
+    "malicious prosecution",
+    "reasonable and probable cause",
+    "native customary offence",
+    "insulting behavior towards a chief",
+    "abuse of process",
+    "judicial bias",
+    "conflict of interest",
+    "quashed conviction",
+    "privileged communication",
+    "customary law",
+    "jurisdiction",
+    "bona fide prosecution",
+    "malice in law",
+    "Native Court",
+    "prosecutorial misconduct"
+  ],
+  "topics": [
+    "Tort Law",
+    "Customary Law",
+    "Judicial Conduct",
+    "Chieftaincy Disputes",
+    "Legal Procedure"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Korsah C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Coussey P.",
+      "role": "President"
+    },
+    {
+      "name": "Baker Ag.J.A.",
+      "role": "Acting Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal (Malicious Prosecution)",
+  "citations": [
+    "Tempest v. Snowden [1952] 1 All E.R. 1",
+    "Hicks v. Faulkner (1881) 8 Q.B.D. 167",
+    "Halsbury, Hailsham ed., Vol. 22, pp. 14-16"
+  ],
+  "rationaleHighlights": [
+    "Prosecution lacked reasonable and probable cause",
+    "Defendant presided over case in which he was accuser, creating bias",
+    "Conviction quashed due to lack of impartial tribunal",
+    "Production of memorandum was not inherently insulting or unlawful",
+    "Clear evidence of malice in initiating prosecution",
+    "Privileged communication to government does not constitute offense",
+    "Trial judge's factual inferences unsupported by evidence"
+  ],
+  "confidenceNotes": "High confidence; details are clearly stated in the judgment with direct quotes and legal reasoning provided.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/ADJEI AND BOAME v. THE NKOMIHENE AND ANOTHER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:17:55.448Z",
+    "plainTextLength": 13027
+  }
+}

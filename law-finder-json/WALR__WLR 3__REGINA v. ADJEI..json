@@ -1,0 +1,70 @@
+{
+  "caseTitle": "REGINA VERSUS ADJEI.",
+  "summary": "In Regina v. Adjei, the Court of Appeal of Ghana upheld the appellant's murder conviction. The appellant had written a detailed confession in his own hand while in police custody, which was admitted into evidence despite the absence of an independent lay witness. The court held that while the presence of such a witness is a useful procedural safeguard to authenticate voluntariness, it is not a legal prerequisite for admissibility. The judge's decision to admit the confession was justified based on the appellant's own handwriting—careful and uniform—and corroborating police testimony. However, the court found that the trial judge erred by directing the assessors to disregard the confession if they thought it might not have been voluntary, as admissibility is a question solely for the judge. Despite this misdirection, the appeal was dismissed because the error was harmless given the strength of the evidence, including the appellant's implausible alibi and the circumstantial proof of guilt.",
+  "legalKeywords": [
+    "evidence admissibility",
+    "confession",
+    "voluntariness",
+    "holograph statement",
+    "police procedure",
+    "judge's direction",
+    "assessors",
+    "misdirection",
+    "criminal trial",
+    "murder conviction",
+    "independent witness",
+    "authentication",
+    "threats and promises",
+    "weight of evidence",
+    "legal error without prejudice"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence Law",
+    "Confessions",
+    "Judicial Misdirection",
+    "Appellate Review"
+  ],
+  "verdict": "Conviction for murder upheld; appeal dismissed.",
+  "winningSide": "Crown",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "van Lare",
+      "role": "Ag.C.J."
+    },
+    {
+      "name": "Granville Sharp",
+      "role": "J.A."
+    },
+    {
+      "name": "Acolatse",
+      "role": "J"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Abisa Grunshie (1955) 1 W.A.L.R. 36"
+  ],
+  "rationaleHighlights": [
+    "The presence of an independent lay witness during confession is a guidance principle, not a legal requirement for admissibility.",
+    "A handwritten (holograph) confession, supported by credible police testimony, may be deemed voluntary even without a lay witness.",
+    "Questions of evidence admissibility are solely for the judge, not assessors or jury.",
+    "A direction to assessors to disregard a confession if possibly involuntary is a misdirection, as admissibility is a legal determination.",
+    "Despite the misdirection, no prejudice arose due to overwhelming evidence of guilt.",
+    "The careful and uniform handwriting of the accused supported the conclusion that the statement was made voluntarily.",
+    "The appellant's alibi was rejected as implausible and contradicted by prosecution witnesses.",
+    "The appeal failed because the trial judge was justified in admitting the confession."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and explicit holdings. Editorial note adds caution but does not undermine core legal principles established.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/REGINA v. ADJEI..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:55:15.577Z",
+    "plainTextLength": 9248
+  }
+}

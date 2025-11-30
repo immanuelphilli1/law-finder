@@ -1,0 +1,78 @@
+{
+  "caseTitle": "T H E R E P U B L I C v NANA OSEI BONSU ll, MAMPONGHENE",
+  "summary": "This Supreme Court of Ghana case arose from a chieftaincy dispute concerning the installation of Nana Yaa Adwubi as Mamponghemaa (queenmother) of Asante Mampong. The appellants, supporters of a rival nominee, claimed the installation on 29 February 2000 violated custom and constituted contempt of an injunction issued by the Ashanti Regional House of Chiefs. The core issue was whether the enstoolment occurred on 7 February or 29 February 2000. The appellants argued that installation required additional rites such as confinement and possession of stool regalia, while the respondents maintained that the 7 February event—comprising nomination, approval by kingmakers, and acceptance by the nominee—constituted full enstoolment under Mampong custom. The Supreme Court upheld the Court of Appeal’s reversal of contempt convictions, finding that the 7 February event satisfied local customary requirements. It emphasized that customary law is specific to each community and need not include universal rites. The court discredited the affidavit of Nana Afua Saka due to false claims about her tenure as acting queenmother and found greater credibility in the affidavits of recognized traditional authorities. Thus, the installation was valid, and no contempt occurred.",
+  "legalKeywords": [
+    "customary law",
+    "chieftaincy",
+    "enstoolment",
+    "queenmother",
+    "contempt of court",
+    "affidavit evidence",
+    "constitutional interpretation",
+    "Ashanti tradition",
+    "nomination",
+    "installation",
+    "Mampong",
+    "Botase Royal family",
+    "Regional House of Chiefs",
+    "traditional authority",
+    "judicial review"
+  ],
+  "topics": [
+    "Customary Law",
+    "Chieftaincy Disputes",
+    "Constitutional Law",
+    "Contempt of Court",
+    "Judicial Review"
+  ],
+  "verdict": "The appeal was dismissed. The Supreme Court upheld the Court of Appeal's decision overturning the contempt convictions, ruling that the installation of Nana Yaa Adwubi as Mamponghemaa on 7 February 2000 was valid under Asante Mampong customary law.",
+  "winningSide": "Respondents (Nana Osei Bonsu II, Busuapanin Alex Osei Bonsu, and Nana Yaa Adwubi)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Brobbey, J.S.C.",
+      "role": "author of judgment"
+    },
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "presiding"
+    },
+    {
+      "name": "Mrs. Wood, J.S.C.",
+      "role": "member of bench"
+    },
+    {
+      "name": "Ansa, J.S.C.",
+      "role": "member of bench"
+    },
+    {
+      "name": "Mrs. Adinyira, J.S.C.",
+      "role": "member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional and chieftaincy dispute",
+  "citations": [
+    "Republic v Sito l; Ex parte Fordjour [2001-2002] SCGLR 322",
+    "1992 Constitution of Ghana, art. 11(3)",
+    "Chieftaincy Act, 1971 (Act 370)"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court emphasized that customary law is community-specific under art. 11(3) of the 1992 Constitution.",
+    "Affidavit evidence was sufficient to determine the nature of enstoolment; no oral inquiry was required.",
+    "The court rejected the appellant's claim that physical seating on a stool or possession of regalia is essential for valid enstoolment.",
+    "Credibility was given to the affidavits of the Krontihene, Akwamuhene, and Abusuapanin over Nana Afua Saka due to her discredited status as acting queenmother.",
+    "Installation was deemed complete upon acceptance by the nominee and approval by kingmakers, per Mampong custom."
+  ],
+  "confidenceNotes": "High confidence; details are drawn directly from the judgment with clear attribution of parties, legal reasoning, and procedural history.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2007A/T H E     R E P U B L I C v  NANA OSEI BONSU ll, MAMPONGHENE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:56:44.440Z",
+    "plainTextLength": 26963
+  },
+  "trialDate": "2007-01-14"
+}

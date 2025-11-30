@@ -1,0 +1,73 @@
+{
+  "caseTitle": "ANOMABU STOOL VERSUS ACQUAH AND",
+  "summary": "The case of Anomabu Stool v. Acquah and Others, decided by the Judicial Committee of the Privy Council on December 2, 1957, concerned a land dispute between two traditional stools in Ghana over ownership and attachment of land in Abonu. The plaintiff, the Anomabu Stool, claimed title and an injunction against the defendants, who were natives under the Asebu Stool. The courts below found in favor of the plaintiff, relying partly on evidence of allegiance by the occupants to the Anomabu Stool. The defendants appealed, arguing that allegiance was a personal matter insufficient to prove land ownership and that the issue was a constitutional matter outside the jurisdiction of the Supreme Court. The Privy Council held that the real issue was land ownership, not constitutional relations, and that evidence of allegiance was relevant and could be sufficient in the absence of other evidence. It further ruled that questions of allegiance are not per se constitutional matters. The appeal was dismissed, affirming the lower courts' decisions.",
+  "legalKeywords": [
+    "allegiance",
+    "land ownership",
+    "constitutional matter",
+    "jurisdiction",
+    "evidence",
+    "State Councils Ordinance",
+    "Supreme Court jurisdiction",
+    "native customary law",
+    "onus of proof",
+    "injunction",
+    "stool land",
+    "paramount chief",
+    "political relations",
+    "Native Authority Ordinance",
+    "Courts Ordinance",
+    "declaration of title",
+    "attachment of land",
+    "Odikro",
+    "Provincial Council",
+    "concurrent findings"
+  ],
+  "topics": [
+    "Land Law",
+    "Constitutional Jurisdiction",
+    "Customary Law",
+    "Evidence Law",
+    "Chieftaincy Disputes"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Anomabu Stool (respondent)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lord Reid"
+    },
+    {
+      "name": "Lord Somervell of Harrow"
+    },
+    {
+      "name": "Mr. L. M. D. de Silva"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Judicial Committee of the Privy Council",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "[1956] A.C. 501",
+    "(1956) 2 W.A.L.R. 16"
+  ],
+  "rationaleHighlights": [
+    "The real issue was land ownership, not constitutional relations.",
+    "Allegiance, while personal, is relevant to land attachment and may suffice as evidence in absence of other proof.",
+    "Questions of allegiance are not inherently constitutional matters.",
+    "Section 88(3) of the Courts Ordinance does not apply where the suit is fundamentally a land dispute.",
+    "Courts below properly exercised jurisdiction; no error in law or jurisdictional overreach.",
+    "Injunction upheld as appropriate remedy where title was established and challenged.",
+    "Concurrent factual findings by lower courts are respected on appeal.",
+    "Discretionary remedies like injunctions cannot be challenged for the first time on appeal."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judgment text and clear articulation of legal reasoning by the Privy Council. All key elements including jurisdiction, evidence, and remedy are well-documented in the source.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/ANOMABU STOOL v. ACQUAH AND OTHERS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:15:44.706Z",
+    "plainTextLength": 14656
+  }
+}

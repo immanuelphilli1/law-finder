@@ -1,0 +1,66 @@
+{
+  "caseTitle": "THE HISTORY OF THE GHANA LEGAL SYSTEM THE EVOLUTION OF A UNI",
+  "summary": "This legal-historical analysis traces the evolution of Ghana's national court system from pre-colonial indigenous institutions to a unified colonial judiciary under British rule. Prior to European contact, Ghanaian societies had organized political and judicial structures, including village tribunals, divisional chief courts, and paramount chief courts, emphasizing reconciliation and social cohesion. With the arrival of the Portuguese in 1471 and later British influence, a dual legal system emerged. The British established petty debt courts in the 1820s, limited initially to forts, and expanded jurisdiction over time. The Bond of 1844 and the British Settlements Act of 1841 laid the foundation for formal legal institutions. The first Supreme Court was established in 1853, applying English common law, while recognizing customary law unless it was deemed 'barbarous' or contrary to natural justice. The 1876 Supreme Court Ordinance re-established a comprehensive Supreme Court with appellate and divisional divisions, marking a shift toward centralized colonial administration following the Ashanti wars. The analysis highlights the interplay between trade, political control, and legal development in shaping Ghana's modern judiciary.",
+  "legalKeywords": [
+    "customary law",
+    "British colonial courts",
+    "native courts",
+    "jurisdiction",
+    "Supreme Court Ordinance",
+    "Bond of 1844",
+    "Order-in-Council",
+    "judicial assessor",
+    "conflict of laws",
+    "legal evolution",
+    "Gold Coast",
+    "Ashanti",
+    "Fanti",
+    "admiralty jurisdiction",
+    "common law"
+  ],
+  "topics": [
+    "legal history",
+    "customary law",
+    "colonial judiciary",
+    "Supreme Court",
+    "jurisdiction"
+  ],
+  "verdict": "The document does not present a judicial verdict but provides a scholarly account of the historical development of Ghana's legal system.",
+  "winningSide": "N/A",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Yeboah K Y",
+      "role": "author/analyst"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana (historical evolution)",
+    "country": "Ghana"
+  },
+  "caseType": "historical-legal-evolution",
+  "citations": [
+    "[1991–92] VOL. XVIII RGL 1–35",
+    "Fanti Customary Laws (2nd ed, 1904)",
+    "British Settlements Act",
+    "Supreme Court Ordinance 1876",
+    "Order-in-Council 4 April 1856",
+    "Bond of 1844"
+  ],
+  "rationaleHighlights": [
+    "Recognition of pre-existing organized indigenous legal systems before European contact",
+    "Dual legal system: coexistence of British and native courts",
+    "Presumption in favor of customary law unless 'barbarous' or 'abominable'",
+    "Gradual expansion of British jurisdiction from forts to hinterlands",
+    "Establishment of Supreme Court in 1853 and reorganization in 1876",
+    "Role of political control and trade in judicial development",
+    "Influence of British administrative policies in West Africa"
+  ],
+  "confidenceNotes": "The document is a scholarly legal-historical analysis with clear citations to primary and secondary sources. However, it is truncated near the end, limiting full contextual understanding of later judicial developments.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/91- 92/THE HISTORY OF THE GHANA LEGAL SYSTEM THE EVOLUTION OF A UNI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:38:03.060Z",
+    "plainTextLength": 84373
+  }
+}

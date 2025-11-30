@@ -1,0 +1,63 @@
+{
+  "caseTitle": "SEMINAR ON THE TREATMENT OF OFFENDERS MODES OF ARRESTS AND T",
+  "summary": "This document is a legal seminar paper by Alhaji Nuhhu Billa, a senior police officer and barrister, discussing the legal framework and practices surrounding arrests and the treatment of suspects and complainants under Ghanaian law as of 1989–1990. It outlines the definition and purpose of arrest, legal authority derived from the Criminal Procedure Code, 1960 (Act 30), and distinguishes between warrant and warrantless arrests. The paper emphasizes lawful procedures, humane treatment of suspects, rights of the accused, and the duties of police in handling complaints and detentions. It also critiques infrastructure deficiencies, such as poor police cell conditions and lack of transport, affecting effective law enforcement.",
+  "legalKeywords": [
+    "arrest",
+    "Criminal Procedure Code",
+    "warrant of arrest",
+    "detention",
+    "police powers",
+    "right to silence",
+    "Evidence Decree",
+    "judges' rules",
+    "private arrest",
+    "presumption of innocence",
+    "treatment of suspects",
+    "complainant rights",
+    "bail",
+    "custodial rights",
+    "use of force",
+    "search and seizure",
+    "juvenile arrest",
+    "police discretion",
+    "mental disorder detention",
+    "public order"
+  ],
+  "topics": [
+    "Criminal Procedure",
+    "Police Powers",
+    "Human Rights",
+    "Legal Reform",
+    "Law Enforcement Ethics"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Legal Commentary / Seminar Paper",
+  "citations": [
+    "Criminal Procedure Code, 1960 (Act 30)",
+    "Evidence Decree, 1975 (NRCD 323)",
+    "Christie v Leachinsky [1947] AC 573"
+  ],
+  "rationaleHighlights": [
+    "Arrest must be justified by law and based on reasonable suspicion or commission of an offence",
+    "Suspects must be informed of the reason for arrest and treated humanely",
+    "Private persons may arrest for offences committed in their presence involving violence, theft, or fraud",
+    "All suspects are presumed innocent until proven guilty",
+    "Police must adhere to Judges' Rules and section 120(2)-(3) of NRCD 323 when taking statements",
+    "Juveniles should be released to guardians when possible",
+    "Poor infrastructure, including cells and transport, hampers effective justice delivery"
+  ],
+  "confidenceNotes": "The document is a legal commentary, not a judicial decision, so verdict and winning side are not applicable. Information is drawn from statutory law and police practice in Ghana circa 1989–1990. Citations are accurate and contextually relevant.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/89 - 90/SEMINAR ON THE TREATMENT OF OFFENDERS MODES OF ARRESTS AND T.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:54:21.862Z",
+    "plainTextLength": 13584
+  }
+}

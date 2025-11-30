@@ -1,0 +1,39 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The document is not a judicial decision but rather a homepage for 'Ghana Law Finder', an online legal resource portal. It offers a self-help guide to the law, case and subject matter indexing, and is maintained by Tony Kaddy. There is no case content, ruling, or judicial analysis present in the provided text.",
+  "legalKeywords": [
+    "Ghana Law Finder",
+    "legal portal",
+    "self-help guide",
+    "case index",
+    "legal library",
+    "Tony Kaddy",
+    "copyright",
+    "online resource",
+    "legal research",
+    "subject matter index"
+  ],
+  "topics": [
+    "Legal Research",
+    "Online Legal Portal",
+    "Ghana Law"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "unknown",
+    "country": "Ghana"
+  },
+  "caseType": "unknown",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The provided document does not contain a legal decision, case details, or judicial content. It appears to be a homepage or portal for a legal resource website with no case information.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/90c/TEMP.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:52:11.238Z",
+    "plainTextLength": 295
+  }
+}

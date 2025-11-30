@@ -1,0 +1,89 @@
+{
+  "caseTitle": "FRANK DAVIES VRS THE ATTORNEY-GENERAL ,THE ELECTORAL COMMISSION",
+  "summary": "In Frank Davies v. The Attorney-General & The Electoral Commission, the Supreme Court of Ghana unanimously held that the Minister for Local Government lacked constitutional authority to create electoral areas under the Local Government Act 1993 (Act 462). The plaintiff challenged various Legislative Instruments (LIs) that purported to divide local government areas into electoral areas, arguing this violated Article 45(b) of the 1992 Constitution, which grants the Electoral Commission the exclusive power to demarcate electoral boundaries. The Court agreed, declaring that any language in the LIs suggesting the Minister created electoral areas was ultra vires, unconstitutional, and void to the extent of inconsistency with Article 45(b). While the Court granted declarations of nullity regarding the offending provisions, it qualified the injunction against holding elections, allowing elections to proceed if based on electoral areas lawfully designated by the Electoral Commission. The judgment reinforced constitutional supremacy and the exclusive demarcation role of the Electoral Commission.",
+  "legalKeywords": [
+    "electoral boundaries",
+    "constitutional interpretation",
+    "ultra vires",
+    "separation of powers",
+    "judicial review",
+    "legislative instruments",
+    "Local Government Act",
+    "Electoral Commission powers",
+    "Article 45",
+    "constitutional supremacy",
+    "demarcation of constituencies",
+    "judicial declaration",
+    "nullity of legislation",
+    "ancillary powers",
+    "statutory interpretation"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Electoral Law",
+    "Judicial Review",
+    "Separation of Powers",
+    "Local Government"
+  ],
+  "verdict": "The plaintiff's action succeeded in part; declarations of unconstitutionality and nullity were granted regarding the Minister's purported creation of electoral areas, but the injunction against elections was qualified.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. S. K. Date-Bah",
+      "role": "author of judgment"
+    },
+    {
+      "name": "W. A. Atuguba",
+      "role": "presiding/acting Chief Justice"
+    },
+    {
+      "name": "S. O. A. Adinyira (Mrs.)",
+      "role": "Justice"
+    },
+    {
+      "name": "R. C. Owusu (Ms.)",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin-Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "N. S. Gbadegbe",
+      "role": "Justice"
+    },
+    {
+      "name": "V. Akoto-Bamfo (Mrs.)",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Article 45(b), 1992 Constitution of Ghana",
+    "Local Government Act 1993 (Act 462)",
+    "LI 1843",
+    "C.I. 46 (Representation of the People (Parliamentary Constituencies) Instrument, 2004)"
+  ],
+  "rationaleHighlights": [
+    "The Electoral Commission has exclusive constitutional authority under Article 45(b) to demarcate electoral boundaries.",
+    "The Minister for Local Government lacks constitutional power to create electoral areas.",
+    "Language in LIs suggesting such power is ultra vires and unconstitutional.",
+    "Ambiguity in statutory drafting must be resolved against the executive.",
+    "Offending provisions are declared void to the extent of inconsistency with the Constitution.",
+    "Injunction against elections is qualified if EC has lawfully designated the areas.",
+    "Court affirms constitutional supremacy over ministerial instruments."
+  ],
+  "confidenceNotes": "High confidence; judgment is unanimous and reasoning is clearly articulated with direct constitutional and statutory references.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/FRANK DAVIES VRS  THE ATTORNEY-GENERAL ,THE ELECTORAL COMMISSION.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:33:20.204Z",
+    "plainTextLength": 9167
+  },
+  "trialDate": "2012-11-14"
+}

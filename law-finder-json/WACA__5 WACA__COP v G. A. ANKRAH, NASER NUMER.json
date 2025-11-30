@@ -1,0 +1,61 @@
+{
+  "caseTitle": "COP v G. A. ANKRAH, NASER NUMER",
+  "summary": "This 1939 decision by the West Africa Court of Appeal addressed an appeal from the Supreme Court involving multiple appellants, including G. A. Ankrah and Naser Numer. The court upheld the lower court's decision but emphasized a critical procedural point regarding the treatment of alleged previous convictions. The judges noted that while the record referenced three prior convictions of the first accused, it failed to indicate whether these were admitted by the accused or proved through evidence. The court clarified that when previous convictions are alleged, the accused must be asked to admit them, and if not admitted, they must be formally proved and the proof recorded. Despite this omission, the appeals of all appellants were dismissed.",
+  "legalKeywords": [
+    "previous convictions",
+    "admission of guilt",
+    "proof of prior offenses",
+    "appellate review",
+    "criminal procedure",
+    "record of conviction",
+    "judicial compliance",
+    "procedural fairness",
+    "criminal appeal",
+    "evidentiary standard"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Prior Convictions",
+    "Judicial Record",
+    "Procedural Compliance"
+  ],
+  "verdict": "Appeals dismissed",
+  "winningSide": "Respondent (Commissioner of Police)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "Strother-Stewart, J.",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "WACA/5 WACA/COP v G. A. ANKRAH, NASER NUMER"
+  ],
+  "rationaleHighlights": [
+    "Previous convictions must be either admitted by the accused or proved with proper record.",
+    "Failure to clarify whether prior convictions were admitted or proved constitutes a procedural concern.",
+    "Appellate court upheld lower court's decision despite procedural ambiguity."
+  ],
+  "confidenceNotes": "The case is a clear appellate decision from the West Africa Court of Appeal with unambiguous procedural focus on prior convictions.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/COP v G. A. ANKRAH, NASER NUMER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:49:02.442Z",
+    "plainTextLength": 1898
+  },
+  "trialDate": "1939-12-07"
+}

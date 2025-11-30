@@ -1,0 +1,69 @@
+{
+  "caseTitle": "WILLIAMS VERSUS DEPUTY COMMISSIONER OF INCOME TAX.",
+  "summary": "In Williams v. Deputy Commissioner of Income Tax (1947), the appellant, F. A. Williams, sought to deduct �700 spent on legal fees in litigation over a deceased estate (Taylor v. Essuman and Williams), pending before the Privy Council, from his taxable income for 1945–1946. He argued the expenses were incurred to secure future income and thus deductible under section 10(1) of the Income Tax Ordinance, c. 27 of 1943. The Commissioner refused, and the appeal was dismissed. Hooper J. held that the expenses were private in nature and not incurred in the production of income, falling under section 11(a) as non-deductible. The court distinguished between income-producing outgoings and capital investments in property with speculative returns, affirming that no deduction is allowable until income is actually realized, and no statutory basis exists for exempting private legal costs even if linked to potential financial gain.",
+  "legalKeywords": [
+    "income tax",
+    "deduction",
+    "legal expenses",
+    "taxable income",
+    "private expenses",
+    "capital investment",
+    "litigation costs",
+    "production of income",
+    "tax assessment",
+    "appeal",
+    "Privy Council",
+    "West African Court of Appeal",
+    "Gold Coast",
+    "section 10",
+    "section 11",
+    "section 58",
+    "professional income",
+    "speculative gain",
+    "exemption",
+    "tax refund"
+  ],
+  "topics": [
+    "Tax Law",
+    "Deductions",
+    "Legal Expenses",
+    "Income Tax Assessment",
+    "Private Expenditure"
+  ],
+  "verdict": "Appeal dismissed.",
+  "winningSide": "Deputy Commissioner of Income Tax",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Hooper J.",
+      "role": "presiding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Western Judicial Division, Divi�sional Court, Sekondi",
+    "country": "Ghana"
+  },
+  "caseType": "tax",
+  "citations": [
+    "Southwell v. Sarill Brothers [1901] 2 K.B. 349; 17 T.L.R 513",
+    "Income Tax Ordinance, c. 27 of 1943, s. 10(1)",
+    "Income Tax Ordinance, c. 27 of 1943, s. 11(a)",
+    "Income Tax Ordinance, c. 27 of 1943, s. 58(1)"
+  ],
+  "rationaleHighlights": [
+    "Legal expenses not incurred in production of income are not deductible.",
+    "Expenses for litigation over inheritance are private, not income-producing.",
+    "Section 11(a) excludes private expenses from deductions.",
+    "Capital investment in property litigation does not qualify as income-earning expenditure.",
+    "No income realized yet; outcome before Privy Council pending.",
+    "No provision in law allows deduction for private legal fees aimed at securing property.",
+    "Allowing such deductions would open floodgates to speculative claims."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text and citations are explicitly referenced.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/January 28, 1947.).htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:29:02.028Z",
+    "plainTextLength": 6852
+  }
+}

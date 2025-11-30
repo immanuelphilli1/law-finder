@@ -1,0 +1,59 @@
+{
+  "caseTitle": "MEHR VERSUS TRABOULSI",
+  "summary": "In Mehr v. Traboulsi & Co., the defendants ordered yellow cloth by sample for schoolgirls' uniforms. The delivered cloth differed in shade from the sample, and an independent assessor from the Manchester Chamber of Commerce determined the difference was outside \"normal tolerance,\" recommending a 5% price allowance. The contract included a clause stating \"small deviations in colour must be tolerated.\" The court held that the deviation exceeded acceptable limits, breaching the implied condition in sale-by-sample contracts that bulk must match the sample. The tolerance clause did not cover such a significant deviation. The assessor's recommendation was not binding but merely a suggestion for settlement. As the goods failed to meet the required standard and the defendants' sub-buyer refused delivery, the defendants were entitled to repudiate the contract. The plaintiffs' claim failed, and the defendants succeeded on their counterclaim, recovering damages of \u000228 18s. 5d. for lost resale profit, which was foreseeable. Costs were awarded to the defendants.",
+  "legalKeywords": [
+    "sale by sample",
+    "breach of contract",
+    "implied condition",
+    "deviation in colour",
+    "normal tolerance",
+    "independent assessor",
+    "rejection of goods",
+    "damages",
+    "counterclaim",
+    "resale",
+    "school uniform",
+    "contractual clause",
+    "buyer's rights",
+    "quality correspondence",
+    "commercial expectations"
+  ],
+  "topics": [
+    "Contract Law",
+    "Sale of Goods",
+    "Breach of Contract",
+    "Damages",
+    "Commercial Law"
+  ],
+  "verdict": "The plaintiffs' claim was dismissed. Judgment was entered for the defendants on their counterclaim for \u000228 18s. 5d. plus costs.",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Windsor-Aubrey J.",
+      "role": "presiding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Eastern Judicial Division, Divi�sional Court, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Aitken, Campbell & Co. Ltd. v. Boullen and Gatenby, 1908, 10 S.C. 490"
+  ],
+  "rationaleHighlights": [
+    "In a sale by sample, there is an implied condition that the bulk must correspond with the sample in quality.",
+    "A deviation outside \"normal tolerance\" constitutes a breach of the implied condition, not saved by a clause allowing \"small differences\".",
+    "The independent assessor's recommendation for a 5% price reduction was non-binding and merely a suggested basis for settlement.",
+    "Buyer entitled to reject goods and repudiate contract where deviation undermines the commercial purpose.",
+    "Damages awarded for lost profit on resale, as the loss was foreseeable and directly linked to the breach."
+  ],
+  "confidenceNotes": "The case relies on common law principles as the Sale of Goods Act, 1893, does not apply in Ghana, but the court treats it as reflective of existing law. The ruling is consistent with established contract law on sale by sample.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/MERR v. TRABOULSI & CO..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:27:10.113Z",
+    "plainTextLength": 7471
+  }
+}

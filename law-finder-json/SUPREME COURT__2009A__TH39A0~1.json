@@ -1,0 +1,88 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The Supreme Court of Ghana, in a ruling delivered on 22nd July 2009, granted an application for certiorari to quash an interlocutory injunction issued by the Fast Track High Court, Accra, which had allowed private lotto operators to continue operations pending appeal. The Court held that the National Lotto Act, 2006 (Act 722) had lawfully prohibited private lotto operations after 30th March 2007, and that the High Court's injunction effectively granted a 'judicial licence' to operate illegally, thereby contravening statutory law. The Supreme Court emphasized that courts must uphold statutes and cannot authorize breaches of law, even through interim relief. The decision reaffirmed the principle that judicial discretion must operate within the bounds of statutory authority and constitutional order.",
+  "legalKeywords": [
+    "certiorari",
+    "interlocutory injunction",
+    "ultra vires",
+    "statutory interpretation",
+    "judicial discretion",
+    "constitutional validity",
+    "judicial licence",
+    "error of law",
+    "status quo ante",
+    "inherent jurisdiction",
+    "public policy",
+    "legislative supremacy",
+    "common law",
+    "gazette notification",
+    "judicial notice",
+    "procedural fairness",
+    "breach of law",
+    "court jurisdiction",
+    "nullity",
+    "discretionary relief"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Constitutional Law",
+    "Judicial Review",
+    "Injunctions",
+    "Statutory Interpretation"
+  ],
+  "verdict": "Application for certiorari granted",
+  "winningSide": "National Lottery Authority",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "W. A. Atuguba",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Motion",
+  "citations": [
+    "Ghana Lotto Operators Association & Others v National Lottery Authority (2007-2008) SCGLR 1088",
+    "Regina v Sarpong (1960) GLR 15 C.A.",
+    "Mosi v Bagyina (1963) 1 GLR 337 S.C.",
+    "Republic v District Magistrate Accra, ex parte Adio (1972) 2GLR 125 C.A.",
+    "Canadian Pacific Railway v Gaud and Others (1949) 2 K.B. 239 C.A."
+  ],
+  "rationaleHighlights": [
+    "The National Lotto Act, 2006 (Act 722) came into force on 29 December 2006, and private lotto operations were deemed illegal after 30 March 2007.",
+    "The High Court lacked jurisdiction to grant an injunction allowing continued operation of an illegal business.",
+    "Courts must not authorize breaches of statutory law, even through interim relief.",
+    "An injunction that permits illegality is ultra vires and constitutes an error on the face of the record.",
+    "Judicial discretion must be exercised within the framework of statutory and constitutional limits.",
+    "The principle that courts are servants of the legislature was reaffirmed.",
+    "The injunction effectively created a 'temporary judicial licence' contrary to law.",
+    "Statutes must be upheld even if parties claim hardship."
+  ],
+  "confidenceNotes": "The summary is based on a complete and coherent portion of the judgment. All key legal reasoning, parties, and outcomes are clearly stated in the source text. The truncated end does not affect the core holding or rationale.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/TH39A0~1.HTM",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:01:45.212Z",
+    "plainTextLength": 18389
+  },
+  "trialDate": "2009-07-22"
+}

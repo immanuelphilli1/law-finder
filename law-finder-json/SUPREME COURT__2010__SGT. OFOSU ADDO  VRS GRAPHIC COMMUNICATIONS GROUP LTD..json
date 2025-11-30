@@ -1,0 +1,82 @@
+{
+  "caseTitle": "SGT. OFOSU ADDO VRS GRAPHIC COMMUNICATIONS GROUP LTD.",
+  "summary": "This Supreme Court of Ghana decision in SGT. OFOSU ADDO v. GRAPHIC COMMUNICATIONS GROUP LTD. (Civil Appeal No. J4/45/2010, decided 8th December 2010) concerned an appeal against the Court of Appeal's grant of a stay of execution of a High Court judgment for defamation. The plaintiff had won damages and a retraction order, but the defendant appealed and successfully obtained a stay of execution from the Court of Appeal. The plaintiff then appealed to the Supreme Court, arguing that the stay was improperly granted. The Supreme Court dismissed the appeal, affirming that the Court of Appeal had the independent jurisdiction under Rule 28 of the Court of Appeal Rules to review the refused stay application. It held that the appellate court properly exercised its discretion to prevent potential injustice, such as the plaintiff being forced to publish a retraction only to win on appeal. Procedural irregularities in the affidavit were deemed waived, and the claim that new defenses were improperly introduced was dismissed due to lack of supporting evidence in the record. The Court emphasized the importance of preserving the integrity of the appellate process.",
+  "legalKeywords": [
+    "defamation",
+    "stay of execution",
+    "appeal",
+    "discretion",
+    "Court of Appeal",
+    "Supreme Court",
+    "retraction",
+    "qualified privilege",
+    "interim relief",
+    "judicial process",
+    "evidence",
+    "affidavit",
+    "procedural compliance",
+    "judicial discretion",
+    "appellate jurisdiction",
+    "irreparable harm",
+    "balance of convenience",
+    "judgment debt",
+    "procedural irregularity",
+    "waiver"
+  ],
+  "topics": [
+    "Defamation",
+    "Appellate Procedure",
+    "Stay of Execution",
+    "Judicial Discretion",
+    "Civil Litigation"
+  ],
+  "verdict": "The appeal was dismissed and the Court of Appeal's ruling granting a stay of execution was affirmed.",
+  "winningSide": "Graphic Communications Group Ltd. (Defendant/Appellant/Respondent)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "N. S. GBADEGBE",
+      "role": "author"
+    },
+    {
+      "name": "W. A. ATUGUBA",
+      "role": "member"
+    },
+    {
+      "name": "S. A. BROBBEY",
+      "role": "member"
+    },
+    {
+      "name": "S. K. DATE-BAH",
+      "role": "member"
+    },
+    {
+      "name": "J. ANSAH",
+      "role": "member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "DAHABIEH v S A TURQUI [2001-2002] SCGLR 498",
+    "Re MCRAE (1883), 25 Ch.D. 16",
+    "Ex-parte Ghana Cable Ltd [2005-2006] SCGLR 107 at 109"
+  ],
+  "rationaleHighlights": [
+    "Appellate courts have independent jurisdiction to review stay applications refused by trial courts under Rule 28 of the Court of Appeal Rules.",
+    "The Supreme Court upheld the Court of Appeal's discretion to grant a stay to prevent potential injustice if the appeal succeeded.",
+    "Failure to include prior application details in affidavits was deemed a waivable irregularity, not fatal to the application.",
+    "The defense of qualified privilege was not improperly introduced, as the record did not support the appellant's claim.",
+    "Courts may grant stay of execution to preserve the effectiveness of an appeal, even without strict proof of irreparable harm or high likelihood of success."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details (parties, court, judgment, reasoning) are explicitly stated in the document. Citations and legal principles are directly quoted.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/SGT. OFOSU ADDO  VRS GRAPHIC COMMUNICATIONS GROUP LTD..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:43:09.593Z",
+    "plainTextLength": 14197
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "caseTitle": "OJUOLAPE VERSUS BENNING",
+  "summary": "In Ojuolape v. Benning, the Supreme Court of the Gold Coast set aside a sale of immovable property conducted without the required twenty-one days' public notice, following an indefinite postponement due to interpleader proceedings. Although initial notice had been given for a January 1956 sale, the sale was delayed for ten months. The registrar's telegram instructing the auctioneer to proceed did not trigger compliance with the notice rule, which the court held must be re-fulfilled after indefinite postponement. The court rejected reliance on Okai v. O. J. Reindorf, distinguishing it based on outdated rules. Finding a material irregularity under Order 51, Rule 15 of the Supreme Court (Civil Procedure) Rules, 1954, the sale was invalidated. The property was ordered to be resold with proper notice, the purchaser was to be refunded from resale proceeds, and the auctioneer was ordered to pay the applicant's costs.",
+  "legalKeywords": [
+    "sale by order of court",
+    "material irregularity",
+    "notice of sale",
+    "interpleader proceedings",
+    "postponement of sale",
+    "re-advertisement of sale",
+    "execution of judgment",
+    "auction without notice",
+    "judgment-debtor rights",
+    "procedural compliance",
+    "property valuation",
+    "irregular sale set aside",
+    "resale ordered",
+    "costs awarded"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Execution of Judgment",
+    "Property Law",
+    "Judicial Sales",
+    "Procedural Fairness"
+  ],
+  "verdict": "The sale was set aside due to material irregularity in failing to re-advertise after indefinite postponement.",
+  "winningSide": "Judgment-debtor (applicant)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Windsor-Aubrey J.",
+      "role": "presiding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Eastern Judicial Division, Divi\u0002sional Court, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Supreme Court (Civil Procedure) Rules, 1954, Ord. 51, r. 15",
+    "Okai v. O. J. Reindorf (1914) Divisional and Full Court Judgments, 1919, p. 75"
+  ],
+  "rationaleHighlights": [
+    "A sale postponed indefinitely due to interpleader requires re-compliance with notice requirements.",
+    "Rule 15 mandates at least 21 days' public notice for every sale.",
+    "An order to proceed after long delay triggers need for fresh advertisement.",
+    "Absence of notice likely results in undervaluation of property.",
+    "Prior case (Okai) distinguished due to different procedural rules.",
+    "Material irregularity found; sale set aside to uphold fairness.",
+    "Purchaser entitled to refund; judgment-creditor given time to repay from resale proceeds.",
+    "Auctioneer held responsible for costs due to procedural failure."
+  ],
+  "confidenceNotes": "The case is clearly reported with direct judicial reasoning and citation to procedural rules; high confidence in accuracy.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/OJUOLAPE v. BENNING.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:25:54.486Z",
+    "plainTextLength": 5476
+  }
+}

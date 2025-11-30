@@ -1,0 +1,37 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The provided document does not contain a legal decision or judicial ruling from the Supreme Court of Ghana. Instead, it appears to be a webpage or index for a legal resource database titled 'Ghana Law Finder,' which offers a self-help guide to the law, case and subject matter indexing, and contact information. There is no case content, judgment, or legal analysis present in the text provided.",
+  "legalKeywords": [
+    "Ghana Law Finder",
+    "legal database",
+    "case index",
+    "legal research",
+    "self-help legal guide",
+    "judicial resources",
+    "law library",
+    "online legal portal"
+  ],
+  "topics": [
+    "Legal Research",
+    "Court Resources",
+    "Ghanaian Law"
+  ],
+  "verdict": "not applicable",
+  "winningSide": "not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Not Applicable",
+    "country": "Ghana"
+  },
+  "caseType": "Not Applicable",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "Low confidence in extracting legal insights due to absence of actual case content; source appears to be a legal directory or portal index rather than a judicial decision.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/1997.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T09:56:21.170Z",
+    "plainTextLength": 295
+  }
+}

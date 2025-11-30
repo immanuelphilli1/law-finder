@@ -1,0 +1,79 @@
+{
+  "caseTitle": "REX V P. H. BRAVO JONES",
+  "summary": "The appellant, P. H. Bravo Jones, was charged with forcible entry under 5 Ric. II c. 7 in Sierra Leone's Supreme Court. After the defense closed, the court amended the charge to 21 Jac. 1 c. 15 without requiring a new plea or allowing further defense. The jury convicted, and a fine or imprisonment was imposed. On appeal, the West African Court of Appeal held that amending the charge after the defense closed—especially to a substantively different offense—constituted a serious injustice. The court emphasized that such an amendment altered the nature of the charge and denied the appellant a fair opportunity to respond. The conviction and sentence were quashed, and an acquittal was entered.",
+  "legalKeywords": [
+    "forcible entry",
+    "amendment of charge",
+    "criminal procedure",
+    "injustice in trial",
+    "defective information",
+    "section 116 (2) Criminal Procedure Ordinance",
+    "indictment amendment",
+    "penal statute interpretation",
+    "right to fair trial",
+    "difference in statutory offenses",
+    "Rex v. Tuttle",
+    "Rex v. Hughes",
+    "leasehold property",
+    "freehold property",
+    "judicial overreach",
+    "procedural fairness",
+    "statutory construction",
+    "acquittal on appeal",
+    "trial after submission of no case",
+    "amendment after defense closure"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Procedural Justice",
+    "Appellate Review",
+    "Statutory Interpretation",
+    "Fair Trial Rights"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Lane",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "R. v. Tuttle (28 Cox C.C. 610; 21 Cr. App. Rep. 85)",
+    "R. v. Hughes (20 Cr. App. Rep. 4)",
+    "Section 116 (2) Criminal Procedure Ordinance, 1932 (No. 38 of 1932)",
+    "5 Ric. II c. 7",
+    "21 Jac. 1 c. 15"
+  ],
+  "rationaleHighlights": [
+    "Amendment after defense closure caused injustice",
+    "Offence under 21 Jac. 1 c. 15 is substantively different from 5 Ric. II c. 7",
+    "No opportunity given to plead or defend amended charge",
+    "Amendment altered the root of the case",
+    "Penal statutes must be strictly construed",
+    "Trial court overstepped by revising the charge post-defense",
+    "Acquittal required due to procedural unfairness"
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text, including names, legal provisions, procedural history, and appellate reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/REX V   P. H. BRAVO JONES.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:44:09.144Z",
+    "plainTextLength": 11673
+  },
+  "trialDate": "1939-03-15"
+}

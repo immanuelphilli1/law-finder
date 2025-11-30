@@ -1,0 +1,59 @@
+{
+  "caseTitle": "OKAIKOR v OPARE AND MENSAH",
+  "summary": "In Okai kor v Op are and Mensah, the plaintiff and her brother, C. A. Mensah, jointly owned a house in Accra, which was partitioned following a customary arbitration. After a prolonged dispute, the plaintiff performed the Ga customary rite of 'tako mli mfo' (severance of family ties) thirty years before her brother's death, cutting off all familial and inheritance rights. The brother's portion of the property was occupied by the defendant, who continued to pay rent to the brother’s son after the brother’s death. The plaintiff claimed possession, asserting sole inheritance rights. The court held that the partition validly created separate ownership and that the severance ritual barred the plaintiff from claiming any interest in her brother’s estate under Ga custom. As no reconciliation occurred before or after death, the plaintiff had no succession rights. Judgment was entered for the defendants.",
+  "legalKeywords": [
+    "customary law",
+    "severance of family ties",
+    "tako mli mfo",
+    "inheritance rights",
+    "partition of property",
+    "Ga custom",
+    "reconciliation ritual",
+    "disinheritance",
+    "joint ownership",
+    "succession under native law",
+    "funeral rights",
+    "property dispute"
+  ],
+  "topics": [
+    "Customary Law",
+    "Property Law",
+    "Inheritance and Succession",
+    "Family Law"
+  ],
+  "verdict": "Judgment for the defendant",
+  "winningSide": "defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Quashie-Idun J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil - Property Dispute",
+  "citations": [
+    "Sackey v. Okantah (1916) Divisional and Full Court Judgments, 1919, p. 88",
+    "Arnoabimaa and Another v. Badu and Others (1956) 1 W.A.L.R. 227"
+  ],
+  "rationaleHighlights": [
+    "Partition via customary arbitration replaced joint ownership with individual ownership.",
+    "Performance of 'tako mli mfo' severed family ties and extinguished inheritance rights under Ga custom.",
+    "Tema custom dictates that a deceased man's individually owned property passes to his children.",
+    "No reconciliation occurred, either during the brother's life or posthumously, thus no restoration of succession rights.",
+    "Severance ritual includes mutual exclusion from funerals and forfeiture of property claims.",
+    "Consent not required for severance itself, but necessary for partition of jointly held property.",
+    "The plaintiff’s non-participation in the brother’s funeral confirmed the severance was active.",
+    "Reconciliation requires mediation by a close relative and payment of specified items (sheep, cash, rum) to restore rights."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text and editorial notes. Case is clearly reported with full reasoning and citation to precedent.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/OKAIKOR v OPARE AND MENSAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:58:37.818Z",
+    "plainTextLength": 8331
+  }
+}

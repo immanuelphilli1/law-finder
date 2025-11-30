@@ -1,0 +1,63 @@
+{
+  "caseTitle": "HERVIE VERSUS TAMAKLOE AND OTHERS..",
+  "summary": "In Her vie v. Tamakloe and Others, heard in the High Court, Eastern Judicial Division, the plaintiff sued as head of the Avu family seeking an injunction and damages for trespass to family creeks. The defendants denied the plaintiff's membership in the male line and his headship. The court found that the plaintiff failed to prove descent in the male line and provided no evidence of formal or implied appointment as family head under native custom. Despite prior judicial recognition of male-line descendants as managers of the creeks, the plaintiff’s inconsistent testimony and lack of evidentiary support for his headship led to dismissal of the claim. The judgment emphasized that family headship in patrilineal societies is not automatic but requires appointment or acceptance by family elders, who may select candidates outside the direct male line if necessary.",
+  "legalKeywords": [
+    "family headship",
+    "native law and custom",
+    "patrilineal descent",
+    "appointment of family head",
+    "evidence of parentage",
+    "genealogical evidence",
+    "trespass to land",
+    "injunction",
+    "Mankralo",
+    "elders' authority",
+    "customary leadership",
+    "judicial credibility",
+    "false testimony",
+    "succession under custom",
+    "maternal line eligibility"
+  ],
+  "topics": [
+    "Customary Law",
+    "Family Law",
+    "Land Rights",
+    "Evidence",
+    "Judicial Precedent"
+  ],
+  "verdict": "The plaintiff's claim was dismissed due to failure to prove membership in the male line and lack of evidence regarding appointment as family head.",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Action for Trespass and Injunction",
+  "citations": [
+    "Makata v. Ahorli and Others (1956) 1 W.A.L.R. 169",
+    "Judgment of Coussey J., December 21, 1948 (referred to)"
+  ],
+  "rationaleHighlights": [
+    "Headship under native custom is not automatic and must be conferred by elders through formal appointment or implied acceptance.",
+    "Elders may appoint a family head from the maternal line in patrilineal areas if no suitable male-line candidate exists.",
+    "The plaintiff’s genealogical claims were contradictory and inconsistent with prior sworn testimony, undermining credibility.",
+    "Prior court judgment recognized male-line descendants as managers of the creeks, but did not confer automatic headship.",
+    "No evidence was presented that the plaintiff was elected or supported in acts of headship by principal family members.",
+    "The role of Mankralo of Bator does not automatically equate to headship of the Avu family.",
+    "Failure to prove both lineage and appointment resulted in dismissal of the claim.",
+    "Defendants’ entry onto the land was not unlawful as they asserted rights as family members and head, which were not rebutted."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning, citation of precedent, and clear evidentiary analysis. Some peripheral details (e.g., exact date of Coussey J.'s judgment) appear inconsistently (1958 cited in text vs. 1948 in body), but core legal principles and outcome are clearly established.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/HERVIE v. TAMAKLOE AND OTHERS...htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:05:06.025Z",
+    "plainTextLength": 8378
+  }
+}

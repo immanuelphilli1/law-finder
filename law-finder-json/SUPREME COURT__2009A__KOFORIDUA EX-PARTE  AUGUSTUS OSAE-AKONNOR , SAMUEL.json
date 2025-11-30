@@ -1,0 +1,80 @@
+{
+  "caseTitle": "KOFORIDUA EX-PARTE AUGUSTUS OSAE-AKONNOR , SAMUEL",
+  "summary": "The applicant, Augustus Osae-Akonnor, challenged orders made by the High Court in Koforidua in an ex-parte application by Samuel Agyei, the interested party. The High Court had issued an absconding warrant and ordered the applicant to surrender three vehicles or post $192,000 as security, based on allegations that the applicant intended to leave the jurisdiction. The applicant was arrested, and bail was granted only after compliance with stringent conditions, including depositing a land title certificate as security and regular reporting to court. The Supreme Court reviewed whether these orders breached the rules of natural justice, particularly audi alteram partem, and were made without proper jurisdiction or in error of law. The court held that the preservation order under Order 25 Rule 2(1) of C.I. 47 required notice to the affected party, and its issuance ex-parte violated procedural fairness. The order for preservation was quashed, but the absconding warrant, properly issued under Order 73 Rule 1, was upheld.",
+  "legalKeywords": [
+    "ex-parte application",
+    "absconding warrant",
+    "preservation of property",
+    "audi alteram partem",
+    "jurisdiction",
+    "natural justice",
+    "interim injunction",
+    "civil procedure",
+    "Order 25 Rule 2(1)",
+    "Order 73 Rule 1",
+    "Order 19 Rule 1(3)",
+    "C.I. 47",
+    "ultra vires",
+    "certiorari",
+    "bail conditions"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Judicial Review",
+    "Constitutional Law"
+  ],
+  "verdict": "The Supreme Court quashed the ex-parte order for preservation of property for breach of natural justice and lack of jurisdiction, but upheld the absconding warrant as properly issued under Order 73 Rule 1. The trial court was prohibited from enforcing the preservation order.",
+  "winningSide": "Applicant (Augustus Osae-Akonnor)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Owusu (Ms.) J.S.C.",
+      "role": "Delivered the ruling"
+    },
+    {
+      "name": "Atuguba J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Akuffo (Ms.) J.S.C."
+    },
+    {
+      "name": "Ansa",
+      "role": "J.S.C."
+    },
+    {
+      "name": "Baffoe-Bonnie J.S.C."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "citations": [
+    "BARCLAYS BANK VRS GHANA CABLE CO. LTD [1998-99] SCGLR 1",
+    "THE REPUBLIC VRS. HIGH COURT, ACCRA; EX-PARTE COMMISSIONER ON HUMAN RIGHTS AND ADMINISTRATIVE JUSTICE (ADDO INTERESTED PARTY) [2003-2004] SCGLR 312",
+    "THE REPUBLIC VRS. HIGH COURT, BOLGATANGA; EX-PARTE: HAWA YAKUBU [2001-2002] SCGLR 53",
+    "Order 25 Rule 2(1) of C.I. 47",
+    "Order 19 Rule 1(3) of C.I. 47",
+    "Order 73 Rule 1 of C.I. 47",
+    "Article 14(1) and 18(2) of the 1992 Constitution of Ghana"
+  ],
+  "rationaleHighlights": [
+    "Order 25 Rule 2(1) requires notice for preservation applications, making ex-parte orders procedurally invalid.",
+    "Breach of audi alteram partem principle renders court orders null and void when a party is deprived of a hearing.",
+    "Absconding warrants under Order 73 Rule 1 are validly issued ex-parte and do not require prior notice.",
+    "The trial court acted ultra vires by enforcing preservation without notice, violating constitutional rights under Article 14(1) and 18(2).",
+    "Bail conditions imposed after arrest were not sanctioned by C.I. 47 and were overly onerous.",
+    "The applicant was denied the opportunity to show cause against unsubstantiated allegations of absconding.",
+    "Judicial discretion under Order 19(3) does not override mandatory notice requirements where rules explicitly require it.",
+    "The case reaffirms that procedural fairness is essential even in urgent interim relief applications."
+  ],
+  "confidenceNotes": "The ruling is based on clear procedural violations under C.I. 47 and constitutional principles. Citations to prior Supreme Court decisions strengthen the legal rationale. The distinction between ex-parte permissible orders (absconding warrant) and those requiring notice (property preservation) is well-established in Ghanaian jurisprudence.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/KOFORIDUA EX-PARTE  AUGUSTUS OSAE-AKONNOR , SAMUEL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:05:58.742Z",
+    "plainTextLength": 21524
+  },
+  "trialDate": "2009-04-22"
+}

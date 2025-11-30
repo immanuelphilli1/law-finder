@@ -1,0 +1,69 @@
+{
+  "caseTitle": "REX v ONASIMUS OFFIONG",
+  "summary": "In Rex v Onasimus Offiong (WACA/3, 28th October 1936), the appellant was charged solely with attempted rape under section 359 of the Criminal Code but was convicted of indecent assault under section 360, despite not being formally charged with that offense. The Crown relied on section 58(1) of the Criminal Procedure Ordinance, which allows conviction for a different offense if part of the original charge is proved. The West Africa Court of Appeal held that the charge of attempted rape is indivisible and that the acts proven—entering the complainant's room uninvited, undressing, and expressing intent to have sexual intercourse—constituted mere preparation, not an attempt. As such, 'part of the charge' was not proved, and section 58(1) could not justify the conviction. The court quashed the conviction and ordered a verdict of acquittal.",
+  "legalKeywords": [
+    "attempted rape",
+    "indecent assault",
+    "criminal procedure",
+    "conviction quashed",
+    "acquittal",
+    "preparation vs attempt",
+    "divisibility of charge",
+    "section 58(1)",
+    "Criminal Code",
+    "West Africa Court of Appeal"
+  ],
+  "topics": [
+    "criminal law",
+    "appellate review",
+    "legal procedure",
+    "sexual offenses",
+    "statutory interpretation"
+  ],
+  "verdict": "Conviction quashed; acquittal directed.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Onasimus Offiong, WACA/3, 28th October 1936",
+    "Section 359 Criminal Code",
+    "Section 360 Criminal Code",
+    "Section 58(1) Criminal Procedure Ordinance"
+  ],
+  "rationaleHighlights": [
+    "The charge of attempted rape is indivisible.",
+    "Acts proved amount to preparation, not an attempt.",
+    "Section 58(1) Criminal Procedure Ordinance does not apply where the charge is indivisible.",
+    "Conviction for a lesser included offense requires that part of the original charge be proven.",
+    "The court held that mere preparation cannot constitute 'part of the charge' under section 58(1).",
+    "The conviction for indecent assault was set aside due to lack of proper charging and legal basis.",
+    "A verdict of acquittal was directed after quashing the conviction.",
+    "The Crown's reliance on section 58(1) was rejected as legally unsound in this context."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and explicit statutory references.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/REX v  ONASIMUS OFFIONG.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:13:01.411Z",
+    "plainTextLength": 3428
+  },
+  "trialDate": "1986-10-28"
+}

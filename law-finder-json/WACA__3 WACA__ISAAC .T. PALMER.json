@@ -1,0 +1,73 @@
+{
+  "caseTitle": "ISAAC .T. PALMER",
+  "summary": "This 1936 West African Court of Appeal decision addressed two legal questions referred by the Assistant Judge of the Warri Division. First, it confirmed that the Rules of Court established in 1928 under the West African Court of Appeal Order-in-Council applied automatically to Nigeria upon its inclusion in the Court's jurisdiction in 1934, despite changes in rule-making authority. Second, it held that the High Court may entertain a motion for conditional leave to appeal, affirming established litigant practice in the absence of specific procedural rules. The Court rejected both rulings by the Assistant Judge as incorrect, clarifying procedural rights in appellate practice across British West African territories.",
+  "legalKeywords": [
+    "Rules of Court",
+    "conditional leave to appeal",
+    "jurisdiction",
+    "West African Court of Appeal",
+    "Order-in-Council",
+    "appellate procedure",
+    "High Court",
+    "Nigeria",
+    "Warri Division",
+    "Assistant Judge",
+    "Deane CJ",
+    "Hall J",
+    "Kingdon CJ",
+    "Petrides CJ",
+    "Webber CJ",
+    "1928 Rules",
+    "1933 Ordinance",
+    "1934 amendment",
+    "procedural validity",
+    "automatic application"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Jurisdictional Expansion",
+    "Court Rules Interpretation",
+    "Legal Practice in British West Africa"
+  ],
+  "verdict": "Both rulings by the Assistant Judge were held to be incorrect.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Case stated for opinion",
+  "citations": [
+    "West African Court of Appeal Order-in-Council, 1928, Art. 12(1)",
+    "West African Court of Appeal Ordinance, 1933, s. 3(a) and s. 7"
+  ],
+  "rationaleHighlights": [
+    "Rules made under valid authority in 1928 applied automatically to Nigeria upon jurisdictional extension in 1934.",
+    "No need to remake rules with jurisdictional changes.",
+    "Conditional leave motions are procedurally valid in absence of specific rules.",
+    "Established litigant practice accepted and approved by appellate court.",
+    "High Court has competence to entertain conditional appeal applications."
+  ],
+  "confidenceNotes": "High confidence; based on clear judicial reasoning and statutory interpretation from primary source.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/ISAAC .T. PALMER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:23:19.247Z",
+    "plainTextLength": 4952
+  },
+  "trialDate": "1936-04-22"
+}

@@ -1,0 +1,66 @@
+{
+  "caseTitle": "QUARTEY v. JOHN HAMMOND,",
+  "summary": "In this Ghanaian civil appeal, the Court of Appeal set aside a default judgment rendered by the Circuit Court in favor of the plaintiff, Y. K. Quartey, against the defendant, John Hammond. The appeal centered on procedural irregularities, particularly the plaintiff's failure to comply with Order 64 Rule 12 of the High Court (Civil) Procedure Rules 1954 (LN 140), which mandates a one-month notice to the opposing party before resuming proceedings inactive for over a year. Additionally, although substituted service was ordered in July 1994, there was no evidence that it was properly executed or that hearing notices for the 6th and 10th July 1995 court dates were served on the defendant. The Court emphasized the cardinal principle of fair hearing, citing that a party cannot be condemned without proper notice. Consequently, the Court held the proceedings null and void, set aside the judgment, and remitted the case for a fresh hearing de novo.",
+  "legalKeywords": [
+    "default judgment",
+    "substituted service",
+    "procedural fairness",
+    "Order 64 Rule 12",
+    "notice of hearing",
+    "adjournment",
+    "trial in absentia",
+    "civil procedure",
+    "setting aside judgment",
+    "due process"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Judicial Review",
+    "Fair Hearing",
+    "Default Judgment",
+    "Service of Process"
+  ],
+  "verdict": "Appeal allowed; judgment set aside; case remitted for hearing de novo.",
+  "winningSide": "Defendant/Appellant (John Hammond)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "A. Essilfie-Bondzie",
+      "role": "President"
+    },
+    {
+      "name": "P. K. Twumasi",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "B. T. Aryeetey",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Ogwan vrs Hansa (1971) 2 G.L.R. 195",
+    "Re Yendi Skin Affairs, Andani vs. Abudulai (1982-83) G.L.R. 1080 SC",
+    "Williams vrs. Williams (1834) 2 Dewl 350",
+    "Mosi vrs. BAGYINA (1963) G.L.R. 337 SC"
+  ],
+  "rationaleHighlights": [
+    "Failure to comply with Order 64 Rule 12 requiring one month's notice before resuming inactive proceedings",
+    "No proof of substituted service compliance before hearing",
+    "No service of hearing notices for 6th and 10th July 1995 adjournments",
+    "Violation of cardinal principle of fair hearing requiring notice before trial",
+    "Judgment set aside due to null and void proceedings"
+  ],
+  "confidenceNotes": "All information is directly extracted from the judgment text; citations, judges, and procedural details are explicitly stated.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/Y. K. QUARTEY v. JOHN HAMMOND,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T09:57:54.971Z",
+    "plainTextLength": 9784
+  },
+  "trialDate": "1999-12-23"
+}

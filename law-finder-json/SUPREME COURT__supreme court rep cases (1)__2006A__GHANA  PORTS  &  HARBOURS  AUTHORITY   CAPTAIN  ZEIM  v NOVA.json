@@ -1,0 +1,71 @@
+{
+  "caseTitle": "GHANA PORTS & HARBOURS AUTHORITY CAPTAIN ZEIM v NOVA",
+  "summary": "The Supreme Court of Ghana reviewed a civil appeal concerning the beaching of MV Nova VIII by the Ghana Ports and Harbours Authority (GPHA) and its Master, Captain Zeim. The respondent, Nova Complex Ltd, claimed the beaching was negligent or unlawful. The High Court and Court of Appeal found liability, with the latter reducing damages. The Supreme Court held that the Court of Appeal erred in law by inconsistently concluding that the vessel was beached in error despite finding it had listed, which would justify action under GPHA's statutory duty to ensure maritime safety. The core issue—whether the degree of listing necessitated beaching—was not properly addressed. The Court also questioned the evidentiary basis for damage awards, including market value, loss of use, and indemnity for breach of charter. It emphasized that the presumption of regularity in official duties (s 37, Evidence Act) was not validly rebutted. The judgment underscores the need for appellate courts to align findings with pleadings and evidence.",
+  "legalKeywords": [
+    "negligence",
+    "statutory duty",
+    "presumption of regularity",
+    "rebuttable presumption",
+    "maritime safety",
+    "beaching of vessel",
+    "admission against interest",
+    "res gestae",
+    "damages",
+    "loss of use",
+    "market value",
+    "charter party",
+    "evidence evaluation",
+    "judicial error",
+    "civil liability"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Maritime Law",
+    "Tort Law",
+    "Evidence Law",
+    "Civil Procedure"
+  ],
+  "verdict": "The Supreme Court allowed the appeal, set aside the decision of the Court of Appeal, and entered judgment in favor of the appellants (GPHA and Captain Zeim), holding that the beaching was carried out within statutory authority and that the presumption of regularity was not effectively rebutted.",
+  "winningSide": "Ghana Ports & Harbours Authority and Captain Zeim",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Mrs. Wood, J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Brobbey, J.S.C."
+    },
+    {
+      "name": "Ansa, J.S.C."
+    },
+    {
+      "name": "Aninakwah, J.S.C."
+    },
+    {
+      "name": "Mrs. Adinyira, J.S.C."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Evidence Act, 1975 (NRCD 323), s 37"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court found that the Court of Appeal erred by failing to address the core issue of whether the vessel's listing justified beaching under statutory duty.",
+    "The Court held that the finding of mistaken identity (beaching the wrong vessel) contradicted the earlier finding that MV Nova VIII had listed, creating internal inconsistency.",
+    "The presumption of regularity under s 37 of the Evidence Act was improperly treated as rebutted without sufficient basis in pleadings or evidence.",
+    "Awards of damages for market value, loss of use, and indemnity were challenged for lack of evidentiary support."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed court judgment and clear procedural history.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2006A/GHANA  PORTS  &  HARBOURS  AUTHORITY   CAPTAIN  ZEIM  v NOVA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T18:04:45.899Z",
+    "plainTextLength": 61057
+  },
+  "trialDate": "2006-11-15"
+}

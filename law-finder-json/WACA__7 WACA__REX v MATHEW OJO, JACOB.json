@@ -1,0 +1,70 @@
+{
+  "caseTitle": "REX v MATHEW OJO, JACOB",
+  "summary": "This 1941 West Africa Court of Appeal decision in Rex v. Mathew Ojo and Jacob Jalugbo concerned an appeal against conviction for riot under section 71 of the Criminal Code. The appellants argued that the conviction was legally flawed because the trial judge acquitted the third accused, leaving insufficient averment that at least three persons participated in the riot—an essential element of the offence. The appellate court dismissed the appeal, holding that under section 30 of the Criminal Procedure Ordinance and Rules 4(3), (4), and (5) of the Criminal Procedure Rules, it was not necessary to explicitly allege the number of participants in the charge. The reference to section 71 of the Criminal Code in the information was sufficient to incorporate all essential elements of the offence by implication. The court found ample evidence that the appellants took part in a riot and ruled that the acquittal of a co-accused did not invalidate the convictions. The decision affirms the principle that statutory references in charges can satisfy formal averment requirements.",
+  "legalKeywords": [
+    "riot",
+    "criminal conviction",
+    "information sufficiency",
+    "Criminal Code",
+    "Criminal Procedure Rules",
+    "Indictments Act",
+    "essential elements of offence",
+    "appellate review",
+    "acquittal of co-accused",
+    "charge framing"
+  ],
+  "topics": [
+    "criminal law",
+    "procedural law",
+    "appellate procedure",
+    "riot",
+    "charge sufficiency"
+  ],
+  "verdict": "Appeal dismissed; conviction for riot under section 71 of the Criminal Code upheld.",
+  "winningSide": "Prosecution (Rex)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judging Panel"
+    },
+    {
+      "name": "Graham Paul, C.J., Sierra Leone",
+      "role": "Judging Panel"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R v. Plummer (1902) 20 Cox 629",
+    "R v. William Beach and Arthur Morris (1909) 2 C.A.R. 189",
+    "Indictments Act, 1915, s 3",
+    "Criminal Procedure Code, s 30",
+    "Criminal Procedure Rules, r 4(3), (4), (5)",
+    "Criminal Code, s 69",
+    "Criminal Code, s 71"
+  ],
+  "rationaleHighlights": [
+    "Section 30 of the Criminal Procedure Code and Rule 4(3)-(5) allow charges framed with reference to statutory provisions to incorporate essential elements by implication.",
+    "It is not necessary to explicitly aver that at least three persons took part in a riot when the charge refers to section 71 of the Criminal Code.",
+    "Acquittal of a co-accused does not invalidate the conviction of others where sufficient evidence exists.",
+    "The charge is sufficient if it states the accused took part in a riot and references the relevant statutory section.",
+    "Technical averments are unnecessary if the charge provides reasonable information about the nature of the offence.",
+    "Pre-1915 case law on indictment formality is superseded by statutory procedural rules."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text with clear legal citations and procedural context.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/REX v MATHEW OJO, JACOB.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:24:56.868Z",
+    "plainTextLength": 6091
+  },
+  "trialDate": "1941-05-05"
+}

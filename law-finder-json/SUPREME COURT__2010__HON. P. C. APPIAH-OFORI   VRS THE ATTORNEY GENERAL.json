@@ -1,0 +1,102 @@
+{
+  "caseTitle": "HON. P. C. APPIAH-OFORI VRS THE ATTORNEY GENERAL",
+  "summary": "This 2010 Supreme Court of Ghana judgment in Hon. P. C. Appiah-Ofori v. The Attorney General addressed the constitutional interpretation of the retiring age of the Auditor-General. The plaintiff, a Member of Parliament, sought declarations that the Auditor-General's retirement age should be 70 years, aligning with Justices of the Court of Appeal, and that Section 10(4) of the Audit Service Act, 2000 (Act 584), which set the retirement age at 60, was unconstitutional. The defendant, the Attorney General, conceded the plaintiff's position. The court, while acknowledging the concession, conducted an independent constitutional analysis. It held that the Auditor-General, appointed under Article 70 and subject to removal procedures under Article 146 like superior court judges, should have a retirement age of 70, consistent with analogous constitutional office holders. Consequently, Section 10(4) of Act 584 was declared inconsistent with the Constitution and null and void.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "retirement age",
+    "Auditor-General",
+    "separation of powers",
+    "judicial review",
+    "public officer",
+    "constitutional supremacy",
+    "removal from office",
+    "Article 70",
+    "Article 146",
+    "Article 187",
+    "Audit Service Act",
+    "Act 584",
+    "superior court jurisdiction",
+    "constitutional litigation",
+    "judicial independence",
+    "public accountability",
+    "rule of law",
+    "constitutional gap",
+    "legal concession"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Public Office and Tenure",
+    "Judicial Review",
+    "Separation of Powers",
+    "Ghanaian Supreme Court Decisions"
+  ],
+  "verdict": "The court granted the plaintiff's claims.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Wood (Mrs)",
+      "role": "Chief Justice (Presiding)"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Owusu (Ms)",
+      "role": "Justice"
+    },
+    {
+      "name": "Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebe",
+      "role": "Justice"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs)",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Litigation",
+  "citations": [
+    "1992 Constitution of Ghana, Articles 2(1), 130(1), 70, 71, 146, 187, 191, 195, 199",
+    "Audit Service Act, 2000 (Act 584), Section 10(4)",
+    "Supreme Court Rules, C.I. 16, Rule 48",
+    "Brown v Attorney-General, Writ J1/1/2009"
+  ],
+  "rationaleHighlights": [
+    "The Auditor-General is appointed under Article 70, analogous to other constitutional office holders with a retirement age of 70.",
+    "The removal process for the Auditor-General mirrors that of Justices of the Superior Court under Article 146, supporting tenure security.",
+    "The Constitution implicitly links the Auditor-General's terms to those of Court of Appeal Justices.",
+    "Section 10(4) of Act 584 conflicts with constitutional principles of independence and tenure.",
+    "Judicial scrutiny is required even when the state concedes a constitutional claim.",
+    "The court must independently verify constitutional interpretations to ensure legitimacy.",
+    "The principle of constitutional supremacy necessitates invalidating inconsistent statutory provisions.",
+    "The role of the Auditor-General demands independence akin to the judiciary."
+  ],
+  "confidenceNotes": "The summary is based on a detailed judicial opinion with clear reasoning and citation of constitutional provisions. The outcome is definitive, with no ambiguity in the court's ruling. All judges concurred, indicating strong consensus.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/HON. P. C. APPIAH-OFORI   VRS THE ATTORNEY GENERAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:47:21.323Z",
+    "plainTextLength": 186595
+  }
+}

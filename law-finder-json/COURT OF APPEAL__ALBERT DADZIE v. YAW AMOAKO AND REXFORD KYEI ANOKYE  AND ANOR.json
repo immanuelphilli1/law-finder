@@ -1,0 +1,64 @@
+{
+  "caseTitle": "ALBERT DADZIE v. YAW AMOAKO AND REXFORD KYEI ANOKYE AND",
+  "summary": "In this Court of Appeal case, the appellant (Albert Dadzie), a judgment creditor, appealed the High Court's decision favoring Rexford Kyei Anokye, who claimed ownership of property attached in execution of a judgment against Yaw Amoako. The High Court had ruled that the writ of execution had lapsed after one year under Order 42 rule 19 because it was 'unexecuted,' allowing the respondent to be a bona fide purchaser. The Court of Appeal reversed this, holding that the writ was no longer 'unexecuted' once the sheriff attached the property and initiated auction procedures within the initial year. Citing Order 43 rule 11, the Court emphasized that any alienation of attached property without court leave is null and void, irrespective of the purchaser's notice. The appeal was allowed, and the lower court's judgment was set aside.",
+  "legalKeywords": [
+    "writ of execution",
+    "attachment of property",
+    "interpleader summons",
+    "bona fide purchaser for value without notice",
+    "Order 42 rule 19",
+    "Order 43 rule 11",
+    "sheriff's auction",
+    "contempt of court",
+    "renewal of writ",
+    "execution process"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Property Law",
+    "Execution of Judgments",
+    "Interpleader",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed. Judgment of the court below set aside.",
+  "winningSide": "Appellant (Albert Dadzie)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "B. T. Aryeetey",
+      "role": "Presiding Justice of Appeal"
+    },
+    {
+      "name": "J.C. Amonoo-Monney",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "S.Y. Anim",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "ALBERT DADZIE v. YAW AMOAKO AND REXFORD KYEI ANOKYE AND ANOR. [4/6/2004] CA/NO.42/2003",
+    "Lloyds and Scottish Finance Ltd. v. Modern Cars and Caravans (Kingston) Ltd. [1964] 3 W.L.R. 859",
+    "Samuel v. Duke 1838 3 M. & W. 622"
+  ],
+  "rationaleHighlights": [
+    "The Court held that once a property is attached and steps taken toward auction, the writ is 'executed' and remains in force beyond one year, rejecting the lower court's interpretation of 'unexecuted.'",
+    "The sale of attached property by the judgment debtor without court leave is null and void under Order 43 rule 11, regardless of the purchaser's notice.",
+    "The trial judge erred in law by failing to recognize that actual seizure renders a writ not 'unexecuted,' citing Lloyds and Scottish Finance Ltd. v. Modern Cars and Caravans.",
+    "An innocent purchaser for value without notice cannot acquire title to property already attached under a valid writ of execution."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct quotes from the judgment and clear procedural history.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/ALBERT DADZIE v. YAW AMOAKO AND REXFORD KYEI ANOKYE  AND ANOR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:46:08.425Z",
+    "plainTextLength": 13483
+  },
+  "trialDate": "2004-06-04"
+}

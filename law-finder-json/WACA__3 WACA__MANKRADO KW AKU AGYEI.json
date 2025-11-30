@@ -1,0 +1,71 @@
+{
+  "caseTitle": "MANKRADO KW AKU AGYEI",
+  "summary": "This land dispute originated in the Omanhene's Tribunal of Borada Buem State, where the plaintiff, Mankrado Kw Aku Agyei, claimed that land sold by the defendants (Sub-Chief Akoto and Mankrado Aya) in Old Ayoma rightfully belonged to him by customary inheritance after the defendants' migration to New Ayoma. The Tribunal ruled for the plaintiff without giving reasons. On appeal, the State Council reversed the decision, holding that the defendants retained the right to sell the land as it remained their property despite relocation. The plaintiff then appealed to the Provincial Commissioner's Court, which reinstated the original judgment, declaring the land to be family land jointly owned and the sale invalid under custom. The West Africa Court of Appeal held that the Provincial Commissioner erred in allowing the plaintiff to advance a new theory of joint family ownership not present in the original pleadings, which had clearly alleged reversion of abandoned land to the plaintiff. The appellate court found that the State Council correctly interpreted the plaintiff's case and that the plaintiff's own testimony contradicted the new claim. Consequently, the appeal was allowed, the Provincial Commissioner's judgment was set aside, and the State Council's decision was restored.",
+  "legalKeywords": [
+    "land dispute",
+    "native tribunal",
+    "state council",
+    "provincial commissioner",
+    "customary law",
+    "family land",
+    "abandonment of land",
+    "appeal",
+    "jurisdictional error",
+    "procedural fairness",
+    "reversion of land",
+    "boundary dispute",
+    "joint ownership",
+    "sale of land",
+    "traditional authority"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Appellate Procedure",
+    "Native Tribunals",
+    "Joint Ownership"
+  ],
+  "verdict": "Appeal allowed; judgment of the State Council restored.",
+  "winningSide": "Defendants-Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Yates",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "WACA/3 WACA/MANKRADO KW AKU AGYEI"
+  ],
+  "rationaleHighlights": [
+    "The Provincial Commissioner erred in allowing the plaintiff to present a new case different from the original claim.",
+    "The State Council correctly interpreted the plaintiff's claim as based on reversion after abandonment, not joint family ownership.",
+    "The writ and evidence supported separate ownership, not communal family land.",
+    "Allowing inconsistent claims on appeal undermines judicial integrity.",
+    "The State Council provided reasoned judgment; the Native Tribunal did not.",
+    "Plaintiff admitted each party could sell their own land, contradicting the new claim.",
+    "Defendants did not lose land rights by relocating to New Ayoma.",
+    "Judicial economy requires consistency in the case presented across courts."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear procedural history and reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/MANKRADO KW AKU AGYEI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:18:46.529Z",
+    "plainTextLength": 6912
+  },
+  "trialDate": "1937-12-18"
+}

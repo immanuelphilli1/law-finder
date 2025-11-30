@@ -1,0 +1,72 @@
+{
+  "caseTitle": "REGINA v ABISA GRUNSHIE",
+  "summary": "In Regina v Abisa Grunshie, the West African Court of Appeal quashed the appellant's murder conviction due to a misdirection on the burden of proof and failure to properly consider the defence of accident. The trial judge erred by dismissing the appellant's account without directing the assessors that an unproven defence creating reasonable doubt necessitates acquittal. The appellant claimed the deceased died from a fall during a scuffle, not a deliberate axe blow, a version consistent with medical evidence. The court emphasized that where prosecution and defence accounts differ only narrowly, judges must clearly instruct on three principles: acquittal if the defence is accepted, if it raises doubt, or if guilt is not proven beyond reasonable doubt. Additionally, the court condemned the police for obtaining a voluntary statement from an illiterate accused in a murder case without an independent civilian witness or appropriate linguistic safeguards, rendering the confession suspect. No cautionary instruction was given on this unreliable evidence, further prejudicing the trial. Applying R. v. Murtagh & Kennedy, the appeal was allowed, and the appellant acquitted.",
+  "legalKeywords": [
+    "burden of proof",
+    "misdirection",
+    "defence of accident",
+    "reasonable doubt",
+    "voluntary statement",
+    "confession evidence",
+    "independent witness",
+    "police procedure",
+    "right to fair trial",
+    "capital charge",
+    "self-defence",
+    "assessment of evidence",
+    "judicial direction",
+    "onus of proof",
+    "credibility of witness"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Review",
+    "Evidence",
+    "Police Conduct",
+    "Judicial Directions"
+  ],
+  "verdict": "Appeal allowed, conviction quashed, appellant acquitted",
+  "winningSide": "Defendant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Cor. Korsah",
+      "role": "Ag. Chief Justice"
+    },
+    {
+      "name": "Windsor-Aubrey",
+      "role": "Justice"
+    },
+    {
+      "name": "van Lare",
+      "role": "Justice (delivering judgment)"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "R. v. Murtagh and Kennedy, 39 Cr.App.R. 72",
+    "[1955] Crim.L.R. 506",
+    "R. v. Dwyer & Ferguson [1925] 2 K.B. 803"
+  ],
+  "rationaleHighlights": [
+    "Judge failed to direct assessors that unproven defence raising reasonable doubt requires acquittal",
+    "Defence of accidental death from fall was plausible and consistent with medical evidence",
+    "Confession by illiterate accused taken without independent witness or proper language safeguards",
+    "Police must act with exemplary fairness in taking statements",
+    "Narrow factual dispute required clear judicial directions on burden of proof",
+    "Failure to warn on unreliable confession evidence prejudiced trial fairness",
+    "View most favourable to accused must be adopted in capital cases",
+    "No doctrine of police infallibility; suspect evidence requires caution"
+  ],
+  "confidenceNotes": "High confidence; details are clearly stated in the judgment, including legal principles, factual discrepancies, and procedural flaws. Citation of binding precedents enhances reliability.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/REGINA  v  ABISA GRUNSHIE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:56:38.635Z",
+    "plainTextLength": 8817
+  }
+}

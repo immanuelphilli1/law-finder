@@ -1,0 +1,79 @@
+{
+  "caseTitle": "EMMANUEL ASHALLEY ASHLEY v THE JUDICIAL COUNCIL ,THE GENER",
+  "summary": "The Supreme Court of Ghana dismissed the appeal of Emmanuel Ashelly Ashley, a former Circuit Court Judge, who challenged his retirement on the grounds that he lacked a university degree and was not enrolled on the Roll of Lawyers in Ghana. The court held that the Legal Profession Act (Amendment) No. 2 Decree, 1967 (NLCD 213), which required a university degree for enrolment effective January 1, 1971, applied to the appellant, who was called to the English Bar in 1972. His enrolment in the Middle Temple in 1959 did not confer accrued rights exempting him from the new requirements. The court rejected claims of discrimination and estoppel, affirming that professional qualifications are subject to national legislative standards and that mere enrolment in a foreign law school does not guarantee automatic recognition in Ghana.",
+  "legalKeywords": [
+    "enrolment of lawyers",
+    "customary law course",
+    "university degree requirement",
+    "NLCD 213",
+    "Legal Profession Act",
+    "right to practice law",
+    "retrospective application",
+    "estoppel",
+    "judicial appointment",
+    "discrimination",
+    "constitutional challenge",
+    "foreign qualification recognition",
+    "Ghana School of Law",
+    "admission to bar",
+    "professional standards"
+  ],
+  "topics": [
+    "Legal Profession Regulation",
+    "Judicial Retirement",
+    "Constitutional Law",
+    "Administrative Law",
+    "Foreign Qualifications Recognition"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondents (The General Legal Council and The Judicial Council)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sophia Adinyira",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Aninakwah",
+      "role": "Justice"
+    },
+    {
+      "name": "Asiamah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional and administrative",
+  "citations": [
+    "Legal Profession Act, 1960, Act 32",
+    "Legal Profession Act (Amendment) No. 2 Decree, 1967, NLCD 213",
+    "Section 4 of Act 32",
+    "Article 107 of the 1992 Constitution"
+  ],
+  "rationaleHighlights": [
+    "Section 4 of Act 32, as amended by NLCD 213, clearly requires a university degree for enrolment effective January 1, 1971, and applies to all applicants after that date.",
+    "Enrolment in a law school does not confer accrued rights to professional practice; qualifications must meet current statutory requirements.",
+    "The appellant was called to the English Bar in 1972, after the 1971 effective date, and thus fell under the new requirements.",
+    "The court rejected the argument that Part I of the English B.L. qualification equates to a university degree.",
+    "Estoppel was not established as the state did not misrepresent the appellant's eligibility for judicial office."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct quotes from the Supreme Court judgment and clear legislative references.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2008/EMMANUEL ASHALLEY ASHLEY  v THE JUDICIAL COUNCIL ,THE  GENER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:15:37.711Z",
+    "plainTextLength": 25863
+  },
+  "trialDate": "2007-09-04"
+}

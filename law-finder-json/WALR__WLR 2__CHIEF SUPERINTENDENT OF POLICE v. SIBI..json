@@ -1,0 +1,54 @@
+{
+  "caseTitle": "POLICE VERSUS SIBI.",
+  "summary": "The appellant, Chief Superintendent of Police, was convicted of parking a vehicle without lights under the Motor Traffic Regulations, 1955, and sentenced to a fine and six-month disqualification from driving. The West African Court of Appeal allowed the appeal against the disqualification. It held that the offence was not 'connected with the driving of a motor vehicle' as required by s.86(1) of the Motor Traffic Ordinance, c.155, and thus disqualification was not a permissible penalty. Additionally, the Trial of Petty Criminal Cases Ordinance, c.25, restricts sentencing options and does not allow for disqualification. Therefore, the disqualification order was ultra vires and quashed, though the fine of \u0005 was upheld as reasonable given the appellant's prior traffic convictions and the danger posed by unlit vehicles.",
+  "legalKeywords": [
+    "disqualification from driving",
+    "motor traffic offence",
+    "parking without lights",
+    "ultra vires",
+    "Trial of Petty Criminal Cases",
+    "offence connected with driving",
+    "regulatory interpretation",
+    "judicial precedent",
+    "sentencing limits",
+    "statutory construction"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Traffic Regulation",
+    "Sentencing",
+    "Judicial Review",
+    "Statutory Interpretation"
+  ],
+  "verdict": "Appeal allowed in part; disqualification order quashed.",
+  "winningSide": "Appellant (Sibi)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Miles J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Gambia"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Chief Superintendent of Police v. Sankareh (1956) 2 W.A.L.R. 100",
+    "R. v. Yorkshire (West Riding) Justices [1910] 1 K.B. 439"
+  ],
+  "rationaleHighlights": [
+    "Offence of parking without lights is not 'connected with the driving of a vehicle' under s.86(1) of the Motor Traffic Ordinance.",
+    "Disqualification cannot be imposed under the Trial of Petty Criminal Cases Ordinance, which limits permissible punishments.",
+    "Precedent from R. v. Yorkshire applied: disqualification requires active driving or handling of the vehicle.",
+    "Order of disqualification was ultra vires and therefore invalid."
+  ],
+  "confidenceNotes": "High confidence; the judgment is clear on both legal grounds and directly cites precedent.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/CHIEF SUPERINTENDENT OF POLICE v. SIBI..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:37:40.602Z",
+    "plainTextLength": 4940
+  }
+}

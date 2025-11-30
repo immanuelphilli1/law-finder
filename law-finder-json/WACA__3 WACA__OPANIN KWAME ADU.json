@@ -1,0 +1,71 @@
+{
+  "caseTitle": "OPANIN KWAME ADU",
+  "summary": "This is a civil land dispute heard by the West Africa Court of Appeal on 18 December 1937, originating from the New Juaben Native Tribunal and appealed through the Provincial Commissioner's Court. The plaintiff-appellant, Opanin Kwame Adu, claimed ownership of a cocoa farm in Mpeiho, New Juaben District, based on a prior determination 16 years earlier that recognized his title and fixed boundaries. The Native Tribunal ruled in his favor, but the Provincial Commissioner's Court overturned this, awarding the land to the defendant, Kwasi Kuma, based on 16 years of undisturbed possession. The West Africa Court of Appeal allowed the appeal, holding that under native customary law, long undisturbed possession cannot extinguish an original title, and there is no concept of prescriptive title. The court emphasized that while long possession may serve as evidence of ownership, it cannot transfer title where an original title is proven. The judgment of the Native Tribunal was restored, and costs were awarded to the appellant in both appellate and native courts.",
+  "legalKeywords": [
+    "land ownership",
+    "native customary law",
+    "undisturbed possession",
+    "adverse possession",
+    "original title",
+    "prescriptive title",
+    "cocoa farm",
+    "boundary dispute",
+    "appellate jurisdiction",
+    "Native Tribunal",
+    "Provincial Commissioner",
+    "jurisdictional error",
+    "evidence of title",
+    "costs award",
+    "long possession"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Appellate Review",
+    "Ownership Dispute",
+    "Possession"
+  ],
+  "verdict": "Appeal allowed; judgment of the Native Tribunal restored.",
+  "winningSide": "Plaintiff-Appellant (Opanin Kwame Adu)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Yates",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil land dispute",
+  "citations": [
+    "Agyeman v. Yarmoah (1913) D. & F. 1911-16, p. 56"
+  ],
+  "rationaleHighlights": [
+    "Undisturbed possession cannot oust an original title under native customary law.",
+    "Prescriptive title does not exist in native customary law of Ghana.",
+    "Long possession may be evidence of title but cannot transfer ownership.",
+    "Native Tribunal's factual finding was not overturned.",
+    "Provincial Commissioner erred in applying principle of undisturbed possession.",
+    "Appellate court restored Native Tribunal's judgment.",
+    "Costs awarded to appellant in both courts.",
+    "Dispute was solely on ownership, not possession."
+  ],
+  "confidenceNotes": "High confidence; source is a formal appellate judgment with clear judicial reasoning and citation.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/OPANIN KWAME ADU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:16:43.670Z",
+    "plainTextLength": 4484
+  },
+  "trialDate": "1937-12-18"
+}

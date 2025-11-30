@@ -1,0 +1,42 @@
+{
+  "caseTitle": "ALAN WILLIAM HODGSON V THE",
+  "summary": "The document is a table of unreported cases from the Supreme Court of Ghana for the year 2009, listing various civil, criminal, and chieftaincy appeals, as well as civil motions. It includes case titles, case numbers, and hearing dates, but does not contain full judgments, reasoning, or verdicts. As such, it serves as a procedural index rather than a repository of substantive legal decisions.",
+  "legalKeywords": [
+    "Supreme Court",
+    "unreported cases",
+    "civil appeal",
+    "criminal appeal",
+    "chieftaincy appeal",
+    "civil motion",
+    "Ghana",
+    "judicial index",
+    "case listing",
+    "procedural record"
+  ],
+  "topics": [
+    "Judiciary",
+    "Case Law",
+    "Legal Procedure"
+  ],
+  "verdict": "No verdicts or rulings are provided in this document.",
+  "winningSide": "Not applicable – document is a case list without outcomes.",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Case Index",
+  "citations": [
+    "UNREPORTED CASES OF THE SUPREME COURT OF GHANA 2009"
+  ],
+  "rationaleHighlights": [],
+  "confidenceNotes": "Low confidence in extracting specific case details as the document contains only a list of cases without full decision texts.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2009.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:48:02.122Z",
+    "plainTextLength": 5929
+  },
+  "trialDate": "2009-01-03"
+}

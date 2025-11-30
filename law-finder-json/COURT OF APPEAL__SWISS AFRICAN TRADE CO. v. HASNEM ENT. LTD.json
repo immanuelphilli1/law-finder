@@ -1,0 +1,75 @@
+{
+  "caseTitle": "AFRICAN TRADE CO. v. HASNEM ENT. LTD",
+  "summary": "This Court of Appeal case arose from a breach of contract where Hasnem Enterprise Ltd. purchased six chairs from Swiss African Trade Co. (S.A.T.), received two, but was denied the remaining four despite repeated attempts to collect. After ten years, Hasnem sued for specific performance. The trial magistrate awarded damages instead, which the High Court affirmed. S.A.T. appealed, arguing the damages were improperly awarded since they were not claimed in the writ. The Court of Appeal upheld the award, invoking its power under Rule 31 of C.I. 19 to amend pleadings to reflect the real issue and prevent multiplicity of actions. It held that the facts clearly established a breach of contract under the Sale of Goods Act, 1962 (Act 137), entitling Hasnem to damages as a legal remedy, even in the absence of a specific claim, and affirmed the lower courts' judgments.",
+  "legalKeywords": [
+    "breach of contract",
+    "specific performance",
+    "damages",
+    "amendment of pleadings",
+    "restitution in integrum",
+    "Court of Appeal powers",
+    "Rule 31 C.I. 19",
+    "Sale of Goods Act 1962",
+    "equitable remedies",
+    "procedural justice",
+    "multiplicity of actions",
+    "buyer's rights",
+    "seller's obligations",
+    "quantum of damages",
+    "market price difference"
+  ],
+  "topics": [
+    "Contract Law",
+    "Appellate Procedure",
+    "Remedies",
+    "Civil Litigation",
+    "Commercial Law"
+  ],
+  "verdict": "Appeal dismissed; judgment of the High Court affirmed.",
+  "winningSide": "Hasnem Enterprise Ltd.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lampson, JA.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Wood (Mrs.), JA.",
+      "role": "Justice"
+    },
+    {
+      "name": "Brobbey, JA.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Lartey v. Bannerman (1976) 2 GLR 461",
+    "Dan v. Addo (1962) 2 GLR 200",
+    "Nkyi XI v. Kuma (1959) G.L.R.",
+    "Dove v. Wuta-Ofei (1966) G.L.R. 299",
+    "Akyirefie v. Paramount Stool of Breman-Esiam (1951) 13 WACA 331",
+    "Ababio IV v. Quartey (1916) P.C. 74",
+    "Mamudu Wangara v. Gyato Wangara (1982\u001983) 1 G.L.R. 639",
+    "Sale of Goods Act 1962 (Act 137)"
+  ],
+  "rationaleHighlights": [
+    "Appellate courts may amend pleadings sua sponte under Rule 31 C.I. 19 to prevent multiplicity of actions and ensure justice.",
+    "Damages are a valid remedy for breach of contract under Act 137, even if not initially claimed, where facts support it.",
+    "The trial court's award of damages was justified despite the absence of an explicit claim, based on undisputed breach.",
+    "Failure to deliver goods within reasonable time constitutes breach under S.16(4) of Act 137.",
+    "Quantum of damages follows S.54(2)(a): difference between market price and contract price where there is an available market."
+  ],
+  "confidenceNotes": "The truncated nature of the document limits full verification of all arguments and evidence, but key legal principles and case references are clearly stated and consistent with Ghanaian jurisprudence.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/SWISS AFRICAN TRADE CO. v. HASNEM ENT. LTD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:02:07.263Z",
+    "plainTextLength": 35632
+  },
+  "trialDate": "1ST APRIL 1999"
+}

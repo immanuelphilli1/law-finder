@@ -1,0 +1,63 @@
+{
+  "caseTitle": "MANSOUR VERSUS COMPAGNIE F'RANQAISE",
+  "summary": "In Mansour v. Compagnie Franaise de l'Afrique Occidentale, the Supreme Court of the Gold Coast held that a landlord could not recover the difference between a contractual rent of 40 and a subsequently assessed standard rent of 65 during the fixed two-year term of a lease. The court ruled that Section 5(3)(a) of the Rent Control Ordinance, c. 2 of 1952, does not grant landlords the right to increase rent to the standard amount during the pendency of a contractual tenancy. The decision emphasized that the tenant's obligation to pay rent is governed by the contract, and the Ordinance only restricts rents exceeding the standard, not those below it. The judgment aligned with English precedents under the Rent Restrictions Acts, affirming that the right to receive standard rent arises from contractual agreement, not statutory entitlement.",
+  "legalKeywords": [
+    "landlord and tenant",
+    "rent control",
+    "standard rent",
+    "contractual tenancy",
+    "rent assessment",
+    "Rent Control Ordinance",
+    "statutory rent",
+    "common law right",
+    "rental agreement",
+    "tenancy period",
+    "rent increase",
+    "statutory interpretation",
+    "tenant protection",
+    "rent tribunal",
+    "contractual obligation"
+  ],
+  "topics": [
+    "Landlord and Tenant Law",
+    "Rent Control",
+    "Contract Law",
+    "Statutory Interpretation",
+    "Property Law"
+  ],
+  "verdict": "Judgment for the defendants.",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Windsor-Aubrey J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Western Judicial Division, Divisonal Court, Sekondi",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Rent Control Ordinance, c. 2 of 1952, s. 5(3)(a)",
+    "Smith v. Lloyd (1923) 92 L.J.K.B. 877",
+    "Phillips v. Coppin (1935) 1 K.B. 15",
+    "R. v. Paddington and St. Marylebone Rent Tribunal, ex parte Bedrock Investments Ltd. [1948] 2 All E.R. 528",
+    "Dean v. Bruce [1951] 2 All E.R. 926"
+  ],
+  "rationaleHighlights": [
+    "Section 5(3)(a) of the Rent Control Ordinance does not empower a landlord to unilaterally increase rent during a fixed-term contractual tenancy.",
+    "The right to receive standard rent arises from contract, not statute, under the Ordinance.",
+    "Statute only restricts rents exceeding the standard, not those below it.",
+    "English Rent Restrictions Acts support the principle that contractual rent governs during fixed term if below standard rent.",
+    "The Ordinance does not create a statutory right to charge standard rent mid-contract."
+  ],
+  "confidenceNotes": "The decision is clearly reasoned and supported by English precedents, though a conflicting local decision (Amah v. Picas) is noted in editorial comments but not directly addressed in the judgment.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/MANSOUR v. COMPAGNIE F'RANQAISE DE L'AFRIQUE OCCIDENTALE..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:27:30.205Z",
+    "plainTextLength": 6641
+  }
+}

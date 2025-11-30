@@ -1,0 +1,71 @@
+{
+  "caseTitle": "AMORKOR SYKES & ORS. v. THE GOOD SHEPHERED MISSION",
+  "summary": "In Edith Amorkor Sykes & Ors. v. The Good Shepherd Mission (CA 32/1997), the Court of Appeal dismissed the appellant's appeal challenging the refusal of a stay of proceedings in favor of arbitration. The respondents, property owners, had leased their premises to the appellant mission for 21 years with development obligations, but terminated the lease after six months, alleging fraudulent misrepresentation by the appellant's agent. They later sued for possession, damages for deceit, and mesne profits. The appellant sought a stay of proceedings and referral to arbitration under a clause in the lease. The Court of Appeal held that while Section 8 of the Arbitration Act, Act 38 imposes no strict time limit for such applications, timeliness and risk of waiver are fact-sensitive. It found the appellant had not waived its right to arbitration by filing a defence and additional issues, having clearly objected to the court's jurisdiction in paragraph 30 of the defence. However, the court upheld the trial judge's refusal to stay proceedings because the respondents had pleaded fraud with sufficient particularity under Section 27(b) of the Act, which vitiates the entire agreement, including the arbitration clause. Thus, the court properly assumed jurisdiction to adjudicate the foundational validity of the contract.",
+  "legalKeywords": [
+    "arbitration clause",
+    "fraud allegation",
+    "stay of proceedings",
+    "waiver of rights",
+    "jurisdiction",
+    "lease agreement",
+    "deceit",
+    "mesne profits",
+    "respondent's pleading",
+    "appellate decision",
+    "contractual dispute",
+    "timeliness",
+    "arbitration agreement",
+    "fraudulent misrepresentation",
+    "vacant possession"
+  ],
+  "topics": [
+    "Arbitration Law",
+    "Contract Law",
+    "Property Law",
+    "Fraud in Contracts",
+    "Appellate Procedure"
+  ],
+  "verdict": "Appeal dismissed.",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Mrs. Wood J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Brobbey J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Baddoo J.A.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Kusi v. Shell Ghana Limited (1973) 1 GLR 173",
+    "Arbitration Act, Act 38, Section 8",
+    "Arbitration Ordinance Cap. 16 (1951) Rev., Section 5",
+    "Section 27(b) of the Arbitration Act, Act 38"
+  ],
+  "rationaleHighlights": [
+    "No statutory time limit under Section 8 of Act 38 for stay applications, but timeliness remains a factual requirement.",
+    "Filing of defence and additional issues does not constitute waiver of arbitration rights if objection is preserved.",
+    "Allegation of fraud, if pleaded with particularity, allows court to assume jurisdiction despite arbitration clause.",
+    "Fraud goes to the root of the contract, potentially invalidating the arbitration agreement itself.",
+    "Appellant acted timeously by raising arbitration issue in defence and filing motion shortly after reply."
+  ],
+  "confidenceNotes": "The truncated nature of the source document limits full verification of all factual claims, but key legal reasoning and procedural history are preserved from available text.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/EDITH AMORKOR SYKES & ORS. v. THE GOOD SHEPHERED MISSION.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:34:58.742Z",
+    "plainTextLength": 34096
+  },
+  "trialDate": "1997-12-04"
+}

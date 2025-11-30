@@ -1,0 +1,96 @@
+{
+  "caseTitle": "THE REPUBLIC v. THE HIGH COURT, BOLGATANGA, HAJIA FATI SEIDU",
+  "summary": "The Supreme Court of Ghana, in an ex-parte application by Madam Hawa Yakubu, quashed the proceedings and order of the Bolgatanga High Court dated 6th January 2001 in an election petition filed by Hajia Fati Seidu. The petition sought a recount of votes and injunctions preventing Yakubu from taking her parliamentary seat following the December 2000 elections for Bawku Central Constituency. The Supreme Court held that the petition was prematurely filed before the official gazette publication of results on 5th January 2001, violating Section 18(1) of PNDCL 284, which mandates a 21-day window after gazette publication for non-corrupt practice petitions. Additionally, the Court found a breach of natural justice (audi alteram partem) as Yakubu was not heard despite being directly affected by the order for a physical vote recount involving her votes.",
+  "legalKeywords": [
+    "election petition",
+    "premature filing",
+    "gazette publication",
+    "audi alteram partem",
+    "natural justice",
+    "PNDCL 284",
+    "Section 18",
+    "High Court jurisdiction",
+    "vote recount",
+    "corrupt practice",
+    "security for costs",
+    "Order 15 rule 6",
+    "L.I. 1129",
+    "C.I. 15 regulation 37",
+    "certiorari",
+    "exclusive original jurisdiction",
+    "Republic v High Court",
+    "Representation of People's Law",
+    "judicial review",
+    "procedural fairness"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Election Law",
+    "Administrative Law",
+    "Judicial Review",
+    "Procedural Justice"
+  ],
+  "verdict": "The Supreme Court quashed the proceedings and order of the Bolgatanga High Court.",
+  "winningSide": "The Republic (on behalf of Madam Hawa Yakubu)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "E. K. Wiredu",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "E. D. K. Adjebeng",
+      "role": "Justice"
+    },
+    {
+      "name": "G. K. Acquah",
+      "role": "Justice"
+    },
+    {
+      "name": "W. A. Atuguba",
+      "role": "Justice"
+    },
+    {
+      "name": "S. A. B. Akuffo",
+      "role": "Justice"
+    },
+    {
+      "name": "G. L. Lamprey",
+      "role": "Justice"
+    },
+    {
+      "name": "T. K. Adzoe",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Election Petition / Judicial Review",
+  "citations": [
+    "PNDCL 284",
+    "Section 18(1)",
+    "Order 15 rule 6 L.I. 1129",
+    "C.I. 15 regulation 37(3)",
+    "Yeboah vrs. Mensah (1998-99) SCGLR 492"
+  ],
+  "rationaleHighlights": [
+    "The election petition was filed before the gazette publication of results, making it premature under Section 18(1) of PNDCL 284.",
+    "No allegations of corrupt practice were made, so the 21-day period started from gazette publication, not from any alleged payment date.",
+    "The High Court violated audi alteram partem by ordering a recount affecting Madam Hawa Yakubu without affording her a hearing.",
+    "Even if discontinued, the order directly impacted the applicant without her participation.",
+    "The 21-day filing period under Section 18(3) is strict and non-extendable, even by court rules.",
+    "The High Court has exclusive original jurisdiction over election petitions under Section 16 of PNDCL 284.",
+    "The Supreme Court exercised its supervisory jurisdiction via certiorari to correct jurisdictional overreach.",
+    "Policy supports post-gazette filing to allow pre-litigation resolution of electoral disputes."
+  ],
+  "confidenceNotes": "The decision is based on clear statutory interpretation of PNDCL 284 and constitutional principles. All justices unanimously agreed, indicating high legal certainty. The facts are well-documented with specific dates and procedural details from the lower court.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2001A/THE REPUBLIC v. THE HIGH COURT, BOLGATANGA, HAJIA FATI SEIDU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:41:09.221Z",
+    "plainTextLength": 12807
+  },
+  "trialDate": "24TH JANUARY, 2001"
+}

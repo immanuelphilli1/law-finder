@@ -1,0 +1,75 @@
+{
+  "caseTitle": "NIMAKO-BREMPONG v. JOYCE B. AKADZA & ANOR",
+  "summary": "In Henry Nimako-Brempong v. Joyce B. Akadza & Another, the plaintiff sought an order for the removal of a perimeter wall constructed by the first defendant on a demarcated access road adjoining his property in Nungua-Buade, Accra, which obstructed vehicular access to his house, along with general damages. The trial judge ruled in favor of the plaintiff, ordering removal of the wall. The first defendant appealed, arguing procedural and legal errors, including improper joinder of the second defendant (Accra Metropolitan Assembly), misapplication of building regulations, lack of proof of the plaintiff’s land title, and improper locus in quo inspection procedures. The Court of Appeal upheld the trial court’s decision, finding the writ of summons appropriate given the mixed reliefs sought, dismissed arguments about building permits and land title as irrelevant to the core issue of obstruction, and affirmed the evidentiary value of the locus inspection despite criticizing the delegation of the site visit to the registrar. The appeal was dismissed, maintaining the trial court's judgment.",
+  "legalKeywords": [
+    "access road",
+    "nuisance",
+    "locus in quo",
+    "building permit",
+    "demarcation",
+    "adjacent landowners",
+    "fence wall",
+    "general damages",
+    "joinder of parties",
+    "prerogative writ",
+    "National Building Regulations LI 1630",
+    "title to land",
+    "court inspection",
+    "evidence corroboration",
+    "cross-examination"
+  ],
+  "topics": [
+    "Property Law",
+    "Civil Procedure",
+    "Land Access Dispute"
+  ],
+  "verdict": "The appeal was dismissed. The Court of Appeal upheld the trial court's judgment ordering the removal of the wall obstructing the access road.",
+  "winningSide": "Plaintiff/Respondent (Henry Nimako-Brempong)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ansa, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Aninakwah, J.A."
+    },
+    {
+      "name": "Tweneboah-Kodua, J.A."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "HENRY NIMAKO-BREMPONG v. JOYCE B. AKADZA & ANOR [30/1/2003] CA/NO. 8/2002",
+    "Order 6 (1), High Court (Civil Procedure) (Amendment) (No.2) Rules 1977, LI 1129",
+    "Order 2 Rule 1, High Court Procedure Rules, 1954 (L.N. 140A)",
+    "Mould v. de Vine [1962] 1 GLR 533",
+    "In re A Complaint to Police by Botwe and Mensah [1957] GLR 457",
+    "Gblevi Family v. Amanie [1961] GLR 1",
+    "Mansah v Donkor [1980] GLR 825",
+    "Amane v. Kwabla [1975] 1 GRL 417",
+    "National Building Regulations, 1996 (LI 1630), Regulations 3 and 7"
+  ],
+  "rationaleHighlights": [
+    "The writ of summons was appropriate due to mixed reliefs (injunctive and damages) against both private and public defendants.",
+    "The plaintiff’s lack of tendered building permit or land title was immaterial; the core issue was obstruction of a demarcated access road.",
+    "Oral testimony on the existence of a building permit was unchallenged in cross-examination and thus deemed admitted.",
+    "The trial judge had discretion to conduct a locus in quo inspection to resolve factual disputes not fully addressed by plans.",
+    "Delegation of the inspection to the registrar was improper, as site visits constitute direct evidence reception by the court.",
+    "The joinder of AMA as a defendant was not fatal; misjoinder is non-prejudicial under LI 1129.",
+    "Prerogative writs like mandamus were not required as the plaintiff did not solely seek to compel public duty enforcement.",
+    "The appeal grounds were either irrelevant, procedurally flawed, or lacked merit on substance."
+  ],
+  "confidenceNotes": null,
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/HENRY NIMAKO-BREMPONG v. JOYCE B. AKADZA & ANOR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:28:05.499Z",
+    "plainTextLength": 23364
+  },
+  "trialDate": "2003-01-30"
+}

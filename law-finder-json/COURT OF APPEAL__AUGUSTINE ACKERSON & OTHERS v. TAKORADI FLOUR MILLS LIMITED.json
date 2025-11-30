@@ -1,0 +1,70 @@
+{
+  "caseTitle": "AUGUSTINE ACKERSON & OTHERS v. TAKORADI FLOUR MILLS",
+  "summary": "In Augustine Ackerson & Others v. Takoradi Flour Mills Limited, the Court of Appeal of Ghana considered a cross-appeal by employees dismissed in February 1990 after collecting unauthorized I.O.U.s, while others who committed similar acts were retained. The High Court had declared the dismissals unlawful and awarded damages. The defendant’s main appeal was struck out for non-compliance with procedural rules. The plaintiffs cross-appealed, arguing that the damages awarded were too low and incorrectly computed, citing difficulty in securing new employment and missed salary increments. The Court of Appeal upheld the principle that employees have a duty to mitigate losses but emphasized that this does not guarantee immediate re-employment. It clarified that Ghana Cocoa Marketing Board v. Agbettoh does not mandate a fixed 24-month damages period, and awards must reflect the realities of each case. The court rejected both the argument for automatic two-year compensation and the suggestion of only one month’s pay in lieu of notice, affirming the trial judge’s discretion in assessing reasonable mitigation time at five months. The judgment reinforced that courts must avoid awarding damages that compensate for work not performed.",
+  "legalKeywords": [
+    "wrongful dismissal",
+    "damages",
+    "mitigation of loss",
+    "natural justice",
+    "employment law",
+    "collective agreement",
+    "judicial notice",
+    "cross-appeal",
+    "procedural compliance",
+    "unlawful termination",
+    "salary increments",
+    "I.O.U. deductions",
+    "duty to mitigate",
+    "backdoor appeal",
+    "employment entitlements"
+  ],
+  "topics": [
+    "Employment Law",
+    "Wrongful Dismissal",
+    "Damages Assessment",
+    "Appeal Procedure",
+    "Mitigation of Loss"
+  ],
+  "verdict": "The cross-appeal was dismissed; the Court of Appeal upheld the trial court's damages award, finding the five-month mitigation period reasonable and consistent with legal principles.",
+  "winningSide": "Defendant (Takoradi Flour Mills Limited)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ansa, JA",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Twumasi, JA",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Farkye, JA",
+      "role": "panel judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "employment",
+  "citations": [
+    "Ghana National Trading Corporation v. Baiden [1991] 1GLR 567 SC",
+    "Ghana Cocoa Marketing Board v. Agbettoh [1984-86] 1 GLR 122",
+    "Hemans v. G.N.T.C. [1978] GLR 4"
+  ],
+  "rationaleHighlights": [
+    "The trial judge's 5-month mitigation period was reasonable despite plaintiffs' unemployment, as duty to mitigate does not guarantee re-employment.",
+    "Agbettoh case does not establish a rigid 24-month damages rule; courts must assess each case based on its realities.",
+    "Respondent could challenge judgment's validity via cross-appeal even after their main appeal was struck out.",
+    "Damages must reflect actual loss, not payment for work not performed.",
+    "Plaintiffs' dismissals were wrongful due to unequal treatment and lack of fair procedure."
+  ],
+  "confidenceNotes": "High confidence; all key details such as parties, court, judgment date, and legal reasoning are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/AUGUSTINE ACKERSON & OTHERS v. TAKORADI FLOUR MILLS LIMITED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:43:42.154Z",
+    "plainTextLength": 30909
+  },
+  "trialDate": "23RD MAY 2002"
+}

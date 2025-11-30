@@ -1,0 +1,71 @@
+{
+  "caseTitle": "KWABENA AGYAPONG v. YAW MENSAH",
+  "summary": "This is a land title dispute between Kwabena Agyapong (plaintiff/appellant) and Yaw Mensah (defendant/respondent) over Plot No. 1A Block J, Kentinkronu, Kumasi. The plaintiff claimed ownership through a 1981 deed of assignment from Prince Albert Prempeh, who allegedly leased the land from the Akyempim Stool in 1976. However, the Court of Appeal found inconsistencies between the plaintiff's pleadings and evidence, noting he failed to prove the root of title or call key witnesses. The defendant, representing the Aburam family, established a customary usufructuary interest through a 1907 purchase by his ancestor, Yaw Bonda, from Oheneba Kwaku Duah, then Akyempimhene. The court held that the Akyempim Stool could not validly lease the land without the family's consent, rendering the plaintiff's title void. The trial court's judgment in favor of the defendant was upheld.",
+  "legalKeywords": [
+    "land title",
+    "customary law",
+    "allodial title",
+    "usufructuary interest",
+    "declaration of title",
+    "trespas",
+    "deed of assignment",
+    "leasehold",
+    "root of title",
+    "traditional authority",
+    "boundary dispute",
+    "family land",
+    "stool land",
+    "counterclaim",
+    "evidence"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Tenure",
+    "Usufructuary Rights",
+    "Allodial Title",
+    "Evidence Law"
+  ],
+  "verdict": "Appeal dismissed; trial court's judgment in favor of the defendant upheld.",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "A. Essilfie-Bondzie",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "B. T. Aryeetey",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "P. K. Owusu-Ansah",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "land title dispute",
+  "citations": [
+    "THOMPSON VS. MENSAH (1957) 3 W.A.C.R 240",
+    "OHIMEN-ADJEI (1957) 2 W.A.L.R 275"
+  ],
+  "rationaleHighlights": [
+    "Plaintiff's evidence conflicted with pleadings regarding root of title",
+    "Plaintiff failed to call Akyempim Stool or Prince Albert Prempeh to substantiate claim",
+    "Defendant established usufructuary interest through ancestral purchase from Akyempimhene",
+    "Exhibit 1 (1907 customary sale) supported defendant's family ownership",
+    "Lease to plaintiff's grantor void for lack of family consent",
+    "Stool cannot alienate land held by family without consent",
+    "Trial court's judgment supported by evidence"
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details are explicitly stated in the judgment. The court's reasoning and cited authorities are clearly articulated.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/KWABENA AGYAPONG v. YAW MENSAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:23:16.467Z",
+    "plainTextLength": 14834
+  },
+  "trialDate": "2002-12-05"
+}

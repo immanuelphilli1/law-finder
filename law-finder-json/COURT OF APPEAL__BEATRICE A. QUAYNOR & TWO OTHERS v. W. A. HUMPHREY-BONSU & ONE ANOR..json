@@ -1,0 +1,81 @@
+{
+  "caseTitle": "BEATRICE A. QUAYNOR & TWO OTHERS v. W. A. HUMPHREY-BONSU",
+  "summary": "In this Court of Appeal decision from Ghana, the appellants challenged a trial court ruling that granted maintenance and estate provisions to the respondents—Beatrice A. Quaynor and two children of the deceased testator, William Bart-Plange—under section 13 of the Wills Act, 1971 (Act 360). The trial court had found that the 1st plaintiff was a validly married customary wife and that the 2nd and 3rd plaintiffs, though over 18, were dependants due to the 2nd being a student and the 3rd being physically and mentally disabled. The Court of Appeal upheld the marital status of the 1st plaintiff, affirming her dependency despite prolonged separation, citing that the deceased had unilaterally prevented reconciliation. However, the appellate court held that the 2nd and 3rd plaintiffs did not qualify as 'children' under section 13(1) due to their age, strictly interpreting the statute. It emphasized legislative clarity over hardship, though it acknowledged the need for legal reform. The court also ruled that devises to an attesting witness were void and fell into the residue, subject to distribution under the Intestate Succession Law, PNDCL 111. While affirming the 1st plaintiff's entitlement to maintenance, it questioned the trial court’s specific order tying rental income from a property to lifelong maintenance, suggesting residue funds should suffice.",
+  "legalKeywords": [
+    "Wills Act",
+    "Intestate Succession Law",
+    "dependant",
+    "customary marriage",
+    "attesting witness",
+    "residue",
+    "section 13",
+    "section 3(4)",
+    "hardship",
+    "maintenance",
+    "dependency",
+    "marital status",
+    "separation",
+    "provision for dependants",
+    "statutory interpretation",
+    "judicial discretion",
+    "PNDCL 111",
+    "Act 360",
+    "trial court error",
+    "Court of Appeal"
+  ],
+  "topics": [
+    "Family Law",
+    "Succession Law",
+    "Wills and Probate",
+    "Dependency Claims",
+    "Customary Marriage Recognition"
+  ],
+  "verdict": "Partially upheld",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Benin, JA.",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Essilfie-Bondzie, JA.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Twumasi, JA.",
+      "role": "Member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Wills Act, 1971 (Act 360)",
+    "Intestate Succession Law, 1985 (PNDCL 111)",
+    "Jelley vs. Illiffe (1981) 2 ALL E.R 29",
+    "New Monckton Collieries, Ltd. v. Keeling (1911) A.C. 648",
+    "WARBURTON v. LOVELAND (1831) 2 D & CL. (H.L.) 480",
+    "Quaye v. Quarcoo (1991) 2 GLR 437"
+  ],
+  "rationaleHighlights": [
+    "Marriage not dissolved by separation without formal dissolution or remarriage",
+    "Dependency not negated by testator's refusal to maintain spouse",
+    "Statute must be followed even if result is harsh",
+    "Children over 18 do not qualify as dependants under section 13(1)",
+    "Devises to attesting witnesses void under section 3(4)",
+    "Residue governed by PNDCL 111",
+    "Trial court overreached in property-specific maintenance order",
+    "Need for legislative reform on disabled adult children"
+  ],
+  "confidenceNotes": "High confidence; all information is directly derived from the provided judgment text, with clear citations and consistent legal reasoning. Minor truncation in source does not affect core holdings.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/BEATRICE A. QUAYNOR & TWO OTHERS v. W. A. HUMPHREY-BONSU & ONE ANOR..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:43:32.418Z",
+    "plainTextLength": 46745
+  },
+  "trialDate": "2000-02-14"
+}

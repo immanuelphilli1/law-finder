@@ -1,0 +1,75 @@
+{
+  "caseTitle": "MATTER OF REX VERSUS THEOPHILUS ADENUGA TUNW",
+  "summary": "This 1935 West African Court of Appeal decision, delivered by Acting Chief Justice Cor. Butler-Lloyd, addressed an application for bail pending appeal by Theophilus Adenuga Tunw Ashe, the former Awujale of Ijebu Ode, who had been convicted and sentenced to four years' imprisonment on multiple counts under the Criminal Code. The application was made under Section 17(2) of the West African Court of Appeal Ordinance (No. 47 of 1933). The court denied bail, emphasizing that bail pending appeal is only granted in exceptional circumstances or where undue delay in hearing the appeal would result in a substantial portion of the sentence being served. The court found that a two-month delay relative to a four-year sentence did not meet this threshold. Reference was made to prior cases, including Rex v Lawrence and Rex v Riegels, to illustrate distinguishing factors such as legal uncertainty or the need for client-counsel communication, which were absent here. The ruling reaffirmed judicial restraint in bail decisions to maintain consistency in future cases.",
+  "legalKeywords": [
+    "bail pending appeal",
+    "West African Court of Appeal Ordinance",
+    "exceptional circumstances",
+    "concurrent sentences",
+    "criminal appeal",
+    "judicial discretion",
+    "section 17(2)",
+    "Rex v Gott",
+    "Rex v Lawrence",
+    "Rex v Riegels",
+    "Criminal Code sections 324, 513, 516",
+    "undue delay",
+    "sentence proportionality",
+    "Full Court referral",
+    "client-counsel communication",
+    "appellate procedure",
+    "judicial restraint",
+    "acting Chief Justice",
+    "conviction challenge",
+    "legal uncertainty"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Bail Law",
+    "Judicial Discretion",
+    "Colonial Legal System"
+  ],
+  "verdict": "Application for bail denied",
+  "winningSide": "Crown",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Butler-Lloyd",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Trevethin",
+      "role": "Lord Chief Justice (cited)"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "West African Court of Appeal Ordinance 47 of 1933, s 17(2)",
+    "Rex v Lawrence",
+    "Rex v Riegels",
+    "Rex v Gott, C.A. Reports Vol. XVI"
+  ],
+  "rationaleHighlights": [
+    "Bail pending appeal requires exceptional circumstances or undue delay",
+    "Two-month delay not significant relative to four-year sentence",
+    "No legal uncertainty or procedural complexity justifying bail",
+    "Precedents distinguish cases with stated cases or short sentences",
+    "Consistency in bail decisions emphasized",
+    "Free communication between client and counsel not a factor here",
+    "Sentences run concurrently but total length still relevant",
+    "Court exercises restraint to avoid setting inconsistent precedent"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and citation of specific legal provisions and cases. Jurisdiction is correctly identified as West African Court of Appeal with relevance to Ghana's colonial legal history.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/IN THE MATTER OF REX.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:26:49.323Z",
+    "plainTextLength": 3386
+  },
+  "trialDate": "1935-03-12"
+}

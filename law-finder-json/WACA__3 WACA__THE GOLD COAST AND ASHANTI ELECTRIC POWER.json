@@ -1,0 +1,74 @@
+{
+  "caseTitle": "THE GOLD COAST AND ASHANTI ELECTRIC POWER",
+  "summary": "The West Africa Court of Appeal allowed an appeal by The Gold Coast and Ashanti Electric Power Development Corporation Ltd. against the Attorney-General, reversing a lower court's dismissal of the suit. The trial judge had dismissed the case on the grounds that the plaintiffs' pleadings disclosed no legal cause of action, relying on facts not admitted in the pleadings—specifically, whether the plaintiff objected to a licence within the statutory period and whether it was incorporated at the relevant time. The appellate court held that the joinder of issue in the plaintiff's reply denied all material facts in the defence unless expressly admitted, rendering those facts disputed. It further ruled that the trial judge erred in applying the Rules of the Supreme Court of England after a statement of defence was filed, as local rules under the Courts Ordinance (particularly Order 19 and Order 32, Rule 2) provided sufficient procedural mechanisms. The appeal was allowed, costs awarded, and the case remitted for trial.",
+  "legalKeywords": [
+    "pleadings",
+    "demurrer",
+    "joinder of issue",
+    "statement of defence",
+    "legal cause of action",
+    "admitted facts",
+    "jurisdiction",
+    "procedure",
+    "Courts Ordinance",
+    "R.S.C. of England",
+    "motion to dismiss",
+    "incorporation",
+    "objection to licence",
+    "rules of court",
+    "appeal"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Pleadings",
+    "Appeal",
+    "Jurisdiction",
+    "Corporate Law"
+  ],
+  "verdict": "Appeal allowed; judgment of the trial court set aside.",
+  "winningSide": "Plaintiffs-Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Strother-Stewart",
+      "role": "Justice"
+    },
+    {
+      "name": "Doorly",
+      "role": "Justice"
+    },
+    {
+      "name": "Bruce",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "Order 19, Rule 1, Schedule 3, Courts Ordinance",
+    "Order 32, Rule 2, Schedule 3, Courts Ordinance",
+    "Order 25, Rules 2 and 5, Annual Practice (R.S.C. of England)",
+    "Order 19, Rule 18, R.S.C. of England"
+  ],
+  "rationaleHighlights": [
+    "Joinder of issue operates as denial of all material allegations in the defence unless specifically admitted.",
+    "Judgment cannot be based on non-admitted facts; only admitted facts support a dismissal.",
+    "Order 19 applies only before a statement of defence is filed.",
+    "Local rules (Courts Ordinance) displace need to apply English R.S.C.",
+    "Trial judge lacked jurisdiction to apply English R.S.C. after defence was filed.",
+    "Defendant may raise lack of cause of action at trial under Order 32, Rule 2 if demurrer is out of time.",
+    "Use of 'join issue' by plaintiff implies acceptance of English procedural concepts where applicable.",
+    "Case remitted for trial as material facts were in dispute."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text with clear references to procedural rules and factual admissions.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/THE GOLD COAST AND ASHANTI ELECTRIC POWER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:10:04.577Z",
+    "plainTextLength": 9280
+  },
+  "trialDate": "1937-09-18"
+}

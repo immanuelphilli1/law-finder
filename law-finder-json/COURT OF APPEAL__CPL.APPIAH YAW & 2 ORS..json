@@ -1,0 +1,66 @@
+{
+  "caseTitle": "CPL.APPIAH YAW & 2 ORS.",
+  "summary": "In this 2010 criminal appeal before the Ghana Court of Appeal (Suit No. H2/16/2010), the appellants, CPL. Appiah Yaw and two others, challenged the jury empanelment process, seeking prior access to jurors' names and particulars to conduct background checks for potential bias. The Court unanimously dismissed the appeal. Yaw Appau, J.A., affirmed that the right to challenge jurors peremptorily or for cause under sections 249–251 of Act 30/60 (Criminal Procedure Code) is statutory, not a common law or equitable right. The Court held that the statute does not require advance disclosure of juror information, and such a requirement cannot be judicially imported. The purpose of the statutory challenge is to exclude jurors with known biases, not to enable speculative investigations into unknown individuals. The Court rejected the appellants' request as an overextension of statutory rights, emphasizing that the law does not permit litigants to investigate the impartiality of judges or jurors before trial. The appeal was dismissed for lack of merit.",
+  "legalKeywords": [
+    "jury empanelment",
+    "peremptory challenge",
+    "challenge for cause",
+    "statutory right",
+    "Criminal Procedure Code",
+    "Act 30/60",
+    "judicial bias",
+    "right to fair trial",
+    "statutory interpretation",
+    "juror impartiality",
+    "Ghana Court of Appeal"
+  ],
+  "topics": [
+    "Criminal Procedure",
+    "Appellate Law",
+    "Jury Trials",
+    "Legal Rights of Accused"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent (The Republic)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Yaw Appau",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Abban",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Acquaye",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "S.A. de Smith's Judicial Review of Administrative Action (3rd ed), p. 316",
+    "IN RE PARLIAMENTARY ELECTION FOR WULENSI CONSTITUENCY; ZAKARIA V NYIMAKAN, (2003–2004) Vol. 1 SCGLR 1 @ 10"
+  ],
+  "rationaleHighlights": [
+    "The right to challenge jurors is statutory under Act 30/60, not a common law right.",
+    "No statutory requirement exists to provide accused persons with juror names and particulars before empanelment.",
+    "Statutory remedies must be pursued within the framework provided by law; courts cannot import additional requirements.",
+    "The purpose of peremptory challenge is to exclude known biased jurors, not to conduct speculative background checks.",
+    "Extending the right to pre-screen unknown jurors would overstretch the statutory provision beyond its intent.",
+    "Judicial impartiality cannot be subject to pre-trial investigations by litigants, akin to demanding background checks on judges.",
+    "The appellants' request was deemed an imaginative but unsustainable expansion of statutory rights."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct judicial text; all details extracted verbatim or by clear inference from the judgment.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/CPL.APPIAH YAW & 2 ORS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:38:53.331Z",
+    "plainTextLength": 3855
+  },
+  "trialDate": "2010-04-15"
+}

@@ -1,0 +1,56 @@
+{
+  "caseTitle": "NATIONAL BISCUIT CO. VERSUS PIONEER BISCUIT CO., LTD",
+  "summary": "The National Biscuit Company, a U.S.-based corporation, opposed the registration of the trademark 'PIBISCO' by Pioneer Biscuit Company, Ltd. in Ghana, arguing that the mark was phonetically and visually similar to its own 'NABISCO' mark and would cause public confusion. The opposition relied on sections 12 and 24 of the Trade Marks Ordinance. The court found that 'NABISCO' was not registered in Ghana, so protection under section 24 was unavailable. While acknowledging phonetic and visual similarities, particularly in the dominant 'BISCO' syllable, the court held that for opposition under section 12 to succeed, there must be evidence that the Ghanaian public was familiar with 'NABISCO' as identifying the opposer's goods. However, the only evidence showed limited imports between 1944 and 1947, with no presence in Ghana for the prior ten years. Without proof of continued recognition or market impact, the court concluded that confusion was unlikely and ordered the registration of 'PIBISCO'.",
+  "legalKeywords": [
+    "trade marks",
+    "opposition to registration",
+    "deception",
+    "phonetic similarity",
+    "graphic similarity",
+    "public confusion",
+    "prior use",
+    "familiarity with mark",
+    "section 12 Trade Marks Ordinance",
+    "section 24 Trade Marks Ordinance"
+  ],
+  "topics": [
+    "Trademark Law",
+    "Consumer Confusion",
+    "Intellectual Property Rights"
+  ],
+  "verdict": "The application for registration of 'PIBISCO' was granted; the opposition was dismissed.",
+  "winningSide": "Pioneer Biscuit Company, Ltd.",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "intellectual property",
+  "citations": [
+    "Trade Marks Ordinance, c. 180, ss. 12 and 24",
+    "Pianotist Co., Ltd.'s Application (1906) 23 R.P.C. 774",
+    "Sandow, Ltd.'s Application (1914) 31 R.P.C. 196",
+    "Bysta, Ltd.'s Application (1943) 60 R.P.C. 87",
+    "Impex Electrical v. Weinbaum (1927) 44 R.P.C. 405"
+  ],
+  "rationaleHighlights": [
+    "Similarity in sound and appearance alone is insufficient to block registration without public familiarity",
+    "Registration under s.24 requires prior registration in Ghana, which was not established",
+    "The public must be familiar with the opposing mark for confusion to occur",
+    "No evidence of sufficient market presence of 'NABISCO' in Ghana post-1947",
+    "Absence of recent use undermines claim of ongoing reputation in Ghana"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and clear citation of legal principles and precedents.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/NATIONAL BISCUIT CO. v. PIONEER BISCUIT CO., LTD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:59:09.995Z",
+    "plainTextLength": 14308
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "caseTitle": "WALTER LOEB",
+  "summary": "In Walter Loeb v. Solomon Nasser, the West Africa Court of Appeal reviewed a claim for damages following the plaintiff's wrongful dismissal from a three-year engineering contract in Kumasi. The trial court awarded £249 0s. 8d., but the defendant appealed, arguing that the plaintiff’s refusal of re-employment rendered damages nominal. The appellate court upheld the finding of wrongful dismissal, emphasizing that refusal to accept re-employment is only detrimental if unreasonable, which was not established here. However, the court reversed part of the damages award, reducing it to £216 2s. 5d., after determining that the trial judge misinterpreted ledger entries that conclusively showed a £12 advance salary payment. The court also agreed to reduce the award for the wife’s passage by £20 18s. 3d., as conceded by the respondent. Costs were apportioned equally due to the partial success of the appeal.",
+  "legalKeywords": [
+    "wrongful dismissal",
+    "damages",
+    "re-employment",
+    "contract breach",
+    "quantum of damages",
+    "documentary evidence",
+    "credibility of witnesses",
+    "nominal damages",
+    "advance of salary",
+    "ledger entries"
+  ],
+  "topics": [
+    "Employment Law",
+    "Contract Law",
+    "Appeals",
+    "Damages Assessment",
+    "Evidence Interpretation"
+  ],
+  "verdict": "Appeal allowed in part; damages reduced based on documentary evidence misinterpretation.",
+  "winningSide": "Defendant-Appellant (partial win)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Yates",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Brace v. Calder 0- Others (1895 2 Q.B.D., p. 253)",
+    "Chitty on Contracts (18th edition, p. 1956)"
+  ],
+  "rationaleHighlights": [
+    "Refusal of re-employment must be unreasonable to justify only nominal damages.",
+    "Court may reverse findings based on clear misunderstanding of documentary evidence.",
+    "Plaintiff's foreign status and war conditions justified higher damages.",
+    "Ledger entries proved advance of salary, contradicting trial judge's interpretation.",
+    "Costs apportioned equally due to partial success on appeal."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judgment text and clear documentary analysis.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/WALTER LOEB.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:09:14.912Z",
+    "plainTextLength": 9814
+  },
+  "trialDate": "1937-12-15"
+}

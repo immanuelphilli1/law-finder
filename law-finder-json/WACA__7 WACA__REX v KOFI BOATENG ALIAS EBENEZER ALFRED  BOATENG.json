@@ -1,0 +1,78 @@
+{
+  "caseTitle": "REX v KOFI BOATENG ALIAS EBENEZER ALFRED BOATENG",
+  "summary": "In this 1941 West Africa Court of Appeal case from Kumasi, Kofi Boateng (alias Ebenezer Alfred Boateng) was convicted of receiving stolen property—specifically a bottle of Black and White Whisky and a tin of Skipper Sardines—despite being acquitted of burglary and stealing charges. The appeal challenged the sufficiency of evidence linking the items to the complainant's stolen goods and the lack of a formal receiving charge. The court upheld the conviction, ruling that while there was no direct identification of the items as stolen, the surrounding circumstances—including concealment of the items, inconsistent explanations by the appellant about their origin, and failure to corroborate his claims—were sufficient under sections 27, 29, and 43 of the Criminal Code to infer guilty knowledge. The court relied on precedents affirming that circumstantial evidence can support a receiving conviction without proof of specific theft or item identification.",
+  "legalKeywords": [
+    "receiving stolen property",
+    "circumstantial evidence",
+    "guilty knowledge",
+    "nexus of stolen goods",
+    "identification of property",
+    "criminal inference",
+    "dishonest appropriation",
+    "proof of theft",
+    "appellate review",
+    "conflicting statements",
+    "burden of explanation",
+    "possession of stolen goods",
+    "Criminal Code sections 27 29 43",
+    "section 143 Criminal Procedure Ordinance",
+    "admission by co-accused",
+    "evidence sufficiency",
+    "trial judge inference",
+    "appellate standard of review",
+    "conviction without direct evidence",
+    "suspicious circumstances"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Theft and Receiving",
+    "Judicial Reasoning"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Graham Paul, C.J., Sierra Leone",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Rex v. Sbarra (13 Cr. App. Rep. 118)",
+    "Rex v. Fuschillo (27 Cr. App. Rep. 193)",
+    "sections 27, 29 and 43 of the Criminal Code",
+    "section 143 of the Criminal Procedure Ordinance (Chapter 10)"
+  ],
+  "rationaleHighlights": [
+    "Circumstances of possession can establish guilty knowledge without direct proof of theft",
+    "Inconsistent explanations by accused support inference of guilt",
+    "Concealment of items suggests awareness of illicit origin",
+    "Failure to call corroborative evidence strengthens adverse inference",
+    "Admission of guilt by co-accused not binding on appellant but context matters",
+    "Trial judge entitled to draw inferences from totality of circumstances",
+    "No legal requirement to prove specific identity of stolen goods in receiving cases",
+    "Sufficiency of evidence assessed on overall suspiciousness rather than isolated facts"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on primary source text. All legal principles and case details are directly extracted from the judgment. Some formatting artifacts from source file (e.g., 'pg 109', 'pages.gif') are disregarded as non-substantive.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/REX v KOFI BOATENG ALIAS EBENEZER ALFRED  BOATENG.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:25:55.210Z",
+    "plainTextLength": 9480
+  }
+}

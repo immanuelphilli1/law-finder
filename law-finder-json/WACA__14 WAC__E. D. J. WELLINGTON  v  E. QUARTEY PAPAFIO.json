@@ -1,0 +1,70 @@
+{
+  "caseTitle": "E. D. J. WELLINGTON v E. QUARTEY PAPAFIO",
+  "summary": "This appeal from the Supreme Court of the Gold Coast, reversing a Native Court decision, concerned a dispute over the ownership of mortgaged property following the death of the mortgagee, W. A. Wellington. The appellant, his son, claimed on behalf of all children that the family had 'given' them the mortgaged property with a life interest for their grandmother, Aku Aba. The respondents included a purchaser from the uterine brother and sister of the deceased, who were principal members of the family. The West Africa Court of Appeal held that under Ga customary law, the mortgagee's interest was personal estate devolving on the administrator (Aku Aba), and upon her death, it became family property. Only children of a 'six cloth marriage' are entitled to a right of support, not ownership. The plaintiffs failed to prove such a marital status or any formal transfer of the chattel interest from the family to them. The court rejected the Native Court's moral-based judgment, emphasizing that family property is indivisible and cannot be alienated without clear consent. As no valid transfer was proven, the plaintiffs' claim failed.",
+  "legalKeywords": [
+    "mortgage",
+    "intestacy",
+    "Ga customary law",
+    "family property",
+    "letters of administration",
+    "alienation of property",
+    "succession",
+    "chattel interest",
+    "mortgagee's security",
+    "native law and custom",
+    "right of support",
+    "six cloth marriage",
+    "joint interest",
+    "devolution of estate",
+    "power of sale"
+  ],
+  "topics": [
+    "Customary Law",
+    "Property Law",
+    "Succession",
+    "Mortgage",
+    "Family Law"
+  ],
+  "verdict": "Appeal dismissed; decision of the Supreme Court upheld, overturning the Native Court's judgment in favor of the plaintiffs.",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Foster-Sutton",
+      "role": "President"
+    },
+    {
+      "name": "Coussey",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Korsah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Mary Vanderpuye and Others v. Mary Akua Batchway, W.A.C.A., 8th March, 1951"
+  ],
+  "rationaleHighlights": [
+    "A mortgagee's security is personal estate devolving on the administrator upon intestacy.",
+    "Under Ga customary law, self-acquired property becomes family property upon death; only children of a six cloth marriage have a right of support.",
+    "No part of family property can be alienated to children unless all parties agree.",
+    "The plaintiffs failed to prove their father's mortgage interest was transferred to them.",
+    "The Native Court erred in declaring the property descendible to the plaintiffs.",
+    "The mortgagee’s interest could not pass by descent but only by formal transfer, which was not proven.",
+    "The plaintiffs’ belief that the mortgaged property became their father’s freehold was legally incorrect.",
+    "The court rejected moral reasoning in favor of strict application of customary law."
+  ],
+  "confidenceNotes": "High confidence in extraction; source is a formal court judgment with clear holdings and reasoning. Truncation does not affect key legal conclusions.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/E. D. J. WELLINGTON  v  E. QUARTEY PAPAFIO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:40:43.528Z",
+    "plainTextLength": 17022
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "caseTitle": "ABBA v KOOM ASSAN II, KWASI BAAH,",
+  "summary": "The provided document does not contain the full text of a legal decision but appears to be a table of cases from the West African Court of Appeal (WACA) archives, likely sourced from a Ghanaian legal repository. It lists numerous case titles involving civil, customary, and criminal matters, but no detailed facts, judgments, or reasoning are present. As such, no substantive legal analysis or verdict can be derived from this excerpt.",
+  "legalKeywords": [
+    "West African Court of Appeal",
+    "Ghana Law",
+    "case index",
+    "customary law",
+    "criminal law",
+    "civil litigation",
+    "legal repository",
+    "appellate jurisdiction",
+    "judicial decisions",
+    "case listing"
+  ],
+  "topics": [
+    "Legal Research",
+    "Court Records",
+    "West African Jurisprudence"
+  ],
+  "verdict": "N/A",
+  "winningSide": "N/A",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Index of Cases",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "Low confidence in deriving case-specific insights due to absence of full judgment text; the data reflects a catalog, not a legal ruling.",
+  "metadata": {
+    "sourcePath": "WACA/waca 2.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T09:53:33.780Z",
+    "plainTextLength": 4784
+  }
+}

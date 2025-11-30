@@ -1,0 +1,74 @@
+{
+  "caseTitle": "SAMUEL Q. NELSON",
+  "summary": "This was a civil appeal before the West Africa Court of Appeal concerning a land dispute in Accra, Ghana. The Plaintiff-Appellant, Samuel Q. Nelson, claimed damages for trespass by the Defendants-Respondents, S. Ammah and Yawa Aruna, on land he purchased in 1920 from Isaac Cobblah Fiscian, Head of the Aruna Family. The Ga Tribunal and Provincial Commissioner dismissed the claim, relying on Exhibits B, C, and F to support the Defendants' superior title. The Appeal Court found that the Tribunals had committed serious misdirections: Exhibit B (1934) did not appoint Yawa Aruna as Head of Family and could not affect prior transactions; Exhibit C (1931 judgment) did not adjudicate family headship and thus was not res judicata; and Exhibit F (a Cape Coast succession case) was wrongly applied to Ga customary law. The Court emphasized that the real issue was title, not mere possession, and ordered a re-hearing de novo by the Ga Mantse's Tribunal with clear directions on the proper interpretation of evidence and Ga law. The appeal was allowed, prior judgments set aside, and costs awarded to the Appellant.",
+  "legalKeywords": [
+    "trespass",
+    "title to land",
+    "customary law",
+    "res judicata",
+    "misdirection",
+    "Ga native law",
+    "superior title",
+    "family property",
+    "conveyance",
+    "re-hearing de novo",
+    "acquiescence",
+    "inheritance",
+    "tribunal error",
+    "judicial direction",
+    "land dispute"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Appellate Procedure",
+    "Trespass",
+    "Title to Property"
+  ],
+  "verdict": "Appeal allowed; case remitted for re-hearing de novo with judicial directions.",
+  "winningSide": "Plaintiff-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Exhibit B",
+    "Exhibit C",
+    "Exhibit F",
+    "Johnson and Another v. Johnson",
+    "I. C. Fiscian v. Yawa Aruna (11th July, 1931)"
+  ],
+  "rationaleHighlights": [
+    "The real issue in the trespass claim was title to land, not mere possession.",
+    "The Tribunal materially misdirected itself on Exhibits B, C, and F.",
+    "Exhibit B did not appoint Yawa Aruna as Head of Family and could not retroactively invalidate 1920 transactions.",
+    "Exhibit C did not decide family headship and thus was not res judicata on title.",
+    "Exhibit F, based on Cape Coast law, was wrongly applied to Ga succession law.",
+    "The Appellant was not required to join Fiscian as co-plaintiff.",
+    "The case must be reheard with proper directions on evidence and customary law."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; all key details are explicitly stated in the judgment. Citations are drawn directly from referenced exhibits and cases.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/SAMUEL Q. NELSON.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:55:51.935Z",
+    "plainTextLength": 14835
+  },
+  "trialDate": "1940-05-23"
+}

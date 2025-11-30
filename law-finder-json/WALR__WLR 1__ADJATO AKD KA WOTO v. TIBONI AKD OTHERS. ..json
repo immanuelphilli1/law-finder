@@ -1,0 +1,77 @@
+{
+  "caseTitle": "AKD KA WOTO VERSUS TIBONI AKD OTHERS.",
+  "summary": "This 1956 West African Court of Appeal decision addressed the interpretation of Regulation 10 of the Native Courts (Southern Section of Togoland under British Mandate) Procedure Regulations, 1949, concerning the definition of a 'return day' in native court proceedings. The plaintiffs had initially been dismissed due to a res judicata ruling, which was overturned on appeal due to procedural irregularities. Upon remittal, the case was heard on a date when the plaintiffs were absent, and the res judicata plea was upheld again. The plaintiffs argued that this hearing date constituted a 'return day' under Regulation 10, requiring dismissal if the plaintiff was absent. The appellate court rejected this, holding that a 'return day' occurs only once per suit—when the defendant is summoned and indicates intent to defend. All subsequent dates are hearing dates, not return days. The appeal was dismissed. The court also clarified principles of customary land law, affirming that valid title to stool land requires conveyance by the rightful stool and performance of customary rites, particularly for forest land.",
+  "legalKeywords": [
+    "res judicata",
+    "return day",
+    "Regulation 10",
+    "Native Courts",
+    "procedural irregularity",
+    "customary land law",
+    "stool land",
+    "title conveyance",
+    "hearing date",
+    "absence of plaintiff",
+    "procedural compliance",
+    "jurisdictional error",
+    "customary rites",
+    "alienation of land",
+    "effective occupation",
+    "West African Court of Appeal",
+    "Gold Coast",
+    "Southern Togoland",
+    "procedural regulation",
+    "appeal remittal"
+  ],
+  "topics": [
+    "Procedural Law",
+    "Customary Land Law",
+    "Appellate Jurisdiction",
+    "Res Judicata",
+    "Native Court Practice"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "President"
+    },
+    {
+      "name": "Korsah J.A.",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Ames Ag.J.A.",
+      "role": "Acting Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Native Courts (Southern Section of Togoland under British Mandate) Procedure Regulation, 1949, r. 10",
+    "Asamankese Arbitration (1929) Divisional Court 1926-1929, 220",
+    "Kodilinye v. Odu (1935) 2 W.A.C.A. 336",
+    "Abinabina Stool v. Nkasawtlm Stool (1956) 1 W.A.L.R. 247"
+  ],
+  "rationaleHighlights": [
+    "A 'return day' occurs only once per suit—when the defendant is summoned and indicates intent to defend.",
+    "All subsequent dates are hearing dates, not return days, even after remittal from an appellate court.",
+    "The court must follow prescribed procedures (Regulations 15, 17, 18) when handling pleas of res judicata.",
+    "Mere assertion of ownership without cultivation or occupation is insufficient to support alienation of virgin land.",
+    "Title to stool land can only be conveyed by the rightful stool; consent of a paramount stool is not required for subordinate stool land.",
+    "Customary rites must accompany conveyance of forest land to validate title.",
+    "Failure to prove title in a declaration action results in judgment for the defendant, absent a counterclaim."
+  ],
+  "confidenceNotes": "The document contains two distinct case summaries; the primary focus is on Adjato Akd Ka Woto v. Tiboni Akd Others regarding procedural law. The second part appears to be a separate case involving land title and customary law, possibly misattached. The structured response focuses on the first case as the main subject, with citations and rationale drawn accordingly. Some citations reference editorial notes that may pertain to the second case, introducing minor ambiguity. However, core procedural holdings are clear and consistently reported.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/ADJATO AKD KA WOTO v. TIBONI AKD OTHERS. ..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:18:22.858Z",
+    "plainTextLength": 9966
+  }
+}

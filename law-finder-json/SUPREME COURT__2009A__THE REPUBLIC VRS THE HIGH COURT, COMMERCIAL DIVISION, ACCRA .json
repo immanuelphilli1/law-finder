@@ -1,0 +1,87 @@
+{
+  "caseTitle": "THE REPUBLIC VRS THE HIGH COURT, COMMERCIAL DIVISION, ACCRA",
+  "summary": "This 2009 Supreme Court of Ghana ruling addressed the legality of committal proceedings initiated against Millicom Ghana Limited and its directors for alleged contempt of court. The High Court, Commercial Division, had issued a bench warrant following failure to comply with an injunction order. The Supreme Court held that committal proceedings against corporate directors require personal service on those individuals, which had not occurred. It further ruled that an application for stay of execution based on a non-executable ruling was invalid. The Court granted certiorari, quashing the lower court's order, and directed that the company be struck out from the committal application unless proper service was made on the individual directors, emphasizing adherence to natural justice and procedural rules.",
+  "legalKeywords": [
+    "committal for contempt",
+    "service of process",
+    "corporate liability",
+    "natural justice",
+    "stay of execution",
+    "jurisdiction",
+    "certiorari",
+    "prohibition",
+    "High Court Rules",
+    "Court of Appeal Rules",
+    "injunction enforcement",
+    "arbitration agreement",
+    "judicial review",
+    "procedural fairness",
+    "bench warrant",
+    "directors' liability",
+    "ex parte application",
+    "supervisory jurisdiction",
+    "rule of law",
+    "due process"
+  ],
+  "topics": [
+    "Contempt of Court",
+    "Corporate Law",
+    "Procedural Justice",
+    "Judicial Review",
+    "Injunction Enforcement"
+  ],
+  "verdict": "Application for certiorari granted",
+  "winningSide": "Applicants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "W. A. Atuguba",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Rose Owusu",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansaah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Motion",
+  "citations": [
+    "Sasu v Amua-Sekyi [1987-88] 1 GLR 506",
+    "Khoury v Mitchual [1989-90] 2 GLR 256",
+    "Republic v High Court, Kumasi; Ex parte Khoury [1991] 2 GLR 393",
+    "Shardey v Adamtey; Shardey v Martey (Consolidated) [1972] 2 GLR 380"
+  ],
+  "rationaleHighlights": [
+    "Personal service on directors is required for committal of corporate officers",
+    "A non-executable ruling cannot support a stay of execution",
+    "Kwofie J's ruling clarified rather than created a new order",
+    "Order 43 governs enforcement of injunctions against corporations, not Order 50",
+    "Violation of natural justice occurred due to lack of service",
+    "Application for stay based on non-appealable ruling is illusory",
+    "Corporate entity cannot substitute for individual directors in committal",
+    "Certiorari granted due to lack of jurisdiction and procedural flaws"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct quotation from official court document and consistent reasoning across multiple justices.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/THE REPUBLIC VRS THE HIGH COURT, COMMERCIAL DIVISION, ACCRA .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:57:38.273Z",
+    "plainTextLength": 42364
+  },
+  "trialDate": "2009-02-04"
+}

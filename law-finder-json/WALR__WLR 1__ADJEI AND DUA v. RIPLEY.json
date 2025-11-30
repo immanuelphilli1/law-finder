@@ -1,0 +1,61 @@
+{
+  "caseTitle": "AND DUA VERSUS RIPLEY",
+  "summary": "In Adjei and Dua v. Ripley, the Supreme Court of the Gold Coast held that a European man who fathered a child with an African woman through concubinal relations was liable for the child's maintenance under native law and custom. The court found paternity established based on circumstantial evidence, including the child's birth timing, racial descent, and the defendant's payment of \u000235 toward expenses. Relying on section 87(1) of the Courts Ordinance, c. 4 of 1951, the court applied native custom to a non-native party, reasoning that failure to do so would result in substantial injustice. It affirmed that under Gold Coast native custom, fathers are primarily responsible for their children's upkeep\u0002a principle of general application that need not be specifically pleaded under Civil Procedure Rules, Ord. 19, r. 31. The court awarded \u0002156 for past maintenance (adjusted for delayed claim) and ordered future payments of \u00024 per month. The decision emphasized equality of legal obligation regardless of race, aligning customary duties with principles of natural justice.",
+  "legalKeywords": [
+    "bastardy",
+    "paternity",
+    "child maintenance",
+    "native law and custom",
+    "conflict of laws",
+    "illegitimate child",
+    "concubinal relations",
+    "father's liability",
+    "Courts Ordinance",
+    "Civil Procedure Rules"
+  ],
+  "topics": [
+    "Family Law",
+    "Customary Law",
+    "Conflict of Laws",
+    "Child Support",
+    "Paternity"
+  ],
+  "verdict": "Judgment for the plaintiff",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Smith Ag.J.",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Eastern Judicial Division, Divi\u0002sional Court, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Marshall v. Dawson",
+    "Duncan v. Robertson",
+    "Dravie v. Nassar",
+    "Courts Ordinance, c. 4 of 1951, s. 87 (1)",
+    "Gold Coast Supreme Court (Civil Procedure) Rules, 1954, Ord. 19, r. 31"
+  ],
+  "rationaleHighlights": [
+    "Father's liability for child maintenance applies equally to natives and non-natives under native custom.",
+    "Native custom applied to non-native due to risk of substantial injustice under English law.",
+    "Universal principles of natural justice support equal treatment regardless of race.",
+    "Payment of money by defendant acknowledged responsibility for the child.",
+    "Future maintenance prioritized due to lack of detailed past expense records.",
+    "Custom of paternal maintenance is of general application and need not be specifically pleaded.",
+    "Judicial reluctance to allow racial distinction in legal obligations.",
+    "Logical alignment of African customary responsibility with English legal standards."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct judicial reasoning and cited authorities. Editorial note provides contextual legal analysis but does not override court's holding.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/ADJEI AND DUA v. RIPLEY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:17:27.893Z",
+    "plainTextLength": 10811
+  }
+}

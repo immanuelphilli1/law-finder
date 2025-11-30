@@ -1,0 +1,80 @@
+{
+  "caseTitle": "ADJEI, MOSES OBLIN ARYEEFIO v. BEATRICE OKAIKAI WELBECK",
+  "summary": "This Court of Appeal decision from Ghana, delivered on 5th February 2004, concerns an appeal by Beatrice Okaiakai Welbeck against a High Court ruling that allowed Lydia Adjei and Moses Oblin Aryeeefio to pursue an action over property ownership and rental accounting. The plaintiffs claimed they were tenants in common of properties at House No. D.91/4, Kokompe, and House No. B.64/1, Agona-Kwanyako, which had been devised under the will of their late mother, Diana Aryeefio. They sought a declaration of co-tenancy, an account of rents collected since 1996, and a perpetual injunction. The defendant argued that the plaintiffs' action was not maintainable because the will had been admitted to probate on 9th December 1996, and under Section 67 of the Administration of Estates Act, 1961 (Act 63), no action affecting the estate could proceed without first revoking the probate. The High Court had previously ruled on 4th June 2002 that the plaintiffs must comply with L.I. 1515 to revoke the probate but allowed the action to continue. The Court of Appeal held that the High Court misunderstood the legal issue, emphasizing that the plaintiffs' failure to revoke the probate before filing suit rendered their action incompetent. The appellate court found that Section 67 of Act 63 is mandatory, and non-compliance makes any related legal action void. Consequently, the Court of Appeal allowed the appeal, set aside the High Court’s 25th November 2002 ruling, and dismissed the plaintiffs’ action.",
+  "legalKeywords": [
+    "probate revocation",
+    "jurisdiction",
+    "maintainability of action",
+    "Section 67 Act 63",
+    "tenants in common",
+    "vesting assent",
+    "interim injunction",
+    "receiver and manager",
+    "statement of claim",
+    "order 25 rule 2",
+    "L.I. 1515",
+    "Administration of Estates Act",
+    "will validity",
+    "property dispute",
+    "nullity of proceedings",
+    "legal precedent",
+    "appellate review",
+    "mandatory statutory provision",
+    "cause of action",
+    "civil procedure"
+  ],
+  "topics": [
+    "Probate Law",
+    "Property Law",
+    "Civil Procedure",
+    "Appellate Jurisdiction",
+    "Injunctions"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "E. A. Addo",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "F. M. Larney",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "J. Ansa",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Heward-Mills vrs Heward-Mills [1992-93] GBR. Part 1, 239",
+    "Mosi vrs. Bagyina, 1963, GLR 337",
+    "Administration of Estates Act, 1961 (Act 63), Section 67",
+    "L.I. 1515",
+    "Order 25 Rule 2, Civil Procedure Rules"
+  ],
+  "rationaleHighlights": [
+    "The plaintiffs' action was not maintainable because probate had not been revoked prior to filing suit.",
+    "Section 67 of Act 63 is mandatory; non-compliance renders proceedings void.",
+    "The High Court erred in advising compliance with L.I. 1515 instead of dismissing the action.",
+    "The defendant's application under Order 25 Rule 2 should have been granted.",
+    "The earlier ruling on 4th June 2002 implicitly recognized the action was non-compliant.",
+    "Proceedings based on an incompetent action are a legal nullity.",
+    "The court must ensure statutory preconditions are met before entertaining estate-related claims.",
+    "Judicial advice cannot substitute for statutory compliance."
+  ],
+  "confidenceNotes": "The decision is based on clear statutory interpretation of Section 67 of Act 63 and established procedural rules. All three justices concurred, indicating high judicial consensus. The dismissal of the plaintiffs' action due to failure to revoke probate first is consistent with precedent such as Mosi v. Bagyina. The case underscores the importance of jurisdictional and procedural compliance in probate-related civil actions.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/LYDIA ADJEI, MOSES OBLIN ARYEEFIO v. BEATRICE OKAIKAI WELBECK.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:18:05.378Z",
+    "plainTextLength": 11099
+  },
+  "trialDate": "2004-02-05"
+}

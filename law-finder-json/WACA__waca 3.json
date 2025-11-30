@@ -1,0 +1,46 @@
+{
+  "caseTitle": "OLA YINKA OKUPE v SOYEBO, THE ALAPERV OF IPERU",
+  "summary": "The provided document does not contain the full text of a legal decision but appears to be a table of cases from the West African Court of Appeal (WACA), specifically listing case titles involving parties from Ghana and other West African jurisdictions. The document is part of a self-help legal guide titled 'Ghana Law Finder' and serves as an index to case law rather than a repository of judicial reasoning or rulings. No substantive legal analysis, facts, or holdings are present in the excerpt, limiting the ability to extract detailed insights about any specific case outcome or legal principle.",
+  "legalKeywords": [
+    "West African Court of Appeal",
+    "Ghana Law",
+    "case index",
+    "legal database",
+    "judicial decisions",
+    "table of cases",
+    "Gold Coast",
+    "stool land",
+    "Attorney-General",
+    "Rex cases",
+    "criminal appeals",
+    "land disputes",
+    "customary law",
+    "appellate jurisdiction",
+    "legal research"
+  ],
+  "topics": [
+    "Legal Research",
+    "Appellate Court",
+    "Case Index",
+    "Ghana Legal System",
+    "West African Jurisprudence"
+  ],
+  "verdict": "unknown",
+  "winningSide": "unknown",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Case Index / Legal Bibliography",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "Low confidence in extracting case-specific details due to absence of full judgment text; information based solely on case titles and context of the document as a legal index.",
+  "metadata": {
+    "sourcePath": "WACA/waca 3.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T09:53:52.562Z",
+    "plainTextLength": 3940
+  }
+}

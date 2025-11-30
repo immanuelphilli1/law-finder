@@ -1,0 +1,63 @@
+{
+  "caseTitle": "HEYMAN VERSUS ATTIPOE",
+  "summary": "In Heyman v. Attipoe (1957), the plaintiff, a descendant of a common ancestress Adanshigbo, sought a declaration that disputed land formed part of the family property of all her descendants, following her intestate death. The defendant, head of a branch of the family, claimed the land had been gifted during Adanshigbo's lifetime to his ancestor Nyanya, making it exclusive family property. The trial Native Court found Adanshigbo died possessed of the land but incorrectly ruled for the defendant on an unpleaded theory. The High Court held that, under Anlo custom, the land became family property upon her intestate death. However, it dismissed claims for possession and accounting, affirming that a family head cannot be sued for accounts and that possession claims against the head are only maintainable if the claimant has a customary usufructuary interest wrongfully deprived.",
+  "legalKeywords": [
+    "native law and custom",
+    "family property",
+    "intestate succession",
+    "family land",
+    "usufructuary title",
+    "head of family",
+    "accountability",
+    "Anlo custom",
+    "declaration of title",
+    "customary land tenure",
+    "family head authority",
+    "land possession",
+    "customary methods of acquisition",
+    "wrongful deprivation",
+    "joint family property"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Succession",
+    "Family Property",
+    "Native Jurisdiction"
+  ],
+  "verdict": "Appeal allowed in part",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Abude and Others v. Onano and Others (1946) 12 W.A.C.A. 102",
+    "Ohimen v. Adjei (1957) 2 W.A.L.R. 275"
+  ],
+  "rationaleHighlights": [
+    "The trial court erred in constructing a new case for the defendant not supported by evidence.",
+    "Under Anlo custom, land held by an ancestress who dies intestate becomes family property of all direct descendants.",
+    "A family head cannot be sued by a member for an account of family funds.",
+    "A member may only sue the head for possession if they have a customary usufructuary interest in the land.",
+    "No evidence showed the plaintiff's branch had exclusive possession or a determinable estate in the land.",
+    "The head of the family is the rightful administrator of family land under native custom.",
+    "The declaration of family title was granted, but claims for possession and account were dismissed.",
+    "Customary methods of acquisition include cultivation of uncultivated land with family consent."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and citation of established native law principles and precedents.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/HEYMAN v. ATTIPOE..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:04:56.971Z",
+    "plainTextLength": 10048
+  }
+}

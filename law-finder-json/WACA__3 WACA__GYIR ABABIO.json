@@ -1,0 +1,75 @@
+{
+  "caseTitle": "GYIR ABABIO",
+  "summary": "This case involved a civil appeal concerning ejectment of defendants from land claimed by the Deshina family of Ayan Denkera. The State Council initially ruled in favor of the plaintiff, Egyir Ababio. The defendants sought conditional leave to appeal, which was granted, but they failed to serve notice of appeal on the respondent within the six-month statutory period under section 76(1) of the Native Administration Ordinance. Although an ex parte application for leave was made in time, the court held that this did not constitute 'notice of appeal' as required by law. The West Africa Court of Appeal ruled that the Provincial Commissioner’s Court lacked jurisdiction due to the late notice, and therefore reinstated the original judgment of the State Council. The appeal was allowed, and costs were awarded to the appellant.",
+  "legalKeywords": [
+    "appeal",
+    "jurisdiction",
+    "notice of appeal",
+    "conditional leave to appeal",
+    "ex parte application",
+    "ejectment",
+    "procedural compliance",
+    "time limit",
+    "Native Administration Ordinance",
+    "State Council",
+    "Provincial Commissioner's Court",
+    "abandonment of appeal",
+    "technical objection",
+    "finality of judgment",
+    "injunction",
+    "costs"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Appellate Jurisdiction",
+    "Land Law",
+    "Statutory Interpretation",
+    "Notice Requirements"
+  ],
+  "verdict": "Appeal allowed; judgment of the State Council restored.",
+  "winningSide": "Plaintiff-Respondent-Appellant (Egyir Ababio for Deshina family)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Native Administration Ordinance (Cap. Ill)",
+    "section 76 (1)",
+    "section 77 (2)",
+    "section 57 of Cap. 111",
+    "section 19 of Cap. 113",
+    "Kojo Pon v. Atta Fua, P.C. 1874-1928, p. 95",
+    "Ohene Moore v. Akesseh Tayee",
+    "2 W.A.C.A., p. 43"
+  ],
+  "rationaleHighlights": [
+    "The phrase 'give notice of appeal' in section 76(1) must be given its natural and ordinary meaning, i.e., notice served on the respondent, not an ex parte application to the court.",
+    "An ex parte application for conditional leave does not satisfy the statutory requirement for notice within the prescribed time.",
+    "Failure to serve notice within six months deprived the Provincial Commissioner's Court of jurisdiction.",
+    "The objection based on lack of jurisdiction is not a mere technicality but goes to the root of the court's authority to hear the appeal.",
+    "Precedent from Ohene Moore v. Akesseh Tayee supports the view that jurisdictional defects due to late notice are fatal."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear procedural details and direct judicial reasoning in the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/GYIR ABABIO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:23:30.557Z",
+    "plainTextLength": 11574
+  }
+}

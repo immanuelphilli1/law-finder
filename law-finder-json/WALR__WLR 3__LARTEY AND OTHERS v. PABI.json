@@ -1,0 +1,71 @@
+{
+  "caseTitle": "AND OTHERS VERSUS PABI",
+  "summary": "In Lartey and Others v. Pabi, the plaintiffs sought to reopen loan transactions with the defendant, alleging excessive interest and improper deductions. The defendant admitted charging 30% annual interest on loans totaling £700, exceeding the legal cap under the Moneylenders Ordinance. The court held that the defendant was a moneylender by operation of law under section 3 due to lending at interest, triggering the court's discretion under the Loans Recovery Ordinance to reopen the transaction and cap interest at the statutory maximum. However, the court rejected the plaintiffs' claims of rent being £150 annually and deductions for 'drinks,' relying on unambiguous documentary evidence showing £30 as full rent payment. It also ruled that section 19 of the Moneylenders Ordinance, requiring record-keeping, did not apply to individuals deemed moneylenders under section 3 rather than those carrying on moneylending as a business under section 2, and was inapplicable where the debtor, not the lender, initiated the action.",
+  "legalKeywords": [
+    "Moneylenders Ordinance",
+    "Loans Recovery Ordinance",
+    "illegality in contract",
+    "excessive interest",
+    "statutory interpretation",
+    "documentary evidence",
+    "extrinsic evidence",
+    "presumption of moneylender",
+    "record-keeping requirement",
+    "unenforceable transaction",
+    "rent agreement",
+    "promissory note",
+    "creditor liability",
+    "judicial discretion",
+    "contractual ambiguity",
+    "burden of proof",
+    "credibility of witness",
+    "equitable relief",
+    "interest rate cap",
+    "loan repayment"
+  ],
+  "topics": [
+    "Contract Law",
+    "Credit Regulation",
+    "Evidence Law",
+    "Statutory Compliance",
+    "Judicial Interpretation"
+  ],
+  "verdict": "In favor of the defendant",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Action for Reopening of Loan Transactions",
+  "citations": [
+    "Moneylenders Ordinance, c. 176, s. 3",
+    "Moneylenders Ordinance, c. 176, s. 13(1)(a)",
+    "Moneylenders Ordinance, c. 176, s. 14(1)",
+    "Moneylenders Ordinance, c. 176, s. 19",
+    "Loans Recovery Ordinance, c. 175, s. 3(2)"
+  ],
+  "rationaleHighlights": [
+    "Defendant deemed a moneylender under s. 3 due to charging interest, despite not operating as a professional lender.",
+    "Interest rate of 30% exceeded statutory cap; court exercised discretion to reopen transaction under Loans Recovery Ordinance.",
+    "Section 19 record-keeping requirements inapplicable to non-commercial lenders presumed to be moneylenders under s. 3.",
+    "Unambiguous receipt stating 'full payment of rentage' barred extrinsic evidence to prove higher rent.",
+    "Plaintiff's credibility undermined by contradictory testimony and false statements, leading to rejection of claims.",
+    "Section 19(4) unenforceability applies only when lender seeks enforcement, not when debtor initiates action.",
+    "Court emphasized legislative intent to avoid burdening informal lenders with commercial record-keeping obligations.",
+    "Presumption that undeposited document contains unfavorable content applied against plaintiffs."
+  ],
+  "confidenceNotes": "High confidence; all information derived directly from judicial reasoning and factual findings in the provided decision text.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/LARTEY AND OTHERS v. PABI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:03:06.780Z",
+    "plainTextLength": 17892
+  }
+}

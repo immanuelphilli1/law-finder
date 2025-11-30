@@ -1,0 +1,67 @@
+{
+  "caseTitle": "KOKOR VERSUS FORFIE.",
+  "summary": "This 1956 Ghanaian land appeal case, Kokor v. Forfie, centered on the jurisdictional validity of appellate proceedings in native courts within the Ashanti Confederacy. The dispute originated in the Ahafo Local Authority Court (a grade 'C' Native Court) and was appealed to the Kumasi Division Native Court (grade 'B'), then to the Asantehene's Court, and finally to the Land Court. The Supreme Court, per Benson J., held that the Kumasi Division Native Court lacked appellate jurisdiction in land matters because such jurisdiction was exclusively vested in the Asantehene's Court under section 25(2) of the Native Courts (Ashanti) Ordinance, c. 99 of 1951. The court ruled that the Chief Regional Officer's 1951 Order creating appellate powers for the Kumasi Division Native Court was ultra vires and invalid, as it conflicted with the Ordinance. Subsequent orders in 1953 attempting to validate or transition jurisdiction were also invalid. Consequently, all appellate proceedings before the Kumasi Division Native Court and the Asantehene's Court were declared nullities. The Land Court, having proper jurisdiction as the appellate body from the Asantehene's Court, could not remit the appeal under Rule 129(1) of the Native Courts (Ashanti) Procedure Rules since it had jurisdiction. The original judgment of the court of first instance—favoring the defendant—was restored, and the appeal was dismissed.",
+  "legalKeywords": [
+    "appellate jurisdiction",
+    "ultra vires",
+    "Native Courts Ordinance",
+    "land dispute",
+    "jurisdictional validity",
+    "delegated legislation",
+    "nullity of proceedings",
+    "Asantehene's Court",
+    "Land Court",
+    "procedural irregularity",
+    "appeal from native court",
+    "Chief Regional Officer",
+    "statutory interpretation",
+    "court hierarchy",
+    "remittal of appeal"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Jurisdiction",
+    "Native Courts",
+    "Ghana Legal History"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Benson J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Ashanti Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Land Appeal",
+  "citations": [
+    "Native Courts (Ashanti) Ordinance, c. 99 of 1951",
+    "Native Courts (Ashanti) (Establishment) (No.4) Order, No. 22 of 1951",
+    "Native Courts (Ashanti) (Establishment) (No.6) Order, L.N. 405 of 1953",
+    "Native Courts (Ashanti) (Variation) (No. 14) Order, L.N. 451 of 1953",
+    "Native Courts (Ashanti) Procedure Rules, No. 32 of 1949, Rule 129(1)",
+    "Amchiri v. Kwafo (1953) W.A.C.A. Cyclostyled Judgments 1952–1953, p. 13"
+  ],
+  "rationaleHighlights": [
+    "Section 25(2) of the Native Courts (Ashanti) Ordinance vests appellate jurisdiction in land matters solely in the Asantehene's Court.",
+    "The Chief Regional Officer exceeded delegated powers by creating an appellate court via Order No. 22 of 1951, rendering it ultra vires.",
+    "Subsequent orders in 1953 could not cure the initial jurisdictional defect.",
+    "Proceedings before Kumasi Division Native Court and Asantehene's Court were declared nullities.",
+    "The Land Court had jurisdiction and could not remit the appeal under Rule 129(1).",
+    "Only the original judgment of the court of first instance remained valid.",
+    "The legislature did not intend for the appeal ladder in land cases to be extended by executive orders.",
+    "Concurrent appellate jurisdiction would create procedural chaos and conflicting appeals."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct textual evidence from the judgment, including citations, statutory references, and judicial reasoning. All extracted data aligns with the court's explicit holdings and procedural history.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/KOKOR v. FORFIE..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:05:20.026Z",
+    "plainTextLength": 14238
+  }
+}

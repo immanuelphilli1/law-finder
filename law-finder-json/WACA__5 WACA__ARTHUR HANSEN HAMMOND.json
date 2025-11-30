@@ -1,0 +1,76 @@
+{
+  "caseTitle": "ARTHUR HANSEN HAMMOND",
+  "summary": "This Privy Council appeal from the West African Court of Appeal concerned a dispute over the ownership of St. Janet's Harbour in Accra, Gold Coast (now Ghana). The appellant, Arthur Hansen Hammond, claimed to be the rightful head of the Kreshie family and entitled to the property as family land. The respondents, descendants of Janet Plange (a daughter of Kreshie), argued the property was self-acquired. The Privy Council upheld the principle that under Fanti customary law, land is held by the family, succession follows the female line, and the family head acts as a trustee. It found that the property was inherited from Kreshie and remained family land despite attempts by Phillip Carl Randolph (son of Janet Plange) to convert it into individual ownership through mortgage and rectified reconveyance. The Council held that such transactions could not alter the customary status of the land. The appellant, being the senior male descendant through the female line from Na Momo (Kreshie’s younger daughter), was recognized as the current head of the Kreshie family and entitled to the declaration of title. The judgment reaffirmed that individual acquisitions or documents purporting to grant fee simple title do not override customary family ownership unless clearly established.",
+  "legalKeywords": [
+    "customary land tenure",
+    "family property",
+    "female-line succession",
+    "head of family",
+    "trustee principle",
+    "partition of property",
+    "mortgage",
+    "reconveyance",
+    "rectification",
+    "self-acquired property",
+    "native law",
+    "fee simple",
+    "declaration of title",
+    "inherited property",
+    "Kreshie family",
+    "St. Janet's Harbour",
+    "Gold Coast",
+    "West African Court of Appeal",
+    "Privy Council",
+    "land inheritance"
+  ],
+  "topics": [
+    "Customary Law",
+    "Land Rights",
+    "Succession",
+    "Family Property",
+    "Privy Council Appeals"
+  ],
+  "verdict": "The appeal was allowed. The judgment of the West African Court of Appeal was reversed, and the declaration of title in favor of the appellant as head of the Kreshie family was restored.",
+  "winningSide": "Appellant (Arthur Hansen Hammond)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lord Salvesen",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "Lord Thankerton",
+      "role": "panel member"
+    },
+    {
+      "name": "Lord Fairfield",
+      "role": "panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Judicial Committee of the Privy Council on appeal from West African Court of Appeal",
+    "country": "Ghana (Gold Coast Colony)"
+  },
+  "caseType": "land tenure and customary succession",
+  "citations": [
+    "Amodu Tijani v. The Secretary, Southern Nigeria, [1921] 2 A.C. 399",
+    "Abbacan v. Bubuwooni, 1 F.L.R. 213",
+    "Parker v. Mensah, 1 F.J.R. 204",
+    "Holdbrook v. Atta, 1 F.L.R. 211"
+  ],
+  "rationaleHighlights": [
+    "Land in West African customary law belongs to the family, not individuals; the head acts as trustee.",
+    "Succession to family property follows the female line; male descendants do not inherit through their father's line.",
+    "Documents attempting to vest family property in an individual (e.g., rectified reconveyance) do not alter the customary character of the land.",
+    "Buildings erected on family land do not convert the land into self-acquired property.",
+    "Mortgage and reconveyance transactions involving family property must respect the consent of family members and cannot extinguish family interests."
+  ],
+  "confidenceNotes": "High confidence; the judgment is detailed and reasoning is clearly articulated by the Privy Council, with explicit reference to customary law and documentary evidence.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/ARTHUR HANSEN HAMMOND.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:50:27.829Z",
+    "plainTextLength": 16672
+  },
+  "trialDate": "7TH JULY, 1939"
+}

@@ -1,0 +1,76 @@
+{
+  "caseTitle": "CHRISTIAN YAO KISIED",
+  "summary": "This Privy Council judgment from 1937 overturned a West African Court of Appeal decision in a land dispute between Christian Yao Kisiedu and Kwao Dompreh (represented by Djorbua Dompreh after death), which involved conflicting land grants from the Stools of Tafo and Asafo in Akyem Abuakwa, Gold Coast (now Ghana). The core issue was not individual trespass but the superior title to the 'green land' parcel. The trial judge, Deane C.J., found that the land originally belonged to the Stool of Tafo, based on oral tradition and crucially, the fact that in 1904, the Odikro of Adjapoma, when in debt, sought and received financial assistance from the Ohene of Tafo, indicating Tafo's overlordship. The Court of Appeal reversed this, doubting the extent of Kisiedu's purchase and the survey evidence. The Privy Council reinstated the trial judge's decision, holding that the appellate court erred in overturning factual findings based on oral testimony and conduct, especially when a solid, undisputed fact (the 1904 financial assistance) strongly supported Tafo's title. The judgment underscores the importance of deference to trial judges in assessing evidence in customary land disputes.",
+  "legalKeywords": [
+    "land title",
+    "stool land",
+    "trespass",
+    "injunction",
+    "oral tradition",
+    "boundary dispute",
+    "customary law",
+    "evidence evaluation",
+    "survey plan",
+    "privity of title"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Appellate Review",
+    "Evidence",
+    "Stool Land"
+  ],
+  "verdict": "Appeal allowed; judgment of the West African Court of Appeal reversed; trial court's decision in favour of Kisiedu reinstated.",
+  "winningSide": "Christian Yao Kisiedu and the Stool of Tafo",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "LORD RUSSELL OF KILLOWEN",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "LORD ROCHE",
+      "role": "Panel Member"
+    },
+    {
+      "name": "SIR LANCELOT SANDERSON",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Deane C.J.",
+      "role": "Trial Judge"
+    },
+    {
+      "name": "Kingdon C.J.",
+      "role": "Appellate Judge"
+    },
+    {
+      "name": "Webber C.I.",
+      "role": "Appellate Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal (Gold Coast Session)",
+    "country": "Ghana"
+  },
+  "caseType": "land title dispute",
+  "citations": [
+    "WACA/2 WACA/CHRISTIAN YAO KISIED.htm",
+    "Judgment of the Privy Council, 22nd June 1937"
+  ],
+  "rationaleHighlights": [
+    "The central issue was title ownership between rival stools (Tafo vs. Asafo), not individual trespass.",
+    "Trial judge's factual findings based on oral evidence and corroborative conduct were deemed superior to appellate reversal.",
+    "Key evidence: Adjapoma sought and received debt relief from Tafo, indicating subordination and land ownership.",
+    "Appellate Court erred in re-evaluating survey and cultivation evidence not central to title determination.",
+    "Privy Council emphasized deference to trial judge's assessment of witness credibility in traditional land cases."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; source is an official judgment transcript with clear procedural and evidentiary details.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/CHRISTIAN YAO KISIED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:31:56.527Z",
+    "plainTextLength": 17624
+  },
+  "trialDate": "22ND JUNE, 1937"
+}

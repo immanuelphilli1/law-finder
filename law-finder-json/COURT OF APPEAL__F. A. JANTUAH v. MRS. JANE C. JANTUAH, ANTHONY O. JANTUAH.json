@@ -1,0 +1,82 @@
+{
+  "caseTitle": "JANTUAH v. MRS. JANE C. JANTUAH, ANTHONY O. JANTUAH",
+  "summary": "This Court of Appeal decision in F. A. Jantuah v. Mrs. Jane C. Jantuah and Anthony O. Jantuah, heard on 25th July 2002, concerned a dispute over property ownership following the death of the appellant's brother. The appellant claimed ownership of a house in Dichemso, Kumasi, and a cocoa farm in Atronie, asserting they were acquired through his funds. The respondents, the deceased’s widow and child, counterclaimed that both properties belonged to the deceased. The High Court found in favor of the respondents, and the Court of Appeal upheld this decision, affirming that the appellant failed to rebut the legal presumption that property titled in the deceased’s name belonged to him. The appellant had also abandoned his case during trial, leaving only the counterclaim for adjudication. The appellate court emphasized that the trial judge’s factual findings were well-supported by evidence and not perverse. Additionally, Justice Gbadegbe noted a procedural irregularity—allowing the appellant to present rebuttal evidence after discontinuing his case—and ordered that such evidence be expunged from the record. Ultimately, the appeal was dismissed, and the respondents' counterclaim was affirmed.",
+  "legalKeywords": [
+    "property ownership",
+    "rebuttable presumption",
+    "evidence decree",
+    "burden of proof",
+    "appellate review",
+    "counterclaim",
+    "discontinuance of action",
+    "factual findings",
+    "procedural irregularity",
+    "estate dispute",
+    "dominion over property",
+    "credibility of witness",
+    "trial conduct",
+    "rental income",
+    "beneficial title",
+    "legal title",
+    "injunction",
+    "family property",
+    "inheritance rights",
+    "judicial discretion"
+  ],
+  "topics": [
+    "Property Law",
+    "Family Law",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Succession"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "J. Ansa",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "N. S. Gbadegbe",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "S. D. Baddoo",
+      "role": "Presiding Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Clarke v. Edinburgh Tramways Co, [1919] S.C. (H.L.) 35-36",
+    "Boateng v. Boateng [1987-88] GLR 81 C.A.",
+    "Nyame v Tarzan Transport [1973] 1 GLR. 8",
+    "Praka v Ketewa [1964] GLR. 438",
+    "Oppong Kofi v Fofie 1964 GLR. 174",
+    "Bonney v Bonney [1991-92] GLR. 779",
+    "Bryant v North Metropolitan Tramways Co. (1800), 6 T.L.R. 396"
+  ],
+  "rationaleHighlights": [
+    "The property was titled in the deceased's name, creating a legal presumption of ownership under Section 35 of the Evidence Decree.",
+    "The appellant failed to rebut the presumption of ownership in favor of the deceased.",
+    "The appellant abandoned his case during trial, leaving only the counterclaim active.",
+    "The trial judge's factual findings were based on credible evidence and were entitled to deference.",
+    "Appellant’s conduct—such as not claiming rent or occupying the property—undermined his credibility.",
+    "The Court of Appeal expunged improperly admitted rebuttal evidence to prevent double opportunity.",
+    "The cocoa farm was under the deceased’s control, with cultivation agreements supporting ownership.",
+    "The appeal was dismissed as the verdict was supported by evidence and not unreasonable."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from the judgment text, consistent citation of legal principles, and clear identification of parties, issues, and outcomes.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/F. A. JANTUAH v. MRS. JANE C. JANTUAH, ANTHONY O. JANTUAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:35:27.503Z",
+    "plainTextLength": 12456
+  },
+  "trialDate": "2002-07-25"
+}

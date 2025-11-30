@@ -1,0 +1,69 @@
+{
+  "caseTitle": "Tay v. Williams",
+  "summary": "This 1937 West Africa Court of Appeal decision in Accra, Ghana, addressed an appeal from a judgment of the Court of Provincial Commissioner. The appellant, Joshua D. Asiedu, challenged the jurisdiction of that court on two grounds: (a) failure to obtain leave to appeal from the Paramount Chief's Tribunal, and (b) a discrepancy in the date of judgment cited in the notice of appeal. The court rejected the second ground, applying the principle from Kojo Pan v. Atta Fua that a minor error in date does not invalidate an appeal if the actual judgment is identifiable. However, it upheld the first ground, ruling that the Provincial Commissioner lacked jurisdiction because the appellant had not obtained leave from the trial tribunal and there was no formal refusal that would have empowered the appellate court to grant leave. Consequently, the appeal was allowed, the Provincial Commissioner’s judgment was reversed, and the original decision of the Paramount Chief's Tribunal was restored.",
+  "legalKeywords": [
+    "jurisdiction",
+    "leave to appeal",
+    "appellate procedure",
+    "Native Administration Ordinance",
+    "procedural defect",
+    "date discrepancy",
+    "conditional leave",
+    "judgment validity",
+    "appeal restoration",
+    "tribunal refusal",
+    "slip of date",
+    "Certum est quod certum reddi potest"
+  ],
+  "topics": [
+    "Appellate Law",
+    "Procedural Jurisdiction",
+    "Customary Law Tribunals"
+  ],
+  "verdict": "The appeal was allowed; the judgment of the Provincial Commissioner's Court was reversed for lack of jurisdiction due to improper grant of leave to appeal, and the judgment of the Paramount Chief's Tribunal was restored.",
+  "winningSide": "Plaintiff-Appellant (Joshua D. Asiedu)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Kojo Pan v. Atta Fua (Privy Council, 1874-1928, 95)",
+    "Bordaah v. Ofoli (1913), Renner's Reports 776",
+    "Tay v. Williams (1928), F.C. 1928-25, 61",
+    "Animle v. Otibo (1924), F.C. 1928-25, 167"
+  ],
+  "rationaleHighlights": [
+    "A minor date error in the notice of appeal does not destroy jurisdiction if the actual judgment is identifiable.",
+    "The principle 'Certum est quod certum reddi potest' allows correction of clerical inaccuracies in procedural documents.",
+    "Section 77(1) of the Native Administration Ordinance requires leave to appeal from the trial tribunal or its refusal before the Provincial Commissioner can intervene.",
+    "Silence or non-response from the Paramount Chief's Tribunal does not constitute a refusal entitling the appellant to bypass it.",
+    "Without valid leave or deemed refusal, the Provincial Commissioner lacked jurisdiction to hear the appeal.",
+    "Jurisdictional defects at the appellate level invalidate subsequent decisions, requiring restoration of the original judgment.",
+    "The court exercised discretion to assess costs at £17 15s. 3d. and ordered payment of taxed costs by the respondent.",
+    "The decision emphasizes strict adherence to statutory appeal procedures in native tribunals."
+  ],
+  "confidenceNotes": "The document is a primary source with clear attribution of judges and citations. Confidence in factual accuracy is high. The case is historical but remains relevant for procedural law principles in appellate jurisdiction within colonial and customary legal frameworks.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/JOSHUA D. ASIEDU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:21:44.309Z",
+    "plainTextLength": 5107
+  },
+  "trialDate": "1937-04-24"
+}

@@ -1,0 +1,68 @@
+{
+  "caseTitle": "JOSEPH NORTEY DOWUONA v. E. K. DOUDU",
+  "summary": "This is an appeal from a civil property dispute between Joseph Nortey Dowuona, administrator of his late mother's estate, and E. K. Doudou, who occupied House No. B737/7 Abossey Okai, Accra. The plaintiff claimed the defendant was holding the property as security for a mortgage repayment agreement from 1968, set to end on 31st March 1975, after which the property should have been returned. The defendant counterclaimed, asserting he had a license to build and was promised ownership of the land upon full repayment. The trial court ruled for the plaintiff, finding the defendant's evidence inconsistent and lacking credibility, particularly due to his inability to recall key financial details and absence of documentation. The Court of Appeal upheld the decision, affirming that the trial judge properly evaluated conflicting evidence and reasonably concluded the plaintiff's account was more credible. The appeal was dismissed.",
+  "legalKeywords": [
+    "property dispute",
+    "lease agreement",
+    "mesne profits",
+    "ejectment",
+    "conveyance",
+    "mortgage redemption",
+    "hearsay evidence",
+    "burden of proof",
+    "credibility assessment",
+    "counterclaim",
+    "real estate",
+    "license agreement",
+    "contractual obligation",
+    "evidence evaluation",
+    "appellate review"
+  ],
+  "topics": [
+    "Property Law",
+    "Contract Law",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Real Estate Dispute"
+  ],
+  "verdict": "Appeal dismissed; trial court judgment upheld in favor of the plaintiff.",
+  "winningSide": "Plaintiff/Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "A. Essilfie-Bondzie",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "S. T. Farkye",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "P. K. Owusu-Ansah",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "property dispute",
+  "citations": [
+    "JOSEPH NORTEY DOWUONA v. E. K. DOUDU [16/05/2002] CA/NO. 16/2000"
+  ],
+  "rationaleHighlights": [
+    "The trial judge preferred the plaintiff's version due to inconsistencies in the defendant's pleadings and evidence.",
+    "Defendant could not specify the size of land he claimed, undermining his credibility.",
+    "No rent was paid by the defendant to the plaintiff, supporting the plaintiff's claim of a temporary arrangement.",
+    "Defendant failed to produce a receipt for the alleged �500 payment.",
+    "The appellate court found no error in the trial judge's evaluation of evidence and credibility."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear references to pleadings, evidence, and judicial reasoning.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/JOSEPH NORTEY DOWUONA v. E. K. DOUDU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:24:26.031Z",
+    "plainTextLength": 12233
+  },
+  "trialDate": "2002-05-16"
+}

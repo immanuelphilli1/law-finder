@@ -1,0 +1,65 @@
+{
+  "caseTitle": "MOSES ASAFU ADJEI",
+  "summary": "This 1930 West African Court of Appeal decision in Moses Asafu Adjei v. Chief Yaw Dabanka and Kwami Akowua centered on a land mortgage dispute in colonial Ghana. The plaintiff, Moses Asafu Adjei, secured a £250 loan from Kojo Derkyi (predecessor to defendant Akowua) by depositing his leasehold title and executing an informal mortgage deed in 1912. The deed stipulated that if the £350 (principal plus £100 interest) was not repaid within a year, the property would become the absolute property of the mortgagee. Crucially, the plaintiff retained possession of the property, and the mortgagee did not take possession upon default. The mortgagee later sold the property to Chief Yaw Dabanka, the plaintiff's caretaker and a witness to the original deed. The trial court upheld the sale, but the appellate court reversed, holding that the transaction constituted an equitable mortgage rather than a native mortgage or absolute conveyance, due to the borrower's continued possession. The court ruled the plaintiff retained the right to redeem the property by repaying the debt. It further held that any lease renewals effected during the mortgage period became part of the security. The sale to Dabanka was set aside, and the property was to be reassigned to the plaintiff upon redemption.",
+  "legalKeywords": [
+    "equitable mortgage",
+    "native mortgage",
+    "right of redemption",
+    "lease renewal",
+    "land security",
+    "mortgage deed",
+    "possession",
+    "forfeiture",
+    "conveyance",
+    "default",
+    "interest",
+    "caretaker",
+    "successor",
+    "title deposit",
+    "conditional sale",
+    "property transfer",
+    "colonial land law",
+    "Ashanti leasehold",
+    "judicial remedy",
+    "invalid sale"
+  ],
+  "topics": [
+    "Property Law",
+    "Mortgage Law",
+    "Land Tenure",
+    "Appellate Decision",
+    "Colonial Legal History"
+  ],
+  "verdict": "The appeal was allowed.",
+  "winningSide": "Plaintiff-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Michelin, J.",
+      "role": "Delivered judgment"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "WACA/1WACA/MOSES ASAFU ADJEI"
+  ],
+  "rationaleHighlights": [
+    "The transaction was an equitable mortgage because the borrower retained possession, preventing it from being a native mortgage or absolute sale.",
+    "The clause forfeiting the property upon default was void as a penalty, preserving the borrower's equitable right of redemption.",
+    "The mortgagee's sale of the property during the redemption period was invalid.",
+    "Lease renewals made during the mortgage term became part of the secured property.",
+    "The plaintiff, as mortgagor, had the right to reclaim the property upon repayment of the principal and interest."
+  ],
+  "confidenceNotes": "The source document is a scanned archival record with some OCR errors (e.g., '�' for '£', 'Huadred' for 'Hundred'), but the core facts and legal reasoning are discernible and consistent. The case citation and court details are clear, supporting high confidence in the extracted information.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/MOSES ASAFU ADJEI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:43:16.978Z",
+    "plainTextLength": 12725
+  },
+  "trialDate": "1930-06-16"
+}

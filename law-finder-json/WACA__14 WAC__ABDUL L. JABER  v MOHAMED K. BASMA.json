@@ -1,0 +1,69 @@
+{
+  "caseTitle": "ABDUL L. JABER v MOHAMED K. BASMA",
+  "summary": "In this civil appeal before the West Africa Court of Appeal, the appellant (Mohamed K. Basma) had obtained a writ of possession against the head lessee (Abdul Radar), resulting in the Sheriff removing the respondent's (Abdul L. Jabar) stock and personal effects from the premises where he operated as a sub-tenant. The respondent, who had no notice of the prior proceedings, sued for trespass and loss of goods. The trial judge awarded special damages of \u0001400 (\u0001150 for cash, \u0001250 for goods) and \u0001100 in general damages. On appeal, the court held that although the sub-lease terminated upon judgment against the head lessee, rule 2 of Order 34 required notice to be served on the affected sub-tenant. It further ruled that special damages could not be awarded where the trial judge had substantially disbelieved the claimant's evidence, as strict proof is required. However, the court upheld the \u0001100 general damages, recognizing the serious inconvenience caused by the public removal of belongings. The appeal was allowed solely to set aside the special damages.",
+  "legalKeywords": [
+    "trespass",
+    "special damages",
+    "general damages",
+    "writ of possession",
+    "notice of judgment",
+    "sub-tenant",
+    "rule 2 Order 34",
+    "strict proof of damages",
+    "Sheriff's execution",
+    "loss of goods",
+    "procedural fairness",
+    "property rights",
+    "occupancy rights",
+    "judgment affecting non-party",
+    "civil liability"
+  ],
+  "topics": [
+    "Tort Law",
+    "Property Law",
+    "Civil Procedure",
+    "Damages",
+    "Trespass to Goods"
+  ],
+  "verdict": "Appeal allowed in part; special damages set aside, general damages upheld.",
+  "winningSide": "Appellant on special damages, Respondent on general damages",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Foster-Sutton",
+      "role": "President"
+    },
+    {
+      "name": "Beoku-Betts",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Coussey",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Sierra Leone"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "WACA/14 WAC/ABDUL L. JABER v MOHAMED K. BASMA",
+    "Order 34, rule 2, Sierra Leone Rules of Court"
+  ],
+  "rationaleHighlights": [
+    "A copy of the judgment affecting a sub-tenant's possession must be served in accordance with Order 34, rule 2, even if the sub-lease ceases upon termination of the head lease.",
+    "Special damages must be strictly proved; an award cannot stand if the trial judge substantially rejects the claimant's evidence on loss.",
+    "General damages were justified due to serious inconvenience from removal of stock and personal effects to a public pavement.",
+    "The appellant knew of the respondent's occupation but failed to notify him, undermining procedural fairness.",
+    "The appeal was allowed only in respect of special damages, which were set aside."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment and procedural history.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/ABDUL L. JABER  v MOHAMED K. BASMA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:46:07.348Z",
+    "plainTextLength": 9866
+  },
+  "trialDate": "1952-06-18"
+}

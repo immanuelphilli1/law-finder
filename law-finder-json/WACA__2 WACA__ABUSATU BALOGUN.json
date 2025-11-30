@@ -1,0 +1,72 @@
+{
+  "caseTitle": "ABUSATU BALOGUN",
+  "summary": "This case concerns the interpretation of the will of Alli Balogun, a wealthy Lagosian trader, who died in 1933. The central issue was whether the executors were justified in paying a monthly allowance of \u000110 to the testator's eldest son, Busari Balogun, as head of the family, under native Yoruba law and custom. The plaintiffs, daughters of the testator, challenged these payments as unauthorized by the will. The West African Court of Appeal held that although the will did not explicitly authorize such payments, there was an implied authority based on customary obligations requiring the head of the family to maintain the family house, host ceremonies, support dependents, and provide hospitality. The court found that the executors acted within their discretion in making the allowance, guided by native custom, which must be respected under Section 20 of Chapter 3. While Aitken, J. dissented on the merits of the implied authority, the majority upheld the practice. On costs, the court unanimously ruled that the appellants were entitled to costs in the lower court from the estate, and both parties were awarded solicitor-and-client costs in the appeal, also payable from the estate.",
+  "legalKeywords": [
+    "testamentary disposition",
+    "native law and custom",
+    "implied authority",
+    "head of family",
+    "family house",
+    "executors and trustees",
+    "reimbursement",
+    "customary duty",
+    "will interpretation",
+    "costs in estate matters",
+    "residuary trust",
+    "entertainment allowance",
+    "Yoruba customary law",
+    "breach of trust",
+    "judicial dissent"
+  ],
+  "topics": [
+    "Will Interpretation",
+    "Customary Law",
+    "Trustee Duties",
+    "Family Property",
+    "Legal Costs"
+  ],
+  "verdict": "Appeal dismissed except as to costs; allowance to head of family upheld based on native custom.",
+  "winningSide": "Defendants-Respondents (executors and trustees)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Aitken",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    },
+    {
+      "name": "Barton",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "testamentary dispute",
+  "citations": [
+    "WACA/2 WACA/ABUSATU BALOGUN",
+    "Section 20 of Chapter 3 (Ghanaian legislation on customary law)"
+  ],
+  "rationaleHighlights": [
+    "The testator's will frequently referenced 'native law and custom,' requiring its application where not repugnant to natural justice.",
+    "Allowance to the head of family was implied due to customary duties involving maintenance, hospitality, and ceremonies.",
+    "Executors justified in making payments without explicit will provision, based on customary practice.",
+    "Costs awarded to appellants in lower court from estate; both parties granted solicitor-and-client costs in appeal, payable from estate.",
+    "Aitken, J. dissented on the allowance issue but concurred on costs.",
+    "Customary role of eldest son includes upholding family prestige through expenditures funded by estate resources.",
+    "No rectification of will permitted; court interprets only what is written, not what ought to have been.",
+    "Evidence showed consistent practice among Yoruba families of supporting heads financially for family duties."
+  ],
+  "confidenceNotes": "The document is a transcript from the West African Court of Appeal with clear judicial reasoning; however, the text is truncated near the end, potentially omitting part of the judgment. Core holdings on costs and implied authority are complete.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/ABUSATU BALOGUN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:33:55.039Z",
+    "plainTextLength": 49009
+  },
+  "trialDate": "1935-05-17"
+}

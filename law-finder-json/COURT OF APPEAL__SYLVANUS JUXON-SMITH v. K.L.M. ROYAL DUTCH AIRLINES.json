@@ -1,0 +1,72 @@
+{
+  "caseTitle": "SYLVANUS JUXON-SMITH v. K.L.M. ROYAL DUTCH AIRLINES",
+  "summary": "In this civil appeal from the Accra Fast Track High Court, Sylvanus Juxon-Smith sued K.L.M. Royal Dutch Airlines for being denied boarding despite holding a valid business class ticket, claiming $600,000 in damages for losing a lucrative contract in Brussels. The Court of Appeal upheld the finding of deliberate denial of carriage but set aside the damages award. It held that while the airline breached its contract, the claimed loss was too remote as there was no evidence that a trip to Brussels was in the contemplation of the parties when the ticket was purchased. The court excluded Exhibits A–E and G for failing to comply with Section 161 of the Evidence Decree regarding authentication of foreign official documents. Exhibit F, a magazine issue, was properly admitted. The plaintiff failed to provide credible evidence of a submitted bid or efforts to notify Brussels authorities, rendering the damages unprovable and excessive.",
+  "legalKeywords": [
+    "breach of contract",
+    "evidence admissibility",
+    "damages",
+    "remote loss",
+    "burden of proof",
+    "foreign official documents",
+    "contemplation of parties",
+    "excess baggage",
+    "airline liability",
+    "Fast Track High Court",
+    "uncertified documents",
+    "Section 161 NRCD 323",
+    "Section 8 NRCD 323",
+    "Hadley v. Baxendale",
+    "periodical as evidence"
+  ],
+  "topics": [
+    "Contract Law",
+    "Evidence Law",
+    "Aviation Law",
+    "Damages",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed in part; damages and costs set aside due to lack of evidence on remoteness and failure to meet burden of proof.",
+  "winningSide": "Defendant/Appellant (K.L.M. Royal Dutch Airlines) on the issue of damages",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "J.B. Akamba",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Omari-Sasu",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Tweneboa-Kodua",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Hadley v. Baxendale (1854) 9 Exch. 341",
+    "Evidence Decree 1975 (NRCD 323), s. 8",
+    "Evidence Decree 1975 (NRCD 323), s. 15(2)",
+    "Evidence Decree 1975 (NRCD 323), s. 161",
+    "Evidence Decree 1975 (NRCD 323), r. 156"
+  ],
+  "rationaleHighlights": [
+    "Exhibits A–E and G excluded for non-compliance with s. 161 NRCD 323 requiring authentication of foreign official documents",
+    "Exhibit F (magazine) properly admitted under Rule 156",
+    "Damages awarded for breach of carriage contract but set aside due to remoteness and lack of proof of Brussels contract bid",
+    "Plaintiff failed to prove that Brussels trip was in contemplation of parties at contract formation",
+    "Trial judge's award deemed excessive and against weight of evidence"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed court record and explicit legal reasoning. Some document references were truncated but core holdings and evidence issues are clear.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/SYLVANUS JUXON-SMITH v. K.L.M. ROYAL DUTCH AIRLINES.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:01:50.850Z",
+    "plainTextLength": 24164
+  },
+  "trialDate": "2004-06-18"
+}

@@ -1,0 +1,68 @@
+{
+  "caseTitle": "I. T. A. WALLACE JOHNSON",
+  "summary": "The West Africa Court of Appeal dismissed the appeal in a criminal libel case brought against I. T. A. Wallace Johnson. The appellant argued that the trial judge erred by not directing the assessors that a criminal libel must be calculated to cause a breach of the peace. The court held that this was not a required element, citing the 30th Edition of Archbold and the English case Rex v. Wicks, which affirmed that a libel is actionable if it is calculated to vilify a person or bring them into hatred, contempt, or ridicule. The court relied on Chief Justice Mansfield's reasoning in Thoeley v. Lord Kerry to confirm that such imputations are sufficient for indictment, even without proof of potential public disorder. Thus, the appeal was dismissed.",
+  "legalKeywords": [
+    "criminal libel",
+    "defamation",
+    "breach of the peace",
+    "vilification",
+    "contempt",
+    "ridicule",
+    "publication",
+    "indictable misdemeanor",
+    "Archbold",
+    "Rex v. Wicks",
+    "Thoeley v. Lord Kerry"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Defamation",
+    "Freedom of Expression",
+    "Appellate Procedure",
+    "Legal Precedent"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Crown",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v. Wicks (XXV Criminal Appeal Reports p. 168)",
+    "29th Edition of Archbold's Criminal Pleading, Evidence and Practice",
+    "30th Edition of Archbold's Criminal Pleading, Evidence and Practice",
+    "Thoeley v. Lord Kerry (1812) v Taunt 353 Johnson at p. 364"
+  ],
+  "rationaleHighlights": [
+    "Prosecution need not prove that libel would cause breach of peace.",
+    "Libel sufficient if it vilifies or brings person into hatred, contempt, or ridicule.",
+    "Reliance on Mansfield C.J.'s statement in Thoeley v. Lord Kerry.",
+    "30th Archbold edition omits 'breach of peace' requirement.",
+    "Precedent from Rex v. Wicks adopted.",
+    "Appeal dismissed due to lack of merit in all grounds."
+  ],
+  "confidenceNotes": "High confidence; source is a formal appellate judgment with clear legal reasoning and cited authorities.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/I. T. A. WALLACE JOHNSON.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:05:59.648Z",
+    "plainTextLength": 3510
+  },
+  "trialDate": "1940-06-19"
+}

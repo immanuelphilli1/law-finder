@@ -1,0 +1,80 @@
+{
+  "caseTitle": "REX v TAIRU IBARIBA",
+  "summary": "The case involves an appeal against the conviction of three individuals—Tairu Ibariba, Imoru Ibariba, and Amodu Pashi—for murder committed during an armed raid on the deceased's house. The prosecution relied partly on statements made by the deceased identifying the appellants as his assailants, one made at Apena and another in hospital. The appellate court ruled that the statements were inadmissible as hearsay, not falling within any exception to the hearsay rule, particularly because they were not part of the res gestae and the accused did not clearly admit their truth. Although one accused partially responded, the court found the evidentiary value negligible. The court held that the trial judge misdirected himself by relying on these statements, and given the weakness of the remaining evidence, it could not be said that the verdict would have been the same without the inadmissible evidence. Consequently, the convictions were quashed and acquittals entered.",
+  "legalKeywords": [
+    "hearsay rule",
+    "dying declaration",
+    "res gestae",
+    "misdirection of evidence",
+    "admissibility of statements",
+    "mistaken identity",
+    "criminal appeal",
+    "murder conviction",
+    "evidence law",
+    "statement in presence of accused",
+    "Criminal Procedure Ordinance",
+    "section 51",
+    "section 319 Criminal Code",
+    "appellate review",
+    "sufficiency of evidence",
+    "capital charge",
+    "identification evidence",
+    "acquittal",
+    "Rex v Curnock",
+    "Rex v Christie"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence",
+    "Appeal",
+    "Murder",
+    "Hearsay"
+  ],
+  "verdict": "Convictions quashed, acquittals substituted",
+  "winningSide": "Appellants",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Butler Lloyd",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Brooke",
+      "role": "Justice"
+    },
+    {
+      "name": "Martindale",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Rex v Curnock",
+    "Rex v Christie",
+    "Halsbury Vol. IX",
+    "Archbold 1938 ed. p.330",
+    "Criminal Procedure Ordinance s.51",
+    "Criminal Code s.319"
+  ],
+  "rationaleHighlights": [
+    "Statements by deceased not part of res gestae and inadmissible as hearsay",
+    "No clear admission by accused to statements made in their presence",
+    "Hospital statement inadmissible due to lack of foundation under s.51",
+    "Misdirection in relying on inadmissible identification evidence",
+    "Remaining evidence insufficient for a safe conviction in a capital case",
+    "Appellate court cannot say verdict would have been unchanged",
+    "Acquittal entered due to prejudicial error"
+  ],
+  "confidenceNotes": "High confidence; source document provides clear judicial reasoning, citations, and factual context. Jurisdiction confirmed as West Africa Court of Appeal with authority over Ghana at the time.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/REX v TAIRU IBARIBA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:39:02.692Z",
+    "plainTextLength": 5659
+  },
+  "trialDate": "1939-07-07"
+}

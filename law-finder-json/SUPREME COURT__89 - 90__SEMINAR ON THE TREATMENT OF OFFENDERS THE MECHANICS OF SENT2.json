@@ -1,0 +1,63 @@
+{
+  "caseTitle": "SEMINAR ON THE TREATMENT OF OFFENDERS THE MECHANICS OF SENT2",
+  "summary": "This academic paper presented at a seminar discusses the mechanics of sentencing in Ghana, focusing on the role of public tribunals established under PNDCL 78. It outlines three main theories of punishment—retributive, deterrent/preventive, and reformative—and critiques their application. The author notes that while judges and tribunals have broad discretion, sentencing often leans toward retributive or deterrent models, especially for serious economic and drug-related crimes. The paper highlights concerns about prison overcrowding, the failure of prisons to serve reformative purposes, and the influence of judicial bias. Special provisions for young offenders and alternatives like communal labour and fines are discussed, with criticism of the overreliance on imprisonment. The author calls for a dynamic, socially responsive sentencing policy.",
+  "legalKeywords": [
+    "sentencing",
+    "punishment theories",
+    "retributive justice",
+    "deterrent theory",
+    "reformative theory",
+    "public tribunals",
+    "PNDCL 78",
+    "juvenile offenders",
+    "custodial sentences",
+    "prison reform",
+    "white-collar crime",
+    "drug trafficking",
+    "timber fraud",
+    "communal labour",
+    "fines"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Sentencing Policy",
+    "Judicial Discretion"
+  ],
+  "verdict": "Not applicable (academic commentary)",
+  "winningSide": "Not applicable (academic commentary)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Salmond J",
+      "role": "referenced jurist"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Public Tribunals / Traditional Courts",
+    "country": "Ghana"
+  },
+  "caseType": "academic commentary",
+  "citations": [
+    "Public Tribunals Law, 1984 (PNDCL 78)",
+    "Principles of Sentencing (2nd ed) by D A Thomas, pp. 35-37",
+    "Hunt (1958) The Times, November 26",
+    "Simon Rietbergen, International Tropical Timber Organisation research"
+  ],
+  "rationaleHighlights": [
+    "Sentencing discretion must align with moral and societal goals.",
+    "Deterrence is prioritized for economic and drug-related crimes.",
+    "Reformative goals are undermined by prison conditions.",
+    "Sentencing should consider special circumstances of the offender.",
+    "Overuse of custodial sentences leads to prison overcrowding.",
+    "Public perception and socio-economic context influence sentencing policy.",
+    "Historical and cultural factors affect views on criminality.",
+    "Judicial bias and informal methods (e.g., dice) may influence sentencing."
+  ],
+  "confidenceNotes": "The document is a seminar paper, not a judicial decision; therefore, case details are interpretive and lack formal verdict or winning side. Information on sentencing mechanics is derived from statutory references and academic commentary.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/89 - 90/SEMINAR ON THE TREATMENT OF OFFENDERS THE MECHANICS OF SENT2.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:53:50.877Z",
+    "plainTextLength": 19496
+  }
+}

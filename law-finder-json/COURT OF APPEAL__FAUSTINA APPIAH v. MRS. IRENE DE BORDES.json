@@ -1,0 +1,73 @@
+{
+  "caseTitle": "FAUSTINA APPIAH v. MRS. IRENE DE BORDES",
+  "summary": "In Faustina Appiah v. Mrs. Irene de Bordes, the Court of Appeal of Ghana overturned a High Court decision that invalidated a will due to disputed signature authenticity. The testator, Harold Smith Boatin, executed a will on February 8, 1988, three weeks before his death, with two attesting witnesses and a secretary present. The trial court rejected the will based on a handwriting expert's opinion that the signature differed from known samples, particularly due to a line beneath it. However, the Court of Appeal found that the trial judge erred in disregarding the credible, unchallenged testimony of the attesting witnesses and the will's proper execution. The appellate court emphasized that attestation evidence carries significant weight and that minor signature variations do not invalidate a will when eyewitness accounts confirm due execution. The appeal was allowed, and the will was declared valid.",
+  "legalKeywords": [
+    "will validity",
+    "testamentary capacity",
+    "due execution",
+    "attesting witnesses",
+    "handwriting expert",
+    "burden of proof",
+    "probate",
+    "caveat",
+    "sound disposing mind",
+    "forgery",
+    "Wills Act 1971 (Act 360)",
+    "omnis presumuntur rite acta",
+    "mental capacity",
+    "corroborative evidence",
+    "court-appointed expert"
+  ],
+  "topics": [
+    "Probate Law",
+    "Succession",
+    "Evidence Law",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "B.T. Aryeetey",
+      "role": "Presiding Justice, authored leading judgment"
+    },
+    {
+      "name": "Wood, J.A.",
+      "role": "Concurring Justice"
+    },
+    {
+      "name": "Farkye, J.A.",
+      "role": "Concurring Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Probate and Succession",
+  "citations": [
+    "In Re Cole (Decd): Cudgoy v. Cole, [1977] 2 G.L.R. 315",
+    "Banks v. Goodfellow (1870) L.R. 5 Q.B. 549",
+    "Sasu v. White Cross Insurance Co. Ltd. [1960] G.L.R. 4",
+    "In the Estate of Fuld (No.3); Hartley v. Fuld [1968] P. 675"
+  ],
+  "rationaleHighlights": [
+    "The trial judge erred in law by ignoring unchallenged eyewitness testimony of attesting witnesses who confirmed the testator's signature.",
+    "Minor discrepancies in signatures do not override credible evidence of due execution.",
+    "The burden of proof shifted to the defendant after the plaintiff established proper attestation.",
+    "Expert handwriting evidence must be considered cautiously and cannot override direct observation.",
+    "The maxim 'omnis presumuntur rite acta' applies where a will appears properly executed.",
+    "The testator was found to have had testamentary capacity based on contemporaneous correspondence.",
+    "The court-appointed expert was impartial but his opinion was not decisive in light of attestation evidence.",
+    "Proper form and attestation are substantive safeguards against fraud in will-making."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from the judgment text. All legal principles and case citations are explicitly stated in the decision. The outcome and reasoning are clearly articulated by the justices.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/FAUSTINA APPIAH v. MRS. IRENE DE BORDES.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:34:08.135Z",
+    "plainTextLength": 23712
+  },
+  "trialDate": "2002-04-25"
+}

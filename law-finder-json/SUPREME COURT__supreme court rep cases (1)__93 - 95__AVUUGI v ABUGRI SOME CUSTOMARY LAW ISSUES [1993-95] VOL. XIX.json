@@ -1,0 +1,82 @@
+{
+  "caseTitle": "AVUUGI v ABUGRI",
+  "summary": "In Avuugi v Abugri, a Kusasi man sued another for seduction of his wife, claiming costs for a purification ceremony he performed and general damages. Both parties were subject to Kusasi customary law. The trial court awarded damages, which the appellate court upheld, citing precedents (Dapah v Madzigbe and Asante v Wiredu) to assert that damages for seduction are part of 'our customary law.' However, the decision was criticized for failing to properly ascertain Kusasi-specific customs, relying instead on non-Kusasi precedents. The case raised concerns about the 'Akanising' of customary law and the judiciary's duty to ascertain, rather than assume, the content of customary rules before application or modification. The court's approach blurred the line between applying existing custom and creating new law, undermining the requirement under the Courts Act for proper ascertainment when doubt exists.",
+  "legalKeywords": [
+    "customary law",
+    "ascertainment of custom",
+    "seduction damages",
+    "Kusasi customary law",
+    "purification rites",
+    "judicial precedent",
+    "personal law",
+    "natural justice",
+    "equity and good conscience",
+    "Akanisation of custom",
+    "uniformity in customary law",
+    "trial court award",
+    "appellate review",
+    "expert opinion in custom",
+    "doubt in customary law"
+  ],
+  "topics": [
+    "Customary Law",
+    "Family Law",
+    "Torts",
+    "Judicial Reasoning",
+    "Legal Procedure"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Essilfie-Bondzie J",
+      "role": "Appellate Judge"
+    },
+    {
+      "name": "Francois J",
+      "role": "Precedent Judge (Dapah v Madzigbe)"
+    },
+    {
+      "name": "Apatu-Plange Ag J",
+      "role": "Precedent Judge (Asante v Wiredu)"
+    },
+    {
+      "name": "Edward Wiredu J",
+      "role": "Precedent Judge (Abangana v Akologo)"
+    },
+    {
+      "name": "Sowah J",
+      "role": "Precedent Judge (Fiaklu v Adjiani)"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Avuugi v Abugri",
+    "Dapah v Madzigbe",
+    "Asante v Wiredu",
+    "Abangana v Akologo",
+    "Fiaklu v Adjiani"
+  ],
+  "rationaleHighlights": [
+    "Damages for seduction recognized in customary law based on precedent, though not Kusasi-specific",
+    "Court relied on general 'our customary law' without ethnic specificity",
+    "Criticism of using Akan-based precedents for non-Akan (Kusasi) parties",
+    "Duty to ascertain custom before application, even if court is final arbiter",
+    "Section 50(2) of Courts Act allows inquiry when doubt exists after reviewing submissions and sources",
+    "Judicial refinement of custom requires prior ascertainment of its content",
+    "Risk of 'cleavage' between judicial and lived customary law",
+    "Need for objective, not merely subjective, standard of judicial doubt"
+  ],
+  "confidenceNotes": "High confidence in factual details from text; some interpretive analysis based on legal critique in source. Case outcome and judicial reasoning are clearly stated, though original judgment may contain further context.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/93 - 95/AVUUGI v ABUGRI SOME CUSTOMARY LAW ISSUES [1993-95] VOL. XIX.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:12:58.876Z",
+    "plainTextLength": 30684
+  }
+}

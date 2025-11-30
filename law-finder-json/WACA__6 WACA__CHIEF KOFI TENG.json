@@ -1,0 +1,70 @@
+{
+  "caseTitle": "CHIEF KOFI TENG",
+  "summary": "In this 1940 West Africa Court of Appeal decision, Chief Kofi Teng (Plaintiff-Respondent) claimed title and possession of land allegedly purchased from Saforo Yirenkyi on 11 June 1937. The property was attached on 18 June 1937 under a writ of Fi.Fa., and later sold at public auction on 12 July 1937 to N. J. Annan (Defendant-Appellant), who received a Certificate of Purchase. A conveyance from Yirenkyi to the Plaintiff was executed on 5 July 1937. The Plaintiff previously sued Yirenkyi for breach of covenant of title, obtaining a non-suit judgment that recognized his legal title. In the current action against Annan, the lower court relied on res judicata from the prior judgment. The appellate court held that res judicata did not apply because Annan was not a party or privy to the earlier suit. The appeal was allowed, the judgment set aside, and the case remitted for retrial on the central factual issue: whether a valid sale occurred on 11 June 1937, prior to attachment. Costs of appeal were awarded to the Appellant.",
+  "legalKeywords": [
+    "res judicata",
+    "title declaration",
+    "possession recovery",
+    "attachment",
+    "conveyance",
+    "Fi.Fa.",
+    "sale prior to attachment",
+    "non-suit",
+    "retrial",
+    "equitable security",
+    "legal estate",
+    "Certificate of Purchase",
+    "breach of covenant of title",
+    "public auction",
+    "pleadings"
+  ],
+  "topics": [
+    "Property Law",
+    "Civil Procedure",
+    "Res Judicata",
+    "Title to Land",
+    "Execution of Judgment"
+  ],
+  "verdict": "Appeal allowed; judgment below set aside; case remitted for retrial on the issue of whether a valid sale occurred prior to attachment.",
+  "winningSide": "Defendant-Appellant (N. J. Annan)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "WACA/6 WACA/CHIEF KOFI TENG"
+  ],
+  "rationaleHighlights": [
+    "Res judicata does not apply because the defendant was not a party or privy in the prior action.",
+    "The key factual issue is whether a valid purchase occurred before attachment.",
+    "Judgment below was based on an erroneous legal ground and must be set aside.",
+    "Case remitted for determination of the real issue of fact.",
+    "Previous judgment admissible but not binding on the current defendant.",
+    "Defendant acquired property via auction under attachment after alleged conveyance.",
+    "Plaintiff's prior action against vendor ended in non-suit."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment text.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/CHIEF KOFI TENG.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:09:40.995Z",
+    "plainTextLength": 6453
+  },
+  "trialDate": "1940-05-30"
+}

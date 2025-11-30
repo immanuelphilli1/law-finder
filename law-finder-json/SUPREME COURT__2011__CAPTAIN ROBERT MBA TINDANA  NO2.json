@@ -1,0 +1,98 @@
+{
+  "caseTitle": "CAPTAIN ROBERT MBA TINDANA NO2",
+  "summary": "Captain Robert Mba Tindana, a former military officer discharged after alleged misconduct during peacekeeping operations, filed a High Court action in 2007 challenging his discharge as a violation of the Armed Forces Act and his fundamental rights. The High Court dismissed the suit due to the Limitation Act and constitutional transitional provisions. The Court of Appeal dismissed his appeal on merits, but the Supreme Court later set aside that decision, ruling the appeal was filed out of time without extension, rendering it incompetent and stripping the Court of Appeal of jurisdiction. Tindana then applied for a review of the Supreme Court’s judgment, arguing procedural fairness, waiver of delay, and substantive human rights issues. The Supreme Court dismissed the review application, affirming that jurisdictional defects based on untimely appeals cannot be waived and that courts must uphold statutory time limits to preserve the rule of law.",
+  "legalKeywords": [
+    "jurisdiction",
+    "limitation period",
+    "appeal out of time",
+    "nullity",
+    "audi alteram partem",
+    "procedural fairness",
+    "waiver of irregularity",
+    "fundamental human rights",
+    "Armed Forces Act 1962",
+    "Court of Appeal Rules",
+    "Supreme Court review",
+    "due process",
+    "statutory interpretation",
+    "legal vacation",
+    "pleading",
+    "right to appeal",
+    "procedural defect",
+    "constitutional democracy",
+    "rule of law",
+    "civil procedure"
+  ],
+  "topics": [
+    "Military Law",
+    "Appellate Procedure",
+    "Constitutional Law",
+    "Human Rights",
+    "Judicial Review"
+  ],
+  "verdict": "The application for review of the Supreme Court's judgment was dismissed.",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Anin-Yeboah",
+      "role": "Presiding Justice and author of the ruling"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Adinyira (Mrs.)",
+      "role": "Justice"
+    },
+    {
+      "name": "Owusu (Ms.)",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebe",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Motion",
+  "citations": [
+    "Armed Forces Act 1962, Act 105",
+    "Limitation Act, NRCD 54",
+    "1992 Constitution of Ghana",
+    "Court of Appeal Rules, CI 19",
+    "Order 82 Rule 3, CI 47",
+    "Baron’s Law Dictionary, Fifth Edition",
+    "Civil Procedure in Nigeria, 2nd Edition by Fedilis Nwadialo"
+  ],
+  "rationaleHighlights": [
+    "An appeal filed beyond the statutory time limit without extension is incompetent and renders appellate proceedings a nullity.",
+    "Jurisdictional defects cannot be waived, even if the opposing party does not object.",
+    "The Supreme Court may raise jurisdictional issues suo motu, and doing so does not violate audi alteram partem where the issue is clearly unanswerable.",
+    "Human rights claims must be brought within legally prescribed timeframes to be justiciable.",
+    "Legal vacations are not excluded in computing time for filing civil appeals.",
+    "A notice of appeal is not a pleading for the purpose of excluding vacation periods in time computation.",
+    "Due process requires compliance with statutory procedural rules to maintain the rule of law.",
+    "Substantive justice cannot override jurisdictional requirements rooted in statute."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from the official court ruling. All details including dates, legal provisions, and judicial reasoning are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/CAPTAIN ROBERT MBA TINDANA  NO2.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:07:37.576Z",
+    "plainTextLength": 12187
+  },
+  "trialDate": "2011-04-07"
+}

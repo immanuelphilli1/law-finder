@@ -1,0 +1,69 @@
+{
+  "caseTitle": "NANA DARKU FREMPONG II, v NANA OWUDU ASEKU BREMPONG II,",
+  "summary": "This West African Court of Appeal decision from 1952 involved a land dispute between two traditional stools in the Gold Coast (now Ghana), where the respondents (plaintiffs below) sought a declaration of title to Amanfupong and Aperade Stool land and damages for mesne profits. The trial judge granted the declaration based on the plaintiffs' timeliness in litigation, having filed two prior cases, while the defendants had not sought a declaration. The Court of Appeal found this to be a misdirection, emphasizing that the onus of proof rested on the plaintiffs to prove their title, regardless of procedural vigilance. Despite the evidence of traditional history being generally unsatisfactory but slightly favorable to the defendants, the plaintiffs failed to meet the legal burden. The appeal was allowed, the lower court's judgment was set aside, and no title was awarded to either party.",
+  "legalKeywords": [
+    "onus of proof",
+    "declaration of title",
+    "traditional history",
+    "misdirection in law",
+    "practice and procedure",
+    "land dispute",
+    "burden of proof",
+    "appellate review",
+    "timeliness in litigation",
+    "equitable considerations",
+    "mesne profits",
+    "stool land",
+    "customary land tenure",
+    "West African Court of Appeal",
+    "Gold Coast"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Customary Law"
+  ],
+  "verdict": "The appeal was allowed, and the judgment of the lower court was set aside due to misdirection on the onus of proof.",
+  "winningSide": "Appellant (Nana Darku Frempong II and others)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Foster-Sutton",
+      "role": "President"
+    },
+    {
+      "name": "Coussey",
+      "role": "Justice"
+    },
+    {
+      "name": "Manyo-Plange",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast",
+    "country": "Ghana"
+  },
+  "citations": [
+    "Nchirahene Kojo Addo v. Buoyemhene Kluwajo Wusu, 4 W.A.C.A. 96",
+    "Kodilinye v. Odu, 2 W.A.C.A. 336"
+  ],
+  "rationaleHighlights": [
+    "The trial judge misdirected himself by prioritizing litigious timeliness over the legal onus of proof.",
+    "The plaintiff, as the party seeking relief, must prove their entitlement to a declaration of title.",
+    "Judgment must favor the defendant when the plaintiff fails to discharge the burden, regardless of the weakness of the defendant's case.",
+    "The principles in Kodilinye v. Odu (2 W.A.C.A. 336) govern such cases, not Addo v. Wusu.",
+    "Even if traditional history slightly favors the defendant, the plaintiff's failure to prove title is decisive.",
+    "No title is decreed to the defendant on appeal, as they did not seek a declaration.",
+    "Equitable considerations such as delay cannot substitute for legal proof in title disputes.",
+    "The appeal succeeds because the lower court applied an incorrect legal test."
+  ],
+  "confidenceNotes": "The decision is well-reasoned and aligns with established legal principles on burden of proof in civil land cases. The citations are authentic WAACA precedents. The jurisdictional context (Gold Coast, 1952) is correctly reflected. No ambiguity in outcome or legal rationale.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/NANA DARKU FREMPONG II,  v NANA OWUDU ASEKU BREMPONG II,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:34:26.981Z",
+    "plainTextLength": 7324
+  },
+  "trialDate": "1952-01-11"
+}

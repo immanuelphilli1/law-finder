@@ -1,0 +1,67 @@
+{
+  "caseTitle": "KUBI AND OTHERS v DALI",
+  "summary": "In Kubi v Dali, a Ghanaian trader was awarded damages for personal injury and loss of earnings following a negligent accident. The Court of Appeal upheld the trial court's findings but identified a legal error: the failure to deduct income tax from awards for loss of actual and future earnings. Abban JA ruled that since the plaintiff would have paid tax on such earnings, damages should reflect net, not gross, income to prevent unjust enrichment. Citing British Transport Commission v Gourley, the court held that ignoring tax liability violates the principle of compensation by placing the plaintiff in a better financial position than if unharmed. Unable to calculate exact tax, the court estimated one-third of the total earnings award (�64,333) as payable to the Commissioner of Income Tax. This decision established a precedent in Ghanaian law requiring tax considerations in personal injury compensation.",
+  "legalKeywords": [
+    "damages assessment",
+    "loss of earnings",
+    "tax liability",
+    "negligence",
+    "compensation",
+    "income tax deduction",
+    "future earnings",
+    "tort law",
+    "civil liability",
+    "judicial reasoning",
+    "tax revenue",
+    "principle of restitutio in integrum",
+    "House of Lords precedent",
+    "Ghanaian jurisprudence",
+    "appellate review"
+  ],
+  "topics": [
+    "Tax Law",
+    "Tort Law",
+    "Damages",
+    "Judicial Precedent",
+    "Income Tax"
+  ],
+  "verdict": "Appeal dismissed; trial court's award upheld subject to tax deduction",
+  "winningSide": "Plaintiff (subject to tax adjustment)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Abban JA",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Mills, J.E.A.",
+      "role": "Author of commentary"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Kubi v Dali",
+    "British Transport Commission v Gourley [1956] AC 185, HL",
+    "Fairholme v Firth and Brown Ltd",
+    "M'Daid v Clyde Navigation Trustees",
+    "Billingham v Hughes"
+  ],
+  "rationaleHighlights": [
+    "Damages for loss of earnings must account for income tax to avoid overcompensation",
+    "Failure to deduct tax places defendant in worse position than if no injury occurred",
+    "Tax obligation is universal and cannot be ignored in damage awards",
+    "Estimate of tax is acceptable where precise calculation is impossible",
+    "Judicial estimate of one-third tax liability upheld as reasonable"
+  ],
+  "confidenceNotes": "The case analysis is based on a published legal commentary with direct quotations from judicial decisions. The principles from British Transport Commission v Gourley are authoritatively cited and applied. Tax assessment methodology remains an estimate due to lack of precise data.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/87 - 88/KUBI AND OTHERS v DALI A NEW SOURCE OF TAX REVENUE [1987- 88.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:25:31.821Z",
+    "plainTextLength": 22952
+  }
+}

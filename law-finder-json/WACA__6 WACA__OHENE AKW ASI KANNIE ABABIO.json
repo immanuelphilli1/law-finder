@@ -1,0 +1,64 @@
+{
+  "caseTitle": "OHENE AKW ASI KANNIE ABABIO",
+  "summary": "This case involved an application for conditional leave to appeal to the Privy Council from a judgment of the West Africa Court of Appeal (WACA) dated 7th March, 1940. The Co-Plaintiff-Appellant argued that the judgment was final and thus entitled them to appeal as of right under Rule 3(a) of the West African (Appeal to Privy Council) Order-in-Council, 1930. The WACA held that the judgment was interlocutory, not final, because it did not finally dispose of the matter in dispute and left the suit pending in the lower court. Applying the test from Salman v. Warner, the court emphasized that a final judgment must conclusively determine the litigation. The court also referenced McDonald v. Belcher, noting that the trial judge had not made a final finding on the issue of rents and profits from Himan lands. The application for leave to appeal was dismissed with costs.",
+  "legalKeywords": [
+    "interlocutory judgment",
+    "final judgment",
+    "leave to appeal",
+    "Privy Council",
+    "conditional leave",
+    "appeal procedure",
+    "West African Court of Appeal Ordinance",
+    "judicial discretion",
+    "dismissal with costs",
+    "ambiguity in judgment"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Final Judgment",
+    "Interlocutory Order",
+    "Privy Council Appeals",
+    "Ghanaian Legal History"
+  ],
+  "verdict": "Application for conditional leave to appeal dismissed with costs.",
+  "winningSide": "Defendants-Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Salman v. Warner and Others, 1891, 1 Q.B.D. 734",
+    "Standard Discount Co. v. La Grange (4)",
+    "McDonald and Belcher and Others, 1904 A.C. 429"
+  ],
+  "rationaleHighlights": [
+    "A final judgment must finally determine the matter in dispute; if the decision allows the action to continue, it is interlocutory.",
+    "The court applied the test from Salman v. Warner to determine finality.",
+    "No final determination was made on rents and profits, leaving the suit pending.",
+    "Applicant failed to seek clarification of ambiguous judgment, as advised by Privy Council precedent."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and cited authorities.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/OHENE AKW ASI KANNIE ABABIO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:00:38.430Z",
+    "plainTextLength": 6585
+  },
+  "trialDate": "1940-05-08"
+}

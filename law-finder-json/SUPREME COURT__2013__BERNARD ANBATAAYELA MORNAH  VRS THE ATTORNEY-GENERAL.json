@@ -1,0 +1,89 @@
+{
+  "caseTitle": "BERNARD ANBATAAYELA MORNAH VRS THE ATTORNEY-GENERAL",
+  "summary": "In this constitutional case, the plaintiff sought a declaration that Rule 71B and part of Rule 69C(5) of the Supreme Court (Amendment) Rules, 2012 (C.I. 74) were unconstitutional. The court held that Rule 71B, which removes the one-month time limit for review applications in presidential election petitions, does not abolish the right to review—a right constitutionally guaranteed under Article 133(1). The court emphasized that review is a substantive right that cannot be abrogated by subordinate legislation without a constitutional amendment. The heading 'No Review' was deemed misleading but not determinative. Regarding Rule 69C(5), the court found that requiring the Supreme Court to sit on public holidays does not contravene the Public Holidays Act (Act 601), as courts are not 'businesses' covered by the Act. The ejusdem generis rule supported this interpretation. The court affirmed that the Rules of Court Committee's powers under Article 64(3) are limited to procedural matters and cannot affect substantive rights.",
+  "legalKeywords": [
+    "constitutional review",
+    "jurisdiction",
+    "procedural rules",
+    "substantive rights",
+    "separation of powers",
+    "rules of court",
+    "presidential election petition",
+    "public holidays",
+    "interpretation of statutes",
+    "ultra vires",
+    "continuing jurisdiction",
+    "constitutional amendment",
+    "delegated legislation",
+    "ejusdem generis",
+    "right to review"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Election Law",
+    "Judicial Review",
+    "Rules of Court",
+    "Public Holidays"
+  ],
+  "verdict": "The reliefs sought by the plaintiff were dismissed. The court held that Rule 71B and Rule 69C(5) of C.I. 74 are constitutional and do not violate Articles 11, 93(2), 133(1), or 157 of the 1992 Constitution or the Public Holidays Act, 2001 (Act 601).",
+  "winningSide": "Defendant (Attorney-General)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Benin, J.S.C.",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "Ansa, J.S.C.",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Adinyira (Mrs), J.S.C.",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Owusu (Ms.), J.S.C.",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Anin Yeboah, J.S.C.",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Gbadebe, J.S.C.",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs), J.S.C.",
+      "role": "Member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "1992 Constitution of Ghana, Articles 11, 93(2), 133(1), 157",
+    "Supreme Court (Amendment) Rules, 2012 (C.I. 74), Rules 69C(5), 71B",
+    "Supreme Court Rules, 1996 (C.I. 16), Part V, Rules 54, 55",
+    "Interpretation Act, 2009 (Act 792), Section 15",
+    "Public Holidays Act, 2001 (Act 601), Sections 4, 5, 6",
+    "Safeway plc v. Tate (2001) T.L.R. 64",
+    "Malgar Ltd v. R.E Leach Engineering Ltd. (2000) T.L.R. 109 Ch. D."
+  ],
+  "rationaleHighlights": [
+    "Rule 71B of C.I. 74 does not abolish the right to review but only removes the one-month time limit for review applications in presidential election petitions.",
+    "Review under Article 133(1) is a substantive constitutional right that cannot be abrogated by rules of court without constitutional amendment.",
+    "The heading 'No Review' in Rule 71B is misleading and cannot override the plain meaning of the rule.",
+    "Rule 69C(5) allowing court sittings on public holidays does not violate Act 601 as courts are not 'businesses' within the meaning of the Public Holidays Act.",
+    "The Rules of Court Committee lacks authority to amend substantive rights; its powers are limited to practice and procedure under Article 64(3)."
+  ],
+  "confidenceNotes": "High confidence in constitutional interpretation and jurisdictional analysis; moderate confidence in procedural implications due to potential for future legislative clarification.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/BERNARD ANBATAAYELA MORNAH  VRS THE ATTORNEY-GENERAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:16:10.034Z",
+    "plainTextLength": 24566
+  }
+}

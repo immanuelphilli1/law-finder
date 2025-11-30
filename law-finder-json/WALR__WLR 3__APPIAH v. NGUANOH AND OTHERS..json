@@ -1,0 +1,65 @@
+{
+  "caseTitle": "APPIAH VERSUS NGUANOH",
+  "summary": "In Appiah v. Nguanoh and Others, the plaintiff sought to recover £450 from twelve defendants who signed a promissory note in their traditional titles as Elders, Stoolholders, Supis, and Councillors of the Edina State. The note stated a joint promise to pay but did not explicitly indicate personal liability. The court held that the signatories were not personally liable, as they acted in a representative capacity for the Edina State. Applying section 26 of the Bills of Exchange Ordinance, Cap. 195, the court found that the use of official titles without express indication of personal liability meant the signatories were agents of the principal (the State). Furthermore, the phrase 'We, the undersigned Elders, Stoolholders...' indicated collective representation, not individual or joint and several liability. The claim failed to disclose a cause of action against the individuals, and the preliminary objection was upheld.",
+  "legalKeywords": [
+    "promissory note",
+    "joint liability",
+    "personal liability",
+    "representative capacity",
+    "agency",
+    "Bills of Exchange Ordinance",
+    "section 26",
+    "section 86",
+    "traditional titles",
+    "principal and agent"
+  ],
+  "topics": [
+    "Contract Law",
+    "Commercial Law",
+    "Agency",
+    "Bills of Exchange"
+  ],
+  "verdict": "defendants succeeded on preliminary objection",
+  "winningSide": "defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adumua-Bossman J",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Central Judicial Division",
+    "country": "Ghana"
+  },
+  "caseType": "civil action on promissory note",
+  "citations": [
+    "Leadbitter v. Farrow (1816) 5 M. & S. 345",
+    "Rew and Another, Exors. of Newton v. Pettet and Others (1834) 1 Ad. & E. 196",
+    "Dutton v. Marsh and Others (1871) L.R. 6 Q.B. 361",
+    "Elliott v. Bax-Ironside [1952] 2 K.B. 301",
+    "Healey v. Story and Another (1848) 2 Exch. 3",
+    "Ex parte Honey, re Jeffery (1871) 7 Ch.App. 178",
+    "Lindus v. Melrose (1858) 3 H. & N. 177",
+    "Chapman v. Smethurst [1909] 1 K.B. 73",
+    "Britannia Electric Lamp Works, Ltd. v. D. Mandler & Co. [1939] 2 K.B. 129",
+    "Abba v. Koom Assan II and Others (1935, unreported)"
+  ],
+  "rationaleHighlights": [
+    "The phrase 'We, the undersigned Elders, Stoolholders...' indicates collective representation of the Edina State, not individual liability.",
+    "Use of traditional titles instead of personal names removes individual persona from the obligation.",
+    "Section 26 of the Bills of Exchange Ordinance distinguishes between descriptive terms and explicit agency disclaimers.",
+    "Mere addition of representative titles does not exempt liability unless it clearly indicates acting for a principal.",
+    "The instrument must be interpreted in favor of validity, but here the context shows agency on behalf of the State.",
+    "No express words like 'on behalf of' were needed, but the overall tenor showed representation.",
+    "The absence of 'jointly and severally' language negates several liability.",
+    "Analogous cases involving corporate officers support the principle that representative signing limits personal exposure."
+  ],
+  "confidenceNotes": "High confidence; the judgment is clearly reasoned with direct application of statutory provisions and binding precedents. The truncation occurs after the key legal analysis, but the core holding and reasoning are fully preserved.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/APPIAH v. NGUANOH AND OTHERS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:16:02.320Z",
+    "plainTextLength": 25469
+  }
+}

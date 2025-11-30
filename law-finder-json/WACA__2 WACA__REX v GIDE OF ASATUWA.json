@@ -1,0 +1,66 @@
+{
+  "caseTitle": "REX v GIDE OF ASATUWA",
+  "summary": "This is an appeal from a High Court decision in a civil land dispute where the appellant, Gide of Asatuwa, Head Chief and Eze of Obosi, sought a declaration of title to a parcel of land in Onitsha Province. The trial judge, Mr. Justice Graham Paul, found the evidence from both parties conflicting and inconclusive, particularly regarding traditional ownership stories and occupation. He ruled in favor of the defendant, representing the Onitshas. On appeal, the West Africa Court of Appeal dismissed the appeal, holding that the plaintiff failed to discharge the burden of proof required for a declaration of title. The court emphasized that such a judgment does not confer title on the defendant but merely denies the plaintiff's claim. The appellate court found no misdirection in law, upheld the trial judge's discretion in evaluating witness credibility, and rejected arguments for non-suit under Order 39 Rule 1. It also held that an earlier obiter comment questioning the bona fides of the claim did not compromise judicial impartiality, especially since no objection was raised when the same judge resumed the case. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "declaration of title",
+    "non-suit",
+    "res judicata",
+    "traditional evidence",
+    "weight of evidence",
+    "judicial discretion",
+    "misdirection",
+    "land dispute",
+    "occupancy",
+    "rival claims",
+    "appellate review"
+  ],
+  "topics": [
+    "Land Law",
+    "Civil Procedure",
+    "Appellate Jurisdiction",
+    "Evidence",
+    "Judicial Reasoning"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Respondent (Onitshas)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Webber",
+      "role": "Chief Justice, Sierra Leone"
+    },
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Butler-Lloyd",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Order 39 Rule 1 of Supreme Court Rules",
+    "Case 12B of 192~",
+    "Case 13a of 1931"
+  ],
+  "rationaleHighlights": [
+    "The plaintiff bears the onus to prove entitlement to a declaration of title; judgment for defendant does not confer title.",
+    "Order 39 Rule 1 does not justify non-suit where plaintiff fails to meet burden in declaratory actions.",
+    "Appellate court will not interfere unless verdict is perverse or judicial discretion improperly exercised.",
+    "Obiter dictum on bona fides of claim did not affect impartiality of trial judge.",
+    "Long history of litigation made it difficult for plaintiff to establish credibility of claim."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and procedural details provided in the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/REX v GIDE OF ASATUWA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:18:52.932Z",
+    "plainTextLength": 8067
+  },
+  "trialDate": "1935-06-10"
+}

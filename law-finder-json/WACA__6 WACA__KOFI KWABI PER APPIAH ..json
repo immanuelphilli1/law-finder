@@ -1,0 +1,70 @@
+{
+  "caseTitle": "KOFI KWABI PER APPIAH .",
+  "summary": "This case originated as an interpleader action concerning the ownership of cocoa farms attached in execution by the appellant, a judgment creditor. The respondent claimed the farms belonged to the Kukuom Stool under Exhibit 'C'. Initially, a consent judgment favored the appellant, but on appeal to Court 'A', the merits were reconsidered, the alleged admission was disregarded, and the claim in favor of the Stool was upheld. On further appeal to the Chief Commissioner's Court, the claim was amended from personal to representative capacity, reflecting that the respondent was acting for the Kukuom Stool. The West Africa Court of Appeal dismissed the appellant's final appeal, holding that the amendment was proper, no attempt had been made to attach the judgment debtor's equity of redemption, and the lower courts had correctly evaluated the case on its merits. The court clarified that nothing in the judgments prevented the appellant from pursuing attachment of the equity of redemption in the future.",
+  "legalKeywords": [
+    "interpleader summons",
+    "amendment of title",
+    "equity of redemption",
+    "judgment creditor",
+    "judgment debtor",
+    "representative capacity",
+    "personal capacity",
+    "execution",
+    "attachment",
+    "consent judgment",
+    "merits of the case",
+    "de novo hearing",
+    "non-suited",
+    "Stool property",
+    "cocoa farms"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Property Law",
+    "Customary Law",
+    "Execution of Judgment"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Respondent (Kukuom Stool)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WACA/6 WACA/KOFI KWABI PER APPIAH"
+  ],
+  "rationaleHighlights": [
+    "Amendment from personal to representative capacity was proper as claim was inherently on behalf of the Kukuom Stool.",
+    "No evidence that appellant attempted to attach the equity of redemption.",
+    "Lower courts properly considered the merits after disregarding an alleged admission.",
+    "Formal claim was aligned with the real claim, justifying the amendment.",
+    "Appellant's grounds involving factual disputes were not disturbed on appeal.",
+    "Proper procedures for attaching equitable interests were not followed by the appellant.",
+    "Letter from appellant opposing amendment反而 reinforced the need for it.",
+    "Appeal dismissed due to lack of merit in all grounds."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the provided judgment text.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/KOFI KWABI PER APPIAH ..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:05:21.373Z",
+    "plainTextLength": 8513
+  },
+  "trialDate": "1940-11-26"
+}

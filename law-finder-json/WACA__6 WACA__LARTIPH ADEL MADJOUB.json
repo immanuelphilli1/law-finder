@@ -1,0 +1,81 @@
+{
+  "caseTitle": "LARTIPH ADEL MADJOUB",
+  "summary": "This civil appeal arose from a claim by Lartiph Adel Madjoub against the Adansi Stool and others for GH\u000175 advanced under a promissory note and receipt, with the claim based on failure of consideration due to non-grant of concessions. At trial, no formal pleadings were filed. After the plaintiff closed his case, the defendants raised for the first time a defence under Ashanti Proclamation No. 4 of 1928, which required the concurrence of the Oman Council and Queen-Mother for a stool debt to be valid. The trial judge non-suited the plaintiff based on lack of such concurrence, despite this issue not being part of the agreed issues or raised in opening statements. The West Africa Court of Appeal held that the judgment could not stand because it was based on a defence not properly pleaded or in issue, and there was no evidence to support the finding of lack of concurrence. The court emphasized the necessity of pleadings to prevent procedural surprise and adherence to settled issues. The appeal was allowed, the judgment set aside, and the case remitted for retrial before another judge, with liberty for the defendants to plead non-compliance with the proclamation.",
+  "legalKeywords": [
+    "promissory note",
+    "stool debt",
+    "customary law",
+    "pleadings",
+    "non-suited",
+    "concurrence requirement",
+    "Oman Council",
+    "Queen-Mother",
+    "Ashanti Proclamation",
+    "retrial",
+    "procedural fairness",
+    "material facts",
+    "defence disclosure",
+    "native customary law",
+    "statutory repeal",
+    "issue estoppel",
+    "procedural surprise",
+    "judicial error",
+    "civil procedure",
+    "jurisdictional remittal"
+  ],
+  "topics": [
+    "Contract Law",
+    "Customary Law",
+    "Civil Procedure",
+    "Appellate Review",
+    "Stool Liability"
+  ],
+  "verdict": "Appeal allowed; judgment set aside; case remitted for retrial.",
+  "winningSide": "Plaintiff-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "Graham Paul, C.J., Sierra Leone",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal (WACA), Accra",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "Ashanti Proclamation No. 4 of 1928",
+    "Ashanti Ordinance No. 4 of 1924",
+    "Ashanti Ordinance No. 2 of 1935, s. 42",
+    "Order 25 Rule 3",
+    "Order 24 Rule 1",
+    "Order 19 Rule 15, English Rules of the Supreme Court"
+  ],
+  "rationaleHighlights": [
+    "Defence based on Ashanti Proclamation No. 4 of 1928 was raised too late, after plaintiff's case closed, violating procedural fairness.",
+    "Trial judge erred in making a finding of fact (lack of concurrence) not supported by any evidence.",
+    "Pleadings are essential to prevent surprise; openings and settled issues must reflect all material defences.",
+    "Repeal of the enabling ordinance (1924) does not erase the prior legal effect of the proclamation during the transaction period.",
+    "Defendants must be allowed to plead non-compliance with the proclamation on retrial.",
+    "Court emphasized cardinal rules of pleading under Order 25 Rule 3 regarding material facts.",
+    "Settled issues limited the trial court's jurisdiction to matters outside those issues.",
+    "Appeal allowed due to fundamental procedural error."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text, including procedural history, legal reasoning, and cited instruments.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/LARTIPH ADEL MADJOUB.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:03:17.565Z",
+    "plainTextLength": 10343
+  },
+  "trialDate": "1940-06-04"
+}

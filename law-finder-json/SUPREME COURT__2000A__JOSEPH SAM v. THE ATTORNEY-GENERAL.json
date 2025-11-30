@@ -1,0 +1,83 @@
+{
+  "caseTitle": "JOSEPH SAM v. THE ATTORNEY-GENERAL",
+  "summary": "In Joseph Sam v. The Attorney-General, the plaintiff, a Ghanaian citizen, invoked the Supreme Court's original jurisdiction under Article 2(1) of the 1992 Constitution to challenge the constitutionality of Section 15 of PNDCL 326, which granted immunity to the state and its officers from legal proceedings arising from divestiture activities. The defendant raised a preliminary objection, arguing that the plaintiff lacked standing due to absence of personal interest or an existing dispute. The Supreme Court rejected this, holding that Article 2(1) allows any citizen to seek constitutional interpretation without needing to demonstrate personal injury or an active controversy, distinguishing it from Article 33(1), which requires personal interest for enforcement of fundamental rights. The court emphasized that the Constitution must be interpreted based on its own text and spirit, not by analogy to foreign jurisdictions, and affirmed that citizens have a public duty to defend the Constitution. The preliminary objection was overruled, establishing that standing under Article 2(1) is broad and accessible to all citizens for upholding constitutional supremacy.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "standing",
+    "original jurisdiction",
+    "judicial review",
+    "null and void",
+    "personal interest",
+    "dispute requirement",
+    "citizen's right",
+    "enactment inconsistency",
+    "indemnity clause",
+    "separation of powers",
+    "rule of law",
+    "supremacy of constitution",
+    "justiciability",
+    "public interest litigation"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Judicial Review",
+    "Standing",
+    "Separation of Powers",
+    "Rule of Law"
+  ],
+  "verdict": "Preliminary objection overruled; plaintiff has standing to pursue constitutional challenge under Article 2(1).",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Mrs. J. Bamford-Addo",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ampiah, J.S.C."
+    },
+    {
+      "name": "Acquah, J.S.C."
+    },
+    {
+      "name": "Atuguba, J.S.C."
+    },
+    {
+      "name": "Ms. Akuffo, J.S.C."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional interpretation",
+  "citations": [
+    "Article 2(1), 1992 Constitution of Ghana",
+    "Article 140(1), 1992 Constitution of Ghana",
+    "Article 293(1)(2)(3), 1992 Constitution of Ghana",
+    "Article 33(1), 1992 Constitution of Ghana",
+    "PNDCL 326, Section 15",
+    "Tuffuor v. Attorney-General (1980) GLR 637",
+    "NPP v. Attorney-General (1996-97) SC GLR 729",
+    "Republic v. Tommy Thompson Books (1996-97) SC GLR 502",
+    "Bilson v. Attorney-General (Unreported, SC, 12 December 1994)",
+    "Committee of Experts Report on Draft Constitution (31 July 1991), paras 354-356"
+  ],
+  "rationaleHighlights": [
+    "Article 2(1) grants any citizen standing to challenge constitutional inconsistencies without requiring personal interest or an existing dispute.",
+    "Distinction drawn between Article 2(1) (interpretation) and Article 33(1) (enforcement of fundamental rights), where only the latter requires personal interest.",
+    "The Supreme Court's role under Article 2(1) is not limited to settling disputes but includes upholding constitutional supremacy as a public duty.",
+    "Reliance on foreign constitutional jurisprudence is inappropriate when interpreting Ghana's unique constitutional framework.",
+    "The Committee of Experts Report confirms that Article 2(1) actions are available to citizens regardless of personal stake in the outcome.",
+    "Section 15 of PNDCL 326 was challenged for contravening Articles 140(1) and 293 by granting blanket immunity to the state and its officers.",
+    "The court rejected the argument that a 'controversy or dispute' is a prerequisite under Article 2(1), emphasizing textual and purposive interpretation.",
+    "Constitution must be interpreted as a living organism, considering both its letter and spirit."
+  ],
+  "confidenceNotes": "High confidence; all key details are directly extracted from the judgment text, including constitutional provisions, case law, and reasoning.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2000A/JOSEPH SAM v. THE ATTORNEY-GENERAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:52:00.158Z",
+    "plainTextLength": 79027
+  }
+}

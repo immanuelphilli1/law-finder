@@ -1,0 +1,70 @@
+{
+  "caseTitle": "GUINENESSsic (GH) LIMITED v. FAFSCO DISTRIBUTORS LIMITED",
+  "summary": "This appeal arose from a summary judgment granted by the High Court in favor of Guinness (GH) Limited against FAFSCO Distributors Limited for the recovery of GHS 233,988,402.26, based on cheques alleged to have been dishonoured. The Court of Appeal set aside the judgment, holding that the High Court erred in law by failing to properly consider the defendant's Statement of Defence and Counterclaim, which asserted that the cheques were not dishonoured but countermanded due to unresolved account discrepancies. The appellants argued that the plaintiff unilaterally terminated a depot contract and that mutual accounts had not been reconciled, raising triable issues on set-off and liability. The appellate court found that the High Court overlooked these substantive defences, particularly the legal distinction between 'dishonoured' and 'countermanded' cheques, and thus improperly granted summary judgment under Order 14. The appeal succeeded, with the summary judgment and refusal of stay of execution both overturned.",
+  "legalKeywords": [
+    "summary judgment",
+    "dishonoured cheque",
+    "countermanded cheque",
+    "stay of execution",
+    "counterclaim",
+    "Order 14",
+    "L.I. 1129",
+    "defence on merits",
+    "set-off",
+    "account reconciliation",
+    "bills of exchange",
+    "judicial discretion",
+    "procedural fairness",
+    "affidavit in opposition",
+    "bona fide defence"
+  ],
+  "topics": [
+    "Contract Law",
+    "Commercial Law",
+    "Civil Procedure",
+    "Banking Law",
+    "Judgment"
+  ],
+  "verdict": "The Court of Appeal allowed the appeal, setting aside the summary judgment and the refusal to grant a stay of execution.",
+  "winningSide": "Defendants/Appellants (FAFSCO Distributors Limited)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Aryeetey, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Asare-Korang, J.A."
+    },
+    {
+      "name": "Piesare, J.A."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "GUINNESS (GH) LIMITED v. FAFSCO DISTRIBUTORS LIMITED [18/12/2003] C.A. NO. 19/2003",
+    "Order 14 rule 1, Rules of the Superior Courts (L.I. 1129)",
+    "Order 14 rule 5(2), L.I. 1129",
+    "Order 14 rule 11, L.I. 1129",
+    "Order 28 rule 12, L.I. 1129"
+  ],
+  "rationaleHighlights": [
+    "The High Court erred by entering summary judgment without properly considering the defendant's defence that cheques were countermanded, not dishonoured.",
+    "A distinction exists between 'dishonoured' and 'countermanded' cheques: the former involves bank refusal, the latter a drawer's withdrawal of payment instruction.",
+    "The defendant's pleading raised triable issues, including the need for account reconciliation and set-off, which preclude summary judgment.",
+    "The Court of Appeal found the High Court ignored substantive elements of the defence, violating procedural fairness.",
+    "The counterclaim, though questioned as 'not bona fide,' involved legitimate commercial disputes over depot contracts and financial adjustments."
+  ],
+  "confidenceNotes": "The case details are drawn directly from the appellate judgment transcript, with clear references to procedural rules and factual assertions. The distinction between 'dishonoured' and 'countermanded' cheques is legally significant and explicitly analyzed by the appellate court.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/GUINENESSsic (GH) LIMITED v. FAFSCO DISTRIBUTORS LIMITED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:29:10.541Z",
+    "plainTextLength": 16076
+  },
+  "trialDate": "2003-12-18"
+}

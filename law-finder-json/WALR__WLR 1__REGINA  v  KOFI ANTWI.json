@@ -1,0 +1,63 @@
+{
+  "caseTitle": "REGINA v KOFI ANTWI",
+  "summary": "The appellant, Kofi Antwi, was convicted of murder for his role in an unlawful assembly at the Krontihene's premises, where a man was killed by an unknown shooter during a violent confrontation. The court applied Section 47(2) of the Criminal Code, 1951, holding that anyone who abets a riot with knowledge that unlawful violence is intended or likely is guilty of abetting any violence committed in executing the purpose of the assembly. Despite an alibi defense, the trial judge relied on police constable Boateng's testimony identifying the appellant as armed and present, intending to shoot. The Court of Appeal upheld the conviction, finding sufficient independent corroboration in Boateng's account, distinguishing the appellant's case from the thirteen co-accused who were acquitted due to lack of reliable evidence. The appeal was dismissed.",
+  "legalKeywords": [
+    "murder",
+    "abetting riot",
+    "unlawful assembly",
+    "Section 47(2) Criminal Code",
+    "knowledge of violence",
+    "common purpose",
+    "corroboration",
+    "trial evidence",
+    "appeal dismissal",
+    "principle of abetment"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Homicide",
+    "Joint Liability",
+    "Evidence",
+    "Appellate Review"
+  ],
+  "verdict": "Conviction upheld",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Cor. Korsah",
+      "role": "Ag. Chief Justice"
+    },
+    {
+      "name": "Coussey J.A.",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Windsor-Aubrey J.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "West African Law Reports (WALR) 1/Regina v Kofi Antwi",
+    "Criminal Code, Cap. 9, s. 47(2) (1951)"
+  ],
+  "rationaleHighlights": [
+    "Section 47(2) imputes liability for violence during a riot if abettor knew violence was intended or likely",
+    "Active participation with arms and shared intent suffices for liability",
+    "Corroboration from independent witness (Boateng) distinguished appellant’s case",
+    "Acquittal of co-accused did not invalidate individual conviction based on stronger evidence",
+    "Intent to commit violence supports conviction even if accused did not fire fatal shot"
+  ],
+  "confidenceNotes": "High confidence; details are clearly stated in the judgment, including legal basis, factual findings, and appellate reasoning.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/REGINA  v  KOFI ANTWI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:55:45.229Z",
+    "plainTextLength": 5848
+  }
+}

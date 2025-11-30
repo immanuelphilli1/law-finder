@@ -1,0 +1,85 @@
+{
+  "caseTitle": "MARY YARBOLEY OKAI & others v NICHOLAS TIMOTHY CLERK,",
+  "summary": "This 2007 Supreme Court of Ghana case (Civil Appeal No. J4/5/2007) involved a property dispute over a house originally owned by Mark George Okai, who died intestate in 1939. His daughters leased the property to Nicholas Timothy Clerk in 1945 for 60 years. Clerk failed to comply with a West African Court of Appeal (WACA) order to demolish and rebuild the structure, and ceased rent payments in 1964. In 1983, Okai’s surviving children sued for arrears, mesne profits, and forfeiture. Clerk’s successors claimed he acquired the property via auction sale in 1952 and subsequent resale, but this defense was rejected as an afterthought inconsistent with Clerk’s original pleadings, where he acknowledged the lease and even paid rent into court. The Supreme Court upheld the lower courts’ rulings, affirming the lease’s forfeiture due to non-compliance with the WACA order and invalidity of the alleged auction sale, which lacked proper family consent and was ethically flawed.",
+  "legalKeywords": [
+    "forfeiture of lease",
+    "letters of administration",
+    "intestate succession",
+    "WACA judgment",
+    "building permit",
+    "head of family",
+    "consent to sale",
+    "execution sale",
+    "equitable principles",
+    "pleading consistency",
+    "title by auction",
+    "non-compliance with court order",
+    "mesne profits",
+    "rent arrears",
+    "family property",
+    "defence of afterthought",
+    "mental capacity of litigant",
+    "validity of conveyance",
+    "trespass damages",
+    "judicial auction"
+  ],
+  "topics": [
+    "Property Law",
+    "Succession Law",
+    "Leasehold Enforcement",
+    "Judicial Precedent",
+    "Equity and Good Conscience"
+  ],
+  "verdict": "The appeal was dismissed; the Supreme Court upheld the forfeiture of the lease and affirmed the plaintiffs' entitlement to rent arrears and mesne profits.",
+  "winningSide": "Plaintiffs/Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Miss Akuffo",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Mrs. Adinyira",
+      "role": "Justice"
+    },
+    {
+      "name": "Asiamah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Civil Appeal No. J4/5/2007",
+    "West African Court of Appeal (WACA) judgment referenced"
+  ],
+  "rationaleHighlights": [
+    "The defence of auction sale was an afterthought not raised in the original pleadings.",
+    "N. T. Clerk acknowledged the lease by paying rent into court, contradicting the claim of ownership.",
+    "No building permit or evidence of reconstruction per WACA order was presented.",
+    "Head of family could not unilaterally sell family property without consent of principal members.",
+    "Execution sale was invalid as the property belonged to non-parties and the judgment was personal.",
+    "Equity disfavors a party enforcing a judgment to seize property for their own benefit.",
+    "Mental incapacity claim was unsubstantiated by medical evidence.",
+    "Title could not pass to Clerk as children's interest was not represented in the sale."
+  ],
+  "confidenceNotes": "High confidence; all information is directly derived from the judgment text, with clear judicial reasoning and factual findings. Case details, parties, and legal principles are explicitly stated.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2007A/MARY YARBOLEY OKAI & others v  NICHOLAS TIMOTHY CLERK,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:57:42.604Z",
+    "plainTextLength": 16525
+  },
+  "trialDate": "2007-03-23"
+}

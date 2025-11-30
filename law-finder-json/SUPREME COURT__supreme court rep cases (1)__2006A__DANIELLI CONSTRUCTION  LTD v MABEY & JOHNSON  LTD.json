@@ -1,0 +1,77 @@
+{
+  "caseTitle": "DANIELLI CONSTRUCTION LTD v MABEY & JOHNSON LTD",
+  "summary": "In this civil appeal before the Ghanaian Supreme Court, Danielli Construction Ltd (Appellant) and Mabey & Johnson Ltd (Respondent) entered into an agreement to swap construction equipment: a piling hammer and Audi saloon car for a Toyota Hilux pick-up and mobile crushing plant. The trial court found a hiring contract and awarded damages for breach, which the Court of Appeal partially upheld, awarding cedi equivalent of $890,411. The Supreme Court reversed this decision, holding that the agreement was a swap, not a hire. It found that the defendant had constructively delivered the crushing plant by making it available for collection at its site, in line with mutual practice. The plaintiff's failure to collect the equipment did not constitute breach by the defendant. The Supreme Court held the Court of Appeal erred in law by awarding speculative damages without factual basis and misapplying the mode of delivery. Consequently, the appeal was allowed, the judgment of the Court of Appeal was set aside, and the defendant was discharged from liability.",
+  "legalKeywords": [
+    "breach of contract",
+    "swap agreement",
+    "delivery of goods",
+    "constructive delivery",
+    "damages",
+    "evidence",
+    "burden of proof",
+    "re-hearing on appeal",
+    "contractual obligation",
+    "equipment hire",
+    "non-delivery",
+    "damages assessment",
+    "appellate review",
+    "mutual exchange",
+    "possession"
+  ],
+  "topics": [
+    "Contract Law",
+    "Civil Procedure",
+    "Damages",
+    "Delivery of Goods",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed; judgment of Court of Appeal reversed.",
+  "winningSide": "Appellant (Danielli Construction Ltd)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "J. Ansa",
+      "role": "authoring judgment"
+    },
+    {
+      "name": "W. A. Atuguba",
+      "role": "concurrence"
+    },
+    {
+      "name": "G.T. Wood",
+      "role": "concurrence"
+    },
+    {
+      "name": "S. A. Brobbey",
+      "role": "concurrence"
+    },
+    {
+      "name": "R. T. Aninakwah",
+      "role": "concurrence"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Tuakwa v Bosom [2001-2002] SCGLR 61 at 65",
+    "Fori v Ayirebi [1966] GLR 627",
+    "Browne v Dunn (1894) 6 R 67"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court found that the Court of Appeal erred in holding the defendant liable for non-delivery of the piling hammer.",
+    "There was a valid swap agreement, not a hiring contract, between the parties.",
+    "Delivery was constructive: the defendant made the crushing plant available for collection, fulfilling its obligation.",
+    "The plaintiff failed to collect the equipment despite notice, contributing to its own loss.",
+    "Damages awarded by lower courts were set aside due to lack of factual basis and misdirection in law."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and cited authorities.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2006A/DANIELLI CONSTRUCTION  LTD v MABEY & JOHNSON  LTD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T18:04:57.122Z",
+    "plainTextLength": 13288
+  }
+}

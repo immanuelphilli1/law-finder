@@ -1,0 +1,95 @@
+{
+  "caseTitle": "THE REPUBLIC VRS HIHIGH COURT (FAST TRACK DIV.) ACCRA",
+  "summary": "The Supreme Court of Ghana addressed whether public funds and government property can be attached in execution of a judgment debt against the State. The case centered on the interpretation of Article 293 of the 1992 Constitution, which allows claims against the Government without requiring a fiat or petition of right, making the State liable in tort and contract similarly to a private person. The applicant argued that while the State could be held liable, courts lacked jurisdiction to attach public funds for enforcement. The Court rejected this, emphasizing that the constitutional framework ensures accountability and equal subjection of the State to the law. It distinguished Ghana’s position from outdated common law doctrines, citing the Crown Proceedings Act 1947 (UK) and jurisprudence from Australia, particularly New South Wales v Bardolph, to affirm that valid contracts with the State are enforceable even without specific parliamentary appropriation, provided they fall within authorized government administration. The ruling upheld the principle that the rule of law requires the State to be answerable to court judgments, reinforcing judicial authority to enforce execution against public funds where appropriate.",
+  "legalKeywords": [
+    "Article 293",
+    "rule of law",
+    "State liability",
+    "execution of judgment",
+    "public funds",
+    "constitutional interpretation",
+    "Crown Proceedings Act",
+    "judicial accountability",
+    "government contracts",
+    "parliamentary appropriation",
+    "tort liability",
+    "contract enforcement",
+    "separation of powers",
+    "judicial review",
+    "sovereign immunity",
+    "constitutional supremacy",
+    "enforcement mechanism",
+    "public finance",
+    "legal capacity of the State",
+    "common law doctrine"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Judicial Enforcement",
+    "Public Finance",
+    "Rule of Law"
+  ],
+  "verdict": "The Court held that public funds may be subject to execution following a judgment against the State, affirming the enforceability of claims under Article 293 of the 1992 Constitution.",
+  "winningSide": "The Republic (State)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah J.S.C.",
+      "role": "Presiding Judge delivering the ruling"
+    },
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Member of the Bench"
+    },
+    {
+      "name": "Adinyira (Mrs), J.S.C.",
+      "role": "Member of the Bench"
+    },
+    {
+      "name": "Owusu (Ms), J.S.C.",
+      "role": "Member of the Bench"
+    },
+    {
+      "name": "Dotse, J.S.C.",
+      "role": "Member of the Bench"
+    },
+    {
+      "name": "Anin Yeboah, J.S.C.",
+      "role": "Member of the Bench"
+    },
+    {
+      "name": "Baffoe Bonnie, J.S.C.",
+      "role": "Member of the Bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional and Civil Enforcement",
+  "citations": [
+    "Article 293, 1992 Constitution of Ghana",
+    "Crown Proceedings Act 1947 (UK)",
+    "Churchward v R (1865) LR 1 QB 173",
+    "New South Wales v Bardolph (1934) 52 CLR 455"
+  ],
+  "rationaleHighlights": [
+    "Article 293 abolishes the need for fiat or petition of right, enabling direct enforcement of claims against the Government.",
+    "The State must be held accountable under the rule of law, ensuring equality before the law.",
+    "Judicial enforcement through attachment of public funds upholds constitutional accountability.",
+    "The validity of government contracts does not depend on prior parliamentary appropriation if entered in the ordinary course of administration.",
+    "The Court distinguished between the validity of a contract and its enforcement, affirming enforceability even without specific funding.",
+    "Common law immunities such as 'the King can do no wrong' have been constitutionally abrogated in Ghana.",
+    "The decision aligns with modern Commonwealth jurisprudence favoring State liability.",
+    "Protecting the State's creditworthiness supports enforceability of judgments against public bodies."
+  ],
+  "confidenceNotes": "High confidence based on direct quotation from the court ruling, clear identification of judges, constitutional provisions, and cited foreign precedents. The truncated nature of the document does not affect core reasoning or outcome.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/THE REPUBLIC  VRS HIHIGH COURT (FAST TRACK DIV.) ACCRA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:08:17.752Z",
+    "plainTextLength": 34428
+  },
+  "trialDate": "2012-05-24"
+}

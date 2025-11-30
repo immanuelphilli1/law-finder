@@ -1,0 +1,73 @@
+{
+  "caseTitle": "DAMIANA AJIKE",
+  "summary": "This 1939 West African Court of Appeal decision involved an appellant, Damiana Ajike, seeking to enforce a debt claim barred by the Statute of Limitations. The central issue was whether a letter from the respondent constituted a clear acknowledgment of debt or an unconditional promise to pay, which would restart the limitation period. The letter stated the respondent hoped a lawyer's arrival would 'put the matter right,' which the court found ambiguous and conditional, not amounting to an absolute acknowledgment. Relying on established English common law precedents, the court held that only an unqualified acknowledgment or unconditional promise to pay can remove a case from the statute's bar. The appeal was dismissed, affirming the lower court's dismissal of the claim, with costs awarded.",
+  "legalKeywords": [
+    "Statute of Limitations",
+    "acknowledgment of debt",
+    "unconditional promise to pay",
+    "conditional promise",
+    "debt enforcement",
+    "common law precedent",
+    "implied promise",
+    "forbearance",
+    "limitation period",
+    "clear acknowledgment",
+    "legal interpretation",
+    "appellate review",
+    "jurisprudential consistency"
+  ],
+  "topics": [
+    "Contract Law",
+    "Debt Recovery",
+    "Limitation of Actions",
+    "Appellate Procedure",
+    "Legal Interpretation"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Cor. Carey",
+      "role": "Justice"
+    },
+    {
+      "name": "Baker",
+      "role": "Justice"
+    },
+    {
+      "name": "Brooke",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Chasemore v Turner (L.R. 10 Q.B. 500)",
+    "Green v Humphreys (26 Ch D 474)",
+    "Tanner v Smart (6 B & C 603)",
+    "Spencer v Hemmerde (2 AC 1922)",
+    "Morrell v Frith (1838 M & W 402)"
+  ],
+  "rationaleHighlights": [
+    "An absolute, unconditional acknowledgment of debt is required to restart the limitation period.",
+    "A conditional promise to pay, where the condition is unfulfilled, does not suffice.",
+    "Ambiguous expressions of hope do not constitute clear acknowledgment.",
+    "Words that imply negotiation or settlement do not imply a legal promise to pay.",
+    "Precedent from English common law governs interpretation in this jurisdiction.",
+    "The letter in question suggested resolution through third-party intervention, not admission of liability.",
+    "The court reaffirmed settled principles over factual ambiguity.",
+    "Failure to produce the original demand letter was not prejudicial to the outcome."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; case is clearly structured with cited precedents, judicial reasoning, and outcome. Jurisdiction is confirmed as West African Court of Appeal with Ghanaian context. Some formatting artifacts in source text do not impair key information.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/DAMIANA AJIKE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:49:21.913Z",
+    "plainTextLength": 6966
+  },
+  "trialDate": "1939-10-25"
+}

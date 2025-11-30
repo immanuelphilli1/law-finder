@@ -1,0 +1,75 @@
+{
+  "caseTitle": "THE REPUBLIC VERSUS KWABENA AMANING",
+  "summary": "The Court of Appeal of Ghana unanimously quashed the convictions and sentences of the two appellants, Kwabena Amaning @ Tagor and Alhaji Issah Abbas, in a high-profile narcotics case. The court held that the charges under P.N.D.C. Law 236 were legally defective and failed to disclose recognizable offences. Despite assuming the authenticity of a key tape recording (Exhibit 'D'), the court found that the prosecution did not establish a prima facie case on any of the three counts—conspiracy or substantive prohibited business relating to narcotics. The trial court's decision to call the accused to defend was therefore erroneous. The judgment reaffirmed the fundamental principle that the prosecution must prove all elements of an offence beyond reasonable doubt, a burden that does not diminish even if the accused remains silent. Reliance on expert witnesses did not remedy the prosecution's failure to prove the statutory elements. The trial was declared a nullity based on binding precedents and constitutional principles, particularly Article 19(2)(c) and (10) of the 1992 Constitution.",
+  "legalKeywords": [
+    "proof beyond reasonable doubt",
+    "prima facie case",
+    "criminal conspiracy",
+    "P.N.D.C. Law 236",
+    "Narcotics Drugs Control",
+    "prosecution burden",
+    "right to silence",
+    "defective charge",
+    "expert testimony",
+    "trial irregularity",
+    "nullity of trial",
+    "admissibility of evidence",
+    "constitutional presumption of innocence",
+    "Article 19",
+    "Woolmington principle"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Constitutional Law",
+    "Evidence",
+    "Narcotics Offences",
+    "Appellate Review"
+  ],
+  "verdict": "Convictions and sentences quashed; appellants acquitted due to lack of prima facie case and defective charges.",
+  "winningSide": "Appellants",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Yaw Appau",
+      "role": "Justice"
+    },
+    {
+      "name": "Piesare",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Addo",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Criminal Division",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "AKOWUAH v. C.O.P. [1964] GLR 475",
+    "THE REPUBLIC v. KWADJO II [2008] 1 GMJ (Part 1) 42",
+    "BRATTY v. ATTORNEY – GENERAL FOR NORTHERN IRELAND [1963] A.C. 386",
+    "WOOLMINGTON v. D.P.P. [1935] A.C. 462",
+    "TSATSU TSIKATA v. THE REPUBLIC [2003-2004] SCGLR 1068"
+  ],
+  "rationaleHighlights": [
+    "Convictions quashed due to legally defective charges under P.N.D.C. Law 236",
+    "Prosecution failed to prove essential ingredients of the offence beyond reasonable doubt",
+    "Trial court erred in calling accused to defend where no prima facie case was made",
+    "Reliance on expert testimony did not cure fundamental flaws in prosecution's case",
+    "Principle of 'proof beyond reasonable doubt' reaffirmed as constitutional and immutable",
+    "Reference to Woolmington v DPP and Bratty v AG underscores common law foundation",
+    "Constitutional provisions (Article 19) reinforce presumption of innocence and right to silence",
+    "Prior judicial suggestion of lower standard when defence does not testify rejected"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct judicial reasoning and citation of binding authorities. Some truncation in source text, but key legal analysis and outcome are preserved.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/KWABENA AMANING @ TAGOR & Another.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:22:41.006Z",
+    "plainTextLength": 61372
+  },
+  "trialDate": "2008-07-24"
+}

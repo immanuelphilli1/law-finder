@@ -1,0 +1,83 @@
+{
+  "caseTitle": "17881 SISMEN NIXON TETTEH v. THE REPUBLIC. A.",
+  "summary": "The appellant, Corporal Sismen Nixon Tetteh, was convicted by a Disciplinary Court-Martial for striking and using violence against a superior officer (Provost Marshall) and for conduct prejudicial to good order and discipline. The incident occurred on 19th November 1996 at Burma Camp, Accra, after the Provost Marshall stopped the appellant for running a red light and attempted to seize his identity card, leading to a physical altercation. The appellant denied the charges, claiming self-defence and asserting he did not recognize the complainant. The trial court delivered a one-sentence verdict without providing reasons, which the Supreme Court found problematic. Although the Court of Appeal upheld the conviction, the Supreme Court emphasized that court-martials must provide reasoned judgments under Section 177(1) of Act 30, likening them to panels of judges rather than juries. The Supreme Court ultimately dismissed the appeal, finding sufficient evidence to support the conviction despite procedural shortcomings.",
+  "legalKeywords": [
+    "reasoned judgment",
+    "court-martial",
+    "self-defence",
+    "military offence",
+    "assault on superior officer",
+    "Criminal Procedure Code",
+    "Act 30",
+    "Act 105",
+    "burden of proof",
+    "appellate review",
+    "summary trial",
+    "evidentiary sufficiency",
+    "procedural fairness",
+    "jury analogy",
+    "service tribunal"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Military Law",
+    "Appellate Procedure",
+    "Judicial Reasoning",
+    "Procedural Fairness"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Adzoe, J.S.C.",
+      "role": "Delivered the judgment"
+    },
+    {
+      "name": "Amprah, J.S.C.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Kpegah, J.S.C.",
+      "role": "Member"
+    },
+    {
+      "name": "Acquah, J.S.C.",
+      "role": "Member"
+    },
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Sismen Nixon Tetteh v. The Republic, CA No. 3/99, Supreme Court of Ghana (11th April, 2002)",
+    "WO1 Awudu Gamel v. Republic, 1/98 Criminal Appeal (Unreported)",
+    "C.O.P. v. Asamoah (1958) 2 WALR. 458",
+    "Armed Forces Act, 1960 (Act 105)",
+    "Criminal Procedure Code, 1960 (Act 30)"
+  ],
+  "rationaleHighlights": [
+    "A court-martial must provide a reasoned judgment under Section 177(1) of Act 30 unless the guilt is clearly obvious from the facts.",
+    "The Supreme Court rejected the analogy between court-martials and juries, emphasizing that court-martials function as panels of judges.",
+    "Despite the lack of a reasoned judgment, the appellate court found sufficient evidence to uphold the conviction.",
+    "The failure to record reasons for conviction is an error, but not automatically fatal if the evidence supports the outcome.",
+    "Section 75 of Act 105 mandates that service tribunals follow civil court procedures where practicable.",
+    "The appellant's claim of self-defence was considered but not accepted based on the credibility of witnesses.",
+    "The Provost Marshall’s wife and S/Sgt. Otu were key eyewitnesses whose testimonies supported the prosecution.",
+    "The Supreme Court affirmed that procedural irregularities do not invalidate a conviction if the substantive justice is served."
+  ],
+  "confidenceNotes": "The summary is based on a truncated document; however, all critical legal reasoning and factual assertions are drawn directly from the available text. The outcome and key legal principles are clearly stated in the delivered judgment.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2002A/17881 SISMEN NIXON TETTEH  v. THE REPUBLIC. A..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:40:54.839Z",
+    "plainTextLength": 40046
+  },
+  "trialDate": "11TH APRIL, 2002"
+}

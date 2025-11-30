@@ -1,0 +1,91 @@
+{
+  "caseTitle": "SUPERVISORY JURISDICTION OF THE SUPREME COURT [1989-90] VOL.",
+  "summary": "This legal commentary analyzes the supervisory jurisdiction of the Ghanaian Supreme Court under Article 119 of the 1979 Constitution (re-enacted in Article 132 of the 1992 Constitution). It outlines that the Supreme Court holds broad authority to issue prerogative writs—such as certiorari, mandamus, and prohibition—over all inferior and superior courts, including the High Court and Court of Appeal. The scope includes correcting jurisdictional errors and errors of law apparent on the record. The article reviews key cases, including Ex parte Quarcoo and Ex parte Puplampu I, establishing that applicants must seek prior leave from the court and cannot pursue parallel proceedings for the same relief in different courts. While initially adopting a six-month time limit for applications based on High Court rules, this was later questioned in Ex parte Darke XII, with the Court suggesting such time limits are discretionary rather than jurisdictional. The Supreme Court emphasized procedural discipline, warning that failure to follow proper channels may result in dismissal with punitive costs. The Court also clarified that statutory appeal rights do not bar certiorari applications, but the two remedies cannot be pursued simultaneously.",
+  "legalKeywords": [
+    "supervisory jurisdiction",
+    "prerogative writs",
+    "certiorari",
+    "habeas corpus",
+    "mandamus",
+    "prohibition",
+    "quo warranto",
+    "judicial review",
+    "constitutional law",
+    "High Court",
+    "Court of Appeal",
+    "Court of Appeal jurisdiction",
+    "procedure",
+    "leave to apply",
+    "time limit",
+    "appeal",
+    "conflicting proceedings",
+    "discretionary remedy",
+    "error of law",
+    "jurisdictional error",
+    "customary law",
+    "chieftaincy dispute",
+    "Practice Direction",
+    "Supreme Court Rules",
+    "LN 140A",
+    "CI 13",
+    "PNDCL 42",
+    "finality of judgment",
+    "self-help litigation",
+    "litigant conduct"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Judicial Review",
+    "Prerogative Writs",
+    "Supreme Court Jurisdiction",
+    "Legal Procedure"
+  ],
+  "verdict": "The Supreme Court affirmed its broad supervisory jurisdiction but emphasized procedural requirements, including the need for prior leave, avoidance of parallel proceedings, and discretion in time limits for applications.",
+  "winningSide": "Supreme Court (procedural rulings in favor of judicial discipline and constitutional authority)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Amua-Sekyi JSC",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Wuaku JSC",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Osei-Hwere JSC",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Republic v High Court Registrar, Kumasi; Ex parte Yiadom [1984-86] GLRD 132",
+    "Republic v High Court, Accra; Ex parte Quarcoo (1991) G.L.R.",
+    "Republic v High Court, Accra; Ex parte Puplampu I (1991) G.L.R.",
+    "Republic v High Court Accra; Ex parte Darke XII (1992) G.L.R.",
+    "Constitution of Ghana, 1979, art 119",
+    "Constitution of Ghana, 1992, art 132",
+    "High Court (Civil Procedure) Rules, 1954 (LN 140A), Order 59, r 3",
+    "Supreme Court Practice Direction, 15 June 1981"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court has constitutional supervisory jurisdiction over all courts and adjudicating bodies in Ghana.",
+    "Prerogative writs like certiorari can correct both jurisdictional errors and errors of law apparent on the face of the record.",
+    "An applicant cannot simultaneously pursue a certiorari application and a substantive suit for the same relief in different courts.",
+    "Prior leave of the court is required before filing a supervisory order application in the Supreme Court.",
+    "The six-month time limit for certiorari applications, though initially adopted, has been judicially questioned and may not be strictly binding.",
+    "Applicants may choose between appeal and certiorari; if appealing, they may file a stayed certiorari application to preserve rights.",
+    "The Supreme Court may dismiss applications brought prematurely or in disregard of proper procedure, with punitive costs."
+  ],
+  "confidenceNotes": "The source is a legal commentary summarizing Supreme Court decisions and jurisprudence on supervisory jurisdiction. While not a direct court transcript, it cites authoritative cases, rules, and constitutional provisions with specific references, indicating high reliability. The postscript notes a later judicial doubt on the six-month time limit, suggesting evolving interpretation.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/89 - 90/SUPERVISORY JURISDICTION OF THE SUPREME COURT [1989-90] VOL..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:52:37.840Z",
+    "plainTextLength": 11637
+  }
+}

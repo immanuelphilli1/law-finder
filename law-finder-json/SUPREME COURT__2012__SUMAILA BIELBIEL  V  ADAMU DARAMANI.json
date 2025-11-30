@@ -1,0 +1,97 @@
+{
+  "caseTitle": "SUMAILA BIELBIEL V ADAMU DARAMANI",
+  "summary": "In Sumaila Bielbiel v Adamu Daramani (Supreme Court of Ghana, 2012), the Court ruled unanimously that the first defendant should be allowed to open his defence despite a 'no case to answer' submission. The Court emphasized that the defendant had already submitted evidence via affidavit, making it artificial and unjust to disregard that evidence and rule solely on the plaintiff's case. Citing English authorities such as Benham v Kythira Investments and Alexander v Rayson, the Court held that judges in civil cases should rarely entertain no case submissions before hearing all evidence, as it creates an inherently difficult burden to remain impartial. The decision underscores the importance of completing the evidentiary record to ensure fairness and proper fact-finding.",
+  "legalKeywords": [
+    "no case submission",
+    "affidavit evidence",
+    "civil procedure",
+    "interests of justice",
+    "defendant's defence",
+    "election to defend",
+    "judicial discretion",
+    "fact-finding",
+    "oral testimony",
+    "court management",
+    "CPR",
+    "Alexander v Rayson",
+    "Benham v Kythira",
+    "Boyce v Wyatt",
+    "Miller"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Evidence Law",
+    "Judicial Ruling",
+    "Defendant's Rights",
+    "Supreme Court Practice"
+  ],
+  "verdict": "The Court rejected the no case to answer submission and ordered the first defendant to open his defence.",
+  "winningSide": "Sumaila Bielbiel (Plaintiff), as the Court allowed the case to proceed to defence.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "S. K. Date-Bah",
+      "role": "Presiding"
+    },
+    {
+      "name": "J. Ansan",
+      "role": "Justice"
+    },
+    {
+      "name": "S. O. A. Adinyira",
+      "role": "Justice"
+    },
+    {
+      "name": "R. C. Owusu",
+      "role": "Justice"
+    },
+    {
+      "name": "J. V. M. Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "P. Baffoe-Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "N. S. Gbadegbe",
+      "role": "Justice"
+    },
+    {
+      "name": "V. Akoto-Bamfo",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Benham v Kythira Investments [2003] EWCA Civ 1794",
+    "Boyce v Wyatt Engineering [2001] EWCA Civ 692",
+    "Alexander v Rayson [1936] 1 KB 169",
+    "Miller (cited in Benham)"
+  ],
+  "rationaleHighlights": [
+    "It is inherently difficult to disregard defendant's affidavit evidence when ruling on a no case submission.",
+    "Judges should rarely entertain no case submissions in civil trials without a jury.",
+    "The court must retain an open mind until all evidence is presented.",
+    "The interests of justice require the defendant to be allowed to open his defence.",
+    "Disregarding existing affidavit evidence would undermine fair trial principles.",
+    "Precedent from English courts supports deferring no case rulings until full evidence is heard.",
+    "The court did not put the defendant to election before the submission.",
+    "Efficiency should not override procedural fairness."
+  ],
+  "confidenceNotes": "High confidence; all information extracted directly from the ruling text and judicial citations.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/SUMAILA BIELBIEL  V  ADAMU DARAMANI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:20:54.706Z",
+    "plainTextLength": 8473
+  }
+}

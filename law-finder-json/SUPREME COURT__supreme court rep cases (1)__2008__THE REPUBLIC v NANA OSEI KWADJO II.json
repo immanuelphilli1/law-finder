@@ -1,0 +1,79 @@
+{
+  "caseTitle": "THE REPUBLIC v NANA OSEI KWADJO II",
+  "summary": "In this criminal appeal before the Supreme Court of Ghana, Nana Osei Kwadjo II was convicted for stealing revenue from Fahiakobo stool lands. Justice Kpegah, in a concurring opinion, found the conviction fundamentally flawed because the prosecution failed to establish a prima facie case, meaning the burden of proof never shifted to the appellant to enter a defence. He emphasized that under Section 15(1) of the Evidence Decree (NRCD 323), the burden of persuasion remains with the prosecution throughout. Furthermore, he held that the appellant's 'claim of right in good faith'—supported by an official letter (Exhibit 2)—constitutes a complete defence to stealing under Section 120 of the Criminal Code, as appropriation cannot be dishonest if the accused genuinely believes in their legal right to the property. Kpegah, J.S.C. dissented from the majority view (represented by Date-Bah, J.S.C.) and argued that the appeal should be allowed due to these legal errors.",
+  "legalKeywords": [
+    "burden of proof",
+    "prima facie case",
+    "claim of right in good faith",
+    "dishonest appropriation",
+    "stealing",
+    "Section 120 Criminal Code Act 29",
+    "Section 15 Criminal Code Act 29",
+    "Section 15(1) Evidence Decree NRCD 323",
+    "fundamental rights",
+    "right to fair trial",
+    "appellate jurisdiction",
+    "misapprehension of law",
+    "technical grounds for dismissal",
+    "criminal appeal",
+    "stool lands revenue"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence",
+    "Constitutional Law",
+    "Appellate Procedure",
+    "Property Rights"
+  ],
+  "verdict": "The final verdict is not fully stated due to document truncation, but Justice Kpegah dissented in favour of allowing the appeal, arguing the conviction should be overturned due to lack of prima facie case and valid claim of right.",
+  "winningSide": "Likely the Republic (state), though Justice Kpegah dissented in favour of the Appellant; final outcome unclear due to truncation.",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "MRS. WOOD",
+      "role": "Chief Justice (Presiding)"
+    },
+    {
+      "name": "KPEGAH",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "ATUGUBA",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "MISS AKUFFO",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "DR. DATE-BAH",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "IN RE PARLIAMENTARY ELECTIONS FOR WULENSI CONSTITUENCY; ZAKARIA v NYIMAKAN [2003-2004] SCGLR 1",
+    "THE STATE VRS. ALI KASSENA",
+    "R. v. BERHHARD (1938) Cr. APP. R. P. 137; [1938] 2 K. B. 264",
+    "Stephen’s HISTORY OF CRIMINAL LAW OF ENGLAND"
+  ],
+  "rationaleHighlights": [
+    "The conviction is flawed because no prima facie case was made, so the burden of proof never shifted to the accused.",
+    "A 'claim of right in good faith' is a complete defence to stealing under Section 120 of the Criminal Code.",
+    "The prosecution failed to prove dishonest appropriation, a key element of stealing.",
+    "The letter from the Lands Revenue Inspector (Exhibit 2) supports the appellant's genuine belief in his right to the revenue.",
+    "Judicial reliance on technicalities to deny jurisdiction undermines constitutional protection of fundamental rights."
+  ],
+  "confidenceNotes": "The judgment is authored by Kpegah, J.S.C., who expresses strong personal views and references internal court deliberations, indicating high reliability. However, the document is truncated, limiting access to full reasoning and final disposition.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2008/THE REPUBLIC v NANA OSEI KWADJO II.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:49:57.522Z",
+    "plainTextLength": 175643
+  },
+  "trialDate": "2008-07-11"
+}

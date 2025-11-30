@@ -1,0 +1,48 @@
+{
+  "caseTitle": "STATUTORY INTELLIGENCE [1980] VOL. XII RGL 200—204",
+  "summary": "The provided document is not a judicial decision but a statutory intelligence bulletin from 1980, cataloging legislative amendments, repeals, and instruments in Ghana. It details changes to various Acts, Decrees, and Legislative Instruments between January and December 1980, including amendments to tax laws, corporate regulations, import/export controls, and land administration. It also lists Constitutional Instruments establishing commissions of inquiry and regulatory bodies. No court ruling, verdict, or legal dispute is present in the text.",
+  "legalKeywords": [
+    "legislative amendments",
+    "statutory instruments",
+    "Constitutional Instruments",
+    "repeal of laws",
+    "tax legislation",
+    "corporate regulation",
+    "import and export controls",
+    "land administration",
+    "regulatory framework",
+    "Ghanaian statutory law"
+  ],
+  "topics": [
+    "Legislation",
+    "Tax Law",
+    "Corporate Law",
+    "Administrative Law",
+    "Regulatory Compliance"
+  ],
+  "verdict": "not applicable",
+  "winningSide": "not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "not applicable",
+    "country": "Ghana"
+  },
+  "caseType": "legislative update",
+  "citations": [
+    "Act 398",
+    "Act 401",
+    "Act 418",
+    "SMCD 5",
+    "CI 12"
+  ],
+  "rationaleHighlights": [],
+  "confidenceNotes": "High confidence that this is a legislative citator, not a court decision. No judicial analysis or ruling is present.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2012/STATUTORY INTELLIGENCE [1980] VOL. XII RGL 200—204.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:44:22.656Z",
+    "plainTextLength": 13925
+  },
+  "trialDate": "1980-12-31"
+}

@@ -1,0 +1,69 @@
+{
+  "caseTitle": "JUDICIAL REVIEW OF LEGISLATION IN GHANA SINCE INDEPENDENCE [",
+  "summary": "This article examines the development of judicial review in Ghana since independence, situating it within broader constitutional theory. It traces judicial review from its colonial roots—where the British Privy Council exercised oversight over colonial laws—to its entrenchment in Ghana's 1957 Independence Constitution. Under that Constitution, the Supreme Court was granted exclusive original jurisdiction to determine the validity of laws, marking a centralized model akin to West Germany’s constitutional court. The article highlights the case of Lardan v. Attorney-General (No. 2), where Parliament passed a law retroactively terminating court proceedings challenging a deportation order, raising constitutional concerns. The author analyzes judicial review as a mechanism to uphold constitutional supremacy, protect fundamental rights, and maintain the rule of law, while acknowledging debates over its democratic legitimacy. Drawing on Marbury v. Madison, the piece underscores the judiciary’s role in enforcing higher legal norms against legislative overreach.",
+  "legalKeywords": [
+    "judicial review",
+    "constitutional supremacy",
+    "rule of law",
+    "separation of powers",
+    "constitutional interpretation",
+    "deportation",
+    "fundamental rights",
+    "higher law",
+    "constitutionalism",
+    "Marbury v. Madison",
+    "Privy Council",
+    "written constitution",
+    "judicial hierarchy",
+    "democratic accountability",
+    "stare decisis"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Judicial Review",
+    "Separation of Powers",
+    "Rule of Law",
+    "Fundamental Rights"
+  ],
+  "verdict": "The article does not record a final judicial verdict but analyzes the constitutional principles and early applications of judicial review in Ghana, particularly in Lardan v. Attorney-General (No. 2), where parliamentary action effectively nullified ongoing legal challenges.",
+  "winningSide": "Parliament (through retroactive legislation), though the constitutional implications were left unresolved in the immediate case.",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Marshall",
+      "role": "Chief Justice (referenced)"
+    },
+    {
+      "name": "Kumado C. E. K.",
+      "role": "Author/Analyst"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "[1980] VOL. XII RGL 67–103",
+    "Lardan v. Attorney-General (No. 2)",
+    "Marbury v. Madison",
+    "Numo v. Kofi"
+  ],
+  "rationaleHighlights": [
+    "Judicial review in Ghana originates from colonial subordination to English law and evolved post-independence.",
+    "The 1957 Constitution vested exclusive constitutional review power in the Supreme Court.",
+    "Marbury v. Madison established constitutional supremacy in the U.S., influencing global judicial review.",
+    "Judicial review balances democracy with protection of fundamental rights against majoritarian overreach.",
+    "Unconstitutional laws may be void ab initio or voidable depending on jurisdiction.",
+    "The judiciary acts as a guardian of the constitution, enforcing higher legal principles.",
+    "Ghana's model mirrors West Germany’s centralized review, though within the regular court system.",
+    "Constitutional review was triggered in Lardan’s case, where Parliament retroactively nullified legal challenges."
+  ],
+  "confidenceNotes": "The document is a scholarly article rather than a full court judgment, so some details (e.g., final verdict, winning side) are inferred from context. The case analysis is based on the author's recounting of judicial events.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2012/JUDICIAL REVIEW OF LEGISLATION IN GHANA SINCE INDEPENDENCE [.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:46:38.243Z",
+    "plainTextLength": 100405
+  }
+}

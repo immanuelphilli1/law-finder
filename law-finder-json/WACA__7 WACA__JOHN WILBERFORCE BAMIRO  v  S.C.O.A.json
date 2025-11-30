@@ -1,0 +1,75 @@
+{
+  "caseTitle": "JOHN WILBERFORCE BAMIRO v S.C.O.A",
+  "summary": "The appellant, John Wilberforce Bamiro, sued the respondent, S.C.O.A., for damages due to alleged injury to his house at 18 Kosoko Street, Lagos, caused by vibrations from the respondent's pile-driving operations during construction of an adjacent commercial building. The appellant claimed the respondent's agent had admitted liability and promised repairs. At trial, the appellant's expert witnesses attributed damage to vibration but provided no reasoning, while the respondent's expert concluded the damage was due to subsidence, not vibration, and supported this with analysis. The trial judge rejected the appellant's evidence and dismissed the claim. On appeal, the West Africa Court of Appeal upheld the decision, holding that the appellant failed to prove the damage was caused by the respondent's operations. The court found that the respondent's letter, while acknowledging some damage and promising repairs post-construction, did not constitute a binding admission of liability, especially where no actual damage was proven. The court emphasized that such admissions may be made under an erroneous belief of liability and must still be tested against evidence. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "damages",
+    "injury to building",
+    "vibration",
+    "building operations",
+    "expert evidence",
+    "admission of liability",
+    "undertaking to repair",
+    "construction of letter",
+    "subsidence",
+    "proof of damage",
+    "civil liability",
+    "negligence",
+    "property damage",
+    "trial judge discretion",
+    "appellate review"
+  ],
+  "topics": [
+    "Tort Law",
+    "Property Damage",
+    "Expert Testimony",
+    "Contractual Undertaking",
+    "Appellate Procedure"
+  ],
+  "verdict": "Appeal dismissed; judgment for the respondent affirmed.",
+  "winningSide": "Respondent (S.C.O.A.)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Baker",
+      "role": "Appellate Judge"
+    },
+    {
+      "name": "Brooke",
+      "role": "Appellate Judge"
+    },
+    {
+      "name": "Jeffreys",
+      "role": "Appellate Judge"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Trial Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Newton v. Liddiard 12 Q.B. 925"
+  ],
+  "rationaleHighlights": [
+    "Trial judge properly exercised discretion in weighing expert evidence.",
+    "Appellant failed to prove causation of damage by vibration.",
+    "Letter from respondent not a conclusive admission of liability.",
+    "Admissions can be made under erroneous view of liability.",
+    "Damage must be proven even if repair was promised.",
+    "Expert opinion without reasoning given less weight.",
+    "Question of fact properly decided at trial level.",
+    "Appeal dismissed due to insufficient evidence."
+  ],
+  "confidenceNotes": "High confidence; all key details (parties, jurisdiction, outcome, reasoning) are explicitly stated in the judgment. Citation is directly referenced.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/JOHN WILBERFORCE BAMIRO  v  S.C.O.A.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:33:39.275Z",
+    "plainTextLength": 9541
+  },
+  "trialDate": "8TH NOVEMBER, 1941"
+}

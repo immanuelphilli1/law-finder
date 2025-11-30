@@ -1,0 +1,82 @@
+{
+  "caseTitle": "THE REPUBLIC v THE AUTOMATED FAST TRACKHIGH COURT ACCRAEX-P",
+  "summary": "The Republic applied to the Supreme Court of Ghana for certiorari and prohibition orders to quash the rulings and proceedings of the Automated Fast Track High Court, Accra, presided over by Justice Gyeasayor, in Suit No. AL 109/06. The applicant challenged the court’s jurisdiction, alleging the transfer of the case to Justice Gyeasayor was clandestine and irregular. The Supreme Court dismissed the application as time-barred under Rule 62 of the Supreme Court Rules, C.I. 16 (as amended), which requires such applications to be filed within 90 days of the grounds arising. The court held the cause of action arose on 26th October 2006, when Justice Gyeasayor first exercised jurisdiction by granting default judgment, not in March 2008 when he refused to set aside proceedings. Despite arguments invoking interest of justice, the court found no basis to excuse the delay. The application was therefore dismissed.",
+  "legalKeywords": [
+    "supervisory jurisdiction",
+    "certiorari",
+    "prohibition",
+    "jurisdictional error",
+    "natural justice",
+    "time bar",
+    "Article 132",
+    "rule 62 Supreme Court Rules",
+    "ex parte application",
+    "void proceedings",
+    "bias",
+    "adjudicating authority",
+    "interest of justice",
+    "procedural fairness",
+    "default judgment",
+    "setting aside judgment"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Procedural Law",
+    "Judicial Review",
+    "Supervisory Jurisdiction",
+    "Time Limitation"
+  ],
+  "verdict": "Application dismissed as time-barred.",
+  "winningSide": "The Respondent (Fast Track High Court)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "R.C. Owusu",
+      "role": "Presiding"
+    },
+    {
+      "name": "Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Owusu (Ms)",
+      "role": "Justice"
+    },
+    {
+      "name": "Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional law",
+  "citations": [
+    "THE REPUBLIC VRS. HIGH COURT, KUMASI; EX-PARTE; MOBIL OIL (GHANA) LTD (HAGAN INTERESTED PARTY) [2005-6] SCGLR 312",
+    "Texano Africa Ltd. V. Bedu [1978] G.L.R 307"
+  ],
+  "rationaleHighlights": [
+    "Application dismissed as time-barred under Rule 62 of Supreme Court Rules (90-day limit)",
+    "The grounds for the application first arose on 26/10/2006 when jurisdiction was assumed, not on 10/03/2008",
+    "Distinguished from Mobil Oil case where cause of action arose from a refusal to recuse",
+    "Supervisory jurisdiction under Article 132 does not override statutory time limits without extension",
+    "Interest of justice argument rejected due to inordinate delay"
+  ],
+  "confidenceNotes": "High confidence; key dates, jurisdictional reasoning, and legal standards are clearly documented in the ruling.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2008/THE REPUBLIC v  THE AUTOMATED FAST TRACKHIGH COURT ACCRAEX-P.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:51:31.711Z",
+    "plainTextLength": 24702
+  },
+  "trialDate": "2008-10-29"
+}

@@ -1,0 +1,71 @@
+{
+  "caseTitle": "JOSEPH BENSON EDMUND",
+  "summary": "This 1939 West African Court of Appeal decision in Joseph Benson Edmund v. G. F. Ferguson and Emmanuel Mensah concerned a declaration of title to land at Royal Lane, Cape Coast. The court held that the property was family property under native law and custom, originally owned by William Duncan and passed to his descendants without individual inheritance rights. The mortgage by Samuel William Ferguson Duncan to George F. Ferguson was invalid due to lack of family consent. The court rejected the lower court's implication of acquiescence, noting the family promptly objected upon discovery through legal representation and filed suit immediately after the mortgage was advertised. The appeal was allowed, the lower judgment set aside, and judgment entered for the plaintiff, affirming family ownership and rejecting the mortgage's validity.",
+  "legalKeywords": [
+    "declaration of title",
+    "family property",
+    "mortgage without consent",
+    "acquiescence",
+    "native law and custom",
+    "inherited property",
+    "land ownership",
+    "property dispute",
+    "deed of gift",
+    "non-alienation",
+    "eldership",
+    "customary law",
+    "real property",
+    "succession",
+    "equity"
+  ],
+  "topics": [
+    "Property Law",
+    "Customary Law",
+    "Land Title",
+    "Family Property",
+    "Mortgage Dispute"
+  ],
+  "verdict": "Appeal allowed; judgment for plaintiff with costs.",
+  "winningSide": "Plaintiff-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Bannerman, J.",
+      "role": "judging"
+    },
+    {
+      "name": "Butler Lloyd, AG.C.J., Nigeria",
+      "role": "judging"
+    },
+    {
+      "name": "Strother-Stewart, J.",
+      "role": "judging"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WACA/5 WACA/JOSEPH BENSON EDMUND"
+  ],
+  "rationaleHighlights": [
+    "Property determined to be family property under native law and custom.",
+    "Mortgage invalid due to lack of family consent.",
+    "No acquiescence by family upon discovery of mortgage.",
+    "Recitals in Deed of Gift not conclusive against customary ownership.",
+    "Prompt legal action negated any claim of laches or estoppel.",
+    "Family's immediate objection via solicitor's letter (Exhibit C) upheld.",
+    "Court emphasized protection of family property from unilateral alienation.",
+    "Appeal allowed based on customary law and procedural fairness."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy as the source is a formal court decision from the West African Court of Appeal with clear judicial reasoning and procedural details.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/JOSEPH BENSON EDMUND.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:47:06.701Z",
+    "plainTextLength": 5026
+  },
+  "trialDate": "1939-04-24"
+}

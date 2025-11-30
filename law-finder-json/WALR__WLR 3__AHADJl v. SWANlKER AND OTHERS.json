@@ -1,0 +1,66 @@
+{
+  "caseTitle": "AHADJ VERSUS SWAN",
+  "summary": "In this 1958 Ghanaian land case, the plaintiff advanced an unsecured, interest-free loan of \u0001267 to the late Hansen Peter Swaniker in January 1956, conditional on his promise to convey his house to her if he failed to repay within two months. When Swaniker defaulted, he conveyed the property to the plaintiff in March 1956 via a deed appearing as an outright alienation. Swaniker remained in possession and leased parts of the house without the plaintiff's consent. After his death, his family, represented by the first defendant, contested the conveyance, arguing it was a mortgage rather than a sale. The court, per Ollennu J, held that the transaction was an outright sale, not a mortgage, emphasizing the absence of mutuality of rights typical of mortgages, the lack of interest, and the fact that the conveyance followed a prior agreement. The court relied on Tapply v. Sheather and other authorities to conclude that an unsecured loan with a promise to convey upon default constitutes a vendor-purchaser relationship. The plaintiff's evidence was found credible and sufficient to prove ownership, while the defendants' evidence was rejected as inconclusive and evasive. Judgment was entered for the plaintiff.",
+  "legalKeywords": [
+    "mortgage",
+    "conditional sale",
+    "unsecured loan",
+    "conveyance",
+    "redemption",
+    "foreclosure",
+    "land title",
+    "security for loan",
+    "outright alienation",
+    "mutuality of rights",
+    "defeasible conveyance",
+    "Ga custom",
+    "succession",
+    "possession",
+    "declaration of title"
+  ],
+  "topics": [
+    "Land Law",
+    "Mortgage vs Conditional Sale",
+    "Conveyancing",
+    "Ownership Dispute",
+    "Judicial Evidence"
+  ],
+  "verdict": "Judgment for the plaintiff",
+  "winningSide": "plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J",
+      "role": "presiding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "Tapply v. Sheather, 8 Jur.(N.s.) 1163; 7 L.T. 298",
+    "Bunning v. Bunning, 1 L.J.Ch. 56",
+    "Beckett v. Tower Assets Co. [1891] 1 Q.B. 638",
+    "Allenby v. Dalton, 5 L.J.K.B. 312",
+    "Cootes on the Law of Mortgages (9th ed., Vol 1, pp. 27 and 34)"
+  ],
+  "rationaleHighlights": [
+    "Principle of 'once a mortgage always a mortgage' does not apply where transaction is primarily a sale",
+    "Distinction between mortgage and conditional sale lies in mutuality of rights: mortgagor can redeem, mortgagee can foreclose; in conditional sale, purchaser has no right to foreclose",
+    "Payment of interest and under-value sale price are indicators of mortgage",
+    "No security existed at time of loan; only a promise to convey if repayment failed",
+    "Subsequent conveyance implemented prior agreement and was treated as outright sale",
+    "Evidence showed borrower represented transaction as sale, not mortgage",
+    "Court rejected defendants' evidence as evasive or false",
+    "Plaintiff proved ownership through valid sale transaction"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and clear evidentiary assessment.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/AHADJl v. SWANlKER AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:18:12.774Z",
+    "plainTextLength": 11500
+  }
+}

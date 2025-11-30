@@ -1,0 +1,71 @@
+{
+  "caseTitle": "GYEBU VERSUS LAGOS AND ANOTHER.",
+  "summary": "In GYEBU v. LAGOS AND ANOTHER, the Supreme Court of the Gold Coast addressed the validity of a property sale conducted in execution of a judgment after the judgment-debtor's death, without court leave or substitution of the deceased. The court held that execution could only issue against the estate or legal representative of a deceased judgment-debtor with court leave. The failure to obtain leave and effect substitution rendered the execution, sale, and certificates of purchase nullities, as the court acted without jurisdiction. The defendants' argument that the defect was a mere irregularity under Order 51, Rules 18 and 19, was rejected because the flaw preceded the sale. The appeal was allowed, annulling the sale and restoring title to the plaintiff.",
+  "legalKeywords": [
+    "execution after death",
+    "substitution of parties",
+    "nullity",
+    "jurisdiction",
+    "irregularity in sale",
+    "certificates of purchase",
+    "consent judgment",
+    "legal representative",
+    "void sale",
+    "Supreme Court rules",
+    "Courts Ordinance",
+    "judgment-debtor",
+    "sale in execution",
+    "title to land",
+    "arbitration award",
+    "procedural defect",
+    "Native Court",
+    "jurisdictional error",
+    "recovery of possession",
+    "procedural irregularity"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Land Law",
+    "Succession",
+    "Execution of Judgment",
+    "Jurisdiction"
+  ],
+  "verdict": "The sale was declared null and void due to lack of jurisdiction; the appeal was allowed.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Manyo-Plange J",
+      "role": "Land Court Judge, Kumasi"
+    },
+    {
+      "name": "Ollennu J.",
+      "role": "Land Court Judge, Cape Coast"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Supreme Court (Civil Procedure) Rules, 1954, Order 42, Rule 22",
+    "Courts Ordinance, c. 4 of 1951, Order 44, Rules 22 and 27",
+    "In re Shephard, Atkins v. Shephard (1890) Ch.D. 131",
+    "Order 51, Rules 18 and 19"
+  ],
+  "rationaleHighlights": [
+    "Execution against a deceased judgment-debtor without substitution and leave is void, not merely voidable.",
+    "The court acted without jurisdiction, rendering the sale a nullity.",
+    "The defect was not in the conduct of the sale but in the procedural prerequisites, so Order 51, Rule 18 did not apply.",
+    "Certificates of purchase issued without jurisdiction are invalid.",
+    "Arbitration did not cure the jurisdictional defect in the original sale."
+  ],
+  "confidenceNotes": "High confidence; details are consistent across the judgment text, with clear citation of rules and precedent. Some document truncation occurs but does not affect core holdings.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/v  GYEBU v. LAGOS AND ANOTHER..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:20:17.705Z",
+    "plainTextLength": 24029
+  }
+}

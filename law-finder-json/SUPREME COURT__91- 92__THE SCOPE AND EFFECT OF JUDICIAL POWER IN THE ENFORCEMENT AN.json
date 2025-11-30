@@ -1,0 +1,69 @@
+{
+  "caseTitle": "THE SCOPE AND EFFECT OF JUDICIAL POWER IN THE ENFORCEMENT AN",
+  "summary": "This legal analysis examines the scope and effect of judicial power in enforcing and defending the 1992 Ghanaian Constitution, emphasizing its vesting in the judiciary under Article 125(3) and the Supreme Court's exclusive original jurisdiction over constitutional matters under Article 130. The paper traces judicial power through Ghana’s constitutional history from 1957 onward, highlighting continuity with prior constitutions while noting key developments such as the people as the source of justice (Article 125(1)) and enhanced enforcement mechanisms. It underscores judicial independence, the role of constitutional interpretation, and the influence of social, economic, and political policies in adjudication. The work also references landmark cases like Lardan v Attorney-General (No 2) to illustrate limitations on judicial review under earlier constitutional frameworks.",
+  "legalKeywords": [
+    "judicial power",
+    "constitutional interpretation",
+    "Supreme Court jurisdiction",
+    "judicial independence",
+    "rule of law",
+    "fundamental human rights",
+    "constitutional supremacy",
+    "original jurisdiction",
+    "enforcement of constitution",
+    "judicial review",
+    "ouster clauses",
+    "separation of powers",
+    "high crime",
+    "declaratory relief",
+    "adjudicating authority"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Judicial Power",
+    "Supreme Court Jurisdiction",
+    "Rule of Law",
+    "Human Rights Enforcement"
+  ],
+  "verdict": "The judiciary holds exclusive authority to interpret and enforce the Constitution, with the Supreme Court serving as the final arbiter in constitutional disputes.",
+  "winningSide": "Judiciary",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Martin A B K Amidu",
+      "role": "Author of the legal analysis"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Interpretation",
+  "citations": [
+    "Article 125(3), Constitution of Ghana, 1992",
+    "Article 2, Constitution of Ghana, 1992",
+    "Article 130, Constitution of Ghana, 1992",
+    "Article 127, Constitution of Ghana, 1992",
+    "Article 132, Constitution of Ghana, 1992",
+    "Article 33, Constitution of Ghana, 1992",
+    "Lardan v Attorney-General (No 2)",
+    "Ware v Ofori-Atta"
+  ],
+  "rationaleHighlights": [
+    "Judicial power is vested solely in the judiciary, insulated from executive or legislative control.",
+    "The Supreme Court has exclusive original jurisdiction over constitutional enforcement and interpretation.",
+    "Courts must refer constitutional questions to the Supreme Court when they arise in lower courts.",
+    "Judicial review is limited where Parliament acts within its constitutional powers.",
+    "Social, economic, and political policies inform constitutional interpretation.",
+    "Disobedience of Supreme Court orders constitutes a high crime under the 1992 Constitution.",
+    "Ouster clauses in transitional provisions limit judicial inquiry into certain matters.",
+    "Continuity in judicial power principles is evident across Ghana's 1957, 1969, 1979, and 1992 Constitutions."
+  ],
+  "confidenceNotes": "The source is a scholarly legal analysis by a prominent Ghanaian jurist, Hon. Martin A B K Amidu, and draws on constitutional provisions and case law. However, the document appears truncated, particularly in the discussion of Ware v Ofori-Atta, which may affect completeness. Core constitutional provisions and jurisprudence are accurately represented.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/91- 92/THE SCOPE AND EFFECT OF JUDICIAL POWER IN THE ENFORCEMENT AN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:51:14.567Z",
+    "plainTextLength": 163175
+  }
+}

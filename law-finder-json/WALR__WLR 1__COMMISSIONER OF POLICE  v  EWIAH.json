@@ -1,0 +1,66 @@
+{
+  "caseTitle": "COMMISSIONER OF POLICE VERSUS EWIAH",
+  "summary": "In Commissioner of Police v Ewiah, the Supreme Court of the Gold Coast dismissed an appeal against a Juvenile Court order requiring Alex Ewiah to pay \u00022 monthly per child for the maintenance of his two children, who had been placed under the care of their aunt via a 'fit person' order under the Courts Ordinance, c. 4 of 1951, s. 72(2)(b). The father argued that under native custom, custody and responsibility belonged to the mother, and that since the children were already being cared for, the proceedings were unfounded. The court held that statutory parental duties under s. 72(1)(c) are absolute and not negated by voluntary care from others. It emphasized that the existence of such care actually demonstrates a failure of proper guardianship. The court affirmed that the legislation enhances paternal responsibility, supplementing customary norms. The appeal was dismissed.",
+  "legalKeywords": [
+    "family provision",
+    "parental responsibility",
+    "juvenile guardianship",
+    "proper guardianship",
+    "fit person order",
+    "maintenance order",
+    "native custom",
+    "Courts Ordinance",
+    "Detention Regulations",
+    "section 72",
+    "section 73",
+    "Regulation 9",
+    "custody",
+    "child welfare",
+    "probation officer report",
+    "appeal dismissal",
+    "father's duty",
+    "mother's custody",
+    "statutory interpretation",
+    "customary law"
+  ],
+  "topics": [
+    "Family Law",
+    "Juvenile Justice",
+    "Statutory Interpretation",
+    "Customary Law",
+    "Parental Responsibility"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "State (Commissioner of Police)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Windsor-Aubrey J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Western Judicial Division, Divisional Court, Sekondi",
+    "country": "Ghana"
+  },
+  "caseType": "family provision and juvenile guardianship",
+  "citations": [
+    "Courts Ordinance, c. 4 of 1951, ss. 72 and 73",
+    "Detention (Fit Person and Supervision) Regulations, No. 1 of 1947, as amended by No. 23 of 1947",
+    "Sarbah, Fanti Customary Laws, 2nd ed., p. 39"
+  ],
+  "rationaleHighlights": [
+    "The obligation of a parent to provide for children is absolute and cannot be displaced by third-party care.",
+    "Native custom assigning custody to mother does not absolve father of maintenance duty under statute.",
+    "Charitable acts of relatives do not negate statutory responsibility of parents.",
+    "Evidence of third-party care may indicate failure of parent to exercise proper guardianship.",
+    "Statute increases father's responsibility, partially relieving mother's traditional burden."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment and editorial note.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/COMMISSIONER OF POLICE  v  EWIAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:11:30.555Z",
+    "plainTextLength": 6934
+  }
+}

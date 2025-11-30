@@ -1,0 +1,63 @@
+{
+  "caseTitle": "MICHAEL PHARES v JOSEPH ABDALLAH",
+  "summary": "The plaintiff, Michael Phares, sued the defendant, Joseph Abdallah, for �343 4s 6d, comprising a balance on a promissory note, interest, and expenses incurred on the defendant's behalf. The trial court awarded �186 on the note and interest, and �34 1s 4d on the third claim. The defendant appealed, later abandoning the appeal on the smaller sum. The grounds of appeal challenged the validity of the action post-indorsement, limitation, a prior receipt for �450, and sufficiency of evidence. The West Africa Court of Appeal dismissed the appeal. It held that the defendant's 1936 letters admitting liability reset the limitation period, rendering the claim timely. The court also found that the onus of proving settlement lay with the defendant, who failed to discharge it, especially given the inconsistency of his later admissions with the claim of prior settlement. The appellate court upheld the trial court's factual findings and dismissed the appeal with costs.",
+  "legalKeywords": [
+    "promissory note",
+    "onus of proof",
+    "settlement",
+    "statute of limitations",
+    "admission of liability",
+    "civil debt",
+    "appeal dismissal",
+    "receipt as payment",
+    "indorsement",
+    "interest calculation"
+  ],
+  "topics": [
+    "Contract Law",
+    "Debt Recovery",
+    "Limitation of Actions",
+    "Burden of Proof",
+    "Appellate Procedure"
+  ],
+  "verdict": "Appeal dismissed with costs",
+  "winningSide": "Plaintiff-Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judging Panel"
+    },
+    {
+      "name": "Graham Paul, C.J., Sierra Leone",
+      "role": "Judging Panel"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "21 Jac. 1 c. 16"
+  ],
+  "rationaleHighlights": [
+    "Admission of liability in 1936 letters reset limitation period under 21 Jac. 1 c. 16",
+    "Defendant bore onus to prove settlement of admitted debt",
+    "Receipt for �450 predated 1936 admissions and did not discharge later-acknowledged liability",
+    "Appellant abandoned key grounds, weakening appeal",
+    "Court upheld trial judge's factual findings based on credibility"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy as key details (judges, parties, claims, and legal reasoning) are explicitly stated in the judgment text.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/MICHAEL PHARES  v  JOSEPH ABDALLAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:32:17.636Z",
+    "plainTextLength": 5671
+  },
+  "trialDate": "1941-03-04"
+}

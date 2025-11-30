@@ -1,0 +1,79 @@
+{
+  "caseTitle": "EX-PARTE MILLICOM GHANA LIMITED REGIS ROMERO TISMARK INJA P",
+  "summary": "The Supreme Court of Ghana reviewed an application for certiorari, prohibition, and directions against the High Court's issuance of a bench warrant for the arrest of directors of Millicom Ghana Limited for alleged contempt. The contempt arose from non-compliance with an injunction order issued by Marful-Sau JA and later interpreted by Kwofie J. The Supreme Court held that the committal process was unlawful because the individual directors were not served with the application, as required under Order 43 of the High Court (Civil Procedure) Rules, 2004 (CI 47). It further ruled that the application for stay of execution was invalid because Kwofie J's ruling was interpretive, not a new executable order. The Court emphasized that committal of corporate officers requires personal service and that the High Court lacked jurisdiction to issue the bench warrant without such service. The first applicant company was ordered to be struck out of the committal proceedings, and further proceedings were prohibited unless proper service was effected on the directors.",
+  "legalKeywords": [
+    "contempt of court",
+    "committal proceedings",
+    "service of process",
+    "stay of execution",
+    "natural justice",
+    "corporate liability",
+    "injunction enforcement",
+    "arbitration",
+    "judicial review",
+    "certiorari",
+    "prohibition",
+    "High Court Rules",
+    "Court of Appeal Rules",
+    "jurisdiction",
+    "due process"
+  ],
+  "topics": [
+    "Contempt of Court",
+    "Judicial Review",
+    "Corporate Liability",
+    "Service of Process",
+    "Injunction Enforcement"
+  ],
+  "verdict": "The Supreme Court granted the application for certiorari, quashed the bench warrant, and prohibited further committal proceedings without proper service on the individual directors.",
+  "winningSide": "Millicom Ghana Limited and its directors",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "W. A. Atuguba",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Rose Owusu",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Republic v High Court, Kumasi; Ex parte Khoury [1991] 2 GLR 393, SC",
+    "Sasu v Amua-Sekyi [1987-88] 1 GLR 506, CA",
+    "Khoury v Mitchual [1989-90] 2 GLR 256, SC",
+    "Shardey v Adamtey; Shardey v Martey (Consolidated) [1972] 2 GLR 380, CA"
+  ],
+  "rationaleHighlights": [
+    "Committal process invalid without personal service on directors",
+    "Kwofie J's ruling was interpretive, not executable, thus stay of execution inapplicable",
+    "Order 43 governs enforcement against corporate bodies, not Order 50",
+    "Service on company alone insufficient for committal of individual officers",
+    "Application for stay based on non-executable ruling is illusory"
+  ],
+  "confidenceNotes": "The document is a full ruling from the Supreme Court of Ghana with clear judicial reasoning, citations, and procedural details. All information extracted is directly supported by the text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/EX-PARTE  MILLICOM GHANA LIMITED REGIS ROMERO TISMARK INJA P.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:09:18.933Z",
+    "plainTextLength": 42035
+  },
+  "trialDate": "2009-02-04"
+}

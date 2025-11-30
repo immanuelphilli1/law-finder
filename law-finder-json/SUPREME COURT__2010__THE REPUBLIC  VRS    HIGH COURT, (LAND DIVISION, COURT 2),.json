@@ -1,0 +1,84 @@
+{
+  "caseTitle": "REPUBLIC VRS HIGH",
+  "summary": "The Supreme Court of Ghana dismissed an application by Al-Hassan Limited for certiorari and prohibition against a High Court judge's ruling that set aside its supplementary affidavit in an interlocutory injunction motion. The applicant alleged a breach of natural justice, particularly the audi alteram partem principle, and judicial bias. The Supreme Court held that both parties had been heard before the ruling, and the judge acted within his discretionary powers under the High Court (Civil Procedure) Rules, 2004 (C.I. 47), Order 25 and Order 81. The Court emphasized that mere disagreement with a discretionary ruling does not constitute a breach of natural justice or justify certiorari. It reaffirmed that certiorari is not a substitute for appeal and is only granted for fundamental errors or jurisdictional defects. The applicant's proper remedy was appeal, not a prerogative writ. The application was dismissed, maintaining the distinction between appellate and supervisory jurisdiction.",
+  "legalKeywords": [
+    "certiorari",
+    "prohibition",
+    "natural justice",
+    "audi alteram partem",
+    "nemo iudex causae suae",
+    "supervisory jurisdiction",
+    "interlocutory injunction",
+    "supplementary affidavit",
+    "prerogative writs",
+    "appeal vs certiorari",
+    "judicial bias",
+    "procedural fairness",
+    "High Court Civil Procedure Rules C.I. 47",
+    "Order 25",
+    "Order 81",
+    "Article 132 Constitution"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Constitutional Law",
+    "Civil Procedure",
+    "Judicial Review",
+    "Land Law"
+  ],
+  "verdict": "Application for certiorari and prohibition dismissed.",
+  "winningSide": "High Court (Respondent)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Adinyira (Mrs.)",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebe",
+      "role": "Justice"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs.)",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional and Procedural",
+  "citations": [
+    "The Republic v. Circuit Court Accra; Ex parte Appiah [1982-83] GLR 129",
+    "The Republic v. High Court Accra; Ex parte Agbesi Awusu II (No.2) [2003-2004] 2 SCGLR 907",
+    "Aboagye v. Ghana Commercial Bank [2001-2002] SCGLR 796",
+    "Awuni v West African Examination Council [2003-2004] 1 SCGLR 471",
+    "The Republic v. High Court (Commercial Division) Accra; Ex parte The Trust Bank Ltd. [2009] SCGLR 164",
+    "The Republic v. High Court Accra; Ex parte CHRAJ [2003-2004] 1 SCGLR 312",
+    "The Republic v. Court of Appeal, Accra; Ex parte Tsatsu Tsikata [2005-2006] SCGLR 612",
+    "The Republic v. High Court Accra; Ex parte Industrialization Fund For Development Countries [2003-2004] SCGLR 348"
+  ],
+  "rationaleHighlights": [
+    "The right to appeal must not be bypassed by seeking prerogative writs like certiorari without meeting the high threshold.",
+    "Certiorari is only available for fundamental errors or breaches of natural justice, not mere legal or factual errors.",
+    "Both parties were heard before the High Court judge ruled on the admissibility of the supplementary affidavit, satisfying audi alteram partem.",
+    "A judge's discretionary decision under procedural rules, even if erroneous, does not amount to bias or jurisdictional defect warranting certiorari.",
+    "The Supreme Court exercises supervisory jurisdiction sparingly and only where there is a clear, fundamental non-jurisdictional error."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct quotes from the judgment and established legal principles. Some procedural details may be inferred due to document truncation.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/THE REPUBLIC  VRS    HIGH COURT, (LAND DIVISION, COURT 2),.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:40:16.839Z",
+    "plainTextLength": 23950
+  },
+  "trialDate": "2010-11-17"
+}

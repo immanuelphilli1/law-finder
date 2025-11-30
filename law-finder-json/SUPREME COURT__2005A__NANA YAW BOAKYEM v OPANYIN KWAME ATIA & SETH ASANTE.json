@@ -1,0 +1,52 @@
+{
+  "caseTitle": "<span style=\"font-family: Arial\">               <i>&quot; At the hearing of the case the Defendants and their witnesses were not impressive at all. In my opinion the stand they took was simply to deny flatly everything that the Plaintiff said. As a result they were very confused in their presentation and their counsel found it difficult to elicit simple facts or evidence he wanted to support their case. From their demeanor and the way answers were extracted from them we have no option but to disbelieve them. Weighing the evidence led by the plaintiff as against that led by Defendants. We find that of the plaintiff to be the truth. &quot;</i></span>",
+  "summary": "The Supreme Court of Ghana upheld the plaintiff's claim in a civil dispute, finding the defendants' testimony unconvincing and inconsistent. The court observed that the defendants and their witnesses denied all allegations without providing coherent evidence, leading to confusion during testimony. The plaintiff's evidence was deemed more credible and truthful. The judgment emphasized the importance of demeanor and consistency in witness testimony when assessing credibility. As a result, the court ruled in favor of the plaintiff, reinforcing the principle that bald denials unsupported by credible evidence cannot outweigh positive testimony.",
+  "legalKeywords": [
+    "credibility of witnesses",
+    "evidence evaluation",
+    "civil dispute",
+    "burden of proof",
+    "witness demeanor",
+    "judicial discretion",
+    "standard of proof",
+    "testimonial consistency",
+    "plausible denial",
+    "judgment based on evidence"
+  ],
+  "topics": [
+    "Civil Litigation",
+    "Evidence Law",
+    "Judicial Reasoning"
+  ],
+  "verdict": "in favor of the plaintiff",
+  "winningSide": "plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Not specified in text",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [],
+  "rationaleHighlights": [
+    "Defendants' testimony was unimpressive and confused",
+    "Defendants engaged in flat denials without supporting evidence",
+    "Counsel for defendants struggled to elicit clear facts",
+    "Court disbelieved defendants based on demeanor",
+    "Plaintiff's evidence was found truthful and credible",
+    "Judgment based on comparative evaluation of evidence",
+    "Importance of coherent and consistent testimony emphasized"
+  ],
+  "confidenceNotes": "High confidence in summary accuracy; however, full case details including judge names and citations are missing due to document truncation.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2005A/NANA YAW BOAKYEM v OPANYIN KWAME ATIA & SETH ASANTE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:29:36.288Z",
+    "plainTextLength": 37486
+  }
+}

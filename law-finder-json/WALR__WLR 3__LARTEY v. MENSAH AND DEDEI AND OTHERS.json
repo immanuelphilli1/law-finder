@@ -1,0 +1,62 @@
+{
+  "caseTitle": "LARTEY VERSUS MENSAH AND DEDEI AND",
+  "summary": "In Lartey v. Mensah and Dedei and Others, the plaintiff sued as head of the late Taiko Adam's family to recover possession of family title deeds. His authority to sue was challenged, requiring him to prove valid appointment under native customary law. Evidence showed that the previous head resigned during a meeting convened to resolve family disputes, and the plaintiff was subsequently elected. However, not all principal elders entitled to participate in the appointment were notified. The High Court held that under customary law, the appointment of a family head must occur at a properly convened meeting with prior notice to all eligible elders. Where notice is not given for the specific purpose of appointment, and key members are absent, the appointment is invalid unless later ratified. The court found the plaintiff's appointment invalid due to lack of proper notice and non-participation of all family branches. The Magistrate’s decision upholding the appointment was set aside, and the Accra Municipal Court’s judgment for the defendants was restored on corrected grounds.",
+  "legalKeywords": [
+    "head of family",
+    "family meeting",
+    "customary law",
+    "appointment validity",
+    "notice requirement",
+    "ratification",
+    "native custom",
+    "elders",
+    "family branches",
+    "procedural fairness",
+    "abdication",
+    "authority to sue",
+    "title deeds",
+    "recovery of possession",
+    "jurisdictional challenge"
+  ],
+  "topics": [
+    "Family Law",
+    "Customary Law",
+    "Procedural Validity",
+    "Appointment of Family Head",
+    "Civil Procedure"
+  ],
+  "verdict": "The appeal was allowed, the Magistrate's judgment was set aside, and the Accra Municipal Court's decision in favor of the defendants was restored.",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WALR/WLR 3/LARTEY v. MENSAH AND DEDEI AND OTHERS"
+  ],
+  "rationaleHighlights": [
+    "Appointment of head must follow native custom requiring participation of all principal elders.",
+    "Notice must be given to all entitled family members prior to appointment.",
+    "Appointment made without proper notice is invalid unless later ratified.",
+    "Settlement of disputes is distinct from appointment of a head; dual purpose invalidates appointment.",
+    "Failure to notify all family branches undermines legitimacy of appointment.",
+    "Court may uphold judgment on different grounds if record supports it.",
+    "Plaintiff failed to prove valid appointment under customary law.",
+    "Magistrate misdirected himself by accepting appointment without verifying compliance with custom."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear reference to customary law and procedural requirements.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/LARTEY v. MENSAH AND DEDEI AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:02:07.744Z",
+    "plainTextLength": 6828
+  }
+}

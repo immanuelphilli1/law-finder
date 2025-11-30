@@ -1,0 +1,81 @@
+{
+  "caseTitle": "BEN MIREKU, GABRIEL TETTEH MIREKU",
+  "summary": "This Supreme Court of Ghana case involved a dispute over the expiration of a 32-year lease agreement dated 2 October 1965 for Plot No. D774/3, Okaishie, Accra. The plaintiffs, successors of the late Kwaku Mireku, sought either variation of the lease on grounds of unconscionability or a declaration of statutory tenancy after the lease expired in 1997. The defendants, heirs of the original landowner, refused renewal and sought possession. The High Court and Court of Appeal ruled against the plaintiffs, finding the lease conscionable and no basis for statutory tenancy. The Supreme Court affirmed these decisions, holding that the lease was fair, legally executed, and that repairs and an unauthorized fourth-floor addition by the lessee were not grounds for compulsory renewal. The court emphasized that courts cannot create new contracts and that the plaintiffs had economically benefited from the improvements. The appeal was dismissed.",
+  "legalKeywords": [
+    "lease agreement",
+    "unconscionability",
+    "statutory tenant",
+    "renewal clause",
+    "conveyancing",
+    "tenancy obligation",
+    "improvement to property",
+    "rent act",
+    "contract variation",
+    "equity",
+    "goodwill",
+    "mesne profits",
+    "trespass",
+    "covenant",
+    "repair obligation"
+  ],
+  "topics": [
+    "Property Law",
+    "Lease Agreements",
+    "Contract Law",
+    "Equity",
+    "Statutory Tenancy"
+  ],
+  "verdict": "Appeal dismissed; judgment of the Court of Appeal affirmed.",
+  "winningSide": "Defendants/Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sophia Adinyira",
+      "role": "Presiding Justice delivering judgment"
+    },
+    {
+      "name": "Sophia Akuffo",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "Suley Gbadegbe",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Achoro v. Akanfela [1996-97] SCGLR 209",
+    "Koglex Ltd. (No.2) v. Field [2000] 175",
+    "Addison v. A/S Norway Cement Export Ltd. [1973] 2 GLR 151",
+    "City and Country Waste Ltd. vs. Accra Metropolitan Assembly [2007-2008] SCGLR 409"
+  ],
+  "rationaleHighlights": [
+    "Lease not unconscionable due to mutual agreement and legal drafting",
+    "No automatic right to renewal without express clause",
+    "Repairs and refurbishment were lessee obligations under lease",
+    "Addition of fourth floor did not justify lease renewal",
+    "Court cannot impose new contractual terms on parties",
+    "Plaintiffs economically benefited from improvements",
+    "Statutory tenancy not applicable under Rent Act, 1963 (Act 220)"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official Supreme Court judgment document with clear judicial reasoning and citation of legal provisions.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/BEN MIREKU, GABRIEL TETTEH MIREKU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:08:02.731Z",
+    "plainTextLength": 15308
+  },
+  "trialDate": "2010-04-23"
+}

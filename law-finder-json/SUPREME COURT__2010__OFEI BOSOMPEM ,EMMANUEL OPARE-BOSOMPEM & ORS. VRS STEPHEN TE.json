@@ -1,0 +1,83 @@
+{
+  "caseTitle": "OFEI BOSOMPEM ,EMMANUEL OPARE-BOSOMPEM & ORS. VRS STEPHEN TE",
+  "summary": "The case involves a dispute over possession of premises housing the Pan Africa Hotel and associated mesne profits. The plaintiffs won at the High Court in 2006, but the defendant appealed and obtained a partial stay of execution from the Court of Appeal in 2008, conditional on paying half the judgment debt by May 15, 2008. Despite incomplete and delayed payments, the Court of Appeal dismissed the plaintiffs' 2009 application for leave to execute the judgment, citing substantial payments made. The plaintiffs appealed to the Supreme Court, arguing the Court of Appeal erred in denying execution. The Supreme Court held that the decision was interlocutory, and since the appeal was filed beyond the 21-day statutory limit, it lacked jurisdiction to hear the appeal, which was therefore dismissed.",
+  "legalKeywords": [
+    "interlocutory decision",
+    "final decision",
+    "stay of execution",
+    "leave to execute judgment",
+    "appellate jurisdiction",
+    "statutory time limit",
+    "mesne profits",
+    "possession of premises",
+    "judgment debt",
+    "Court of Appeal",
+    "Supreme Court",
+    "compliance with court orders",
+    "right to appeal",
+    "procedural delay",
+    "unconscionable retention"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Appellate Law",
+    "Property Law"
+  ],
+  "verdict": "The Supreme Court dismissed the appeal for lack of jurisdiction, holding that the decision appealed was interlocutory and the appeal was filed outside the 21-day statutory period.",
+  "winningSide": "Respondent (Stephen Tetteh Kwame)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "P. Baffoe-Bonnie",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "S. A. B. Akuffo",
+      "role": "Justice"
+    },
+    {
+      "name": "Dr. S. K. Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "S. O. A. Adinyira",
+      "role": "Justice"
+    },
+    {
+      "name": "N. S. Gbadebe",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "THE REPUBLIC V HIGH COURT ACCRA; EXPARTE AFODA, [2001-2002] SCGLR 768 SC",
+    "In re Amponsah (1960) GLR 140",
+    "Frimpong v Poku 1963 GLR 1",
+    "Karletse-Panin v. Nuro [1979] GLR 195",
+    "Atta Kwadwo v. Badu [1977] 1 GLR 1",
+    "POMAA & OTHERS VRS. FOSUHENE (1987-88) 1 GLR 244",
+    "Bansah v. G.B. Ollivant 1954 WACA 408"
+  ],
+  "rationaleHighlights": [
+    "The appeal was against an interlocutory decision, which must be filed within 21 days under Rule 8(1)(a) of C.I. 16.",
+    "The decision of the Court of Appeal not to grant leave to execute did not finally dispose of the parties' rights.",
+    "The Supreme Court lacks inherent jurisdiction; appeal rights are strictly statutory.",
+    "No extension of time is permitted for interlocutory appeals, unlike final decisions.",
+    "The plaintiffs' delay in filing (3 months) deprived the court of jurisdiction.",
+    "The Court emphasized procedural compliance over equitable considerations.",
+    "The core dispute remains pending before the Court of Appeal on the substantive appeal.",
+    "Judicial discretion in interlocutory matters is not subject to appeal beyond statutory timelines."
+  ],
+  "confidenceNotes": null,
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/OFEI BOSOMPEM ,EMMANUEL OPARE-BOSOMPEM & ORS. VRS STEPHEN TE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:43:44.378Z",
+    "plainTextLength": 13726
+  },
+  "trialDate": "2010-05-04"
+}

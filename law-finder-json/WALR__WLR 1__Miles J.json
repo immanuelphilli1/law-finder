@@ -1,0 +1,61 @@
+{
+  "caseTitle": "AND OTHERS VERSUS N'JIE AND ANOTHER.",
+  "summary": "In this 1956 Gambian probate case, the plaintiffs sought revocation of letters of administration granted to the first defendant over the estate of Machimban N'Jie, who died in 1910. A will dated 1903, discovered only after the death of the last surviving beneficiary (Fatou N'Jie) in 1953, bequeathed property to Soseh, Fatou, and N'Dumbay as joint tenants. The defendant challenged the will's validity due to its late production and lack of probate. Miles J held that the presumption 'omnia praesumuntur rite esse acta' applied because any suspicion arose post-execution and post-death, with no evidence aliunde to rebut the will's validity. The court relied on Davis v. Mayhew and In re Goods of Francis Peverett, affirming that proper custody and internal validity suffice. It also noted that a Mohammedan may validly use an English-form will, governed by English succession rules. The letters of administration were revoked in favor of the will.",
+  "legalKeywords": [
+    "probate",
+    "letters of administration",
+    "revocation",
+    "will validity",
+    "presumption of due execution",
+    "joint tenancy",
+    "testamentary capacity",
+    "Mohammedan law",
+    "attestation clause",
+    "ancient document rule",
+    "evidence aliunde",
+    "presumption omnia praesumuntur rite esse acta",
+    "custody of will",
+    "English form will",
+    "foreign law application"
+  ],
+  "topics": [
+    "Probate Law",
+    "Wills and Estates",
+    "Presumption of Due Execution",
+    "Revocation of Letters of Administration",
+    "Conflict of Laws"
+  ],
+  "verdict": "The will dated July 17, 1903, was upheld as valid, and the letters of administration granted to Mustapha N'Jie were revoked.",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Miles J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Colony of the Gambia",
+    "country": "Gambia"
+  },
+  "caseType": "Probate",
+  "citations": [
+    "Davis v. Mayhew [1927] P. 264",
+    "In the Goods of Francis Peverett [1902] P. 205",
+    "Leong and Another v. Lim Beng Chye [1955] P. 648"
+  ],
+  "rationaleHighlights": [
+    "The will was produced from proper custody (beneficiary's box), supporting its authenticity.",
+    "Suspicion about non-probation arose after testator's death; thus, 'omnia praesumuntur rite esse acta' applies.",
+    "Attestation clause present and witness signatures identified; sufficient for presumption.",
+    "Mohammedan law not applicable where a Mohammedan executes a will in English form.",
+    "No evidence of unsound mind or lack of testamentary capacity."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; all details are directly supported by the judgment text.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/Miles J.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:02:30.691Z",
+    "plainTextLength": 12356
+  }
+}

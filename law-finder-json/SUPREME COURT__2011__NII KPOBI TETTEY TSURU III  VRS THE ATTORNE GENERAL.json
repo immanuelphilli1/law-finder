@@ -1,0 +1,92 @@
+{
+  "caseTitle": "NII KPOBI TETTEY TSURU III VRS THE ATTORNE GENERAL",
+  "summary": "This Supreme Court of Ghana judgment, delivered on April 13, 2011, addresses a review application by Nii Kpobi Tettey Tsuru III against the Attorney-General. The central issue was whether the Court's earlier 4-1 majority decision—holding that Article 20(5) and (6) of the 1992 Constitution did not apply to land compulsorily acquired by the state in 1947—should be reversed. The applicant argued that the prior decision was per incuriam, having failed to properly consider Article 257(1) and (2), which vests all public lands in the President on behalf of the people. The Court emphasized that while compulsory acquisition before 1992 is not subject to constitutional scrutiny, any post-1992 change in use of such land falls under Article 20(5) and (6), which guarantee compensation for property taken for public purpose. The judgment reviewed principles of review jurisdiction under Article 133(1) and Rule 54 of C.I. 16, affirming that review is warranted in cases of fundamental error, such as overlooking binding constitutional provisions, rendering an absurd decision, or inadequate consideration of vital matters. The Court highlighted that Article 20(5) and (6) are not limited to post-1992 acquisitions and must apply to any change in use of public land after the Constitution’s enactment. Although the judgment stops short of a final ruling due to truncation, it strongly indicates that the original decision may have been erroneous and in need of review.",
+  "legalKeywords": [
+    "constitutional review",
+    "per incuriam",
+    "Article 20(5) and (6)",
+    "compulsory acquisition",
+    "public interest",
+    "vested rights",
+    "retrospectivity",
+    "land use",
+    "Supreme Court jurisdiction",
+    "miscarriage of justice",
+    "Article 257",
+    "stare decisis",
+    "inadequate consideration",
+    "absurd decision",
+    "palpably wrong"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Land Law",
+    "Judicial Review",
+    "Supreme Court Procedure",
+    "Property Rights"
+  ],
+  "verdict": "The review application was under active consideration with strong indications that the original decision may be reversed due to fundamental legal error, though the final disposition is not fully captured in the truncated document.",
+  "winningSide": "Undetermined (application under consideration with leaning toward Plaintiff)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Atuguba, JSC.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Akuffo (Ms), JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa, JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Adinyira (Mrs), JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Owusu (Ms), JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Dotse, JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Bonnie, JSC",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional review",
+  "citations": [
+    "Article 133(1) of the 1992 Constitution",
+    "Rule 54 of the Supreme Court Rules, 1996 (C.I. 16)",
+    "Republic v Tetteh [2003-2004] SCGLR 140",
+    "Ellis Tamakloe v The Republic [J7A/1/2010] (20/1/2011)",
+    "Cordell v Second Clanfield Properties Ltd. (1968) 3 All ER 746",
+    "Edusei v Diners Club Suisse S.A (1982-83) 2 GLR 809",
+    "Duah v Yorkwa (1993-94) 1 GLR 217",
+    "Nimolgu v The Republic (1980) GLR 714",
+    "Swaniker v Adotei Twi II (1966) GLR 151",
+    "Tsatsu Tsikata (No. 2) v Attorney-General (No. 2) (2001-2002) SCGLR 620"
+  ],
+  "rationaleHighlights": [
+    "The court considered whether its prior decision excluding Article 20(5) and (6) from pre-1992 acquired land was per incuriam.",
+    "Article 20(5) and (6) apply to changes in use of property acquired before the 1992 Constitution if such change occurs after its enactment.",
+    "A decision that overlooks binding constitutional provisions or statutory language may be reviewed under Rule 54(a).",
+    "The court emphasized that vesting of public lands under Article 257(1) and (2) includes all state-acquired lands, regardless of acquisition date.",
+    "An absurd or palpably wrong decision constitutes a fundamental error warranting review."
+  ],
+  "confidenceNotes": "The document is a judgment from the Supreme Court of Ghana with clear judicial reasoning and citations. However, the text is truncated, particularly in the concluding section discussing the LA Wireless land's purpose, which may affect completeness.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/NII KPOBI TETTEY TSURU III  VRS THE ATTORNE GENERAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:00:44.382Z",
+    "plainTextLength": 63518
+  }
+}

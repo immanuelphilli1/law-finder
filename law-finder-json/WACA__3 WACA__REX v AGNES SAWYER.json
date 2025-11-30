@@ -1,0 +1,64 @@
+{
+  "caseTitle": "B. R. Lawrence v. The King (1933",
+  "summary": "In this 1937 West Africa Court of Appeal case, Agnes Sawyer appealed her conviction for perjury on two counts, arguing that the trial judge misdirected the jury by failing to instruct them that they must acquit if there was reasonable doubt. The trial judge had expressed disagreement with the guilty verdict, believing the evidence insufficient, and had summed up in favor of the accused. However, he omitted to clearly state that the benefit of any reasonable doubt should go to the accused. Relying on B.R. Lawrence v. The King (1933) A.C. 699, the appellate court held that such an omission constitutes a grave error, equivalent to misdirection, undermining the fundamental principle that prosecution must prove guilt beyond reasonable doubt. Since the trial judge himself doubted the conviction, it could not be said that a properly directed jury would have reached the same verdict. Consequently, the appeal was allowed, the convictions were quashed, and acquittals were entered.",
+  "legalKeywords": [
+    "perjury",
+    "reasonable doubt",
+    "jury instruction",
+    "misdirection",
+    "burden of proof",
+    "criminal appeal",
+    "acquittal",
+    "prosecution standard",
+    "fundamental error",
+    "appellate review"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Jury Trials",
+    "Legal Error"
+  ],
+  "verdict": "acquitted on appeal",
+  "winningSide": "appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal appeal",
+  "citations": [
+    "B.R. Lawrence v. The King [1933] A.C. 699"
+  ],
+  "rationaleHighlights": [
+    "The trial judge failed to instruct the jury that reasonable doubt requires acquittal.",
+    "The omission to direct on reasonable doubt is a grave error akin to active misdirection.",
+    "The trial judge himself believed the evidence insufficient for conviction.",
+    "The principle that the prosecution must prove guilt beyond reasonable doubt is fundamental.",
+    "A verdict without proper direction on this principle disregards essential forms of justice.",
+    "It cannot be presumed that a properly directed jury would have convicted.",
+    "Convictions were therefore unsafe and unjust."
+  ],
+  "confidenceNotes": "High confidence; details are clearly stated in the judgment, including the legal principle, error, and outcome.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/REX v AGNES SAWYER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:14:26.310Z",
+    "plainTextLength": 3492
+  },
+  "trialDate": "1937-03-13"
+}

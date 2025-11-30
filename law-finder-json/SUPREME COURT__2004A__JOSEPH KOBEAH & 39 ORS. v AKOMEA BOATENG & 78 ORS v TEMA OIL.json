@@ -1,0 +1,84 @@
+{
+  "caseTitle": "IN THE MATTER OF AN APPLICATION UNDER ARTICLE 33 OF THE CONSTITUTION 1992 A N D IN THE MATTER OF AN APPLICATION BY DANIEL AWUNI PER HIS NEXT FRIEND",
+  "summary": "This constitutional appeal arose from the West African Examinations Council's (WAEC) decision to cancel the SSSCE results of 13 students from Notre Dame Minor Seminary and impose a three-year examination ban for alleged foreknowledge and collusion in Mathematics (Core) Paper 2. The students, through their next friend, challenged the decision in the High Court, arguing it violated their fundamental rights under Articles 23 and 33(1) of the 1992 Constitution. The Court of Appeal dismissed the appeal on procedural grounds, but the Supreme Court allowed it, holding that WAEC's failure to afford the students an opportunity to be heard before imposing punitive measures breached the principles of natural justice and procedural fairness enshrined in the Constitution. The court emphasized that decisions affecting educational rights must follow fair procedures, and the use of an originating notice of motion was valid under Article 33 for enforcing fundamental rights. The sanctions were set aside due to lack of due process.",
+  "legalKeywords": [
+    "procedural fairness",
+    "fundamental human rights",
+    "examination malpractice",
+    "judicial review",
+    "constitutional remedy",
+    "rule of natural justice",
+    "right to fair hearing",
+    "WAEC regulations",
+    "student rights",
+    "administrative fairness",
+    "declaratory relief",
+    "public interest",
+    "due process",
+    "cancellation of results",
+    "three-year ban"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Education Law",
+    "Human Rights",
+    "Procedural Fairness"
+  ],
+  "verdict": "The appeal was allowed by the Supreme Court, which set aside the decision of the Court of Appeal and declared that WAEC's cancellation of the students' results and the three-year ban were unlawful due to lack of procedural fairness.",
+  "winningSide": "Appellants (Marian Awuni and others)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kpegah, J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Miss Akuffo, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Brobbey, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Dr. Twum, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Dr. Date-Bah, J.S.C.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Article 23, 1992 Constitution of Ghana",
+    "Article 33(1), 1992 Constitution of Ghana",
+    "West African Examinations Council Law, 1991 (PNDCL 225)",
+    "Order 54A, High Court (Civil Procedure) Rules",
+    "Order 54, Rule 15, High Court (Civil Procedure) Rules",
+    "Order 54, Rule 16, High Court (Civil Procedure) Rules",
+    "Order 54, Rule 18, High Court (Civil Procedure) Rules"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court emphasized that any decision affecting individual rights must comply with procedural fairness under the 1992 Constitution.",
+    "The Council's failure to allow appellants an opportunity to be heard before imposing sanctions violated Article 23.",
+    "The court found that the use of an originating notice of motion under Article 33(1) was appropriate for enforcing fundamental rights.",
+    "The headmaster's petition raised valid concerns about the lack of investigation into the claim of foreknowledge.",
+    "The Council's reliance on script scrutiny alone, without inviting representations, was deemed procedurally unfair.",
+    "The court held that examination results and the right to education engage fundamental human rights under the Constitution.",
+    "The appeal was allowed because the sanctions were imposed without affording the students natural justice."
+  ],
+  "confidenceNotes": "The case centers on constitutional rights and procedural fairness; citations are directly referenced in the judgment. Some procedural rules are cited by the respondent's counsel but are correctly contextualized by the court.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2004A/JOSEPH KOBEAH & 39 ORS. v AKOMEA BOATENG & 78 ORS v TEMA OIL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:33:48.920Z",
+    "plainTextLength": 520161
+  },
+  "trialDate": "2004-07-21"
+}

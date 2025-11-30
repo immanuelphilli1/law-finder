@@ -1,0 +1,76 @@
+{
+  "caseTitle": "THE REPUBLIC VRS HIGH COURT,COMMERCIAL DIVISION",
+  "summary": "The Supreme Court of Ghana dismissed an application by Double Crown Investment Ltd. to quash a High Court order varying a payment-by-installment arrangement. The original order, granted by Justice Kwofie as a vacation judge, allowed the debtor to pay a judgment debt in installments with a default clause. The creditor, Granada Hotel Ltd., found the order ambiguous and, after a review application was struck out due to Order 42 Rule 4 of the High Court (Civil Procedure) Rules 2004 (C.I. 47), filed a variation application before Justice Tanko Amadu. The Supreme Court held that Justice Amadu had jurisdiction to hear the variation, as no appeal was pending and the application was not a prohibited review. The court found that the variation did not exceed jurisdiction, as the core payment terms were affirmed and only the execution mechanism was clarified. The application was dismissed.",
+  "legalKeywords": [
+    "supervisory jurisdiction",
+    "stay of execution",
+    "variation of order",
+    "jurisdiction",
+    "consent judgment",
+    "default clause",
+    "High Court Civil Procedure Rules",
+    "Order 42 Rule 4",
+    "functus officio",
+    "judgment creditor",
+    "judgment debtor",
+    "vacation judge",
+    "ambiguity in court order",
+    "execution process",
+    "interlocutory appeal"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Judicial Jurisdiction",
+    "Execution of Judgment",
+    "Court Orders",
+    "Supervisory Jurisdiction"
+  ],
+  "verdict": "Application dismissed",
+  "winningSide": "High Court, Commercial Division and Granada Hotel Ltd.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Anin Yeboah",
+      "role": "authoring judge"
+    },
+    {
+      "name": "G. T. Wood (Mrs.)",
+      "role": "Chief Justice, concurring"
+    },
+    {
+      "name": "S. A. Brobbey",
+      "role": "Justice, concurring"
+    },
+    {
+      "name": "J. V. M. Dotse",
+      "role": "Justice, concurring"
+    },
+    {
+      "name": "P. Baffoe-Bonnie",
+      "role": "Justice, concurring"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "RE GM HOLDINGS LTD [1941] 3 ALL ER 417",
+    "GHANA NATIONAL TRADING CORPORATION VRS BAIDEN [1987-88] 2GLR 163 CA"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court held that Justice Tanko Amadu did not lack jurisdiction to vary the installment order, as no appeal was pending and the application was not a review under Order 42 Rule 4.",
+    "The variation sought by the creditor was for clarity and did not improperly alter the original order; the judge affirmed the payment terms but refused to allow execution without court leave.",
+    "The court distinguished RE GM HOLDINGS and GHANA NATIONAL TRADING CORPORATION, finding them inapplicable due to the absence of a pending appeal.",
+    "A judgment creditor may seek variation or clarification of an ambiguous order, analogous to a debtor's right to seek favorable terms."
+  ],
+  "confidenceNotes": "The ruling is clear and well-reasoned, with direct references to applicable rules and precedents. Jurisdictional analysis is thorough.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/THE REPUBLIC VRS HIGH COURT,COMMERCIAL DIVISION.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:58:29.805Z",
+    "plainTextLength": 10951
+  },
+  "trialDate": "2009-03-05"
+}

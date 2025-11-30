@@ -1,0 +1,79 @@
+{
+  "caseTitle": "WILLIAM BROWN v ATTORNEY-GENERAL MINISTER OF FINANCE CONTRO",
+  "summary": "In William Brown v Attorney-General, Minister of Finance & Controller and Accountant-General (2010), the plaintiff, a retired Deputy Auditor-General and President of the Audit Service Pensioners Association, challenged several financial practices affecting the Ghana Audit Service. He argued that the Minister of Finance’s review and downward adjustment of the Audit Service’s administrative estimates—including salaries, allowances, pensions, and gratuities—before submission to Parliament violated constitutional provisions guaranteeing financial autonomy. The Supreme Court held that under Articles 178(1)(a), 179(2)(b), 187(14), and 189(3) of the 1992 Constitution, administrative expenses of the Audit Service are a direct charge on the Consolidated Fund, determined solely by the Audit Service Board in consultation with the Public Services Commission, and are not subject to executive review, parliamentary approval, or budgetary ceilings. The Court further ruled that requiring financial clearance for recruitment or payroll placement was unconstitutional, and that paying pensions via the Social Security Fund instead of the Consolidated Fund violated the Constitution. The decision affirmed the financial independence of constitutionally established bodies essential to checks and balances.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "separation of powers",
+    "judicial independence",
+    "public finance",
+    "consolidated fund",
+    "administrative expenses",
+    "pension rights",
+    "executive overreach",
+    "audit service board",
+    "parliamentary approval",
+    "financial autonomy",
+    "rule of law",
+    "public service conditions",
+    "constitutional remedies",
+    "judicial review"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Public Finance",
+    "Judicial Independence",
+    "Administrative Law",
+    "Pension Rights"
+  ],
+  "verdict": "The Supreme Court granted declarations in favor of the plaintiff, holding that the Minister of Finance's review and reduction of the Audit Service's administrative estimates, submission of such estimates for parliamentary approval, imposition of budget ceilings, and payment of pensions through the Social Security Fund were unconstitutional.",
+  "winningSide": "Plaintiff (William Brown)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Wood (Mrs)",
+      "role": "Chief Justice (Presiding)"
+    },
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Owusu (Ms)",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Dotse",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "1992 Constitution of Ghana, Art. 178(1)(a)",
+    "1992 Constitution of Ghana, Art. 179(2)(b)",
+    "1992 Constitution of Ghana, Art. 187(14)",
+    "1992 Constitution of Ghana, Art. 189(2)",
+    "1992 Constitution of Ghana, Art. 189(3)"
+  ],
+  "rationaleHighlights": [
+    "Administrative expenses of the Audit Service under Article 187(14) are a direct charge on the Consolidated Fund and do not require parliamentary approval.",
+    "The Minister of Finance lacks constitutional authority to reduce or review downwards the Audit Service's administrative estimates.",
+    "Estimates laid before Parliament under Article 179(2) for charged expenditures are for information only, not subject to debate or approval.",
+    "The Audit Service Board, in consultation with the Public Services Commission, has exclusive authority to determine conditions of service including pensions.",
+    "Payment of Audit Service pensions through the Social Security Fund violates Article 187(14) which mandates payment from the Consolidated Fund."
+  ],
+  "confidenceNotes": "All information is derived directly from the court document with explicit reference to constitutional provisions and judicial reasoning. No external sources required.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2010/WILLIAM BROWN  v ATTORNEY-GENERAL MINISTER OF FINANCE CONTRO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:39:34.183Z",
+    "plainTextLength": 166905
+  }
+}

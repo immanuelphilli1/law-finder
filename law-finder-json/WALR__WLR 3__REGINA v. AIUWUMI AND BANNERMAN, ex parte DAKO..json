@@ -1,0 +1,69 @@
+{
+  "caseTitle": "REGINA VERSUS AIUWUMI",
+  "summary": "In Regina v. Aiuwumi and Bannerman, ex parte Dako, the applicant sought an extension of time under Supreme Court (Civil Procedure) Rules, 1954, Ord. 64, r. 6, to apply for certiorari or mandamus to challenge a District Magistrate's 1955 order authorizing the sale of his property by the Accra Municipal Council. The property was sold in 1956, and purchasers obtained a certificate of purchase. The applicant, out of time, applied in 1957 for relief. The court held that while Ord. 59, r. 3 imposes a six-month time limit for certiorari applications, the court retains power under Ord. 64, r. 6 to extend time unless a rule explicitly excludes such power. The marginal note referencing time limits for mandamus was deemed non-binding, and thus no time restriction applies to mandamus. The court granted the extension, emphasizing no injustice to the purchasers and the seriousness of the miscarriage of justice suffered by the applicant.",
+  "legalKeywords": [
+    "mandamus",
+    "certiorari",
+    "enlargement of time",
+    "Supreme Court Civil Procedure Rules 1954",
+    "Order 59 rule 3",
+    "Order 64 rule 6",
+    "time limit",
+    "judicial review",
+    "marginal note",
+    "miscarriage of justice",
+    "District Magistrate",
+    "Accra Municipal Council",
+    "extension of time",
+    "procedural fairness",
+    "Ghanaian procedural law",
+    "statutory interpretation",
+    "court discretion",
+    "land sale",
+    "procedural remedy",
+    "rule of court"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Civil Procedure",
+    "Judicial Review",
+    "Property Law",
+    "Legal Remedies"
+  ],
+  "verdict": "Application for enlargement of time granted",
+  "winningSide": "Applicant (Dako)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Windsor-Aubrey J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "Application for Judicial Review and Enlargement of Time",
+  "citations": [
+    "Supreme Court (Civil Procedure) Rules, 1954, Ord. 59, r. 3",
+    "Supreme Court (Civil Procedure) Rules, 1954, Ord. 64, r. 6",
+    "Atsiavishie and Others v. Tsili and Others, Land Court, Accra, June 7, 1955 (unreported)"
+  ],
+  "rationaleHighlights": [
+    "No time limit exists for mandamus applications despite marginal note; marginal notes are not binding.",
+    "Order 64, r. 6 allows time extension unless a rule explicitly excludes it.",
+    "Order 59, r. 3 does not exclude the operation of Order 64, r. 6.",
+    "Extension of time granted due to no prejudice to purchasers and evidence of miscarriage of justice.",
+    "The phrase 'Subject to any provisions to the contrary' in Ord. 64, r. 6 preserves its applicability unless expressly overridden.",
+    "The court rejected the argument that Ord. 64, r. 6 is redundant, affirming its functional purpose.",
+    "Distinction noted between Ghanaian and English procedural rules, with Ghana's rule being more limited.",
+    "Complexity of legal position and negligence by Municipal Council supported leniency in time extension."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and direct citation of rules. Some unreported references (e.g., Land Court ruling) limit external verification but are acknowledged within the judgment.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/REGINA v. AIUWUMI AND BANNERMAN, ex parte DAKO..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:55:30.101Z",
+    "plainTextLength": 9888
+  }
+}

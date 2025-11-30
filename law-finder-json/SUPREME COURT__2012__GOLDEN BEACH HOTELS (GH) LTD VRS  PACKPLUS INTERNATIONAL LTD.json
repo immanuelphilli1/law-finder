@@ -1,0 +1,86 @@
+{
+  "caseTitle": "GOLDEN BEACH HOTELS (GH) LTD VRS PACKPLUS INTERNATIONAL LTD",
+  "summary": "The Supreme Court of Ghana dismissed an application by Golden Beach Hotels (Gh) Ltd to suspend a Court of Appeal order or stay execution proceedings. The applicant sought relief after its appeal against a High Court decision—upholding an arbitral award in favor of Packplus International Ltd—was deemed out of time, leading the Court of Appeal to deny a stay of execution. The Supreme Court held that the applicant failed to demonstrate exceptional circumstances necessary to justify suspending lower court orders under Rule 20 of CI 16, especially where the underlying order was non-executable. The Court emphasized that mere risk of an appeal becoming nugatory is insufficient without proof of inability to restore the status quo, and stressed the need for stricter criteria for suspending proceedings compared to stays of execution.",
+  "legalKeywords": [
+    "stay of execution",
+    "suspension of judgment",
+    "arbitral award enforcement",
+    "Rule 20 CI 16",
+    "non-executable order",
+    "exceptional circumstances",
+    "nugatory appeal",
+    "interlocutory ruling",
+    "status quo ante",
+    "Supreme Court discretion",
+    "execution proceedings",
+    "garnishee proceedings",
+    "appeal out of time",
+    "Joseph v Jebeile",
+    "Standard Chartered Bank v Western Hardwood",
+    "Merchant Bank v Similar Ways",
+    "functional justice",
+    "purposive interpretation",
+    "judicial discretion",
+    "interim injunction"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Arbitration Law",
+    "Supreme Court Jurisprudence",
+    "Execution of Judgments",
+    "Appeals"
+  ],
+  "verdict": "Application dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. S.K. Date-Bah",
+      "role": "Presiding Justice delivering the ruling"
+    },
+    {
+      "name": "S.A.B. Akuffo",
+      "role": "Justice"
+    },
+    {
+      "name": "J. Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "P. Baffoe-Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "V. Akoto-Bamfo",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Motion",
+  "citations": [
+    "Merchant Bank Ghana Ltd. v Similar Ways Ltd. (Unreported, SC, 29th March 2011, Civil Motion J8/38/2011)",
+    "Standard Chartered Bank (Ghana) Ltd. v Western Hardwood Ltd. & Another [2009] SCGLR 196",
+    "Joseph v Jebeile & Anor [1963] 1 GLR 387",
+    "N.D.K. Financial Services Ltd. v Yiadom [2007-2008] SCGLR 93"
+  ],
+  "rationaleHighlights": [
+    "Application seeks to circumvent rule against stay of non-executable orders",
+    "Rule 20 of CI 16 allows stay of proceedings beyond execution, but requires exceptional circumstances",
+    "Risk of appeal being rendered nugatory must be proven on balance of probabilities",
+    "Distinction maintained between stay of execution and suspension of proceedings",
+    "Applicant failed to prove inability to recover funds if appeal succeeded",
+    "Interlocutory ruling appeal filed out of time",
+    "Need for 'nugatory effect plus more' test in suspension applications"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and cited authorities. All key elements including parties, procedural history, legal principles, and outcome are explicitly stated in the ruling.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/GOLDEN BEACH HOTELS (GH) LTD VRS  PACKPLUS INTERNATIONAL LTD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:32:28.342Z",
+    "plainTextLength": 13081
+  },
+  "trialDate": "2012-08-23"
+}

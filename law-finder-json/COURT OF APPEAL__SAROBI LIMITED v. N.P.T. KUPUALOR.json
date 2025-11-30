@@ -1,0 +1,74 @@
+{
+  "caseTitle": "SAROBI LIMITED v. N.P.T. KUPUALOR",
+  "summary": "This Court of Appeal decision from 2004 concerns an internal dispute within the Association of Building and Civil Contractors of Ghana (ABCCG). The plaintiff, Sarobi Limited, sought a declaration that the defendant, N.P.T. Kupualor, had overstayed his four-year term as National President, which expired on January 14, 2000, following his 1996 election. The plaintiff also sought ancillary reliefs including the appointment of an interim management committee, external auditors, and an election under the National Electoral Commission. The defendant challenged the suit's validity on grounds of non-compliance with the association’s arbitration clause under Article 37, arguing the matter was premature. However, the trial court dismissed the defendant’s motion to set aside the writ due to his unconditional appearance, which barred such a procedural challenge. The court then granted summary judgment in favor of the plaintiff. The defendant appealed on multiple grounds, but the appeal was ultimately dismissed due to procedural irregularities, including failure to properly file submissions and lack of engagement by counsel, rendering the appeal nebulous.",
+  "legalKeywords": [
+    "summary judgment",
+    "unconditional appearance",
+    "arbitration clause",
+    "internal association dispute",
+    "term of office expiration",
+    "procedural irregularity",
+    "Court of Appeal",
+    "Fast Track High Court",
+    "jurisdictional challenge",
+    "dismissal of appeal",
+    "affidavit in opposition",
+    "Order 14 Rule 1",
+    "Order 12 Rule 24",
+    "C.I. 19",
+    "L.N. 140A"
+  ],
+  "topics": [
+    "Corporate Governance",
+    "Procedural Law",
+    "Contractual Disputes",
+    "Judicial Review",
+    "Appeals"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Plaintiff/Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "R.C. Owusu",
+      "role": "Presiding Justice of Appeal"
+    },
+    {
+      "name": "P.K. Owusu-Ansah",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "S.Y. Anim",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Sarobi Limited v. N.P.T. Kupualor [12/3/2004] H3/123/2004",
+    "Order 14 Rule 1, High Court (Civil Procedure) Rules, L.N. 140A",
+    "Order 12 Rule 24, L.N. 140A",
+    "C.I. 19 (Court of Appeal Rules, 1997)"
+  ],
+  "rationaleHighlights": [
+    "Defendant's unconditional appearance barred a subsequent motion to set aside the writ under Order 12 Rule 24.",
+    "The trial court correctly exercised jurisdiction despite the arbitration clause in the association's constitution.",
+    "Summary judgment was appropriate due to lack of genuine defence by the defendant.",
+    "The appeal was procedurally defective due to non-compliance with C.I. 19 Rule 20(1).",
+    "Counsel's failure to rectify filing anomalies rendered the appeal nebulous.",
+    "The court emphasized procedural discipline in appellate practice.",
+    "Internal association governance disputes are justiciable when constitutional terms are breached.",
+    "Failure to serve hearing notices and attend proceedings contributed to dismissal."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on explicit details in the judgment, including dates, procedural rules, and judicial reasoning. All extracted information is directly supported by the text.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/SAROBI LIMITED v. N.P.T. KUPUALOR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:04:08.986Z",
+    "plainTextLength": 7119
+  },
+  "trialDate": "2004-03-12"
+}

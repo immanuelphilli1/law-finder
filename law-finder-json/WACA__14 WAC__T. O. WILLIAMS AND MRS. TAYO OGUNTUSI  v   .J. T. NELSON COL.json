@@ -1,0 +1,71 @@
+{
+  "caseTitle": "T. O. WILLIAMS AND MRS. TAYO OGUNTUSI v .J. T. NELSON COL",
+  "summary": "In this West African Court of Appeal case, the appellants—children of the original mortgagor—sued the executors of P. H. Williams, who had taken possession of mortgaged property after a failed sale to a bank. The mortgagee's executors had auctioned the property to the bank for £750 but executed no conveyance, and the bank never took possession. After the bank's liquidation, its liquidators settled a claim against the mortgagee’s executors for £400. P. H. Williams, a director of the bank and executor, later claimed title and took possession. The court held that the sale to the bank was ineffective to extinguish the mortgagor's equity of redemption, as no conveyance occurred and possession was not transferred. The appeal was allowed, and judgment for possession was granted to the appellants as against Williams’ executors, though no declaration of title was issued since the mortgagee's estate was not a party. The court emphasized that the legal estate remained in the mortgagee’s estate and that Williams’ possession was unjustified.",
+  "legalKeywords": [
+    "equity of redemption",
+    "power of sale",
+    "mortgage",
+    "conveyance",
+    "possession",
+    "executor",
+    "breach of trust",
+    "liquidation",
+    "estoppel",
+    "legal estate",
+    "fiduciary duty",
+    "sale at auction",
+    "title claim",
+    "undue advantage",
+    "property rights"
+  ],
+  "topics": [
+    "Property Law",
+    "Mortgage Law",
+    "Succession and Executors",
+    "Equity and Trusts",
+    "Possession and Title"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Foster-Sutton",
+      "role": "President"
+    },
+    {
+      "name": "De Comarmond",
+      "role": "Acting Chief Justice (Nigeria)"
+    },
+    {
+      "name": "Coussey",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "WACA/14 WAC/T. O. WILLIAMS AND MRS. TAYO OGUNTUSI v J. T. NELSON COLE"
+  ],
+  "rationaleHighlights": [
+    "No conveyance or possession transfer to the bank invalidated the sale.",
+    "The sale was effectively rescinded by the settlement with the bank's liquidators.",
+    "P. H. Williams, as executor and bank director, breached his fiduciary duty.",
+    "The equity of redemption was not extinguished due to invalid sale.",
+    "The appellants had a superior right to possession against Williams' estate.",
+    "The legal estate remained in the mortgagee's estate.",
+    "No estoppel applied as the appellants’ interest was not legally barred.",
+    "The court could not grant a declaration of title absent the mortgagee's estate as a party."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text with clear factual and legal reasoning provided by the court.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/T. O. WILLIAMS AND MRS. TAYO OGUNTUSI  v   .J. T. NELSON COL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:31:26.369Z",
+    "plainTextLength": 8475
+  },
+  "trialDate": "1952-06-09"
+}

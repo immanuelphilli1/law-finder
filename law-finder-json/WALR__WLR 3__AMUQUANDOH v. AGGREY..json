@@ -1,0 +1,60 @@
+{
+  "caseTitle": "AMUQUANDOH VERSUS AGGREY.",
+  "summary": "In Amuquandoh v. Aggrey, the plaintiff sought to recover rent for the defendant's prior use and occupation of land, following earlier litigation where the plaintiff successfully obtained a declaration of title and damages for trespass. The defendant had occupied the land adversely and without permission. The High Court held that an action for use and occupation is founded on contract—either express or implied—and cannot lie where the defendant's possession was adverse or as a trespasser. Citing Churchward v. Ford, Phillips v. Homfray, and Attorney-General v. De Keyser's Royal Hotel, the court ruled that no implied contract arises from wrongful occupation, and thus the plaintiff's claim failed. The statement of claim was struck out for disclosing no cause of action.",
+  "legalKeywords": [
+    "landlord and tenant",
+    "use and occupation",
+    "adverse possession",
+    "implied contract",
+    "trespass",
+    "cause of action",
+    "statement of claim",
+    "rent recovery",
+    "land ownership",
+    "civil wrong"
+  ],
+  "topics": [
+    "Land Law",
+    "Contract Implied by Law",
+    "Tort of Trespass",
+    "Civil Procedure",
+    "Adverse Possession"
+  ],
+  "verdict": "The statement of claim was struck out for disclosing no cause of action.",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adumua-Bossman J",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Central Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Churchward v. Ford (1857) 2 H. & N. 446",
+    "Hellier v. Silcox (1850) 19 L.J.Q.B. 295",
+    "Phillips v. Homfray (1883) 24 Ch.D. 439",
+    "Attorney-General v. De Keyser's Royal Hotel [1920] A.C. 508"
+  ],
+  "rationaleHighlights": [
+    "Action for use and occupation requires an agreement, express or implied, between plaintiff and defendant.",
+    "Adverse possession negates the existence of a contract.",
+    "Trespasser cannot be deemed a tenant at will by implication.",
+    "Implied contract does not arise where occupation is wrongful or under adverse title.",
+    "Waiving trespass does not create an imaginary contract.",
+    "Plaintiff must prove defendant was in possession with permission to support use and occupation claim.",
+    "Previous litigation established plaintiff's title, confirming defendant's prior adverse possession.",
+    "Statement of claim discloses no cause of action where occupation was adverse."
+  ],
+  "confidenceNotes": "High confidence; the judgment is clear and directly addresses the legal issue with authoritative citations.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/AMUQUANDOH v. AGGREY..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:16:15.337Z",
+    "plainTextLength": 5473
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "caseTitle": "GIHOC REFRIGERATION & HOUSEHOLD v JEAN HANNA ASSI",
+  "summary": "This Supreme Court of Ghana civil appeal arose from a land ownership dispute over Plot No. 19, Ring Road Industrial Area, Kaneshie, Accra. The Respondent, Jean Hanna Assi, claimed ownership of the land, supported by Land Title Certificate No. GA 8570, and argued that although his company, General Cold Industry Ltd., was confiscated in 1979 and 1982, the land itself was never legally confiscated. The Appellant, GIHOC Refrigeration & Household Products Ltd., claimed adverse possession. The trial judge found for the Respondent, declaring his title indefeasible under PNDCL 152. While the majority dismissed the substantive appeal, Justice Akuffo (dissenting on the cross-appeal) held that the trial court had jurisdiction to grant a declaration of title and recovery of possession even without a formal counterclaim, citing Order 63 Rule 6 of the old Civil Procedure Rules and the modern emphasis on achieving substantive justice under C.I. 47. She argued that requiring a separate action would cause unnecessary expense and multiplicity of proceedings, contrary to judicial reform goals.",
+  "legalKeywords": [
+    "land title",
+    "indefeasibility of title",
+    "adverse possession",
+    "procedural justice",
+    "burden of proof",
+    "civil procedure",
+    "Land Title Registration Law",
+    "Evidence Decree",
+    "declaration of title",
+    "recovery of possession",
+    "cross-appeal",
+    "judicial reform",
+    "procedural technicality",
+    "ownership dispute",
+    "confiscation",
+    "GIHOC",
+    "Divestiture Implementation Committee",
+    "proprietary rights",
+    "registered proprietor",
+    "preponderance of probabilities"
+  ],
+  "topics": [
+    "Property Law",
+    "Civil Procedure",
+    "Land Registration",
+    "Judicial Review",
+    "Constitutional Law"
+  ],
+  "verdict": "Substantive appeal dismissed; cross-appeal dismissed by majority, but Justice Akuffo dissented in favor of allowing it.",
+  "winningSide": "Appellant (on main appeal), but partial dissent on cross-appeal favored Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Akuffo (Ms)",
+      "role": "Justice"
+    },
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "Prof. Ocran",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Aninakwa",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "PNDCL 152",
+    "NRCD 323",
+    "Odametey v. Clocuh [1989-90] 1 GLR 14",
+    "Odonkor v. Amartei [1992-93] GBR 59",
+    "Tuakwa v. Bosom [2001-2002] SCGLR 61",
+    "In Re Coles and Ravenshear, [1907] 1 KB 1"
+  ],
+  "rationaleHighlights": [
+    "The Respondent's title to the land was indefeasible under Section 43(1) of PNDCL 152, as confirmed by Land Title Certificate No. GA 8570.",
+    "The trial judge had jurisdiction to grant declaratory and possessory reliefs despite absence of formal counterclaim, based on evidence and issues tried.",
+    "Order 63 Rule 6 of the former High Court (Civil Procedure) Rules empowered courts to grant necessary relief for justice, even if not specifically claimed.",
+    "The principle that a party must recover land by strength of own case, not weakness of opponent’s, has been superseded by NRCD 323’s burden of proof standards.",
+    "Denying the cross-appeal undermines judicial efficiency and contradicts the policy of Order 1 Rule 2, C.I. 47, to ensure complete and final determination of disputes."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official Supreme Court judgment text and citation of statutory provisions and case law.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2006A/GIHOC REFRIGERATION & HOUSEHOLD v JEAN HANNA ASSI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T18:04:07.358Z",
+    "plainTextLength": 70282
+  },
+  "trialDate": "2005-11-04"
+}

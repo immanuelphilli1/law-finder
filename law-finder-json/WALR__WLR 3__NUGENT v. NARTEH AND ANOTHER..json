@@ -1,0 +1,57 @@
+{
+  "caseTitle": "NUGENT VERSUS NARTEH AND ANOTHER.",
+  "summary": "In NUGENT v. NARTEH AND ANOTHER, the plaintiff, Robert William Nugent, claimed that a house in Accra built with proceeds from the sale of a property belonging to Sarah Idun (a member of her family) was family property and could not be disposed of by the will of James Alexander Williams, Sarah Idun's sole surviving maternal uncle and administrator of her estate. The court held that while the Accra house became family property due to funding from Sarah Idun’s estate, the plaintiff failed to prove that he represented Sarah Idun’s family or had authority to sue on its behalf. It was established that Sarah Idun died intestate without issue or maternal relatives except Williams, and her family was traced through her maternal grandmother, which was not shown to be the Bernasko family. Since the plaintiff lacked locus standi and no evidence linked him to Sarah Idun’s lineage or appointment as successor, the claim was dismissed with costs awarded to the defendants.",
+  "legalKeywords": [
+    "intestate succession",
+    "family property",
+    "self-acquired property",
+    "customary law",
+    "locus standi",
+    "letters of administration",
+    "life interest",
+    "property disposition",
+    "maternal lineage",
+    "successor appointment"
+  ],
+  "topics": [
+    "Succession Law",
+    "Family Law",
+    "Property Law",
+    "Customary Law",
+    "Legal Standing"
+  ],
+  "verdict": "dismissed",
+  "winningSide": "defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Acolatse J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Action for Declaration",
+  "citations": [
+    "WALR/WLR 3/NUGENT v. NARTEH AND ANOTHER."
+  ],
+  "rationaleHighlights": [
+    "The Accra house became family property because it was built with funds from the sale of Sarah Idun's self-acquired property, which became family property upon her death.",
+    "Under Fanti customary law, Sarah Idun's family for succession purposes is traced through her maternal grandmother, not the Bernasko family.",
+    "James Alexander Williams, as sole surviving maternal uncle, had a life interest in the family property and could manage it but not fully own it.",
+    "Williams used proceeds from the sale of the Cape Coast house to build on his own land, but the new property took on the character of family property.",
+    "The plaintiff failed to prove membership in or authorization from Sarah Idun's family, lacking locus standi to bring the action.",
+    "The authorization from the head of the Bernasko family did not extend to representing Sarah Idun’s distinct family.",
+    "No evidence showed the plaintiff was appointed successor to Williams or recognized by Sarah Idun’s family.",
+    "The action was dismissed due to lack of legal standing, not on the merits of the property claim."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text with clear factual and legal reasoning provided by the presiding judge.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/NUGENT v. NARTEH AND ANOTHER..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:01:05.067Z",
+    "plainTextLength": 8007
+  }
+}

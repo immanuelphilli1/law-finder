@@ -1,0 +1,72 @@
+{
+  "caseTitle": "OMANHENE KOBINA FOLI",
+  "summary": "This Privy Council appeal arose from a land and boundary dispute between Omanhene Kobina Foli of Adansi and Chief Obeng Akesse of Okyereso in the Gold Coast Colony (now Ghana). The dispute centered on a semi-circular tract of land adjacent to the River Prah. After initial proceedings in the Chief Commissioner's Court and an appeal to the Supreme Court, the Full Court ordered a survey and referred the matter to arbitration before Mr. Justice Hall. The arbitrator awarded three-fourths of the disputed land to the respondent based on a 'fair demarcation' using factors like occupation and a fetish site, rather than determining an existing boundary by title. The appellant challenged the award, arguing excess of jurisdiction. The Privy Council held that the arbitrator had misconceived his duty by creating a new boundary instead of finding the existing one, thus acting beyond his jurisdiction (ultra vires). The award was set aside, the West African Court of Appeal's decision was reversed, and the case was remitted for further proceedings.",
+  "legalKeywords": [
+    "arbitration",
+    "boundary dispute",
+    "land ownership",
+    "ultra vires",
+    "misconduct in arbitration",
+    "title to land",
+    "possession and occupation",
+    "traditional evidence",
+    "reference to arbitrator",
+    "award setting aside",
+    "jurisdictional error",
+    "perverseness",
+    "Supreme Court Ordinance",
+    "West African Court of Appeal",
+    "Gold Coast Colony"
+  ],
+  "topics": [
+    "Land Law",
+    "Arbitration Law",
+    "Constitutional Jurisdiction",
+    "Customary Law",
+    "Appellate Procedure"
+  ],
+  "verdict": "The appeal was allowed. The award of 31st January 1930 was set aside, and the case was remitted to the West African Court of Appeal.",
+  "winningSide": "Appellant (Omanhene Kobina Foli)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lord Thankerton",
+      "role": "Delivered Judgment"
+    },
+    {
+      "name": "Sir Lancelot Sanderson",
+      "role": "Member"
+    },
+    {
+      "name": "Sir Sidney Rowlatt",
+      "role": "Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Privy Council (on appeal from West African Court of Appeal)",
+    "country": "Ghana (Gold Coast Colony)"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Privy Council Appeal No. 76 of 1931",
+    "1 W.A.C.A., p. 1",
+    "Ashanti Administration Ordinance (No. I of 1902, 1920 Revision)",
+    "Supreme Court Ordinance, Order 52, Schedule 2",
+    "Rule 6, Schedule 3, Supreme Court Ordinance"
+  ],
+  "rationaleHighlights": [
+    "The order of reference to arbitration was valid under the Supreme Court Ordinance as appeals from the Chief Commissioner's Court were treated as from the Supreme Court.",
+    "The arbitrator exceeded jurisdiction by creating a new boundary based on fairness rather than determining an existing boundary based on title.",
+    "Occupation of small, scattered portions of land was insufficient to establish title to the entire disputed area.",
+    "The fetish site and road/toll evidence were not determinative of an existing boundary line.",
+    "The award was set aside because the arbitrator acted ultra vires, not because of perverseness or misconduct per se."
+  ],
+  "confidenceNotes": "All information is derived directly from the provided judgment text. Dates, legal provisions, and procedural history are explicitly stated.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/OMANHENE KOBINA FOLI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:22:55.159Z",
+    "plainTextLength": 15065
+  },
+  "trialDate": "1930-05-12"
+}

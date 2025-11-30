@@ -1,0 +1,74 @@
+{
+  "caseTitle": "FELIX YAW BANI VRS MAERSK GHANA LIMITED CIVIL APPEAL",
+  "summary": "In Felix Yaw Bani v. Maersk Ghana Limited, the Supreme Court of Ghana reviewed the termination of an Inland Container Depot officer who was dismissed following an internal investigation into his failure to prevent an unauthorized third-party truck from entering company premises. Although the investigative subcommittee found he was aware of the breach in July 2006 but not in August, and while two other employees involved received only warnings, Bani was terminated without observance of the 30-day notice period stipulated in the collective bargaining agreement. The High Court dismissed his claim, but the Court of Appeal awarded three months’ salary for procedural non-compliance. The Supreme Court upheld this compensation, affirming that while termination was procedurally flawed due to lack of notice under Clause 40 of the agreement, reinstatement could not be ordered under Ghanaian common law, which does not allow specific performance of employment contracts. The Court also acknowledged that issues of an inquiry committee’s jurisdiction can be raised on appeal but found no basis to declare the termination null. The decision underscores the importance of procedural fairness and adherence to collective agreements in employment law.",
+  "legalKeywords": [
+    "termination of employment",
+    "wrongful dismissal",
+    "unfair termination",
+    "collective bargaining agreement",
+    "summary dismissal",
+    "disciplinary procedures",
+    "reinstatement",
+    "compensation",
+    "labour law",
+    "due process",
+    "procedural fairness",
+    "employee rights",
+    "employer obligations",
+    "Labour Act 2003 (Act 651)",
+    "contract of employment"
+  ],
+  "topics": [
+    "Employment Law",
+    "Labour Rights",
+    "Judicial Review"
+  ],
+  "verdict": "Appeal dismissed; compensation upheld for procedural breach in termination process.",
+  "winningSide": "Maersk Ghana Limited (respondent)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "Aryeetey",
+      "role": "Justice"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs.)",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "employment law",
+  "citations": [
+    "Kobi vrs Ghana National Manganese Company Limited (2007-2008) 2 SCGLR 771",
+    "Lt. Col. Ashun v Accra Brewery Ltd. [2009] SCGLR 81"
+  ],
+  "rationaleHighlights": [
+    "The termination violated the collective bargaining agreement's 30-day notice requirement, constituting a procedural breach.",
+    "The Supreme Court upheld the Court of Appeal’s award of three months’ salary as compensation for non-compliance with notice provisions.",
+    "Reinstatement was not granted due to the common law principle against specific performance of employment contracts.",
+    "The Court emphasized that findings of an investigative committee lacking proper mandate may be null and void, but did not overturn the termination on this basis in this instance.",
+    "Disparity in punishment (termination vs. warnings for others) raised concerns about fairness, but was not deemed sufficient to invalidate the decision."
+  ],
+  "confidenceNotes": "The case details are drawn directly from a Supreme Court of Ghana judgment with clear procedural and substantive legal analysis. All key facts, legal provisions, and judicial reasoning are explicitly stated in the source.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/FELIX YAW BANI VRS MAERSK GHANA LIMITED CIVIL  APPEAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:05:49.845Z",
+    "plainTextLength": 33482
+  }
+}

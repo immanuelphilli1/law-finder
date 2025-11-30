@@ -1,0 +1,64 @@
+{
+  "caseTitle": "AWADZI AND ANOTHER VERSUS ADZONU AND OTHERS.",
+  "summary": "The Court of Appeal dismissed an appeal from the Land Court, Eastern Judicial Division, in a land case originally heard by a Native Court. In doing so, van Lare J.A. addressed procedural concerns regarding the Native Court's visit to the locus in quo. The court criticized the practice where a judge descended into the witness box to give an oath-bound report of the inspection, making them subject to cross-examination. It emphasized that judges should not become witnesses to preserve impartiality, citing Keteku v. Dzogbenuku with approval. Instead, a written report of the inspection should be attached to the record. The court recommended that Native Courts adopt the practice in R. v. Dogbe, where the court visits the site with parties and counsel, witnesses identify features on-site, and only those witnesses (not judges) later testify under oath about their observations.",
+  "legalKeywords": [
+    "Native Courts",
+    "locus in quo",
+    "court visit",
+    "procedural practice",
+    "judicial inspection",
+    "Land Court",
+    "witness testimony",
+    "cross-examination",
+    "judicial impartiality",
+    "customary law",
+    "court procedure",
+    "appeal dismissal"
+  ],
+  "topics": [
+    "Judicial Procedure",
+    "Land Law",
+    "Native Courts",
+    "Evidence",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondents (Adzonu and others)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Korsah C.J."
+    },
+    {
+      "name": "van Lare J.A.",
+      "role": "author of procedural comments"
+    },
+    {
+      "name": "Granville Sharp J.A."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Keteku and Others v. Dzogbenuku and Others (1956) 1 W.A.L.R. 134",
+    "R. v. Dogbe (1947) 12 W.A.C.A. 184"
+  ],
+  "rationaleHighlights": [
+    "Full panel attendance during locus inspection is desirable",
+    "Judges should not act as witnesses to avoid conflict of interest",
+    "Written report of inspection suffices; oath and testimony are unnecessary",
+    "Cross-examination of judges undermines judicial impartiality",
+    "Recommended adoption of R. v. Dogbe practice for inspections",
+    "Native custom permitting judicial testimony is disapproved"
+  ],
+  "confidenceNotes": "The source document is a published law report from the West African Law Reports, indicating high reliability. The court's remarks are clearly attributed and cited.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/AWADZI AND ANOTHER v. ADZONU AND OTHERS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:11:28.481Z",
+    "plainTextLength": 3660
+  }
+}

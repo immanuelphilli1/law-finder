@@ -1,0 +1,63 @@
+{
+  "caseTitle": "RANSFORD FRANCE VRS ELECTORAL COMMISSION, ATTORNEY GENERAL 2",
+  "summary": "In this 2012 Supreme Court of Ghana ruling, the applicant sought interlocutory injunctions to restrain Parliament and the Electoral Commission from considering or implementing the Representation of the People (Parliamentary Constituencies) Instrument, C.I. 78 (replacing C.I. 73), pending the determination of a substantive constitutional challenge. The court, per Justice Ansa JSC, dismissed the application. It held that courts cannot issue injunctions interfering with parliamentary proceedings due to constitutional separation of powers, citing Tuffour v Attorney-General. Regarding the Electoral Commission, the court applied established principles for interlocutory relief—serious question to be tried, irreparable harm, and balance of convenience—and found that halting electoral preparations would cause greater public harm than any private benefit to the applicant. The court emphasized judicial restraint in public law matters and noted that the validity of C.I. 78 would be determined in the main suit. The application was dismissed as neither just nor convenient.",
+  "legalKeywords": [
+    "interlocutory injunction",
+    "constitutional instrument",
+    "Electoral Commission",
+    "Parliament",
+    "judicial restraint",
+    "public law",
+    "separation of powers",
+    "irreparable damage",
+    "balance of convenience",
+    "Article 47 Constitution",
+    "Article 91 Constitution",
+    "judicial review",
+    "procedural fairness",
+    "electoral boundaries",
+    "constitutional validity"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Electoral Law",
+    "Judicial Review",
+    "Injunctions",
+    "Separation of Powers"
+  ],
+  "verdict": "Application for interlocutory injunction dismissed.",
+  "winningSide": "Defendants (Electoral Commission and Attorney General)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "J. Ansa JSC",
+      "role": "Presiding Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Tuffour v Attorney-General [1980 GLR] 637",
+    "Republic v High Court (Fast Track Division) Accra; Ex Parte Ghana Lotto Operators Association [2009] SCGLR 372",
+    "Wellford Quarcoo v Attorney General and another (unreported), Writ No. JI/6/2012, SC, 13th June 2012",
+    "Attorney-General v Commission on Human Rights and Administrative Justice [1999-2000] I GLR 358",
+    "Amoah v West African Examination Council [1971] 1GLR 63"
+  ],
+  "rationaleHighlights": [
+    "Interlocutory injunctions require: serious question to be tried, irreparable harm, and balance of convenience favoring applicant.",
+    "Courts must exercise caution in granting injunctions against public bodies exercising statutory discretion.",
+    "Parliamentary proceedings are privileged from judicial interference.",
+    "Granting the injunction would disrupt national elections, causing greater public harm than private benefit.",
+    "Validity of CI 78 to be determined in substantive suit, not at interlocutory stage."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct quotes from the judgment and standard legal principles applied in Ghanaian constitutional law.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/RANSFORD FRANCE   VRS ELECTORAL COMMISSION, ATTORNEY GENERAL  2.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:22:46.731Z",
+    "plainTextLength": 11633
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "caseTitle": "C F C CONSTRUCTION COMPANY (WA) LTD v RAMSOM DIVINE ATTITSO",
+  "summary": "This 2006 Supreme Court of Ghana decision in C F C Construction Company (WA) Ltd v Ramsom Divine Attitsogbe addresses issues of undue influence, fiduciary duty, and share transfer in the context of unequal bargaining power. The case involved a widow, Rita Read, who was the sole shareholder of a construction company and allegedly transferred 5% of her shares to the defendant, who had become her trustee and managed both her personal affairs and the company. The trial and appellate courts found that a fiduciary relationship existed and that there was a presumption of undue influence due to the defendant's dominant position and the plaintiff's vulnerability. The Supreme Court upheld the lower courts' findings, affirming that the share transfer was voidable due to undue influence and that the defendant was not a legitimate shareholder. The court also dismissed the defendant's counterclaim for remuneration, emphasizing the lack of independent advice and the exploitative nature of the transaction.",
+  "legalKeywords": [
+    "undue influence",
+    "fiduciary relationship",
+    "share transfer",
+    "inequality of bargaining power",
+    "presumption of undue influence",
+    "vulnerable adult",
+    "directors' duties",
+    "Companies Code 1963 (Act 179)",
+    "voidable transaction",
+    "elderly protection",
+    "trustee duties",
+    "corporate governance",
+    "shareholder rights",
+    "burden of proof",
+    "independent legal advice"
+  ],
+  "topics": [
+    "Corporate Law",
+    "Equity and Trusts",
+    "Civil Procedure",
+    "Family and Elder Law",
+    "Commercial Litigation"
+  ],
+  "verdict": "The Supreme Court upheld the decisions of the lower courts, ruling that the share transfer was invalid due to undue influence and that the defendant was not a shareholder.",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Delivered the unanimous judgment"
+    },
+    {
+      "name": "Akuffo (Ms)",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Dr. Twum",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Prof. Ocran",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Aninakwa",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Companies Code, 1963 (Act 179)",
+    "Section 185(2)"
+  ],
+  "rationaleHighlights": [
+    "A fiduciary relationship existed between the defendant and the elderly plaintiff, creating a presumption of undue influence.",
+    "The defendant admitted the plaintiff was completely reliant on him, strengthening the presumption.",
+    "The absence of independent legal advice supported the finding of undue influence.",
+    "The share transfer was voidable due to the imbalance of power and trust.",
+    "The Supreme Court deferred to concurrent findings of fact by lower courts.",
+    "The defendant's counterclaim for remuneration was dismissed due to lack of valid contractual basis.",
+    "The court emphasized protection of vulnerable individuals in contractual and corporate dealings.",
+    "The photograph inscription reinforced the personal and confidential nature of the relationship."
+  ],
+  "confidenceNotes": "The summary is based on a truncated document; however, all key legal issues, holdings, and judicial reasoning are present in the available text. The outcome and rationale are clearly stated in the judgment delivered by Dr. Date-Bah, J.S.C.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2006A/C F C CONSTRUCTION COMPANY (WA) LTD  v RAMSOM DIVINE ATTITSO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T18:05:35.005Z",
+    "plainTextLength": 46306
+  },
+  "trialDate": "2006-03-08"
+}

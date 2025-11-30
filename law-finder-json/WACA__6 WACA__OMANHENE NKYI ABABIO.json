@@ -1,0 +1,67 @@
+{
+  "caseTitle": "OMANHENE NKYI ABABIO",
+  "summary": "This 1940 West Africa Court of Appeal decision addressed a land dispute transferred from the State Council to the Divisional Court in the Gold Coast (now Ghana). The court held that the State Council lacked jurisdiction under Section 48 of the Native Administration Ordinance, which vested original jurisdiction in the Paramount Chief's Tribunal. However, the Provincial Commissioner validly transferred the case under Section 75, enabling the Divisional Court to exercise its statutory jurisdiction under Section 14 of the Courts Ordinance, despite Section 17 restricting such exercise. The appeal was dismissed with a directive that the lower court must fully apply Schedule III Order 26, allowing necessary amendments to pleadings to reflect the true nature of the claim, even if altering the capacity in which parties sue. The court overruled the obiter dictum in Malm v. Wulff that had restricted such amendments, affirming that court rules must prevail.",
+  "legalKeywords": [
+    "jurisdiction",
+    "transfer of case",
+    "Native Administration Ordinance",
+    "Courts Ordinance",
+    "Divisional Court",
+    "State Council",
+    "Paramount Chief's Tribunal",
+    "amendment of pleadings",
+    "Schedule III Order 26",
+    "obiter dictum",
+    "land dispute",
+    "native custom",
+    "writ of summons",
+    "civil cause",
+    "Provincial Commissioner"
+  ],
+  "topics": [
+    "Jurisdiction",
+    "Appellate Procedure",
+    "Land Law",
+    "Native Customary Law",
+    "Pleadings and Amendments"
+  ],
+  "verdict": "Appeal dismissed with a direction to give full effect to Schedule III Order 26 regarding amendments.",
+  "winningSide": "Plaintiff-Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Graham Paul",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Cor. Kingdon",
+      "role": "Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Malm v. Wulff (III W.A.C.A. 232)"
+  ],
+  "rationaleHighlights": [
+    "The State Council lacked jurisdiction; only the Paramount Chief's Tribunal could hear the claim under Section 48.",
+    "The Divisional Court possesses jurisdiction under Section 14 of the Courts Ordinance but cannot exercise it unless transferred via Section 75.",
+    "Transfer by the Provincial Commissioner enables the Divisional Court to exercise its pre-existing statutory jurisdiction.",
+    "Schedule III Order 26 mandates liberal amendment of pleadings to reflect the real issue, even if it changes the capacity of parties.",
+    "Malm v. Wulff's obiter dictum on amendment restrictions is overruled as inconsistent with court rules."
+  ],
+  "confidenceNotes": "High confidence in extracted details due to clear judicial reasoning and explicit statutory references. Truncation of source text does not affect key holdings or jurisdictional analysis.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/OMANHENE NKYI ABABIO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:00:10.994Z",
+    "plainTextLength": 18610
+  }
+}

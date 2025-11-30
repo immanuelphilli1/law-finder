@@ -1,0 +1,77 @@
+{
+  "caseTitle": "REPUBLIC VRS NATIONAL HOUSE OF CHIEFS KUMASI ---",
+  "summary": "The Supreme Court of Ghana dismissed an application by Odeneho Akrofa Krukoko II for an interlocutory injunction to prevent Osagyefo Kwamena Enimil VI from holding himself out as the Omanhene of Wassa Fiasse Traditional Area and as a member of the Western Region and National Houses of Chiefs. The applicant had been destooled in 2002 after being imprisoned for contempt of court, and Enimil VI was subsequently enstooled. A 2010 judgment by the Western Regional House of Chiefs, which was not appealed, confirmed the applicant's destoolment and barred him from acting as Omanhene. The Supreme Court held that this judgment constituted res judicata and gave the interested party a prima facie right to the position. The court also emphasized the equitable principle that relief should not be granted to those who delay unreasonably, noting the applicant only sought relief over ten years after his destoolment. The application was dismissed on these grounds.",
+  "legalKeywords": [
+    "interlocutory injunction",
+    "res judicata",
+    "chieftaincy dispute",
+    "destoolment",
+    "prima facie right",
+    "equitable remedy",
+    "jurisdiction",
+    "subsisting judgment",
+    "Western Regional House of Chiefs",
+    "National House of Chiefs",
+    "Omanhene",
+    "contempt of court",
+    "enstoolment",
+    "privity",
+    "equity"
+  ],
+  "topics": [
+    "Chieftaincy Law",
+    "Constitutional Law",
+    "Injunctions",
+    "Res Judicata",
+    "Judicial Review"
+  ],
+  "verdict": "Application dismissed",
+  "winningSide": "Respondent and Interested Party",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "W. A. Atuguba",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "S. O. A. Adinyira (Mrs.)",
+      "role": "Justice"
+    },
+    {
+      "name": "P. Baffoe-Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "N. S. Gbadegbe",
+      "role": "Justice"
+    },
+    {
+      "name": "V. Akoto-Bamfo (Mrs.)",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Motion",
+  "citations": [
+    "Otu v. Owuodzi (1987-88) 1 GLR 196 S.C.",
+    "Luganda v. Service Hotels Ltd (1969) 2 All ER 692 C.A."
+  ],
+  "rationaleHighlights": [
+    "The 2010 judgment of the Western Regional House of Chiefs was valid and subsisting, constituting res judicata against the applicant.",
+    "The applicant failed to appeal the 2010 judgment and delayed over ten years before seeking injunctive relief.",
+    "An injunction cannot be granted where it prejudices a party with a prima facie right under a subsisting judgment.",
+    "Injunctions are equitable remedies, and equity favors the vigilant, not those who sleep on their rights.",
+    "The ordinary courts lack jurisdiction over chieftaincy matters, which are within the purview of the Houses of Chiefs."
+  ],
+  "confidenceNotes": "The ruling is clear and based on established legal principles; all judges concurred. The case hinges on procedural and jurisdictional grounds rather than factual disputes.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/THE REPUBLIC VRS NATIONAL HOUSE OF CHIEFS KUMASI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:06:22.344Z",
+    "plainTextLength": 5686
+  },
+  "trialDate": "2013-01-30"
+}

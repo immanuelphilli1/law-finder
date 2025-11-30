@@ -1,0 +1,71 @@
+{
+  "caseTitle": "REX v MODUS WRAY",
+  "summary": "In this 1941 West Africa Court of Appeal case, Modus Wray was originally convicted of manslaughter and sentenced to fifteen years' imprisonment with hard labour. The appellate court found the sentence disproportionately severe given that the appellant was not a professional criminal and the act was characterized as a simple instance of violence. While recognizing the need for a deterrent sentence, the court quashed the original sentence and substituted a five-year imprisonment term with hard labour, effective from the date of conviction. The period during which the appellant was held as an unconvicted prisoner pending appeal was credited toward the new sentence, reflecting principles of fairness and proportionality in sentencing.",
+  "legalKeywords": [
+    "manslaughter",
+    "sentence reduction",
+    "severity of sentence",
+    "deterrent sentencing",
+    "hard labour",
+    "appeal against conviction",
+    "non-professional offender",
+    "judicial discretion",
+    "criminal sentencing guidelines",
+    "reformative justice",
+    "appellate review",
+    "violent crime",
+    "criminal deterrence",
+    "imprisonment",
+    "legal representation"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Sentencing",
+    "Appellate Review",
+    "Manslaughter",
+    "Judicial Discretion"
+  ],
+  "verdict": "Conviction for manslaughter upheld; sentence reduced on appeal.",
+  "winningSide": "Appellant (Modus Wray)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "Graham Paul, C.J., Sierra Leone",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "WACA/7 WACA/REX v MODUS WRAY"
+  ],
+  "rationaleHighlights": [
+    "Appellant not part of professional criminal class",
+    "Offense deemed a simple instance of violence",
+    "Original sentence considered excessively severe",
+    "Need for deterrent effect acknowledged",
+    "Sentence reduced to five years with hard labour",
+    "Time as unconvicted prisoner to count toward sentence",
+    "Emphasis on balance between punishment and proportionality",
+    "Appellate authority to modify sentences"
+  ],
+  "confidenceNotes": "The document is a clear appellate judgment from the West Africa Court of Appeal, with identifiable judges and legal representation. All key elements (facts, issue, decision) are present despite brevity.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/REX v  MODUS WRAY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:29:18.728Z",
+    "plainTextLength": 2150
+  },
+  "trialDate": "1941-03-03"
+}

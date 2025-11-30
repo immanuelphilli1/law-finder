@@ -1,0 +1,65 @@
+{
+  "caseTitle": "SUBAR VERSUS SAGNIA.",
+  "summary": "In this 1956 appeal before the Supreme Court of the Colony of the Gambia, the court upheld a divorce granted by the Cadi of Kanifing to a wife on the grounds of her husband's cruelty. The wife had refused further sexual intercourse after four acts in one night, prompting the husband to beat her violently, causing bleeding and excretion on her clothing. The court accepted her testimony and corroborating witness evidence, including physical proof. The husband admitted the beating and injury. Citing Russell's Mohammedan Law of Marriage, the court held that a single act of cruelty by a husband is sufficient grounds for a wife to repudiate the marriage, even without a history of abuse. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "Mohammedan Law",
+    "repudiation",
+    "divorce",
+    "cruelty by husband",
+    "marriage dissolution",
+    "Islamic family law",
+    "wife's right to repudiate",
+    "evidence of abuse",
+    "Cadi court",
+    "customary law",
+    "native tribunals",
+    "judicial review",
+    "appeal dismissal",
+    "gender and law",
+    "domestic violence"
+  ],
+  "topics": [
+    "Family Law",
+    "Islamic Law",
+    "Domestic Violence",
+    "Marriage and Divorce",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed; divorce granted to respondent upheld.",
+  "winningSide": "Respondent (wife)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Miles J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Colony of the Gambia",
+    "country": "Gambia"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Russell, Mohammedan Law of Marriage, p. 110",
+    "Anderson, Islamic Law in Africa, p. 232",
+    "Kadir v. Koleman Bibi (1935) 62 Cal. 1088",
+    "N'Jie v. N'Jie (1956) W.A.L.R. 157"
+  ],
+  "rationaleHighlights": [
+    "An isolated act of cruelty by a husband suffices as grounds for repudiation under Mohammedan law.",
+    "The wife's refusal of further intercourse after multiple acts was not unreasonable.",
+    "Physical violence resulting in bleeding and humiliation constitutes cruelty.",
+    "The Cadi's factual findings were upheld based on credible evidence.",
+    "No requirement for a pattern of repeated cruelty to justify repudiation.",
+    "Admission of violence by the husband supported the lower court's decision.",
+    "Allegation of fabricated evidence was dismissed as unfounded.",
+    "Legal authority from Russell and case law supported the ruling."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment and supported by evidence and legal authority.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/SUBAR v. SAGNIA..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:51:07.239Z",
+    "plainTextLength": 4316
+  }
+}

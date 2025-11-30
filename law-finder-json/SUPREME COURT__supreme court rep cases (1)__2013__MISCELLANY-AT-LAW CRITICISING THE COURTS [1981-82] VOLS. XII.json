@@ -1,0 +1,62 @@
+{
+  "caseTitle": "see R. v. Commissioner of Police",
+  "summary": "In Bilson v. Apaloo (1981), the Ghanaian Supreme Court addressed the limits of criticism directed at the judiciary. While affirming the right to fair and good faith criticism of judicial decisions as part of freedom of speech, the Court condemned scurrilous or malicious statements that scandalize the court or impute bias and improper motives to judges. The case arose after the plaintiff made public statements and held a press conference alleging judicial impropriety prior to the hearing. The Court emphasized that while reasoned and informed criticism is legitimate and beneficial in a democracy, unfounded attacks undermine public confidence in the administration of justice. Citing article 114(6) of the 1979 Constitution, the Court affirmed its authority to punish contempt and warned that it would not hesitate to do so in future cases. The judgment endorses Lord Denning's principle that judges must endure criticism but cannot reply, relying instead on their conduct for vindication.",
+  "legalKeywords": [
+    "contempt of court",
+    "freedom of speech",
+    "judicial criticism",
+    "fair comment",
+    "judicial integrity",
+    "scandalizing the court",
+    "constitutional powers",
+    "article 114(6)",
+    "public confidence in justice",
+    "judicial impartiality",
+    "good faith criticism",
+    "administration of justice"
+  ],
+  "topics": [
+    "Contempt of Court",
+    "Freedom of Speech",
+    "Judicial Conduct",
+    "Rule of Law",
+    "Constitutional Law"
+  ],
+  "verdict": "The Supreme Court dismissed the accusations of judicial impropriety and issued a warning against scandalizing the court through unfounded public allegations.",
+  "winningSide": "Defendant (judiciary upheld)",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Anin J.S.C.",
+      "role": "authoring judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "[1968] 2 Q.B. 150",
+    "[1981] G.L.R.D. 5",
+    "[1980] G.L.R.D. 71"
+  ],
+  "rationaleHighlights": [
+    "Criticism of courts is protected under freedom of speech if fair and in good faith.",
+    "Scurrilous attacks or imputations of bias against judges constitute contempt.",
+    "Judges cannot publicly reply to criticism and rely on their conduct for vindication.",
+    "The Supreme Court affirmed its power to punish contempt under article 114(6) of the 1979 Constitution.",
+    "Legitimate criticism helps improve the administration of justice.",
+    "Pre-trial public statements scandalizing the judiciary were condemned.",
+    "Restraint by counsel in avoiding inflammatory material was commended.",
+    "Public confidence in the judiciary must be preserved."
+  ],
+  "confidenceNotes": "The document is a secondary legal commentary summarizing a Supreme Court judgment; primary source not provided but citations are traceable.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2013/MISCELLANY-AT-LAW CRITICISING THE COURTS [1981-82] VOLS. XII.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:31:32.356Z",
+    "plainTextLength": 5546
+  },
+  "trialDate": "1981-05-08"
+}

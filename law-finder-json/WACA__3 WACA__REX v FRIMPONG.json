@@ -1,0 +1,66 @@
+{
+  "caseTitle": "REX v FRIMPONG",
+  "summary": "This is an appeal from a conviction for murder by the Supreme Court of the Gold Coast, heard by the West Africa Court of Appeal. The appellant argued that the police officer administering the caution improperly included the words 'against you,' rendering his statement inadmissible. The court held that while the use of such language is discouraged, it does not invalidate a voluntary statement, citing R. v. Baldry (1852) in support. The appellant also claimed the trial judge failed to consider manslaughter, but the appellate court found that the judge had thoroughly addressed the issue, referencing sections 238, 239, and 240 of the Criminal Code regarding provocation and reduction of murder charges. The court concluded there was no merit in any ground of appeal and dismissed it.",
+  "legalKeywords": [
+    "murder",
+    "manslaughter",
+    "caution",
+    "admissibility of statement",
+    "voluntariness",
+    "provocation",
+    "Criminal Code sections 238-240",
+    "police procedure",
+    "self-defense",
+    "appellate review",
+    "judicial summing-up",
+    "assessors"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence",
+    "Appellate Procedure",
+    "Police Caution",
+    "Homicide"
+  ],
+  "verdict": "Appeal dismissed; conviction for murder upheld.",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Barton",
+      "role": "Justice"
+    },
+    {
+      "name": "Savary",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Baldry (1852), 21 L.J. M.C. 130",
+    "Archbold's Criminal Pleadings, 28th Edition, p. 407"
+  ],
+  "rationaleHighlights": [
+    "Use of 'against you' in police caution is not illegal though discouraged",
+    "No authority renders a voluntary statement inadmissible solely due to inclusion of 'against you'",
+    "Trial judge properly considered manslaughter and correctly directed himself and assessors on relevant law",
+    "Summing-up demonstrates engagement with sections 238, 239, and 240 of the Criminal Code",
+    "Appeal dismissed due to lack of merit in all grounds"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on primary judicial text; citations and legal reasoning are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/REX v FRIMPONG.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:12:10.781Z",
+    "plainTextLength": 4181
+  },
+  "trialDate": "1937-03-03"
+}

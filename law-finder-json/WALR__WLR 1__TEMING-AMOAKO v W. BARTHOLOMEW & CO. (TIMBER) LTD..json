@@ -1,0 +1,70 @@
+{
+  "caseTitle": "TEMING-AMOAKO v W. BARTHOLOMEW & CO. (TIMBER) LTD.",
+  "summary": "This 1955 Gold Coast (now Ghana) Supreme Court decision concerns a contractual dispute over the supply of timber logs from the Numia Forest Reserve. The defendant company, W. Bartholomew & Co. (Timber) Ltd., had agreed to supply the plaintiff, Teming-Amoako, with 48 exportable logs monthly—24 mahogany and 24 secondary species—for six months, in exchange for felling rights. Although the defendants harvested 65 mahogany and 143 other logs, they delivered only 31 and 48 respectively, claiming insufficient supply under their forestry permit. The trial court awarded nominal damages of £100, but the appellate court found that while performance was partially frustrated due to impossibility, the defendants remained obligated to deliver all logs they were able to obtain. The appeal was allowed, damages were increased to £2,949 15s, and costs were awarded to the plaintiff.",
+  "legalKeywords": [
+    "contract frustration",
+    "impossibility of performance",
+    "partial performance",
+    "breach of contract",
+    "damages for non-delivery",
+    "excuse of performance",
+    "contractual obligation",
+    "force majeure",
+    "supply agreement",
+    "timber contract",
+    "Gold Coast law",
+    "forest reserve permit",
+    "nominal damages",
+    "appellate reversal",
+    "contractual damages"
+  ],
+  "topics": [
+    "Contract Law",
+    "Frustration of Contract",
+    "Damages",
+    "Natural Resource Contracts",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Foster-Sutton P.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Coussey J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Hearne J.A.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court, Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Howell v. Coupland (1876) 1 Q.B.D. 258"
+  ],
+  "rationaleHighlights": [
+    "Performance was partially impossible, excusing compliance to that extent.",
+    "Contractors remain liable where performance is still possible.",
+    "Failure to use termination clause indicated intent to continue the contract.",
+    "Defendant could not unilaterally limit deliveries.",
+    "Plaintiff entitled to all logs actually obtained by defendant.",
+    "Damages based on value of withheld logs.",
+    "Appellate court corrected underassessment of damages.",
+    "Efficient operation of reserve acknowledged but not a defense."
+  ],
+  "confidenceNotes": "High confidence; source is a verbatim judgment with clear judicial reasoning and citation.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/TEMING-AMOAKO v W. BARTHOLOMEW & CO. (TIMBER) LTD..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:50:19.580Z",
+    "plainTextLength": 5314
+  }
+}

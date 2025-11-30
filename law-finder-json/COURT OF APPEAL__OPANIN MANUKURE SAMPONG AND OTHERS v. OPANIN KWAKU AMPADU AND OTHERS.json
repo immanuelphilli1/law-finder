@@ -1,0 +1,68 @@
+{
+  "caseTitle": "OPANIN MANUKURE SAMPONG AND OTHERS v. OPANIN KWAKU",
+  "summary": "This Court of Appeal case from Ghana, Opanin Manukure Sampong and Others v. Opanin Kwaku Ampadu and Others, centered on a dispute over the succession to the self-acquired property of Opanin Daaku, a former occupant of the Gyasewa Stool of Abetifi. The plaintiffs, led by the first plaintiff as head of the Daaku Asona Family, sought declaration of title, recovery of possession, and injunction over eight parcels of land, most of which were self-acquired by Opanin Daaku before his enstoolment. The defendants claimed customary succession through the Gyasewa Stool, arguing that the stool's occupant automatically inherits Opanin Daaku’s property. The Court of Appeal overturned the High Court’s decision, holding that the alleged custom was unproven and contrary to Ghanaian customary law. It affirmed that self-acquired property devolves to the family upon intestacy, with management rights vesting in the immediate or wider family head. The Court also ruled that the first plaintiff remained the valid head of family, as his removal lacked proper customary procedure, and emphasized that a head of family has the legal capacity to sue for family property. The appeal was allowed, and the plaintiffs' rights to the properties (except Lot 3, acquired by the first defendant in office) were upheld.",
+  "legalKeywords": [
+    "customary succession",
+    "self-acquired property",
+    "head of family",
+    "Gyasewa Stool",
+    "family property",
+    "capacity to sue",
+    "injunction",
+    "recovery of possession",
+    "land tenure",
+    "intestate succession",
+    "customary law",
+    "stool property",
+    "family elders",
+    "removal of family head",
+    "elective office"
+  ],
+  "topics": [
+    "Customary Law",
+    "Land Law",
+    "Succession",
+    "Family Property",
+    "Stool Property"
+  ],
+  "verdict": "The appeal was allowed. The decision of the High Court was set aside. The plaintiffs' claim to the self-acquired properties of Opanin Daaku (except Lot 3) was upheld, and their capacity to sue as head and members of the family was affirmed.",
+  "winningSide": "Plaintiffs/Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Essilfie-Bondzie, JA.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Amonoo-Monney, JA."
+    },
+    {
+      "name": "Owusu-Ansah, JA."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Abakah and others vs. Ambradu (1963) 1 GLR p. 456-457",
+    "KWAKYE VS. TUBA & others (1961) GLR p. 536",
+    "MILLS vrs. ADDY (1958) 3 WAL R p. 357",
+    "Ollennu's Principles of Land Law in Ghana, p. 157"
+  ],
+  "rationaleHighlights": [
+    "The occupant of the Gyasewa Stool does not automatically succeed to the self-acquired property of Opanin Daaku.",
+    "Self-acquired property of a deceased person devolves to the family, with management rights vesting in the immediate family or wider family head if no successor is appointed.",
+    "The trial court erred in failing to rule on the plaintiff's status as head of family, a key issue in the case.",
+    "Removal of a family head requires a properly convened family council; informal fines or complaints do not constitute valid removal."
+  ],
+  "confidenceNotes": "High confidence; all key facts and legal principles are directly supported by the judgment text and authoritative citations.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/OPANIN MANUKURE SAMPONG AND OTHERS v. OPANIN KWAKU AMPADU AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:10:44.633Z",
+    "plainTextLength": 18471
+  },
+  "trialDate": "1999-02-17"
+}

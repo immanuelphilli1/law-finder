@@ -1,0 +1,80 @@
+{
+  "caseTitle": "PATRICK BARKERS-WOODE v NANA FITZ",
+  "summary": "In this Ghanaian Supreme Court decision, the Plaintiff, Patrick Barkers-Woode, appealed against the Court of Appeal's reversal of the trial judge's findings in a land and construction contract dispute with the Defendant, Nana Fitz. The core issue was whether the appellate court erred in overturning the trial judge's factual determination that the building was not completed as per the contract. The Plaintiff had paid 14 million cedis out of a 17 million cedis agreement for construction on land he claimed to own, with the balance due upon completion. The Defendant claimed the building was complete by 1994 and the Plaintiff defaulted on payment, leading to mutual rescission and partial refund. The trial judge found for the Plaintiff, holding the building was incomplete and the demand for final payment premature. The Court of Appeal reversed this, citing the Plaintiff’s act of installing a caretaker as evidence of completion. The Supreme Court held that the Court of Appeal improperly interfered with the trial judge’s primary findings of fact, which were supported by credible evidence, including testimony from the Plaintiff’s attorney and the caretaker. It emphasized that appellate courts must defer to trial judges on witness credibility and factual assessments unless legal errors or unreasonable conclusions are evident. The Supreme Court restored the trial judge’s decision, affirming that the Defendant failed to prove completion of the building.",
+  "legalKeywords": [
+    "appellate review",
+    "findings of fact",
+    "trial judge credibility",
+    "contractual obligations",
+    "rescission of contract",
+    "balance of payment",
+    "witness credibility",
+    "construction contract",
+    "land dispute",
+    "caretaker occupation",
+    "oral agreement",
+    "evidence evaluation",
+    "appellate interference",
+    "contract completion",
+    "burden of proof"
+  ],
+  "topics": [
+    "Contract Law",
+    "Appellate Procedure",
+    "Property Law",
+    "Evidence",
+    "Judicial Review"
+  ],
+  "verdict": "The Supreme Court allowed the Plaintiff's appeal, set aside the judgment of the Court of Appeal, and restored the decision of the trial High Court.",
+  "winningSide": "Plaintiff/Respondent (Patrick Barkers-Woode)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Brobbey, J.S.C.",
+      "role": "Member of Panel"
+    },
+    {
+      "name": "Ansa, J.S.C.",
+      "role": "Member of Panel"
+    },
+    {
+      "name": "Aninakwah, J.S.C.",
+      "role": "Member of Panel"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Zanyo v Fofie [1992] GLR 475",
+    "Adorkor v. Gatsi [1966] G.L.R. 31",
+    "Dompreh v Adu 1984-86 1 GLR 655",
+    "Re Reed (A Debtor); Ex parte The Debtor v. Official Receiver [1979] 2 All E.R. 22",
+    "Gross v. Lewis Hillman Ltd. [1969] 3 W.L.R. 787"
+  ],
+  "rationaleHighlights": [
+    "Appellate courts must not overturn trial judges' findings of fact unless no reasonable court could reach them.",
+    "Trial judge's assessment of witness demeanor is paramount in credibility determinations.",
+    "Putting a caretaker in an unfinished building does not imply completion; it may protect a substantial investment.",
+    "Court of Appeal erred by re-evaluating primary facts instead of drawing inferences from established facts.",
+    "Evidence supported trial judge's conclusion that building was incomplete when caretaker moved in."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy due to direct extraction from official Supreme Court judgment text. Citations and judicial reasoning are explicitly stated in the source.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2006A/PATRICK BARKERS-WOODE v NANA FITZ.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T18:01:25.297Z",
+    "plainTextLength": 29473
+  },
+  "trialDate": "8TH NOVEMBER  2006"
+}

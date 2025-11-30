@@ -1,0 +1,79 @@
+{
+  "caseTitle": "THE NATIONAL DEMOCRATIC CONGRESS v. THE ATTORNEY-GENERAL",
+  "summary": "The National Democratic Congress (NDC) filed a suit seeking a declaration and injunction to secure lifetime presidential benefits, including military security, for former President Jerry John Rawlings. The Supreme Court issued procedural orders for an expedited hearing, but the Plaintiff failed to file a Memorandum of Issues or legal submissions within the stipulated time, and no request for extension or waiver was made. Citing Rule 79 of the Supreme Court Rules (C.I. 16), which bars further prosecution for non-compliance with court orders unless waived, the Court found no justifiable reasons to excuse the Plaintiff's inaction. Consequently, the action was dismissed for lack of prosecution.",
+  "legalKeywords": [
+    "Rule 79",
+    "Supreme Court Rules C.I. 16",
+    "non-compliance",
+    "waiver of non-compliance",
+    "procedural default",
+    "expeditious disposal",
+    "original jurisdiction",
+    "contempt motion withdrawal",
+    "Memorandum of Issues",
+    "judicial discretion",
+    "failure to prosecute",
+    "suo motu waiver",
+    "onus of prosecution",
+    "court directions",
+    "legal submissions"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Procedural Law",
+    "Presidential Privileges"
+  ],
+  "verdict": "The Plaintiff's action was dismissed due to non-compliance with court orders and failure to prosecute.",
+  "winningSide": "Defendant (Attorney-General)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Sophia A.B. Akuffo",
+      "role": "Author of Judgment"
+    },
+    {
+      "name": "E.K. Wiredu",
+      "role": "Ag. Chief Justice"
+    },
+    {
+      "name": "J. Bamford-Addo"
+    },
+    {
+      "name": "Adjabeng"
+    },
+    {
+      "name": "Acquah"
+    },
+    {
+      "name": "Lamprey"
+    },
+    {
+      "name": "Adzoe"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional and Procedural Dismissal",
+  "citations": [
+    "Republic v. High Court, Kumasi; Ex Parte Atumfuwa et al., [2000] SC GLR 72"
+  ],
+  "rationaleHighlights": [
+    "Non-compliance with court orders constitutes a bar to further prosecution under Rule 79 of C.I. 16.",
+    "The Plaintiff, as the party invoking jurisdiction, bore the onus to comply with procedural timelines.",
+    "No credible justification was presented for the Plaintiff's failure to file submissions or seek an extension.",
+    "The Court declined to exercise discretion suo motu due to lack of objective justifying factors.",
+    "Without the Plaintiff's submissions, it would be futile for the Defendant to respond.",
+    "The case was dismissed for procedural default, not on constitutional merits.",
+    "Judicial discretion under Rule 79 must be exercised based on sound reasons and surrounding circumstances.",
+    "The Plaintiff had previously withdrawn a contempt motion, indicating potential lack of urgency."
+  ],
+  "confidenceNotes": "The information is drawn directly from the court's judgment document, with high factual accuracy. Some judge spellings (e.g., Lamprey vs. Lamptey) are corrected based on standard records.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2001A/THE NATIONAL DEMOCRATIC CONGRESS v. THE ATTORNEY-GENERAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:41:59.876Z",
+    "plainTextLength": 6767
+  }
+}

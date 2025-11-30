@@ -1,0 +1,71 @@
+{
+  "caseTitle": "ROBERT OKPOTI KONEY",
+  "summary": "This 1934 West Africa Court of Appeal decision in Robert Okpoti Koney v. Union Trading Co., Ltd. addressed the applicability of the Statute of Limitations in the Gold Coast (now Ghana). The plaintiff, an African carpenter, sued a European company for the return of a deposit after a defective sawing machine proved unusable. The court held that the claim was statute-barred, overturning the lower court's judgment. The central legal issue was whether English statutes of limitation applied given the mixed native and non-native status of the parties. The court interpreted Section 19 of the Supreme Court Ordinance to require that native customary law only apply where substantial injustice would result from its exclusion, particularly in cases between natives and non-natives. Since the plaintiff failed to show such injustice, English law applied, and the six-year limitation period began when the contract was breached in October 1924—well before the 1933 writ was issued.",
+  "legalKeywords": [
+    "Statute of Limitations",
+    "native customary law",
+    "Supreme Court Ordinance",
+    "breach of contract",
+    "substantial injustice",
+    "jurisdictional law",
+    "equity and good conscience",
+    "repugnancy doctrine",
+    "contractual obligations",
+    "applicable law",
+    "limitation period",
+    "express contract",
+    "implied agreement",
+    "Gold Coast legal system",
+    "common law application"
+  ],
+  "topics": [
+    "Contract Law",
+    "Limitation of Actions",
+    "Customary Law vs. Common Law",
+    "Legal Pluralism",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Yates, Acting C.J."
+    },
+    {
+      "name": "Graham Paul, J.J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Gold Coast (now Ghana)"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "J. J. Pischer & Co. v. C. P. Swaniker",
+    "Hughes v. Davies (1909)",
+    "Kwamina Aradzie v. Kobina Yandor & Another (F.C. 1922)"
+  ],
+  "rationaleHighlights": [
+    "The limitation period begins when the cause of action arises, not when the claim is made.",
+    "Section 14 of the Supreme Court Ordinance imports English common law and statutes of general application as of 1874.",
+    "Section 19 limits the application of native customary law, especially in cases between natives and non-natives.",
+    "Substantial injustice must be shown for native customary law to displace English law in mixed-party cases.",
+    "The burden of proving agreement to be bound by English law lies on the party asserting it.",
+    "The contract was breached in October 1924, making the 1933 claim time-barred under the six-year rule.",
+    "No evidence showed that applying English law would cause substantial injustice to the plaintiff.",
+    "The court emphasized legal certainty in commercial transactions involving European companies."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct textual evidence from the judgment. All legal principles and case references are explicitly stated in the source document. The interpretation of Section 19 and its application to mixed-native/non-native disputes is clearly articulated by Chief Justice Kingdon.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/ROBERT OKPOTI KONEY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:18:39.863Z",
+    "plainTextLength": 30240
+  },
+  "trialDate": "1934-11-24"
+}

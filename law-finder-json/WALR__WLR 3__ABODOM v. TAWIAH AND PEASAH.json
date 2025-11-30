@@ -1,0 +1,60 @@
+{
+  "caseTitle": "ABODOM VERSUS TAWIAH AND PEASAH",
+  "summary": "This High Court case involved an appeal by a purchaser of land from a Native Court's decision to set aside a sale on grounds of fraud against a judgment creditor. The Native Court had ruled the sale invalid due to alleged fraudulent alienation by the judgment debtor. However, the High Court held that despite any potential fraud by the vendor, the purchaser was a bona fide purchaser for value without notice of the vendor's debts or pending legal actions. The court emphasized that for a transfer to be set aside in fraud of creditors, it must be proven that either no valuable consideration was given or that the purchaser had knowledge of the creditor's claim. Since the sale was conducted with proper customary consent, due publicity, and for valuable consideration, and there was no evidence the purchaser had notice, the appeal was allowed, affirming the validity of the sale and the purchaser's title.",
+  "legalKeywords": [
+    "fraud",
+    "alienation in fraud of creditors",
+    "bona fide purchaser",
+    "valuable consideration",
+    "without notice",
+    "transfer of property",
+    "judgment creditor",
+    "attachment of property",
+    "Native Court",
+    "customary law",
+    "due publicity",
+    "vendor liability",
+    "purchaser protection",
+    "valid sale",
+    "title to land"
+  ],
+  "topics": [
+    "Property Law",
+    "Creditors' Rights",
+    "Fraudulent Transfers"
+  ],
+  "verdict": "The appeal was allowed. The High Court set aside the Native Court's decision and declared the sale valid, affirming that the purchaser had acquired title to the property free from attachment by the judgment creditor.",
+  "winningSide": "The appellant (defendant purchaser) won the case.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "WALR/WLR 3/ABODOM v. TAWIAH AND PEASAH"
+  ],
+  "rationaleHighlights": [
+    "A transfer cannot be set aside solely due to vendor's fraud if the purchaser acted in good faith and gave valuable consideration.",
+    "No evidence showed the purchaser had notice of the vendor's debt or pending litigation.",
+    "The sale was conducted with requisite customary consent and due publicity.",
+    "Bona fide purchasers without notice are protected under the law even if the vendor intended to defraud creditors.",
+    "The burden lies on the creditor to prove either lack of consideration or purchaser's knowledge of the fraud.",
+    "At the time of attachment, the judgment debtor had no interest in the property.",
+    "Native Court misdirected itself by focusing only on vendor's conduct, not purchaser's innocence.",
+    "Title passed to the purchaser before any attachment could take effect."
+  ],
+  "confidenceNotes": "The document is a reported judgment from the West African Law Reports with clear judicial reasoning. All key elements (parties, court, date, facts, holding) are present and consistent with legal reporting standards. High confidence in accuracy.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/ABODOM v. TAWIAH AND PEASAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:20:12.864Z",
+    "plainTextLength": 4267
+  }
+}

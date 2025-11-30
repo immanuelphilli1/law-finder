@@ -1,0 +1,77 @@
+{
+  "caseTitle": "REX v KWEKU MENSAH AND KWESI ADU",
+  "summary": "In this 1941 West African Court of Appeal case, REX v Kweku Mensah and Kwesi Adu, two soldiers were convicted of murdering Tetteh Owaraka at Winneba. The conviction was based on witness testimony and circumstantial evidence, but a third unidentified soldier participated in the assault. The trial judge directed the jury that if they believed the witness, both accused were guilty of murder. The appellate court found this a misdirection, as roles among the three attackers could not be definitively assigned. Under Section 47(1) of the Criminal Code, the court held that the third participant could not be deemed an abettor of murder since the stabbing was not a probable or intended consequence of the initial assault. Due to insufficient evidence linking each appellant to specific criminal roles (stabber, abettor, or mere participant), both appellants were entitled to the benefit of the doubt. Their convictions and sentences were quashed, and acquittals entered.",
+  "legalKeywords": [
+    "abetment",
+    "murder",
+    "benefit of the doubt",
+    "section 47 Criminal Code",
+    "misdirection",
+    "witness credibility",
+    "joint enterprise",
+    "criminal liability",
+    "assault",
+    "principle of legality",
+    "evidential uncertainty",
+    "jury direction",
+    "actus reus",
+    "mens rea",
+    "causation in criminal law",
+    "principle of accessorial liability",
+    "criminal participation",
+    "standard of proof",
+    "reasonable doubt",
+    "corroboration"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Evidence",
+    "Joint Liability",
+    "Abetment"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellants",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "Bannerman, J.",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Section 47(1) Criminal Code (Cap. 9)",
+    "Section 84 Criminal Code"
+  ],
+  "rationaleHighlights": [
+    "The trial judge misdirected the jury by failing to account for the presence and possible role of a third participant.",
+    "Under Section 47(1), abetment liability requires the actual crime to be a probable or substantially similar consequence of the abetted act.",
+    "The evidence did not establish which of the three soldiers stabbed the victim or uttered inciting words.",
+    "Both appellants were entitled to the benefit of the doubt due to evidential uncertainty.",
+    "A conviction cannot stand where roles in a joint assault are indistinguishable and the fatal act exceeds the scope of foreseeable participation.",
+    "The third participant, if charged, could only be liable for assault, not murder or manslaughter.",
+    "The prosecution failed to prove beyond reasonable doubt the specific criminal role of each accused.",
+    "The jury direction effectively presumed guilt without requiring individualized culpability."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; source is a clear judicial decision with detailed reasoning. Jurisdiction correctly identified as West African Court of Appeal exercising authority in the Gold Coast (modern-day Ghana). Legal principles align with colonial-era Criminal Code interpretation.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/REX v KWEKU MENSAH AND KWESI ADU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:24:56.466Z",
+    "plainTextLength": 11785
+  },
+  "trialDate": "1941-12-24"
+}

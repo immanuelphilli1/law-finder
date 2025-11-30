@@ -1,0 +1,71 @@
+{
+  "caseTitle": "AND ANOTHER VERSUS KATAI AND OTHERS AND ABODIN.",
+  "summary": "In KATAI AND ANOTHER v. KATAI AND OTHERS AND ABODIN, the Supreme Court of the Gold Coast addressed a dispute among 'six-cloth' children of a deceased Ga man over rental income from a family property. The plaintiffs, being children from a 'six-cloth' marriage, claimed entitlement to an account of rents collected by their siblings who managed the property. The court held that while 'six-cloth' children are entitled under Ga customary law to a share in their father's estate, no such share had been formally allotted by the head of the family. Consequently, the plaintiffs could not maintain the action, as family property remains indivisible until allocation. The court emphasized that only the head of the family can sue or be sued regarding family property, and the plaintiffs' unilateral assumption of management constituted a transgression of customary law, rendering them unable to seek judicial relief.",
+  "legalKeywords": [
+    "native customary law",
+    "six-cloth marriage",
+    "intestate succession",
+    "family property",
+    "head of family",
+    "right to support",
+    "indivisible estate",
+    "partition of property",
+    "account of rents",
+    "transgression of custom",
+    "forfeiture of interest",
+    "patria potestas",
+    "maternal lineage",
+    "Ga customary law",
+    "self-acquired property",
+    "exclusive possession",
+    "native court jurisdiction",
+    "legal standing",
+    "ex turpi causa",
+    "joint interest"
+  ],
+  "topics": [
+    "Customary Law",
+    "Inheritance",
+    "Family Property",
+    "Land Tenure",
+    "Succession"
+  ],
+  "verdict": "The plaintiffs' claim was dismissed.",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "van Lare J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "Civil - Native Customary Law / Succession",
+  "citations": [
+    "Vanderpuiye v. Botchway (W.A.C.A., March 8, 1951, unreported)",
+    "Wellington v. Quartey Papafio and Another (W.A.C.A., April 4, 1952, unreported)",
+    "Laryea v. U. T. C. Ltd., Selected Judgments, Divisional Court, 1929–1931, 122",
+    "Nelson v. Nelson (1932) 1 W.A.C.A. 215",
+    "Solomon and Vanderpuye v. Botchway (1943) 9 W.A.C.A. 127"
+  ],
+  "rationaleHighlights": [
+    "'Six-cloth' children have a customary right to a share in their deceased father's estate under Ga law.",
+    "The exact share is determined by the head of the family and has not been formally allotted in this case.",
+    "Family property is indivisible and cannot be partitioned without consent.",
+    "Only the head of the family can legally manage or litigate over family property.",
+    "Plaintiffs' unauthorized management constitutes a transgression of customary law.",
+    "Actions arising ex turpi causa or from illegal assumptions of ownership are not enforceable.",
+    "The head of the family holds property in trust for all entitled members.",
+    "No formal allocation invalidates claims to rents or accounts."
+  ],
+  "confidenceNotes": "The summary is based on a complete review of the provided judgment text. All key holdings, legal principles, and procedural outcomes are directly extracted from the source. The dismissal of the claim due to lack of formal allotment and improper party representation is clearly stated in the judgment. The obiter on the Privy Council overturning Vanderpuye v. Botchway adds context but does not alter the court's final decision here.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/KATAI AND ANOTHER v. KATAI AND OTHERS AND ABODIN..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:06:56.110Z",
+    "plainTextLength": 19156
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "caseTitle": "OPANIN KWABENA AGYEI v OPANIN KWADWO WIREDU",
+  "summary": "This Supreme Court of Ghana chieftaincy appeal concerned ownership of the Suhyen Stool, originally created in 1915 by the Asona clan under the authority of the New Juaben Omanhene. The dispute arose after the stool was elevated to a Divisional (Mponua) status in 1954 during the reign of Nana Frimpong Manso I of the Ekuona clan. The Appellants (Ekuona clan) argued that the elevation constituted a new creation gifted to them, and that over 50 years of occupancy established their ownership through acquiescence and estoppel. The Respondents (Asona clan) maintained they remained the rightful owners, as the black stool symbolizing ownership was created by their ancestors and never transferred. The Supreme Court upheld the National House of Chiefs’ decision, ruling that elevation did not create a new stool, no legal gift was proven, and the Asona clan’s conditional consent to Ekuona occupants negated estoppel or conclusive presumption under the Evidence Decree (NRCD 323). The Court emphasized that mere occupancy does not equate to ownership in customary law.",
+  "legalKeywords": [
+    "chieftaincy",
+    "stool ownership",
+    "black stool",
+    "matrilineal clan",
+    "estoppel by conduct",
+    "conclusive presumption",
+    "customary law",
+    "succession",
+    "acquiescence",
+    "divisional stool (Mponua)"
+  ],
+  "topics": [
+    "Customary Law",
+    "Chieftaincy Disputes",
+    "Evidence Law",
+    "Succession",
+    "Land and Stool Ownership"
+  ],
+  "verdict": "The appeal by the Defendants/Appellants (Ekuona clan) was dismissed. The decision of the Judicial Committee of the National House of Chiefs, which had ruled in favor of the Plaintiffs/Respondents (Asona clan), was affirmed.",
+  "winningSide": "Plaintiffs/Respondents (Asona Clan)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Prof. T.M. Ocran",
+      "role": "Delivered Judgment"
+    },
+    {
+      "name": "Miss Akuffo (Ms)",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Dr. Twum",
+      "role": "Justice"
+    },
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "Prof. Ocran",
+      "role": "Justice"
+    },
+    {
+      "name": "Aninakwa",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Chieftaincy Appeal",
+  "citations": [
+    "Evidence Decree, 1975 (NRCD 323) ss. 24, 25, 26, 29",
+    "Nartey v. Mechanical Lloyd Assembly Plant (1987/88) GLR 314",
+    "Assimeng, Max. *The Social Structure of Ghana*. Ghana Publishing Corporation, 1981, p.94",
+    "Ofori-Boateng, J. *The Ghana Law of Evidence*. Waterville Publishing House, 1993"
+  ],
+  "rationaleHighlights": [
+    "Elevation of a stool to Mponua status does not create a new stool; the original Asona-created black stool remains the basis of ownership.",
+    "Mere long-term occupancy by another clan (Ekuona) does not extinguish the original family's ownership rights.",
+    "No conclusive presumption under NRCD 323 s.26 arose because the Asona clan did not intentionally mislead others about ownership.",
+    "The creation of a queen mother stool from the Ekuona clan did not alter the underlying ownership of the male stool.",
+    "The Asona clan’s conditional consent to Ekuona occupants negates estoppel or acquiescence claims."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; judgment reasoning is clear and consistent. Truncation of source text does not affect core holdings or outcome.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2006A/OPANIN KWABENA AGYEI v OPANIN KWADWO WIREDU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:22:40.685Z",
+    "plainTextLength": 22043
+  },
+  "trialDate": "2005-02-02"
+}

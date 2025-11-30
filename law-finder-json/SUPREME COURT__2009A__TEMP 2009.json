@@ -1,0 +1,33 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The provided document does not contain a legal decision or case details. It appears to be a webpage header or placeholder for unreported cases of the Supreme Court of Ghana from 2009, with no substantive content related to a specific case, parties, judgment, or legal reasoning.",
+  "legalKeywords": [
+    "Supreme Court",
+    "Ghana",
+    "unreported cases",
+    "2009",
+    "case repository"
+  ],
+  "topics": [
+    "Court Administration",
+    "Legal Database"
+  ],
+  "verdict": "No verdict available; no case content provided.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Administrative placeholder",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "Low confidence in case analysis due to absence of actual case text. Metadata suggests a repository interface rather than a judicial decision.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/TEMP 2009.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:01:28.835Z",
+    "plainTextLength": 176
+  }
+}

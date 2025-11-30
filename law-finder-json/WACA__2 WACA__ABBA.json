@@ -1,0 +1,81 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This 1934 West Africa Court of Appeal case involved a dispute over a loan of £100, later increased to £200 through contractual agreements, secured by a promissory note and gold ornaments. The plaintiff sued multiple traditional leaders from Essikuma, initially in the Police Magistrate's Court in Accra. A jurisdictional challenge arose because the defendants resided in the Central Province. The Police Magistrate ruled he had jurisdiction because the loan was made in Accra and the contract was to be performed there. The Divisional Court reversed, citing lack of jurisdiction under Schedule II, Order 9, Rule 5 of the Supreme Court Ordinance. The West Africa Court of Appeal held that the suit was properly before the Accra court as a contract case performable in Accra under Rule 3, and that the Magistrate’s order retaining the case under Rule 6 was not appealable. The appeal was allowed, costs awarded to the appellant, and the case remitted to the Divisional Court to consider other grounds of appeal.",
+  "legalKeywords": [
+    "jurisdiction",
+    "contract breach",
+    "promissory note",
+    "specific performance",
+    "real nature of claim",
+    "Order 9 Rule 3",
+    "Order 9 Rule 6",
+    "retainer order",
+    "Supreme Court Ordinance",
+    "transfer of case",
+    "liquidated damages",
+    "Hills of Exchange Ordinance",
+    "defendant residence",
+    "contract performance location",
+    "Magistrate powers",
+    "appellate review",
+    "plea to jurisdiction",
+    "rehearing of case",
+    "costs award",
+    "remittal"
+  ],
+  "topics": [
+    "Jurisdiction in Contract Cases",
+    "Appellate Procedure",
+    "Magistrate Court Powers",
+    "Contract Law",
+    "Traditional Leadership Liability"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Plaintiff-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    },
+    {
+      "name": "Aitken",
+      "role": "Justice"
+    },
+    {
+      "name": "Cor. Kingdon",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Schedule II, Order 9, Rule 3, Supreme Court Ordinance",
+    "Schedule II, Order 9, Rule 5, Supreme Court Ordinance",
+    "Schedule II, Order 9, Rule 6, Supreme Court Ordinance",
+    "Section 57, Hills of Exchange Ordinance",
+    "Section 15, Supreme Court Ordinance",
+    "Section 30, Supreme Court Ordinance",
+    "Section 7, Commissioners Ordinance"
+  ],
+  "rationaleHighlights": [
+    "The real nature of the claim was breach of contract, not merely enforcement of a promissory note.",
+    "The contract was to be performed in Accra, where the plaintiff resided and the loan was made.",
+    "Jurisdiction under Order 9, Rule 3 is proper where the contract ought to be performed, regardless of defendant's residence.",
+    "The Magistrate’s order retaining the case under Rule 6 is not appealable.",
+    "Failure to apply for transfer under Section 30 after a retainer order bars later jurisdictional challenges.",
+    "The appellate court declined to consider an untimely challenge to the writ’s validity.",
+    "The case was remitted to address other grounds of appeal not previously considered."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; source document is a judicial decision with clear procedural history and legal reasoning. Some text truncation occurs at end but does not affect core holdings or outcome.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/ABBA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:38:04.881Z",
+    "plainTextLength": 16004
+  },
+  "trialDate": "1934-11-20"
+}

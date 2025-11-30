@@ -1,0 +1,84 @@
+{
+  "caseTitle": "BALLAST NEDAM GHANA B.V VRS HORIZON MARINE CONSTRUCTION LT",
+  "summary": "This Supreme Court of Ghana decision, delivered on 28th July 2010, concerned a civil appeal (Civil Appeal No. J4/18/2010) arising from the reversal of a High Court order granting summary judgment to Ballast Nedam Ghana B.V. against Horizon Marine Construction Ltd. The Court of Appeal had found triable issues in the defendant's affidavit, particularly regarding whether the plaintiff had fulfilled contractual specifications under clause 4 of their agreement, which was a condition precedent to payment. The Supreme Court upheld the Court of Appeal’s decision, holding that the defendant had raised a bona fide defence by disputing the quality of work and rejecting invoices, thus creating a genuine issue that warranted a full trial. The Court emphasized that summary judgment under Order 14 of CI 47 should not be granted where there is a fair probability of a defence, especially in technically complex contracts. It criticized the High Court for failing to inquire further under Order 14 rule 3(2) despite special circumstances. The appeal was dismissed, affirming the necessity of a trial to determine compliance and liability.",
+  "legalKeywords": [
+    "summary judgment",
+    "Order 14",
+    "High Court (Civil Procedure) Rules CI 47",
+    "triable issues",
+    "defence on affidavit",
+    "condition precedent",
+    "contractual compliance",
+    "engineering contract",
+    "payment dispute",
+    "good faith defence",
+    "cross-examination",
+    "special circumstances",
+    "procedural fairness",
+    "judicial discretion",
+    "bona fide defence"
+  ],
+  "topics": [
+    "Contract Law",
+    "Civil Procedure",
+    "Summary Judgment",
+    "Appellate Review",
+    "Engineering Contracts"
+  ],
+  "verdict": "Appeal dismissed; decision of the Court of Appeal reversing the High Court's grant of summary judgment is affirmed.",
+  "winningSide": "Horizon Marine Construction Ltd (Defendant/Respondent)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "N.S. Gbadegbe",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "G.T. Wood (Mrs.)",
+      "role": "Chief Justice, Presiding"
+    },
+    {
+      "name": "S.A. Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "J.V.M. Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "SADHUWANI v AL-HASSAN [1999-2000] 1 G.L.R 19",
+    "ANGLO-ITALIAN BANK v WELLS",
+    "ANGLO-ITALIAN BANK v DAVIES (1878) 38 LT 197",
+    "ROBERTS v PLANT [1895] 1 QB 597",
+    "SULLIVAN v HENDERSON [1973] 1 All ER 48",
+    "Halsbury's Laws of England, Volume 37 (Fourth Edition)"
+  ],
+  "rationaleHighlights": [
+    "Defendant raised a fair probability of a defence regarding non-compliance with contractual specifications, constituting a triable issue.",
+    "Court emphasized that summary judgment should not shut out a defendant with a bona fide defence.",
+    "Technical nature of engineering contract required fuller inquiry rather than summary resolution.",
+    "Respondent's affidavit denying debt and alleging defective work satisfied requirements under Order 14 rule 3(1).",
+    "Failure by plaintiff to counter denial with evidence of admission weakened claim for summary judgment.",
+    "Reference to Halsbury’s and prior Ghanaian jurisprudence affirmed applicability of 'real issue to be tried' standard.",
+    "Trial judge erred in not ordering further examination under Order 14 rule 3(2) given special circumstances.",
+    "Supreme Court affirmed Court of Appeal’s reversal of High Court’s summary judgment."
+  ],
+  "confidenceNotes": "High confidence; all information derived directly from the judgment text, including citations, parties, and reasoning.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/BALLAST NEDAM GHANA B.V   VRS HORIZON MARINE CONSTRUCTION LT.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:51:23.554Z",
+    "plainTextLength": 14088
+  },
+  "trialDate": "2010-04-18"
+}

@@ -1,0 +1,81 @@
+{
+  "caseTitle": "THEODORE ADJEI OSAE (DR.) & ORS v NUMO NORTEY ADJEIFIO & ORS",
+  "summary": "This Supreme Court of Ghana case, decided on 7th May 2008, involved a civil land dispute between Dr. Theodore Adjei Osae and others (appellants) and Numo Nortey Adjefio and others (respondents) over a declaration of title and perpetual injunction concerning land in Teshie. The trial court had ruled for the appellants, but the Court of Appeal reversed the decision. The Supreme Court upheld the Court of Appeal's judgment, dismissing the appeal. The core issue was the boundary of Teshie quarter lands apportioned in 1927–1928. The appellants failed to establish the boundaries with certainty, offering conflicting oral testimony and relying on a site plan improperly attached to pleadings, which lacked proper evidentiary value. Crucially, Exhibit 1D4—a document authored by the first appellant as Chairman of Teshie Town Council—stated that Teshie lands extended to the Akuapim Hills, contradicting his trial testimony. This prior inconsistent statement, admitted without objection, carried significant weight. The Court emphasized that to succeed in a land title action, plaintiffs must prove identity and limits of the land by positive evidence, which the appellants failed to do. The Court also affirmed that Otinshie, founded before 1927, formed part of Kle Musum quarter, with allodial title resting in the respondents, leaving the appellants with only possessory or usufructuary rights. The appeal was dismissed on all grounds.",
+  "legalKeywords": [
+    "declaration of title",
+    "burden of proof",
+    "boundaries of land",
+    "documentary evidence",
+    "oral evidence",
+    "prior inconsistent statement",
+    "site plan",
+    "Teshie quarter lands",
+    "allodial title",
+    "usufructuary interest",
+    "land tenure",
+    "rehearing on appeal",
+    "probative value",
+    "adjoining landowners",
+    "injunction"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Customary Tenure",
+    "Boundary Dispute"
+  ],
+  "verdict": "Appeal dismissed; decision of the Court of Appeal upheld in favor of the respondents.",
+  "winningSide": "Defendant-Appellant-Respondents (Numo Nortey Adjefio & Ors.)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Brobbey, J.S.C.",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "Miss Akuffo, J.S.C.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Aninakwah, J.S.C.",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Asiamah, J.S.C.",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Ansa, J.S.C.",
+      "role": "Member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil land dispute",
+  "citations": [
+    "Akufo- Addo vs. Catheline [1992]1 GLR377 SC",
+    "Yorkwa v Duah [1992-93] GBR 278, CA",
+    "Godka Group of Companies vs. PS International Ltd [2001-2002] SCGLR SC 918",
+    "Nyikplorkpo v. Agbedotor [1987-88] 1 GLR 165",
+    "BEDU vs. AGBI [1972] 2 GLR 283 C.A"
+  ],
+  "rationaleHighlights": [
+    "Appellants failed to prove boundaries on balance of probabilities",
+    "Documentary evidence (Exhibit 1D4) favored respondents due to prior inconsistent statement",
+    "Site plan attached to pleadings lacked probative value under Order 19 r.4",
+    "Failure to call adjoining landowners weakened appellants' case",
+    "Court of Appeal correctly found Otinshie part of Kle Musum quarter",
+    "Appellants' evidence was conflicting and uncertain on key boundaries"
+  ],
+  "confidenceNotes": "High confidence; all key details such as parties, judgment, reasoning, and legal principles are clearly stated in the judgment text. Citations and statutory references (e.g., NRCD 323, Section 76) are explicit.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2008/THEODORE ADJEI OSAE (DR.) & ORS v NUMO NORTEY ADJEIFIO & ORS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:11:54.099Z",
+    "plainTextLength": 26239
+  },
+  "trialDate": "2007-04-22"
+}

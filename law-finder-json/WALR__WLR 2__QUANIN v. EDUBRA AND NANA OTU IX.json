@@ -1,0 +1,72 @@
+{
+  "caseTitle": "QUANIN VERSUS EDUBRA AND NANA OTU IX",
+  "summary": "In Quanin v. Edubra and Nana Otu IX (1957), the West African Court of Appeal addressed jurisdictional challenges in a land dispute involving a subject of Asin Atandanso State and the Omanhene of Abura State. The plaintiff initiated proceedings in the Native Court 'B' of Asin Atandanso, seeking tribute for land occupation. The co-defendant, Nana Otu IX, intervened and secured a transfer to the Land Court on grounds that the dispute affected two states and raised jurisdictional concerns. The Land Court re-transferred the case to the original Native Court, finding it competent. The appellate court upheld this decision, ruling that the dispute was not inter-state but between a state subject and a neighboring stool, and that the Native Court's territorial jurisdiction was not ousted by external intervention. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "jurisdiction",
+    "Native Courts",
+    "land dispute",
+    "territorial jurisdiction",
+    "conflict of loyalties",
+    "re-transfer",
+    "Omanhene",
+    "stool land",
+    "tribute",
+    "Land Court",
+    "Native Courts (Colony) Ordinance",
+    "section 54",
+    "section 58",
+    "intervention",
+    "declaration of title"
+  ],
+  "topics": [
+    "Jurisdiction",
+    "Land Law",
+    "Native Courts",
+    "Appellate Procedure",
+    "Conflict of Interest"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Korsah C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Verity Ag.J.A.",
+      "role": "Acting Judge of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Land Dispute",
+  "citations": [
+    "Denkyera State v. Abura State (1956) 1 W.A.L.R. 235",
+    "Native Courts (Colony) Ordinance, c. 98 of 1951, s. 54(1)",
+    "Native Courts (Colony) Ordinance, c. 98 of 1951, s. 58"
+  ],
+  "rationaleHighlights": [
+    "The Native Court had territorial jurisdiction as the land was within Asin Atandanso State.",
+    "Intervention by a neighboring Omanhene does not oust jurisdiction.",
+    "Dispute was not between states but between a subject and a stool.",
+    "No conflict of loyalties arose to disqualify the Native Court panel.",
+    "Transfer to Land Court was on untenable grounds.",
+    "Re-transfer under s. 54(1) second proviso was properly exercised.",
+    "Jurisdictional objections not raised at trial can still be considered on appeal.",
+    "Judgment confirmed ownership within plaintiff's family, negating co-defendant's claim."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from primary source text and consistent legal reasoning across judicial opinions.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/QUANIN v. EDUBRA AND NANA OTU IX.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:25:20.980Z",
+    "plainTextLength": 13121
+  }
+}

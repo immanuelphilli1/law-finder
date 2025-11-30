@@ -1,0 +1,73 @@
+{
+  "caseTitle": "LT DAVID NAAB ARATUO",
+  "summary": "The appellant, Kingsford Amoah alias Kwame Abaka, was jointly tried with Yaw Duodu in the High Court, Cape Coast, for conspiracy to commit robbery and robbery under Sections 23(1) and 149 of the Criminal Offences Act, 1960 (Act 29), as amended by Act 646 of 2003. Both were convicted and sentenced to 40 years' imprisonment, to run concurrently. The facts showed that on June 29, 2007, the accused, posing as customers, hired a Tico taxi driven by the deceased, directed him to Kromanmu, and later lured him into the bush near Mando where they inflicted fatal knife wounds, stole the vehicle and GH¢12,000, and fled to Accra. They were arrested while attempting to sell the taxi. The Court of Appeal, in reviewing the evidence de novo, found that the prosecution proved beyond reasonable doubt that the accused conspired and committed robbery using offensive weapons (knives). Witness testimony, including from PW2 to PW7, was consistent and corroborative. The alibi defence was rejected as implausible and an afterthought. The appeal was dismissed, and the conviction and sentence were affirmed.",
+  "legalKeywords": [
+    "conspiracy to commit robbery",
+    "robbery",
+    "Criminal Offences Act Act 29",
+    "Act 646 of 2003",
+    "offensive weapon",
+    "alibi defence",
+    "beyond reasonable doubt",
+    "evidence corroboration",
+    "appellate review",
+    "force in stealing",
+    "intent to overcome resistance",
+    "ownership of property",
+    "lack of consent",
+    "identity of accused",
+    "confession in police custody"
+  ],
+  "topics": [
+    "criminal law",
+    "appeal",
+    "robbery",
+    "conspiracy",
+    "evidence"
+  ],
+  "verdict": "Conviction and sentence upheld on appeal.",
+  "winningSide": "The Republic (State)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Honyenuga J.A.",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Quaye, J.A.",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Abodakpi, J.A.",
+      "role": "panel member"
+    },
+    {
+      "name": "Aryene (Mrs), J.A.",
+      "role": "panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Republic vs Nana Osei Kwadjo II [2008] 1GMJ 42 SC",
+    "Behome v The Republic [1979] GLR 112",
+    "R v Dawson [1977] 64 CAR 170"
+  ],
+  "rationaleHighlights": [
+    "The conviction was upheld because the prosecution proved conspiracy and robbery beyond reasonable doubt.",
+    "Multiple witnesses corroborated the presence of the accused with the victim before the crime.",
+    "The appellants' alibi was dismissed as an afterthought and not reasonably probable.",
+    "The use of knives constituted an offensive weapon, warranting a minimum 15-year sentence under Section 149."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed trial and appellate record, consistent witness testimony, and clear legal reasoning. Some document truncation occurs near the end, but key facts and legal analysis are preserved.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/LT DAVID NAAB ARATUO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:18:58.446Z",
+    "plainTextLength": 28000
+  },
+  "trialDate": "2009-11-13"
+}

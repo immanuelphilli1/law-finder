@@ -1,0 +1,61 @@
+{
+  "caseTitle": "COMMISSIONER OF POLICE VERSUS ASAMOAH.",
+  "summary": "The Court of Appeal allowed an appeal against a conviction by a Magistrate who failed to record reasons for the decision. The court emphasized that under section 173 of the Criminal Procedure Code, reasons must be recorded in all conviction cases unless the basis for conviction is clearly obvious and beyond doubt from the facts. Relying on Atunde v. Commissioner of Police (1952), the court held that the absence of recorded reasons impedes appellate review and violates the public's right to understand judicial decisions, especially in criminal cases. Since the trial magistrate provided no reasoning and the appellate court could not infer any, the conviction was quashed and the appellant acquitted.",
+  "legalKeywords": [
+    "criminal law",
+    "procedure",
+    "record of reasons",
+    "conviction",
+    "appellate review",
+    "magistrate",
+    "Criminal Procedure Code",
+    "s. 173",
+    "right to reasons",
+    "judicial accountability"
+  ],
+  "topics": [
+    "Criminal Procedure",
+    "Judicial Reasoning",
+    "Appellate Review",
+    "Right to Fair Trial",
+    "Magisterial Duties"
+  ],
+  "verdict": "Appeal allowed; conviction quashed; appellant acquitted and discharged.",
+  "winningSide": "Appellant (Asamoah)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Korsah C.J."
+    },
+    {
+      "name": "van Lare J.A.",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "Granville Sharp J.A."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Atunde v. Commissioner of Police (1952) 14 W.A.C.A. 171",
+    "Criminal Procedure Code, c. 10, s. 173"
+  ],
+  "rationaleHighlights": [
+    "Section 173 requires recording of reasons for decisions, interpreted as mandatory in convictions unless reason is clearly obvious",
+    "Failure to record reasons undermines public confidence and appellate review",
+    "What appears obvious to a magistrate may not be to the public or an appellate court",
+    "Appellate court unable to infer reasons from the record, constituting error",
+    "Decision quashed due to lack of recorded reasoning"
+  ],
+  "confidenceNotes": "High confidence; source is a published appellate decision with clear judicial reasoning and citation to precedent.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/COMMISSIONER OF POLICE v. ASAMOAH..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:07:47.281Z",
+    "plainTextLength": 3990
+  }
+}

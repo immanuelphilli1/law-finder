@@ -1,0 +1,100 @@
+{
+  "caseTitle": "FELIX KLOMEGA VRS THE ATTORNEY-GENERAL, GHANA PORTS AND HARBOURS AUTHORITY, MERIDIAN PORT HOLDINGS LIMITED, MERIDIAN PORT SERVICES LIMITED",
+  "summary": "In this 2013 Supreme Court of Ghana ruling, the plaintiff, Felix Klomega, a citizen and taxpayer, sought declarations that the Shareholder Agreement and Concession Agreement between the Ghana Ports and Harbours Authority (GPHA) and Meridian Port entities constituted international economic transactions requiring parliamentary approval under Article 181 of the 1992 Constitution. He argued that GPHA, as a state entity, fell within the definition of 'Government' under the Constitution, and thus the failure to seek parliamentary approval rendered the agreements null and void. The second to fourth defendants raised a preliminary objection, claiming the Court lacked jurisdiction due to the non-ambiguity of the term 'Government' as defined in Article 295. However, the Supreme Court, per Dr. Date-Bah J.S.C., rejected the objection, holding that the case raised genuine issues of constitutional interpretation regarding the scope of 'Government' and the application of Article 181 to state corporations in international transactions. The Court emphasized that the contextual and functional characteristics of GPHA—such as presidential appointment of officials, public funding, and accountability to Parliament—supported its inclusion under Article 181. The ruling affirmed the Supreme Court's original jurisdiction in such matters and allowed the case to proceed on merits.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "parliamentary approval",
+    "international economic transaction",
+    "state entity",
+    "public authority",
+    "government",
+    "concession agreement",
+    "shareholder agreement",
+    "original jurisdiction",
+    "separation of powers",
+    "public funds",
+    "alter ego doctrine",
+    "judicial review",
+    "taxpayer standing",
+    "public accountability"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Public Finance",
+    "Administrative Law",
+    "Judicial Review",
+    "State Entities"
+  ],
+  "verdict": "Preliminary objection overruled; Supreme Court affirmed jurisdiction to hear the constitutional questions.",
+  "winningSide": "Plaintiff (on the issue of jurisdiction)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah, J.S.C.",
+      "role": "Delivering Ruling"
+    },
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Anin-Yeboah, J.S.C.",
+      "role": "Member"
+    },
+    {
+      "name": "Gbadegbe, J.S.C.",
+      "role": "Member"
+    },
+    {
+      "name": "Baffoe-Bonnie, J.S.C.",
+      "role": "Member"
+    },
+    {
+      "name": "Dotse, J.S.C.",
+      "role": "Member"
+    },
+    {
+      "name": "Owusu, Ms. J.S.C.",
+      "role": "Member"
+    },
+    {
+      "name": "Adinyira (Mrs.), J.S.C.",
+      "role": "Member"
+    },
+    {
+      "name": "Ansa, J.S.C.",
+      "role": "Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "1992 Constitution of Ghana, art. 181",
+    "Ghana Ports and Harbours Authority Act, 1986 (PNDCL 160)",
+    "1992 Constitution of Ghana, art. 295",
+    "Republic v Maikankan [1971] 2GLR 473",
+    "Republic v Special Tribunal; ex parte Forson [1980] GLR 529",
+    "Yiadom I v Amaniampong [1981] GLR 3",
+    "Patu Styles v Amoo-Lartey [1984-86] GLR 138",
+    "Republic v Special Tribunal, ex parte Akosah [1980] GLR 592",
+    "Ghana Bar Association v Attorney-General & Anor [1995-96] 1 GLR 598",
+    "Republic v High Court (Fast Track Division) Accra; Ex parte CHRAJ [2007-2008] SCGLR 213"
+  ],
+  "rationaleHighlights": [
+    "The term 'Government' in Article 181 must be interpreted contextually, not solely by reference to the definitional clause in Article 295.",
+    "Statutory corporations performing public functions and under executive control may fall within the scope of 'Government' for constitutional financial oversight.",
+    "Transactions involving state entities in international economic agreements require parliamentary approval under Article 181(5) if they engage public accountability.",
+    "The Supreme Court has original jurisdiction where genuine constitutional interpretation issues are raised, even if definitions exist.",
+    "The preliminary objection was overruled because the case involved substantial questions about the application of Article 181 to state entities."
+  ],
+  "confidenceNotes": "The ruling is unreported but internally consistent with constitutional interpretation principles in Ghana. The court's reasoning aligns with established jurisprudence on original jurisdiction and constitutional definitions.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/FELIX KLOMEGA  VRS THE ATTORNEY-GENERAL, GHANA PORTS AND HARBOURS AUTHORITY, MERIDIAN PORT HOLDINGS LIMITED, MERIDIAN PORT SERVICES LIMITED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:13:20.111Z",
+    "plainTextLength": 24244
+  }
+}

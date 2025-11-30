@@ -1,0 +1,86 @@
+{
+  "caseTitle": "LAND REGISTRY ACT NEW ISSUES FOR OLD [1989–90] VOL. XVIII RG",
+  "summary": "This legal commentary analyzes two key Ghanaian land law cases, Odametey v Clocuh and Nartey v Mechanical Lloyd Assembly Plant Ltd, interpreting the Land Registry Act, 1962 (Act 122). The Supreme Court, in a majority decision led by Taylor JSC, rejected the doctrine of constructive registration, holding that an unregistered instrument remains ineffective under s.24(1) regardless of presentation for registration. The court emphasized the statutory requirement for registration as a condition for legal effect. On customary law grants, the majority held that parties were bound by documentary conveyances, while Amua-Sekyi JSC opined that a prior valid customary grant extinguished the grantor's title, invalidating later transfers. The commentary also explores s.25(1)'s effect of constructive notice, suggesting landowners may be deemed to have knowledge of unauthorized registrations, potentially leading to estoppel. Administrative failures by the Land Registry, including improper re-plotting, were criticized, though the court resolved priority based on registration dates under s.26. The decisions clarify the primacy of registration, limit equitable doctrines, and highlight systemic challenges in land administration.",
+  "legalKeywords": [
+    "Land Registry Act 1962",
+    "constructive registration",
+    "customary law grant",
+    "registration priority",
+    "constructive notice",
+    "section 24(1)",
+    "section 25(1)",
+    "section 26",
+    "instrument validity",
+    "title transfer",
+    "equity",
+    "estoppel",
+    "acquiescence",
+    "fraudulent intention",
+    "Land Registry administration",
+    "re-plotting",
+    "null and void conveyance",
+    "judicial precedent",
+    "binding authority",
+    "customary land tenure",
+    "common law conveyance",
+    "priority of instruments"
+  ],
+  "topics": [
+    "Land Law",
+    "Registration of Titles",
+    "Customary Law",
+    "Equity and Trusts",
+    "Judicial Precedent"
+  ],
+  "verdict": "The appeals were dismissed; the defendants' titles based on registered instruments were upheld over the plaintiff's unregistered conveyance. The Supreme Court affirmed the priority of registered instruments and rejected the doctrine of constructive registration.",
+  "winningSide": "defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Taylor JSC",
+      "role": "principal judgment"
+    },
+    {
+      "name": "Amua-Sekyi JSC",
+      "role": "dissenting/concurring"
+    },
+    {
+      "name": "Francois JJSC",
+      "role": "concurring"
+    },
+    {
+      "name": "Wuaku JJSC",
+      "role": "concurring"
+    },
+    {
+      "name": "Adade JSC",
+      "role": "concurring in result only"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "Odametey v Clocuh",
+    "Ntem v Ankwandah",
+    "Nartey v Mechanical Lloyd Assembly Plant Ltd",
+    "Ayitey v Mantey"
+  ],
+  "rationaleHighlights": [
+    "The doctrine of constructive registration was rejected by majority of the Supreme Court as inconsistent with s.24(1) of the Land Registry Act, 1962.",
+    "Customary law grants, if valid, transfer title independently of registration and bar subsequent grants by the same grantor.",
+    "Section 25(1) creates constructive notice, potentially binding landowners to register searches even if not transacting.",
+    "Priority between instruments is determined by registration date under s.26.",
+    "The Land Registry's unilateral re-plotting without following statutory procedures was unjustified.",
+    "Courts may in appropriate cases order correction of the register, including registration of unregistered instruments."
+  ],
+  "confidenceNotes": "The summary is based on a detailed legal commentary from a published review. While the original judgments are not directly cited, the analysis appears authoritative and consistent with judicial reasoning patterns in Ghanaian land law. Some procedural details may be condensed.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/89 - 90/LAND REGISTRY ACT NEW ISSUES FOR OLD [1989–90] VOL. XVIII RG.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:56:49.364Z",
+    "plainTextLength": 25367
+  }
+}

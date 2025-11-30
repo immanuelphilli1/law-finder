@@ -1,0 +1,79 @@
+{
+  "caseTitle": "GYASEHENE SANAHENE",
+  "summary": "This 1940 West Africa Court of Appeal decision from Accra, Ghana, involved a dispute over inheritance rights under Akyem Abuakwa customary law. The plaintiff, Gyasehene Sanahene Kwame Santeng, claimed succession to eighteen farms and two houses from Kwaku Adae, whose mother was a slave. The defendants, executors of Kwaku Adae's will, argued the property was self-acquired and passed under the will. The court upheld the custom that children of slave women are members of the father's family for succession purposes, affirming the plaintiff's standing. It dismissed the appeal regarding fourteen farms due to insufficient evidence of self-acquisition, but allowed the appeal concerning a storehouse built on the ruins of a family house, ruling it self-acquired since no family materials were used and mere site usage does not make it family property.",
+  "legalKeywords": [
+    "customary law",
+    "succession rights",
+    "slave descent",
+    "family property",
+    "self-acquired property",
+    "inheritance",
+    "Akyem Abuakwa",
+    "West Africa Court of Appeal",
+    "probate",
+    "slave abolition",
+    "tribal relations",
+    "property rights",
+    "successor standing",
+    "will interpretation",
+    "site usage",
+    "building materials",
+    "family land",
+    "court presumption",
+    "evidence standard",
+    "judicial reasoning"
+  ],
+  "topics": [
+    "Inheritance Law",
+    "Customary Law",
+    "Property Rights",
+    "Slavery and Legal Status",
+    "Appellate Decision"
+  ],
+  "verdict": "Appeal allowed in part and dismissed in part",
+  "winningSide": "Partial win for both parties",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Cor. Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Strother-Stewart",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "J. A. Asiedu v. Kwabena Ofori (not reported) suit 97/1932",
+    "Chief A mega Henodji II v. Seshine SaUah (Divisional Court 1931-37 p. 158)",
+    "Nee Mensah Larkai v. Amorkor (1 W.A.C.A. p. 323)",
+    "Eccuah Bimba v. Effuah Mansah, Sarbah's Fanti Customary Laws pp. 116-121"
+  ],
+  "rationaleHighlights": [
+    "Child of a slave woman recognized as member of father's family under customary law",
+    "Successor has standing to sue in own name",
+    "Self-acquired property passes by will; family property by customary inheritance",
+    "Mere use of family site does not make newly built house family property",
+    "No evidence that materials from old family house were reused",
+    "Presumption of family property where evidence of self-acquisition is lacking",
+    "Rights arising from family relations preserved despite abolition of slavery",
+    "Court defers to trial judge's factual findings supported by evidence"
+  ],
+  "confidenceNotes": "High confidence in factual extraction; all key details including parties, judgment, reasoning, and legal principles are explicitly stated in the source text.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/GYASEHENE SANAHENE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:06:30.291Z",
+    "plainTextLength": 10349
+  },
+  "trialDate": "1940-03-11"
+}

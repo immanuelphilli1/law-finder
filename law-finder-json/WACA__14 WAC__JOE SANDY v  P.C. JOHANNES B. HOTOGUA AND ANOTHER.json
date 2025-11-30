@@ -1,0 +1,68 @@
+{
+  "caseTitle": "JOE SANDY v P.C. JOHANNES B. HOTOGUA AND ANOTHER",
+  "summary": "The appellant, Joe Sandy, sued the Paramount Chief and another member of the Tribal Authority for damages for assault and false imprisonment after being detained following a Native Court judgment. The defendants claimed the detention was in lawful execution of the court's order, but no record existed of any such order. The trial judge incorrectly placed the burden on the plaintiff to prove the imprisonment was unlawful. The West African Court of Appeal held that the burden was on the defendants to justify the imprisonment, which they failed to do. Furthermore, the judgment was void because a party to the suit, Lahai Margaa, sat as a member of the Native Court, violating the principle against bias. With no valid court order and a procedurally flawed judgment, the detention was deemed unlawful. The appeal was allowed, the lower court's judgment set aside, and judgment entered for the plaintiff with damages of £100 awarded jointly and severally against the defendants.",
+  "legalKeywords": [
+    "false imprisonment",
+    "onus of proof",
+    "lawful imprisonment",
+    "native court",
+    "judicial bias",
+    "void judgment",
+    "tort",
+    "assault",
+    "procedural fairness",
+    "execution of judgment",
+    "tribal authority",
+    "paramount chief",
+    "judicial misconduct",
+    "burden of justification",
+    "record keeping"
+  ],
+  "topics": [
+    "Tort Law",
+    "Judicial Procedure",
+    "Native Courts",
+    "Human Rights",
+    "Legal Burden of Proof"
+  ],
+  "verdict": "Appeal allowed; judgment entered for plaintiff with damages of £100.",
+  "winningSide": "Appellant (Joe Sandy)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Foster-Sutton",
+      "role": "President"
+    },
+    {
+      "name": "Coussey, J A.",
+      "role": "Judge"
+    },
+    {
+      "name": "Beoku-Betts",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "In re Moulton: Graham v. Moulton, 22 T.L.R., p. 380",
+    "Frome United Breweries v. Bath justices, 1926, App. C., 586"
+  ],
+  "rationaleHighlights": [
+    "The onus of proving lawfulness of imprisonment lies with the defendants, not the plaintiff.",
+    "A party to a suit cannot sit as a judge in the same case; doing so vitiates the entire judgment.",
+    "Absence of a recorded court order for imprisonment renders detention unlawful.",
+    "Failure to comply with statutory record-keeping requirements under Native Courts Ordinance undermines validity of proceedings.",
+    "Imprisonment without a lawful court order constitutes false imprisonment."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear references to legal principles and procedural facts.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/JOE SANDY v  P.C. JOHANNES B. HOTOGUA AND ANOTHER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:39:13.717Z",
+    "plainTextLength": 12451
+  }
+}

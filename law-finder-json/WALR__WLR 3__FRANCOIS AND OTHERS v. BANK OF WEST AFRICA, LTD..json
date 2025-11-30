@@ -1,0 +1,57 @@
+{
+  "caseTitle": "AND OTHERS VERSUS BANK OF WEST AFRICA, LTD.",
+  "summary": "In Francois and Others v. Bank of West Africa, Ltd., the High Court of Ghana held that George James Christian had created a valid express trust during his lifetime by establishing a dedicated bank account titled 'Miss Maude Christian Memorial Fund' to honor his deceased daughter. Despite not disposing of the fund in his will or codicils, the court found that the designation of the account, coupled with correspondence showing his intent to donate the funds to the Gold Coast government for equipping a maternity ward and providing X-ray equipment, constituted a binding trust. The court ruled that Christian had appointed himself as trustee and that his executors, as successors, were obligated to carry out the trust's purpose by transferring the funds to the Ministry of Health. The fund was not to be treated as part of the residuary estate. The decision underscores that a clear declaration of trust and consistent conduct can create an enforceable obligation, even absent formal testamentary inclusion.",
+  "legalKeywords": [
+    "trusts",
+    "charitable purpose",
+    "memorial fund",
+    "express trust",
+    "executor duties",
+    "fixed deposit",
+    "residuary estate",
+    "testamentary disposition",
+    "donor intent",
+    "self-declared trustee"
+  ],
+  "topics": [
+    "Trusts",
+    "Charitable Giving",
+    "Executor Responsibilities",
+    "Wills and Estates",
+    "Intention to Create Trust"
+  ],
+  "verdict": "The court held that a valid trust was created during the testator's lifetime and that the executors must carry out its purpose by transferring the funds to the Ministry of Health for the intended charitable use.",
+  "winningSide": "Plaintiffs (executors seeking to enforce the trust)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Acolatse J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Western Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WALR/WLR 3/FRANCOIS AND OTHERS v. BANK OF WEST AFRICA, LTD."
+  ],
+  "rationaleHighlights": [
+    "Declaration of trust established by creating a dedicated bank account named after the memorial fund.",
+    "Donor acted as trustee during lifetime with intent to benefit a charitable cause.",
+    "Absence of mention in will does not negate prior trust creation.",
+    "Executors step into donor's shoes to fulfill trust purpose.",
+    "Government's acceptance of gift supports enforceability of trust.",
+    "Trust is binding even without formal testamentary execution.",
+    "Fund must be used for intended charitable purpose, not absorbed into residuary estate.",
+    "Court emphasizes donor's consistent intent and lack of revocation."
+  ],
+  "confidenceNotes": "High confidence; all key details (facts, holding, jurisdiction) are explicitly stated in the source text.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/FRANCOIS AND OTHERS v. BANK OF WEST AFRICA, LTD..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:05:22.058Z",
+    "plainTextLength": 7450
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "caseTitle": "KWAME BONSU v KWAME KUSI & GIFTY KUSI AMPOFOWAA",
+  "summary": "This Supreme Court of Ghana decision, delivered on 4th November 2009, affirmed the Court of Appeal's judgment in favor of Kwame Bonsu, the plaintiff-respondent, in a land dispute over Plot No. 10, Block VIII, Guggisberg Road, Adum, Kumasi. The plaintiff, representing the Nana Ama Serwah family, claimed the land was ancestral family property originally acquired in 1906 and wrongfully registered in the name of Michael Reginald Asante, a former family head. The defendants, Kwame Kusi and Gifty Kusi Ampofowaa, claimed ownership through purchase from Asante, asserting the plaintiff's delay in challenging the title amounted to acquiescence. The Supreme Court upheld the Court of Appeal's reversal of the trial court's decision, ruling that the defendants failed to comply with the mandatory procedural requirements of Sections 19 and 27 of the Land Registry Act, 1962 (Act 122) for proving registration. Despite the title deeds being in Asante's name, the Court found the plaintiff had discharged the evidential burden of proving family ownership through historical evidence. The appeal was dismissed by a 3-2 majority, affirming that non-compliance with statutory registration procedures invalidated the defendants' claim to title.",
+  "legalKeywords": [
+    "land ownership",
+    "family property",
+    "title deed",
+    "registration",
+    "evidence",
+    "burden of proof",
+    "laches",
+    "acquiescence",
+    "bona fide purchaser",
+    "Land Registry Act",
+    "Section 27",
+    "rebuttable presumption",
+    "estoppel",
+    "judicial scrutiny",
+    "historical evidence"
+  ],
+  "topics": [
+    "Property Law",
+    "Land Registration",
+    "Family Property",
+    "Evidence Law",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed; judgment of the Court of Appeal affirmed.",
+  "winningSide": "Plaintiff/Respondent (Kwame Bonsu)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Georgina Wood",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Dotse",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "A. Yeboah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "In re Koranteng-Addow (Decd); Koranteng\u0002Addow v Koranteng [1995-96] GLR 252",
+    "Botchway vs. Okine [1987-88] 2 GLR C.A.",
+    "Dahabieh v Turqui [2001-2002] SCGLR 498",
+    "Oman Ghana Trust Holdings v Acquah [1984-86] 198"
+  ],
+  "rationaleHighlights": [
+    "The Court of Appeal correctly held that mere production of documents with land registry numbers is insufficient without compliance with statutory procedures under Sections 19 and 27 of Act 122.",
+    "Title deeds in the name of an individual do not conclusively extinguish family ownership claims if rebutted by credible evidence.",
+    "Assertions against a deceased person in property disputes must be scrutinized with great caution.",
+    "The principle in Botchway v Okine was affirmed: registration does not confer title where the grantor lacked legal title."
+  ],
+  "confidenceNotes": "The case details are drawn directly from a Supreme Court of Ghana judgment with clear citation of legal provisions and precedents. All information is consistent with the provided text, though the source document is truncated, limiting access to the full reasoning on the fourth ground of appeal.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/KWAME BONSU v KWAME KUSI &  GIFTY KUSI AMPOFOWAA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:05:42.362Z",
+    "plainTextLength": 86838
+  },
+  "trialDate": "2009-11-04"
+}

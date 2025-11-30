@@ -1,0 +1,77 @@
+{
+  "caseTitle": "REX v OBI OEKFM AND THREE OTHERS",
+  "summary": "The West Africa Court of Appeal dismissed the appeals of four appellants convicted of robbery with violence under section 402 of the Nigerian Criminal Code. The conviction was based primarily on the testimony of Boke Bissong, an accomplice and participant in the attack, which required corroboration. The court found sufficient corroboration through the testimony of Ele Obi, who witnessed the appellants and Bissong together on the day of the attack, heard a gunshot, and was sent away by the men, with the third appellant later stating they were 'killing people.' Additionally, the portmanteau stolen from the victims was found in the fourth appellant's hut. The court emphasized that robbery under Nigerian law differs from English law, as it includes violence immediately before theft, even if the property is not taken directly from the person. The appellants' prior acquittal on murder charges did not preclude conviction for robbery arising from the same incident. The trial judge was found to have properly evaluated the need for corroboration and witness credibility.",
+  "legalKeywords": [
+    "robbery",
+    "Criminal Code section 402",
+    "corroboration",
+    "accomplice testimony",
+    "circumstantial evidence",
+    "violence",
+    "theft",
+    "conspiracy",
+    "murder charge",
+    "appellate review",
+    "evidentiary standard",
+    "independent evidence",
+    "possession of stolen property",
+    "section 7(b) Criminal Code",
+    "joint trial",
+    "dismissal of appeal",
+    "use of violence",
+    "criminal intent",
+    "witness credibility",
+    "trial delay"
+  ],
+  "topics": [
+    "criminal law",
+    "evidence",
+    "appellate procedure",
+    "robbery",
+    "corroboration"
+  ],
+  "verdict": "Appeal dismissed; convictions for robbery with violence upheld.",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Nigeria"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R v. Baskerville (1916) 2 K.B. 667",
+    "Reg. v. Hashwille (1916) 2 K.B. 667"
+  ],
+  "rationaleHighlights": [
+    "Robbery under Nigerian Criminal Code differs from English law, allowing conviction based on violence immediately before theft.",
+    "Accomplice testimony requires corroboration, particularly on violence and commission of crime.",
+    "Circumstantial evidence, including possession of stolen property and witness testimony, sufficed for corroboration.",
+    "Independent evidence linking each accused to the crime is necessary for conviction.",
+    "Finding of the portmanteau in the fourth appellant's hut corroborated the robbery.",
+    "Trial judge properly directed himself on need for corroboration and assessed witness credibility.",
+    "Acquittal on murder charge does not bar conviction on robbery arising from same incident.",
+    "Conspiracy and joint action established through coordinated attack and division of spoils."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; case details are clearly stated with direct judicial reasoning and citation. Discrepancies in name spelling (e.g., 'Baskervme' likely 'Baskerville') corrected based on legal database knowledge.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/REX v OBI OEKFM AND THREE OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:24:26.778Z",
+    "plainTextLength": 12826
+  },
+  "trialDate": "1941-05-07"
+}

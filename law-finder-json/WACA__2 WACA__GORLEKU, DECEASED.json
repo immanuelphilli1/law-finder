@@ -1,0 +1,75 @@
+{
+  "caseTitle": "GORLEKU, DECEASED",
+  "summary": "This 1934 West African Court of Appeal decision in *In re Estate of A. E. Gorleku, deceased* clarifies the scope of Letters of Administration under section 47 of the Marriage Ordinance (Gold Coast). The court held that such letters apply only to personal property, not real property. Real property, where the deceased could have disposed of it by will, descends automatically—two-thirds according to English Statute of Distribution (22 & 23 Car. II, c. 10) and one-third under applicable native customary law. The ruling rejected the notion that administrators hold real estate, affirming that section 47 distinguishes between distribution of personalty and descent of realty.",
+  "legalKeywords": [
+    "Letters of Administration",
+    "intestate succession",
+    "real property",
+    "personal property",
+    "Marriage Ordinance",
+    "Statute of Distribution",
+    "native customary law",
+    "descent of property",
+    "Gold Coast law",
+    "West African Court of Appeal",
+    "section 47 interpretation",
+    "administration of estate",
+    "customary law",
+    "intestacy",
+    "property distribution"
+  ],
+  "topics": [
+    "Succession Law",
+    "Property Law",
+    "Family Law",
+    "Legal Interpretation",
+    "Colonial Law"
+  ],
+  "verdict": "The court answered both questions in the negative, ruling that Letters of Administration apply only to personal estate and do not vest real property in the administrator.",
+  "winningSide": "Defendant-Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Webber, C.J.",
+      "role": "Judgment delivered"
+    },
+    {
+      "name": "Deane, C.J.",
+      "role": "Concurring"
+    },
+    {
+      "name": "Kingdon, C.J.",
+      "role": "Concurring"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Gold Coast (Ghana)"
+  },
+  "caseType": "Civil Appeal (Estate Administration)",
+  "citations": [
+    "In re James Hagan deceased, Sarbah's Fanti Law Report p. 92",
+    "Odonkor v. Akoshia, Full Court Reports 1926-29, p. 22",
+    "Randolph v. Hammond (2/10/1933, unreported)",
+    "Marriage Ordinance (Gold Coast), s. 47",
+    "Marriage Ordinance, 1903, s. 39"
+  ],
+  "rationaleHighlights": [
+    "Section 47 distinguishes between 'distribution' of personal property and 'descent' of real property.",
+    "The addition of 'or descend' in the 1909 amendment clarifies that realty does not vest in the administrator.",
+    "Administrator only holds personalty for distribution; realty passes automatically to heirs.",
+    "English Statute of Distribution applies to two-thirds of both personal and real property.",
+    "One-third of real property descends under native customary law.",
+    "The ruling in Odonkor v. Akoshia on vesting of realty is considered obiter dictum.",
+    "Land Transfer Act 1898 does not apply in the Gold Coast.",
+    "The 1903 Ordinance's omission of 'or descend' led to incorrect earlier interpretations."
+  ],
+  "confidenceNotes": "The decision is authoritative as a West African Court of Appeal judgment with unanimous concurrence. The interpretation of section 47 is based on clear statutory analysis and historical legal context. All key facts and legal reasoning are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/GORLEKU, DECEASED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:28:27.574Z",
+    "plainTextLength": 10339
+  },
+  "trialDate": "1934-05-15"
+}

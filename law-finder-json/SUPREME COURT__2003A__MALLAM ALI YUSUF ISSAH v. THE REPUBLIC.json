@@ -1,0 +1,84 @@
+{
+  "caseTitle": "MALLAM ALI YUSUF ISSAH v. THE REPUBLIC",
+  "summary": "Mallam Ali Yusuf Issah, former Minister of Youth and Sports, was convicted by the High Court for stealing and fraudulently causing a financial loss of $46,000 to the state under sections 124(1) and 179A(3)(a) of the Criminal Code, 1960. He received concurrent 4-year prison sentences on each count and was ordered to refund the amount or face an additional 2-year sentence. The Court of Appeal upheld the conviction but quashed the 2-year default sentence for non-refund. The Supreme Court dismissed his appeal, affirming that the evidence supported the conviction beyond reasonable doubt and that the trial did not violate his right to a fair trial under Article 19 of the Constitution. The court rejected claims of improper burden of proof, denial of adjournments, and unconstitutionality of the fast-track system, finding no miscarriage of justice.",
+  "legalKeywords": [
+    "criminal appeal",
+    "burden of proof",
+    "circumstantial evidence",
+    "fair trial",
+    "right to adjournment",
+    "stay of proceedings",
+    "miscarriage of justice",
+    "constitutional rights",
+    "fraudulent loss",
+    "stealing",
+    "appellate review",
+    "reasonable doubt",
+    "prosecution evidence",
+    "sentence severity",
+    "concurrent sentences"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Constitutional Law",
+    "Appellate Procedure",
+    "Fair Trial Rights",
+    "Public Corruption"
+  ],
+  "verdict": "Conviction upheld; appeal dismissed",
+  "winningSide": "The Republic (State)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Akuffo, J.S.C.",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "Wiredu, C.J.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Acquah, J.S.C.",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Afreh, J.S.C.",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Dr. Twum, J.S.C.",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Gbadegbe, J.A.",
+      "role": "Court of Appeal judge referenced"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "sections 124(1) and 179A(3)(a) of the Criminal Code, 1960 (Act 29)",
+    "Article 19 of the 1992 Constitution of Ghana",
+    "Section 31(1) and (2) of the Courts Act, 1993 (Act 459)",
+    "Evidence Decree, 1975 (NRCD 323)",
+    "British Airways v. The Attorney General, [1996-97] SCGLR 547"
+  ],
+  "rationaleHighlights": [
+    "Conviction upheld due to sufficient prosecution evidence supporting guilt beyond reasonable doubt",
+    "Appellant failed to discharge burden of producing evidence to raise reasonable doubt on framing defence",
+    "Trial court's refusal of stay and adjournments did not infringe fair trial rights under Article 19",
+    "Court of Appeal correctly interpreted trial judge's comments on burden of proof",
+    "Sentences deemed not harsh given concurrent nature and gravity of offences"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official Supreme Court judgment text. All key details (charges, legal provisions, court reasoning, and outcome) are explicitly stated in the source.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2003A/MALLAM ALI YUSUF ISSAH v. THE REPUBLIC.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:36:32.679Z",
+    "plainTextLength": 19592
+  },
+  "trialDate": "2ND APRIL, 2003"
+}

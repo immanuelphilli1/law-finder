@@ -1,0 +1,34 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The provided document titled 'UNREPORTED CASES OF THE SUPREME COURT OF GHANA 2002' does not contain the actual text of a legal decision. It appears to be a copyright or index page with no case details, parties, judgment, or judicial reasoning. As such, no substantive legal analysis or insights can be derived from the content provided.",
+  "legalKeywords": [
+    "unreported case",
+    "Supreme Court",
+    "Ghana",
+    "2002",
+    "legal decision"
+  ],
+  "topics": [
+    "Supreme Court",
+    "Unreported Cases",
+    "Ghanaian Law"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "unreported",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The provided document appears to be a placeholder or index page rather than the actual legal decision. No substantive content from a court case is present, limiting the ability to extract accurate case details.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2002A/TEMP 2002.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:38:57.505Z",
+    "plainTextLength": 209
+  }
+}

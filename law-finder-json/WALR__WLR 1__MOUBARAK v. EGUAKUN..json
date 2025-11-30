@@ -1,0 +1,60 @@
+{
+  "caseTitle": "MOUBARAK VERSUS EGUAKUN.",
+  "summary": "In Moubarak v. Eguakun (Supreme Court of the Gold Coast, January 31, 1956), the defendant, a tenant on a monthly tenancy in Sekondi, defaulted on rent payments for September and October 1955. The plaintiff landlord sought recovery of possession under s. 11(1)(a) of the Rent Control Ordinance, c. 2 of 1952. The defendant paid the September rent before service of summons and October rent on the returnable date. The District Magistrate granted possession, citing prior default in June 1955. On appeal, Windsor-Aubrey J held that the Ordinance was intended to strengthen tenant security, not weaken it. The court emphasized that s. 11(1) is not automatically triggering; discretion must be exercised. Given the tenant's eight-year history with only two isolated defaults, both linked to financial strain, and full arrears payment before or on the hearing date, the circumstances did not justify forfeiture. The magistrate's failure to consider s. 11(3), which allows discharge of an order upon payment within a reasonable time, was a material oversight. The appeal was allowed, the possession order set aside, and the defendant awarded costs of appeal, though liable for costs at first instance due to initial arrears.",
+  "legalKeywords": [
+    "landlord and tenant",
+    "recovery of possession",
+    "rent in arrears",
+    "Rent Control Ordinance",
+    "forfeiture",
+    "relief from forfeiture",
+    "monthly tenancy",
+    "security of tenure",
+    "payment into court",
+    "default in rent payment",
+    "appeal allowed"
+  ],
+  "topics": [
+    "Landlord and Tenant",
+    "Rent Control",
+    "Forfeiture",
+    "Appeal",
+    "Judicial Discretion"
+  ],
+  "verdict": "Appeal allowed; order for possession set aside.",
+  "winningSide": "Defendant (Tenant)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Windsor-Aubrey J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Western Judicial Division, Divisional Court, Sekondi",
+    "country": "Ghana"
+  },
+  "caseType": "Civil",
+  "citations": [
+    "Rent Control Ordinance, c. 2 of 1952, s. 11(1)(a)",
+    "Halsbury, Hailsham ed., Vol 20, pp. 264–267, paras. 297–299",
+    "Laws of the Gold Coast, Supplement 1952–1954, Vol 1, p. 225"
+  ],
+  "rationaleHighlights": [
+    "The Rent Control Ordinance aims to enhance tenant protection, not reduce it.",
+    "Section 11(1)(a) is not mandatory when conditions are met; discretion applies.",
+    "Tenant's two isolated defaults over eight years do not justify possession order.",
+    "Arrears paid before or on returnable date of summons weigh against forfeiture.",
+    "Magistrate failed to consider s. 11(3) allowing suspension/discharge of order upon payment.",
+    "Financial hardship from prior default may explain subsequent delay.",
+    "No pattern of continual default; tenant generally compliant.",
+    "Appeal allowed: order for possession set aside."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment text.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/MOUBARAK v. EGUAKUN..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:02:42.837Z",
+    "plainTextLength": 4676
+  }
+}

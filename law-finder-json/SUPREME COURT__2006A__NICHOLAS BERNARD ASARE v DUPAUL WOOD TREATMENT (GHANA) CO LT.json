@@ -1,0 +1,83 @@
+{
+  "caseTitle": "NICHOLAS BERNARD ASARE v DUPAUL WOOD TREATMENT (GHANA) CO LT",
+  "summary": "This Supreme Court of Ghana case, decided on 7th June 2006, involved a dispute between two former business partners, Nicholas Bernard Asare and Dr. Kwame Dufour, over shareholding and corporate governance in Dupaul Wood Treatment (Ghana) Co Ltd. The central issue was whether Asare remained a 50% shareholder or had his stake lawfully diluted to 10% under new company regulations adopted in 1980. The trial court held that Asare had acquiesced to the 10% shareholding, but the Court of Appeal reversed this, affirming his status as a 50% shareholder and victim of oppressive conduct. The Supreme Court examined the validity of the 1980 special resolution and new regulations, noting defects including lack of proper registration and internal inconsistencies, ultimately finding that the changes were not legally effective. The court upheld that Asare remained a member and 50% shareholder, and that his removal as director and dilution of shares constituted oppression under Section 218 of the Companies Code 1963 (Act 179).",
+  "legalKeywords": [
+    "shareholder rights",
+    "corporate oppression",
+    "company registration",
+    "special resolution",
+    "member status",
+    "share dilution",
+    "Companies Code 1963",
+    "regulatory compliance",
+    "directors' appointment",
+    "fraud on minority shareholder",
+    "acquiescence",
+    "alteration of regulations",
+    "non-payment of shares",
+    "subsidiary legislation",
+    "judicial review"
+  ],
+  "topics": [
+    "Corporate Law",
+    "Shareholding Dispute",
+    "Oppression of Minority Shareholder",
+    "Company Registration Requirements",
+    "Validity of Special Resolution"
+  ],
+  "verdict": "The Supreme Court upheld the Court of Appeal's decision, ruling in favor of the plaintiff/appellant, Nicholas Bernard Asare.",
+  "winningSide": "Plaintiff/Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "Miss Akuffo",
+      "role": "Presiding"
+    },
+    {
+      "name": "Mrs. Wood",
+      "role": "Justice"
+    },
+    {
+      "name": "Aninakwah",
+      "role": "Justice"
+    },
+    {
+      "name": "Asiamah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "[2003-2004] SCGLR 1016",
+    "Companies Code 1963 (Act 179)",
+    "Section 30(1)",
+    "Section 185(2)",
+    "Section 218"
+  ],
+  "rationaleHighlights": [
+    "Non-payment for shares does not negate membership status under the Companies Code.",
+    "A special resolution and new regulations must be properly executed and registered to have legal effect.",
+    "Internal inconsistencies in documents (e.g., missing Regulation 56) render appointments and share allocations invalid.",
+    "Acquiescence to a shareholding structure does not validate unlawful corporate actions.",
+    "Oppressive conduct includes unilateral share dilution and removal of a director without due process.",
+    "The court emphasized procedural compliance in corporate governance to protect minority shareholders.",
+    "Extrinsic evidence may support registration, but absence of registration undermines legal validity.",
+    "The original subscription documents prevail when subsequent alterations are invalid."
+  ],
+  "confidenceNotes": "The summary is based on a truncated document, but key holdings and reasoning are clearly stated in the available portion. The outcome aligns with established principles of Ghanaian company law regarding shareholder rights and procedural validity.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2006A/NICHOLAS BERNARD ASARE v DUPAUL WOOD TREATMENT (GHANA) CO LT.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:24:10.145Z",
+    "plainTextLength": 50024
+  },
+  "trialDate": "2005-04-25"
+}

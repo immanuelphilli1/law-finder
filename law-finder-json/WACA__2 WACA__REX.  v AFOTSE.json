@@ -1,0 +1,69 @@
+{
+  "caseTitle": "REX. v AFOTSE",
+  "summary": "In Rex v Afotse (1934), the West African Court of Appeal affirmed the trial judge's ruling that a statement made by one accused and read to others by a police inspector was inadmissible against the other accused due to non-compliance with Rule 8 of the Judges' Rules. The court emphasized that the rule, designed to prevent entrapment and ensure fair procedure, requires that co-accused be given copies of statements without police prompting. Recognizing widespread illiteracy, the court added a proviso allowing statements to be read or interpreted by a non-police officer. Any remarks made during such reading are inadmissible, but a cautioned reply may be taken if the accused wishes to respond.",
+  "legalKeywords": [
+    "admissibility of evidence",
+    "co-accused statements",
+    "police procedure",
+    "illiterate accused",
+    "caution",
+    "rule 8",
+    "self-incrimination",
+    "procedural fairness",
+    "criminal trial",
+    "evidence law",
+    "statement in reply",
+    "entrapment",
+    "judicial ruling",
+    "case stated",
+    "appellate opinion"
+  ],
+  "topics": [
+    "Evidence",
+    "Criminal Procedure",
+    "Judicial Rules",
+    "Police Conduct",
+    "Right to Fair Trial"
+  ],
+  "verdict": "The trial judge's ruling excluding the statement was upheld.",
+  "winningSide": "Defense (on the issue of admissibility)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Deane",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Webber",
+      "role": "Judge"
+    },
+    {
+      "name": "Butler-Lloyd",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Afotse, WACA/2, 12 November 1934",
+    "Archbold 28th Edition, p. 406"
+  ],
+  "rationaleHighlights": [
+    "The statement made by one accused was inadmissible against others due to non-compliance with Rule 8.",
+    "Rule 8 requires that co-accused be given copies of statements, not have them read by police.",
+    "Reading statements by police risks entrapment and violates procedural fairness.",
+    "For illiterate accused, statements should be read by a non-police person to prevent coercion.",
+    "Any response during reading is inadmissible; only cautioned replies may be used."
+  ],
+  "confidenceNotes": "The document is a reported judgment from the West African Court of Appeal with clear procedural details and judicial reasoning. Citation accuracy is high based on standard legal reporting formats for the period.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/REX.  v AFOTSE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:19:16.357Z",
+    "plainTextLength": 4921
+  },
+  "trialDate": "1934-11-12"
+}

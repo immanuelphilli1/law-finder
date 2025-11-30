@@ -1,0 +1,67 @@
+{
+  "caseTitle": "SAID AJAMI v THE COMPTROLLER OF CUSTOMS 2",
+  "summary": "The Privy Council upheld a decision by the West African Court of Appeal affirming penalties against Said Ajami for attempting to export 9,884,500 French Colonial Francs from Nigeria in violation of the Exchange Control Ordinance, 1950. The key issue was whether the notes were legal tender in French West Africa, a territory covered under the Ordinance. The Comptroller of Customs relied on the testimony of Mr. Greenway, a Barclays Bank manager with 32 years of banking experience, who stated the notes were legal tender 'to the best of my knowledge'. The appellant challenged the competency of a non-lawyer to testify on foreign law and the sufficiency of the evidence. The Privy Council held that practical professional experience, especially for an authorised foreign currency dealer operating near French West Africa, qualified Mr. Greenway as a competent expert under sections 56 and 57 of the Nigerian Evidence Ordinance. His unchallenged testimony, combined with the bank's authorised status, was deemed sufficient to prove the notes were legal tender. The appeal was dismissed.",
+  "legalKeywords": [
+    "expert evidence",
+    "foreign law",
+    "legal tender",
+    "currency regulation",
+    "exchange control",
+    "competency of witness",
+    "probative value",
+    "authorised dealer",
+    "customs enforcement",
+    "appellate review",
+    "evidence admissibility",
+    "banking practice",
+    "cross-examination",
+    "judicial presumption",
+    "Privy Council"
+  ],
+  "topics": [
+    "Evidence Law",
+    "Customs and Excise",
+    "Currency Regulation",
+    "Expert Testimony",
+    "Administrative Penalties"
+  ],
+  "verdict": "Appeal dismissed; conviction and penalty for illegal export of currency upheld.",
+  "winningSide": "The Comptroller of Customs (respondent/state)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Lord Morton of Henryton"
+    },
+    {
+      "name": "Lord Keith of Avonholm"
+    },
+    {
+      "name": "Mr. L. M. D. de Silva",
+      "role": "delivering judgment"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal (on appeal to Privy Council)",
+    "country": "Ghana"
+  },
+  "caseType": "administrative",
+  "citations": [
+    "Vander Donckt v. Thellusson (1849), 8 C.B. 812",
+    "Exchange Control Ordinance, 1950, s 22(1)",
+    "Nigeria Evidence Ordinance, ss 56, 57"
+  ],
+  "rationaleHighlights": [
+    "Practical knowledge in a relevant profession can qualify a non-lawyer as an expert on foreign law.",
+    "An authorised currency dealer is presumed to be informed about legal tender in neighbouring territories.",
+    "Failure to cross-examine or rebut expert testimony strengthens its probative value.",
+    "The phrase 'to the best of my knowledge' does not nullify expert testimony if unchallenged."
+  ],
+  "confidenceNotes": "High confidence; source is a Privy Council judgment with detailed legal reasoning and clear factual record. No ambiguity in outcome or rationale.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/SAID AJAMI   v THE COMPTROLLER OF CUSTOMS 2.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:30:55.768Z",
+    "plainTextLength": 15210
+  },
+  "trialDate": "1952-11-08"
+}

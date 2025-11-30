@@ -1,0 +1,65 @@
+{
+  "caseTitle": "REX v NICHOLAS VEGA",
+  "summary": "The appellant, a prison warder, was convicted of stealing old corrugated iron sheets belonging to the government. On appeal, the West Africa Court of Appeal quashed the conviction, holding that the appellant acted in good faith and reasonably believed the materials had been abandoned by the government. The court emphasized that abandoned property cannot be stolen, and thus there was no mens rea. Additionally, the trial judge misdirected himself by applying an incorrect legal test for theft under Section 383 of the Criminal Code and failed to consider the appellant's belief regarding abandonment, constituting a further misdirection.",
+  "legalKeywords": [
+    "theft",
+    "abandonment",
+    "mens rea",
+    "bona fide belief",
+    "criminal liability",
+    "misdirection",
+    "stolen property",
+    "good faith",
+    "corregated iron",
+    "government property"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Theft",
+    "Property Law",
+    "Judicial Misdirection",
+    "Good Faith Defense"
+  ],
+  "verdict": "Conviction quashed, acquittal entered",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v. White, 23 Cox 190",
+    "Archbold, 29th edition, p. 535",
+    "Section 383 of the Criminal Code"
+  ],
+  "rationaleHighlights": [
+    "Appellant took abandoned government property in good faith",
+    "No mens rea established due to reasonable belief in abandonment",
+    "Ownership abandonment negates capacity for theft",
+    "Trial judge erred in legal test for stealing",
+    "Failure to direct jury on accused's belief was misdirection"
+  ],
+  "confidenceNotes": "High confidence; details are clearly stated in the judgment, including legal principles, misdirection, and outcome.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX  v  NICHOLAS VEGA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:00:03.297Z",
+    "plainTextLength": 3469
+  },
+  "trialDate": "1938-01-05"
+}

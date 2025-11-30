@@ -1,0 +1,66 @@
+{
+  "caseTitle": "ALEXANDER D. YASKEY·",
+  "summary": "In this civil case before the West African Court of Appeal, the plaintiff sued the President, Councillors, and Citizens of Freetown for £56 1s, but failed to prove service of the written notice required under Section 180(1) of the Freetown Municipality Ordinance, 1927. That provision prohibits the issuance or service of writs against municipal officers unless one month after written notice—detailing the cause of action, plaintiff's name and address, and solicitor's information—has been served. The court held that the failure to serve such notice constitutes a statutory defence, which must be specially pleaded under Order XIX, Rule 7 of the County Court Rules. Since the plaintiff did not meet this prerequisite, the trial court entered judgment for the defendants, a decision upheld on appeal. The case underscores the mandatory nature of statutory notice requirements in actions against protected municipal officers.",
+  "legalKeywords": [
+    "notice in writing",
+    "special defence",
+    "statutory defence",
+    "municipal officers",
+    "protection from liability",
+    "writ enforcement",
+    "failure to serve notice",
+    "County Court Rules",
+    "Freetown Municipality Ordinance",
+    "pleading requirements",
+    "case stated",
+    "judgment for defendant"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Municipal Law",
+    "Statutory Interpretation",
+    "Defence Pleading",
+    "Judicial Review"
+  ],
+  "verdict": "Judgment for the defendants was upheld due to the plaintiff's failure to serve the statutory notice required under Section 180(1) of the Freetown Municipality Ordinance, 1927.",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Deane",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Beoku-Betts",
+      "role": "Counsel for Plaintiff"
+    },
+    {
+      "name": "Boston",
+      "role": "Counsel for Defendants"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "Freetown Municipality Ordinance, 1927, s 180(1)",
+    "County Court Rules, Order XIX, r 7",
+    "Ordinance No. 9 of 1929, s 4"
+  ],
+  "rationaleHighlights": [
+    "An allegation of failure to serve statutory notice is a defence by statute and must be specially pleaded.",
+    "Section 180(1) of the Freetown Municipality Ordinance conditions legal action by requiring written notice one month prior to process.",
+    "Failure to prove service of the required notice bars the plaintiff from proceeding.",
+    "Order XIX r 7 mandates formal pleading of statutory defences five clear days before the return date.",
+    "The court upheld judgment for the defendant due to non-compliance with statutory notice requirements."
+  ],
+  "confidenceNotes": "The document appears to be a partial transcript from a law report or legal database, with some formatting issues (e.g., broken images, truncated text). However, key legal reasoning and holding are discernible.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/ALEXANDER D. YASKEY·.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:52:50.854Z",
+    "plainTextLength": 3518
+  }
+}

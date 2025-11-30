@@ -1,0 +1,81 @@
+{
+  "caseTitle": "C.C.W. LIMITED v ACCRA METROPOLITAN ASSEMBLY",
+  "summary": "This is a civil appeal before the Supreme Court of Ghana concerning the termination of a waste management service agreement between C.C.W. Limited (Plaintiff) and the Accra Metropolitan Assembly (AMA) (Defendant). The 1997 agreement, intended to last seven years, was terminated by AMA in 2001. The Plaintiff claimed breach of contract and sought payment for services rendered, interest, damages, and loss of profit. AMA defended on grounds that the contract was illegal due to non-compliance with statutory procurement procedures under the Local Government Act 1993 (Act 462), specifically Sections 39, 87, and 88, and its own Standing Orders, particularly Section 67(1), which required oversight by a District Tender Board. AMA also argued that the contract required prior parliamentary approval under the Loans Act 1970 (Act 335) because it depended on external financing. The High Court found the contract was not signed under duress but was invalid due to failure to comply with procurement laws. The Supreme Court upheld this, ruling the agreement unenforceable and dismissing the Plaintiff’s claims, while also rejecting AMA’s counterclaims for account reconciliation and payment for asset use. The decision emphasizes strict adherence to public procurement and financial regulations in public contracts.",
+  "legalKeywords": [
+    "breach of contract",
+    "public procurement",
+    "statutory compliance",
+    "contract validity",
+    "Local Government Act 1993",
+    "Loans Act 1970",
+    "District Tender Board",
+    "parliamentary approval",
+    "unconscionable contract",
+    "government contracts",
+    "contract termination",
+    "duress",
+    "financial regulations",
+    "enforceability",
+    "public policy"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Contract Law",
+    "Public Finance"
+  ],
+  "verdict": "The Supreme Court dismissed the Plaintiff's appeal, upholding the High Court's decision that the service agreement was unenforceable due to non-compliance with statutory procurement and financial regulations. The Defendant's counterclaims were also dismissed.",
+  "winningSide": "Accra Metropolitan Assembly (Defendant/Appellant)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Miss Akuffo",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansaah",
+      "role": "Justice"
+    },
+    {
+      "name": "Aninakwah",
+      "role": "Justice"
+    },
+    {
+      "name": "Asiamah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "Local Government Act 1993 (Act 462)",
+    "Loans Act 1970 (Act 335)",
+    "Companies Code, 1963 (Act 179)",
+    "Local Government (District Tender Boards) (Establishment) Regulations 1995 (L.I. 1606)",
+    "1992 Constitution of Ghana, Article 181"
+  ],
+  "rationaleHighlights": [
+    "The contract was not signed under duress but failed to comply with mandatory procurement procedures under Act 462 and AMA's Standing Orders.",
+    "The absence of District Tender Board involvement and lack of General Assembly approval rendered the agreement illegal.",
+    "The financing structure required parliamentary approval under the Loans Act, which was not obtained.",
+    "Public entities cannot bypass statutory financial and procurement safeguards even if the other party performed services.",
+    "The Plaintiff could not enforce an illegal contract, and the termination, while unilateral, was justified by the contract's initial invalidity.",
+    "The Defendant could not counterclaim for asset use fees due to lack of formal agreement or accounting basis.",
+    "The court affirmed that compliance with public financial regulations is a condition precedent to contract validity in public procurement.",
+    "Equitable estoppel did not apply because the Plaintiff was aware of the procedural irregularities."
+  ],
+  "confidenceNotes": "High confidence. The summary and details are derived directly from the provided transcript of the Supreme Court judgment, including the court composition, statutory references, factual background, and judicial reasoning. All extracted data points are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2007A/C.C.W. LIMITED v    ACCRA METROPOLITAN ASSEMBLY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:20:52.227Z",
+    "plainTextLength": 58597
+  },
+  "trialDate": "2007-05-04"
+}

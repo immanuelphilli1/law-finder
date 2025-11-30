@@ -1,0 +1,83 @@
+{
+  "caseTitle": "Gladys Anane Addo & 9 v Kumasi Metropolitan Assembly , Kejet",
+  "summary": "In this civil appeal before the Supreme Court of Ghana, the Kejetia Traders Association (Appellant) challenged the High Court and Court of Appeal decisions ordering it to render accounts for funds collected from members, including the Plaintiffs, to pre-finance the reconstruction of market stalls at Kejetia, Kumasi. The Plaintiffs, former licensees of the Kumasi Metropolitan Assembly (KMA), contributed significant sums to rebuild the market but were excluded from priority re-allocation. The High Court ruled that KMA alone had statutory authority to allocate stalls and ordered the Association to account for the funds, with audits by the Serious Fraud Office. The Supreme Court upheld this, finding that the High Court properly applied Order 33 Rule 3 of the High Court (Civil Procedure) Rules, despite the Appellant's claim that accounts should have been ordered earlier. The Court emphasized the Appellant's duty to account due to its fiduciary role and noted the lack of proper accounting records. The appeal was dismissed as without merit and potentially in bad faith, affirming the need for transparency and accountability in member-funded projects.",
+  "legalKeywords": [
+    "accountability",
+    "allocation of market stalls",
+    "breach of fiduciary duty",
+    "civil procedure",
+    "declaration",
+    "executive accountability",
+    "financial mismanagement",
+    "injunction",
+    "judicial efficiency",
+    "judicial review",
+    "market administration",
+    "misapplication of funds",
+    "Order 33 Rule 3",
+    "perpetual injunction",
+    "pre-financing",
+    "public market management",
+    "reconstruction project",
+    "statutory authority",
+    "transparency",
+    "verification of accounts"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Fiduciary Duty",
+    "Judicial Review",
+    "Market Administration",
+    "Public Finance"
+  ],
+  "verdict": "Appeal dismissed. The Supreme Court upheld the decisions of the High Court and Court of Appeal, affirming the order for accounts and audit of the Kejetia Traders Association's finances.",
+  "winningSide": "Respondents (Gladys Anane Addo & 9 others and Kumasi Metropolitan Assembly)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sophia A. B. Akuffo",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "Mrs. Adinyira",
+      "role": "Justice"
+    },
+    {
+      "name": "Asiamah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Commodore v. Fruit Supply Ghana Limited, [1977] 1 GLR 241 at 280 and 281",
+    "High Court (Civil Procedure) Rules, 1954 (LN 140A)",
+    "High Court (Civil Procedure) (Amendment) (No.2) Rules 1977 (L.I. 1129)"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court upheld the lower courts' orders for accounts and audit, affirming the High Court's use of Order 33 Rule 3 despite timing concerns.",
+    "The Kejetia Traders Association had a duty to account for funds collected from members for market reconstruction.",
+    "The Court found no misapplication of Order 33 Rule 3, as the High Court acted within its powers by ordering post-judgment accounting and audit.",
+    "The appeal was dismissed as lacking merit and potentially brought in bad faith, given the Appellant's agreement on the need for accounting.",
+    "KMA was affirmed as the sole statutory body with authority to allocate public market stalls in Kumasi."
+  ],
+  "confidenceNotes": "The document is a full judgment from the Supreme Court of Ghana with clear judicial reasoning and citation of applicable rules and precedents. All key elements are present and verifiable.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2007A/Gladys Anane Addo & 9 v Kumasi Metropolitan Assembly , Kejet.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:20:09.740Z",
+    "plainTextLength": 16909
+  },
+  "trialDate": "2006-04-19"
+}

@@ -1,0 +1,61 @@
+{
+  "caseTitle": "REX v PETER NDBYEE",
+  "summary": "In Rex v Peter NdbYee (WACA/7, 23rd April 1941), the appellant was convicted of manslaughter and, in the same trial, of a reckless and negligent act under section 343(c) of the Criminal Code, both based on the same facts. The West Africa Court of Appeal held that the charges should have been treated as alternatives, not cumulative. Consequently, the sentence on the second count was quashed, with no substitute sentence imposed, while the two-year sentence for manslaughter was upheld.",
+  "legalKeywords": [
+    "manslaughter",
+    "reckless and negligent act",
+    "section 343(c) Criminal Code",
+    "consecutive sentences",
+    "alternative charges",
+    "appellate review",
+    "sentencing error",
+    "quashed sentence",
+    "same facts",
+    "conviction"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Sentencing",
+    "Appellate Procedure",
+    "Double Jeopardy"
+  ],
+  "verdict": "Sentence on second count quashed; manslaughter conviction and sentence upheld",
+  "winningSide": "Appellant (on the second count)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "Graham Paul, C.J., Sierra Leone",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Peter NdbYee, WACA/7, 23rd April 1941"
+  ],
+  "rationaleHighlights": [
+    "The two charges were based on the same facts and should have been treated as alternative counts.",
+    "Conviction on both counts constituted double jeopardy in substance.",
+    "The sentence on the second count is quashed with no substitution.",
+    "The sentence on the first count (manslaughter) is upheld."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment text.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/REX v  PETER NDBYEE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:28:32.343Z",
+    "plainTextLength": 2171
+  },
+  "trialDate": "23RD APRIL, 1941"
+}

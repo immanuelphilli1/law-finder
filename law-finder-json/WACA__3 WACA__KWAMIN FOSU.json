@@ -1,0 +1,80 @@
+{
+  "caseTitle": "KWAMIN FOSU",
+  "summary": "This 1936 West African Court of Appeal decision arose from a protracted legal dispute over the custody of the Abease Stool, a traditional leadership symbol within the Assin Attandaso State in colonial Ghana. The plaintiff, Kwamin Fosu, had been entrusted with the stool for safekeeping by the Paramount Chief, but the defendant, J. G. Turkson, took it from him in the name of the Omanhene without authorization. A writ was issued in 1931 in a native tribunal, which transferred the case to the State Council. The Council ruled in favor of Fosu in 1932, finding that Turkson's actions violated customary law and threatened the constitutional order of the state. Turkson pursued multiple appeals through various courts, including the District Commissioner's Court and Divisional Court, raising issues of jurisdiction, the validity of the writ, and the nature of the dispute. The District Commissioner ultimately dismissed the appeal in 1934, holding that the matter was constitutional in nature and thus outside the jurisdiction of civil courts under section 35 of the Native Administration Ordinance. The West African Court of Appeal affirmed this ruling, restoring the 1934 judgment and setting aside all subsequent proceedings. The court concluded that disputes over stool custody during vacancy are political or constitutional matters reserved for native authorities or the Governor, not civil litigation.",
+  "legalKeywords": [
+    "stool custody",
+    "native tribunal",
+    "constitutional matter",
+    "jurisdiction",
+    "appeal",
+    "Native Administration Ordinance",
+    "customary law",
+    "State Council",
+    "writ of summons",
+    "political question",
+    "deceit",
+    "fraudulent misrepresentation",
+    "oath swearing",
+    "tribal authority",
+    "paramount chief",
+    "jurisdictional bar",
+    "procedural delay",
+    "constitutional principles",
+    "bond to keep peace",
+    "allegiance"
+  ],
+  "topics": [
+    "Customary Law",
+    "Appellate Procedure",
+    "Jurisdiction",
+    "Stool Succession",
+    "Native Administration"
+  ],
+  "verdict": "Judgment of the District Commissioner's Court dated 10th April, 1934, dismissing the appeal from the State Council was restored; all subsequent judgments were set aside.",
+  "winningSide": "Kwamin Fosu (Appellant-Respondent)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Native Administration Ordinance (Cap. 111)",
+    "section 35 of the N.A.O.",
+    "section 76 of Chapter 111",
+    "section 91 (2) of the Native Administration Ordinance",
+    "section 91 (1) of the Native Administration Ordinance of 1927"
+  ],
+  "rationaleHighlights": [
+    "The District Commissioner's Court correctly held it lacked jurisdiction under section 35 of the N.A.O. over what was deemed a constitutional or political matter concerning stool succession.",
+    "The appeal was ultimately dismissed because the original writ and State Council judgment involved matters outside the civil jurisdiction of lower courts.",
+    "The West African Court of Appeal restored the judgment of the District Commissioner's Court dated 10th April, 1934, dismissing the appeal from the State Council.",
+    "All subsequent proceedings following the 1934 judgment were set aside as invalid due to lack of jurisdiction.",
+    "The case centered on the custody of the Abease Stool, a matter tied to native customary law and political structure, not private tort.",
+    "The plaintiff had been entrusted with the stool for safekeeping by the Paramount Chief, and the defendant’s unauthorized removal was seen as an act against state authority.",
+    "Repeated appeals and procedural maneuvers over five years highlighted multiplicity of proceedings, which the court sought to curtail.",
+    "The court emphasized that disputes over stool custody during vacancy are triable only by native tribunals or through executive appeal to the Governor, not through civil courts."
+  ],
+  "confidenceNotes": "The case details are drawn directly from the judgment text, with clear procedural history and legal references. Some document truncation occurs near the end, but key holdings and facts are preserved.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/KWAMIN FOSU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:20:10.122Z",
+    "plainTextLength": 37904
+  },
+  "trialDate": "1936-12-19"
+}

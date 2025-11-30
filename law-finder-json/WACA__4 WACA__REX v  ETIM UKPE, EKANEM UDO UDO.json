@@ -1,0 +1,67 @@
+{
+  "caseTitle": "REX v ETIM UKPE, EKANEM UDO UDO",
+  "summary": "The West Africa Court of Appeal heard an appeal by Etim Ukpe and Ekanem Udo Udo against their convictions for the murder of Akpan Udofia. The court quashed the conviction of the first appellant, Etim Ukpe, finding that his mere presence and agreement at a village meeting to kill an Okon man did not constitute aiding, counsel, or forming a common unlawful purpose under sections 7, 8, or 9 of the Criminal Code. The court held that such an agreement to act severally, not jointly, and mere intent without overt action does not make one an accessory before the fact. However, the second appellant, Ekanem Udo Udo, was found to have sufficient evidence linking him to the actual murder, including physical evidence and participation in the dismemberment and disposal of the body. His appeal was dismissed.",
+  "legalKeywords": [
+    "accessory before the fact",
+    "common intention",
+    "corroboration",
+    "criminal liability",
+    "evidence",
+    "joint enterprise",
+    "murder",
+    "section 7 Criminal Code",
+    "section 8 Criminal Code",
+    "statement of accused",
+    "accessory after the fact"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Review",
+    "Murder",
+    "Evidence Law"
+  ],
+  "verdict": "Appeal allowed for first appellant (Etim Ukpe); conviction quashed and acquittal entered. Appeal dismissed for second appellant (Ekanem Udo Udo); conviction upheld.",
+  "winningSide": "Crown (Rex) on the conviction of second appellant; first appellant successfully appealed.",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webb",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal appeal",
+  "citations": [
+    "Rex v Etim Ukpe, Ekanem Udo Udo, WACA/4/1938",
+    "Criminal Code, sections 7, 8"
+  ],
+  "rationaleHighlights": [
+    "Mere agreement at a meeting to commit a general act of violence does not constitute liability as an accessory before the fact.",
+    "Section 7 of the Criminal Code requires active aiding or counsel, not passive agreement.",
+    "Section 8 requires a common intention to act jointly, not severally.",
+    "The first appellant's statement did not show purposeful assistance in the actual murder.",
+    "Physical evidence and direct involvement justified the second appellant's conviction.",
+    "An acquitted co-defendant may become a non-accomplice witness requiring caution but not corroboration.",
+    "The trial judge erred in equating presence and agreement with criminal participation.",
+    "Intent without action is not sufficient for criminal liability under the Code."
+  ],
+  "confidenceNotes": "High confidence; judgment is clear and reasoning is well-articulated. Jurisdictional context aligns with British West African legal framework of the era.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX v  ETIM UKPE, EKANEM UDO UDO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:56:01.151Z",
+    "plainTextLength": 5654
+  },
+  "trialDate": "1938-10-26"
+}

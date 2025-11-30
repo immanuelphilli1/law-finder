@@ -1,0 +1,75 @@
+{
+  "caseTitle": "REX v NASAMU",
+  "summary": "The appellant, Nasamu, was convicted of the murder of his wife, Ode, by the High Court of Ibadan Division and sentenced to death. On appeal to the West Africa Court of Appeal, the sole issue was whether the proper verdict should have been 'guilty but insane' rather than 'guilty of murder.' The trial judge found ample evidence that Nasamu was insane immediately after the killing but concluded he failed to prove insanity before the act, hence returning a 'guilty' verdict. However, in a Rule 47 report, the judge noted Nasamu was 'definitely abnormal' at the time of the crime and 'most probably did not know the nature of his act.' The appellate court held that under Section 28 of the Criminal Code (applicable in the jurisdiction), the burden of proof for insanity is lower than the prosecution's standard and akin to the civil standard. It ruled that a finding of 'most probable' lack of knowledge suffices to meet this burden. Furthermore, the court interpreted 'contemporaneous acts' to include conduct immediately after the offense, meaning post-killing insanity is relevant to the mental state during the act. Given the trial judge's strong observations, the appellate court substituted the verdict to 'guilty but insane,' emphasizing that the legal framework required a more liberal interpretation of mental state evidence.",
+  "legalKeywords": [
+    "insanity defense",
+    "criminal responsibility",
+    "mental disease",
+    "contemporaneous acts",
+    "burden of proof",
+    "murder conviction",
+    "guilty but insane",
+    "Criminal Code",
+    "Rule 47",
+    "delusions",
+    "legal sanity",
+    "post-offense insanity",
+    "uncontrollable impulse",
+    "presumption of sanity",
+    "abnormal mental state"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Mental Health Law",
+    "Appellate Procedure",
+    "Burden of Proof",
+    "Insanity Defense"
+  ],
+  "verdict": "Guilty but insane",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Nasamu",
+    "Sodeham v The King",
+    "R v Fryer (24 Cox 403)",
+    "Archbold Criminal Pleading, Evidence and Practice, 30th Ed.",
+    "Halsbury's Laws of England, 1st Ed., Vol 9"
+  ],
+  "rationaleHighlights": [
+    "The law in Nigeria (applicable by extension in Gold Coast) differs from English law on insanity, per Section 28 of the Criminal Code.",
+    "A finding that the accused 'most probably' did not know the nature of his act suffices to establish insanity defense, given the lower burden of proof.",
+    "The term 'contemporaneous acts' includes actions immediately after the offense, not strictly simultaneous ones.",
+    "Insanity immediately after the act, combined with abnormality at the time, supports a 'guilty but insane' verdict.",
+    "Trial judge erred by not converting a 'most probable' finding into a definitive factual conclusion.",
+    "Medical certificate confirmed fitness to plead, but behavioral evidence post-offense was critical.",
+    "No evidence of prior mental illness or family history, but post-act conduct was compelling.",
+    "The court substituted 'guilty but insane' based on legal interpretation of mental state timing."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment, including legal standards, judicial findings, and statutory references.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/REX v NASAMU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:56:59.953Z",
+    "plainTextLength": 15663
+  },
+  "trialDate": "1940-04-24"
+}

@@ -1,0 +1,90 @@
+{
+  "caseTitle": "NATHANIEL BOSOMPRAH FIANKO & OTHERS v PHILIP DODOO DJAN & O",
+  "summary": "In this civil appeal before the Ghanaian Supreme Court, the appellants challenged the lower courts' determination that the co-respondent, Daniel Tawiah Akotuah Addo, was the beneficial owner of property H/No. B 565/6, Abossey Okai, Accra, despite a registered title deed (Exhibit B) and other documents being in the name of their late father, Nathaniel Fianko Akotuah. The lower courts consistently found that the co-respondent provided the purchase money and had collected rents without challenge, establishing beneficial ownership. The appellants argued errors in the application of estoppel, conclusive presumptions under Sections 25 and 26 of the Evidence Decree, and misappreciation of documentary evidence. The Supreme Court dismissed the appeal, affirming that concurrent findings of fact by lower courts are not disturbed absent a clear blunder or miscarriage of justice. It held that estoppel did not apply as the co-respondent was not a party to the deed, and equitable principles allow the true purchaser to prove beneficial ownership despite legal title being in another's name. The Court found no misapplication of law or evidence warranting interference.",
+  "legalKeywords": [
+    "estoppel by conduct",
+    "beneficial ownership",
+    "conclusive presumption",
+    "documentary evidence",
+    "equity",
+    "title deed",
+    "rent collection",
+    "ejectment",
+    "preponderance of probabilities",
+    "misappreciation of law",
+    "concurrent findings of fact",
+    "declaration against interest",
+    "trust of legal estate",
+    "ownership dispute",
+    "Evidence Decree",
+    "Rent Act 1963 (Act 220)",
+    "principle of equity",
+    "burden of proof",
+    "appellate review",
+    "miscarriage of justice"
+  ],
+  "topics": [
+    "Property Law",
+    "Equity",
+    "Evidence",
+    "Appellate Procedure",
+    "Estoppel"
+  ],
+  "verdict": "Appeal dismissed. Decision of the Court of Appeal upheld.",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Dr. Date-Bah, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Aninakwah, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Mrs. Adinyira, J.S.C.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Swiss African Trading Co. Ltd vs. Aryee (1961) 1 GLR 185 S.C",
+    "Dyer vs. Dyer (1788) 2 COX Eq. Cas. 92",
+    "Reindorf vs. Reindorf (1974) 2 GLR 38",
+    "Ussher vs. Darko (1977) 1 GLR 476 C.A.",
+    "Sasu vs. Nyadualah (1973) 1 GLR 221 C.A.",
+    "SSB vs. Agyarkwa (1991) 2 GLR 192 C.A.",
+    "Achoro And Anor vrs. Akanfela and Another (1996 - 1997) SCGLR 209",
+    "Obrasiwa Ii and Others vrs. Oti and Another (1996 - 1997) SCGLR 618",
+    "Kwaku Ahamah vs. Pandit Adu, J4/2/2007",
+    "Shrimati Bibhabati Devi vs. Kumar Ramendra Narayan Roy (1946) A.C 508"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court upheld concurrent findings of lower courts that co-respondent was beneficial owner despite title deed being in appellants' father's name.",
+    "Estoppel did not apply because co-respondent was not a party to the title deed (Exhibit B).",
+    "Equity favors the person who provided purchase money as true owner, overriding legal title.",
+    "Courts below properly considered rent collection pattern as evidence of beneficial ownership.",
+    "Appellants failed to show 'absolute clearness' of error required to overturn concurrent factual findings."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct quotation from official court document and consistent citation of legal authorities.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2007A/NATHANIEL BOSOMPRAH FIANKO & OTHERS v  PHILIP DODOO DJAN & O.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:56:51.831Z",
+    "plainTextLength": 16254
+  },
+  "trialDate": "2006-04-27"
+}

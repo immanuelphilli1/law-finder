@@ -1,0 +1,59 @@
+{
+  "caseTitle": "HILARIO CAMPOS",
+  "summary": "In this civil case before the West Africa Court of Appeal, the parties had consented to refer their dispute to a referee, each paying five guineas toward a ten-guinea fee. After settling the case out of court, the plaintiff sought a refund of his payment, leading to motions to set aside the original referral order. The court held that once a final judgment (or dismissal) has been entered, a court lacks competence to review an interlocutory order such as the referral to a referee. While noting the referee may be considered an officer of the court, the court emphasized that such a role terminates upon final disposition of the suit. The motion to set aside the order was dismissed, and costs were awarded to the referee.",
+  "legalKeywords": [
+    "interlocutory order",
+    "referee remuneration",
+    "case settlement",
+    "motion to set aside",
+    "referee as officer of court",
+    "refund of fees",
+    "final judgment",
+    "contractual relationship",
+    "costs assessment",
+    "consent order"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Judicial Review",
+    "Referees and Arbitrators"
+  ],
+  "verdict": "Motion to set aside or vary the order of reference dismissed.",
+  "winningSide": "Defendant and referee",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Butler-Lloyd",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Aitken",
+      "role": "Justice"
+    },
+    {
+      "name": "Barton",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WACA/2 WACA/HILARIO CAMPOS"
+  ],
+  "rationaleHighlights": [
+    "Court cannot review interlocutory orders after final judgment",
+    "Referee's role likely as officer of court, but ends upon final disposition",
+    "Refund motion dismissed as order of reference remains valid",
+    "Costs awarded to referee in appellate court"
+  ],
+  "confidenceNotes": "The case is clearly documented with dates, parties, and judicial reasoning. Jurisdiction and court level are explicitly stated. Some formatting artifacts (e.g., 'pages.gif', 'GHANA LAW FINDER') appear to be from the source website, not the original case.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/HILARIO CAMPOS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:27:37.618Z",
+    "plainTextLength": 3179
+  }
+}

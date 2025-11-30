@@ -1,0 +1,64 @@
+{
+  "caseTitle": "EMMA C. BRUCE",
+  "summary": "This 1931 West African Court of Appeal decision in Emma C. Bruce v. Tom Boevey Barrett concerned an appeal against a judgment entered in absentia following substituted service of court documents outside the jurisdiction. The plaintiff, Emma C. Bruce, obtained a writ of summons against the defendant, who was residing in London, England, and was granted leave to serve the writ out of jurisdiction. After unsuccessful attempts at personal service, the court authorized substituted service at the defendant's last known address in London and by posting at the Supreme Court House in Accra. The defendant moved to set aside the judgment on grounds of irregularity, but the motion was dismissed. On appeal, the court upheld the lower court's decision, finding no procedural irregularities and affirming the validity of substituted service under the applicable rules of court, particularly Order X Rule 9 and Order III Rule 5 of the Rules of the Supreme Court.",
+  "legalKeywords": [
+    "substituted service",
+    "service out of jurisdiction",
+    "judgment in absence",
+    "procedural irregularity",
+    "Rules of the Supreme Court",
+    "Order X Rule 9",
+    "Order III Rule 5",
+    "writ of summons",
+    "leave to serve",
+    "affidavit in support",
+    "defendant's residence",
+    "evading service",
+    "contract enforcement",
+    "money claim",
+    "IOU enforcement",
+    "jurisdictional validity",
+    "appellate review",
+    "civil procedure",
+    "notice by posting",
+    "affidavit of service"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Jurisdiction",
+    "Service of Process",
+    "Appellate Law",
+    "Contract Law"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Plaintiff-Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Gardiner-Smith, J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "R.S.C. 2nd Schedule, Order X Rule 9",
+    "R.S.C. 1st Schedule, Order III Rule 5"
+  ],
+  "rationaleHighlights": [
+    "Proceedings were free from irregularity",
+    "Substituted service was validly ordered under court rules",
+    "Jurisdiction at time of writ issuance did not invalidate later substituted service",
+    "Defendant appeared to be evading service"
+  ],
+  "confidenceNotes": "High confidence; details are drawn directly from judicial reasoning and procedural records in the provided text.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/EMMA C. BRUCE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:49:20.383Z",
+    "plainTextLength": 27369
+  },
+  "trialDate": "1931-05-30"
+}

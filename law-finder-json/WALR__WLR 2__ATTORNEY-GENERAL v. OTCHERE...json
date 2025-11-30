@@ -1,0 +1,63 @@
+{
+  "caseTitle": "ATTORNEY-GENERAL VERSUS OTCHERE..",
+  "summary": "In Attorney-General v. Otchere, the West African Court of Appeal held that a government demand letter offering a debtor the choice between immediate repayment of a loan or surrender of a secured vehicle constituted a valid offer to vary the original deed of assignment. The defendant, having elected and complied with the alternative by surrendering the car within the stipulated ten-day period, was thereby discharged from any further obligation. The court rejected the government's subsequent claim for the balance of the loan minus the sale proceeds, reasoning that the original contractual terms were effectively modified by mutual consent. The appeal was allowed, the lower court's judgment set aside, and judgment entered for the defendant.",
+  "legalKeywords": [
+    "contract variation",
+    "subsequent agreement",
+    "offer and acceptance",
+    "deed of assignment",
+    "alternative performance",
+    "discharge of obligation",
+    "breach of contract",
+    "government loan",
+    "motor vehicle security",
+    "repayment default"
+  ],
+  "topics": [
+    "Contract Law",
+    "Debt Recovery",
+    "Government Contracts",
+    "Security Interests",
+    "Legal Remedies"
+  ],
+  "verdict": "Appeal allowed; judgment for the defendant",
+  "winningSide": "defendant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Verity Ag.J.A.",
+      "role": "judging"
+    },
+    {
+      "name": "Coussey P.",
+      "role": "concurring"
+    },
+    {
+      "name": "Korsah C.J.",
+      "role": "concurring"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "contract dispute",
+  "citations": [
+    "WALR/WLR 2/ATTORNEY-GENERAL v. OTCHERE...htm"
+  ],
+  "rationaleHighlights": [
+    "The government's letter constituted an offer to vary the original contract by allowing alternative performance (surrender of car).",
+    "Defendant's surrender of the car within the stipulated time amounted to acceptance of the offer.",
+    "Compliance with the alternative discharged all further obligations under the contract.",
+    "Delay in selling the car supports the view that the defendant no longer had an interest in it.",
+    "No seizure under clause 6 occurred, as the alternative was voluntarily accepted.",
+    "Counsel for the government conceded lack of authority supporting the claim."
+  ],
+  "confidenceNotes": "High confidence; facts and legal reasoning are clearly articulated in the judgment.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/ATTORNEY-GENERAL v. OTCHERE...htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:40:52.424Z",
+    "plainTextLength": 9399
+  }
+}

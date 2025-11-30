@@ -1,0 +1,87 @@
+{
+  "caseTitle": "THE REPUBLIC v HIGH COURT, FAST TRACK 11 GHANA LOTT",
+  "summary": "This 2009 Supreme Court of Ghana ruling addresses the jurisdictional issue arising from the transfer of a case between High Court judges without a formal order from the Chief Justice under Section 104(1)-(3) of the Courts Act, 1993 (Act 459). The Ghana Lotto Operators Association challenged the validity of proceedings before Justice Ofori-Atta, arguing he lacked jurisdiction because no official transfer order existed from Justice Asante. The Supreme Court examined the scope of the Chief Justice's power to transfer cases and whether a judge becomes 'seised' of a case merely upon listing or only after commencing hearing. While referencing prior case law like Osei v. The Republic (1968), the court considered whether listing constitutes being 'seised' and emphasized that Section 104 allows transfer at any stage of proceedings. The court ultimately held that the absence of a formal transfer order, coupled with no exceptional circumstances or evidence of authorization, rendered the proceedings before Ofori-Atta J. jurisdictionally defective, thus granting the application to quash those proceedings.",
+  "legalKeywords": [
+    "jurisdiction",
+    "transfer of case",
+    "Chief Justice",
+    "seised of case",
+    "pending before court",
+    "Section 104 Courts Act",
+    "Act 459",
+    "certiorari",
+    "judicial authority",
+    "procedural irregularity",
+    "constitutional interpretation",
+    "administrative power",
+    "judicial misconduct",
+    "case listing",
+    "interim injunction"
+  ],
+  "topics": [
+    "Judicial Procedure",
+    "Constitutional Law",
+    "Administrative Law",
+    "Supreme Court Ruling",
+    "Jurisdictional Challenge"
+  ],
+  "verdict": "Application granted",
+  "winningSide": "Applicant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Atuguba JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Date-Bah JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Adinyira (Mrs) JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Owusu JSC",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Motion",
+  "citations": [
+    "Osei v. The Republic (1968) GLR 704 C.A.",
+    "Akainyah v. The Republic [1968] G.L.R. 548",
+    "Asare v. The Republic [1968] G.L.R. 37",
+    "Republic v. Fast Track High Court Accra, Ex parte Daniel (2003-2004) 1 SC GLR 364",
+    "Price v. Humpries (1958) 2 Q.B. 353",
+    "Ababio v. Tutu (1962) IGLR 489",
+    "Republic v. Ada Traditional Council Ex parte Nene Okunno II (1971) IGLR 412",
+    "Shardey v. Adamptey (1972) 2 GLR 380 C.A.",
+    "Agbevor v. Attorney-General (2000) SC GLR 403"
+  ],
+  "rationaleHighlights": [
+    "A judge is 'seised' of a case when listed, not only upon commencement of hearing.",
+    "Section 104 of Act 459 allows transfer at any stage but requires formal order unless urgent.",
+    "Absence of Chief Justice's transfer order invalidates proceedings before another judge.",
+    "No exceptional circumstances justified bypassing formal transfer procedure.",
+    "Listing a case confers procedural authority, triggering 'pending' status.",
+    "Judicial discretion must not undermine statutory procedural safeguards.",
+    "Procedural irregularities affecting jurisdiction can be corrected via certiorari.",
+    "Power of transfer under Section 104 includes deputies and successors per Article 297(h)."
+  ],
+  "confidenceNotes": "The ruling is based on clear statutory interpretation and precedent. Some justices expressed disagreement with prior case law but followed established principles. The outcome hinges on procedural compliance rather than substantive merits.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/THE REPUBLIC v HIGH COURT, FAST TRACK 11  GHANA LOTT.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:58:11.664Z",
+    "plainTextLength": 148312
+  },
+  "trialDate": "2009-02-11"
+}

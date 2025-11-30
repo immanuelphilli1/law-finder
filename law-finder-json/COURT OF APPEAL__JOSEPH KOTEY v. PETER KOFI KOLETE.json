@@ -1,0 +1,65 @@
+{
+  "caseTitle": "JOSEPH KOTEY v. PETER KOFI KOLETE",
+  "summary": "This Court of Appeal case from Ghana, Joseph Kotey v. Peter Kofi Kolete (CA No. 34/99, 23 December 1999), involved a dispute over the alleged sale of land at Ahiawom, Somanya. The plaintiff claimed specific performance of an agreement to sell a 100x100 feet plot, relying on a temporary receipt (Exhibit A) for ¢50,000 dated 22 August 1986. The defendant denied a binding sale, asserting the transaction lacked defined boundaries and was merely a right of pre-emption under customary law. The Court of Appeal held that the agreement was not a valid customary sale due to absence of essential elements like boundary marking and payment of 'frama'. It further ruled that Exhibit A did not satisfy the common law requirements under the Conveyancing Decree (N.R.C.D. 175), as it failed to identify the property with certainty and was unregistered under Section 24 of the Land Registry Act, 1962 (Act 122), rendering it unenforceable. The trial court’s judgment for specific performance was overturned. The defendant’s counterclaim was not substantively upheld, but his ownership was affirmed through a registered purchase deed (Exhibit 2) from 1978. The appeal was allowed, the plaintiff’s claim dismissed, and the counterclaim dismissed for lack of prosecution.",
+  "legalKeywords": [
+    "specific performance",
+    "customary land sale",
+    "Land Registry Act",
+    "Conveyancing Decree",
+    "unregistered instrument",
+    "contract certainty",
+    "right of pre-emption",
+    "Exhibit A",
+    "property boundaries",
+    "binding contract"
+  ],
+  "topics": [
+    "Land Law",
+    "Contract Law",
+    "Appellate Review",
+    "Property Dispute",
+    "Ghanaian Jurisprudence"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Essilfie-Bondzie J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Twumasi J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Aryeetey J.A.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Douglas vrs. Baynes (1908) AC 477 P.C.",
+    "Asare vrs. Antire (1975) 1 G.L.R. 16 C.A.",
+    "Djan vrs. Owoo and Another (1976) 2 GLR. 404"
+  ],
+  "rationaleHighlights": [
+    "Exhibit A failed to describe the land with sufficient certainty for specific performance.",
+    "The temporary receipt was unregistered under Section 24 of Act 122, making it legally ineffective.",
+    "The transaction lacked essential elements of a customary sale, including defined boundaries and payment of frama.",
+    "Contradictions in plaintiff's evidence undermined credibility (claiming 100x100 ft vs. 'part of plot' vs. 'whole land').",
+    "Loan claim by plaintiff to finance land purchase was factually impossible given dates (1980 loan for 1978 purchase)."
+  ],
+  "confidenceNotes": "The summary is based on a truncated document; however, all key legal holdings, parties, and reasoning are present in the available text. The outcome is clear despite the truncation near the end.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/JOSEPH KOTEY v. PETER KOFI KOLETE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:24:53.962Z",
+    "plainTextLength": 21362
+  },
+  "trialDate": "23RD DECEMBER, 1999"
+}

@@ -1,0 +1,74 @@
+{
+  "caseTitle": "THOMAS HUTTON-MILLS 2",
+  "summary": "This 1940 West Africa Court of Appeal decision addressed a post-judgment application concerning the repayment of excess amounts paid under a reversed lower court judgment. The original Divisional Court had awarded the plaintiff-respondent £1,644 10s. and costs of £73 18s. 6d. On appeal, the Court reduced the award to £250 and set aside the costs order. The defendants-appellants sought repayment of the difference (£1,394 10s.) plus interest and costs, which the lower court refused due to lack of authorization in the formal certificate. The appellate court held it possessed inherent power to make consequential orders, citing Evans v. Main Colliery Co. Ltd., and ordered repayment of the overpaid sum including costs, with interest at 4% per annum from the date of the order, rejecting interest from the original payment date but affirming the defendants' entitlement to restitution.",
+  "legalKeywords": [
+    "inherent jurisdiction",
+    "consequential order",
+    "restitution",
+    "appellate jurisdiction",
+    "costs",
+    "judgment variation",
+    "interest on judgment debt",
+    "West Africa Court of Appeal",
+    "Divisional Court",
+    "power of court",
+    "evans v main colliery co",
+    "formal certificate",
+    "repayment of overpaid judgment",
+    "4 per cent interest",
+    "joint and several liability"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Costs and Interest",
+    "Judicial Remedies",
+    "Colonial Legal System",
+    "Ghana Legal History"
+  ],
+  "verdict": "The Court granted the application, ordering the plaintiff-respondent to repay the overpaid amount with interest from the date of the order.",
+  "winningSide": "Defendants-Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Evans v. Main Colliery Co., Ltd., (1915) W.N. 10",
+    "50 L.J.N.C. 26",
+    "138 L.T. 163",
+    "31 T.L.R. 127"
+  ],
+  "rationaleHighlights": [
+    "The Court has inherent power to make consequential orders after judgment.",
+    "Failure to include repayment in the initial certificate does not bar a later order.",
+    "The logic of the lower court's refusal supports the appellate court's authority to act.",
+    "Defendants are entitled to restitution of overpaid sums following reduction of judgment.",
+    "Interest awarded from the date of the appellate order, not from original payment date.",
+    "No costs awarded on the application due to procedural timing issues.",
+    "Cited authority: Evans v. Main Colliery Co. Ltd. supports supplemental orders.",
+    "The formal certificate does not limit the Court’s jurisdiction to correct imbalances."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and citation of authority. The case reflects colonial-era appellate practice in West Africa, with multi-jurisdictional judges. Some formatting anomalies in the source text (e.g., '' for £) were corrected contextually.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/THOMAS HUTTON-MILLS 2.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:52:59.783Z",
+    "plainTextLength": 6052
+  },
+  "trialDate": "1940-05-07"
+}

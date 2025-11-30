@@ -1,0 +1,62 @@
+{
+  "caseTitle": "MARTIN FUGAH",
+  "summary": "In this 1938 West African Court of Appeal decision, Martin Fugah and Kalenu Akoglo, suing on behalf of themselves and as representatives of the Klevie Tribe of Awuna, sought final leave to appeal to the Privy Council. Conditional leave had been granted subject to providing a bond with sureties. However, the appellants, who were illiterate and self-represented, executed the bond in their personal capacities rather than in their representative capacity as required. The court acknowledged the procedural defect but, citing the principle from Kojo Pon v. Atta Fua that substantial justice should prevail over technical irregularities, granted them further time until 28th February 1939 to rectify the error. The motion was adjourned for renewal upon compliance, with costs of five guineas awarded to the respondent.",
+  "legalKeywords": [
+    "conditional leave to appeal",
+    "bond requirement",
+    "representative capacity",
+    "illiteracy",
+    "substantial justice",
+    "Privy Council",
+    "appellate procedure",
+    "procedural defect",
+    "judicial indulgence",
+    "costs award"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Representative Actions",
+    "Procedural Justice",
+    "Judicial Discretion",
+    "Colonial Legal System"
+  ],
+  "verdict": "Motion adjourned; appellants granted time to file a corrected bond in representative capacity.",
+  "winningSide": "Defendant-Respondent (on motion, costs awarded)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webb",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Kojo Pon v. Atta Fua [P.C. 1874..1928] 95 at 97"
+  ],
+  "rationaleHighlights": [
+    "The appellants executed a bond in their personal capacity despite suing in a representative capacity.",
+    "The court granted additional time due to the appellants' illiteracy and self-representation.",
+    "Reference to Kojo Pon v. Atta Fua emphasized the Privy Council's preference for substantial justice over technicalities.",
+    "The court allowed rectification of the defective bond to ensure fair appellate process."
+  ],
+  "confidenceNotes": "The document is a court order from the West African Court of Appeal with clear judicial reasoning; citation to Kojo Pon v. Atta Fua is explicitly provided.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/MARTIN FUGAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:01:28.733Z",
+    "plainTextLength": 3931
+  },
+  "trialDate": "1938-11-29"
+}

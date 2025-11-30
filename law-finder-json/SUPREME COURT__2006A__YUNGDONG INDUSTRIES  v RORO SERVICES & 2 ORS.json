@@ -1,0 +1,79 @@
+{
+  "caseTitle": "YUNGDONG INDUSTRIES v RORO SERVICES & 2 ORS",
+  "summary": "The case involved a dispute over ownership and entitlement to 18 containers of goods shipped from Korea to Ghana, originally consigned to the plaintiff, Yungdong Industries. The defendant carrier, Roro Services, altered the bills of lading at the request of the consignors to reconsign the goods to Seo-Kwang Ghana Ltd, a newly incorporated company linked to the appellants Eun Mook Bang and Young Chul Choi. The plaintiff claimed title as the original consignee and sought release of the goods, while the co-defendants asserted they were unpaid sellers who had financed the shipment and reconsigned the goods due to the plaintiff's non-payment and fraudulent misrepresentations about its business capacity. The trial court initially joined Seo-Kwang Ghana Ltd, which later withdrew, and new appellants were added personally. The Supreme Court ultimately determined that the plaintiff failed to prove ownership or payment for the goods, while the appellants demonstrated they had financed the shipments and were entitled as unpaid sellers to reconsign the goods. The appeal was allowed, with the defendants' lien for demurrage charges upheld.",
+  "legalKeywords": [
+    "bill of lading",
+    "unpaid seller",
+    "title to goods",
+    "reconsignment",
+    "demurrage charges",
+    "carrier liability",
+    "fraudulent misrepresentation",
+    "lien",
+    "contract of sale",
+    "shipping documents",
+    "consignee rights",
+    "unjust enrichment",
+    "documentary credit",
+    "alteration of documents",
+    "supreme court jurisdiction"
+  ],
+  "topics": [
+    "Commercial Law",
+    "Shipping and Maritime Law",
+    "Contract Law",
+    "Insolvency and Credit Transactions",
+    "Corporate Fraud"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Seth Twum",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Akuffo (Ms)",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Dr. Date-Bhah",
+      "role": "Justice"
+    },
+    {
+      "name": "Ocran",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Appiah v. Akers Trading Co (1972) 1GLR 28"
+  ],
+  "rationaleHighlights": [
+    "The plaintiff failed to provide evidence of payment for the goods, undermining its claim to ownership.",
+    "The appellants established they financed the goods through credit secured by personal collateral, qualifying them as unpaid sellers.",
+    "As unpaid sellers, the appellants had the right under commercial law to reconsign undelivered goods upon buyer's default.",
+    "The carrier acted lawfully in amending shipping documents upon instruction from the party with equitable interest in the goods.",
+    "The trial court erred in favoring the original consignee without proof of transactional performance.",
+    "The defendant carrier was entitled to a lien on the goods for unpaid demurrage and administrative charges.",
+    "The plaintiff's alleged misrepresentations about its timber business capacity supported the appellants' defense of fraud.",
+    "The withdrawal of Seo-Kwang Ghana Ltd did not extinguish the personal claims of its directors, who were properly joined later."
+  ],
+  "confidenceNotes": "High confidence based on detailed pleadings, clear appellate reasoning, and consistent factual narrative across submissions. Some minor discrepancies in dates (e.g., receiver manager appointment date) noted but do not affect core legal conclusions.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2006A/YUNGDONG INDUSTRIES  v RORO SERVICES & 2 ORS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:22:00.865Z",
+    "plainTextLength": 69279
+  },
+  "trialDate": "2005-12-04"
+}

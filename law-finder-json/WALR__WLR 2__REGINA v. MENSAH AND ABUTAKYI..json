@@ -1,0 +1,66 @@
+{
+  "caseTitle": "REGINA VERSUS MENSAH AND ABUTAKYI.",
+  "summary": "In Regina v. Mensah and Abutakyi, the West African Court of Appeal overturned the summary convictions of two appellants for perjury under section 149(1)(b) of the Criminal Procedure Code. The trial judge had summarily convicted them of perjury during a civil case concerning the sale of a motor vehicle, immediately after their testimony and before delivering judgment. The appellate court held that the judge had prejudged the issue by declaring his satisfaction of their perjury before allowing them to respond, thereby undermining the fairness of the proceedings. It emphasized that when using summary procedure for perjury, the specific points of conflicting evidence must be clearly brought to the accused's attention. The court also criticized the timing of the committal—occurring before judgment—and the judge’s expressed determination to make an example of perjurers, which created an appearance of bias. The appeals were allowed, and the committal orders were set aside.",
+  "legalKeywords": [
+    "perjury",
+    "summary procedure",
+    "contempt of court",
+    "judicial bias",
+    "criminal procedure",
+    "right to fair trial",
+    "prejudgment",
+    "conflicting evidence",
+    "committal for perjury",
+    "judicial discretion"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Judicial Procedure",
+    "Perjury",
+    "Contempt of Court",
+    "Fair Trial"
+  ],
+  "verdict": "Appeals allowed; committal orders for perjury set aside.",
+  "winningSide": "Appellants (Mensah and Abutakyi)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Korsah C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "van Lare J",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Criminal Procedure Code, c. 10 of 1951, s. 149 (1) (b)",
+    "Commissioner of Police v. Wood (1956) 1 W.A.L.R. 71"
+  ],
+  "rationaleHighlights": [
+    "Proceedings under s. 149 (1)(b) must not follow prejudgment by the judge.",
+    "Accused must be clearly informed of conflicting evidence forming basis of perjury charge.",
+    "Summary perjury proceedings should follow, not precede, judgment to avoid bias.",
+    "Judge's prior declaration of intent to punish perjury created appearance of bias.",
+    "Failure to direct appellants to specific conflicts in evidence rendered process unfair.",
+    "Alternative procedure of committing for trial on information would have ensured impartial review.",
+    "Discrimination in charging only two witnesses despite others deemed untruthful undermines fairness.",
+    "Power to commit for contempt is arbitrary and must be exercised with caution."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear procedural and factual context.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/REGINA v. MENSAH AND ABUTAKYI..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:23:38.698Z",
+    "plainTextLength": 11927
+  }
+}

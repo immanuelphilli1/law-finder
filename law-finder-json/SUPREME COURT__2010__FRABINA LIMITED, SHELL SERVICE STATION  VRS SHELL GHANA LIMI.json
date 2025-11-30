@@ -1,0 +1,83 @@
+{
+  "caseTitle": "FRABINA LIMITED, SHELL SERVICE STATION VRS SHELL GHANA LIMI",
+  "summary": "This Supreme Court of Ghana decision from 2010 concerns a civil appeal in the case of Frabina Limited v. Shell Ghana Limited, where the appellant sought recovery of GHS 10,000 paid as 'working capital' under a dealership agreement, claiming it was a refundable security deposit. The court rejected this argument, noting that throughout prior proceedings, the appellant consistently referred to the amount as working capital, thereby estopping a change in position at the appellate level. The court emphasized the importance of pleadings and the principle that new legal arguments not raised in lower courts cannot be introduced at the Supreme Court level absent exceptional circumstances. The appeal was dismissed, upholding the lower courts' concurrent findings.",
+  "legalKeywords": [
+    "working capital",
+    "refundable deposit",
+    "estoppel",
+    "pleadings",
+    "appellate court",
+    "Supreme Court",
+    "dealership agreement",
+    "contractual interpretation",
+    "admission of facts",
+    "evidence decree",
+    "High Court Civil Procedure Rules",
+    "judicial precedent",
+    "change of case",
+    "concurrent findings",
+    "amendment of pleadings"
+  ],
+  "topics": [
+    "Contract Law",
+    "Civil Procedure",
+    "Appellate Jurisdiction",
+    "Estoppel",
+    "Commercial Law"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Brobbey, JSC",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "Wood (Mrs), CJ",
+      "role": "Presiding"
+    },
+    {
+      "name": "Dotse, JSC",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Yeboah, JSC",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Gbadebe, JSC",
+      "role": "Member of Coram"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "NRCD 323 s 26",
+    "Hammond v Odoi [1982-83] 2 GLR 1215",
+    "Attorney-General v Faroe Atlantic Co Ltd [2005-2006] SCGLR 271",
+    "Awuku Sao v Ghana Supply Commission [2009] SCGLR 710",
+    "Jass Co Ltd v Appau [2009] SCGLR 265",
+    "Achoro v Akonfela [1996-97] SCGLR 209"
+  ],
+  "rationaleHighlights": [
+    "Appellant consistently referred to GHS 10,000 as working capital in pleadings and evidence, estopping a later claim of it being a refundable deposit.",
+    "Section 26 of NRCD 323 on estoppel barred the appellant from changing its case at the Supreme Court level.",
+    "Pleadings define the scope of the case; new theories not pleaded cannot be raised for the first time on final appeal.",
+    "Concurrent findings by the High Court and Court of Appeal are binding unless manifestly wrong, which was not the case here.",
+    "The principle in Attorney-General v Faroe Atlantic Co Ltd prohibits raising new legal issues for the first time at the Supreme Court.",
+    "The appellant admitted using the funds for business operations, negating the claim for refund.",
+    "No contractual term in Exhibit A described the amount as refundable, undermining the deposit argument.",
+    "Failure to amend pleadings to reflect a 'refundable deposit' theory deprived the respondent of fair opportunity to respond."
+  ],
+  "confidenceNotes": "The document is truncated but contains sufficient information from the judgment to extract key legal reasoning, parties, and outcome. All critical elements of the ruling are present despite the cutoff.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/FRABINA LIMITED, SHELL SERVICE STATION  VRS SHELL GHANA LIMI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:48:23.361Z",
+    "plainTextLength": 88357
+  }
+}

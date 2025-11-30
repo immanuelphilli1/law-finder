@@ -1,0 +1,71 @@
+{
+  "caseTitle": "ANTO v. MENSAH",
+  "summary": "In Anto v. Mensah, a 1957 Court of Appeal decision in Ghana, the plaintiff sought damages for trespass and a declaration of title after the defendant cut down trees on disputed land. The defendant admitted the plaintiff's ownership of the main farm but claimed he was demarcating a boundary between adjacent farms, inadvertently destroying trees. The Native Court initially ruled for the plaintiff, relying partly on observations from a visit to the site (locus in quo), but the Land Court reversed this, citing insufficient proof of title and undue reliance on non-recorded site observations. The Court of Appeal reinstated the Native Court’s decision, holding that possession sufficed to maintain a trespass claim where title was not genuinely disputed, and that courts may reasonably weigh impressions from a locus visit when evaluating evidence, especially absent formal plans. It also affirmed that under native custom, boundary demarcation requires joint action by adjoining landowners.",
+  "legalKeywords": [
+    "trespass to land",
+    "possession",
+    "declaration of title",
+    "locus in quo",
+    "boundary demarcation",
+    "native custom",
+    "proof of title",
+    "admission of ownership",
+    "Native Court practice",
+    "evidence evaluation",
+    "judicial visit",
+    "standard of proof",
+    "customary land law",
+    "adjoining landowners",
+    "title not in issue"
+  ],
+  "topics": [
+    "Land Law",
+    "Native Courts",
+    "Evidence",
+    "Customary Law",
+    "Trespass"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Granville Sharp J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Ollennu",
+      "role": "Justice"
+    },
+    {
+      "name": "Smith J.A.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Dza v. Komia (1956) 1 W.A.L.R. 145",
+    "Yiboe v. Duedu (1957, unreported)",
+    "Oyete and Ntim v. Edurnawn and Adno (1956) 1 W.A.L.R. 278",
+    "Boakye v. Baabm (1956) 2 W.A.L.R. 183",
+    "Keteku v. Dzogbenuku (1956) 1 W.A.L.R. 134"
+  ],
+  "rationaleHighlights": [
+    "Possession alone is sufficient to succeed in a trespass claim when the defendant does not genuinely dispute ownership of the core land.",
+    "A party need not prove root of title if title is not truly in issue based on pleadings or the nature of the case.",
+    "Native Courts may attach appropriate weight to observations made during a visit to the locus in quo, especially in absence of surveyed plans.",
+    "Boundary demarcation under native custom requires cooperation between adjoining landowners; unilateral action is invalid.",
+    "Admission of ownership by the defendant limits the real issue to boundary location, not overall title."
+  ],
+  "confidenceNotes": "The source document is truncated but contains sufficient information from the headnote, editorial note, and judicial reasoning to support high-confidence extraction. Key holdings and legal principles are clearly articulated in both the editorial summary and Ollennu J.'s judgment.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/ANTO v. MENSAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:14:41.453Z",
+    "plainTextLength": 25166
+  }
+}

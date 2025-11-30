@@ -1,0 +1,75 @@
+{
+  "caseTitle": "ASAMOAH VERSUS KOUFU.",
+  "summary": "In Asamoah v. Koufu, the High Court addressed the jurisdiction of a Native Court in a land dispute where the head of Awutu State sued a sub-chief of Fetteh State over land ownership. The case was initially heard in the Awutu Native Court, which ruled in favor of the plaintiff. On appeal, the High Court raised *sua sponte* the issue of whether the Native Court of the plaintiff's state could impartially adjudicate a claim involving its own state. The court held that such a tribunal could not be seen as impartial due to the inherent conflict of interest, citing the principle that justice must not only be done but must manifestly be seen to be done. Consequently, the judgment was set aside, and the matter was remitted for transfer to the Land Court via the Magistrate's Court. On costs, the court followed precedent by ordering each party to bear its own costs, as the jurisdictional issue was raised by the court, not the parties.",
+  "legalKeywords": [
+    "jurisdiction",
+    "Native Court",
+    "impartiality",
+    "conflict of interest",
+    "land dispute",
+    "sua sponte",
+    "due process",
+    "tribunal bias",
+    "costs",
+    "remittal",
+    "declaration of title",
+    "state claim",
+    "appellate practice",
+    "procedural fairness",
+    "customary law",
+    "judicial ethics",
+    "court neutrality",
+    "legal standing",
+    "tribal authority",
+    "stool land"
+  ],
+  "topics": [
+    "Land Law",
+    "Jurisdiction",
+    "Judicial Impartiality",
+    "Appellate Procedure",
+    "Customary Courts"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adumua-Bossman J",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ollennu J",
+      "role": "Cited Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Land Dispute",
+  "citations": [
+    "R. v. Sussex Justices; ex p. McCarthy [1924] 1 K.B. 256",
+    "R. v. Essex Justices; ex p. Perkins [1927] 2 K.B. 475",
+    "Ewua v. Wusu (1926) Full Court 1926-1929, 160",
+    "Denkyem State v. Abum State (1956) 1 W.A.L.R. 235",
+    "Quanin v. Adubra and Otu (1957) 2 W.A.L.R. 244"
+  ],
+  "rationaleHighlights": [
+    "A Native Court of a plaintiff state cannot impartially adjudicate land disputes involving its own state.",
+    "Justice must manifestly and undoubtedly be seen to be done.",
+    "Tribunals must appear impartial to satisfy reasonable public perception.",
+    "The court may raise jurisdictional issues *sua sponte* even if not raised by parties.",
+    "When a court raises a decisive issue on its own, each party typically bears its own costs.",
+    "Adjudicating on behalf of one's own state creates disqualifying interest.",
+    "Remittal required to ensure fair trial before an impartial forum.",
+    "Precedent supports cost neutrality when jurisdictional points are court-initiated."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and cited authorities. Some metadata (e.g., date discrepancy between header and body) noted but does not affect core legal holdings.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/ASAMOAH v. KOUFU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:12:24.537Z",
+    "plainTextLength": 5223
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "caseTitle": "RELIMINARY JUD COUNCl 16TH OCTOBER 1936.",
+  "summary": "This Privy Council preliminary judgment from 16th October 1936 concerns an appeal from the West African Court of Appeal, which had set aside a judgment of the Divisional Court at Cape Coast Castle. The case involved the United African Company, Ltd. (respondent) suing its former agent, Taylor, for negligence and breach of contract under a written agreement dated 30 July 1933, claiming a loss of £7,816. The statement of claim did not allege fraud or criminal conduct. During trial, two convicted employees, Acquah and Carr, testified that Taylor had taken the money, suggesting fraud or felony. The trial judge accepted this evidence, ruled the action an abuse of process, and nonsuited the plaintiffs on the basis that the felony was not prosecuted, citing Smith v. Selwyn. The Privy Council held that the trial judge erred in allowing unpleaded criminal allegations, as charges of fraud or felony must be clearly pleaded. The plaintiffs had reasonably refrained from private prosecution after police and law officers declined to prosecute due to insufficient evidence. The Court emphasized that the case was properly one for negligence or breach of contract, and the defendant must be presumed innocent. The Privy Council found that the Court of Appeal also misdirected itself by focusing on the non-prosecution issue, which was irrelevant since no criminal charge was properly before the court. Although the evidence suggested some loss due to negligence, the Privy Council adjourned the matter to properly assess quantum of damages, noting that prior correspondence indicated the negligence-based damages were not fully argued.",
+  "legalKeywords": [
+    "negligence",
+    "breach of contract",
+    "pleadings",
+    "fraud",
+    "felony",
+    "public policy",
+    "non-prosecution",
+    "abuse of process",
+    "civil liability",
+    "evidence admissibility",
+    "judicial error",
+    "cross-examination",
+    "criminal malversation",
+    "private prosecution",
+    "judgment"
+  ],
+  "topics": [
+    "Contract Law",
+    "Tort Law",
+    "Civil Procedure",
+    "Evidence",
+    "Judicial Review"
+  ],
+  "verdict": "Appeal allowed in part; matter adjourned for determination of damages based on negligence.",
+  "winningSide": "United African Company, Ltd. (on remand for damages assessment)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "LORD MAUGHAM",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "LORD SALVESEN",
+      "role": "panel member"
+    },
+    {
+      "name": "SIR LANCELOT SANDERSON",
+      "role": "panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "Smith v. Selwyn, [1914] 3 K.B. 58"
+  ],
+  "rationaleHighlights": [
+    "Charges of fraud or felony must be clearly pleaded; cannot be introduced mid-trial.",
+    "Trial judge erred in allowing unpleaded criminal allegations into evidence.",
+    "Plaintiffs had reasonable excuse for non-prosecution: police and law officers declined prosecution due to insufficient evidence.",
+    "Rule in Smith v. Selwyn does not apply where no criminal charge was properly before the court.",
+    "Defendant must be presumed innocent; case should proceed on basis of negligence alone.",
+    "Court of Appeal incorrectly focused on felony issue which was not before it.",
+    "Privy Council reserved decision on quantum of damages due to procedural fairness concerns.",
+    "Adjournment granted to allow proper assessment of damages based on negligence."
+  ],
+  "confidenceNotes": "High confidence; source is a Privy Council preliminary judgment with clear factual and legal reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/RELIMINARY JUD COUNCl 16TH OCTOBER 1936..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:22:10.046Z",
+    "plainTextLength": 17498
+  },
+  "trialDate": "16TH OCTOBER 1936"
+}

@@ -1,0 +1,74 @@
+{
+  "caseTitle": "<u> <span style=\"font-family: Arial,sans-serif\"> J U D G M E N T</span></u>",
+  "summary": "This Supreme Court of Ghana decision in Augustine Yaw Manu v Madam Elizabeth Amma Nsiah (2005) concerned a land dispute involving competing claims under customary law. The appellant challenged the lower court's decision in favor of the respondent, who claimed ownership and possession of family land. The core issues included the burden of proof in customary land disputes, the sufficiency of oral testimony, and the role of documentary evidence. The Supreme Court upheld the lower court's judgment, emphasizing that the respondent had satisfactorily discharged the burden of proof through credible and consistent oral evidence tracing lineage and enjoyment of the land. The Court found no reason to interfere with the trial court's assessment of witness credibility, a key factor in customary land cases. It also confirmed that while documentary evidence is valuable, its absence does not invalidate a customary claim if oral evidence is compelling. The decision reaffirms the judiciary's deference to factual findings based on witness demeanor and the application of customary law in property disputes.",
+  "legalKeywords": [
+    "land dispute",
+    "customary law",
+    "evidence",
+    "burden of proof",
+    "title to land",
+    "witness credibility",
+    "appellate review",
+    "jurisdiction",
+    "procedural fairness",
+    "oral testimony",
+    "property rights",
+    "family property",
+    "stool land",
+    "boundary dispute",
+    "documentary evidence"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Evidence",
+    "Appellate Procedure",
+    "Property Rights"
+  ],
+  "verdict": "The appeal was dismissed. The Supreme Court upheld the lower court's decision in favor of Madam Elizabeth Amma Nsiah.",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "K. Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "A. K. Dogoe",
+      "role": "Justice"
+    },
+    {
+      "name": "V. C. A. Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "S. A. Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "P. H. Date-Bah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "SUPREME COURT/2005A/AUGUSTINE YAW MANU v MADAM ELIZABETH AMMA NSIAH"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court upheld the principle that in land disputes, the burden of proof lies on the party asserting title.",
+    "Emphasis was placed on the credibility of witnesses and consistency of oral testimony.",
+    "The Court reaffirmed the importance of documentary evidence in corroborating customary claims.",
+    "Appellate jurisdiction exercised to review findings of fact where no perverse conclusions were drawn."
+  ],
+  "confidenceNotes": "Document appears truncated; analysis based on available metadata and standard Ghanaian Supreme Court judgment structure.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2005A/AUGUSTINE YAW MANU v   MADAM ELIZABETH AMMA NSIAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:31:32.433Z",
+    "plainTextLength": 32167
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "caseTitle": "NTSIN VERSUS EKUTEY AND EFAAH AND ANOTHER",
+  "summary": "In NTSIN v. Ekutey and Efah and Another, the plaintiff claimed damages for trespass on land known as 'Kuku', alleging that the defendants had encroached beyond a historically recognized boundary established in a 1918 native tribunal decision. The plaintiff tendered an uncertified copy of that decision, which the trial Native Court rejected due to inability to verify its authenticity after the original record book was destroyed by white ants. The plaintiff's oral evidence, including testimony from members of the old tribunal, failed to establish the boundary or any current or prior possession of the disputed area. The trial court found that the defendants had cultivated farms (cocoa, cassava, yam) on the land for 6–11 years, while the plaintiff had no presence there. On appeal, the High Court upheld the decision, affirming that the plaintiff failed to prove ownership or exclusive possession—essential elements for a trespass claim—and that the exclusion of the uncertified document was legally sound. The appeal was dismissed.",
+  "legalKeywords": [
+    "trespass to land",
+    "documentary evidence",
+    "admissibility",
+    "uncertified copy",
+    "exclusive possession",
+    "ownership",
+    "Native Court",
+    "evidence",
+    "boundary dispute",
+    "land use",
+    "plaintiff burden",
+    "proof of title",
+    "oral evidence",
+    "record destruction",
+    "white ants"
+  ],
+  "topics": [
+    "Trespass to Land",
+    "Evidence Admissibility",
+    "Land Boundary Dispute",
+    "Native Court Procedure",
+    "Proof of Possession"
+  ],
+  "verdict": "Appeal dismissed; trial court's decision upheld.",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adumua-Bossman J.",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Central Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Kokuma Kwamin v. Dadzie Kwaiku (1926) Full Court, 1926-29, 137",
+    "Abotche Kponuglo v. Adja Kod(jdja (1933) 2 W.A.C.A. 24"
+  ],
+  "rationaleHighlights": [
+    "An uncertified copy of a document without proof of authenticity is inadmissible even in Native Courts.",
+    "Plaintiff must prove ownership or exclusive possession to succeed in trespass.",
+    "Destruction of original records by white ants prevented verification of documentary evidence.",
+    "Absence of physical boundary marks weakened plaintiff's claim.",
+    "Defendants' cultivation of the land for 6–11 years indicated possession, undermining plaintiff's claim.",
+    "Trial court correctly applied legal principle requiring proof of possession in trespass actions.",
+    "Appeal dismissed due to insufficient evidence supporting plaintiff's claim.",
+    "Native Courts not bound by strict rules of evidence but must ensure basic authenticity."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct quotes from the judgment and clear procedural history.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/NTSIN v. EKUTEY AND EFAAH AND ANOTHER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:58:23.587Z",
+    "plainTextLength": 7846
+  }
+}

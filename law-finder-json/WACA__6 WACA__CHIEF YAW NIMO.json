@@ -1,0 +1,69 @@
+{
+  "caseTitle": "CHIEF YAW NIMO",
+  "summary": "This 1940 West Africa Court of Appeal decision from Kumasi, Ghana, involved a land dispute between Chief Yaw Nimo (Plaintiff-Appellant) and Kwaku Wuo (Defendant-Respondent) over a parcel known as 'Kyim Kwayem.' The case had a complex procedural history, passing through the Asantehene's Court 'B,' Asantehene's Court 'A,' and the Chief Commissioner's Court before reaching the appellate court. The core issue was ownership of a specific tract edged yellow on Plan 'L.' The Asantehene's Court 'B' originally ruled for the Defendant based on an inspection report, plan evidence (Exhibits C and D), and the Plaintiff’s failure to respond to oaths by third parties (Aku and Kwarso) claiming parts of the land. The appellate court found the trial court's reasoning clear and reasonable, especially after a proper scaled plan (Exhibit L) was produced. It rejected reliance on prior executive decisions (e.g., the 1907 Hobart decision) that did not resolve the boundary between the parties. The appeal was allowed, the judgment of Asantehene's Court 'B' was restored, and costs were awarded to the Appellant.",
+  "legalKeywords": [
+    "land ownership",
+    "native custom",
+    "boundary dispute",
+    "oath evidence",
+    "inspection report",
+    "plan evidence",
+    "stool land",
+    "tribunal jurisdiction",
+    "executive decision",
+    "appellate review",
+    "costs award",
+    "third-party claim",
+    "Asantehene's Court",
+    "Chief Commissioner's Court",
+    "West Africa Court of Appeal"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Jurisdiction"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Bannerman",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal (Land Dispute)",
+  "citations": [
+    "Ashanti Ordinance No. 7 of 1929, s 3(1)"
+  ],
+  "rationaleHighlights": [
+    "The Asantehene's Court 'B' decision was based on a careful in situ inspection and credible plan evidence.",
+    "The Plaintiff’s failure to respond to oaths by Aku and Kwarso weakened his claim.",
+    "Plan 'L' clarified the inspection report and supported the original judgment.",
+    "The Hobart decision did not settle the boundary between the Plaintiff and Defendant.",
+    "The Defendant’s consistent use of plan 'D' in prior disputes strengthened his claim.",
+    "The appellate court emphasized deference to native tribunals’ methods in land cases."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and consistent reference to documentary evidence (plans, oaths, prior judgments).",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/CHIEF YAW NIMO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:09:06.118Z",
+    "plainTextLength": 14619
+  },
+  "trialDate": "1940-02-24"
+}

@@ -1,0 +1,94 @@
+{
+  "caseTitle": "KOGLEX LIMITED v. MRS. KATE FIELD",
+  "summary": "In Koglex Limited v. Mrs. Kate Field, the Supreme Court of Ghana considered an application for review of its earlier 3:2 majority decision affirming the dismissal of a claim for specific performance of an unexecuted lease agreement. The applicant alleged a fundamental error resulting in a miscarriage of justice, arguing that the majority failed to properly evaluate whether the lower courts' findings were supported by evidence. The court emphasized that a second appellate court must independently assess whether concurrent findings of lower courts are justified by the record, particularly where findings are based on established facts rather than witness demeanor. The case centered on whether an agreement had been sufficiently concluded after negotiations on 14th September 1985, following partial payment of a five-year rent advance (GHC 200,000). The plaintiff had commenced work on the property, but the defendant repudiated the deal without refunding the advance. The trial and appellate courts found no concluded contract due to unresolved terms, but the Supreme Court’s review panel scrutinized whether this amounted to a fundamental error. The court reaffirmed principles from authorities like Ollennu J.A. in Kyiafi v. Wono and Achoro v. Ankepfela, holding that appellate courts must intervene when findings are unsupported by evidence, based on wrong legal principles, or inconsistent with documentary evidence. Ultimately, the review application was determined based on whether such fundamental error occurred, particularly in light of exhibits and correspondence showing apparent agreement.",
+  "legalKeywords": [
+    "specific performance",
+    "appellate review",
+    "fundamental error",
+    "miscarriage of justice",
+    "contract formation",
+    "lease agreement",
+    "evidence evaluation",
+    "concurrent findings",
+    "review jurisdiction",
+    "due diligence",
+    "erroneous admission of evidence",
+    "dissenting opinion",
+    "second appellate court",
+    "documentary evidence",
+    "fraudulent refusal to perform"
+  ],
+  "topics": [
+    "Contract Law",
+    "Appellate Procedure",
+    "Property Law",
+    "Judicial Review",
+    "Ghanaian Supreme Court Jurisprudence"
+  ],
+  "verdict": "Application for review dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Acquah",
+      "role": "Delivered the ruling"
+    },
+    {
+      "name": "Abban",
+      "role": "Chief Justice, cited in reasoning"
+    },
+    {
+      "name": "Adjabeng",
+      "role": "Member of majority below"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Member of majority below"
+    },
+    {
+      "name": "Sophia Akuffo",
+      "role": "Member of majority below"
+    },
+    {
+      "name": "Ampiah",
+      "role": "Dissenting in main judgment"
+    },
+    {
+      "name": "Hayfron-Benjamin",
+      "role": "Dissenting in main judgment"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal / Review Application",
+  "citations": [
+    "Quartey v. Central Services Co. Ltd. (1996-97) SCGLR 398",
+    "Mechanical Lloyd Assembly Plant v. Nartey (1987-88) 2 GLR 598",
+    "Kyiafi v. Wono (1967) GLR 463",
+    "Achoro v. Ankepfela (1996-97) SCGLR 209",
+    "Obrassiwah II v. Otu & Anor (1996-97) SCGLR 618",
+    "Shakur Harihar Buksh v. Shakur Union Parshad (1886) LR 141 A7",
+    "Fofie v. Zanyo (1992) 2 GLR 475",
+    "Robins v. National Trust Co. (1927) AC 515"
+  ],
+  "rationaleHighlights": [
+    "Appellate courts must independently review whether lower court findings are supported by evidence, especially when based on established facts rather than witness demeanor.",
+    "A fundamental error is one that goes to the merits and results in a denial of due process or renders judgment void.",
+    "Specific performance may be granted even without a formal executed contract if refusal to perform would amount to fraud.",
+    "Concurrent findings of fact by trial and appellate courts are binding unless clearly erroneous or based on wrong legal principles.",
+    "The Supreme Court, as a second appellate court, has a duty to ensure justice is not miscarried through blunders in factual or legal analysis.",
+    "Documentary evidence (exhibits A–E) played a critical role in assessing whether agreement was reached.",
+    "Failure to refund advance payment while repudiating negotiations raises equitable concerns but does not automatically establish a binding contract.",
+    "The applicant failed to demonstrate a clear blunder or fundamental error warranting review."
+  ],
+  "confidenceNotes": "High confidence in factual extraction from the provided text. Some details (e.g., final disposition of the review) are inferred based on standard judicial outcomes when no reversal is indicated. The verdict 'dismissed' aligns with the absence of corrective action in the ruling.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2000A/KOGLEX LIMITED v.  MRS. KATE FIELD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:51:44.524Z",
+    "plainTextLength": 67942
+  },
+  "trialDate": "2000-02-16"
+}

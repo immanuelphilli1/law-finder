@@ -1,0 +1,71 @@
+{
+  "caseTitle": "ODUNUWE v UDUAGA OF ISHEAGU",
+  "summary": "In this West African Court of Appeal case, the respondent sued in a Native Court for an injunction to prevent trespass on a stream and for �100 in damages. The Native Court granted the injunction and awarded �50 in damages. As a Grade C Court, its jurisdiction for damages was limited to �50. The appellants sought certiorari to quash the proceedings, arguing lack of jurisdiction due to the original damages claim exceeding the limit. The Supreme Court upheld the injunction but quashed the damages award. On appeal, the West African Court of Appeal held that the claims were distinct, with the injunction being the primary relief sought to determine exclusive user rights, while damages were ancillary. It affirmed that the Native Court had jurisdiction to hear the matter and grant the injunction, dismissing the appeal.",
+  "legalKeywords": [
+    "jurisdiction",
+    "native court",
+    "injunction",
+    "trespass",
+    "damages",
+    "certiorari",
+    "exclusive right of use",
+    "ancillary relief",
+    "procedural validity",
+    "limitation of jurisdiction",
+    "perpetual injunction",
+    "right to user",
+    "stream rights",
+    "monetary limit",
+    "Grade C Court"
+  ],
+  "topics": [
+    "injunction",
+    "jurisdiction",
+    "trespass",
+    "damages",
+    "native courts"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Foster-Sutton",
+      "role": "President"
+    },
+    {
+      "name": "Verity",
+      "role": "Chief Justice (Nigeria)"
+    },
+    {
+      "name": "Coussey",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Jones v. Llanrwst Urban Council (1911) 1 Ch. 393"
+  ],
+  "rationaleHighlights": [
+    "The claim for injunction and claim for damages were distinct and separate.",
+    "An injunction may be granted even if no damage has occurred.",
+    "The main issue was determining exclusive right to use the stream.",
+    "The damages claim was ancillary to the claim for injunction.",
+    "Native Court had jurisdiction over injunction despite exceeding damage limit.",
+    "Claim for �100 in damages exceeded the �50 jurisdictional limit of the Native Court.",
+    "Certiorari quashed only the damages portion of the judgment.",
+    "Court emphasized final determination of rights via injunction to prevent repeated litigation."
+  ],
+  "confidenceNotes": "High confidence; all key details such as jurisdiction, parties, claims, and judicial reasoning are clearly stated in the document.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/ODUNUWE v UDUAGA OF ISHEAGU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:33:23.373Z",
+    "plainTextLength": 6027
+  },
+  "trialDate": "1952-10-21"
+}

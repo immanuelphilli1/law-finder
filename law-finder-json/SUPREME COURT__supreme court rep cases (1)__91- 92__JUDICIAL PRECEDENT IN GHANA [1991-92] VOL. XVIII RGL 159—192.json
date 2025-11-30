@@ -1,0 +1,69 @@
+{
+  "caseTitle": "JUDICIAL PRECEDENT IN GHANA [1991-92] VOL. XVIII RGL 159—192",
+  "summary": "This scholarly article by Taylor J. N. K. examines the doctrine of judicial precedent in Ghana, tracing its historical development from colonial-era law reporting to the establishment of the Council for Law Reporting in 1971. It highlights the evolution of law reporting through both official and unofficial sources, including early works by John Mensah Sarbah and later series such as the Ghana Law Reports and West African Law Reports. The author distinguishes between the general principle of stare decisis and the formal doctrine of judicial precedent, emphasizing that precedents must establish coherent legal principles rather than isolated rulings. The article underscores the importance of accessible, accurate, and timely publication of judicial decisions for the effective operation of the common law system in Ghana, and notes the influence of English common law, while acknowledging variations in how precedent is treated across jurisdictions.",
+  "legalKeywords": [
+    "judicial precedent",
+    "stare decisis",
+    "Ghana Law Reports",
+    "common law",
+    "law reporting",
+    "legal history",
+    "binding precedent",
+    "ratio decidendi",
+    "obiter dicta",
+    "court hierarchy",
+    "West African Court of Appeal",
+    "customary law",
+    "Privy Council",
+    "legal education",
+    "case citation"
+  ],
+  "topics": [
+    "judicial precedent",
+    "law reporting",
+    "legal history",
+    "Ghana legal system",
+    "common law"
+  ],
+  "verdict": "Not applicable – this is a legal commentary, not a court judgment.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Taylor J. N. K.",
+      "role": "author"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "academic commentary",
+  "citations": [
+    "[1991-92] VOL. XVIII RGL 159",
+    "Council for Law Reporting Act, 1971",
+    "Legal Profession Act, 1958",
+    "Sarbah, Fanti Customary Laws (1897)",
+    "Wigmore, Stare Decisis",
+    "Bracton's De Legibus et Consuetudinibus Angliae",
+    "Allen, Sir Carleton, Law in the Making"
+  ],
+  "rationaleHighlights": [
+    "Judicial precedent in Ghana is rooted in the English common law tradition and operates under the doctrine of stare decisis.",
+    "The Council for Law Reporting, established in 1971, is responsible for publishing authoritative law reports in Ghana.",
+    "Precedents are not binding merely due to repetition but must reflect a consistent rule of law aligned with fundamental legal principles.",
+    "The distinction between judicial precedent (a jurisprudential doctrine) and stare decisis (a general reasoning tool) is emphasized.",
+    "Unofficial and official law reports, from Sarbah to WASC, have contributed to the development of legal precedent in Ghana.",
+    "The binding force of precedent depends on the hierarchy of courts and the ratio decidendi of prior decisions.",
+    "Continental legal systems often reject strict stare decisis, unlike common law jurisdictions such as Ghana.",
+    "The article underscores the importance of accessible, accurate, and timely law reporting for the functioning of the precedent system."
+  ],
+  "confidenceNotes": "The document is a scholarly legal commentary rather than a judicial decision, so verdict and winning side are not applicable. Information is drawn directly from the text with high confidence.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/91- 92/JUDICIAL PRECEDENT IN GHANA [1991-92] VOL. XVIII RGL 159—192.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:38:35.879Z",
+    "plainTextLength": 94550
+  },
+  "trialDate": "1959-01-01"
+}

@@ -1,0 +1,72 @@
+{
+  "caseTitle": "REX V ORGI UKO AND",
+  "summary": "The appellants, Orgi Uko and Yesufu Ashogbon, were convicted in the High Court of Aba for conspiracy to bring a false accusation under section 125 of the Criminal Code and unlawful possession of counterfeit coins under section 150A. The West Africa Court of Appeal upheld the convictions. The facts revealed that the second appellant harbored ill will toward the complainant, James Robert Mensah, after a prior dispute, and with the first appellant, they conspired to plant a package containing 10 counterfeit 1/- pieces, anticipating Mensah would pick it up. They then falsely reported to police that Mensah possessed and had uttered counterfeit coins. The court found that the conspiracy to falsely accuse Mensah—whom they knew was innocent—fell squarely within section 125. Regarding possession, while only the first appellant had actual possession, the second was held to have constructive possession through their joint criminal enterprise, citing R. v. Rogers. The appeal was dismissed.",
+  "legalKeywords": [
+    "conspiracy",
+    "false accusation",
+    "counterfeit coins",
+    "constructive possession",
+    "unlawful possession",
+    "criminal liability",
+    "joint enterprise",
+    "intent to frame",
+    "actual possession",
+    "lawful excuse",
+    "criminal code",
+    "appellate review",
+    "trial findings",
+    "guilty knowledge",
+    "felony"
+  ],
+  "topics": [
+    "criminal law",
+    "appellate procedure",
+    "conspiracy",
+    "possession",
+    "false accusation"
+  ],
+  "verdict": "Convictions under counts 1 and 2 upheld; appeal dismissed.",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Rogers (2 Mood 85)",
+    "Archibold 30th Edition p.1122",
+    "section 125 of the Criminal Code",
+    "section 150A of the Criminal Code",
+    "section 152(3) of the Criminal Code"
+  ],
+  "rationaleHighlights": [
+    "Appellants conspired to frame Mensah by planting counterfeit coins, knowing he was innocent.",
+    "Conspiracy occurred before Mensah picked up the package, satisfying mens rea under section 125.",
+    "First appellant had actual possession of coins; second appellant held to have constructive possession via joint criminal enterprise.",
+    "Precedent from R. v. Rogers applied analogously to establish joint liability for possession.",
+    "Convictions upheld as legally sound based on trial judge's factual findings."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed trial findings and clear appellate reasoning. Constructive possession doctrine applied analogously from cited precedent.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/REX V  ORGI UKO AND.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:42:24.282Z",
+    "plainTextLength": 7968
+  },
+  "trialDate": "1939-02-11"
+}

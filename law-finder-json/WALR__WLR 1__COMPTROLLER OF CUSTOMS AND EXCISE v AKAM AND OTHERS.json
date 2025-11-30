@@ -1,0 +1,63 @@
+{
+  "caseTitle": "COMPTROLLER OF CUSTOMS AND EXCISE VERSUS AKAM AND OTHERS.",
+  "summary": "The Comptroller of Customs and Excise sought certiorari or mandamus to compel a magistrate to order forfeiture of a lorry used to transport smuggled cigarettes. The magistrate had refused forfeiture on equity grounds, believing he had discretion under s.232 of the Customs Ordinance. The Supreme Court held that when ss.203 and 232 are read together, the word 'may' in s.232 must be interpreted as 'must', making forfeiture mandatory. However, the court refused both remedies: mandamus was inappropriate because the magistrate had exercised jurisdiction, and certiorari did not lie because the error was a mere misinterpretation of law within jurisdiction, not an excess of it. The applicant should have appealed instead. The lorry was ordered released.",
+  "legalKeywords": [
+    "forfeiture",
+    "customs ordinance",
+    "statutory interpretation",
+    "prerogative writs",
+    "certiorari",
+    "mandamus",
+    "jurisdiction",
+    "import duty evasion",
+    "uncustomed goods",
+    "vehicle forfeiture",
+    "statutory discretion",
+    "judicial review",
+    "appeal alternative",
+    "misconstruction of law",
+    "innocent owner"
+  ],
+  "topics": [
+    "Customs Law",
+    "Administrative Law",
+    "Statutory Interpretation",
+    "Judicial Review",
+    "Forfeiture"
+  ],
+  "verdict": "Application for certiorari and mandamus refused.",
+  "winningSide": "Akam and Others (respondents)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Windsor-Aubrey J.",
+      "role": "presiding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "administrative",
+  "citations": [
+    "De Keyser v. British Railway Traffic and Electric Co. Ltd. [1936] 1 K.B. 224",
+    "Customs Ordinance, c. 167 of 1951, ss. 203 and 232",
+    "Customs Consolidation Act, 1876 (39 & 40 Vict. c. 36), ss. 202 and 226",
+    "Halsbury, Hailsham ed., Vol. 9, p. 888, para. 1493",
+    "Halsbury, Hailsham ed., Vol. 9, p. 773, para. 1309"
+  ],
+  "rationaleHighlights": [
+    "Sections 203 and 232 of the Customs Ordinance read together make forfeiture mandatory, not discretionary",
+    "Use of 'may' in s.232 must be interpreted as 'must' when read with s.203",
+    "Magistrate misconstrued the law but did not exceed jurisdiction",
+    "Certiorari does not lie for mere errors of law within jurisdiction",
+    "Mandamus inappropriate as magistrate exercised jurisdiction"
+  ],
+  "confidenceNotes": "High confidence in legal interpretation based on direct precedent (De Keyser) and statutory analysis. Jurisdictional limitations on certiorari are well-supported by Halsbury.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/COMPTROLLER OF CUSTOMS AND EXCISE v AKAM AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:10:46.300Z",
+    "plainTextLength": 11513
+  }
+}

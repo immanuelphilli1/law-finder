@@ -1,0 +1,68 @@
+{
+  "caseTitle": "BRYANT OLUDELE TAYLOR",
+  "summary": "This West African Court of Appeal decision from 1934 concerns a dispute over the administration of a family estate. The plaintiffs, beneficiaries of the estate of Thomas Taylor senior, brought a joint claim against the defendants, administrators of the estate of their father David Augustus Taylor, for unpaid rents and distributions. The trial judge reduced the claim by allowing a set-off of individual debts owed by the plaintiffs to the estate, despite no formal plea or application for set-off. The appellate court held that separate (several) debts cannot be set off against a joint claim, especially where no proper pleading or agreement exists. It also ruled that the Statute of Limitations does not apply to claims for trust moneys under the English Trustee Act 1888. The court varied the judgment to award the plaintiffs the full amount of the joint claim, �513 18s. 6d., with costs, while staying execution on the balance to allow the defendants to pursue separate actions for recovery of individual debts.",
+  "legalKeywords": [
+    "set off",
+    "joint claim",
+    "several debts",
+    "statute of limitations",
+    "trust moneys",
+    "equity",
+    "pleading",
+    "counterclaim",
+    "trustee",
+    "execution stay"
+  ],
+  "topics": [
+    "Trust Law",
+    "Civil Procedure",
+    "Set-Off",
+    "Statute of Limitations",
+    "Joint and Several Liability"
+  ],
+  "verdict": "Judgment for the plaintiffs for �513 18s. 6d., with costs; execution on balance stayed for six months.",
+  "winningSide": "Plaintiffs-Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Webber",
+      "role": "CJ, Sierra Leone"
+    },
+    {
+      "name": "Deane",
+      "role": "CJ, Gold Coast"
+    },
+    {
+      "name": "Butler-Lloyd",
+      "role": "Acting CJ, Nigeria"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Ex parte Twogood 1805 11 Ves 517",
+    "William v. Noble 1817 3 Mer 593. 618",
+    "Hanson ex parte 34 E.R. 305"
+  ],
+  "rationaleHighlights": [
+    "Separate debts cannot be set off against a joint claim",
+    "No formal plea or application for set-off was made",
+    "Statute of Limitations does not apply to claims for trust moneys",
+    "Set-off requires mutual debts in the same capacity",
+    "Equity does not allow set-off where transactions are in different rights",
+    "Proper procedure would require separate counterclaims and pleadings",
+    "Judgment varied to reflect full joint debt owed",
+    "Execution stayed to allow separate recovery actions"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and explicit references to legal principles and case law.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/BRYANT OLUDELE TAYLOR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:33:00.847Z",
+    "plainTextLength": 10104
+  },
+  "trialDate": "1934-11-19"
+}

@@ -1,0 +1,63 @@
+{
+  "caseTitle": "OKAIKOR CHRU (AFIEYE SUBSTITUTED",
+  "summary": "This case involved an appeal from a decision by the Provincial Commissioner that had reversed a ruling of the Ga Manche's Tribunal, which itself had overturned a decision of the Asere Manche's Tribunal. The key issue was whether the Provincial Commissioner had jurisdiction to hear the appeal, given that the plaintiff-respondent failed to comply with section 77(2) of the Native Administration Ordinance, which requires payment or deposit of costs before leave to appeal is granted. The West African Court of Appeal held that the failure to meet this condition deprived the Provincial Commissioner of jurisdiction. Consequently, the appeal was dismissed, and the Ga Manche's Tribunal's decision stood in full effect. The court distinguished the case from Kojo Pon v. At/a Fua, noting no discretion exists under the Ordinance to overlook the mandatory cost requirement.",
+  "legalKeywords": [
+    "jurisdiction",
+    "leave to appeal",
+    "Native Administration Ordinance",
+    "condition precedent",
+    "costs deposit",
+    "appeal procedure",
+    "tribunal decision",
+    "Provincial Commissioner",
+    "Ga Manche",
+    "Asere Manche"
+  ],
+  "topics": [
+    "Appellate Jurisdiction",
+    "Procedural Compliance",
+    "Native Tribunals",
+    "Costs in Appeals",
+    "Statutory Interpretation"
+  ],
+  "verdict": "Appeal dismissed due to lack of jurisdiction; decision of the Ga Manche's Tribunal upheld.",
+  "winningSide": "Defendant-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Hall, J.",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "Deane, C.J. the Gold Coast Colony",
+      "role": "concurring"
+    },
+    {
+      "name": "Kingdon, C.J. Nigeria",
+      "role": "concurring"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Kojo Pon v. At/a Fua, P.C. 1874-1928, 95"
+  ],
+  "rationaleHighlights": [
+    "Failure to comply with section 77(2) of the Native Administration Ordinance invalidates leave to appeal.",
+    "Non-payment or non-deposit of costs as required by law deprives the Provincial Commissioner's Court of jurisdiction.",
+    "The condition in section 77(2) is mandatory with no discretion to waive.",
+    "The appeal to the West African Court of Appeal fails due to lack of jurisdiction in the lower appellate court.",
+    "The decision of the Ga Manche's Tribunal stands of full effect."
+  ],
+  "confidenceNotes": "High confidence; all details are explicitly stated in the judgment text.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/OKAIKOR CHRU (AFIEYE SUBSTITUTED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:40:44.324Z",
+    "plainTextLength": 5498
+  },
+  "trialDate": "1930-11-27"
+}

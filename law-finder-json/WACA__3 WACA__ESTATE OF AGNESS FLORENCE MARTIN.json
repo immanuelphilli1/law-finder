@@ -1,0 +1,63 @@
+{
+  "caseTitle": "IN THE MATTER OF THE ESTATE OF AGNESS FLORENCE MARTIN, DECEASED BETWEEN VICTORIA FANNY MARTIN Plaintiff-Respondent",
+  "summary": "In this probate appeal before the West African Court of Appeal, the second defendant-appellant, Emanuel Daniel Henshaw, challenged the grant of Letters of Administration to the plaintiff-respondent, Victoria Fanny Martin, as next of kin of the deceased, Agness Florence Martin, who died intestate in the Cameroons under British Mandate. The appellant claimed entitlement based on being head of the deceased's father's house, alleged adoption under native law and custom, and appointment by the deceased to bury her and succeed to her estate. The trial judge rejected these claims due to lack of positive evidence satisfying customary requirements, particularly the ceremonial aspects of adoption and burial appointment. The appellate court upheld the decision, affirming that claims rooted in native law and custom require concrete evidentiary proof, which the appellant failed to provide, and dismissed the appeal.",
+  "legalKeywords": [
+    "Letters of Administration",
+    "intestate succession",
+    "native law and custom",
+    "adoption under customary law",
+    "burial appointment",
+    "caveat",
+    "next of kin",
+    "positive evidence",
+    "probate appeal",
+    "customary succession rights"
+  ],
+  "topics": [
+    "Probate Law",
+    "Customary Law",
+    "Intestate Succession",
+    "Adoption under Customary Law",
+    "Letters of Administration"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Plaintiff-Respondent (Victoria Fanny Martin)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Webber",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "probate",
+  "citations": [
+    "WACA/ESTATE OF AGNESS FLORENCE MARTIN"
+  ],
+  "rationaleHighlights": [
+    "Claim based on native law and custom must be established by positive evidence",
+    "Alleged adoption lacked ceremonial requirements under native custom",
+    "Appointment to bury and succeed not corroborated by family",
+    "Trial judge correctly required formal proof of customary practices",
+    "Appellant failed to prove entitlement over next of kin"
+  ],
+  "confidenceNotes": "The case is a clear appellate decision from the West African Court of Appeal with full judicial concurrence; factual details are limited but legally sufficient for probate analysis.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/ESTATE OF AGNESS FLORENCE MARTIN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:24:25.838Z",
+    "plainTextLength": 3618
+  },
+  "trialDate": "1936-11-04"
+}

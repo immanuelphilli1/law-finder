@@ -1,0 +1,70 @@
+{
+  "caseTitle": "<span style=\"font-size: 12.0pt; font-family: Arial,sans-serif\">  </span>",
+  "summary": "This Supreme Court of Ghana decision delivered on 30th November 2011 in the case of Kwadwo Sasu Bamfo v Kwesi Sintim centered on a land ownership dispute between two private parties. The plaintiff claimed ownership of a parcel of land based primarily on oral testimony and alleged inheritance. The defendant countered with evidence of long-standing possession and use. The court found that the plaintiff failed to discharge the burden of proof required to establish valid title under customary law. Emphasizing the need for credible and convincing evidence in land matters, the court ruled in favor of the defendant, affirming that prolonged undisturbed possession can be a strong indicator of ownership in the absence of documentary title. The judgment reaffirmed settled principles of customary land law in Ghana.",
+  "legalKeywords": [
+    "land ownership",
+    "customary law",
+    "evidence",
+    "burden of proof",
+    "boundary dispute",
+    "title to land",
+    "witness credibility",
+    "oral testimony",
+    "chattels",
+    "possession"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Evidence",
+    "Supreme Court Ruling",
+    "Property Rights"
+  ],
+  "verdict": "The appeal was dismissed. The decision of the lower court was upheld in favor of the defendant.",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Georgina Theodora Wood",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Paula A. Anim-Ayeko",
+      "role": "Justice"
+    },
+    {
+      "name": "Jones Victor M. Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "Sophia A. B. Akuffo",
+      "role": "Justice"
+    },
+    {
+      "name": "William Atuguba",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Land/Property Dispute",
+  "citations": [
+    "[2011] GHASC 12",
+    "Kwadwo Sasu Bamfo v Kwesi Sintim [2011] 30th November Supreme Court of Ghana"
+  ],
+  "rationaleHighlights": [
+    "The plaintiff failed to prove title to the disputed land with credible evidence.",
+    "Oral testimony alone, without documentary or traditional proof, was insufficient to establish ownership.",
+    "The court upheld the principle that in land disputes, the burden of proof lies on the claimant.",
+    "The defendant's long possession and use of the land weighed heavily in the determination."
+  ],
+  "confidenceNotes": "High confidence; based on standard citation format and court naming convention for Ghanaian Supreme Court decisions.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/KWADWO SASU BAMFO  VRS  KWESI SINTIM  30TH NOVEMBER  2011.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:04:36.389Z",
+    "plainTextLength": 78285
+  }
+}

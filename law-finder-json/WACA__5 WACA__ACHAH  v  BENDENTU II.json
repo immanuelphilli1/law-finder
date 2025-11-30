@@ -1,0 +1,62 @@
+{
+  "caseTitle": "ACHAH v BENDENTU II",
+  "summary": "This case involved a boundary dispute between the Stool of Aowin and the Stool of Upper Wassaw over the demarcation between their territories. Aowin claimed the River Tano as the boundary, while Upper Wassaw argued for the River Anwia up to its source, then a bush track to the River Huro. The trial judge and Court of Appeal found in favor of Aowin, holding that the River Tano was the true boundary. An earlier 1925 arbitration award favoring Upper Wassaw was deemed incomplete and unenforceable because the agreement was in English and not properly interpreted to the Omanhene of Aowin, rendering it not binding. The Privy Council upheld the concurrent findings of fact, declined to interfere with evidentiary assessments, and dismissed the appeal. Damages of \u0001100 were awarded for trespass on Aowin land. The decision affirms principles of fair process in arbitration and the primacy of factual findings by lower courts.",
+  "legalKeywords": [
+    "boundary dispute",
+    "res judicata",
+    "arbitration award",
+    "oral evidence",
+    "onus of proof",
+    "customary land tenure",
+    "River Tano",
+    "River Anwia",
+    "Omanhene",
+    "trespass damages"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Boundary Disputes",
+    "Arbitration",
+    "Res Judicata"
+  ],
+  "verdict": "Appeal dismissed; original judgment in favor of Aowin upheld.",
+  "winningSide": "Stool of Aowin",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "LORD RUSSELL OF KILLOWEN",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "LORD ROCHE",
+      "role": "panel member"
+    },
+    {
+      "name": "SIR LANCE LOT SANDERSON",
+      "role": "panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal (on appeal to His Majesty in Council)",
+    "country": "Ghana"
+  },
+  "caseType": "boundary dispute",
+  "citations": [
+    "WACA/5 WACA/ACHAH v BENDENTU II"
+  ],
+  "rationaleHighlights": [
+    "The 1925 arbitration agreement was not binding due to lack of proper interpretation for the non-English-speaking Omanhene.",
+    "Concurrent findings of fact by trial and appellate courts are respected absent clear error.",
+    "The River Tano is the true boundary between Aowin and Upper Wassaw.",
+    "No evidence was wrongly admitted or excluded that could materially affect the outcome.",
+    "Trespass claim succeeded based on established boundary."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on primary judicial source; no conflicting records found.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/ACHAH  v  BENDENTU II.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:51:10.760Z",
+    "plainTextLength": 6332
+  }
+}

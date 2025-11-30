@@ -1,0 +1,62 @@
+{
+  "caseTitle": "REX v ANIMASHAUN, A. L. AKODU",
+  "summary": "The appellants were summarily convicted and committed to prison for perjury during a civil proceeding under section 41 of the Criminal Procedure Ordinance. The Crown initially objected that no appeal lay against such a committal for contempt. The West African Court of Appeal held that an appeal was permissible, distinguishing English common law principles by reference to the West African Court of Appeal Ordinance No. 47 of 1933, which granted a broad right of appeal from any conviction by the Supreme Court, High Court, or Native Court, regardless of whether the conviction was on indictment or summary. The court overruled the preliminary objection, affirming appellate jurisdiction over the matter.",
+  "legalKeywords": [
+    "perjury",
+    "contempt of court",
+    "summary conviction",
+    "right of appeal",
+    "criminal procedure",
+    "appellate jurisdiction",
+    "statutory interpretation",
+    "West African Court of Appeal",
+    "Criminal Procedure Ordinance",
+    "judicial division"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Contempt of Court"
+  ],
+  "verdict": "Appeal admitted; preliminary objection overruled.",
+  "winningSide": "Appellants",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "Webb, C.J., Sierra Leone",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Criminal Procedure Ordinance, sec. 41",
+    "Criminal Procedure Ordinance, sec. 42",
+    "West African Court of Appeal Ordinance (No. 47 of 1933), sec. 9"
+  ],
+  "rationaleHighlights": [
+    "An appeal lies against a committal for contempt under section 41 of the Criminal Procedure Ordinance.",
+    "The West African Court of Appeal Ordinance of 1933 created a statutory right to appeal from any conviction, including summary ones.",
+    "The general English rule against appeal in contempt cases does not apply due to local statutory reform.",
+    "Section 9 of Ordinance No. 47 of 1933 abrogates the prior restriction on appeals from summary convictions."
+  ],
+  "confidenceNotes": "The case is a clear appellate decision from the West African Court of Appeal with explicit statutory interpretation; citations are directly referenced in the text.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX v  ANIMASHAUN, A. L. AKODU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:56:13.536Z",
+    "plainTextLength": 3894
+  },
+  "trialDate": "1938-10-26"
+}

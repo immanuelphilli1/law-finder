@@ -1,0 +1,82 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This case involved a land ownership dispute between the Anyigbe and Fieve tribes in the Gold Coast (now Ghana), initially decided in favor of the Fieve tribe by the High Native Tribunal of Ada. The Anyigbe tribe appealed to the Provincial Commissioner's Court, which reversed the decision. The respondents then appealed to the West African Court of Appeal, arguing that the Provincial Commissioner lacked jurisdiction because no record showed the appellant had first sought leave to appeal from the Paramount Chief's Tribunal as required by Section 77(1) of the Native Administration Ordinance (1927). The Court of Appeal allowed the appeal, setting aside the Provincial Commissioner’s judgment. On further appeal to the Judicial Committee of the Privy Council, the key issue was whether the 1935 Amendment Ordinance’s proviso—allowing the West African Court of Appeal to exercise discretion to hear appeals for substantial justice—applied to the entire Section 77. The Privy Council held that the proviso applied to both subsections of Section 77 and that the Court of Appeal had erred in refusing to exercise its discretion based solely on the procedural omission. The order was discharged, and the matter remitted for rehearing, with guidance to consider whether the failure to apply for leave was deliberate, accidental, or due to a bona fide mistake.",
+  "legalKeywords": [
+    "land ownership",
+    "tribal dispute",
+    "appeal jurisdiction",
+    "procedural compliance",
+    "leave to appeal",
+    "Native Administration Ordinance",
+    "substantial justice",
+    "discretionary power",
+    "nullity of proceedings",
+    "presumption of regularity",
+    "jurisdictional defect",
+    "conditional leave",
+    "stay of execution",
+    "bona fide mistake",
+    "delay in proceedings"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Customary Law",
+    "Jurisdiction",
+    "Tribal Rights"
+  ],
+  "verdict": "The appeal to the Privy Council was allowed; the order of the West African Court of Appeal was discharged and the matter remitted for rehearing.",
+  "winningSide": "Appellant (Adabla, representing the Anyigbe tribe)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "LORD RUSSELL OF KILLOWEN",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "LORD ROMER",
+      "role": "panel member"
+    },
+    {
+      "name": "SIR GEORGE RANKIN",
+      "role": "panel member"
+    },
+    {
+      "name": "Sir Donald Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Sir Philip Bertie Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Arthur Webber",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal (Gold Coast Session)",
+    "country": "Ghana"
+  },
+  "caseType": "land ownership dispute",
+  "citations": [
+    "3 W.A.C.A. p. 125",
+    "Native Administration Ordinance (No. 18 of 1927)",
+    "Native Administration Amendment Ordinance, 1935 (No. 18 of 1935)"
+  ],
+  "rationaleHighlights": [
+    "The proviso in Section 13 of the 1935 Amendment Ordinance applies to the entire Section 77, not just subsection (2).",
+    "The West African Court of Appeal has discretion to hear appeals despite non-compliance with leave requirements if substantial justice so requires.",
+    "Failure to apply for leave at the Paramount Chief's Tribunal does not automatically bar appeal if discretion is properly exercised.",
+    "The Court of Appeal erred in treating omitted leave application as an absolute bar, rendering the proviso ineffective.",
+    "Remittal ordered for rehearing with consideration of whether omission was deliberate, accidental, or due to bona fide mistake."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on primary legal document from official source; some ambiguity noted regarding procedural compliance at the tribunal level.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/ADABLA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:50:55.050Z",
+    "plainTextLength": 13993
+  },
+  "trialDate": "15TH MAY, 1939"
+}

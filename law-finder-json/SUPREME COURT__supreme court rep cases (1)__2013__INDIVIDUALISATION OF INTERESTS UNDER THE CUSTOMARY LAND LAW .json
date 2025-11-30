@@ -1,0 +1,77 @@
+{
+  "caseTitle": "INDIVIDUALISATION OF INTERESTS UNDER THE CUSTOMARY LAND LAW",
+  "summary": "The article examines the judicial trend in Ghana's customary land law toward individualisation of land interests, focusing on the influential case of Lokko v. Konklofi. The Chief Justice, Sir W. Brandford Griffith, held that prolonged and uninterrupted occupation of stool land, coupled with permanent cultivation and development, could transform a subject's user right into an absolute proprietary interest, deeming such land no longer stool property but the individual's own. This decision, while grounded in socio-economic changes like perennial crop farming, mischaracterised customary tenure by conflating a valuable individual interest with full ownership. The article critiques the judgment for misunderstanding the nature of stool land, where reversionary title remains with the stool, and warns that judicial promotion of individualisation risks undermining communal landholding systems without due regard for socio-political implications.",
+  "legalKeywords": [
+    "customary land law",
+    "individualisation of interest",
+    "stool land",
+    "absolute ownership",
+    "reversionary right",
+    "user right",
+    "land tenure",
+    "freehold title",
+    "attachment in execution",
+    "tacit consent",
+    "estoppel",
+    "communal property",
+    "judicial precedent",
+    "land reform",
+    "title registration",
+    "agricultural credit",
+    "inheritance of land",
+    "land security",
+    "corporate group ownership",
+    "customary services",
+    "permanent cultivation",
+    "exclusive occupation",
+    "land alienation",
+    "socio-economic implications",
+    "title transformation",
+    "land policy",
+    "judicial activism",
+    "land development",
+    "trusteeship idea",
+    "economic development"
+  ],
+  "topics": [
+    "Customary Land Tenure",
+    "Judicial Interpretation in Land Law",
+    "Individual vs Communal Land Rights",
+    "Land Reform and Development",
+    "Legal History of Ghana"
+  ],
+  "verdict": "The court held that the subject's long-term occupation and development of stool land constituted an absolute title, making the land attachable in execution and no longer stool property.",
+  "winningSide": "Konklofi (the stool subject)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sir W. Brandford Griffith",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast (pre-independence Ghana)",
+    "country": "Ghana"
+  },
+  "caseType": "Land Law / Customary Tenure",
+  "citations": [
+    "Lokko v. Konklofi"
+  ],
+  "rationaleHighlights": [
+    "Long and uninterrupted occupation with permanent development can imply appropriation of stool land.",
+    "The court viewed 40 years of occupation and building a village as evidence of de facto ownership.",
+    "The interest was deemed attachable in execution, indicating a valuable proprietary right.",
+    "The judgment suggested tacit consent or estoppel by the stool in recognizing the subject's claim.",
+    "The decision conflated individual user rights with absolute ownership, contrary to customary law principles.",
+    "Customary services are not incidents of tenure but relate to political allegiance and taxation.",
+    "The stool’s reversionary interest was overlooked in favour of individual property rights.",
+    "Judicial policy favoured individualisation to support economic development and credit access."
+  ],
+  "confidenceNotes": "High confidence in factual content derived from a scholarly legal analysis. The case discussed is historical and well-documented in Ghanaian legal literature. Some context may be truncated in the source, but core legal reasoning and critique are preserved.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2013/INDIVIDUALISATION OF INTERESTS UNDER THE CUSTOMARY LAND LAW .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:34:56.693Z",
+    "plainTextLength": 41823
+  }
+}

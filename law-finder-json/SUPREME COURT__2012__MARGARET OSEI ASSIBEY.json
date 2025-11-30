@@ -1,0 +1,85 @@
+{
+  "caseTitle": "MARGARET OSEI ASSIBEY",
+  "summary": "This civil appeal before the Supreme Court of Ghana involved Margaret Osei Assibey, the Appellant, seeking declaratory relief, recovery of possession, damages for trespass, and a perpetual injunction over H/No. 461, Kwadaso Estate, Kumasi, which she claimed belonged to her late husband, Mr. Samuel Kwame Kyei. She alleged he had paid Commander Godwin Edward Osei (the Respondent) to purchase the property on his behalf due to military rank restrictions. The Respondent, a senior government official, claimed he lawfully purchased the property from the State Housing Corporation with financing from Ghana Commercial Bank and allowed the Appellant and her family to occupy it temporarily. He later joined the suit and counterclaimed for title and possession. The High Court and Court of Appeal both ruled in favor of the Respondent. The Supreme Court dismissed the appeal, holding that Exhibit 'H'—a letter from the Respondent referencing a house for Mr. Kyei—was not a binding instrument under Section 25 of the Evidence Act because it was a unilateral communication to a third party lacking material property details. The court emphasized that the trial judge properly assessed credibility, noting inconsistencies in the Appellant’s evidence regarding the purchase sum and the implausibility of payments made after the house was already completed. The Appellant failed to provide corroborative evidence of payment or equitable ownership. The judgment reaffirmed that findings of fact by trial courts are entitled to deference on appeal, particularly on witness credibility and documentary interpretation.",
+  "legalKeywords": [
+    "declaration of title",
+    "recovery of possession",
+    "trespass",
+    "perpetual injunction",
+    "burden of proof",
+    "balance of probabilities",
+    "documentary evidence",
+    "credibility of witnesses",
+    "extrinsic evidence",
+    "successor in interest",
+    "mortgage financing",
+    "adverse possession",
+    "equitable interest",
+    "rebuttable presumption",
+    "appellate review",
+    "trial judge discretion",
+    "corroborative evidence",
+    "statement of claim",
+    "counterclaim",
+    "judicial reasoning"
+  ],
+  "topics": [
+    "Property Law",
+    "Evidence Law",
+    "Appellate Procedure",
+    "Succession and Inheritance",
+    "Equity"
+  ],
+  "verdict": "The appeal was dismissed. The decision of the Court of Appeal affirming the High Court judgment in favor of the Respondent, Commander Godwin Edward Osei, was upheld. The Appellant's claims for declaration of title, recovery of possession, damages, and injunction were rejected.",
+  "winningSide": "Respondent (Commander Godwin Edward Osei)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sophia A. B. Akuffo (Ms)",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "Bamfo (Mrs)",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Section 25, Evidence Act, NRCD 323",
+    "PY Atta & Sons Ltd v Kingsman Enterprise [2007-2008] SCGLR 947",
+    "Barkers-Woode v Nana Fitz [2007-2008] SCGLR 879",
+    "Order 12 Rule 3(a), CI 47",
+    "Sections 10(1), (2) and 11, NRCD 323"
+  ],
+  "rationaleHighlights": [
+    "Exhibit 'H' was not a binding instrument under Section 25 of NRCD 323 because it was a unilateral letter to a third party, not a bilateral agreement.",
+    "The trial judge preferred the Respondent's consistent pleadings and evidence over the Appellant's contradictory claims about the purchase amount.",
+    "The house was completed before the alleged payment by the late Kyei, undermining the Appellant’s timeline.",
+    "The Court upheld the principle that appellate courts should not overturn findings of fact unless clearly erroneous, especially on credibility.",
+    "No material corroborative evidence was found to support the Appellant’s claim that her husband provided the purchase price.",
+    "The Appellant’s reliance on circumstantial evidence failed due to lack of specific property identification in Exhibit 'H'."
+  ],
+  "confidenceNotes": "The case details are drawn directly from a Supreme Court of Ghana judgment document. All key elements—parties, legal issues, evidence, and reasoning—are explicitly stated in the text. The summary reflects the court's final disposition and rationale with high fidelity.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/MARGARET OSEI ASSIBEY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:24:44.060Z",
+    "plainTextLength": 57660
+  }
+}

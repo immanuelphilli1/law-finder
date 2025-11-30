@@ -1,0 +1,68 @@
+{
+  "caseTitle": "REX v GEORGE KITOYE ROBERTS",
+  "summary": "The appellant, George Kitoye Roberts, was convicted on three counts of theft by the Supreme Court of the Gambia, each carrying a sentence of fifteen months' hard labour, to run concurrently, and compensation ordered under the first count. The West Africa Court of Appeal held that the three charges were alternative counts arising from the same offence, and thus only one conviction could stand. The convictions on the second and third counts were quashed, while the first was upheld. The sentence was reduced from fifteen to nine months' hard labour due to restitution by the appellant and the trial court's erroneous assumption of multiple offences. The compensation order of £15 14s. to Mrs. Eliza Andrews remained in effect.",
+  "legalKeywords": [
+    "theft",
+    "alternative charges",
+    "conviction quashed",
+    "sentence reduction",
+    "restitution",
+    "double jeopardy",
+    "concurrent sentence",
+    "appellate review",
+    "criminal appeal",
+    "compensation order",
+    "West Africa Court of Appeal",
+    "Gambia Supreme Court"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Sentencing",
+    "Theft",
+    "Legal Restitution"
+  ],
+  "verdict": "Conviction on first count upheld; convictions on second and third counts quashed; sentence reduced",
+  "winningSide": "Appellant in part",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Yates",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana (jurisdictional context under British West African legal system)"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "WACA/3 Rex v George Kitoye Roberts"
+  ],
+  "rationaleHighlights": [
+    "The three theft charges were deemed alternative forms of the same offence.",
+    "Multiple convictions on alternative charges are legally impermissible.",
+    "Restitution by the appellant post-charge favored leniency.",
+    "Sentencing judge mistakenly treated one offence as three.",
+    "Appellate court affirmed one conviction to uphold accountability.",
+    "Original sentence was excessive given factual circumstances.",
+    "Compensation order was preserved as part of lawful penalty.",
+    "Appellant granted leave to appeal out of time."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning in the source text. Jurisdictional context reflects colonial-era British West African legal structure, with the West Africa Court of Appeal serving multiple territories including The Gambia, where the original trial occurred.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/REX v GEORGE KITOYE ROBERTS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:10:54.415Z",
+    "plainTextLength": 3200
+  },
+  "trialDate": "1936-03-27"
+}

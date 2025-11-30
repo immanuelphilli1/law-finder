@@ -1,0 +1,70 @@
+{
+  "caseTitle": "G B. OLLIVANT, LTD v KWESI BAA KORSAH",
+  "summary": "In this interpleader action before the West Africa Court of Appeal, the claimant-appellant, Kwamina Amuaku Hayford, sought to assert ownership over a portion of land attached in execution of a judgment against Kwesi Baa Korsah, the judgment-debtor. The land originally belonged to Robert Marmaduke Korsah, who executed a deed of gift in 1929 in favor of his son, Kwesi Baa. The deed contained a latent ambiguity between its textual description and the attached plan, making it unclear whether the entire enclosed area or only a 120-foot square plot (where the house stood) was gifted. The claimant argued that only the smaller area was conveyed, and the remainder passed under the residuary clause of the father's will to him and other beneficiaries. However, the claimant failed to properly plead his representative capacity, contrary to Rule 1, Order 3 of the Courts Ordinance. The trial judge dismissed the claim, finding the judgment-debtor in possession and applying estoppel, though estoppel was not pleaded. The appellate court held that the ambiguity should be resolved by the parties' conduct, which did not support the claimant’s position, but criticized the trial judge for invoking estoppel without pleading. The appeal was dismissed due to failure to discharge the onus of proof.",
+  "legalKeywords": [
+    "interpleader",
+    "latent ambiguity",
+    "deed of gift",
+    "will interpretation",
+    "probate",
+    "trust",
+    "estoppel",
+    "possession",
+    "representative capacity",
+    "residuary estate",
+    "boundary dispute",
+    "onus of proof",
+    "execution of decree",
+    "property attachment",
+    "admissible evidence"
+  ],
+  "topics": [
+    "Property Law",
+    "Succession",
+    "Civil Procedure",
+    "Trusts",
+    "Evidence"
+  ],
+  "verdict": "Appeal dismissed.",
+  "winningSide": "Plaintiffs-judgment-creditors (G. B. Ollivant, Ltd)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "M'Carthy, J.",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "interpleader",
+  "citations": [
+    "Order 44 Rule 25 (1), Schedule 3, Supreme Courts Ordinance",
+    "Rule 1, Order 3, Third Schedule, Courts Ordinance (Chapter 4)"
+  ],
+  "rationaleHighlights": [
+    "Claimant failed to properly disclose representative capacity, violating procedural rules.",
+    "Copy of will admitted without probate was improperly accepted as evidence.",
+    "Latent ambiguity in deed of gift resolved by examining conduct of parties.",
+    "Estoppel finding was invalid as it was not pleaded.",
+    "Claimant did not discharge onus of proof that judgment debtor held land in trust.",
+    "Trial judge erred in relying on boundaries over conduct and intent."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear references to procedural rules and factual findings.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/G B. OLLIVANT, LTD  v   KWESI BAA KORSAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:34:40.492Z",
+    "plainTextLength": 19507
+  },
+  "trialDate": "1941-12-16"
+}

@@ -1,0 +1,72 @@
+{
+  "caseTitle": "JONATHAN ADE OLUJOMOYE",
+  "summary": "The appellant, Jonathan Ade Olujomoye, was convicted under section 309 of the Criminal Code for possessing items specially contrived for committing a crime relating to coin—specifically, paper cut to the size of West African currency notes and bearing Arabic characters. His appeal challenged the statutory interpretation of \"any instrument or thing,\" arguing for an ejusdem generis limitation, but the West Africa Court of Appeal held that \"thing\" should be broadly construed to include any item adapted for forgery. The court also affirmed that constructive possession applied, as the items were found in his wife's possession and he exercised control over her. Additionally, the court ruled that the trial judge properly allowed rebuttal evidence from prosecution witnesses after the defence case closed, as the interests of justice required it, despite no formal new facts being raised. The appeal was dismissed, with no finding of misdirection or miscarriage of justice.",
+  "legalKeywords": [
+    "constructive possession",
+    "criminal code section 309",
+    "rebuttal evidence",
+    "ejusdem generis",
+    "possession of contraband",
+    "forgery instruments",
+    "criminal procedure code section 271",
+    "judicial discretion",
+    "miscarriage of justice",
+    "appellate review",
+    "statutory interpretation",
+    "contraband paper currency",
+    "police conduct",
+    "trial fairness",
+    "evidence admissibility"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Statutory Interpretation",
+    "Evidence",
+    "Appellate Procedure",
+    "Forgery"
+  ],
+  "verdict": "Appeal dismissed; conviction upheld.",
+  "winningSide": "Respondent (Rex/State)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "PETRIDES, C.J.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "BARTON",
+      "role": "Justice"
+    },
+    {
+      "name": "DOORLY",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Smith, Dears. 494",
+    "R. v. Gleed, 12 Cr. App. R. 32",
+    "R. v. Crippen (1911), 1 K.B. 149",
+    "R. v. Smith, 11 Cr. App. R. 230"
+  ],
+  "rationaleHighlights": [
+    "The term \"thing\" in section 309 is not limited ejusdem generis to \"instrument\" and includes any item specially contrived for coin-related crimes.",
+    "Constructive possession applies when the accused controls a person in actual possession.",
+    "Rebuttal evidence is admissible if required by the interests of justice, even without new facts from the defence.",
+    "Cross-examination suggesting police misconduct entitled prosecution to rebut, even post-case closure.",
+    "No misdirection by trial judge; no miscarriage of justice found.",
+    "Appeal dismissed based on sufficiency of evidence and proper evidentiary rulings."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and cited authorities.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/JONATHAN ADE OLUJOMOYE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:22:15.150Z",
+    "plainTextLength": 6671
+  },
+  "trialDate": "1936-08-04"
+}

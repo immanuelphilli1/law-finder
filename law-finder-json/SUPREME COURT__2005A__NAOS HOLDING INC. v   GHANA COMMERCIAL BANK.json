@@ -1,0 +1,79 @@
+{
+  "caseTitle": "NAOS HOLDING INC. v GHANA COMMERCIAL BANK",
+  "summary": "The Supreme Court of Ghana dismissed the appeal filed by Naos Holding Inc., a foreign entity claiming to be incorporated in Panama, against Ghana Commercial Bank. The appellant had initiated proceedings to declare itself a holder in due course of certain promissory notes guaranteed by the respondent. The respondent challenged the appellant's legal existence and capacity to sue, citing non-disclosure of its foreign address in the writ as required under Order 3 Rule 4 of the High Court (Civil Procedure) Rules. The High Court and Court of Appeal both held the writ to be a nullity due to non-compliance and lack of evidence of corporate existence. The Supreme Court affirmed this, ruling that the Power of Attorney presented was insufficient to prove legal personality, and the appellant failed to provide essential documents like a certificate of incorporation. The court emphasized that a foreign plaintiff must disclose its residence and that failure to do so, coupled with inability to prove corporate status, justified dismissal.",
+  "legalKeywords": [
+    "capacity to sue",
+    "holder in due course",
+    "promissory notes",
+    "corporate existence",
+    "foreign plaintiff",
+    "writ of summons",
+    "Order 3 Rule 4",
+    "nullity",
+    "abuse of process",
+    "Power of Attorney",
+    "Companies Code Act 179",
+    "residential address",
+    "legal personality",
+    "motion to dismiss",
+    "corporate registration"
+  ],
+  "topics": [
+    "Corporate Law",
+    "Civil Procedure",
+    "Jurisdiction",
+    "Legal Capacity",
+    "Contract Law"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Ghana Commercial Bank",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "S.A.B. Akuffo",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Dr. S. Twum",
+      "role": "Justice"
+    },
+    {
+      "name": "Dr. S.K. Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "Prof. T.M. Ocran",
+      "role": "Justice"
+    },
+    {
+      "name": "R.T. Aninakwa",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Kimon Compania Naviera SARP v. Volta Lines Limited (Consolidated) [1973] 1 GLR 140 at 143"
+  ],
+  "rationaleHighlights": [
+    "Failure to disclose foreign residence and address rendered the writ void under Order 3 Rule 4.",
+    "A Power of Attorney alone is insufficient to prove corporate existence.",
+    "A non-registered foreign entity cannot sue through an attorney without proving legal personality.",
+    "The appellant had the burden to prove its corporate existence when challenged.",
+    "The courts below were not obliged to grant leave to amend where fundamental capacity was in doubt.",
+    "The action was dismissed as an abuse of process due to lack of legal standing.",
+    "The Supreme Court upheld the lower courts' findings on procedural and substantive grounds.",
+    "No 'sporting chance' was required where evidence of existence was wholly lacking."
+  ],
+  "confidenceNotes": "The judgment is definitive and based on clear procedural rules; no ambiguity in the court's reasoning.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2005A/NAOS HOLDING INC. v   GHANA COMMERCIAL BANK.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:29:25.089Z",
+    "plainTextLength": 11113
+  },
+  "trialDate": "2005-07-04"
+}

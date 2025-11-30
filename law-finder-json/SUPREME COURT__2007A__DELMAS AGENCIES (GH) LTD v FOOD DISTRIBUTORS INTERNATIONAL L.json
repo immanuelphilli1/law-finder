@@ -1,0 +1,72 @@
+{
+  "caseTitle": "DELMAS AGENCIES (GH) LTD v FOOD DISTRIBUTORS INTERNATIONAL L",
+  "summary": "This Supreme Court of Ghana case, Delmas Agencies (Gh) Ltd v Food Distributors International Ltd, arose from a dispute over the alleged loss of 6,234 cartons of yams at Tema Port in October 1993. The plaintiff claimed the defendant, as shipping agent, negligently left the yams exposed to rain, rendering them unfit for export. The High Court awarded damages based on $16 per carton for value and $40 for profit, plus interest and costs. The Court of Appeal upheld liability but found the evidence insufficient to support the measure of damages, yet still awarded $200,000. The Supreme Court reviewed the case and emphasized that the plaintiff failed to provide corroborated evidence for the claimed prices and profits. Receipts showed payments inconsistent with the claimed per-carton cost, and the plaintiff's witness gave unreliable testimony. The court held that the award of damages was unjustified where the evidence did not prove the loss on a balance of probabilities, highlighting the necessity of credible, corroborated evidence in civil claims for damages.",
+  "legalKeywords": [
+    "breach of contract",
+    "damages",
+    "evidence",
+    "standard of proof",
+    "mitigation of loss",
+    "shipping agent liability",
+    "currency of award",
+    "corroborative evidence",
+    "credibility of witness",
+    "customs of port"
+  ],
+  "topics": [
+    "Contract Law",
+    "Tort Law",
+    "Evidence Law",
+    "Commercial Shipping",
+    "Damages Assessment"
+  ],
+  "verdict": "The appeal was allowed in part, with the Supreme Court setting aside the award of damages due to lack of evidentiary support, particularly on the measure of damages and credibility of witness testimony.",
+  "winningSide": "Defendant-Appellant (Delmas Agencies (Gh) Ltd)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. S. Twum",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "Prof. Ocran",
+      "role": "Justice"
+    },
+    {
+      "name": "Mrs. Adinyira",
+      "role": "Justice"
+    },
+    {
+      "name": "Asiamah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Nkansah v Adjabeng & Anor 1961 GLR 465",
+    "Majolagbe v. Larbi, 1959 GLR 190 at 192"
+  ],
+  "rationaleHighlights": [
+    "The Court of Appeal found that the plaintiff failed to prove the measure of damages despite awarding $200,000.",
+    "PW1's testimony on pricing was uncorroborated and contradicted by receipts, undermining credibility.",
+    "The Supreme Court emphasized that damages must be proven on balance of probabilities with credible, corroborated evidence.",
+    "Awarding damages in foreign currency for goods damaged in Ghana raised legal concerns.",
+    "Failure to critically assess evidence on pricing rendered the trial judge's findings unreasonable."
+  ],
+  "confidenceNotes": "The case details are drawn directly from a Supreme Court of Ghana judgment document with clear procedural history and judicial reasoning. All information is factually grounded in the provided text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2007A/DELMAS AGENCIES (GH) LTD v FOOD DISTRIBUTORS INTERNATIONAL L.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:20:34.468Z",
+    "plainTextLength": 53541
+  },
+  "trialDate": "2007-05-30"
+}

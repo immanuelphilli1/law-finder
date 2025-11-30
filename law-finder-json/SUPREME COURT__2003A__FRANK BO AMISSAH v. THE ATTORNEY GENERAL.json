@@ -1,0 +1,77 @@
+{
+  "caseTitle": "FRANK BO AMISSAH v. THE ATTORNEY GENERAL",
+  "summary": "In this constitutional case, Frank Bo Amissah, a private citizen, filed a writ in the Supreme Court of Ghana seeking declarations that section 179A(3) of the Criminal Code, as amended, was inconsistent with Article 19(11) of the 1992 Constitution, and that prosecutions under it—particularly in the 'Quality Grain Case'—were unconstitutional and void. After filing statements of case and a memorandum of issues, the plaintiff sought to withdraw the action on 'personal reasons' just before hearing. The Attorney General opposed the withdrawal, arguing public interest in resolving the constitutional issue and alleging bad faith. The Supreme Court, applying Rule 5 of C.I. 16 by analogy, held that once the defendant had filed a statement of case and issues were framed, the plaintiff was no longer dominus litis and required court leave to withdraw. However, the court found the defendant's position inconsistent—having previously denied any constitutional issue and challenged the plaintiff's locus standi—and thus could not convincingly assert public interest. The application to withdraw was ultimately allowed due to lack of sufficient grounds for refusal and the plaintiff's right to discontinue, especially given the defendant's contradictory stance.",
+  "legalKeywords": [
+    "constitutional challenge",
+    "withdrawal of action",
+    "discontinuance",
+    "dominus litis",
+    "original jurisdiction",
+    "Supreme Court Rules C.I. 16",
+    "Rule 5",
+    "locus standi",
+    "public interest",
+    "bad faith",
+    "prosecution under section 179A",
+    "Article 19(11)",
+    "Criminal Code Act 29",
+    "Act 458",
+    "judicial discretion"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Civil Procedure",
+    "Judicial Discretion",
+    "Withdrawal of Action",
+    "Rule of Law"
+  ],
+  "verdict": "The application to withdraw the action was granted, effectively terminating the case without a ruling on the constitutionality of section 179A(3).",
+  "winningSide": "Plaintiff (Frank Bo Amissah)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Brobbey, J.S.C.",
+      "role": "author"
+    },
+    {
+      "name": "Mrs Bamford-Addo, J.S.C.",
+      "role": "presiding"
+    },
+    {
+      "name": "Mrs Wood, J.S.C.",
+      "role": "member"
+    },
+    {
+      "name": "Baddoo, J.S.C.",
+      "role": "member"
+    },
+    {
+      "name": "Dr. Twum, J.S.C.",
+      "role": "member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Fox v. Star Newspaper & Co. (1898) 1 QB 636",
+    "Obeng Manu (Jnr.) v. the Attorney General (Writ no. 6/93 dated 23rd May 1995)"
+  ],
+  "rationaleHighlights": [
+    "The plaintiff ceased to be dominus litis after the defendant filed a statement of case and issues were framed, requiring court leave to withdraw.",
+    "Rule 5 of C.I. 16 allows the court to prescribe procedure where none exists, supporting the need for leave to discontinue.",
+    "The defendant's oral argument that the case raised a serious constitutional issue contradicted their written statement denying any constitutional question.",
+    "The defendant's claim of bad faith was undermined by their own prior conduct and inconsistent positions.",
+    "The court emphasized that judicial discretion must be exercised based on sufficient grounds, which the plaintiff failed to provide."
+  ],
+  "confidenceNotes": "The ruling is clear and well-reasoned, with direct references to applicable rules and precedents. The court's analysis of dominus litis and discretion under Rule 5 of C.I. 16 is thorough. However, the document is truncated near the end, potentially omitting final dispositive language, though the court's reasoning and direction are sufficiently complete to infer the outcome.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2003A/FRANK BO AMISSAH v. THE ATTORNEY GENERAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:37:18.230Z",
+    "plainTextLength": 37025
+  },
+  "trialDate": "12TH MARCH, 2003"
+}

@@ -1,0 +1,80 @@
+{
+  "caseTitle": "JAAS CO. LIMITED VRS EDWARD APAU",
+  "summary": "In this civil land dispute, JAAS Co. Limited and Togbe Hornomenu (Appellants) claimed ownership of a parcel of land in North Odorkor, asserting they had purchased it from the 2nd Appellant, who previously won title in Civil Appeal No. 25/80. The Respondents, Edward Apau and Madam Akua Achempomaa, counterclaimed, asserting ownership through purchase from the Asere Stool. The High Court dismissed the Appellants' claims and granted judgment to the Respondents on their counterclaim, a decision upheld by the majority of the Court of Appeal. The Supreme Court affirmed that the Appellants failed to establish title, particularly because the 2nd Appellant disowned Exhibit B (the site plan), which was central to proving the transaction. The Court held that no useful purpose would be served by ordering a retrial, as the Appellants' case collapsed on its own merits. The Respondents had established a prima facie case through valid deeds and evidence of customary consent.",
+  "legalKeywords": [
+    "land title",
+    "trespass",
+    "counterclaim",
+    "burden of proof",
+    "survey plan",
+    "declaration of title",
+    "retrial",
+    "prima facie case",
+    "evidence of ownership",
+    "property dispute",
+    "adjudication",
+    "injunction",
+    "possession",
+    "deed authenticity",
+    "balance of probabilities"
+  ],
+  "topics": [
+    "Property Law",
+    "Land Title Dispute",
+    "Appellate Procedure",
+    "Evidence",
+    "Trespass"
+  ],
+  "verdict": "Appeal dismissed. Judgment in favor of the Respondents upheld.",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Jones Dotse",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "Akuffo",
+      "role": "Presiding"
+    },
+    {
+      "name": "Date-Bah",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Adinyira (Mrs.)",
+      "role": "Panel Member"
+    },
+    {
+      "name": "Owusu",
+      "role": "Panel Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil land dispute",
+  "citations": [
+    "Odametey v. Clocuh [1989-90] 1GLR 15",
+    "Majolagbe vs. Larbi [1959] 1 GLR 190",
+    "BEDU VS AGBI, [1972] 2 GLR 238",
+    "ANANE & ORS VS DONKOR & ORS [1965] GLR 188"
+  ],
+  "rationaleHighlights": [
+    "Appellants failed to prove title due to lack of credible documentation linking them to the land.",
+    "The 2nd Appellant denied giving Exhibit B (site plan), undermining the 1st Appellant's case.",
+    "Courts require clear identification of land before granting declarations of title.",
+    "No useful purpose would be served by ordering a retrial as the Appellants' case was fundamentally flawed.",
+    "Respondents established a prima facie case through deeds and testimony from the Asere Stool elders.",
+    "Split decision at Court of Appeal level with one judge dissenting in favor of retrial."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed court record and unambiguous judicial reasoning.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/JAAS CO. LIMITED VRS EDWARD APAU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:06:53.706Z",
+    "plainTextLength": 23915
+  },
+  "trialDate": "2009-01-21"
+}

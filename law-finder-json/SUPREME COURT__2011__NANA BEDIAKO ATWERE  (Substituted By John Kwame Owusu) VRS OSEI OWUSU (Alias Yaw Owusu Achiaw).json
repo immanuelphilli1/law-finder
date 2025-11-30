@@ -1,0 +1,79 @@
+{
+  "caseTitle": "NANA BEDIAKO ATWERE (Substituted By John Kwame Owusu) VRS OSEI OWUSU (Alias Yaw Owusu Achiaw)",
+  "summary": "This Supreme Court of Ghana case, decided on May 18, 2011, involved a land dispute between Nana Bediako Atwere (respondent) and Osei Owusu (appellant), concerning a 15-acre parcel at Amanfrom near Kumasi. The respondent, acting as chief of Amanfrom Stool, granted the land to the appellant under a customary grant for the construction of a church and school, subject to conditions including development within two years. The appellant began selling plots for residential development, leading the respondent to seek forfeiture. The High Court and Court of Appeal upheld forfeiture for breach of purpose, allowing recovery of possession except for developed areas. The Supreme Court dismissed the appeal, affirming that the transaction was a customary grant not governed by the Conveyancing Act's formal forfeiture procedures, and that the appellant violated the allocation terms by changing land use.",
+  "legalKeywords": [
+    "customary grant",
+    "forfeiture of land",
+    "right of re-entry",
+    "breach of condition",
+    "Conveyancing Act 1973",
+    "land allocation",
+    "conditions precedent",
+    "recovery of possession",
+    "perpetual injunction",
+    "declaration of title",
+    "stool land",
+    "land use violation",
+    "allocation paper",
+    "oral conditions",
+    "non-leasehold interest"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Appellate Review",
+    "Property Rights",
+    "Judicial Precedent"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "OWUSU (JSC.)",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "ATUGUBA JSC.",
+      "role": "Presiding"
+    },
+    {
+      "name": "ANSAH JSC.",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "GBADEGBE JSC.",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "A. BAMFO (MRS.) JSC.",
+      "role": "Member of Coram"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "NRCD 175",
+    "Conveyancing Act 1973, Section 29"
+  ],
+  "rationaleHighlights": [
+    "The transaction was a customary grant, not a leasehold, thus Section 29 of the Conveyancing Act did not apply.",
+    "The allocation paper imposed a condition to complete construction within two years, which was breached.",
+    "Selling plots for residential use violated the intended purpose of church and school construction.",
+    "Oral conditions (e.g., provision of water and electricity) were not determinative of the breach.",
+    "The appellant acknowledged receiving notice of objection to plot sales, satisfying procedural fairness.",
+    "The Supreme Court upheld lower courts' findings on factual and equitable grounds.",
+    "Forfeiture was justified due to misuse of land despite partial development.",
+    "The appellant's counterclaim failed due to lack of legal basis under customary grant terms."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official court judgment text, including verbatim quotes, procedural history, and legal reasoning. All key elements (parties, issues, rulings, rationale) are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/NANA BEDIAKO ATWERE  (Substituted By John Kwame Owusu) VRS OSEI OWUSU (Alias Yaw Owusu Achiaw).htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:01:38.403Z",
+    "plainTextLength": 40199
+  }
+}

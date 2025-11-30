@@ -1,0 +1,96 @@
+{
+  "caseTitle": "WASSEM ATTIEH VRS KOGLEX (GH) LTD. & ANOR. SAMIR KHOURY",
+  "summary": "This 2002 Supreme Court of Ghana ruling addressed an application for review of a 2001 judgment in the case of Wassem Attieh v. Koglex (Gh) Ltd. & Anor., with Samir Khoury as a co-defendant. The applicants sought review under Rule 54(a) of the Supreme Court Rules 1996 (C.I. 16), citing 'exceptional circumstances' leading to a miscarriage of justice. They argued that the original judgment failed to properly consider the role of co-defendants in the transaction, whether goods were passed to them and payment received from GNTC, and that the co-defendants had admitted receiving plaintiff's goods. The Court rejected the application, holding that the review jurisdiction is not a platform for rearguing appeals or rehearing evidence. It emphasized that no fundamental error occurred, and the issues raised were not exceptional. The Court also clarified that it could not revisit matters concerning the co-defendants' appeal, which had been dismissed by the Court of Appeal in 1996, making those issues non-justiciable in the current appeal. The application for review was dismissed.",
+  "legalKeywords": [
+    "review of judgment",
+    "miscarriage of justice",
+    "exceptional circumstances",
+    "Supreme Court jurisdiction",
+    "Rule 54",
+    "Article 133",
+    "rehearing",
+    "due diligence",
+    "fundamental error",
+    "appellate jurisdiction",
+    "co-defendants",
+    "Court of Appeal",
+    "jurisdictional limits",
+    "constitutional review",
+    "evidence reconsideration",
+    "judicial discretion",
+    "finality of judgment",
+    "procedural fairness",
+    "judicial error",
+    "Ghanaian constitutional law"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Appellate Procedure",
+    "Judicial Review",
+    "Civil Procedure",
+    "Supreme Court Practice"
+  ],
+  "verdict": "Application for review dismissed",
+  "winningSide": "Plaintiff/Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Joyce Bamford-Addo",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "A. K. B. Ampiah",
+      "role": "Justice"
+    },
+    {
+      "name": "F. Y. Kpegah",
+      "role": "Justice"
+    },
+    {
+      "name": "E. D. K. Adjahbeng",
+      "role": "Justice"
+    },
+    {
+      "name": "G. K. Acquah",
+      "role": "Justice"
+    },
+    {
+      "name": "W. A. Agutuba",
+      "role": "Justice"
+    },
+    {
+      "name": "T. K. Adzoe",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Motion",
+  "citations": [
+    "Nasali v. Addy 2 (1987-88) 2 GLR 286",
+    "Fosuhene v. Pomaa (1987-88) 2 GLR P.105",
+    "Agyekum v. Asakum Engineering and Construction Ltd. (1992) 2 GLR 635",
+    "Supreme Court Rules 1996 (C.I.16), Rule 54",
+    "1992 Constitution of Ghana, Article 133(1)"
+  ],
+  "rationaleHighlights": [
+    "Review jurisdiction is not a substitute for appeal",
+    "No exceptional circumstances or fundamental error shown",
+    "Issues raised were rearguments of original appeal",
+    "Court lacked jurisdiction to revisit co-defendants' dismissed appeal",
+    "Finality of Court of Appeal's 1996 decision upheld",
+    "Constitutional and rule-based limits on review emphasized",
+    "Misuse of review process to re-litigate evidence rejected",
+    "Conscience of court not provoked to revisit decision"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official Supreme Court ruling. All legal principles, citations, and procedural details are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2001A/WASSEM  ATTIEH   VRS KOGLEX (GH) LTD. & ANOR.   SAMIR KHOURY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:40:53.155Z",
+    "plainTextLength": 11952
+  },
+  "trialDate": "24TH APRIL, 2002"
+}

@@ -1,0 +1,98 @@
+{
+  "caseTitle": "ABU v. ESHUN (Osei-Hwere J., Cape",
+  "summary": "This 1980 compilation from the Review of Ghana Law reports on personal injury awards from 1978–1979, primarily arising from road accidents. The cases cover both fatal injuries and multiple injury claims, with awards determined by various High Court judges across Ghana. In fatal cases, compensation includes loss of dependency (calculated by years' purchase of income), loss of expectation of life, mental distress to dependants, and special damages for funeral expenses. For non-fatal injuries, awards factor in pain and suffering, permanent disability, disfigurement, loss of amenities, loss of future earnings, and special damages. Judicial reasoning reflects structured assessment of pecuniary and non-pecuniary losses, with adjustments for likelihood of remarriage, age, earning capacity, and extent of physical and psychological impairment. The data serves as a benchmark for personal injury valuations in Ghanaian civil litigation during the period.",
+  "legalKeywords": [
+    "personal injury",
+    "fatal injuries",
+    "loss of dependency",
+    "loss of expectation of life",
+    "permanent disability",
+    "pain and suffering",
+    "special damages",
+    "funeral expenses",
+    "road accident",
+    "compensatory damages",
+    "disfigurement",
+    "loss of amenities",
+    "future earnings",
+    "mental distress",
+    "infant dependency"
+  ],
+  "topics": [
+    "Tort Law",
+    "Personal Injury",
+    "Compensation",
+    "Dependency Claims",
+    "Fatal Accidents"
+  ],
+  "verdict": "Plaintiffs awarded varying sums for personal injury or loss of dependant, with compensation structured around loss of income, pain and suffering, and special damages.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Osei-Hwere J."
+    },
+    {
+      "name": "Sarkodee J."
+    },
+    {
+      "name": "Cecilia Koranteng-Addow J."
+    },
+    {
+      "name": "Okunor J."
+    },
+    {
+      "name": "Andoh J."
+    },
+    {
+      "name": "Ansah-Twum J."
+    },
+    {
+      "name": "Wuaku J."
+    },
+    {
+      "name": "Apatu-Plange J."
+    },
+    {
+      "name": "Agyepong J."
+    },
+    {
+      "name": "Taylor J."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Various High Courts",
+    "country": "Ghana"
+  },
+  "caseType": "personal injury",
+  "citations": [
+    "ABU v. ESHUN [1979]",
+    "ADABO v. GHANA CONSOLIDATED DIAMONDS LTD. [1979]",
+    "ADOBILI FRAFRA v. AMPADU [1979]",
+    "APPIAH v. SUKA [1979]",
+    "DZOGEEDE v. ODOI [1978]",
+    "HAMILTON v. VETRICO (GHANA) LTD. [1979]",
+    "LAMPTEY v. MENSAH [1979]",
+    "MENSAH v. OKO [1979]",
+    "VORMAWOR v. AKPEDO [1978]",
+    "WARE II v. AMPADU [1979]"
+  ],
+  "rationaleHighlights": [
+    "Awards based on years' purchase of income, scaled down for dependency",
+    "Loss of expectation of life separately assessed",
+    "Special damages include funeral costs and medical expenses",
+    "Permanent disability percentages used to calculate awards",
+    "Mental distress recognized for dependants in fatal cases",
+    "Disfigurement and loss of amenities factored into non-pecuniary damages",
+    "Child and elderly dependants considered in dependency calculations",
+    "Future health risks (e.g., epilepsy, arthritis) accounted for in awards"
+  ],
+  "confidenceNotes": "Data extracted from a compiled report of awards in personal injury cases; original judgments not reviewed. Amounts reflect pre-1980s Ghanaian cedi values.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2012/PERSONAL INJURIES RECENT AWARDS [1980] VOL. XIII RGL 134—147.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:45:03.865Z",
+    "plainTextLength": 37429
+  },
+  "trialDate": "1979-02-13"
+}

@@ -1,0 +1,51 @@
+{
+  "caseTitle": "PRACTICE NOTE Nisin v. Ekutey and Efaah",
+  "summary": "In this practice note from the High Court of Ghana, Adumua-Bossman J. addressed the procedural requirements for granting leave to serve a writ outside the jurisdiction under the Civil Procedure Rules, 1954, specifically Ord. 2, r. 4, and Ord. 11, r. 1. The court emphasized that while it does not delve into the full merits of a plaintiff's claim at this stage, it must be satisfied that the plaintiff has a probable cause of action. Relying on the precedent of Societe Generale de Paris v. Dreyfus (1885), the court held that if no cause of action is disclosed, leave to serve the writ outside the jurisdiction should not be granted. This decision underscores the threshold requirement for jurisdictional extensions in civil proceedings.",
+  "legalKeywords": [
+    "practice note",
+    "jurisdiction",
+    "leave to serve",
+    "writ out of jurisdiction",
+    "Civil Procedure Rules",
+    "probable cause of action",
+    "ex parte application",
+    "Ordinance 2 Rule 4",
+    "Ordinance 11 Rule 1",
+    "merits of claim"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Jurisdiction",
+    "Service of Process"
+  ],
+  "verdict": "Leave to serve writ out of jurisdiction contingent on showing probable cause of action.",
+  "winningSide": "Court's discretion exercised based on procedural compliance and legal threshold",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adumua-Bossman J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Central Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Societe Generale de Paris v. Dreyfus (1885) 37 Ch.D. 225 (C.A.)"
+  ],
+  "rationaleHighlights": [
+    "Court does not assess full merits on ex parte application for leave to serve out of jurisdiction.",
+    "Court must be satisfied that plaintiff has a probable cause of action.",
+    "If no cause of action is disclosed, leave to serve outside jurisdiction will be denied.",
+    "Precedent from English law applied: Societe Generale de Paris v. Dreyfus."
+  ],
+  "confidenceNotes": "The document is a practice note rather than a full judgment, limiting detail on parties' arguments and final disposition. Information is sufficient for procedural and jurisdictional insights.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/PRACTICE NOTE Nisin v. Ekutey and Efaah.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:56:42.854Z",
+    "plainTextLength": 1448
+  }
+}

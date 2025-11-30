@@ -1,0 +1,82 @@
+{
+  "caseTitle": "THE REPUBLIC VRS HIGH",
+  "summary": "The Supreme Court of Ghana dismissed an ex parte application by MY Shipping Pvt Limited seeking to quash a High Court, Tema ruling that refused a stay of proceedings and referral to arbitration. The applicant, involved in a consolidated admiralty dispute over a cargo lien on the vessel M/T 'MY ARCTIC', had filed its motion for stay only after participating in procedural steps including filing a defence, counterclaim, and additional issues, and after an application for directions had been heard. The Court held that under section 40(1) of the Arbitration Act, 1961 (Act 38), the application for stay must be made before the date fixed for hearing and in a timely manner. Given the delay and active participation in the proceedings, the Court found the application out of time. It further ruled that any alleged misinterpretation of the arbitration clause by the trial judge did not nullify jurisdiction and should be addressed on appeal, not through the Supreme Court's supervisory jurisdiction under Article 132 of the 1992 Constitution. The Court affirmed that while arbitration agreements are respected, parties must act promptly to invoke them.",
+  "legalKeywords": [
+    "arbitration clause",
+    "supervisory jurisdiction",
+    "stay of proceedings",
+    "non-domestic arbitration",
+    "Arbitration Act 1961 (Act 38)",
+    "jurisdictional error",
+    "consolidated suit",
+    "ex parte application",
+    "procedural delay",
+    "admiralty dispute",
+    "lien on cargo",
+    "counterclaim",
+    "application for directions",
+    "High Court Commercial Division",
+    "time bar",
+    "inherent jurisdiction",
+    "contractual dispute",
+    "alternative dispute resolution",
+    "error on the face of the record",
+    "Article 132 Constitution"
+  ],
+  "topics": [
+    "Arbitration",
+    "Civil Procedure",
+    "Supervisory Jurisdiction",
+    "Contract Law",
+    "Admiralty Law"
+  ],
+  "verdict": "Application dismissed",
+  "winningSide": "High Court, Tema and Interested Parties",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Yeboah",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Brobbey",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Ansa",
+      "role": "panel judge"
+    },
+    {
+      "name": "Owusu (Ms)",
+      "role": "panel judge"
+    },
+    {
+      "name": "Aryeetey",
+      "role": "panel judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Republic v High Court, Accra, Ex Parte CHRAJ (Kwame Addo) [2003-04] SCGLR 312",
+    "BCM Ghana Limited v Ashanti Goldfields Limited [2005-06] SCGLR 602",
+    "Pitchers Ltd v Plaza (Queensbury) Ltd [1940] 1 All ER 151",
+    "Turner & Goudy (a firm) v McConnell & Or [1985] 2 All ER 34 CA"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court declined to intervene because the application for stay was not made timeously under section 40(1) of Act 38.",
+    "The court emphasized that procedural errors not affecting jurisdiction must be corrected on appeal, not via supervisory jurisdiction.",
+    "The presence of an arbitration clause does not automatically oust the court's jurisdiction; timely objection is required.",
+    "The applicant took steps in the proceedings (filing defence and counterclaim) before seeking a stay, undermining its claim."
+  ],
+  "confidenceNotes": "All key details such as parties, court, judges, legal provisions, and procedural history are explicitly stated in the document. The summary reflects the court's reasoning and outcome with high fidelity.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/THE REPUBLIC VRS HIGH COURT, TEMA EX PARTE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:40:58.084Z",
+    "plainTextLength": 16454
+  }
+}

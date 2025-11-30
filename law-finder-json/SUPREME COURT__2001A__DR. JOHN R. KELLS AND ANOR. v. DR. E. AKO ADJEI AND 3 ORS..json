@@ -1,0 +1,75 @@
+{
+  "caseTitle": "DR. JOHN R. KELLS AND ANOR. v. DR. E. AKO ADJEI AND 3 ORS.",
+  "summary": "This Supreme Court of Ghana case involves a high-profile probate dispute over the estate of Dr. John Ackah Blay-Miezah, who died in 1992 leaving a contested will. Dr. John R. Kells claimed a 1989 will naming him as sole beneficiary and executor, while the deceased's family supported a 1988 will and alleged forgery. The High Court and Court of Appeal initially upheld the 1989 will, but the Supreme Court reviewed procedural irregularities, including the trial judge's conduct, jurisdictional overreach in taking evidence in London, and improper post-trial communications with a party. The case underscores the importance of strict adherence to pleadings, proper burden of proof in forgery allegations, and judicial impartiality in probate matters.",
+  "legalKeywords": [
+    "probate",
+    "will validity",
+    "forgery",
+    "attesting witness",
+    "burden of proof",
+    "letters of administration",
+    "caveat",
+    "nuncupative will",
+    "codicil",
+    "judicial bias",
+    "jurisdiction",
+    "pleadings",
+    "forensic examination",
+    "executors",
+    "testamentary disposition"
+  ],
+  "topics": [
+    "Probate Law",
+    "Will Validity",
+    "Judicial Conduct",
+    "Forgery Allegations",
+    "Appellate Review"
+  ],
+  "verdict": "The appeal was allowed in part, with the Supreme Court setting aside the Court of Appeal’s reliance on the affidavit of Mrs. Pennington due to jurisdictional defects and criticizing the trial judge’s conduct as indicative of bias, ultimately remitting the matter for a fair determination consistent with proper procedure.",
+  "winningSide": "Defendants/Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Acquah, J.S.C.",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Bamford-Addo, J.S.C.",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Ampiah, J.S.C.",
+      "role": "panel member"
+    },
+    {
+      "name": "Adjabeng, J.S.C.",
+      "role": "panel member"
+    },
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "probate dispute",
+  "citations": [
+    "SUPREME COURT/2001A/DR. JOHN R. KELLS AND ANOR. v. DR. E. AKO ADJEI AND 3 ORS..htm"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court emphasized adherence to pleadings and proper issue identification in trials.",
+    "The Court of Appeal's reliance on an affidavit despite nullity of live testimony raised procedural concerns.",
+    "Judicial bias was inferred from the trial judge's post-judgment communications assuring success on appeal.",
+    "Discrepancies between pleaded facts and witness testimony were deemed immaterial by lower courts but scrutinized on appeal.",
+    "The trial judge's ex parte actions, including granting duplicate probate, undermined procedural fairness."
+  ],
+  "confidenceNotes": "High confidence; information directly extracted from the court document with clear factual details on parties, proceedings, and judicial findings.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2001A/DR. JOHN R. KELLS AND ANOR. v. DR. E. AKO ADJEI AND 3 ORS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:44:53.432Z",
+    "plainTextLength": 112729
+  }
+}

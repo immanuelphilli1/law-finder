@@ -1,0 +1,73 @@
+{
+  "caseTitle": "RONALD AYODELE AJAYI YOUNG",
+  "summary": "This 1940 West Africa Court of Appeal decision concerned a dispute over the validity of a mortgage and conveyance involving property devised under a will in Lagos, Nigeria. The testatrix, Elizabeth John, devised real property to Benjamin Young and his heirs in trust as family property, prohibiting sale or partition. Her executors granted a fresh mortgage post-death, and later, Young conveyed the property to Badaru Abina. The plaintiffs, Young’s children, sought to set aside the conveyance and mortgage, and demanded an account of rents. The court held that the Land Transfer Act 1897 was a statute of general application in Nigeria, empowering executors to mortgage the property. It affirmed the mortgage's validity but set aside Young’s conveyance. The court also ordered the mortgagee’s personal representatives to render an account of rents, recognizing their duty as equitable mortgagees in possession.",
+  "legalKeywords": [
+    "executors and trustees powers",
+    "mortgage validity",
+    "Land Transfer Act 1897",
+    "statute of general application",
+    "equitable mortgagee in possession",
+    "account of rents",
+    "family property trust",
+    "will interpretation",
+    "reconveyance",
+    "native law and custom",
+    "Supreme Court Ordinance",
+    "beneficial ownership",
+    "chattel real",
+    "testamentary trust",
+    "equity and common law application"
+  ],
+  "topics": [
+    "Trusts",
+    "Wills and Estates",
+    "Property Law",
+    "Mortgages",
+    "Appellate Law"
+  ],
+  "verdict": "The appeal was allowed in part; the mortgage was upheld as valid, the conveyance was set aside, and an account of rents was ordered.",
+  "winningSide": "Appellants (partially)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Cor. Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana (as part of British West Africa jurisdiction)"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "In re Sholu 9 N.L.R. 37",
+    "Supreme Court Ordinance, s 14",
+    "Supreme Court Ordinance, s 20",
+    "Halsbury's Laws of England, Vol. XIV, para 685",
+    "Chief Young Dede v. African Association Limited"
+  ],
+  "rationaleHighlights": [
+    "The Land Transfer Act 1897 is a statute of general application and applies in Nigeria.",
+    "Executors have statutory power to mortgage property under the 1897 Act.",
+    "No native law or custom applied; English equitable principles govern.",
+    "Equitable mortgagee in possession must account for rents received.",
+    "Conveyance by beneficiary without legal title is void.",
+    "Section 20 of the Supreme Court Ordinance does not bar application of English statutes where native law is not involved."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text, with clear judicial reasoning and citations. Jurisdictional context reflects colonial West African appellate structure.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/RONALD AYODELE AJAYI YOUNG.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:57:11.840Z",
+    "plainTextLength": 17873
+  },
+  "trialDate": "1940-06-07"
+}

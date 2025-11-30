@@ -1,0 +1,78 @@
+{
+  "caseTitle": "THE REPUBLIC v THE HIGH COURT, ACCRA EX-PARTE WILLIAM ADDAE",
+  "summary": "The Supreme Court of Ghana, in an ex-parte application brought by William Addae-Atcheewerebuo and others, exercised its supervisory jurisdiction to quash an interlocutory injunction issued by the High Court, Accra, which had restrained the inauguration and operation of the Biakoye District Assembly. The Applicants, who were elected Assembly members for electoral areas within the new district, were not parties to the original suit filed by traditional leaders challenging the designation of Nkonya-Ahenkro as the district capital. The Supreme Court held that the High Court lacked jurisdiction under Article 130(1)(b) of the 1992 Constitution to invalidate legislative instruments or restrain executive actions related to district creation. It further ruled that the Applicants' cause of action arose only on 13 May 2009, when a new injunction directly affected them, making their 15 June 2009 application timely under Rule 62 of CI 16. The Court rejected a preliminary objection on delay, emphasizing that lack of service on the Applicants prior to that date negated any argument of laches. The orders of the High Court were declared ultra vires and set aside.",
+  "legalKeywords": [
+    "supervisory jurisdiction",
+    "certiorari",
+    "prohibition",
+    "ultra vires",
+    "jurisdiction",
+    "interlocutory injunction",
+    "Local Government Act",
+    "Constitution 1992",
+    "Article 130",
+    "Rule 62 CI 16",
+    "ex-parte application",
+    "judicial review",
+    "standing",
+    "service of process",
+    "time limitation",
+    "nullity"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Judicial Review",
+    "Local Government",
+    "Supervisory Jurisdiction"
+  ],
+  "verdict": "The Supreme Court granted the application, quashing the interlocutory injunction issued by the High Court on 13 May 2009 and prohibiting it from further proceeding in the matter due to lack of jurisdiction.",
+  "winningSide": "Applicants (William Addae-Atcheewerebuo and others)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Dotse, JSC",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Wood (Mrs), CJ",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Ansa, JSC",
+      "role": "panel member"
+    },
+    {
+      "name": "Owusu (Ms), JSC",
+      "role": "panel member"
+    },
+    {
+      "name": "Anin Yeboah, JSC",
+      "role": "panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Republic v The High Court, Accra, Ex-parte William Addae-Atcheewerebuo (2010)"
+  ],
+  "rationaleHighlights": [
+    "Only the Supreme Court has jurisdiction under Article 130(1)(b) of the 1992 Constitution to declare legislation unconstitutional.",
+    "The High Court lacked jurisdiction to strike down L.I. 1910 or restrain the inauguration of the Biakoye District Assembly.",
+    "The 90-day time limit under Rule 62 of CI 16 begins when the cause of action arises, not from the initial court decision.",
+    "Applicants were not parties to the original suit and were not served with earlier orders; thus, their cause of action arose on 13 May 2009.",
+    "The Supreme Court exercised its supervisory jurisdiction to quash the High Court's ultra vires orders.",
+    "Failure to serve affected parties renders objections based on delay ineffective.",
+    "Procedural irregularities may be waived under Rule 79 of CI 16 if not fatal to the application."
+  ],
+  "confidenceNotes": "The case is a reported Supreme Court decision from Ghana with clear jurisdictional and procedural reasoning. All details are drawn directly from the provided text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2010/THE REPUBLIC v THE HIGH COURT, ACCRA  EX-PARTE WILLIAM ADDAE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:39:42.813Z",
+    "plainTextLength": 25312
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "caseTitle": "AXEX COMPANY LIMITED VRS KWAME OPOKU,SYLOP COMPANY LIMITED UNIQUE COMPANY LIMITED",
+  "summary": "This Supreme Court of Ghana decision in AXEX Company Limited v. Kwame Opoku & Others (2012) concerns a civil appeal against a summary judgment entered by the High Court and upheld by the Court of Appeal. The respondent, AXEX Company Limited, initiated proceedings seeking recovery of funds allegedly siphoned by its 50% shareholder, the first appellant, who transferred over 20 billion cedis to accounts of the other defendant companies without board consent. The High Court granted partial summary judgment for US$1,475,330 after the appellants' counsel admitted liability in court. The Supreme Court upheld the lower courts' decisions, ruling that the writ and statement of claim together disclosed a valid cause of action and that the trial court had jurisdiction to enter judgment based on unequivocal admissions made in affidavit and oral submissions. The Court emphasized that such admissions justify 'judgment on admissions' under Order 23 Rule 6 of CI 47, and found no basis to set aside the summary judgment or the writ.",
+  "legalKeywords": [
+    "summary judgment",
+    "cause of action",
+    "judgment on admissions",
+    "jurisdiction",
+    "writ of summons",
+    "statement of claim",
+    "admission of liability",
+    "High Court Rules CI 47",
+    "Order 11 Rule 15",
+    "Order 23 Rule 6",
+    "interlocutory application",
+    "competency of action",
+    "civil procedure",
+    "appellate review",
+    "frozen bank accounts"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Corporate Law",
+    "Appellate Law",
+    "Judicial Admissions"
+  ],
+  "verdict": "The Supreme Court dismissed the appeal, affirming the summary judgment entered by the High Court and upheld by the Court of Appeal. The Court held that the writ and statement of claim together disclosed a valid cause of action and that the trial court properly exercised its jurisdiction in granting judgment based on clear admissions of liability by the appellants.",
+  "winningSide": "AXEX Company Limited (Plaintiff/Respondent)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Gbadegbe JSC",
+      "role": "Delivered leading judgment"
+    },
+    {
+      "name": "Atuguba AG. CJ",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Akuffo JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Owusu JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Dotse JSC",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "[2011] SCGLR 50",
+    "Brickfield Properties Ltd v Newton [1971] 3 All ER 328",
+    "Hill v Luton Corporation [1951] 1 All ER 1028",
+    "Ex parte Essco Spirit [2003-2004] 2 SCGLR 689",
+    "Ellis v Allen [1914] 1 Ch. 904",
+    "Adjavon v Ghana Industrial Holding Corporation [1980] GLR 135",
+    "Technistudy Ltd v Kelland [1976] 3 All ER 632",
+    "Hollis v Burton [1913] 1 KB 605",
+    "Matter of Akyea [1990-1991] 2 GLR 326",
+    "High Court (Civil Procedure) Rules, CI 47"
+  ],
+  "rationaleHighlights": [
+    "The writ and statement of claim together disclosed a valid cause of action, satisfying jurisdictional requirements.",
+    "Admissions made in affidavit and open court constitute binding 'judgment on admissions' under Order 23 Rule 6 of CI 47.",
+    "A defective writ indorsement is cured by a proper statement of claim delivered alongside it, avoiding technical dismissal.",
+    "Courts must interpret procedural rules to achieve speedy and effective justice under Order 1 Rule 2 of CI 47.",
+    "Unequivocal admissions of liability justify summary judgment in part where no genuine issue for trial exists.",
+    "The trial judge acted within jurisdiction in relying on clear admissions made during proceedings.",
+    "The appellants failed to withdraw or challenge the admissions, which therefore remained binding.",
+    "The case is distinguishable from Ex parte Essco Spirit due to the presence of substantive pleadings and admissions."
+  ],
+  "confidenceNotes": "High confidence in all fields based on explicit textual evidence from the judgment. All key facts, rulings, and citations are directly drawn from the provided document. The truncated end of the document does not affect the core holdings discussed.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/AXEX  COMPANY LIMITED  VRS  KWAME OPOKU,SYLOP COMPANY LIMITED UNIQUE COMPANY LIMITED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:37:53.223Z",
+    "plainTextLength": 28302
+  },
+  "trialDate": "2008-04-23"
+}

@@ -1,0 +1,61 @@
+{
+  "caseTitle": "ATTORNEY-GENERAL OF SIERRA LEONE",
+  "summary": "The appellant, Momo Kamara, entered a railway station compound through a route marked 'No thoroughfare' to deliver food to his master, a railway employee. Upon entry, he became a trespasser, and after being instructed by a police constable to leave, he refused. The West Africa Court of Appeal upheld his conviction for trespass under section 39 of Cap. 180 of the Laws of Sierra Leone, affirming that entry via a prohibited route constitutes trespass regardless of intent, and dismissed the appeal.",
+  "legalKeywords": [
+    "trespass",
+    "no thoroughfare",
+    "railway compound",
+    "criminal conviction",
+    "appellate dismissal",
+    "unauthorized entry",
+    "notice",
+    "property rights",
+    "lawful instruction",
+    "police authority"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Trespass",
+    "Property Law",
+    "Appellate Decision",
+    "West Africa Court of Appeal"
+  ],
+  "verdict": "Conviction for trespass upheld; appeal dismissed",
+  "winningSide": "Respondent (Attorney-General of Sierra Leone)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Sierra Leone"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "WACA/3 WACA/ATTORNEY-GENERAL OF SIERRA LEONE"
+  ],
+  "rationaleHighlights": [
+    "Entry via a 'No thoroughfare' route constitutes trespass ab initio",
+    "Individual remained on property after being lawfully instructed to leave",
+    "Conviction upheld due to clear violation of property access rules"
+  ],
+  "confidenceNotes": "The case is clearly reported with judicial panel and holding, though limited factual detail is provided beyond the legal issue of trespass.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/ATTORNEY-GENERAL OF SIERRA LEONE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:27:34.225Z",
+    "plainTextLength": 1995
+  },
+  "trialDate": "1937-03-13"
+}

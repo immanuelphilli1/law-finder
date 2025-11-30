@@ -1,0 +1,71 @@
+{
+  "caseTitle": "AUGUSTINA MAMUNA RUTTMERN",
+  "summary": "This 1937 West Africa Court of Appeal case involved a dispute over family land in Accra, Ghana, between grandchildren of Alfa Ruttmern. The plaintiffs, descendants of Alfa's son Nuffu by Ashetu, sought a declaration that the land was family property and that they were entitled to share in the rents, along with an account of rents collected since 1928 by the defendant, Emmanuel Candinho Ruttmer, descendant of Alfa's son Karimu by Fatuma. The central issue was whether Ashetu was lawfully married to Alfa under native law and custom. The trial court found in favor of the plaintiffs, and the appellate court upheld this decision. It held that the defendant's counsel's opening statement admitting the marriage under native custom was binding in the absence of pleadings, estopping the appellant from later contesting it. The court affirmed the finding that Ashetu was a senior wife to Fatuma, entitling her descendants to a share in the family property. It also confirmed the duty of the defendant and his brother Louis, as literate 'caretakers' managing family affairs, to account for collected rents under native custom and trust principles, rejecting defenses of laches and improper designation as caretaker. The appeal was dismissed.",
+  "legalKeywords": [
+    "family land",
+    "native law and custom",
+    "marriage validity",
+    "caretaker",
+    "account of rents",
+    "senior wife",
+    "laches",
+    "equity",
+    "illiteracy and rights",
+    "admission by counsel",
+    "binding opening statement",
+    "Mohammedan priest",
+    "land declaration",
+    "trustee duty",
+    "family property"
+  ],
+  "topics": [
+    "Property Law",
+    "Family Law",
+    "Customary Law",
+    "Equity",
+    "Appellate Procedure"
+  ],
+  "verdict": "Appeal dismissed; judgment in favor of plaintiffs upheld.",
+  "winningSide": "Plaintiffs-Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Nelson v. Nelson, 1 W.A.C.A. 215"
+  ],
+  "rationaleHighlights": [
+    "Admission in opening statement binds party even without formal pleadings.",
+    "Finding of marriage under native custom upheld based on witness credibility.",
+    "Presumption in favor of marriage validity over time.",
+    "Caretaker role implies duty to account for family property.",
+    "Illiteracy does not bar enforcement of family rights.",
+    "Modification of 'first wife' to 'senior wife' does not affect outcome.",
+    "No laches where illiterate family members relied on educated relatives.",
+    "Appellant estopped from raising new issue not raised below."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judicial reasoning and explicit findings; minor uncertainty in precise spelling of names (e.g., Alfa vs. Alfa Ruttmern) due to transcription inconsistencies.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/AUGUSTINA MAMUNA RUTTMERN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:27:22.213Z",
+    "plainTextLength": 10415
+  },
+  "trialDate": "1937-04-24"
+}

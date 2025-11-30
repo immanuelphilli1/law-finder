@@ -1,0 +1,73 @@
+{
+  "caseTitle": "NANA ESSELL TAWIAH III",
+  "summary": "This 1936 West Africa Court of Appeal decision involved a land boundary dispute between Nana Essell Tawiah III and Kwesi Ewudzi, originating in the Paramount Chief's Tribunal of Gomoa Assin. The Provincial Commissioner had allowed the defendant's appeal, reversing the Tribunal's decision. The Court of Appeal held that although the Provincial Commissioner had jurisdiction due to conditional leave granted by the Tribunal, the original Tribunal proceedings were a nullity because key members who delivered judgment were not present throughout the hearing. Citing the principle that native tribunals' land decisions should not be overturned without clear error, the Court set aside both the Tribunal’s and Provincial Commissioner’s judgments and ordered a de novo retrial. The appellant was awarded costs in both appellate and lower courts, with Tribunal costs to abide the final outcome.",
+  "legalKeywords": [
+    "trespass",
+    "disputed boundary",
+    "native tribunal",
+    "appeal jurisdiction",
+    "conditional leave to appeal",
+    "nullity of proceedings",
+    "de novo trial",
+    "land ownership",
+    "jurisdiction",
+    "provincial commissioner",
+    "Native Administration Ordinance",
+    "estoppel",
+    "weight of evidence",
+    "custodian of land",
+    "colonial legislation"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Land Law",
+    "Native Tribunals",
+    "Jurisdictional Requirements",
+    "Procedural Fairness"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Plaintiff-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Abakah Nthah v. Anguah Bennieh",
+    "W. A. Hanson v. Mary A. Ashun",
+    "Kojo Twerebu v. Kobina Baa",
+    "2 W.A.C.A., p. 1"
+  ],
+  "rationaleHighlights": [
+    "Proceedings before the Tribunal were void due to absence of members during full hearing",
+    "Native tribunals' land decisions should not be disturbed without clear proof of error",
+    "Conditional leave granted by Tribunal satisfied jurisdictional requirements under s.77(1) of Native Administration Ordinance",
+    "Provincial Commissioner erred in overturning factual findings of native tribunal",
+    "Case remitted for de novo hearing before the Paramount Chief's Tribunal",
+    "Appellant entitled to costs despite success on respondent's point",
+    "Principle of fair hearing requires all adjudicating members to be present throughout trial"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on primary source document from official legal repository; citations and procedural details are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/NANA ESSELL TAWIAH III.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:17:00.186Z",
+    "plainTextLength": 10517
+  },
+  "trialDate": "1936-05-04"
+}

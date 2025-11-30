@@ -1,0 +1,73 @@
+{
+  "caseTitle": "SOCIETY LTD, ACCRA. v. THE GHANA PRIVATE ROAD TRANSPORT",
+  "summary": "This Court of Appeal decision in Ghana arose from a dispute between Kaneshie/Cape Coast/Takoradi Co-operative Transport Society Ltd and the Ghana Private Road Transport Union (GPRTU) over control and loading rights at Kaneshie Lorry Station. The High Court had previously issued an order on December 11, 1997, requiring compliance with loading rules and permitting both parties' vehicles to operate under an Interim Management Committee. When the respondent union alleged violations, they filed a motion for interim injunction seeking enforcement. Instead of enforcing the existing order, the trial judge imposed a 'compromise ruling' appointing the Chief Labour Officer to supervise operations—a remedy not requested by either party. The Court of Appeal unanimously allowed the appeal, holding that the trial judge exceeded his authority by introducing an order inconsistent with the relief sought, effectively creating a new case not presented by the parties. The appellate court emphasized that enforcement applications must uphold, not alter, existing orders, and that judicial discretion does not permit such unilateral changes. The impugned order was set aside, and the matter remitted for fresh hearing before a different judge to determine compliance with the original injunction.",
+  "legalKeywords": [
+    "interim injunction",
+    "contempt of court",
+    "equitable relief",
+    "court order enforcement",
+    "judicial discretion",
+    "abuse of process",
+    "compromise order",
+    "procedural fairness",
+    "interim management committee",
+    "loading rights",
+    "transport union dispute",
+    "co-operative society",
+    "judicial overreach",
+    "remittal for trial",
+    "first come first served basis"
+  ],
+  "topics": [
+    "Injunction",
+    "Contempt of Court",
+    "Judicial Discretion",
+    "Civil Procedure",
+    "Transport Law"
+  ],
+  "verdict": "Appeal allowed; impugned compromise order set aside and matter remitted for fresh hearing before a different judge.",
+  "winningSide": "Appellant (Kaneshie/Cape Coast/Takoradi Co-operative Transport Society Ltd)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Mrs. Wood",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Benin",
+      "role": "Justice"
+    },
+    {
+      "name": "Twumasi",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Poku vrs: Frimpong 1972 1 GLR. 230 at 241",
+    "Adjei vrs: Foriwaa 1981 GLR",
+    "Dam vrs: Addo 1962 2 GLR.200 at 203"
+  ],
+  "rationaleHighlights": [
+    "The trial judge erred by introducing a 'compromise order' not sought by either party, thereby altering the effect of an existing court order.",
+    "An application for enforcement of a court order should not be used to vary or undermine that order.",
+    "The principle in Adjei vrs: Foriwaa does not permit courts to make orders inconsistent with the relief sought.",
+    "The appeal court emphasized that parties are entitled to have their cases decided on the basis of their pleadings, not a court-imposed alternative.",
+    "The failure to investigate competing claims before making a new order constituted a procedural injustice.",
+    "The proper remedy was to set aside the impugned order and remit the matter for hearing before a different judge.",
+    "Contempt proceedings were relevant where a party allegedly violated a court order, rather than a fresh injunction application.",
+    "Judicial discretion in equitable matters must align with the nature and scope of the application before the court."
+  ],
+  "confidenceNotes": "The case details are clear and consistent across the judgments of all three Justices. The procedural history and legal reasoning are well-articulated, supporting high confidence in accuracy.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/KANESHIECAPE COAST TAKORADI CO-OPERATIVE TRANSPORT SOCIETY LTD, ACCRA. v. THE GHANA PRIVATE ROAD TRANSPORT UNION OF T.U.C. ACCRA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:24:30.882Z",
+    "plainTextLength": 15157
+  },
+  "trialDate": "2000-02-24"
+}

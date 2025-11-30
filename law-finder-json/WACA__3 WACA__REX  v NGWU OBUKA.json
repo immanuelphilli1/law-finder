@@ -1,0 +1,65 @@
+{
+  "caseTitle": "REX v NGWU OBUKA",
+  "summary": "The appellant, Ngwu Obuka, was convicted by the High Court on a second count of child stealing under section 371(1) and (2) of the Criminal Code, while being acquitted on the first count of slave dealing under section 369(2). The prosecution's evidence, if accepted, would have supported only the first count. On appeal, the Crown did not defend the conviction on child stealing and instead requested the appellate court to substitute a guilty verdict under section 365 of the Criminal Code, which the court declined, holding that it could only do so if the trial judge must have been satisfied of facts proving guilt for that offence. As this threshold was not met, the appeal was allowed, the conviction quashed, and the appellant discharged.",
+  "legalKeywords": [
+    "slave dealing",
+    "child stealing",
+    "substitution of verdict",
+    "appellate power",
+    "section 365 Criminal Code",
+    "section 371 Criminal Code",
+    "section 369 Criminal Code",
+    "West African Court of Appeal Ordinance",
+    "trial judge findings",
+    "conviction quashed"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Child Rights",
+    "Slavery and Human Trafficking"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Section 369(2) Criminal Code",
+    "Section 371(1) and (2) Criminal Code",
+    "Section 365 Criminal Code",
+    "Section 11(2) West African Court of Appeal Ordinance No. 47 of 1933"
+  ],
+  "rationaleHighlights": [
+    "Appellate court cannot substitute a conviction unless trial judge must have been satisfied of the facts constituting the new offence",
+    "Evidence supported slave dealing charge but not child stealing",
+    "Crown did not support conviction on the count returned",
+    "No basis for invoking power under section 11(2) to substitute verdict",
+    "Conviction unsafe due to inconsistency with evidentiary findings"
+  ],
+  "confidenceNotes": "High confidence; all information is directly derived from the judgment text, though the jurisdictional context reflects historical West African Court of Appeal application in Ghanaian legal system.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/REX  v NGWU OBUKA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:15:52.424Z",
+    "plainTextLength": 2713
+  },
+  "trialDate": "1936-01-15"
+}

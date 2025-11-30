@@ -1,0 +1,80 @@
+{
+  "caseTitle": "EDWARD AWUKU (SUBSTITUTED BY MRS. DINAH AWUKU) VRS BRYNE YAW",
+  "summary": "This Supreme Court of Ghana case, Edward Awuku (substituted by Mrs. Dinah Awuku) v. Bryne Yaw Attigah & Emmanuel Kofi Tetteh (Civil Appeal No. J4/13/2010, 29th June 2010), centered on conflicting land title claims over Maamobi land, part of Osu Stool lands. The appellant's title originated from a 1975 grant by a caretaker of the land, Nii Kpakpo Adokwei Saka, to the appellant’s uncle, later confirmed by Osu Mantse Nii Dowuona V in 1966. The Court of Appeal upheld the High Court’s decision to reverse the Land Title Tribunal’s judgment in favor of the appellant, ruling the initial grant void due to the caretaker’s lack of authority under established precedent. The Supreme Court affirmed this, holding that a grant by a caretaker without proper agency or ratification by the Osu Mantse is null and void. Despite arguments for modern reinterpretation based on agency and ratification, the Court emphasized the need for legal stability in land transactions, rejecting the appeal.",
+  "legalKeywords": [
+    "land title dispute",
+    "allodial title",
+    "Osu Stool lands",
+    "caretaker authority",
+    "ratification of grant",
+    "nemo dat quod non habet",
+    "agency in land conveyance",
+    "Land Title Registry Law PNDCL 152",
+    "judicial precedent",
+    "Odoi v Hammond",
+    "Akwei v Awuletey",
+    "Hammond v Odoi",
+    "Malm v Lutterodt",
+    "principle of ratification",
+    "void land grant"
+  ],
+  "topics": [
+    "Property Law",
+    "Land Tenure in Ghana",
+    "Appellate Review"
+  ],
+  "verdict": "The appeal was dismissed. The Supreme Court affirmed the Court of Appeal’s decision that the appellant's title was null and void due to the caretaker’s lack of authority to grant Osu Stool land, and that subsequent confirmation did not constitute valid ratification under the law.",
+  "winningSide": "Respondents (Bryne Yaw Attigah and Emmanuel Kofi Tetteh)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Brobbey, JSC",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Ansa, JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Owusu (Ms), JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Yeboah, JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Aryeetey, JSC",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Odoi v Hammond [1971] 1 GLR 375",
+    "Akwei v Awuletey [1960] GLR 231",
+    "Hammond v Odoi [1982-83] GLR 1215",
+    "Malm v Lutterodt [1963] 1 GLR 1"
+  ],
+  "rationaleHighlights": [
+    "A caretaker of stool land lacks inherent authority to grant allodial title; only the Osu Mantse or authorized elders can do so.",
+    "Ratification under agency principles requires the act to be done in the principal's name and with full knowledge and acknowledgment.",
+    "The confirmation by Osu Mantse Nii Dowuona V did not constitute valid ratification because the grant was made by the caretaker in his own name.",
+    "Judicial adherence to precedent in land law is essential to prevent chaos and uphold order in land transactions.",
+    "The nemo dat rule applies: one cannot transfer better title than they possess; thus, an invalid grant cannot be cured by subsequent confirmation.",
+    "The Land Title Registrar lacks suo motu power to cancel a registered title without statutory authority.",
+    "Prior registered title does not prevail if the root of title is fundamentally void due to lack of capacity.",
+    "Effective occupation by a subject of the stool does not bar alienation but may affect equitable considerations."
+  ],
+  "confidenceNotes": "The analysis is based on a verbatim judicial opinion from the Supreme Court of Ghana. The facts, legal principles, and citations are explicitly stated in the judgment, ensuring high confidence. The case is doctrinally significant in Ghanaian land law, particularly regarding stool land alienation and agency.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/EDWARD AWUKU (SUBSTITUTED BY MRS. DINAH AWUKU) VRS BRYNE YAW.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:49:35.751Z",
+    "plainTextLength": 20548
+  },
+  "trialDate": "2010-04-13"
+}

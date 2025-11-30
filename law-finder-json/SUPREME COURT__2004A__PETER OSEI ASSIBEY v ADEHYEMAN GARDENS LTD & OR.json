@@ -1,0 +1,86 @@
+{
+  "caseTitle": "PETER OSEI ASSIBEY v ADEHYEMAN GARDENS LTD & OR",
+  "summary": "In this civil appeal before the Supreme Court of Ghana, Peter Osei Assibey, a subscriber to the regulations of Adehyeman Gardens Ltd., claimed to be a fully paid-up shareholder holding 20% of the company's shares and sought declarations affirming his status, challenging demands for additional payment, and restraining exclusion from the company. The High Court dismissed his claims, ruling he failed to prove full payment for his shares. On appeal, the key issue was whether Assibey was a fully paid-up member and director. The Supreme Court examined evidence including Exhibits 1, Q, R, and 3, noting that the managing director unilaterally appointed new directors without shareholder approval, violating Sections 181 and 272 of the Companies Code and Regulation 59. Despite being a subscriber, the court upheld the trial court’s finding that Assibey did not discharge the burden of proof to establish full payment for shares. The appeal was dismissed, affirming that subscription alone does not confer full shareholder rights without financial fulfillment.",
+  "legalKeywords": [
+    "shareholder rights",
+    "fully paid-up shares",
+    "nominal shareholder",
+    "company director appointment",
+    "corporate governance",
+    "burden of proof",
+    "subscriber to regulations",
+    "Companies Code",
+    "Articles of Association",
+    "injunction",
+    "oppressive conduct",
+    "change of directors",
+    "equity in shares",
+    "declaration of status",
+    "civil procedure"
+  ],
+  "topics": [
+    "Corporate Law",
+    "Shareholder Dispute",
+    "Director Appointment",
+    "Burden of Proof",
+    "Company Registration"
+  ],
+  "verdict": "The appeal was dismissed. The Supreme Court upheld the High Court's decision that the plaintiff failed to prove he was a fully paid-up shareholder.",
+  "winningSide": "Adehyeman Gardens Ltd. and Kwaku Asare (Appellants/Respondents)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sophia A. B. Akuffo",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Justice"
+    },
+    {
+      "name": "Miss Akuffo",
+      "role": "Justice"
+    },
+    {
+      "name": "Mrs. Wood",
+      "role": "Justice"
+    },
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "Prof. Ocran",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Civil Appeal No. J4/24/2004",
+    "Exhibit 1",
+    "Exhibit Q",
+    "Exhibit R",
+    "Exhibit 3",
+    "Sections 181 and 272 of the Companies Code",
+    "Regulation 59 of the Company's Regulations",
+    "Order 63 Rule 6 of the High Court (Civil Procedure) Rules"
+  ],
+  "rationaleHighlights": [
+    "The trial judge held that the plaintiff failed to discharge the burden of proof to show he was a fully paid-up shareholder.",
+    "Appointment of new directors without shareholders' resolution violated Sections 181 and 272 of the Companies Code and Regulation 59.",
+    "Being a subscriber to the company’s regulations does not automatically confer full shareholder status without proof of payment.",
+    "The Supreme Court emphasized compliance with statutory and regulatory procedures in corporate governance."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from court document; some exhibits referenced but not fully detailed in text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2004A/PETER OSEI ASSIBEY v ADEHYEMAN GARDENS LTD & OR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:32:58.803Z",
+    "plainTextLength": 48974
+  },
+  "trialDate": "2004-12-01"
+}

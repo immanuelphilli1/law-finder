@@ -1,0 +1,63 @@
+{
+  "caseTitle": "BUAKO STOOL VERSUS SUHENSO STOOL.",
+  "summary": "The Buako Stool sought certiorari to quash a decision by the Sefwi Wiawso State Council, which had declared title over disputed land in favor of the Suhenso Stool. The court held that the State Council lacked jurisdiction because boundary disputes over stool lands are not 'matters of a constitutional nature' as defined by the State Councils (Colony and Southern Togoland) Ordinance, c. 8 of 1952, s. 5. The application was properly filed in the Land Court, as the dispute concerned land ownership under the Courts Ordinance, c. 4 of 1951, s. 24(1). Although the ex parte motion was technically defective for not clearly stating grounds, the accompanying affidavit fully detailed them, curing the defect. The court emphasized that technicalities should not unduly affect African litigants. The application for certiorari was granted.",
+  "legalKeywords": [
+    "certiorari",
+    "excess of jurisdiction",
+    "State Council",
+    "constitutional matter",
+    "stool land",
+    "land boundary dispute",
+    "customary law",
+    "judicial review",
+    "prerogative writ",
+    "declaration of title",
+    "divisional court",
+    "affidavit in support",
+    "technical defect",
+    "Supreme Court jurisdiction",
+    "customary land ownership"
+  ],
+  "topics": [
+    "Land Law",
+    "Judicial Review",
+    "Customary Law",
+    "Jurisdiction",
+    "Prerogative Writs"
+  ],
+  "verdict": "Application for certiorari granted; the State Council's decision was quashed for lack of jurisdiction.",
+  "winningSide": "Buako Stool",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Windsor-Aubrey J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Western Judicial Division, Land Court, Sekondi",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute / judicial review",
+  "citations": [
+    "State Councils (Colony and Southern Togoland) Ordinance, c. 8 of 1952, s. 5",
+    "Courts Ordinance, c. 4 of 1951, s. 24(1)",
+    "Supreme Court (Civil Procedure) Rules, 1954, Ord. 59, r. 2(2)",
+    "State Councils (Colony and Southern Togoland) Ordinance, c. 8 of 1952, s. 2",
+    "State Councils (Colony and Southern Togoland) Ordinance, c. 8 of 1952, s. 11"
+  ],
+  "rationaleHighlights": [
+    "The State Council lacked jurisdiction as land boundary disputes are not 'constitutional matters' under the Ordinance.",
+    "Certiorari lies to quash decisions made without jurisdiction.",
+    "The Land Court had proper jurisdiction because the dispute related to land ownership.",
+    "An accompanying affidavit can cure a defective ex parte motion.",
+    "Undue regard to technicalities should not prejudice African parties."
+  ],
+  "confidenceNotes": "All information is directly extracted from the judgment and editorial note; citations are explicitly referenced in the text.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/BUAKO STOOL v  SUHENSO STOOL..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:12:54.073Z",
+    "plainTextLength": 9706
+  }
+}

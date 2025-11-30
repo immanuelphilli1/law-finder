@@ -1,0 +1,80 @@
+{
+  "caseTitle": "ALHAJI MAHMOUD BRAIMAH v HAJIA CEDI AMARKE",
+  "summary": "In this 2006 Supreme Court of Ghana case, Alhaji Mahmoud Braimah, representing the family of the late Alhaji Mahmoud Mustapha Ali, sued Hajia Cedi Amarke over the ownership of property located at E.47/12, Nima, Accra. The property was the self-acquired asset of the deceased and passed to all his children, both natural and adopted, upon his death. The appellant claimed ownership based on a sale conducted by the deceased's eldest son and two uterine sisters, excluding two adopted sons. The court found the sale invalid due to lack of consent from all rightful heirs and the respondent's failure to conduct proper due diligence. Relying on equitable principles, including constructive notice and the maxim against benefiting from wrongful conduct (actio ex turpi causa), the court dismissed the appeal, affirming that adopted children have equal inheritance rights and that a prudent purchaser must investigate known encumbrances.",
+  "legalKeywords": [
+    "property dispute",
+    "adoption rights",
+    "inheritance",
+    "sale of property",
+    "constructive notice",
+    "prudent purchaser",
+    "equity",
+    "family law",
+    "self-acquired property",
+    "undisputed ownership",
+    "unconscionable transaction",
+    "estate distribution",
+    "document authentication",
+    "ex turpi causa",
+    "judicial conscience"
+  ],
+  "topics": [
+    "Property Law",
+    "Family Law",
+    "Inheritance Law",
+    "Equity",
+    "Contract Validity"
+  ],
+  "verdict": "The appeal was dismissed.",
+  "winningSide": "Plaintiff/Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "W. A. Atuguba",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "G. T. Wood (Mrs.)",
+      "role": "Justice"
+    },
+    {
+      "name": "S. A. Brobbey",
+      "role": "Justice"
+    },
+    {
+      "name": "J. Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "R. T. Aninakwah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "BOATENG v. DWINFOUR (1979) G.L.R. 360 C.A.",
+    "AMUZU v. OKLIKAH (1998\u00191999) S.C.L.R. 141"
+  ],
+  "rationaleHighlights": [
+    "The property was self-acquired by the deceased and devolved to all children, including adopted ones.",
+    "Sale to respondent was invalid due to lack of consent from all heirs, particularly adopted brothers.",
+    "Respondent failed to conduct due inquiry, violating the duty of a prudent purchaser.",
+    "Exhibit \u001cA\u001d, a declaration by the deceased, was inoperative, undermining the appellants\u0019 claim.",
+    "Court applied equitable principle that purchaser has constructive notice of encumbrances upon actual notice.",
+    "Court refused to uphold a transaction arising from morally questionable conduct (actio ex turpi causa).",
+    "Adopted children have equal rights as family elders in inheritance matters.",
+    "Failure to consult known family members invalidated the legitimacy of the sale."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear judicial reasoning and cited authorities.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2006A/ALHAJI MAHMOUD BRAIMAH v  HAJIA CEDI AMARKE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:25:32.370Z",
+    "plainTextLength": 6162
+  },
+  "trialDate": "2006-11-15"
+}

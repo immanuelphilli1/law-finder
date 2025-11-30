@@ -1,0 +1,76 @@
+{
+  "caseTitle": "YAW SORO v JULIANA FRANS",
+  "summary": "In Yaw Soro v Juliana Frans, the Supreme Court of Ghana addressed a jurisdictional dispute arising from the improper transfer of a civil land case. The trial judge, Abada J., delivered judgment after the case had been formally transferred by the Chief Justice under s.104 of the Courts Act 1993, rendering him functus officio. The Court of Appeal had declared the judgment a nullity and ordered a retrial, a decision the plaintiff appealed. The Supreme Court upheld the nullity, ruling that only a formal retransfer order under the hand and seal of the Chief Justice could restore jurisdiction, not an administrative letter. However, it varied the retrial order, holding that only the judgment was void, not the entire prior proceedings, and directed the case be reassigned to another High Court judge in Kumasi for continuation, not a full de novo hearing.",
+  "legalKeywords": [
+    "jurisdiction",
+    "transfer of case",
+    "functus officio",
+    "nullity",
+    "procedural fairness",
+    "due process",
+    "Courts Act 1993",
+    "retrial",
+    "administrative directive",
+    "statutory compliance",
+    "hearing de novo",
+    "ultra vires",
+    "judicial authority",
+    "case adjournment",
+    "legal procedure"
+  ],
+  "topics": [
+    "Judicial Jurisdiction",
+    "Case Transfer",
+    "Nullity of Judgment",
+    "Procedural Fairness",
+    "Statutory Interpretation"
+  ],
+  "verdict": "The appeal was dismissed with a variation: the judgment of the High Court was affirmed as a nullity, but the order for a full retrial was set aside in favor of reassignment to another judge to continue proceedings.",
+  "winningSide": "Juliana Frans (Respondent/Defendant)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "G. T. Wood (Mrs.)",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Dr. Twum",
+      "role": "Justice"
+    },
+    {
+      "name": "Prof. Ocran",
+      "role": "Justice"
+    },
+    {
+      "name": "Lartey",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Courts Act 1993, Act 459, s 104"
+  ],
+  "rationaleHighlights": [
+    "The trial judge lacked jurisdiction to deliver judgment after the case was transferred by the Chief Justice under s.104 of the Courts Act 1993.",
+    "A mere administrative letter from the Chief Justice does not constitute a valid retransfer of jurisdiction.",
+    "The judgment was declared a nullity because the judge was functus officio at the time of delivery.",
+    "The Court of Appeal correctly found a denial of hearing as no addresses were recorded from counsel.",
+    "The Supreme Court affirmed the nullity but varied the order for retrial, directing the case be assigned to another High Court judge without a full de novo hearing."
+  ],
+  "confidenceNotes": "The case details are clear and directly sourced from a Supreme Court judgment; all key elements including jurisdiction, statutory interpretation, and procedural history are explicitly stated.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2005A/YAW SORO v  JULIANA FRANS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:26:52.332Z",
+    "plainTextLength": 31412
+  },
+  "trialDate": "2005-01-04"
+}

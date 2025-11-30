@@ -1,0 +1,65 @@
+{
+  "caseTitle": "SEMINAR ON THE TREATMENT OF OFFENDERS THE MECHANICS OF SENT2",
+  "summary": "This 1989-90 seminar paper analyzes the mechanics of sentencing in Ghana, focusing on the role of public tribunals established under PNDCL 24 and later PNDCL 78. It outlines three dominant theories of punishment—retributive, deterrent/preventive, and reformative—and observes that judicial discretion in sentencing is broad, especially in tribunals. The paper notes that while tribunals were created to democratize justice and respond to rising crime rates—including white-collar crime, drug trafficking, and timber fraud—sentencing practices have largely favored deterrence, resulting in high incarceration rates. Critically, the author highlights prison overcrowding, the ineffectiveness of reform, and the risk of judicial bias, such as sentencing based on personal experiences or guilty pleas. Special provisions for juveniles and alternatives like communal labor are discussed, but the overall policy is seen as overly reliant on custodial sentences, undermining rehabilitation and straining resources.",
+  "legalKeywords": [
+    "sentencing discretion",
+    "retributive justice",
+    "deterrent theory",
+    "reformative theory",
+    "public tribunals",
+    "PNDCL 78",
+    "juvenile offenders",
+    "custodial sentences",
+    "communal labour",
+    "fines",
+    "prison decongestion",
+    "white-collar crime",
+    "drug trafficking",
+    "timber fraud",
+    "probation"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Sentencing Policy",
+    "Judicial Discretion",
+    "Prison Reform",
+    "Public Tribunals"
+  ],
+  "verdict": "Not applicable (academic analysis of sentencing practices)",
+  "winningSide": "Not applicable (non-adjudicative context)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Salmond J",
+      "role": "referenced jurist"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Public Tribunals / Supreme Court (contextual reference)",
+    "country": "Ghana"
+  },
+  "caseType": "sentencing policy analysis",
+  "citations": [
+    "PNDCL 24",
+    "PNDCL 78",
+    "Principles of Sentencing (2nd ed) by D A Thomas, pp. 35-37",
+    "Hunt (1958) The Times, November 26"
+  ],
+  "rationaleHighlights": [
+    "Sentencing guided by retributive, deterrent, and reformative theories",
+    "Public Tribunals have broad discretion under PNDCL 78",
+    "Deterrence prioritized for economic and drug-related crimes",
+    "Special circumstances allow deviation from minimum sentences",
+    "Custodial sentences contribute to prison overcrowding",
+    "Prisons criticized as criminal training grounds",
+    "Sentencing influenced by judicial bias and personal experience",
+    "Need for dynamic, socially responsive sentencing policy"
+  ],
+  "confidenceNotes": "The document is a seminar paper discussing sentencing mechanics in Ghana during 1989-90, not a formal court judgment. Citations are drawn from referenced legal instruments and secondary sources.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/89 - 90/SEMINAR ON THE TREATMENT OF OFFENDERS THE MECHANICS OF SENT2.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:16:01.286Z",
+    "plainTextLength": 19496
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "caseTitle": "ENGLISH TECHNICALITIES IN A GHANAIAN SETTLEMENT OF LAND [198",
+  "summary": "In Arbenser v. Hesse (1980), the High Court of Accra interpreted a will that devised land 'unto and to the use of my daughters and to their heirs being issues of their respective bodies as tenants in common.' The court held that the daughters took a joint tenancy with right of survivorship, while the gift to their heirs constituted a remainder interest that would vest upon the death of the last surviving daughter. The court rejected application of the rule in Shelley's case, reasoning that a Ghanaian testator was unlikely to intend creating an entail, and instead intended a gift in fee simple to the lineal descendants. The phrase 'unto and to the use of' was deemed effective to pass both legal and beneficial interests, though unnecessary in wills. The decision favored Forest v. Whiteway, holding that the remainder passed to the heirs of the daughters, not to the daughters themselves as tenants in common, thus preventing them from alienating the future interest. This interpretation aligned with the testator's probable intent within a Ghanaian customary context, distinguishing English technicalities from local realities.",
+  "legalKeywords": [
+    "testamentary disposition",
+    "tenancy in common",
+    "joint tenancy",
+    "rule in Shelley's case",
+    "resulting trust",
+    "devise",
+    "remainder",
+    "vesting of interest",
+    "customary law",
+    "land settlement",
+    "heirs of the body",
+    "gift over",
+    "life estate",
+    "fee simple",
+    "legal and beneficial interest"
+  ],
+  "topics": [
+    "Wills and Succession",
+    "Land Law",
+    "Trusts",
+    "Joint Tenancy",
+    "Tenancy in Common"
+  ],
+  "verdict": "The plaintiff's claim that the heirs of the daughters had immediate vested interests failed; the remainder interest would only vest upon the death of the last surviving daughter.",
+  "winningSide": "Defendants (the daughters)",
+  "prosecutionType": "civil",
+  "judges": [],
+  "jurisdiction": {
+    "court": "High Court, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "probate",
+  "citations": [
+    "Arbenser v. Hesse, High Court, Accra, 28 March 1980, unreported; digested in [1981] G.L.R.D. 36",
+    "Wilkinson v. Spearman, cited in Cook v. Cook (1706) 2 Vern. 545; 23 E.R. 952",
+    "Doe (Dec'd.) Littlewood v. Green, (1836) 4 M. & W. 229; 150 E.R. 1414",
+    "Forest v. Whiteway, (1849) 3 Exch. 367; 154 E.R. 886",
+    "Courts Act, 1971 (Act 372), s.111 and First Schedule",
+    "Conveyancing Decree, 1973 (N.R.C.D. 175), s.14(3)",
+    "English Law of Property Act, 1925, s.60(3)",
+    "English Law of Property Act, 1925, s.131"
+  ],
+  "rationaleHighlights": [
+    "Technical legal terms in a will are presumed to carry their technical meaning, especially when drafted by a lawyer.",
+    "The phrase 'unto and to the use of' ensured both legal and beneficial interests were transferred, though unnecessary in wills due to absence of resulting trusts.",
+    "The gift to the daughters vested immediately as a joint tenancy with right of survivorship, while the gift to their heirs was a remainder interest.",
+    "The rule in Shelley's case was inapplicable because the testator likely intended a gift to lineal descendants in fee simple, not an entail.",
+    "The remainder interest was held to vest in the heirs of the daughters upon the death of the last surviving daughter, not in the daughters themselves.",
+    "The decision preferred Forest v. Whiteway over Doe (Dec'd.) Littlewood v. Green, rejecting vesting of remainder in the daughters as tenants in common.",
+    "The Courts Act, 1971 abolished the rule in Shelley's case in Ghana via adoption of the English Law of Property Act, 1925, s.131.",
+    "The Conveyancing Decree, 1973 reversed the presumption of joint tenancy in favor of tenancy in common where no severance words are used."
+  ],
+  "confidenceNotes": "The case analysis is based on a scholarly commentary rather than the original judgment; however, the legal principles and citations are treated as authoritative within the Ghanaian context. The rule in Shelley's case was still applicable at the time of the will but later abolished.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2013/ENGLISH TECHNICALITIES IN A GHANAIAN SETTLEMENT OF LAND [198.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:35:22.496Z",
+    "plainTextLength": 12490
+  }
+}

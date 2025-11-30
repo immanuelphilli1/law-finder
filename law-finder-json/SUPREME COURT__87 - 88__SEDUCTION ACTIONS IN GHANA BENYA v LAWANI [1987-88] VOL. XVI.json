@@ -1,0 +1,70 @@
+{
+  "caseTitle": "BENYA v LAWANI",
+  "summary": "The article examines the legal concept of seduction in Ghanaian law, focusing on the case of Benya v Lawani [1987-88], where a father sued a medical officer for the seduction of his未成年 daughter, resulting in pregnancy. The trial court awarded substantial damages under 'customary seduction' without clarifying the legal basis or elements of the claim. The author critiques the confusion between common law and customary law principles, noting that while common law seduction requires proof of loss of service (master-servant relationship), customary law focuses on the wrong done to the unmarried woman and the disgrace brought upon her family. The article highlights that customary seduction does not hinge on loss of service but on inducement leading to departure from the home and resulting social harm. It further distinguishes between seduction of married and unmarried women under customary law, with the former involving quasi-criminal penalties like 'Brabbu' paid to the husband, reflecting public disapproval. The author calls for clarity in distinguishing between enticement, seduction, and customary practices to prevent judicial confusion and ensure proper application of legal principles.",
+  "legalKeywords": [
+    "seduction",
+    "customary law",
+    "common law",
+    "loss of service",
+    "damages",
+    "injured feelings",
+    "carnal knowledge",
+    "entitlement to sue",
+    "family disgrace",
+    "quasi-criminal penalty",
+    "parental rights",
+    "in loco parentis",
+    "marital rights",
+    "tort liability",
+    "cultural values",
+    "judicial clarity",
+    "Ghanaian jurisprudence",
+    "compensatory damages",
+    "proprietary interest",
+    "consortium"
+  ],
+  "topics": [
+    "Tort Law",
+    "Customary Law",
+    "Family Law",
+    "Legal Confusion",
+    "Judicial Reasoning"
+  ],
+  "verdict": "The court awarded damages under customary seduction without clear legal basis.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Not specified in text",
+      "role": "Trial Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Tort / Customary Law Dispute",
+  "citations": [
+    "Benya v Lawani [1987-88] Vol. XVI RGL 171–190",
+    "Dapah v Madzigbe",
+    "Billa v Salifu",
+    "Lynch v Knight",
+    "Best v Samuel Fox & Co Ltd"
+  ],
+  "rationaleHighlights": [
+    "The trial judge awarded damages for 'customary seduction' without defining its elements.",
+    "Customary seduction differs from common law seduction as it does not require proof of loss of service.",
+    "Liability under customary law arises from the wrong done to the woman and disgrace to the family.",
+    "The author argues that labeling various acts as 'customary seduction' causes legal confusion.",
+    "Seduction of a married woman under customary law involves quasi-criminal penalties like 'Brabbu'.",
+    "There is no requirement of carnal knowledge for liability under customary seduction.",
+    "The case reveals a conflation of common law and customary law principles in judicial reasoning."
+  ],
+  "confidenceNotes": "The summary is based on a detailed legal analysis from a published review article. While the original judgment details are limited, the author's critique provides substantial insight into the legal issues. Some specifics, such as the names of judges in Benya v Lawani, are not provided in the source text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/87 - 88/SEDUCTION ACTIONS IN GHANA BENYA v LAWANI [1987-88] VOL. XVI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:59:34.031Z",
+    "plainTextLength": 52681
+  }
+}

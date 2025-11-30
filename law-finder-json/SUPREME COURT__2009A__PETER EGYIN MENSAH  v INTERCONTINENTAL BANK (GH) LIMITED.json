@@ -1,0 +1,96 @@
+{
+  "caseTitle": "PETER EGYIN MENSAH v INTERCONTINENTAL BANK (GH) LIMITED",
+  "summary": "This Supreme Court of Ghana decision in Peter Egyin Mensah v. Intercontinental Bank (Gh) Limited (Civil Appeal No. J4/13/2009, 25 November 2009) concerns a dispute over unrecorded deposits in the savings accounts of a deceased Susu collector. The plaintiffs, as personal representatives, first obtained a default judgment ordering the bank to reconcile accounts. After the bank submitted a reconciliation report (Exhibit M), the plaintiffs filed a second suit seeking payment of GH\u000249,249.01, claiming the report was inaccurate. The defendant invoked res judicata, arguing the issue was already determined. The Court of Appeal upheld this plea, but the Supreme Court reversed, holding that the second suit raised a new issue—the validity of the reconciliation report—which was not conclusively decided in the first suit. The Court emphasized that estoppel by res judicata from a default judgment applies only to issues necessarily and precisely determined, and that the public interest in finality must be balanced against the risk of injustice. The appeal was allowed, reinstating the High Court’s judgment in favor of the plaintiffs.",
+  "legalKeywords": [
+    "res judicata",
+    "estoppel by judgment",
+    "default judgment",
+    "cause of action",
+    "reconciliation of accounts",
+    "issue estoppel",
+    "public interest in finality of litigation",
+    "interlocutory matters",
+    "Court Expert",
+    "C.I. 47",
+    "Order 26 rule 1",
+    "Order 33",
+    "civil procedure",
+    "banking dispute",
+    "Susu collector",
+    "passbook accounts",
+    "execution of judgment",
+    "declaration",
+    "interest on deposits",
+    "privy parties",
+    "final decision",
+    "competent jurisdiction",
+    "re-litigation",
+    "plea of estoppel",
+    "unilateral report",
+    "audit participation",
+    "judicial tribunal"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Banking Law",
+    "Res Judicata",
+    "Estoppel",
+    "Judgment Enforcement"
+  ],
+  "verdict": "The Supreme Court allowed the appeal, holding that the second suit was not barred by res judicata because the issue of the reconciliation report's accuracy was not conclusively determined in the first action.",
+  "winningSide": "Plaintiffs/Respondents/Appellants (Peter Egyin Mensah and George Kwamina Sey)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sophia Adinyira (Mrs.)",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Date-Bah",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Ansa",
+      "role": "panel judge"
+    },
+    {
+      "name": "Owusu (Ms)",
+      "role": "panel judge"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "panel judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Conca Engineering v. Moses [1984-86]2GLR 319",
+    "Aslin v. Parkin (1758) 97 E.R. 501",
+    "New Brunswick Railway Co. v. British & French Trust Corporation Ltd. [1939] A.C. 1",
+    "Kok Hoong v. Leong Cheong Kweng Mines Ltd. [1964] 1 All E.R. 300",
+    "Republic v. High Court, Accra (Commercial Division); Ex parte Hesse [2007-2008] SCGLR 1230",
+    "Oforiwah v. Laryea [1984-86] 2GLR 410",
+    "In re Sekyeredumase Stool; Nyame v. Kesse alias Konto [1998-99] SCGLR 476",
+    "Dahabieh v. S.A. Turqui & Bros [2001-2002]SCGLR 498",
+    "In re Kwabeng Stool; Karikari v. Ababio II [2001-2002] SCGLR 15"
+  ],
+  "rationaleHighlights": [
+    "A default judgment can create estoppel only on issues that were necessarily and precisely decided.",
+    "Res judicata applies when the same cause of action and parties are involved in successive suits.",
+    "The Court emphasized that a default judgment does not conclusively determine factual disputes not directly adjudicated.",
+    "The plaintiffs’ second suit introduced a new claim challenging the reconciliation report, which was not fully determined in the first action.",
+    "The Supreme Court clarified the limited binding effect of default judgments in subsequent litigation."
+  ],
+  "confidenceNotes": "The case details are drawn directly from a Supreme Court of Ghana judgment document, ensuring high factual accuracy. Citations are explicitly referenced in the judgment and match authoritative legal sources.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/PETER EGYIN MENSAH  v INTERCONTINENTAL BANK (GH) LIMITED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:03:22.985Z",
+    "plainTextLength": 26479
+  },
+  "trialDate": "2008-11-06"
+}

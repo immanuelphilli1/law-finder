@@ -1,0 +1,74 @@
+{
+  "caseTitle": "REX v USE ETEWO IBE,",
+  "summary": "In this 1938 West Africa Court of Appeal decision, six appellants were convicted of murder under Section 319 of the Criminal Code for the killing of Ukenerem. One appellant, who made a full confession to a European police officer, had leave to appeal refused. The remaining five were granted leave primarily to review the admissibility of confessions made to a Police Sergeant, which the court upheld. The central issue for appellants four and seven—who did not confess—was whether the accomplice's testimony was sufficiently corroborated. The court found that their post-crime conduct—showing the victim's body to relatives at night and issuing threats—constituted independent evidence linking them to the crime, satisfying the corroboration requirement. Citing precedents, the court emphasized that corroboration need not confirm details but must connect the accused to the offense. All appeals were dismissed.",
+  "legalKeywords": [
+    "murder",
+    "confession",
+    "admissibility",
+    "corroboration",
+    "accomplice testimony",
+    "criminal code",
+    "evidence",
+    "trial procedure",
+    "appeal",
+    "joint judgment",
+    "police officer",
+    "caution",
+    "self-incrimination",
+    "conduct as evidence",
+    "threats",
+    "intimidation"
+  ],
+  "topics": [
+    "criminal law",
+    "evidence",
+    "appeal",
+    "confession",
+    "corroboration"
+  ],
+  "verdict": "All appeals dismissed; convictions upheld.",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Mullins, 3 Cox 526, 531",
+    "R. v. Baskerville, 12 Cr. App. Rep. 81",
+    "R. v. Medcraft, 23 Cr. App. Rep. 116"
+  ],
+  "rationaleHighlights": [
+    "Confessions before European police officer deemed reliable",
+    "Simple 'yes' response upon arrest not sufficient as admission",
+    "Corroboration not required for details but for connection to crime",
+    "Accused's post-crime conduct used as corroborative evidence",
+    "Threatening relatives and showing body linked to guilt",
+    "Appeals dismissed due to sufficient corroborating evidence",
+    "Leave to appeal granted on procedural grounds",
+    "Trial judge's credibility assessment upheld"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on court judgment text; citations and legal reasoning are explicitly stated.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX v USE ETEWO IBE,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:54:31.673Z",
+    "plainTextLength": 4809
+  },
+  "trialDate": "1938-08-16"
+}

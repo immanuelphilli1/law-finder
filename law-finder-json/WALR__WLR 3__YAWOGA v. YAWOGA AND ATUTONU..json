@@ -1,0 +1,63 @@
+{
+  "caseTitle": "YAWOGA VERSUS YAWOGA AND ATUTONU.",
+  "summary": "In Yawoga v. Yawoga and Atutonu, the plaintiff sought to set aside a sale of family land by his father, the head of the family, claiming lack of consent from principal family members. The land was self-acquired property of the plaintiff's grandfather and had become family property under patrilineal succession. The court held that principal members of a family are those closest in consanguinity to the founder—in this case, the children of the deceased owner. At the time of sale, these were the plaintiff's father and aunt, Afua Yawoga. The plaintiff, being a grandchild with a living parent, was not a principal member and thus his consent was not required. The court found that Afua Yawoga had in fact consented and received part of the sale proceeds. Therefore, the sale was valid and could not be impeached. The appeal was allowed, the lower courts' judgments were set aside, and the plaintiff's claim was dismissed.",
+  "legalKeywords": [
+    "family property",
+    "patrilineal succession",
+    "consent to sale",
+    "principal members of family",
+    "voidable sale",
+    "alienation of family land",
+    "customary law",
+    "land tenure",
+    "family rights",
+    "self-acquired property",
+    "native custom",
+    "recovery of possession",
+    "null and void sale",
+    "tribal custom",
+    "relative proximity in consanguinity"
+  ],
+  "topics": [
+    "Family Law",
+    "Land Law",
+    "Customary Law",
+    "Property Rights",
+    "Succession"
+  ],
+  "verdict": "The appeal was allowed; the sale of family land was upheld as valid due to proper consent from principal family members.",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J",
+      "role": "trial judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Land Court",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "WALR 3",
+    "Yawoga v. Yawoga and Atutonu"
+  ],
+  "rationaleHighlights": [
+    "Sale of family property requires consent of principal members; absence makes sale voidable.",
+    "Principal members are those closest in consanguinity to the founder; grandchildren do not qualify unless parent is deceased or special recognition exists.",
+    "Plaintiff not a principal member; lacked standing to challenge sale based on lack of consent.",
+    "Consent of Afua Yawoga was proven, both through plaintiff's admission and her testimony.",
+    "Head of family may act for family, but members may sue to protect property if head fails to act.",
+    "Action to set aside sale must be timely; failure to show lack of consent defeats claim.",
+    "Native custom determines rank and rights within family structure.",
+    "Court found lower courts erred in favoring plaintiff despite evidence of proper consent."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment, including parties, legal principles, and outcome.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/YAWOGA v. YAWOGA AND ATUTONU..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:50:08.372Z",
+    "plainTextLength": 8061
+  }
+}

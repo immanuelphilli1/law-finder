@@ -1,0 +1,86 @@
+{
+  "caseTitle": "THE REPUBLIC V THE HIGH COURT, KOFORIDUA EX-PARTE AUGUSTUS",
+  "summary": "This is a civil motion brought before the Supreme Court of Ghana by Augustus Osae-Akonnor (Applicant) seeking to quash orders made by the High Court, Koforidua, presided over by Justice Kossi Efo Kaglo. The orders in question were issued ex-parte on 15th December 2008 and required the Applicant to surrender three vehicles or deposit $192,000 as security, alongside the issuance of an absconding warrant. The Supreme Court examined whether these orders violated the rules of natural justice, particularly the audi alteram partem principle, and whether the High Court acted ultra vires. It held that while the absconding warrant under Order 73 rule 1 was validly issued ex-parte, the order for interim preservation of property under Order 25 rule 2(1) required notice to the Defendant and could not be granted ex-parte. Since the Applicant had not been served or given a hearing, the preservation order breached procedural fairness and was therefore null and void. The Court issued an order of certiorari to quash the preservation order but did not interfere with the absconding warrant. The case underscores the importance of procedural due process in civil litigation, especially in ex-parte applications affecting fundamental rights.",
+  "legalKeywords": [
+    "ex-parte application",
+    "absconding warrant",
+    "interim preservation",
+    "audi alteram partem",
+    "natural justice",
+    "jurisdiction",
+    "Order 25 rule 2(1)",
+    "Order 19 rule 1(3)",
+    "Order 73 rule 1",
+    "C.I. 47",
+    "High Court Civil Procedure Rules",
+    "certiorari",
+    "ultra vires",
+    "bail conditions",
+    "constitutional rights",
+    "Article 14(1)",
+    "Article 18(2)",
+    "procedural fairness",
+    "service of process",
+    "motion on notice"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Constitutional Law",
+    "Judicial Review",
+    "Property Rights",
+    "Natural Justice"
+  ],
+  "verdict": "The Supreme Court issued an order of certiorari to quash the ex-parte order for interim preservation of property for breach of natural justice and lack of jurisdiction, but upheld the validity of the absconding warrant issued under Order 73 rule 1.",
+  "winningSide": "Applicant (Augustus Osae-Akonnor)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Owusu (Ms)",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Justice"
+    },
+    {
+      "name": "Akuffo (Ms)",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "[1998-99] SCGLR I",
+    "[2003-2004] SCGLR 312",
+    "[2001-2002] SCGLR 53"
+  ],
+  "rationaleHighlights": [
+    "The High Court lacked jurisdiction to grant an ex-parte order for preservation of property without notice, violating audi alteram partem.",
+    "Order 25 rule 2(1) read with Order 19 rule 1(3) of C.I. 47 mandates that applications for preservation must be on notice unless otherwise provided.",
+    "The ex-parte preservation order was ultra vires and thus null and void.",
+    "The absconding warrant under Order 73 rule 1 was properly issued ex-parte and valid.",
+    "The Supreme Court issued certiorari to quash the preservation order but upheld the absconding warrant.",
+    "Bail conditions imposed were not sanctioned by C.I. 47 and raised procedural concerns.",
+    "Appearance of counsel on 16/12/08 did not cure the initial lack of hearing on 15/12/08.",
+    "Failure to substantiate allegations before depriving a party of property violated constitutional rights under Articles 14(1) and 18(2)."
+  ],
+  "confidenceNotes": "The case details are drawn directly from the provided court document, with clear references to procedural rules and cited authorities. Confidence is high due to verbatim excerpts and explicit judicial reasoning.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/THE REPUBLIC V THE HIGH COURT, KOFORIDUA EX-PARTE  AUGUSTUS .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:59:27.957Z",
+    "plainTextLength": 21460
+  },
+  "trialDate": "2009-04-22"
+}

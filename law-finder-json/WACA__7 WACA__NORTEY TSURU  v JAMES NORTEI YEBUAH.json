@@ -1,0 +1,68 @@
+{
+  "caseTitle": "NORTEY TSURU v JAMES NORTEI YEBUAH",
+  "summary": "This was a civil appeal before the West Africa Court of Appeal concerning the jurisdiction of a Native Tribunal under the Native Administration (Colony) Ordinance. The plaintiff-appellant sought an account of £45 lent to the defendant in 1900 for trading purposes, and partial repayment of £70 made in 1940. The trial judge referred the case to a Native Tribunal, holding the claim fell within its jurisdiction as the amount did not exceed £100. The appellate court allowed the appeal, ruling that the actual amount in dispute could not be determined at that stage, as the original sum might have grown significantly over 41 years of trading. Therefore, the referral was premature. The order was set aside, and the case was remitted to the Divisional Court to continue proceedings until the amount became ascertainable. If the demand was later found not to exceed £100, a referral could then be made. Costs were awarded to the appellant.",
+  "legalKeywords": [
+    "jurisdiction",
+    "native tribunal",
+    "account of debt",
+    "trading loan",
+    "equity jurisdiction",
+    "reference to tribunal",
+    "debt exceeding £100",
+    "section 48 Native Administration Ordinance",
+    "section 66 Native Administration Ordinance",
+    "costs award",
+    "premature referral",
+    "amendment of writ",
+    "personal claim",
+    "accra native tribunal",
+    "divisional court"
+  ],
+  "topics": [
+    "Jurisdiction",
+    "Debt and Accounting",
+    "Native Tribunals",
+    "Appellate Review",
+    "Costs"
+  ],
+  "verdict": "Appeal allowed; order of referral set aside; case remitted for further hearing.",
+  "winningSide": "Plaintiff-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "M'Carthy, J.",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "Native Administration (Colony) Ordinance, Cap. 76, ss 48(1), 48(2)(e), 66",
+    "Courts Ordinance, s 15"
+  ],
+  "rationaleHighlights": [
+    "The claim involved a loan of £45 from 1900, and its value after 41 years of trading could have multiplied beyond £100.",
+    "The court held that the amount at issue was not ascertainable at the time of referral.",
+    "Referral to a Native Tribunal under s 66 is premature unless it appears the demand does not exceed £100.",
+    "The Divisional Court must continue hearing until the actual amount in dispute is determined."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/NORTEY TSURU  v JAMES NORTEI YEBUAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:31:37.300Z",
+    "plainTextLength": 6820
+  },
+  "trialDate": "1941-12-09"
+}

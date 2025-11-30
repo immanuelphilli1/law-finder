@@ -1,0 +1,63 @@
+{
+  "caseTitle": "REGINA v KWABENA KWANSAH",
+  "summary": "In Regina v Kwabena Kwansah, the West African Court of Appeal quashed a manslaughter conviction because the trial judge improperly withdrew from the jury the question of whether a felony had been committed, which was essential to determining whether the killing was justified under section 61(1) of the Criminal Code. The accused claimed he shot the deceased in self-defense after finding him in his home armed with a cutlass and advancing toward him. The judge incorrectly stated there was no evidence of a felony, despite the possibility that the deceased’s conduct constituted a felony under section 310. The court held that the issue of felony was for the jury to decide, and the misdirection undermined the conviction.",
+  "legalKeywords": [
+    "criminal law",
+    "justification for killing",
+    "felony",
+    "detention",
+    "jury decision",
+    "manslaughter",
+    "self-defense",
+    "Criminal Code",
+    "section 61(1)",
+    "section 310",
+    "summing up",
+    "evidentiary issue"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Jury Trial",
+    "Self-Defense",
+    "Judicial Misdirection",
+    "Appeal"
+  ],
+  "verdict": "Conviction for manslaughter quashed",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Lingley J.",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "Cor. Korsah Ag.C.J.",
+      "role": "panel judge"
+    },
+    {
+      "name": "Windsor-Aubrey",
+      "role": "panel judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Criminal Code, c. 9, ss. 61(1), 310"
+  ],
+  "rationaleHighlights": [
+    "It is for the jury to decide whether a felony was committed when assessing justification under section 61(1) of the Criminal Code.",
+    "The trial judge erred by stating there was no evidence of felony, thereby withdrawing a key issue from the jury.",
+    "The accused’s account of the deceased advancing with a cutlass could constitute a felony under section 310, which the jury should have evaluated.",
+    "Due to the misdirection, the conviction for manslaughter could not be upheld."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment text.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/REGINA  v KWABENA KWANSAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:51:40.078Z",
+    "plainTextLength": 3153
+  }
+}

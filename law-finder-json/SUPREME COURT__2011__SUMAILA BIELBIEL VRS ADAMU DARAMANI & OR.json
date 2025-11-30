@@ -1,0 +1,93 @@
+{
+  "caseTitle": "SUMAILA BIELBIEL VRS ADAMU DARAMANI & OR",
+  "summary": "In this 2011 ruling by the Ghanaian Supreme Court, the plaintiff, Sumaila Bielbiel, sought a declaration that Adamu Daramani, who holds a British passport, was in violation of Articles 94(2)(a) and 97(1)(e) of the 1992 Constitution by continuing to serve in Parliament while owing allegiance to a foreign country. The defendant challenged the Supreme Court's jurisdiction, arguing that the matter had already been adjudicated by the Court of Appeal and that the original jurisdiction of the Supreme Court was improperly invoked. The Court, per Gbadegbe JSC, held that the plaintiff's claim involved a continuing constitutional breach, thereby creating a new cause of action not barred by res judicata. The Court affirmed its original jurisdiction under Articles 2(1) and 130(1) of the Constitution to hear matters involving enforcement of constitutional provisions, even without a prior appeal. The defendant's failure to dispute the factual basis—particularly the possession of a British passport—was treated as an admission, warranting further inquiry. The Court rejected the argument that original jurisdiction requires both interpretation and enforcement, emphasizing that enforcement alone suffices. Thus, the Supreme Court ruled it had jurisdiction to proceed.",
+  "legalKeywords": [
+    "jurisdiction",
+    "constitutional interpretation",
+    "allegiance",
+    "parliamentary qualification",
+    "original jurisdiction",
+    "Supreme Court",
+    "article 94",
+    "article 97",
+    "article 130",
+    "declaration",
+    "constitutional violation",
+    "continuing breach",
+    "enforcement of constitution",
+    "res judicata",
+    "fundamental rights"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Jurisdiction",
+    "Parliamentary Eligibility",
+    "Allegiance",
+    "Original Jurisdiction"
+  ],
+  "verdict": "The Supreme Court ruled that it has jurisdiction to hear the case, rejecting the defendant's preliminary objection.",
+  "winningSide": "Plaintiff (on the issue of jurisdiction)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "GBADEGBE, JSC",
+      "role": "author"
+    },
+    {
+      "name": "BROBBEY, JSC",
+      "role": "presiding"
+    },
+    {
+      "name": "ANSAH, JSC",
+      "role": "member"
+    },
+    {
+      "name": "OWUSU (MS), JSC",
+      "role": "member"
+    },
+    {
+      "name": "DOTSE, JSC",
+      "role": "member"
+    },
+    {
+      "name": "YEBOAH, JSC",
+      "role": "member"
+    },
+    {
+      "name": "BONNIE, JSC",
+      "role": "member"
+    },
+    {
+      "name": "ARYEETEY, JSC",
+      "role": "member"
+    },
+    {
+      "name": "A BAMFO (MRS), JSC",
+      "role": "member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Bimpong Buta v General Legal Council [2003-2004] SCGLR 1200",
+    "Wilkinson v Barking Corporation [1948]1KB 721"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court has original jurisdiction to hear cases involving alleged breaches of the Constitution, even if similar matters were previously decided by lower courts.",
+    "A continuing constitutional violation creates a new cause of action, allowing fresh litigation.",
+    "The plaintiff's claim raises a justiciable issue under articles 2(1) and 130(1) of the 1992 Constitution.",
+    "The defendant's failure to contest the facts amounts to an admission, supporting the need for judicial inquiry.",
+    "Article 130(1) does not require both enforcement and interpretation for jurisdiction; enforcement alone suffices."
+  ],
+  "confidenceNotes": "The ruling is clear and well-reasoned, with explicit reference to constitutional provisions and prior case law. The facts are treated as undisputed due to the defendant's failure to contest them, strengthening the court's jurisdictional determination.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/SUMAILA BIELBIEL VRS ADAMU DARAMANI & OR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:59:05.473Z",
+    "plainTextLength": 51439
+  },
+  "trialDate": "2010-03-30"
+}

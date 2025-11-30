@@ -1,0 +1,69 @@
+{
+  "caseTitle": "TACKYIE VERSUS KABBAH..",
+  "summary": "In Tackyie v. Kabbah, the plaintiff, who served as an unofficial Regent and former Chairman of the Finance Committee of a Native Authority, sued the defendant for libel over letters accusing him of fraudulently diverting public funds and improperly receiving a Regent's allowance. The defendant claimed qualified privilege, asserting a duty to report misconduct. However, the court found that the defendant had previously made similar allegations to the police, who investigated and concluded the claims were false, notifying the defendant. Despite this, the defendant renewed the accusations in a widely circulated letter. The court held that this persistence after disproof demonstrated express malice, defeating any qualified privilege. Additionally, the broad dissemination of the letter to multiple officials beyond the necessary recipient exceeded the bounds of appropriate communication under privilege. The plaintiff was not officially recognized as Regent, but was functionally treated as one, and no restitution of allowances was sought. The court found no justification for the defamatory statements and awarded the plaintiff \u0002200 in damages with costs.",
+  "legalKeywords": [
+    "defamation",
+    "libel",
+    "qualified privilege",
+    "express malice",
+    "public duty",
+    "private duty",
+    "malice",
+    "defamatory statement",
+    "rebuttal of privilege",
+    "publication extent",
+    "police investigation",
+    "false allegations",
+    "regent allowance",
+    "fraud accusation",
+    "native authority",
+    "government agent",
+    "common interest",
+    "duty to report",
+    "malice inference",
+    "damages award"
+  ],
+  "topics": [
+    "Defamation",
+    "Qualified Privilege",
+    "Malice in Law",
+    "Judicial Remedies",
+    "Public Office and Duties"
+  ],
+  "verdict": "Judgment for the plaintiff with damages assessed at \u0002200 and costs awarded.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Smith Ag.J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Eastern Judicial Division, Divi\u0002sional Court, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Adam v. Ward [1917] A.C. 309",
+    "Gatley on Libel and Slander, 4th ed., p. 198",
+    "Halsbury, Hailsham ed., Vol. 20, pp. 468-486, paras. 569-592"
+  ],
+  "rationaleHighlights": [
+    "Defendant's persistence in making defamatory claims after police found them false constitutes express malice.",
+    "Wide distribution of the defamatory letter exceeded the scope of qualified privilege.",
+    "No justification was established for calling the plaintiff a thief regarding allowance payments.",
+    "Plaintiff was treated as Regent and had not claimed official recognition.",
+    "Reciprocal duty and interest required for qualified privilege were not met due to excessive publication.",
+    "Police investigation concluded allegations were 'Found False,' and defendant was notified.",
+    "Malice can be inferred from repeated unsubstantiated accusations.",
+    "Defendant failed to prove justification for the defamatory statements."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text with clear factual support.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/TACKYIE v. KABBAH..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:50:57.680Z",
+    "plainTextLength": 9689
+  }
+}

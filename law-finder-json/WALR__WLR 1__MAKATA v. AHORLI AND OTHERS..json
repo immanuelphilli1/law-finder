@@ -1,0 +1,70 @@
+{
+  "caseTitle": "MAKATA VERSUS AHORLI AND",
+  "summary": "In Makata v. Ahorli and Others (1956) WLR 1, the West African Court of Appeal addressed issues of native customary law, procedural validity in Native Courts, and appeal requirements. The plaintiff claimed succession to family land after paying his uncle's funeral expenses and being appointed by family elders. The Agave Native Court's majority awarded him title, but the President dissented and did not sign the order. On appeal, the Lands Division reversed, citing procedural defects and misapplication of custom. The appellate court held that under Gold Coast native custom, family elders may appoint a successor to family property, conferring an inalienable life interest. The failure of the dissenting President to sign the order did not invalidate the majority judgment under section 7(1) of the Native Courts Ordinance. Additionally, only the first and second defendants had signed the notice of appeal; others were not joined due to lack of statutory authority. The appeal was allowed, reinstating the Native Court's decision.",
+  "legalKeywords": [
+    "native law and custom",
+    "succession",
+    "family property",
+    "life interest",
+    "inalienable interest",
+    "Native Courts Ordinance",
+    "customary law",
+    "appointment by elders",
+    "funeral expenses",
+    "tribe vs family",
+    "majority judgment",
+    "notice of appeal",
+    "procedural irregularity",
+    "land dispute",
+    "elders' authority"
+  ],
+  "topics": [
+    "Customary Law",
+    "Succession",
+    "Land Rights",
+    "Procedural Law",
+    "Appellate Procedure"
+  ],
+  "verdict": "Appeal allowed; judgment of the Native Court reinstated.",
+  "winningSide": "Plaintiff (Makata)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ames",
+      "role": "Justice"
+    },
+    {
+      "name": "Jackson Ag.J.A",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Makata v. Ahorli and Others (1956) WLR 1",
+    "Muflat v. Kpeshie (1952) W.A.C.A. Cyclostyled Reports, p. 38",
+    "Yerenchi v. Akuflo (1905) Renner's Reports, Vol. I, Part 1, p. 366"
+  ],
+  "rationaleHighlights": [
+    "No rigid rules of intestate succession in Gold Coast native custom; elders may appoint successor at discretion.",
+    "Successor appointed by family elders holds only an inalienable life interest unless otherwise provided.",
+    "Failure of dissenting President of Native Court to sign majority order does not invalidate judgment due to statutory majority rule.",
+    "Notice of appeal must be signed by all appealing parties; court lacks power to join parties out of time.",
+    "Distinction between 'tribe' and 'family' is often blurred in testimony, but succession decisions rest with family, not tribe.",
+    "Payment of funeral expenses alone does not confer succession rights, but may support claim if accompanied by formal appointment."
+  ],
+  "confidenceNotes": "High confidence; source is a published law report with detailed judicial reasoning and clear procedural history.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/MAKATA v. AHORLI AND OTHERS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:03:35.151Z",
+    "plainTextLength": 16026
+  }
+}

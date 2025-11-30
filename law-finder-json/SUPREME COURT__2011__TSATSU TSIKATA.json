@@ -1,0 +1,69 @@
+{
+  "caseTitle": "TSATSU TSIKATA",
+  "summary": "This is a criminal appeal before the Supreme Court of Ghana, heard on January 19, 2011, concerning whether the appeal had become moot following the delivery of judgment by the High Court and the pendency of the appellant's appeal. The case was originally scheduled for judgment on June 25, 2008, but its delivery was delayed due to a motion for arrest filed by the appellant. The bench, presided over by Justice Atuguba, considered procedural issues surrounding the continuation of the appeal, including prior judicial treatment of mootness in appellate matters. The truncated nature of the document limits access to the final determination.",
+  "legalKeywords": [
+    "criminal appeal",
+    "mootness",
+    "judgment delivery",
+    "appellate procedure",
+    "High Court judgment",
+    "Supreme Court",
+    "Ghana",
+    "judicial process",
+    "motion to arrest judgment",
+    "pending appeal"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Mootness",
+    "Criminal Appeal",
+    "Judicial Delay",
+    "Supreme Court Jurisprudence"
+  ],
+  "verdict": "Not specified in available text",
+  "winningSide": "Not specified in available text",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Atuguba",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Akuffo",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "Adinyira",
+      "role": "Justice"
+    },
+    {
+      "name": "Bamfo",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "criminal appeal",
+  "citations": [
+    "SUPREME COURT/2011/TSATSU TSIKATA.htm"
+  ],
+  "rationaleHighlights": [
+    "Question raised on whether appeal is moot due to prior delivery of High Court judgment",
+    "Court has previously addressed issues of mootness in similar contexts",
+    "Delay in judgment delivery attributed to motion for arrest by appellant"
+  ],
+  "confidenceNotes": "The document appears to be truncated; key details such as verdict, rationale, and full judgment are missing. Analysis is based on available metadata and standard procedural knowledge of Ghanaian appellate process.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/TSATSU TSIKATA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:54:45.248Z",
+    "plainTextLength": 59925
+  },
+  "trialDate": "2010-03-03"
+}

@@ -1,0 +1,64 @@
+{
+  "caseTitle": "C. BRANDFORD - NETTEY",
+  "summary": "This 1936 West Africa Court of Appeal decision arose from an interpleader action concerning land attached in execution of a judgment against C. B. Nettey. Akai Kofi Nettey claimed to represent the surviving children of Nii Nettey Quarshie, asserting an interest in the property. The lower court released the property, finding the children had an interest. The appellate court reversed, holding that the claimant lacked locus standi, as he was not a son but a nephew of Nii Nettey Quarshie, and had falsely sworn otherwise. It was admitted the property was not family property, and no other legal interest was established under native or general law. The claim was deemed a 'barefaced attempt to impose upon the Court' due to lack of transparency and contradictory arguments. The court found the judgment-debtor held absolute ownership, the interpleader claim failed, and ordered the property reattached.",
+  "legalKeywords": [
+    "interpleader",
+    "execution by attachment",
+    "realty",
+    "locus standi",
+    "family property",
+    "joint ownership",
+    "perjury",
+    "representative capacity",
+    "native law",
+    "appellate review"
+  ],
+  "topics": [
+    "Property Law",
+    "Civil Procedure",
+    "Family Law",
+    "Appellate Law",
+    "Legal Ethics"
+  ],
+  "verdict": "Appeal allowed; interpleader claim dismissed; property to be reattached.",
+  "winningSide": "Appellants (The Gold Coast Independent Press Ltd. and others)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Webber",
+      "role": "Chief Justice, Sierra Leone"
+    },
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Mahmudu v. Zenuah, W.A.C.A. 20th November, 1934"
+  ],
+  "rationaleHighlights": [
+    "Claimant lacked locus standi as he was not a son but a nephew of Nii Nettey Quarshie",
+    "Property was not family property but given in absolute ownership to judgment-debtor",
+    "Claimant's affidavit contained false statements amounting to perjury",
+    "No clear identification of represented parties in representative claim",
+    "No cognizable legal interest shown by surviving children under native or other law",
+    "Lower court erred in relying on Mahmudu v. Zenuah which involved family property"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and explicit admissions in the record.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/C. BRANDFORD - NETTEY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:26:35.527Z",
+    "plainTextLength": 9582
+  },
+  "trialDate": "1936-11-23"
+}

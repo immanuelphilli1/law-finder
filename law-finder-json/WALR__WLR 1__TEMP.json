@@ -1,0 +1,35 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The provided document does not contain a legal decision or case details but appears to be a homepage or introductory page for the West African Law Reporter (WALR) or a similar legal resource. It includes a title 'GHANA LAW FINDER', a self-help guide description, and copyright information. No judicial reasoning, case facts, or legal analysis is present.",
+  "legalKeywords": [
+    "Ghana Law Finder",
+    "legal database",
+    "West African Court of Appeal",
+    "case index",
+    "legal research",
+    "copyright notice",
+    "online legal resource"
+  ],
+  "topics": [
+    "Legal Research",
+    "Court Reporting"
+  ],
+  "verdict": "N/A",
+  "winningSide": "N/A",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "N/A",
+    "country": "Ghana"
+  },
+  "caseType": "N/A",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "Low confidence in deriving case-specific insights due to absence of case content; metadata suggests a portal for legal resources rather than a judicial decision.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/TEMP.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:49:34.844Z",
+    "plainTextLength": 298
+  }
+}

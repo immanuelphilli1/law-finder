@@ -1,0 +1,76 @@
+{
+  "caseTitle": "THE REPUBLIC V HIGH COURT (COMMERCIAL DIVISION) ACCRA, EX-PARTE;NII ARMAH OBLIE, MARCELO NAVARRO BATAS, BALBINO BORINAGA JR, NII ADAM ADDY",
+  "summary": "The Supreme Court of Ghana issued a ruling in an ex-parte application for a writ of certiorari to quash proceedings and orders of the High Court (Commercial Division), including the committal of Nii Armah Oblie to prison for 60 days for non-compliance with an order to transfer company funds from his personal account to the corporate account. The Court held that although the order involved money, it was a specific ministerial act—issuing a cheque to re-deposit funds—and not an open-ended judgment for payment of money. Relying on Republic v High Court, Ex parte PPE Ltd & Paul Juric (2007-2008) SCGLR 188 and Order 43 Rule 12(1) of the High Court (Civil Procedure) Rules, 2004 (C.I. 47), the Court ruled that committal for contempt was not a permissible enforcement mechanism for orders involving the payment of money, as such enforcement risks violating personal liberty. The Court emphasized the mischief rule in statutory interpretation, noting that the omission of committal in money-related orders was intended to prevent imprisonment for debt. It distinguished the case from traditional debt enforcement, finding the act required was mechanical and specific, akin to returning a chattel. Consequently, the committal order was quashed, reinforcing constitutional protections against arbitrary detention in civil matters.",
+  "legalKeywords": [
+    "certiorari",
+    "committal for contempt",
+    "order for payment of money",
+    "High Court Civil Procedure Rules",
+    "O.43 r.12(1)",
+    "mischief rule",
+    "personal liberty",
+    "interim injunction",
+    "receiver and manager",
+    "corporate governance",
+    "directors' duties",
+    "shareholding dispute",
+    "enforcement of court orders",
+    "procedural justice",
+    "constitutional rights"
+  ],
+  "topics": [
+    "Contempt of Court",
+    "Judicial Review",
+    "Corporate Disputes",
+    "Civil Procedure",
+    "Constitutional Law"
+  ],
+  "verdict": "The application for certiorari was allowed; the High Court's committal order was quashed on the grounds that it improperly enforced a monetary-related order through imprisonment, violating procedural and constitutional safeguards.",
+  "winningSide": "Applicant (Nii Armah Oblie)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ansa, J.S.C."
+    },
+    {
+      "name": "Owusu (Ms), J.S.C."
+    },
+    {
+      "name": "Yeboah, J.S.C."
+    },
+    {
+      "name": "Gbadebe, J.S.C."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Republic v High Court (Fast Track Division), Accra, Ex parte PPE Ltd & Paul Juric (2007-2008) SCGLR 188",
+    "Latilla v Commissioners of Inland Revenue (1943) 1 All ER 265 H.L",
+    "Mekkaoui v Minister of Internal Affairs (1981) GLR 664",
+    "Asumadu-Sakyi II v. Owusu (1981) GLR 201 C.A",
+    "Barclays Bank (D.C.O) v. Heward-Mills (1964) GLR 332 S.C",
+    "Catheline v. Akufo-Addo (1984-86) 1 GLR 96 C.A"
+  ],
+  "rationaleHighlights": [
+    "The court held that although the High Court's order involved money, it was not an open-ended payment order but a specific ministerial act (transferring funds via cheque), thus distinguishable from traditional money judgments.",
+    "Committal for contempt was inappropriate under O.43 r.12(1) of C.I. 47 where the order effectively required payment of money, due to protections against imprisonment for debt.",
+    "The ruling emphasized the protection of personal liberty and the mischief rule in statutory interpretation, noting that the procedure should not undermine constitutional rights.",
+    "The court distinguished this case from summons-to-show-cause procedures under old rules, which posed risks to personal freedom based on perceived ability to pay."
+  ],
+  "confidenceNotes": "The ruling is from the Supreme Court of Ghana and directly interprets domestic procedural rules and precedent; citations are authoritative and contextually well-integrated.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/THE REPUBLIC V HIGH COURT (COMMERCIAL DIVISION) ACCRA, EX-PARTE;NII ARMAH OBLIE, MARCELO NAVARRO BATAS,  BALBINO BORINAGA JR, NII ADAM ADDY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:20:18.908Z",
+    "plainTextLength": 16425
+  },
+  "trialDate": "2012-05-05"
+}

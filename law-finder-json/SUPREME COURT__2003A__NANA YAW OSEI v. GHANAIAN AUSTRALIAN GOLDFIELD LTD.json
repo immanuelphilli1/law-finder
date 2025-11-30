@@ -1,0 +1,75 @@
+{
+  "caseTitle": "NANA YAW OSEI v. GHANAIAN AUSTRALIAN GOLDFIELD LTD",
+  "summary": "The appellant, Nana Yaw Osei, a mine operator at Ghanaian Australian Goldfield Ltd. (GAG), was retired on medical grounds after being diagnosed with a cardiac disease. He claimed the illness was occupational under Article 11.09(c) of the Collective Bargaining Agreement (CBA), seeking 20 months' salary. The High Court initially ruled in his favor, awarding �12 million, but the Court of Appeal reversed the decision, finding no causal link between his illness and his job. The Supreme Court upheld the appellate ruling, holding that the medical evidence (Exhibits C and E) only indicated the timing of symptom onset during employment, not causation. The Court emphasized that an appellant cannot raise new factual issues on appeal and that the burden of proving occupational illness lay with the appellant, which he failed to meet.",
+  "legalKeywords": [
+    "occupational illness",
+    "causal link",
+    "burden of proof",
+    "collective bargaining agreement",
+    "medical evidence",
+    "appellate review",
+    "inference from documents",
+    "work-related disease",
+    "standard of proof",
+    "Supreme Court precedent"
+  ],
+  "topics": [
+    "Labor Law",
+    "Medical Retirement",
+    "Employment Benefits",
+    "Appellate Procedure",
+    "Contractual Entitlements"
+  ],
+  "verdict": "dismissed",
+  "winningSide": "respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Mrs. Wood",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "A.K.B. Ampiah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "W.A. Atuguba",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "S.A. Brobbey",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "G.S. Baddoo",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Attorney General v. Dadey 1971 1 GLR 228",
+    "Essandoh v. The Republic 1969 CC 63",
+    "Nyame Tarian Transport & 1 Or. 1973 1 GLR 8"
+  ],
+  "rationaleHighlights": [
+    "The phrase 'developed during the course of work' refers to timing, not causation.",
+    "The Court of Appeal properly substituted its own inference on document interpretation.",
+    "An appellant cannot raise a new factual issue (e.g., contributory role of work) for the first time on appeal.",
+    "The burden of proving occupational illness was on the appellant and was not met.",
+    "Exhibit C from the District Medical Board found no causal relationship between the illness and the job.",
+    "Compassion or mercy cannot override legal entitlements in judicial decisions.",
+    "Interpretation must be based on the plain meaning of the document as a whole."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct judicial reasoning and cited exhibits. The summary reflects the unanimous outcome and core legal principles applied by the Supreme Court.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2003A/NANA YAW OSEI v. GHANAIAN AUSTRALIAN GOLDFIELD LTD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:36:16.298Z",
+    "plainTextLength": 10556
+  },
+  "trialDate": "22ND JANUARY, 2003"
+}

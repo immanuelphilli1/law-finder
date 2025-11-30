@@ -1,0 +1,78 @@
+{
+  "caseTitle": "MOTORS v. PILLBOX CHEMIST & MS. SEDINA TAMAKLOE",
+  "summary": "This Court of Appeal decision concerns an application for a stay of proceedings pending an interlocutory appeal on jurisdiction. The plaintiffs/respondents filed a claim for ₵10,295,000 in the Circuit Court, which at the time of filing had a jurisdictional limit of ₵10,000,000 under the Courts Act, 1963 (Act 459). The defendants/appellants challenged the court's jurisdiction, arguing the claim exceeded the limit and no express consent was given under section 41(3) of Act 459. The Circuit Court dismissed the challenge, asserting implied consent through conduct and later relying on the enhanced jurisdiction under Act 620, which raised the limit to ₵100 million. The Court of Appeal held that jurisdiction cannot be presumed from silence and that consent must be express. It further ruled that Act 620 could not be applied retrospectively to validate proceedings commenced before its effective date (1 December 2002), in line with Article 107(b) of the 1992 Constitution. Citing binding precedent, the Court found the Circuit Court lacked jurisdiction and granted a stay of proceedings pending the appeal.",
+  "legalKeywords": [
+    "jurisdiction",
+    "stay of proceedings",
+    "interlocutory appeal",
+    "Circuit Court",
+    "Courts Act",
+    "Act 459",
+    "Act 620",
+    "E.I. 33",
+    "retrospective law",
+    "consent to jurisdiction",
+    "procedural fairness",
+    "constitutional law",
+    "civil procedure",
+    "writ of summons",
+    "motion to strike out"
+  ],
+  "topics": [
+    "Jurisdiction",
+    "Stay of Proceedings",
+    "Interlocutory Appeal",
+    "Civil Procedure",
+    "Constitutional Law"
+  ],
+  "verdict": "The Court of Appeal granted the application for a stay of proceedings pending determination of the interlocutory appeal on jurisdiction.",
+  "winningSide": "Defendants/Appellants (Pillbox Chemist & Ms. Sedina Tamakloe)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "B. T. Aryeetey",
+      "role": "Presiding Justice of Appeal"
+    },
+    {
+      "name": "A. Asare-Korang",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "E. K. Piesare",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Ababio II and Another v. Akro & Co., [1963] 1 G.L.R. 195",
+    "Republic v. High Court, Denu; ex parte Avadarli [1993-94] 1 G.L.R. 561",
+    "Courts Act, 1963 (Act 459), s 41",
+    "Courts (Amendment) Act, 2002 (Act 620)",
+    "Courts (Amendment) Act (Commencement) Instrument, 2002 (E.I. 33)",
+    "Court of Appeal Rules, 1977 (C.I. 19), r 27A",
+    "Court of Appeal (Amendment) Rules, 1998 (C.I. 21)",
+    "1992 Constitution of Ghana, art 107(b)"
+  ],
+  "rationaleHighlights": [
+    "The Circuit Court lacked jurisdiction at the time the writ was issued because the claim exceeded its monetary limit under Act 459.",
+    "Section 41(3) of Act 459 requires party agreement for the court to hear cases exceeding its jurisdiction; implied consent is insufficient.",
+    "The Court rejected the idea that lack of objection equates to consent, citing Ababio II v. Akro & Co.",
+    "The enhancement of jurisdiction under Act 620 (to ₵100 million) could not be applied retroactively to validate proceedings initiated under a lower limit.",
+    "Article 107(b) of the 1992 Constitution prohibits retrospective laws that impose burdens or affect personal rights.",
+    "Objection to jurisdiction can be raised at any stage, per Republic v. High Court, Denu.",
+    "The Circuit Court misapplied the law by presuming jurisdiction based on inaction.",
+    "The Court of Appeal granted a stay of proceedings as the appeal raised substantial jurisdictional issues."
+  ],
+  "confidenceNotes": "All information is directly extracted from the judgment text. Citations, jurisdictional facts, and legal reasoning are explicitly stated in the decision.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/PHC MOTORS v. PILLBOX CHEMIST & MS. SEDINA TAMAKLOE [.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:09:06.064Z",
+    "plainTextLength": 8831
+  },
+  "trialDate": "2003-12-18"
+}

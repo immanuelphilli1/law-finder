@@ -1,0 +1,78 @@
+{
+  "caseTitle": "G B. AMANCIO SANTOS",
+  "summary": "In this civil appeal before the West Africa Court of Appeal, the plaintiff-appellant, G. B. Amancio Santos, challenged the dismissal of his trespass action against Ikosi Industries Limited and the Epe Native Administration. The dispute centered on a strip of swamp land between a footpath and the lagoon at Aiyetoro, Epe, which the defendants used to build a pier. The trial judge dismissed the claim, holding that the land was communal beach land under native custom and that the prior judgment in Suit No. 392/28 did not constitute estoppel. The appellate court found a misdirection in law, noting that Henshaw v. Henshaw (concerning Calabar) was inapplicable to Epe, and that the prior litigation had already determined the land was not communal. The court also held that the issue of possession was overlooked and that the trial judge failed to rule on laches and damages. Consequently, a retrial was ordered to determine these outstanding issues.",
+  "legalKeywords": [
+    "trespass to land",
+    "estoppel per rem judicatam",
+    "possession",
+    "laches",
+    "damages",
+    "retrial",
+    "native law and custom",
+    "foreshore",
+    "communal land",
+    "pier construction",
+    "conveyance",
+    "beach land",
+    "crown land",
+    "title dispute",
+    "rejoinder",
+    "defence",
+    "ownership",
+    "jurisdiction",
+    "appellate review",
+    "misdirection in law"
+  ],
+  "topics": [
+    "Property Law",
+    "Tort Law",
+    "Appellate Procedure",
+    "Native Customary Law",
+    "Land Ownership"
+  ],
+  "verdict": "Appeal allowed; retrial ordered due to legal misdirection and failure to adjudicate on laches and damages.",
+  "winningSide": "Plaintiff-appellant (partial victory on appeal for retrial)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Trial Judge"
+    },
+    {
+      "name": "Francis, J.",
+      "role": "Appellate Judge"
+    },
+    {
+      "name": "Petrides, C.J.",
+      "role": "Appellate Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Henshaw v. Henshaw (8 N.L.R. 77)",
+    "Mercantile Investment & General Trust Co. v. River Plate, Trust Loan and Agency Co. 1894 1 Ch. 578",
+    "Cairncross v. Lorimer 1860 3 L.T. 130"
+  ],
+  "rationaleHighlights": [
+    "The appellate court found that the trial judge misdirected himself by applying Henshaw v. Henshaw, which concerned Calabar customs, to land in Epe, Nigeria.",
+    "The land in dispute was not foreshore but a strip above high water mark, and thus not automatically communal under native law.",
+    "The previous judgment in Suit No. 392/28 should have operated as estoppel since the same land and parties (or their privies) were involved.",
+    "The trial court failed to assess laches and damages, necessitating a retrial."
+  ],
+  "confidenceNotes": "High confidence in factual extraction; source document is a judicial decision with clear procedural and substantive details. Some formatting issues in the original text, but key legal points are discernible.",
+  "metadata": {
+    "sourcePath": "WACA/8 WACA/G    B. AMANCIO SANTOS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:22:41.649Z",
+    "plainTextLength": 27815
+  },
+  "trialDate": "23RD APRIL, 1942"
+}

@@ -1,0 +1,79 @@
+{
+  "caseTitle": "REGINA VERSUS ABALEY AND ANOTHER.",
+  "summary": "The appellants were initially committed for trial by a Magistrate under the Criminal Procedure Code after a preliminary investigation. The Attorney-General, finding insufficient evidence, returned the depositions under section 202, prompting the Magistrate to reopen the case. At the reopened hearing, the prosecution withdrew charges and the appellants were discharged. Subsequently, the Attorney-General filed an information based on the same depositions, leading to arraignment and conviction at the Assize Court. On appeal, the Crown conceded the trial was a nullity for lack of jurisdiction. The Court of Appeal held that section 11(5) of the Court of Appeal Ordinance, which allows ordering a retrial by a competent court, only applies where proceedings were validly commenced but flawed. Since no valid proceedings existed after the discharge, the conviction was quashed and the appeal allowed.",
+  "legalKeywords": [
+    "jurisdiction",
+    "nullity",
+    "information",
+    "committal",
+    "depositions",
+    "prima facie case",
+    "trial by ordeal",
+    "Criminal Procedure Code",
+    "Court of Appeal",
+    "retrial",
+    "due process",
+    "Attorney-General",
+    "Assize Court",
+    "section 202",
+    "section 203",
+    "section 11(5)",
+    "unlawful trial",
+    "criminal conviction",
+    "appeal",
+    "legal authority"
+  ],
+  "topics": [
+    "criminal procedure",
+    "jurisdiction",
+    "appeal",
+    "nullity of proceedings",
+    "Attorney-General powers"
+  ],
+  "verdict": "The appeal was allowed, the convictions were quashed, and the sentences were set aside.",
+  "winningSide": "Appellants",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Korsah C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "van Lare",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Granville Sharp J.J.A.",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Motayo v. Commissioner of Police (1950) 13 W.A.C.A. 4",
+    "R. v. Zenvinula and Others (1946) 12 W.A.C.A. 68",
+    "Criminal Procedure Code, c. 10, ss. 202 and 203",
+    "Court of Appeal Ordinance, c. 35 of 1957, s. 11(5)",
+    "Criminal Code, c. 9 of 1951, s. 465(2)"
+  ],
+  "rationaleHighlights": [
+    "Proceedings on assize were a nullity due to lack of jurisdiction.",
+    "Section 11(5) of the Court of Appeal Ordinance applies only where proceedings were properly instituted but flawed by jurisdictional or procedural defects.",
+    "No valid information could be filed after depositions were returned and charges withdrawn.",
+    "The Court cannot order retrial where no valid charge was legally initiated.",
+    "The Attorney-General’s subsequent filing of information lacked legal authority.",
+    "The case was not lawfully instituted, so no 'court of competent jurisdiction' existed for referral.",
+    "The discharge of the accused terminated all prior obligations to stand trial.",
+    "Due process under the Criminal Procedure Code was violated."
+  ],
+  "confidenceNotes": "All information is directly extracted from the judgment with high factual consistency. Citations and statutory references are explicitly stated in the text.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/REGINA v. ABALEY AND ANOTHER..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:55:40.846Z",
+    "plainTextLength": 11048
+  }
+}

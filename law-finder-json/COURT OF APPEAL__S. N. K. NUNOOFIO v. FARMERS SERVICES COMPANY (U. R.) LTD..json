@@ -1,0 +1,64 @@
+{
+  "caseTitle": "K. NUNOOFIO v. FARMERS SERVICES COMPANY (U. R.) LTD.",
+  "summary": "In S. N. K. Nunoo Fio v. Farmers Services Company (U.R.) Ltd., the Court of Appeal upheld the High Court's ruling that the respondent's demotion and subsequent termination were wrongful. The demotion from Commercial Manager to Area Commercial Officer, cited as being due to poor performance and internal conflict, constituted a disciplinary action under the Senior Staff Conditions of Service (Exhibit A, section 54(E)), which required formal charges and an opportunity for the employee to defend himself—procedures that were not followed. The termination letter, while citing section 63 (allowing termination with two months’ notice or pay in lieu), also assigned condemnatory reasons related to the employee's conduct, effectively treating it as a disciplinary dismissal without due process. The court held that such an action violated procedural fairness, particularly paragraph (e) of section 54(E), which voids any adverse action where the employee is denied a hearing. The appeal was dismissed, affirming that both demotion and termination were null and void.",
+  "legalKeywords": [
+    "employment termination",
+    "demotion",
+    "disciplinary procedure",
+    "wrongful termination",
+    "senior staff conditions of service",
+    "procedural fairness",
+    "notice period",
+    "breach of contract",
+    "opportunity to defend",
+    "termination without cause"
+  ],
+  "topics": [
+    "Employment Law",
+    "Administrative Law",
+    "Procedural Fairness",
+    "Contractual Interpretation",
+    "Judicial Review"
+  ],
+  "verdict": "Appeal dismissed; demotion and termination declared null and void for lack of procedural fairness.",
+  "winningSide": "Plaintiff/Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Aryeetey, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Tweneboah-Kodua, J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Quaye, J.A.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "employment law",
+  "citations": [
+    "[20/02/2001] CA NO. 33/2001",
+    "[1971] G.L.R. 363"
+  ],
+  "rationaleHighlights": [
+    "Demotion constituted a disciplinary action requiring prior procedural compliance under section 54(E) of the Senior Staff Conditions of Service.",
+    "Termination under section 63 did not require disciplinary process, but assigning adverse reasons without prior hearing rendered it wrongful.",
+    "The employee was denied a hearing or opportunity to defend, making both demotion and termination procedurally unfair.",
+    "The court distinguished between 'termination' (administrative) and 'dismissal' (disciplinary), emphasizing procedural safeguards for the latter.",
+    "Citing Consolidated African Selection Trust v. Nketia, the court noted employers may withhold reasons for termination, but cannot assign condemnatory reasons without due process."
+  ],
+  "confidenceNotes": "High confidence; the judgment is clearly reasoned and directly addresses the contractual and procedural issues in the employment context.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/S. N. K. NUNOOFIO v. FARMERS SERVICES COMPANY (U. R.) LTD..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:06:33.772Z",
+    "plainTextLength": 18015
+  },
+  "trialDate": "2001-02-20"
+}

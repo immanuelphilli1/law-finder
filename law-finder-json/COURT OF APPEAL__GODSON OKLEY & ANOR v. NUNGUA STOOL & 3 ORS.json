@@ -1,0 +1,80 @@
+{
+  "caseTitle": "GODSON OKLEY & ANOR v. NUNGUA STOOL & 3 ORS",
+  "summary": "This Court of Appeal decision in Ghana addresses whether a trial court retains jurisdiction to vary a consent judgment after it has been entered. The plaintiffs had obtained an ex parte and subsequent on-notice injunction to restrain the fourth defendant from excavating land, citing the defendant's non-compliance with settlement terms. The Court held that once a consent judgment is entered, the trial court becomes functus officio and cannot re-open or vary the judgment without a fresh action. Reliance was placed on Order 42, rule 2 of the High Court Rules (L.N. 140A) and authorities such as Guardian Assurance Co. Ltd v. Bridi, emphasizing that breach of a condition in a consent judgment does not empower a party to seek enforcement or variation through application in the original suit, but requires initiating a new action to set aside the judgment. The appeal was allowed on the ground that the trial court erred in law by assuming jurisdiction to vary the consent judgment.",
+  "legalKeywords": [
+    "consent judgment",
+    "functus officio",
+    "jurisdiction",
+    "breach of condition",
+    "Order 42 rule 2",
+    "High Court Rules L.N. 140A",
+    "injunction",
+    "settlement agreement",
+    "restraint order",
+    "appeal on jurisdiction",
+    "waiver of judgment",
+    "fresh action",
+    "judicial authority",
+    "contract of record",
+    "enforcement of judgment",
+    "variation of order",
+    "ex parte application",
+    "on-notice application",
+    "legal remedy",
+    "judicial error"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Judicial Jurisdiction",
+    "Contract Law",
+    "Injunctions",
+    "Appeals"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ansa, J.A.",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Essilfie-Bondzie, J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Amonoo-Monney, J.A.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Guardian Assurance Company Limited v. Bridi [1972] 2 GLR 387",
+    "Anima v. Ahyeye [1955] WALR 40 P.C.",
+    "Yardom v. Minta III (1926) F.C. '26-29', 76",
+    "Talbot v. Blindell [1908] 2 K.B. 114",
+    "Halsbury’s Laws of England, 3rd ed., Vol. 22"
+  ],
+  "rationaleHighlights": [
+    "A consent judgment is a binding contract of record and cannot be varied by the trial court after entry.",
+    "Once a consent judgment is entered, the court becomes functus officio and lacks jurisdiction to re-open the matter.",
+    "Breach of a condition in a consent judgment does not allow unilateral enforcement or variation in the same suit.",
+    "Order 42, rule 2 of L.N. 140A applies where a party fails to perform a condition, allowing the other party to treat the judgment as waived.",
+    "To set aside a consent judgment, a fresh action must be brought on grounds such as fraud or mistake.",
+    "The trial court erred in granting injunctions based on alleged non-compliance without a new action.",
+    "Ex parte and on-notice applications to restrain a party post-consent judgment were procedurally incompetent.",
+    "The appeal succeeded because the lower court lacked jurisdiction to vary the consent judgment."
+  ],
+  "confidenceNotes": "The judgment is clear and well-reasoned, citing authoritative sources. All three justices concurred, indicating high consistency in legal interpretation. The facts are undisputed, and the ruling rests on established principles of civil procedure and contract law in Ghana.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/GODSON OKLEY & ANOR v. NUNGUA STOOL & 3 ORS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:30:40.038Z",
+    "plainTextLength": 12821
+  },
+  "trialDate": "2002-01-31"
+}

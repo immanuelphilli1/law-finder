@@ -1,0 +1,78 @@
+{
+  "caseTitle": "GERSHON YAO ADABUNU v. SETH DOVIE AND ANOR.",
+  "summary": "The Court of Appeal in Gershon Yao Adabunu v. Seth Dovie and Another (C.A. No. 79/2003, 18 June 2004) reviewed a land dispute where the plaintiff-appellant claimed title and possession of a 0.32-acre parcel in North Odorkor, asserting continuous possession since 1947 and formalization of title via an indenture in 1961. The defendants counterclaimed based on a 1996 conveyance from DW1, whose title stemmed from a 1954 deed of gift. The High Court had dismissed the plaintiff's claim and granted the defendants' counterclaim. The Court of Appeal found the judgment against the weight of evidence, criticizing the trial judge for over-reliance on documentary evidence (Exhibit A) and failure to consider the plaintiff’s oral and physical acts of possession. The appellate court emphasized that continuous, unchallenged possession since 1947, including fencing and granting third-party use, carried significant weight. It also held that the defendants, having counterclaimed for title and possession, were required to lead positive evidence of title under Conca Engineering Ltd v. Moses, which they failed to do adequately. The discrepancies in the defendants’ root of title were not properly assessed. The appeal was allowed, and the High Court’s judgment was set aside.",
+  "legalKeywords": [
+    "land title",
+    "possession",
+    "trespas",
+    "counterclaim",
+    "evidence",
+    "indenture",
+    "deed of gift",
+    "preponderance of probabilities",
+    "perpetual injunction",
+    "continuous possession",
+    "root of title",
+    "survey plan",
+    "burden of proof",
+    "appellate review",
+    "oral evidence",
+    "documentary evidence",
+    "fencing as possession",
+    "Conca Engineering Ltd v. Moses",
+    "declaration of title",
+    "recovery of possession"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Trespass",
+    "Property Rights"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Plaintiff/Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "J.B. Akamba",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Omari-Sasu",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Tweneboa-Kodua",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "GERSHON YAO ADABUNU v. SETH DOVIE AND ANOR. [18/6/2004] CA/NO. 79/2003",
+    "Nyame vs. Tarzan Transport & Anor, (1973) 1 GLR 8",
+    "Ngmati vs Adetsia and Ors 1959 GLR 323",
+    "Conca Engineering Ltd v. Moses 1984-86 GLRD III @ page 260"
+  ],
+  "rationaleHighlights": [
+    "The trial court erred in treating Exhibit A as the sole foundation of the plaintiff's case and disregarding oral and physical evidence of possession.",
+    "Continuous possession since 1947, including fencing and granting third-party use, constitutes strong evidence of ownership.",
+    "The defendants, having counterclaimed for title, had a duty to lead positive evidence of title, which they failed to discharge.",
+    "The trial judge failed to apply the principle in Conca Engineering Ltd v. Moses requiring positive proof of title in counterclaims for land.",
+    "Discrepancies in the defendants’ root of title were not adequately considered by the trial court.",
+    "A plan is not indispensable in trespass claims if oral evidence clearly identifies the land.",
+    "The appellate court may interfere where the judgment is against the weight of evidence, especially on inferences from undisputed facts."
+  ],
+  "confidenceNotes": "High confidence; all key facts, legal principles, and procedural outcomes are explicitly stated in the judgment. The case is a reported decision from the Ghana Court of Appeal with clear reasoning and citations.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/GERSHON YAO ADABUNU v. SETH DOVIE AND ANOR..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:33:52.364Z",
+    "plainTextLength": 24292
+  },
+  "trialDate": "2004-06-18"
+}

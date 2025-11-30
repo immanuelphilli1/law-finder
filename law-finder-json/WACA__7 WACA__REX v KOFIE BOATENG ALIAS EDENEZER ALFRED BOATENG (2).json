@@ -1,0 +1,69 @@
+{
+  "caseTitle": "REX v KOFIE BOATENG ALIAS EDENEZER ALFRED BOATENG (2)",
+  "summary": "In this 1941 West Africa Court of Appeal case from Accra, Kofie Boateng (also known as Edenezer Alfred Boateng) appealed his conviction for receiving stolen goods—specifically a bottle of whisky and a tin of sardines—arising from a burglary charge of which he was acquitted. The court held that the sentence of two years' hard labour was excessive given that the items were not proven to be proceeds of the burglary. More significantly, the court found that the trial judge misdirected the jury by suggesting that the appellant's pre-arrest silence could serve as corroboration of the first accused's allegations. The appellate judges emphasized that silence alone, especially before formal arrest, cannot constitute valid corroboration without proper context or explanation. Because this misdirection concerned a vital point in the trial, the court allowed the appeal, quashed both conviction and sentence, and substituted a judgment of acquittal. The appellant was discharged. The decision underscores the importance of accurate jury instructions, particularly regarding the right to silence and the rules of corroboration in criminal trials.",
+  "legalKeywords": [
+    "burglary",
+    "receiving stolen goods",
+    "corroboration",
+    "judicial misdirection",
+    "right to silence",
+    "sentence reduction",
+    "acquittal",
+    "hard labour",
+    "appellate review",
+    "jury instruction",
+    "dwelling house",
+    "excessive sentence",
+    "silent accused",
+    "trial error",
+    "appellate remedy"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Evidence",
+    "Sentencing",
+    "Right to Silence"
+  ],
+  "verdict": "Conviction quashed; judgment of acquittal entered.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "WACA/7 REX v KOFIE BOATENG ALIAS EDENEZER ALFRED BOATENG"
+  ],
+  "rationaleHighlights": [
+    "Appellant acquitted of burglary and theft but convicted of receiving stolen goods (whisky and sardines) not proven to be proceeds of the burglary.",
+    "Original two-year hard labour sentence deemed excessive.",
+    "Court found judicial misdirection regarding the jury's use of the appellant's silence as corroboration.",
+    "Silence before formal arrest cannot automatically be treated as corroboration of another accused's statement.",
+    "Failure to properly instruct jury on this point constituted a vital misdirection.",
+    "Appellate court quashed conviction and sentence due to material error in law.",
+    "Judgment of acquittal entered; appellant discharged."
+  ],
+  "confidenceNotes": "The document appears to be a scanned or transcribed judgment with some formatting issues; however, key legal reasoning and outcome are clearly stated.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/REX v KOFIE BOATENG ALIAS EDENEZER ALFRED BOATENG (2).htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:25:24.694Z",
+    "plainTextLength": 4228
+  }
+}

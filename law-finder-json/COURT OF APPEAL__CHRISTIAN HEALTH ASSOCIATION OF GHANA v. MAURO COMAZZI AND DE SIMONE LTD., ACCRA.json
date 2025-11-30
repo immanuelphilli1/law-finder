@@ -1,0 +1,73 @@
+{
+  "caseTitle": "CHRISTIAN HEALTH ASSOCIATION OF GHANA v. MAURO COMAZZI",
+  "summary": "The Court of Appeal of Ghana reversed a High Court ruling that dismissed De Simone Ltd.'s claim to ownership of a Fiat Tempra (GR 6333B) seized in execution proceedings. The High Court had presumed the judgment debtor owned the vehicle based on possession, relying on s.48 of the Evidence Decree. The Court of Appeal held that the presumption was rebutted by clear and unrebutted affidavit evidence from International Automobile Ltd. and De Simone Ltd. showing the car was sold and delivered to De Simone Ltd. in 1995, with insurance taken out in their name. The court emphasized that mere possession—especially by the debtor's wife—does not establish ownership, and that registration is not a precondition for ownership under the Sale of Goods Act. The appeal was allowed, and the lower court's award of costs was set aside.",
+  "legalKeywords": [
+    "ownership",
+    "possession",
+    "interpleader",
+    "rebuttable presumption",
+    "burden of proof",
+    "execution of judgment",
+    "Sale of Goods Act",
+    "Evidence Decree",
+    "estoppel",
+    "vehicle registration",
+    "attachment",
+    "judgment debtor",
+    "movable property",
+    "prima facie case",
+    "custody vs possession"
+  ],
+  "topics": [
+    "Property Law",
+    "Civil Procedure",
+    "Evidence Law",
+    "Contract Law",
+    "Execution of Judgments"
+  ],
+  "verdict": "Appeal allowed. The Claimant/Appellant (De Simone Ltd.) successfully established ownership of the vehicle, and the High Court's ruling was overturned.",
+  "winningSide": "Claimant/Appellant (De Simone Ltd.)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Owusu-Ansah, JA.",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Essilfie-Bondzie, JA.",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Afreh, JA.",
+      "role": "panel judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Lemanu v. Duala (Yacubu-Claimant) (1962) I GLR 60",
+    "Hutchiful v. West African & Colonial Company (1924) P.L. 74",
+    "Evidence Decree 1975 (NRCD 323), s. 48(1)",
+    "Evidence Decree 1975 (NRCD 323), s. 30",
+    "Evidence Decree 1975 (NRCD 323), s. 26",
+    "Sale of Goods Act, 1962 (Act 137), s. 26",
+    "Road Traffic Regulation 1974"
+  ],
+  "rationaleHighlights": [
+    "The presumption of ownership under s.48 of the Evidence Decree is rebuttable and was successfully rebutted by documentary and affidavit evidence.",
+    "Mere possession, especially by a spouse, does not equate to legal ownership or transferable interest.",
+    "Ownership under the Sale of Goods Act passes upon delivery unless otherwise intended, regardless of registration.",
+    "Section 26 (estoppel) does not apply without intentional conduct causing reliance.",
+    "The appellate court emphasized the distinction between custody and possession in movable property disputes."
+  ],
+  "confidenceNotes": "The judgment is well-reasoned with clear reference to statutory provisions and case law. The appellate court reversed the lower court's decision based on unrebutted affidavit evidence and proper interpretation of ownership and possession principles.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/CHRISTIAN HEALTH ASSOCIATION OF GHANA v. MAURO COMAZZI AND DE SIMONE LTD., ACCRA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:40:17.086Z",
+    "plainTextLength": 29313
+  }
+}

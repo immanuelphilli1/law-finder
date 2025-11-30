@@ -1,0 +1,71 @@
+{
+  "caseTitle": "MARY YEBOAH @ MARY FORDJOUR v. JAMES KODZO FORDJOUR",
+  "summary": "This is a civil appeal from the Court of Appeal of Ghana, arising from a land dispute between Mary Yeboah (Plaintiff/Respondent) and James Kodzo Fordjour (Defendant/Appellant). The Circuit Court had entered a default judgment in favor of the plaintiff after she led evidence in her absence, based on a hearing notice served less than 24 hours before trial. The defendant appealed the refusal to set aside this judgment. The Court of Appeal held that the trial court violated Order 36 Rule 9 of the High Court (Civil Procedure) Rules, which requires at least ten days' notice of trial unless waived. The court found that only one hearing notice was served, just one day before trial, and no further notices were issued for subsequent adjourned dates despite ongoing proceedings. This breach of procedural fairness, coupled with a violation of the audi alteram partem principle, rendered the judgment fundamentally flawed. The appellate court emphasized that such rules protect substantive rights, particularly in land disputes, and cannot be disregarded. Consequently, the appeal was allowed, the default judgment was set aside, and the matter was remitted for a fresh trial.",
+  "legalKeywords": [
+    "default judgment",
+    "notice of trial",
+    "audi alteram partem",
+    "procedural fairness",
+    "interlocutory injunction",
+    "counterclaim",
+    "service of process",
+    "ten days' notice",
+    "judicial discretion",
+    "stay of execution",
+    "civil procedure",
+    "land title dispute",
+    "trespas",
+    "amendment of pleadings",
+    "adjournment"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Land Law",
+    "Judicial Review",
+    "Procedural Fairness",
+    "Default Judgment"
+  ],
+  "verdict": "The appeal was allowed. The default judgment of the Circuit Court dated 24th January 2001 was set aside. The case was remitted to the trial court for a fresh hearing.",
+  "winningSide": "Defendant/Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Anim, J.A.",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Omari Sasu, J.A.",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Kusi-Appouh (Mrs), J.",
+      "role": "panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "MOSI V BAGYINA (1963) 1 GLR 337",
+    "ADU V ANKUMAH (1972) 1 GLR 22",
+    "Order 36 Rule 9, High Court (Civil Procedure) Rules L.N. No.140A",
+    "Interpretation Act 1960 (C.A.4), Section 27"
+  ],
+  "rationaleHighlights": [
+    "The trial court violated Order 36 Rule 9 by proceeding with trial after only 24-hour notice, which mandates at least 10 days' notice unless waived.",
+    "The failure to serve proper notice breached the audi alteram partem principle, undermining fair hearing rights.",
+    "The appellate court held that the trial judge erred in not ordering fresh hearing notices for adjourned dates, especially where the plaintiff did not conclude her case.",
+    "The original judgment was set aside due to procedural irregularities affecting the defendant's right to defend.",
+    "The court emphasized that procedural rules are not mere technicalities when they affect substantive rights like land ownership."
+  ],
+  "confidenceNotes": "The judgment is well-documented with clear procedural history and legal reasoning. The appellate court's reliance on binding precedent and explicit rules enhances the reliability of the analysis.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/MARY YEBOAH @ MARY FORDJOUR v. JAMES KODZO FORDJOUR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:17:20.811Z",
+    "plainTextLength": 20933
+  },
+  "trialDate": "2004-03-12"
+}

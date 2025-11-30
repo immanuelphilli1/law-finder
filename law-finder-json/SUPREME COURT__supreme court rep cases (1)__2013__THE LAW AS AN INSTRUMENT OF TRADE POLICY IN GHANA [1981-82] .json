@@ -1,0 +1,60 @@
+{
+  "caseTitle": "THE LAW AS AN INSTRUMENT OF TRADE POLICY IN GHANA [1981-82]",
+  "summary": "This legal commentary examines the effectiveness of trade regulations in Ghana, particularly the Imports and Exports Act, 1980 (Act 418) and the Imports and Exports (Special Licence) Regulations, 1980 (L.I. 1248). The author argues that despite the existence of these laws, many traders—especially illiterate ones—lack knowledge of them, rendering enforcement through confiscation unjust and high-handed. The piece critiques the legal fiction that promulgation equates to public awareness, citing Bentham's view that governments have a duty to educate citizens about the law. It calls for proactive communication of laws via local languages and mass media to ensure fairness and legitimacy in trade regulation.",
+  "legalKeywords": [
+    "trade regulation",
+    "import licence",
+    "promulgation",
+    "legal awareness",
+    "illiteracy",
+    "consumer protection",
+    "law enforcement",
+    "public communication of law",
+    "Ignorantia juris neminem excusat",
+    "P.N.D.C. policy"
+  ],
+  "topics": [
+    "Trade Law",
+    "Legal Education",
+    "Consumer Protection",
+    "Administrative Regulation",
+    "Legal Presumptions"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "commentary",
+  "citations": [
+    "Act 418",
+    "L.I. 1248",
+    "N.R.C.D. 305",
+    "Ansa-Asare, K., 'Consumer Protection' (1980) 12 R.G.L. 176",
+    "Dei-Anang, K., 'The Law as an Instrument of Trade Policy' (1972) 4 R.G.L. 22",
+    "Blackstone, W., Commentaries on the Laws of England, Vol. I (1825)",
+    "Friedman, L. M., Law and Society (1977), Vol. III",
+    "Austin, J., Lectures on jurisprudence (4th ed.) (1897)",
+    "Bentham, J., Theory of Legislation (1900)"
+  ],
+  "rationaleHighlights": [
+    "The presumption of knowledge of law is unrealistic for illiterate traders.",
+    "Promulgation alone does not ensure actual knowledge of trade laws.",
+    "Government must actively communicate laws to the public.",
+    "Trade regulations must be accessible in local languages.",
+    "Bentham's advocacy for legal education is relevant to Ghana's context.",
+    "Confiscation without effective communication is high-handed.",
+    "Justice requires both fairness and visibility in law enforcement.",
+    "Laws must be published in simple forms and widely disseminated."
+  ],
+  "confidenceNotes": "The document is a legal commentary, not a judicial decision; thus, judges, verdict, and winning side are not applicable. Information extracted is based on the author's analysis and referenced statutes and instruments.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2013/THE LAW AS AN INSTRUMENT OF TRADE POLICY IN GHANA [1981-82] .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:28:07.342Z",
+    "plainTextLength": 12315
+  }
+}

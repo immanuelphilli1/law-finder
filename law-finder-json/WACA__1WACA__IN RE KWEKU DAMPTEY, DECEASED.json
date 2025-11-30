@@ -1,0 +1,73 @@
+{
+  "caseTitle": "IN RE KWEKU DAMPTEY, DECEASED",
+  "summary": "In Re Kweku Damptey, Deceased is a probate case concerning the right to administer the estate of a deceased man. The plaintiff, the nephew of the deceased, claimed entitlement under native customary law, while the defendant, the Omanhene of Kumawu, claimed based on the assertion that the deceased was an Ahinkwa who had been 'dashed' to his stool, thereby making his property the chief's. The West African Court of Appeal held that the custom of 'dashing' a person to a stool amounted to slavery, which is repugnant to justice, equity, and good conscience and therefore unenforceable under the Supreme Court Ordinance and the Slavery Abolition Act, 1883. The court set aside the lower court's decision and granted letters of administration to the plaintiff, recognizing his familial right to inherit in the absence of a valid slave-based claim.",
+  "legalKeywords": [
+    "letters of administration",
+    "native custom",
+    "repugnancy doctrine",
+    "slavery",
+    "Ahinkwa",
+    "dashed to the stool",
+    "customary law",
+    "inheritance",
+    "probate",
+    "justice equity and good conscience",
+    "Omanhene",
+    "stool servant",
+    "property rights",
+    "colonial law",
+    "abolition of slavery"
+  ],
+  "topics": [
+    "probate law",
+    "customary law",
+    "slavery and abolition",
+    "repugnancy doctrine",
+    "inheritance rights"
+  ],
+  "verdict": "Appeal allowed; judgment entered for the plaintiff-appellant for the grant of letters of administration with costs.",
+  "winningSide": "plaintiff-appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Howes",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Deane",
+      "role": "Chief Justice, concurred"
+    },
+    {
+      "name": "Michelin",
+      "role": "judge, concurred"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "probate",
+  "citations": [
+    "Supreme Court Ordinance, s 19",
+    "Ashanti Administration Ordinance, s 7",
+    "Slavery Abolition Act, 1883, s 12",
+    "Ashanti Order in Council, 1901"
+  ],
+  "rationaleHighlights": [
+    "The custom of 'dashing' a person to a stool results in de facto slavery.",
+    "Such a practice is repugnant to justice, equity and good conscience.",
+    "The Slavery Abolition Act, 1883, rendered such customs unlawful in British colonies, including Ashanti.",
+    "The plaintiff, as nephew, was the rightful heir under native custom absent slavery.",
+    "English law governs the grant of letters of administration in the absence of repugnant customary practices.",
+    "The court must not recognize customs that confer absolute control over a person and their property.",
+    "The chief's claim was based on ownership derived from a slave-like relationship.",
+    "The appeal was allowed and costs awarded."
+  ],
+  "confidenceNotes": "High confidence; all details are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/IN RE KWEKU DAMPTEY, DECEASED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:47:39.162Z",
+    "plainTextLength": 6560
+  }
+}

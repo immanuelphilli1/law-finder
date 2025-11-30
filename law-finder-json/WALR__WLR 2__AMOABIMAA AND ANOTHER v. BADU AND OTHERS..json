@@ -1,0 +1,68 @@
+{
+  "caseTitle": "AND ANOTHER VERSUS BADU AND OTHERS.",
+  "summary": "This 1957 West African Court of Appeal decision addressed whether the court retained jurisdiction to order a stay of execution after granting leave to appeal to the Privy Council. The defendants had obtained leave on July 27, 1956, and filed a stay application on July 31; the court issued a conditional stay on October 30, 1956. The plaintiffs moved to set aside the order, arguing lack of jurisdiction. The court held that under section 8 of the West African (Appeal to Privy Council) Order in Council, 1949, its power to direct execution or stay is limited to the moment of granting leave. Since the application was decided months later, the order was a nullity. Relying on precedent from Osei Bonsu III v. Kwasi Adu and Smurthwaite v. Hannay, the court set aside its October 30 order, affirming that jurisdiction cannot be exercised after the grant of leave without express statutory authority.",
+  "legalKeywords": [
+    "stay of execution",
+    "jurisdiction",
+    "appeal to Privy Council",
+    "nullity",
+    "final leave to appeal",
+    "West African Court of Appeal",
+    "section 8",
+    "Order in Council",
+    "conditional stay",
+    "judicial power",
+    "execution of judgment",
+    "procedural irregularity",
+    "void order",
+    "timing of application",
+    "statutory interpretation"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Judicial Jurisdiction",
+    "Execution of Judgments",
+    "Privy Council Appeals",
+    "Procedural Law"
+  ],
+  "verdict": "The motion to set aside the October 30, 1956 order was allowed.",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Korsah C.J."
+    },
+    {
+      "name": "Verity Ag.JA"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Gold Coast (Ghana)"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "West African (Appeal to Privy Council) Order in Council, 1949, s. 8",
+    "Osei Bonsu III v. Kwasi Adu (1956)",
+    "Smurthwaite v. Hannay [1894] A.C. 494"
+  ],
+  "rationaleHighlights": [
+    "Section 8 limits power to order stay of execution to the time of granting leave to appeal.",
+    "The court cannot exercise jurisdiction after a lapse of time post-leave grant.",
+    "An order made without jurisdiction is a nullity and void.",
+    "Statutory language must be strictly interpreted where jurisdiction is concerned.",
+    "Precedent from Osei Bonsu III confirmed the temporal limitation on court powers.",
+    "Procedural irregularity renders an order unsanctionable and voidable."
+  ],
+  "confidenceNotes": "The decision is based on clear statutory interpretation and binding precedent. All cited authorities are directly on point, and the court's reasoning is consistent with procedural law principles. High confidence in accuracy.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/AMOABIMAA AND ANOTHER v. BADU AND OTHERS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:43:10.094Z",
+    "plainTextLength": 5740
+  }
+}

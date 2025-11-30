@@ -1,0 +1,81 @@
+{
+  "caseTitle": "YAKUBU SEIDU v . K. ADAMA",
+  "summary": "This is a chieftaincy appeal before the Supreme Court of Ghana concerning the succession to the Wa skin following the death of Wa Na Boudiri Momori II in 1998. The petitioner, Yakubu Seidu, a prince from the Nakpaha gate and holder of the Guli-Na title, claimed he was validly elected by the kingmakers at an election held on 20th April 1998. The election involved seven kingmakers representing four divisional gates (Yijihi, Najeri, Jonyuobi, Nakpaha), the Froko, Tendaana, and Yeri Na. The petitioner alleged that he received votes from the Tendaana, Yeri Na, Froko, and his own Nakpaha gate, making him the majority choice. However, the second respondent, B.K. Adama (later substituted by Alhaji Issah Bukari), announced that the Busa Na had been elected and transferred his election to the first respondent, who was then proclaimed as Wa Na. The petitioner challenged this, asserting the Busa Na was not a candidate and the process was invalid. The Judicial Committee of the Upper West Regional House of Chiefs ruled in favor of the petitioner, declaring him duly elected and that it was Nakpaha gate's turn under a rotational system established in 1951. The National House of Chiefs upheld this decision. On appeal to the Supreme Court, the appellant argued misdirection in law, reliance on hearsay, and incorrect application of the rotational system. The Supreme Court affirmed the lower courts' concurrent findings of fact, emphasizing the presumption of correctness in such findings and the absence of compelling reasons to overturn them. It held that the rotational system included all four gates and that Nakpaha's turn had come, thereby validating the petitioner's election and the injunction against the installation of the first respondent.",
+  "legalKeywords": [
+    "chieftaincy dispute",
+    "rotational succession",
+    "concurrent findings of fact",
+    "customary law",
+    "kingmakers",
+    "Wa skin",
+    "Nakpaha gate",
+    "Tendaana",
+    "Yeri Na",
+    "Froko",
+    "declaration of election",
+    "injunction",
+    "misdirection in law",
+    "hearsay evidence",
+    "res judicata"
+  ],
+  "topics": [
+    "Chieftaincy Succession",
+    "Customary Law",
+    "Appellate Review",
+    "Rotational System",
+    "Election Dispute"
+  ],
+  "verdict": "The appeal was dismissed. The Supreme Court upheld the judgments of the Regional and National Houses of Chiefs, affirming that Yakubu Seidu was validly elected as Wa Na and that it was the turn of the Nakpaha gate to provide the chief. The declarations and injunctions in favor of the petitioner were maintained.",
+  "winningSide": "Yakubu Seidu (Petitioner)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "Akuffo (Ms)",
+      "role": "presiding"
+    },
+    {
+      "name": "Wood (Mrs)",
+      "role": "member of coram"
+    },
+    {
+      "name": "Prof. Ocran",
+      "role": "member of coram"
+    },
+    {
+      "name": "Aninakwah",
+      "role": "member of coram"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "chieftaincy appeal",
+  "citations": [
+    "Bassayin and Achah v Bendentu II (1937) 5 W.A.C.A. 1",
+    "Achoro & Anor v Akanfela & Anor [1996-97] SCGLR 209",
+    "Koglex Ltd (No.2) v Field [2000] SCGLR 175",
+    "Wood and Ors v Oxyair and Anor (Unreported judgment of the Supreme Court, dated 27th April 2005, Case No. J4/35/2005)",
+    "Assan Zie v Yakubu Seidu (1985)"
+  ],
+  "rationaleHighlights": [
+    "Appellate courts are reluctant to overturn concurrent findings of fact by two lower tribunals unless a clear blunder or miscarriage of justice is evident.",
+    "The Supreme Court upheld the lower courts' finding that Yakubu Seidu was validly elected as Wa Na.",
+    "The rotational system for the Wa skin includes all four gates, and it was Nakpaha gate's turn to provide a candidate.",
+    "The declaration by B.K. Adama that the First Respondent was elected was found invalid due to lack of support from kingmakers.",
+    "Reliance on hearsay and self-serving affidavits was criticized, but did not overturn the factual findings.",
+    "The Court affirmed that customary practices must be respected and allowed to evolve through contestation."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy due to detailed judicial reasoning and citation of precedent; some portions of source text are truncated but key holdings and facts are preserved.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2005A/YAKUBU SEIDU v . K. ADAMA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:27:33.092Z",
+    "plainTextLength": 31138
+  },
+  "trialDate": "2002-01-21"
+}

@@ -1,0 +1,63 @@
+{
+  "caseTitle": "KHOURY VERSUS KHOURY",
+  "summary": "In Khoury v. Khoury and El-Khazem, the Ghana High Court addressed whether it could entertain a petition for judicial separation when a final decree had already been issued by the courts of Lebanon, the domicile of the parties. The petitioner, resident in Ghana, sought judicial separation and maintenance, relying on local residence as a basis for jurisdiction. However, the respondent challenged the court's jurisdiction, citing a prior Lebanese decree of judicial separation, which remained subject to an appeal on annulment grounds before the Sacra Romana Court of Rome. An expert in Lebanese matrimonial law confirmed that the Lebanese courts had issued a final decree of judicial separation. The court, applying English conflict of laws principles, held that a foreign decree of judicial separation from the country of domicile is recognized as valid and final, even if an appeal on related matters (such as annulment) is pending. The court emphasized that finality depends on whether the pronouncing court has disposed of the issue, not on the possibility of reversal on appeal. Consequently, the Ghanaian court lacked jurisdiction to hear a fresh petition for the same relief. The petition was dismissed, and the interim maintenance order was discharged.",
+  "legalKeywords": [
+    "divorce",
+    "judicial separation",
+    "conflict of laws",
+    "foreign decree",
+    "domicile",
+    "jurisdiction",
+    "residence",
+    "matrimonial law",
+    "Lebanese law",
+    "recognition of foreign judgment",
+    "pendente lite maintenance",
+    "annulment proceedings",
+    "appeal",
+    "final judgment",
+    "interlocutory order"
+  ],
+  "topics": [
+    "Conflict of Laws",
+    "Matrimonial Jurisdiction",
+    "Recognition of Foreign Judgments",
+    "Judicial Separation",
+    "Domicile vs. Residence"
+  ],
+  "verdict": "Petition dismissed due to lack of jurisdiction; prior Lebanese decree of judicial separation recognized as final.",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Windsor-Aubrey J",
+      "role": "presiding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Central Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "matrimonial",
+  "citations": [
+    "Matalon v. Matalon [1952] 1 All E.R. 1052",
+    "Cheshire on International Law, 4th ed., pp. 367, 379, 615, 616"
+  ],
+  "rationaleHighlights": [
+    "English law recognizes foreign decrees of judicial separation from the country of domicile.",
+    "A decree is final if the court has disposed of the matter, regardless of pending appeal.",
+    "Courts in Ghana lack jurisdiction where a final decree exists in the country of domicile.",
+    "Residence in Ghana does not override the effect of a prior foreign decree from the domicile.",
+    "Pendency of annulment appeal does not render the separation decree interlocutory.",
+    "Finality of judgment determined by the pronouncing court's power to vary, not by appeal status.",
+    "Recognition of foreign matrimonial decrees promotes legal certainty.",
+    "Maintenance pendente lite discharged upon dismissal of petition."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and cited authorities.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/KHOURY v. KHOURY AND EL-KHAZEM..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:03:57.489Z",
+    "plainTextLength": 9058
+  }
+}

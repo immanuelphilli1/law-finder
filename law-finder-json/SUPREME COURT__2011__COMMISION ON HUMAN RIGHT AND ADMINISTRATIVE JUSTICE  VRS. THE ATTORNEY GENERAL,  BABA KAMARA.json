@@ -1,0 +1,92 @@
+{
+  "caseTitle": "COMMISION ON HUMAN RIGHT AND ADMINISTRATIVE JUSTICE VRS. THE ATTORNEY GENERAL, BABA KAMARA",
+  "summary": "The Commission on Human Rights and Administrative Justice (CHRAJ) initiated proceedings in the Supreme Court seeking a declaration that its mandate under Article 218(e) of the 1992 Constitution extends to investigating private individuals, such as Baba Kamara, who are alleged to be involved in acts of bribery or corruption with public officials. The second defendant raised a preliminary objection, arguing the case was moot due to a High Court order prohibiting CHRAJ from investigating him on grounds of bias—a decision then under appeal. The Supreme Court overruled the objection, holding that the matter was not moot given the ongoing legal dispute over CHRAJ’s constitutional mandate. It further ruled that the original jurisdiction of the court under Article 2(1)(b) was properly invoked to resolve questions of constitutional interpretation, even absent a direct constitutional violation by the defendant. The Court affirmed that CHRAJ’s investigative authority under Article 218(e) includes private persons implicated in corruption involving public officials.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "jurisdiction",
+    "mootness",
+    "CHRAJ",
+    "corruption",
+    "bribery",
+    "public officials",
+    "private individuals",
+    "administrative justice",
+    "original jurisdiction",
+    "bias",
+    "prohibition",
+    "judicial review",
+    "constitutional mandate",
+    "investigative powers"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Anti-Corruption",
+    "Judicial Review",
+    "Human Rights"
+  ],
+  "verdict": "The preliminary objection was overruled, and the Court affirmed CHRAJ's authority to investigate private individuals involved in corruption with public officials under Article 218(e) of the Constitution.",
+  "winningSide": "Commission on Human Rights and Administrative Justice (Plaintiff)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Sophia A. B. Akuffo",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Brobbey JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Date-Bah JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Ansa JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Adinyira [Mrs] JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin Yeboah JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Aryeetey JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebe JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Akoto-Bamfo [Mrs.] JSC",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Bilson v. Attorney General, (1993-1994) 1 GLR 104",
+    "Article 2(1)(b), Constitution of the Republic of Ghana",
+    "Article 218(e), Constitution of the Republic of Ghana"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court overruled the preliminary objection that the case was moot due to a High Court order prohibiting CHRAJ's investigation, noting the appeal pending in the Court of Appeal.",
+    "The Court held that the invocation of its original jurisdiction under Article 2(1)(b) does not require a constitutional breach by the defendant but arises from a dispute about constitutional interpretation.",
+    "Article 218(e) of the Constitution was interpreted to allow CHRAJ to investigate private individuals implicated in corruption involving public officials."
+  ],
+  "confidenceNotes": "The case summary is based on a truncated document; however, key legal arguments, jurisdictional issues, and court rulings are sufficiently detailed to support accurate extraction. The truncation does not affect the core holdings or procedural posture.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/COMMISION ON HUMAN RIGHT AND ADMINISTRATIVE JUSTICE  VRS. THE ATTORNEY GENERAL,  BABA KAMARA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:07:24.791Z",
+    "plainTextLength": 93127
+  },
+  "trialDate": "2010-03-01"
+}

@@ -1,0 +1,88 @@
+{
+  "caseTitle": "THE ATTORNEY GENERAL V . BALKAN ENERGY GHANA LTD, BALKAN ENERGY",
+  "summary": "The Supreme Court of Ghana was tasked with interpreting the phrase 'international business or economic transaction to which the Government is a party' under Article 181(5) of the 1992 Constitution, in the context of a Power Purchase Agreement (PPA) between the Government of Ghana and Balkan Energy (Ghana) Limited. The PPA, entered into on 27th July 2007, was challenged by the Attorney General for lack of required Parliamentary approval. The dispute arose after arbitration was initiated by the company under the Permanent Court of Arbitration. The Government argued the PPA and its arbitration clause were invalid due to non-compliance with Article 181(5). The Court referred two questions: whether the PPA and its arbitration clause constituted an international transaction requiring Parliamentary approval. The Court held that such a transaction must have a foreign element, assessed by the nationality or residence of parties or the seat of corporate control. It concluded that while the main contract could be international based on foreign control, the arbitration clause itself does not independently constitute such a transaction. The Court exercised its supervisory jurisdiction to ensure constitutional questions were properly referred.",
+  "legalKeywords": [
+    "constitutional interpretation",
+    "international business transaction",
+    "arbitration clause",
+    "Parliamentary approval",
+    "Power Purchase Agreement",
+    "jurisdiction",
+    "public law",
+    "foreign element",
+    "government contract",
+    "supervisory jurisdiction",
+    "amicus curiae",
+    "Memorandum of Understanding",
+    "central management and control",
+    "domestic vs international contract",
+    "constitutional breach"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Arbitration",
+    "Government Contracts",
+    "Corporate Law",
+    "Public Finance"
+  ],
+  "verdict": "The Supreme Court determined that Article 181(5) applies only to transactions with a foreign element, which may include contracts with Ghanaian-incorporated entities under foreign control; however, arbitration clauses do not independently constitute international transactions under the Constitution.",
+  "winningSide": "The Court provided a declaratory interpretation favoring constitutional compliance, effectively supporting the Attorney General's position that Parliamentary approval is required for qualifying international transactions.",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "opinion author"
+    },
+    {
+      "name": "Atuguba",
+      "role": "presiding"
+    },
+    {
+      "name": "Ansa",
+      "role": "justice"
+    },
+    {
+      "name": "Adinyira (Mrs.)",
+      "role": "justice"
+    },
+    {
+      "name": "Yeboah",
+      "role": "justice"
+    },
+    {
+      "name": "Gbadebe",
+      "role": "justice"
+    },
+    {
+      "name": "Bamfo (Mrs.)",
+      "role": "justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional interpretation",
+  "citations": [
+    "1992 Constitution of Ghana, art. 130(2)",
+    "1992 Constitution of Ghana, art. 181(5)",
+    "European Convention on International Commercial Arbitration (1961), Art. I",
+    "ICC Rules, Art. 1.1",
+    "English Arbitration Act, 1996"
+  ],
+  "rationaleHighlights": [
+    "The term 'international business or economic transaction' in Article 181(5) requires a foreign element, assessed by party nationality or transaction nature.",
+    "A Ghana-incorporated company may still be party to an international transaction if central management is abroad.",
+    "Arbitration clauses are ancillary to main contracts and do not independently constitute international transactions under Article 181(5).",
+    "The Supreme Court exercised supervisory jurisdiction to correct the High Court's refusal to refer constitutional questions.",
+    "The Court emphasized that constitutional compliance (e.g., Parliamentary approval) is mandatory for enforceability of government agreements."
+  ],
+  "confidenceNotes": "The summary is based on a full judicial opinion from the Supreme Court of Ghana with clear articulation of constitutional issues and legal reasoning. All key elements including jurisdiction, parties, facts, legal questions, and rationale are explicitly stated in the source.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/THE ATTORNEY GENERAL  V . BALKAN ENERGY GHANA LTD, BALKAN ENERGY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:20:39.254Z",
+    "plainTextLength": 67727
+  },
+  "trialDate": "2012-01-06"
+}

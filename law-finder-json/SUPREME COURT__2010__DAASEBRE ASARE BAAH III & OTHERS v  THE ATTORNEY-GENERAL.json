@@ -1,0 +1,85 @@
+{
+  "caseTitle": "DAASEBRE ASARE BAAH III & OTHERS v THE ATTORNEY-GENERAL",
+  "summary": "In this constitutional case, Paramount Chiefs and sub-Chiefs from Worawora, Bowiri, Apesokubi, Tapa, and Nkonya in the Volta Region challenged the creation of the Biakoye District and the establishment of its District Assembly. They argued that Executive Instrument (E.I.) 11 of 2007, which created the district, was unconstitutional because the President failed to direct the Electoral Commission to conduct a mandatory study under Section 1 of the Local Government Act, 1993 (Act 462). Additionally, they contested Legislative Instrument (L.I.) 1910 of 2008, which established the Biakoye District Assembly with Nkonya Ahenkro as capital, asserting it violated due process and decentralisation principles under Articles 240, 241, and 296 of the 1992 Constitution. This was because the choice of capital contradicted an earlier gazette notification naming Worawora and a memorandum of understanding among the chiefs. The Supreme Court emphasized the presumption of constitutionality and the need for precise allegations in constitutional challenges. It also reaffirmed the principle of severability, allowing invalid parts of legislation to be nullified without invalidating the whole. The plaintiffs sought declarations of nullity, an injunction, and consequential orders.",
+  "legalKeywords": [
+    "judicial review",
+    "constitutional supremacy",
+    "ultra vires",
+    "severability",
+    "executive power",
+    "local government",
+    "Electoral Commission",
+    "district creation",
+    "due process",
+    "decentralisation",
+    "arbitrary executive action",
+    "gazette notification",
+    "paramount chiefs",
+    "traditional authority",
+    "public law"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Local Government",
+    "Judicial Review",
+    "Separation of Powers"
+  ],
+  "verdict": "The Supreme Court held that the President's failure to comply with Section 1 of Act 462 before issuing E.I. 11 of 2007 rendered the instrument unconstitutional and void to the extent of non-compliance. The Court further found that the unilateral designation of Nkonya Ahenkro as the district capital, without consultation or adherence to due process, was arbitrary and inconsistent with constitutional principles of decentralisation. The naming of the capital was declared invalid. However, the Court applied the principle of severability, allowing the creation of the Biakoye District to stand while nullifying the unconstitutional aspects relating to procedure and capital designation.",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Wood (Mrs)",
+      "role": "Chief Justice (Presiding)"
+    },
+    {
+      "name": "Ansa",
+      "role": "Justice, Supreme Court"
+    },
+    {
+      "name": "Owusu (Ms)",
+      "role": "Justice, Supreme Court"
+    },
+    {
+      "name": "Dotse",
+      "role": "Justice, Supreme Court"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice, Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional review",
+  "citations": [
+    "1992 Constitution of Ghana, art. 1(2)",
+    "1992 Constitution of Ghana, art. 2(1)",
+    "1992 Constitution of Ghana, art. 130",
+    "1992 Constitution of Ghana, art. 240",
+    "1992 Constitution of Ghana, art. 241",
+    "1992 Constitution of Ghana, art. 296",
+    "Local Government Act, 1993 (Act 462), s. 1",
+    "Republic v Yebbi & Avalifo [2000] SCGLR 149",
+    "R. M. D. Charmabaugwalla v. Union of India, AIR 1957 SC 628",
+    "DPP v Hutchinson [1990] 2 AC 783"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court has exclusive original jurisdiction under Articles 2(1) and 130(1)(b) to review whether an enactment exceeds constitutional or statutory authority.",
+    "The President's failure to direct the Electoral Commission to conduct a study before declaring a new district under Act 462, s. 1 renders the Executive Instrument (E.I. 11 of 2007) unconstitutional.",
+    "The naming of Nkonya Ahenkro as capital without prior consultation or gazette notification, contrary to a memorandum among chiefs and principles of decentralisation, is arbitrary and unconstitutional.",
+    "Courts must clearly identify alleged constitutional breaches; general allegations are insufficient due to the presumption of constitutionality.",
+    "The principle of severability allows invalid parts of legislation to be struck down while preserving valid components, provided they are functionally independent."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy due to direct citation of constitutional provisions, statutory law, and prior case law. The judgment is from the Supreme Court of Ghana and the reasoning is well-structured and internally consistent.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/DAASEBRE ASARE BAAH III & OTHERS v  THE ATTORNEY-GENERAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:51:00.686Z",
+    "plainTextLength": 40200
+  },
+  "trialDate": "2010-02-18"
+}

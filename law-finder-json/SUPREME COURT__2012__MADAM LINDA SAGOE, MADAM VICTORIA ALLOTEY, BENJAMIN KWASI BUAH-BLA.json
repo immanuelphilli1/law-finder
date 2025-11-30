@@ -1,0 +1,77 @@
+{
+  "caseTitle": "MADAM LINDA SAGOE, MADAM VICTORIA ALLOTEY, BENJAMIN KWASI BUAH-BLA",
+  "summary": "The Supreme Court of Ghana dismissed the appeal filed by Madam Linda Sagoe, Madam Victoria Allotey, and Benjamin Kwasi Buah-Blay against the Social Security and National Insurance Trust (SSNIT). The plaintiffs had claimed ownership of land plots in Dunkonaa, Accra, and sought damages for trespass, a declaration that SSNIT exceeded its allocated land by 43.30 acres, cancellation of SSNIT's Land Title Certificate on grounds of fraud, and a perpetual injunction. The High Court initially ruled in favor of the plaintiffs, but the Court of Appeal reversed the decision, holding that the plaintiffs failed to discharge the burden of proof regarding their title to the land. The Supreme Court affirmed this, emphasizing that the plaintiffs, aware of the state's compulsory acquisition of the land under EI 5 of 1993, had the obligation to prove their plots were outside the acquired area. However, they failed to provide credible evidence identifying their specific plots, making their claims unsustainable. The Court stressed that title to compulsorily acquired land cannot be challenged and that proof must meet the standard of preponderance of probabilities. Consequently, the appeal was dismissed, and the Court of Appeal’s judgment was upheld.",
+  "legalKeywords": [
+    "burden of proof",
+    "compulsory acquisition",
+    "land title",
+    "trespass",
+    "evidence",
+    "plaintiff's burden",
+    "preponderance of probabilities",
+    "demolition",
+    "injunction",
+    "SSNIT",
+    "Land Title Certificate",
+    "fraud",
+    "encroachment",
+    "leasehold",
+    "James Town Stool"
+  ],
+  "topics": [
+    "Land Law",
+    "Evidence",
+    "Constitutional Law",
+    "Property Rights",
+    "Administrative Action"
+  ],
+  "verdict": "Appeal dismissed; decision of the Court of Appeal upheld.",
+  "winningSide": "Social Security and National Insurance Trust (SSNIT)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "GBADEGBE, JSC",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "AKUFFO, JSC",
+      "role": "Presiding"
+    },
+    {
+      "name": "ADINYIRA, JSC",
+      "role": "Member"
+    },
+    {
+      "name": "OWUSU, JSC",
+      "role": "Member"
+    },
+    {
+      "name": "YEBOAH, JSC",
+      "role": "Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Kwesi Arhin v Davies [1996-97] SCGLR 660",
+    "Memuna Moudy v Antwi [2003-2004] SCGLR 967",
+    "Re Accra Industrial Estate Acquisition [1966] GLR 118"
+  ],
+  "rationaleHighlights": [
+    "Plaintiffs failed to prove their land titles were outside the state-acquired area.",
+    "Knowledge of acquisition imposed duty to prove identity of plots clearly.",
+    "Failure to lead credible evidence on plot identity was fatal to claim.",
+    "Court upheld burden of proof principles under Evidence Act, NRCD 323.",
+    "Supreme Court affirmed Court of Appeal’s application of evidentiary rules."
+  ],
+  "confidenceNotes": "The judgment is from the Supreme Court of Ghana and directly addresses the burden of proof in land title disputes involving compulsorily acquired land. Citations are authoritative and contextually well-integrated.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/MADAM LINDA SAGOE, MADAM VICTORIA ALLOTEY, BENJAMIN KWASI BUAH-BLA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:25:22.996Z",
+    "plainTextLength": 20517
+  }
+}

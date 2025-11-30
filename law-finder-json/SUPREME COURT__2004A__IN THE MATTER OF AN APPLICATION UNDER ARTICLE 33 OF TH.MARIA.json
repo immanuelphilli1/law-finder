@@ -1,0 +1,81 @@
+{
+  "caseTitle": "IN THE MATTER OF AN APPLICATION UNDER ARTICLE 33 OF THE CONSTITUTION 1992 A N D IN THE MATTER OF AN APPLICATION BY DANIEL AWUNI PER HIS NEXT FRIEND",
+  "summary": "This constitutional case arose from the West African Examinations Council's (WAEC) decision to cancel the SSSCE results of 13 students from Notre Dame Minor Seminary and impose a three-year examination ban, citing alleged foreknowledge and collusion in Mathematics (Core) Paper 2. The students, through their next friend, challenged the decision in the High Court under Article 33 of the 1992 Constitution, arguing violations of their fundamental rights and procedural fairness under Article 23. The Supreme Court allowed the appeal, holding that WAEC's failure to afford the students a hearing before imposing punitive measures breached the principles of natural justice. The Court rejected WAEC's claim that script scrutiny alone justified the sanctions without due process. It emphasized that decisions affecting educational rights must follow fair procedures, even in the interest of public accountability. The cancellation and ban were declared unlawful, void, and set aside.",
+  "legalKeywords": [
+    "procedural fairness",
+    "fundamental human rights",
+    "judicial review",
+    "examination malpractice",
+    "constitutional remedy",
+    "rule of natural justice",
+    "student rights",
+    "administrative fairness",
+    "WAEC regulations",
+    "due process",
+    "cancellation of results",
+    "three-year ban",
+    "foreknowledge of exam paper",
+    "collusion among candidates",
+    "public interest"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Education Law",
+    "Human Rights",
+    "Procedural Fairness"
+  ],
+  "verdict": "The appeal was allowed. The decision of WAEC to cancel the results and impose a three-year ban was declared unlawful, void, and set aside.",
+  "winningSide": "Appellant (Marian Awuni and the affected students)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kpegah, J.S.C.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Miss Akuffo, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Brobbey, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Dr. Twum, J.S.C.",
+      "role": "Justice"
+    },
+    {
+      "name": "Dr. Date-Bah, J.S.C.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Article 23, 1992 Constitution of Ghana",
+    "Article 33, 1992 Constitution of Ghana",
+    "West African Examinations Council Law, 1991 (PNDCL 225)"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court emphasized that any decision affecting individual rights must comply with procedural fairness under Article 23 of the Constitution.",
+    "The Council's failure to allow appellants a right to be heard before imposing sanctions violated the principles of natural justice.",
+    "The Court found that the use of an originating summons under Article 33 was appropriate for enforcing fundamental rights, despite WAEC's procedural objections.",
+    "The headmaster's petition raised valid concerns about the lack of investigation into the claim of foreknowledge, underscoring the need for due process.",
+    "The Council's reliance on script scrutiny alone, without affording candidates a hearing, was deemed insufficient and procedurally unfair.",
+    "The Supreme Court allowed the appeal, nullifying the cancellation of results and the three-year ban.",
+    "The judgment reaffirmed that examination results, while not absolute rights, engage educational and personal rights protected under the Constitution.",
+    "The absence of exhibited evidence (e.g., written confessions) undermined WAEC's supplementary claims and weakened its defense."
+  ],
+  "confidenceNotes": "The case centers on constitutional rights and procedural fairness under the 1992 Constitution, with clear references to specific articles and statutory law. The judgment emphasizes procedural impropriety and fundamental rights, supporting high confidence in the accuracy of the legal analysis.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2004A/IN THE MATTER OF AN APPLICATION UNDER ARTICLE 33 OF TH.MARIA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:34:26.879Z",
+    "plainTextLength": 498090
+  },
+  "trialDate": "2004-07-21"
+}

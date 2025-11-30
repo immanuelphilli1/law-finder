@@ -1,0 +1,72 @@
+{
+  "caseTitle": "BAIDEN & ORS v GRAPHIC CORPORATION",
+  "summary": "In James Baiden & Ors v Graphic Corporation, the Court of Appeal reviewed a High Court decision that had ordered the Graphic Corporation to compute end-of-service benefits for former employees under Section 28(4) of a Collective Bargaining Agreement. The plaintiffs, former employees, claimed wrongful termination and non-payment of entitlements, including provident fund contributions and severance awards. The High Court had ruled in their favor, declaring the freezing of benefits unlawful. On appeal, the Court held that the freezing of End of Service Benefits (E.S.B.) by the P.N.D.C. Government in 1990 was an executive act protected under Section 34(5) of the Transitional Provisions of the 1992 Constitution, which barred judicial review of such state actions. The appellate court found that the trial judge erred by not recognizing this constitutional ouster clause, despite correctly identifying a breach of the collective agreement. The appeal was allowed on this ground, and the order compelling payment under the severance provisions was set aside. The court affirmed that while the policy may have been unfavorable to workers, it was within the government's authority and immune from judicial challenge.",
+  "legalKeywords": [
+    "collective bargaining agreement",
+    "end of service benefit",
+    "judicial review",
+    "ouster clause",
+    "redeployment",
+    "termination of employment",
+    "provident fund",
+    "transitional provisions",
+    "government directive",
+    "industrial dispute",
+    "severance award",
+    "Section 28(4)",
+    "Section 34(5)",
+    "Industrial Relations Act",
+    "judicial notice"
+  ],
+  "topics": [
+    "labor law",
+    "constitutional law",
+    "employment termination",
+    "judicial review",
+    "government immunity"
+  ],
+  "verdict": "Appeal allowed in part; the order compelling payment under severance provisions was set aside due to constitutional immunity under Section 34(5) of the Transitional Provisions.",
+  "winningSide": "Appellant (Graphic Corporation)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ansa, JA",
+      "role": "author of judgment"
+    },
+    {
+      "name": "Essilfie-Bondzie, JA",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Farkye, JA",
+      "role": "member of panel"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "labor and employment",
+  "citations": [
+    "JAMES BAIDEN & ORS v GRAPHIC CORPORATION [23/5/2002] C.A. NO.45/2001",
+    "Republic v. Court of Appeal & Others; Ex parte Agyekum [1982-83] GLR 688",
+    "Industrial Relations Act 1965, Act 299",
+    "S.Y. Bimpong-Buta, The Law of Interpretation in Ghana–Exposition and Critiques, p. 253",
+    "1992 Constitution of Ghana, Transitional Provisions, Section 34(5)"
+  ],
+  "rationaleHighlights": [
+    "The Court held that the freezing of End of Service Benefits (E.S.B.) by the P.N.D.C. Government was an executive act protected under Section 34(5) of the 1992 Constitution's Transitional Provisions.",
+    "The trial judge erred in law by failing to recognize the ouster clause, which barred judicial review of acts carried out under P.N.D.C. authority.",
+    "Although the trial judge correctly identified a violation of Section 28(4) of the Collective Bargaining Agreement, he misdirected himself by not acknowledging the constitutional immunity granted to the government's directive.",
+    "The Court emphasized that the purpose of Section 34(5) was to prevent judicial interference in state actions taken during the P.N.D.C. era, even if those actions affected workers' rights.",
+    "The appeal was allowed in part, specifically on the issue of compelling payment under the severance provisions, due to the constitutional bar on such claims."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment with clear citations and factual consistency.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/JAMES BAIDEN & ORS v GRAPHIC CORPORATION.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:26:55.408Z",
+    "plainTextLength": 17181
+  },
+  "trialDate": "2002-05-23"
+}

@@ -1,0 +1,81 @@
+{
+  "caseTitle": "OWUSU & ANOR. v. NANA EDWEY & ORS.",
+  "summary": "In Nana Owusu & Anor. v. Nana Edwey & Ors. (CA No. 156/2000, 20 June 2002), the Court of Appeal of Ghana overturned a High Court decision that had dismissed claims by the Gomoa Akyemfo stool to land allegedly trespassed upon by the Mumford stool. The appellants argued that a prior judgment by a Commissioner in the Fuelwood Forest Reserve acquisition proceedings had already established their ownership, invoking estoppel per rem judicatam. The Court held that the prior decision, though limited to the reserve area, operated as res judicata over the entire disputed land because the same evidence and title issues were litigated. The trial judge erred by re-litigating the merits and ignoring the estoppel plea, especially since the respondents failed to prove root of title in the prior proceeding. The Court emphasized that where a wider area's ownership is at issue, a judgment on a portion binds the parties on the whole, preventing piecemeal litigation.",
+  "legalKeywords": [
+    "estoppel per rem judicatam",
+    "res judicata",
+    "title to land",
+    "trespass",
+    "declaration of ownership",
+    "Fuelwood Forest Reserve",
+    "ancestral settlement",
+    "traditional land ownership",
+    "juridical identity",
+    "boundary dispute",
+    "High Court inspection",
+    "Court of Appeal reversal",
+    "privies",
+    "division of stool lands",
+    "Adonten Division",
+    "Nifa Division",
+    "historical evidence",
+    "root of title",
+    "perpetual injunction",
+    "recovery of possession"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Appellate Procedure",
+    "Res Judicata",
+    "Tribal Stool Disputes"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellants (Gomoa Akyemfo stool)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Twumasi",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Omari-Sasu",
+      "role": "Justice"
+    },
+    {
+      "name": "Adinyira",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Ababio v Kanga (1932) I WACA 253",
+    "Frempong II v Effah (1961) GLR 205",
+    "Robertson v Reindorf (1971) 2 GLR 289",
+    "Aperade Stool v Achiase Stool (1957) 3 WALR 204",
+    "Henderson v Henderson (1843) 3 Hare 100",
+    "Appiah v Addai (1962) 1 GLR 345"
+  ],
+  "rationaleHighlights": [
+    "Estoppel applies where the same subject matter, including juridical identity, was decided in prior litigation.",
+    "A judgment on a portion of land can bind the entire area if the title to the wider area was in issue.",
+    "The trial judge erred in re-litigating merits without first determining the estoppel issue.",
+    "Respondents were estopped from re-asserting claims already rejected due to failure to prove root of title.",
+    "The Commissioner’s findings on historical ownership applied to the whole area, not just the reserve.",
+    "Re-litigation of identical issues undermines finality and judicial efficiency.",
+    "Pleas contradicting prior judicial findings (e.g., Gomoa Akyemfo as suburb of Mumford) are impermissible.",
+    "Courts must adjudicate estoppel before proceeding to the merits when pleaded."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the provided judgment text, including citations, judicial reasoning, and procedural history. The truncated end of the document does not affect the core holdings discussed.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/NANA OWUSU & ANOR. v. NANA EDWEY & ORS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:13:50.679Z",
+    "plainTextLength": 21349
+  },
+  "trialDate": "2002-06-20"
+}

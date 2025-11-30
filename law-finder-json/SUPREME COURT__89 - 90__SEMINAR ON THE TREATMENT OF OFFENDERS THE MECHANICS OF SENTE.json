@@ -1,0 +1,64 @@
+{
+  "caseTitle": "SEMINAR ON THE TREATMENT OF OFFENDERS THE MECHANICS OF SENTE",
+  "summary": "This academic paper presented at a seminar discusses the mechanics of sentencing in Ghana, focusing on the role of public tribunals established under PNDCL 78. It outlines the three main theories of punishment—retributive, deterrent/preventive, and reformative—and critiques how judicial discretion is exercised in practice. The author notes that while tribunals have wide sentencing powers, including the death penalty and mandatory minimum sentences, they often rely on deterrence, especially for economic and drug-related crimes. However, this approach has led to prison overcrowding and ineffective rehabilitation. The paper highlights inconsistencies in sentencing, including personal biases of judicial officers and the misuse of custodial sentences, particularly for juveniles. It calls for a more balanced, dynamic sentencing policy that considers social context and reform, rather than mere punishment.",
+  "legalKeywords": [
+    "sentencing",
+    "punishment theories",
+    "retributive justice",
+    "deterrent theory",
+    "reformative theory",
+    "public tribunals",
+    "PNDCL 78",
+    "juvenile offenders",
+    "custodial sentences",
+    "prison reform",
+    "white-collar crime",
+    "drug trafficking",
+    "timber fraud",
+    "communal labour",
+    "fines"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Sentencing Policy",
+    "Judicial Discretion",
+    "Prison Reform",
+    "Public Tribunals"
+  ],
+  "verdict": "Not applicable – this is a legal commentary, not a court judgment.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Salmond J",
+      "role": "quoted jurist"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Public Tribunals / Academic Commentary",
+    "country": "Ghana"
+  },
+  "caseType": "academic commentary",
+  "citations": [
+    "PNDCL 24",
+    "PNDCL 78",
+    "Thomas, D A, Principles of Sentencing (2nd ed), pp. 35-37",
+    "Hunt (1958) The Times, November 26"
+  ],
+  "rationaleHighlights": [
+    "Sentencing discretion in Ghana is guided by retributive, deterrent, and reformative theories.",
+    "Public Tribunals under PNDCL 78 have broad sentencing powers, including death, imprisonment, fines, forfeiture, and communal labour.",
+    "Section 16(3) allows mitigation based on special circumstances of the offender or offence.",
+    "Juvenile offenders under 12 cannot be imprisoned; those 12–18 may only be imprisoned if no alternative is appropriate.",
+    "Overreliance on custodial sentences has led to prison overcrowding and ineffective rehabilitation.",
+    "Deterrent sentencing sometimes backfires, as seen in the 'Banker-to-Banker' case where punishment was celebrated.",
+    "Prisons have become training grounds for crime due to poor reform mechanisms."
+  ],
+  "confidenceNotes": "The document is a seminar paper, not a judicial decision; therefore, case details are interpretive and lack formal verdicts or winning parties. Citations to legislation and external sources are clear, but no binding court ruling is present.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/89 - 90/SEMINAR ON THE TREATMENT OF OFFENDERS THE MECHANICS OF SENTE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:54:03.744Z",
+    "plainTextLength": 19496
+  }
+}

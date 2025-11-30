@@ -1,0 +1,78 @@
+{
+  "caseTitle": "YAW AH PER J. M. ARYEEQUA YE",
+  "summary": "In this civil land dispute before the West African Court of Appeal, the plaintiff, Yaw Ah Per J. M. Aryeequa, successfully claimed ownership of a parcel of land in Accra against the defendant, J. E. Maslieno, who had acted as caretaker. The Ga Manche Tribunal had previously affirmed her title and directed that the defendant remain as caretaker. During the appeal process, a receiver was appointed to collect rents. After the Court of Appeal dismissed the defendant’s appeal and upheld the plaintiff’s ownership, the Provincial Commissioner ordered the receiver to pay the collected rents to the plaintiff. The defendant challenged this, claiming entitlement as caretaker. The Court rejected this, holding that under native custom, a caretaker is not entitled to rents but only to reasonable remuneration at the owner’s discretion. The order was upheld, and the appeal dismissed with costs.",
+  "legalKeywords": [
+    "native custom",
+    "caretaker",
+    "land title",
+    "receiver",
+    "rents",
+    "declaration of title",
+    "injunction",
+    "compensation money",
+    "lease validity",
+    "foster relationship",
+    "property management",
+    "tribunal judgment",
+    "appeal",
+    "ex parte order",
+    "monetary accounting",
+    "customary law",
+    "land dispute",
+    "ownership claim",
+    "restitution",
+    "provincial commissioner"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Civil Procedure",
+    "Property Rights",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed; Commissioner's order upheld.",
+  "winningSide": "Plaintiff-Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Deane",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Hall",
+      "role": "Justice"
+    },
+    {
+      "name": "Sawrey-Cookson",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WACA/1WACA/YAW AH PER J. M. ARYEEQUA YE",
+    "Ga Manche Tribunal judgment, 1 Feb 1929",
+    "West African Court of Appeal judgment, 1 July 1930"
+  ],
+  "rationaleHighlights": [
+    "The caretaker has no automatic right to rents under native custom; remuneration is at the owner's discretion.",
+    "The tribunal affirmed the plaintiff's full ownership of the land, not just the leased portion.",
+    "A lease by a non-owner without consent is invalid under native law.",
+    "The receiver's collected rents must be paid to the rightful owner upon confirmation of title.",
+    "Native custom distinguishes between paid and unpaid caretakers, with no inherent property interest.",
+    "The defendant’s conduct indicated usurpation of ownership, undermining his caretaker claim.",
+    "The appellate court upheld the commissioner’s order as consistent with the original judgment.",
+    "Customary law supports reasonable compensation for caretaker services, not a share of rents."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment and corroborated by multiple judges.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/YAW AH PER J. M. ARYEEQUA YE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:37:16.818Z",
+    "plainTextLength": 18252
+  },
+  "trialDate": "1930-11-18"
+}

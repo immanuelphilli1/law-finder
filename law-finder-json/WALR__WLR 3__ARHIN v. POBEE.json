@@ -1,0 +1,56 @@
+{
+  "caseTitle": "ARHIN VERSUS POBEE",
+  "summary": "In Arhin v. Pobee, the plaintiff, Chief Kweku Arhin III, sued James Kobina Pobee for recovery of stool properties allegedly retained unlawfully. The key issue was whether the suit constituted a succession matter, which would determine the jurisdiction of the Municipal Court, Cape Coast. The court held that a suit relates to succession if the claimant must establish succession to a deceased native as a prerequisite to relief, regardless of whether succession was admitted. Relying on Vanderpuye v. Botchway and Hagan v. Adum, the court affirmed that the foundational nature of the claim—based on succession—classified the suit as one relating to succession, thereby falling within the unlimited jurisdiction of the trial court. The appeal, which argued the suit was personal due to an alleged admission of succession, was dismissed.",
+  "legalKeywords": [
+    "succession suit",
+    "jurisdiction",
+    "Native Courts Ordinance",
+    "stool properties",
+    "letters of administration",
+    "admission of succession",
+    "personal suit",
+    "recovery of property",
+    "deceased native",
+    "appeal"
+  ],
+  "topics": [
+    "Succession Law",
+    "Jurisdiction",
+    "Native Courts",
+    "Property Dispute",
+    "Appeal"
+  ],
+  "verdict": "Appeal dismissed.",
+  "winningSide": "Respondent (Chief Kweku Arhin III)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adumua-Bossman J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Central Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Vanderpuye and Others v. Botchway (1956) 2 W.A.L.R. 16",
+    "Hagan and Others v. Adum and Others (1939) W.A.C.A. 35",
+    "Kwow v. Eku II (1934) 2 W.A.C.A. 180"
+  ],
+  "rationaleHighlights": [
+    "The test for a succession suit is whether the claimant must establish succession to a deceased native as a prerequisite to relief.",
+    "Even if succession is admitted, the nature of the claim based on succession determines the suit's classification.",
+    "The Privy Council in Hagan v. Adum rejected a narrow interpretation of 'suits relating to succession'.",
+    "Subsidiary issues do not change the substantial nature of the suit if succession is foundational.",
+    "The Municipal Court had jurisdiction because the suit related to succession, not a personal claim."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and cited authorities.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/ARHIN v. POBEE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:12:52.365Z",
+    "plainTextLength": 7628
+  }
+}

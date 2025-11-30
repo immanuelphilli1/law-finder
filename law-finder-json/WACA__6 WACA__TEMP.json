@@ -1,0 +1,38 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The provided document does not contain a legal decision or case details but appears to be a homepage or index for a legal resource website titled 'Ghana Law Finder.' It includes a title '6 WEST AFRICA COURT OF APPEAL' suggesting a section on cases from that court, but no actual case content, judgment, or legal analysis is present. The page advertises self-help legal guides, case and subject matter indices, and contact information.",
+  "legalKeywords": [
+    "Ghana Law Finder",
+    "West Africa Court of Appeal",
+    "legal index",
+    "case index",
+    "legal research",
+    "self-help legal guide",
+    "legal library services",
+    "copyright notice",
+    "online legal resource"
+  ],
+  "topics": [
+    "Legal Research",
+    "Court Index",
+    "Legal Education"
+  ],
+  "verdict": "N/A",
+  "winningSide": "N/A",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "N/A",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "Low confidence in extracting case-specific insights due to absence of actual case content; the document is a website index, not a judicial decision.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/TEMP.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:53:22.016Z",
+    "plainTextLength": 297
+  }
+}

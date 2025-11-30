@@ -1,0 +1,62 @@
+{
+  "caseTitle": "REX v JOSEPH OLAGBAIYE",
+  "summary": "In Rex v Joseph Olagbanye, the West African Court of Appeal dismissed the appellant's appeal against conviction for preparation of counterfeit coin under section 148(3)(c) and unlawful possession of counterfeit coin under section 152(3) of the Criminal Code. The original four-year sentences with hard labour were deemed inadequate given the prevalence of such crimes. The court quashed the original sentences and imposed enhanced concurrent sentences of seven years' imprisonment with hard labour, effective from 7th July, 1936.",
+  "legalKeywords": [
+    "counterfeit coin",
+    "criminal code section 148(3)(c)",
+    "criminal code section 152(3)",
+    "sentence enhancement",
+    "concurrent sentences",
+    "prevalence of crime",
+    "unlawful possession",
+    "preparation of counterfeit currency",
+    "hard labour",
+    "conviction upheld"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Sentencing",
+    "Counterfeiting",
+    "Appellate Review",
+    "Hard Labour"
+  ],
+  "verdict": "Conviction upheld; sentences enhanced",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Joseph Olagbanye, WACA/3, 17th October 1986"
+  ],
+  "rationaleHighlights": [
+    "The appeal against conviction lacked merit and was dismissed.",
+    "The court found the original four-year sentences inadequate.",
+    "Sentences were enhanced to seven years due to the prevalence of counterfeiting crimes.",
+    "The enhanced sentences were to run concurrently and backdate to 7th July, 1936."
+  ],
+  "confidenceNotes": "The document appears to be a digitized version of a West African Court of Appeal judgment; the date discrepancy (1936 in text vs 1986 in header) may be a scanning error. The citation is inferred from the file name and content.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/REX v   JOSEPH OLAGBAIYE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:13:21.194Z",
+    "plainTextLength": 1769
+  },
+  "trialDate": "1986-10-17"
+}

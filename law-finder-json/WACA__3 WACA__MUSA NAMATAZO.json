@@ -1,0 +1,75 @@
+{
+  "caseTitle": "MUSA NAMATAZO",
+  "summary": "This civil case, Musa Namatazo v. E. W. Wright and G. H. Vivian, was heard by the West African Court of Appeal and concerned a claim for false imprisonment. The plaintiff alleged he was unlawfully detained in Minna from October 1934 to May 1935 by the first defendant, who threatened to arrest him if he left, in order to compel his appearance as a witness in an illegal mining prosecution. The trial court found that the plaintiff was indeed detained for about six months due to these threats, despite his testimony that he did not believe he would actually be arrested. The key legal question reserved for the appellate court was whether a threat to arrest, accompanied by a show of authority and resulting in submission, constitutes imprisonment under common law. Relying on the authoritative definition from Termes de la Ley, the appellate court affirmed that imprisonment includes any restraint on a person's liberty, whether in jail or otherwise. Since the trial judge had found that the plaintiff was detained by the defendant's actions, the appellate court upheld the decision, ruling that the threat and submission amounted to false imprisonment as a matter of law.",
+  "legalKeywords": [
+    "false imprisonment",
+    "threats",
+    "detention",
+    "show of authority",
+    "submission to authority",
+    "common law",
+    "restraint of liberty",
+    "witness compulsion",
+    "unlawful detention",
+    "legal detention",
+    "arrest threat",
+    "freedom of movement",
+    "case stated",
+    "reserved question",
+    "judicial finding"
+  ],
+  "topics": [
+    "Torts",
+    "False Imprisonment",
+    "Common Law",
+    "Judicial Review",
+    "Legal Threats"
+  ],
+  "verdict": "The court upheld the trial court's finding of false imprisonment, ruling that the threat to arrest with a show of authority, resulting in the plaintiff's submission, constituted unlawful detention even without a belief in the threat's execution.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Butler Lloyd",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Baker",
+      "role": "Justice"
+    },
+    {
+      "name": "Brooke",
+      "role": "Judge (stating case)"
+    },
+    {
+      "name": "Martin-Dale",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WACA/3 WACA/MUSA NAMATAZO"
+  ],
+  "rationaleHighlights": [
+    "A threat to arrest, coupled with a show of authority and resulting in submission, constitutes false imprisonment even if the plaintiff did not believe the threat would be carried out.",
+    "Detention was established by the trial court's finding that the plaintiff was detained for six months to serve as a witness.",
+    "Imprisonment under common law includes any restraint on liberty, regardless of physical confinement.",
+    "The plaintiff's submission to the threat, not his belief in its execution, is determinative.",
+    "The court upheld the trial judge's factual finding of detention, which resolved the central issue.",
+    "The definition from Termes de la Ley was applied to confirm that liberty restraint equals imprisonment.",
+    "The case was reserved for appellate opinion on a point of law, not factual dispute.",
+    "The plaintiff succeeded because the detention was unlawful and coercive."
+  ],
+  "confidenceNotes": "The case is a clear civil action for false imprisonment with a reserved question of law addressed by the West African Court of Appeal. The jurisdiction and parties are explicitly stated, and the legal reasoning is based on common law principles.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/MUSA NAMATAZO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:17:45.314Z",
+    "plainTextLength": 4395
+  },
+  "trialDate": "1937-08-23"
+}

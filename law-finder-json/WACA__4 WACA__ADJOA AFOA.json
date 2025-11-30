@@ -1,0 +1,70 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This case involved an appeal from a decision of the Divisional Court that had reversed a Magistrate's Court judgment and restored the original ruling of a Native Tribunal. The plaintiff sought to appeal further to the West African Court of Appeal under section 4 of the West African Court of Appeal Ordinance. The respondent raised a preliminary objection that the appeal did not lie because the Magistrate's Court in question was constituted by a District Commissioner acting outside the scope of a District Magistrate's functions, and thus did not qualify as a 'Magistrate's Court' under the statutory definition. The Court agreed, holding that the term 'Magistrate' as used in the relevant section of the West African Court of Appeal Ordinance must be interpreted according to the definition in the Courts Ordinance, which excludes a District Commissioner when performing non-magisterial functions. Consequently, the appeal was dismissed for lack of jurisdiction, with costs awarded.",
+  "legalKeywords": [
+    "appeal",
+    "jurisdiction",
+    "statutory interpretation",
+    "preliminary objection",
+    "Magistrate's Court",
+    "District Commissioner",
+    "Native Tribunal",
+    "Divisional Court",
+    "West African Court of Appeal",
+    "Native Administration Ordinance",
+    "Courts Ordinance",
+    "Interpretation Ordinance",
+    "functions of magistrate",
+    "right of appeal",
+    "costs"
+  ],
+  "topics": [
+    "Appellate Jurisdiction",
+    "Statutory Interpretation",
+    "Magisterial Functions",
+    "Native Tribunals",
+    "Administrative Law"
+  ],
+  "verdict": "Appeal dismissed on preliminary objection for lack of jurisdiction.",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Yates",
+      "role": "Justice"
+    },
+    {
+      "name": "Strother-Stewart",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "West African Court of Appeal Ordinance (Cap. 5)",
+    "Native Administration (Colony) Ordinance (Cap. 76)",
+    "Courts Ordinance (Cap. 4)",
+    "Interpretation Ordinance (Cap. 1)"
+  ],
+  "rationaleHighlights": [
+    "The term 'Magistrate' does not include a District Commissioner when constituting a court that cannot be constituted by a District Magistrate.",
+    "The Magistrate's Court under sections 79 and 85 of the Native Administration Ordinance is not a 'Magistrate's Court' as defined in the Courts Ordinance.",
+    "Section 4 of the West African Court of Appeal Ordinance only allows appeals from courts presided over by a Magistrate as defined in the Courts Ordinance.",
+    "The appeal was dismissed because the statutory basis for jurisdiction was not satisfied."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear statutory interpretation and court reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/ADJOA AFOA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:08:45.198Z",
+    "plainTextLength": 4609
+  },
+  "trialDate": "1938-06-01"
+}

@@ -1,0 +1,70 @@
+{
+  "caseTitle": "YUNGDONG INDUSTRIES v RORO SERVICES & 2 ORS",
+  "summary": "This Supreme Court of Ghana decision arose from a dispute over ownership of 18 containers of goods shipped from Korea and detained at Tema Port. The plaintiff, Yungdong Industries, claimed entitlement as consignee under bills of lading and sought release of the goods, an injunction against their release to others, and damages for wrongful detention. The defendants, Roro Services (the carrier), initially defended on the basis of instructions from the consignors to reconsign the goods to Seo-Kwang Ghana Ltd, a company linked to the suppliers. After procedural complexities involving joinder, withdrawal, and replacement of parties—including the eventual joining of individual appellants Eun Mook Bang and Young Chul Choi—the core issues centered on whether title had passed to the plaintiff, the validity of reconsignment, and the carrier’s right to a lien for demurrage. The court held that title vested in the plaintiff upon shipment, rendering unilateral reconsignment ineffective. It rejected claims of fraud against the plaintiff due to lack of credible evidence. However, it upheld the carrier’s statutory and contractual lien over the goods for unpaid demurrage and administrative charges totaling ₵134,062,068 as of July 1994. The judgment reinforced the principle that parties must adhere to their pleadings and cannot advance inconsistent theories at trial.",
+  "legalKeywords": [
+    "bill of lading",
+    "title to goods",
+    "reconsignment",
+    "demurrage charges",
+    "lien",
+    "unpaid seller",
+    "fraudulent misrepresentation",
+    "contract of sale",
+    "carriage of goods",
+    "interim injunction"
+  ],
+  "topics": [
+    "Contract Law",
+    "Commercial Law",
+    "Shipping and Carriage of Goods",
+    "Property Rights",
+    "Civil Procedure"
+  ],
+  "verdict": "The appeal was partially allowed. The plaintiff was recognized as the rightful owner of the goods, but the carrier's lien for demurrage and administrative charges was upheld, affecting the release of the goods.",
+  "winningSide": "Yungdong Industries (Plaintiff/Appellant/Respondent) on ownership; Roro Services (Defendant) on lien rights",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Seth Twum",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Akuffo (Ms)",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Dr. Date-Bah",
+      "role": "panel member"
+    },
+    {
+      "name": "Ocran",
+      "role": "panel member"
+    },
+    {
+      "name": "Ansa",
+      "role": "panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Appiah v. Akers Trading Co (1972) 1GLR 28"
+  ],
+  "rationaleHighlights": [
+    "Title to goods passed to plaintiff upon shipment; reconsignment by carrier at consignor's request without buyer's consent is invalid.",
+    "Co-defendants failed to prove plaintiff's fraudulent misrepresentation regarding timber business.",
+    "Carrier entitled to lien on goods for unpaid demurrage and administrative charges.",
+    "Court emphasized adherence to pleadings: parties cannot raise new cases at trial inconsistent with pleadings."
+  ],
+  "confidenceNotes": "The judgment relies heavily on pleadings and documentary evidence; factual disputes were resolved based on consistency with initial claims and supporting documentation.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2006A/YUNGDONG INDUSTRIES  v RORO SERVICES & 2 ORS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T18:00:08.216Z",
+    "plainTextLength": 69279
+  },
+  "trialDate": "2005-12-04"
+}

@@ -1,0 +1,57 @@
+{
+  "caseTitle": "ADOBEA AND OTHERS VERSUS LASSEY.",
+  "summary": "In ADOBEA AND OTHERS v. LASSEY, the Supreme Court of the Gold Coast addressed a dispute over the customary pledge and redemption of land. The plaintiffs, sisters whose father had built a house on rented land, sought to recover possession after their guardian pledged the house to the defendant to raise funds. The court held that there was no presumption of fraud in the pledge, and the defendant owed no fiduciary duty to the plaintiffs. It affirmed the customary right of the pledgor to redeem the property at any time, allowing the plaintiffs to redeem upon payment of the original pledged sums. However, the court ruled that once a court order for redemption is issued, the customary right merges into the judgment, and failure to redeem within the stipulated time extinguishes the right. The appeal was allowed, lower court decisions were set aside, and a new judgment was entered with specific terms for redemption, rent, and possession.",
+  "legalKeywords": [
+    "customary pledge",
+    "right of redemption",
+    "native law and custom",
+    "fiduciary duty",
+    "presumption of fraud",
+    "court order merger",
+    "landlord interest",
+    "native appeal",
+    "equitable redemption",
+    "possession recovery"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Pledge and Redemption",
+    "Fiduciary Obligations",
+    "Court Orders"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lingley J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "WALR/WLR 1/ADOBEA AND OTHERS v. LASSEY"
+  ],
+  "rationaleHighlights": [
+    "No presumption of fraud in customary pledges without evidence",
+    "Defendant owed no fiduciary duty to plaintiffs",
+    "Customary right to redeem exists but merges into court order upon judgment",
+    "Redemption must occur within court-specified period to be effective",
+    "Defendant's purchase of landlord interest was lawful",
+    "Plaintiffs entitled to redeem upon payment of original pledged amounts",
+    "Rent set at original rate despite economic changes",
+    "Right to future redemption extinguished post-judgment"
+  ],
+  "confidenceNotes": "High confidence; information derived directly from primary case text with clear judicial reasoning and factual details.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/ADOBEA AND OTHERS v. LASSEY..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:17:13.360Z",
+    "plainTextLength": 5623
+  }
+}

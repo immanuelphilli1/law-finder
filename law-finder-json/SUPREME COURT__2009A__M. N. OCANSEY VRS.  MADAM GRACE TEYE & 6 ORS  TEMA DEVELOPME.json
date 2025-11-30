@@ -1,0 +1,79 @@
+{
+  "caseTitle": "M. N. OCANSEY VRS. MADAM GRACE TEYE & 6 ORS TEMA DEVELOPME",
+  "summary": "This is a civil appeal before the Supreme Court of Ghana concerning the refusal by the Court of Appeal to relist an appeal that had been struck out for non-compliance with procedural conditions. The appellant, Doku Agbeyevu, was a co-defendant in a High Court case decided on 11/10/2001. He filed a notice of appeal on 2/11/2001 but failed to fully comply with the High Court registrar's conditions for preparing the record, particularly regarding payment for binding and photocopying. Although he paid a deposit of ₵500,000, he withdrew part of another payment and did not fulfill all requirements. A Certificate of Non-Compliance was issued on 8/11/2005, and the Court of Appeal struck out the appeal on 4/4/2006. The appellant sought relistment on 3/7/2007, over a year later, but the application was dismissed. The Supreme Court upheld this decision, emphasizing that procedural rules governing appeals must be followed, and that the Court of Appeal had fairly exercised its discretion under Rule 18(3) of CI 19. The appeal was dismissed.",
+  "legalKeywords": [
+    "appeal",
+    "striking out",
+    "conditions of appeal",
+    "Court of Appeal Rules",
+    "non-compliance",
+    "relistment",
+    "discretion",
+    "statutory rights",
+    "constitutional right to appeal",
+    "procedural rules",
+    "record of appeal",
+    "deposit",
+    "costs on appeal",
+    "binding and photocopying",
+    "Certificate of Non-Compliance"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Procedural Compliance",
+    "Judicial Discretion",
+    "Right to Appeal",
+    "Striking Out of Appeal"
+  ],
+  "verdict": "The appeal was dismissed by the Supreme Court, affirming the Court of Appeal's refusal to relist the struck-out appeal due to the appellant's failure to comply with procedural conditions.",
+  "winningSide": "Respondent (Madam Grace Teye & others)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Anin Yeboah",
+      "role": "authoring judge"
+    },
+    {
+      "name": "S. A. Brobbey",
+      "role": "concurring judge"
+    },
+    {
+      "name": "Dr. Date-Bah",
+      "role": "concurring judge"
+    },
+    {
+      "name": "S. O. A. Adinyira",
+      "role": "concurring judge"
+    },
+    {
+      "name": "J. V. M. Dotse",
+      "role": "concurring judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "ADJOWEI V YIADOM II & ORS [1970] CC 51",
+    "KARLETSE – PANIN V NURO [1979] GLR CA at 209"
+  ],
+  "rationaleHighlights": [
+    "Appellant failed to comply with conditions for appeal, including payment for binding and photocopying.",
+    "Appellant did not offer a convincing explanation for delay in seeking relistment.",
+    "Discretion to restore appeal lies with the Court of Appeal and was fairly exercised.",
+    "Statutory and procedural compliance is required regardless of constitutional right to appeal.",
+    "Failure to meet court-imposed conditions bars re-litigation, irrespective of merits.",
+    "Appellant waited 13 months after striking out to seek restoration.",
+    "Supreme Court will not substitute its discretion where lower court exercised discretion fairly."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2009A/M. N. OCANSEY VRS.  MADAM GRACE TEYE & 6 ORS  TEMA DEVELOPME.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:05:39.629Z",
+    "plainTextLength": 10750
+  },
+  "trialDate": "2008-04-19"
+}

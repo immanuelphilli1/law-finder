@@ -1,0 +1,68 @@
+{
+  "caseTitle": "MAJEED KAREEM v. MR. ASUMADU OF KUMASI",
+  "summary": "This Court of Appeal decision from Ghana concerns a land dispute over Plot 6, Block A, Kumasi-Boadi, between Abdul Majeed Kareem (respondent), suing as trustee for Abdul Kareem Kwabena Kareem, and Mr. Asumadu (appellant). The core issue was whether a valid customary land grant had been made to Mr. Asumadu in 1981, evidenced by a receipt for ₵6,000 paid to stool representatives, prior to a later lease by Nana Huahi Tutuwaa II (the new Obaapanin) to the respondent in 1992. The appellant had developed the land and operated a poultry business, asserting that the grant was made by authorized family heads. The trial court ruled in favor of the respondent, declaring him the lessee and granting possession, damages, and an injunction. The Court of Appeal upheld this decision, finding that the signatories of the 1981 receipt were not authorized to alienate stool land without the consent of the occupant or full family, rendering the customary grant ineffective. The court emphasized that publicity of possession alone does not validate an unauthorized grant, and the appellant could not retain title merely by development or occupation. The appeal was dismissed, affirming the respondent's superior title under the 1992 lease.",
+  "legalKeywords": [
+    "customary land tenure",
+    "land alienation",
+    "stool property",
+    "unauthorized grant",
+    "declaration of title",
+    "recovery of possession",
+    "trespass damages",
+    "perpetual injunction",
+    "publicity in land sale",
+    "receipt as evidence"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Property Dispute",
+    "Appellate Review",
+    "Traditional Authority"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Mrs. Wood",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Aryeetey",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Hammond v. Odoi [1982-83] GLR p. 1215",
+    "Ankrah v. Ofori and others [1974] 1 GLR 185",
+    "Aryee v. Adofoley (1951) 3 WACA 161"
+  ],
+  "rationaleHighlights": [
+    "A customary grant of land requires authorization by the occupant or accredited family representatives; mere payment and receipt do not suffice if signatories lack authority.",
+    "Publicity through occupation and development supports notice but does not cure defects in the validity of the initial grant.",
+    "The 1981 receipt was not issued by authorized delegates of the Huahi Stool, rendering the appellant's claim void.",
+    "The 1992 lease by the duly enstooled Obaapanin to the respondent created a valid and superior title.",
+    "The trial judge did not err in rejecting the appellant's counterclaim due to lack of proven entitlement.",
+    "The liaison officer’s report (Exhibit G) was inconsistent and failed to discredit the respondent’s documented allocation.",
+    "The appellant’s failure to secure formal approval or allocation paper weakened his claim despite long possession.",
+    "The court affirmed that unauthorized alienation cannot defeat a subsequent valid lease by the rightful authority."
+  ],
+  "confidenceNotes": "The summary is based on a truncated document; however, the core legal reasoning, parties, and outcome are clearly established in the provided text. Key evidence (Exhibits 1, 2, C, G) and witness testimonies (PW1, PW2, DW2) are sufficiently detailed to support the analysis. The final paragraph is cut off, but the appellate court's disposition is explicitly stated as dismissing the appeal.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/ABDUL MAJEED KAREEM v. MR. ASUMADU OF KUMASI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:48:32.628Z",
+    "plainTextLength": 37227
+  },
+  "trialDate": "11TH NOVEMBER, 1999"
+}

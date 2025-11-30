@@ -1,0 +1,77 @@
+{
+  "caseTitle": "DOMINIC OWUSU v. AKUA ADOMA",
+  "summary": "In John Dominic Owusu v. Akua Adoma (CA 40/2000, 7 June 2001), the Court of Appeal of Ghana reviewed a property dispute where the plaintiff claimed ownership of House No. 30 Block K, Kaasi, Kumasi, based on a written deed of assignment dated 6 July 1987. The trial court found that the deed (Exhibit A) was not executed by the defendant and was fraudulent, yet granted specific performance to the plaintiff based on part performance under equity. The Court of Appeal overturned this, holding that the plaintiff failed to prove a valid written contract and had not fulfilled the full purchase price of ₵4 million, having paid only ₵2.9 million. The court emphasized that time was of the essence in the agreement, as stipulated by the defendant and unrefuted by credible evidence. It concluded that the trial court erred in granting specific performance despite the lack of writing and incomplete payment, and that the plaintiff's reliance on a forged document undermined his case. The appeal was allowed, and judgment was entered for the defendant.",
+  "legalKeywords": [
+    "specific performance",
+    "deed of assignment",
+    "part performance",
+    "fraudulent document",
+    "writing requirement",
+    "Conveyancing Decree 1973",
+    "N.R.C.D 175",
+    "equity",
+    "burden of proof",
+    "contract of sale",
+    "time of the essence",
+    "forgery",
+    "reliance on document",
+    "interest in land",
+    "oral agreement",
+    "payment of purchase price",
+    "acts of ownership",
+    "collusion",
+    "evidential burden",
+    "unconscionability"
+  ],
+  "topics": [
+    "Property Law",
+    "Contract Law",
+    "Equity",
+    "Fraud in Contracts",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Benin, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Adinyira, (Mrs.) J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Amonoo-Monney, J.A.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Civil Division, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Conveyancing Decree, 1973 (N.R.C.D 175)",
+    "Coghland vs. Cumberland (1898) 1 Ch. 704",
+    "Acolatse vs. Bulley-Neequaye, Civil Appeal No. 14/67"
+  ],
+  "rationaleHighlights": [
+    "The deed of assignment (Exhibit A) was not executed by the defendant and was found to be fraudulent.",
+    "The plaintiff failed to prove full payment of the agreed ₵4 million, having paid only ₵2.9 million.",
+    "Time was of the essence in the contract due to inflation, as agreed by the parties.",
+    "The trial court erred in granting specific performance despite the absence of a valid written contract.",
+    "Part performance could not override the writing requirement under N.R.C.D 175 where fraud and non-payment were established.",
+    "The plaintiff and witness Lawyer Poku-Amanfo gave perjured testimony regarding the execution of the deed.",
+    "Equity could not assist a party who relied on a forged document and failed to perform contractual obligations."
+  ],
+  "confidenceNotes": "The summary is based on a partially redacted document; however, the core legal reasoning and outcome are clearly discernible from the available text. The Court of Appeal's reversal hinges on established principles of contract and property law in Ghana, particularly the Conveyancing Decree, and the credibility of evidence.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/JOHN DOMINIC OWUSU v. AKUA ADOMA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:26:45.661Z",
+    "plainTextLength": 34477
+  },
+  "trialDate": "2001-06-07"
+}

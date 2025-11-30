@@ -1,0 +1,74 @@
+{
+  "caseTitle": "REX v EGBE IBOKO ALO",
+  "summary": "In Rex v Egbe Iboko Alo, the appellant was initially convicted of murder after killing the deceased in a fight that followed a sudden quarrel and nighttime challenge. The West Africa Court of Appeal held that the trial judge erred in classifying the incident as a duel, which implies premeditation and mutual arrangement. The court emphasized that the true legal question was whether the killing occurred in the heat of passion caused by sudden provocation, per section 318 of the Criminal Code. Given the immediate nature of the confrontation and absence of cooling time, the court found that the circumstances warranted a verdict of manslaughter rather than murder. Consequently, the conviction was substituted from murder to manslaughter under section 325 of the Criminal Code, and the death sentence was replaced with ten years of hard labor.",
+  "legalKeywords": [
+    "murder",
+    "manslaughter",
+    "sudden provocation",
+    "heat of passion",
+    "duel",
+    "premeditation",
+    "misdirection",
+    "criminal liability",
+    "self-defense",
+    "fight",
+    "quarrel",
+    "challenged to fight",
+    "cooling time",
+    "Archbold",
+    "Criminal Code"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Homicide",
+    "Provocation",
+    "Manslaughter",
+    "Judicial Misdirection"
+  ],
+  "verdict": "Manslaughter (substituted for murder)",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon C.J.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Baker",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Egbe Iboko Alo",
+    "Archbold 30th Edition, p. 889",
+    "Criminal Code s 318",
+    "Criminal Code s 325"
+  ],
+  "rationaleHighlights": [
+    "The killing occurred after a sudden challenge to fight, not a pre-arranged duel.",
+    "The essence of a duel requires premeditation and pre-arrangement, which was absent.",
+    "Sudden provocation negates malice aforethought required for murder.",
+    "Under Criminal Code s 318, the act occurred in the heat of passion without time for cooling.",
+    "The trial judge misdirected himself by classifying the fight as a duel.",
+    "A proper direction could have led to a manslaughter verdict.",
+    "Verdict of murder was substituted with manslaughter.",
+    "Appellant sentenced to 10 years' imprisonment for manslaughter."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear legal reasoning and citation to authority.",
+  "metadata": {
+    "sourcePath": "WACA/8 WACA/REX v  EGBE IBOKO ALO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:20:51.171Z",
+    "plainTextLength": 4625
+  },
+  "trialDate": "31ST JANUARY, 1942"
+}

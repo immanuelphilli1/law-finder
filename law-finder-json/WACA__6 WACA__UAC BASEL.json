@@ -1,0 +1,65 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The Union Trading Company Limited (Plaintiffs-Appellants) sued Walter Hauri (Defendant-Respondent), a former employee, for breach of a post-employment agreement restricting competition and association with a rival business. The agreement, signed in Switzerland on 8th November 1938, was made after the plaintiffs withheld Hauri's earned salary of 4,475.20 Swiss francs. The plaintiffs claimed this payment constituted consideration for Hauri's promise not to compete or assist a former colleague. The trial court and the West Africa Court of Appeal held that the agreement was unenforceable due to lack of valid consideration, as the money paid was already owed under the original employment contract. The court found that the plaintiffs withheld the salary not due to a genuine dispute but to coerce Hauri into signing the restrictive agreement. The alleged breaches of the original contract were either unproven or condoned by the employer's continued employment of Hauri. The court also rejected the argument that the agreement represented a compromise of a bona fide arbitration claim, noting the plaintiffs failed to present evidence of an honest belief in their defence. Consequently, the appeal was dismissed, and the injunction and damages were denied.",
+  "legalKeywords": [
+    "breach of contract",
+    "consideration",
+    "restraint of trade",
+    "compromise of dispute",
+    "bona fide defence",
+    "arbitration",
+    "master and servant",
+    "injunction",
+    "undue influence",
+    "contract validity"
+  ],
+  "topics": [
+    "Contract Law",
+    "Employment Law",
+    "Restraint of Trade",
+    "Consideration",
+    "Civil Procedure"
+  ],
+  "verdict": "Appeal dismissed; agreement unenforceable due to lack of consideration and absence of bona fide dispute.",
+  "winningSide": "Defendant-Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "contract dispute",
+  "citations": [
+    "Miles v. New Zealand Alford Estate Co. (55 L.J Ch. 801)",
+    "Beattie v. Parmenter, 5 T.L.R. 397",
+    "Cooper v. Parker, 21 L.J C.P. 68"
+  ],
+  "rationaleHighlights": [
+    "The agreement lacked valid consideration as the payment was for wages already due.",
+    "The compromise of arbitration did not involve a bona fide dispute.",
+    "The employer withheld salary to pressure the employee into signing a restrictive agreement.",
+    "Continued employment after knowledge of alleged breaches amounted to condonation.",
+    "No evidence was presented that the employer honestly believed in a defence to the wage claim."
+  ],
+  "confidenceNotes": "High confidence; all key facts and legal reasoning are clearly stated in the judgment. The court's findings on lack of consideration and absence of bona fide dispute are explicit.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/UAC BASEL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:52:45.662Z",
+    "plainTextLength": 17402
+  },
+  "trialDate": "1940-05-30"
+}

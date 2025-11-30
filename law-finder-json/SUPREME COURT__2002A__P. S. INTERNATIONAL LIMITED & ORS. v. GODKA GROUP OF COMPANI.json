@@ -1,0 +1,88 @@
+{
+  "caseTitle": "P. S. INTERNATIONAL LIMITED & ORS. v. GODKA GROUP OF COMPANI",
+  "summary": "In P.S. International Limited v. Godka Group of Companies, the Supreme Court of Ghana dismissed the appellant's appeal challenging the validity of judgments from the High Court and Court of Appeal. The appellant argued that the judgments were null and void due to delays beyond statutory timelines under Order 63 Rule 2A of the High Court (Civil Procedure) Rules and Rule 33 of the Court of Appeal Rules. The Court held that such time limits are directory, not mandatory, especially in light of Article 157(3) of the 1992 Constitution, which keeps a judge functus officio until judgment is delivered. The Court also found error in the Court of Appeal’s treatment of invoices attached to the statement of claim as evidence, as they were not properly tendered. However, this error was deemed harmless given that the same documents were later admitted via the defendant’s own exhibit. The core issue—whether the first consignment was sold outright or on a sell-or-return basis—was resolved in favor of a completed sale based on sufficient credible evidence. The appeal was accordingly dismissed.",
+  "legalKeywords": [
+    "judgment delay",
+    "mandatory vs directory rules",
+    "statutory interpretation",
+    "evidence admissibility",
+    "pleading irregularities",
+    "sell-or-return",
+    "capacity to sue",
+    "procedural irregularity",
+    "judicial functus officio",
+    "commercial transaction",
+    "invoice as evidence",
+    "Chief Justice oversight",
+    "Court of Appeal error",
+    "contract of sale",
+    "procedural nullity"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Evidence Law",
+    "Contract Law",
+    "Statutory Interpretation",
+    "Judicial Conduct"
+  ],
+  "verdict": "Appeal dismissed.",
+  "winningSide": "Plaintiff/Respondent (P.S. International Limited)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Afreh, J.S.C.",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "Bamford-Addo, J.S.C.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Kpegah, J.S.C.",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Adjahbeng, J.S.C.",
+      "role": "Member of Coram"
+    },
+    {
+      "name": "Atuguba, J.S.C.",
+      "role": "Member of Coram"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Order 63 Rule 2A, High Court (Civil Procedure) Rules, 1954 (L.N. 140A)",
+    "Rule 33 sub-rules 1 and 2, Court of Appeal Rules, 1997, C.I. 19",
+    "Article 157(3), Constitution of Ghana, 1992",
+    "Republic v. Judicial Committee of Central Region House of Chiefs: Ex-parte Supi Mark Aaba, S.C. Civil Appeal No. 1/99 (2000)",
+    "Republic v. High Court, Accra, Ex parte Expandable Polysterene Products Limited",
+    "Montreal Street Rly Co. v. Normandin [1917] A.C. 170",
+    "Liverpool Borough Bank v. Turner (1860) 2 Ge & G. 502",
+    "Howard v. Bodington (1877) 2 P.D. 203",
+    "Maxwell on The Interpretation of Statutes, 12th Ed.",
+    "Cross: Statutory Interpretation, 2nd Ed."
+  ],
+  "rationaleHighlights": [
+    "Order 63 Rule 2A is directory, not mandatory, due to Article 157(3) of the 1992 Constitution; non-compliance does not nullify judgment.",
+    "Attaching invoices to pleadings and marking them as exhibits does not constitute valid evidence under NRCD 323, s.61.",
+    "Even without improperly admitted invoices, sufficient evidence supported the finding of a valid sale.",
+    "Judges remain functus officio until judgment is delivered, per Article 157(3), preventing nullity of delayed judgments.",
+    "Statutory provisions should not be interpreted to produce absurd or unjust results, per Cross and Benion on statutory interpretation.",
+    "Failure to comply with procedural rules is an irregularity, not a nullity, under Order 70 of L.N. 140A.",
+    "Court of Appeal’s reliance on un-tendered documents was erroneous but harmless due to other evidence.",
+    "Proper statutory interpretation requires reading the whole provision, not selective reliance on parts."
+  ],
+  "confidenceNotes": "High confidence in extracted details; all information is directly supported by the judgment text, including citations, legal reasoning, and procedural facts.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2002A/P. S. INTERNATIONAL LIMITED & ORS. v. GODKA GROUP OF COMPANI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:39:38.434Z",
+    "plainTextLength": 28348
+  },
+  "trialDate": "24TH JULY, 2002"
+}

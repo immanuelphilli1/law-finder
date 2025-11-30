@@ -1,0 +1,78 @@
+{
+  "caseTitle": "GAISE ZWENNES HUGHES & CO. VRS. LODERS CROCKLAAN B. V",
+  "summary": "This Supreme Court of Ghana decision from 2012 concerns a legal fee dispute between law firm Gaise Zwennes Hughes & Co. (plaintiff/appellant) and its client Loders Crocklaan B.V. (defendant/respondent). The law firm had recovered a US$3.56 million settlement for the client in a commercial dispute but sought to recover US$44,500 in fees based on their retainer agreement. The Supreme Court dismissed the appeal because the firm failed to comply with Section 30(1) of the Legal Profession Act, 1960 (Act 32), which mandates that a bill of fees must be served on the client at least one month before commencing legal action to recover fees. Despite the client not raising this procedural defect in lower courts, the Court held that non-compliance with this statutory requirement rendered the action fundamentally invalid, as it is a mandatory precondition for suit. The Court emphasized its authority under Rule 6(7)(b) of CI 16 to raise such jurisdictional issues sua sponte to uphold the rule of law, citing Nartey v Gati [2010] SCGLR 745 and Ayarna & Anor v Agyemang & Ors [1976] 1 GLR 306 as binding precedents.",
+  "legalKeywords": [
+    "Legal Profession Act",
+    "Section 30(1)",
+    "mandatory compliance",
+    "bill of fees",
+    "professional fees recovery",
+    "jurisdictional defect",
+    "sua sponte",
+    "rule of law",
+    "retainer agreement",
+    "statutory precondition",
+    "client-lawyer dispute"
+  ],
+  "topics": [
+    "Legal Ethics",
+    "Professional Responsibility",
+    "Civil Procedure",
+    "Appellate Jurisdiction",
+    "Statutory Interpretation"
+  ],
+  "verdict": "Dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. S. K. Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "N. S. Gbadegbe",
+      "role": "Justice"
+    },
+    {
+      "name": "R. C. Owusu",
+      "role": "Justice"
+    },
+    {
+      "name": "J. V. M. Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "P. Baffoe-Bonnie",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "[1976] 1 GLR 306",
+    "[2010] SCGLR 745",
+    "[2007-2008] SCGLR 1041",
+    "[1992-93] GBR 239",
+    "[2009] SCGLR 390"
+  ],
+  "rationaleHighlights": [
+    "Section 30(1) of Act 32 is a mandatory precondition for suing a client for fees",
+    "Non-compliance invalidates the action regardless of client's silence",
+    "Court can raise jurisdictional defects sua sponte under Rule 6(7)(b) of CI 16",
+    "Precedent in Nartey v Gati [2010] SCGLR 745 controls the interpretation",
+    "Failure to serve bill of fees renders writ of summons unlawful",
+    "Judges must uphold statutes, not condone breaches",
+    "The action was improperly constituted from inception"
+  ],
+  "confidenceNotes": "High confidence in all fields; all information is directly extracted from the judgment text, including citations, statutory references, and judicial reasoning. The case is clearly identified as civil in nature and the outcome is unambiguous.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/GAISE ZWENNES HUGHES & CO.   VRS.  LODERS CROCKLAAN B. V.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:32:49.875Z",
+    "plainTextLength": 10595
+  },
+  "trialDate": "2006-03-14"
+}

@@ -1,0 +1,88 @@
+{
+  "caseTitle": "RANSFORD FRANCE 19 OCT 12",
+  "summary": "The Supreme Court of Ghana, in Ransford France v. Electoral Commission & Attorney-General (Writ No. J1/19/2012, 19 October 2012), addressed whether the Electoral Commission (EC) violated constitutional provisions by creating new parliamentary constituencies through the Representation of the People (Parliamentary Constituencies) Instrument, 2012 (C.I. 78) without first publishing regulations governing such discretion under Article 296(c) of the 1992 Constitution. The plaintiff sought declarations and injunctions asserting that the EC’s failure to issue regulatory guidelines breached constitutional requirements and fundamental voting rights. The Court held that it had jurisdiction under Article 2(1) and Article 130(1) to adjudicate on the constitutional validity of C.I. 78, distinguishing this case from prior rulings like Bortier, where boundary demarcation disputes were referred to a tribunal under Article 48. However, the Court declined to invalidate C.I. 78, interpreting Article 296(c) not as an absolute precondition for exercising discretion but as a directive principle aimed at ensuring fairness and transparency. It emphasized that a literal interpretation requiring prior regulations would destabilize administrative governance and invalidate numerous past executive actions. Thus, while affirming constitutional oversight, the Court upheld the validity of C.I. 78.",
+  "legalKeywords": [
+    "Constitutional Instrument",
+    "Electoral Commission",
+    "Article 296(c)",
+    "discretionary power",
+    "judicial review",
+    "constitutional validity",
+    "demarcation of constituencies",
+    "supremacy of the Constitution",
+    "due process of law",
+    "regulatory framework",
+    "fundamental human rights",
+    "original jurisdiction",
+    "Article 2(1)",
+    "Article 130(1)",
+    "Article 48"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Election Law",
+    "Judicial Jurisdiction",
+    "Separation of Powers",
+    "Administrative Discretion"
+  ],
+  "verdict": "The Supreme Court declined to invalidate the Representation of the People (Parliamentary Constituencies) Instrument, 2012 (C.I. 78), holding that Article 296(c) does not require prior publication of regulations before exercising discretionary power.",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Delivered Judgment"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Adinyira (Mrs.)",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Owusu (Ms.)",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Anin-Yeboah",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Gbadebe",
+      "role": "Justice of the Supreme Court"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs.)",
+      "role": "Justice of the Supreme Court"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Challenge",
+  "citations": [
+    "Article 2(1), 1992 Constitution",
+    "Article 130(1), 1992 Constitution",
+    "Article 48, 1992 Constitution",
+    "Article 296(c), 1992 Constitution",
+    "Richard Odum Bortier & Anor v Electoral Commission & Anor [J1/9/2011]"
+  ],
+  "rationaleHighlights": [
+    "The Court has exclusive original jurisdiction under Article 130(1) to determine the constitutional validity of enactments, even if they affect constituency demarcation.",
+    "Article 296(c) does not mandate prior publication of regulations before exercising discretionary power; such a literal interpretation would cause widespread administrative invalidity.",
+    "The creation of constituencies under C.I. 78 was valid despite absence of prior regulatory framework.",
+    "Distinction drawn between challenges to demarcation (under Article 48 tribunal) and challenges to constitutional validity of instruments (under Article 2).",
+    "A purposive interpretation of Article 296(c) supports administrative functionality while preserving constitutional oversight."
+  ],
+  "confidenceNotes": "The summary is based on a detailed judicial opinion from the Supreme Court of Ghana with clear articulation of legal reasoning and citations. The outcome and rationale are confidently derived from the provided text, though the document appears truncated near the end, potentially omitting minor concluding remarks. However, the core judgment and holding are fully captured.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/RANSFORD  FRANCE   19 OCT 12.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:22:37.994Z",
+    "plainTextLength": 52928
+  },
+  "trialDate": "2012-10-19"
+}

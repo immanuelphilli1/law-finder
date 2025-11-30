@@ -1,0 +1,70 @@
+{
+  "caseTitle": "CHIEF EFIONG ENEBIET EFIOM",
+  "summary": "This appeal originated from a claim by Chief Efiong Enemiet Efion Duke and others, suing for themselves and members of Yellow Duke House, seeking rental shares from the defendant, Etubo M. George Duke Henshaw. The trial judge found the defendant liable for £72 but suspended execution pending clarification of the house's recognized representatives, as the plaintiffs failed to prove their authority to sue on behalf of the group. The West Africa Court of Appeal held that since the plaintiffs did not discharge the initial onus of demonstrating representative authority, they should have been non-suited. The original judgment was set aside because it amounted to a ruling in favor of persons unknown. However, as the defendant failed to raise the issue of authority in pleadings or cross-examination, he was not awarded costs in the lower court, though costs in the appellate court were granted to him. The appeal was allowed, the lower court's judgment and cost order were overturned, and a non-suit was ordered with each party bearing their own costs below.",
+  "legalKeywords": [
+    "representative capacity",
+    "non-suit",
+    "authority to sue",
+    "costs",
+    "pleadings",
+    "failure to raise issue",
+    "judgment for unknown persons",
+    "execution of judgment",
+    "native court",
+    "high court",
+    "judicial division",
+    "rents",
+    "house faction",
+    "native authority",
+    "responsible representatives"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Representative Suits",
+    "Costs in Litigation",
+    "Judicial Authority",
+    "Native Courts"
+  ],
+  "verdict": "Appeal allowed; judgment set aside; non-suit ordered; costs in lower court to be borne by parties individually; appellant awarded costs in appellate court.",
+  "winningSide": "Defendant-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "WACA/6 WACA/CHIEF EFIONG ENEBIET EFIOM",
+    "Supreme Court Judgment of 19th April, 1920"
+  ],
+  "rationaleHighlights": [
+    "Plaintiffs failed to prove authority to sue in representative capacity",
+    "Judgment effectively favored unknown persons, thus invalid",
+    "Non-suit appropriate instead of dismissal to allow future action",
+    "Defendant did not raise authority issue in pleadings or cross-examination",
+    "Defendant not entitled to costs below due to procedural failure",
+    "Appellant awarded costs in appeal court"
+  ],
+  "confidenceNotes": "The case details are drawn directly from the provided document, with clear identification of court, parties, and judgment. However, the source appears to be a digitized archival record with formatting issues (e.g., 'pages.gif' as title), which may affect metadata accuracy.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/CHIEF EFIONG ENEBIET EFIOM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:09:26.738Z",
+    "plainTextLength": 5161
+  },
+  "trialDate": "1940-10-26"
+}

@@ -1,0 +1,72 @@
+{
+  "caseTitle": "DANIEL ROCKSON v GHANA FOOTBALL",
+  "summary": "In Daniel Rockson v. Ghana Football Association (2010), the Supreme Court of Ghana dismissed a constitutional challenge brought by a football club supporter against provisions in the GFA statutes that allegedly barred members and supporters from accessing courts to resolve disputes. The plaintiff sought a declaration that Article 17.1.11.1–6 of the GFA statutes was inconsistent with Chapter Five of the 1992 Constitution, particularly the right of access to justice. The Court upheld the defendant’s preliminary objection, ruling it lacked jurisdiction because the GFA statutes are not 'Laws of Ghana' under Article 11 of the Constitution, but rather private agreements of a voluntary association. It emphasized that challenges to such private instruments must be brought in lower courts, particularly the High Court, which has original jurisdiction over enforcement of fundamental rights under Article 33(1). The Court also noted the plaintiff failed to specify which constitutional rights were violated and acknowledged that alternative dispute resolution mechanisms do not entirely oust judicial review, especially where constitutional rights are engaged.",
+  "legalKeywords": [
+    "constitutional jurisdiction",
+    "fundamental human rights",
+    "private association",
+    "alternative dispute resolution",
+    "rule of law",
+    "constitutional interpretation",
+    "voluntary association",
+    "jurisdictional objection",
+    "null and void",
+    "Ghana Football Association"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Jurisdiction",
+    "Human Rights",
+    "Sports Law",
+    "Alternative Dispute Resolution"
+  ],
+  "verdict": "The Supreme Court dismissed the plaintiff's action for lack of jurisdiction.",
+  "winningSide": "Ghana Football Association",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "S. O. A. Adinyira (Mrs)",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "S. A. B. Akuffo (Ms)"
+    },
+    {
+      "name": "R. C. Owusu (Ms)"
+    },
+    {
+      "name": "P. Baffoe-Bonnie"
+    },
+    {
+      "name": "B. T. Aryeetey"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Challenge",
+  "citations": [
+    "Edusei (No. 2) v. Attorney-General [1998-99] SCGLR 729",
+    "Federation of Youth Association of Ghana v. Public Universities & Others, Suit No. Writ J1/51/2009",
+    "New Patriotic Party v. Inspector-General of Police [1993-94] 2GLR 459",
+    "Mensima v. Attorney-General [1996-97] SCGLR 67",
+    "New Patriotic Party v. Attorney-General (CIBA CASE) [1996-97] SCGLR 729",
+    "Adjei-Ampofo v. Accra Metropolitan Assembly & Attorney-General (No1) [2007-2008] SCGLR 611"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court lacks jurisdiction over challenges to private association statutes, even if they affect constitutional rights.",
+    "Only 'Laws of Ghana' as defined under Article 11 can be tested under Article 2(1)(a); GFA statutes are private agreements.",
+    "The High Court, not the Supreme Court, has jurisdiction over enforcement of fundamental human rights under Article 33(1).",
+    "Parties may voluntarily agree to alternative dispute resolution mechanisms without fully ousting access to courts.",
+    "Article 17.11.5 of GFA statutes preserves members' rights under the Constitution, limiting claims of total ouster of jurisdiction."
+  ],
+  "confidenceNotes": "High confidence in jurisdictional analysis based on constitutional provisions and cited precedents; lower confidence in characterization of GFA statutes as purely private given public functions, though court's reasoning is clear.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/DANIEL ROCKSON v  GHANA FOOTBALL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:50:06.165Z",
+    "plainTextLength": 10665
+  },
+  "trialDate": "24TH FEBRUARY, 2010"
+}

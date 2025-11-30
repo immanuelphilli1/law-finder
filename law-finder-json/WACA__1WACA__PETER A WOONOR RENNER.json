@@ -1,0 +1,70 @@
+{
+  "caseTitle": "PETER A WOONOR RENNER",
+  "summary": "This West African Court of Appeal decision from 1930 addressed two motions by Mr. Peter A. Woonor Renner concerning appeals previously handled by the Full Court. In Case A (Renner v. Thensu and others), the appeal had been struck out for non-appearance in May 1929. The Court held the matter was still 'pending' under s 14(3) of the 1928 Order-in-Council, which transferred all pending proceedings to the new Court of Appeal. Given the motion was filed before the new Court’s May 1930 session and considering Mr. Renner’s health and representation issues, the Court allowed relisting of the appeal upon payment of specified costs. In Case B (Renner v. Bampoe), where the appeal had already been heard and decided in 1929, the motion to set aside the judgment was filed on 4th July 1930—after the May session had concluded. The Court found the delay inexcusable and dismissed the motion, awarding costs to the defendant-appellant. The judgment relied on Fordham v. Clagett to interpret 'pending' broadly, affirming jurisdiction over matters where any procedural step could still be taken.",
+  "legalKeywords": [
+    "pending appeal",
+    "jurisdiction",
+    "procedural delay",
+    "motion to relist",
+    "appeal struck out",
+    "Full Court",
+    "Order-in-Council",
+    "procedural continuation",
+    "costs order",
+    "non-appearance",
+    "merits of motion",
+    "judicial discretion",
+    "appellate procedure",
+    "revival of proceedings",
+    "medical incapacity"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Jurisdiction",
+    "Procedural Delay",
+    "Costs",
+    "Interpretation of Statutes"
+  ],
+  "verdict": "Motion in Case A granted with conditions; motion in Case B dismissed.",
+  "winningSide": "Kudjo Amuaku (Case A, subject to costs); Ohene Bampoe (Case B)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Hall, J.",
+      "role": "deciding judge"
+    },
+    {
+      "name": "Deane, C.J. 'The Gold Coast Colony'",
+      "role": "concurring judge"
+    },
+    {
+      "name": "Sawrey-Cookson, J.",
+      "role": "concurring judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Fordham v. Clagett, 20 Ch.D. 637",
+    "West African Court of Appeal Order-in-Council (1928), s 14(3)",
+    "Judicature Act 1873, s 22"
+  ],
+  "rationaleHighlights": [
+    "The term 'pending' includes any matter in which proceedings could possibly be taken, per Fordham v. Clagett.",
+    "Appeal in Case A allowed to be relisted due to timely motion and mitigating circumstances.",
+    "Motion in Case B refused due to inexcusable delay in filing.",
+    "Court emphasized continuity of proceedings under s 14(3) of the Order-in-Council.",
+    "Costs awarded against appellant in Case B for late filing."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct textual evidence from the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/1WACA/PETER A WOONOR RENNER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:39:54.638Z",
+    "plainTextLength": 8074
+  },
+  "trialDate": "1930-11-10"
+}

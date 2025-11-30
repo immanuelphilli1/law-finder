@@ -1,0 +1,70 @@
+{
+  "caseTitle": "RONKE ODULAjA,",
+  "summary": "This is a civil appeal heard by the West Africa Court of Appeal on 16th October, 1940, concerning a consent judgment in a breach of promise of marriage case. The plaintiff-appellant, Ronke Odulaja, an infant represented by her guardian, had obtained a consent judgment for £100 and costs against the defendant, payable in monthly instalments of £1. Later, the plaintiff sought to appeal only the instalment clause, arguing she had not consented to it and that it was not in her best interest. The appellate court dismissed the appeal, holding that a consent judgment must be challenged in its entirety, not in part. The court reasoned that if one party did not truly consent to any portion, the entire judgment lacks mutual agreement. The court also noted that the proper remedy was to apply for variation under Schedule II Order 41 Rule 8 of the Rules of Court, not to pursue a partial appeal. Costs of the appeal were awarded to the respondent.",
+  "legalKeywords": [
+    "consent judgment",
+    "appeal",
+    "instalment payment",
+    "breach of promise of marriage",
+    "infant plaintiff",
+    "guardian ad litem",
+    "variation of judgment",
+    "Rules of Court",
+    "Schedule II Order 41 rule 8",
+    "leave to appeal",
+    "rescission of order",
+    "monthly instalments",
+    "damages",
+    "next friend",
+    "appellate jurisdiction"
+  ],
+  "topics": [
+    "Contract Law",
+    "Family Law",
+    "Appellate Procedure",
+    "Civil Procedure",
+    "Consent Judgment"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Defendant-Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Cor. Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Rex v. Salami Adebisin",
+    "Odulaja v. Williams"
+  ],
+  "rationaleHighlights": [
+    "A consent judgment must stand or fall as a whole; it cannot be selectively appealed.",
+    "One party cannot pick and choose which parts of a consent judgment to uphold on appeal.",
+    "If consent was lacking on any part, the entire judgment may be invalid.",
+    "The court emphasized procedural finality in consent judgments.",
+    "Plaintiff could apply for variation under court rules but not via partial appeal.",
+    "The appeal was dismissed because it targeted only a portion of the consent judgment."
+  ],
+  "confidenceNotes": "The document contains some OCR or formatting errors (e.g., 'ODULAjA', 'pated', 'excep' to costs'), but key legal facts and holdings are discernible. The case is a clear appellate decision on consent judgment principles.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/RONKE ODULAjA,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:56:21.733Z",
+    "plainTextLength": 5020
+  },
+  "trialDate": "1940-10-16"
+}

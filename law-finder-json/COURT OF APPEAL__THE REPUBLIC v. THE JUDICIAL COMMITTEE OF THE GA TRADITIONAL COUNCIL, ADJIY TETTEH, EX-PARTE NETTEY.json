@@ -1,0 +1,81 @@
+{
+  "caseTitle": "REPUBLIC v. THE JUDICIAL COMMITTEE OF THE GA TRADITIONAL",
+  "summary": "This appeal arose from a High Court ruling granting certiorari to quash a decision by the Judicial Committee of the Ga Traditional Council, which had determined a chieftaincy dispute based solely on affidavits without hearing oral evidence. The Court of Appeal upheld the High Court's decision, holding that the Committee's failure to take viva voce evidence—especially on the contested issue of locus standi—constituted a fundamental breach of natural justice and customary law principles. The court emphasized that while traditional tribunals may follow customary procedures, they must ensure fair hearing and proper evaluation of evidence, particularly where affidavits disclose triable issues. The adoption of affidavit-based adjudication, akin to formal court procedures, necessitates compliance with evidentiary standards, including cross-examination. The appeal was dismissed, affirming that the High Court rightly intervened to correct a manifest procedural error.",
+  "legalKeywords": [
+    "certiorari",
+    "judicial review",
+    "customary law",
+    "natural justice",
+    "fair trial",
+    "viva voce evidence",
+    "affidavit evidence",
+    "tribunal procedure",
+    "locus standi",
+    "cross-examination",
+    "Chieftaincy Act 1971 (Act 370)",
+    "Interpretation Act 1960 (CA9)",
+    "error on the face of the record",
+    "traditional council",
+    "judicial committee",
+    "procedural fairness",
+    "evidence evaluation",
+    "rule of law",
+    "customary arbitration",
+    "native tribunal"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Customary Law",
+    "Judicial Review",
+    "Evidence",
+    "Chieftaincy Disputes"
+  ],
+  "verdict": "The appeal was dismissed; the High Court's grant of certiorari to quash the Judicial Committee's decision was upheld.",
+  "winningSide": "Respondents (Nettey and the Judicial Committee of the Ga Traditional Council in their capacity as applicants for certiorari)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Twumasi, JA",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Benin, JA",
+      "role": "concurring judge"
+    },
+    {
+      "name": "Farkye, JA",
+      "role": "concurring judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "administrative",
+  "citations": [
+    "THE REPUBLIC v. THE JUDICIAL COMMITTEE OF THE GA TRADITIONAL COUNCIL, ADJIY TETTEH, EX-PARTE: NETTEY [20/7/2000] CA NO. 151/99",
+    "Addae v. Asante [1974] 2 GLR 288",
+    "Okuma v. Tsutu (1944) 10 WACA 89",
+    "Nathan v. Bennieh",
+    "Yirenkyi vrs. Akuffo [1905] 1 Ren 362",
+    "Tanor v. Dapomah [1960] GLR 354",
+    "Prempeh v. Addo [1961] GLR 427",
+    "Adjowei v. Yiadom III and Others [1973] 2 GLR 90",
+    "The Republic v. Georgina Asare Ex-parte Samuel Kofi Asare and Rev. Augustina Aunn-Yeboah (18th May 2000, unreported)"
+  ],
+  "rationaleHighlights": [
+    "The Judicial Committee erred by relying solely on affidavits without taking viva voce evidence where triable issues existed.",
+    "Customary law, though informal, requires fair hearing and evaluation of evidence, including cross-examination.",
+    "Tribunals adopting court-like procedures (e.g., affidavits) must comply with corresponding evidentiary requirements.",
+    "Failure to hear oral evidence where capacity was disputed constitutes an error apparent on the face of the record.",
+    "The High Court correctly exercised supervisory jurisdiction via certiorari to quash the decision."
+  ],
+  "confidenceNotes": "All information is drawn directly from the provided judgment text. Citations are accurately extracted from the document. The summary reflects the court's reasoning and outcome without external interpretation.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/THE REPUBLIC v. THE JUDICIAL COMMITTEE OF THE GA TRADITIONAL COUNCIL, ADJIY TETTEH, EX-PARTE NETTEY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:00:17.855Z",
+    "plainTextLength": 11482
+  },
+  "trialDate": "2000-07-20"
+}

@@ -1,0 +1,80 @@
+{
+  "caseTitle": "OTHERS VERSUS BOTCHWAY.",
+  "summary": "In Vanderpuye and Others v. Botchway, the Judicial Committee of the Privy Council addressed whether a dispute over the distribution of a deceased Ga man's estate was a land cause or a succession matter under the Native Courts (Colony) Ordinance, Cap. 98. The appellants, children from 'six-cloth' marriages, had obtained a declaration of entitlement to the estate and an accounting of rents from the Ga Native Court. The respondent, a matrilineal cousin and family head, appealed to the Land Court, which reclassified their share as one-third. The West African Court of Appeal upheld Land Court jurisdiction, treating the case as a land cause. The Privy Council reversed this, holding that the real issue was succession, not land ownership. It reaffirmed that 'suits and matters relating to the succession to property' include determining shares, distribution, and valuation of estates under customary law. The jurisdictional test is the substance of the dispute, not the form of pleading. Thus, the Land Court lacked jurisdiction, and the appeal was properly one for succession, to be heard by the District Commissioner’s Court under prior practice.",
+  "legalKeywords": [
+    "Native Courts Ordinance",
+    "succession to property",
+    "land cause",
+    "jurisdiction",
+    "Ga customary law",
+    "six-cloth marriage",
+    "appeal",
+    "real issue test",
+    "West African Court of Appeal",
+    "Privy Council",
+    "customary succession",
+    "estate distribution",
+    "valuation of estate",
+    "matrilineal succession",
+    "Land Court jurisdiction"
+  ],
+  "topics": [
+    "Jurisdiction",
+    "Customary Law",
+    "Succession",
+    "Land Law",
+    "Appellate Procedure"
+  ],
+  "verdict": "The appeal was allowed. The Judicial Committee of the Privy Council held that the dispute was a succession matter, not a land cause, and therefore the Land Court lacked jurisdiction. The decision of the West African Court of Appeal was set aside on jurisdictional grounds.",
+  "winningSide": "Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lord Cohen",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "Lord Oaksey"
+    },
+    {
+      "name": "Lord Tucker"
+    },
+    {
+      "name": "Lord Keith of Avonholm"
+    },
+    {
+      "name": "Mr L. M D. de Silva"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Judicial Committee of the Privy Council",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "(1934) 2 W.A.C.A. 180",
+    "(1939) 5 W.A.C.A. 35",
+    "(1941) 7 W.A.C.A. 204",
+    "Adu v. Dapaa, W.A.C.A., March 2, 1950, unreported",
+    "Vanderpuye v. Botchway, Eastern Judicial Division, October 30, 1945, unreported",
+    "Ashong v. Solomon, Eastern Judicial Division, June 28, 1935, unreported",
+    "Botchway v. Solomon, Eastern Judicial Division, December 7, 1935, unreported"
+  ],
+  "rationaleHighlights": [
+    "The real issue between the parties, not the pleading's wording, determines jurisdiction.",
+    "Succession cases include determination of shares, distribution, and valuation of estates.",
+    "Land causes are limited to ownership, possession, or occupation of land.",
+    "The 1945 Ordinance did not remove succession from Native Court jurisdiction.",
+    "A narrow reading of 'succession' would undermine customary law administration.",
+    "Jurisdiction must prevent overlapping appeals in Native and Land Courts.",
+    "Precedent from George Hagan v. Effuah Adum affirmed.",
+    "The test from Archie Kwow v. Ohene Essien Eku II applied: substance over form."
+  ],
+  "confidenceNotes": "The case is well-documented with multiple cited authorities and clear judicial reasoning. The jurisdictional issue was central and authoritatively resolved by the Privy Council, reinforcing precedents from the West African Court of Appeal.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/VANDER PUYE AND OTHERS v. BOTCHWAY..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:22:31.723Z",
+    "plainTextLength": 19310
+  }
+}

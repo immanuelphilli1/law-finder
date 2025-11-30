@@ -1,0 +1,77 @@
+{
+  "caseTitle": "RANSFORD OPOKU & ORS VRS. LIBHERR FRANCE SAS. PAUL JOOSTEN 23RD NOVEMBER, 2011 CIVIL APPEAL",
+  "summary": "The Supreme Court of Ghana dismissed the appeal filed by Ransford Opoku and others against Libherr France SAS and Paul Joosten, affirming the Court of Appeal's reversal of a trial court order for reinstatement. The appellant, a self-described whistleblower, was terminated after bringing police to the workplace without authorization and subsequently filing a redundancy claim. The trial court had ruled the termination amounted to contempt of court, but the Supreme Court held that the dismissal did not obstruct justice or prejudice the pending redundancy suit, as the claim did not hinge on continued employment. Relying on established principles, the Court emphasized that contempt requires actual interference with the subject matter of litigation and reaffirmed the need to narrowly interpret contempt powers to safeguard individual rights.",
+  "legalKeywords": [
+    "contempt of court",
+    "termination of employment",
+    "res litigandi",
+    "pending litigation",
+    "judicial obstruction",
+    "whistleblower",
+    "redundancy claim",
+    "court authority",
+    "employment rights",
+    "common law contempt"
+  ],
+  "topics": [
+    "Employment Law",
+    "Contempt of Court",
+    "Judicial Precedent",
+    "Redundancy Claims",
+    "Whistleblower Protection"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "W. A. Atuguba",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Dr. S. K. Date-Bah",
+      "role": "Justice"
+    },
+    {
+      "name": "J. Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "P. Baffoe Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "V. Akoto-Bamfo (Mrs.)",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Balogun v. Edusei (1938) 3 W.A.L.R 547",
+    "Dombo v. Narh 1970 CC 68",
+    "Republic v. Akenten II; Ex parte Yankyera (1993-94) 1 GLR 246 C.A.",
+    "Republic v. Eha II and Others; Ex parte Togobo & Others (2003-2005) 1 GLR 328 C.A.",
+    "Republic v. Mensa-Bonsu and Others; Exparte Attorney-General (1995-1996) 1 GLR 377",
+    "In re Effiduase Stool Affairs (No.2); Republic v. Numapau, President of the National House of Chiefs and Others; Ex parte Ameyaw II (No.2) (1998-99) SCGLR 639",
+    "Amaning alias Angu v. Angu II (1984-86) 1 GLR 309 C.A.",
+    "Republic v. High Court (Fast Track Division) Accra; Ex parte P P E Ltd & Paul Juric (2007-2008) SCGLR 188"
+  ],
+  "rationaleHighlights": [
+    "Termination of employment during pendency of suit does not constitute contempt if it does not affect the res litigandi.",
+    "The core issue was redundancy, not job reinstatement; thus termination did not prejudice the case outcome.",
+    "Courts must narrowly construe contempt powers to protect individual liberty.",
+    "Precedent distinguishes cases where the subject matter is destroyed (e.g., stool abolition) from those where it remains intact.",
+    "Parties retain rights to manage internal affairs even during litigation, provided they do not obstruct justice."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct quotes from the judgment and consistent legal reasoning across cited authorities.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/RANSFORD OPOKU & ORS VRS.   LIBHERR FRANCE SAS.  PAUL JOOSTEN  23RD NOVEMBER, 2011 CIVIL APPEAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:59:23.551Z",
+    "plainTextLength": 13869
+  }
+}

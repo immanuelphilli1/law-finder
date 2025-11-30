@@ -1,0 +1,86 @@
+{
+  "caseTitle": "THE REPUBLIC VRS NATIONAL HOUSE OF CHIEFS, KUMASI NII LARBI",
+  "summary": "This 2011 Supreme Court of Ghana decision in Civil Appeal No. J4/37/2010 involved a chieftaincy dispute between rival claimants to the Ablekuma Mantse stool. The appellant, Nii Larbie Mensah IV, was enstooled in 2000 and his name entered into the National Register of Chiefs in 2006. Adjin Tettey, the respondent, claimed prior recognition by a 1997 Ga Traditional Council judgment and sought mandamus to remove the appellant's name. The High Court and Court of Appeal granted relief, which the appellant challenged. The Supreme Court upheld the lower courts' decisions, emphasizing that the National House of Chiefs must act fairly and reasonably under Article 23 of the 1992 Constitution. It found that the insertion of the appellant’s name without inquiry into pending disputes violated administrative justice principles, and the absence of prior demand for relief was excused due to constitutional imperatives.",
+  "legalKeywords": [
+    "mandamus",
+    "chieftaincy dispute",
+    "National House of Chiefs",
+    "administrative justice",
+    "Article 23 Constitution",
+    "prior demand",
+    "judicial review",
+    "National Register of Chiefs",
+    "Ga Traditional Council",
+    "supervisory jurisdiction",
+    "constitutional conformity",
+    "standing order violation",
+    "fair hearing",
+    "rival claimants",
+    "administrative fairness",
+    "constitutional interpretation",
+    "prerogative writs",
+    "ex parte application",
+    "judicial committee",
+    "procedural fairness"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Administrative Law",
+    "Chieftaincy Disputes",
+    "Judicial Review",
+    "Supervisory Jurisdiction"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Atuguba, JSC.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ansa, JSC"
+    },
+    {
+      "name": "Owusu (Ms), JSC"
+    },
+    {
+      "name": "Gbadebe, JSC"
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs), JSC"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Republic (No. 2) v. National House of Chiefs, Ex parte Akrofa Krukoko II (Enimil VI) (No. 2) [2010] SCGLR 134",
+    "Republic v The President National House of Chiefs, Ex parte Akyeamfour II (1982-83) GLR 10 C.A",
+    "Donkor v. Wih (1989-90) 1 GLR 178 C.A",
+    "Kwakye v. Attorney-General (1981) GLR 9 S.C",
+    "Boyefio v N.T.H.C Properties Ltd. (1997-1998) 1 GLR 768",
+    "Accra Regional Complex Ltd. v. Lands Commission (2007-2008) SCGLR 108",
+    "In re Appenteng (Decd), Republic v. High Court, Accra; Ex parte Appenteng and Another (2005-2006) SCGLR 18"
+  ],
+  "rationaleHighlights": [
+    "The National House of Chiefs has a constitutional duty under Article 23 to act fairly and reasonably in administrative functions.",
+    "Prior demand for mandamus may be excused where constitutional rights to access justice are implicated.",
+    "The insertion of a chief's name into the National Register without inquiry into pending disputes violates principles of administrative justice.",
+    "Courts may grant alternative remedies beyond traditional prerogative writs under supervisory jurisdiction.",
+    "Pleadings were construed to allow an alternative case: either the respondent was the rightful chief or the dispute was still pending.",
+    "The National House of Chiefs must not act in a manner that prejudices ongoing chieftaincy disputes.",
+    "Separation between judicial and administrative roles of the Houses of Chiefs must be maintained.",
+    "Constitutional provisions override inconsistent common law requirements."
+  ],
+  "confidenceNotes": "The summary is based on a detailed judicial opinion from the Supreme Court of Ghana with clear articulation of facts, legal principles, and reasoning. All key elements including parties, court hierarchy, legal issues, and outcome are explicitly stated in the document. The case citation and bench composition are fully provided, enhancing reliability.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/THE REPUBLIC  VRS NATIONAL HOUSE OF CHIEFS, KUMASI NII LARBI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:57:27.930Z",
+    "plainTextLength": 17363
+  },
+  "trialDate": "2011-06-01"
+}

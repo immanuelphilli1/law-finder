@@ -1,0 +1,75 @@
+{
+  "caseTitle": "EMELIA MORKOR COMMODORE QUAYE v. AGRICULTURAL",
+  "summary": "In Emelia Morkor Commodore Quaye v. Agricultural Development Bank, the plaintiff sued the bank for general and special damages, alleging breach of duty of care that caused nervous shock and stroke due to unlawful arrest and detention by soldiers allegedly directed by the bank. The High Court entered judgment for the plaintiff after striking out the defendant's pleadings for non-compliance with a document production order, awarding substantial damages. The Court of Appeal found that the trial judge committed a serious procedural error by failing to afford the defendant a second opportunity to comply with Order 31 rule 9 before striking out its defense, thereby causing a substantial miscarriage of justice. The court held that such procedural rules are meant to narrow issues, not to silence litigants, and declared the judgment null and void. The appeal was allowed, and the case was remitted for a proper trial on the pleadings.",
+  "legalKeywords": [
+    "breach of duty of care",
+    "nervous shock",
+    "unlawful arrest",
+    "wrongful detention",
+    "trespass to the person",
+    "miscarriage of justice",
+    "procedural error",
+    "document production",
+    "Order 31 non-compliance",
+    "striking out pleadings",
+    "remittal for trial",
+    "general damages",
+    "special damages",
+    "procedural fairness",
+    "right to defend"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Tort Law",
+    "Unlawful Arrest",
+    "Judicial Error",
+    "Document Production"
+  ],
+  "verdict": "Appeal allowed; judgment set aside due to procedural irregularities.",
+  "winningSide": "Appellant (Agricultural Development Bank)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "P. K. Twumasi",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "K. Omari-Sasu",
+      "role": "Concurring Justice"
+    },
+    {
+      "name": "J. Ansa",
+      "role": "Concurring Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "CA/ NO 83/2000",
+    "High Court (Civil Procedure Rules, 1954 (LN 140 A))",
+    "Order 31",
+    "Order 32",
+    "Order 31 rule 9"
+  ],
+  "rationaleHighlights": [
+    "The trial judge erred in striking out the defendant's pleadings without giving them a second chance to comply with document production under Order 31 rule 9.",
+    "The action, though framed as negligence, was实质 a claim for trespass to the person via unlawful arrest and detention.",
+    "Judgment was entered without allowing the defendant opportunity to present its case, constituting a travesty of justice.",
+    "Orders 31 and 32 are meant to narrow issues, not to preclude defense.",
+    "The court found a substantial miscarriage of justice due to procedural irregularities.",
+    "The appeal was allowed and the case remitted for a fair trial on the pleadings.",
+    "A party cannot be compelled to produce a document it does not possess or denies possessing.",
+    "The trial judge misapplied procedural rules, leading to nullification of the judgment."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text with clear citations and factual reporting.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/EMELIA MORKOR COMMODORE QUAYE v. AGRICULTURAL DEVELOPMENT BANK, CEDI HOUSE ACCRA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:34:33.470Z",
+    "plainTextLength": 7066
+  },
+  "trialDate": "2002-06-27"
+}

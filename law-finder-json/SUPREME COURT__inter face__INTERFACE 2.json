@@ -1,0 +1,34 @@
+{
+  "caseTitle": "INTERFACE 2",
+  "summary": "The source document does not contain a legal decision but appears to be a navigational webpage listing years and subject matter for cases from the Supreme Court of Ghana. No case details, facts, or judicial reasoning are provided. As such, no substantive summary or analysis can be derived.",
+  "legalKeywords": [
+    "Ghana",
+    "Supreme Court",
+    "case index",
+    "legal database",
+    "undetermined case"
+  ],
+  "topics": [
+    "Case Index",
+    "Supreme Court",
+    "Legal Database"
+  ],
+  "verdict": "No verdict available due to incomplete data",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "unknown",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The provided document content is incomplete and appears to be a webpage index or menu of cases rather than a full legal decision. No substantive case information, such as parties, facts, judgment, or legal reasoning, is present.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/inter face/INTERFACE 2.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:28:37.264Z",
+    "plainTextLength": 186
+  }
+}

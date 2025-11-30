@@ -1,0 +1,64 @@
+{
+  "caseTitle": "CHUKWURA AKUNNE v MATTHIAS EKWUNO AND OTHERS",
+  "summary": "In this civil appeal before the West Africa Court of Appeal, the appellant, Chukwura Akunne, sued on behalf of his family for a declaration of title, damages for trespass, and an injunction against the respondents who had placed wine tappers on disputed land. The trial judge found that the respondents held the land under a special customary tenure allowing them to place tenants and tappers without the plaintiffs' repeated consent, and dismissed the claims for damages and injunction. The appellate court upheld this finding, noting that the evidence supported the existence of this customary arrangement and that the burden of proof lay with the plaintiff, who failed to meet it. The court also refused to consider objections to the admissibility of defense evidence (including witness testimony and exhibits) since no such objections were raised during the trial. The appeal was accordingly dismissed with costs.",
+  "legalKeywords": [
+    "customary tenure",
+    "declaration of title",
+    "trespass",
+    "injunction",
+    "onus of proof",
+    "admissibility of evidence",
+    "native law and custom",
+    "wine tappers",
+    "tribal land",
+    "farming tenancy"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Civil Procedure",
+    "Evidence Law",
+    "Trespass"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Foster-Sutton",
+      "role": "President"
+    },
+    {
+      "name": "De Comarmond",
+      "role": "Acting Chief Justice (Nigeria)"
+    },
+    {
+      "name": "Coussey",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "WACA/14",
+    "Native Courts' Ordinance, 1933, s 25(1)(c)",
+    "Evidence Ordinance, s 12(b)"
+  ],
+  "rationaleHighlights": [
+    "Special customary tenure was established by clear and cogent evidence.",
+    "Defendants were not trespassers due to rights under the customary agreement.",
+    "Plaintiff failed to discharge the onus of proof.",
+    "No objection at trial; therefore, inadmissibility of evidence not entertained on appeal."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment text.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/CHUKWURA AKUNNE  v MATTHIAS EKWUNO AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:41:34.599Z",
+    "plainTextLength": 7525
+  },
+  "trialDate": "1952-04-23"
+}

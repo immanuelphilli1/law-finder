@@ -1,0 +1,65 @@
+{
+  "caseTitle": "COFIE VERSUS BLAGOGEE.",
+  "summary": "In this consolidated land dispute heard by the Land Court in Accra, the plaintiff, Cofie, claimed ownership of land in the 'Brazilian' quarter based on a grant to his father, Cofie Congo, by the Ga Mantse, followed by long and effective occupation. The defendants, Ashong and Blagogee, claimed title through purchase from Nii Azuma III, Head of the Brazilian community. The court held that the Head of the Brazilian community had no authority to alienate portions of the land, as ownership was vested in individual families, not the community head. The plaintiff successfully proved title through his father's cultivation, marked by neem trees, and continuous possession. The court rejected the defendants' plea of estoppel based on the plaintiff's non-intervention in prior litigation, ruling that mere non-intervention does not constitute fraudulent conduct sufficient to invoke estoppel. The plaintiff was granted a declaration of title, recovery of possession, and damages for trespass.",
+  "legalKeywords": [
+    "land title",
+    "native law and custom",
+    "long occupation",
+    "estoppel",
+    "family land",
+    "Brazilian community",
+    "Ga Mantse",
+    "valid title",
+    "trespass",
+    "declaration of ownership",
+    "usufructuary title",
+    "non-intervention in litigation",
+    "prescriptive title",
+    "alienation of land",
+    "effective possession"
+  ],
+  "topics": [
+    "land law",
+    "customary law",
+    "title to land",
+    "estoppel",
+    "family inheritance"
+  ],
+  "verdict": "The plaintiff's claim was upheld. The court declared the defendants' titles invalid, affirmed the plaintiff's ownership through his father's long occupation and cultivation, and awarded recovery of possession and damages for trespass.",
+  "winningSide": "plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "van Lare J.",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Coussey J.",
+      "role": "cited judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Eastern Judicial Division, Land Court, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "Nii Azuma III v. Lariki Aruna (Land Court, Eastern Judicial Division, January 13, 1950, unreported)",
+    "Willmott v. Barber (1880) 15 Ch.D. 96",
+    "Amui v. Sabih"
+  ],
+  "rationaleHighlights": [
+    "Head of the Brazilian community cannot convey valid title to communal land as ownership lies with constituent families.",
+    "Continuous occupation and cultivation following a grant creates a valid, enforceable title under native law.",
+    "Estoppel does not apply merely due to non-intervention in prior litigation without fraudulent conduct.",
+    "Plaintiff's father acquired title through grant and long possession, which devolved to heirs.",
+    "Defendants' titles were invalid due to lack of authority in the grantor (Nii Azuma III)."
+  ],
+  "confidenceNotes": "The case is well-documented with clear judicial reasoning and citation of prior authorities. The ruling aligns with established native land law principles in Ghana, particularly regarding family ownership and limitations on communal leadership authority.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/COFIE v. BLAGOGEE..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:11:23.563Z",
+    "plainTextLength": 27569
+  }
+}

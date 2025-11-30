@@ -1,0 +1,88 @@
+{
+  "caseTitle": "ACTIONS IN RESPECT OF FOREIGN CURRENCY OBLIGATIONS [1987-88]",
+  "summary": "In Hungarotex Foreign Trading Company for Textiles v. Emmanuel Ofori-Boateng, a Ghanaian businessman defaulted on a US$86,250 debt owed to a Hungarian corporation for goods supplied under a 1979 contract. After partial payments and failed installment agreements, court proceedings began in 1984. The High Court entered a consent judgment requiring payment in cedis at the prevailing bank rate, later allowing installment payments. When the debtor sought to amend the judgment to fix the exchange rate at the date of breach, the High Court agreed, but the Court of Appeal reversed this, permitting conversion at the date of actual payment. The majority, citing changes in English law and Order 74 of the Civil Procedure Rules, held that Ghanaian courts could apply contemporary English practice in absence of local rules. They emphasized fairness in compensating creditors in fluctuating currency regimes. The dissent argued the court was bound by precedent from Societe Generale, which prohibited foreign currency judgments. The case raised key issues on whether foreign currency obligations should be converted at the date of breach or payment, ultimately favoring a rational, equitable approach aligned with modern principles.",
+  "legalKeywords": [
+    "foreign currency obligation",
+    "exchange rate",
+    "consent judgment",
+    "breach of contract",
+    "judgment debt",
+    "procedural rules",
+    "substantive law",
+    "damages",
+    "money of the forum",
+    "jurisdiction",
+    "conflict of laws",
+    "specific performance",
+    "equity",
+    "good conscience",
+    "creative adaptation",
+    "exchange control",
+    "date of payment",
+    "consent to judgment",
+    "precedent",
+    "rational legal system"
+  ],
+  "topics": [
+    "Contract Law",
+    "Conflict of Laws",
+    "Monetary Obligations",
+    "Judgment Enforcement",
+    "Exchange Control"
+  ],
+  "verdict": "The Court of Appeal allowed the plaintiff's appeal by a majority, holding that the exchange rate for converting the foreign currency debt into cedis should be determined at the date of actual payment, not at the date of breach.",
+  "winningSide": "Plaintiff (Hungarotex Foreign Trading Company for Textiles)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Amua-Sekyi JA",
+      "role": "majority opinion"
+    },
+    {
+      "name": "Abban JA",
+      "role": "majority opinion"
+    },
+    {
+      "name": "Osei-Hwere JA",
+      "role": "dissenting opinion"
+    },
+    {
+      "name": "Anin JSC",
+      "role": "judge in Societe Generale case"
+    },
+    {
+      "name": "Ansah-Twum J",
+      "role": "High Court judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Hungarotex Foreign Trading Company for Textiles v. Emmanuel Ofori-Boateng, CA, 13 November 1986",
+    "Societe Generale de Compensation v Ackerman [1972] 1 GLR 413",
+    "The Legal Aspect of Money (4th ed.) by Dr F A Mann",
+    "Dicey and Morris, The Conflict of Laws (11th ed.)",
+    "Courts Act, 1971 (Act 372)"
+  ],
+  "rationaleHighlights": [
+    "The Court of Appeal followed evolving English law allowing judgment in foreign currency and conversion at the date of payment.",
+    "Order 74 of the High Court (Civil Procedure) Rules permits reference to English practice where Ghanaian rules are silent.",
+    "The dissent argued that the court was bound by its prior decision in Societe Generale, which rejected foreign currency awards.",
+    "The proper date for exchange rate conversion should reflect when the judgment is actually satisfied to ensure fairness.",
+    "Rules on foreign currency judgments are substantive rather than purely procedural, affecting rights and liabilities.",
+    "Courts may creatively adapt foreign legal principles under Section 49(1)(g) of the Courts Act, 1971.",
+    "Creditor should be compensated based on the value of the currency at the time of actual payment.",
+    "Delay-related exchange losses should be borne by the defaulting party."
+  ],
+  "confidenceNotes": "The case details are drawn from a legal commentary with direct references to court judgments and authoritative texts. Dates, exchange rates, and procedural history are explicitly documented.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/87 - 88/ACTIONS IN RESPECT OF FOREIGN CURRENCY OBLIGATIONS [1987-88].htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:05:40.293Z",
+    "plainTextLength": 17671
+  },
+  "trialDate": "1984-10-31"
+}

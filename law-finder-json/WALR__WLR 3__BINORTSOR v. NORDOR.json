@@ -1,0 +1,68 @@
+{
+  "caseTitle": "BINORTSOR VERSUS NORDOR",
+  "summary": "In Binortsor v. Nordor, the plaintiff sought a declaration of title to land in a Native Court but failed to present oral evidence or witnesses, relying solely on written submissions and documents. The Native Court dismissed the claim, finding res judicata applied, a decision upheld by the Land Court. On appeal to the Court of Appeal, the plaintiff argued bias due to the Native Court president’s dual role as a State Council member with the defendant and claimed this inhibited his full presentation of the case. The Court of Appeal held that mere membership in the same council did not establish a real likelihood of bias under the nemo judex rule. It further ruled that the Land Court’s power under s. 50 of the Native Courts (Southern Ghana) Ordinance to order a retrial must be exercised judicially and only where there is material irregularity or miscarriage of justice, which was absent here. The appeal was dismissed.",
+  "legalKeywords": [
+    "res judicata",
+    "bias",
+    "nemo judex",
+    "appellate power",
+    "retrial",
+    "judicial disqualification",
+    "material irregularity",
+    "miscarriage of justice",
+    "Native Court",
+    "Land Court",
+    "section 50",
+    "procedural fairness",
+    "evidentiary sufficiency",
+    "quasi-judicial",
+    "technicality"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Civil Procedure",
+    "Land Law",
+    "Appellate Jurisdiction",
+    "Judicial Ethics"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu",
+      "role": "Judge"
+    },
+    {
+      "name": "Granville Sharp",
+      "role": "J.A."
+    },
+    {
+      "name": "Smith",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Cottle v. Cottle [1939] 2 All E.R. 535",
+    "R. v. Camborne Justices, ex parte Pearce [1955] 1 Q.B. 41",
+    "Hoystead v. Commissioner of Taxation [1926] A.C. 155"
+  ],
+  "rationaleHighlights": [
+    "No real likelihood of bias shown merely from shared council membership.",
+    "Appellate power to order retrial requires material irregularity or miscarriage of justice.",
+    "Failure to present sufficient evidence does not justify retrial.",
+    "Party's strategic choice to rely on submissions does not constitute procedural unfairness."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the case text with clear judicial reasoning and citations.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/BINORTSOR v. NORDOR.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:10:21.726Z",
+    "plainTextLength": 13607
+  }
+}

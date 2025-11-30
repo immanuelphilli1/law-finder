@@ -1,0 +1,69 @@
+{
+  "caseTitle": "BOAKYE ETC. v. AUTO ROUTE AND ORS. AND E. O. BOAKYE v.",
+  "summary": "The consolidated appeals arose from two High Court suits concerning ownership and development rights over Plot No. 86, Tema Motorway Industrial Area. The plaintiff, E.O. Boakye, claimed the plot was leased to him via Boakye and Company in 1977, but the Lands Commission re-leased it to Auto Route Limited in 1995 after alleging breach of development covenants. The trial court dismissed the plaintiff's claims, finding that the original lease was granted to Boakye and Darkwa Company, not Boakye and Company, thus the plaintiff lacked locus standi. The Court of Appeal upheld this, ruling that no valid amendment of lessee name occurred and that the Lands Commission lawfully re-entered the property under NRCD 175. The plaintiff’s appeal on grounds of improper re-entry notice and unlawful arrest was dismissed due to insufficient evidence and lack of standing.",
+  "legalKeywords": [
+    "locus standi",
+    "re-entry",
+    "forfeiture",
+    "lease agreement",
+    "Conveyancing Decree NRCD 175",
+    "registered post notice",
+    "burden of proof",
+    "estoppel",
+    "title to land",
+    "counter-claim"
+  ],
+  "topics": [
+    "Land Law",
+    "Procedural Fairness",
+    "Appellate Review",
+    "Property Rights",
+    "Judicial Remedies"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Defendants (Auto Route Limited and the Attorney-General)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ansa, JA",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Essilfie-Bondzie, JA",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Twumasi, JA",
+      "role": "Panel Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "E. O. Boakye v. Auto Route and Ors. and E. O. Boakye v. The Attorney-General (Consolidated) [18/05/00] CA No. 127/99",
+    "Spokesman (Publication) Ltd. v. Attorney-General 1974 1 GLR 88",
+    "Read v. Brown 1888 22 QBD 128",
+    "Ghana Ports and Harbour Authority v. Issoufou 1991 1 GLR 50",
+    "Mussey v. Darko 1977 1 GLR 147"
+  ],
+  "rationaleHighlights": [
+    "The plaintiff lacked locus standi because the lease was granted to Boakye and Darkwa Company, not Boakye and Company.",
+    "No documentary evidence supported the alleged amendment of the lessee’s name.",
+    "Re-entry by the Lands Commission required compliance with NRCD 175, particularly service of notice via registered post.",
+    "Mere production of notice copies without proof of delivery (e.g., postal receipt) fails to discharge the burden of proof.",
+    "The court affirmed that re-entry is not automatic and must follow statutory procedure.",
+    "Amendment of suit titles is permissible only with supporting evidence and explanation, which were absent here.",
+    "The plaintiff failed to prove unlawful arrest or damages due to lack of standing and evidence."
+  ],
+  "confidenceNotes": "High confidence; all information is directly derived from the judgment text, with clear references to evidence, legal provisions, and judicial reasoning.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/E. O. BOAKYE ETC. v. AUTO ROUTE AND ORS. AND E. O. BOAKYE v. THE ATTORNEY-GENERAL (CONSOLIDATED).htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:37:42.497Z",
+    "plainTextLength": 38961
+  },
+  "trialDate": "1998-11-09"
+}

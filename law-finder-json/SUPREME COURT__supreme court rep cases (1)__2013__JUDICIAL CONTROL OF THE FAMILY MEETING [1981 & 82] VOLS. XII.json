@@ -1,0 +1,71 @@
+{
+  "caseTitle": "In Allotey v. Quarcoo1 the",
+  "summary": "This legal commentary examines the extent of judicial control over customary law family meetings in Ghana, focusing on Allotey v. Quarcoo, where a family head challenged his deposition by a family council. The Court of Appeal held that while families have broad autonomy in internal matters, courts may intervene where there is a complete or substantial denial of justice. A valid deposition requires a properly convened meeting with due notice, opportunity to be heard, and a decision by majority vote. Although courts generally defer to family decisions, they retain a supervisory role to ensure compliance with fundamental procedural fairness. The case affirms that while the merits of a family's decision are not reviewable unless pleaded, the procedural validity of the meeting and decision remains subject to judicial scrutiny. This principle distinguishes customary family governance from strictly non-justiciable statutory bodies, allowing limited but essential judicial oversight to uphold natural justice.",
+  "legalKeywords": [
+    "customary law",
+    "family meeting",
+    "deposition of family head",
+    "natural justice",
+    "judicial intervention",
+    "family autonomy",
+    "majority vote",
+    "due notice",
+    "fundamental principles of justice",
+    "customary property law",
+    "head of family",
+    "tribal governance",
+    "procedural fairness",
+    "domestic jurisdiction",
+    "void decisions"
+  ],
+  "topics": [
+    "Customary Law",
+    "Judicial Review",
+    "Family Governance",
+    "Natural Justice",
+    "Property Law"
+  ],
+  "verdict": "The Court of Appeal upheld the family's decision to depose the plaintiff, ruling that the meeting continued and reached a valid decision after his departure, and that the trial court had overstepped by reviewing the merits of the decision.",
+  "winningSide": "Defendants (family council)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Woodman Gordon R.",
+      "role": "author of legal commentary"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court and Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "customary law",
+  "citations": [
+    "Allotey v. Quarcoo",
+    "Kwakye v. Attorney-General",
+    "Akenten v. Dapaah",
+    "Fordjour v. Kusi",
+    "Yeboah v. Arhin",
+    "Re Katahena and Dzuali",
+    "Barima v. Acquah",
+    "Frimpong v. Anane",
+    "Quagraine v. Edu",
+    "Abakah v. Ambradu"
+  ],
+  "rationaleHighlights": [
+    "Courts will not interfere with family decisions unless there is a complete or substantial denial of justice.",
+    "A valid family meeting requires due notice, representation of principal members, and a majority decision.",
+    "The burden shifts to the challenger once a valid meeting and decision are established.",
+    "Judicial role is limited to verifying procedural compliance, not the merits of the decision.",
+    "Family autonomy is respected, but not absolute, especially in extreme cases of injustice.",
+    "Deposition must follow customary procedures, including opportunity to respond to charges.",
+    "Courts must determine if a deposition occurred, even if they do not review its substance.",
+    "Statutory non-justiciability differs from customary law, where limited review is permitted."
+  ],
+  "confidenceNotes": "The case analysis is based on a scholarly commentary summarizing Allotey v. Quarcoo and related precedents; original judgments are unreported but widely cited in legal literature.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2013/JUDICIAL CONTROL OF THE FAMILY MEETING [1981 & 82] VOLS. XII.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:32:57.813Z",
+    "plainTextLength": 12178
+  }
+}

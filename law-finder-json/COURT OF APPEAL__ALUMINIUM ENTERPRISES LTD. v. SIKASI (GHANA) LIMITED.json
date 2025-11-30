@@ -1,0 +1,77 @@
+{
+  "caseTitle": "ALUMINIUM ENTERPRISES LTD. v. SIKASI (GHANA) LIMITED",
+  "summary": "This Court of Appeal decision in Aluminium Enterprises Ltd. v. Sikasi (Ghana) Limited concerns a civil appeal from a lower court's handling of a summary judgment application under Order 14 of the High Court (Amendment) Rules, LI 1129. The plaintiff, Aluminium Enterprises Ltd., sought a refund of DM 102,589.92 paid to the defendant, Sikasi (Ghana) Limited, for plant and machinery. The defendant admitted receiving the funds but claimed the plaintiff’s Managing Director directed their use to offset an existing debt. The Court of Appeal set aside the summary judgment granted in favor of the plaintiff, emphasizing that the defendant had raised a legitimate factual dispute requiring a full trial. The court criticized procedural delays and improper use of supplementary affidavits, reinforcing that Order 14 applications must be used cautiously and only when no genuine issue exists for trial.",
+  "legalKeywords": [
+    "summary judgment",
+    "Order 14",
+    "High Court rules",
+    "affidavit",
+    "sham defense",
+    "trial necessity",
+    "procedural delay",
+    "inherent jurisdiction",
+    "cross-examination",
+    "pleadings",
+    "defense",
+    "application timing",
+    "supplementary affidavit",
+    "good faith",
+    "director duties"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Contract Law",
+    "Corporate Governance"
+  ],
+  "verdict": "The appeal was allowed. The summary judgment previously granted to the plaintiff was set aside, and the matter remitted for a full trial to determine the factual dispute over the use of funds.",
+  "winningSide": "Appellant (Sikasi (Ghana) Limited)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "GBADEGBE, JA.",
+      "role": "Delivering the judgment"
+    },
+    {
+      "name": "BADDOO, JA",
+      "role": "Presiding"
+    },
+    {
+      "name": "ANSAH, JA"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Mclardy v. Slateum (1890) 2 QB 504",
+    "Davis v. Spence (1876) I.C.P.D. 719",
+    "Ray v. Barker (1879) 4 EX.D 279",
+    "Jacobs v. Booth’s Distillery Co. (1901) 85 LT 262",
+    "Raymond v. M anders (1913) Supreme Court Practice",
+    "Miles v. Bruce (1969) 1QB 258",
+    "High Court (Amendment) Rules, LI 1129",
+    "Order 14 Rule 3(1)",
+    "Order 14 Rule 5(1)",
+    "Order 25 Rule 4"
+  ],
+  "rationaleHighlights": [
+    "A summary judgment under Order 14 is inappropriate when a defendant raises a genuine factual dispute, especially involving internal company transactions.",
+    "Filing a defense before a summary judgment application does not automatically bar the application, but the plaintiff must justify the delay.",
+    "The court emphasized strict adherence to procedural rules, cautioning against the misuse of supplementary affidavits in summary proceedings.",
+    "The defendant’s claim that the Managing Director directed fund usage constitutes a triable issue, necessitating discovery and cross-examination.",
+    "Courts must ensure Order 14 is not used to deprive a defendant of their right to a trial where there is a legitimate defense.",
+    "The trial court failed to exercise proper procedural oversight, allowing unnecessary delays and procedural irregularities.",
+    "Even with an admission of receipt, equitable and factual issues may require a full trial.",
+    "Order 14 should be applied narrowly to avoid undermining the defendant’s right to contest claims through full adversarial process."
+  ],
+  "confidenceNotes": "The judgment is clear and well-reasoned, with strong reliance on precedent and procedural rules. All key details are drawn directly from the provided text, with citations properly extracted. Confidence is high in accuracy and completeness.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/ALUMINIUM ENTERPRISES LTD. v. SIKASI (GHANA) LIMITED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:45:58.625Z",
+    "plainTextLength": 18695
+  },
+  "trialDate": "4TH MAY 2000"
+}

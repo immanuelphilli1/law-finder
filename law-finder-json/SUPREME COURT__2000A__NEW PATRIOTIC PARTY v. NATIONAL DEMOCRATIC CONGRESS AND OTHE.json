@@ -1,0 +1,92 @@
+{
+  "caseTitle": "NEW PATRIOTIC PARTY v. NATIONAL DEMOCRATIC CONGRESS AND OTHE",
+  "summary": "The New Patriotic Party filed a constitutional action seeking to prevent the National Democratic Congress from nominating two civil servants as parliamentary candidates, arguing that their nomination violated Article 94(3)(b) of the 1992 Constitution, which disqualifies civil servants from being members of Parliament. The Supreme Court dismissed the case as premature, holding that a mere intention to nominate does not constitute an actionable 'act' under Article 2(1)(b) of the Constitution. The Court emphasized that jurisdiction to challenge the eligibility of parliamentary candidates lies with the High Court through an election petition under Article 99(1)(a) and Section 16 of PNDCL 284, not via pre-election enforcement actions in the Supreme Court. The ruling reaffirmed that specific constitutional remedies must be followed, and the Supreme Court's general enforcement jurisdiction cannot override procedurally prescribed forums.",
+  "legalKeywords": [
+    "constitutional violation",
+    "cause of action",
+    "premature suit",
+    "judicial jurisdiction",
+    "election petition",
+    "eligibility to parliament",
+    "civil servant disqualification",
+    "Article 94(3)(b)",
+    "Article 2(1)(b)",
+    "Article 99(1)(a)",
+    "PNDCL 284",
+    "C.I. 15",
+    "nomination challenge",
+    "justiciability",
+    "separation of powers",
+    "enforcement jurisdiction",
+    "High Court jurisdiction",
+    "Supreme Court jurisdiction",
+    "constitutional interpretation",
+    "declaratory relief"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Election Law",
+    "Judicial Review",
+    "Separation of Powers",
+    "Civil Service"
+  ],
+  "verdict": "Dismissed",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Mrs. Bamford-Addo",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ampiah",
+      "role": "Justice"
+    },
+    {
+      "name": "Kpegah",
+      "role": "Justice"
+    },
+    {
+      "name": "Acquah",
+      "role": "Justice"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Constitutional Motion",
+  "citations": [
+    "Article 2(1)(b), 1992 Constitution",
+    "Article 94(3)(b), 1992 Constitution",
+    "Article 99(1)(a), 1992 Constitution",
+    "PNDCL 284, Section 16",
+    "C.I. 15, Rule 7(4)",
+    "Yeboah v. J.H. Mensah (1998-99) SC GLR 492",
+    "Edusei v. Attorney-General (1996-97) SC GLR 1",
+    "Kennedy v. Thomas (1894) 2 QB 759",
+    "Attorney General v. Avon Corporation (1863) E.R. 782"
+  ],
+  "rationaleHighlights": [
+    "A mere intention to nominate does not constitute an actionable 'act' under Article 2(1)(b).",
+    "The Supreme Court lacks jurisdiction over premature claims where no cause of action has accrued.",
+    "Challenges to parliamentary eligibility must be brought via election petition in the High Court under Article 99(1)(a).",
+    "Specific constitutional remedies override general enforcement jurisdiction.",
+    "Article 94(3)(b) sets qualifications but is not self-enforcing; enforcement occurs indirectly through election petitions.",
+    "The High Court is the exclusive forum for post-election disputes on validity and eligibility.",
+    "A prematurely filed suit cannot be validated by subsequent events.",
+    "The framers intended specific remedies for specific constitutional violations."
+  ],
+  "confidenceNotes": "The document is a full ruling from the Supreme Court of Ghana with clear judicial reasoning, citations, and named judges. All key elements including parties, legal provisions, and procedural history are present. The summary and data extraction are based on a complete and authoritative judicial text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2000A/NEW PATRIOTIC PARTY v. NATIONAL DEMOCRATIC CONGRESS AND OTHE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:48:30.815Z",
+    "plainTextLength": 148039
+  },
+  "trialDate": "2000-11-21"
+}

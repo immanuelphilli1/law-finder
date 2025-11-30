@@ -1,0 +1,85 @@
+{
+  "caseTitle": "KOTEY v. PETER KOFI KOLETEY",
+  "summary": "In Joseph Kotey v. Peter Kofi Koletey, the Supreme Court of Ghana considered an application for special leave to appeal under Article 131(2) of the 1992 Constitution, filed out of time after the applicant missed the 14-day window to seek leave from the Court of Appeal. The applicant attributed the delay to his lawyer's failure to timely apply for leave, having instead pursued a stay of execution. The Court reaffirmed its unfettered discretion under Article 131(2) and Rule 7(4) of C.I. 16 to grant special leave despite procedural delays, citing the need to prevent a failure of justice. Relying on Dolphyne v. Speedline Stevedoring, the Court emphasized that special leave may be granted where there is a prima facie error, a novel legal issue, or public interest. It held that while finality in litigation is important, litigants should not be unduly penalized for counsel's mistakes, especially when justice so requires. The application was granted based on the merits and equitable considerations.",
+  "legalKeywords": [
+    "special leave to appeal",
+    "Article 131(2)",
+    "Rule 7(4) C.I. 16",
+    "prima facie error",
+    "substantial question of law",
+    "public interest",
+    "delay in appeal",
+    "counsel's mistake",
+    "judicial discretion",
+    "finality of litigation",
+    "failure of justice",
+    "extension of time",
+    "stay of execution",
+    "unfettered discretion",
+    "principles of natural justice"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Appellate Procedure",
+    "Judicial Discretion",
+    "Delay in Legal Proceedings",
+    "Legal Error"
+  ],
+  "verdict": "Application for special leave to appeal granted.",
+  "winningSide": "Applicant (Joseph Kotey)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Mrs. J. Bamford-Addo",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Kpegah",
+      "role": "Justice"
+    },
+    {
+      "name": "Adjabeng",
+      "role": "Justice"
+    },
+    {
+      "name": "Acquah",
+      "role": "Justice"
+    },
+    {
+      "name": "Atuguba",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Article 131(2), 1992 Constitution of Ghana",
+    "Rule 7(4), C.I. 16",
+    "Imbeah v. Ababio (2000) SC GLR 259",
+    "Dolphyne (No.2) v. Speedline Stevedoring Co. Ltd. (1996-97) SC. GLR 373",
+    "Nimoh v. Dadzie (1962) GLR 327",
+    "Allen v. Sir Alfred Mac Alpine and Sons Ltd. (1968) 2 QB 299",
+    "Agyilihav v. Tayee (1975) 1 GLR 433",
+    "Darkwa and Others v. Kwabi IV (1992-93) GBR. P.380",
+    "Ratnam v. Cumarasamy (1965) 1 WLR 8 PC",
+    "Revici v. Prentice Hall Incorporated (1969) 1 WLR 157 CA"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court has unfettered discretion under Article 131(2) to grant special leave to appeal, even where time limits have expired.",
+    "Delay caused by counsel's error does not automatically disqualify an applicant if justice so requires.",
+    "The Court must balance the need for finality in litigation against the prevention of a failure of justice.",
+    "Prima facie errors on the face of the record and public interest in legal clarity support granting special leave.",
+    "The principles in Dolphyne v. Speedline guide the exercise of discretion in special leave applications."
+  ],
+  "confidenceNotes": "The document is a ruling from the Supreme Court of Ghana and contains direct legal reasoning, citations, and procedural details. All extracted information is highly reliable and directly sourced from the judgment.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2000A/JOSEPH KOTEY  v. PETER KOFI KOLETEY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:52:53.380Z",
+    "plainTextLength": 63990
+  },
+  "trialDate": "2000-11-08"
+}

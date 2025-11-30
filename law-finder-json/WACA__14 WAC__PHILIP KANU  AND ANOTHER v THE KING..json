@@ -1,0 +1,66 @@
+{
+  "caseTitle": "PETER UDOCHORO VERSUS THE KING.",
+  "summary": "In this 1952 West African Court of Appeal case from Nigeria, appellants Philip Kanu and Peter Udochoro were convicted of the murder of Joseph Ogbe, stemming from a land dispute between their village and the deceased's. Both appellants made detailed confessions to the police after being properly cautioned, which they later retracted at trial, claiming they were not the statements they had made. The trial judge found the confessions voluntary and corroborated. The appellants appealed, arguing that a conviction for murder cannot be based solely on an uncorroborated confession. The appellate court upheld the convictions, holding that while a confession alone may be sufficient if free and voluntary, it was here supported by confirmatory circumstances: the prior wounding of a villager, the appellants going out armed at night, the blood-stained matchet produced by the first appellant, the nature of the fatal wound, and inculpatory statements made by the second appellant implicating the first. The court emphasized the importance of some external corroboration to establish the truth of a confession, citing Rex v. Sykes and Rex v. Ajayi Omokaro. The appeals were dismissed.",
+  "legalKeywords": [
+    "confession",
+    "corroboration",
+    "murder",
+    "voluntary statement",
+    "judges' rules",
+    "extra-judicial confession",
+    "circumstantial evidence",
+    "criminal liability",
+    "land dispute",
+    "police procedure"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence Law",
+    "Appellate Review",
+    "Confession Admissibility",
+    "Murder Trial"
+  ],
+  "verdict": "Conviction upheld",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Coussey",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Verity",
+      "role": "Chief Justice (Nigeria)"
+    },
+    {
+      "name": "Jibowu",
+      "role": "Acting Senior Puisne Judge (Nigeria)"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Nigeria"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Rex v. Ajayi Omokaro, 7 W.A.C.A. 146",
+    "Rex v. Sykes, 1913, 8 Cr. A.R. 233"
+  ],
+  "rationaleHighlights": [
+    "A voluntary and consistent confession can be sufficient for conviction if supported by some confirmatory circumstances.",
+    "Corroboration need not be substantial but must make the confession probable.",
+    "The appellants' confessions were confirmed before a superior officer and found to be freely made.",
+    "External facts such as the blood-stained matchet, prior village conflict, and armed presence at the scene corroborated the confessions.",
+    "Medical evidence confirmed the wound was consistent with a matchet strike from the side, matching the confession.",
+    "The trial judge disbelieved the appellants' retractions and credited the prosecution witnesses.",
+    "The court applied principles from Rex v. Sykes requiring that confessions be tested against opportunity, consistency, and plausibility."
+  ],
+  "confidenceNotes": "High confidence; all details are directly extracted from the judgment text, including citations, judicial reasoning, and procedural history.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/PHILIP KANU  AND ANOTHER v THE KING..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:32:58.801Z",
+    "plainTextLength": 13466
+  },
+  "trialDate": "1952-02-07"
+}

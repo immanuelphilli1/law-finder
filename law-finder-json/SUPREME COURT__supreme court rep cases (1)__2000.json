@@ -1,0 +1,45 @@
+{
+  "caseTitle": "AND OTHERS v. NANA GYAKORANG ADU",
+  "summary": "The provided document is a table of unreported cases from the Supreme Court of Ghana for the year 2000. It lists various case titles, their corresponding case numbers, and hearing or judgment dates. The cases cover a range of legal matters including chieftaincy disputes, constitutional law issues, civil motions, and criminal proceedings. However, no detailed judgments, reasoning, or outcomes are included in this document, limiting the ability to extract in-depth legal analysis or verdicts. The document serves primarily as a case index rather than a repository of judicial decisions.",
+  "legalKeywords": [
+    "Supreme Court",
+    "unreported cases",
+    "Ghana",
+    "constitutional law",
+    "chieftaincy dispute",
+    "civil motion",
+    "criminal proceeding",
+    "judgment date",
+    "case index",
+    "judicial decision",
+    "Attorney-General",
+    "High Court",
+    "constitutional petition",
+    "writ",
+    "case number"
+  ],
+  "topics": [
+    "Legal Index",
+    "Judicial System",
+    "Case Management"
+  ],
+  "verdict": "unknown",
+  "winningSide": "unknown",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Index of Cases",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The source document only contains a list of cases with minimal details. No full judgments or legal reasoning are present, so most fields are inferred conservatively. Confidence in verdict, winning side, and rationale is low due to lack of content.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2000.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:49:58.936Z",
+    "plainTextLength": 2056
+  },
+  "trialDate": "2000-02-09"
+}

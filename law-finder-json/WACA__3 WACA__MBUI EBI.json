@@ -1,0 +1,75 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This case involved a claim for damages for trespass to land and an injunction, raising the issue of whether the High Court had original jurisdiction under section 9(b) of the Protectorate Courts Ordinance, 1933. The West Africa Court of Appeal was asked to interpret the phrase 'title to land or any interest therein.' The court held that the phrase means 'title to land or as to the title to any interest therein, i.e., in land,' affirming that suits raising issues about title to any interest in land are excluded from the High Court's original jurisdiction where the matter falls within native court jurisdiction. The court relied on the ordinary meaning of the words and drew an analogy to the English case Rex v French (1902) 1 K.B. 637, which supported this interpretation. The appeal was resolved by affirming the proper scope of jurisdiction, and costs were awarded to the defendants.",
+  "legalKeywords": [
+    "title to land",
+    "interest in land",
+    "trespass to land",
+    "injunction",
+    "jurisdiction",
+    "native court",
+    "Protectorate Courts Ordinance",
+    "section 9(b)",
+    "original jurisdiction",
+    "case stated",
+    "appeal",
+    "statutory interpretation",
+    "Rex v French",
+    "interest therein",
+    "land dispute",
+    "civil remedy",
+    "costs",
+    "Order in Council",
+    "Gold Coast",
+    "Sierra Leone",
+    "Nigeria"
+  ],
+  "topics": [
+    "Land Law",
+    "Jurisdiction",
+    "Statutory Interpretation",
+    "Native Courts",
+    "Appellate Procedure"
+  ],
+  "verdict": "The court interpreted section 9(b) to exclude from the High Court's original jurisdiction any suit raising issues about the title to land or any interest in land, affirming the jurisdictional bar where native courts have authority.",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "The King v. French and Others (1902) 1 K.B. 637",
+    "Protectorate Courts Ordinance, 1933, s 9(b)",
+    "Native Courts Ordinance, 1933, s 25"
+  ],
+  "rationaleHighlights": [
+    "The phrase 'title to land or any interest therein' must be interpreted as 'title to land or title to any interest in land'.",
+    "The ordinary meaning of the words supports the interpretation that issues about interests in land fall under the jurisdictional bar.",
+    "The English case Rex v French (1902) supports this construction by analogy.",
+    "The court rejected the alternative interpretation that 'interest therein' refers to interest in the title to land."
+  ],
+  "confidenceNotes": "The interpretation is based on a clear judicial analogy to an English precedent and unambiguous statutory language. The court explicitly rejects one interpretation in favor of the other.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/MBUI EBI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:18:19.965Z",
+    "plainTextLength": 3993
+  },
+  "trialDate": "1936-04-24"
+}

@@ -1,0 +1,69 @@
+{
+  "caseTitle": "ANKWANDAH VERSUS GWIRA STATE COUNCIL.",
+  "summary": "The case of Ankwandah v. Gwira State Council, decided on April 28, 1956, by the Supreme Court of the Gold Coast, addressed the jurisdiction of State Councils under the State Councils (Colony and Southern Togoland) Ordinance, c. 8 of 1952. The applicant was fined £20 by the Gwira State Council for failing to attend destoolment proceedings, which the Council claimed was an offence under section 26 of the Ordinance and also a breach of native customary law. The applicant sought certiorari to quash the conviction, arguing the Council lacked jurisdiction. The court held that the Council had no authority to convict in criminal matters under section 26, as the Ordinance did not confer such jurisdiction. It further ruled that even if the matter were constitutional, the imposition of a fine was impermissible under section 9, which prohibits State Councils from imposing fines. The application for certiorari succeeded, and the conviction and fine were quashed.",
+  "legalKeywords": [
+    "jurisdiction",
+    "State Council",
+    "certiorari",
+    "native customary law",
+    "criminal offence",
+    "constitutional matter",
+    "fine",
+    "destoolment",
+    "State Councils Ordinance",
+    "procedural law",
+    "judicial review",
+    "offence under ordinance",
+    "customary award",
+    "imprisonment",
+    "witness attendance",
+    "constitutional proceedings",
+    "legal authority",
+    "penalty",
+    "court powers",
+    "native law"
+  ],
+  "topics": [
+    "Administrative Law",
+    "Constitutional Law",
+    "Customary Law",
+    "Criminal Law",
+    "Judicial Review"
+  ],
+  "verdict": "The application for certiorari was granted and the conviction was quashed.",
+  "winningSide": "Applicant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Windsor-Aubrey J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast, Western Judicial Division, Divi­sional Court, Sekondi",
+    "country": "Ghana"
+  },
+  "caseType": "Judicial Review / Constitutional Law",
+  "citations": [
+    "State Councils (Colony and Southern Togoland) Ordinance, c. 8 of 1952, s. 5(3)",
+    "State Councils (Colony and Southern Togoland) Ordinance, c. 8 of 1952, s. 9",
+    "State Councils (Colony and Southern Togoland) Ordinance, c. 8 of 1952, s. 26"
+  ],
+  "rationaleHighlights": [
+    "State Councils lack jurisdiction over criminal offences under the Ordinance.",
+    "Section 26 violation is a criminal, not constitutional, matter.",
+    "Section 5(3) allows procedural use of native customary law but not adjudication of offences under it.",
+    "Section 9 prohibits State Councils from imposing fines.",
+    "The penalty imposed was a fine, not a customary award.",
+    "Certiorari is appropriate to quash proceedings beyond jurisdiction.",
+    "Destoolment is constitutional, but non-attendance is not.",
+    "Jurisdictional limits must be strictly observed by administrative bodies."
+  ],
+  "confidenceNotes": "The source is a verbatim transcript of a judicial decision from a recognized legal database with clear citation details and judicial reasoning. All extracted information is directly supported by the text.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/ANKWANDAH v. GWIRA STATE COUNCIL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:42:31.729Z",
+    "plainTextLength": 5379
+  }
+}

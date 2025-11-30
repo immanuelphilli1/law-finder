@@ -1,0 +1,68 @@
+{
+  "caseTitle": "C E O LAGOS V BELO RAJI",
+  "summary": "This appeal concerned a restrictive covenant in a lease stipulating that the land be used for 'residential purposes only.' The appellant, the Chairman of the Lagos Executive Development Board, alleged that the respondent, Belo Raji, breached this covenant by using part of the premises as a mosque. The trial judge dismissed the claim, finding that the use of the house for prayers by invited family and friends did not constitute a breach. The West Africa Court of Appeal allowed the appeal, holding that the trial judge misdirected himself on key factual issues: first, in asserting that residential use was clearly established despite evidence that the main hall was primarily used for prayers and sleeping arrangements were confined to two rooms; second, in concluding that only invitees attended, when evidence showed that any Muslim could attend and gatherings regularly included 30\u001340 people, with one instance of 200 attendees. The court emphasized that a mosque is simply a place of worship for Muslims, requiring no formal dedication or registration. Given the scale and nature of the use, the appellate court held that the property was being used substantially for non-residential purposes, constituting a breach of the covenant. The case was remitted for the defence to be heard or for re-hearing.",
+  "legalKeywords": [
+    "restrictive covenant",
+    "lease agreement",
+    "residential use",
+    "breach of covenant",
+    "mosque",
+    "place of worship",
+    "misdirection in law",
+    "factual findings",
+    "prayer meetings",
+    "invited attendees",
+    "building plan",
+    "devotions",
+    "dedication",
+    "registration",
+    "appeal allowed"
+  ],
+  "topics": [
+    "Property Law",
+    "Lease Agreements",
+    "Restrictive Covenants",
+    "Religious Use of Property",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed; case remitted for defence to be heard or re-hearing.",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Butler Lloyd",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    },
+    {
+      "name": "Brooke",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "WACA/5 WACA/C E O LAGOS V BELO RAJI"
+  ],
+  "rationaleHighlights": [
+    "Use of property for regular prayer meetings with dozens to hundreds of attendees breaches residential-only covenant.",
+    "Inclusion of a 'prayer hall' in original building plans indicates non-residential intent.",
+    "No requirement to prove formal dedication or registration for a space to be considered a mosque.",
+    "Trial judge misdirected on facts by claiming residential use was clear despite evidence of predominant religious use.",
+    "Open attendance, even if by invitation, does not negate public character of gatherings."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment text with clear factual support.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/C E O LAGOS V BELO RAJI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:50:24.930Z",
+    "plainTextLength": 6624
+  },
+  "trialDate": "1939-10-31"
+}

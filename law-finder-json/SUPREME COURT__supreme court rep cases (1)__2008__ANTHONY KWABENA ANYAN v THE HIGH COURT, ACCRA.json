@@ -1,0 +1,86 @@
+{
+  "caseTitle": "ANTHONY KWABENA ANYAN v THE HIGH COURT, ACCRA",
+  "summary": "The Supreme Court of Ghana dismissed an application by Anthony Kwabena Anyan seeking certiorari to quash part of a High Court ruling that he had no interest in property attached in execution. The applicant, a sub-lessee under Edward Nassar & Co. Ltd, claimed the attached land was not the one subject to judgment and asserted ownership via a 99-year lease. The High Court had ruled the execution was wrongful and further held the applicant's interest lapsed when the head lease expired in 2007. The Supreme Court held that by initiating interpleader proceedings, the applicant placed his title in issue, thus authorizing the trial court to rule on it. It found no jurisdictional error or excess, emphasizing that certiorari applies only to patent legal errors rendering decisions nullities. The proper remedy for non-jurisdictional errors is appeal. The court also corrected the case title to 'The Republic v High Court, Accra; Ex-parte: Anthony Kwabena Anyan' under Article 129(4) to align with standard practice. The application was dismissed.",
+  "legalKeywords": [
+    "supervisory jurisdiction",
+    "certiorari",
+    "interpleader",
+    "jurisdictional error",
+    "excess of jurisdiction",
+    "interest in property",
+    "leasehold agreement",
+    "execution of judgment",
+    "nullity",
+    "affidavit of interest",
+    "High Court Rules",
+    "Order 48",
+    "Article 132",
+    "Article 129",
+    "substantial justice"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Civil Procedure",
+    "Property Law",
+    "Judicial Review",
+    "Leasehold Interests"
+  ],
+  "verdict": "The application for certiorari was dismissed for lack of jurisdictional error; the High Court acted within its authority in ruling on the applicant's interest in the property.",
+  "winningSide": "The High Court, Accra (Respondent)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Owusu, (Ms) J.S.C.",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Akuffo, (Ms) J.S.C.",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Date-Bah, J.S.C.",
+      "role": "panel member"
+    },
+    {
+      "name": "Adinyira, (Mrs) J.S.C.",
+      "role": "panel member"
+    },
+    {
+      "name": "Dotse, J.S.C.",
+      "role": "panel member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Article 132, 1992 Constitution of Ghana",
+    "Article 129(4), 1992 Constitution of Ghana",
+    "OKOFOH ESTATES LTD VRS MODERN SIGNS LTD (1996-97) SCGLR 224",
+    "BRITISH AIRWAYS VRS ATTORNEY-GENERAL (1996-97) SCGLR 547",
+    "REPUBLIC VRS THE COURT OF APPEAL; EX-PARTE: TSATSU TSIKATA (2005-2006) SCGLR",
+    "REPUBLIC VRS HIGH COURT, ACCRA; EX-PARTE APPIAH AND OTHERS [2000] SCGLR 389",
+    "REPUBLIC VRS HIGH COURT, ACCRA; EX-PARTE: INDUSTRIALIZATION FUND FOR DEVELOPING COUNTRIES AND ANOTHER [2003-4] SCGLR 348",
+    "REPUBLIC VRS HIGH COURT, ACCRA; EX-PARTE: CHRAJ [2003-2004] SCGLR 312"
+  ],
+  "rationaleHighlights": [
+    "The Supreme Court has supervisory jurisdiction under Article 132 to correct jurisdictional errors in lower courts.",
+    "Certiorari lies only for patent, obvious errors of law going to jurisdiction that render a decision a nullity.",
+    "In interpleader proceedings, a claimant puts their title in issue, making it legitimate for the court to rule on it.",
+    "The trial judge acted within jurisdiction in assessing the applicant's interest in the property.",
+    "Where no jurisdictional error exists, the proper remedy is appeal, not certiorari.",
+    "The applicant's lease could not exceed the term of the head lease, which expired in 2007.",
+    "The court corrected the case title to conform with standard constitutional practice.",
+    "The application was dismissed as ill-conceived due to lack of jurisdictional defect."
+  ],
+  "confidenceNotes": "The summary is based on a full judicial ruling from the Supreme Court of Ghana with clear legal reasoning and citations. All key elements including jurisdiction, parties, legal issues, and outcome are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2008/ANTHONY KWABENA ANYAN v THE HIGH COURT, ACCRA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:55:58.771Z",
+    "plainTextLength": 16034
+  },
+  "trialDate": "2008-12-10"
+}

@@ -1,0 +1,73 @@
+{
+  "caseTitle": "PRECLUDING ORDER 14 JUDGMENT WITH A COUNTERCLAIM [1981 & 82]",
+  "summary": "This legal commentary examines whether a defendant can prevent summary judgment under Order 14 of the Rules of Court by raising a counterclaim that exceeds but is unrelated to the plaintiff's claim. It analyzes two key Ghanaian cases: Inspector-Plastico Moulds Ltd. v. Atico Ltd., where Amissah J.A. granted summary judgment despite a larger counterclaim, and Accra Furniture and Rubber Foam Co., Ltd. v. Indart S.P./A. of Rome, where the Court of Appeal set aside summary judgment, citing a plausible counterclaim for breach of contract. The author argues that the latter decision does not necessarily overturn the former, emphasizing that equitable set-off requires a connection between claims. The piece clarifies that while every set-off is a counterclaim, not every counterclaim qualifies as a set-off, and procedural fairness must balance judicial efficiency against the risk of injustice.",
+  "legalKeywords": [
+    "Order 14",
+    "summary judgment",
+    "counterclaim",
+    "set-off",
+    "equitable set-off",
+    "genuine triable issue",
+    "liquidated claim",
+    "unliquidated damages",
+    "pleadings",
+    "affidavit evidence",
+    "mutuality",
+    "defence",
+    "procedural fairness",
+    "judicial economy",
+    "cross-action",
+    "stay of execution"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Counterclaim",
+    "Summary Judgment",
+    "Set-off",
+    "Ghanaian Jurisprudence"
+  ],
+  "verdict": "In Accra Furniture and Rubber Foam Co., Ltd. v. Indart S.P./A. of Rome, the Court of Appeal set aside the grant of summary judgment, holding that the existence of a plausible counterclaim, even if unliquidated and potentially exceeding the plaintiff's claim, required a trial on the merits.",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Amissah J.A.",
+      "role": "trial judge"
+    },
+    {
+      "name": "Apaloo J.A.",
+      "role": "appellate judge"
+    },
+    {
+      "name": "Lassey J.A.",
+      "role": "appellate judge"
+    },
+    {
+      "name": "Archer J.A.",
+      "role": "appellate judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Inspector-Plastico Moulds Ltd. v. Atico Ltd.",
+    "Accra Furniture and Rubber Foam Co., Ltd. v. Indart S.P./A. of Rome",
+    "Court v. Sheen"
+  ],
+  "rationaleHighlights": [
+    "Summary judgment under Order 14 should not be precluded solely because a defendant raises a larger, unrelated counterclaim.",
+    "A counterclaim may act as a defence only if it is connected to the plaintiff's claim or falls within equitable set-off principles.",
+    "The Court of Appeal in Accra Furniture case set aside summary judgment due to a plausible, albeit unproven, counterclaim in breach of contract.",
+    "Affidavit evidence can establish claims under Order 14, and similarly, a defendant may seek summary judgment on a counterclaim under Order 14, r.12."
+  ],
+  "confidenceNotes": "The analysis is based on a legal commentary discussing case law rather than a full court judgment; citations are derived from the text provided.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2013/PRECLUDING ORDER 14 JUDGMENT WITH A COUNTERCLAIM [1981 & 82].htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:28:37.468Z",
+    "plainTextLength": 33676
+  }
+}

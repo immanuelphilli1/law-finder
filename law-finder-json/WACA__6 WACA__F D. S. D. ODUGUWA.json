@@ -1,0 +1,63 @@
+{
+  "caseTitle": "IN THE MATTER OF THE ESTATE OF D",
+  "summary": "In this 1940 West African Court of Appeal case concerning the estate of D. S. D. Odugua, the appellants (John Holt & Co.) sought an order under Order 51 Rule 2 of the Rules of the Supreme Court for the Deputy Sheriff to seize and secure the deceased's property. The lower court refused, ruling the rule applied only to property outside the court's jurisdiction. The appellate court held that the rule conferred power on the Supreme Court to act regarding property within its jurisdiction, interpreting 'any court' broadly. However, as Letters of Administration had already been granted to the widow, the appeal was dismissed as moot, though the court clarified the legal error in the lower court's jurisdictional interpretation.",
+  "legalKeywords": [
+    "probate",
+    "letters of administration",
+    "deputy sheriff",
+    "property seizure",
+    "jurisdiction",
+    "supreme court rules",
+    "Order 51 Rule 2",
+    "estate administration",
+    "court discretion",
+    "appellate ruling"
+  ],
+  "topics": [
+    "Probate Law",
+    "Jurisdiction",
+    "Court Procedure",
+    "Estate Administration",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed with costs, but lower court's legal interpretation on jurisdiction corrected.",
+  "winningSide": "Respondent (Janet Adenike Odugua, as Administratrix)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "probate",
+  "citations": [
+    "Order 51 Rule 2 of the Rules of Supreme Court"
+  ],
+  "rationaleHighlights": [
+    "Order 51 Rule 2 empowers the Supreme Court to appoint an officer for property within its jurisdiction",
+    "The phrase 'any court' is broad and includes the Supreme Court",
+    "It would be absurd for the Supreme Court to act outside jurisdiction but not within",
+    "The lower court judge had the power but exercised discretion due to pending administration application",
+    "Appeal dismissed as moot due to grant of Letters of Administration"
+  ],
+  "confidenceNotes": "The document is a clear appellate judgment from the West African Court of Appeal, with identifiable judges and procedural context. The interpretation of Order 51 Rule 2 is authoritatively stated.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/F D. S. D. ODUGUWA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:07:39.130Z",
+    "plainTextLength": 3970
+  },
+  "trialDate": "1940-04-11"
+}

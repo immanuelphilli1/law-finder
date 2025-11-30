@@ -1,0 +1,111 @@
+{
+  "caseTitle": "NCHONAH v APPIAH",
+  "summary": "This consolidated civil judgment from the Ghanaian High Court (Sekondi) on 26 May 1989, presided over by Adjabeng J, encompasses multiple personal injury and property damage claims arising from motor vehicle accidents. The cases include Nchonah v Appiah, Mensah v General Development Company Ltd (GDC Ltd), and Hammond v GDC Ltd. Awards are detailed across various plaintiffs, with compensation calculated for loss of earnings, pain and suffering, medical expenses, disfigurement, loss of amenities, and permanent disability. Notable awards include GHS 453,200 to the dependants of a deceased 32-year-old employee, GHS 2,000,000 to a professional driver who lost an arm, and GHS 1,410,000 to another driver who underwent leg amputation. Injuries range from fractures and dislocations to amputations and vision loss, with disability assessments from 15% to 80%. The court recognizes both formal and herbal medical treatments, and awards account for agricultural, commercial, and transportation livelihoods. Property damage claims include income-earning vehicles, with one award of GHS 900,000 made on an arbitrary basis due to unproven daily returns. The decisions reflect established principles of tort law in Ghana, emphasizing full compensation for past and future losses.",
+  "legalKeywords": [
+    "personal injury",
+    "loss of dependency",
+    "pain and suffering",
+    "loss of earnings",
+    "permanent incapacity",
+    "disfigurement",
+    "general damages",
+    "special damages",
+    "loss of amenities",
+    "motor vehicle accident",
+    "medical expenses",
+    "prospective earnings",
+    "costs award",
+    "consolidated actions",
+    "civil liability",
+    "tort law",
+    "compensation",
+    "disability assessment",
+    "agricultural livelihood",
+    "commercial vehicle loss"
+  ],
+  "topics": [
+    "Personal Injury",
+    "Compensation",
+    "Tort Law",
+    "Motor Vehicle Accidents",
+    "Disability"
+  ],
+  "verdict": "Plaintiffs awarded damages across multiple consolidated cases for personal injury and property loss due to negligence.",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adjabeng J",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Williams J",
+      "role": "Judge"
+    },
+    {
+      "name": "Dove J",
+      "role": "Judge"
+    },
+    {
+      "name": "Farkye J",
+      "role": "Judge"
+    },
+    {
+      "name": "Sarpong J",
+      "role": "Judge"
+    },
+    {
+      "name": "Piesare Ag J",
+      "role": "Judge"
+    },
+    {
+      "name": "Lartey J",
+      "role": "Judge"
+    },
+    {
+      "name": "Essilfie-Bondzie J",
+      "role": "Judge"
+    },
+    {
+      "name": "Benin J",
+      "role": "Judge"
+    },
+    {
+      "name": "Lutterodt J",
+      "role": "Judge"
+    },
+    {
+      "name": "Ampiah JA",
+      "role": "Appellate Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court / High Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "NCHONAH v APPIAH; MENSAH v GENERAL DEVELOPMENT COMPANY LTD (GDC LTD); HAMMOND AND ANOTHER v GDC LTD (CONSOLIDATED) [1989] GHSC 89-90",
+    "ADU v HISSON [1989] GHLR 12",
+    "BELLA v AMANKRAH [1990] GHLR 45",
+    "KABUNGA v AMOH [1990] GHLR 67",
+    "QUAYE v LARTEY [1989] GHLR 33"
+  ],
+  "rationaleHighlights": [
+    "Awards based on age, income, extent of disability, and impact on livelihood",
+    "Loss of expectation of life considered in fatal injury cases",
+    "Cosmetic disfigurement and loss of amenities factored into damages",
+    "Herbal treatment and extended outpatient care recognized in compensation",
+    "Loss of manhood and psychological impact acknowledged in damage assessment",
+    "Arbitrary awards applied where daily returns unproven but loss of use established",
+    "Dependents' needs considered in dependency calculations"
+  ],
+  "confidenceNotes": "Multiple consolidated cases reported under one heading; factual details extracted from individual plaintiff summaries. Awards and injuries are clearly itemized per plaintiff. Jurisdiction and court level confirmed as Ghanaian Supreme Court and High Court decisions.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/89 - 90/NCHONAH v APPIAH MENSAH v GENERAL DEVELOPMENT COMPANY LTD (G.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:55:24.936Z",
+    "plainTextLength": 14708
+  },
+  "trialDate": "1989-05-26"
+}

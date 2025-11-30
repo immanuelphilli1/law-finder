@@ -1,0 +1,63 @@
+{
+  "caseTitle": "CUSTOMARY OFFENCES AND THE COURTS [1991-92] VOL. XVIII RGL 3",
+  "summary": "This legal commentary by Justice Acquah G. K. examines the historical development and judicial treatment of customary offences in Ghana. It traces the evolution from pre-colonial indigenous justice systems, where chiefs held judicial authority over customary taboos and offences, through British colonial reforms including the Bond of 1844 and subsequent ordinances that limited but preserved native jurisdiction. The paper highlights that while serious crimes were transferred to British judicial officers, native courts retained authority over specified customary offences—provided they were not repugnant to natural justice, equity, and good conscience. The author discusses various examples of customary offences, such as invoking fetishes, adultery under Dagomba custom, and disrespecting oaths or chiefs, and reviews key cases where such matters were adjudicated. The analysis underscores the tension between traditional authority and formal legal systems, and raises questions about the legitimacy and enforceability of certain customs within modern jurisprudence.",
+  "legalKeywords": [
+    "customary law",
+    "native courts",
+    "jurisdiction",
+    "repugnancy doctrine",
+    "traditional authority",
+    "judicial power",
+    "criminal offences",
+    "fetish",
+    "adultery",
+    "oath",
+    "tribal taboo",
+    "British colonial law",
+    "Bond of 1844",
+    "Native Jurisdiction Ordinance",
+    "Supreme Court Ordinance 1876"
+  ],
+  "topics": [
+    "Customary Law",
+    "Judicial Jurisdiction",
+    "Colonial Legal History",
+    "Repugnancy Doctrine",
+    "Traditional Authority"
+  ],
+  "verdict": "The paper does not present a court verdict but concludes that courts should cautiously exercise jurisdiction over customary offences, ensuring compliance with constitutional and human rights standards.",
+  "winningSide": "N/A",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Acquah G. K.",
+      "role": "author"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Billa v Salifu",
+    "Aguah v Effee",
+    "Beddomassoo v Bossoo",
+    "Oppon v Ackinie",
+    "R v Essel",
+    "Native Tribunal of Elmina v Mensah"
+  ],
+  "rationaleHighlights": [
+    "Courts must assess whether customary practices are repugnant to natural justice, equity and good conscience",
+    "Colonial-era laws preserved limited jurisdiction for chiefs over customary offences",
+    "Supreme Court Ordinance 1876 did not abolish native judicial powers",
+    "Certain customary offences were codified for native courts"
+  ],
+  "confidenceNotes": "The document is a legal commentary rather than a direct court judgment, so case details are reported second-hand but with clear citation to primary sources.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/91- 92/CUSTOMARY OFFENCES AND THE COURTS [1991-92] VOL. XVIII RGL 3.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:51:47.686Z",
+    "plainTextLength": 110015
+  }
+}

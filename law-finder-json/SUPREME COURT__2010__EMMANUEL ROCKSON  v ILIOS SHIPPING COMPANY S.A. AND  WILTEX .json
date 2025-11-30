@@ -1,0 +1,78 @@
+{
+  "caseTitle": "EMMANUEL ROCKSON v ILIOS SHIPPING COMPANY S.A. AND WILTEX",
+  "summary": "In Emmanuel Rockson v Ilios Shipping Company S.A. and Wiltex Ltd., the plaintiff, a mariner injured aboard the M/V Dynamic while docked in Beirut, sought compensation under a collective insurance policy. The case reached the Ghanaian Supreme Court on appeal after the Court of Appeal reversed a High Court ruling that had dismissed a preliminary strike-out application. The Supreme Court found that the plaintiff's writ of summons was a nullity because it failed to disclose a cause of action, contrary to the mandatory requirements of Order 2 Rule 1 of the High Court (Civil Procedure) Rules 1954. Relying on the precedent in Republic v High Court, Tema; Ex parte Owners of MV Esco Spirit [2003-2004] SCGLR 689, the Court held that a writ lacking a substantive claim is invalid and cannot support any legal proceedings. Despite the plaintiff's assertion of a workmen's compensation claim, the Court dismissed the appeal due to the fatal procedural defect, without addressing jurisdictional or limitation issues.",
+  "legalKeywords": [
+    "writ of summons",
+    "cause of action",
+    "nullity",
+    "jurisdiction",
+    "workmen's compensation",
+    "maritime injury",
+    "P & I claim",
+    "limitation decree",
+    "estoppel per rem judicatam",
+    "service outside jurisdiction",
+    "seaman employment agreement",
+    "collective insurance policy",
+    "High Court Civil Procedure Rules",
+    "Order 2 Rule 1",
+    "Order 11 Rule 1(g)",
+    "Order 12 Rule 24"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Maritime Law",
+    "Insurance Law",
+    "Judicial Precedent",
+    "Nullity of Legal Process"
+  ],
+  "verdict": "The appeal was dismissed due to the nullity of the writ of summons for failure to disclose a cause of action.",
+  "winningSide": "Defendants/Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "S. A. B. Akuffo",
+      "role": "Justice"
+    },
+    {
+      "name": "J. Anin Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "J. Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "P. Baffoe-Bonnie",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Republic v High Court, Tema; Ex parte Owners of MV Esco Spirit (Darya Shipping SA Interested Party) [2003-2004] SCGLR 689",
+    "Okofoh Estates v Modern Signs Ltd. [1996-97] SCGLR 224"
+  ],
+  "rationaleHighlights": [
+    "The writ of summons was a nullity because it failed to disclose a cause of action as required by Order 2 Rule 1 of the High Court (Civil Procedure) Rules 1954.",
+    "The Supreme Court relied on Republic v High Court, Tema; Ex parte Owners of MV Esco Spirit [2003-2004] SCGLR 689, which established that a writ not endorsed with a substantive claim is a nullity.",
+    "The plaintiff's supplementary submissions failed to address the fundamental defect in the writ.",
+    "Even pending motions to amend the writ do not cure the existing nullity.",
+    "The appeal was dismissed without considering other grounds due to the fatal flaw in the writ."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from official Supreme Court judgment text.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/EMMANUEL ROCKSON  v ILIOS SHIPPING COMPANY S.A. AND  WILTEX .htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:48:52.848Z",
+    "plainTextLength": 12219
+  },
+  "trialDate": "2010-02-10"
+}

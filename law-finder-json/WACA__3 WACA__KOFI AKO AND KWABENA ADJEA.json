@@ -1,0 +1,66 @@
+{
+  "caseTitle": "KOFI AKO AND KWABENA ADJEA",
+  "summary": "The West Africa Court of Appeal considered an objection to the jurisdiction of the Tribunal of the Paramount Chief of Akwapim in a case involving the succession to property of a deceased person domiciled in Akwapim but owning land in Dodowa, outside the chief's territorial jurisdiction. The court held that under Section 43(1)(g) of the Native Administration Ordinance, the tribunal had jurisdiction to determine succession matters where the deceased was domiciled within its state, regardless of the location of the land. The court distinguished this case from prior rulings where the central issue was land ownership. Since the primary issue here was succession under customary law, and expert evidence on Guan succession practices was presented, the objection was overruled.",
+  "legalKeywords": [
+    "jurisdiction",
+    "succession",
+    "customary law",
+    "Native Administration Ordinance",
+    "land ownership",
+    "paramount chief",
+    "tribunal",
+    "domicile",
+    "property devolution",
+    "expert evidence",
+    "Guan Division",
+    "Section 43(1)(g)",
+    "objection to jurisdiction"
+  ],
+  "topics": [
+    "jurisdiction",
+    "customary law",
+    "succession",
+    "land disputes",
+    "appellate review"
+  ],
+  "verdict": "Objection to jurisdiction overruled.",
+  "winningSide": "Plaintiffs-Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webber",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Amma Dua and Others v. Kwaku Kwamina and Others"
+  ],
+  "rationaleHighlights": [
+    "The Tribunal of the Paramount Chief of Akwapim has jurisdiction over succession matters involving a deceased person domiciled in its state, even if the land is situated outside the state.",
+    "Section 43(1)(g) of the Native Administration Ordinance supports this jurisdiction.",
+    "Distinction made between cases primarily about land ownership versus those about succession.",
+    "The case was treated as one of succession, with expert evidence on Guan customary law considered.",
+    "Objection overruled due to the nature of the case being succession, not land title."
+  ],
+  "confidenceNotes": "The jurisdictional issue was resolved based on a clear distinction between land ownership disputes and succession matters under customary law. The court's interpretation of Section 43(1)(g) of the Native Administration Ordinance is pivotal and well-reasoned.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/KOFI AKO AND KWABENA ADJEA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:21:17.823Z",
+    "plainTextLength": 3098
+  },
+  "trialDate": "1936-05-05"
+}

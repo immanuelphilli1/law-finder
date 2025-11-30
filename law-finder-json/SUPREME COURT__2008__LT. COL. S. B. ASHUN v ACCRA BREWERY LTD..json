@@ -1,0 +1,75 @@
+{
+  "caseTitle": "LT. COL. S. B. ASHUN v ACCRA BREWERY LTD.",
+  "summary": "The Supreme Court of Ghana dismissed the appeal by Lt. Col. S. B. Ashun against Accra Brewery Ltd., holding that his acceptance of a severance package after being declared redundant constituted a valid compromise agreement, extinguishing any claim for wrongful termination. The Court clarified that a contract of employment does not guarantee tenure until retirement and that damages for wrongful termination are limited to a reasonable period for finding new employment, subject to mitigation. It rejected the argument that paragraphs 34 and 35 of the Labour (Amendment) Decree 1969, NLCD 342 imposed a duty to negotiate severance in redundancy cases, noting those provisions apply only to organizational closure or amalgamation. With no statutory or express contractual redundancy clause, the severance payment was deemed based on implied terms. The Court upheld the Court of Appeal’s reversal of the trial court’s judgment, finding no unlawful or wrongful termination due to mutual agreement via acceptance of the package.",
+  "legalKeywords": [
+    "contract of employment",
+    "wrongful termination",
+    "redundancy",
+    "severance pay",
+    "duty to negotiate",
+    "mitigation of damages",
+    "implied terms",
+    "compromise agreement",
+    "unilateral termination",
+    "public law provisions"
+  ],
+  "topics": [
+    "Employment Law",
+    "Contract Law",
+    "Redundancy",
+    "Severance Pay",
+    "Wrongful Dismissal"
+  ],
+  "verdict": "Appeal dismissed.",
+  "winningSide": "Accra Brewery Ltd.",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "S. K. Date-Bah",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "J. Ansa",
+      "role": "Justice"
+    },
+    {
+      "name": "R. C. Owusu",
+      "role": "Justice"
+    },
+    {
+      "name": "J. V. M. Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Nartey-Tokoli v Volta Aluminium Company [1987-88] 2 GLR 532",
+    "Hemans v GNTC [1978] GLR 4",
+    "Ghana Cocoa Marketing Board v Agbettor & Ors [1984-86] 1 GLR 122",
+    "Labour (Amendment) Decree 1969, NLCD 342",
+    "Labour Act, 2003 (Act 651)"
+  ],
+  "rationaleHighlights": [
+    "A contract of employment does not guarantee employment until retirement; wrongful termination entitles employee to damages, not full future salary.",
+    "Acceptance of severance package constitutes a compromise agreement, barring further claims unless accepted under protest.",
+    "Paragraphs 34 and 35 of NLCD 342 do not impose a duty to negotiate in redundancy cases, only in organizational closure or amalgamation.",
+    "No statutory or contractual redundancy provisions applied; payment was based on implied terms.",
+    "Duty of mitigation applies; employee must seek alternative employment after termination."
+  ],
+  "confidenceNotes": "All key details including parties, court level, judgment outcome, and legal principles are explicitly stated in the judgment. Citations are directly quoted or authoritatively referenced.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2008/LT. COL. S. B. ASHUN v ACCRA BREWERY LTD..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:14:52.609Z",
+    "plainTextLength": 15023
+  },
+  "trialDate": "2008-11-12"
+}

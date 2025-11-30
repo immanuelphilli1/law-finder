@@ -1,0 +1,70 @@
+{
+  "caseTitle": "REX V YAW PREPRAH",
+  "summary": "The West African Court of Appeal allowed the appeal of three appellants—Yaw Preprah, Lawani Alagbede, and Cansa Kuda—convicted in the Supreme Court for conspiracy to commit forgery, forgery, and uttering a promissory note. The prosecution alleged a meeting in Koforidua where the appellants conspired to forge a note making the complainant the debtor. The defense claimed the note was genuine, arising from a legitimate loan. The appellate court found grave doubts in the evidence: the complainant had submitted to judgment in a prior civil suit on the same note, suggesting its validity; the key witness delayed reporting the plot and failed to inform the complainant despite cohabitation; and the prosecution relied on uncorroborated accomplice testimony. The trial judge's favorable summing up for the appellants was noted. The court held that the verdict was unreasonable and unsupported by evidence, potentially constituting a miscarriage of justice. Accordingly, the convictions were quashed, and acquittals entered for all three appellants.",
+  "legalKeywords": [
+    "conspiracy to commit forgery",
+    "forgery",
+    "uttering",
+    "miscarriage of justice",
+    "unreasonable verdict",
+    "accomplice evidence",
+    "corroboration",
+    "trial by jury",
+    "promissory note",
+    "alteration of document",
+    "civil judgment",
+    "credibility of witnesses",
+    "summing up",
+    "ex-convict",
+    "money doubling"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Review",
+    "Evidence",
+    "Forgery",
+    "Miscarriage of Justice"
+  ],
+  "verdict": "Convictions quashed; acquittals entered.",
+  "winningSide": "Appellants",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Cor. Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "C. J. Yates",
+      "role": "Justice"
+    },
+    {
+      "name": "Barton",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Rice, 20 Cr. App. R.p. 21",
+    "West African Court of Appeal Ordinance, s 10(1)"
+  ],
+  "rationaleHighlights": [
+    "The Court found grave doubts about the credibility of the prosecution's evidence, particularly regarding the alleged meeting to forge the promissory note.",
+    "The civil judgment obtained by the first appellant prior to the criminal case suggested legitimacy of the promissory note.",
+    "The delay in reporting the alleged conspiracy (from Nov 1934 to Jan 1936) and failure to inform the complainant raised suspicion.",
+    "The prosecution's key witness lived with the complainant but never disclosed the plot, undermining reliability.",
+    "The trial judge's summing up favored the appellants, a factor the appellate court considered significant.",
+    "The prosecution failed to corroborate accomplice testimony, as legally required.",
+    "The alleged alteration of the promissory note's date was not a valid basis for conviction, as the charge was broadly for November 1934."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment, including procedural history, legal reasoning, and outcome.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX V   YAW PREPRAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:59:00.324Z",
+    "plainTextLength": 7423
+  }
+}

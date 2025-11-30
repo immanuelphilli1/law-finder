@@ -1,0 +1,87 @@
+{
+  "caseTitle": "NAZIRE ABED v CHARLES LABA",
+  "summary": "In NAZIRE ABED v CHARLES LABA, the Ghanaian Court of Appeal upheld a High Court judgment awarding damages to the plaintiff who was assaulted at a nightclub. The plaintiff, using crutches due to a recent knee surgery, was attacked by the defendant without provocation. The trial judge found that the defendant initiated a physical confrontation by slapping and assaulting the plaintiff, which constituted battery. The appellate court affirmed that the findings were supported by credible, uncontradicted evidence and that the award of general and aggravated damages was justified, particularly under the 'you take your victim as you find him' principle. The court rejected the argument for nominal damages, citing foreseeability of harm and the aggravating circumstances of the assault. The appeal was dismissed with costs awarded to the respondent.",
+  "legalKeywords": [
+    "battery",
+    "assault",
+    "tort",
+    "damages",
+    "aggravated damages",
+    "special damages",
+    "general damages",
+    "nominal damages",
+    "restitutio in integrum",
+    "pleading",
+    "foreseeability",
+    "scuffle",
+    "trespass to the person",
+    "plaintiff",
+    "defendant",
+    "evidence",
+    "corroboration",
+    "appellate review",
+    "findings of fact",
+    "compensation",
+    "victim rule",
+    "Court of Appeal",
+    "High Court",
+    "jurisprudence",
+    "legal principle",
+    "judgment"
+  ],
+  "topics": [
+    "Tort Law",
+    "Battery",
+    "Damages",
+    "Appellate Review",
+    "Evidence"
+  ],
+  "verdict": "Appeal dismissed; judgment and damages affirmed",
+  "winningSide": "Plaintiff/Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "H. Abban (Mrs.)",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Julius Ansa",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "J. B. Akamba",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "tort",
+  "citations": [
+    "NAZIRE ABED v CHARLES LABA [30/04/2004] H1/95/2004",
+    "Cole vrs. Turner {1706} 6 Mod. 149",
+    "Wilson vrs. Pringle [1986] 2 AER 440",
+    "Susque Lava case [1926] A.C. 665",
+    "Rookes vrs. Barnavd {1964} A.C. 1129",
+    "Broome vrs. Cassel & Co. Ltd. {1972} A. C. 102"
+  ],
+  "rationaleHighlights": [
+    "The trial judge's findings were consistent with uncontradicted evidence.",
+    "Battery does not require proof of injury, only unwanted physical contact.",
+    "The 'you take your victim as you find him' principle applies due to the plaintiff's pre-existing condition.",
+    "Aggravated damages were justified by the time, place, and manner of the assault.",
+    "Special damages must be pleaded, but general and aggravated damages were properly awarded here.",
+    "The appeal court upheld the trial court's factual findings and damage assessment.",
+    "Nominal damages were inappropriate given the proven harm and aggravating factors.",
+    "Costs were awarded to the respondent as the prevailing party."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on clear judicial reasoning and citation of established legal principles.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/NAZIRE ABED v CHARLES LABA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:12:55.618Z",
+    "plainTextLength": 8658
+  },
+  "trialDate": "2004-04-30"
+}

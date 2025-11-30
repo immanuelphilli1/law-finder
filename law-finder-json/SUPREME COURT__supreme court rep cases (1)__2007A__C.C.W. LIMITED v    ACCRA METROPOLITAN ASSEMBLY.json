@@ -1,0 +1,83 @@
+{
+  "caseTitle": "C.C.W. LIMITED v ACCRA METROPOLITAN ASSEMBLY",
+  "summary": "In C.C.W. Limited v Accra Metropolitan Assembly, the Supreme Court of Ghana considered the validity and termination of a 1997 service agreement for waste management services. The Plaintiff, C.C.W. Limited, claimed breach of contract after the Defendant, Accra Metropolitan Assembly (AMA), terminated the agreement in 2001. The High Court found the contract was not signed under duress but was executed in violation of statutory procurement procedures under the Local Government Act, 1993 (Act 462), including failure to involve the District Tender Board and obtain required approvals. The Supreme Court upheld that non-compliance with mandatory statutory provisions rendered the agreement unenforceable, despite absence of duress. It held that public bodies cannot rely on their own procedural breaches to escape contractual obligations unless such breaches go to illegality. However, the Court affirmed termination due to failure to meet condition precedent—execution of a financing agreement with parliamentary approval under the Loans Act, 1970 (Act 335). The Plaintiff’s claims for payment and damages were dismissed, while AMA’s counterclaim for declarations of illegality was allowed in part.",
+  "legalKeywords": [
+    "breach of contract",
+    "public procurement",
+    "statutory compliance",
+    "condition precedent",
+    "duress",
+    "unenforceable contract",
+    "parliamentary approval",
+    "Local Government Act",
+    "Loans Act",
+    "sovereign guarantee",
+    "tender board",
+    "illegal contract",
+    "estoppel",
+    "municipal liability",
+    "contract termination",
+    "financial oversight",
+    "public policy",
+    "corporate governance",
+    "waste management contract",
+    "government contracts"
+  ],
+  "topics": [
+    "Contract Law",
+    "Administrative Law",
+    "Public Procurement",
+    "Municipal Governance",
+    "Constitutional Law"
+  ],
+  "verdict": "The appeal was dismissed; the termination of the contract was upheld due to illegality and non-fulfillment of a condition precedent.",
+  "winningSide": "Accra Metropolitan Assembly",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Miss Akuffo"
+    },
+    {
+      "name": "Ansaah"
+    },
+    {
+      "name": "Aninakwah"
+    },
+    {
+      "name": "Asiamah"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Local Government Act, 1993 (Act 462)",
+    "Loans Act, 1970 (Act 335)",
+    "Companies Code, 1963 (Act 179)",
+    "Constitution of Ghana, 1992, Article 181"
+  ],
+  "rationaleHighlights": [
+    "The contract was not signed under duress but violated mandatory procurement laws.",
+    "Non-compliance with Section 39 and Section 87 of Act 462 undermined the legality of the agreement.",
+    "Failure to obtain parliamentary approval for financing rendered a key condition precedent unfulfilled.",
+    "A public body cannot benefit from its own failure to follow statutory procedures unless the contract is fundamentally illegal.",
+    "The absence of General Assembly approval invalidated the contractual commitment.",
+    "The Supreme Court emphasized adherence to rule of law in public financial management.",
+    "Estoppel was considered but not applied due to illegality.",
+    "The agreement was deemed unenforceable despite partial performance."
+  ],
+  "confidenceNotes": "The summary is based on a truncated document; however, key holdings and legal reasoning are clearly stated in the available portion. The outcome aligns with established principles of Ghanaian administrative and contract law regarding public procurement and condition precedent.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2007A/C.C.W. LIMITED v    ACCRA METROPOLITAN ASSEMBLY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T18:00:24.243Z",
+    "plainTextLength": 58597
+  },
+  "trialDate": "2007-05-04"
+}

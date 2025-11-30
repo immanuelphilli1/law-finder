@@ -1,0 +1,72 @@
+{
+  "caseTitle": "FELIX UGOCHUKWU OGU VRS THE REPUBLIC, Criminal Appeal, SUIT NO., 25 February 2010",
+  "summary": "In this criminal appeal, Felix Ugochukwu Ogu, a Nigerian national, appealed against a 15-year sentence for unlawful possession of 878.5 grams of heroin under the Narcotic Drugs (Control, Enforcement and Sanctions) Law, 1990 (PNDCL 236). He sought a reduction in sentence on grounds of harshness, first-offender status, and credit for over four years and five months spent in pre-trial custody. The Court of Appeal acknowledged that the trial court failed to consider the time spent in lawful custody before sentencing, as mandated by Article 14(6) of the 1992 Constitution. While the quantity of drugs justified a severe sentence, the appellant’s first-offender status and the constitutional requirement led the court to reduce the sentence to the statutory minimum of 10 years, with effect from the date of arrest—26th March 2003. The court also ordered his deportation to Nigeria upon completion of the sentence.",
+  "legalKeywords": [
+    "narcotic drugs",
+    "possession",
+    "sentence reduction",
+    "first offender",
+    "remand period",
+    "constitutional provision",
+    "Article 14(6)",
+    "mitigation of sentence",
+    "lawful custody",
+    "deportation",
+    "PNDCL 236",
+    "heroin",
+    "judicial discretion",
+    "bail conditions",
+    "criminal appeal"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Sentencing",
+    "Constitutional Law",
+    "Drug Offences",
+    "Appeal"
+  ],
+  "verdict": "Sentence reduced from 15 years to 10 years, effective from date of arrest; deportation ordered upon release.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Addoh, J.A.",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "Apaloo, J.A. (Presiding)",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Gyaesayor, J.A.",
+      "role": "Panel Member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Article 14(6), 1992 Constitution of Ghana",
+    "Gabriel Kwao Boso vs. the Republic (Unreported), 4th February 2009"
+  ],
+  "rationaleHighlights": [
+    "Sentence reduced due to failure to consider time spent in pre-trial custody, as required by Article 14(6) of the 1992 Constitution.",
+    "Original sentence deemed not unduly harsh given 878.5 grams of heroin involved.",
+    "Appellant's status as a first offender considered in mitigation.",
+    "Time spent on remand (4 years, 5 months) credited toward sentence.",
+    "Minimum statutory sentence of 10 years applied.",
+    "Deportation ordered upon completion of sentence.",
+    "Trial court failed to reference constitutional provision or remand period in sentencing.",
+    "Prosecution acknowledged error in sentencing procedure."
+  ],
+  "confidenceNotes": "High confidence; all key details are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/FELIX UGOCHUKWU OGU VRS THE REPUBLIC, Criminal Appeal, SUIT NO., 25 February 2010.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:34:23.099Z",
+    "plainTextLength": 5051
+  },
+  "trialDate": "2010-02-25"
+}

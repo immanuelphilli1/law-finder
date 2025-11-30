@@ -1,0 +1,76 @@
+{
+  "caseTitle": "STAY OF EXECUTION PENDING APPEAL EX PARTE SIDI [1989-90] VOL",
+  "summary": "In Republic v Court of Appeal, Accra; Ex parte Sidi [1989-90], the Supreme Court of Ghana addressed the issue of whether a stay of execution pending appeal, granted on onerous terms, could be treated as a refusal allowing the applicant to reapply at the Court of Appeal under Rule 28 of the Court of Appeal Rules. The Court held that mere inconvenience or financial difficulty in meeting the conditions does not equate to a refusal. A stay granted on terms—such as payment into court—remains a valid grant and suspends execution. The decision reaffirmed that the jurisdiction of the Court of Appeal under Rule 28 is triggered only upon an actual refusal by the lower court, not dissatisfaction with the conditions imposed. The ruling emphasized judicial discretion in balancing the judgment-creditor's right to enforce judgment and the judgment-debtor's right to a meaningful appeal.",
+  "legalKeywords": [
+    "stay of execution",
+    "appeal",
+    "judgment-debtor",
+    "judgment-creditor",
+    "Court of Appeal Rules",
+    "discretionary power",
+    "execution pending appeal",
+    "terms of stay",
+    "refusal of application",
+    "balance of interests",
+    "onus of proof",
+    "concurrent jurisdiction",
+    "judicial discretion",
+    "nugatory appeal",
+    "financial hardship"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Appeals",
+    "Execution of Judgments",
+    "Judicial Discretion",
+    "Stay of Execution"
+  ],
+  "verdict": "The application to re-litigate the stay at the Court of Appeal was dismissed; the Supreme Court upheld that a stay granted on onerous terms is not a refusal and cannot be re-applied for absent actual dismissal by the lower court.",
+  "winningSide": "Judgment-creditor / Court below",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Adade JSC",
+      "role": "deciding judge"
+    },
+    {
+      "name": "Edusei JJA",
+      "role": "concurring judge"
+    },
+    {
+      "name": "Boison JJA",
+      "role": "concurring judge"
+    },
+    {
+      "name": "Apaloo J",
+      "role": "earlier deciding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Republic v Court of Appeal, Accra: Ex parte Sidi [1989-90] VOL. XVII RGL 273",
+    "Ghassoub v Bibiani Wood Complex Ltd",
+    "Saunders v Awudu",
+    "Joseph v Jebeile",
+    "Oppan v Frans & Co Ltd",
+    "Bisi v Tabiri alias Asare",
+    "Fitouri Krekchi v United Africa Co Ltd"
+  ],
+  "rationaleHighlights": [
+    "A stay of execution is not refused merely because its terms are financially onerous.",
+    "The condition precedent for reapplying to the Court of Appeal is an actual refusal by the lower court.",
+    "Judicial discretion must balance the rights of both parties: enjoying judgment fruits vs. preserving appeal efficacy.",
+    "Payment into court pending appeal secures both parties' interests and does not negate the stay."
+  ],
+  "confidenceNotes": "The case analysis is based on a well-documented legal commentary with clear references to binding precedents and procedural rules. The interpretation of rules 27 and 28 of the Court of Appeal Rules is consistent with established jurisprudence.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/89 - 90/STAY OF EXECUTION PENDING APPEAL EX PARTE SIDI [1989-90] VOL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:53:08.278Z",
+    "plainTextLength": 37563
+  }
+}

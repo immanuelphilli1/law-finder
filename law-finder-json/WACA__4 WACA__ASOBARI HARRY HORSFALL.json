@@ -1,0 +1,63 @@
+{
+  "caseTitle": "ASOBARI HARRY HORSFALL",
+  "summary": "This case, decided by the West Africa Court of Appeal on 10th January 1938, addressed whether a Magistrate's Court has jurisdiction to hear a land title suit transferred by a Resident under section 36(1)(b) of the Native Courts Ordinance, in light of section 32 of the Protectorate Courts Ordinance, 1933. The court held that when a Magistrate's Court re-hears a case pursuant to an order by a Resident exercising appellate jurisdiction, it is not acting in original jurisdiction. Therefore, the Magistrate's Court retains jurisdiction to hear the matter. The ruling clarified the interplay between native and protectorate court systems in colonial West Africa, affirming procedural continuity in appellate rehearings.",
+  "legalKeywords": [
+    "jurisdiction",
+    "magistrate's court",
+    "land title",
+    "appellate jurisdiction",
+    "original jurisdiction",
+    "Resident",
+    "Native Courts Ordinance",
+    "Protectorate Courts Ordinance",
+    "case stated",
+    "re-hearing"
+  ],
+  "topics": [
+    "jurisdiction",
+    "land law",
+    "appellate procedure",
+    "colonial courts",
+    "statutory interpretation"
+  ],
+  "verdict": "The Magistrate's Court has jurisdiction to hear the suit upon transfer by the Resident under appellate powers.",
+  "winningSide": "Plaintiffs-Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "WACA/4 WACA/ASOBARI HARRY HORSFALL",
+    "Protectorate Courts Ordinance, 1933, s 32",
+    "Native Courts Ordinance, s 27, s 36(1)(b)"
+  ],
+  "rationaleHighlights": [
+    "A Magistrate's Court rehearing a case transferred by a Resident under appellate authority does not exercise original jurisdiction.",
+    "Section 32 of the Protectorate Courts Ordinance does not bar jurisdiction when the Magistrate's Court acts pursuant to a rehearing order from a Resident.",
+    "The court affirmed the Magistrate's jurisdiction in such cases, interpreting the procedural nature of the transfer as preserving appellate continuity."
+  ],
+  "confidenceNotes": "The case is a clear judicial determination on jurisdictional interpretation; primary source appears authentic with formal court structure and citation of statutory provisions.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/ASOBARI HARRY HORSFALL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:07:07.600Z",
+    "plainTextLength": 1860
+  },
+  "trialDate": "1938-01-10"
+}

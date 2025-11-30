@@ -1,0 +1,63 @@
+{
+  "caseTitle": "SUPPLY CO. LTD. VERSUS G. B. OLLIVANT LTD.",
+  "summary": "The West African Court of Appeal held that a magistrate's court lacked jurisdiction to hear objections to the sale of a vehicle and trailer in execution of a decree after the sale had already taken place. The plaintiffs, Aboom Logging Supply Co. Ltd. and Victoria Arthur, had filed interpleader proceedings before the sale but the consolidated suits were heard afterward. The court interpreted Courts Ordinance, Schedule 2, Order 45, Rules 25 and 26 as conferring jurisdiction only to investigate claims prior to sale. Since the magistrate acted beyond jurisdiction, the decision not to impeach the sale could not bar the plaintiffs' subsequent claim. The appeal was allowed, the lower court's judgment set aside, and the matter remitted for trial on the merits. The court also rejected the defense of res judicata, affirming the plaintiffs' right to pursue damages in a regular suit.",
+  "legalKeywords": [
+    "jurisdiction",
+    "magistrate's court",
+    "sale in execution",
+    "interpleader",
+    "objection to sale",
+    "res judicata",
+    "Courts Ordinance",
+    "Order 45 Rules 25 and 26",
+    "Fieri Facias",
+    "superior vs inferior courts"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Jurisdiction",
+    "Execution of Decrees",
+    "Property Rights",
+    "Res Judicata"
+  ],
+  "verdict": "Appeal allowed. Judgment of the Divisional Court set aside. Case remitted for trial on the merits.",
+  "winningSide": "Plaintiffs (Aboom Logging Supply Co. Ltd. and Victoria Arthur)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Baker Ag.J.A.",
+      "role": "deciding judge"
+    },
+    {
+      "name": "Coussey P.",
+      "role": "concurring judge"
+    },
+    {
+      "name": "Korsah J.A.",
+      "role": "concurring judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Falkingham v. Victorian Railway Commissioners [1900] A.C. 452 P.C.",
+    "Woodroffe and Ameer Ali's Civil Procedure in British India, p. 970"
+  ],
+  "rationaleHighlights": [
+    "Inferior courts only have jurisdiction expressly conferred by law.",
+    "Ordinance 45 Rules 25 and 26 do not authorize post-sale investigation of ownership.",
+    "Magistrate lacked jurisdiction to hear objection after sale was completed.",
+    "Plaintiffs not estopped from pursuing claim via regular suit.",
+    "Indian Civil Procedure precedent cited in support."
+  ],
+  "confidenceNotes": "High confidence in jurisdictional analysis based on clear statutory interpretation and binding precedent.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/ABOOM LOGGING SUPPLY CO. LTD. v. G. B. OLLIVANT LTD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:18:31.576Z",
+    "plainTextLength": 10597
+  }
+}

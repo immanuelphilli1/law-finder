@@ -1,0 +1,75 @@
+{
+  "caseTitle": "J. T. PRINCEWILL AMACHREE v W. F. H. NEWINGTON",
+  "summary": "In this civil appeal before the West African Court of Appeal, nine Kalabari chiefs jointly sued a District Officer for damages arising from alleged false imprisonment and assault during a criminal investigation in 1950. The trial judge non-suited the plaintiffs, ruling that each plaintiff must sue separately as their claims for personal damages were distinct and could not be joined under Order 4, Rule 2 of the Supreme Court (Civil Procedure) Rules. The appellate court upheld the non-suit, holding that while plaintiffs may be joined when they share a common ground of action, the rule does not permit joinder of separate causes of action. Since each plaintiff's claim for false imprisonment and assault was personal and distinct, and no joint tort was established, the suit was improperly constituted. The court rejected reliance on post-1896 English procedural amendments, noting the Nigerian rule remained restrictive. Only three plaintiffs testified, and counsel's decision not to call the others supported the conclusion that the action was improperly treated as representative. The appeal was dismissed with costs.",
+  "legalKeywords": [
+    "joinder of plaintiffs",
+    "joinder of causes of action",
+    "Order 4 Rule 2",
+    "Supreme Court Civil Procedure Rules",
+    "non-suit",
+    "false imprisonment",
+    "assault",
+    "joint tort",
+    "representative suit",
+    "procedural defect",
+    "damages",
+    "personal injury",
+    "separate claims",
+    "civil procedure",
+    "appellate review"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Tort Law",
+    "False Imprisonment",
+    "Assault",
+    "Judicial Remedies"
+  ],
+  "verdict": "Appeal dismissed; non-suit upheld due to improper joinder of plaintiffs with separate causes of action.",
+  "winningSide": "Respondent (District Officer W. F. H. Newington)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey, J.A.",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Foster-Sutton, P",
+      "role": "Concurring"
+    },
+    {
+      "name": "de Comarmond, Ag. C.J. (Nigeria)",
+      "role": "Concurring"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Nigeria"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Smurthwaite v. Hannay, 1894, A.C. 494 (H. of L.)",
+    "Hannay & Co. v. Smurthwaite, 1893, 2 Q.B. 412",
+    "Carter v. Rigby & Co., 1896, 2 Q.B. 113",
+    "P. and O. Steam Navigation Co. v. Tsime Kijima, 1895, A.C. 661 (P.C.)",
+    "Stroud v. Lawson, 1898, 2 Q.B. 44"
+  ],
+  "rationaleHighlights": [
+    "Order 4, Rule 2 permits joinder of plaintiffs but not joinder of causes of action.",
+    "Each plaintiff suffered personal damages; no joint tort existed.",
+    "Claim for false imprisonment must be pursued separately per plaintiff.",
+    "Trial judge correctly non-suited plaintiffs due to improper joinder.",
+    "Only three plaintiffs testified; counsel chose not to call others, undermining joint claim.",
+    "Analogous English and Privy Council cases confirm no right to consolidate distinct claims.",
+    "Rule as written did not allow representative or consolidated damage claims.",
+    "Amendment to rules might prevent multiplicity but not retroactively applicable."
+  ],
+  "confidenceNotes": "High confidence; the judgment is clear on the legal reasoning and application of procedural rules. Jurisdictional context is Nigeria under West African Court of Appeal, applicable to British colonial-era civil procedure rules.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/J. T. PRINCEWILL AMACHREE  v  W. F. H. NEWINGTON.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:39:39.288Z",
+    "plainTextLength": 12440
+  },
+  "trialDate": "1952-06-02"
+}

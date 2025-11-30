@@ -1,0 +1,74 @@
+{
+  "caseTitle": "GHANA LTD. v. J.K. NYARKO & 21 ORS.",
+  "summary": "The Court of Appeal of Ghana reviewed a High Court decision in favor of 22 former casual employees of SAGE Ghana Ltd. who were terminated on 29 February 2000. The plaintiffs claimed damages for the company's failure to convert them to permanent status as required by a collective agreement under the Industrial Relations Act, 1965 (Act 229), and for underpayment upon redundancy. The trial court awarded GHS 15 million each in damages. On appeal, the Court upheld the breach of contract finding but revised the damages to reflect actual years of service: GHS 14 million for those with 10+ years, GHS 10 million for 5–10 years, GHS 5 million for 1–5 years, and GHS 2 million for 132 days to 1 year. The court also awarded interest from 28 June 2000 to judgment date at prevailing bank rates, then statutory rates thereafter. It dismissed the defendant’s preliminary objection on late filing, finding actual notice of appeal documents only on 25 February 2004. The limitation defence was rejected for lack of pleading, and estoppel arguments were dismissed. The appeal was allowed in part.",
+  "legalKeywords": [
+    "employment contract",
+    "casual labourers",
+    "permanent employment",
+    "collective agreement",
+    "breach of contract",
+    "damages",
+    "limitation period",
+    "estoppel",
+    "Industrial Relations Act",
+    "statute of limitations",
+    "pleading requirements",
+    "interest on award",
+    "seniority-based compensation",
+    "deemed confirmation",
+    "redundancy benefits"
+  ],
+  "topics": [
+    "Employment Law",
+    "Contract Law",
+    "Appellate Procedure",
+    "Damages",
+    "Limitation Period"
+  ],
+  "verdict": "Appeal allowed in part; damages revised based on length of service and interest awarded; limitation defence rejected due to failure to plead.",
+  "winningSide": "Plaintiffs (partially; reduced damages but upheld liability and interest)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "J.B. Akamba",
+      "role": "Presiding Justice delivering judgment"
+    },
+    {
+      "name": "S.T. Farkye",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "Jones Dotse",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Employment Law",
+  "citations": [
+    "SAGE GHANA LTD. v. J.K. NYARKO & 21 ORS. [11/6/2004] CA/NO. H1/157/04",
+    "Hadley v Baxendale (1854) 9 Exch. 342",
+    "Dolphyne (No 3) v Speedline Stevedoring Co. Ltd. and Anor (1996-97) SCGLR 514",
+    "Industrial Relations Act 1965, Act 229",
+    "Limitation Decree, 1972 (NRCD 54)",
+    "High Court (Civil Procedure) Rules, 1954 (LN 140A), Order 19, r 16",
+    "C.I. 19 as amended by C.I. 25"
+  ],
+  "rationaleHighlights": [
+    "Damages must reflect actual tenure and not be uniform where service periods differ",
+    "Failure to formally confirm casual workers as permanent despite meeting criteria under collective agreement constitutes breach",
+    "Limitation defence must be pleaded; failure to do so constitutes waiver",
+    "Improper service of Form 6 invalidates time computation unless actual notice is proven",
+    "Interest awarded from date of claim to judgment and beyond at statutory rate"
+  ],
+  "confidenceNotes": "High confidence in extracted data; all key elements (facts, law, holdings) are clearly stated in the judgment. Citation of local and common law authorities strengthens reliability.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/SAGE GHANA LTD. v. J.K. NYARKO & 21 ORS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:06:04.059Z",
+    "plainTextLength": 18936
+  },
+  "trialDate": "2004-06-11"
+}

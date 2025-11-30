@@ -1,0 +1,34 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The document titled 'GHANA LAW FINDER' is a self-help legal guide providing access to the West Africa Court of Appeal Reports. It includes a list of report volumes and serves as a directory rather than containing any actual case decisions or judicial reasoning. There is no identifiable case, judgment, or legal analysis present in the provided text.",
+  "legalKeywords": [
+    "Ghana",
+    "West Africa Court of Appeal",
+    "legal reports",
+    "case index",
+    "legal directory"
+  ],
+  "topics": [
+    "Legal Research",
+    "Court Reports",
+    "Case Index"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "unknown",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "The provided document does not contain a case decision, legal analysis, or identifiable judicial content. It appears to be a webpage index or directory for legal reports with no substantive case information.",
+  "metadata": {
+    "sourcePath": "WACA/inter face/INTERFACE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:19:19.351Z",
+    "plainTextLength": 874
+  }
+}

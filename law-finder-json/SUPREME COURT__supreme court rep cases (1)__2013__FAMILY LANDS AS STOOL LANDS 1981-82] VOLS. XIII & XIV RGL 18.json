@@ -1,0 +1,70 @@
+{
+  "caseTitle": "Okwan v. Amankwa,1 concerning the",
+  "summary": "In Okwan v. Amankwa, the court addressed whether family land falls under the statutory definition of 'stool land' subject to state control under the Administration of Lands Act, 1962. The plaintiff sued for accounts of moneys collected from stool family lands, and the defendants challenged the plaintiff's standing, citing state control over stool land revenues. The court upheld the plaintiff's position, distinguishing between 'public stools' and 'family stools', and held that family land is not 'stool land' under the Act. This distinction was supported by prior case law. Subsequent constitutional changes in 1969, 1979, and 1982 expanded the definition of 'stool land' to include land controlled by a family for its members, raising concerns about state overreach. The commentary questions whether this expansion was intended to bring all family lands under state control, noting that such an interpretation would be impractical and contrary to customary law. It suggests that 'family' in the statutory definition should be interpreted as a broader community, not a single kinship group, to maintain consistency with traditional distinctions.",
+  "legalKeywords": [
+    "stool land",
+    "family land",
+    "customary law",
+    "land administration",
+    "public stool",
+    "private stool",
+    "statutory interpretation",
+    "Administration of Lands Act 1962",
+    "Constitution 1979",
+    "Lands Commission",
+    "P.N.D.C.L. 42",
+    "revenue control",
+    "land rights",
+    "community land",
+    "kinship"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Constitutional Law",
+    "Statutory Interpretation",
+    "Stool Land"
+  ],
+  "verdict": "The preliminary objection to the plaintiff's capacity to sue was overruled; the court held that family land is not 'stool land' under the Administration of Lands Act, 1962.",
+  "winningSide": "Plaintiff",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Woodman Gordon R.",
+      "role": "Commentator"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court / High Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional interpretation",
+  "citations": [
+    "Okwan v. Amankwa, High Court, Cape Coast, 1 April 1980, unreported",
+    "Omanhene of Sefwi-Wiawso v. Donkor [1965] G.L.R. 462",
+    "Badu v. Ababio [1967] G.L.R. 1",
+    "Bekoe v. Serebour [1977] 1 G.L.R. 118",
+    "Gambra v. Ewear (1892) Ren.93, F.C.",
+    "Dugbartey v. Narnor (1925) D.C. '21-'25 182",
+    "Akyirefie v. Breman-Esiam Stool (1951) 13 W.A.C.A. 331",
+    "Concession Enquiry No. 1118 (Accra) [1961] 1 G.L.R. 448",
+    "Gyamfi v. Owusu, Court of Appeal, 16 April 1982"
+  ],
+  "rationaleHighlights": [
+    "Distinction between family land and stool land is critical for statutory application.",
+    "Legislative inclusion of 'family' in 'stool land' definition post-1979 raises constitutional and practical concerns.",
+    "Court rejected state control over stool family budgets as 'ridiculous'.",
+    "Pre-1979 law distinguished public stools from family stools, limiting state intervention.",
+    "Definition of 'stool land' expanded in 1979 Constitution to include land controlled by a family for its members.",
+    "Interpretation must consider customary landholding systems to avoid impractical outcomes.",
+    "Concern that broad definition may vest all family lands in the state as 'public lands'.",
+    "Suggestion that 'family' in statute refers to multi-family communities, not nuclear families."
+  ],
+  "confidenceNotes": "The case discussed is unreported but widely referenced in legal commentary; citations to supporting authorities are well-established in Ghanaian jurisprudence.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2013/FAMILY LANDS AS STOOL LANDS 1981-82] VOLS. XIII & XIV RGL 18.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:34:34.479Z",
+    "plainTextLength": 9409
+  }
+}

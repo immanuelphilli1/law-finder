@@ -1,0 +1,68 @@
+{
+  "caseTitle": "REGINA VERSUS ANSERE",
+  "summary": "The appellant, Ansere, treasurer of the Kibi Local Council, was convicted of stealing under s 288(1) of the Criminal Code after a cash shortage of £656 2s. 10d. was discovered during an audit. The defence argued that revenue collection and bookkeeping were handled by his assistant, Sasu, who retained some funds not yet handed over. Sasu’s police statement confirmed he held £69 14s. 8d. and claimed to have handed it to Ansere during the audit—a claim denied by officials. The prosecution did not call Sasu as a witness. The Court of Appeal held that the trial judge erred by rejecting the defence solely based on disbelief without considering its reasonableness. It emphasized that actual possession is required for conviction, which was negated by the delegation of duties known to the employer. Furthermore, the failure to call Sasu, a material witness who could have resolved the case, meant the prosecution failed to prove guilt beyond reasonable doubt. The conviction was quashed.",
+  "legalKeywords": [
+    "stealing by a servant",
+    "constructive possession",
+    "actual possession",
+    "failure to call material witness",
+    "reasonable doubt",
+    "delegation of authority",
+    "criminal code s 288(1)",
+    "reconciliation of accounts",
+    "prosecution burden",
+    "innocent interpretation"
+  ],
+  "topics": [
+    "criminal law",
+    "evidence",
+    "theft",
+    "appellate review",
+    "burden of proof"
+  ],
+  "verdict": "Conviction quashed on appeal",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Korsah C.J.",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Granville Sharp J.A.",
+      "role": "appellate judge"
+    },
+    {
+      "name": "Ollennu J",
+      "role": "delivering judgment"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Kuree (1941) 7 W.A.C.A. 175",
+    "Aboah v. The Queen (1953) 14 W.A.C.A. 252",
+    "R. v. Abisa Grunshie (1955) 1 W.A.L.R. 36",
+    "R. v. Abubu Adenjimah and Another (1942) 8 W.A.C.A. 193"
+  ],
+  "rationaleHighlights": [
+    "Court must consider whether a defence might reasonably be true, even if not fully believed",
+    "Failure to call a material witness who could resolve the case undermines proof beyond reasonable doubt",
+    "Actual possession, not constructive, is required for conviction under s 288(1)",
+    "Delegation of duty to subordinate with employer's knowledge negates actual possession",
+    "Judge erred in relying solely on disbelief of accused without excluding innocent explanation",
+    "Suppression of exculpatory evidence by prosecution is fatal to conviction",
+    "Assessors found accused not guilty; judge overruled them under statutory authority",
+    "Conviction quashed due to legal misdirection and evidentiary insufficiency"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed judgment text and clear legal reasoning. All key facts and holdings are explicitly stated in the source.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/REGINA v. ANSERE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:54:49.363Z",
+    "plainTextLength": 12732
+  }
+}

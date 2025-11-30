@@ -1,0 +1,62 @@
+{
+  "caseTitle": "IN THE MATTER OF THE ESTATE OF JAMES TAYLOR, DECEASED",
+  "summary": "The appellant, David Osagbudo Okadike, was convicted in the High Court for preparation to coin gold and silver under section 148(3)(c) of the Criminal Code, following evidence related solely to the production of pennies. The West African Court of Appeal allowed the appeal, quashed the conviction and sentence, and ordered an acquittal. The court held that since the statutory offense required preparation to coin gold or silver (including high-value mixed-metal coins), and the evidence showed only activity concerning low-denomination copper pennies, the conviction could not stand. The court considered substituting a conviction under section 154(2) for counterfeiting nickel coins but declined, as the exhibits were not suitable for that purpose. The appeal was allowed due to a fatal mismatch between the charge and the evidence.",
+  "legalKeywords": [
+    "criminal appeal",
+    "counterfeiting",
+    "coinage offense",
+    "evidentiary insufficiency",
+    "conviction quashed",
+    "section 147 Criminal Code",
+    "section 148 Criminal Code",
+    "section 154(2) Criminal Code",
+    "West African Court of Appeal Ordinance",
+    "acquittal"
+  ],
+  "topics": [
+    "criminal law",
+    "appellate review",
+    "evidence sufficiency",
+    "statutory interpretation",
+    "counterfeiting"
+  ],
+  "verdict": "Conviction quashed, acquittal entered.",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J.",
+      "role": "Judge"
+    },
+    {
+      "name": "Graham Paul, C.J., Sierra Leone",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "West African Court of Appeal Ordinance No. 47 of 19!",
+    "Criminal Code sections 147, 148(3)(c), 154(2)"
+  ],
+  "rationaleHighlights": [
+    "Conviction under section 148(3)(c) failed because evidence related only to preparation for making pennies, not gold or silver coins.",
+    "No basis to substitute conviction under section 154(2) as exhibits were not adapted for counterfeit nickel coins.",
+    "Appellate court exercised discretion under section 11(2) WACA Ordinance but found no applicable alternative offense."
+  ],
+  "confidenceNotes": "The citation for Ordinance No. 47 contains a typographical error ('1!') in the source; interpreted as likely 1930s–1940s based on context.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/REX v DAVID OSAIGBUDU OKADIKE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:28:23.930Z",
+    "plainTextLength": 2915
+  },
+  "trialDate": "1941-04-22"
+}

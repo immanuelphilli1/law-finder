@@ -1,0 +1,64 @@
+{
+  "caseTitle": "REX V BADARU SHANUSI",
+  "summary": "The West Africa Court of Appeal, on 9th August 1938, reviewed the case of Rex v. Badaru Shanusi, where the appellant was convicted of possession of counterfeit coins under section 150A of the Criminal Code. The trial judge imposed the maximum sentence of seven years' imprisonment with hard labour, partly based on the belief that the appellant was guilty of more serious counterfeiting offences, though not formally charged. The appellate court held that sentencing should be based solely on the proven charge, and thus found the maximum sentence unjustified. While acknowledging the seriousness of the offence and the large quantity of counterfeit coins involved, the court reduced the sentence to five years' imprisonment with hard labour.",
+  "legalKeywords": [
+    "possession of counterfeit coins",
+    "section 150A Criminal Code",
+    "maximum sentence",
+    "sentence reduction",
+    "appellate review",
+    "trial error",
+    "sentencing principles",
+    "West Africa Court of Appeal",
+    "hard labour",
+    "criminal conviction",
+    "judicial discretion",
+    "unproven aggravating factors"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Sentencing",
+    "Appellate Procedure",
+    "Counterfeiting"
+  ],
+  "verdict": "Sentence reduced on appeal",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Rex v. Badaru Shanusi, WACA/4, 9th August 1938"
+  ],
+  "rationaleHighlights": [
+    "Sentencing must be based on proven charges only",
+    "Consideration of uncharged offences in sentencing is improper",
+    "Maximum sentence inappropriate without conviction for more serious crime",
+    "Seriousness of possession offence acknowledged",
+    "Appellate power to revise excessive sentences"
+  ],
+  "confidenceNotes": "High confidence; details are drawn directly from the judgment text, though original trial records are not available for cross-verification.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX V BADARU SHANUSI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:57:40.302Z",
+    "plainTextLength": 2123
+  },
+  "trialDate": "1938-08-09"
+}

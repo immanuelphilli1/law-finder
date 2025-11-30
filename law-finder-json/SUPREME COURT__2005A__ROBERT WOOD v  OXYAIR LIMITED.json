@@ -1,0 +1,75 @@
+{
+  "caseTitle": "ROBERT WOOD v OXYAIR LIMITED",
+  "summary": "In this civil appeal before the Supreme Court of Ghana, the plaintiffs alleged a valid oral agreement with the defendants for a 40% share allocation in Oxyair Limited in exchange for services and financial contributions toward establishing an oxygen-manufacturing plant. The trial judge found in favor of the plaintiffs, concluding that the defendants breached the agreement. The Court of Appeal upheld this decision. On further appeal, the Supreme Court affirmed the lower courts' rulings, holding that the trial judge's findings were supported by credible circumstantial evidence, including a receipt (Exhibit A) for a share deposit paid by one plaintiff. The defendants' counterclaim for damages and injunctions was dismissed due to lack of evidence and the relocation of the factory. The Supreme Court emphasized the principle that appellate courts should not disturb concurrent findings of fact unless a clear error is shown, and found no such error here.",
+  "legalKeywords": [
+    "breach of contract",
+    "oral agreement",
+    "shares allocation",
+    "evidence credibility",
+    "appellate review",
+    "circumstantial evidence",
+    "counterclaim dismissal",
+    "Royal British Bank v Turquand",
+    "concurrent findings of fact",
+    "onus of proof"
+  ],
+  "topics": [
+    "Contract Law",
+    "Corporate Law",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Shareholding Disputes"
+  ],
+  "verdict": "The appeal was dismissed; the decision of the Court of Appeal affirming the trial court's judgment in favor of the plaintiffs was upheld.",
+  "winningSide": "Plaintiffs (Robert Wood and others)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Miss Akuffo",
+      "role": "presiding judge"
+    },
+    {
+      "name": "Mrs. Wood",
+      "role": "panel judge"
+    },
+    {
+      "name": "Prof. Ocran",
+      "role": "panel judge"
+    },
+    {
+      "name": "Aninakwa",
+      "role": "panel judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Praka v Ketewa [1964] GLR 423",
+    "Royal British Bank v Turquand (1855) 5 E & B 248",
+    "Bassayin and Achah v Bendentu II (1937) 5 W.A.C.A. 1",
+    "Achoro & Anor v Akanfela & Anor [1996-97] SCGLR 209",
+    "Koglex Ltd (No. 2) v Field [2000] SCGLR 175",
+    "Kissiedu & Ors v Dompreh & Ors (1937) 2WACA 281"
+  ],
+  "rationaleHighlights": [
+    "The trial court's factual findings were supported by credible circumstantial evidence, including Exhibit A (receipt for share deposit).",
+    "Appellate courts should not overturn concurrent findings of fact by lower courts without compelling reason.",
+    "Defendants failed to provide evidence to substantiate their counterclaim or rebut plaintiffs' claims.",
+    "The rule in Royal British Bank v Turquand was found inapplicable due to lack of compliance with internal corporate procedures.",
+    "Credibility determinations by trial judge are entitled to deference on appeal."
+  ],
+  "confidenceNotes": "High confidence; all information is directly extracted from the judgment with clear textual support.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2005A/ROBERT WOOD v  OXYAIR LIMITED.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:28:21.470Z",
+    "plainTextLength": 62744
+  }
+}

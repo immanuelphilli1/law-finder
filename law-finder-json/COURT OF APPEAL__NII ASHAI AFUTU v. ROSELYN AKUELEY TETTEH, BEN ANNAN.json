@@ -1,0 +1,68 @@
+{
+  "caseTitle": "ASHAI AFUTU v. ROSELYN AKUELEY TETTEH, BEN ANNAN",
+  "summary": "This Court of Appeal case in Ghana involves a paternity dispute where the plaintiff, Nii Ashai Afutu, sought a court order for medical testing to determine the paternity of a child born to the first defendant, Roselyn Akweley Tetteh, with whom he claimed a romantic relationship. The plaintiff also sought a declaration of biological fatherhood and damages against both defendants, including Ben Annan, who claimed to be the lawful husband of the first defendant under customary law. The trial court ordered blood tests for the plaintiff, the second defendant, and the child, but this ruling was appealed on the grounds that it was erroneous in law. The Court of Appeal held that the trial judge lacked jurisdiction to order the blood test, particularly on the child, since the plaintiff had not amended his writ to include such a request. The court emphasized constitutional protections against compelled bodily intrusion and found that the trial court erred in relying on untested affidavit evidence after the close of evidence. The appeal was allowed, the ruling set aside, and the trial judge directed to deliver judgment based on the existing evidence.",
+  "legalKeywords": [
+    "paternity dispute",
+    "blood test",
+    "constitutional rights",
+    "customary marriage",
+    "evidence law",
+    "jurisdiction",
+    "interlocutory appeal",
+    "presumption of legitimacy",
+    "amendment of pleadings",
+    "bodily integrity",
+    "trial procedure",
+    "affidavit evidence",
+    "child's best interest",
+    "marital status",
+    "scientific evidence"
+  ],
+  "topics": [
+    "Family Law",
+    "Constitutional Law",
+    "Evidence",
+    "Civil Procedure",
+    "Paternity"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "G. L. Lamptey",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Wood",
+      "role": "Justice"
+    },
+    {
+      "name": "Brobbey",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Dam vrs: Addo (1962) 2 GLR. 200 S.C."
+  ],
+  "rationaleHighlights": [
+    "The trial court lacked jurisdiction to order a blood test on the child since it was not part of the original writ.",
+    "Compelling individuals to undergo medical testing infringes on constitutional rights under Chapter 5 of the 1992 Constitution.",
+    "The trial judge erred in considering new affidavit evidence after the close of pleadings.",
+    "The issue of marriage between the defendants should have been decided based on trial evidence, not affidavits.",
+    "Evidence from blood tests, especially non-DNA tests, is persuasive but not conclusive.",
+    "The plaintiff failed to amend the writ to include testing of the child, making the order ultra vires."
+  ],
+  "confidenceNotes": "The summary is based on a truncated document, but all key legal reasoning and holdings are present in the available text. The outcome and rationale are clearly stated by both Lamptey, J.A. and Wood, J.A., supporting high confidence in accuracy.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/NII ASHAI AFUTU v. ROSELYN AKUELEY TETTEH, BEN ANNAN.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:12:34.763Z",
+    "plainTextLength": 58194
+  }
+}

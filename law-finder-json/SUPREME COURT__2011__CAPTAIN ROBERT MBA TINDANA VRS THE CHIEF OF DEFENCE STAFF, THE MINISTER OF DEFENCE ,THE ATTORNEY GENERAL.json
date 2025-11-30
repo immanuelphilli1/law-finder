@@ -1,0 +1,71 @@
+{
+  "caseTitle": "CAPTAIN ROBERT MBA TINDANA VRS THE CHIEF OF DEFENCE STAFF, THE MINISTER OF DEFENCE ,THE ATTORNEY GENERAL",
+  "summary": "Captain Robert Mba Tindana, a military officer, brought an action under Article 33 of the 1992 Constitution seeking a declaration that his release from active service by the Chief of Defence Staff, Minister of Defence, and Attorney General breached the Armed Forces Act, 1962 (Act 105) and Armed Forces Regulations. The case was initiated via an originating notice of motion. However, the Supreme Court dismissed the appeal as incompetent because it was filed after the three-month limitation period under Rule 9 of the Court of Appeal Rules. The Court held that it lacked jurisdiction over a time-barred appeal, rendering the entire proceeding a nullity. Citing AkufFo-Addo v Cathleen, the Court determined that no further hearing was necessary on the procedural defect as it was a clear and unanswerable jurisdictional issue. Consequently, the appeal was struck out without consideration of the constitutional merits.",
+  "legalKeywords": [
+    "constitutional rights",
+    "Armed Forces Act",
+    "procedural incompetence",
+    "jurisdiction",
+    "appeal time limit",
+    "nullity",
+    "due process",
+    "Article 33",
+    "originating motion",
+    "Supreme Court Rules"
+  ],
+  "topics": [
+    "constitutional law",
+    "military law",
+    "procedural law",
+    "jurisdiction",
+    "appeal"
+  ],
+  "verdict": "Appeal struck out as incompetent due to late filing; no determination on the merits.",
+  "winningSide": "Respondents (state)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "GBADEGBE",
+      "role": "delivering judgment"
+    },
+    {
+      "name": "BROBBEY",
+      "role": "presiding"
+    },
+    {
+      "name": "ANSAH",
+      "role": "member"
+    },
+    {
+      "name": "OWUSU",
+      "role": "member"
+    },
+    {
+      "name": "BAFFOE-BONNIE",
+      "role": "member"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "AkufFo-Addo v Cathleen [1992] 1 GLR 377",
+    "Darke v Darke [1984-86] GLR 481"
+  ],
+  "rationaleHighlights": [
+    "The appeal was filed beyond the three-month deadline under Rule 9 of the Court of Appeal Rules, rendering it incompetent.",
+    "The court held it lacked jurisdiction due to the late filing, making the entire proceeding null and void.",
+    "Rule 6.8 of the Supreme Court Rules does not require parties to be heard on a sua sponte point if it is unanswerable and jurisdictional.",
+    "The case was struck out without consideration of the merits due to procedural default.",
+    "Reference was made to AkufFo-Addo v Cathleen regarding exceptional circumstances where courts may act without affording further hearing."
+  ],
+  "confidenceNotes": "The judgment is clear and unambiguous regarding procedural incompetence; however, the substantive constitutional claim under Article 33 was not reached due to the procedural bar.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/CAPTAIN ROBERT MBA TINDANA VRS THE CHIEF OF DEFENCE STAFF, THE MINISTER OF DEFENCE ,THE ATTORNEY GENERAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:07:54.318Z",
+    "plainTextLength": 6549
+  }
+}

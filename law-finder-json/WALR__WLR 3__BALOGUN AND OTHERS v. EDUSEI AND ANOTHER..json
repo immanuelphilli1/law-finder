@@ -1,0 +1,57 @@
+{
+  "caseTitle": "BALOGUN AND OTHERS VERSUS EDUSEI AND ANOTHER.",
+  "summary": "In Balogun and Others v. Edusei and Another, the High Court of Ghana's Eastern Judicial Division held that the deportation of four individuals by the Minister of the Interior and the Acting Commissioner of Police, while habeas corpus and certiorari applications were sub judice, constituted contempt of court. Despite no formal service of the court order, the respondents had clear knowledge of the proceedings through direct communication from applicants' counsel and Crown Law Officers. The court ruled that actual service was not necessary for contempt where knowledge of the order was established. The deportations effectively terminated ongoing judicial review, thereby interfering with the administration of justice. The court rejected certiorari as an appropriate remedy due to insufficient evidence on citizenship, emphasizing that declaratory actions are proper for factual disputes. The decision affirmed that state actors cannot evade judicial scrutiny by acting on executive orders without regard to pending legal processes.",
+  "legalKeywords": [
+    "contempt of court",
+    "habeas corpus",
+    "certiorari",
+    "deportation",
+    "service of court order",
+    "knowledge of proceedings",
+    "declaratory action",
+    "judicial authority",
+    "interference with litigation",
+    "Ghanaian citizenship"
+  ],
+  "topics": [
+    "Contempt of Court",
+    "Habeas Corpus",
+    "Deportation",
+    "Judicial Review",
+    "Rule of Law"
+  ],
+  "verdict": "Contempt of court established against the Minister of the Interior and the Acting Commissioner of Police.",
+  "winningSide": "Applicants (Balogun and others)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Smith J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "contempt of court",
+  "citations": [
+    "R. v. Rowe (1894) 11 T.L.R. 29",
+    "Barnardo v. Ford [1892] A.C. 326",
+    "United Telephone Co. v. Dale (1884) 25 Ch.D. 778",
+    "R. v. Fulham, Hammersmith and Kensington Rent Tribunal, ex p. Zerek [1951] 2 K.B. 1"
+  ],
+  "rationaleHighlights": [
+    "Knowledge of court proceedings suffices for contempt, even without formal service",
+    "Deportation during pending habeas corpus applications undermined judicial process",
+    "Certiorari inappropriate where citizenship issue requires factual determination",
+    "Interference with parties litigant constitutes contempt",
+    "Formal service not sine qua non if actual knowledge is proven"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on detailed court record and explicit judicial reasoning.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/BALOGUN AND OTHERS v. EDUSEI AND ANOTHER..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:10:37.105Z",
+    "plainTextLength": 18590
+  }
+}

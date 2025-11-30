@@ -1,0 +1,86 @@
+{
+  "caseTitle": "he then was) in Brefor v. The",
+  "summary": "This legal commentary analyzes the issue of bail in murder cases under Ghanaian law, focusing on the tension between section 96(7) of the Criminal Procedure Code, 1960 (Act 30), which mandates refusal of bail in murder cases, and constitutional provisions—first article 15(4) of the 1969 Constitution and later article 21(4)(a) of the 1979 Constitution—which guarantee release if an accused is not tried within a reasonable time. The article discusses key cases including Brefor v. The Republic, where Taylor J. revisited the issue, and contrasts it with earlier decisions in Dogbe, Prah, Seidu, and Donkor. It argues that the 1979 Constitution, as supreme law, renders section 96(7) of Act 30 subordinate when there is unreasonable pre-trial delay. The commentary endorses a broad interpretation of 'not tried within a reasonable time,' as seen in Gyakye and Owusu, where prolonged remand—such as three years—without trial constitutes a constitutional violation warranting bail, regardless of fault. It concludes that despite statutory restrictions, constitutional rights to timely trial entitle murder suspects to bail when trial delays are excessive.",
+  "legalKeywords": [
+    "bail",
+    "murder",
+    "unreasonable delay",
+    "constitutional rights",
+    "right to fair trial",
+    "pre-trial detention",
+    "Criminal Procedure Code",
+    "Constitution of Ghana 1979",
+    "article 21",
+    "section 96 Act 30",
+    "remand",
+    "judicial discretion",
+    "constitutional supremacy",
+    "inconsistent statutes",
+    "provisional charge"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Criminal Procedure",
+    "Bail and Remand",
+    "Judicial Interpretation",
+    "Supremacy of the Constitution"
+  ],
+  "verdict": "The commentary supports the granting of bail in murder cases where there is unreasonable delay in trial, based on constitutional protections under article 21(4)(a) of the 1979 Constitution.",
+  "winningSide": "Accused persons",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Taylor J.",
+      "role": "deciding judge"
+    },
+    {
+      "name": "Aboagye J.",
+      "role": "deciding judge"
+    },
+    {
+      "name": "Roger Korsah J.",
+      "role": "deciding judge"
+    },
+    {
+      "name": "Osei-Hwere J.",
+      "role": "deciding judge"
+    },
+    {
+      "name": "Coussey J.",
+      "role": "deciding judge"
+    },
+    {
+      "name": "Andoh J.",
+      "role": "deciding judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "[1980] VOL. XII RGL 182",
+    "Brefor v. The Republic",
+    "Dogbe v. The Republic [1976] 2 G.L.R. 82",
+    "Prah v. The Republic [1976] 2 G.L.R. 278",
+    "Seidu v. The Republic [1978] G.L.R. 65",
+    "Donkor v. The Republic [1977] 2 G.L.R. 383",
+    "Gyakye v. The Republic [1971] 2 G.L.R. 280",
+    "Owusu v. The Republic"
+  ],
+  "rationaleHighlights": [
+    "Article 21(4)(a) of the 1979 Constitution entitles an accused to bail if not tried within a reasonable time, overriding statutory bars in Act 30 s.96(7).",
+    "Unreasonable delay does not require fault by prosecution or court; systemic delays suffice.",
+    "Three years' pre-trial detention constitutes unreasonable delay warranting bail.",
+    "Proper charge of murder is required for s.96(7) to apply; provisional charges may not trigger the bar.",
+    "Constitutional provisions on fair trial prevail over inconsistent statutory provisions."
+  ],
+  "confidenceNotes": "The case analysis is based on a legal commentary discussing prior judicial decisions; primary judgment texts are cited but not directly accessed. Confidence is high in the accuracy of the legal principles described, as they are supported by multiple authoritative case references and constitutional provisions.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2012/GRANT OF BAIL IN MURDER CASES [1980] VOL. XII RGL 182—192.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:46:52.673Z",
+    "plainTextLength": 14759
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "caseTitle": "MISCELLANY-AT-LAW PRE-TRIAL—HIGH COURT (CIVIL PROCEDURE) RUL",
+  "summary": "This legal commentary by Da Rocha J. B. (SAG) outlines key pre-trial procedures under Ghana's High Court (Civil Procedure) Rules, LI 1129. It emphasizes the necessity of proper parties and a valid cause of action, explaining rules on joinder, misjoinder, and representative actions. The paper details procedural requirements including the issuance and service of writs, the role of next friends and guardians ad litem for persons under disability, and consequences of default appearance. It also covers third-party proceedings for contribution or indemnity, and the court's discretionary powers to manage cases through summons for directions, including ordering separate trials or striking out parties to prevent prejudice. The work serves as a guide to ensuring procedural correctness in civil litigation before trial.",
+  "legalKeywords": [
+    "pre-trial procedure",
+    "parties and causes of action",
+    "writ of summons",
+    "appearance",
+    "pleadings",
+    "summons for directions",
+    "next friend",
+    "guardian ad litem",
+    "joinder of parties",
+    "misjoinder",
+    "representative action",
+    "third party proceedings",
+    "cause of action",
+    "service of process",
+    "default of appearance"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Pre-Trial Motions",
+    "Parties to a Lawsuit",
+    "Service of Process",
+    "Legal Capacity"
+  ],
+  "verdict": "Not applicable; this is a procedural commentary, not a case judgment.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Da Rocha J. B.",
+      "role": "Author (Senior Assistant Government Attorney)"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Geilinger v. Gibbs [1897] 1 Ch. 479",
+    "Yonge v. Toynbee [1910] 1 KB 215",
+    "The Shoesmith [1938] 2 KB 638",
+    "Bonsu v. Bonsu [1971] 2 GLR 242",
+    "Aegis Shipping Co, Ltd v. Volta Line Ltd [1973] 1 GLR 438",
+    "Omane v. Poku [1972] 1 GLR 295",
+    "GIHOC v. Vincenta Publications [1971] 2 GLR 24",
+    "Lartey v. Bannerman [1976] 2 GLR 461",
+    "Robertson v. Akrama II [1973] 1 GLR 445",
+    "Ghana Muslims Representative Council v. Salifu [1975] 2 GLR 246"
+  ],
+  "rationaleHighlights": [
+    "Proper joinder of parties is essential for adjudication, but misjoinder does not defeat a cause; the court may add or strike out parties.",
+    "Persons under disability (infants, mentally disordered) must sue or defend through a next friend or guardian ad litem; failure invalidates proceedings.",
+    "A cause of action requires a legal right infringed or threatened, justifying court intervention.",
+    "The court has discretion to order separate trials or require election of causes where joinder causes delay or embarrassment.",
+    "Service of writ must be personal unless substituted service is ordered; bailiffs must certify service."
+  ],
+  "confidenceNotes": "The document is a legal commentary by Da Rocha J. B. (SAG) on pre-trial civil procedure under Ghana's High Court (Civil Procedure) Rules, LI 1129. It is not a judgment but an authoritative exposition of procedural rules, citing relevant case law and statutory provisions. All information is consistent with Ghanaian civil procedure.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/87 - 88/MISCELLANY-AT-LAW PRE-TRIAL—HIGH COURT (CIVIL PROCEDURE) RUL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:23:29.141Z",
+    "plainTextLength": 32305
+  }
+}

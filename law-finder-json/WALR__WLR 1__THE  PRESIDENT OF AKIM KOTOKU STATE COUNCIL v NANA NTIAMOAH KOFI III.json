@@ -1,0 +1,67 @@
+{
+  "caseTitle": "THE PRESIDENT OF AKIM KOTOKU STATE COUNCIL v NANA NTIAMOAH KOFI III",
+  "summary": "This 1955 West African Court of Appeal decision concerns an appeal by the President of the Akim Kotoku State Council against the reversal of a conviction of Nana Ntiamoah Kofi III, a former chief, for failing to surrender stool properties as required by a State Council order. The respondent was initially destooled in 1952 by the State Council for violating sacred customs, and ordered to surrender stool property. After non-compliance, he was convicted under Section 15(2) of the State Councils Ordinance. A second order in 1954, referencing a Supreme Court judgment, led to a second conviction, which was overturned on appeal on procedural grounds. The appellate court held that the 1954 order, though citing judicial decisions, was rooted in the Council’s original 1952 decision and was validly made under the Ordinance. The appeal was allowed, the conviction restored, and the lower court’s judgment set aside.",
+  "legalKeywords": [
+    "State Councils Ordinance",
+    "stool properties",
+    "destoolment",
+    "self-help",
+    "customary law",
+    "judicial enforcement",
+    "procedural validity",
+    "appellate review",
+    "criminal contempt",
+    "traditional authority",
+    "judicial recital",
+    "enforcement of orders",
+    "Ghanaian customary institutions",
+    "colonial-era legislation",
+    "judicial deference"
+  ],
+  "topics": [
+    "Customary Law",
+    "Administrative Law",
+    "Criminal Procedure",
+    "Appellate Jurisdiction",
+    "Traditional Leadership"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Korsah Ag.C.J.",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Foster-Sutton P.",
+      "role": "Concurred"
+    },
+    {
+      "name": "Coussey J.A.",
+      "role": "Agreed"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "State Councils (Colony and Southern Togoland) Ordinance, c. 8 of 1952, ss. 10 and 15"
+  ],
+  "rationaleHighlights": [
+    "The 1954 State Council order, though referencing a court judgment, was not based on it but on the Council’s 1952 destoolment decision.",
+    "Recitals citing judicial decisions do not invalidate an administrative order if rooted in prior valid council action.",
+    "The original 1952 decision was upheld by a competent court, lending legitimacy to subsequent enforcement.",
+    "The State Council acted within its statutory authority under Section 15 of the Ordinance.",
+    "The lower court erred in quashing the conviction on procedural grounds."
+  ],
+  "confidenceNotes": "High confidence; source is a published legal report with clear judicial reasoning and citation of statutory provisions.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/THE  PRESIDENT OF AKIM KOTOKU STATE COUNCIL v NANA NTIAMOAH KOFI III.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:49:13.440Z",
+    "plainTextLength": 7385
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "caseTitle": "ALHAJI MOHAMMED MORU VRS MOHAMMED HUSEINI,",
+  "summary": "This is a civil land dispute before the Supreme Court of Ghana, arising from a conflict over ownership and possession of land at Sowutuom. The plaintiff, Alhaji Mohammed Moru, claimed the defendant, Mohammed Huseini, was a tenant who failed to pay rent and breached an oral agreement, seeking ejectment and recovery of possession. The defendant denied tenancy and counterclaimed ownership based on a 1997 lease from the Abola Piem (Tunma We) Family. The trial court ruled for the plaintiff, a decision upheld by the Court of Appeal. However, the Court of Appeal found the plaintiff's power of attorney void under the Power of Attorney Act, 1998 (Act 548), due to lack of attestation, thus invalidating the plaintiff's capacity to sue. Despite this, the Court upheld the judgment because the defendant failed to prove his counterclaim. The Supreme Court affirmed this outcome, stressing that while the plaintiff's case was defective, the defendant did not meet the burden of proving title, and concurrent findings of lower courts would not be disturbed absent a clear miscarriage of justice.",
+  "legalKeywords": [
+    "land dispute",
+    "tenancy agreement",
+    "breach of contract",
+    "ejectment",
+    "recovery of possession",
+    "counterclaim",
+    "title to land",
+    "trespas",
+    "power of attorney",
+    "void instrument",
+    "burden of proof",
+    "onus of proof",
+    "oral agreement",
+    "lease agreement",
+    "concurrent findings",
+    "capacity to sue",
+    "estoppel",
+    "appellate review",
+    "weight of evidence",
+    "miscarriage of justice"
+  ],
+  "topics": [
+    "Land Law",
+    "Contract Law",
+    "Civil Procedure",
+    "Appellate Jurisdiction",
+    "Legal Capacity"
+  ],
+  "verdict": "Appeal dismissed. Decision of the Court of Appeal and trial court upheld.",
+  "winningSide": "Plaintiff/Respondent (Alhaji Mohammed Moru)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Baffoe-Bonnie, JSC",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "Atuguba, JSC",
+      "role": "Presiding"
+    },
+    {
+      "name": "Adinyira (Mrs), JSC",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Owusu (Ms), JSC",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Dotse, JSC",
+      "role": "Cited in reasoning"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil land dispute",
+  "citations": [
+    "Edmund Asante-Appiah vrs Madam Kate Amponsah alias Yaa Mensah (2009) 1 MLRG 100",
+    "Djin V Musa Baako 2007-2008 SCGLR 636",
+    "AKUFFO ADDO V CATHELINE (1992) GLR 377 SC",
+    "PRAKA V KETEWA [1964] GLR 423",
+    "ACHORO V AKANFELA [1996-97] SCGLR 209",
+    "Bonney v Bonney (1992-93) GBR 779 SC",
+    "Fosua and Adu Poku v Dufie (deceased) and Adu-Poku Mensah 2009 SCGLR 310",
+    "The Republic V High Court, Accra; ex parte Aryeetey (Ankrah, Interested party) (2003-2004) 1 SCGLR 398"
+  ],
+  "rationaleHighlights": [
+    "Power of attorney not witnessed, thus void under Act 548, invalidating plaintiff's capacity to sue",
+    "Despite voiding plaintiff's case, Court of Appeal upheld decision due to defendant's failure to prove counterclaim",
+    "Supreme Court emphasized high threshold for overturning concurrent findings of lower courts",
+    "Capacity to sue is a fundamental legal point that can be raised at any stage, including on appeal"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy due to direct extraction from official court judgment text and clear citation of legal precedents.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2013/ALHAJI  MOHAMMED  MORU  VRS MOHAMMED HUSEINI,.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:18:14.109Z",
+    "plainTextLength": 21319
+  }
+}

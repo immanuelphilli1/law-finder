@@ -1,0 +1,63 @@
+{
+  "caseTitle": "AZAR VERSUS SAAD.",
+  "summary": "In Azar v. Saad, the West African Court of Appeal upheld a landlord's recovery of possession of premises used partly for residence and partly for business, under s. 11(1)(d) of the Rent Control Ordinance, 1952. The court held that the phrase 'any premises' in the provision encompasses all tenanted premises, and the requirement that the premises be 'required for personal occupation as a dwelling-house' refers only to the purpose of the landlord's use, not the prior use by the tenant. Thus, even mixed-use premises qualify if the landlord genuinely needs them for family occupation. The appeal, which argued that s. 11(1)(d) applied only to exclusively residential premises, was dismissed.",
+  "legalKeywords": [
+    "landlord and tenant",
+    "recovery of possession",
+    "personal occupation",
+    "dwelling-house",
+    "Rent Control Ordinance",
+    "statutory tenancy",
+    "premises use",
+    "section 11(1)(d)",
+    "section 3 definition",
+    "business and residential use"
+  ],
+  "topics": [
+    "Landlord and Tenant",
+    "Property Law",
+    "Statutory Interpretation",
+    "Rent Control",
+    "Possession Orders"
+  ],
+  "verdict": "Appeal dismissed with costs.",
+  "winningSide": "Plaintiff (landlord)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Verity Ag.J.A.",
+      "role": "deciding judge"
+    },
+    {
+      "name": "Coussey P.",
+      "role": "concurring judge"
+    },
+    {
+      "name": "Korsah C.J.",
+      "role": "concurring judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "appeal",
+  "citations": [
+    "Rent Control Ordinance, c. 2 of 1952, s. 11(1)(d)",
+    "Rent Control Ordinance, c. 2 of 1952, s. 3"
+  ],
+  "rationaleHighlights": [
+    "The term 'any premises' in s. 11(1) includes all tenanted premises, regardless of current use.",
+    "The limitation 'as a dwelling-house' applies only to the landlord's purpose, not the nature of the premises.",
+    "Premises used partly for business and partly for habitation still qualify under s. 11(1)(d).",
+    "No implied restriction limiting s. 11(1)(d) to exclusively residential premises.",
+    "Court rejected attempt to import restriction not present in statutory language."
+  ],
+  "confidenceNotes": "High confidence; judgment is clear and reasoning is well-articulated by the court.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/AZAR v. SAAD.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:40:53.369Z",
+    "plainTextLength": 5956
+  }
+}

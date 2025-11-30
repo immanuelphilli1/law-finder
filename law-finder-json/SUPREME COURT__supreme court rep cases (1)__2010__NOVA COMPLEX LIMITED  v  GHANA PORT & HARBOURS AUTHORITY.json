@@ -1,0 +1,82 @@
+{
+  "caseTitle": "NOVA COMPLEX LIMITED v GHANA PORT & HARBOURS AUTHORITY",
+  "summary": "This Supreme Court of Ghana case, Nova Complex Limited v Ghana Port & Harbours Authority, centered on the correct rate of post-judgment interest applicable to a debt. The Supreme Court had previously awarded judgment on 15th November 2006, and the dispute arose over whether post-judgment interest should be calculated under the older 4% rate (Order 42 r15, LN 140A) or the newer Court (Award of Interest and Post-Judgment Interest) Rules, 2005 (CI 52). The appellant argued that applying CI 52 retroactively from the 2004 High Court judgment was unconstitutional. The Supreme Court unanimously rejected this, holding that CI 52 applied prospectively from its own 2006 final judgment, not retroactively from 2004. It affirmed that the final appellate judgment is the operative date for post-judgment interest under CI 52. The Court also upheld the Court of Appeal’s decision that post-judgment interest on the US dollar component should accrue at the prevailing U.S. rate until final payment, rejecting the use of the Bank of Ghana's rate. The appeal was dismissed.",
+  "legalKeywords": [
+    "post-judgment interest",
+    "garnishee order",
+    "CI 52",
+    "retroactive application",
+    "interest rate",
+    "appellate judgment",
+    "procedural rules",
+    "Bank of Ghana",
+    "91-day Treasury Bill rate",
+    "US dollar prime rate",
+    "statutory interest",
+    "final judgment",
+    "Court of Appeal",
+    "Supreme Court",
+    "interest on damages"
+  ],
+  "topics": [
+    "Interest on Judgment Debts",
+    "Appellate Jurisdiction",
+    "Procedural Law",
+    "Constitutional Law",
+    "Civil Procedure"
+  ],
+  "verdict": "The appeal by the Ghana Port & Harbours Authority was dismissed. The Supreme Court upheld the Court of Appeal's decision that post-judgment interest on the US dollar component of the debt should be calculated at the prevailing U.S. rate until final payment, in accordance with CI 52.",
+  "winningSide": "Nova Complex Limited",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Adinyira (Mrs)",
+      "role": "Justice"
+    },
+    {
+      "name": "Dotse",
+      "role": "Justice"
+    },
+    {
+      "name": "Anin Yeboah",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "[2007-2008] SCGLR 440",
+    "[2007-2008] SCGLR 602",
+    "[2005-2006] SCGLR 667",
+    "[2005-2006] SCGLR 816",
+    "CI 52",
+    "Order 42 r15, LN 140A",
+    "Article 107, 1992 Constitution",
+    "Article 157(2), 1992 Constitution"
+  ],
+  "rationaleHighlights": [
+    "The operative judgment for post-judgment interest under CI 52 is the final appellate judgment, not the trial court's.",
+    "CI 52 does not apply retroactively because it was in force at the time of the final judgment (Nov 2006).",
+    "Article 107 of the 1992 Constitution does not bar CI 52 as it is made by the Rules of Court Committee, not Parliament.",
+    "Post-judgment interest applies automatically from the date of final judgment until full payment.",
+    "The Court of Appeal correctly ordered interest on the dollar component at the prevailing U.S. rate until payment."
+  ],
+  "confidenceNotes": "All information is drawn directly from the provided judgment text. Citations are explicitly mentioned in the document.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/2010/NOVA COMPLEX LIMITED  v  GHANA PORT & HARBOURS AUTHORITY.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:40:34.830Z",
+    "plainTextLength": 20386
+  }
+}

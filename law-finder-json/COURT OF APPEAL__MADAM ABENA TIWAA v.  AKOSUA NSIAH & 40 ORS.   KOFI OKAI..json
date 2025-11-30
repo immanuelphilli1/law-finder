@@ -1,0 +1,74 @@
+{
+  "caseTitle": "ABENA TIWAA v. AKOSUA NSIAH & 40 ORS. KOFI OKAI.",
+  "summary": "In this civil appeal before the Ghana Court of Appeal, the respondent (Madam Abena Tiwaa) had obtained a judgment in the High Court, Kumasi, declaring her title to a parcel of land at Asokori on Asokore Stool lands, bounded by properties of Kwasi Owusu, Kwasi Dadaa, Yaw Darkwa, and the Mununkum and Yamoah Naama streams, and was granted a perpetual injunction and damages. The appellants challenged the judgment primarily on the ground that the land description was vague and insufficient. The Court of Appeal upheld the lower court's decision, holding that the description—though lacking precise measurements or a survey plan—was adequate, as it included identifiable boundary markers and adjacent landowners. The court relied on the principle in Anane v Donkor that land must be clearly identifiable for enforcement and res judicata, but found the description sufficient in this case. Additionally, the court applied estoppel by conduct under NRCD 323 s 26, noting the appellants' silence during key testimony. The unchallenged evidence of trespass by the respondent's star witness (PW3), who admitted crossing a known boundary, further corroborated the respondent's title. The appeal was dismissed in its entirety.",
+  "legalKeywords": [
+    "declaration of title",
+    "perpetual injunction",
+    "land dispute",
+    "estoppel by conduct",
+    "boundary identification",
+    "res judicata",
+    "customary land",
+    "survey plan",
+    "trespass",
+    "burden of proof",
+    "evidence",
+    "statement of claim",
+    "writ of summons",
+    "appellate review",
+    "injunction enforcement"
+  ],
+  "topics": [
+    "Land Law",
+    "Civil Procedure",
+    "Evidence",
+    "Estoppel",
+    "Appellate Law"
+  ],
+  "verdict": "Appeal dismissed; judgment of the High Court upheld.",
+  "winningSide": "Respondent (Madam Abena Tiwaa)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Tweneboa-Kodua, J.A.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Farkye, J.A.",
+      "role": "Concurring Judge"
+    },
+    {
+      "name": "Asiamah, J.A.",
+      "role": "Concurring Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil",
+  "citations": [
+    "ANANE & ANOR vrs. DONKOR & ANOR [1965] GLR. 188",
+    "YENU vrs. ASARF Suit No. 2810/86",
+    "NRCD 323, s 26",
+    "NRCD 323, s 12"
+  ],
+  "rationaleHighlights": [
+    "The land description, though lacking measurements and compass points, was sufficient due to named boundary owners and natural features.",
+    "Principle from Anane v Donkor applied: land must be identifiable for enforcement and res judicata.",
+    "Estoppel under NRCD 323 s 26 barred appellants from contesting title due to prior conduct and silence.",
+    "Unchallenged testimony of PW3 established trespass and confirmed boundary.",
+    "No survey plan required where oral and contextual evidence sufficiently identifies the land.",
+    "Appellants' failure to contest identity in lower court weakened appellate challenge.",
+    "Judgment upheld because evidence met the standard of preponderance of probabilities under NRCD 323 s 12.",
+    "Appeal dismissed as grounds were either abandoned or without merit."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct textual evidence from the judgment. All legal principles, parties, and outcomes are explicitly stated in the source.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/MADAM ABENA TIWAA v.  AKOSUA NSIAH & 40 ORS.   KOFI OKAI..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:17:52.870Z",
+    "plainTextLength": 14129
+  },
+  "trialDate": "2004-03-26"
+}

@@ -1,0 +1,69 @@
+{
+  "caseTitle": "REX v NWACHUKU NWAGBOSA",
+  "summary": "This 1937 West Africa Court of Appeal decision involved an application by Nwachuku Nwagbosa, convicted of murder in 1933 and sentenced to death (later commuted to life imprisonment), seeking extension of time and leave to appeal under Section 13(1) of Ordinance No. 47 of 1933. The Crown opposed the application. The Court dismissed the application, following the precedent in Rex v. Twynham, and directed that similar future applications should not be listed without prior judicial review for exclusion. The appellant appeared in person, with Ivor Brace representing the Crown.",
+  "legalKeywords": [
+    "murder conviction",
+    "commutation of sentence",
+    "application for leave to appeal",
+    "extension of time",
+    "Section 13(1) Ordinance No. 47 of 1933",
+    "Rex v. Twynham",
+    "West Africa Court of Appeal",
+    "life imprisonment",
+    "criminal appeal procedure",
+    "in person appellant",
+    "Crown opposition",
+    "judicial discretion",
+    "appellate jurisdiction",
+    "sentence mitigation",
+    "procedural bar"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Sentencing",
+    "Legal Representation"
+  ],
+  "verdict": "Application dismissed",
+  "winningSide": "Respondent (Crown)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "President"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Rex v. Twynham, XV Criminal Appeal Reports, p. 38",
+    "Section 13(1) of Ordinance No. 47 of 1933"
+  ],
+  "rationaleHighlights": [
+    "Application made years after conviction and commutation",
+    "Precedent in Rex v. Twynham followed",
+    "Court exercised discretion to dismiss",
+    "Future similar applications to be screened by a judge",
+    "No detailed facts provided in ruling",
+    "Appellant proceeded in person"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on court document; limited detail on case facts due to summary nature of ruling.",
+  "metadata": {
+    "sourcePath": "WACA/3 WACA/REX v NWACHUKU NWAGBOSA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:12:07.200Z",
+    "plainTextLength": 1418
+  },
+  "trialDate": "1937-01-05"
+}

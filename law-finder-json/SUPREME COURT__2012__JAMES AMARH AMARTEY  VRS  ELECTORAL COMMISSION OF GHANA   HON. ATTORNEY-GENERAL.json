@@ -1,0 +1,82 @@
+{
+  "caseTitle": "JAMES AMARH AMARTEY VRS ELECTORAL COMMISSION OF GHANA HON. ATTORNEY-GENERAL",
+  "summary": "In James Amarh Amarteys v. Electoral Commission of Ghana & Hon. Attorney-General (Writ No. J1/25/2012, 24th October 2012), the Supreme Court of Ghana ruled that the Minister for Local Government exceeded constitutional authority by creating electoral areas via Local Government (Creation of New District Electoral Areas and Designation of Units) Instrument, L.I. 1983 of 2010. The Court held that under Article 45(b) of the 1992 Constitution, only the Electoral Commission has the power to demarcate electoral boundaries for national and local elections. The creation of electoral areas under Section 3(3) and (4) of the Local Government Act, 1993 (Act 462) was found to be ultra vires and inconsistent with the Constitution, rendering L.I. 1983 null and void. Furthermore, the Representation of the People (Parliamentary Constituencies) Instrument, 2012 (C.I. 78), which incorporated these invalid electoral areas, was also declared unconstitutional and void. The Court rejected the argument that 'electoral areas' and 'electoral boundaries' are distinct legal concepts when used for representation purposes. It affirmed prior rulings and emphasized the supremacy of the Constitution under Article 1(2), ordering that the December 2012 elections be conducted under the previous valid instrument, C.I. 46 of 2004.",
+  "legalKeywords": [
+    "electoral boundaries",
+    "electoral commission powers",
+    "local government act",
+    "constitutional supremacy",
+    "judicial review",
+    "ultra vires",
+    "demarcation of constituencies",
+    "separation of powers",
+    "Article 45(b)",
+    "Article 242",
+    "legislative instrument",
+    "democratic elections"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Election Law",
+    "Judicial Review",
+    "Separation of Powers",
+    "Electoral Commission Authority"
+  ],
+  "verdict": "The Local Government Instrument L.I. 1983 and the Representation of the People Instrument C.I. 78 were declared null and void for being unconstitutional. The Electoral Commission was required to use the previous valid instrument (C.I. 46, 2004) for the 2012 elections.",
+  "winningSide": "Plaintiff (James Amarh Amartey)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Owusu (Ms.) J.S.C.",
+      "role": "Delivering Judgment"
+    },
+    {
+      "name": "Atuguba, A.G. C.J.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Dr. Date-Bah, J.S.C."
+    },
+    {
+      "name": "Ansa, J.S.C."
+    },
+    {
+      "name": "Anin-Yeboah, J.S.C."
+    },
+    {
+      "name": "Gbadebe, J.S.C."
+    },
+    {
+      "name": "Akoto-Bamfo (Mrs.), J.S.C."
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Article 45(b), Constitution of Ghana, 1992",
+    "Article 2(1), Constitution of Ghana, 1992",
+    "Article 242(a), Constitution of Ghana, 1992",
+    "Local Government Act, 1993 (Act 462), Section 3(3) and (4)",
+    "Dr. Clement Apaak v. Electoral Commission & Hon. Attorney-General, Suit No. J1/27/2012",
+    "Charles Mate-Korle & Anor v. Electoral Commission & Anor, Writ No. J1/4/2011",
+    "Okane & 4 others v. Electoral Commission & Attorney-General, [2011] SCGLR 1136"
+  ],
+  "rationaleHighlights": [
+    "Creation of electoral areas is constitutionally vested exclusively in the Electoral Commission under Article 45(b), not the Minister for Local Government.",
+    "The Local Government Act (Act 462) does not empower the Minister to create electoral areas, only administrative units.",
+    "L.I. 1983 is ultra vires and inconsistent with the 1992 Constitution, thus void under Article 1(2).",
+    "C.I. 78, incorporating unconstitutionally created electoral areas, is also null and void.",
+    "The court reaffirmed its prior decisions on this issue, showing consistency in constitutional interpretation.",
+    "Distinction between 'electoral areas' and 'electoral boundaries' rejected as legally untenable when linked to representation."
+  ],
+  "confidenceNotes": "The judgment is clear and unanimous; the court explicitly affirms prior precedent and applies constitutional supremacy under Article 1(2). The distinction between 'electoral areas' and 'electoral boundaries' was directly addressed and rejected as legally unsustainable.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/JAMES AMARH AMARTEY  VRS  ELECTORAL COMMISSION OF GHANA   HON. ATTORNEY-GENERAL.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:31:24.545Z",
+    "plainTextLength": 22063
+  }
+}

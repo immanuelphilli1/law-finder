@@ -1,0 +1,63 @@
+{
+  "caseTitle": "THE QUALIFICATION AND THE CONSTITUTIONAL POSITION OF THE ATT",
+  "summary": "This legal analysis examines the constitutional and institutional evolution of the office of the Attorney-General in Ghana from the colonial era through military and republican governments up to 1990. Initially a colonial public service position appointed by the Crown and not accountable to local assemblies, the Attorney-General became a political appointee under the 1960 Republican Constitution, subject to presidential direction. Subsequent military regimes (NLC, NRC, PNDC) alternated between treating the office as political or civil service, with some introducing minimum legal qualifications (e.g., 12–15 years at the Bar). The PNDC’s PNDCL 42 established a legal service and board, while LI 1288 purported to make the Attorney-General a public servant with enhanced qualifications—raising questions about the legality of such delegation. The article critiques the ambiguity between the roles of Attorney-General and Secretary for Justice, arguing that a combined office model is more functional than a separate office concept in Ghana’s constitutional framework.",
+  "legalKeywords": [
+    "Attorney-General",
+    "constitutional position",
+    "legal service",
+    "public servant",
+    "appointment",
+    "qualification",
+    "rule of law",
+    "separation of powers",
+    "judicial independence",
+    "legal reform",
+    "constitutional history",
+    "PNDC",
+    "NLC",
+    "NRC",
+    "deputy Attorney-General"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Legal History",
+    "Judicial Appointments",
+    "Separation of Powers",
+    "Rule of Law"
+  ],
+  "verdict": "The article concludes that the combined office model of the Attorney-General and Minister for Justice is constitutionally and practically preferable to a separate office structure in Ghana.",
+  "winningSide": "Combined office model",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Academic Commentary",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Gold Coast (Constitution) Order in Council, 1950",
+    "Gold Coast (Constitution) (Amendment) Order in Council, 1952",
+    "Gold Coast (Constitution) Order in Council, 1954",
+    "Ghana (Constitution) Order in Council, 1957",
+    "Republican Constitution, 1960",
+    "Constitution of the Second Republic, 1969",
+    "Provisional National Defence Council (Establishment) Proclamation, 1981",
+    "PNDCL 42",
+    "Legal Service Regulations, 1983 (LI 1288)"
+  ],
+  "rationaleHighlights": [
+    "The office of the Attorney-General evolved from a colonial public service role to a political appointment under republican constitutions.",
+    "Military regimes introduced formal legal qualifications (e.g., 12–15 years at the Bar) and attempted to reclassify the Attorney-General as a civil servant.",
+    "PNDCL 42 and LI 1288 created ambiguity by allowing the Legal Service Board to redefine the status and qualifications of the Attorney-General via regulation.",
+    "The conflation of the roles of Attorney-General and Secretary for Justice raises constitutional and functional concerns.",
+    "Historically, the separate office concept has proven problematic in ensuring coherent legal governance."
+  ],
+  "confidenceNotes": "The document is an academic legal analysis rather than a court judgment; citations are drawn from referenced constitutional instruments and statutory provisions.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/89 - 90/THE QUALIFICATION AND THE CONSTITUTIONAL POSITION OF THE ATT.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:52:20.659Z",
+    "plainTextLength": 56865
+  },
+  "trialDate": "1990-11-09"
+}

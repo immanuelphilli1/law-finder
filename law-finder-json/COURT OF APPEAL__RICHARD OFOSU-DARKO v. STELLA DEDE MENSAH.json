@@ -1,0 +1,65 @@
+{
+  "caseTitle": "RICHARD OFOSU-DARKO v. STELLA DEDE MENSAH",
+  "summary": "In Richard Ofosu-Darko v. Stella Dede Mensah, a 2003 Court of Appeal decision in Ghana, the appellant, Stella Dede Mensah, appealed the trial court's judgment in favor of the respondent, Richard Ofosu-Darko, who had established ownership and possession of a disputed property. The respondent proved title through documentary evidence, including a Land Certificate (Exhibit 'J'), and corroborated oral testimony from witnesses. The appellant failed to call key witnesses who granted her title and could not prove possession or direct documentary linkage to the land. Although a court-appointed surveyor noted minor discrepancies in the plans, these did not undermine the conclusion that both parties referred to the same parcel of land. The Court of Appeal upheld the trial court’s finding that possession coupled with better title entitled the respondent to judgment. The appeal was dismissed, and the appellant was ordered to pay ₵3 million in costs.",
+  "legalKeywords": [
+    "title to land",
+    "possession of land",
+    "documentary evidence",
+    "proof of ownership",
+    "surveyor evidence",
+    "corroborated testimony",
+    "superior title",
+    "land dispute",
+    "Court of Appeal Ghana",
+    "Land Certificate"
+  ],
+  "topics": [
+    "Property Law",
+    "Land Disputes",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "K. Omari-Sasu",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "P. K. Owusu-Ansah",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "S. Y. Anim",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "BUCKNOR vrs. ESSIEN [1963] 1 GLR 426 (S.C.)",
+    "CONWAY vrs. GEORGE WIMPEY & CO. LTD. (No.2) 2 K.B. 266 at p 274"
+  ],
+  "rationaleHighlights": [
+    "The respondent proved title through documents including a Land Certificate and corroborated witness testimony.",
+    "The appellant failed to call persons who granted her title and lacked direct documentary links to the land.",
+    "Possession coupled with better title prevails in land disputes.",
+    "Minor discrepancies in survey plans did not alter the identity of the land in dispute.",
+    "The court reaffirmed that one cannot be ousted from possession without a superior title.",
+    "The appeal was dismissed due to insufficient evidence from the appellant to overturn the trial court’s findings.",
+    "The trial judge’s evaluation of evidence was upheld on appeal.",
+    "Costs were awarded to the prevailing party as a deterrent against frivolous appeals."
+  ],
+  "confidenceNotes": "The information is drawn directly from the official judgment text published by Ghana Law Finder, with clear attribution of parties, court, judges, and legal reasoning. All details including citations, evidence, and procedural history are explicitly stated in the source document.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/RICHARD OFOSU-DARKO v. STELLA DEDE MENSAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:07:35.490Z",
+    "plainTextLength": 4579
+  },
+  "trialDate": "2003-05-16"
+}

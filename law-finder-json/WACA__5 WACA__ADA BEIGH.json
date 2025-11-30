@@ -1,0 +1,70 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "This 1939 Privy Council judgment concerns the administration of the estate of Tab Beigh, a trader from Bathurst, Gambia, who died in 1927. The case arose from a dispute between the deceased's widow, Ada Beigh (appellant), and executor Colin Shaw (respondent), over the handling of specific bequests under the will, including shop goods, a life interest in property, and a mortgage debt. The trial court found Shaw to be an unsatisfactory witness and held him liable for failing to transfer bequeathed assets, not collecting mortgage interest, and unilaterally using estate funds for property improvements without proper accounting. The West African Court of Appeal reduced the liability significantly, but the Privy Council reinstated key aspects of the original judgment, clarifying principles on executor accountability, indemnity for expenditures benefiting a legatee, and the duty to realize specific bequests. The final determination emphasized that executors must act diligently in administering bequests and account for profits derived from estate assets.",
+  "legalKeywords": [
+    "executor liability",
+    "specific bequest",
+    "probate administration",
+    "indemnity",
+    "account of profits",
+    "mortgage assignment",
+    "life interest",
+    "capital expenditure",
+    "legatee rights",
+    "will interpretation",
+    "duty of care",
+    "compound interest",
+    "rebuilding costs",
+    "remainderman",
+    "implied assent"
+  ],
+  "topics": [
+    "Probate Law",
+    "Trusts and Estates",
+    "Executor Duties",
+    "Property Law",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed in part",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lord Porter",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Sir Sidney Rowlatt"
+    },
+    {
+      "name": "Sir George Rankin"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Judicial Committee of the Privy Council",
+    "country": "United Kingdom (on appeal from West African Court of Appeal)"
+  },
+  "caseType": "Probate and Estate Administration",
+  "citations": [
+    "3 W.A.C.A. p. 16",
+    "WACA/5 WACA/ADA BEIGH.htm"
+  ],
+  "rationaleHighlights": [
+    "Executor Shaw was entitled to indemnity for rebuilding costs at Leman Street because works benefited the life tenant legatee, Ada Beigh.",
+    "Specific bequest of mortgage required executor to assign it to legatee; failure to do so constituted default.",
+    "Executor liable to account with compound interest for use of shop goods bequeathed to appellant.",
+    "Court rejected Shaw's claim for full credit without impleading remaindermen due to potential liability of Roman Catholic Mission.",
+    "Implied assent by executor to transfer of mortgage was insufficient; positive action required.",
+    "Trial judge's factual findings upheld due to opportunity to observe witnesses.",
+    "Duty to collect interest on mortgage fell on executor as legal holder, not the legatee.",
+    "Expenditure for beneficiary’s benefit justifies indemnity even absent formal approval."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on primary source text from official legal repository. Some document truncation occurs near end, but key holdings and reasoning are preserved. Jurisdictional context involves colonial-era West African legal system under British Privy Council oversight.",
+  "metadata": {
+    "sourcePath": "WACA/5 WACA/ADA BEIGH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:51:39.520Z",
+    "plainTextLength": 28412
+  },
+  "trialDate": "27TH MARCH, 1939"
+}

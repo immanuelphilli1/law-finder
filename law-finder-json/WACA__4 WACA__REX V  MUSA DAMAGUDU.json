@@ -1,0 +1,69 @@
+{
+  "caseTitle": "REX V MUSA DAMAGUDU",
+  "summary": "The West Africa Court of Appeal, sitting in Lagos on August 10, 1938, heard an appeal against conviction for murder under section 319 of the Criminal Code. The appellants, Musa and James Damagudu, challenged the trial court's decision on two grounds: improper identification procedure during a locus in quo visit and the finding being against the weight of evidence. The appellate court held that allowing an unsworn witness to identify a site during the visit was procedurally incorrect, as such persons should have been sworn, but found no substantial miscarriage of justice. On the second ground, the court affirmed that the conviction was supported by sufficient evidence. Both appeals were dismissed.",
+  "legalKeywords": [
+    "murder",
+    "section 319 Criminal Code",
+    "weight of evidence",
+    "identification",
+    "unsworn witness",
+    "locus in quo",
+    "miscarriage of justice",
+    "appellate review",
+    "procedural error",
+    "conviction appeal",
+    "West Africa Court of Appeal",
+    "trial procedure",
+    "evidence admissibility",
+    "judicial certification",
+    "criminal appeal"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appellate Procedure",
+    "Evidence Law"
+  ],
+  "verdict": "Appeals dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Cor. Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Rex v Musa Damagudu, James Damagudu, WACA/4, 10th August 1938"
+  ],
+  "rationaleHighlights": [
+    "Procedure allowing unsworn identification during locus in quo was incorrect",
+    "Swearing of witnesses could have occurred on-site",
+    "No substantial miscarriage of justice found",
+    "Finding not against the weight of evidence",
+    "Trial judge properly certified case for appeal",
+    "Appellate court upheld conviction despite procedural flaw",
+    "Identification error deemed non-prejudicial",
+    "Sufficiency of evidence supported conviction"
+  ],
+  "confidenceNotes": "High confidence; information derived directly from appellate judgment text with clear attribution of court, judges, issues, and reasoning. Case predates modern citation standards but is internally consistent.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX V  MUSA DAMAGUDU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:56:54.401Z",
+    "plainTextLength": 2210
+  },
+  "trialDate": "1938-08-10"
+}

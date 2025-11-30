@@ -1,0 +1,62 @@
+{
+  "caseTitle": "REGINA VERSUS SARPONG",
+  "summary": "In Regina v. Sarpong and Frimpong, the Supreme Court of Ghana, Court of Appeal, reviewed convictions arising from two shooting incidents committed by occupants of a moving vehicle during political tensions in Ashanti. The first appellant, Fred Sarpong, fired a shotgun at bystanders and police during two separate passes of a jeep. Both appellants were convicted at Kumasi Assizes on multiple counts including attempted murder, causing a wound, unlawful assembly, and firearm-related charges. The appellate court held that each count must be evaluated independently and that convictions on minor alternative charges (e.g., causing a wound or using a firearm to cause harm) must be quashed when the accused is convicted of the major charge (attempted murder), to avoid double punishment. The second appellant, Yaw Frimpong, was not proven to be present during the first incident; thus, his convictions on counts one and three were set aside. However, his presence during the second incident and participation in a common design supported his conviction for attempted murder and unlawful assembly. The court affirmed that an unlawful assembly may occur in a moving vehicle if the conduct instills reasonable fear, regardless of location. Sentences were found manifestly excessive given the absence of prior convictions and the inclusion of alternative charges, leading to their reduction.",
+  "legalKeywords": [
+    "unlawful assembly",
+    "attempted murder",
+    "aiding and abetting",
+    "alternative charges",
+    "double jeopardy",
+    "criminal trial procedure",
+    "moving vehicle",
+    "firearm offence",
+    "actus reus",
+    "common design"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Appeals",
+    "Unlawful Assembly",
+    "Attempted Murder",
+    "Sentencing"
+  ],
+  "verdict": "Appeal allowed in part: convictions on alternative minor charges quashed; convictions on attempted murder and unlawful assembly upheld; sentences reduced.",
+  "winningSide": "Partial victory for appellants; Crown's convictions on major charges upheld but minor convictions and sentences overturned.",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Korsah C.J."
+    },
+    {
+      "name": "Quashie Idun"
+    },
+    {
+      "name": "van Lare J.",
+      "role": "delivered judgment"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana, Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "R. v. Appea (1951) 13 W.A.C.A. 143",
+    "Criminal Code, c. 9 of 1951, ss. 360 and 374"
+  ],
+  "rationaleHighlights": [
+    "Each count in a multi-accused trial must be considered separately; verdicts are independent.",
+    "Conviction on a major charge (e.g., attempted murder) subsumes a minor alternative charge (e.g., causing a wound); double punishment prohibited.",
+    "Unlawful assembly can occur in a moving vehicle if conduct causes reasonable fear in the neighborhood.",
+    "No evidence linked second appellant to first shooting; conviction overturned on that basis.",
+    "Presence and conduct in a moving vehicle can establish complicity under common design.",
+    "Sentences reduced due to lack of prior convictions and inclusion of alternative minor charges."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear legal reasoning and citation.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/REGINA v. SARPONG AND FRIMPONG.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:23:26.557Z",
+    "plainTextLength": 16287
+  }
+}

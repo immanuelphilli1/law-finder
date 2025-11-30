@@ -1,0 +1,65 @@
+{
+  "caseTitle": "REX v JOHNSON OGUMA",
+  "summary": "This 1938 West African Court of Appeal decision involved Johnson Oguma, who was convicted under sections 404(1) and 100 of the Criminal Code for demanding property as a public officer and receiving property to show favor. The appeal challenged the convictions. The court found that while the second count was validly sustained, the third count failed because section 100 requires a transaction pending with a person employed in public service, but the case involved a private prosecutor instead. Consequently, the appeal was allowed on the third count, leading to acquittal on that charge, while the appeal on the second count was dismissed, and the twelve-month sentence was upheld.",
+  "legalKeywords": [
+    "public officer",
+    "section 404 Criminal Code",
+    "section 100 Criminal Code",
+    "transaction pending",
+    "private prosecutor",
+    "demanding property",
+    "receiving property",
+    "favoritism",
+    "conviction quashed",
+    "acquittal",
+    "sentence upheld",
+    "appeal dismissed",
+    "West African Court of Appeal",
+    "criminal offense",
+    "public service"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Public Corruption",
+    "Appellate Procedure"
+  ],
+  "verdict": "Appeal allowed on third count; appeal dismissed on second count",
+  "winningSide": "Respondent (partial)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webb",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Criminal Appeal",
+  "citations": [
+    "Rex v Johnson Oguma, WACA/4, 1st November 1938"
+  ],
+  "rationaleHighlights": [
+    "Section 100 requires a transaction with a person in public service",
+    "Private prosecutor does not satisfy section 100 requirement",
+    "Conviction under section 100 invalid without public service nexus",
+    "Appeal allowed due to lack of statutory elements"
+  ],
+  "confidenceNotes": "High confidence; source document is a clear judicial decision with identifiable court, judges, and legal reasoning, though formatting limitations exist.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX v  JOHNSON OGUMA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:55:49.185Z",
+    "plainTextLength": 2526
+  },
+  "trialDate": "1938-11-01"
+}

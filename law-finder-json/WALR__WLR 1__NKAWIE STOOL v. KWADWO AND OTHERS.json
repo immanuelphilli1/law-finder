@@ -1,0 +1,73 @@
+{
+  "caseTitle": "NKAWIE STOOL VERSUS KWADWO AND OTHERS",
+  "summary": "The case of NKAWIE STOOL v. KWADWO AND OTHERS involved an appeal from a Land Court judgment that non-suited the plaintiff with liberty to bring a fresh action. The defendants appealed this decision to the West African Court of Appeal, but a preliminary objection was raised that the order was interlocutory and thus required special leave to appeal, which had not been obtained. The court held that an order dismissing an action without prejudice to re-filing does not finally determine the rights of the parties and is therefore interlocutory. Relying on Isaacs & Sons v. Salbstein, the court applied the test of whether the judgment finally disposes of the parties' rights, concluding that it does not. As special leave was not obtained, the appeal was struck out.",
+  "legalKeywords": [
+    "interlocutory order",
+    "final judgment",
+    "special leave to appeal",
+    "non-suit",
+    "right to refile",
+    "appeal jurisdiction",
+    "West African Court of Appeal",
+    "Land Court",
+    "procedural dismissal",
+    "finality of judgment",
+    "dismissal without prejudice",
+    "appellate procedure",
+    "judgment variation",
+    "costs award",
+    "liberty to sue again"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Civil Procedure",
+    "Land Law",
+    "Judicial Orders"
+  ],
+  "verdict": "Appeal struck out",
+  "winningSide": "Plaintiff (by procedural default)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Korsah J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Baker Ag.J.A.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal, Gold Coast Session",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Isaacs & Sons v. Salbstein [1916] 2 K.B. 139, C.A.",
+    "Samodua and Another v. Konadi and Another (W.A.C.A., March 29, 1954, unreported)",
+    "Bozson v. Altrincham Urban Council [1903] 1 K.B. 547, C.A.",
+    "Salaman v. Warner [1891] 2 Q.B.D. 734, C.A.",
+    "Standard Discount Co. v. La Grange (1877) 3 C.P.D. 67, C.A."
+  ],
+  "rationaleHighlights": [
+    "An order that non-suits a plaintiff with liberty to bring a fresh action does not finally dispose of the parties' rights.",
+    "Such an order is interlocutory, not final.",
+    "Special leave to appeal is required for interlocutory orders under the West African Court of Appeal Ordinance.",
+    "The appeal was improperly brought without special leave.",
+    "The test for finality is whether the judgment conclusively determines the rights of the parties.",
+    "Precedent from Isaacs & Sons v. Salbstein was applied.",
+    "Samodua case was distinguished due to different procedural posture.",
+    "Appeal struck out for lack of jurisdiction."
+  ],
+  "confidenceNotes": "High confidence; source is a reported judgment with clear judicial reasoning and citation of authorities. All key details including judges, parties, and legal principles are explicitly stated.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/NKAWIE STOOL v. KWADWO AND OTHERS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:01:00.742Z",
+    "plainTextLength": 6824
+  }
+}

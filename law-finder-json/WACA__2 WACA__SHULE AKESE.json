@@ -1,0 +1,68 @@
+{
+  "caseTitle": "SHULE AKESE",
+  "summary": "This 1935 West African Court of Appeal decision arose from a case originally heard in the Native Court of Calabar, where judgment was awarded to plaintiff Shule Akese against defendant Fatumo. The judgment was later reviewed and modified by the District Officer. The Resident of Calabar Province initially transferred the case to the Magistrate's Court under section 25(1)(c) of the Native Courts Ordinance (Cap. 5), then amended the order to transfer it to the High Court. The Chief Judge, uncertain about the legality and effect of the amended transfer order, referred two questions to the appellate court: (1) whether the amended transfer order was legal and valid, and (2) its legal effect. The court held that the Resident had the authority under section 25(4) to amend the transfer order within one month, making it valid. However, it ruled that transferring a case after final judgment had no legal effect because the proceedings had concluded and no rehearing could be implied.",
+  "legalKeywords": [
+    "transfer of cases",
+    "Native Courts Ordinance",
+    "section 25",
+    "amendment of orders",
+    "jurisdictional authority",
+    "case stated",
+    "High Court jurisdiction",
+    "Magistrate's Court",
+    "final judgment",
+    "proceedings termination",
+    "Resident authority",
+    "District Officer",
+    "judicial review",
+    "legal effect",
+    "order validity"
+  ],
+  "topics": [
+    "Appellate Procedure",
+    "Jurisdiction",
+    "Judicial Review",
+    "Colonial Law",
+    "Nigerian Legal History"
+  ],
+  "verdict": "The amended transfer order was valid but had no legal effect because the original proceedings had concluded.",
+  "winningSide": "None; advisory opinion issued on jurisdictional issue",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Webber",
+      "role": "Chief Justice, Sierra Leone"
+    },
+    {
+      "name": "Yates",
+      "role": "Acting Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "West Africa (Colonial Era)"
+  },
+  "caseType": "Civil Appeal (Case Stated)",
+  "citations": [
+    "Re Palmer v. Hosken [1898] 1 Q.B. 131",
+    "The Duke of Buccleuch (1892) p. 201"
+  ],
+  "rationaleHighlights": [
+    "Section 25(4) permits amendment of transfer orders within one month",
+    "Transfer power under section 25(1)(c) only applies while proceedings are ongoing",
+    "Final judgment terminates proceedings, nullifying transfer effect",
+    "Amended transfer order was procedurally valid but substantively ineffective",
+    "No rehearing can be implied after termination of proceedings"
+  ],
+  "confidenceNotes": "High confidence; decision is clear and well-reasoned with reference to statutory provisions and precedent.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/SHULE AKESE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:16:41.014Z",
+    "plainTextLength": 4771
+  }
+}

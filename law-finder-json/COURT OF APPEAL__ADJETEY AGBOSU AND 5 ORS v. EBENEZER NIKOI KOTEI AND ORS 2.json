@@ -1,0 +1,72 @@
+{
+  "caseTitle": "ADJETEY AGBOSU AND 5 ORS v. EBENEZER NIKOI KOTEI AND",
+  "summary": "In Adjetey Agbosu and 5 Others v. Ebenezer Nikoi Kotey and Others (CA 212/2002 & 218/2002), the Court of Appeal of Ghana dismissed consolidated motions for stay of execution and interim preservation of property. The applicants, plaintiffs in a land dispute, sought to halt execution of a judgment and preserve land pending appeal, alleging the respondent’s family had improperly registered a Statutory Declaration (761/1977) over disputed land. The Court found the applications misconceived because, after allowing the appeal, it had issued no executable order in favor of the respondent. The trial court had dismissed the trespass claim due to lack of evidence, and the appellants failed to prove capacity to sue or clearly identify the boundaries of the land claimed. The Court emphasized that without a showing of prior wrongdoing or a judgment at risk of being undermined, interim relief could not be granted. It also clarified that under Act 122, the Lands Commission is obligated to register submitted documents, and such registration binds only the declarant. The applications were dismissed.",
+  "legalKeywords": [
+    "stay of execution",
+    "preservation of property",
+    "declaration of title",
+    "trespass",
+    "injunction",
+    "Statutory Declaration",
+    "Act 122",
+    "capacity to sue",
+    "land registration",
+    "boundary identification",
+    "evidence",
+    "appeal",
+    "nugatory judgment",
+    "dissipation of assets",
+    "interim order"
+  ],
+  "topics": [
+    "Land Law",
+    "Civil Procedure",
+    "Appeals",
+    "Injunctions",
+    "Evidence"
+  ],
+  "verdict": "Applications for stay of execution and preservation of property dismissed as misconceived.",
+  "winningSide": "Respondent (Ebenezer Nikoi Kotey and Lands Commission Secretariat)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "A. Essilfie-Bondzie",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "S. T. Farkye",
+      "role": "Justice of Appeal"
+    },
+    {
+      "name": "J. Ansa",
+      "role": "Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "CA 212/2002 & 218/2002",
+    "761/1977"
+  ],
+  "rationaleHighlights": [
+    "Appellants failed to prove capacity to sue and identify claimed land boundaries",
+    "No executable order existed post-appeal judgment, rendering stay application moot",
+    "Trespass claim dismissed due to lack of evidence; no appeal against that finding",
+    "Statutory Declaration (761/1977) central to land dispute",
+    "Appellants' fear of land dissipation not grounds for injunction without proven title",
+    "Court emphasized that Lands Commission must register documents per Act 122",
+    "Application dismissed as misconceived due to absence of enforcement order",
+    "Interim relief denied where no prior wrongdoing established"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on court document; no conflicting sources present.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/ADJETEY AGBOSU AND 5 ORS v. EBENEZER NIKOI KOTEI AND ORS 2.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:48:12.330Z",
+    "plainTextLength": 6944
+  },
+  "trialDate": "2002-07-25"
+}

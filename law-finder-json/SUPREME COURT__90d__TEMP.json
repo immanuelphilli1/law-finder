@@ -1,0 +1,39 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The provided document does not contain a legal decision or case details. It appears to be a homepage or informational page for 'Ghana Law Finder,' a legal resource platform offering a self-help guide to the law, case and subject matter index, and contact information. There is no judicial content, ruling, or case analysis present.",
+  "legalKeywords": [
+    "Ghana Law Finder",
+    "legal resource",
+    "case index",
+    "subject matter index",
+    "legal library",
+    "self-help guide",
+    "legal information portal",
+    "copyright notice",
+    "online legal service",
+    "legal database"
+  ],
+  "topics": [
+    "Legal Research",
+    "Legal Information System",
+    "Legal Publishing"
+  ],
+  "verdict": "Not applicable – no judicial decision or case content provided.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Not applicable",
+    "country": "Ghana"
+  },
+  "caseType": "Not applicable",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "Low confidence in case extraction due to absence of case content. Metadata suggests the source is a legal information portal rather than a court decision.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/90d/TEMP.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:51:00.582Z",
+    "plainTextLength": 295
+  }
+}

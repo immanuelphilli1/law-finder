@@ -1,0 +1,76 @@
+{
+  "caseTitle": "KWAMINA KUMA",
+  "summary": "This 1934 West Africa Court of Appeal decision involved a land dispute between Kwamina Kuma (plaintiff-respondent) and Kofi Kuma (defendant-appellant) over a parcel known as Tenkyirem. The plaintiff sought a declaration of title and an injunction but failed to provide sufficient evidence to meet the burden of proof. The court held that the plaintiff should have been non-suited at trial due to inadequate proof of ownership. The defendant successfully demonstrated continuous, unchallenged occupation of the land for six generations through ancestral lineage from Kweku Andoh, a sub-captain of the Abura tribe. The plaintiff's claims of ownership, including alleged permissions granted to others and interference with a land sale, were deemed unconvincing. The appeal was allowed, the lower court's judgment reversed, and a judgment of non-suit entered in favor of the defendant with costs.",
+  "legalKeywords": [
+    "declaration of title",
+    "burden of proof",
+    "land dispute",
+    "ancestral occupation",
+    "non-suit",
+    "continuous possession",
+    "evidence sufficiency",
+    "acts of ownership",
+    "Native Administration Ordinance",
+    "tribal history",
+    "injunction",
+    "fealty",
+    "tribute",
+    "permission to farm",
+    "clearance of land",
+    "undisputed possession",
+    "ownership rights",
+    "judicial reversal",
+    "appellate decision",
+    "Gold Coast legal history"
+  ],
+  "topics": [
+    "Land Law",
+    "Appellate Procedure",
+    "Evidence Law",
+    "Customary Land Tenure",
+    "Legal History"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Yates",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Gold Coast (Ghana)"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "WACA/2 WACA/KWAMINA KUMA"
+  ],
+  "rationaleHighlights": [
+    "Plaintiff failed to discharge burden of proof for declaration of title",
+    "Defendant proved six generations of uninterrupted possession",
+    "Plaintiff's evidence on acts of ownership was vague and uncorroborated",
+    "No demarcation of farms on disputed land plan",
+    "Defendant's ancestors never paid tribute or 'drink' to plaintiff",
+    "Prior abortive litigation in Abakrampa Tribunal did not establish plaintiff's title",
+    "Clearance of land by Kweku Andoh established Abura lineage and possession",
+    "Court found lower judge erred in not non-suiting plaintiff"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on original court transcript; all details extracted directly from judgment text.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/KWAMINA  KUMA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:24:47.379Z",
+    "plainTextLength": 5481
+  },
+  "trialDate": "1934-11-20"
+}

@@ -1,0 +1,62 @@
+{
+  "caseTitle": "REGINA VERSUS VAL-VANNIS.",
+  "summary": "In Regina v. Val-Vannis, the appellant was convicted of theft at the Accra Assize and appealed on the grounds that his application to plead alibi and subpoena defense witnesses was wrongly rejected. The West African Court of Appeal upheld the conviction, ruling that while the appellant failed to comply with the mandatory notice requirement under s. 131(1) of the Criminal Procedure Code, c. 10 of 1951, this did not prevent him from presenting an alibi defense during trial. The court emphasized that under s. 131(3), the trial judge should have required the accused to provide details of the alibi to the prosecution, but the failure to do so—coupled with no objection from the prosecution—worked to the appellant's advantage. The appellant was allowed to present evidence supporting his alibi, including calling a police inspector, but failed to substantiate it. The court found no unfairness in the trial process and dismissed the appeal.",
+  "legalKeywords": [
+    "alibi",
+    "criminal law",
+    "notice requirement",
+    "fair trial",
+    "subpoena",
+    "Criminal Procedure Code",
+    "trial procedure",
+    "assessors",
+    "prosecution objection",
+    "evidence"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Procedural Fairness",
+    "Alibi Defence",
+    "Witness Subpoena",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal dismissed; conviction for theft upheld.",
+  "winningSide": "Prosecution",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Coussey P.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Korsah C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Verity Ag.JA",
+      "role": "Acting Justice of Appeal"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Criminal Procedure Code, c. 10 of 1951, s. 131 (1) and (3)"
+  ],
+  "rationaleHighlights": [
+    "Failure to give prior notice of alibi does not bar its presentation at trial.",
+    "Court must require accused to provide alibi details under s. 131(3) if no prior notice given.",
+    "Absence of prosecution objection allows trial to proceed despite late alibi notice.",
+    "Defendant can still present alibi evidence even if Crown refuses to subpoena witnesses.",
+    "Defendant's failure to substantiate alibi led to dismissal of appeal."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment and procedural facts are clearly documented.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/REGINA v. VAL-VANNIS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:23:02.243Z",
+    "plainTextLength": 7977
+  }
+}

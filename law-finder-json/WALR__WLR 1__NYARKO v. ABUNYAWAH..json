@@ -1,0 +1,65 @@
+{
+  "caseTitle": "NYARKO VERSUS ABUNYAWAH.",
+  "summary": "This 1956 Ghanaian land case, Nyarko v. Abunyawah, originated in the Offinsu Native Court and proceeded through the Asantehene's Court 'A' to the Land Court of the Ashanti Judicial Division. The central issues involved the effect of a rehearing order, res judicata claims based on a prior judgment and arbitration, and the improper admission of hearsay evidence by the plaintiff's representative. The Land Court held that although its February 5, 1955, order did not explicitly set aside lower court judgments, it impliedly did so, requiring a full rehearing. The prior 1951 Asantehene's Court decision did not constitute res judicata as it was based on lack of jurisdiction, not merits. The court also ruled that the plaintiff's representative, Kwabena Kyei, improperly gave hearsay evidence as if he were the plaintiff, violating evidentiary rules under Section 20 of the Native Courts (Ashanti) Ordinance, 1951. Consequently, the appeal was allowed, the Asantehene's Court's judgment was set aside, and the plaintiff was non-suited with liberty to bring a fresh action.",
+  "legalKeywords": [
+    "res judicata",
+    "hearsay evidence",
+    "rehearing order",
+    "Native Courts Ordinance",
+    "representation in court",
+    "jurisdiction",
+    "evidentiary rules",
+    "non-suit",
+    "appellate order",
+    "land dispute",
+    "tribal arbitration",
+    "legal practitioner prohibition",
+    "burden of proof",
+    "traditional evidence",
+    "authorized representative"
+  ],
+  "topics": [
+    "Land Law",
+    "Evidence Law",
+    "Appellate Procedure",
+    "Native Courts",
+    "Res Judicata"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Benson J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Land Court of the Ashanti Judicial Division",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Land Dispute",
+  "citations": [
+    "Native Courts (Ashanti) Ordinance, c. 99 of 1951, s. 20",
+    "Native Courts (Northern Territories) Ordinance, c. 104 of 1951, s. 20",
+    "Native Courts (Colony) Ordinance, c. 98 of 1951, s. 22",
+    "Native Courts (Southern Section of Togoland) Ordinance, c. 106 of 1951, s. 22"
+  ],
+  "rationaleHighlights": [
+    "The Land Court's rehearing order impliedly set aside prior judgments despite not stating so explicitly.",
+    "A decision based on lack of jurisdiction does not constitute res judicata on the merits.",
+    "Representatives before Native Courts cannot give hearsay evidence as if they were the principal party.",
+    "Courts must consider all evidence and legal objections during a rehearing, not limit themselves to specific points.",
+    "Hearsay evidence given by the plaintiff's representative was inadmissible and vitiated the judgment.",
+    "The plaintiff failed to meet the burden of proof once inadmissible evidence was disregarded.",
+    "The court has authority to vary lower court judgments and order non-suit where evidence is insufficient.",
+    "Costs were awarded to the defendant across all court levels due to the erroneous reversal in favor of the plaintiff."
+  ],
+  "confidenceNotes": "The summary and analysis are based on a clear and complete judicial opinion from the Land Court of the Ashanti Judicial Division. All key legal issues, holdings, and procedural history are explicitly stated in the judgment, ensuring high factual accuracy. The case is well-documented with direct citations to statutory provisions and prior rulings.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/NYARKO v. ABUNYAWAH..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:59:32.992Z",
+    "plainTextLength": 12334
+  }
+}

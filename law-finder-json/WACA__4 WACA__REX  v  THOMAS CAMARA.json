@@ -1,0 +1,69 @@
+{
+  "caseTitle": "REX v THOMAS CAMARA",
+  "summary": "The appellant, Thomas Camara, a public officer, was convicted in the Provincial Court of South Bank Province on three counts of extortion under section 87 of the Criminal Code. He was initially sentenced to six months' imprisonment with hard labor and a fine, with an additional six months in default, to run consecutively. The Supreme Court upheld the convictions but reduced the sentences to four months each, to run concurrently. On appeal to the West Africa Court of Appeal, the appellant challenged the convictions on grounds of trial irregularities and inadmissible evidence. The Court dismissed the appeal, holding that the trial procedure complied with section 113 of the Criminal Procedure Code, the single sentence did not vitiate the trial as it was corrected on appeal, and the evidence—including that of Dr. Bright-Richards and general complaints about staff conduct—was properly admitted. The Court found no prejudice to the appellant and affirmed the convictions.",
+  "legalKeywords": [
+    "extortion",
+    "public officer",
+    "irregular trial",
+    "admissible evidence",
+    "cross-examination",
+    "conviction",
+    "sentence variation",
+    "Criminal Code",
+    "Criminal Procedure Code",
+    "previous complaints",
+    "judicial discretion",
+    "fair trial",
+    "appellate review",
+    "supervisory jurisdiction",
+    "prosecution"
+  ],
+  "topics": [
+    "criminal law",
+    "appellate procedure",
+    "evidence admissibility",
+    "judicial conduct",
+    "public corruption"
+  ],
+  "verdict": "Appeal dismissed; convictions upheld.",
+  "winningSide": "Prosecution (Rex)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Webb",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "section 87 of the Criminal Code",
+    "section 113 of the Criminal Procedure Code"
+  ],
+  "rationaleHighlights": [
+    "Trial procedure followed section 113 of the Criminal Procedure Code",
+    "Single sentence irregularity cured on appeal",
+    "Defendant requested the court-called witness, thus no prejudice",
+    "Evidence of general complaints admissible, not specific prior offenses",
+    "No substantial legal error affecting conviction"
+  ],
+  "confidenceNotes": "High confidence in extraction; all details are explicitly stated in the document.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX  v  THOMAS CAMARA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:59:37.556Z",
+    "plainTextLength": 4904
+  },
+  "trialDate": "1938-03-12"
+}

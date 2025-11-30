@@ -1,0 +1,61 @@
+{
+  "caseTitle": "BIEI AND OTHERS VERSUS AKOMEA AND OTHERS.",
+  "summary": "This 1956 Ghanaian land case involved a dispute over the ownership of stool land sold to a purchasing company in 1920 by the Odikro of Nsutam. The plaintiffs, members of the company, had been in continuous possession and cultivation of the land since purchase. The defendant stools argued the sale was void under customary law for lacking Okyenhene's consent and that a prior tribunal judgment against Anobi, a member of the company, estopped the plaintiffs. The Native Court ruled for the defendants, citing customary rules. On appeal, Lingley J. of the Supreme Court reversed the decision, holding that the prior judgment did not bind the entire company and that customary principles could not override general legal principles and equitable considerations, especially given the long-standing possession and development of the land.",
+  "legalKeywords": [
+    "stool land",
+    "customary law",
+    "estoppel",
+    "native law",
+    "land ownership",
+    "sale of land",
+    "possession",
+    "Okyenhene",
+    "Odikro",
+    "injunction",
+    "tribunal judgment",
+    "equity",
+    "purchasing company",
+    "consent",
+    "jurisdiction"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Property Rights",
+    "Judicial Estoppel",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Lingley J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Gold Coast",
+    "country": "Ghana"
+  },
+  "caseType": "Land dispute under native/customary law",
+  "citations": [
+    "BIEI AND OTHERS v. AKOMEA AND OTHERS",
+    "Sintirn v. Apeatu (1934) 2 W.A.C.A. 197"
+  ],
+  "rationaleHighlights": [
+    "Anobi was not sued in a representative capacity, so the judgment against him did not bind the entire purchasing company.",
+    "Customary rules cannot be applied without qualification where equity and long possession are involved.",
+    "The plaintiffs had paid for the land and cultivated it since 1920 without challenge.",
+    "Local customs cannot override general legal principles in modern conditions.",
+    "The trial court's judgment was perverse given the accepted facts.",
+    "Equity favors protecting long-term possessors who have improved the land."
+  ],
+  "confidenceNotes": "High confidence; details are clearly stated in the judgment and editorial note, with explicit reasoning from the presiding judge and reference to prior authority.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/BIEI AND OTHERS v. AKOMEA AND OTHERS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:13:32.808Z",
+    "plainTextLength": 6979
+  }
+}

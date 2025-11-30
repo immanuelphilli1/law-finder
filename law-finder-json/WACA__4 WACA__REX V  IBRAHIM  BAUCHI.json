@@ -1,0 +1,64 @@
+{
+  "caseTitle": "REX V IBRAHIM BAUCHI",
+  "summary": "This 1938 West African Court of Appeal decision arose from a case stated by the High Court concerning the admissibility of previous convictions under Section 417(c) of the Criminal Code in relation to possession at night of instruments of housebreaking. The appellate court held that while a judge may be informed of prior convictions (as they are not subject to the same evidentiary restrictions as a jury), such convictions must not be disclosed to a jury unless legally permissible or an essential element of the offence. The court affirmed that an accused must be notified before pleading if prior convictions will be used to justify an enhanced sentence. It further ruled that a formal written notice practice, while unobjectionable, is unnecessary provided proper procedural notice is given. The court upheld sub-paragraph (b) of the lower court's ruling as correct in law but rejected sub-paragraph (a) for incorrectly applying jury-based evidentiary rules to judicial proceedings.",
+  "legalKeywords": [
+    "previous conviction",
+    "admissibility of evidence",
+    "enhanced penalty",
+    "criminal sentencing",
+    "notice to accused",
+    "housebreaking",
+    "Section 417(c) Criminal Code",
+    "jury",
+    "judge as trier of fact",
+    "case stated",
+    "appellate opinion"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence",
+    "Sentencing",
+    "Appellate Procedure",
+    "Legal Notice"
+  ],
+  "verdict": "The appeal was allowed in part; sub-paragraph (b) was upheld, while sub-paragraph (a) was corrected.",
+  "winningSide": "Appellant (Crown) on the point of law regarding admissibility to the court vs. jury distinction",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J.",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Butler Lloyd",
+      "role": "Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Ibrahim Bauchi, WACA/4, 12th January 1938"
+  ],
+  "rationaleHighlights": [
+    "Previous convictions must not be disclosed to the jury unless permitted by law or essential to the offence.",
+    "The judge may be aware of previous convictions as they are not bound by jury rules of evidence.",
+    "Accused must be informed before pleading if prior convictions will be used for enhanced sentencing.",
+    "Written notice of intent to use prior convictions is unnecessary if proper procedural notice is given.",
+    "Sub-paragraph (b) correctly states the law; sub-paragraph (a) is incorrect for conflating jury and judicial roles."
+  ],
+  "confidenceNotes": "High confidence; source is a formal appellate decision with clear judicial reasoning and citation details.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX V  IBRAHIM  BAUCHI.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:58:24.469Z",
+    "plainTextLength": 3127
+  },
+  "trialDate": "1938-01-12"
+}

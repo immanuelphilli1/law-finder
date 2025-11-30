@@ -1,0 +1,71 @@
+{
+  "caseTitle": "SULE NOIBI, YAKUBU",
+  "summary": "This 1934 West Africa Court of Appeal case centered on a dispute over control of a mosque in Aroloya Street, Lagos, between two Muslim groups: the Alqurani Muslims, who believe solely in the Koran, and the Ahmadis. The land for the mosque was originally conveyed in 1879 to Alimami Ali Afanya and his successors as head priests, and to all Alqurani Muslims worshipping there, for the purpose of establishing a place of worship according to their beliefs. The defendants claimed that in 1921, the entire community converted to the Ahmadi movement, thereby transferring control. However, the court found that the trial judge erred in concluding that all members, without exception, had converted, noting that conversion is a personal act and cannot be effected by proxy. The appellants, who identified as Alqurani Muslims, were found to retain ownership and control rights under the original trust, as no valid legal basis—such as estoppel or prescription—was established to divest them of those rights. The appeal was allowed, restoring the mosque to the Alqurani community.",
+  "legalKeywords": [
+    "mosque control",
+    "religious trust",
+    "conversion by proxy",
+    "estoppel",
+    "property conveyance",
+    "religious freedom",
+    "customary Islamic law",
+    "title to land",
+    "trust beneficiaries",
+    "freedom of worship",
+    "legal title",
+    "adverse possession",
+    "religious identity",
+    "deed interpretation",
+    "original purpose doctrine"
+  ],
+  "topics": [
+    "Religious Property Dispute",
+    "Islamic Law in Colonial Courts",
+    "Trust and Equity",
+    "Freedom of Religion",
+    "Legal Recognition of Religious Groups"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Plaintiffs-Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Deane",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Justice"
+    },
+    {
+      "name": "Butler-Lloyd",
+      "role": "Acting Chief Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "WACA/2 Sule Noibi, Yakubu Abari, Abudu Karimu Durosinsi, Ashia Abibu Lemomu, Imam Junaid Bakare, Buraimoh Igbo and Abudu Lahi Olori v. Imam Kasunmu Ajose, Saka Tinubu and Ashafa Balogun (1934)"
+  ],
+  "rationaleHighlights": [
+    "The original 1879 deed conveyed land specifically to Alqurani Muslims for worship, establishing a trust for their exclusive use.",
+    "Ownership and control must align with the original purpose of the trust.",
+    "Conversion to another sect cannot be binding by proxy; it is a personal and individual act.",
+    "The trial court erred in accepting that the entire community converted without evidence or record.",
+    "Estoppel was not proven, and no prescription or contractual transfer of rights was established.",
+    "The appellants, as self-identified Alqurani Muslims, are entitled to control the mosque consistent with its founding purpose.",
+    "Religious identity at the time of suit determines membership, regardless of past affiliations.",
+    "The court emphasized fidelity to the original trust's intent over later communal changes."
+  ],
+  "confidenceNotes": "High confidence; information is directly extracted from the judgment text, with clear factual and legal reasoning provided by the Chief Justice. Some document truncation occurs near the end, but key holdings and reasoning are preserved.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/SULE NOIBI, YAKUBU.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:18:23.799Z",
+    "plainTextLength": 40737
+  },
+  "trialDate": "1934-11-22"
+}

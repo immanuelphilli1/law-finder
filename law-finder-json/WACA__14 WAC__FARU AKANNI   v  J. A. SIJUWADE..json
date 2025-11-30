@@ -1,0 +1,61 @@
+{
+  "caseTitle": "FARU AKANNI v J. A. SIJUWADE.",
+  "summary": "In this West African Court of Appeal case from 1952, the appellant (Faru Akanni) sued the respondent (J. A. Sijuwade) for damages over interference with two leased rooms. The respondent admitted in his defence that he leased one room to the appellant under a written agreement dated 15th December 1949, which was unstamped. The trial judge non-suited the appellant, ruling that oral evidence of the unstamped agreement’s contents was inadmissible. The Court of Appeal held that since the written agreement was admitted in the pleadings, the case could proceed without formal tender of the document. The appeal was allowed, the judgment set aside, and a new trial ordered, with costs of the appeal and the aborted trial to abide the event of the new trial.",
+  "legalKeywords": [
+    "admission in pleadings",
+    "unstamped document",
+    "oral evidence",
+    "non-suit",
+    "contract law",
+    "lease agreement",
+    "practice and procedure",
+    "evidence admissibility",
+    "written contract",
+    "appellate review"
+  ],
+  "topics": [
+    "Contract Law",
+    "Evidence",
+    "Civil Procedure"
+  ],
+  "verdict": "The appeal was allowed, the judgment of the lower court was set aside, and a new trial was ordered.",
+  "winningSide": "Appellant (Faru Akanni)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Foster-Sutton",
+      "role": "P"
+    },
+    {
+      "name": "de Comarmond",
+      "role": "Ag. C.J. (Nigeria)"
+    },
+    {
+      "name": "Coussey",
+      "role": "J.A."
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "WACA/14",
+    "Faru Akanni v J. A. Sijuwade (1952)"
+  ],
+  "rationaleHighlights": [
+    "An admitted contract in pleadings does not require formal document tender to proceed.",
+    "The trial judge erred in non-suiting the plaintiff based on an unstamped document when its contents were admitted.",
+    "Oral evidence regarding an oral sub-lease was properly admitted.",
+    "The necessity for a new trial arose from judicial error, not the respondent's actions."
+  ],
+  "confidenceNotes": "High confidence; details are drawn directly from the judgment text. The case is historical but legally significant for evidence and contract procedure in common law jurisdictions like Ghana.",
+  "metadata": {
+    "sourcePath": "WACA/14 WAC/FARU AKANNI   v  J. A. SIJUWADE..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T14:40:36.262Z",
+    "plainTextLength": 5836
+  },
+  "trialDate": "1952-05-08"
+}

@@ -1,0 +1,66 @@
+{
+  "caseTitle": "CONCEPT AND PROBLEMS OF PUBLIC ACCOUNTABILITY UNDER GHANA LA",
+  "summary": "This legal analysis by Justice JNK Taylor examines the evolution of public accountability in Ghana across pre-colonial, colonial, and post-independence eras. It defines public accountability as the legal scrutiny of state conduct to enforce compliance with the law, with the judiciary as the key enforcer. The paper highlights limitations, such as the non-justiciability of political acts and legislative immunity. In the pre-colonial era, accountability was weak and based on customary norms. Colonial rule introduced British legal principles, subordinating customary law to 'natural justice, equity and good conscience.' Post-independence, especially after the 1960 Republican Constitution, customary law was fully integrated into national law. Key cases like Re Akoto and Tinieye v The Republic illustrate tensions between executive power and judicial oversight, with Re Akoto's deference to preventive detention later reversed by statutory reform affirming habeas corpus rights.",
+  "legalKeywords": [
+    "public accountability",
+    "rule of law",
+    "judicial review",
+    "constitutional history",
+    "habeas corpus",
+    "preventive detention",
+    "customary law",
+    "non-justiciability",
+    "repugnancy doctrine",
+    "separation of powers",
+    "colonial law",
+    "legal sovereignty",
+    "executive power",
+    "legislative immunity",
+    "constitutionalism"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Judicial Review",
+    "Legal History",
+    "Public Accountability",
+    "Customary Law"
+  ],
+  "verdict": "The paper does not report a judicial verdict but provides a critical legal analysis concluding that public accountability in Ghana has evolved unevenly, constrained by political immunity, judicial restraint, and historical legacies, yet progressively strengthened through constitutional and statutory reforms.",
+  "winningSide": "The principle of public accountability, though historically constrained, is affirmed as a foundational legal ideal progressively realized through judicial and constitutional development.",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Taylor Justice JNK",
+      "role": "Author and Jurist"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "constitutional",
+  "citations": [
+    "Tinieye v The Republic (15 August 1979)",
+    "Re Akoto",
+    "Liversidge v Anderson",
+    "Preventive Detention Act, 1958 (Act 17)",
+    "Habeas Corpus Act 1816",
+    "Bond of 1844",
+    "Supreme Court Ordinance, 1876",
+    "First Republican Constitution (1 July 1960)"
+  ],
+  "rationaleHighlights": [
+    "Public accountability requires judicial scrutiny of state conduct to enforce legality and impose corrective measures.",
+    "Judicial non-justiciability of political questions limits the scope of public accountability.",
+    "The Re Akoto decision exemplified judicial deference to executive power in security matters, later corrected by statutory reform.",
+    "Customary laws were subordinated to British norms during colonialism via the 'repugnancy doctrine', later abolished post-republic.",
+    "Legislators are immune from judicial review for oppressive laws, emphasizing electoral rather than legal accountability."
+  ],
+  "confidenceNotes": "The document is a scholarly legal analysis by a sitting Justice of the Supreme Court of Ghana, lending high authority to the content. However, the source file appears truncated, particularly in the 'Independence Years' section, limiting full contextual analysis of post-1960 developments.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/supreme court rep cases (1)/89 - 90/CONCEPT AND PROBLEMS OF PUBLIC ACCOUNTABILITY UNDER GHANA LA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:20:09.599Z",
+    "plainTextLength": 57700
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "caseTitle": "HARRIET O. ILORI AND OTHERS v CHIEF AKINLOLD OLOTO",
+  "summary": "This West African Court of Appeal decision concerned a claim by Harriet O. Ilori and others to set aside the sale of land at Ebute Metta, originally part of a 1868 grant for Egba refugees. The land had been attached under a writ of fieri facias and sold at public auction as property of the Oloto family. The plaintiffs' father was not shown to hold a 'Glover Ticket' or formal title, but the family had occupied the land for nearly eighty years without challenge. The court, citing Akpan Awo v. Cookey Gam, held that it would be inequitable to disturb such long and undisturbed possession, even in the absence of formal documentation or established tenure. The appeal was dismissed with costs, affirming that equitable principles protect longstanding occupants against enforcement sales where title has not been previously contested.",
+  "legalKeywords": [
+    "land tenure",
+    "fi fa",
+    "writ of fieri facias",
+    "long possession",
+    "undisturbed occupation",
+    "customary law",
+    "equity",
+    "title to land",
+    "Egba refugees",
+    "family land",
+    "adverse possession",
+    "sale of land",
+    "attachment of property",
+    "colonial land grant",
+    "Glover Ticket"
+  ],
+  "topics": [
+    "Land Law",
+    "Equity",
+    "Customary Tenure",
+    "Civil Procedure",
+    "Property Rights"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Baker",
+      "role": "Justice"
+    },
+    {
+      "name": "Brooke",
+      "role": "Justice"
+    },
+    {
+      "name": "Jeffreys",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Akpan Awo v. Cookey Gam 2 N.L.R. 100"
+  ],
+  "rationaleHighlights": [
+    "The court upheld title based on nearly eighty years of undisturbed occupation.",
+    "No evidence that plaintiffs' father held a 'Glover Ticket' or defined tenure.",
+    "Land originally granted for use of Egba refugees in 1868.",
+    "Courts have consistently recognized occupation-based title in this area.",
+    "It would be inequitable to disturb long-standing possession.",
+    "Customary law not formally invoked, but equity guided the decision.",
+    "Appeal dismissed due to lack of challenge to possession over decades."
+  ],
+  "confidenceNotes": "The case is reported in the West African Court of Appeal series with clear judicial reasoning; citation is authoritative. Jurisdictional context is colonial-era West Africa with application to land tenure issues in Lagos, affecting Ghana by precedent.",
+  "metadata": {
+    "sourcePath": "WACA/7 WACA/HARRIET O. ILORI AND OTHERS v CHIEF AKINLOLD OLOTO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:34:17.863Z",
+    "plainTextLength": 3778
+  },
+  "trialDate": "1941-05-08"
+}

@@ -1,0 +1,39 @@
+{
+  "caseTitle": "pages.gif",
+  "summary": "The provided document does not contain a substantive legal decision or case details. It appears to be a copyright notice and table of unreported cases from the Supreme Court of Ghana for 2011, with no actual case content, parties, judgment, or legal reasoning included. As such, no meaningful legal analysis or extraction can be performed.",
+  "legalKeywords": [
+    "Supreme Court",
+    "Ghana",
+    "unreported cases",
+    "copyright notice",
+    "legal database",
+    "judicial records",
+    "case law",
+    "court documents",
+    "judicial transparency",
+    "access to justice"
+  ],
+  "topics": [
+    "Judicial Reporting",
+    "Court Administration"
+  ],
+  "verdict": "Not applicable",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Administrative Notice",
+  "citations": [],
+  "rationaleHighlights": [],
+  "confidenceNotes": "Low confidence due to absence of actual case content; metadata only.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2011/2010.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T17:08:27.988Z",
+    "plainTextLength": 274
+  },
+  "trialDate": "2010-12-01"
+}

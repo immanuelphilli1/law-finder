@@ -1,0 +1,71 @@
+{
+  "caseTitle": "OPANIN KWAME AFREH v. COPYRIGHT SOCIETY OF GHANA",
+  "summary": "The Court of Appeal of Ghana reversed a High Court ruling that denied the Copyright Society of Ghana (COSGA) the right to collect royalties from drinking bar operators for playing recorded music. The appellate court held that the public playing of musical works in commercial establishments such as bars constitutes 'communication to the public' under section 6(1)(c) of the Copyright Law, 1985 (PNDCL 110), thereby entitling authors to royalties. The court emphasized that the Bandrole system purchase tax does not negate the obligation to pay copyright fees, rejecting the argument of double taxation. It clarified that section 6(1)(c), not section 36, governs the issue, and affirmed COSGA's authority under LI 1527 to collect and distribute royalties. The decision aligns Ghanaian law with international standards, particularly the WIPO Performances and Phonograms Treaty (WPPT), recognizing the economic rights of authors.",
+  "legalKeywords": [
+    "copyright",
+    "royalties",
+    "public performance",
+    "musical work",
+    "communication to the public",
+    "collective administration",
+    "economic rights",
+    "licensing",
+    "phonogram",
+    "remuneration",
+    "statutory interpretation",
+    "intellectual property",
+    "COSGA",
+    "Bandrole System",
+    "performance for gain"
+  ],
+  "topics": [
+    "Copyright Law",
+    "Intellectual Property",
+    "Public Performance",
+    "Royalty Payments",
+    "Statutory Interpretation"
+  ],
+  "verdict": "Appeal allowed; High Court ruling set aside; COSGA has legal right to collect royalties from drinking bar operators for public performance of musical works.",
+  "winningSide": "Copyright Society of Ghana (Appellant)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Twumasi, JA.",
+      "role": "author of judgment"
+    },
+    {
+      "name": "Essilfie-Bondzie, JA.",
+      "role": "presiding"
+    },
+    {
+      "name": "Aryeetey, JA.",
+      "role": "member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil appeal",
+  "citations": [
+    "PNDCL 110",
+    "LI 1527",
+    "Boyefio vrs. NTHC Properties Limited (1966-67) SCGLR 531",
+    "World Intellectual Property Organization (WIPO) Performances And Phonograms Treaty (WPPT), Geneva, 1996"
+  ],
+  "rationaleHighlights": [
+    "Playing music in commercial establishments constitutes 'communication to the public' under section 6(1)(c) of PNDCL 110",
+    "Section 6(1)(c) is more relevant than section 36 for determining liability",
+    "Authors have exclusive right to authorize public performance and receive remuneration",
+    "Use of music in bars incentivizes creativity and aligns with international norms (WPPT)",
+    "No double taxation: purchase tax and royalties serve different purposes"
+  ],
+  "confidenceNotes": "The judgment is well-reasoned and directly addresses statutory interpretation; citation to international treaty strengthens legal basis.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/OPANIN KWAME AFREH v. COPYRIGHT SOCIETY OF GHANA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:10:42.958Z",
+    "plainTextLength": 25466
+  },
+  "trialDate": "1996-08-21"
+}

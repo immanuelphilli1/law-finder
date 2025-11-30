@@ -1,0 +1,89 @@
+{
+  "caseTitle": "CHRISTOPHER A. MENSAH v. G.K. OBIRI AND 2 ORS.",
+  "summary": "This Court of Appeal judgment in Christopher A. Mensah v. G.K. Obiri and 2 Others (C.A. No. 1998, 4th May 2000) concerned whether the respondent, Christopher A. Mensah, was entitled to 10% shares allotted under a special resolution dated 3rd August 1986 by the third defendant company. The trial court had ruled in favor of Mensah, ordering the issuance of a share certificate. The appellants challenged the decision on grounds including alleged reliance on estoppel, error in burden of proof, and non-compliance with statutory timelines. The Court of Appeal dismissed the appeal, affirming that statutory filings (CAM1, CAM2, CAM3) under the Companies Code, Act 179—specifically registration of the special resolution, alteration in shareholding, and increase in stated capital—collectively completed the allotment process and conferred membership status on Mensah under Section 30(2). The court held that these acts created a binding contractual effect, and the entries in the register of members were prima facie evidence of payment and entitlement. The appeal was dismissed, and the trial court’s judgment was affirmed with a variation directing issuance of the share certificate within 30 days.",
+  "legalKeywords": [
+    "allotment of shares",
+    "share certificate",
+    "member of company",
+    "Companies Code Act 179",
+    "Section 30",
+    "Section 42",
+    "Section 66",
+    "Section 176",
+    "estoppel",
+    "prima facie evidence",
+    "register of members",
+    "special resolution",
+    "ultra vires",
+    "burden of proof",
+    "issuance of shares",
+    "alteration of share capital",
+    "statutory compliance",
+    "contractual effect",
+    "filing requirements",
+    "judicial affirmation",
+    "Court of Appeal",
+    "Ghana",
+    "corporate law",
+    "shareholder rights",
+    "directors' duties",
+    "registration of shares",
+    "cash consideration",
+    "corporate filings",
+    "judicial variation",
+    "timely compliance"
+  ],
+  "topics": [
+    "Corporate Law",
+    "Shareholders' Rights",
+    "Company Registration",
+    "Appellate Review",
+    "Ghanaian Jurisprudence"
+  ],
+  "verdict": "Appeal dismissed",
+  "winningSide": "Respondent",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Gbadegbe J.A.",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Baddoo J.A.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Ansaah J.A.",
+      "role": "Member of panel"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal, Accra",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Conte v. Kpeglo [1964] GLR 643",
+    "Spitzen v. Chinese Corporation Ltd. (1889) 80 LT 347",
+    "Halsbury's Laws of England, 4th Ed., Vol. 7",
+    "Clark's Case (1878) 8 Ch. D 365",
+    "Pool's Case (1887) 35 Ch. D. 579"
+  ],
+  "rationaleHighlights": [
+    "Statutory filings (CAM1, CAM2, CAM3) completed the allotment process and conferred membership under Section 30(2) of Act 179",
+    "Register of members is prima facie evidence of share ownership and payment",
+    "Estoppel argument dismissed as a mischaracterization of the respondent's case",
+    "Company's acts created a binding contract between the allottee and the company",
+    "Non-filing within 28 days does not invalidate share issuance but may attract sanctions",
+    "Special resolution not challenged as ultra vires, thus valid",
+    "Court varied the order to require share certificate issuance within 30 days"
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct extraction from the judgment text. All legal references, procedural details, and judicial reasoning are explicitly stated in the source document.",
+  "metadata": {
+    "sourcePath": "COURT OF APPEAL/CHRISTOPHER A. MENSAH v. G.K. OBIRI AND 2 ORS..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:40:23.232Z",
+    "plainTextLength": 13131
+  },
+  "trialDate": "2000-05-04"
+}

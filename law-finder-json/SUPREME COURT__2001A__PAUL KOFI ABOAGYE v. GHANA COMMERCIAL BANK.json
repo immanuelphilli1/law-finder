@@ -1,0 +1,86 @@
+{
+  "caseTitle": "PAUL KOFI ABOAGYE v. GHANA COMMERCIAL BANK",
+  "summary": "Paul Kofi Aboagye, an employee of Ghana Commercial Bank, was summarily dismissed on 4th November 1994 without being served formal charges or given an opportunity to defend himself. He filed a claim at the High Court, which ruled in his favor on 28th May 1997, declaring the dismissal ultra vires, null, and void for violating the bank’s Staff Service Rules and the rules of natural justice. The Court of Appeal reversed this decision on 26th November 1998, but Aboagye appealed to the Supreme Court. The central issue was whether the bank’s disciplinary process adhered to procedural fairness and natural justice, particularly audi alteram partem. The Supreme Court considered that the failure to provide a fair hearing, as required under Articles 19 and 23 of the 1992 Constitution and established common law principles, rendered the dismissal unlawful, regardless of whether the bank’s rules explicitly required it.",
+  "legalKeywords": [
+    "natural justice",
+    "audi alteram partem",
+    "ultra vires",
+    "summary dismissal",
+    "procedural fairness",
+    "Staff Service Rules",
+    "disciplinary procedure",
+    "quasi-judicial function",
+    "fair hearing",
+    "constitutional rights",
+    "administrative fairness",
+    "judicial review",
+    "void ab initio",
+    "right to be heard",
+    "employment law"
+  ],
+  "topics": [
+    "Employment Law",
+    "Administrative Law",
+    "Constitutional Law"
+  ],
+  "verdict": "The Supreme Court allowed the appeal, holding that the dismissal of Paul Kofi Aboagye was in breach of the rules of natural justice and the bank's own Staff Service Rules. The decision to dismiss was declared null and void. The Court emphasized that the right to a fair hearing is a constitutional imperative under Articles 19 and 23 of the 1992 Constitution, and that failure to observe this rendered the disciplinary process unlawful.",
+  "winningSide": "Paul Kofi Aboagye (Appellant/Plaintiff)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Joyce Bamford-Addo",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ampeh",
+      "role": "Justice"
+    },
+    {
+      "name": "Adjahbeng",
+      "role": "Justice"
+    },
+    {
+      "name": "Acquah",
+      "role": "Justice"
+    },
+    {
+      "name": "Adzoe",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "Employment Dispute / Judicial Review",
+  "citations": [
+    "Osborn's Concise Law Dictionary",
+    "Spackman v. Plumstead District Board of Works (1885) 10 App. Case P.299",
+    "AG v. Ryan (1980) AC 718",
+    "Fairmount Investments Ltd. v. Secretary of State for the Environment (1976) 1 W.L.R. 1255",
+    "Wiseman v. Bornemann (1971) AC 297",
+    "Abbott v. Sullivan (1952) 1 KB 189",
+    "Tabiri v. Appiah (1987-88) 2 GLR 189",
+    "L'Air Liquide Ghana Ltd. v. Amin and Others (1991) GLR 460",
+    "R v. Sussex Justices; Ex parte McCarthy (1924) 1 KB 256",
+    "Cooper v. Wilson (1937) 2 KB 309"
+  ],
+  "rationaleHighlights": [
+    "The dismissal violated the audi alteram partem rule as the plaintiff was not given notice of charges or an opportunity to be heard.",
+    "The bank's internal Staff Service Rules (Rules 4.1–4.4, 7.3) were not followed, particularly regarding the role of the Disciplinary Committee and the Board’s appellate jurisdiction.",
+    "The Board lacked original jurisdiction to dismiss; its action was both procedurally flawed and ultra vires.",
+    "Natural justice is implied in all administrative decisions affecting fundamental rights, even in the absence of explicit statutory requirements.",
+    "Article 19(3) and Article 23 of the 1992 Constitution guarantee fair hearing and administrative fairness, elevating natural justice to constitutional status.",
+    "Decisions by quasi-judicial bodies that breach natural justice are null and void, not merely voidable.",
+    "Precedents such as L'Air Liquide and Tabiri v. Appiah affirm that non-compliance with fair hearing renders outcomes unlawful.",
+    "The failure to afford a fair hearing fundamentally undermines the legitimacy of any disciplinary outcome, especially dismissal."
+  ],
+  "confidenceNotes": "The document is a published Supreme Court judgment with clear reasoning and citations. All information is derived directly from the text, though minor formatting issues and truncation in the source do not affect key legal conclusions. Attribution of the verdict to the appellant is based on the court's emphasis on violations of natural justice and constitutional rights.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2001A/PAUL KOFI ABOAGYE v. GHANA COMMERCIAL BANK.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:42:22.011Z",
+    "plainTextLength": 74479
+  },
+  "trialDate": "1998-11-26"
+}

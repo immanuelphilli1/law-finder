@@ -1,0 +1,67 @@
+{
+  "caseTitle": "M. ELKALI AND ANOTHER",
+  "summary": "This was a civil appeal before the West Africa Court of Appeal concerning a claim for specific performance or, alternatively, damages for breach of a contract to lease a shop in Ibadan. The plaintiffs relied on an unregistered written agreement (Exhibit 'A') which was admitted by the trial court but challenged on appeal as inadmissible under section 15 of the Land Registration Ordinance, 1924, for failing to register an instrument affecting land. The appellate court held that the agreement constituted an 'instrument' within the meaning of the Ordinance and should have been rejected due to non-registration. Additionally, the court found that the claim for specific performance was barred under section 3A of the Native Lands Acquisition Ordinance, which requires the Governor's written approval for alien land transactions—approval that was neither obtained nor sought. Although the defendant may have had a duty not to obstruct approval, no such breach was alleged or proven, so the damages claim also failed. The appeal was allowed, the judgment below was set aside, and the plaintiffs' claim was dismissed with costs awarded to the appellant.",
+  "legalKeywords": [
+    "breach of contract",
+    "specific performance",
+    "non-registration of document",
+    "Land Registration Ordinance",
+    "Native Lands Acquisition Ordinance",
+    "admissibility of evidence",
+    "alien land rights",
+    "government approval",
+    "contract for lease",
+    "interest in land"
+  ],
+  "topics": [
+    "Contract Law",
+    "Land Law",
+    "Appellate Procedure",
+    "Evidence",
+    "Statutory Interpretation"
+  ],
+  "verdict": "Appeal allowed; judgment of the lower court set aside; plaintiffs' claim dismissed.",
+  "winningSide": "Defendant-Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon, C.J., Nigeria",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Petrides, C.J., Gold Coast",
+      "role": "Judge"
+    },
+    {
+      "name": "Butler Lloyd, J., Nigeria",
+      "role": "Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "civil",
+  "citations": [
+    "Abdallah Jammal v. Namih Saidi and Yesufu Fetuga (11 N.L.R. 86)",
+    "Native Lands Acquisition Ordinance, Cap. 89",
+    "Land Registration Ordinance, 1924 (No. 36 of 1924)",
+    "Ordinance No. 5 of 1938"
+  ],
+  "rationaleHighlights": [
+    "Document not registered under Land Registration Ordinance, 1924, hence inadmissible under s.15",
+    "Agreement for lease constitutes an instrument affecting land",
+    "No specific performance due to lack of Governor's approval under s.3A of Native Lands Acquisition Ordinance",
+    "Claim for damages fails as no breach of duty to obtain approval was alleged or proven",
+    "Judgment based on inadmissible document must be set aside",
+    "Appeal allowed on both grounds: admissibility and statutory bar"
+  ],
+  "confidenceNotes": "High confidence; all key details such as jurisdiction, parties, legal reasoning, and outcome are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/M. ELKALI AND ANOTHER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:02:52.580Z",
+    "plainTextLength": 9543
+  },
+  "trialDate": "1940-10-30"
+}

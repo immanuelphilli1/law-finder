@@ -1,0 +1,78 @@
+{
+  "caseTitle": "INTERLOCUTORY MATTERS VERSUS INTRODUCTION",
+  "summary": "This judicial commentary by Osei-Hwere P addresses interlocutory matters in Ghanaian civil procedure, emphasizing the responsible exercise of judicial discretion. It explores procedural issues such as renewal of writs, substituted service, and interim injunctions, highlighting the need for judges to consider social consequences, especially in high-profile contexts like football league disputes. The author critiques the lack of formal judicial training and advocates for structured education. Legal principles from English and Ghanaian cases are cited to illustrate when discretion should be applied, particularly in extending limitation periods or allowing procedural relaxations. The commentary also reviews appellate standards for reviewing discretionary orders and calls for modernizing Ghana's limitation laws to align with more equitable frameworks like the UK's Limitation Act 1975 s 2D.",
+  "legalKeywords": [
+    "interlocutory matters",
+    "discretion",
+    "renewal of writ",
+    "substituted service",
+    "limitation period",
+    "equity",
+    "judicial training",
+    "injunction",
+    "ex parte application",
+    "social implications",
+    "appellate review",
+    "service of process",
+    "amendment of pleadings",
+    "discovery",
+    "court procedure"
+  ],
+  "topics": [
+    "Civil Procedure",
+    "Judicial Discretion",
+    "Limitation of Actions",
+    "Interlocutory Injunctions",
+    "Legal Reform"
+  ],
+  "verdict": "Not applicable – this is a judicial commentary, not a case decision.",
+  "winningSide": "Not applicable",
+  "prosecutionType": "unknown",
+  "judges": [
+    {
+      "name": "Osei-Hwere P",
+      "role": "authoring judge"
+    },
+    {
+      "name": "Kerr J",
+      "role": "trial judge"
+    },
+    {
+      "name": "Megaw J",
+      "role": "judge"
+    },
+    {
+      "name": "Court of Appeal",
+      "role": "appellate panel"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "judicial commentary",
+  "citations": [
+    "Yaw Buabeng v Kwaku Forkuo, Civil Appeal No 110/68",
+    "Evans v Barthlam [1937] AC 473",
+    "Charles Osenton & Company v Johnston [1942] AC 130",
+    "Young v Thomas [1892] 2 Ch 134",
+    "Easy v Universal Anchorage Co, Ltd [1974] 2 All ER 1104",
+    "Heaven v Road and Rail Wagons Ltd [1965] 2 QB 355",
+    "Firman v Ellis [1978] 2 All ER 851",
+    "Musah Nanyame v Alhaji Moro Awudu, Civil Appeal No 4/83"
+  ],
+  "rationaleHighlights": [
+    "Discretion must be exercised judicially, according to justice and right reason.",
+    "Interim injunctions in sports disputes may cause public disruption and should be granted cautiously.",
+    "Renewal of writ requires exceptional circumstances, especially where limitation periods are affected.",
+    "Section 2D of the English Limitation Act 1975 provides broader equitable discretion than Ghana's NRCD 54 s 23.",
+    "Speaking orders in interlocutory matters increase appellate scrutiny risk."
+  ],
+  "confidenceNotes": "The document is a judicial commentary rather than a full case judgment, so some details like verdict and winning side are not applicable. Information extracted is based on authoritative legal references and judicial reasoning presented.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/87 - 88/MISCELLANY-AT-LAW INTERLOCUTORY MATTERS [1987-88] VOL. XVI R.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:01:02.710Z",
+    "plainTextLength": 34477
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "caseTitle": "ENTERPRISE INSURANCE COMPANY LTD VRS ALBERT ADOMAKO SCANTRA",
+  "summary": "The case of Enterprise Insurance Company Ltd v. Albert Adomako Scantravel Ghana Ltd centered on the enforcement of a renewal clause in a 25-year sub-lease agreement dated 18th June 1971, under which Consortium House Ltd (a subsidiary of Enterprise Insurance) was granted a peppercorn lease of land on High Street, Accra. The plaintiffs sought a declaration that they were entitled to renew the lease and specific performance of the renewal terms. A key issue was whether Enterprise Insurance, after acquiring all shares in Consortium House Ltd in 1994, could enforce the renewal right despite plans for the subsidiary's liquidation. The defendant argued the transaction was structured to avoid capital gains tax and included an intention to liquidate the company, thereby extinguishing the leasehold right. The Supreme Court examined correspondence, particularly Exhibit H, and concluded that the renewal right vested in the corporate entity, Consortium House Ltd, and could be enforced so long as it remained in existence and compliant with lease terms. The Court upheld the plaintiffs' entitlement to renewal, emphasizing that the decision to liquidate was not mandatory and had not yet occurred.",
+  "legalKeywords": [
+    "renewal clause",
+    "peppercorn rent",
+    "specific performance",
+    "leasehold rights",
+    "corporate succession",
+    "voluntary liquidation",
+    "capital gains tax avoidance",
+    "sub-lease agreement",
+    "contract interpretation",
+    "benefit of lease",
+    "successor in title",
+    "corporate entity",
+    "notice of renewal",
+    "stipulations in lease",
+    "winding up of company"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Corporate Law",
+    "Tax Avoidance",
+    "Specific Performance"
+  ],
+  "verdict": "The Supreme Court ruled in favor of the plaintiffs, affirming their right to renewal of the sub-lease.",
+  "winningSide": "Plaintiffs/Respondents",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah",
+      "role": "Delivered the unanimous judgment"
+    },
+    {
+      "name": "Akuffo (Ms)",
+      "role": "Presiding Justice"
+    },
+    {
+      "name": "Adinyira (Mrs)",
+      "role": "Justice"
+    },
+    {
+      "name": "Baffoe-Bonnie",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebe",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "Civil Appeal No. J4/4/2010",
+    "Exhibit H"
+  ],
+  "rationaleHighlights": [
+    "The renewal clause in the sub-lease was binding and enforceable upon compliance with its conditions.",
+    "The right to renewal belonged to the corporate entity, Consortium House Ltd, not its shareholders.",
+    "The intention to liquidate the company was not automatic and had not been executed.",
+    "Enterprise Insurance, as sole shareholder, had no obligation to liquidate the subsidiary.",
+    "The structure of the share transfer was valid and did not negate lease rights.",
+    "The plaintiffs fulfilled the notice and performance requirements under Clause 4(iii) of the sub-lease.",
+    "Tax avoidance through share transfer did not invalidate the contractual arrangement.",
+    "The court emphasized the sanctity of lease agreements and corporate continuity."
+  ],
+  "confidenceNotes": "The summary is based on a detailed judicial opinion with clear citation of evidence, including Exhibit H and correspondence. The Court's unanimous decision and explicit reasoning support high confidence in accuracy.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2010/ENTERPRISE INSURANCE COMPANY LTD  VRS ALBERT ADOMAKO SCANTRA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:49:22.782Z",
+    "plainTextLength": 47143
+  },
+  "trialDate": "2010-04-04"
+}

@@ -1,0 +1,89 @@
+{
+  "caseTitle": "THE REPUBLIC VRS HIGH COURT,ACCRA EX-PARTE ATTORNEY GENERAL KENNEDY OHENE AGYAPONG",
+  "summary": "The Supreme Court of Ghana dismissed an application by the Attorney-General for a writ of certiorari to quash proceedings in the High Court, Accra, in the case of The Republic v Kennedy Ohene Agyapong. The Attorney-General argued that the High Court lacked jurisdiction because committal processes were improperly filed there instead of the District Court. However, the Court emphasized that certiorari is a discretionary remedy and noted that the Attorney-General had initiated the proceedings without objection, thereby acquiescing to the High Court's jurisdiction. Crucially, the Court held that the Attorney-General possessed an adequate alternative remedy through the statutory power of nolle prosequi under section 54 of the Criminal and Other Offences (Procedure) Act, 1960 (Act 30), which could achieve the same result without judicial intervention. The Court also found that allowing the application would constitute an abuse of process and forum shopping. Accordingly, the application was dismissed, reaffirming that discretionary remedies will not be granted where applicants fail to act promptly or have lawful means to resolve the issue themselves.",
+  "legalKeywords": [
+    "certiorari",
+    "discretionary remedy",
+    "nolle prosequi",
+    "jurisdiction",
+    "abuse of process",
+    "alternative remedy",
+    "acquiescence",
+    "waiver",
+    "judicial review",
+    "prerogative writ",
+    "forum shopping",
+    "prosecutorial discretion",
+    "High Court jurisdiction",
+    "criminal procedure",
+    "section 54 Act 30",
+    "section 182 Act 30",
+    "committal proceedings",
+    "bail",
+    "procedural fairness",
+    "equity"
+  ],
+  "topics": [
+    "Judicial Review",
+    "Constitutional Law",
+    "Criminal Procedure",
+    "Administrative Law",
+    "Remedies"
+  ],
+  "verdict": "Application for certiorari dismissed.",
+  "winningSide": "High Court, Accra (respondent); Kennedy Ohene Agyapong (interested party)",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Dr. Date-Bah JSC",
+      "role": "Presiding Judge"
+    },
+    {
+      "name": "Ansa JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Yeboah JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Gbadebe JSC",
+      "role": "Justice"
+    },
+    {
+      "name": "Bamfo (Mrs) JSC",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "judicial review",
+  "citations": [
+    "Republic v High Court, Denu; ex parte Agbesi Awusu II (No. 2) [2003-2004] 2 SCGLR 907",
+    "Republic v High Court, Accra; ex parte Aryeetey [2003-2004] 1 SCGLR 398",
+    "Republic v High Court, Accra; Ex parte Tetteh Apain [2007-2008] SCGLR 72",
+    "In re Appenteng (Decd); Republic v High Court, Accra (Commercial Division); Ex parte Appenteng [2010] SCGLR 327",
+    "Barraclough v Brown [1897] AC 615",
+    "De Smith, Woolf & Jowell’s Principles of Judicial Review (1999)"
+  ],
+  "rationaleHighlights": [
+    "Certiorari is a discretionary remedy, not a right.",
+    "Existence of an alternative remedy (nolle prosequi) justifies denial of certiorari.",
+    "Applicant's acquiescence and failure to object disentitle them to relief.",
+    "Forum shopping and abuse of process undermine the application.",
+    "Conduct of the applicant affects the court's discretion.",
+    "Prosecutor cannot benefit from their own procedural error.",
+    "Supreme Court declined to rule on jurisdictional merits due to procedural impropriety.",
+    "Nolle prosequi under section 54 of Act 30 provides a sufficient statutory remedy."
+  ],
+  "confidenceNotes": "High confidence in factual accuracy based on direct quotes and consistent legal reasoning from authoritative sources.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2012/THE REPUBLIC  VRS HIGH COURT,ACCRA EX-PARTE ATTORNEY GENERAL KENNEDY OHENE AGYAPONG.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T15:19:57.939Z",
+    "plainTextLength": 16684
+  },
+  "trialDate": "2012-05-16"
+}

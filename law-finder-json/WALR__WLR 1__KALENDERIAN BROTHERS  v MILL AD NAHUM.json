@@ -1,0 +1,65 @@
+{
+  "caseTitle": "KALENDERIAN BROTHERS v MILL AD NAHUM",
+  "summary": "This 1955 West African Court of Appeal decision arose from a dispute over the interpretation of an agreement for the sale of a house in Kumasi, Gold Coast (now Ghana). The appellant, Osei Yaw, sued for specific performance of the agreement or, alternatively, the return of funds paid. The agreement specified a purchase price of £3,800, with the amount to be paid into court to settle a judgment debt of £2,556 and costs, and the balance to be drawn by the vendor, Opei Kumai. The vendor argued that the purchase price should be interpreted as £4,800, including a pre-existing mortgage debt of £1,000 owed to the purchaser. The court held that the agreement was unambiguous and that extrinsic evidence could not be admitted to vary its clear terms. The appeal was allowed, the lower court’s judgment was set aside, and the counterclaim dismissed.",
+  "legalKeywords": [
+    "specific performance",
+    "agreement for sale",
+    "extrinsic evidence",
+    "ambiguity in contract",
+    "parol evidence rule",
+    "mortgage debt",
+    "judgment debt",
+    "contract interpretation",
+    "written instrument",
+    "intention of parties",
+    "sale of property",
+    "Gold Coast law",
+    "West African Court of Appeal"
+  ],
+  "topics": [
+    "Contract Law",
+    "Property Law",
+    "Evidence Law"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Appellant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Korsah Ag.C.J.",
+      "role": "Delivered judgment"
+    },
+    {
+      "name": "Foster-Sutton P.",
+      "role": "Concurred"
+    },
+    {
+      "name": "Coussey J.A.",
+      "role": "Concurred"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West African Court of Appeal",
+    "country": "Gold Coast (now Ghana)"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "North Eastern Railway v. Hastings [1900] A.C. 263"
+  ],
+  "rationaleHighlights": [
+    "The agreement for sale was clear and unambiguous on its face.",
+    "The expressed intention of the parties was evident from the document.",
+    "Extrinsic evidence is inadmissible to vary the terms of a clear written agreement.",
+    "No reference was made in the agreement to the mortgage debt of £1,000.",
+    "The court must interpret written instruments based on their plain language.",
+    "The trial judge erred in considering extrinsic evidence despite finding the agreement expressed the parties' intention.",
+    "Importing an additional £1,000 into the purchase price would distort the agreement's terms."
+  ],
+  "confidenceNotes": "High confidence; the judgment is clear, well-reasoned, and based on established principles of contract interpretation. The case is correctly identified as a civil appeal from the Gold Coast era, with authoritative citation to English precedent.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/KALENDERIAN BROTHERS  v MILL AD NAHUM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:07:42.669Z",
+    "plainTextLength": 6898
+  }
+}

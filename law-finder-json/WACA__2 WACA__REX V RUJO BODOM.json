@@ -1,0 +1,72 @@
+{
+  "caseTitle": "REX V RUJO BODOM",
+  "summary": "In Rex v Rujo Bodom (1935, WACA/2), four appellants were convicted of murder at the Assizes in Kumasi based partly on confessions and admissions obtained after they had been severely beaten and tied up in their village to extract confessions. The West Africa Court of Appeal quashed the convictions, holding that the confessions were inadmissible because they were induced by violence and influence from a person in authority. Additionally, the court found that the trial judge misdirected the assessors by failing to clarify that each confession was only evidence against the individual who made it, not against co-accused. The court also condemned the police practice of taking accused persons back to the crime scene to obtain admissions, deeming it contrary to fundamental principles of justice. The appeal was allowed and the convictions set aside.",
+  "legalKeywords": [
+    "admissibility of confessions",
+    "induced confession",
+    "police misconduct",
+    "misdirection",
+    "assessors",
+    "right against self-incrimination",
+    "evidence law",
+    "criminal procedure",
+    "murder trial",
+    "unlawful beating",
+    "confession to police",
+    "locus in quo",
+    "trial fairness",
+    "appellate review",
+    "Gold Coast legal history"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Evidence",
+    "Human Rights",
+    "Appellate Procedure",
+    "Police Conduct"
+  ],
+  "verdict": "Convictions quashed on appeal due to inadmissible evidence and judicial misdirection.",
+  "winningSide": "Appellants",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Cor. Yates",
+      "role": "Acting Chief Justice"
+    },
+    {
+      "name": "Kingdon",
+      "role": "Justice"
+    },
+    {
+      "name": "Webber",
+      "role": "Justice"
+    },
+    {
+      "name": "Bannerman",
+      "role": "Trial Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Rujo Bodom, WACA/2, Accra, 21st December, 1935"
+  ],
+  "rationaleHighlights": [
+    "Confessions obtained after physical beatings and inducement by persons in authority are inadmissible.",
+    "Admissions made at the locus in quo under coercive conditions violate principles of justice.",
+    "Failure to instruct assessors that confessions apply only to the maker constitutes misdirection.",
+    "Police duty is to take suspects to station, not to extract evidence at crime scene.",
+    "Convictions based on inadmissible evidence must be quashed."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment text.",
+  "metadata": {
+    "sourcePath": "WACA/2 WACA/REX V RUJO BODOM.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:19:24.778Z",
+    "plainTextLength": 4879
+  },
+  "trialDate": "1935-12-21"
+}

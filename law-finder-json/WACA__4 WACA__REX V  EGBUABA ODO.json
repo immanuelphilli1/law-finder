@@ -1,0 +1,68 @@
+{
+  "caseTitle": "REX V EGBUABA ODO",
+  "summary": "The appellants, Egbuaba Odo and Ogbu Nwegbuaba, were convicted in the High Court for attempting to pervert justice under section 126(2) of the Criminal Code by placing charms or 'jujus' in the Idodo Native Court House to influence the District Officer and court members in their favor during a pending suit. The West Africa Court of Appeal allowed the appeal, quashing the convictions. The court held that the evidence was insufficient to sustain the conviction under section 126(2), as the act of placing a black powder (deemed a charm) was not inherently dangerous or offensive. The court emphasized that holding a belief—superstitious or otherwise—in the efficacy of such acts to influence judicial outcomes does not render the act criminal. Furthermore, the appellate court found that the trial judge improperly relied on the record of a prior Native Court proceeding, where the appellants had been charged with bringing illicit medicine into the court, which was inadmissible in the High Court trial. Because this extraneous material influenced the trial judge's assessment of the seriousness of the offence, the conviction could not stand. The court directed that judgments of acquittal be entered.",
+  "legalKeywords": [
+    "attempt to pervert justice",
+    "section 126(2) Criminal Code",
+    "insufficient evidence",
+    "supernatural influence",
+    "native court",
+    "obstruction of justice",
+    "charms",
+    "jujus",
+    "magic powder",
+    "acquittal",
+    "exemplary sentence",
+    "ultra vires",
+    "criminal intent",
+    "self-help",
+    "belief in superstition"
+  ],
+  "topics": [
+    "Criminal Law",
+    "Judicial Procedure",
+    "Evidence",
+    "Appeal",
+    "Freedom of Belief"
+  ],
+  "verdict": "Convictions quashed; acquittals ordered.",
+  "winningSide": "Appellants",
+  "prosecutionType": "state",
+  "judges": [
+    {
+      "name": "Kingdon, C.J.",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Carey",
+      "role": "Justice"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "criminal",
+  "citations": [
+    "Rex v Egbuaba Odo, WACA/4 WACA/REX V EGBUABA ODO.htm",
+    "Criminal Code, s 126(2)"
+  ],
+  "rationaleHighlights": [
+    "The conviction was based partly on evidence from a Native Court trial, which is inadmissible in the High Court.",
+    "An act must be dangerous or offensive to constitute an offence under s 126(2); placing harmless charms does not meet this threshold.",
+    "Belief in supernatural influence, even if based on superstition, does not criminalize intrinsically innocuous acts.",
+    "The trial judge was improperly influenced by the Native Court record, rendering the conviction unsafe."
+  ],
+  "confidenceNotes": "High confidence; details are explicitly stated in the judgment with clear references to the charge, evidence, and legal reasoning.",
+  "metadata": {
+    "sourcePath": "WACA/4 WACA/REX V  EGBUABA ODO.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:58:42.872Z",
+    "plainTextLength": 6390
+  },
+  "trialDate": "1938-05-14"
+}

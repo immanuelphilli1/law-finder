@@ -1,0 +1,66 @@
+{
+  "caseTitle": "FABUNMISULE LARINDE",
+  "summary": "This 1940 West Africa Court of Appeal decision arose from a civil claim by Fabunmisule Larinde and others against Salami Afiko and Oseni Debary for tribute and damages for reaping palm nuts on land in Odi Olowo village, Lagos, under Awori customary law. The appellant admitted owing tribute but denied liability for damages, asserting his right as a tenant to harvest palm nuts. The lower court awarded damages, but the appeal succeeded on two grounds. First, the 1925 judgment in Suit No. 10 of 1925, which the respondent himself introduced, had already decided that the appellant, as a tenant, had the right to reap palm nuts—a matter res judicata between the parties. Second, the trial judge misdirected himself by relying on a single 1892 case to establish a customary law restricting palm nut rights to natives, without requiring proper proof through witnesses. The appellate court emphasized that a single decision does not make a custom notorious enough for judicial notice. Consequently, the appeal was allowed, the damages award and associated costs were set aside, and the plaintiff's claim for damages against the first defendant was dismissed, while the tribute payment remained valid. Costs were awarded to the appellant.",
+  "legalKeywords": [
+    "res judicata",
+    "customary law",
+    "proof of custom",
+    "misdirection",
+    "tribunal jurisdiction",
+    "native law and custom",
+    "judicial notice",
+    "land tenure",
+    "tenant rights",
+    "palm nut rights"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Res Judicata",
+    "Appellate Procedure",
+    "Evidence"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendant-Appellant (Salami Afiko)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice, Nigeria"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice, Gold Coast"
+    },
+    {
+      "name": "Graham Paul",
+      "role": "Chief Justice, Sierra Leone"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "Appeal",
+  "citations": [
+    "1925 Suit No. 10 of 1925",
+    "Yesufu Kugbuyi v. Odunjo (1926 VII N.L.R. 51)",
+    "Odu of Ikeja and Akitoye of Ikeja (1892)",
+    "Kobina Angu v. Cudjoe Attah (Gold Coast Reports P.C. 1874-1928)"
+  ],
+  "rationaleHighlights": [
+    "The 1925 judgment constitutes res judicata on the issue of palm nut reaping rights between the same parties.",
+    "The trial judge erred in believing that Yesufu Kugbuyi v. Odunjo reversed the 1925 judgment; it did not, as the parties were different.",
+    "A single 1892 decision does not establish a custom as notorious; customary law must be proven by witness testimony unless frequently proven in court.",
+    "The alleged Awori custom restricting palm nut rights to natives was not properly proven.",
+    "The appeal court reaffirmed that res judicata binds parties even if the prior decision was arguably wrong, absent appellate reversal."
+  ],
+  "confidenceNotes": "High confidence in extraction; all key details (parties, rulings, citations) are explicitly stated in the judgment text.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/FABUNMISULE LARINDE.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T13:06:56.199Z",
+    "plainTextLength": 8260
+  },
+  "trialDate": "1940-04-27"
+}

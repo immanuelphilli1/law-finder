@@ -1,0 +1,82 @@
+{
+  "caseTitle": "CHOU SEN LIN v TONADO ENTERPRISES LTD , T. A. ASIAMAH",
+  "summary": "This Supreme Court of Ghana case involved a land dispute between Chou Sen Lin (plaintiff/appellant) and Tonado Enterprises Ltd and T. A. Asiamah (defendants/respondents) over three plots (LI 1, 2, 3) in Tema. The land was originally leased by the Tema Development Corporation (TDC) to W. C. Tandoh in 1974, who later sold his interest to the plaintiff. The plaintiff developed two plots and sought to protect the third from encroachment by the defendants, who claimed to have acquired plot LI 3 in 1976. The Circuit Court initially ruled for the defendants, but the Court of Appeal reversed, declaring title in favor of the plaintiff. The Supreme Court upheld the Court of Appeal’s decision, finding that the plaintiff’s title, traced to 1974, predated the defendants’ claim. The TDC’s own witness (DW2) admitted the allocation to the defendants was an error. The Court rejected arguments based on ground rent payments and registration, noting they do not override prior valid possession and transfer. The judgment emphasized that corroborated evidence, including from the defendants’ witness, supported the plaintiff’s claim, and reaffirmed the principle of nemo dat quod non habet.",
+  "legalKeywords": [
+    "land dispute",
+    "fraud in land acquisition",
+    "nemo dat quod non habet",
+    "registration of title",
+    "ground rent",
+    "evidence",
+    "corroboration",
+    "Tema Development Corporation",
+    "lease",
+    "encroachment",
+    "declaration of title",
+    "injunction",
+    "appellate review",
+    "weight of evidence",
+    "res judicata"
+  ],
+  "topics": [
+    "Property Law",
+    "Land Title Dispute",
+    "Appellate Jurisdiction",
+    "Evidence Law",
+    "Fraud in Transactions"
+  ],
+  "verdict": "Appeal dismissed; decision of the Court of Appeal upheld in favor of the plaintiff.",
+  "winningSide": "Chou Sen Lin (Plaintiff/Appellant/Respondent)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Brobbey, J.S.C.",
+      "role": "Delivering judgment"
+    },
+    {
+      "name": "Miss Akuffo, J.S.C.",
+      "role": "Presiding"
+    },
+    {
+      "name": "Dr. Date-Bah, J.S.C.",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Ansa, J.S.C.",
+      "role": "Member of bench"
+    },
+    {
+      "name": "Mrs. Adinyira, J.S.C.",
+      "role": "Member of bench"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court",
+    "country": "Ghana"
+  },
+  "caseType": "civil land dispute",
+  "citations": [
+    "Odoi v Hammond [1971] 1 GLR 375",
+    "R. T. Briscoe v. Preko [1964] GLR 322",
+    "Esso Petroleum Co. Ltd v South Port Corp [1956] A.C. 218",
+    "Dam v Addo [1962] 2 GLR 200",
+    "Tsrifo v Dua Vlll [1959] GLR 63",
+    "Osei Yaw v Domfeh [1965] GLR 418",
+    "Tema Development Corporation v Atta Barfour [2005-2006] SCGLR 121",
+    "Afordi v Ghana Publishing Corporation [2005-2006] SCGLR 1104"
+  ],
+  "rationaleHighlights": [
+    "Plaintiff's acquisition traced to 1974 through prior lease to Tandoh, predating defendants' 1976 claim",
+    "Defendants' acquisition was an error per TDC's own witness (DW2)",
+    "Payment of ground rent does not conclusively prove ownership",
+    "Registration does not benefit a party with notice of prior possession",
+    "Corroborated evidence favored plaintiff, including testimony from defendants' own witness"
+  ],
+  "confidenceNotes": "High confidence; all key details such as parties, court, judgment, and legal reasoning are clearly stated in the document. The case is a reported Supreme Court decision with full judicial reasoning.",
+  "metadata": {
+    "sourcePath": "SUPREME COURT/2007A/CHOU SEN LIN  v  TONADO ENTERPRISES LTD , T. A. ASIAMAH.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T16:20:56.941Z",
+    "plainTextLength": 16688
+  }
+}

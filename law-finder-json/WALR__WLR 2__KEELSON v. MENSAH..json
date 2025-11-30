@@ -1,0 +1,60 @@
+{
+  "caseTitle": "KEELSON VERSUS MENSAH.",
+  "summary": "In Keelson v. Mensah, the plaintiff, as head of the Twidan Stool family, sued the defendant, as head of the Adwinadze family, to reclaim ancestral land (Adasemadze) granted historically through a usufructuary gift based on familial brotherhood. The Native Court initially ruled for the plaintiff, citing the defendant's failure to prove title and acknowledging the land was originally gifted. However, on appeal, the Supreme Court of Ghana held that the plaintiff failed to prove the defendant was the head of his family, a necessary condition for suit over family property. Additionally, the court found insufficient evidence that the familial ties had been broken to constitute waste or forfeiture. The appellate court thus set aside the lower court's judgment and dismissed the plaintiff's claim, awarding costs to the defendant.",
+  "legalKeywords": [
+    "family property",
+    "usufructuary gift",
+    "forfeiture of land",
+    "headship of family",
+    "native law and custom",
+    "determinable estate",
+    "waste in land tenure",
+    "burden of proof",
+    "customary observances",
+    "reversion of land",
+    "funeral rites obligation",
+    "ancestral land",
+    "family ties",
+    "land inspection",
+    "title to land"
+  ],
+  "topics": [
+    "Customary Law",
+    "Land Tenure",
+    "Family Property Disputes",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of Ghana, Central Judicial Division, Land Court, Cape Coast",
+    "country": "Ghana"
+  },
+  "caseType": "Civil Appeal",
+  "citations": [
+    "WALR/WLR 2/KEELSON v. MENSAH"
+  ],
+  "rationaleHighlights": [
+    "Only the head of a family may sue or be sued regarding family property",
+    "Plaintiff failed to prove defendant's headship",
+    "Mere loosening of family ties does not constitute waste justifying forfeiture",
+    "Burden of proof lies with plaintiff to establish title",
+    "Gift of land based on brotherhood does not automatically revert without clear severance",
+    "Native Court misapplied onus of proof",
+    "Insufficient evidence of broken family ties"
+  ],
+  "confidenceNotes": "High confidence; details are clearly documented in the judgment with direct quotes and legal reasoning provided.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 2/KEELSON v. MENSAH..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:28:34.232Z",
+    "plainTextLength": 10094
+  }
+}

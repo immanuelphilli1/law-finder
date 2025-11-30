@@ -1,0 +1,69 @@
+{
+  "caseTitle": "AMEGBE VERSUS TEPA.",
+  "summary": "In Amegbe v. Tepa, the High Court of the Eastern Judicial Division in Ghana considered whether a defamation claim brought before a Native Court involved a 'cause or matter of a constitutional nature' under section 14A of the Native Courts (Southern Togoland) Ordinance, which would remove the Native Court's jurisdiction. The plaintiff, Odikro Amegbe, had previously been confirmed by a competent tribunal as a duly elected and installed chief who had not been deposed. The defendant, Tepa, allegedly published statements challenging Amegbe’s use of the title 'Odikro', warning he would sue to stop it. The High Court held that the prior determination of Amegbe’s chiefly status was a judgment in rem, binding on all parties including Tepa, who had participated in the earlier proceedings. Therefore, the defamation suit was a personal matter, not a constitutional dispute, and fell within the jurisdiction of the Native Court. The application for certiorari was dismissed with costs.",
+  "legalKeywords": [
+    "defamation",
+    "native law and custom",
+    "jurisdiction",
+    "judgment in rem",
+    "constitutional nature",
+    "certiorari",
+    "estoppel by record",
+    "chiefly status",
+    "Native Courts Ordinance",
+    "customary law",
+    "title dispute",
+    "political relations",
+    "innuendo",
+    "slander",
+    "tribunal decision",
+    "deposition of chief",
+    "election of chief",
+    "stool property",
+    "State Councils Ordinance",
+    "Courts Ordinance"
+  ],
+  "topics": [
+    "Defamation",
+    "Customary Law",
+    "Jurisdiction",
+    "Judicial Review",
+    "Chiefly Disputes"
+  ],
+  "verdict": "Application for certiorari refused",
+  "winningSide": "Respondent (Amegbe)",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Ollennu J.",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "High Court, Eastern Judicial Division, Divisional Court",
+    "country": "Ghana"
+  },
+  "caseType": "Civil - Defamation / Jurisdictional Dispute",
+  "citations": [
+    "Native Courts (Southern Togoland) Ordinance, c. 106, s. 14A",
+    "State Councils (Southern Ghana) Ordinance, 1952, s. 5",
+    "Courts Ordinance, s. 88"
+  ],
+  "rationaleHighlights": [
+    "A judgment by a competent tribunal on chiefly status is binding in rem.",
+    "Disputes over titles not recognized in local custom cannot raise constitutional issues.",
+    "Prior participation in a proceeding creates estoppel by record.",
+    "Defamation based on settled status is personal, not constitutional.",
+    "Native Courts have jurisdiction over personal defamation claims.",
+    "Use of a foreign ethnic title (Twi 'Odikro') in an Ewe state does not alter constitutional standing.",
+    "Section 14A excludes constitutional matters, but this case was not one.",
+    "The real issue must be determined from the whole proceedings, not just the writ."
+  ],
+  "confidenceNotes": "High confidence; all key details are explicitly stated in the judgment, including jurisdiction, parties, legal reasoning, and outcome. Citations and definitions are clearly provided in the text.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/AMEGBE v. TEPA.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:16:50.029Z",
+    "plainTextLength": 10174
+  }
+}

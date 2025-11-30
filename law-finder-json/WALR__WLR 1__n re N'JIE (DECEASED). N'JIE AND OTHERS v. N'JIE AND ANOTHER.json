@@ -1,0 +1,67 @@
+{
+  "caseTitle": "AND OTHERS VERSUS N'JIE AND ANOTHER.",
+  "summary": "In this 1956 Gambian Supreme Court case, the plaintiffs sought revocation of letters of administration granted to Mustapha N'Jie for the estate of Machimban N'Jie, who died in 1910. A will dated 1903, discovered only after the death of the last surviving beneficiary in 1953, bequeathed property to joint tenants, with the survivor acquiring full interest. The court held that despite the delayed production and lack of external evidence, the legal maxim 'omnia praesumuntur rite esse acta' applied, presuming proper execution. The will was deemed valid under English law, even though the testator was a Mohammedan, as it was formally executed in English form. The grant of letters of administration was revoked in favor of the will's beneficiaries.",
+  "legalKeywords": [
+    "probate",
+    "letters of administration",
+    "will validity",
+    "presumption of due execution",
+    "revocation",
+    "joint tenancy",
+    "testamentary capacity",
+    "attestation clause",
+    "Mohammedan law",
+    "English law application",
+    "ancient document rule",
+    "evidence aliunde",
+    "custody of will",
+    "testator's intent",
+    "legal maxim",
+    "due execution",
+    "succession law",
+    "foreign law exclusion",
+    "will production delay",
+    "probate proceedings"
+  ],
+  "topics": [
+    "Probate Law",
+    "Succession and Inheritance",
+    "Presumption in Law",
+    "Conflict of Laws",
+    "Wills and Estates"
+  ],
+  "verdict": "The will was upheld as valid and the grant of letters of administration was revoked.",
+  "winningSide": "Plaintiffs",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Miles J",
+      "role": "Presiding Judge"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Supreme Court of the Colony of the Gambia",
+    "country": "Gambia"
+  },
+  "caseType": "Probate Dispute",
+  "citations": [
+    "Davis v. Mayhew [1927] P. 264",
+    "In the Goods of Francis Peverett [1902] P. 205",
+    "Leong and Another v. Lim Beng Chye [1955] P. 648"
+  ],
+  "rationaleHighlights": [
+    "The maxim 'omnia praesumuntur rite esse acta' applies where there is no evidence aliunde and suspicion arises post-execution.",
+    "Delayed production of a will does not invalidate it if found in proper custody.",
+    "A Mohammedan may validly execute a will under English law if the form complies.",
+    "An attestation clause and signature identification support due execution.",
+    "Forgetfulness or misunderstanding of probate necessity can explain non-probate.",
+    "English succession rules apply over Mohammedan law when a formal English-style will exists."
+  ],
+  "confidenceNotes": "High confidence; the judgment is clear, well-reasoned, and supported by authoritative precedents. All key elements are explicitly stated in the text.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 1/n re N'JIE (DECEASED). N'JIE AND OTHERS v. N'JIE AND ANOTHER.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T11:47:29.962Z",
+    "plainTextLength": 12098
+  }
+}

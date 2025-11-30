@@ -1,0 +1,69 @@
+{
+  "caseTitle": "THOMAS HUTTON-MILLS",
+  "summary": "This appeal from a judgment in the Divisional Court at Kumasi concerned a dispute over commission claimed by Thomas Hutton-Mills under a Power of Attorney and Commission Note dated 5th September 1938. The plaintiff-respondent sought 50% of arrears of rent recovered from Offin River Gold Estates Limited, amounting to £1,644 10s. The defendants-appellants, representing various Ashanti stools, argued that the Power of Attorney only authorized the respondent to re-enter and dispose of gold concessions, not to collect outstanding rent arrears. The West Africa Court of Appeal held that the written instruments governed by English law must be strictly construed, and the authority granted did not include recovering past rents. Furthermore, any agreement to pay based on a mistake of law was unenforceable. The court allowed the appeal, setting aside the lower court's judgment.",
+  "legalKeywords": [
+    "Power of Attorney",
+    "contract interpretation",
+    "English law",
+    "mistake of law",
+    "recovery of rent arrears",
+    "strict construction",
+    "oral evidence",
+    "written contract",
+    "commission agreement",
+    "native customary law",
+    "re-entry notice",
+    "concession rights",
+    "account stated",
+    "money had and received",
+    "supersession of oral agreement"
+  ],
+  "topics": [
+    "Contract Law",
+    "Agency",
+    "Property Concessions",
+    "Legal Mistake",
+    "Appellate Review"
+  ],
+  "verdict": "Appeal allowed; judgment of the lower court set aside.",
+  "winningSide": "Defendants-Appellants",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Kingdon",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Petrides",
+      "role": "Chief Justice"
+    },
+    {
+      "name": "Turbett",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "West Africa Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "contract dispute",
+  "citations": [
+    "In re Dowson & Jenks Contract (1904) 2 Ch. 219",
+    "Bank of New Zealand v. Simpson (1900) A.C. 182",
+    "Gough v. Findon (155 E.R. 850)",
+    "Halsbury, 2nd Edition, Vol. 7, p. 321"
+  ],
+  "rationaleHighlights": [
+    "Words with fixed meaning in a written contract cannot be altered by oral evidence.",
+    "Power of Attorney must be strictly construed and does not extend to collecting rent arrears unless explicitly stated.",
+    "A promise made under a mistake of law is not enforceable.",
+    "The Commission Note tied remuneration to consideration obtained from disposal of concessions, not recovery of past rents."
+  ],
+  "confidenceNotes": "High confidence; all key facts and legal principles are explicitly stated in the judgment.",
+  "metadata": {
+    "sourcePath": "WACA/6 WACA/THOMAS HUTTON-MILLS.htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T12:52:57.150Z",
+    "plainTextLength": 34119
+  }
+}

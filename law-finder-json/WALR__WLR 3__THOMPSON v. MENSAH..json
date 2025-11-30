@@ -1,0 +1,81 @@
+{
+  "caseTitle": "THOMPSON VERSUS MENSAH.",
+  "summary": "In Thompson v. Mensah, the plaintiff claimed ownership and possession of land in Accra based on deeds from 1944–1945 derived solely from the Korle We. The land was held under the Ga and Gbese Stools and Korle We, with prior authority requiring consent from all three for an absolute alienation. The plaintiff, having never been in possession, failed to plead reliance on grants from multiple stools. During trial, he introduced deeds dated October 31, 1956, from the Gbese Mantse, purporting to confirm prior grants, but these were inadmissible due to lack of proof of execution and absence of required statutory consents. The Court held that the plaintiff could not rely on unstipulated grantors without amending pleadings, that the deeds could not retrospectively confirm extinguished interests, and that failure to obtain Ga Stool consent invalidated the claim for an absolute estate. Even as to a determinable estate, the claim failed due to lack of assent from the family in possession. The family’s grant to the defendant did not constitute forfeiture, and the stools’ acquiescence barred enforcement. The defendant, being in possession, was entitled to protection. The appeal was dismissed.",
+  "legalKeywords": [
+    "stool land",
+    "native law and custom",
+    "forfeiture",
+    "alienation",
+    "determinable estate",
+    "absolute estate",
+    "consent",
+    "assent",
+    "possession",
+    "title confirmation",
+    "pleading",
+    "amendment",
+    "deed execution",
+    "customary services",
+    "acquiescence",
+    "estoppel",
+    "void vs voidable",
+    "Ga and Gbese Stools",
+    "Korle We",
+    "Kotey family",
+    "Land Court",
+    "usufructuary title"
+  ],
+  "topics": [
+    "Land Law",
+    "Customary Law",
+    "Pleading and Procedure",
+    "Title and Ownership",
+    "Forfeiture"
+  ],
+  "verdict": "Appeal dismissed; plaintiff's claim failed on multiple grounds including defective pleading, lack of required consents, and inadmissible evidence.",
+  "winningSide": "Defendant",
+  "prosecutionType": "civil",
+  "judges": [
+    {
+      "name": "Granville Sharp J.A.",
+      "role": "Justice"
+    },
+    {
+      "name": "Ollennu J.",
+      "role": "Justice"
+    },
+    {
+      "name": "Smith J.",
+      "role": "Justice"
+    }
+  ],
+  "jurisdiction": {
+    "court": "Court of Appeal",
+    "country": "Ghana"
+  },
+  "caseType": "land dispute",
+  "citations": [
+    "Golightly and Another v. Ashrifi and Others (1955) 14 W.A.C.A. 676",
+    "Philipps v. Philipps (1878) 4 Q.B.D. 127",
+    "Adumua-Bossman v. Bannerman, West African Court of Appeal, February 27, 1957, unreported",
+    "Ohvmen v. Adjei (1957) 2 W.A.L.R. 275",
+    "Baidoo v. Osei and Owusu (1958) 3 W.A.L.R. 289"
+  ],
+  "rationaleHighlights": [
+    "Failure to amend pleadings barred reliance on new grantors",
+    "Deeds executed post-hearing and without required consents were void",
+    "Grantees lacked interest at time of purported confirmation, making deeds ineffective",
+    "Alienation of absolute estate required consent of all controlling stools",
+    "Act by family in possession did not amount to denial of title warranting forfeiture",
+    "Acquiescence by stool barred forfeiture claim",
+    "Consent of controlling stool not required for alienation of determinable estate to another stool-subject",
+    "Possession entitled defendant to protection even with defective title"
+  ],
+  "confidenceNotes": "High confidence; all information is directly derived from the judgment text and citations are explicitly referenced.",
+  "metadata": {
+    "sourcePath": "WALR/WLR 3/THOMPSON v. MENSAH..htm",
+    "model": "qwen/qwen3-235b-a22b-2507",
+    "processedAt": "2025-11-28T10:51:40.008Z",
+    "plainTextLength": 31788
+  }
+}
